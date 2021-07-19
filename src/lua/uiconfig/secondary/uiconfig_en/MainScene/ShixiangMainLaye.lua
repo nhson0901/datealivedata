@@ -575,7 +575,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "玩家名称最多八个",
+											text = "Player Name Max 16 Chars",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -584,7 +584,7 @@ local t =
 												PositionY = -16,
 											},
 											vAlignment = "0",
-											width = "148",
+											width = "252",
 											ZOrder = "1",
 										},
 										{
@@ -620,7 +620,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "社团名称最多八个",
+											text = "Club Name 16 Chars",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -629,7 +629,7 @@ local t =
 												PositionY = -38,
 											},
 											vAlignment = "0",
-											width = "148",
+											width = "160",
 											ZOrder = "1",
 										},
 										{
@@ -982,7 +982,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "系统公告：系统公告系统公告系统公告系统公告系统公告系统公告",
+											text = "System Notice",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -991,7 +991,7 @@ local t =
 												PositionY = 13,
 											},
 											vAlignment = "0",
-											width = "583",
+											width = "115",
 											ZOrder = "1",
 										},
 									},
@@ -2302,7 +2302,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "指挥",
+													text = "Command",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -2310,7 +2310,7 @@ local t =
 														PositionY = -24,
 													},
 													vAlignment = "1",
-													width = "43",
+													width = "86",
 													ZOrder = "1",
 												},
 											},
@@ -2436,7 +2436,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "指令",
+													text = "Order",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -2444,7 +2444,7 @@ local t =
 														PositionY = -26,
 													},
 													vAlignment = "1",
-													width = "44",
+													width = "52",
 													ZOrder = "1",
 												},
 											},
@@ -2570,7 +2570,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "图鉴",
+													text = "Gallery",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -2578,7 +2578,7 @@ local t =
 														PositionY = -26,
 													},
 													vAlignment = "1",
-													width = "43",
+													width = "62",
 													ZOrder = "1",
 												},
 											},
@@ -3526,7 +3526,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "邮件",
+													text = "Mail",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -3534,7 +3534,7 @@ local t =
 														PositionX = 6,
 														PositionY = -29,
 													},
-													width = "44",
+													width = "41",
 													ZOrder = "1",
 												},
 												{
@@ -3897,14 +3897,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "联络",
+													text = "Social",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -26,
 													},
-													width = "44",
+													width = "51",
 													ZOrder = "1",
 												},
 											},
@@ -4651,14 +4651,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "好感度",
+											text = "Favor",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = -42,
 											},
-											width = "58",
+											width = "45",
 											ZOrder = "1",
 										},
 										{
@@ -4924,7 +4924,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 264,
+										PositionX = 252,
 										PositionY = 45,
 									},
 									width = "60",
@@ -4976,7 +4976,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
+										PositionX = 460,
 										PositionY = 45,
 									},
 									width = "60",
@@ -5163,14 +5163,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = " 精灵",
+											text = " Spirit",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 35,
+												PositionX = 43,
 											},
-											width = "49",
+											width = "54",
 											ZOrder = "1",
 										},
 									},
@@ -5277,14 +5277,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "背包",
+											text = "Bag",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = 39,
 											},
-											width = "43",
+											width = "34",
 											ZOrder = "1",
 										},
 									},
@@ -5455,7 +5455,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 263,
+										PositionX = 251,
 										PositionY = 47,
 									},
 									UItype = "Button",
@@ -5580,14 +5580,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "召唤",
+											text = "Summon",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 40,
+												PositionX = 50,
 											},
-											width = "44",
+											width = "75",
 											ZOrder = "1",
 										},
 										{
@@ -6009,7 +6009,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "商店",
+											text = "Store",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -6018,7 +6018,7 @@ local t =
 												PositionY = -3,
 											},
 											vAlignment = "1",
-											width = "44",
+											width = "47",
 											ZOrder = "1",
 										},
 									},
@@ -6081,7 +6081,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 473,
+										PositionX = 459,
 										PositionY = 48,
 									},
 									UItype = "Button",
@@ -6122,16 +6122,16 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "充值",
+											text = "Top Up",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 38,
+												PositionX = 52,
 												PositionY = -2,
 											},
 											vAlignment = "1",
-											width = "45",
+											width = "65",
 											ZOrder = "1",
 										},
 										{
@@ -6293,14 +6293,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "社团",
+											text = "Club",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = 39,
 											},
-											width = "43",
+											width = "41",
 											ZOrder = "1",
 										},
 									},
@@ -6990,7 +6990,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -57,
+								PositionX = -58,
 								PositionY = 640,
 								IsPercent = true,
 								PercentX = -5.09,
@@ -8835,14 +8835,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "应援",
+													text = "Support",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -37,
 													},
-													width = "44",
+													width = "69",
 													ZOrder = "1",
 												},
 												{
@@ -8969,14 +8969,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "元宵",
+													text = "Lantern Fest",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -37,
 													},
-													width = "44",
+													width = "102",
 													ZOrder = "1",
 												},
 												{
@@ -9077,14 +9077,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "新年",
+													text = "New Year",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -37,
 													},
-													width = "44",
+													width = "81",
 													ZOrder = "1",
 												},
 												{
@@ -9350,7 +9350,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "论坛",
+													text = "Forum",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -9358,7 +9358,7 @@ local t =
 														PositionX = -14,
 														PositionY = -29,
 													},
-													width = "44",
+													width = "58",
 													ZOrder = "1",
 												},
 											},
@@ -9984,7 +9984,7 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "预告",
+															text = "Forecast",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
@@ -9992,7 +9992,7 @@ local t =
 																PositionX = 46,
 																PositionY = -2,
 															},
-															width = "44",
+															width = "70",
 															ZOrder = "1",
 														},
 														{
@@ -10119,15 +10119,15 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "回归",
+															text = "Returner",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 47,
-																PositionY = 2,
+																PositionX = 1,
+																PositionY = -26,
 															},
-															width = "44",
+															width = "73",
 															ZOrder = "1",
 														},
 														{
@@ -10254,14 +10254,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "更新",
+															text = "Update",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 44,
+																PositionX = 52,
 															},
-															width = "45",
+															width = "61",
 															ZOrder = "1",
 														},
 														{
@@ -10388,7 +10388,7 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "问卷",
+															text = "Questionnaire",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
@@ -10396,7 +10396,7 @@ local t =
 																PositionX = 45,
 																PositionY = 2,
 															},
-															width = "44",
+															width = "115",
 															ZOrder = "1",
 														},
 														{
@@ -10547,14 +10547,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "履历",
+															text = "Resume",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																PositionX = 43,
 															},
-															width = "44",
+															width = "65",
 															ZOrder = "1",
 														},
 													},
@@ -10627,14 +10627,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "追番",
+															text = "Watch Anime",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																PositionX = 43,
 															},
-															width = "44",
+															width = "110",
 															ZOrder = "1",
 														},
 														{
@@ -10733,14 +10733,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "通讯",
+															text = "Contacts",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																PositionX = 43,
 															},
-															width = "44",
+															width = "72",
 															ZOrder = "1",
 														},
 														{

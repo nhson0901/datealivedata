@@ -170,7 +170,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "34",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_tilte",
 									nTextAlign = "1",
@@ -187,7 +187,7 @@ local t =
 										PositionX = -279,
 										PositionY = 181,
 									},
-									width = "191",
+									width = "193",
 									ZOrder = "1",
 								},
 								{
@@ -260,7 +260,7 @@ local t =
 											{
 												PositionX = -278,
 											},
-											width = "38",
+											width = "36",
 											ZOrder = "1",
 										},
 										{
@@ -305,7 +305,7 @@ local t =
 											{
 												PositionX = 89,
 											},
-											width = "66",
+											width = "67",
 											ZOrder = "1",
 										},
 										{
@@ -350,7 +350,7 @@ local t =
 											{
 												PositionX = 329,
 											},
-											width = "56",
+											width = "57",
 											ZOrder = "1",
 										},
 										{
@@ -466,6 +466,7 @@ local t =
 										PositionX = -158,
 										PositionY = 183,
 									},
+									visible = "False",
 									width = "2",
 									ZOrder = "1",
 								},
@@ -512,7 +513,8 @@ local t =
 										PositionX = -156,
 										PositionY = 178,
 									},
-									width = "163",
+									visible = "False",
+									width = "164",
 									ZOrder = "1",
 								},
 							},
@@ -690,15 +692,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "22",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_name",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -714,7 +716,7 @@ local t =
 										PositionX = -17,
 										PositionY = -2,
 									},
-									width = "219",
+									width = "230",
 									ZOrder = "1",
 								},
 								{

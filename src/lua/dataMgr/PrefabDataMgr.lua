@@ -67,7 +67,12 @@ function PrefabDataMgr:updateEquip( item, idOrCid, count, level)
     countLabel:hide()
     --经验质点需要显示数量
     local cid = getItemCid()
+
     if (not (count == nil)) and ((EquipmentDataMgr:isExpEquip(cid)) or (EquipmentDataMgr:isUniversalEquip(cid))) then
+        countLabel:show()
+    end
+
+    if cid == 230013 then   --英文版独有判断
         countLabel:show()
     end
 

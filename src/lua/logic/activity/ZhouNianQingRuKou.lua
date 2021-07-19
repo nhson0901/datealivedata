@@ -45,6 +45,7 @@ function ZhouNianQingRuKou:initUI( ui )
 	self.Button_shop = TFDirector:getChildByPath(ui,"Button_shop")
 	self.Button_zhaohuan = TFDirector:getChildByPath(ui,"Button_zhaohuan")
 	self.Button_fsdm = TFDirector:getChildByPath(ui,"Button_fsdm")
+	self.Button_fsdm:hide()  --弹幕按钮屏蔽
 	self.Button_go = TFDirector:getChildByPath(ui,"Button_go")
 
 	self.label_activityTime = TFDirector:getChildByPath(ui,"label_activityTime")
@@ -181,7 +182,7 @@ function ZhouNianQingRuKou:registerEvents( )
     self.Button_go:onClick(function ( ... )
     	-- body
 		if ActivityDataMgr2:checkYearActivityCurMonthStatus(self.activityId,self.activityInfo.extendData.yearMonth) then
-			Utils:showTips(self.monthBgData.tips)
+			Utils:showTips(TextDataMgr:getText(self.monthBgData.tips))
 		else
     		Utils:openView("activity.ZhouNianQingMain",{activityId = self.activityId})
     	end

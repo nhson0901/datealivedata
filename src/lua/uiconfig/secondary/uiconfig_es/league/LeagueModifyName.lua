@@ -314,7 +314,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_notes",
 									nTextAlign = "1",
@@ -323,14 +323,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
+									text = "It cannot exceed 16 characters",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 154,
+										PositionX = 145,
 										PositionY = -39,
 									},
-									width = "0",
+									width = "221",
 									ZOrder = "1",
 								},
 								{

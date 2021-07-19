@@ -33,7 +33,8 @@ local t =
 			touchAble = "False",
 			UILayoutViewModel = 
 			{
-				
+				PositionX = -4,
+				PositionY = -6,
 			},
 			uipanelviewmodel = 
 			{
@@ -93,21 +94,21 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "2",
+							height = "534",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
-							srcBlendFunc = "1",
-							texturePath = "ui/activity/picture/ad40.png",
+							srcBlendFunc = "770",
+							texturePath = "ui/activity/ad259.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -4,
-								PositionY = -7,
+								PositionX = 3,
+								PositionY = -1,
 							},
-							width = "2",
+							width = "924",
 							ZOrder = "1",
 							components = 
 							{
@@ -129,7 +130,7 @@ local t =
 									height = "90",
 									ignoreSize = "False",
 									innerHeight = "90",
-									innerWidth = "490",
+									innerWidth = "462",
 									name = "ScrollView_task",
 									showScrollbar = "False",
 									sizepercentx = "0",
@@ -139,22 +140,22 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -195,
-										PositionY = -72,
+										PositionX = 128,
+										PositionY = -41,
 									},
 									uipanelviewmodel = 
 									{
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "490",
+									width = "462",
 									ZOrder = "1",
 								},
 								{
 									controlID = "Label_timing_Image_bg_Panel_root_Panel-addRechargeActivityView_Layer1_activity_Game",
 									UUID = "69b0e525_5119_42ff_a49c_46b2897ee505",
 									anchorPoint = "False",
-									anchorPointX = "0",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -180,20 +181,20 @@ local t =
 									ignoreSize = "True",
 									name = "Label_timing",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "2",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "xxxxxxxxxxxxxxxxxxx",
+									text = "xxxxxxxxxxxx",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -437,
-										PositionY = 243,
+										PositionX = 439,
+										PositionY = 255,
 									},
-									width = "213",
+									width = "136",
 									ZOrder = "1",
 								},
 								{
@@ -206,7 +207,7 @@ local t =
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
 									FontColor = "#FFFFFFFF",
-									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontName = "font/MFLiHei_Noncommercial.ttf",
 									fontShadow = 
 									{
 										IsShadow = false,
@@ -215,18 +216,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = true,
-										StrokeColor = "#FFED2F47",
+										StrokeColor = "#FF4A43AC",
 										StrokeSize = 1,
 									},
-									height = "29",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_tip1",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -236,11 +237,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -429,
-										PositionY = 26,
+										PositionX = -458,
+										PositionY = -244,
 									},
-									visible = "False",
-									width = "739",
+									width = "650",
 									ZOrder = "1",
 								},
 								{
@@ -266,7 +266,7 @@ local t =
 									fontStroke = 
 									{
 										IsStroke = true,
-										StrokeColor = "#FFFFE7AF",
+										StrokeColor = "#FFF0F8FF",
 										StrokeSize = 2,
 									},
 									height = "27",
@@ -283,10 +283,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -416,
-										PositionY = -228,
+										PositionX = -297,
+										PositionY = -289,
 									},
-									visible = "False",
 									width = "332",
 									ZOrder = "1",
 								},
@@ -299,7 +298,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFFFEA43",
+									FontColor = "#FFFFF77A",
 									fontName = "font/MFLiHei_Noncommercial.ttf",
 									fontShadow = 
 									{
@@ -309,18 +308,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "38",
+									fontSize = "26",
 									fontStroke = 
 									{
-										IsStroke = false,
-										StrokeColor = "#FFE6E6E6",
-										StrokeSize = 1,
+										IsStroke = true,
+										StrokeColor = "#FF885927",
+										StrokeSize = 2,
 									},
-									height = "44",
+									height = "34",
 									ignoreSize = "True",
 									name = "Label_recharge",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "2",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -330,10 +329,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -271,
-										PositionY = -182,
+										PositionX = -198,
+										PositionY = -218,
 									},
-									width = "89",
+									width = "64",
 									ZOrder = "1",
 								},
 								{
@@ -348,12 +347,10 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "131",
+									height = "99",
 									ignoreSize = "True",
 									name = "Button_recharge",
-									normal = "ui/activity/add_recharge/004.png",
-									scaleX = "0.9",
-									scaleY = "0.9",
+									normal = "ui/activity/add_recharge/008.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -361,11 +358,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 311,
-										PositionY = -230,
+										PositionX = 314,
+										PositionY = -216,
 									},
 									UItype = "Button",
-									width = "330",
+									width = "262",
 									ZOrder = "1",
 								},
 							},
@@ -379,7 +376,7 @@ local t =
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
-							FontColor = "#FFFFFFFF",
+							FontColor = "#FFF1EFF7",
 							fontName = "font/MFLiHei_Noncommercial.ttf",
 							fontShadow = 
 							{
@@ -393,7 +390,7 @@ local t =
 							fontStroke = 
 							{
 								IsStroke = true,
-								StrokeColor = "#FF4A43AC",
+								StrokeColor = "#FF1856C7",
 								StrokeSize = 2,
 							},
 							height = "34",
@@ -413,7 +410,6 @@ local t =
 								PositionX = -398,
 								PositionY = -218,
 							},
-							visible = "False",
 							width = "186",
 							ZOrder = "1",
 						},
@@ -444,8 +440,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 705,
-						PositionY = -572,
+						PositionX = 632,
+						PositionY = -635,
 						LeftPositon = 1148,
 						TopPosition = 301,
 						relativeToName = "Panel",
@@ -485,8 +481,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 336,
-								PositionY = 530,
+								PositionX = 309,
+								PositionY = 415,
 							},
 							uipanelviewmodel = 
 							{
@@ -513,11 +509,11 @@ local t =
 									DesignType = "0",
 									DesignWidth = "960",
 									dstBlendFunc = "771",
-									height = "88",
+									height = "89",
 									ignoreSize = "False",
 									name = "Panel_geted",
-									sizepercentx = "100",
-									sizepercenty = "100",
+									sizepercentx = "101",
+									sizepercenty = "101",
 									sizeType = "1",
 									srcBlendFunc = "1",
 									touchAble = "False",
@@ -530,8 +526,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
-									width = "88",
+									width = "89",
 									ZOrder = "1",
 									components = 
 									{
@@ -545,22 +540,23 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "400",
+											height = "102",
 											ignoreSize = "True",
 											name = "Image_geted",
-											scaleX = "0.2",
-											scaleY = "0.2",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/task/box_3.png",
+											texturePath = "ui/activity/add_recharge/005.png",
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionY = 62,
+												PositionX = -1,
+												PositionY = 50,
 											},
-											width = "400",
+											width = "102",
 											ZOrder = "1",
 										},
 										{
@@ -572,7 +568,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFF4E6E",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -582,14 +578,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "18",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = true,
-												StrokeColor = "#FFFFFFFF",
+												StrokeColor = "#FF1E4EA5",
 												StrokeSize = 2,
 											},
-											height = "25",
+											height = "27",
 											ignoreSize = "True",
 											name = "Label_geted",
 											nTextAlign = "1",
@@ -603,9 +599,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = 11,
+												PositionY = 12,
 											},
-											width = "82",
+											width = "90",
 											ZOrder = "1",
 										},
 									},
@@ -625,24 +621,24 @@ local t =
 									DesignType = "0",
 									DesignWidth = "960",
 									dstBlendFunc = "771",
-									height = "88",
+									height = "89",
 									ignoreSize = "False",
 									name = "Panel_get",
-									sizepercentx = "100",
-									sizepercenty = "100",
+									sizepercentx = "101",
+									sizepercenty = "101",
 									sizeType = "1",
 									srcBlendFunc = "1",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										
+										PositionY = 1,
 									},
 									uipanelviewmodel = 
 									{
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "88",
+									width = "89",
 									ZOrder = "1",
 									components = 
 									{
@@ -674,6 +670,7 @@ local t =
 											{
 												PositionY = 39,
 											},
+											visible = "False",
 											ZOrder = "1",
 										},
 										{
@@ -688,13 +685,13 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "400",
+											height = "102",
 											ignoreSize = "True",
 											name = "Button_get",
-											normal = "ui/task/box_2.png",
+											normal = "ui/activity/add_recharge/006.png",
 											opacity = "76",
-											scaleX = "0.2",
-											scaleY = "0.2",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -705,7 +702,7 @@ local t =
 												PositionY = 49,
 											},
 											UItype = "Button",
-											width = "400",
+											width = "102",
 											ZOrder = "1",
 										},
 										{
@@ -717,7 +714,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFF4E6E",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -731,7 +728,7 @@ local t =
 											fontStroke = 
 											{
 												IsStroke = true,
-												StrokeColor = "#FFFFFFFF",
+												StrokeColor = "#FF1E4EA5",
 												StrokeSize = 2,
 											},
 											height = "27",
@@ -773,6 +770,8 @@ local t =
 									height = "88",
 									ignoreSize = "False",
 									name = "Panel_notGet",
+									scaleX = "0.9",
+									scaleY = "0.9",
 									sizepercentx = "100",
 									sizepercenty = "100",
 									sizeType = "1",
@@ -787,7 +786,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "88",
 									ZOrder = "1",
 									components = 
@@ -802,22 +800,22 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "400",
+											height = "102",
 											ignoreSize = "True",
 											name = "Image_notGet",
-											scaleX = "0.2",
-											scaleY = "0.2",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/task/box_1.png",
+											texturePath = "ui/activity/add_recharge/007.png",
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionY = 57,
+												PositionY = 52,
 											},
-											width = "400",
+											width = "102",
 											ZOrder = "1",
 										},
 										{
@@ -829,7 +827,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFFDFA0",
+											FontColor = "#FFF0F8FF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -843,7 +841,7 @@ local t =
 											fontStroke = 
 											{
 												IsStroke = true,
-												StrokeColor = "#FF5A5252",
+												StrokeColor = "#FF1E4EA5",
 												StrokeSize = 2,
 											},
 											height = "27",
@@ -882,11 +880,11 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/picture/ad40.png",
-			"ui/activity/add_recharge/004.png",
-			"ui/task/box_3.png",
-			"ui/task/box_2.png",
-			"ui/task/box_1.png",
+			"ui/activity/ad259.png",
+			"ui/activity/add_recharge/008.png",
+			"ui/activity/add_recharge/005.png",
+			"ui/activity/add_recharge/006.png",
+			"ui/activity/add_recharge/007.png",
 		},
 		armatures = 
 		{

@@ -404,8 +404,8 @@ end
 function CityJobView:updatePanelAccelerate()
     local Label_accelerate_limit = TFDirector:getChildByPath(self.Panel_accelerate , "Label_accelerate_limit")
     local acclereteMax =  CityJobDataMgr:getPrivilegeFreeWrokAccelerateNum() + self.accelerateData.max
-    local lastDaySpeedNum = self.accelerateData.max - CityJobDataMgr:getWorlAccelerateData().speedNum
-    local lastFreeSpeedNum = CityJobDataMgr:getPrivilegeFreeWrokAccelerateNum() - CityJobDataMgr:getWorlAccelerateData().freeSpeedNum
+    local lastDaySpeedNum = self.accelerateData.max - (CityJobDataMgr:getWorlAccelerateData().speedNum or  0)
+    local lastFreeSpeedNum = CityJobDataMgr:getPrivilegeFreeWrokAccelerateNum() - (CityJobDataMgr:getWorlAccelerateData().freeSpeedNum or 0)
     if lastFreeSpeedNum < 0 then 
         lastFreeSpeedNum = 0 
     end

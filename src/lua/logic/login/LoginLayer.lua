@@ -14,9 +14,9 @@ function LoginLayer:ctor(data)
 		self:init("lua.uiconfig.loginScene.oneYearloginLayer")
 	else
 		if TFGlobalUtils:isConnectEnServer() then
-			self:init("lua.uiconfig.loginScene.loginLayer")
-		elseif TFGlobalUtils:isConnectKoreaTwServer() then
 			self:init("lua.uiconfig.loginScene.loginLayerNew1")
+		elseif TFGlobalUtils:isConnectKoreaTwServer() then
+			self:init("lua.uiconfig.loginScene.loginLayer")
 		else
 			self:init("lua.uiconfig.loginScene.loginLayerNew1")
 		end
@@ -56,7 +56,7 @@ function LoginLayer:initUI(ui)
 		local logonImag = TFImage:create("ui/login/logo.png")
 		TFDirector:getChildByPath(ui , "logo"):addChild(logonImag)
 		logonImag:setPosition(380 , 120)
-		--logonImag:hide()  英文版打开新增logo
+		logonImag:hide()  --英文版屏蔽新增logo
 	end
 
 	self.loginBoard = TFDirector:getChildByPath(ui,"loginBoard");
@@ -245,8 +245,8 @@ function LoginLayer:initUI(ui)
     self.Label_serverName = TFDirector:getChildByPath(self.Panel_serverList, "Label_serverName")
     self.Label_serverName:setTextById(800090)
 
-    if TFGlobalUtils:isConnectEnServer() then
-    	self.Label_serverName:setFontColor(ccc3(252 , 245 , 216))
+    if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectMiniServer() then
+    	self.Label_serverName:setFontColor(ccc3(255 , 255 , 255))
     end
 
     self.gameServerList = TFDirector:getChildByPath(ui, "game_serverList")
@@ -280,7 +280,6 @@ function LoginLayer:initUI(ui)
         self:addLayer(view, AlertManager.BLOCK)
     end
 
-    
 end
 
 function LoginLayer:showMigrationServerView( callBack, force )

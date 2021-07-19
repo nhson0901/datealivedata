@@ -190,6 +190,12 @@ function WelfareSignView:initPageTypeData()
 			if self.activityInfo.extendData.bgPath then 
 		        self.Image_bg:setTexture(self.activityInfo.extendData.bgPath)
 		    end
+		elseif self.activityInfo.id == 200041 then
+			if self.activityInfo.extendData.bgPath then 
+		        self.Image_bg:setTexture(self.activityInfo.extendData.bgPath)
+		    end
+		    self.btn_Last_:setPositionY(-86)
+		    self.btn_Next_:setPositionY(-86)
 		else
 			self.Image_bg:setTexture("ui/activity/activityStyle/wefareSignActivity/"..self.curResFileName.."/bg"..self.selectPage_.. ".png")
 		end
@@ -300,6 +306,11 @@ function WelfareSignView:updateItem(foo,_index)
 		foo.Label_day:setFontColor(ccc3(255 , 255 , 255))
 	end
 
+	if self.activityInfo.id == 200041 then
+		foo.Label_day:enableOutline(ccc3(218 , 112 , 214) , 1)
+		foo.Label_day:setFontColor(ccc3(255 , 255 , 255))
+	end
+
 	if foo.Image_iconbg then
 		foo.Image_iconbg:setTexture("ui/fairy_particle/" .. itemCfg.quality .. ".png")
 		foo.Image_iconbg:setScale(0.65)
@@ -314,7 +325,7 @@ function WelfareSignView:updateItem(foo,_index)
 		if self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 6 then
 			local pic_path = "ui/activity/assist/kuangsan/sign_00".._index..".png"
 			foo.Image_border:setTexture(pic_path)
-		elseif self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 2 then
+		elseif self.activityInfo.id == 200041 or  (self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 2) then
 			foo.Image_border:setTexture("ui/activity/welfareSign/border_"..itemCfg.quality..".png")
 		else
 			if _progressInfo.status ~= EC_TaskStatus.ING  then

@@ -67,7 +67,7 @@ function ZhouNianQingJiangLi:updateAward(key,data)
 	local item = self.awardItem[key]
 	local icon = TFDirector:getChildByPath(item,"icon")
 	local label_dec = TFDirector:getChildByPath(item,"label_dec")
-	label_dec:setText(data.describe)
+	label_dec:setTextById(data.describe)
 	local ScrollView_reward = TFDirector:getChildByPath(item,"ScrollView_reward")
 	if not ScrollView_reward.uiList_award then
 		ScrollView_reward.uiList_award = UIListView:create(ScrollView_reward)

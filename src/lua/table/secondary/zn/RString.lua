@@ -2448,7 +2448,7 @@ return {
             baseName = "MFLiHei_Noncommercial",
             name = "font/MFLiHei_Noncommercial.ttf",
             color = "#fdffc6",
-            text = "个记忆碎片",
+            text = "个记忆碎片，活动期间只能领取一次",
             clickId = "",
             size = 22,
         },

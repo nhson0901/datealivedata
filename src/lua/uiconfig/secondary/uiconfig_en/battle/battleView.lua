@@ -1426,8 +1426,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 174,
-												PositionY = -44,
+												PositionX = 154,
+												PositionY = -59,
 											},
 											width = "2",
 											ZOrder = "1",
@@ -1444,7 +1444,7 @@ local t =
 													classname = "MELoadingBar",
 													direction = "0",
 													dstBlendFunc = "771",
-													height = "2",
+													height = "22",
 													ignoreSize = "True",
 													name = "LoadingBar",
 													percent = "100",
@@ -1458,7 +1458,7 @@ local t =
 													{
 														
 													},
-													width = "2",
+													width = "114",
 													ZOrder = "1",
 												},
 											},
@@ -1674,8 +1674,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 137,
-												PositionY = -62,
+												PositionX = 155,
+												PositionY = -70,
 											},
 											visible = "False",
 											ZOrder = "2",
@@ -12557,9 +12557,9 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 443,
-												PositionY = 259,
-												LeftPositon = 951,
+												PositionX = 409,
+												PositionY = 260,
+												LeftPositon = 917,
 												TopPosition = 28,
 												relativeToName = "Panel_practice",
 												nType = 3,
@@ -12687,14 +12687,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "On",
+													text = "开",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = 9,
 													},
-													width = "31",
+													width = "21",
 													ZOrder = "1",
 												},
 												{
@@ -12732,7 +12732,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Off",
+													text = "关",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -12740,7 +12740,7 @@ local t =
 														PositionX = -35,
 														PositionY = 9,
 													},
-													width = "33",
+													width = "21",
 													ZOrder = "1",
 												},
 												{
@@ -12778,7 +12778,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Injury data",
+													text = "伤害数据",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -12786,7 +12786,7 @@ local t =
 														PositionX = -20,
 														PositionY = -25,
 													},
-													width = "106",
+													width = "75",
 													ZOrder = "1",
 												},
 												{

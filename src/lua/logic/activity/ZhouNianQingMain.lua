@@ -212,7 +212,7 @@ function ZhouNianQingMain:updateDetail( )
 	local key = self.eventKeys[#self.eventKeys]
 	local lastItemId = self.monthCfgData.eventGroup[key][1]
 	local itemInfo = ActivityDataMgr2:getItemInfo(self.activityInfo.activityType,lastItemId)
-	self.Label_des:setText(itemInfo.details)
+	self.Label_des:setTextById(itemInfo.details)
 
 	self.rewardList:removeAllItems()
 	local award = itemInfo.reward
@@ -266,6 +266,9 @@ function ZhouNianQingMain:updateBottomBar( )
 		self.Panel_role:addChild(self.roleModel)
 		self.Panel_role:setPositionX(posX)
 		self.roleModel:play("idle",1)
+		if self.roleModel:getDuration() <=1  then  --兼容l_名称动作
+			self.roleModel:play("l_idle",1)
+		end
 	end
 
 	self.Panel_role:setScaleX(self.isBack and -1 or 1)
@@ -326,8 +329,8 @@ function ZhouNianQingMain:updateItem( item, itemId )
 	local type_ = itemInfo.extendData.showType or itemInfo.extendData.yearBirthEvent
 	border:setTexture("icon/zhounianqing/banner_"..type_..".png")
 	icon:setTexture("icon/zhounianqing/icon_"..type_..".png")
-	Label_name:setText(itemInfo.extendData.des2)
-	Label_type:setText(itemInfo.details)
+	Label_name:setTextById(itemInfo.extendData.des2)
+	Label_type:setTextById(itemInfo.details)
 
 	Image_mask:setVisible(progressInfo.status ~= EC_TaskStatus.GETED)
 	Image_mask1:setVisible(progressInfo.status == EC_TaskStatus.GETED)
@@ -501,7 +504,7 @@ function ZhouNianQingMain:updateTriggerEvent( ... )
 		local name = TFDirector:getChildByPath(item,"name")
 		local type_ = itemInfo.extendData.showType or itemInfo.extendData.yearBirthEvent
 		icon:setTexture("icon/zhounianqing/icon_"..type_..".png")
-		name:setText(itemInfo.extendData.des2)
+		name:setTextById(itemInfo.extendData.des2)
 		self.uiList_trigger:pushBackCustomItem(item)
 	end
 
@@ -532,20 +535,22 @@ function ZhouNianQingMain:bottomAniAction( )
 					if progressInfo.status ~= EC_TaskStatus.GETED then
 						ActivityDataMgr2:finishNewYearActivityItems(self.activityId,self.waitActionItemInfo_.id)
 					end
-					self:playStartAni()
+					--self:playStartAni()  --特效问题屏蔽以上特效代码
 				elseif self.waitActionItemInfo_.extendData.yearBirthEvent == EC_YearActivityEventType.END then
 					if progressInfo.status ~= EC_TaskStatus.GETED then
 						ActivityDataMgr2:finishNewYearActivityItems(self.activityId,self.waitActionItemInfo_.id)
 					else
-						self.Panel_effect:show()
-						self.Panel_border:show()
-						self.effect_start2:show()
-						self.effect_start2:play("animation2",0)
+						-- self.Panel_effect:show()
+						-- self.Panel_border:show()
+						-- self.effect_start2:show()
+						-- self.effect_start2:play("animation2",0)
 
-						self.effect_start2:addMEListener(TFARMATURE_COMPLETE,function()
-								self.effect_start2:removeMEListener(TFARMATURE_COMPLETE)
-								AlertManager:closeLayer(self)
-					        end)
+						-- self.effect_start2:addMEListener(TFARMATURE_COMPLETE,function()
+						-- 		self.effect_start2:removeMEListener(TFARMATURE_COMPLETE)
+						-- 		AlertManager:closeLayer(self)
+					 --        end)   --特效问题屏蔽以上特效代码
+
+						AlertManager:closeLayer(self)
 					end
 				else
 					self:updateItemList()
@@ -624,7 +629,12 @@ function ZhouNianQingMain:bottomAniAction( )
 		if self.roleModel.newAction ~= "move" then
 			self.roleModel:play("move",1)
 			self.roleModel.newAction = "move"
+			if self.roleModel:getDuration() <=1  then  --兼容l_名称动作
+				self.roleModel:play("l_move",1)
+			end
 		end
+
+
 		self.actionTimer = TFDirector:addTimer(speedTime*1000,1,nil,function ( ... )
 			self.actionTimer = nil
 			if not self.isBack then
@@ -637,6 +647,10 @@ function ZhouNianQingMain:bottomAniAction( )
 		self.roleModel.newAction = nil
 		self.ui:timeOut(function ( ... )
 			self.roleModel:play("idle",1)
+			if self.roleModel:getDuration() <=1 then  --兼容l_名称动作
+				self.roleModel:play("l_idle",1)
+			end
+
 			self.hasRunning = false
 		end,speedTime)
 	end
@@ -706,17 +720,19 @@ function ZhouNianQingMain:updatePanelEnd( rewards )
 
 	self.endRewardList:setCenterArrange()
 	panel_touch:onClick(function ( ... )
-		self.Panel_end:hide()
-		self.Panel_effect:show()
-		self.Panel_border:show()
-		self.effect_end:hide()
-		self.effect_start2:show()
-		self.effect_start2:play("animation2",0)
+		-- self.Panel_end:hide()
+		-- self.Panel_effect:show()
+		-- self.Panel_border:show()
+		-- self.effect_end:hide()
+		-- self.effect_start2:show()
+		-- self.effect_start2:play("animation2",0)
 
-		self.effect_start2:addMEListener(TFARMATURE_COMPLETE,function()
-				self.effect_start2:removeMEListener(TFARMATURE_COMPLETE)
-				AlertManager:closeLayer(self)
-	        end)
+		-- self.effect_start2:addMEListener(TFARMATURE_COMPLETE,function()
+		-- 		self.effect_start2:removeMEListener(TFARMATURE_COMPLETE)
+		-- 		AlertManager:closeLayer(self)
+	 --        end)  --特效问题屏蔽以上特效代码
+
+		AlertManager:closeLayer(self)
 	end)
 end
 

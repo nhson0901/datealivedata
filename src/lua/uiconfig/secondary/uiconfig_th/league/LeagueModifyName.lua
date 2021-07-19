@@ -276,7 +276,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "请输入新的社团名称",
+									text = "Please enter a new club name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -285,7 +285,7 @@ local t =
 										IsPercent = true,
 										PercentY = 21.87,
 									},
-									width = "237",
+									width = "308",
 									ZOrder = "1",
 								},
 								{
@@ -314,7 +314,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_notes",
 									nTextAlign = "1",
@@ -323,14 +323,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
+									text = "It cannot exceed 16 characters",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 154,
+										PositionX = 137,
 										PositionY = -39,
 									},
-									width = "0",
+									width = "221",
 									ZOrder = "1",
 								},
 								{
@@ -449,7 +450,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "修改名称 |",
+									text = "Rename",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -457,7 +458,7 @@ local t =
 										PositionX = -249,
 										PositionY = 130,
 									},
-									width = "129",
+									width = "121",
 									ZOrder = "1",
 								},
 								{
@@ -503,6 +504,7 @@ local t =
 										PositionX = -120,
 										PositionY = 128,
 									},
+									visible = "False",
 									width = "59",
 									ZOrder = "1",
 								},

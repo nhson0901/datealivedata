@@ -129,7 +129,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -266,
-										PositionY = -142,
+										PositionY = -104,
 									},
 									width = "334",
 									ZOrder = "1",
@@ -203,9 +203,9 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -267,
-								PositionY = -157,
+								PositionY = -119,
 							},
-							width = "106",
+							width = "104",
 							ZOrder = "1",
 						},
 						{
@@ -227,15 +227,15 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "18",
+							fontSize = "16",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "21",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "Label_desc1",
 							nTextAlign = "0",
 							nTextHAlign = "0",
@@ -249,9 +249,9 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -417,
-								PositionY = -199,
+								PositionY = -171,
 							},
-							width = "75",
+							width = "630",
 							ZOrder = "1",
 						},
 						{
@@ -273,15 +273,15 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "18",
+							fontSize = "16",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "21",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "Label_desc2",
 							nTextAlign = "0",
 							nTextHAlign = "0",
@@ -295,9 +295,9 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -417,
-								PositionY = -227,
+								PositionY = -221,
 							},
-							width = "75",
+							width = "630",
 							ZOrder = "1",
 						},
 						{
@@ -386,11 +386,11 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "18",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "Label_tips",
 							nTextAlign = "1",
-							nTextHAlign = "1",
+							nTextHAlign = "0",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -403,7 +403,7 @@ local t =
 								PositionX = -397,
 								PositionY = -257,
 							},
-							width = "64",
+							width = "700",
 							ZOrder = "1",
 						},
 						{
@@ -447,9 +447,9 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -345,
-								PositionY = -119,
+								PositionY = -81,
 							},
-							width = "115",
+							width = "172",
 							ZOrder = "1",
 						},
 						{
@@ -495,7 +495,7 @@ local t =
 								PositionX = -437,
 								PositionY = 255,
 							},
-							width = "106",
+							width = "104",
 							ZOrder = "1",
 						},
 					},

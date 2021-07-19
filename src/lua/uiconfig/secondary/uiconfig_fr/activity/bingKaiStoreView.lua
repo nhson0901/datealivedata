@@ -1105,7 +1105,7 @@ local t =
 							controlID = "act_time_Panel_root_Panel-bingKaiStoreView_bingKai_activity_Game",
 							UUID = "08b8e35e_d1d1_401a_91ef_f2fb97513f0a",
 							anchorPoint = "False",
-							anchorPointX = "0.5",
+							anchorPointX = "0",
 							anchorPointY = "0.5",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
@@ -1127,8 +1127,8 @@ local t =
 								StrokeColor = "#FF3370C4",
 								StrokeSize = 2,
 							},
-							height = "29",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "act_time",
 							nTextAlign = "1",
 							nTextHAlign = "1",
@@ -1137,15 +1137,15 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "活动时间",
+							text = "Heure de l'Événement :",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -370,
-								PositionY = 244,
+								PositionX = -457,
+								PositionY = 211,
 							},
-							width = "93",
+							width = "189",
 							ZOrder = "1",
 							components = 
 							{
@@ -1171,8 +1171,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -30,
-										PositionY = 8,
+										PositionX = 63,
+										PositionY = 21,
 									},
 									width = "141",
 									ZOrder = "1",
@@ -1208,7 +1208,7 @@ local t =
 									name = "act_timeStart",
 									nTextAlign = "1",
 									nTextHAlign = "1",
-									rotation = "-2",
+									rotation = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1218,8 +1218,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -66,
-										PositionY = -24,
+										PositionX = 56,
+										PositionY = -41,
 									},
 									width = "85",
 									ZOrder = "1",
@@ -1255,7 +1255,7 @@ local t =
 									name = "act_timeEnd",
 									nTextAlign = "1",
 									nTextHAlign = "1",
-									rotation = "-2",
+									rotation = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1265,8 +1265,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -85,
-										PositionY = -46,
+										PositionX = 56,
+										PositionY = -67,
 									},
 									width = "85",
 									ZOrder = "1",
@@ -1742,18 +1742,18 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_name",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "2",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1766,7 +1766,7 @@ local t =
 												PositionX = 139,
 												PositionY = 53,
 											},
-											width = "171",
+											width = "190",
 											ZOrder = "1",
 										},
 										{
@@ -1794,7 +1794,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -93,
+												PositionX = -92,
 												PositionY = 22,
 											},
 											uipanelviewmodel = 
@@ -1824,14 +1824,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_countLimit",
 											nTextAlign = "1",
@@ -1848,7 +1848,7 @@ local t =
 												PositionX = -83,
 												PositionY = -61,
 											},
-											width = "132",
+											width = "142",
 											ZOrder = "1",
 										},
 										{

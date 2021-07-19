@@ -245,15 +245,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_goShop",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -268,7 +268,7 @@ local t =
 									{
 										
 									},
-									width = "98",
+									width = "120",
 									ZOrder = "1",
 								},
 							},
@@ -324,15 +324,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_goSummon",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -347,7 +347,7 @@ local t =
 									{
 										
 									},
-									width = "99",
+									width = "120",
 									ZOrder = "1",
 								},
 							},
@@ -371,15 +371,15 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "22",
+							fontSize = "16",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "27",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "Label_tip",
 							nTextAlign = "1",
 							nTextHAlign = "1",
@@ -395,7 +395,7 @@ local t =
 								PositionX = 582,
 								PositionY = 228,
 							},
-							width = "144",
+							width = "600",
 							ZOrder = "1",
 						},
 						{
@@ -403,7 +403,7 @@ local t =
 							UUID = "1b23ee42_ae67_4bf1_bc37_636f14594950",
 							anchorPoint = "False",
 							anchorPointX = "0",
-							anchorPointY = "0.5",
+							anchorPointY = "1",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
@@ -417,18 +417,18 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "22",
+							fontSize = "20",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "27",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "Label_tip1",
 							nTextAlign = "1",
-							nTextHAlign = "1",
+							nTextHAlign = "0",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -439,9 +439,9 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 233,
-								PositionY = 186,
+								PositionY = 207,
 							},
-							width = "144",
+							width = "120",
 							ZOrder = "1",
 						},
 						{

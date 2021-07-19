@@ -135,7 +135,7 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "47",
+							height = "95",
 							ignoreSize = "True",
 							name = "Image_loginLayerNew1_1",
 							sizepercentx = "0",
@@ -150,7 +150,7 @@ local t =
 								PositionY = 24,
 							},
 							visible = "False",
-							width = "1277",
+							width = "1386",
 							ZOrder = "1",
 						},
 						{
@@ -162,14 +162,13 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "47",
+							height = "64",
 							ignoreSize = "True",
 							name = "logo",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/login/new1/b8.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -179,7 +178,7 @@ local t =
 								PercentX = 50.23,
 								PercentY = 4.23,
 							},
-							width = "1277",
+							width = "64",
 							ZOrder = "1",
 							components = 
 							{
@@ -193,20 +192,19 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "2",
+									height = "64",
 									ignoreSize = "True",
 									name = "Image_go",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/login/new1/a7.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "2",
+									width = "64",
 									ZOrder = "1",
 									components = 
 									{
@@ -1673,7 +1671,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "70",
 							ignoreSize = "True",
 							name = "Button_User_proto",
 							normal = "ui/login/004.png",
@@ -1690,7 +1688,7 @@ local t =
 								relativeToName = "Panel",
 							},
 							UItype = "Button",
-							width = "63",
+							width = "70",
 							ZOrder = "1",
 							components = 
 							{
@@ -1754,7 +1752,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "70",
 							ignoreSize = "True",
 							name = "Button_Conceal_proto",
 							normal = "ui/login/003.png",
@@ -1771,7 +1769,7 @@ local t =
 								relativeToName = "Panel",
 							},
 							UItype = "Button",
-							width = "63",
+							width = "70",
 							ZOrder = "1",
 							components = 
 							{
@@ -1835,7 +1833,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "70",
 							ignoreSize = "True",
 							name = "Button_notice",
 							normal = "ui/login/002.png",
@@ -1852,7 +1850,7 @@ local t =
 								relativeToName = "Panel",
 							},
 							UItype = "Button",
-							width = "63",
+							width = "70",
 							ZOrder = "1",
 							components = 
 							{
@@ -2163,7 +2161,6 @@ local t =
 		textures = 
 		{
 			"ui/login/new1/b8.png",
-			"ui/login/new1/a7.png",
 			"ui/login/1.png",
 			"ui/common/pop_ui/pop_ui_01.png",
 			"ui/login/2.png",

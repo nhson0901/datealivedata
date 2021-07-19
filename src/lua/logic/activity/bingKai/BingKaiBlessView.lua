@@ -23,12 +23,16 @@ end
 
 function BingKaiBlessView:initUI(ui)
     self.super.initUI(self,ui)
-    local year, month, day = Utils:getDate(self.activityInfo.showStartTime or 0)
+    --local year, month, day = Utils:getDate(self.activityInfo.showStartTime or 0)
+    local year, month, day = Utils:getUTCDateYMD(self.activityInfo.showStartTime or 0, false , GV_UTC_TIME_ZONE)
 	self._ui.act_timeStart:setTextById(1410001,year, month, day)
-	year, month, day = Utils:getDate(self.activityInfo.endTime or 0)
-    self._ui.act_timeEnd:setTextById(1410001,year, month, day)
-
+	--year, month, day = Utils:getDate(self.activityInfo.endTime or 0)
+    --self._ui.act_timeEnd:setTextById(1410001,year, month, day)
+    year, month, day = Utils:getUTCDateYMD(self.activityInfo.endTime or 0, false , GV_UTC_TIME_ZONE)
+    self._ui.act_timeEnd:setText(TextDataMgr:getText(1410001,year, month, day)..GV_UTC_TIME_STRING)
+    
     self._ui.lab_desc:setTextById(63905)
+    self._ui.act_time:setTextById(1710002)
 
     self.gridView = UIGridView:create(self._ui.ScrollView_Item)
     self.gridView:setItemModel(self._ui.panel_item)

@@ -28,10 +28,13 @@ function BingKaiTaskView:initUI(ui)
     self.listTask = UIListView:create(self._ui.list_task)
     self.listTask:setItemsMargin(5)
 
-    local year, month, day = Utils:getDate(self.activityInfo.showStartTime or 0)
+    --local year, month, day = Utils:getDate(self.activityInfo.showStartTime or 0)
+    local year, month, day = Utils:getUTCDateYMD(self.activityInfo.showStartTime or 0 , false , GV_UTC_TIME_ZONE)
 	self._ui.act_timeStart:setTextById(1410001,year, month, day)
-	year, month, day = Utils:getDate(self.activityInfo.endTime or 0)
-    self._ui.act_timeEnd:setTextById(1410001,year, month, day)
+	--year, month, day = Utils:getDate(self.activityInfo.endTime or 0)
+    year, month, day = Utils:getUTCDateYMD(self.activityInfo.endTime or 0 , false , GV_UTC_TIME_ZONE)
+    --self._ui.act_timeEnd:setTextById(1410001,year, month, day)
+    self._ui.act_timeEnd:setText(TextDataMgr:getText(1410001,year, month, day)..GV_UTC_TIME_STRING)
 
     if self.activityInfo.extendData.string then
         self._ui.lab_tip:setText(self.activityInfo.extendData.string)
@@ -41,6 +44,8 @@ function BingKaiTaskView:initUI(ui)
 
     self._ui.btn_share:hide()
     self._ui.lab_tip:hide()
+
+    self._ui.act_time:setTextById(1710002)
 end
 
 function BingKaiTaskView:addTaskItem()
@@ -50,13 +55,21 @@ function BingKaiTaskView:addTaskItem()
     foo.img_ing = TFDirector:getChildByPath(foo.root, "img_ing")
     foo.img_complete = TFDirector:getChildByPath(foo.root, "img_complete")
     foo.lab_complets = TFDirector:getChildByPath(foo.root, "lab_complets")
+    foo.lab_complets:setTextById(1300015)
     foo.img_canGetAward = TFDirector:getChildByPath(foo.root, "img_canGetAward")
     foo.Label_progress = TFDirector:getChildByPath(foo.root, "Label_progress")
     foo.Label_progressTxt = TFDirector:getChildByPath(foo.root, "Label_progressTxt")
     foo.Label_desc = TFDirector:getChildByPath(foo.root, "Label_desc")
     foo.Button_goto = TFDirector:getChildByPath(foo.root, "Button_goto")
+    foo.Label_goto = TFDirector:getChildByPath(foo.Button_goto, "Label_goto")
+    foo.Label_goto:setTextById(1300009)
     foo.Button_receive = TFDirector:getChildByPath(foo.root, "Button_receive")
+    foo.Label_receive = TFDirector:getChildByPath(foo.Button_receive, "Label_receive")
+    foo.Label_receive:setTextById(1300008)
+
+
     foo.listAwards = UIListView:create(TFDirector:getChildByPath(foo.root, "ScrollView_awards"))
+
     foo.listAwards:setItemsMargin(18)
     self.taskItems[item] = foo
     self.listTask:pushBackCustomItem(item)
@@ -127,6 +140,8 @@ function BingKaiTaskView:updateItem(item, data)
     end
     item.Label_progressTxt:setFontColor(_ccColor)
     item.Label_progress:setFontColor(_ccColor)
+
+    item.Label_progressTxt:setTextById(1890002)
 
     local _gap = table.count(data.reward) - #item.listAwards:getItems()
     if _gap > 0 then

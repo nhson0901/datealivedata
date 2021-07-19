@@ -33,8 +33,8 @@ local t =
 			touchAble = "False",
 			UILayoutViewModel = 
 			{
-				PositionX = 510,
-				PositionY = 334,
+				PositionX = 568,
+				PositionY = 320,
 				IsPercent = true,
 				PercentX = 50,
 				PercentY = 50,
@@ -329,7 +329,7 @@ local t =
 														PositionY = -20,
 													},
 													visible = "False",
-													width = "171",
+													width = "170",
 													ZOrder = "1",
 												},
 												{
@@ -505,7 +505,7 @@ local t =
 														PositionY = -20,
 													},
 													visible = "False",
-													width = "171",
+													width = "170",
 													ZOrder = "1",
 												},
 												{
@@ -681,7 +681,7 @@ local t =
 														PositionY = -20,
 													},
 													visible = "False",
-													width = "171",
+													width = "170",
 													ZOrder = "1",
 												},
 												{
@@ -1162,7 +1162,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "31",
+															height = "30",
 															ignoreSize = "True",
 															name = "Label_name",
 															nTextAlign = "1",
@@ -1178,7 +1178,7 @@ local t =
 															{
 																PositionX = 10,
 															},
-															width = "218",
+															width = "227",
 															ZOrder = "1",
 														},
 													},
@@ -1438,7 +1438,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -1542,7 +1542,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -1646,7 +1646,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -2056,7 +2056,7 @@ local t =
 												PercentX = 50.41,
 												PercentY = 28.46,
 											},
-											width = "135",
+											width = "134",
 											ZOrder = "1",
 										},
 										{
@@ -2105,7 +2105,7 @@ local t =
 												PercentX = 49.18,
 												PercentY = 8.14,
 											},
-											width = "56",
+											width = "55",
 											ZOrder = "1",
 										},
 									},

@@ -506,6 +506,7 @@ function AlertManager:hideInVisibleLayer( )
                     "ExhibitionRoomInfoView",
                     "GemComposeView",
                     "TaskLayer",
+                    "ZhouNianQingMain",
                 }
                 local isInsert = true
                 for k , v in pairs(removeShowName) do

@@ -541,6 +541,7 @@ function MainLayer:initUI(ui)
     local activityInfos = ActivityDataMgr2:getActivityInfo(nil,EC_ActivityType2.FANSHI_ASSIST)
     self.Button_Activity1001:setVisible(#activityInfos > 0)
 
+
     --showType:7 不在主界面用
     --local activityInfos = ActivityDataMgr2:getActivityInfo(nil,7)
     --self.Button_Activity7:setVisible((#activityInfos > 0)
@@ -861,8 +862,8 @@ function MainLayer:showLeftBtnAnim()
         if self.Button_activity2:isVisible() then
             table.insert(threeActivity , self.Button_activity2)
         end
-        if self.button_Caociyuan:isVisible() then
-            table.insert(threeActivity , self.button_Caociyuan)
+        if self.Button_Activity5:isVisible() then
+            table.insert(threeActivity , self.Button_Activity5)
         end
      end
     
@@ -910,7 +911,15 @@ function MainLayer:showLeftBtnAnim()
 
     --多个活动同时存在新增特殊处理 
     if #threeActivity == 2 then
-        local diffPos = {ccp(-80 , -20) , ccp(80 , -20)}
+
+        local diffPos = nil
+        if MainUISettingMgr:getui() == 100002 then
+            diffPos = {ccp(-80 , -20) , ccp(60 , 0)}
+        else
+
+            diffPos = {ccp(-80 , -20) , ccp(80 , -20)}
+        end
+
         for k , v in pairs(threeActivity) do
             v:setScale(0.6)
             v.orgPos = v.orgPos or v:getPosition()
@@ -3505,8 +3514,8 @@ function MainLayer:updateOneYearBtns()
             if self.Button_activity2:isVisible() then
                 table.insert(threeActivity , self.Button_activity2)
             end
-            if self.button_Caociyuan:isVisible() then
-                table.insert(threeActivity , self.button_Caociyuan)
+            if self.Button_Activity5:isVisible() then
+                table.insert(threeActivity , self.Button_Activity5)
             end
          end
             

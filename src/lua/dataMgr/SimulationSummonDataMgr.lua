@@ -67,18 +67,18 @@ function SimulationSummonDataMgr:onRecvSimulationSummonInfo(event)
 	if self.writeOpen then
 		self.writeOpen = false
 		
-		--if event.data.lastCid ~= nil and event.data.lastResult ~= nil then
-		--	showMessageBox("上一次招募未完成", EC_MessageBoxType.ok, function()
-		--		AlertManager:close()
-		--		Utils:openView("summon.SimulationSummonView",event.data)
-		--		Utils:openView("summon.SimulationSummonResultView",event.data.lastCid, event.data.lastResult)
-		--	end)
-		--	
-		--else	
+		if event.data.lastCid ~= nil and event.data.lastResult ~= nil then
+			showMessageBox("上一次招募未完成", EC_MessageBoxType.ok, function()
+				AlertManager:close()
+				Utils:openView("summon.SimulationSummonView",event.data)
+				Utils:openView("summon.SimulationSummonResultView",event.data.lastCid, event.data.lastResult)
+			end)
+			
+		else	
 			--TODO暂时屏蔽模拟召唤  2020 11 23
-			Utils:showTips(TextDataMgr:getText(2100109))
-			--Utils:openView("summon.SimulationSummonView",event.data)
-		--end
+			--Utils:showTips(TextDataMgr:getText(2100109))
+			Utils:openView("summon.SimulationSummonView",event.data)
+		end
 	end
 end
 

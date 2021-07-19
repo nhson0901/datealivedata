@@ -6581,7 +6581,6 @@ return {
         roleModel = 210312,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 230,
         },
         icon = "icon/role/dress_kanban/10314.png",
     },

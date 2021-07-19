@@ -148,7 +148,7 @@ function SimulationSummonMainView:updateCountDonw()
     local serverTime = ServerDataMgr:getServerTime()
     local remainTime = math.max(0, self.endTime_ - serverTime)
     local day, hour, min = Utils:getFuzzyDHMS(remainTime, true)
-	self.endTime:setText(day .. "天" .. hour .. "时" .. min .. "分")
+	self.endTime:setTextById(190000114 , day, hour , min)
 end
 
 
@@ -178,7 +178,7 @@ function SimulationSummonMainView:registerEvents()
 	self.Button_buy:onClick(function()
 		
 		if nil == self.selectSummonCfg_ then
-			Utils:showError("选择的卡池无效");
+			Utils:showError(TextDataMgr:getText(190001057));
 			return
 		end
 		
@@ -417,7 +417,7 @@ function SimulationSummonMainView:selectSummon(index)
 		self.dhIcon:setTexture(_cfg.icon)
 		self.dhCount:setText(GoodsDataMgr:getItemCount(k, false))
 		--dump(_cfg)
-		self.dhName:setText("当前拥有" .. TextDataMgr:getTextAttr(_cfg.nameTextId).text)
+		self.dhName:setTextById(1200001 , TextDataMgr:getTextAttr(_cfg.nameTextId).text)
 		break
 	end
 	

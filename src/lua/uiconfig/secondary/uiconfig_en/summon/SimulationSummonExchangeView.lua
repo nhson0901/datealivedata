@@ -357,7 +357,7 @@ local t =
 										PositionX = -357,
 										PositionY = 44,
 									},
-									width = "133",
+									width = "104",
 									ZOrder = "1",
 								},
 								{
@@ -399,7 +399,7 @@ local t =
 									controlID = "Label_isReceive_Panel_SimulationSummon1_Panel_root_Panel-SimulationSummonExchangeView_Simulation_summon_Game",
 									UUID = "7bd98b0a_af40_4ea0_b77a_dc4e0cbb9c1f",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -421,7 +421,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_isReceive",
 									nTextAlign = "1",
@@ -435,10 +435,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 309,
+										PositionX = 371,
 										PositionY = 44,
 									},
-									width = "80",
+									width = "150",
 									ZOrder = "1",
 								},
 							},
@@ -628,7 +628,7 @@ local t =
 										PositionX = -357,
 										PositionY = 44,
 									},
-									width = "133",
+									width = "131",
 									ZOrder = "1",
 								},
 								{
@@ -670,7 +670,7 @@ local t =
 									controlID = "Label_isReceive_Panel_SimulationSummon2_Panel_root_Panel-SimulationSummonExchangeView_Simulation_summon_Game",
 									UUID = "96860330_2384_4232_bfb0_78aa2cccb2e5",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -692,7 +692,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_isReceive",
 									nTextAlign = "1",
@@ -706,10 +706,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 309,
+										PositionX = 371,
 										PositionY = 44,
 									},
-									width = "80",
+									width = "150",
 									ZOrder = "1",
 								},
 							},
@@ -899,7 +899,7 @@ local t =
 										PositionX = -357,
 										PositionY = 44,
 									},
-									width = "133",
+									width = "115",
 									ZOrder = "1",
 								},
 								{
@@ -941,7 +941,7 @@ local t =
 									controlID = "Label_isReceive_Panel_SimulationSummon3_Panel_root_Panel-SimulationSummonExchangeView_Simulation_summon_Game",
 									UUID = "0d5da4c7_9c3e_4050_a1ac_95cff6c3c264",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -963,7 +963,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_isReceive",
 									nTextAlign = "1",
@@ -977,10 +977,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 309,
+										PositionX = 371,
 										PositionY = 44,
 									},
-									width = "80",
+									width = "150",
 									ZOrder = "1",
 								},
 							},
@@ -1038,15 +1038,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "30",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "34",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_SimulationSummonExchangeView_1",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -1061,7 +1061,7 @@ local t =
 									{
 										
 									},
-									width = "62",
+									width = "120",
 									ZOrder = "1",
 								},
 							},
@@ -1145,15 +1145,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "30",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "34",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_text",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -1168,7 +1168,7 @@ local t =
 									{
 										
 									},
-									width = "62",
+									width = "120",
 									ZOrder = "1",
 								},
 								{
@@ -1241,7 +1241,7 @@ local t =
 									{
 										PositionX = -85,
 									},
-									width = "49",
+									width = "48",
 									ZOrder = "1",
 								},
 							},
@@ -1399,14 +1399,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "26",
+									fontSize = "16",
 									fontStroke = 
 									{
 										IsStroke = true,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "34",
+									height = "20",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -1420,10 +1420,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -181,
+										PositionX = -196,
 										PositionY = 33,
 									},
-									width = "107",
+									width = "104",
 									ZOrder = "1",
 								},
 								{
@@ -1461,7 +1461,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "103",
+									height = "102",
 									ignoreSize = "True",
 									name = "Image_lock",
 									sizepercentx = "0",
@@ -1474,7 +1474,7 @@ local t =
 									{
 										
 									},
-									width = "431",
+									width = "434",
 									ZOrder = "1",
 								},
 							},

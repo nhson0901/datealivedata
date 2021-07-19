@@ -5,7 +5,7 @@ return {
         common = 15010183,
         group = 1,
         id = 1,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300017,
         items = {
             [1] = 750028,
@@ -41,7 +41,7 @@ return {
         common = 15010002,
         group = 1,
         id = 2,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300004,
         items = {
             [1] = 750028,
@@ -77,7 +77,7 @@ return {
         common = 15010003,
         group = 1,
         id = 3,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300007,
         items = {
             [1] = 750028,
@@ -113,7 +113,7 @@ return {
         common = 15010004,
         group = 1,
         id = 4,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300014,
         items = {
             [1] = 750028,
@@ -149,7 +149,7 @@ return {
         common = 15010005,
         group = 1,
         id = 5,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300015,
         items = {
             [1] = 750028,
@@ -185,7 +185,7 @@ return {
         common = 15010183,
         group = 1,
         id = 6,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300027,
         items = {
             [1] = 750015,
@@ -221,7 +221,7 @@ return {
         common = 15010002,
         group = 1,
         id = 7,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300005,
         items = {
             [1] = 750015,
@@ -257,7 +257,7 @@ return {
         common = 15010003,
         group = 1,
         id = 8,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300008,
         items = {
             [1] = 750015,
@@ -293,7 +293,7 @@ return {
         common = 15010004,
         group = 1,
         id = 9,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300024,
         items = {
             [1] = 750015,
@@ -329,7 +329,7 @@ return {
         common = 15010005,
         group = 1,
         id = 10,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300025,
         items = {
             [1] = 750015,
@@ -365,7 +365,7 @@ return {
         common = 15010183,
         group = 1,
         id = 11,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300037,
         items = {
             [1] = 750002,
@@ -401,7 +401,7 @@ return {
         common = 15010002,
         group = 1,
         id = 12,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300006,
         items = {
             [1] = 750002,
@@ -437,7 +437,7 @@ return {
         common = 15010003,
         group = 1,
         id = 13,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300009,
         items = {
             [1] = 750002,
@@ -473,7 +473,7 @@ return {
         common = 15010004,
         group = 1,
         id = 14,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300034,
         items = {
             [1] = 750002,
@@ -509,7 +509,7 @@ return {
         common = 15010005,
         group = 1,
         id = 15,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300035,
         items = {
             [1] = 750002,
@@ -545,7 +545,7 @@ return {
         common = 15010001,
         group = 2,
         id = 16,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300001,
         items = {
             [1] = 750028,
@@ -581,7 +581,7 @@ return {
         common = 15010183,
         group = 2,
         id = 17,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300017,
         items = {
             [1] = 750028,
@@ -617,7 +617,7 @@ return {
         common = 15010003,
         group = 2,
         id = 18,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300007,
         items = {
             [1] = 750028,
@@ -653,7 +653,7 @@ return {
         common = 15010004,
         group = 2,
         id = 19,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300014,
         items = {
             [1] = 750028,
@@ -689,7 +689,7 @@ return {
         common = 15010006,
         group = 2,
         id = 20,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300016,
         items = {
             [1] = 750028,
@@ -725,7 +725,7 @@ return {
         common = 15010001,
         group = 2,
         id = 21,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300002,
         items = {
             [1] = 750015,
@@ -761,7 +761,7 @@ return {
         common = 15010183,
         group = 2,
         id = 22,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300027,
         items = {
             [1] = 750015,
@@ -797,7 +797,7 @@ return {
         common = 15010003,
         group = 2,
         id = 23,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300008,
         items = {
             [1] = 750015,
@@ -833,7 +833,7 @@ return {
         common = 15010004,
         group = 2,
         id = 24,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300024,
         items = {
             [1] = 750015,
@@ -869,7 +869,7 @@ return {
         common = 15010006,
         group = 2,
         id = 25,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300026,
         items = {
             [1] = 750015,
@@ -905,7 +905,7 @@ return {
         common = 15010001,
         group = 2,
         id = 26,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300003,
         items = {
             [1] = 750002,
@@ -941,7 +941,7 @@ return {
         common = 15010183,
         group = 2,
         id = 27,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300037,
         items = {
             [1] = 750002,
@@ -977,7 +977,7 @@ return {
         common = 15010003,
         group = 2,
         id = 28,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300009,
         items = {
             [1] = 750002,
@@ -1013,7 +1013,7 @@ return {
         common = 15010004,
         group = 2,
         id = 29,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300034,
         items = {
             [1] = 750002,
@@ -1049,7 +1049,7 @@ return {
         common = 15010006,
         group = 2,
         id = 30,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300036,
         items = {
             [1] = 750002,
@@ -1085,7 +1085,7 @@ return {
         common = 15010001,
         group = 3,
         id = 31,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300001,
         items = {
             [1] = 750028,
@@ -1121,7 +1121,7 @@ return {
         common = 15010002,
         group = 3,
         id = 32,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300004,
         items = {
             [1] = 750028,
@@ -1157,7 +1157,7 @@ return {
         common = 15010003,
         group = 3,
         id = 33,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300007,
         items = {
             [1] = 750028,
@@ -1193,7 +1193,7 @@ return {
         common = 15010005,
         group = 3,
         id = 34,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300015,
         items = {
             [1] = 750028,
@@ -1229,7 +1229,7 @@ return {
         common = 15010006,
         group = 3,
         id = 35,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300016,
         items = {
             [1] = 750028,
@@ -1265,7 +1265,7 @@ return {
         common = 15010001,
         group = 3,
         id = 36,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300002,
         items = {
             [1] = 750015,
@@ -1301,7 +1301,7 @@ return {
         common = 15010002,
         group = 3,
         id = 37,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300005,
         items = {
             [1] = 750015,
@@ -1337,7 +1337,7 @@ return {
         common = 15010003,
         group = 3,
         id = 38,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300008,
         items = {
             [1] = 750015,
@@ -1373,7 +1373,7 @@ return {
         common = 15010005,
         group = 3,
         id = 39,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300025,
         items = {
             [1] = 750015,
@@ -1409,7 +1409,7 @@ return {
         common = 15010006,
         group = 3,
         id = 40,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300026,
         items = {
             [1] = 750015,
@@ -1445,7 +1445,7 @@ return {
         common = 15010001,
         group = 3,
         id = 41,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300003,
         items = {
             [1] = 750002,
@@ -1481,7 +1481,7 @@ return {
         common = 15010002,
         group = 3,
         id = 42,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300006,
         items = {
             [1] = 750002,
@@ -1517,7 +1517,7 @@ return {
         common = 15010003,
         group = 3,
         id = 43,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300009,
         items = {
             [1] = 750002,
@@ -1553,7 +1553,7 @@ return {
         common = 15010005,
         group = 3,
         id = 44,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300035,
         items = {
             [1] = 750002,
@@ -1589,7 +1589,7 @@ return {
         common = 15010006,
         group = 3,
         id = 45,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300036,
         items = {
             [1] = 750002,
@@ -1625,7 +1625,7 @@ return {
         common = 15010001,
         group = 4,
         id = 46,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300001,
         items = {
             [1] = 750028,
@@ -1661,7 +1661,7 @@ return {
         common = 15010002,
         group = 4,
         id = 47,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300004,
         items = {
             [1] = 750028,
@@ -1697,7 +1697,7 @@ return {
         common = 15010183,
         group = 4,
         id = 48,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300017,
         items = {
             [1] = 750028,
@@ -1733,7 +1733,7 @@ return {
         common = 15010005,
         group = 4,
         id = 49,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300015,
         items = {
             [1] = 750028,
@@ -1769,7 +1769,7 @@ return {
         common = 15010006,
         group = 4,
         id = 50,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300016,
         items = {
             [1] = 750028,
@@ -1805,7 +1805,7 @@ return {
         common = 15010001,
         group = 4,
         id = 51,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300002,
         items = {
             [1] = 750015,
@@ -1841,7 +1841,7 @@ return {
         common = 15010002,
         group = 4,
         id = 52,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300005,
         items = {
             [1] = 750015,
@@ -1877,7 +1877,7 @@ return {
         common = 15010183,
         group = 4,
         id = 53,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300027,
         items = {
             [1] = 750015,
@@ -1913,7 +1913,7 @@ return {
         common = 15010005,
         group = 4,
         id = 54,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300025,
         items = {
             [1] = 750015,
@@ -1949,7 +1949,7 @@ return {
         common = 15010006,
         group = 4,
         id = 55,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300026,
         items = {
             [1] = 750015,
@@ -1985,7 +1985,7 @@ return {
         common = 15010001,
         group = 4,
         id = 56,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300003,
         items = {
             [1] = 750002,
@@ -2021,7 +2021,7 @@ return {
         common = 15010002,
         group = 4,
         id = 57,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300006,
         items = {
             [1] = 750002,
@@ -2057,7 +2057,7 @@ return {
         common = 15010183,
         group = 4,
         id = 58,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300037,
         items = {
             [1] = 750002,
@@ -2093,7 +2093,7 @@ return {
         common = 15010005,
         group = 4,
         id = 59,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300035,
         items = {
             [1] = 750002,
@@ -2129,7 +2129,7 @@ return {
         common = 15010006,
         group = 4,
         id = 60,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300036,
         items = {
             [1] = 750002,
@@ -2165,7 +2165,7 @@ return {
         common = 15010001,
         group = 5,
         id = 61,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300001,
         items = {
             [1] = 750028,
@@ -2201,7 +2201,7 @@ return {
         common = 15010003,
         group = 5,
         id = 62,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300007,
         items = {
             [1] = 750028,
@@ -2237,7 +2237,7 @@ return {
         common = 15010004,
         group = 5,
         id = 63,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300014,
         items = {
             [1] = 750028,
@@ -2273,7 +2273,7 @@ return {
         common = 15010183,
         group = 5,
         id = 64,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300017,
         items = {
             [1] = 750028,
@@ -2309,7 +2309,7 @@ return {
         common = 15010006,
         group = 5,
         id = 65,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300016,
         items = {
             [1] = 750028,
@@ -2345,7 +2345,7 @@ return {
         common = 15010001,
         group = 5,
         id = 66,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300002,
         items = {
             [1] = 750015,
@@ -2381,7 +2381,7 @@ return {
         common = 15010003,
         group = 5,
         id = 67,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300008,
         items = {
             [1] = 750015,
@@ -2417,7 +2417,7 @@ return {
         common = 15010004,
         group = 5,
         id = 68,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300024,
         items = {
             [1] = 750015,
@@ -2453,7 +2453,7 @@ return {
         common = 15010183,
         group = 5,
         id = 69,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300027,
         items = {
             [1] = 750015,
@@ -2489,7 +2489,7 @@ return {
         common = 15010006,
         group = 5,
         id = 70,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300026,
         items = {
             [1] = 750015,
@@ -2525,7 +2525,7 @@ return {
         common = 15010001,
         group = 5,
         id = 71,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300003,
         items = {
             [1] = 750002,
@@ -2561,7 +2561,7 @@ return {
         common = 15010003,
         group = 5,
         id = 72,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300009,
         items = {
             [1] = 750002,
@@ -2597,7 +2597,7 @@ return {
         common = 15010004,
         group = 5,
         id = 73,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300034,
         items = {
             [1] = 750002,
@@ -2633,7 +2633,7 @@ return {
         common = 15010183,
         group = 5,
         id = 74,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300037,
         items = {
             [1] = 750002,
@@ -2669,7 +2669,7 @@ return {
         common = 15010006,
         group = 5,
         id = 75,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300036,
         items = {
             [1] = 750002,
@@ -2705,7 +2705,7 @@ return {
         common = 15010002,
         group = 6,
         id = 76,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300004,
         items = {
             [1] = 750028,
@@ -2741,7 +2741,7 @@ return {
         common = 15010003,
         group = 6,
         id = 77,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300007,
         items = {
             [1] = 750028,
@@ -2777,7 +2777,7 @@ return {
         common = 15010004,
         group = 6,
         id = 78,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300014,
         items = {
             [1] = 750028,
@@ -2813,7 +2813,7 @@ return {
         common = 15010005,
         group = 6,
         id = 79,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300015,
         items = {
             [1] = 750028,
@@ -2849,7 +2849,7 @@ return {
         common = 15010183,
         group = 6,
         id = 80,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300017,
         items = {
             [1] = 750028,
@@ -2885,7 +2885,7 @@ return {
         common = 15010002,
         group = 6,
         id = 81,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300005,
         items = {
             [1] = 750015,
@@ -2921,7 +2921,7 @@ return {
         common = 15010003,
         group = 6,
         id = 82,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300008,
         items = {
             [1] = 750015,
@@ -2957,7 +2957,7 @@ return {
         common = 15010004,
         group = 6,
         id = 83,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300024,
         items = {
             [1] = 750015,
@@ -2993,7 +2993,7 @@ return {
         common = 15010005,
         group = 6,
         id = 84,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300025,
         items = {
             [1] = 750015,
@@ -3029,7 +3029,7 @@ return {
         common = 15010183,
         group = 6,
         id = 85,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300027,
         items = {
             [1] = 750015,
@@ -3065,7 +3065,7 @@ return {
         common = 15010002,
         group = 6,
         id = 86,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300006,
         items = {
             [1] = 750002,
@@ -3101,7 +3101,7 @@ return {
         common = 15010003,
         group = 6,
         id = 87,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300009,
         items = {
             [1] = 750002,
@@ -3137,7 +3137,7 @@ return {
         common = 15010004,
         group = 6,
         id = 88,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300034,
         items = {
             [1] = 750002,
@@ -3173,7 +3173,7 @@ return {
         common = 15010005,
         group = 6,
         id = 89,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300035,
         items = {
             [1] = 750002,
@@ -3209,7 +3209,7 @@ return {
         common = 15010183,
         group = 6,
         id = 90,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300037,
         items = {
             [1] = 750002,
@@ -3245,7 +3245,7 @@ return {
         common = 15010001,
         group = 7,
         id = 91,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300001,
         items = {
             [1] = 750028,
@@ -3281,7 +3281,7 @@ return {
         common = 15010002,
         group = 7,
         id = 92,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300004,
         items = {
             [1] = 750028,
@@ -3317,7 +3317,7 @@ return {
         common = 15010183,
         group = 7,
         id = 93,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300017,
         items = {
             [1] = 750028,
@@ -3353,7 +3353,7 @@ return {
         common = 15010004,
         group = 7,
         id = 94,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300014,
         items = {
             [1] = 750028,
@@ -3389,7 +3389,7 @@ return {
         common = 15010005,
         group = 7,
         id = 95,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300015,
         items = {
             [1] = 750028,
@@ -3425,7 +3425,7 @@ return {
         common = 15010001,
         group = 7,
         id = 96,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300002,
         items = {
             [1] = 750015,
@@ -3461,7 +3461,7 @@ return {
         common = 15010002,
         group = 7,
         id = 97,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300005,
         items = {
             [1] = 750015,
@@ -3497,7 +3497,7 @@ return {
         common = 15010183,
         group = 7,
         id = 98,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300027,
         items = {
             [1] = 750015,
@@ -3533,7 +3533,7 @@ return {
         common = 15010004,
         group = 7,
         id = 99,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300024,
         items = {
             [1] = 750015,
@@ -3569,7 +3569,7 @@ return {
         common = 15010005,
         group = 7,
         id = 100,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300025,
         items = {
             [1] = 750015,
@@ -3605,7 +3605,7 @@ return {
         common = 15010001,
         group = 7,
         id = 101,
-        dungeonName = "190200142",
+        dungeonName = 190200142,
         dungeonLevelId = 2300003,
         items = {
             [1] = 750002,
@@ -3641,7 +3641,7 @@ return {
         common = 15010002,
         group = 7,
         id = 102,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300006,
         items = {
             [1] = 750002,
@@ -3677,7 +3677,7 @@ return {
         common = 15010183,
         group = 7,
         id = 103,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300037,
         items = {
             [1] = 750002,
@@ -3713,7 +3713,7 @@ return {
         common = 15010004,
         group = 7,
         id = 104,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300034,
         items = {
             [1] = 750002,
@@ -3749,7 +3749,7 @@ return {
         common = 15010005,
         group = 7,
         id = 105,
-        dungeonName = "190200141",
+        dungeonName = 190200141,
         dungeonLevelId = 2300035,
         items = {
             [1] = 750002,
@@ -3785,7 +3785,7 @@ return {
         common = 15010183,
         group = 8,
         id = 106,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300017,
         items = {
             [1] = 750028,
@@ -3821,7 +3821,7 @@ return {
         common = 15010002,
         group = 8,
         id = 107,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300004,
         items = {
             [1] = 750028,
@@ -3857,7 +3857,7 @@ return {
         common = 15010003,
         group = 8,
         id = 108,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300007,
         items = {
             [1] = 750028,
@@ -3893,7 +3893,7 @@ return {
         common = 15010004,
         group = 8,
         id = 109,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300014,
         items = {
             [1] = 750028,
@@ -3929,7 +3929,7 @@ return {
         common = 15010006,
         group = 8,
         id = 110,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300016,
         items = {
             [1] = 750028,
@@ -3965,7 +3965,7 @@ return {
         common = 15010183,
         group = 8,
         id = 111,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300027,
         items = {
             [1] = 750015,
@@ -4001,7 +4001,7 @@ return {
         common = 15010002,
         group = 8,
         id = 112,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300005,
         items = {
             [1] = 750015,
@@ -4037,7 +4037,7 @@ return {
         common = 15010003,
         group = 8,
         id = 113,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300008,
         items = {
             [1] = 750015,
@@ -4073,7 +4073,7 @@ return {
         common = 15010004,
         group = 8,
         id = 114,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300024,
         items = {
             [1] = 750015,
@@ -4109,7 +4109,7 @@ return {
         common = 15010006,
         group = 8,
         id = 115,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300026,
         items = {
             [1] = 750015,
@@ -4145,7 +4145,7 @@ return {
         common = 15010183,
         group = 8,
         id = 116,
-        dungeonName = "190200137",
+        dungeonName = 190200137,
         dungeonLevelId = 2300037,
         items = {
             [1] = 750002,
@@ -4181,7 +4181,7 @@ return {
         common = 15010002,
         group = 8,
         id = 117,
-        dungeonName = "190200138",
+        dungeonName = 190200138,
         dungeonLevelId = 2300006,
         items = {
             [1] = 750002,
@@ -4217,7 +4217,7 @@ return {
         common = 15010003,
         group = 8,
         id = 118,
-        dungeonName = "190200139",
+        dungeonName = 190200139,
         dungeonLevelId = 2300009,
         items = {
             [1] = 750002,
@@ -4253,7 +4253,7 @@ return {
         common = 15010004,
         group = 8,
         id = 119,
-        dungeonName = "190200140",
+        dungeonName = 190200140,
         dungeonLevelId = 2300034,
         items = {
             [1] = 750002,
@@ -4289,7 +4289,7 @@ return {
         common = 15010006,
         group = 8,
         id = 120,
-        dungeonName = "190200143",
+        dungeonName = 190200143,
         dungeonLevelId = 2300036,
         items = {
             [1] = 750002,

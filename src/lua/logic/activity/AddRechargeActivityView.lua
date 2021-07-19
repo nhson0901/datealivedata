@@ -15,11 +15,7 @@ function AddRechargeActivityView:ctor(...)
     elseif self.activityInfo_.extendData.activityShowType == 91 then
         self:init("lua.uiconfig.activity.whiteQueenAddRechargeActivityView") 
     else
-        if TFGlobalUtils:isConnectKoreaTwServer() then
-            self:init("lua.uiconfig.activity.addRechargeActivityView6")
-        else
-            self:init("lua.uiconfig.activity.addRechargeActivityView")
-        end
+        self:init("lua.uiconfig.activity.addRechargeActivityView")
     end
 end
 

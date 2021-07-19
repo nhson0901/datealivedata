@@ -32,11 +32,11 @@ function ServerListView:initUI(ui)
         self.Button_serverListItem:setTextureNormal("ui/login/oneYear/2.png")
         self.Button_serverListItem:setTexturePressed("ui/login/oneYear/2.png")
     elseif TFGlobalUtils:isConnectEnServer() then
-        self.Button_serverListItem:setTextureNormal("ui/login/7.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/7.png")
-    elseif TFGlobalUtils:isConnectKoreaTwServer() then
         self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
         self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
+    elseif TFGlobalUtils:isConnectKoreaTwServer() then
+        self.Button_serverListItem:setTextureNormal("ui/login/7.png")
+        self.Button_serverListItem:setTexturePressed("ui/login/7.png")
     else
         self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
         self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
@@ -55,11 +55,11 @@ function ServerListView:showServerGroup()
         self.ListView_groupList:pushBackCustomItem(item)
         local Label_name = TFDirector:getChildByPath(item, "Label_name")
         if TFGlobalUtils:isConnectKoreaTwServer( ) then
-            Label_name:setFontColor(ccc3(146 , 216 , 244))
+            Label_name:setFontColor(ccc3(255 , 255 , 255))
         elseif TFGlobalUtils:isConnectMiniServer() then
-            Label_name:setFontColor(ccc3(146 , 216 , 244))
+            Label_name:setFontColor(ccc3(255 , 255 , 255))
         elseif TFGlobalUtils:isConnectEnServer() then
-            Label_name:setFontColor(ccc3(252 , 245 , 216))
+            Label_name:setFontColor(ccc3(255 , 255 , 255))
         end
 
         if (_group.groupType == GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE) or (_group.groupType == GLOBAL_SERVER_LIST.SERVER_KOREA_TW) then

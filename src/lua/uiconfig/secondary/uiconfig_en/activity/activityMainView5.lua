@@ -102,8 +102,8 @@ local t =
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
-							srcBlendFunc = "1",
-							texturePath = "ui/activity/courage/enter/bg.png",
+							srcBlendFunc = "770",
+							texturePath = "ui/activity/bingKai/main/bg.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -151,31 +151,6 @@ local t =
 							ZOrder = "1",
 						},
 						{
-							controlID = "Image_activityMainView5_1_Panel_root_Panel-activityMainView5_activityStyleModel_activity_Game",
-							UUID = "b8303cf1_c2b8_4fde_a722_1785526c34fd",
-							anchorPoint = "False",
-							anchorPointX = "0.5",
-							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
-							classname = "MEImage",
-							dstBlendFunc = "771",
-							height = "640",
-							ignoreSize = "True",
-							name = "Image_activityMainView5_1",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "1",
-							texturePath = "ui/activity/courage/enter/COVER.png",
-							touchAble = "False",
-							UILayoutViewModel = 
-							{
-								
-							},
-							width = "1386",
-							ZOrder = "1",
-						},
-						{
 							controlID = "ScrollView_activity_Panel_root_Panel-activityMainView5_activityStyleModel_activity_Game",
 							UUID = "a1ec4020_f2c8_4484_8228_67d3531e06fe",
 							anchorPoint = "False",
@@ -202,7 +177,7 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = -570,
+								PositionX = -566,
 								PositionY = -35,
 							},
 							uipanelviewmodel = 
@@ -273,7 +248,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "70",
+							height = "84",
 							ignoreSize = "False",
 							name = "Panel_activityItem",
 							sizepercentx = "0",
@@ -283,15 +258,15 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -556,
-								PositionY = 812,
+								PositionX = -441,
+								PositionY = 181,
 							},
 							uipanelviewmodel = 
 							{
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "198",
+							width = "207",
 							ZOrder = "1",
 							components = 
 							{
@@ -305,21 +280,21 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "70",
+									height = "84",
 									ignoreSize = "True",
 									name = "ImageNormal",
-									opacity = "200",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/courage/enter/002.png",
+									texturePath = "ui/activity/bingKai/main/1-1.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "202",
+									visible = "False",
+									width = "207",
 									ZOrder = "1",
 									components = 
 									{
@@ -328,12 +303,12 @@ local t =
 											controlID = "activityName_ImageNormal_Panel_activityItem_Panel_prefab_Panel-activityMainView5_activityStyleModel_activity_Game",
 											UUID = "45c75b40_a6e1_4e29_b1f9_17b58ad7db6a",
 											anchorPoint = "False",
-											anchorPointX = "1",
-											anchorPointY = "0.5",
+											anchorPointX = "0",
+											anchorPointY = "0",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
+											FontColor = "#FF68A6FA",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -347,11 +322,11 @@ local t =
 											fontStroke = 
 											{
 												IsStroke = true,
-												StrokeColor = "#FFB32E72",
+												StrokeColor = "#FF182B64",
 												StrokeSize = 2,
 											},
-											height = "31",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "activityName",
 											nTextAlign = "0",
 											nTextHAlign = "0",
@@ -359,15 +334,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Event Name",
+											text = "活动名字",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 92,
-												PositionY = -15,
+												PositionX = -101,
+												PositionY = -41,
 											},
-											width = "92",
+											width = "140",
 											ZOrder = "1",
 										},
 										{
@@ -407,21 +382,20 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "70",
+									height = "84",
 									ignoreSize = "True",
 									name = "ImageSelect",
-									opacity = "200",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/courage/enter/001.png",
+									texturePath = "ui/activity/bingKai/main/1.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "202",
+									width = "207",
 									ZOrder = "1",
 									components = 
 									{
@@ -430,8 +404,8 @@ local t =
 											controlID = "activityName_ImageSelect_Panel_activityItem_Panel_prefab_Panel-activityMainView5_activityStyleModel_activity_Game",
 											UUID = "9001331c_56da_4106_81cb_c7efd799d28e",
 											anchorPoint = "False",
-											anchorPointX = "1",
-											anchorPointY = "0.5",
+											anchorPointX = "0",
+											anchorPointY = "0",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
@@ -449,11 +423,11 @@ local t =
 											fontStroke = 
 											{
 												IsStroke = true,
-												StrokeColor = "#FFFC6A23",
+												StrokeColor = "#FF182B64",
 												StrokeSize = 2,
 											},
-											height = "31",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "activityName",
 											nTextAlign = "0",
 											nTextHAlign = "0",
@@ -461,15 +435,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Event Name",
+											text = "活动名字",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 92,
-												PositionY = -15,
+												PositionX = -101,
+												PositionY = -41,
 											},
-											width = "92",
+											width = "140",
 											ZOrder = "1",
 										},
 										{
@@ -521,6 +495,7 @@ local t =
 												PositionX = 71,
 												PositionY = 12,
 											},
+											visible = "False",
 											width = "47",
 											ZOrder = "1",
 										},
@@ -541,11 +516,10 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/courage/enter/bg.png",
-			"ui/activity/courage/enter/COVER.png",
-			"ui/activity/courage/enter/002.png",
+			"ui/activity/bingKai/main/bg.png",
+			"ui/activity/bingKai/main/1-1.png",
 			"ui/common/news_small.png",
-			"ui/activity/courage/enter/001.png",
+			"ui/activity/bingKai/main/1.png",
 			"ui/activity/activityMain3/n4.png",
 		},
 		armatures = 

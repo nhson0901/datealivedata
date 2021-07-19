@@ -105,11 +105,11 @@ end
 
 function WelfareView:updateActivity()
     self.activityInfo_ = ActivityDataMgr2:getActivityInfo(self.activityId_)
-    local startDate = Utils:getLocalDate(self.activityInfo_.startTime)
+    local startDate = Utils:getUTCDate(self.activityInfo_.startTime , GV_UTC_TIME_ZONE)
     local startDateStr = startDate:fmt("%m.%d")
-    local endDate = Utils:getLocalDate(self.activityInfo_.endTime)
+    local endDate = Utils:getUTCDate(self.activityInfo_.endTime , GV_UTC_TIME_ZONE)
     local endDateStr = endDate:fmt("%m.%d")
-    self.Label_time:setTextById(800041, startDateStr, endDateStr)
+    self.Label_time:setText(TextDataMgr:getText(800041, startDateStr, endDateStr)..GV_UTC_TIME_STRING)
 end
 
 function WelfareView:initUILogic()
@@ -284,7 +284,7 @@ function WelfareView:updateDayVoteNum()
         local voteCnt,maxCnt = SummonDataMgr:getDayVoteCnt(summonCfg.groupId)
         local lefeCnt = maxCnt - voteCnt
         lefeCnt = lefeCnt < 0 and 0 or lefeCnt
-        self.Label_vote_cnt:setText("今日剩余"..lefeCnt.."/"..maxCnt.."次翻牌，消耗"..self.costItem_[1].num.."个")
+        self.Label_vote_cnt:setTextById(190001047 , lefeCnt , maxCnt ,  self.costItem_[1].num)
     end
 end
 
@@ -310,7 +310,7 @@ function WelfareView:updateSummonCost()
         local costCfg = GoodsDataMgr:getItemCfg(costId)
         self.Image_icon:setTexture(costCfg.icon)
         self.Image_cost_icon:setTexture(costCfg.icon)
-        self.Label_num:setText("拥有："..ownNum)
+        self.Label_num:setTextById(3005031 , ownNum)
         self.Image_icon:onClick(function()
             Utils:showInfo(costId, nil, true)
         end)

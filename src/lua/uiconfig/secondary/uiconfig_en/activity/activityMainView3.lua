@@ -103,7 +103,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/activityStyle/mainFrame/styleCur/bg.png",
+							texturePath = "ui/activity/anniversary/ui_bg1.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -197,20 +197,20 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "98",
+							height = "118",
 							ignoreSize = "True",
 							name = "Image_flag",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/activityStyle/mainFrame/styleCur/001.png",
+							texturePath = "ui/activity/anniversary/ui_011.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
 								PositionY = 250,
 							},
-							width = "216",
+							width = "1386",
 							ZOrder = "1",
 						},
 					},
@@ -241,7 +241,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = 561,
-						PositionY = -286,
+						PositionY = -328,
 						LeftPositon = -7,
 						TopPosition = 675,
 						relativeToName = "Panel",
@@ -332,20 +332,20 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "16",
+											height = "68",
 											ignoreSize = "True",
 											name = "Image_item_bg",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/anniversary/ui_010.png",
+											texturePath = "ui/activity/anniversary/ui_009.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 34,
+												PositionX = 64,
 											},
-											width = "10",
+											width = "206",
 											ZOrder = "-1",
 										},
 										{
@@ -367,7 +367,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "18",
+											fontSize = "15",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -383,14 +383,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "福利來襲",
+											text = "福利来袭",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 98,
+												PositionX = 88,
 											},
-											width = "120",
+											width = "100",
 											ZOrder = "1",
 										},
 										{
@@ -428,7 +428,7 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "98",
+											height = "82",
 											ignoreSize = "True",
 											name = "Image_line",
 											sizepercentx = "0",
@@ -442,7 +442,7 @@ local t =
 												PositionX = 89,
 												PositionY = -32,
 											},
-											width = "216",
+											width = "217",
 											ZOrder = "1",
 										},
 									},
@@ -484,20 +484,20 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "2",
+											height = "93",
 											ignoreSize = "True",
 											name = "Image_item_bg",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/activityStyle/mainFrame/styleCur/004.png",
+											texturePath = "ui/activity/anniversary/welfare_02.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = 59,
 											},
-											width = "2",
+											width = "222",
 											ZOrder = "-1",
 										},
 										{
@@ -519,7 +519,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "18",
+											fontSize = "15",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -535,14 +535,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "登入應援",
+											text = "登录应援",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 97,
+												PositionX = 87,
 											},
-											width = "120",
+											width = "100",
 											ZOrder = "1",
 										},
 										{
@@ -588,14 +588,14 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/activityStyle/mainFrame/styleCur/bg.png",
-			"ui/activity/activityStyle/mainFrame/styleCur/001.png",
+			"ui/activity/anniversary/ui_bg1.png",
+			"ui/activity/anniversary/ui_011.png",
 			"ui/activity/anniversary/ui_002.png",
-			"ui/activity/anniversary/ui_010.png",
+			"ui/activity/anniversary/ui_009.png",
 			"ui/common/news_small.png",
 			"ui/activity/activityStyle/mainFrame/styleCur/003.png",
 			"ui/activity/anniversary/ui_001.png",
-			"ui/activity/activityStyle/mainFrame/styleCur/004.png",
+			"ui/activity/anniversary/welfare_02.png",
 		},
 		armatures = 
 		{

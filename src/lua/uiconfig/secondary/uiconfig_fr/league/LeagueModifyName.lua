@@ -105,8 +105,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 510,
-								PositionY = 334,
+								PositionX = 480,
+								PositionY = 320,
 								IsPercent = true,
 								PercentX = 50,
 								PercentY = 50,

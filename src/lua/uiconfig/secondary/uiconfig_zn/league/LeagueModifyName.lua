@@ -323,7 +323,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "（不能超过8位字符）",
+									text = "（不能超过16位字符）",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -331,7 +331,7 @@ local t =
 										PositionX = 154,
 										PositionY = -39,
 									},
-									width = "167",
+									width = "177",
 									ZOrder = "1",
 								},
 								{
@@ -441,7 +441,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -458,7 +458,7 @@ local t =
 										PositionX = -249,
 										PositionY = 130,
 									},
-									width = "129",
+									width = "130",
 									ZOrder = "1",
 								},
 								{
@@ -504,7 +504,7 @@ local t =
 										PositionX = -120,
 										PositionY = 128,
 									},
-									width = "115",
+									width = "113",
 									ZOrder = "1",
 								},
 								{

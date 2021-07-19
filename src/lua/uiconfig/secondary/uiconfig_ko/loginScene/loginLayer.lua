@@ -189,7 +189,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFCEF1FF",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -234,7 +234,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF92D8F4",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -1305,7 +1305,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF92D8F4",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -1641,7 +1641,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "70",
 							ignoreSize = "True",
 							name = "Button_User_proto",
 							normal = "ui/login/004.png",
@@ -1658,7 +1658,7 @@ local t =
 								relativeToName = "Panel",
 							},
 							UItype = "Button",
-							width = "63",
+							width = "70",
 							ZOrder = "1",
 							components = 
 							{
@@ -1724,7 +1724,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "70",
 							ignoreSize = "True",
 							name = "Button_Conceal_proto",
 							normal = "ui/login/003.png",
@@ -1741,7 +1741,7 @@ local t =
 								relativeToName = "Panel",
 							},
 							UItype = "Button",
-							width = "63",
+							width = "70",
 							ZOrder = "1",
 							components = 
 							{
@@ -1805,7 +1805,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "70",
 							ignoreSize = "True",
 							name = "Button_notice",
 							normal = "ui/login/002.png",
@@ -1822,7 +1822,7 @@ local t =
 								relativeToName = "Panel",
 							},
 							UItype = "Button",
-							width = "63",
+							width = "70",
 							ZOrder = "1",
 							components = 
 							{

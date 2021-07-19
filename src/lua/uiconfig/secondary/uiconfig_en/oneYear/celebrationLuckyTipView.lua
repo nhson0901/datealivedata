@@ -221,7 +221,7 @@ local t =
 													{
 														PositionX = 25,
 													},
-													width = "87",
+													width = "76",
 													ZOrder = "1",
 												},
 												{
@@ -266,7 +266,7 @@ local t =
 													{
 														PositionX = 816,
 													},
-													width = "90",
+													width = "85",
 													ZOrder = "1",
 												},
 											},
@@ -367,7 +367,7 @@ local t =
 									UUID = "79114975_a408_4fef_913f_8e89ab93e9ee",
 									anchorPoint = "False",
 									anchorPointX = "0",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -381,18 +381,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "29",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_hero_name",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -403,9 +403,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -326,
-										PositionY = -3,
+										PositionY = 11,
 									},
-									width = "76",
+									width = "742",
 									ZOrder = "1",
 								},
 								{
@@ -487,7 +487,7 @@ local t =
 										PositionX = -324,
 										PositionY = -43,
 									},
-									width = "20",
+									width = "17",
 									ZOrder = "1",
 								},
 							},

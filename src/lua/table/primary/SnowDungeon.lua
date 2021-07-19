@@ -24,7 +24,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -77,7 +77,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -130,7 +130,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -183,7 +183,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -227,7 +227,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -271,7 +271,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -324,7 +324,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -377,7 +377,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -430,7 +430,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -479,7 +479,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -528,7 +528,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -581,7 +581,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -630,7 +630,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -679,7 +679,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -732,7 +732,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -785,7 +785,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -834,7 +834,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -887,7 +887,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -940,7 +940,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -989,7 +989,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -1038,7 +1038,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -1087,7 +1087,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -1140,7 +1140,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -1184,7 +1184,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -1233,7 +1233,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -1286,7 +1286,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,
@@ -1339,7 +1339,7 @@ return {
         ignoreRepeat = true,
         lvlLimit = {
             [1] = 1,
-            [2] = 70,
+            [2] = 80,
         },
         cost = {
             [500004] = 10,

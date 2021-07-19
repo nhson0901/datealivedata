@@ -422,7 +422,7 @@ function DatingScriptView:initOptionView()
                 self.currentNodeId = id
             end)
     self.optionView:setZOrder(10)
-    self:addLayerToNode(self.optionView, self.Panel_optionView)
+    self:addLayerToNode(self.optionView, self.Panel_optionView , 1)
 
     --local ws = GameConfig.WS
     --if ws.width >= 1386 then

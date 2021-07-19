@@ -196,7 +196,7 @@ local t =
 									controlID = "Label_tip1_Image_tip1_Panel_base_Panel-chapterDetailView_zhounianqing_activity_Game",
 									UUID = "5b2c837f_b65e_4354_a9ce_e00751e6986f",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -211,14 +211,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_tip1",
 									nTextAlign = "1",
@@ -232,10 +232,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -20,
+										PositionX = -80,
 										PositionY = -2,
 									},
-									width = "99",
+									width = "96",
 									ZOrder = "1",
 								},
 							},
@@ -272,7 +272,7 @@ local t =
 									controlID = "Label_tip2_Image_tip2_Panel_base_Panel-chapterDetailView_zhounianqing_activity_Game",
 									UUID = "f6a4dba3_0642_4efe_93dd_cd5932a6db8a",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -287,14 +287,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_tip2",
 									nTextAlign = "1",
@@ -308,10 +308,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -20,
+										PositionX = -80,
 										PositionY = -2,
 									},
-									width = "99",
+									width = "118",
 									ZOrder = "1",
 								},
 							},
@@ -342,7 +342,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_name",
 							nTextAlign = "1",
@@ -359,7 +359,7 @@ local t =
 								PositionX = 170,
 								PositionY = 502,
 							},
-							width = "114",
+							width = "211",
 							ZOrder = "1",
 						},
 						{
@@ -395,6 +395,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "159",
 							ZOrder = "1",
 							components = 
@@ -523,7 +524,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "22",
+							fontSize = "18",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -601,15 +602,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_chapterDetailView_1",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -624,7 +625,7 @@ local t =
 									{
 										
 									},
-									width = "99",
+									width = "120",
 									ZOrder = "1",
 								},
 							},
@@ -680,15 +681,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_chapterDetailView_1",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -703,7 +704,7 @@ local t =
 									{
 										
 									},
-									width = "99",
+									width = "120",
 									ZOrder = "1",
 								},
 							},
@@ -989,7 +990,7 @@ local t =
 											{
 												PositionY = -63,
 											},
-											width = "29",
+											width = "31",
 											ZOrder = "1",
 										},
 									},

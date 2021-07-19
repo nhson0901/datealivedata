@@ -178,7 +178,7 @@ local t =
 										PositionX = 417,
 										PositionY = -51,
 									},
-									width = "63",
+									width = "62",
 									ZOrder = "1",
 								},
 								{
@@ -272,7 +272,7 @@ local t =
 										PositionY = -19,
 									},
 									visible = "False",
-									width = "239",
+									width = "256",
 									ZOrder = "1",
 								},
 								{
@@ -347,7 +347,7 @@ local t =
 										PositionY = 11,
 									},
 									visible = "False",
-									width = "239",
+									width = "256",
 									ZOrder = "1",
 								},
 								{
@@ -395,7 +395,7 @@ local t =
 										PositionY = 42,
 									},
 									visible = "False",
-									width = "239",
+									width = "256",
 									ZOrder = "1",
 								},
 							},
@@ -589,14 +589,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "54",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_desc",
 									nTextAlign = "0",
@@ -661,14 +661,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "18",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_progress_title",
 									nTextAlign = "1",
@@ -685,7 +685,7 @@ local t =
 										PositionX = -296,
 										PositionY = -39,
 									},
-									width = "125",
+									width = "143",
 									ZOrder = "1",
 								},
 								{
@@ -728,7 +728,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -51,
+										PositionX = -34,
 										PositionY = -39,
 									},
 									width = "80",
@@ -934,7 +934,7 @@ local t =
 										PositionX = 342,
 										PositionY = -23,
 									},
-									width = "91",
+									width = "82",
 									ZOrder = "1",
 								},
 								{
@@ -1006,7 +1006,7 @@ local t =
 										PositionX = -25,
 										PositionY = 52,
 									},
-									width = "150",
+									width = "135",
 									ZOrder = "1",
 									components = 
 									{
@@ -1113,7 +1113,7 @@ local t =
 											{
 												
 											},
-											width = "42",
+											width = "45",
 											ZOrder = "1",
 										},
 									},

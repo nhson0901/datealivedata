@@ -236,7 +236,7 @@ local t =
 											{
 												
 											},
-											width = "229",
+											width = "222",
 											ZOrder = "1",
 										},
 									},
@@ -276,7 +276,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "请输入新的社团名称",
+									text = "Please enter a new club name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -285,7 +285,7 @@ local t =
 										IsPercent = true,
 										PercentY = 21.87,
 									},
-									width = "237",
+									width = "308",
 									ZOrder = "1",
 								},
 								{
@@ -323,7 +323,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "(Tidak boleh melebihi 8 karakter)",
+									text = "(Tidak boleh melebihi 16 karakter)",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -331,7 +331,7 @@ local t =
 										PositionX = 109,
 										PositionY = -37,
 									},
-									width = "251",
+									width = "263",
 									ZOrder = "1",
 								},
 								{
@@ -410,7 +410,7 @@ local t =
 											{
 												PositionY = -2,
 											},
-											width = "38",
+											width = "42",
 											ZOrder = "1",
 										},
 									},
@@ -450,7 +450,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "修改名称",
+									text = "Rename",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -458,7 +458,7 @@ local t =
 										PositionX = -249,
 										PositionY = 130,
 									},
-									width = "114",
+									width = "121",
 									ZOrder = "1",
 								},
 								{
@@ -505,7 +505,7 @@ local t =
 										PositionY = 128,
 									},
 									visible = "False",
-									width = "115",
+									width = "113",
 									ZOrder = "1",
 								},
 								{

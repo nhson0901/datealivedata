@@ -6764,4 +6764,34 @@ return {
         res = "ui/fuli/seven_sign/002.png",
         res_en = "ui/fuli/seven_sign/002_en.png",
     },
+    [1358] = {
+        id = 1358,
+        res = "ui/activity/feedback/01.jpg",
+        res_en = "ui/activity/feedback/01_en.png",
+    },
+    [1359] = {
+        id = 1359,
+        res = "ui/activity/picture/icon104.png",
+        res_en = "ui/activity/picture/icon104_en.png",
+    },
+    [1360] = {
+        id = 1360,
+        res = "icon/item/goods/1200021.png",
+        res_en = "icon/item/goods/1200021_en.png",
+    },
+    [1361] = {
+        id = 1361,
+        res = "ui/activity/welfareSign/007.png",
+        res_en = "ui/activity/welfareSign/007_en.png",
+    },
+    [1362] = {
+        id = 1362,
+        res = "ui/mainLayer/new_ui_6/btn_battle.png",
+        res_en = "ui/mainLayer/new_ui_6/btn_battle_en.png",
+    },
+    [1363] = {
+        id = 1363,
+        res = "ui/mainLayer/new_ui_6/btn_dating.png",
+        res_en = "ui/mainLayer/new_ui_6/btn_dating_en.png",
+    },
 }

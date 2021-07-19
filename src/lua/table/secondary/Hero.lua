@@ -5328,7 +5328,7 @@ return {
         money = 0,
         attribute2 = 1244,
         callLimit = 1,
-        isOpen = 0,
+        isOpen = 1,
         color2 = {
             [1] = 69,
             [2] = 91,

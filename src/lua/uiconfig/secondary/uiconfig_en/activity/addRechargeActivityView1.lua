@@ -93,20 +93,20 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "536",
+							height = "548",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/activity_bg/a1.png",
+							texturePath = "ui/activity/picture/ad270.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
 								
 							},
-							width = "924",
+							width = "886",
 							ZOrder = "1",
 							components = 
 							{
@@ -138,8 +138,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -204,
-										PositionY = -17,
+										PositionX = 155,
+										PositionY = -54,
 									},
 									uipanelviewmodel = 
 									{
@@ -189,8 +189,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 390,
-										PositionY = 232,
+										PositionX = 368,
+										PositionY = 258,
 									},
 									width = "213",
 									ZOrder = "1",
@@ -328,7 +328,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 291,
-										PositionY = -198,
+										PositionY = -158,
 									},
 									width = "72",
 									ZOrder = "1",
@@ -852,7 +852,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/activity_bg/a1.png",
+			"ui/activity/picture/ad270.png",
 			"ui/activity/add_recharge/004.png",
 			"ui/activity/welfareActivity/box_open.png",
 			"ui/activity/welfareActivity/box_close.png",

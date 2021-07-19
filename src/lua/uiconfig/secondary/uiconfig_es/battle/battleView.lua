@@ -333,8 +333,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 982,
-										PositionY = 661,
+										PositionX = 1098,
+										PositionY = 634,
 										RightPosition = 38,
 										TopPosition = 6,
 										relativeToName = "Panel",
@@ -551,7 +551,7 @@ local t =
 									height = "68",
 									ignoreSize = "False",
 									name = "Panel_captain",
-									panelTexturePath = "ui/battle/005.png",
+									panelTexturePath = "ui/battle/005new.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -597,7 +597,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 156,
-												PositionY = -24,
+												PositionY = -18,
 												relativeToName = "Panel",
 											},
 											width = "176",
@@ -655,7 +655,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 152,
-												PositionY = -12,
+												PositionY = -6,
 												relativeToName = "Panel",
 											},
 											visible = "False",
@@ -734,7 +734,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 78,
-												PositionY = -42,
+												PositionY = -35,
 											},
 											width = "44",
 											ZOrder = "1",
@@ -779,8 +779,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 251,
-												PositionY = -42,
+												PositionX = 243,
+												PositionY = -35,
 											},
 											width = "28",
 											ZOrder = "1",
@@ -805,8 +805,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 179,
-												PositionY = -58,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											width = "144",
@@ -863,8 +863,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 177,
-												PositionY = -58,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											width = "146",
@@ -921,8 +921,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 177,
-												PositionY = -58,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											width = "102",
@@ -979,8 +979,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 177,
-												PositionY = -58,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											width = "146",
@@ -1037,8 +1037,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 143,
-												PositionY = -58,
+												PositionX = 141,
+												PositionY = -54,
 											},
 											visible = "False",
 											width = "82",
@@ -1182,8 +1182,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 177,
-												PositionY = -58,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											width = "137",
@@ -1240,8 +1240,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 177,
-												PositionY = -58,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											width = "124",
@@ -1298,8 +1298,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 174,
-												PositionY = -58,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											width = "146",
 											ZOrder = "1",
@@ -1355,8 +1355,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 174,
-												PositionY = -44,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											width = "2",
 											ZOrder = "1",
@@ -1417,7 +1417,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 259,
+												PositionX = 265,
 												PositionY = -59,
 												relativeToName = "Panel",
 											},
@@ -1450,7 +1450,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 45,
-												PositionY = -34,
+												PositionY = -33,
 												relativeToName = "Panel",
 											},
 											width = "58",
@@ -1571,8 +1571,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 174,
-												PositionY = -47,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											ZOrder = "2",
@@ -1603,8 +1603,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 157,
-												PositionY = -47,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											ZOrder = "2",
@@ -1635,8 +1635,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 176,
-												PositionY = -43,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											ZOrder = "2",
@@ -1662,7 +1662,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 210,
-												PositionY = -12,
+												PositionY = -19,
 											},
 											visible = "False",
 											width = "168",
@@ -1743,8 +1743,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 174,
-												PositionY = -44,
+												PositionX = 168,
+												PositionY = -54,
 											},
 											visible = "False",
 											ZOrder = "2",
@@ -1777,7 +1777,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 62,
-												PositionY = -75,
+												PositionY = -79,
 											},
 											uipanelviewmodel = 
 											{
@@ -1979,8 +1979,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 415,
-										PositionY = 597,
+										PositionX = 531,
+										PositionY = 570,
 										RightPosition = 311,
 										TopPosition = 2,
 										relativeToName = "Panel_top",
@@ -2697,8 +2697,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 878,
-										PositionY = 430,
+										PositionX = 994,
+										PositionY = 403,
 										RightPosition = 50,
 										TopPosition = 53,
 										relativeToName = "Panel_ui",
@@ -3373,7 +3373,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 586,
+										PositionY = 559,
 										TopPosition = 81,
 										relativeToName = "Panel_ui",
 										nType = 3,
@@ -3483,8 +3483,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 1020,
-										PositionY = 667,
+										PositionX = 1136,
+										PositionY = 640,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 3,
@@ -3963,8 +3963,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 1020,
-										PositionY = 667,
+										PositionX = 1136,
+										PositionY = 640,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 3,
@@ -6519,8 +6519,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -58,
-										PositionY = 508,
+										PositionY = 481,
 										TopPosition = 103,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -6712,10 +6711,10 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 68,
-										PositionY = 523,
+										PositionY = 496,
 										IsPercent = true,
-										PercentX = 6.67,
-										PercentY = 78.41,
+										PercentX = 5.99,
+										PercentY = 77.5,
 										LeftPositon = 68,
 										TopPosition = 116,
 										relativeToName = "Panel_top",
@@ -8199,8 +8198,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 704,
-										PositionY = 502,
+										PositionX = 820,
+										PositionY = 475,
 										RightPosition = -114,
 										TopPosition = 75,
 										relativeToName = "Panel_top",
@@ -8417,8 +8416,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 510,
-										PositionY = 361,
+										PositionX = 568,
+										PositionY = 334,
 										TopPosition = 240,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -8609,8 +8608,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 510,
-										PositionY = 348,
+										PositionX = 568,
+										PositionY = 321,
 										TopPosition = 253,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -8751,8 +8750,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 510,
-										PositionY = 347,
+										PositionX = 568,
+										PositionY = 320,
 										TopPosition = 199,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -8969,8 +8968,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 510,
-										PositionY = 376,
+										PositionX = 568,
+										PositionY = 349,
 										TopPosition = 241,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9370,8 +9369,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 510,
-										PositionY = 347,
+										PositionX = 568,
+										PositionY = 320,
 										TopPosition = 260,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9550,8 +9549,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 510,
-										PositionY = 521,
+										PositionX = 568,
+										PositionY = 494,
 										TopPosition = 86,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9667,8 +9666,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 510,
-										PositionY = 333,
+										PositionX = 568,
+										PositionY = 320,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 6,
@@ -9965,10 +9964,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -294,
-												PositionY = 190,
-												LeftPositon = 140,
-												TopPosition = 110,
+												PositionX = -397,
+												PositionY = 168,
+												LeftPositon = 37,
+												TopPosition = 118,
 												relativeToName = "Panel_practice",
 												nType = 3,
 											},
@@ -9977,7 +9976,7 @@ local t =
 												Layout="Absolute",
 												nType = "0"
 											},
-											width = "150",
+											width = "266",
 											ZOrder = "1",
 											components = 
 											{
@@ -9988,11 +9987,11 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "44",
-													ignoreSize = "True",
+													height = "49",
+													ignoreSize = "False",
 													name = "Image_battleView_1",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -10005,7 +10004,7 @@ local t =
 														PositionX = -18,
 														PositionY = 10,
 													},
-													width = "72",
+													width = "226",
 													ZOrder = "1",
 												},
 												{
@@ -10014,11 +10013,11 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEImage",
 													dstBlendFunc = "771",
 													height = "44",
-													ignoreSize = "True",
+													ignoreSize = "False",
 													name = "Image_practice_infinite_on",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -10028,10 +10027,10 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -1,
-														PositionY = 9,
+														PositionX = 37,
+														PositionY = 10,
 													},
-													width = "44",
+													width = "117",
 													ZOrder = "1",
 												},
 												{
@@ -10040,11 +10039,11 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEImage",
 													dstBlendFunc = "771",
 													height = "44",
-													ignoreSize = "True",
+													ignoreSize = "False",
 													name = "Image_practice_infinite_off",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -10054,10 +10053,10 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -35,
-														PositionY = 9,
+														PositionX = -73,
+														PositionY = 10,
 													},
-													width = "44",
+													width = "117",
 													ZOrder = "1",
 												},
 												{
@@ -10100,7 +10099,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 68,
+														PositionX = 36,
 														PositionY = 9,
 													},
 													width = "101",
@@ -10146,7 +10145,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -99,
+														PositionX = -74,
 														PositionY = 9,
 													},
 													width = "84",
@@ -10231,7 +10230,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "70",
+													width = "217",
 													ZOrder = "1",
 												},
 											},
@@ -10261,10 +10260,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -294,
-												PositionY = 120,
-												LeftPositon = 140,
-												TopPosition = 180,
+												PositionX = -396,
+												PositionY = 99,
+												LeftPositon = 38,
+												TopPosition = 187,
 												relativeToName = "Panel_practice",
 												nType = 3,
 											},
@@ -10273,7 +10272,7 @@ local t =
 												Layout="Absolute",
 												nType = "0"
 											},
-											width = "150",
+											width = "266",
 											ZOrder = "1",
 											components = 
 											{
@@ -10284,11 +10283,11 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "44",
-													ignoreSize = "True",
+													height = "49",
+													ignoreSize = "False",
 													name = "Image_battleView_1",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -10301,7 +10300,7 @@ local t =
 														PositionX = -18,
 														PositionY = 10,
 													},
-													width = "72",
+													width = "226",
 													ZOrder = "1",
 												},
 												{
@@ -10310,11 +10309,11 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEImage",
 													dstBlendFunc = "771",
 													height = "44",
-													ignoreSize = "True",
+													ignoreSize = "False",
 													name = "Image_practice_atk_on",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -10324,10 +10323,10 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -1,
-														PositionY = 9,
+														PositionX = 37,
+														PositionY = 10,
 													},
-													width = "44",
+													width = "117",
 													ZOrder = "1",
 												},
 												{
@@ -10336,11 +10335,11 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEImage",
 													dstBlendFunc = "771",
 													height = "44",
-													ignoreSize = "True",
+													ignoreSize = "False",
 													name = "Image_practice_atk_off",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -10350,10 +10349,10 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -35,
-														PositionY = 9,
+														PositionX = -73,
+														PositionY = 10,
 													},
-													width = "44",
+													width = "117",
 													ZOrder = "1",
 												},
 												{
@@ -10396,7 +10395,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 68,
+														PositionX = 36,
 														PositionY = 9,
 													},
 													width = "101",
@@ -10442,7 +10441,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -99,
+														PositionX = -74,
 														PositionY = 9,
 													},
 													width = "84",
@@ -10527,7 +10526,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "70",
+													width = "217",
 													ZOrder = "1",
 												},
 											},
@@ -10557,10 +10556,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -294,
-												PositionY = 51,
-												LeftPositon = 140,
-												TopPosition = 249,
+												PositionX = -396,
+												PositionY = 30,
+												LeftPositon = 38,
+												TopPosition = 256,
 												relativeToName = "Panel_practice",
 												nType = 3,
 											},
@@ -10569,7 +10568,7 @@ local t =
 												Layout="Absolute",
 												nType = "0"
 											},
-											width = "150",
+											width = "266",
 											ZOrder = "1",
 											components = 
 											{
@@ -10580,11 +10579,11 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "44",
-													ignoreSize = "True",
+													height = "49",
+													ignoreSize = "False",
 													name = "Image_battleView_1",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -10597,7 +10596,7 @@ local t =
 														PositionX = -18,
 														PositionY = 10,
 													},
-													width = "72",
+													width = "226",
 													ZOrder = "1",
 												},
 												{
@@ -10606,11 +10605,11 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEImage",
 													dstBlendFunc = "771",
 													height = "44",
-													ignoreSize = "True",
+													ignoreSize = "False",
 													name = "Image_practice_hurt_on",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -10620,10 +10619,10 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -1,
-														PositionY = 9,
+														PositionX = 37,
+														PositionY = 10,
 													},
-													width = "44",
+													width = "117",
 													ZOrder = "1",
 												},
 												{
@@ -10632,11 +10631,11 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEImage",
 													dstBlendFunc = "771",
 													height = "44",
-													ignoreSize = "True",
+													ignoreSize = "False",
 													name = "Image_practice_hurt_off",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -10646,10 +10645,10 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -35,
-														PositionY = 9,
+														PositionX = -73,
+														PositionY = 10,
 													},
-													width = "44",
+													width = "117",
 													ZOrder = "1",
 												},
 												{
@@ -10692,7 +10691,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 68,
+														PositionX = 36,
 														PositionY = 9,
 													},
 													width = "101",
@@ -10738,7 +10737,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -99,
+														PositionX = -74,
 														PositionY = 9,
 													},
 													width = "84",
@@ -10823,7 +10822,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "70",
+													width = "217",
 													ZOrder = "1",
 												},
 											},
@@ -11423,7 +11422,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 176,
-										PositionY = 562,
+										PositionY = 535,
 										LeftPositon = 66,
 										TopPosition = 105,
 										relativeToName = "Panel_top",
@@ -11663,8 +11662,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 321,
-										PositionY = 647,
+										PositionX = 437,
+										PositionY = 620,
 										RightPosition = 269,
 										TopPosition = 20,
 										relativeToName = "Panel_top",
@@ -12291,7 +12290,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 44,
-										PositionY = 498,
+										PositionY = 471,
 										LeftPositon = 44,
 										TopPosition = 129,
 										relativeToName = "Panel_top",
@@ -12455,8 +12454,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 510,
-										PositionY = 333,
+										PositionX = 568,
+										PositionY = 320,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 6,
@@ -12497,10 +12496,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 443,
-												PositionY = 259,
-												LeftPositon = 951,
-												TopPosition = 28,
+												PositionX = 416,
+												PositionY = 260,
+												LeftPositon = 924,
+												TopPosition = 27,
 												relativeToName = "Panel_practice",
 												nType = 3,
 											},
@@ -12627,14 +12626,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Encendido",
+													text = "开",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = 9,
 													},
-													width = "101",
+													width = "21",
 													ZOrder = "1",
 												},
 												{
@@ -12672,7 +12671,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Apagado",
+													text = "关",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -12680,7 +12679,7 @@ local t =
 														PositionX = -35,
 														PositionY = 9,
 													},
-													width = "84",
+													width = "21",
 													ZOrder = "1",
 												},
 												{
@@ -18019,7 +18018,7 @@ local t =
 			"ui/onlineteam/003.png",
 			"ui/onlineteam/002.png",
 			"ui/battle/089.png",
-			"ui/battle/005.png",
+			"ui/battle/005new.png",
 			"ui/battle/002.png",
 			"ui/battle/003.png",
 			"ui/battle/031.png",

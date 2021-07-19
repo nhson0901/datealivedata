@@ -27,6 +27,18 @@ function AnniversaryFeedbackView:initUI(ui)
     self.Label_title:setTextById(14220060)    
     self.Label_timing = TFDirector:getChildByPath(self.Panel_root, "Label_timing")
 
+
+     local label_empyTetx = TFLabel:create()
+        label_empyTetx:setFontName("font/MFLiHei_Noncommercial.ttf")
+        label_empyTetx:setFontSize(22)
+        label_empyTetx:setTextAreaSize(CCSize(168 , 0))
+        label_empyTetx:setAnchorPoint(ccp(0.5 , 0.5))
+        label_empyTetx:setPosition(333 , -215)
+        label_empyTetx:setTextById(270491)
+        --self.label_empyTetx:enableOutline(ccc4(0,0,0,255), 1)
+
+        self.Image_ad:addChild(label_empyTetx , 1)
+
 end
 
 
@@ -69,6 +81,8 @@ function AnniversaryFeedbackView:updateActivity()
                 self.Button_submit:show()
                 self.Button_submit:setGrayEnabled(false)
                 self.Button_submit:setTouchEnabled(true)
+            elseif self:getItemStatus(v) == EC_TaskStatus.GETED then
+                self.Button_submit:hide()
             else
                 self.Button_submit:show()
                 self.Button_submit:setGrayEnabled(true)

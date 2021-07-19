@@ -369,7 +369,7 @@ local t =
 										TopPosition = 543,
 										relativeToName = "Panel_root",
 									},
-									width = "107",
+									width = "168",
 									ZOrder = "1",
 								},
 								{
@@ -2127,15 +2127,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "26",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = true,
 												StrokeColor = "#FF901034",
 												StrokeSize = 1,
 											},
-											height = "34",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_open",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -2149,9 +2149,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -8,
-												PositionY = -3,
+												PositionY = -1,
 											},
-											width = "107",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -2313,15 +2313,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "30",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "34",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_SimulationSummonExchangeView_1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -2336,7 +2336,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -2394,15 +2394,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "30",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "34",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_SimulationSummonExchangeView_1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -2417,7 +2417,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -2475,15 +2475,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "30",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "34",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_SimulationSummonExchangeView_1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -2498,7 +2498,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -3123,7 +3123,7 @@ local t =
 												PositionX = 539,
 												PositionY = -27,
 											},
-											width = "99",
+											width = "175",
 											ZOrder = "1",
 										},
 										{

@@ -69,7 +69,7 @@ function SimulationSummonExchangeView:registerEvents()
 	self.button_ok:onClick(function()
 		local _foo = self.panel_SimulationSummons_[self.selectIndex_]
 		if _foo ==nil then
-			Utils:showError("未选择合适的条目")
+			Utils:showError(TextDataMgr:getText(190001058))
 			return
 		end
 		
@@ -121,7 +121,7 @@ function SimulationSummonExchangeView:refreshView()
 	--print("openType_=" .. self.openType_)
 	if self.openType_ == Open_Type_Exchange or self.openType_ == Open_Type_ExchangeAndShow then
 		--print("-----------button_ok_text1")
-		self.button_ok_text:setText("兑换")
+		self.button_ok_text:setTextById(500009)
 		self.Image_costIcon:show()
 		self.Label_costNum:show()
 		self.Image_unlock_bg:show()
@@ -139,7 +139,7 @@ function SimulationSummonExchangeView:refreshView()
 		end
 	elseif self.openType_ == Open_Type_Replace then
 		--print("-----------button_ok_text2")
-		self.button_ok_text:setText("替换")
+		self.button_ok_text:setTextById(3202045)
 		self.Image_costIcon:hide()
 		self.Label_costNum:hide()
 		self.Image_unlock_bg:hide()

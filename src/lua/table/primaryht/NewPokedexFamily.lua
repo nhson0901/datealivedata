@@ -347,4 +347,16 @@ return {
             x = 1000,
         },
     },
+    [30] = {
+        show = 1,
+        heroSkinId = 1103131,
+        sort = 3,
+        id = 30,
+        heroId = 110313,
+        scale  = 0.3,
+        paintPosition = {
+            y = 340,
+            x = 450,
+        },
+    },
 }

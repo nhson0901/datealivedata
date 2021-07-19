@@ -324,7 +324,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "(8자를 초과할 수 없습니다)",
+									text = "(16자를 초과할 수 없습니다)",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -332,7 +332,7 @@ local t =
 										PositionX = 154,
 										PositionY = -39,
 									},
-									width = "196",
+									width = "212",
 									ZOrder = "1",
 								},
 								{
@@ -459,7 +459,7 @@ local t =
 										PositionX = -249,
 										PositionY = 130,
 									},
-									width = "125",
+									width = "126",
 									ZOrder = "1",
 								},
 								{
@@ -505,7 +505,7 @@ local t =
 										PositionX = -120,
 										PositionY = 128,
 									},
-									width = "115",
+									width = "113",
 									ZOrder = "1",
 								},
 								{

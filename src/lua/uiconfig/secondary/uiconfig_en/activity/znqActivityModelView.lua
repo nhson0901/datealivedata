@@ -185,14 +185,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "30",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = true,
 										StrokeColor = "#FFF588A7",
 										StrokeSize = 1,
 									},
-									height = "36",
+									height = "25",
 									ignoreSize = "True",
 									name = "label_jump",
 									nTextAlign = "1",
@@ -206,10 +206,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -8,
+										PositionX = 2,
 										PositionY = 10,
 									},
-									width = "34",
+									width = "46",
 									ZOrder = "1",
 								},
 								{
@@ -231,14 +231,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "30",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = true,
 										StrokeColor = "#FFF588A7",
 										StrokeSize = 1,
 									},
-									height = "36",
+									height = "25",
 									ignoreSize = "True",
 									name = "label_jump1",
 									nTextAlign = "1",
@@ -252,10 +252,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 13,
+										PositionX = 8,
 										PositionY = -14,
 									},
-									width = "34",
+									width = "49",
 									ZOrder = "1",
 								},
 							},
@@ -286,7 +286,7 @@ local t =
 								StrokeColor = "#FF216298",
 								StrokeSize = 1,
 							},
-							height = "24",
+							height = "23",
 							ignoreSize = "True",
 							name = "label_date",
 							nTextAlign = "1",
@@ -304,7 +304,7 @@ local t =
 								PositionX = -384,
 								PositionY = 209,
 							},
-							width = "108",
+							width = "98",
 							ZOrder = "1",
 						},
 						{
@@ -333,7 +333,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "30",
+							height = "28",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -350,7 +350,7 @@ local t =
 								PositionX = 424,
 								PositionY = 41,
 							},
-							width = "100",
+							width = "123",
 							ZOrder = "1",
 						},
 						{

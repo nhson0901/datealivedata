@@ -1137,7 +1137,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "活动时间",
+							text = "Eventzeit:",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -1145,7 +1145,7 @@ local t =
 								PositionX = -370,
 								PositionY = 244,
 							},
-							width = "93",
+							width = "118",
 							ZOrder = "1",
 							components = 
 							{
@@ -1742,18 +1742,18 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_name",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "2",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1764,9 +1764,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 139,
-												PositionY = 53,
+												PositionY = 50,
 											},
-											width = "171",
+											width = "188",
 											ZOrder = "1",
 										},
 										{
@@ -1824,14 +1824,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_countLimit",
 											nTextAlign = "1",

@@ -93,20 +93,20 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "536",
+							height = "548",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/activity_bg/a1.png",
+							texturePath = "ui/activity/picture/ad270.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
 								
 							},
-							width = "924",
+							width = "886",
 							ZOrder = "1",
 							components = 
 							{
@@ -128,7 +128,7 @@ local t =
 									height = "95",
 									ignoreSize = "False",
 									innerHeight = "95",
-									innerWidth = "490",
+									innerWidth = "537",
 									name = "ScrollView_task",
 									showScrollbar = "False",
 									sizepercentx = "0",
@@ -138,15 +138,15 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -204,
-										PositionY = -17,
+										PositionX = 143,
+										PositionY = -50,
 									},
 									uipanelviewmodel = 
 									{
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "490",
+									width = "537",
 									ZOrder = "1",
 								},
 								{
@@ -189,8 +189,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 390,
-										PositionY = 232,
+										PositionX = 388,
+										PositionY = 259,
 									},
 									width = "213",
 									ZOrder = "1",
@@ -328,7 +328,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 291,
-										PositionY = -198,
+										PositionY = -158,
 									},
 									width = "83",
 									ZOrder = "1",
@@ -345,10 +345,10 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "131",
+									height = "97",
 									ignoreSize = "True",
 									name = "Button_recharge",
-									normal = "ui/activity/add_recharge/004.png",
+									normal = "ui/activity/add_recharge/003.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -360,7 +360,7 @@ local t =
 										PositionY = -181,
 									},
 									UItype = "Button",
-									width = "330",
+									width = "262",
 									ZOrder = "1",
 								},
 							},
@@ -852,8 +852,8 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/activity_bg/a1.png",
-			"ui/activity/add_recharge/004.png",
+			"ui/activity/picture/ad270.png",
+			"ui/activity/add_recharge/003.png",
 			"ui/activity/welfareActivity/box_open.png",
 			"ui/activity/welfareActivity/box_close.png",
 		},

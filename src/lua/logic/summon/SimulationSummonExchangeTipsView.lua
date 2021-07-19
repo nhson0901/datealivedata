@@ -28,7 +28,7 @@ function SimulationSummonExchangeTipsView:initUI(ui)
 	
 	
 	
-	self._string = {"一", "二", "三"}
+	self._string = {TextDataMgr:getText(300201), TextDataMgr:getText(300202), TextDataMgr:getText(300203)}
 	self:refreshView()
 end
 
@@ -69,7 +69,7 @@ function SimulationSummonExchangeTipsView:updateSimulationSummon(index,items,ord
 		end
 		if nil ~= order then
 			_foo.Image_order:setTexture("ui/summon/simulation/" .. order .. ".png")
-			_foo.Label_order:setText("第" .. self._string[order] .. "次保存")
+			_foo.Label_order:setTextById(190001059 ,self._string[order])
 		end
 	else 
 		print("_foo = nil")

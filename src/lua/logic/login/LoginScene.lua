@@ -86,16 +86,14 @@ function LoginScene:showVideoViewMiniServer( re )
 	
 	local videoPth1, videoPth2
 	if FunctionDataMgr:isMoJingLoginUI() then
-		delayTime = 1
 		videoPth1 = "video/loginPart6.mp4"
 		videoPth2 = "video/loginPart7.mp4"
 	elseif FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		delayTime = 2
-		videoPth1 = "video/login_fanzhuanzhezhi.mp4"
-		videoPth2 = "video/login_fanzhuanzhezhi2.mp4"
+		videoPth1 = "video/loginPart1_1.mp4"
+		videoPth2 = "video/loginPart2_1.mp4"
 	end
 	
 
@@ -158,8 +156,8 @@ function LoginScene:showVideoViewEngServer( re )
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		videoPth1 = "video/loginPart1.mp4"
-		videoPth2 = "video/loginPart2.mp4"
+		videoPth1 = "video/loginPart1_1.mp4"
+		videoPth2 = "video/loginPart2_1.mp4"
 	end
 	
 
@@ -216,8 +214,8 @@ function LoginScene:showVideoViewKoreaTwServer( re )
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		videoPth1 = "video/login_fanzhuanzhezhi.mp4"
-		videoPth2 = "video/login_fanzhuanzhezhi2.mp4"
+		videoPth1 = "video/loginPart1.mp4"
+		videoPth2 = "video/loginPart2.mp4"
 	end
 	
 

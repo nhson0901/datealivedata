@@ -51,6 +51,8 @@ function SimulationSummonView:initUI(ui)
 		_foo._effect = _effect
 		_foo._lockTip = _lockTip
 		self.simulationSummonIcons_[i] = _foo
+		_foo.root:hide()
+		_foo._effect:hide()
 	end
 	self.simulationSummonIcons_[1].index = 5
 	self.simulationSummonIcons_[2] .index = 4
@@ -148,7 +150,8 @@ function SimulationSummonView:updateSummonItem2(index)
 	if nil == summonCfg then
 		return
 	end
-	
+	foo.root:show()
+	foo._effect:show()
 	foo.root:setTexture(summonCfg.firework)
 	foo.lock:setVisible(not SimulationSummonDataMgr:checkIsOpenById(summonCfg.id))
     foo._lockTip:setVisible(summonCfg.unlocklevel ~= 0)
