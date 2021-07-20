@@ -503,7 +503,7 @@ function MainLayer:initUI(ui)
 		end
     end
 	
-	if not self:isOneCelebrationMainLayer() then
+	if true then
 		self.Panel_btListEx = TFDirector:getChildByPath(self.Panel_left, "Panel_btListEx")
 		self.Button_btnListEx = TFDirector:getChildByPath(self.Panel_left, "Button_btnListEx"):hide()
         self.Button_btnListEx.effect = TFDirector:getChildByPath(self.Button_btnListEx, "Spine_WanKryptonMainLayer_1")
@@ -666,9 +666,9 @@ function MainLayer:checkImageBgPos(offsetPos)
 end
 
 function MainLayer:initLeftButtons()
-    if self:isOneCelebrationMainLayer() then
-        return
-    end
+    -- if self:isOneCelebrationMainLayer() then
+    --     return
+    -- end
 
     local tmAllBtns = self.Panel_leftBtList:getChildren()
     self.beginPosList = {} 
@@ -758,6 +758,18 @@ function MainLayer:updateLeftButtons()
 			end
 		end
 		]]
+        local tmAllBtns3 = {self.Button_kefu, self.Button_fb,self.Button_twitter,self.Button_dis,self.Button_backPlayer }
+        local tmAllBtnspos3 = {ccp(52,43),ccp(52,104),ccp(165,104),ccp(265,104),ccp(165,43),ccp(265,43),ccp(355,104)}
+        local idx = 1
+        local isShowSpineBtn = false
+        for k,v in ipairs(tmAllBtns3) do
+            if v:isVisible() then
+                v:setPosition(tmAllBtnspos3[idx])
+                idx  = idx + 1
+                isShowSpineBtn = true
+            end
+        end
+        self.Button_btnListEx:setVisible(isShowSpineBtn)
 	else
 		local tmAllBtns2 = {self.Button_notice, self.Button_welfare, self.Button_activity,self.Button_focus, self.Button_ScoreReward, self.Button_RoleTeach, self.btn_zhibo , self.Button_rankNotice }
         if self.Button_serverGiftActivity then
@@ -776,18 +788,8 @@ function MainLayer:updateLeftButtons()
 		end
 		
 		--local tmAllBtns3 = {self.Button_update, self.Button_backPlayer, self.Button_wj,self.Button_preview,self.Button_OneYearShare,self.btn_zhuifan,self.btn_phone_small}  --英文版修改
-        local tmAllBtns3 = {self.Button_kefu, self.Button_fb,self.Button_twitter,self.Button_dis,self.Button_backPlayer }
-		local tmAllBtnspos3 = {ccp(52,43),ccp(52,104),ccp(165,104),ccp(265,104),ccp(165,43),ccp(265,43),ccp(355,104)}
-		local idx = 1
-        local isShowSpineBtn = false
-		for k,v in ipairs(tmAllBtns3) do
-			if v:isVisible() then
-				v:setPosition(tmAllBtnspos3[idx])
-				idx  = idx + 1
-                isShowSpineBtn = true
-			end
-		end
-        self.Button_btnListEx:setVisible(isShowSpineBtn)
+        
+        
 	end		
 		
     if panel_weiba then
@@ -1655,7 +1657,7 @@ function MainLayer:registerEvents()
     EventMgr:addEventListener(self, EV_BAG_DRESS_UPDATE, handler(self.onDressDelete, self))
     EventMgr:addEventListener(self, EV_VALENTINESDAY_MAIN_INFO, handler(self.onUpdateActivitysState, self))
     
-	if not self:isOneCelebrationMainLayer() then
+	if true then
 		--self.Panel_btListEx = TFDirector:getChildByPath(self.Panel_left, "Panel_btListEx")
 		--self.Button_btnListEx = TFDirector:getChildByPath(self.Panel_left, "Button_btnListEx")
 		--self.Panel_btListEx:hide()
