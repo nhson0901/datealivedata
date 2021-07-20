@@ -573,8 +573,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "18",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_role_name",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -590,7 +590,7 @@ local t =
 													{
 														
 													},
-													width = "169",
+													width = "190",
 													ZOrder = "1",
 												},
 											},
@@ -788,8 +788,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "18",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_role_name",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -805,7 +805,7 @@ local t =
 													{
 														
 													},
-													width = "84",
+													width = "190",
 													ZOrder = "1",
 												},
 											},

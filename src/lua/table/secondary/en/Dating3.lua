@@ -490,11 +490,11 @@ return {
             jumpCon = {
                 [748160301] = {
                     cdt = 580147,
-                    text = "加油",
+                    text = "Keep it up!",
                 },
                 [748160401] = {
                     cdt = 580146,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310536,
@@ -730,11 +730,11 @@ return {
             jumpCon = {
                 [748180301] = {
                     cdt = 580151,
-                    text = "加油",
+                    text = "Keep it up!",
                 },
                 [748180401] = {
                     cdt = 580150,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310536,
@@ -771,11 +771,11 @@ return {
             jumpCon = {
                 [748190301] = {
                     cdt = 580153,
-                    text = "加油",
+                    text = "Keep it up!",
                 },
                 [748190401] = {
                     cdt = 580152,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310536,
@@ -1274,11 +1274,11 @@ return {
             jumpCon = {
                 [748160301] = {
                     cdt = 580147,
-                    text = "期待更好的约战",
+                    text = "Looking forward to a better Date A Live!",
                 },
                 [748160401] = {
                     cdt = 580146,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310536,
@@ -1318,11 +1318,11 @@ return {
             jumpCon = {
                 [748170301] = {
                     cdt = 580149,
-                    text = "期待更好的约战",
+                    text = "Looking forward to a better Date A Live!",
                 },
                 [748170401] = {
                     cdt = 580148,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310536,
@@ -1537,11 +1537,11 @@ return {
             jumpCon = {
                 [748180301] = {
                     cdt = 580151,
-                    text = "期待更好的约战",
+                    text = "Looking forward to a better Date A Live!",
                 },
                 [748180401] = {
                     cdt = 580150,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310536,
@@ -1581,11 +1581,11 @@ return {
             jumpCon = {
                 [748190301] = {
                     cdt = 580153,
-                    text = "期待更好的约战",
+                    text = "Looking forward to a better Date A Live!",
                 },
                 [748190401] = {
                     cdt = 580152,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310536,
@@ -2367,11 +2367,11 @@ return {
             jumpCon = {
                 [748170301] = {
                     cdt = 580149,
-                    text = "加油",
+                    text = "Keep it up!",
                 },
                 [748170401] = {
                     cdt = 580148,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310536,
@@ -2608,11 +2608,11 @@ return {
             jumpCon = {
                 [748130101] = {
                     cdt = 580143,
-                    text = "誓不原谅",
+                    text = "Unforgivable",
                 },
                 [748130201] = {
                     cdt = 580142,
-                    text = "原谅大凉山",
+                    text = "Forgive Hot Games",
                 },
             },
             awardText = 13310524,
@@ -2905,11 +2905,11 @@ return {
             jumpCon = {
                 [748140301] = {
                     cdt = 580145,
-                    text = "支持约战",
+                    text = "Support Date A Live",
                 },
                 [748140401] = {
                     cdt = 580144,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310524,
@@ -3090,11 +3090,11 @@ return {
             jumpCon = {
                 [748140301] = {
                     cdt = 580145,
-                    text = "支持约战",
+                    text = "Support Date A Live",
                 },
                 [748140401] = {
                     cdt = 580144,
-                    text = "支持大凉山",
+                    text = "Support Hot Games",
                 },
             },
             awardText = 13310524,

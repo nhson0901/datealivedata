@@ -310,12 +310,17 @@ function TalkMainLayer:updateTalkPanel(talk_panel,cfg)
 	if cfg.textBg == 31 or cfg.textBg == 32 then
 		name_bg:setPosition(talkBGCfg.namePos)
 		name_bg:setRotation(talkBGCfg.nameRotation)
-		name_bg:setPositionY(100)
 	else
 		name_bg:setPosition(talkBGCfg.namePos)
-		--英文版强制修改标题位置
-		name_bg:setPositionY(90)
-		name_bg:setRotation(5)
+		if cfg.textBg == 12 or cfg.textBg == 22 then
+			name_bg:setPositionY(110)
+			name_bg:setRotation(5)
+		else
+			--英文版强制修改标题位置
+			name_bg:setPositionY(90)
+			name_bg:setRotation(5)
+		end
+		
 	end
 	
 	if cfg.name == "1" then

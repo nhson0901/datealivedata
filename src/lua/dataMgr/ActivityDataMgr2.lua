@@ -257,9 +257,9 @@ end
 function ActivityDataMgr:getTimeString( id )
     -- body
     local activityInfo = self:getActivityInfo(id)
-    local startDate = Utils:getLocalDate(activityInfo.startTime)
+    local startDate = Utils:getUTCDate(activityInfo.startTime , GV_UTC_TIME_ZONE)
     local startDateStr = startDate:fmt("%Y.%m.%d")
-    local endDate = Utils:getLocalDate(activityInfo.endTime)
+    local endDate = Utils:getUTCDate(activityInfo.endTime , GV_UTC_TIME_ZONE)
     local endDateStr = endDate:fmt("%Y.%m.%d")
     local timeString = TextDataMgr:getText(800041, startDateStr, endDateStr)
 
@@ -269,7 +269,7 @@ function ActivityDataMgr:getTimeString( id )
         timeString = string.format("%s - %s",startDateStr,endDateStr)
     end
 
-    return timeString
+    return timeString..GV_UTC_TIME_STRING
 end
 
 function ActivityDataMgr:getActivityInfo(id, activityShowType)

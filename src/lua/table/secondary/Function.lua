@@ -641,7 +641,7 @@ return {
         name = "1454034",
         unlockExplain = {
             [1] = 2,
-            [2] = 1451001,
+            [2] = 1452002,
         },
         icon = "ui/function/summon.png",
         levelType = 1,
