@@ -62,11 +62,11 @@ function ServerListView:showServerGroup()
             Label_name:setFontColor(ccc3(255 , 255 , 255))
         end
 
-        if (_group.groupType == GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE) or (_group.groupType == GLOBAL_SERVER_LIST.SERVER_KOREA_TW) then
-            local imgNew = TFImage:create("ui/recharge/new.png")
-            imgNew:setPosition(80 , 20)
-            item:addChild(imgNew)
-        end
+        -- if (_group.groupType == GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE) or (_group.groupType == GLOBAL_SERVER_LIST.SERVER_KOREA_TW) then
+        --     local imgNew = TFImage:create("ui/recharge/new.png")
+        --     imgNew:setPosition(80 , 20)
+        --     item:addChild(imgNew)
+        -- end
         Label_name:setText(_group.groupName)
 
         item:onClick(function()

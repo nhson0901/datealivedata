@@ -247,9 +247,9 @@ function TFGlobalUtils:getPlayerServerIdx( )
 	end
 
 	--默认优先2服
-    if self:isGameServerOpen(GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE) then  
-    	return GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE
-    end
+    -- if self:isGameServerOpen(GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE) then  
+    -- 	return GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE
+    -- end
     return GLOBAL_SERVER_LIST.SERVER_ENGLISH
 end
 
@@ -328,11 +328,10 @@ function TFGlobalUtils:getMigrationServerToGameServer( isCache )
 		return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_KOREA_TW
 	end
 
-	if sdkServer == MIGRATION_SERVER_LIST.Other then
-		return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE
-	end
-
-	return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE
+	-- if sdkServer == MIGRATION_SERVER_LIST.Other then
+	-- 	return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE
+	-- end
+	return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_ENGLISH
 end
 
 function TFGlobalUtils:getMigrationServerTextById( migrationServerId )

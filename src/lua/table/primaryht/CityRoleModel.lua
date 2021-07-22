@@ -3219,7 +3219,7 @@ return {
     },
     [410117] = {
         modeHead = "icon/role/mood/101/3.png",
-        flip = true,
+        flip = false,
         id = 410117,
         modelId = 101,
         isPlyaerControlled = false,
@@ -3301,7 +3301,7 @@ return {
     },
     [410118] = {
         modeHead = "icon/role/mood/101/3.png",
-        flip = true,
+        flip = false,
         id = 410118,
         modelId = 101,
         isPlyaerControlled = false,

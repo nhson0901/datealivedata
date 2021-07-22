@@ -72,10 +72,6 @@ function PrefabDataMgr:updateEquip( item, idOrCid, count, level)
         countLabel:show()
     end
 
-    if cid == 230013 then   --英文版独有判断
-        countLabel:show()
-    end
-
     local itemCfg = GoodsDataMgr:getItemCfg(cid)
     local step = getEquipStep(cid)   
     if step > 0 then

@@ -758,18 +758,7 @@ function MainLayer:updateLeftButtons()
 			end
 		end
 		]]
-        local tmAllBtns3 = {self.Button_kefu, self.Button_fb,self.Button_twitter,self.Button_dis,self.Button_backPlayer }
-        local tmAllBtnspos3 = {ccp(52,43),ccp(52,104),ccp(165,104),ccp(265,104),ccp(165,43),ccp(265,43),ccp(355,104)}
-        local idx = 1
-        local isShowSpineBtn = false
-        for k,v in ipairs(tmAllBtns3) do
-            if v:isVisible() then
-                v:setPosition(tmAllBtnspos3[idx])
-                idx  = idx + 1
-                isShowSpineBtn = true
-            end
-        end
-        self.Button_btnListEx:setVisible(isShowSpineBtn)
+        
 	else
 		local tmAllBtns2 = {self.Button_notice, self.Button_welfare, self.Button_activity,self.Button_focus, self.Button_ScoreReward, self.Button_RoleTeach, self.btn_zhibo , self.Button_rankNotice }
         if self.Button_serverGiftActivity then
@@ -791,6 +780,19 @@ function MainLayer:updateLeftButtons()
         
         
 	end		
+
+    local tmAllBtns3 = {self.Button_kefu, self.Button_fb,self.Button_twitter,self.Button_dis,self.Button_backPlayer }
+        local tmAllBtnspos3 = {ccp(52,43),ccp(52,104),ccp(165,104),ccp(265,104),ccp(165,43),ccp(265,43),ccp(355,104)}
+        local idx = 1
+        local isShowSpineBtn = false
+        for k,v in ipairs(tmAllBtns3) do
+            if v:isVisible() then
+                v:setPosition(tmAllBtnspos3[idx])
+                idx  = idx + 1
+                isShowSpineBtn = true
+            end
+        end
+        self.Button_btnListEx:setVisible(isShowSpineBtn)
 		
     if panel_weiba then
         panel_weiba:setVisible(true)

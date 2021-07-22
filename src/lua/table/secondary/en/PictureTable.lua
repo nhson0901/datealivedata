@@ -6939,4 +6939,9 @@ return {
         res = "ui/activity/feedback/01.jpg",
         res_en = "ui/activity/feedback/01_en.png",
     },
+    [1393] = {
+        id = 1393,
+        res = "ui/summon/o_001.png",
+        res_en = "ui/summon/o_001_en.png",
+    },
 }

@@ -590,6 +590,16 @@ function RechargeMain:updateTotalUI()
             self:updateTotalItem(cell_total, data)
             cell_item:setPositionY(47)
             Utils:createRewardItemStyle1(cell_item, data.items, data.canReward)
+
+            --TODO 1服特殊逻辑
+            if cell_item.list then
+                for _,_item in pairs(cell_item.list) do
+                    local countLabel = TFDirector:getChildByPath(_item, "Label_count")
+                    if countLabel then
+                        countLabel:show()
+                    end
+                end
+            end
         end
     end)
 
