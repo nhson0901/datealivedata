@@ -162,7 +162,8 @@ function UnZipFileLayer:startUnCompressAwb( )
             end
         elseif self.status == 4 then
             self:unCompressAwbFailed( )
-            self.status = 6
+            self.status = -100
+            self:stopTimer()
         elseif self.status == 5 then --解压所有awb完成
             self:unCompressAwbComplete()
             self.status = 6

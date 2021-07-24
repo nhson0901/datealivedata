@@ -622,7 +622,7 @@ return {
         },
         spirit = 112801,
         coordinates = "190001044",
-        freeQuantity = 3,
+        freeQuantity = 13,
         id = 13,
         exchangeConsump = {
             [500080] = 10,

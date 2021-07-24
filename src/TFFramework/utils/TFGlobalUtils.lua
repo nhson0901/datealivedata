@@ -328,10 +328,10 @@ function TFGlobalUtils:getMigrationServerToGameServer( isCache )
 		return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_KOREA_TW
 	end
 
-	-- if sdkServer == MIGRATION_SERVER_LIST.Other then
-	-- 	return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE
-	-- end
-	return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_ENGLISH
+	if sdkServer == MIGRATION_SERVER_LIST.Other then
+		return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_ENGLISH
+	end
+	return _exitCacheValue, GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE
 end
 
 function TFGlobalUtils:getMigrationServerTextById( migrationServerId )
@@ -351,10 +351,15 @@ function TFGlobalUtils:canMigrationServerEnterGameServer( )
 	if not NEW_APP_VERSION then return true end
 	local _,migrationserver = self:getMigrationServerToGameServer(true)
 	local gameServer = TFGlobalUtils:getPlayerServerIdx()
+
 	if migrationserver == gameServer then  return  true end
 	if (migrationserver == GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE) and (gameServer == GLOBAL_SERVER_LIST.SERVER_ENGLISH) then
 		return true
 	end
+	if (migrationserver == GLOBAL_SERVER_LIST.SERVER_ENGLISH) and (gameServer == GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE) then
+		return true
+	end
+
 	return false
 end
 

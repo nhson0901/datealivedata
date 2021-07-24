@@ -29684,7 +29684,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 15,
+        order = 16,
         acceptParams = {
             plvl = 1,
         },
@@ -30063,7 +30063,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 16,
+        order = 17,
         acceptParams = {
             pre_task_id = 191001,
         },
@@ -30452,7 +30452,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 17,
+        order = 18,
         acceptParams = {
             pre_task_id = 191002,
         },
@@ -30843,7 +30843,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 18,
+        order = 19,
         acceptParams = {
             pre_task_id = 191003,
         },
@@ -31248,7 +31248,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 19,
+        order = 20,
         acceptParams = {
             pre_task_id = 191004,
         },
@@ -31639,7 +31639,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 20,
+        order = 21,
         acceptParams = {
             pre_task_id = 191005,
         },
@@ -32053,7 +32053,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 21,
+        order = 22,
         acceptParams = {
             pre_task_id = 191006,
         },
@@ -32434,7 +32434,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 22,
+        order = 23,
         acceptParams = {
             pre_task_id = 191007,
         },
@@ -33220,7 +33220,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 24,
+        order = 25,
         acceptParams = {
             pre_task_id = 191009,
         },
@@ -34008,7 +34008,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 25,
+        order = 27,
         acceptParams = {
             pre_task_id = 191011,
         },
@@ -43742,7 +43742,7 @@ return {
         ext = {
         },
         finishCondId = 11001,
-        order = 14,
+        order = 15,
         acceptParams = {
             pre_task_id = 190013,
         },
@@ -94463,7 +94463,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 25,
+        order = 26,
         acceptParams = {
             pre_task_id = 191010,
         },
@@ -94507,7 +94507,7 @@ return {
         ext = {
         },
         finishCondId = 9007,
-        order = 23,
+        order = 24,
         acceptParams = {
             pre_task_id = 191008,
         },

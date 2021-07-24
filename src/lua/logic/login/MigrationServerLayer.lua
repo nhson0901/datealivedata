@@ -85,7 +85,7 @@ function MigrationServerLayer:initPullDown()
     self.pulldown_window = self.rootPanel:getChildByName("panel_window")
     self.pulldown_winCell = self.pulldown_window:getChildByName("panel_pullwin")
     local scroll_menu = self.pulldown_window:getChildByName("scrollView_menu")
-    local pulldown_cell = scroll_menu:getChildByName("panel_cell")
+    local pulldown_cell = scroll_menu:getChildByName("panel_cell"):hide()
     self.defaultPulldownCellSize = self.pulldown_winCell:getContentSize()
     self.btn_pulldown.stat = false
     self.btn_pulldown.unclick = false
@@ -95,11 +95,17 @@ function MigrationServerLayer:initPullDown()
     self.pulldown_btnlist:setScrollBar(self.UIListViewBar)
 
     local list = {}
-    for _,_migrationServerId in pairs(MIGRATION_SERVER_LIST) do
-        if _migrationServerId > MIGRATION_SERVER_LIST.UNKNOW then
-            table.insert(list, _migrationServerId)
+    local gameServer = TFGlobalUtils:getPlayerServerIdx()
+    if gameServer < GLOBAL_SERVER_LIST.SERVER_KOREA_TW then
+        table.insert(list, MIGRATION_SERVER_LIST.Other)
+    else
+        for _,_migrationServerId in pairs(MIGRATION_SERVER_LIST) do
+            if (_migrationServerId > MIGRATION_SERVER_LIST.UNKNOW) and ( _migrationServerId > MIGRATION_SERVER_LIST.Other) then
+                table.insert(list, _migrationServerId)
+            end
         end
     end
+
     table.sort(list, function( a, b )
         return a > b
     end)
