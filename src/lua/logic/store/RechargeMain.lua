@@ -805,8 +805,15 @@ function RechargeMain:updateMonthCardItem(item, data)
         label_intro1:hide()
         label_intro3:hide()
     end
-    
-    label_pay:setTextById(1605003 ,string.format("%.2f" ,data.rechargeCfg.price/100))
+
+    local rechargeCfg = RechargeDataMgr:getOneRechargeCfg(data.rechargeCfg.id)
+    local daibiLabel = TFDirector:getChildByPath(item, "Label_price_now")
+    daibiLabel:setText(rechargeCfg.exchangeCost[1].num)
+    local daibiImg = TFDirector:getChildByPath(item, "img_daibi")
+    daibiImg:setTexture(GoodsDataMgr:getItemCfg(rechargeCfg.exchangeCost[1].id).icon)
+
+    --label_pay:setTextById(1605003 ,string.format("%.2f" ,data.rechargeCfg.price/100))
+    label_pay:hide()
 
     img_bg:onClick(function ()
         if data.type == 7 then
@@ -837,8 +844,14 @@ function RechargeMain:updateMonthCardItemIos(item, data)
         img_icon:getParent():addChild(item.icon_spine)
     end
     label_title:setText(data.name)
-    
-    label_pay:setTextById(1605003 , string.format("%.2f" ,data.rechargeCfg.price / 100))
+
+    local rechargeCfg = RechargeDataMgr:getOneRechargeCfg(data.rechargeCfg.id)
+    local daibiLabel = TFDirector:getChildByPath(item, "Label_price_now")
+    daibiLabel:setText(rechargeCfg.exchangeCost[1].num)
+    local daibiImg = TFDirector:getChildByPath(item, "img_daibi")
+    daibiImg:setTexture(GoodsDataMgr:getItemCfg(rechargeCfg.exchangeCost[1].id).icon)
+    --label_pay:setTextById(1605003 , string.format("%.2f" ,data.rechargeCfg.price / 100))
+    label_pay:hide()
 
     img_bg:onClick(function ()
         if data.type == 7 then

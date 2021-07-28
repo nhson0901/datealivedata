@@ -6944,4 +6944,9 @@ return {
         res = "ui/summon/o_001.png",
         res_en = "ui/summon/o_001_en.png",
     },
+    [1394] = {
+        id = 1394,
+        res = "ui/monthcardNew1/quartercard_1.png",
+        res_en = "ui/monthcardNew1/quartercard_en.png",
+    },
 }

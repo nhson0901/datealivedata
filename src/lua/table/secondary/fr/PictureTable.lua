@@ -5994,4 +5994,9 @@ return {
         res = "ui/summon/041.png",
         res_en = "ui/summon/041_fr.png",
     },
+    [1200] = {
+        id = 1200,
+        res = "ui/monthcardNew1/quartercard_1.png",
+        res_en = "ui/monthcardNew1/quartercard_fr.png",
+    },
 }

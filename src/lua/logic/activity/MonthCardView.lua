@@ -55,6 +55,9 @@ function MonthCardView:registerEvents()
         AlertManager:show()
     end)
 
+    self.quarterCardBtn:onClick(function ( ... )
+       RechargeDataMgr:getOrderNO(920000)
+    end)
 
 end
 
@@ -77,6 +80,7 @@ function MonthCardView:initUI(ui)
     self.Image_bg1 = TFDirector:getChildByPath(ui, "Image_bg1") 
     self.Button_buyCard = TFDirector:getChildByPath(ui, "Button_buyCard")
     self.Button_buyCard_ios = TFDirector:getChildByPath(ui, "Button_buyCard_ios")
+    self.quarterCardBtn = TFDirector:getChildByPath(ui, "quarterCardBtn")
     self.button_monthCard_rule = TFDirector:getChildByPath(ui, "button_monthCard_rule")
 
     --英文版屏蔽ios月卡续订

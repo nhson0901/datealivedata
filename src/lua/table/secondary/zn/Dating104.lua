@@ -49,7 +49,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "夜刀神十香",
-        action1 = "id_normal_3",
+        action1 = "id_normal_13_shenmi",
         roleLocation1 = 4,
         datingType = 2,
         roleLipAnime = 1,
@@ -81,7 +81,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_12.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -132,7 +132,7 @@ return {
         datingType = 2,
         scriptId = 2104004,
         name = "夜刀神十香",
-        action1 = "id_normal_5",
+        action1 = "id_normal_13_shenmi",
         roleLocation2 = 5,
         text = "你、你才是碍事的家伙！当然是要让我来守护%s！",
         gameRules = {
@@ -200,7 +200,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -230,7 +230,7 @@ return {
         },
         id = 119101101,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -245,7 +245,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -289,7 +289,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -341,7 +341,7 @@ return {
         },
         text = "你是说周围这片区域？",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119101104,
         },
@@ -350,7 +350,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28605112] = {
@@ -376,7 +376,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -434,7 +434,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -492,7 +492,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -597,7 +597,7 @@ return {
         bgm = "sound/bgm/date_002.mp3",
         id = 29201101,
         text = "去最近的玩偶店吧。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         effectId = {
@@ -620,7 +620,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_173.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -709,7 +709,7 @@ return {
         bgm = "sound/bgm/date_002.mp3",
         id = 29201201,
         text = "去花店选一些花好吗？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         effectId = {
@@ -751,7 +751,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_178.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -799,7 +799,7 @@ return {
         },
         id = 119401201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_meishijieyewan.png",
@@ -845,7 +845,7 @@ return {
         },
         text = "嗯？那家店有什么特别的吗？",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119401204,
         },
@@ -854,7 +854,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119401905] = {
@@ -920,7 +920,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "美食鉴定组？",
@@ -961,7 +961,7 @@ return {
         },
         text = "那只能回去了，看样子铁门后面也不会有什么东西。",
         voice = "sound/role/kuangsan/KURUMI_209.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119402002,
         },
@@ -970,7 +970,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119401207] = {
@@ -999,7 +999,7 @@ return {
         },
         id = 119402801,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -1020,7 +1020,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "原来如此，那个什么小组也推荐了口味吗？",
@@ -1053,7 +1053,7 @@ return {
         },
         id = 119402101,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -1088,7 +1088,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那就麻烦%s同学了。",
@@ -1119,7 +1119,7 @@ return {
         },
         id = 119401401,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -1140,7 +1140,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯……听起来好像还不错。",
@@ -1205,7 +1205,7 @@ return {
         text = "我拉着狂三来到章鱼烧店门口，点了两份刚才提到的口味。",
         gameRules = {
         },
-        modelId1 = 410404,
+        modelId1 = 410401,
         scriptId = 2104004,
         roleShowType1 = 3,
         jump = {
@@ -1281,7 +1281,7 @@ return {
         text = "狂三微笑着看向我，完全没有要插手的意思。",
         modelId1 = 1,
         scriptId = 2104004,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         datingType = 2,
@@ -1363,7 +1363,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "因为是%s同学推荐的，所以味道还不错。",
@@ -1380,7 +1380,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？难道你要让柔弱的我去做这种粗活吗？",
@@ -1394,7 +1394,7 @@ return {
         },
         text = "啊啦！竟然真的在这种地方！",
         voice = "sound/role/kuangsan/KURUMI_185.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119401407,
         },
@@ -1403,7 +1403,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119401215] = {
@@ -1460,7 +1460,7 @@ return {
         },
         id = 119403001,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -1491,7 +1491,7 @@ return {
             [4] = 5,
             [5] = 0.024,
         },
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         text = "哎呀！",
         name = "时崎狂三",
         gameRules = {
@@ -1563,7 +1563,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         text = "这是一种古代封印。",
         datingType = 2,
         gameRules = {
@@ -1596,7 +1596,7 @@ return {
         },
         id = 119401601,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -1617,7 +1617,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "看样子要打开还真有些难度呢。",
@@ -1715,7 +1715,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "有……不过可能会破坏这个箱子。",
@@ -1746,7 +1746,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "真拿你没办法。",
@@ -1775,7 +1775,7 @@ return {
         },
         text = "嗯，多亏了%s同学在下面。",
         voice = "sound/role/kuangsan/KURUMI_130.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119402307,
         },
@@ -1784,7 +1784,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119401605] = {
@@ -1812,7 +1812,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学，你不太不适合这种油腔滑调的作风呢。",
@@ -1838,7 +1838,7 @@ return {
         },
         bgScale = 1,
         text = "狂三选一个喜欢的玩偶吧。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -1882,7 +1882,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_danyou",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦~%s同学，你在看哪里呢？",
@@ -1899,7 +1899,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "哦？%s同学在看哪里呢。",
@@ -1918,7 +1918,7 @@ return {
         },
         id = 119403201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -1939,7 +1939,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学也不用太在意……",
@@ -1979,7 +1979,7 @@ return {
         bgScale = 1.3,
         roleScale1 = 1.3,
         id = 119402501,
-        modelId1 = 410404,
+        modelId1 = 410401,
         effectId = {
             [1] = 1069,
         },
@@ -2032,7 +2032,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？那个奇怪的影子是指我吗？",
@@ -2058,7 +2058,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_195.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -2126,7 +2126,7 @@ return {
         },
         id = 119401101,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_meishijieyewan.png",
@@ -2147,7 +2147,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "说起来，这里还真是绝佳的猎食场所。",
@@ -2164,7 +2164,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，今天真是谢谢你了，%s同学。",
@@ -2245,7 +2245,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "就算暴露行踪会让我很苦恼，但还是很期待能再次和%s约会呢。",
@@ -2290,7 +2290,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呼呼~这是在明知故问吗？",
@@ -2338,7 +2338,7 @@ return {
         },
         text = "是吗？分量倒是无所谓，我更在意口味呢。",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119401105,
         },
@@ -2347,7 +2347,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119403208] = {
@@ -2375,7 +2375,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那么我们下次再见……",
@@ -2434,7 +2434,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过这种光线下，什么都看不到吧？",
@@ -2451,7 +2451,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_9_huaixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "原来如此，那会有什么口味呢？",
@@ -2500,7 +2500,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -2521,7 +2521,7 @@ return {
         },
         id = 119402510,
         text = "哎？为什么忽然要走啊？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         datingType = 2,
         scriptId = 2104004,
         name = "1",
@@ -2539,7 +2539,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_213.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -2580,7 +2580,7 @@ return {
         },
         id = 119402001,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -2642,7 +2642,7 @@ return {
         },
         id = 119401301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_meishijieyewan.png",
@@ -2663,7 +2663,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "就是这里了吧？%s同学有什么推荐吗？",
@@ -2680,7 +2680,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那么就麻烦%s同学了。",
@@ -2735,7 +2735,7 @@ return {
         },
         text = "呵呵，%s同学放心吧，我说过，会把你留到最后享用。",
         voice = "sound/role/kuangsan/KURUMI_152.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119401304,
         },
@@ -2744,7 +2744,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [29401105] = {
@@ -2778,7 +2778,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "难道你要让柔弱的我去做这种粗活吗？",
@@ -2795,7 +2795,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "现在的时机还不成熟，所以不用担心这个。",
@@ -2919,7 +2919,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？这难道是什么特殊体验吗？",
@@ -2936,7 +2936,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "怎么说呢，嗯……好像差那么一点点。",
@@ -2978,7 +2978,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是不是还有什么特别的情趣玩法？",
@@ -3011,7 +3011,7 @@ return {
         },
         id = 119402201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -3060,7 +3060,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "但是这种体积的石头，%s同学能搬动吗？",
@@ -3103,7 +3103,7 @@ return {
         },
         id = 119401501,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -3124,7 +3124,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，难道被我说中了吗？",
@@ -3178,7 +3178,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_202.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -3205,7 +3205,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学，现在这个时候，你在干什么呢？",
@@ -3219,7 +3219,7 @@ return {
         },
         text = "虽然小心一点是没错，但是……",
         voice = "sound/role/kuangsan/KURUMI_210.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119401504,
         },
@@ -3228,7 +3228,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119403607] = {
@@ -3364,7 +3364,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "时间是很珍贵的哦，特别是对我来说。",
@@ -3417,7 +3417,7 @@ return {
         },
         id = 119403101,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -3453,7 +3453,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "哦？就只是月亮？",
@@ -3472,7 +3472,7 @@ return {
         },
         id = 119402401,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -3557,7 +3557,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，我可是一直在看%s同学哦。",
@@ -3570,7 +3570,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_150.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -3643,7 +3643,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "因为我通常都只看我想看的东西。",
@@ -3760,7 +3760,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -3799,7 +3799,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -3824,7 +3824,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是吗？我也在看%s同学哦。",
@@ -3849,7 +3849,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_173.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -3936,7 +3936,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯。",
@@ -3968,7 +3968,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_138.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -3997,7 +3997,7 @@ return {
         },
         id = 119403501,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -4018,7 +4018,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "虽然这种止步于外表的夸奖很肤浅……但我相信是%s同学的真心话。",
@@ -4100,7 +4100,7 @@ return {
         },
         bgScale = 1,
         text = "救我！",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -4169,7 +4169,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_145.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -4274,7 +4274,7 @@ return {
         },
         bgScale = 1,
         text = "别管我，快走！",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -4484,7 +4484,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_210.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -4817,7 +4817,7 @@ return {
         roleScale2 = 1.2,
         roleShowType1 = 3,
         roleScale3 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         displayScore = 1,
         jump = {
@@ -4825,7 +4825,7 @@ return {
         },
         bgScale = 1,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         text = "啊！——怎么了 %s 同学？",
@@ -4886,7 +4886,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -5007,7 +5007,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_118.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -5165,7 +5165,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_190.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -5245,7 +5245,7 @@ return {
         roleScale2 = 1.2,
         roleShowType1 = 3,
         roleScale3 = 1.2,
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         displayScore = 1,
         jump = {
@@ -5253,7 +5253,7 @@ return {
         },
         bgScale = 1,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         text = "怎么样？没关系吧， %s 同学。怎么会突然昏倒了？",
@@ -5263,21 +5263,20 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6",
         roleScale3 = 1.2,
+        textShowType = 1,
+        displayScore = 1,
+        bgScale = 1,
         roleScale1 = 1.2,
+        modelId1 = 1,
+        name = "时崎狂三",
         gameRules = {
         },
-        textShowType = 1,
-        roleLipAnime = 1,
+        text = "那就太好了。",
         jump = {
             [1] = 29801103,
         },
-        bgScale = 1,
-        text = "那就太好了。",
-        modelId1 = 1,
-        name = "时崎狂三",
-        displayScore = 1,
+        roleLipAnime = 1,
         id = 29801102,
     },
     [29801118] = {
@@ -5324,7 +5323,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -5420,7 +5419,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_152.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -5441,7 +5440,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_7_paichi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -5600,7 +5599,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -5624,7 +5623,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_209.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -5790,7 +5789,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_150.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_danyou",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -5813,7 +5812,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_211.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -5904,7 +5903,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_176.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_3",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -5925,7 +5924,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -5949,7 +5948,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_190.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -5990,7 +5989,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -6049,7 +6048,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_195.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -6124,7 +6123,7 @@ return {
         },
         bgScale = 1,
         text = "狂三比其他[精灵]更了解人类。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -6137,7 +6136,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_212.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -6295,7 +6294,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -6319,7 +6318,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_200.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -6393,7 +6392,7 @@ return {
         },
         bgScale = 1,
         text = "先击败那只玩偶猫。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -6425,7 +6424,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_150.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -6548,7 +6547,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_190.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_pingjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -6609,7 +6608,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_200.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -6668,7 +6667,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -6712,7 +6711,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -6743,7 +6742,7 @@ return {
         modelId1 = 410401,
         gameRules = {
         },
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         jump = {
             [1] = 29802211,
         },
@@ -6791,7 +6790,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -6859,7 +6858,7 @@ return {
         displayScore = 1,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         id = 29801111,
         roleScale3 = 1.2,
         text = "一阵刺痛传遍全身，我难以置信地看着狂三——她……在笑。",
@@ -6932,7 +6931,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -6976,7 +6975,7 @@ return {
         },
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         roleShowType1 = 3,
@@ -6986,7 +6985,7 @@ return {
         },
         bgScale = 1,
         text = "真是的， %s 同学在说什么呢？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         id = 29801223,
@@ -7010,7 +7009,7 @@ return {
         },
         bgScale = 1,
         text = "狂三比其他[精灵]更聪明。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -7041,7 +7040,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -7144,7 +7143,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_168.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -7186,7 +7185,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_200.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -7224,7 +7223,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -7268,7 +7267,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_172.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -7295,10 +7294,10 @@ return {
         displayScore = 1,
         id = 29801113,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         jump = {
             [1] = 29801114,
         },
@@ -7327,7 +7326,7 @@ return {
         },
         bgScale = 1,
         text = "躺在地上装死。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -7340,7 +7339,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_210.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -7616,7 +7615,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_167.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -7658,13 +7657,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "拿着代金券装做土豪邀请狂三。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -7703,7 +7702,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_154.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -7762,7 +7761,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -7822,7 +7821,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -8003,7 +8002,7 @@ return {
         roleScale2 = 1.2,
         roleShowType1 = 3,
         roleScale3 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         displayScore = 1,
         jump = {
@@ -8011,7 +8010,7 @@ return {
         },
         bgScale = 1,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         text = " %s 同学怎么了？",
@@ -8078,7 +8077,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_10.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -8139,7 +8138,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_190.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -8177,7 +8176,7 @@ return {
         },
         bgScale = 1,
         text = "为什么狂三会这么清楚猫的习性呢？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -8244,7 +8243,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_01.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -8288,7 +8287,7 @@ return {
         },
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_9",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         roleShowType1 = 3,
@@ -8298,7 +8297,7 @@ return {
         },
         bgScale = 1,
         text = " %s 同学？……怎么样了？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         id = 29802106,
@@ -8328,7 +8327,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -8428,7 +8427,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_171.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -8471,13 +8470,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "双手恭敬递上代金券恭敬邀请。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -8629,7 +8628,7 @@ return {
         displayScore = 1,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         roleScale3 = 1.2,
@@ -8642,7 +8641,7 @@ return {
         },
         id = 29803208,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "崇宫真那",
         modelId2 = 10601,
         roleLocation2 = 5,
@@ -8691,7 +8690,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_09.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -8714,7 +8713,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_202.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -8777,11 +8776,11 @@ return {
         roleScale1 = 1.2,
         gameRules = {
         },
-        modelId1 = 410404,
+        modelId1 = 410401,
         displayScore = 1,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         id = 28100024,
         roleScale3 = 1.2,
         text = "被司令官气势冲击，我拿着代金券走到狂三面前。",
@@ -8876,7 +8875,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_11.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -8903,10 +8902,10 @@ return {
         displayScore = 1,
         id = 29803115,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         jump = {
             [1] = 29803116,
         },
@@ -8961,13 +8960,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "用嘴叼着代金券祈求她同行。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -9163,7 +9162,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_17.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -9229,7 +9228,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_15.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -9253,13 +9252,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三喜欢甜食吗？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -9336,7 +9335,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_08.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -9405,7 +9404,7 @@ return {
         },
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         optionType = 1,
         gameRules = {
         },
@@ -9436,7 +9435,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "因为这是我们的独处时间呢……",
@@ -9467,7 +9466,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_05.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -9524,7 +9523,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_15.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -9553,7 +9552,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "没有哦。",
@@ -9584,7 +9583,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是什么样的地方呢？",
@@ -9631,7 +9630,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_18.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -9660,7 +9659,7 @@ return {
         },
         id = 119201401,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -9681,7 +9680,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？求签？为什么？",
@@ -9692,7 +9691,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -9740,7 +9739,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是吗？",
@@ -9768,13 +9767,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三的三围是多少呢？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -9798,7 +9797,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "真拿你没办法……既然%s同学想去求签的话，我就陪你去吧。",
@@ -9883,7 +9882,7 @@ return {
         },
         id = 119201601,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -9938,7 +9937,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "难道说是迷恋上了我穿婚纱的样子？",
@@ -9951,7 +9950,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_07.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -9996,7 +9995,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -10036,7 +10035,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "男女一起求签，不都是在祈求姻缘吗？",
@@ -10083,7 +10082,7 @@ return {
         },
         text = "嗯？这是什么地方。",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119201607,
         },
@@ -10092,7 +10091,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119201415] = {
@@ -10106,7 +10105,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "知道了，那么，我们就来求签吧！",
@@ -10192,7 +10191,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呼呼~作为婚礼的准备，%s同学想要抽哪一支呢？",
@@ -10237,7 +10236,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -10299,7 +10298,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -10387,7 +10386,7 @@ return {
         },
         text = "那件事和找东西有什么关系？",
         voice = "sound/role/kuangsan/KURUMI_193.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119201104,
         },
@@ -10396,7 +10395,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_3",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28301205] = {
@@ -10406,7 +10405,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -10458,13 +10457,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三来学校之前有喜欢的人吗？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -10488,7 +10487,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "没错，大概三天吧。",
@@ -10558,7 +10557,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "哦？真是别出心裁的想法啊，不过我并不相信运势哦。",
@@ -10619,7 +10618,7 @@ return {
         bgm = "sound/bgm/date_013.mp3",
         id = 119202001,
         text = "去海边散散心也许会有新的灵感",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -10640,7 +10639,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -10732,12 +10731,12 @@ return {
         datingType = 2,
         voice = "sound/role/kuangsan/KURUMI_211.mp3",
         scriptId = 2104004,
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         bgm = "sound/bgm/date_013.mp3",
         id = 119202003,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         gameRules = {
         },
@@ -10821,7 +10820,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "哦？是什么样的高僧？",
@@ -10851,7 +10850,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "原来如此，%s同学以前经常这么做吗？",
@@ -10887,7 +10886,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "算了，就陪%s同学在神社约会一次吧。",
@@ -10993,7 +10992,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学不是这个意思吗？和女伴一起祈愿，只有约会的时候才会做。",
@@ -11006,7 +11005,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_16.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -11167,7 +11166,7 @@ return {
         },
         id = 119201501,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -11267,12 +11266,12 @@ return {
         datingType = 2,
         voice = "sound/role/kuangsan/KURUMI_213.mp3",
         scriptId = 2104004,
-        action1 = "id_normal_9_huaixiao",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         bgm = "sound/bgm/date_050.mp3",
         id = 119201120,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         gameRules = {
         },
@@ -11377,7 +11376,7 @@ return {
         },
         text = "嗯？%s同学是打算破坏不能去本殿的戒律吗？",
         voice = "sound/role/kuangsan/KURUMI_192.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119201506,
         },
@@ -11386,7 +11385,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28501101] = {
@@ -11397,13 +11396,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "可以请你喂我吃吗？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -11441,7 +11440,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵……意思是从背面，神明就无法看到%s同学了吗？",
@@ -11452,7 +11451,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -11480,7 +11479,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学还真是背后杀手呢。",
@@ -11497,7 +11496,7 @@ return {
         roleScale2 = 1.2,
         roleShowType1 = 3,
         roleScale3 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         displayScore = 1,
         jump = {
@@ -11505,7 +11504,7 @@ return {
         },
         bgScale = 1,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         text = "很棒的一家店呢，食物看起来也很新鲜的样子。",
@@ -11529,7 +11528,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -11623,7 +11622,7 @@ return {
         },
         text = "嗯？是什么样的地方呢？",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119201704,
         },
@@ -11632,7 +11631,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119201512] = {
@@ -11790,7 +11789,7 @@ return {
         },
         text = "嗯，确实很让人在意。",
         voice = "sound/role/kuangsan/KURUMI_172.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119201709,
         },
@@ -11799,7 +11798,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28502108] = {
@@ -11809,7 +11808,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_09.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -11867,7 +11866,7 @@ return {
         text = "狂三为什么看起来很高兴？",
         gameRules = {
         },
-        modelId1 = 410404,
+        modelId1 = 410401,
         scriptId = 2104004,
         roleShowType1 = 3,
         jump = {
@@ -11947,7 +11946,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_danyou",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？有吗？",
@@ -11977,7 +11976,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -12002,13 +12001,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "留给狂三吃吧，我就不吃了。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -12067,7 +12066,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -12152,7 +12151,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_15.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -12175,7 +12174,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_08.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -12239,13 +12238,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "草莓乳酪蛋糕",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -12324,7 +12323,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         bgScale = 1,
         gameRules = {
@@ -12389,7 +12388,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_16.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -12431,7 +12430,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -12454,7 +12453,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_18.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -12517,7 +12516,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -12619,13 +12618,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "当然，狂三做的一定很好吃。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -12666,13 +12665,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "草莓黄桃蛋糕",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -12690,7 +12689,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -12714,7 +12713,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_16.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -12735,7 +12734,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -12759,7 +12758,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_08.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -12804,13 +12803,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三的手很冰凉，很柔软。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -12983,7 +12982,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -13007,7 +13006,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_10.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -13069,7 +13068,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -13116,13 +13115,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "怎么能劳烦狂三亲自下厨呢。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -13184,13 +13183,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "黑森林蛋糕",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -13209,7 +13208,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_10.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         jump = {
@@ -13234,7 +13233,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -13256,7 +13255,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -13385,7 +13384,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -13449,13 +13448,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "可以松开手么？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -13493,7 +13492,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -13578,7 +13577,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_15.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -13761,7 +13760,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -13802,7 +13801,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -13824,7 +13823,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -13904,7 +13903,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         bgScale = 1,
         gameRules = {
@@ -13931,13 +13930,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "我的校服外套借给你穿。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -14034,7 +14033,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -14200,7 +14199,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -14304,7 +14303,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -14347,7 +14346,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_11.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -14368,7 +14367,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -14392,7 +14391,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_07.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -14454,13 +14453,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三喜欢什么样的男生呢？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -14516,7 +14515,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -14557,7 +14556,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -14702,7 +14701,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "没办法，也许是没有缘分吧？。",
@@ -14740,7 +14739,7 @@ return {
         },
         id = 119502001,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -14834,7 +14833,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那么，时间也不早了，%s同学早点回去休息吧。",
@@ -14851,7 +14850,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学也可以吃我的面哦。",
@@ -14862,7 +14861,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -14922,13 +14921,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "果然，狂三的厨艺超级棒！",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -14966,12 +14965,12 @@ return {
         datingType = 2,
         voice = "sound/role/kuangsan/KURUMI_121.mp3",
         scriptId = 2104004,
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         bgm = "sound/bgm/date_050.mp3",
         id = 119502514,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         gameRules = {
         },
@@ -14993,7 +14992,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯，不过，我也差不多吃饱了。",
@@ -15066,7 +15065,7 @@ return {
         },
         text = "嗯呢，虽然没有我要找的东西，但有价值的也不少。",
         voice = "sound/role/kuangsan/KURUMI_210.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119502708,
         },
@@ -15075,7 +15074,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28704206] = {
@@ -15108,7 +15107,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？",
@@ -15175,7 +15174,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -15197,7 +15196,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -15242,7 +15241,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "可是回去再买的话，我觉得很麻烦呢。",
@@ -15319,7 +15318,7 @@ return {
         },
         id = 119502201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -15340,7 +15339,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "今天虽然没找到想要的东西，但和%s君约会还是很开心。",
@@ -15357,7 +15356,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "什么？",
@@ -15410,7 +15409,7 @@ return {
         },
         id = 119501501,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -15464,7 +15463,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯……%s同学想要这么做，我也没意见。",
@@ -15490,7 +15489,7 @@ return {
         roleDisaprType2 = 3,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         jump = {
@@ -15528,7 +15527,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -15555,7 +15554,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那么，请%s同学离远一点。",
@@ -15568,7 +15567,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_16.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -15722,7 +15721,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学为什么这样看着我。",
@@ -15859,7 +15858,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学是在介意和我间接接吻吗？。",
@@ -15897,7 +15896,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "今天辛苦%s同学了，不过我也差不多该告辞了。",
@@ -15938,13 +15937,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三为什么要公开自己“[精灵]”的身份？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -15979,7 +15978,7 @@ return {
         },
         text = "果然，这种封印没办法从外部破坏，里面的东西已经消失了。",
         voice = "sound/role/kuangsan/KURUMI_212.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119501510,
         },
@@ -15988,7 +15987,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119501318] = {
@@ -16029,7 +16028,7 @@ return {
         },
         id = 119501701,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -16064,7 +16063,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过，有%s同学的味道呢。",
@@ -16107,7 +16106,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "没办法呢，只能去找其他线索了。",
@@ -16153,7 +16152,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦……你怎么会如此了解我的刻刻帝？",
@@ -16192,7 +16191,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -16234,7 +16233,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那也是没办法的事，今天真是谢谢%s同学了。",
@@ -16280,7 +16279,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "就不怕我除掉你吗？",
@@ -16373,7 +16372,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "算了……如果是%s的话，多知道一些也没关系。",
@@ -16396,7 +16395,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_09.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -16443,7 +16442,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "总之到头来，你也不过是猎物而已。",
@@ -16476,7 +16475,7 @@ return {
         },
         id = 119502601,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -16577,7 +16576,7 @@ return {
         },
         id = 119501901,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -16598,7 +16597,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那么，我就开始了。",
@@ -16628,7 +16627,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         text = "这样吗？",
         datingType = 2,
         gameRules = {
@@ -16661,7 +16660,7 @@ return {
         },
         id = 119501201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_meishijieyewan.png",
@@ -16682,7 +16681,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "算了……",
@@ -16713,7 +16712,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？妖魔？",
@@ -16756,7 +16755,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "既然%s同学也这么说了，那么明天我自己过来吧。",
@@ -16787,7 +16786,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "我看没有这个必要了。",
@@ -16838,7 +16837,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是在推脱吗？",
@@ -16852,7 +16851,7 @@ return {
         },
         text = "啊啦……真是意外的收获，看样子，今晚无法入眠了呢。",
         voice = "sound/role/kuangsan/KURUMI_134.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119501715,
         },
@@ -16861,7 +16860,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119503308] = {
@@ -16887,7 +16886,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "没问题的，我想你也累了，请早点回去吧。",
@@ -17048,7 +17047,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦……不知道为什么，肚子忽然不饿了呢。",
@@ -17076,7 +17075,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -17104,7 +17103,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "下次再见。",
@@ -17148,7 +17147,7 @@ return {
         },
         id = 119502101,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -17221,7 +17220,7 @@ return {
         },
         id = 119501401,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_meishijieyewan.png",
@@ -17252,7 +17251,7 @@ return {
         },
         text = "嗯？挖到东西了吗？会是什么呢。",
         voice = "sound/role/kuangsan/KURUMI_193.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119502805,
         },
@@ -17261,7 +17260,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119502103] = {
@@ -17275,7 +17274,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵……真是辛苦%s同学了。",
@@ -17359,7 +17358,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵……我看没有这个必要了。",
@@ -17400,7 +17399,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦……啊啦……没关系啦。",
@@ -17448,7 +17447,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵……%s同学还真是厉害呢，估计会有小孩子被惹哭吧？",
@@ -17459,7 +17458,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -17595,7 +17594,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "请%s同学不用担心我。",
@@ -17678,7 +17677,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦……不知道为什么，肚子忽然不饿了呢。",
@@ -17708,7 +17707,7 @@ return {
         },
         id = 119502301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -17729,7 +17728,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那么，再见。",
@@ -17760,7 +17759,7 @@ return {
         },
         id = 119501601,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -17790,7 +17789,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_16.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         gameRules = {
@@ -17800,7 +17799,7 @@ return {
         },
         id = 28705109,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         bgScale = 1,
         name = "时崎狂三",
         displayScore = 1,
@@ -17892,7 +17891,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "今天和%s同学的约会还是很愉快呢，你很体贴哦。",
@@ -17906,13 +17905,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "还行，我以后会尝试自己做。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -17960,7 +17959,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo_weixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过，我还有更重要的事要做，所以只能告辞了。",
@@ -17986,7 +17985,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         text = "……",
         datingType = 2,
         gameRules = {
@@ -18074,7 +18073,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "这个玩笑真是差强人意呢。",
@@ -18102,7 +18101,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -18160,7 +18159,7 @@ return {
         },
         id = 119502501,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -18175,7 +18174,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -18217,7 +18216,7 @@ return {
         },
         id = 119501801,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -18267,13 +18266,13 @@ return {
         },
         text = "哎？哎？？？",
         id = 119502503,
-        modelId1 = 30401,
+        modelId1 = 410401,
         jump = {
             [1] = 119502504,
         },
         scriptId = 2104004,
         name = "殿町",
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         datingType = 2,
         roleScale1 = 1.3,
         roleShowType1 = 3,
@@ -18306,7 +18305,7 @@ return {
         },
         id = 119501101,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_meishijieyewan.png",
@@ -18365,7 +18364,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "……看样子没有必要了。",
@@ -18396,7 +18395,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是因为气氛很好，所以想对我出手吗？",
@@ -18412,7 +18411,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "殿町",
-        action1 = "id_normal_4",
+        action1 = "id_normal_13_shenmi",
         text = "%s同学，你竟然背着我们在这种地方和女孩子约会！",
         datingType = 2,
         gameRules = {
@@ -18443,7 +18442,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "真的吗？那我可就不客气了哦。",
@@ -18494,7 +18493,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "箱子已经没有价值了，就在刚才……",
@@ -18511,7 +18510,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呼呼~可以哦~",
@@ -18527,7 +18526,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "殿町",
-        action1 = "id_normal_9",
+        action1 = "id_normal_13_shenmi",
         text = "还有，那个姿势是……充满男子气概的壁咚！……可恶！",
         datingType = 2,
         gameRules = {
@@ -18617,7 +18616,7 @@ return {
         },
         id = 119503401,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -18649,13 +18648,13 @@ return {
         },
         text = "真是叫人不想接近！",
         id = 119502509,
-        modelId1 = 31201,
+        modelId1 = 410401,
         jump = {
             [1] = 119502510,
         },
         scriptId = 2104004,
         name = "藤绔美衣",
-        action1 = "id_normal_4",
+        action1 = "id_normal_13_shenmi",
         datingType = 2,
         roleScale1 = 1.3,
         roleShowType1 = 3,
@@ -18688,7 +18687,7 @@ return {
         },
         id = 119502701,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -18749,7 +18748,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？那个角度能看到内衣吗？",
@@ -18844,7 +18843,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦~你还真是直白呢。",
@@ -18936,7 +18935,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_121.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -18963,7 +18962,7 @@ return {
         scriptId = 2104001,
         roleScale2 = 1.2,
         roleShowType1 = 3,
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         id = 28705210,
         text = "实际上，我们在约会哦。",
@@ -19303,7 +19302,7 @@ return {
         roleScale2 = 1.2,
         roleShowType1 = 3,
         roleScale3 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         displayScore = 1,
         jump = {
@@ -19311,7 +19310,7 @@ return {
         },
         bgScale = 1,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         text = "哎？ %s 同学？",
@@ -19399,7 +19398,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         jump = {
@@ -19544,7 +19543,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_128.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -19615,7 +19614,7 @@ return {
         bgm = "sound/bgm/date_002.mp3",
         id = 29301101,
         text = "狂三，我能牵你的手吗？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         effectId = {
@@ -19657,7 +19656,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_121.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -19699,7 +19698,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_200.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -19750,7 +19749,7 @@ return {
         bgm = "sound/bgm/date_002.mp3",
         id = 29301201,
         text = "狂三，挽着我，小心迷路。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         effectId = {
@@ -19773,7 +19772,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_207.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -19796,7 +19795,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_152.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -19877,7 +19876,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_173.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -19900,7 +19899,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_143.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -19943,7 +19942,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_172.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -20093,7 +20092,7 @@ return {
         },
         bgScale = 1,
         text = "玻璃柜里的章鱼宝宝。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -20106,7 +20105,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -20151,7 +20150,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_121.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -20174,7 +20173,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -20195,7 +20194,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -20299,7 +20298,7 @@ return {
         displayScore = 1,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4",
+        action1 = "id_normal_13_shenmi",
         id = 29501119,
         roleScale3 = 1.2,
         text = "刚冲到玩偶店门口，右脚突然被章鱼触手拉住。",
@@ -20327,7 +20326,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -20349,7 +20348,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -20371,7 +20370,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -20502,7 +20501,7 @@ return {
         },
         bgScale = 1,
         text = "门口拿糖果盒子的兔子。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -20552,7 +20551,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -20595,7 +20594,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_171.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -20618,7 +20617,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_152.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -20811,7 +20810,7 @@ return {
         },
         bgScale = 1,
         text = "戴头巾的猫妈妈。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -20824,7 +20823,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_167.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -20886,7 +20885,7 @@ return {
         },
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         id = 29501302,
         roleShowType1 = 3,
@@ -20896,7 +20895,7 @@ return {
         },
         bgScale = 1,
         text = "啊咧？是那只猫咪玩偶吗？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         roleScale1 = 1.2,
@@ -20950,7 +20949,7 @@ return {
         roleScale2 = 1.2,
         roleShowType1 = 3,
         roleScale3 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         displayScore = 1,
         jump = {
@@ -20958,7 +20957,7 @@ return {
         },
         bgScale = 1,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         text = "谢谢款待………………好甜啊~",
@@ -21004,7 +21003,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_197.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -21094,7 +21093,7 @@ return {
         },
         bgScale = 1,
         text = "在我心里最可爱的是狂三。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -21268,7 +21267,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_190.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_3",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -21289,7 +21288,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -21313,7 +21312,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_195.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -21468,7 +21467,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -21524,7 +21523,7 @@ return {
         },
         bgScale = 1,
         text = "我觉得那个猫玩偶很可爱。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -21537,7 +21536,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_82.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -21598,7 +21597,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_117.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -21619,7 +21618,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -21738,7 +21737,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "所以……%s同学果然是想和我约会吧？",
@@ -21803,7 +21802,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦…虽然很在意那件东西，不过既然是%s同学的邀请，我也不好拒绝呢。",
@@ -21814,7 +21813,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -21838,7 +21837,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_211.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -21900,7 +21899,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "……既然%s同学这么在意的话，那就走吧……",
@@ -21944,7 +21943,7 @@ return {
         },
         id = 119301301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -22087,7 +22086,7 @@ return {
         datingType = 2,
         roleDisaprType1 = 3,
         scriptId = 2104004,
-        action1 = "id_normal_9_huaixiao",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         jump = {
             [1] = 119403101,
@@ -22096,7 +22095,7 @@ return {
         },
         id = 119303217,
         text = "你看到了什么？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         gameRules = {
         },
@@ -22136,7 +22135,7 @@ return {
         },
         text = "啊啦……啊啦……%s同学你还真有一套。",
         voice = "sound/role/kuangsan/KURUMI_121.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119301306,
         },
@@ -22145,7 +22144,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119303409] = {
@@ -22263,7 +22262,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -22343,7 +22342,7 @@ return {
         },
         id = 119302201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -22364,7 +22363,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦……原来%s同学是想看这个呀？",
@@ -22432,7 +22431,7 @@ return {
         },
         text = "嗯？这个地方……",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119301311,
         },
@@ -22441,7 +22440,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119302904] = {
@@ -22604,7 +22603,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "这里很可疑，%s同学觉得呢？",
@@ -22710,7 +22709,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -22751,7 +22750,7 @@ return {
         },
         id = 119302401,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -22806,10 +22805,10 @@ return {
         displayScore = 1,
         id = 29702115,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         jump = {
             [1] = 29702116,
         },
@@ -22829,7 +22828,7 @@ return {
         },
         id = 119301701,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -22864,7 +22863,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？没试过呢，你有把握吗？",
@@ -22888,7 +22887,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -22955,7 +22954,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -22992,7 +22991,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -23087,7 +23086,7 @@ return {
         },
         id = 119303301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -23104,7 +23103,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_212.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -23171,7 +23170,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -23263,7 +23262,7 @@ return {
         },
         bgScale = 1,
         text = "那个兔子玩偶，送给狂三好不好？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -23322,7 +23321,7 @@ return {
         },
         id = 119301201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -23388,7 +23387,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_153.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -23409,7 +23408,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -23463,7 +23462,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleShowType1 = 3,
         gameRules = {
@@ -23475,7 +23474,7 @@ return {
         },
         id = 29704206,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "1",
         displayScore = 1,
         bgScale = 1,
@@ -23487,7 +23486,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_118.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -23528,7 +23527,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？",
@@ -23680,7 +23679,7 @@ return {
         },
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleLipAnime = 1,
         textShowType = 1,
@@ -23786,7 +23785,7 @@ return {
         },
         id = 119302101,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -23804,7 +23803,7 @@ return {
         },
         text = "是啊，这里散落着很多古老的工具和材料呢。",
         voice = "sound/role/kuangsan/KURUMI_172.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119301911,
         },
@@ -23813,7 +23812,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119301209] = {
@@ -23827,7 +23826,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_3",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "说起来，从中午开始，我就没怎么吃过东西了呢。",
@@ -23854,7 +23853,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_202.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -23905,7 +23904,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_152.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -23947,7 +23946,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "看样子穿过楼梯就出去了，要过去吗？",
@@ -24023,7 +24022,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是啊……吃拉面好呢、还是吃章鱼烧好，很为难呢。",
@@ -24037,7 +24036,7 @@ return {
         },
         text = "辉夜姬……好像是指住在月亮上的妖精小姐吧？",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119303317,
         },
@@ -24046,7 +24045,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [29705308] = {
@@ -24060,10 +24059,10 @@ return {
         displayScore = 1,
         id = 29705308,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         jump = {
             [1] = 29705309,
         },
@@ -24150,7 +24149,7 @@ return {
         },
         text = "啊啦，你还真有一套。",
         voice = "sound/role/kuangsan/KURUMI_117.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119301406,
         },
@@ -24159,7 +24158,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [29703109] = {
@@ -24220,7 +24219,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_175.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -24249,7 +24248,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "什么？",
@@ -24275,7 +24274,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -24380,7 +24379,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         name = "时崎狂三",
-        action1 = "id_normal_7_paichi",
+        action1 = "id_normal_13_shenmi",
         text = "真是的， %s 同学在胡说什么啊。",
         roleScale3 = 1.2,
         gameRules = {
@@ -24442,7 +24441,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_202.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -24463,7 +24462,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -24601,7 +24600,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯，那样绝对会掉下去。",
@@ -24661,7 +24660,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -24686,7 +24685,7 @@ return {
         },
         text = "唔姆……%s到底跑到哪里去了？",
         voice = "sound/role/shixiang/TOUKA_117.mp3",
-        modelId1 = 410104,
+        modelId1 = 410401,
         jump = {
             [1] = 119301414,
         },
@@ -24695,7 +24694,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [29703111] = {
@@ -24787,7 +24786,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_207.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -24816,7 +24815,7 @@ return {
         datingType = 2,
         scriptId = 2104004,
         name = "夜刀神十香",
-        action1 = "id_normal_5",
+        action1 = "id_normal_13_shenmi",
         roleLocation2 = 5,
         text = "什么！怎么可能，%s肯定是不想见到你！",
         gameRules = {
@@ -24884,7 +24883,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -24929,7 +24928,7 @@ return {
         },
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         roleShowType1 = 3,
@@ -24939,7 +24938,7 @@ return {
         },
         bgScale = 1,
         text = "嘛…… %s 同学真是着急呵。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         id = 29705104,
@@ -24976,7 +24975,7 @@ return {
         },
         id = 119302501,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -24998,7 +24997,7 @@ return {
         roleLocation1 = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         datingType = 2,
         roleScale3 = 1.2,
         roleScale1 = 1.2,
@@ -25071,7 +25070,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_206.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -25117,7 +25116,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呼呼~%s同学还会看那种东西的吗？",
@@ -25163,7 +25162,7 @@ return {
         },
         id = 119301101,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -25220,7 +25219,7 @@ return {
         },
         text = "嗯？神明的愤怒吗？那个我倒是没听见。",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119301804,
         },
@@ -25229,7 +25228,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119301102] = {
@@ -25268,7 +25267,7 @@ return {
         },
         bgScale = 1,
         text = "听狂三的，停下来。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -25285,7 +25284,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过，刚才我在窗户上看到几个黑影，应该是那个宏人从这里经过吧。",
@@ -25298,7 +25297,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_212.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -25441,7 +25440,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -25488,7 +25487,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是吗？那我就放他们一马。",
@@ -25564,10 +25563,10 @@ return {
         displayScore = 1,
         id = 29706222,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         jump = {
             [1] = 29706223,
         },
@@ -25586,7 +25585,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         text = " %s 同学怎么这么着急啊~",
         roleScale3 = 1.2,
         gameRules = {
@@ -25603,7 +25602,7 @@ return {
         roleScale1 = 1.2,
         gameRules = {
         },
-        modelId1 = 410404,
+        modelId1 = 410401,
         displayScore = 1,
         scriptId = 2104002,
         roleScale2 = 1.2,
@@ -25624,7 +25623,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "真不愧是男孩子的想法。",
@@ -25722,7 +25721,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -25774,7 +25773,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_195.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -25834,7 +25833,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_202.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -25861,7 +25860,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过，找一下也没关系，可能也能发现些线索。",
@@ -25915,7 +25914,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，%s同学这是在明知故问吗？",
@@ -25940,7 +25939,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_danyou",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -25968,7 +25967,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不如我现在就给%s同学来个痛快吧！",
@@ -26000,7 +25999,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_138.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -26047,7 +26046,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过，这样会让我觉得很困扰。",
@@ -26064,7 +26063,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "原来如此，看来%s同学的态度很坚决。",
@@ -26115,10 +26114,10 @@ return {
         displayScore = 1,
         id = 29705204,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         jump = {
             [1] = 29705205,
         },
@@ -26152,7 +26151,7 @@ return {
         gameRules = {
         },
         text = "即使狂三这么说，我也很乐意再次约会呢。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         scriptId = 2104004,
         name = "1",
         roleShowType1 = 3,
@@ -26174,7 +26173,7 @@ return {
         },
         id = 119503801,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -26210,7 +26209,7 @@ return {
         },
         id = 119503701,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -26274,7 +26273,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_121.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -26369,7 +26368,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "……理由很简单，妖精再可爱，也终究不是人类。",
@@ -26435,7 +26434,7 @@ return {
         },
         bgScale = 1,
         text = "继续逃命",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -26462,7 +26461,7 @@ return {
             [4] = 5,
             [5] = 0.024,
         },
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         text = "什……什么！为什么忽然这么说啊？",
         name = "1",
         gameRules = {
@@ -26479,7 +26478,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "这么说来，%s同学很期待和我再次约会吗？即使和我接触得越多，就越接近被我享用的结局。",
@@ -26498,7 +26497,7 @@ return {
         },
         id = 119403601,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -26548,7 +26547,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -26646,7 +26645,7 @@ return {
         text = "狂三露出一个可怕的笑容，虽然看上去有点像恶作剧，但是我还是感觉很危险。",
         modelId1 = 1,
         scriptId = 2104004,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         datingType = 2,
@@ -26687,7 +26686,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "如果你不想长期受煎熬的话，我现在也以帮你了结。",
@@ -26763,7 +26762,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呼呼~看来%s同学还是没明白自己的宿命呢。",
@@ -26791,7 +26790,7 @@ return {
         },
         text = "哦？也是没办法的事呢，因为%s同学就是我的目标人物哦。",
         voice = "sound/role/kuangsan/KURUMI_212.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119503605,
         },
@@ -26800,7 +26799,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119503603] = {
@@ -26825,7 +26824,7 @@ return {
         },
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         roleShowType1 = 3,
@@ -26835,7 +26834,7 @@ return {
         },
         bgScale = 1,
         text = " %s 同学在说什么啊？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         id = 29705302,
@@ -26919,7 +26918,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -26949,7 +26948,7 @@ return {
         },
         id = 119503601,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -26990,7 +26989,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_117.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -27070,7 +27069,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "顾虑越多，就越不像以前的%s同学了。",
@@ -27101,7 +27100,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "相比我，%s同学更加难懂呢。",
@@ -27133,7 +27132,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_173.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -27212,7 +27211,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "驱使我的，仅仅是我的本心而已。",
@@ -27229,7 +27228,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是吗？不过我觉得%s已经够了解我了，可以说比任何人都了解呢。",
@@ -27248,7 +27247,7 @@ return {
         },
         id = 119503501,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -27337,7 +27336,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         backGround = "scene/bg/bg_meishijie.png",
         textShowType = 1,
@@ -27348,7 +27347,7 @@ return {
         roleScale1 = 1.2,
         gameRules = {
         },
-        modelId1 = 410404,
+        modelId1 = 410401,
         effectId = {
             [1] = 1014,
         },
@@ -27401,7 +27400,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，%s同学是这么觉得的吗？那就对了。",
@@ -27464,7 +27463,7 @@ return {
         },
         bgScale = 1,
         text = "我喜欢[精灵]。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -27500,7 +27499,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_211.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -27529,7 +27528,7 @@ return {
         },
         id = 119403401,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -27564,7 +27563,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "为什么会觉得我像她呢？难道，你见过她么？",
@@ -27635,7 +27634,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         bgScale = 1,
         gameRules = {
@@ -27659,7 +27658,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -27754,7 +27753,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "原来如此，果然是%s同学的作风……",
@@ -27842,7 +27841,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "因为一向都是一个人独来独往，所以也习惯了呢。",
@@ -27856,7 +27855,7 @@ return {
         },
         text = "如果是和%s同学一起赏月，确实要比一个人望着月亮发呆要好很多。",
         voice = "sound/role/kuangsan/KURUMI_206.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119303304,
         },
@@ -27865,7 +27864,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119303302] = {
@@ -27891,7 +27890,7 @@ return {
         },
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleShowType1 = 3,
         roleScale3 = 1.2,
         bgScale = 1,
@@ -27903,7 +27902,7 @@ return {
         id = 29706214,
         roleScale1 = 1.2,
         displayScore = 1,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "崇宫真那",
         modelId2 = 10601,
         roleLocation2 = 5,
@@ -27987,7 +27986,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "所以害怕的话，就请别跟上来了。",
@@ -28014,7 +28013,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_194.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -28041,7 +28040,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "因为刚才我确实想过要享用%s同学呢……",
@@ -28054,7 +28053,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_195.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -28075,7 +28074,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -28120,7 +28119,7 @@ return {
         },
         text = "没有道歉的必要，%s同学觉得阴森就对了。",
         voice = "sound/role/kuangsan/KURUMI_208.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119503312,
         },
@@ -28129,7 +28128,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119503307] = {
@@ -28158,7 +28157,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？不是%s同学带我过来的吗？",
@@ -28177,7 +28176,7 @@ return {
         },
         id = 119503301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -28215,7 +28214,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_138.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -28431,7 +28430,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦~你这么说会让我害羞呢。",
@@ -28450,7 +28449,7 @@ return {
         },
         id = 119503201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -28473,7 +28472,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那么，%s同学为什么要看我呢？",
@@ -28514,7 +28513,7 @@ return {
         },
         id = 119403301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -28589,7 +28588,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "既然如此，那快过去吧~",
@@ -28617,7 +28616,7 @@ return {
         },
         text = "呵……你是在害怕吗？",
         voice = "sound/role/kuangsan/KURUMI_118.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119303212,
         },
@@ -28666,7 +28665,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -28721,7 +28720,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_3",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "难怪……她一定很想攻略%s同学吧？",
@@ -28761,7 +28760,7 @@ return {
         },
         bgScale = 1,
         text = "我不喜欢[精灵]。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -28815,7 +28814,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？还有这样的古井存在？",
@@ -28834,7 +28833,7 @@ return {
         },
         id = 119303201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -29010,7 +29009,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "是啊，能不能麻烦%s同学送我回呢？",
@@ -29096,7 +29095,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过，%s同学肯陪我散心，我已经很开心了呢。",
@@ -29113,7 +29112,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "没有哦，只是感觉今天不是找东西的好时机。",
@@ -29145,14 +29144,14 @@ return {
         datingType = 2,
         roleDisaprType1 = 3,
         scriptId = 2104004,
-        action1 = "id_normal_9_huaixiao",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         jump = {
             [1] = 119502905,
         },
         id = 119502904,
         text = "嗯~我看还是放弃吧。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         gameRules = {
         },
@@ -29200,7 +29199,7 @@ return {
         },
         id = 119502901,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -29236,7 +29235,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -29290,7 +29289,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "这可是与%s同学一起历险得到的纪念品，应该好好珍藏。",
@@ -29307,7 +29306,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "等等，我想要拿一个呢。",
@@ -29320,7 +29319,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_190.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -29342,7 +29341,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_121.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_bukaixin",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         gameRules = {
@@ -29388,7 +29387,7 @@ return {
         },
         id = 119502801,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -29501,7 +29500,7 @@ return {
         },
         id = 119402901,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_xiaodaohaibian2.png",
@@ -29522,7 +29521,7 @@ return {
         },
         modelId1 = 1,
         scriptId = 2104004,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleLocation1 = 2,
         datingType = 2,
         roleScale1 = 1.3,
@@ -29634,9 +29633,9 @@ return {
         roleLocation1 = 2,
         datingType = 2,
         text = "再回头看向狂三，发现她正以认真的眼神看着我，好像在期待着什么。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         scriptId = 2104004,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleShowType1 = 3,
         gameRules = {
         },
@@ -29728,7 +29727,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，不用在意这些，开始寻宝吧。",
@@ -29759,7 +29758,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "和那个完全没关系。",
@@ -29804,7 +29803,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -29831,7 +29830,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "心情确实舒畅了不少……不过思路的话，好像还是没有什么头绪。",
@@ -29872,13 +29871,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "我们去水吧喝杯咖啡怎么样？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -29896,12 +29895,12 @@ return {
         datingType = 2,
         voice = "sound/role/kuangsan/KURUMI_139.mp3",
         scriptId = 2104004,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         bgm = "sound/bgm/date_017.mp3",
         id = 119202011,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         gameRules = {
         },
@@ -30054,7 +30053,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "你究竟想表达什么？",
@@ -30127,7 +30126,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_9",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         gameRules = {
@@ -30290,7 +30289,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -30357,7 +30356,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵……%s同学是打算欺骗自己吗？",
@@ -30370,7 +30369,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_175.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -30542,7 +30541,7 @@ return {
         },
         id = 119401901,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -30604,7 +30603,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -30644,7 +30643,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，%s同学果然还是很想和我结婚呢。",
@@ -30661,7 +30660,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过%s同学想去的话，陪你走一趟也没问题。",
@@ -30686,7 +30685,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -30710,7 +30709,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_160.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -30757,7 +30756,7 @@ return {
         },
         id = 119301601,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -30775,7 +30774,7 @@ return {
         },
         text = "看样子这种封印，精灵没办法触碰呢。",
         voice = "sound/role/kuangsan/KURUMI_190.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119401513,
         },
@@ -30784,7 +30783,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [29101116] = {
@@ -30794,7 +30793,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_213.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -30919,7 +30918,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "抱歉，因为忽然想起有很重要的事，所以……",
@@ -31016,13 +31015,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "快脱下来，我帮你弄干净。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -31059,7 +31058,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -31094,7 +31093,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -31213,7 +31212,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -31279,13 +31278,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "想知道狂三喜欢吃的东西是什么味道。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -31330,7 +31329,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_danyou",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦~%s同学，你在看哪里呢？",
@@ -31399,13 +31398,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "呆在狂三身边，我就感觉热气上涌。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -31579,7 +31578,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         bgScale = 1,
         gameRules = {
@@ -31657,7 +31656,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -31682,7 +31681,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "哦？%s同学带着撬棍？",
@@ -31693,7 +31692,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -31779,7 +31778,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_08.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -31876,7 +31875,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -31954,13 +31953,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "请让我帮忙吧。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -32073,7 +32072,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -32137,7 +32136,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_152.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -32161,7 +32160,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -32222,13 +32221,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三今天穿的什么颜色的内裤？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -32325,7 +32324,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -32352,7 +32351,7 @@ return {
         },
         id = 119301801,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -32387,7 +32386,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_17.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -32487,7 +32486,7 @@ return {
         },
         roleScale1 = 1.3,
         datingType = 2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         roleLocation1 = 2,
         scriptId = 2104004,
         backGround = "scene/bg/bg_houyuanyewan.png",
@@ -32553,7 +32552,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，那么，今天的约会就到这里吧。",
@@ -32583,7 +32582,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -32648,7 +32647,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_08.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -32686,13 +32685,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "喜欢，只要是狂三喜欢的，我都会喜欢哦。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -32738,7 +32737,7 @@ return {
         },
         bgScale = 1.3,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -32757,13 +32756,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "我们去豪华餐厅吃西餐可以吗？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -32784,13 +32783,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三想要怎么样“补偿”都可以。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -32814,7 +32813,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "没错，这是我空间移动的能力。",
@@ -32844,7 +32843,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -32987,13 +32986,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三喜欢什么样的男生呢？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -33013,7 +33012,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -33036,7 +33035,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -33127,7 +33126,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_08.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -33151,7 +33150,7 @@ return {
         },
         text = "哦？这种地方吗？",
         voice = "sound/role/kuangsan/KURUMI_192.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119402316,
         },
@@ -33160,7 +33159,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119201811] = {
@@ -33217,7 +33216,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_73.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -33243,7 +33242,7 @@ return {
         roleScale1 = 1.2,
         gameRules = {
         },
-        modelId1 = 410404,
+        modelId1 = 410401,
         displayScore = 1,
         scriptId = 2104002,
         roleScale2 = 1.2,
@@ -33348,7 +33347,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呼呼，有趣的想法呢。",
@@ -33361,7 +33360,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_01.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -33402,7 +33401,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "哦？所以呢？",
@@ -33460,7 +33459,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过面积太大，要怎么找呢？",
@@ -33477,7 +33476,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo_weixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不过，我还有更重要的事要做，所以要先告辞了。",
@@ -33508,7 +33507,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -33533,13 +33532,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三为什么要转来我们学校呢？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -33559,7 +33558,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_19.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -33727,7 +33726,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "这样吗？意思是明天再过来？",
@@ -33741,13 +33740,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "我想了解狂三的过去。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -33765,7 +33764,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -33801,12 +33800,12 @@ return {
         datingType = 2,
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
         scriptId = 2104004,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         bgm = "sound/bgm/date_013.mp3",
         id = 119101303,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         gameRules = {
         },
@@ -33934,7 +33933,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_08.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_lengjing",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -33957,7 +33956,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -34000,7 +33999,7 @@ return {
         },
         id = 119101301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -34017,7 +34016,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_197.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -34060,13 +34059,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "不喜欢，既然是狂三喜欢的，那便迁就你好了",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -34138,7 +34137,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_15.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         jump = {
@@ -34162,7 +34161,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         bgScale = 1,
         gameRules = {
@@ -34213,7 +34212,7 @@ return {
         },
         text = "嗯呢，那就麻烦你用手机照明了。",
         voice = "sound/role/kuangsan/KURUMI_183.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119502704,
         },
@@ -34222,7 +34221,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119201810] = {
@@ -34236,7 +34235,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "如果是你的话，可以的。",
@@ -34277,7 +34276,7 @@ return {
         },
         id = 119301401,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -34337,7 +34336,7 @@ return {
         },
         text = "嗯？不要去南方。",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119301606,
         },
@@ -34346,7 +34345,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28403103] = {
@@ -34417,7 +34416,7 @@ return {
         },
         id = 119302301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -34469,7 +34468,7 @@ return {
         },
         text = "啊啦……啊啦……%s同学真是有了不起的发现呢。",
         voice = "sound/role/kuangsan/KURUMI_121.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119301906,
         },
@@ -34478,7 +34477,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28403210] = {
@@ -34604,7 +34603,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         datingType = 2,
         roleScale1 = 1.6,
         text = "算是吧，也许正是期待着有人来邀请我呢。",
@@ -34614,7 +34613,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -34672,7 +34671,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -34719,7 +34718,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "听起来好像很不错，麻烦%s同学帮我点一份吧。",
@@ -34895,7 +34894,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那我就开动了哦。",
@@ -34941,13 +34940,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "坐在座位上，假装什么也没有发生。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -34990,13 +34989,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "马上带狂三去吃最好吃的面包。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -35085,13 +35084,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "我想知道怎么和狂三相处。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -35132,7 +35131,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？我的加油没起作用吗？",
@@ -35214,7 +35213,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，十分抱歉呢，我只相信自己的判断力。",
@@ -35233,7 +35232,7 @@ return {
         },
         id = 119402301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -35392,7 +35391,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_12.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -35428,13 +35427,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "好吃，但我想吃狂三的那一份。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -35455,13 +35454,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "可能是这里的空调太热了！",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -35499,7 +35498,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -35632,7 +35631,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_09.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -35672,7 +35671,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_09.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         jump = {
@@ -35789,7 +35788,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -35816,7 +35815,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？诅咒？",
@@ -35863,7 +35862,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "原来如此，我相信%s同学。",
@@ -35898,7 +35897,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_168.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -35960,7 +35959,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -36028,7 +36027,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -36102,7 +36101,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_10.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -36158,7 +36157,7 @@ return {
         },
         id = 119501301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_meishijieyewan.png",
@@ -36179,7 +36178,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "我不怪你，只是已经到了告别的时间了。",
@@ -36200,7 +36199,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -36260,7 +36259,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "啊啦，你是在害怕吗？那请让我来吧。",
@@ -36273,7 +36272,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_194.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -36296,7 +36295,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_02.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -36343,13 +36342,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "保证以后对狂三言听计从。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -36394,7 +36393,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         endType = 2,
         text = "为了不白跑一趟，还是拿一些吧。",
         datingType = 2,
@@ -36554,7 +36553,7 @@ return {
         },
         text = "啊啦，成功出来了呢。",
         voice = "sound/role/kuangsan/KURUMI_117.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119502415,
         },
@@ -36563,7 +36562,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119502413] = {
@@ -36638,7 +36637,7 @@ return {
         },
         text = "呵呵，看样子约会没办法继续了。",
         voice = "sound/role/kuangsan/KURUMI_143.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119502410,
         },
@@ -36647,7 +36646,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28602109] = {
@@ -36685,7 +36684,7 @@ return {
         },
         id = 119301901,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -36771,7 +36770,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_11.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -36814,13 +36813,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "刚刚走过来运动了一下，有点出汗。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -36838,7 +36837,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -36888,7 +36887,7 @@ return {
         },
         id = 119502401,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -36926,7 +36925,7 @@ return {
             [4] = 5,
             [5] = 0.024,
         },
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         roleLipAnime = 1,
@@ -36936,7 +36935,7 @@ return {
         },
         id = 119302005,
         text = "哎呀！",
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleShowType1 = 3,
         roleScale1 = 1.3,
@@ -36948,7 +36947,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_10.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -37075,7 +37074,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "为了不给%s同学增加困扰，是时候告辞了。",
@@ -37119,7 +37118,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -37161,7 +37160,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学不是对我的能力很了解吗，这只是空间移动而已。",
@@ -37301,7 +37300,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -37329,7 +37328,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_danyou",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学！你……在做什么！",
@@ -37502,7 +37501,7 @@ return {
         },
         id = 119302001,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_jiudianfangjianyewan2.png",
@@ -37517,7 +37516,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -37568,7 +37567,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -37683,7 +37682,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -37802,7 +37801,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -37827,13 +37826,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三喜欢什么颜色呢？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -37871,7 +37870,7 @@ return {
         },
         text = "嗯，多亏了%s同学在前面。",
         voice = "sound/role/kuangsan/KURUMI_130.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119302114,
         },
@@ -37880,7 +37879,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28602113] = {
@@ -38012,7 +38011,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -38034,12 +38033,12 @@ return {
         datingType = 2,
         voice = "sound/role/kuangsan/KURUMI_118.mp3",
         scriptId = 2104004,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         bgm = "sound/bgm/date_042.mp3",
         id = 119302106,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         gameRules = {
         },
@@ -38121,7 +38120,7 @@ return {
         },
         id = 119201301,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -38138,7 +38137,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_12.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -38216,7 +38215,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_9_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -38281,7 +38280,7 @@ return {
         },
         id = 119201701,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -38296,7 +38295,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         jump = {
@@ -38319,7 +38318,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         bgScale = 1,
         gameRules = {
@@ -38345,7 +38344,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_10.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -38515,7 +38514,7 @@ return {
         },
         scriptId = 2104004,
         name = "夜刀神十香",
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         datingType = 2,
         text = "才……才没有！我怎么会因为这点小事就害怕！",
         modelId2 = 1,
@@ -38572,7 +38571,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "我们下次再见吧……和%s同学在一起，我很开心。",
@@ -38636,7 +38635,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "那就麻烦%s同学了。",
@@ -38663,13 +38662,13 @@ return {
         },
         id = 119100019,
         text = "啊……！啊！",
-        modelId1 = 30401,
+        modelId1 = 410401,
         name = "殿町宏人",
         gameRules = {
         },
         roleScale1 = 1.3,
         roleLipAnime = 1,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
     },
     [119502212] = {
         textShowType = 1,
@@ -38749,7 +38748,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_7",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -38810,7 +38809,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         text = "这个嘛……",
         datingType = 2,
         gameRules = {
@@ -38919,7 +38918,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo_lengjing",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "时间也不早了，%s同学要不要去与其他同学汇合呢？",
@@ -38949,7 +38948,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_3",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不行哦。",
@@ -38975,7 +38974,7 @@ return {
         },
         bgScale = 1,
         text = "全部带回家吧！",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian1.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -38989,7 +38988,7 @@ return {
         },
         text = "嗯？这应该是属于涂鸦之类吧，%s同学觉得呢。",
         voice = "sound/role/kuangsan/KURUMI_191.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119502101,
             [2] = 119502201,
@@ -38999,7 +38998,7 @@ return {
         roleShowType1 = 3,
         id = 119402013,
         roleScale1 = 1.3,
-        action1 = "id_normal_7_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28603312] = {
@@ -39063,7 +39062,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -39107,7 +39106,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "根据那件东西的特质，出现在附近的几率几乎为零……",
@@ -39126,7 +39125,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学不是说要帮我吗？",
@@ -39175,13 +39174,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三喜欢什么运动呢？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -39300,7 +39299,7 @@ return {
         bgm = "sound/bgm/date_002.mp3",
         id = 29201301,
         text = "这边的饰品店听说不错哦。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         effectId = {
@@ -39357,7 +39356,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -39379,7 +39378,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -39429,7 +39428,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？%s同学想要做什么。",
@@ -39490,7 +39489,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -39546,13 +39545,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "我有几个老婆是[精灵]",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -39570,7 +39569,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         jump = {
@@ -39593,7 +39592,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_118.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -39713,7 +39712,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_16.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -39746,7 +39745,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_3",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [29704103] = {
@@ -39840,7 +39839,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_118.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         gameRules = {
@@ -39963,7 +39962,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯？为什么会知道我在这里呢？",
@@ -39976,7 +39975,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_15.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -40149,7 +40148,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_09.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -40205,13 +40204,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "通知琴里，让她支开十香。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -40280,7 +40279,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_04.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -40329,7 +40328,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯呵呵，%s同学的态度很古怪啊。",
@@ -40361,7 +40360,7 @@ return {
         },
         id = 119301501,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -40412,13 +40411,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "我一刻也不想离开狂三。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -40621,7 +40620,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "%s同学还是老样子，很急着想要知道我的秘密呢。",
@@ -40652,7 +40651,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "既然是%s同学的请求，看样子我没办法拒绝呢。",
@@ -40696,7 +40695,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_8_shenmi",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         jump = {
@@ -40737,7 +40736,7 @@ return {
         },
         bgScale = 1,
         text = "我想带那个兔子玩偶回家。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -40748,7 +40747,7 @@ return {
         datingType = 2,
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_3",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -40776,7 +40775,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "唉……这种不坦诚的语气……算了，我就告诉你吧。",
@@ -40787,7 +40786,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_10_xiee",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -40829,7 +40828,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_01.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -40880,13 +40879,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_12_yihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "知道一些，并不是很清楚。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -40911,7 +40910,7 @@ return {
         displayScore = 1,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4",
+        action1 = "id_normal_13_shenmi",
         id = 28801217,
         roleScale3 = 1.2,
         text = "狂三停止了笑容，严肃地看着我。",
@@ -40930,7 +40929,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_1",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "实际上我是在找东西哦，不过你们忽然过来，所以被妨碍了。",
@@ -40947,7 +40946,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "继续留下来会给%s同学增加困扰吧？那么是时候告辞了。",
@@ -40975,7 +40974,7 @@ return {
         },
         bgScale = 1,
         text = "为什么猫会突然变大啊？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         backGround = "scene/bg/bg_wanoudian2.png",
         bgm = "sound/bgm/date_002.mp3",
         roleScale1 = 1.2,
@@ -40988,7 +40987,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_19.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -41058,7 +41057,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_121.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -41085,7 +41084,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呼……可以不说吗？",
@@ -41224,7 +41223,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_11",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呼呼~这可不是藏宝游戏哦。",
@@ -41256,7 +41255,7 @@ return {
         },
         id = 119101201,
         roleScale1 = 1.3,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         backGround = "scene/bg/bg_shensheyewan.png",
@@ -41335,7 +41334,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_154.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -41399,7 +41398,7 @@ return {
         },
         text = "嗯……连本殿我都搜索过好几次。",
         voice = "sound/role/kuangsan/KURUMI_190.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119101204,
         },
@@ -41408,7 +41407,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28605105] = {
@@ -41437,13 +41436,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "我马上回去看食谱。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -41482,7 +41481,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_19.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -41503,7 +41502,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -41541,13 +41540,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "躲起来，不让十香发现。",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -41571,7 +41570,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_9_huaixiao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵，神明吗？",
@@ -41674,7 +41673,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -41719,7 +41718,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "哦？%s同学不会是想和我独处的吧。",
@@ -41747,7 +41746,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -41834,7 +41833,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_ezuoju",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "不管怎么说，今天和%s同学的约会很愉快，你很体贴哦。",
@@ -41870,7 +41869,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "这么说来，你有计划了？",
@@ -41881,7 +41880,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -41928,7 +41927,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_5_meihuo",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "嗯……难道是在介意和我间接接吻吗？",
@@ -42142,7 +42141,7 @@ return {
         roleScale2 = 1.2,
         roleShowType1 = 3,
         roleScale3 = 1.2,
-        action1 = "id_normal_2",
+        action1 = "id_normal_13_shenmi",
         textShowType = 1,
         displayScore = 1,
         jump = {
@@ -42150,7 +42149,7 @@ return {
         },
         bgScale = 1.2,
         roleScale1 = 1.4,
-        modelId1 = 410404,
+        modelId1 = 410401,
         name = "时崎狂三",
         roleLipAnime = 1,
         text = "哎？发生什么事了吗？",
@@ -42166,10 +42165,10 @@ return {
         displayScore = 1,
         id = 29705121,
         roleScale1 = 1.2,
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         jump = {
             [1] = 29705122,
         },
@@ -42215,7 +42214,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_138.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -42239,7 +42238,7 @@ return {
         },
         text = "过来的时候有注意到，是针对盂兰盆节开放的特别美食街吧？",
         voice = "sound/role/kuangsan/KURUMI_190.mp3",
-        modelId1 = 410404,
+        modelId1 = 410401,
         jump = {
             [1] = 119301204,
         },
@@ -42248,7 +42247,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [119100003] = {
@@ -42307,7 +42306,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_4_weixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.4,
         gameRules = {
@@ -42379,7 +42378,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "时崎狂三",
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         text = "呵呵……这么急切地想知道我出现的理由吗？",
@@ -42390,7 +42389,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -42473,13 +42472,13 @@ return {
         },
         text = "喂，听说那个传说了吗。",
         id = 119100006,
-        modelId1 = 31001,
+        modelId1 = 410401,
         jump = {
             [1] = 119100007,
         },
         scriptId = 2104004,
         name = "山吹亚衣",
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         datingType = 2,
         roleScale1 = 1.3,
         roleShowType1 = 3,
@@ -42495,7 +42494,7 @@ return {
         modelId1 = 1,
         scriptId = 2104004,
         name = "殿町宏人",
-        action1 = "id_normal_13",
+        action1 = "id_normal_13_shenmi",
         text = "对……对不起……可是，我看到了可怕的东西！",
         datingType = 2,
         gameRules = {
@@ -42628,7 +42627,7 @@ return {
         roleDisaprType2 = 3,
         scriptId = 2104004,
         name = "山吹亚衣",
-        action1 = "id_normal_12",
+        action1 = "id_normal_13_shenmi",
         gameRules = {
         },
         datingType = 2,
@@ -42721,7 +42720,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_S_20.mp3",
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_2_sikao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -42764,13 +42763,13 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_1_guancha",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         textShowType = 1,
         bgm = "sound/bgm/date_001.mp3",
         bgScale = 1,
         text = "狂三可以亲手教我做吗？",
-        modelId1 = 410404,
+        modelId1 = 410401,
         gameRules = {
         },
         roleLocation1 = 2,
@@ -42842,7 +42841,7 @@ return {
         voice = "sound/role/kuangsan/KURUMI_130.mp3",
         scriptId = 2104002,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         gameRules = {
         },
@@ -42866,7 +42865,7 @@ return {
         },
         text = "呐！%s，什么叫做试胆大会呢？？",
         voice = "sound/role/shixiang/TOUKA_217.mp3",
-        modelId1 = 410104,
+        modelId1 = 410401,
         jump = {
             [1] = 119100012,
         },
@@ -42875,7 +42874,7 @@ return {
         roleShowType1 = 3,
         datingType = 2,
         roleScale1 = 1.3,
-        action1 = "id_normal_10",
+        action1 = "id_normal_13_shenmi",
         roleLipAnime = 1,
     },
     [28801112] = {
@@ -42883,7 +42882,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_6_haixiu",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {
@@ -42905,7 +42904,7 @@ return {
         datingType = 2,
         scriptId = 2104001,
         roleScale2 = 1.2,
-        action1 = "id_normal_3_huaixiao",
+        action1 = "id_normal_13_shenmi",
         roleScale3 = 1.2,
         roleScale1 = 1.2,
         gameRules = {

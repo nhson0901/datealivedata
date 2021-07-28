@@ -6294,4 +6294,9 @@ return {
         res = "ui/task/03/bg.png",
         res_en = "ui/task/03/bg_ko.png",
     },
+    [1260] = {
+        id = 1260,
+        res = "ui/monthcardNew1/quartercard_1.png",
+        res_en = "ui/monthcardNew1/quartercard_ko.png",
+    },
 }
