@@ -186,21 +186,31 @@ end
 
 --多语言图片
 function TFGlobalUtils:transTexturePath( texturePath )
+	if texturePath == nil then return texturePath end
+	if TFLanguageMgr:getUsingLanguage() == cc.SIMPLIFIED_CHINESE then
+		return texturePath
+	end
+
 	local code = TFLanguageMgr:getUsingLanguageCode("_")
 	if code ~= "" and texturePath and texturePath ~= "" then
+		texturePath = self:replaceTexturePath(texturePath)
+		local engCode = TFLanguageMgr:getCodeByLanguage(cc.ENGLISH, "_")
+		local engTexturePath = string.gsub(texturePath , "%." ,engCode..".")
 		if type(texturePath) ~= "userdata" then --如果是传入pTexture数据则直接调用原函数
-
 			texturePath = self:replaceTexturePath(texturePath)
-
 			if LanguageResMgr ~= nil then
 				local pitctureData = LanguageResMgr:getData()
-				if pitctureData[texturePath] then
+				if pitctureData[texturePath] and TFFileUtil:existFile(pitctureData[texturePath]) then
 					texturePath = pitctureData[texturePath]
+				elseif pitctureData[texturePath] and TFFileUtil:existFile(engTexturePath) then
+					texturePath = engTexturePath
 				end
 			else
 				local textureName = string.gsub(texturePath , "%." ,code..".")
 				if TFFileUtil:existFile(textureName) then
 					texturePath = textureName
+				elseif TFFileUtil:existFile(engTexturePath) then
+					texturePath = engTexturePath
 				end
 			end
 		end

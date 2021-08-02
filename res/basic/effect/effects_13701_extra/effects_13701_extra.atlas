@@ -1,0 +1,97 @@
+
+effects_13701_extra.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cdlshenti
+  rotate: false
+  xy: 2, 113
+  size: 193, 1916
+  orig: 193, 1917
+  offset: 0, 1
+  index: -1
+Cdltou1
+  rotate: false
+  xy: 197, 1502
+  size: 173, 527
+  orig: 174, 527
+  offset: 1, 0
+  index: -1
+Cdltou2
+  rotate: false
+  xy: 918, 1837
+  size: 134, 192
+  orig: 134, 192
+  offset: 0, 0
+  index: -1
+Cdltou3
+  rotate: false
+  xy: 2, 2
+  size: 97, 109
+  orig: 97, 111
+  offset: 0, 2
+  index: -1
+Cdltou4
+  rotate: false
+  xy: 756, 1827
+  size: 160, 202
+  orig: 160, 202
+  offset: 0, 0
+  index: -1
+Cdltou5
+  rotate: false
+  xy: 372, 1566
+  size: 137, 227
+  orig: 138, 227
+  offset: 1, 0
+  index: -1
+Cdltou6
+  rotate: false
+  xy: 197, 954
+  size: 151, 158
+  orig: 151, 158
+  offset: 0, 0
+  index: -1
+Cdlxuanwo1
+  rotate: false
+  xy: 372, 1795
+  size: 186, 234
+  orig: 186, 234
+  offset: 0, 0
+  index: -1
+Zdltou1
+  rotate: false
+  xy: 197, 818
+  size: 132, 134
+  orig: 132, 134
+  offset: 0, 0
+  index: -1
+Zdltou2
+  rotate: false
+  xy: 197, 1114
+  size: 170, 162
+  orig: 170, 162
+  offset: 0, 0
+  index: -1
+Zdltou3
+  rotate: false
+  xy: 1054, 1899
+  size: 143, 130
+  orig: 143, 137
+  offset: 0, 7
+  index: -1
+Zdltou4
+  rotate: false
+  xy: 560, 1816
+  size: 194, 213
+  orig: 194, 214
+  offset: 0, 0
+  index: -1
+Zdltou5
+  rotate: true
+  xy: 197, 1278
+  size: 222, 170
+  orig: 222, 170
+  offset: 0, 0
+  index: -1

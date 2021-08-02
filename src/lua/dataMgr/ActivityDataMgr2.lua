@@ -183,6 +183,10 @@ function ActivityDataMgr:init()
 
     -- 赠送返利
     TFDirector:addProto(s2c.ACTIVITY2_REQ_GET_ASSEMBLY_INFO, self, self.onRecvReturnGiftData)
+
+
+    --琴里生日
+    TFDirector:addProto(s2c.ACTIVITY2_RESP_EXCHANGE_TASK, self, self.onRecvQLGiveReward)
     
     self.activityInfo_ = {}
     self.activityInfoMap_ = {}
@@ -1388,6 +1392,11 @@ function ActivityDataMgr:Send_submitAddress(jsonData)
     end
     self:setNextTime()
     TFDirector:send(c2s.ACTIVITY_REQ_UPDATE_SUPPORT_ADDRESS, {jsonData})
+end
+
+----琴里生日赠送礼物
+function ActivityDataMgr:Send_QLBirthdayNum(num)
+    TFDirector:send(c2s.ACTIVITY2_REQ_EXCHANGE_TASK, {num})
 end
 
 function ActivityDataMgr:onRecvChangeAddress(event)
@@ -3777,6 +3786,15 @@ function ActivityDataMgr:onRecvReturnGiftData(event)
     local data = event.data
     if not data then return end
     EventMgr:dispatchEvent(EV_RETURN_GIFT_DATA, data)
+end
+
+
+function ActivityDataMgr:onRecvQLGiveReward(event)
+    local data = event.data
+    if not data then return end
+    if data.rewards then
+        Utils:showReward(data.rewards)
+    end
 end
 
 return ActivityDataMgr:new()

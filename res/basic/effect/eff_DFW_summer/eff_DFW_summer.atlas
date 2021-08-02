@@ -1,0 +1,89 @@
+
+eff_DFW_summer.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yh1
+  rotate: false
+  xy: 518, 864
+  size: 223, 149
+  orig: 223, 149
+  offset: 0, 0
+  index: -1
+images/yh2
+  rotate: true
+  xy: 743, 868
+  size: 145, 160
+  orig: 145, 160
+  offset: 0, 0
+  index: -1
+images/yh3
+  rotate: true
+  xy: 518, 527
+  size: 161, 137
+  orig: 161, 137
+  offset: 0, 0
+  index: -1
+images/yh4
+  rotate: false
+  xy: 518, 444
+  size: 87, 81
+  orig: 87, 81
+  offset: 0, 0
+  index: -1
+images/yh5
+  rotate: false
+  xy: 518, 690
+  size: 148, 172
+  orig: 148, 172
+  offset: 0, 0
+  index: -1
+images/ys2
+  rotate: false
+  xy: 2, 280
+  size: 514, 733
+  orig: 514, 733
+  offset: 0, 0
+  index: -1
+images/zh1
+  rotate: false
+  xy: 2, 116
+  size: 279, 162
+  orig: 279, 162
+  offset: 0, 0
+  index: -1
+images/zh2
+  rotate: false
+  xy: 283, 118
+  size: 186, 160
+  orig: 186, 160
+  offset: 0, 0
+  index: -1
+images/zh3
+  rotate: false
+  xy: 905, 913
+  size: 88, 100
+  orig: 88, 100
+  offset: 0, 0
+  index: -1
+images/zh4
+  rotate: false
+  xy: 2, 2
+  size: 95, 112
+  orig: 95, 112
+  offset: 0, 0
+  index: -1
+
+eff_DFW_summer2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ys1
+  rotate: false
+  xy: 2, 2
+  size: 528, 613
+  orig: 528, 613
+  offset: 0, 0
+  index: -1

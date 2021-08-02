@@ -185,6 +185,12 @@ return {
         event_id = 9,
         remark = "冰雪节中使用任意buff完成X次挑战",
     },
+    [9033] = {
+        id = 9033,
+        history = false,
+        event_id = 9,
+        remark = "回复X次血量",
+    },
     [1003] = {
         id = 1003,
         history = false,
@@ -293,11 +299,17 @@ return {
         event_id = 2,
         remark = "获得x个徽章",
     },
-    [59002] = {
-        id = 59002,
+    [17070] = {
+        id = 17070,
         history = false,
-        event_id = 59,
-        remark = "个人特权等级",
+        event_id = 17,
+        remark = "赠送棒棒糖",
+    },
+    [27005] = {
+        id = 27005,
+        history = false,
+        event_id = 27,
+        remark = "社团排行榜奖励 ",
     },
     [26003] = {
         id = 26003,
@@ -365,11 +377,35 @@ return {
         event_id = 8,
         remark = "持有多个装备星级达标 ",
     },
+    [11043] = {
+        id = 11043,
+        history = false,
+        event_id = 11,
+        remark = "xxx商店购买进度 ",
+    },
+    [11042] = {
+        id = 11042,
+        history = false,
+        event_id = 11,
+        remark = " xxx活动完成进度 ",
+    },
     [2011] = {
         id = 2011,
         history = true,
         event_id = 2,
         remark = "灵装数量（默认灵装除外）",
+    },
+    [11041] = {
+        id = 11041,
+        history = false,
+        event_id = 17,
+        remark = "英文版招财猫累抽奖励",
+    },
+    [31001] = {
+        id = 31001,
+        history = true,
+        event_id = 31,
+        remark = "成功训练十香AIX次",
     },
     [8015] = {
         id = 8015,
@@ -419,17 +455,35 @@ return {
         event_id = 7,
         remark = "好友赠送友情次数",
     },
+    [3010] = {
+        id = 3010,
+        history = true,
+        event_id = 3,
+        remark = "登陆事件-账号累计登陆天数",
+    },
     [2014] = {
         id = 2014,
         history = false,
         event_id = 2,
         remark = "玩家积分活动专用",
     },
+    [1006] = {
+        id = 1006,
+        history = false,
+        event_id = 17,
+        remark = "累计充值积分达到x",
+    },
     [3001] = {
         id = 3001,
         history = true,
         event_id = 3,
         remark = "累计登陆天数",
+    },
+    [1005] = {
+        id = 1005,
+        history = false,
+        event_id = 17,
+        remark = "单次充值积分达到x",
     },
     [3002] = {
         id = 3002,
@@ -443,29 +497,41 @@ return {
         event_id = 59,
         remark = "翻牌",
     },
+    [26002] = {
+        id = 26002,
+        history = false,
+        event_id = 26,
+        remark = "应援集结活动",
+    },
+    [1010] = {
+        id = 1010,
+        history = false,
+        event_id = 17,
+        remark = "充值信息 包含指定商品 ",
+    },
     [2016] = {
         id = 2016,
         history = false,
         event_id = 2,
         remark = "暮春祈愿功能",
     },
-    [27005] = {
-        id = 27005,
+    [59008] = {
+        id = 59008,
+        history = false,
+        event_id = 59,
+        remark = "完成解谜一次",
+    },
+    [17021] = {
+        id = 17021,
+        history = true,
+        event_id = 17,
+        remark = "竞速时间排名第N(排名有区间）",
+    },
+    [27001] = {
+        id = 27001,
         history = false,
         event_id = 27,
-        remark = "社团排行榜奖励 ",
-    },
-    [11043] = {
-        id = 11043,
-        history = false,
-        event_id = 11,
-        remark = "xxx商店购买进度 ",
-    },
-    [11042] = {
-        id = 11042,
-        history = false,
-        event_id = 11,
-        remark = " xxx活动完成进度 ",
+        remark = "万圣节日活动",
     },
     [2017] = {
         id = 2017,
@@ -479,17 +545,17 @@ return {
         event_id = 14,
         remark = "X个天使最大星级X",
     },
-    [11041] = {
-        id = 11041,
-        history = false,
-        event_id = 17,
-        remark = "英文版招财猫累抽奖励",
+    [29004] = {
+        id = 29004,
+        history = true,
+        event_id = 29,
+        remark = "社团追猎计划boss击杀数",
     },
-    [58006] = {
-        id = 58006,
+    [59004] = {
+        id = 59004,
         history = false,
-        event_id = 58,
-        remark = "战斗次数任务 ",
+        event_id = 59,
+        remark = "拾取礼盒",
     },
     [2018] = {
         id = 2018,
@@ -503,17 +569,17 @@ return {
         event_id = 17,
         remark = "召唤某个（多个）固定卡池",
     },
-    [3010] = {
-        id = 3010,
-        history = true,
-        event_id = 3,
-        remark = "登陆事件-账号累计登陆天数",
-    },
-    [1006] = {
-        id = 1006,
+    [59002] = {
+        id = 59002,
         history = false,
-        event_id = 17,
-        remark = "累计充值积分达到x",
+        event_id = 59,
+        remark = "个人特权等级",
+    },
+    [58008] = {
+        id = 58008,
+        history = false,
+        event_id = 58,
+        remark = "领取探索任务奖励 ",
     },
     [2019] = {
         id = 2019,
@@ -641,17 +707,17 @@ return {
         event_id = 2,
         remark = "持有x英雄",
     },
-    [1005] = {
-        id = 1005,
+    [58007] = {
+        id = 58007,
         history = false,
-        event_id = 17,
-        remark = "单次充值积分达到x",
+        event_id = 58,
+        remark = "指定探索某处地图任务",
     },
-    [29002] = {
-        id = 29002,
-        history = true,
-        event_id = 29,
-        remark = "社团空投补给次数达到N",
+    [58006] = {
+        id = 58006,
+        history = false,
+        event_id = 58,
+        remark = "战斗次数任务 ",
     },
     [11002] = {
         id = 11002,
@@ -731,29 +797,11 @@ return {
         event_id = 11,
         remark = "冰雪节手册达到X级",
     },
-    [1010] = {
-        id = 1010,
+    [58005] = {
+        id = 58005,
         history = false,
-        event_id = 17,
-        remark = "充值信息 包含指定商品 ",
-    },
-    [59008] = {
-        id = 59008,
-        history = false,
-        event_id = 59,
-        remark = "完成解谜一次",
-    },
-    [17021] = {
-        id = 17021,
-        history = true,
-        event_id = 17,
-        remark = "竞速时间排名第N(排名有区间）",
-    },
-    [29004] = {
-        id = 29004,
-        history = true,
-        event_id = 29,
-        remark = "社团追猎计划boss击杀数",
+        event_id = 58,
+        remark = "战斗次数任务 ",
     },
     [58004] = {
         id = 58004,
@@ -761,11 +809,29 @@ return {
         event_id = 58,
         remark = "战斗次数任务 ",
     },
-    [59004] = {
-        id = 59004,
+    [17018] = {
+        id = 17018,
         history = false,
-        event_id = 59,
-        remark = "拾取礼盒",
+        event_id = 17,
+        remark = "累计无偿帮助其他玩家击杀悬赏令N个",
+    },
+    [26004] = {
+        id = 26004,
+        history = false,
+        event_id = 26,
+        remark = "应援集结活动",
+    },
+    [58001] = {
+        id = 58001,
+        history = false,
+        event_id = 58,
+        remark = "战斗力达到XX",
+    },
+    [31002] = {
+        id = 31002,
+        history = true,
+        event_id = 31,
+        remark = "首次激活训练官身份",
     },
     [11040] = {
         id = 11040,
@@ -803,11 +869,11 @@ return {
         event_id = 9,
         remark = "雷霆圣堂累计获得x贡献值",
     },
-    [58005] = {
-        id = 58005,
-        history = false,
-        event_id = 58,
-        remark = "战斗次数任务 ",
+    [29001] = {
+        id = 29001,
+        history = true,
+        event_id = 29,
+        remark = "社团活跃度达到N",
     },
     [59005] = {
         id = 59005,
@@ -869,17 +935,17 @@ return {
         event_id = 9,
         remark = "冰雪节中使用置顶buff完成X次挑战",
     },
-    [17018] = {
-        id = 17018,
-        history = false,
-        event_id = 17,
-        remark = "累计无偿帮助其他玩家击杀悬赏令N个",
-    },
     [29003] = {
         id = 29003,
         history = false,
         event_id = 11,
         remark = "春季特训积分",
+    },
+    [29002] = {
+        id = 29002,
+        history = true,
+        event_id = 29,
+        remark = "社团空投补给次数达到N",
     },
     [17502] = {
         id = 17502,
@@ -893,11 +959,11 @@ return {
         event_id = 30,
         remark = "天梯周期任务积分",
     },
-    [58001] = {
-        id = 58001,
+    [28003] = {
+        id = 28003,
         history = false,
-        event_id = 58,
-        remark = "战斗力达到XX",
+        event_id = 28,
+        remark = "累计充值天数",
     },
     [17004] = {
         id = 17004,
@@ -989,17 +1055,17 @@ return {
         event_id = 17,
         remark = "将XX设置为看板",
     },
-    [31002] = {
-        id = 31002,
-        history = true,
-        event_id = 31,
-        remark = "首次激活训练官身份",
+    [17064] = {
+        id = 17064,
+        history = false,
+        event_id = 17,
+        remark = "完成一次挂机领取奖励 ",
     },
-    [31001] = {
-        id = 31001,
-        history = true,
-        event_id = 31,
-        remark = "成功训练十香AIX次",
+    [17068] = {
+        id = 17068,
+        history = false,
+        event_id = 17,
+        remark = "怕痛活动中装备X个技能",
     },
     [59006] = {
         id = 59006,
@@ -1025,17 +1091,17 @@ return {
         event_id = 2,
         remark = "积分活动—社团积分变化",
     },
-    [29001] = {
-        id = 29001,
-        history = true,
-        event_id = 29,
-        remark = "社团活跃度达到N",
-    },
-    [28003] = {
-        id = 28003,
+    [17069] = {
+        id = 17069,
         history = false,
-        event_id = 28,
-        remark = "累计充值天数",
+        event_id = 17,
+        remark = "领取月卡签到奖励一次",
+    },
+    [17003] = {
+        id = 17003,
+        history = false,
+        event_id = 17,
+        remark = "购买资源X次",
     },
     [25001] = {
         id = 25001,
@@ -1043,29 +1109,29 @@ return {
         event_id = 25,
         remark = "领取精灵副本的宝箱",
     },
-    [27001] = {
-        id = 27001,
-        history = false,
-        event_id = 27,
-        remark = "万圣节日活动",
-    },
-    [26004] = {
-        id = 26004,
-        history = false,
-        event_id = 26,
-        remark = "应援集结活动",
-    },
-    [26002] = {
-        id = 26002,
-        history = false,
-        event_id = 26,
-        remark = "应援集结活动",
-    },
-    [17003] = {
-        id = 17003,
+    [17067] = {
+        id = 17067,
         history = false,
         event_id = 17,
-        remark = "购买资源X次",
+        remark = "进行X次支援",
+    },
+    [17066] = {
+        id = 17066,
+        history = false,
+        event_id = 17,
+        remark = "威胁等级达到X级",
+    },
+    [17065] = {
+        id = 17065,
+        history = false,
+        event_id = 17,
+        remark = "怕痛活动中装备X个技能",
+    },
+    [17063] = {
+        id = 17063,
+        history = false,
+        event_id = 17,
+        remark = "合成宝石",
     },
     [9019] = {
         id = 9019,
@@ -1223,17 +1289,17 @@ return {
         event_id = 17,
         remark = "单次10连抽奖出现X个稀有道具",
     },
-    [2002] = {
-        id = 2002,
-        history = true,
-        event_id = 2,
-        remark = "持有物品X个",
-    },
     [12008] = {
         id = 12008,
         history = false,
         event_id = 12,
         remark = "圣诞节约会",
+    },
+    [8004] = {
+        id = 8004,
+        history = false,
+        event_id = 8,
+        remark = "洗练N次质点",
     },
     [14001] = {
         id = 14001,
@@ -1259,11 +1325,11 @@ return {
         event_id = 17,
         remark = "随机召唤X次",
     },
-    [8004] = {
-        id = 8004,
-        history = false,
-        event_id = 8,
-        remark = "洗练N次质点",
+    [2001] = {
+        id = 2001,
+        history = true,
+        event_id = 2,
+        remark = "持有英雄X个",
     },
     [1004] = {
         id = 1004,
@@ -1271,11 +1337,11 @@ return {
         event_id = 17,
         remark = "购买充值商品x次",
     },
-    [2001] = {
-        id = 2001,
+    [2002] = {
+        id = 2002,
         history = true,
         event_id = 2,
-        remark = "持有英雄X个",
+        remark = "持有物品X个",
     },
     [17001] = {
         id = 17001,

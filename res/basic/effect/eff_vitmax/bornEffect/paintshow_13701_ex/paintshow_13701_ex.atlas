@@ -1,0 +1,172 @@
+
+paintshow_13701_ex.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/mei_01
+  rotate: true
+  xy: 1384, 68
+  size: 479, 554
+  orig: 746, 632
+  offset: 209, 0
+  index: -1
+images/mei_03
+  rotate: true
+  xy: 750, 2
+  size: 659, 632
+  orig: 746, 632
+  offset: 61, 0
+  index: -1
+images/mei_07
+  rotate: false
+  xy: 2, 1411
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_08
+  rotate: true
+  xy: 750, 1297
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_09
+  rotate: true
+  xy: 2, 663
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_10
+  rotate: false
+  xy: 636, 663
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_11
+  rotate: true
+  xy: 1384, 1297
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_12
+  rotate: true
+  xy: 1384, 549
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_13
+  rotate: false
+  xy: 2, 29
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+
+paintshow_13701_ex2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/mei_02
+  rotate: false
+  xy: 1308, 2
+  size: 631, 554
+  orig: 746, 632
+  offset: 80, 0
+  index: -1
+images/mei_04
+  rotate: true
+  xy: 1384, 1308
+  size: 727, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_05
+  rotate: true
+  xy: 1373, 558
+  size: 729, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_06
+  rotate: false
+  xy: 636, 655
+  size: 735, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_14
+  rotate: false
+  xy: 2, 1403
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_15
+  rotate: true
+  xy: 750, 1289
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_16
+  rotate: true
+  xy: 2, 655
+  size: 746, 632
+  orig: 746, 632
+  offset: 0, 0
+  index: -1
+images/mei_17
+  rotate: false
+  xy: 2, 21
+  size: 707, 632
+  orig: 746, 632
+  offset: 39, 0
+  index: -1
+images/mei_22
+  rotate: false
+  xy: 711, 21
+  size: 595, 632
+  orig: 746, 632
+  offset: 76, 0
+  index: -1
+
+paintshow_13701_ex3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/mei_18
+  rotate: false
+  xy: 2, 1270
+  size: 678, 632
+  orig: 746, 632
+  offset: 68, 0
+  index: -1
+images/mei_19
+  rotate: false
+  xy: 2, 636
+  size: 676, 632
+  orig: 746, 632
+  offset: 70, 0
+  index: -1
+images/mei_20
+  rotate: false
+  xy: 2, 2
+  size: 587, 632
+  orig: 746, 632
+  offset: 72, 0
+  index: -1
+images/mei_21
+  rotate: false
+  xy: 682, 1270
+  size: 591, 632
+  orig: 746, 632
+  offset: 74, 0
+  index: -1

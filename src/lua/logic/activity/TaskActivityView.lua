@@ -30,6 +30,17 @@ function TaskActivityView:initUI(ui)
     self.Panel_taskItem = TFDirector:getChildByPath(self.Panel_prefab, "Panel_taskItem")
 
     self.Image_ad = TFDirector:getChildByPath(self.Panel_root, "Image_ad")
+
+    local btn_lryb = TFDirector:getChildByPath(self.Image_ad, "Button_lryb")
+
+    if btn_lryb then
+        btn_lryb:getChildByName("Label_lryb"):setTextById(190001076)
+        btn_lryb:onClick(function()
+                Utils:sendHttpLog("supply")
+                Utils:openView("supplyNew.SupplyMainNewView")
+            end)
+    end
+    
     self.Label_date = TFDirector:getChildByPath(self.Image_ad, "Label_date")
     self.Label_date:setFontSize(18)
     --TODO CLOSE

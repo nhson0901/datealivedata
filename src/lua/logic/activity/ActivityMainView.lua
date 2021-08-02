@@ -98,6 +98,7 @@ function ActivityMainView:initData(selectActivityId,activityShowType)
             [EC_ActivityType2.BINGKAI_TASK] = requireNew("lua.logic.activity.bingKai.BingKaiTaskView"),
             [EC_ActivityType2.RETURN_GIFT] = requireNew("lua.logic.activity.ReturnGiftView"),
             [EC_ActivityType2.DFW_SUMMER] = requireNew("lua.logic.activity.SummerActivityView"),
+            [EC_ActivityType2.QL_BIRTHDAY] = requireNew("lua.logic.activity.QLBirthdayView"),  --琴里生日
         },
         [2] = {
             [EC_ActivityType2.CGCOLLECTED] = requireNew("lua.logic.activity.JumpActivityView"),
@@ -208,7 +209,7 @@ function ActivityMainView:updateAllActivity()
     for i = 1, #self.activityInfo_ do
         local activityInfo = self.activityInfo_[i]
         local type_ = activityInfo.activityType
-        if type_ == EC_ActivityType2.NEWGIFT_PACK_EN then
+        if type_ == EC_ActivityType2.NEWGIFT_PACK_EN or type_ == EC_ActivityType2.SIMULATION_SUMMON then --增加周年庆召唤活动排除显示2021-07-30
             table.remove(self.activityInfo_, i)
             break
         end

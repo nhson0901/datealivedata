@@ -3996,8 +3996,8 @@ return {
     },
     [800] = {
         id = 800,
-        res = "ui/mainui/battle_entrance.png",
-        res_en = "ui/mainui/battle_entrance_fr.png",
+        res = "ui/mainui/battle_frtrance.png",
+        res_en = "ui/mainui/battle_frtrance_fr.png",
     },
     [801] = {
         id = 801,
@@ -5997,6 +5997,56 @@ return {
     [1200] = {
         id = 1200,
         res = "ui/monthcardNew1/quartercard_1.png",
-        res_en = "ui/monthcardNew1/quartercard_fr.png",
+        res_en = "ui/monthcardNew1/quartercard_1_fr.png",
+    },
+    [1201] = {
+        id = 1201,
+        res = "ui/activity/activityStyle/wefareSignActivity/bg/bg.png",
+        res_en = "ui/activity/activityStyle/wefareSignActivity/bg/bg_fr.png",
+    },
+    [1202] = {
+        id = 1202,
+        res = "ui/activity/picture/icon288.png",
+        res_en = "ui/activity/picture/icon288_fr.png",
+    },
+    [1203] = {
+        id = 1203,
+        res = "ui/activity/picture/icon299.png",
+        res_en = "ui/activity/picture/icon299_fr.png",
+    },
+    [1204] = {
+        id = 1204,
+        res = "ui/activity/picture/icon288.png",
+        res_en = "ui/activity/picture/icon288_fr.png",
+    },
+    [1205] = {
+        id = 1205,
+        res = "ui/activity/picture/icon299.png",
+        res_en = "ui/activity/picture/icon299_fr.png",
+    },
+    [1206] = {
+        id = 1206,
+        res = "ui/activity/picture/icon286.png",
+        res_en = "ui/activity/picture/icon286_fr.png",
+    },
+    [1207] = {
+        id = 1207,
+        res = "ui/activity/picture/icon287.png",
+        res_en = "ui/activity/picture/icon287_fr.png",
+    },
+    [1208] = {
+        id = 1208,
+        res = "ui/activity/picture/ad286.png",
+        res_en = "ui/activity/picture/ad286_fr.png",
+    },
+    [1209] = {
+        id = 1209,
+        res = "ui/activity/picture/ad287.png",
+        res_en = "ui/activity/picture/ad287_fr.png",
+    },
+    [1210] = {
+        id = 1210,
+        res = "icon/equipment/name/meilimanman.png",
+        res_en = "icon/equipment/name/meilimanman_fr.png",
     },
 }

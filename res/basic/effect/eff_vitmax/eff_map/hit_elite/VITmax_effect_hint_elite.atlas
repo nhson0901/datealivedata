@@ -1,0 +1,438 @@
+
+VITmax_effect_hint_elite.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bo/blzi_02
+  rotate: true
+  xy: 834, 3
+  size: 28, 53
+  orig: 273, 60
+  offset: 242, 6
+  index: -1
+images/bo/blzi_06
+  rotate: true
+  xy: 913, 3
+  size: 142, 58
+  orig: 273, 60
+  offset: 131, 1
+  index: -1
+images/bo/blzi_12
+  rotate: false
+  xy: 451, 4
+  size: 211, 58
+  orig: 273, 60
+  offset: 61, 1
+  index: -1
+images/bo/blzi_14
+  rotate: false
+  xy: 2, 4
+  size: 226, 58
+  orig: 273, 60
+  offset: 47, 1
+  index: -1
+images/bo/blzi_16
+  rotate: true
+  xy: 785, 364
+  size: 242, 58
+  orig: 273, 60
+  offset: 28, 1
+  index: -1
+images/bo/blzi_18
+  rotate: true
+  xy: 636, 650
+  size: 253, 58
+  orig: 273, 60
+  offset: 17, 1
+  index: -1
+images/bo/blzi_20
+  rotate: false
+  xy: 370, 845
+  size: 264, 58
+  orig: 273, 60
+  offset: 3, 1
+  index: -1
+images/bo/blzi_22
+  rotate: false
+  xy: 370, 785
+  size: 252, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_24
+  rotate: false
+  xy: 2, 341
+  size: 246, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_26
+  rotate: true
+  xy: 963, 374
+  size: 232, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_28
+  rotate: false
+  xy: 230, 4
+  size: 219, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_34
+  rotate: false
+  xy: 664, 4
+  size: 168, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_40
+  rotate: false
+  xy: 250, 341
+  size: 106, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_46
+  rotate: true
+  xy: 370, 609
+  size: 56, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_48
+  rotate: true
+  xy: 574, 629
+  size: 36, 53
+  orig: 273, 60
+  offset: 1, 6
+  index: -1
+images/bo/blzi_50
+  rotate: true
+  xy: 785, 337
+  size: 25, 48
+  orig: 273, 60
+  offset: 1, 11
+  index: -1
+images/bowen_02
+  rotate: false
+  xy: 417, 64
+  size: 412, 270
+  orig: 413, 271
+  offset: 0, 0
+  index: -1
+images/bowen_04
+  rotate: true
+  xy: 696, 608
+  size: 413, 270
+  orig: 413, 271
+  offset: 0, 0
+  index: -1
+images/bowen_22
+  rotate: false
+  xy: 370, 336
+  size: 413, 270
+  orig: 413, 271
+  offset: 0, 0
+  index: -1
+images/bowen_24
+  rotate: false
+  xy: 2, 64
+  size: 413, 270
+  orig: 413, 271
+  offset: 0, 0
+  index: -1
+images/di
+  rotate: false
+  xy: 2, 905
+  size: 692, 116
+  orig: 692, 116
+  offset: 0, 0
+  index: -1
+images/heidi001
+  rotate: false
+  xy: 430, 615
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/j1
+  rotate: false
+  xy: 370, 667
+  size: 247, 116
+  orig: 247, 116
+  offset: 0, 0
+  index: -1
+images/j5
+  rotate: true
+  xy: 845, 367
+  size: 239, 116
+  orig: 239, 116
+  offset: 0, 0
+  index: -1
+images/q1
+  rotate: true
+  xy: 2, 401
+  size: 502, 366
+  orig: 502, 366
+  offset: 0, 0
+  index: -1
+images/s1
+  rotate: false
+  xy: 968, 952
+  size: 32, 69
+  orig: 32, 69
+  offset: 0, 0
+  index: -1
+images/s2
+  rotate: true
+  xy: 913, 249
+  size: 116, 102
+  orig: 116, 102
+  offset: 0, 0
+  index: -1
+images/s3
+  rotate: false
+  xy: 913, 147
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+images/z1
+  rotate: true
+  xy: 835, 33
+  size: 329, 76
+  orig: 329, 76
+  offset: 0, 0
+  index: -1
+images/za
+  rotate: false
+  xy: 529, 625
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+images/zc
+  rotate: false
+  xy: 482, 625
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+images/ze
+  rotate: false
+  xy: 973, 63
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+images/zg
+  rotate: false
+  xy: 973, 18
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+images/zr
+  rotate: true
+  xy: 973, 104
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+images/zs
+  rotate: false
+  xy: 629, 608
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1
+
+VITmax_effect_hint_elite2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bo/blzi_04
+  rotate: false
+  xy: 507, 3
+  size: 86, 58
+  orig: 273, 60
+  offset: 186, 1
+  index: -1
+images/bo/blzi_08
+  rotate: false
+  xy: 612, 4
+  size: 179, 58
+  orig: 273, 60
+  offset: 94, 1
+  index: -1
+images/bo/blzi_10
+  rotate: false
+  xy: 805, 122
+  size: 187, 58
+  orig: 273, 60
+  offset: 86, 1
+  index: -1
+images/bo/blzi_30
+  rotate: false
+  xy: 416, 63
+  size: 194, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_32
+  rotate: false
+  xy: 805, 62
+  size: 181, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_36
+  rotate: false
+  xy: 274, 679
+  size: 138, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_38
+  rotate: false
+  xy: 274, 619
+  size: 127, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_42
+  rotate: false
+  xy: 416, 3
+  size: 89, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bo/blzi_44
+  rotate: false
+  xy: 793, 2
+  size: 73, 58
+  orig: 273, 60
+  offset: 1, 1
+  index: -1
+images/bowen_06
+  rotate: true
+  xy: 417, 596
+  size: 412, 270
+  orig: 413, 271
+  offset: 1, 0
+  index: -1
+images/bowen_08
+  rotate: true
+  xy: 2, 325
+  size: 412, 270
+  orig: 413, 271
+  offset: 1, 0
+  index: -1
+images/bowen_10
+  rotate: false
+  xy: 274, 324
+  size: 412, 270
+  orig: 413, 271
+  offset: 1, 0
+  index: -1
+images/bowen_12
+  rotate: true
+  xy: 688, 182
+  size: 412, 270
+  orig: 413, 271
+  offset: 1, 0
+  index: -1
+images/bowen_20
+  rotate: false
+  xy: 2, 739
+  size: 413, 269
+  orig: 413, 271
+  offset: 0, 1
+  index: -1
+images/bowen_26
+  rotate: true
+  xy: 689, 596
+  size: 412, 270
+  orig: 413, 271
+  offset: 1, 0
+  index: -1
+images/bowen_28
+  rotate: false
+  xy: 2, 52
+  size: 412, 270
+  orig: 413, 271
+  offset: 1, 0
+  index: -1
+images/j2
+  rotate: false
+  xy: 652, 64
+  size: 151, 116
+  orig: 151, 116
+  offset: 0, 0
+  index: -1
+images/j3
+  rotate: true
+  xy: 534, 156
+  size: 166, 116
+  orig: 166, 116
+  offset: 0, 0
+  index: -1
+images/j4
+  rotate: true
+  xy: 416, 123
+  size: 199, 116
+  orig: 199, 116
+  offset: 0, 0
+  index: -1
+
+VITmax_effect_hint_elite3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bowen_00
+  rotate: false
+  xy: 2, 555
+  size: 411, 270
+  orig: 413, 271
+  offset: 1, 0
+  index: -1
+images/bowen_14
+  rotate: false
+  xy: 2, 283
+  size: 411, 270
+  orig: 413, 271
+  offset: 1, 0
+  index: -1
+images/bowen_16
+  rotate: false
+  xy: 415, 555
+  size: 410, 270
+  orig: 413, 271
+  offset: 2, 0
+  index: -1
+images/bowen_18
+  rotate: false
+  xy: 2, 11
+  size: 409, 270
+  orig: 413, 271
+  offset: 3, 0
+  index: -1
+images/q2
+  rotate: false
+  xy: 415, 287
+  size: 404, 266
+  orig: 404, 266
+  offset: 0, 0
+  index: -1
+images/q3
+  rotate: false
+  xy: 415, 19
+  size: 404, 266
+  orig: 404, 266
+  offset: 0, 0
+  index: -1

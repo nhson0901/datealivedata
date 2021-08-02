@@ -1,0 +1,55 @@
+
+VITmax_effect_boss.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/st1
+  rotate: false
+  xy: 680, 661
+  size: 36, 71
+  orig: 36, 71
+  offset: 0, 0
+  index: -1
+images/st2
+  rotate: false
+  xy: 86, 207
+  size: 20, 37
+  orig: 20, 37
+  offset: 0, 0
+  index: -1
+images/st3
+  rotate: false
+  xy: 680, 633
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+images/st4
+  rotate: false
+  xy: 2, 159
+  size: 23, 43
+  orig: 23, 43
+  offset: 0, 0
+  index: -1
+images/st5
+  rotate: false
+  xy: 718, 712
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+images/xh2
+  rotate: false
+  xy: 2, 204
+  size: 82, 40
+  orig: 86, 45
+  offset: 2, 3
+  index: -1
+images/zs
+  rotate: false
+  xy: 2, 246
+  size: 676, 486
+  orig: 676, 486
+  offset: 0, 0
+  index: -1

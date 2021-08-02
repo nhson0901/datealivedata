@@ -1,0 +1,48 @@
+
+VITmax_effect_level_story.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/aixin/ax
+  rotate: false
+  xy: 130, 387
+  size: 99, 97
+  orig: 99, 97
+  offset: 0, 0
+  index: -1
+images/aixin/bk
+  rotate: false
+  xy: 2, 173
+  size: 115, 155
+  orig: 115, 155
+  offset: 0, 0
+  index: -1
+images/aixin/dg
+  rotate: false
+  xy: 2, 330
+  size: 126, 154
+  orig: 126, 154
+  offset: 0, 0
+  index: -1
+images/aixin/fdk
+  rotate: false
+  xy: 2, 65
+  size: 73, 106
+  orig: 73, 106
+  offset: 0, 0
+  index: -1
+images/aixin/x1
+  rotate: false
+  xy: 2, 2
+  size: 68, 61
+  orig: 68, 61
+  offset: 0, 0
+  index: -1
+images/aixin/x2
+  rotate: false
+  xy: 231, 414
+  size: 90, 70
+  orig: 90, 70
+  offset: 0, 0
+  index: -1

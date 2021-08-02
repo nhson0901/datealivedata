@@ -255,7 +255,7 @@ local t =
 											{
 												
 											},
-											width = "91",
+											width = "89",
 											ZOrder = "1",
 										},
 									},
@@ -624,7 +624,6 @@ local t =
 									srcBlendFunc = "1",
 									titlefontName = "font/fangzheng_zhunyuan.ttf",
 									titlefontSize = "24",
-									titletext = "option1",
 									titletextColor = "#FF3C446C",
 									touchAble = "True",
 									UILayoutViewModel = 
@@ -687,6 +686,51 @@ local t =
 											width = "105",
 											ZOrder = "1",
 										},
+										{
+											controlID = "Label_text_TextButton_option1_Panel_options_Panel_base_Panel-datingReverseLayer_Layer1_dating_Game",
+											UUID = "7b9d3fe1_391c_4532_a9a2_29dc38366646",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FF3C446C",
+											fontName = "font/fangzheng_zhunyuan.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "24",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "0",
+											ignoreSize = "False",
+											name = "Label_text",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "option1",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "230",
+											ZOrder = "1",
+										},
 									},
 								},
 								{
@@ -716,7 +760,6 @@ local t =
 									srcBlendFunc = "1",
 									titlefontName = "font/fangzheng_zhunyuan.ttf",
 									titlefontSize = "24",
-									titletext = "option2",
 									titletextColor = "#FF3C446C",
 									touchAble = "True",
 									UILayoutViewModel = 
@@ -776,6 +819,51 @@ local t =
 											width = "105",
 											ZOrder = "1",
 										},
+										{
+											controlID = "Label_text_TextButton_option2_Panel_options_Panel_base_Panel-datingReverseLayer_Layer1_dating_Game",
+											UUID = "a2e8f95d_82f0_4b7e_8f25_91f01b1faddc",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FF3C446C",
+											fontName = "font/fangzheng_zhunyuan.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "24",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "0",
+											ignoreSize = "False",
+											name = "Label_text",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "option2",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "230",
+											ZOrder = "1",
+										},
 									},
 								},
 								{
@@ -805,7 +893,6 @@ local t =
 									srcBlendFunc = "1",
 									titlefontName = "font/fangzheng_zhunyuan.ttf",
 									titlefontSize = "24",
-									titletext = "option３",
 									titletextColor = "#FF3C446C",
 									touchAble = "True",
 									UILayoutViewModel = 
@@ -866,6 +953,51 @@ local t =
 												PositionY = 45,
 											},
 											width = "105",
+											ZOrder = "1",
+										},
+										{
+											controlID = "Label_text_TextButton_option3_Panel_options_Panel_base_Panel-datingReverseLayer_Layer1_dating_Game",
+											UUID = "b8f01d85_4be4_4984_8d79_ac6384ede123",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FF3C446C",
+											fontName = "font/fangzheng_zhunyuan.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "24",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "0",
+											ignoreSize = "False",
+											name = "Label_text",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "option3",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "230",
 											ZOrder = "1",
 										},
 									},

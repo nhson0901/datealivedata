@@ -35,21 +35,30 @@ rawset(TFImage, "initControl", initControl)
 --重写接口用于多语言资源载入 
 local _setTexture_en = TFImage.setTexture
 rawset(TFImage, "setTexture", function ( self ,texturePath, ... )
+	if texturePath == nil then return end
 	if type(texturePath) == "userdata" then --如果是传入pTexture数据则直接调用原函数
 		_setTexture_en(self, texturePath , ...)
 		return
 	end
 
+	if TFLanguageMgr:getUsingLanguage() == cc.SIMPLIFIED_CHINESE then
+		_setTexture_en(self, texturePath,...)
+		return
+	end
+
 	local code = TFLanguageMgr:getUsingLanguageCode("_")
-	if code ~= "" and texturePath~= "" then
-
+	if code ~= "" and texturePath ~= "" then
 		texturePath = TFGlobalUtils:replaceTexturePath(texturePath)
-
+		local engCode = TFLanguageMgr:getCodeByLanguage(cc.ENGLISH, "_")
+		local engTexturePath = string.gsub(texturePath , "%." ,engCode..".")
 		if LanguageResMgr ~= nil then
 			local pitctureData = LanguageResMgr:getData()
-			if pitctureData[texturePath] then
-				print("texturePath>>>>>>>> " ..tostring(pitctureData[texturePath]))
+			local replaceTexturePath = pitctureData[texturePath]
+
+			if replaceTexturePath and TFFileUtil:existFile(replaceTexturePath) then
 				_setTexture_en(self,pitctureData[texturePath] , ...)
+			elseif replaceTexturePath and TFFileUtil:existFile(engTexturePath) then
+				_setTexture_en(self, engTexturePath,...)
 			else
 				_setTexture_en(self, texturePath,...)
 			end
@@ -57,7 +66,8 @@ rawset(TFImage, "setTexture", function ( self ,texturePath, ... )
 			local textureName = string.gsub(texturePath , "%." ,code..".")
 			if TFFileUtil:existFile(textureName) then
 				_setTexture_en(self, textureName , ...)
-				print("texturePath>>>>>>>> " ..tostring(textureName))
+			elseif TFFileUtil:existFile(engTexturePath) then
+				_setTexture_en(self, engTexturePath , ...)
 			else
 				_setTexture_en(self, texturePath,...)
 			end

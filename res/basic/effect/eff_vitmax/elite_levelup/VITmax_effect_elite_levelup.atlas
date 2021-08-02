@@ -1,0 +1,188 @@
+
+VITmax_effect_elite_levelup.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/q
+  rotate: false
+  xy: 2, 411
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+images/saoli_00
+  rotate: false
+  xy: 70, 48
+  size: 42, 36
+  orig: 70, 68
+  offset: 18, 4
+  index: -1
+images/saoli_01
+  rotate: false
+  xy: 71, 264
+  size: 61, 48
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+images/saoli_02
+  rotate: false
+  xy: 362, 430
+  size: 62, 64
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+images/saoli_03
+  rotate: false
+  xy: 2, 274
+  size: 67, 66
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+images/saoli_04
+  rotate: false
+  xy: 158, 428
+  size: 67, 66
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+images/saoli_05
+  rotate: false
+  xy: 2, 206
+  size: 67, 66
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+images/saoli_06
+  rotate: false
+  xy: 227, 428
+  size: 67, 66
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+images/saoli_07
+  rotate: false
+  xy: 2, 342
+  size: 69, 67
+  orig: 70, 68
+  offset: 1, 0
+  index: -1
+images/saoli_08
+  rotate: false
+  xy: 87, 428
+  size: 69, 66
+  orig: 70, 68
+  offset: 1, 1
+  index: -1
+images/saoli_09
+  rotate: false
+  xy: 2, 138
+  size: 67, 66
+  orig: 70, 68
+  offset: 3, 1
+  index: -1
+images/saoli_10
+  rotate: false
+  xy: 296, 429
+  size: 64, 65
+  orig: 70, 68
+  offset: 6, 2
+  index: -1
+images/saoli_11
+  rotate: false
+  xy: 2, 74
+  size: 66, 62
+  orig: 70, 68
+  offset: 3, 3
+  index: -1
+images/saoli_12
+  rotate: false
+  xy: 426, 438
+  size: 68, 56
+  orig: 70, 68
+  offset: 1, 4
+  index: -1
+images/saoli_13
+  rotate: true
+  xy: 2, 4
+  size: 68, 57
+  orig: 70, 68
+  offset: 0, 4
+  index: -1
+images/saoli_14
+  rotate: false
+  xy: 87, 370
+  size: 68, 56
+  orig: 70, 68
+  offset: 0, 6
+  index: -1
+images/saoli_15
+  rotate: false
+  xy: 157, 369
+  size: 67, 57
+  orig: 70, 68
+  offset: 0, 7
+  index: -1
+images/saoli_16
+  rotate: false
+  xy: 226, 369
+  size: 66, 57
+  orig: 70, 68
+  offset: 0, 8
+  index: -1
+images/saoli_17
+  rotate: false
+  xy: 73, 314
+  size: 62, 54
+  orig: 70, 68
+  offset: 0, 12
+  index: -1
+images/saoli_18
+  rotate: false
+  xy: 71, 212
+  size: 58, 50
+  orig: 70, 68
+  offset: 0, 17
+  index: -1
+images/saoli_19
+  rotate: false
+  xy: 71, 162
+  size: 56, 48
+  orig: 70, 68
+  offset: 0, 20
+  index: -1
+images/saoli_20
+  rotate: false
+  xy: 137, 320
+  size: 55, 47
+  orig: 70, 68
+  offset: 0, 21
+  index: -1
+images/saoli_21
+  rotate: false
+  xy: 194, 324
+  size: 52, 43
+  orig: 70, 68
+  offset: 0, 24
+  index: -1
+images/saoli_22
+  rotate: false
+  xy: 248, 329
+  size: 47, 38
+  orig: 70, 68
+  offset: 0, 26
+  index: -1
+images/saoli_23
+  rotate: false
+  xy: 71, 123
+  size: 47, 37
+  orig: 70, 68
+  offset: 0, 28
+  index: -1
+images/saoli_24
+  rotate: false
+  xy: 70, 86
+  size: 45, 35
+  orig: 70, 68
+  offset: 0, 30
+  index: -1

@@ -5952,6 +5952,56 @@ return {
     [1191] = {
         id = 1191,
         res = "ui/monthcardNew1/quartercard_1.png",
-        res_en = "ui/monthcardNew1/quartercard_th.png",
+        res_en = "ui/monthcardNew1/quartercard_1_th.png",
+    },
+    [1192] = {
+        id = 1192,
+        res = "ui/activity/activityStyle/wefareSignActivity/bg/bg.png",
+        res_en = "ui/activity/activityStyle/wefareSignActivity/bg/bg_th.png",
+    },
+    [1193] = {
+        id = 1193,
+        res = "ui/activity/picture/icon288.png",
+        res_en = "ui/activity/picture/icon288_th.png",
+    },
+    [1194] = {
+        id = 1194,
+        res = "ui/activity/picture/icon299.png",
+        res_en = "ui/activity/picture/icon299_th.png",
+    },
+    [1195] = {
+        id = 1195,
+        res = "ui/activity/picture/icon288.png",
+        res_en = "ui/activity/picture/icon288_th.png",
+    },
+    [1196] = {
+        id = 1196,
+        res = "ui/activity/picture/icon299.png",
+        res_en = "ui/activity/picture/icon299_th.png",
+    },
+    [1197] = {
+        id = 1197,
+        res = "ui/activity/picture/icon286.png",
+        res_en = "ui/activity/picture/icon286_th.png",
+    },
+    [1198] = {
+        id = 1198,
+        res = "ui/activity/picture/icon287.png",
+        res_en = "ui/activity/picture/icon287_th.png",
+    },
+    [1199] = {
+        id = 1199,
+        res = "ui/activity/picture/ad286.png",
+        res_en = "ui/activity/picture/ad286_th.png",
+    },
+    [1200] = {
+        id = 1200,
+        res = "ui/activity/picture/ad287.png",
+        res_en = "ui/activity/picture/ad287_th.png",
+    },
+    [1201] = {
+        id = 1201,
+        res = "icon/equipment/name/meilimanman.png",
+        res_en = "icon/equipment/name/meilimanman_th.png",
     },
 }

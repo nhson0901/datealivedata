@@ -1,0 +1,258 @@
+
+effects_13701_skillF.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/skillf/ci
+  rotate: false
+  xy: 93, 317
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+images/skillf/g1
+  rotate: false
+  xy: 223, 351
+  size: 94, 94
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+images/skillf/guang01_0000
+  rotate: true
+  xy: 1972, 1740
+  size: 126, 60
+  orig: 128, 64
+  offset: 1, 1
+  index: -1
+images/skillf/h_00
+  rotate: false
+  xy: 1568, 1658
+  size: 222, 197
+  orig: 222, 197
+  offset: 0, 0
+  index: -1
+images/skillf/hm_09
+  rotate: false
+  xy: 354, 1898
+  size: 351, 148
+  orig: 361, 163
+  offset: 10, 2
+  index: -1
+images/skillf/hm_11
+  rotate: false
+  xy: 2, 1888
+  size: 350, 158
+  orig: 361, 163
+  offset: 11, 1
+  index: -1
+images/skillf/hm_13
+  rotate: false
+  xy: 2, 1727
+  size: 349, 159
+  orig: 361, 163
+  offset: 12, 1
+  index: -1
+images/skillf/hm_15
+  rotate: true
+  xy: 129, 1374
+  size: 351, 123
+  orig: 361, 163
+  offset: 10, 1
+  index: -1
+images/skillf/hm_17
+  rotate: true
+  xy: 2, 1373
+  size: 352, 125
+  orig: 361, 163
+  offset: 9, 1
+  index: -1
+images/skillf/hm_19
+  rotate: false
+  xy: 707, 1922
+  size: 353, 124
+  orig: 361, 163
+  offset: 8, 2
+  index: -1
+images/skillf/hm_21
+  rotate: true
+  xy: 2, 1018
+  size: 353, 124
+  orig: 361, 163
+  offset: 8, 2
+  index: -1
+images/skillf/hm_23
+  rotate: false
+  xy: 1062, 1959
+  size: 353, 87
+  orig: 361, 163
+  offset: 8, 2
+  index: -1
+images/skillf/hm_25
+  rotate: true
+  xy: 2, 664
+  size: 352, 88
+  orig: 361, 163
+  offset: 9, 2
+  index: -1
+images/skillf/hm_27
+  rotate: true
+  xy: 2, 313
+  size: 349, 89
+  orig: 361, 163
+  offset: 12, 2
+  index: -1
+images/skillf/hm_29
+  rotate: false
+  xy: 1417, 1955
+  size: 347, 91
+  orig: 361, 163
+  offset: 14, 2
+  index: -1
+images/skillf/hm_31
+  rotate: true
+  xy: 254, 1378
+  size: 347, 92
+  orig: 361, 163
+  offset: 14, 2
+  index: -1
+images/skillf/hm_33
+  rotate: false
+  xy: 1062, 1863
+  size: 333, 94
+  orig: 361, 163
+  offset: 28, 1
+  index: -1
+images/skillf/hm_35
+  rotate: false
+  xy: 1397, 1857
+  size: 321, 96
+  orig: 361, 163
+  offset: 32, 0
+  index: -1
+images/skillf/qm_09
+  rotate: false
+  xy: 1766, 1868
+  size: 280, 178
+  orig: 285, 178
+  offset: 5, 0
+  index: -1
+images/skillf/qm_11
+  rotate: true
+  xy: 93, 447
+  size: 282, 177
+  orig: 285, 178
+  offset: 3, 0
+  index: -1
+images/skillf/qm_13
+  rotate: true
+  xy: 2, 26
+  size: 285, 176
+  orig: 285, 178
+  offset: 0, 0
+  index: -1
+images/skillf/qm_15
+  rotate: true
+  xy: 92, 731
+  size: 285, 177
+  orig: 285, 178
+  offset: 0, 0
+  index: -1
+images/skillf/qm_17
+  rotate: false
+  xy: 707, 1749
+  size: 285, 171
+  orig: 285, 178
+  offset: 0, 0
+  index: -1
+images/skillf/qm_19
+  rotate: false
+  xy: 994, 1690
+  size: 285, 171
+  orig: 285, 178
+  offset: 0, 0
+  index: -1
+images/skillf/qm_21
+  rotate: false
+  xy: 1281, 1684
+  size: 285, 171
+  orig: 285, 178
+  offset: 0, 0
+  index: -1
+images/skillf/qm_23
+  rotate: false
+  xy: 348, 1552
+  size: 284, 171
+  orig: 285, 178
+  offset: 1, 0
+  index: -1
+images/skillf/qm_25
+  rotate: false
+  xy: 354, 1725
+  size: 285, 171
+  orig: 285, 178
+  offset: 0, 0
+  index: -1
+images/skillf/qm_27
+  rotate: false
+  xy: 348, 1380
+  size: 285, 170
+  orig: 285, 178
+  offset: 0, 1
+  index: -1
+images/skillf/qm_29
+  rotate: false
+  xy: 348, 1207
+  size: 283, 171
+  orig: 285, 178
+  offset: 2, 0
+  index: -1
+images/skillf/qm_31
+  rotate: true
+  xy: 128, 1100
+  size: 271, 173
+  orig: 285, 178
+  offset: 14, 0
+  index: -1
+images/skillf/qm_33
+  rotate: true
+  xy: 1792, 1605
+  size: 261, 178
+  orig: 285, 178
+  offset: 21, 0
+  index: -1
+images/skillf/qm_35
+  rotate: false
+  xy: 272, 669
+  size: 260, 178
+  orig: 285, 178
+  offset: 23, 0
+  index: -1
+images/skillf/qm_37
+  rotate: false
+  xy: 303, 1029
+  size: 265, 176
+  orig: 285, 178
+  offset: 19, 0
+  index: -1
+images/skillf/qm_39
+  rotate: false
+  xy: 272, 492
+  size: 260, 175
+  orig: 285, 178
+  offset: 23, 0
+  index: -1
+images/skillf/qm_41
+  rotate: false
+  xy: 271, 849
+  size: 262, 178
+  orig: 285, 178
+  offset: 22, 0
+  index: -1
+images/skillf/shuiqiu
+  rotate: false
+  xy: 570, 1072
+  size: 110, 133
+  orig: 113, 136
+  offset: 2, 1
+  index: -1

@@ -1,0 +1,216 @@
+
+VITmax_effect_main_skill.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shug_00
+  rotate: false
+  xy: 227, 347
+  size: 72, 65
+  orig: 86, 81
+  offset: 7, 7
+  index: -1
+images/shug_01
+  rotate: false
+  xy: 226, 280
+  size: 72, 65
+  orig: 86, 81
+  offset: 7, 7
+  index: -1
+images/shug_02
+  rotate: true
+  xy: 76, 136
+  size: 72, 64
+  orig: 86, 81
+  offset: 7, 7
+  index: -1
+images/shug_03
+  rotate: false
+  xy: 76, 70
+  size: 72, 64
+  orig: 86, 81
+  offset: 8, 8
+  index: -1
+images/shug_04
+  rotate: false
+  xy: 301, 348
+  size: 72, 65
+  orig: 86, 81
+  offset: 8, 8
+  index: -1
+images/shug_05
+  rotate: false
+  xy: 375, 416
+  size: 72, 65
+  orig: 86, 81
+  offset: 8, 8
+  index: -1
+images/shug_06
+  rotate: false
+  xy: 2, 6
+  size: 71, 66
+  orig: 86, 81
+  offset: 9, 8
+  index: -1
+images/shug_07
+  rotate: false
+  xy: 2, 142
+  size: 72, 66
+  orig: 86, 81
+  offset: 9, 8
+  index: -1
+images/shug_08
+  rotate: false
+  xy: 77, 211
+  size: 72, 66
+  orig: 86, 81
+  offset: 9, 8
+  index: -1
+images/shug_09
+  rotate: false
+  xy: 152, 279
+  size: 72, 66
+  orig: 86, 81
+  offset: 9, 9
+  index: -1
+images/shug_10
+  rotate: false
+  xy: 301, 415
+  size: 72, 66
+  orig: 86, 81
+  offset: 9, 9
+  index: -1
+images/shug_11
+  rotate: false
+  xy: 2, 346
+  size: 73, 66
+  orig: 86, 81
+  offset: 8, 9
+  index: -1
+images/shug_12
+  rotate: false
+  xy: 77, 415
+  size: 73, 66
+  orig: 86, 81
+  offset: 8, 9
+  index: -1
+images/shug_13
+  rotate: false
+  xy: 375, 349
+  size: 72, 65
+  orig: 86, 81
+  offset: 8, 10
+  index: -1
+images/shug_14
+  rotate: false
+  xy: 2, 278
+  size: 73, 66
+  orig: 86, 81
+  offset: 7, 10
+  index: -1
+images/shug_15
+  rotate: false
+  xy: 77, 347
+  size: 73, 66
+  orig: 86, 81
+  offset: 7, 10
+  index: -1
+images/shug_16
+  rotate: false
+  xy: 152, 415
+  size: 73, 66
+  orig: 86, 81
+  offset: 7, 10
+  index: -1
+images/shug_17
+  rotate: false
+  xy: 2, 210
+  size: 73, 66
+  orig: 86, 81
+  offset: 7, 10
+  index: -1
+images/shug_18
+  rotate: false
+  xy: 77, 279
+  size: 73, 66
+  orig: 86, 81
+  offset: 6, 10
+  index: -1
+images/shug_19
+  rotate: false
+  xy: 2, 414
+  size: 73, 67
+  orig: 86, 81
+  offset: 6, 9
+  index: -1
+images/shug_20
+  rotate: false
+  xy: 152, 347
+  size: 73, 66
+  orig: 86, 81
+  offset: 6, 9
+  index: -1
+images/shug_21
+  rotate: false
+  xy: 2, 74
+  size: 72, 66
+  orig: 86, 81
+  offset: 6, 9
+  index: -1
+images/shug_22
+  rotate: false
+  xy: 151, 211
+  size: 72, 66
+  orig: 86, 81
+  offset: 6, 9
+  index: -1
+images/shug_23
+  rotate: false
+  xy: 227, 414
+  size: 72, 67
+  orig: 86, 81
+  offset: 6, 8
+  index: -1
+images/shug_24
+  rotate: false
+  xy: 142, 143
+  size: 71, 66
+  orig: 86, 81
+  offset: 6, 8
+  index: -1
+images/shug_25
+  rotate: true
+  xy: 150, 70
+  size: 71, 66
+  orig: 86, 81
+  offset: 6, 8
+  index: -1
+images/shug_26
+  rotate: false
+  xy: 149, 2
+  size: 71, 66
+  orig: 86, 81
+  offset: 6, 8
+  index: -1
+images/shug_27
+  rotate: false
+  xy: 75, 3
+  size: 72, 65
+  orig: 86, 81
+  offset: 6, 8
+  index: -1
+images/shug_28
+  rotate: true
+  xy: 218, 70
+  size: 71, 65
+  orig: 86, 81
+  offset: 7, 8
+  index: -1
+images/shug_29
+  rotate: false
+  xy: 215, 143
+  size: 71, 66
+  orig: 86, 81
+  offset: 7, 7
+  index: -1

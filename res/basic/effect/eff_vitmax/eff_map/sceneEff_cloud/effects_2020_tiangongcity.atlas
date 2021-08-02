@@ -1,0 +1,55 @@
+
+effects_2020_tiangongcity.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/yun
+  rotate: false
+  xy: 2, 159
+  size: 559, 177
+  orig: 559, 177
+  offset: 0, 0
+  index: -1
+images/yun1
+  rotate: false
+  xy: 2, 4
+  size: 357, 153
+  orig: 357, 153
+  offset: 0, 0
+  index: -1
+images/yun2
+  rotate: false
+  xy: 2, 510
+  size: 681, 218
+  orig: 681, 218
+  offset: 0, 0
+  index: -1
+images/yun3
+  rotate: false
+  xy: 2, 338
+  size: 589, 170
+  orig: 589, 170
+  offset: 0, 0
+  index: -1
+images/yun4
+  rotate: true
+  xy: 685, 414
+  size: 314, 151
+  orig: 314, 151
+  offset: 0, 0
+  index: -1
+images/yun5
+  rotate: false
+  xy: 903, 959
+  size: 111, 55
+  orig: 111, 55
+  offset: 0, 0
+  index: -1
+images/yun6
+  rotate: false
+  xy: 2, 730
+  size: 899, 284
+  orig: 900, 284
+  offset: 0, 0
+  index: -1

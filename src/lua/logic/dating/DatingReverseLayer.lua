@@ -102,10 +102,10 @@ function DatingReverseLayer:showInfoTip()
         Label_infoTip:setWidth(0)
         local idx = math.random(1,#self.lines)
         Label_infoTip:setTextById(self.lines[idx])
-        local maxWidth = 100
+        local maxWidth = 220
         Label_infoTip:setTextAreaSize(me.size(maxWidth,0))
         local size = Label_infoTip:Size()
-        imageInfoTip:Size(maxWidth+30,90)
+        imageInfoTip:Size(maxWidth+30,150)
         if size.width > maxWidth then
             size.width = maxWidth
             size.height = size.height * 2
@@ -174,7 +174,9 @@ function DatingReverseLayer:initOptions()
         local str = TextDataMgr:getTextAttr(optionsData[i].word).text
         local actionName = DatingDataMgr:getCityDatingRoleAction(EC_DatingScriptType.RESERVE_SCRIPT,self.ruleCid,i)
         self.actionName_[i] = actionName
-        TextButton_option:setText(str)
+
+        local optionLabel = TFDirector:getChildByPath(TextButton_option,"Label_text")
+        optionLabel:setText(str)
 
         local Label_time = TFDirector:getChildByPath(TextButton_option,"Label_time")
         if optionsData[i].time then

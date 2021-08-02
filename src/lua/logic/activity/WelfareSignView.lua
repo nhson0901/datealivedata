@@ -82,7 +82,7 @@ function WelfareSignView:initUI(ui)
 	self.Image_content = TFDirector:getChildByPath(self.Panel_root, "Image_content")
 
 	local Panel_sevenItem1 = TFDirector:getChildByPath(self.Panel_prefab, "Panel_sevenItem1")
-	Panel_sevenItem1:getChildByName("Image_border"):show()
+	Panel_sevenItem1:getChildByName("Image_border"):show()  
 	if self.isScrollType == 1 then
 		self.Panel_sevenItem = Panel_sevenItem1
 	end
@@ -186,10 +186,10 @@ function WelfareSignView:initPageTypeData()
 	if self.activityInfo.activityType ~=  EC_ActivityType2.TASK then
 		--设置背景图
 		if self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 6 then
-		elseif self.activityInfo.extendData.activityShowType == 2 then
-			if self.activityInfo.extendData.bgPath then 
-		        self.Image_bg:setTexture(self.activityInfo.extendData.bgPath)
-		    end
+		-- elseif self.activityInfo.extendData.activityShowType == 2 then  --针对琴里生日此处判断不需要
+		-- 	if self.activityInfo.extendData.bgPath then 
+		--         self.Image_bg:setTexture(self.activityInfo.extendData.bgPath)
+		--     end
 		elseif self.activityInfo.id == 200041 then
 			if self.activityInfo.extendData.bgPath then 
 		        self.Image_bg:setTexture(self.activityInfo.extendData.bgPath)
@@ -222,6 +222,7 @@ function WelfareSignView:getSignItem()
 	foo.ItemIcon = TFDirector:getChildByPath(foo.root, "image_icon")
 	foo.label_num = TFDirector:getChildByPath(foo.root, "label_num")
 	foo.Image_border = TFDirector:getChildByPath(foo.root, "Image_border")
+	foo.Image_border:setPositionY(0)
 	foo.Label_day = TFDirector:getChildByPath(foo.root, "Label_day")
 	foo.Spine_welfareSignView_1 = TFDirector:getChildByPath(foo.root, "Spine_welfareSignView_1")
 	foo.Spine_welfareSignView_2 = TFDirector:getChildByPath(foo.root, "Spine_welfareSignView_2")
@@ -302,9 +303,9 @@ function WelfareSignView:updateItem(foo,_index)
 		foo.Label_day:setTextById(details)
 	end
 
-	if self.activityInfo.extendData.activityShowType == 2 then
-		foo.Label_day:setFontColor(ccc3(255 , 255 , 255))
-	end
+	-- if self.activityInfo.extendData.activityShowType == 2 then  --琴里生日活动此处不需要
+	-- 	foo.Label_day:setFontColor(ccc3(255 , 255 , 255))
+	-- end
 
 	if self.activityInfo.id == 200041 then
 		foo.Label_day:enableOutline(ccc3(218 , 112 , 214) , 1)
@@ -325,11 +326,12 @@ function WelfareSignView:updateItem(foo,_index)
 		if self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 6 then
 			local pic_path = "ui/activity/assist/kuangsan/sign_00".._index..".png"
 			foo.Image_border:setTexture(pic_path)
-		elseif self.activityInfo.id == 200041 or  (self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 2) then
+		elseif self.activityInfo.id == 200041 --[[or  (self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 2)   --琴里生日此处不需要]]  then
 			foo.Image_border:setTexture("ui/activity/welfareSign/border_"..itemCfg.quality..".png")
 		else
 			if _progressInfo.status ~= EC_TaskStatus.ING  then
-				foo.Image_border:setTexture("ui/activity/activityStyle/wefareSignActivity/"..self.curResFileName.."/004_n.png")
+				foo.Image_border:setTexture("ui/activity/activityStyle/wefareSignActivity/"..self.curResFileName.."/003_n.png")
+				
 			else
 				foo.Image_border:setTexture("ui/activity/activityStyle/wefareSignActivity/"..self.curResFileName.."/003_n.png")
 			end

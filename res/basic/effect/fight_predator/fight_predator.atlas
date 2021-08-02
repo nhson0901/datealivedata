@@ -1,0 +1,132 @@
+
+fight_predator.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BNbian
+  rotate: false
+  xy: 2, 577
+  size: 882, 445
+  orig: 882, 445
+  offset: 0, 0
+  index: -1
+BNbozi
+  rotate: true
+  xy: 886, 834
+  size: 188, 129
+  orig: 188, 129
+  offset: 0, 0
+  index: -1
+BNmao1
+  rotate: false
+  xy: 306, 339
+  size: 202, 93
+  orig: 202, 93
+  offset: 0, 0
+  index: -1
+BNmao10
+  rotate: false
+  xy: 532, 462
+  size: 188, 52
+  orig: 188, 52
+  offset: 0, 0
+  index: -1
+BNmao11
+  rotate: false
+  xy: 2, 99
+  size: 200, 201
+  orig: 200, 201
+  offset: 0, 0
+  index: -1
+BNmao2
+  rotate: false
+  xy: 306, 270
+  size: 142, 67
+  orig: 142, 67
+  offset: 0, 0
+  index: -1
+BNmao3
+  rotate: false
+  xy: 306, 434
+  size: 224, 141
+  orig: 224, 141
+  offset: 0, 0
+  index: -1
+BNmao4
+  rotate: false
+  xy: 734, 520
+  size: 153, 55
+  orig: 153, 55
+  offset: 0, 0
+  index: -1
+BNmao6
+  rotate: true
+  xy: 204, 104
+  size: 196, 96
+  orig: 196, 96
+  offset: 0, 0
+  index: -1
+BNmao9
+  rotate: false
+  xy: 532, 516
+  size: 200, 59
+  orig: 200, 59
+  offset: 0, 0
+  index: -1
+BNshenti
+  rotate: false
+  xy: 2, 302
+  size: 302, 273
+  orig: 302, 273
+  offset: 0, 0
+  index: -1
+BNtou1
+  rotate: true
+  xy: 302, 70
+  size: 86, 117
+  orig: 86, 117
+  offset: 0, 0
+  index: -1
+BNtou2
+  rotate: false
+  xy: 302, 158
+  size: 123, 110
+  orig: 123, 110
+  offset: 0, 0
+  index: -1
+BNtou3
+  rotate: false
+  xy: 2, 2
+  size: 143, 95
+  orig: 143, 95
+  offset: 0, 0
+  index: -1
+BNtou4
+  rotate: true
+  xy: 886, 665
+  size: 167, 76
+  orig: 167, 76
+  offset: 0, 0
+  index: -1
+BNtou5
+  rotate: true
+  xy: 147, 12
+  size: 85, 48
+  orig: 85, 48
+  offset: 0, 0
+  index: -1
+BNtou6
+  rotate: false
+  xy: 886, 579
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+BNtou7
+  rotate: true
+  xy: 889, 521
+  size: 56, 77
+  orig: 56, 77
+  offset: 0, 0
+  index: -1

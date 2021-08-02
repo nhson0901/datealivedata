@@ -1798,6 +1798,7 @@ EC_ActivityType2 = {
     BINGKAI_TASK = 91,          -- 冰铠任务
     RETURN_GIFT = 100,           -- 赠送返利活动
     DFW_SUMMER = 20,     -- 大富翁夏日祭
+    QL_BIRTHDAY = 98,            -- 琴里生日
 }
 
 EC_Activity_CHRISTMAS_Subtype = {

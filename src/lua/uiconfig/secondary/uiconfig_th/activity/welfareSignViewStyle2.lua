@@ -90,7 +90,7 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "548",
+							height = "547",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
@@ -103,7 +103,7 @@ local t =
 							{
 								
 							},
-							width = "890",
+							width = "891",
 							ZOrder = "1",
 							components = 
 							{
@@ -198,7 +198,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "111",
+									height = "57",
 									ignoreSize = "True",
 									name = "Image_welfareSignViewStyle2_1",
 									sizepercentx = "0",
@@ -209,10 +209,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -336,
-										PositionY = 216,
+										PositionX = -376,
+										PositionY = 243,
 									},
-									width = "223",
+									width = "131",
 									ZOrder = "1",
 								},
 								{
@@ -586,7 +586,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_tip",
 									nTextAlign = "1",
@@ -604,7 +604,7 @@ local t =
 										PositionY = 246,
 									},
 									visible = "False",
-									width = "84",
+									width = "82",
 									ZOrder = "1",
 								},
 								{
@@ -630,10 +630,10 @@ local t =
 									fontStroke = 
 									{
 										IsStroke = true,
-										StrokeColor = "#FF436993",
+										StrokeColor = "#FFB9364C",
 										StrokeSize = 2,
 									},
-									height = "26",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_time_tip",
 									nTextAlign = "0",
@@ -648,10 +648,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -405,
-										PositionY = 247,
+										PositionX = -399,
+										PositionY = 244,
 									},
-									width = "76",
+									width = "77",
 									ZOrder = "1",
 								},
 								{
@@ -677,10 +677,10 @@ local t =
 									fontStroke = 
 									{
 										IsStroke = true,
-										StrokeColor = "#FF436993",
+										StrokeColor = "#FFB9364C",
 										StrokeSize = 2,
 									},
-									height = "26",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_time_end",
 									nTextAlign = "0",
@@ -695,10 +695,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -435,
-										PositionY = 192,
+										PositionX = -429,
+										PositionY = 189,
 									},
-									width = "76",
+									width = "77",
 									ZOrder = "1",
 								},
 								{
@@ -724,10 +724,10 @@ local t =
 									fontStroke = 
 									{
 										IsStroke = true,
-										StrokeColor = "#FF436993",
+										StrokeColor = "#FFB9364C",
 										StrokeSize = 2,
 									},
-									height = "26",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_time_begin",
 									nTextAlign = "0",
@@ -742,10 +742,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -422,
-										PositionY = 220,
+										PositionX = -416,
+										PositionY = 217,
 									},
-									width = "76",
+									width = "77",
 									ZOrder = "1",
 								},
 								{
@@ -774,7 +774,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_denglu",
 									nTextAlign = "1",
@@ -792,7 +792,7 @@ local t =
 										PositionY = 246,
 									},
 									visible = "False",
-									width = "101",
+									width = "98",
 									ZOrder = "1",
 								},
 							},
@@ -1020,7 +1020,7 @@ local t =
 														TopPosition = 8,
 														relativeToName = "Panel_reward",
 													},
-													width = "34",
+													width = "37",
 													ZOrder = "1",
 												},
 											},
@@ -1083,7 +1083,7 @@ local t =
 										StrokeColor = "#FF514483",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_day",
 									nTextAlign = "1",
@@ -1100,7 +1100,7 @@ local t =
 										PositionY = -67,
 									},
 									visible = "False",
-									width = "65",
+									width = "64",
 									ZOrder = "1",
 								},
 								{
@@ -1390,7 +1390,7 @@ local t =
 										TopPosition = 8,
 										relativeToName = "Panel_reward",
 									},
-									width = "34",
+									width = "37",
 									ZOrder = "1",
 								},
 								{
@@ -1402,7 +1402,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF7DA7ED",
+									FontColor = "#FFFFFFFF",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -1433,7 +1433,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 81,
+										PositionY = 102,
 									},
 									width = "69",
 									ZOrder = "1",

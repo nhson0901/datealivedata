@@ -1,0 +1,172 @@
+
+paintshow_13801_ex.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sa_06
+  rotate: true
+  xy: 1352, 629
+  size: 704, 640
+  orig: 712, 640
+  offset: 8, 0
+  index: -1
+images/sa_07
+  rotate: false
+  xy: 644, 693
+  size: 706, 640
+  orig: 712, 640
+  offset: 6, 0
+  index: -1
+images/sa_08
+  rotate: true
+  xy: 2, 695
+  size: 708, 640
+  orig: 712, 640
+  offset: 4, 0
+  index: -1
+images/sa_09
+  rotate: false
+  xy: 2, 1405
+  size: 710, 640
+  orig: 712, 640
+  offset: 2, 0
+  index: -1
+images/sa_10
+  rotate: true
+  xy: 714, 1335
+  size: 710, 640
+  orig: 712, 640
+  offset: 2, 0
+  index: -1
+images/sa_11
+  rotate: false
+  xy: 644, 51
+  size: 704, 640
+  orig: 712, 640
+  offset: 8, 0
+  index: -1
+images/sa_12
+  rotate: true
+  xy: 1356, 1347
+  size: 698, 640
+  orig: 712, 640
+  offset: 14, 0
+  index: -1
+images/sa_18
+  rotate: true
+  xy: 2, 2
+  size: 691, 640
+  orig: 712, 640
+  offset: 21, 0
+  index: -1
+images/sa_20
+  rotate: true
+  xy: 1350, 126
+  size: 501, 640
+  orig: 712, 640
+  offset: 141, 0
+  index: -1
+
+paintshow_13801_ex2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sa_03
+  rotate: false
+  xy: 1399, 1401
+  size: 642, 640
+  orig: 712, 640
+  offset: 63, 0
+  index: -1
+images/sa_04
+  rotate: true
+  xy: 1397, 744
+  size: 655, 640
+  orig: 712, 640
+  offset: 50, 0
+  index: -1
+images/sa_05
+  rotate: false
+  xy: 2, 1401
+  size: 697, 640
+  orig: 712, 640
+  offset: 15, 0
+  index: -1
+images/sa_13
+  rotate: false
+  xy: 2, 759
+  size: 697, 640
+  orig: 712, 640
+  offset: 15, 0
+  index: -1
+images/sa_14
+  rotate: false
+  xy: 701, 1401
+  size: 696, 640
+  orig: 712, 640
+  offset: 16, 0
+  index: -1
+images/sa_15
+  rotate: false
+  xy: 2, 117
+  size: 695, 640
+  orig: 712, 640
+  offset: 17, 0
+  index: -1
+images/sa_16
+  rotate: false
+  xy: 701, 759
+  size: 694, 640
+  orig: 712, 640
+  offset: 18, 0
+  index: -1
+images/sa_17
+  rotate: false
+  xy: 699, 117
+  size: 693, 640
+  orig: 712, 640
+  offset: 19, 0
+  index: -1
+images/sa_19
+  rotate: true
+  xy: 1394, 64
+  size: 678, 640
+  orig: 712, 640
+  offset: 34, 0
+  index: -1
+
+paintshow_13801_ex3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/sa_01
+  rotate: true
+  xy: 2, 2
+  size: 576, 554
+  orig: 712, 640
+  offset: 135, 0
+  index: -1
+images/sa_02
+  rotate: false
+  xy: 2, 1222
+  size: 614, 554
+  orig: 712, 640
+  offset: 91, 0
+  index: -1
+images/sa_21
+  rotate: false
+  xy: 2, 580
+  size: 500, 640
+  orig: 712, 640
+  offset: 142, 0
+  index: -1
+images/sa_22
+  rotate: true
+  xy: 618, 1279
+  size: 497, 640
+  orig: 712, 640
+  offset: 144, 0
+  index: -1

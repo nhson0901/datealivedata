@@ -86,8 +86,9 @@ function TFLanguageMgr:getCurrentCountryCode( )
 	return TFLanguageManager:shareLanguageManager():getCurrentCountryCode()
 end
 
-function TFLanguageMgr:getCodeByLanguage( language )
-	return TFLanguageManager:shareLanguageManager():getCodeByLanguage(language)
+function TFLanguageMgr:getCodeByLanguage( language, suffix )
+	suffix = suffix or ""
+	return suffix ..TFLanguageManager:shareLanguageManager():getCodeByLanguage(language)
 end
 
 --获得当前语言对应的后缀

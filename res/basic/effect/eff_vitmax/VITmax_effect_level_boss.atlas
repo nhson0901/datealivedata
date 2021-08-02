@@ -1,0 +1,146 @@
+
+VITmax_effect_level_boss.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BOSS/di
+  rotate: false
+  xy: 2, 404
+  size: 105, 105
+  orig: 105, 105
+  offset: 0, 0
+  index: -1
+images/BOSS/j1
+  rotate: false
+  xy: 146, 371
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+images/BOSS/j2
+  rotate: false
+  xy: 2, 4
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+images/BOSS/j3
+  rotate: true
+  xy: 476, 470
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+images/BOSS/tou
+  rotate: false
+  xy: 2, 331
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+images/BOSS/zli_00
+  rotate: false
+  xy: 109, 401
+  size: 71, 48
+  orig: 77, 70
+  offset: 3, 8
+  index: -1
+images/BOSS/zli_02
+  rotate: false
+  xy: 2, 97
+  size: 71, 54
+  orig: 77, 70
+  offset: 3, 3
+  index: -1
+images/BOSS/zli_04
+  rotate: false
+  xy: 183, 452
+  size: 71, 57
+  orig: 77, 70
+  offset: 3, 2
+  index: -1
+images/BOSS/zli_06
+  rotate: false
+  xy: 329, 454
+  size: 71, 55
+  orig: 77, 70
+  offset: 3, 2
+  index: -1
+images/BOSS/zli_08
+  rotate: false
+  xy: 2, 153
+  size: 71, 56
+  orig: 77, 70
+  offset: 3, 3
+  index: -1
+images/BOSS/zli_10
+  rotate: false
+  xy: 2, 211
+  size: 71, 57
+  orig: 77, 70
+  offset: 3, 4
+  index: -1
+images/BOSS/zli_12
+  rotate: false
+  xy: 109, 451
+  size: 72, 58
+  orig: 77, 70
+  offset: 2, 5
+  index: -1
+images/BOSS/zli_14
+  rotate: false
+  xy: 75, 194
+  size: 65, 50
+  orig: 77, 70
+  offset: 9, 6
+  index: -1
+images/BOSS/zli_16
+  rotate: false
+  xy: 75, 246
+  size: 68, 49
+  orig: 77, 70
+  offset: 7, 8
+  index: -1
+images/BOSS/zli_18
+  rotate: false
+  xy: 75, 349
+  size: 69, 50
+  orig: 77, 70
+  offset: 6, 9
+  index: -1
+images/BOSS/zli_20
+  rotate: false
+  xy: 75, 297
+  size: 69, 50
+  orig: 77, 70
+  offset: 6, 10
+  index: -1
+images/BOSS/zli_22
+  rotate: false
+  xy: 2, 44
+  size: 70, 51
+  orig: 77, 70
+  offset: 5, 11
+  index: -1
+images/BOSS/zli_24
+  rotate: false
+  xy: 402, 458
+  size: 72, 51
+  orig: 77, 70
+  offset: 3, 12
+  index: -1
+images/BOSS/zli_26
+  rotate: false
+  xy: 256, 452
+  size: 71, 57
+  orig: 77, 70
+  offset: 3, 7
+  index: -1
+images/BOSS/zli_28
+  rotate: false
+  xy: 2, 270
+  size: 71, 59
+  orig: 77, 70
+  offset: 3, 7
+  index: -1

@@ -190,7 +190,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "61",
+									height = "147",
 									ignoreSize = "False",
 									name = "Image_infoTip01",
 									sizepercentx = "0",
@@ -208,7 +208,7 @@ local t =
 										relativeToName = "Panel",
 										nGravity = 1,
 									},
-									width = "97",
+									width = "214",
 									ZOrder = "1",
 									components = 
 									{
@@ -269,7 +269,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "61",
+									height = "154",
 									ignoreSize = "False",
 									name = "Image_infoTip02",
 									sizepercentx = "0",
@@ -287,7 +287,7 @@ local t =
 										relativeToName = "Panel",
 										nGravity = 1,
 									},
-									width = "97",
+									width = "234",
 									ZOrder = "1",
 									components = 
 									{
@@ -348,7 +348,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "61",
+									height = "149",
 									ignoreSize = "False",
 									name = "Image_infoTip03",
 									sizepercentx = "0",
@@ -366,7 +366,7 @@ local t =
 										relativeToName = "Panel",
 										nGravity = 1,
 									},
-									width = "97",
+									width = "220",
 									ZOrder = "1",
 									components = 
 									{
@@ -624,7 +624,6 @@ local t =
 									srcBlendFunc = "1",
 									titlefontName = "font/fangzheng_zhunyuan.ttf",
 									titlefontSize = "24",
-									titletext = "option1",
 									titletextColor = "#FF3C446C",
 									touchAble = "True",
 									UILayoutViewModel = 
@@ -687,6 +686,51 @@ local t =
 											width = "105",
 											ZOrder = "1",
 										},
+										{
+											controlID = "Label_text_TextButton_option1_Panel_options_Panel_base_Panel-datingReverseLayer_Layer1_dating_Game",
+											UUID = "6d7636b4_abeb_4998_a98c_e9bfb1655007",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FF3C446C",
+											fontName = "font/fangzheng_zhunyuan.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "24",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "0",
+											ignoreSize = "False",
+											name = "Label_text",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "option1",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "230",
+											ZOrder = "1",
+										},
 									},
 								},
 								{
@@ -716,7 +760,6 @@ local t =
 									srcBlendFunc = "1",
 									titlefontName = "font/fangzheng_zhunyuan.ttf",
 									titlefontSize = "24",
-									titletext = "option2",
 									titletextColor = "#FF3C446C",
 									touchAble = "True",
 									UILayoutViewModel = 
@@ -776,6 +819,51 @@ local t =
 											width = "105",
 											ZOrder = "1",
 										},
+										{
+											controlID = "Label_text_TextButton_option2_Panel_options_Panel_base_Panel-datingReverseLayer_Layer1_dating_Game",
+											UUID = "35247e7c_159a_4487_81ed_b2f102dbc815",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FF3C446C",
+											fontName = "font/fangzheng_zhunyuan.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "24",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "0",
+											ignoreSize = "False",
+											name = "Label_text",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "option2",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "230",
+											ZOrder = "1",
+										},
 									},
 								},
 								{
@@ -805,7 +893,6 @@ local t =
 									srcBlendFunc = "1",
 									titlefontName = "font/fangzheng_zhunyuan.ttf",
 									titlefontSize = "24",
-									titletext = "option3",
 									titletextColor = "#FF3C446C",
 									touchAble = "True",
 									UILayoutViewModel = 
@@ -866,6 +953,51 @@ local t =
 												PositionY = 45,
 											},
 											width = "105",
+											ZOrder = "1",
+										},
+										{
+											controlID = "Label_text_TextButton_option3_Panel_options_Panel_base_Panel-datingReverseLayer_Layer1_dating_Game",
+											UUID = "a06afa1b_759f_47fa_998e_7cdc8677e662",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FF3C446C",
+											fontName = "font/fangzheng_zhunyuan.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "24",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "0",
+											ignoreSize = "False",
+											name = "Label_text",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "option3",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "230",
 											ZOrder = "1",
 										},
 									},

@@ -3991,8 +3991,8 @@ return {
     },
     [799] = {
         id = 799,
-        res = "ui/mainui/battle_entrance.png",
-        res_en = "ui/mainui/battle_entrance_de.png",
+        res = "ui/mainui/battle_detrance.png",
+        res_en = "ui/mainui/battle_detrance_de.png",
     },
     [800] = {
         id = 800,
@@ -5977,6 +5977,46 @@ return {
     [1196] = {
         id = 1196,
         res = "ui/monthcardNew1/quartercard_1.png",
-        res_en = "ui/monthcardNew1/quartercard_de.png",
+        res_en = "ui/monthcardNew1/quartercard_1_de.png",
+    },
+    [1197] = {
+        id = 1197,
+        res = "ui/activity/activityStyle/wefareSignActivity/bg/bg.png",
+        res_en = "ui/activity/activityStyle/wefareSignActivity/bg/bg_en.png",
+    },
+    [1198] = {
+        id = 1198,
+        res = "ui/activity/picture/icon288.png",
+        res_en = "ui/activity/picture/icon288_de.png",
+    },
+    [1199] = {
+        id = 1199,
+        res = "ui/activity/picture/icon299.png",
+        res_en = "ui/activity/picture/icon299_de.png",
+    },
+    [1200] = {
+        id = 1200,
+        res = "ui/activity/picture/icon286.png",
+        res_en = "ui/activity/picture/icon286_de.png",
+    },
+    [1201] = {
+        id = 1201,
+        res = "ui/activity/picture/icon287.png",
+        res_en = "ui/activity/picture/icon287_de.png",
+    },
+    [1202] = {
+        id = 1202,
+        res = "ui/activity/picture/ad286.png",
+        res_en = "ui/activity/picture/ad286_de.png",
+    },
+    [1203] = {
+        id = 1203,
+        res = "ui/activity/picture/ad287.png",
+        res_en = "ui/activity/picture/ad287_de.png",
+    },
+    [1204] = {
+        id = 1204,
+        res = "icon/equipment/name/meilimanman.png",
+        res_en = "icon/equipment/name/meilimanman_de.png",
     },
 }

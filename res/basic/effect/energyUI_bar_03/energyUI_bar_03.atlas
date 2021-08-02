@@ -1,0 +1,132 @@
+
+energyUI_bar_03.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/liudon_00
+  rotate: true
+  xy: 146, 346
+  size: 77, 27
+  orig: 161, 47
+  offset: 4, 4
+  index: -1
+images/liudon_01
+  rotate: true
+  xy: 2, 150
+  size: 146, 26
+  orig: 161, 47
+  offset: 7, 4
+  index: -1
+images/liudon_02
+  rotate: true
+  xy: 109, 156
+  size: 140, 26
+  orig: 161, 47
+  offset: 8, 6
+  index: -1
+images/liudon_03
+  rotate: true
+  xy: 26, 57
+  size: 91, 34
+  orig: 161, 47
+  offset: 1, 8
+  index: -1
+images/liudon_04
+  rotate: true
+  xy: 137, 183
+  size: 113, 34
+  orig: 161, 47
+  offset: 6, 8
+  index: -1
+images/liudon_05
+  rotate: false
+  xy: 152, 469
+  size: 147, 36
+  orig: 161, 47
+  offset: 10, 5
+  index: -1
+images/liudon_06
+  rotate: true
+  xy: 2, 2
+  size: 146, 22
+  orig: 161, 47
+  offset: 13, 12
+  index: -1
+images/liudon_07
+  rotate: false
+  xy: 2, 381
+  size: 142, 42
+  orig: 161, 47
+  offset: 10, 4
+  index: -1
+images/liudon_08
+  rotate: false
+  xy: 2, 466
+  size: 148, 39
+  orig: 161, 47
+  offset: 8, 5
+  index: -1
+images/liudon_09
+  rotate: true
+  xy: 69, 170
+  size: 126, 38
+  orig: 161, 47
+  offset: 28, 6
+  index: -1
+images/liudon_10
+  rotate: false
+  xy: 2, 425
+  size: 147, 39
+  orig: 161, 47
+  offset: 4, 5
+  index: -1
+images/liudon_11
+  rotate: false
+  xy: 2, 338
+  size: 142, 41
+  orig: 161, 47
+  offset: 5, 3
+  index: -1
+images/liudon_12
+  rotate: false
+  xy: 301, 473
+  size: 141, 32
+  orig: 161, 47
+  offset: 6, 12
+  index: -1
+images/liudon_13
+  rotate: false
+  xy: 2, 298
+  size: 140, 38
+  orig: 161, 47
+  offset: 6, 5
+  index: -1
+images/liudon_14
+  rotate: true
+  xy: 30, 161
+  size: 135, 37
+  orig: 161, 47
+  offset: 10, 7
+  index: -1
+images/liudon_15
+  rotate: false
+  xy: 301, 435
+  size: 100, 36
+  orig: 161, 47
+  offset: 47, 8
+  index: -1
+images/liudon_16
+  rotate: false
+  xy: 444, 472
+  size: 55, 33
+  orig: 161, 47
+  offset: 93, 11
+  index: -1
+images/liudon_17
+  rotate: false
+  xy: 152, 434
+  size: 70, 33
+  orig: 161, 47
+  offset: 78, 11
+  index: -1

@@ -1,0 +1,342 @@
+
+effects_13701_skillG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/skillG/bs_48
+  rotate: false
+  xy: 749, 1726
+  size: 194, 161
+  orig: 218, 241
+  offset: 24, 23
+  index: -1
+images/skillG/bs_50
+  rotate: false
+  xy: 1134, 1731
+  size: 185, 156
+  orig: 218, 241
+  offset: 33, 28
+  index: -1
+images/skillG/bs_52
+  rotate: true
+  xy: 1674, 1682
+  size: 154, 145
+  orig: 218, 241
+  offset: 33, 39
+  index: -1
+images/skillG/bs_53
+  rotate: true
+  xy: 1501, 1682
+  size: 154, 171
+  orig: 218, 241
+  offset: 33, 39
+  index: -1
+images/skillG/bs_54
+  rotate: false
+  xy: 2, 549
+  size: 194, 235
+  orig: 218, 241
+  offset: 15, 0
+  index: -1
+images/skillG/bs_56
+  rotate: false
+  xy: 2, 324
+  size: 205, 223
+  orig: 218, 241
+  offset: 6, 18
+  index: -1
+images/skillG/bs_58
+  rotate: false
+  xy: 1573, 1838
+  size: 209, 208
+  orig: 218, 241
+  offset: 4, 22
+  index: -1
+images/skillG/bs_60
+  rotate: false
+  xy: 1353, 1839
+  size: 218, 207
+  orig: 218, 241
+  offset: 0, 22
+  index: -1
+images/skillG/bs_62
+  rotate: false
+  xy: 2, 103
+  size: 215, 219
+  orig: 218, 241
+  offset: 1, 22
+  index: -1
+images/skillG/bs_64
+  rotate: false
+  xy: 1784, 1871
+  size: 216, 175
+  orig: 218, 241
+  offset: 0, 23
+  index: -1
+images/skillG/bs_66
+  rotate: true
+  xy: 173, 1657
+  size: 215, 168
+  orig: 218, 241
+  offset: 1, 23
+  index: -1
+images/skillG/bs_68
+  rotate: false
+  xy: 945, 1725
+  size: 187, 162
+  orig: 218, 241
+  offset: 3, 22
+  index: -1
+images/skillG/bs_70
+  rotate: false
+  xy: 1321, 1679
+  size: 178, 158
+  orig: 218, 241
+  offset: 5, 22
+  index: -1
+images/skillG/bs_72
+  rotate: false
+  xy: 1821, 1765
+  size: 178, 104
+  orig: 218, 241
+  offset: 5, 22
+  index: -1
+images/skillG/di_28
+  rotate: false
+  xy: 343, 1668
+  size: 188, 43
+  orig: 228, 46
+  offset: 1, 1
+  index: -1
+images/skillG/di_30
+  rotate: false
+  xy: 2, 58
+  size: 225, 43
+  orig: 228, 46
+  offset: 1, 1
+  index: -1
+images/skillG/g1
+  rotate: false
+  xy: 161, 1444
+  size: 94, 94
+  orig: 100, 100
+  offset: 3, 3
+  index: -1
+images/skillG/guang01_0000
+  rotate: true
+  xy: 161, 1316
+  size: 126, 60
+  orig: 128, 64
+  offset: 1, 1
+  index: -1
+images/skillG/gx_00
+  rotate: false
+  xy: 2, 2
+  size: 128, 54
+  orig: 153, 61
+  offset: 2, 2
+  index: -1
+images/skillG/gx_01
+  rotate: false
+  xy: 173, 1597
+  size: 139, 58
+  orig: 153, 61
+  offset: 2, 1
+  index: -1
+images/skillG/gx_02
+  rotate: false
+  xy: 1821, 1705
+  size: 148, 58
+  orig: 153, 61
+  offset: 1, 1
+  index: -1
+images/skillG/gx_03
+  rotate: false
+  xy: 161, 1540
+  size: 139, 55
+  orig: 153, 61
+  offset: 10, 4
+  index: -1
+images/skillG/gx_04
+  rotate: true
+  xy: 197, 1181
+  size: 125, 51
+  orig: 153, 61
+  offset: 25, 8
+  index: -1
+images/skillG/gx_05
+  rotate: false
+  xy: 132, 8
+  size: 108, 48
+  orig: 153, 61
+  offset: 44, 11
+  index: -1
+images/skillG/gx_06
+  rotate: true
+  xy: 2001, 1778
+  size: 91, 45
+  orig: 153, 61
+  offset: 62, 10
+  index: -1
+images/skillG/gx_07
+  rotate: true
+  xy: 161, 825
+  size: 61, 40
+  orig: 153, 61
+  offset: 91, 10
+  index: -1
+images/skillG/gx_08
+  rotate: false
+  xy: 1321, 1861
+  size: 25, 26
+  orig: 153, 61
+  offset: 123, 10
+  index: -1
+images/skillG/shitou_29
+  rotate: false
+  xy: 343, 1713
+  size: 201, 174
+  orig: 281, 174
+  offset: 38, 0
+  index: -1
+images/skillG/shitou_31
+  rotate: false
+  xy: 2, 1874
+  size: 270, 172
+  orig: 281, 174
+  offset: 4, 2
+  index: -1
+images/skillG/shitou_33
+  rotate: true
+  xy: 2, 1599
+  size: 273, 169
+  orig: 281, 174
+  offset: 3, 2
+  index: -1
+images/skillG/shitou_35
+  rotate: false
+  xy: 1088, 1889
+  size: 263, 157
+  orig: 281, 174
+  offset: 10, 0
+  index: -1
+images/skillG/shitou_37
+  rotate: false
+  xy: 819, 1889
+  size: 267, 157
+  orig: 281, 174
+  offset: 8, 0
+  index: -1
+images/skillG/shitou_39
+  rotate: true
+  xy: 2, 786
+  size: 267, 157
+  orig: 281, 174
+  offset: 10, 0
+  index: -1
+images/skillG/shitou_41
+  rotate: true
+  xy: 2, 1327
+  size: 270, 157
+  orig: 281, 174
+  offset: 7, 0
+  index: -1
+images/skillG/shitou_43
+  rotate: false
+  xy: 274, 1889
+  size: 271, 157
+  orig: 281, 174
+  offset: 6, 0
+  index: -1
+images/skillG/shitou_45
+  rotate: false
+  xy: 547, 1889
+  size: 270, 157
+  orig: 281, 174
+  offset: 7, 0
+  index: -1
+images/skillG/shitou_47
+  rotate: true
+  xy: 2, 1055
+  size: 270, 157
+  orig: 281, 174
+  offset: 7, 0
+  index: -1
+images/skillG/shitou_49
+  rotate: false
+  xy: 546, 1730
+  size: 201, 157
+  orig: 281, 174
+  offset: 50, 0
+  index: -1
+images/skillG/xuli_00
+  rotate: false
+  xy: 2001, 1755
+  size: 45, 21
+  orig: 151, 54
+  offset: 4, 30
+  index: -1
+images/skillG/xuli_01
+  rotate: true
+  xy: 161, 1170
+  size: 144, 34
+  orig: 151, 54
+  offset: 4, 12
+  index: -1
+images/skillG/xuli_02
+  rotate: true
+  xy: 161, 1025
+  size: 143, 34
+  orig: 151, 54
+  offset: 6, 11
+  index: -1
+images/skillG/xuli_03
+  rotate: true
+  xy: 2002, 1907
+  size: 139, 40
+  orig: 151, 54
+  offset: 10, 6
+  index: -1
+images/skillG/xuli_04
+  rotate: true
+  xy: 161, 888
+  size: 135, 42
+  orig: 151, 54
+  offset: 14, 4
+  index: -1
+images/skillG/xuli_05
+  rotate: true
+  xy: 223, 1308
+  size: 134, 42
+  orig: 151, 54
+  offset: 15, 4
+  index: -1
+images/skillG/xuli_06
+  rotate: true
+  xy: 197, 1050
+  size: 129, 43
+  orig: 151, 54
+  offset: 20, 4
+  index: -1
+images/skillG/xuli_07
+  rotate: false
+  xy: 1821, 1664
+  size: 124, 39
+  orig: 151, 54
+  offset: 25, 8
+  index: -1
+images/skillG/xuli_08
+  rotate: false
+  xy: 546, 1690
+  size: 118, 38
+  orig: 151, 54
+  offset: 31, 9
+  index: -1
+images/skillG/xuli_09
+  rotate: true
+  xy: 250, 1192
+  size: 114, 36
+  orig: 151, 54
+  offset: 35, 9
+  index: -1

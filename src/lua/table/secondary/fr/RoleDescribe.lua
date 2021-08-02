@@ -1195,7 +1195,7 @@ return {
             [5] = 105410,
             [6] = 105450,
         },
-        energyExplain = "       Attack dealt and received increases Energy regen speed. Base Skill can consume extra Coldness to attack with Zadkiel and inflict [Laceration], reducing the target's Damage Immunity by 5% for 8s (stacks up to 4 times). When max stacks are reached, i",
+        energyExplain = "       Attack dealt and received increases Energy regen speed. Base Skill can consume extra Coldness to attack with Zadkiel and inflict [Laceration], reducing the target's Damage Immunity by 5% for 8s (stacks up to 4 times). When max stacks are reached, inflict [Laceration: Final]: the target takes an additional 10% Pure DMG for 8s.",
         camp = "Spirit",
         energyicon = "icon/angleEnergy/34.png",
         colour = "",

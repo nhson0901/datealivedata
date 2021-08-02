@@ -1,0 +1,370 @@
+
+VITmax_effect_level_elite.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shitou/cha
+  rotate: false
+  xy: 603, 632
+  size: 37, 39
+  orig: 37, 39
+  offset: 0, 0
+  index: -1
+images/shitou/cha2
+  rotate: false
+  xy: 893, 959
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+images/shitou/di
+  rotate: false
+  xy: 134, 911
+  size: 190, 111
+  orig: 190, 111
+  offset: 0, 0
+  index: -1
+images/shitou/di2
+  rotate: true
+  xy: 2, 573
+  size: 209, 123
+  orig: 209, 123
+  offset: 0, 0
+  index: -1
+images/shitou/dig
+  rotate: false
+  xy: 2, 784
+  size: 130, 238
+  orig: 130, 238
+  offset: 0, 0
+  index: -1
+images/shitou/dig_00
+  rotate: false
+  xy: 121, 555
+  size: 21, 16
+  orig: 79, 40
+  offset: 29, 14
+  index: -1
+images/shitou/dig_02
+  rotate: false
+  xy: 284, 886
+  size: 29, 23
+  orig: 79, 40
+  offset: 25, 11
+  index: -1
+images/shitou/dig_04
+  rotate: false
+  xy: 127, 573
+  size: 36, 29
+  orig: 79, 40
+  offset: 21, 8
+  index: -1
+images/shitou/dig_06
+  rotate: false
+  xy: 558, 637
+  size: 43, 34
+  orig: 79, 40
+  offset: 18, 5
+  index: -1
+images/shitou/dig_08
+  rotate: true
+  xy: 952, 896
+  size: 49, 38
+  orig: 79, 40
+  offset: 15, 1
+  index: -1
+images/shitou/dig_10
+  rotate: true
+  xy: 847, 748
+  size: 56, 38
+  orig: 79, 40
+  offset: 12, 1
+  index: -1
+images/shitou/dig_12
+  rotate: true
+  xy: 521, 686
+  size: 61, 38
+  orig: 79, 40
+  offset: 9, 1
+  index: -1
+images/shitou/dig_14
+  rotate: true
+  xy: 849, 806
+  size: 69, 38
+  orig: 79, 40
+  offset: 5, 1
+  index: -1
+images/shitou/dig_16
+  rotate: true
+  xy: 958, 947
+  size: 75, 38
+  orig: 79, 40
+  offset: 2, 1
+  index: -1
+images/shitou/dig_18
+  rotate: true
+  xy: 894, 881
+  size: 76, 38
+  orig: 79, 40
+  offset: 1, 1
+  index: -1
+images/shitou/dig_20
+  rotate: false
+  xy: 561, 706
+  size: 77, 37
+  orig: 79, 40
+  offset: 1, 1
+  index: -1
+images/shitou/dig_22
+  rotate: false
+  xy: 561, 673
+  size: 77, 31
+  orig: 79, 40
+  offset: 1, 1
+  index: -1
+images/shitou/dig_24
+  rotate: true
+  xy: 934, 880
+  size: 77, 16
+  orig: 79, 40
+  offset: 1, 11
+  index: -1
+images/shitou/dig_26
+  rotate: true
+  xy: 998, 945
+  size: 77, 15
+  orig: 79, 40
+  offset: 1, 11
+  index: -1
+images/shitou/dig_28
+  rotate: true
+  xy: 1015, 945
+  size: 77, 7
+  orig: 79, 40
+  offset: 1, 18
+  index: -1
+images/shitou/f1
+  rotate: true
+  xy: 134, 798
+  size: 111, 148
+  orig: 111, 148
+  offset: 0, 0
+  index: -1
+images/shitou/f2
+  rotate: false
+  xy: 2, 397
+  size: 117, 174
+  orig: 117, 174
+  offset: 0, 0
+  index: -1
+images/shitou/f3
+  rotate: false
+  xy: 2, 287
+  size: 107, 108
+  orig: 107, 108
+  offset: 0, 0
+  index: -1
+images/shitou/li/geli_00
+  rotate: true
+  xy: 326, 950
+  size: 72, 145
+  orig: 78, 151
+  offset: 3, 3
+  index: -1
+images/shitou/li/geli_02
+  rotate: true
+  xy: 615, 949
+  size: 73, 137
+  orig: 78, 151
+  offset: 4, 10
+  index: -1
+images/shitou/li/geli_04
+  rotate: true
+  xy: 473, 950
+  size: 72, 140
+  orig: 78, 151
+  offset: 4, 7
+  index: -1
+images/shitou/li/geli_06
+  rotate: true
+  xy: 754, 950
+  size: 72, 137
+  orig: 78, 151
+  offset: 4, 8
+  index: -1
+images/shitou/li/geli_08
+  rotate: false
+  xy: 2, 7
+  size: 73, 139
+  orig: 78, 151
+  offset: 3, 4
+  index: -1
+images/shitou/li/geli_10
+  rotate: true
+  xy: 755, 877
+  size: 71, 137
+  orig: 78, 151
+  offset: 5, 5
+  index: -1
+images/shitou/li/geli_12
+  rotate: false
+  xy: 81, 148
+  size: 70, 137
+  orig: 78, 151
+  offset: 6, 4
+  index: -1
+images/shitou/li/geli_14
+  rotate: true
+  xy: 284, 812
+  size: 71, 137
+  orig: 78, 151
+  offset: 5, 5
+  index: -1
+images/shitou/li/geli_16
+  rotate: false
+  xy: 127, 604
+  size: 69, 134
+  orig: 78, 151
+  offset: 6, 8
+  index: -1
+images/shitou/li/geli_18
+  rotate: false
+  xy: 77, 8
+  size: 69, 138
+  orig: 78, 151
+  offset: 6, 6
+  index: -1
+images/shitou/li/geli_20
+  rotate: false
+  xy: 198, 601
+  size: 66, 137
+  orig: 78, 151
+  offset: 8, 6
+  index: -1
+images/shitou/li/geli_22
+  rotate: true
+  xy: 470, 880
+  size: 68, 141
+  orig: 78, 151
+  offset: 6, 4
+  index: -1
+images/shitou/li/geli_24
+  rotate: true
+  xy: 613, 879
+  size: 68, 140
+  orig: 78, 151
+  offset: 6, 5
+  index: -1
+images/shitou/li/geli_26
+  rotate: true
+  xy: 566, 810
+  size: 67, 139
+  orig: 78, 151
+  offset: 7, 6
+  index: -1
+images/shitou/li/geli_28
+  rotate: true
+  xy: 707, 810
+  size: 65, 140
+  orig: 78, 151
+  offset: 9, 6
+  index: -1
+images/shitou/li/geli_30
+  rotate: true
+  xy: 423, 811
+  size: 67, 141
+  orig: 78, 151
+  offset: 9, 6
+  index: -1
+images/shitou/li/geli_32
+  rotate: false
+  xy: 322, 619
+  size: 62, 136
+  orig: 78, 151
+  offset: 13, 11
+  index: -1
+images/shitou/li/geli_34
+  rotate: true
+  xy: 386, 685
+  size: 62, 133
+  orig: 78, 151
+  offset: 13, 13
+  index: -1
+images/shitou/li/geli_36
+  rotate: true
+  xy: 326, 885
+  size: 63, 142
+  orig: 78, 151
+  offset: 12, 5
+  index: -1
+images/shitou/li/geli_38
+  rotate: true
+  xy: 565, 745
+  size: 63, 139
+  orig: 78, 151
+  offset: 13, 5
+  index: -1
+images/shitou/li/geli_40
+  rotate: true
+  xy: 706, 746
+  size: 62, 139
+  orig: 78, 151
+  offset: 15, 3
+  index: -1
+images/shitou/li/geli_42
+  rotate: true
+  xy: 423, 749
+  size: 60, 140
+  orig: 78, 151
+  offset: 16, 5
+  index: -1
+images/shitou/li/geli_44
+  rotate: true
+  xy: 134, 740
+  size: 56, 142
+  orig: 78, 151
+  offset: 16, 3
+  index: -1
+images/shitou/li/geli_46
+  rotate: true
+  xy: 284, 757
+  size: 53, 137
+  orig: 78, 151
+  offset: 17, 4
+  index: -1
+images/shitou/li/geli_50
+  rotate: false
+  xy: 266, 601
+  size: 54, 137
+  orig: 78, 151
+  offset: 16, 8
+  index: -1
+images/shitou/li/geli_54
+  rotate: true
+  xy: 386, 629
+  size: 54, 135
+  orig: 78, 151
+  offset: 21, 10
+  index: -1
+images/shitou/shi1
+  rotate: false
+  xy: 640, 693
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+images/shitou/shi2
+  rotate: false
+  xy: 523, 637
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+images/shitou/shi3
+  rotate: false
+  xy: 2, 148
+  size: 77, 137
+  orig: 77, 137
+  offset: 0, 0
+  index: -1
