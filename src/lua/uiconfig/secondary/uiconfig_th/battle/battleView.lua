@@ -17667,7 +17667,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "65",
+							height = "83",
 							ignoreSize = "False",
 							name = "Panel_skyladder_item",
 							sizepercentx = "0",
@@ -17711,6 +17711,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -105,
+										PositionY = 22,
 									},
 									width = "14",
 									ZOrder = "1",
@@ -17741,7 +17742,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "46",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_tip",
 									nTextAlign = "0",
@@ -17755,10 +17756,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -90,
-										PositionY = 10,
+										PositionX = -91,
+										PositionY = 33,
 									},
-									width = "220",
+									width = "208",
 									ZOrder = "1",
 								},
 							},

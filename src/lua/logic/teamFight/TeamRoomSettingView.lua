@@ -15,6 +15,7 @@ end
 
 function TeamRoomSettingView:initData(isCreateRoom,teamType,confirmCallBack,lvlLimit)
 
+
     self.maxWaitingTime = Utils:getKVP(17001,"time")
     self.createTeamWaitTime = Utils:getKVP(21005,"time")
 
@@ -84,8 +85,9 @@ function TeamRoomSettingView:refreshView()
     else
         self:settingInfo()
     end
-
-    self.Image_auto_match:setVisible(true)
+    if self.teamType ~= 6 then  --终焉之战不加自动匹配
+        self.Image_auto_match:setVisible(true)
+    end
 end
 
 function TeamRoomSettingView:createInfo()

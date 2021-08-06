@@ -68,7 +68,7 @@ function SimulationSummonDataMgr:onRecvSimulationSummonInfo(event)
 		self.writeOpen = false
 		
 		if event.data.lastCid ~= nil and event.data.lastResult ~= nil then
-			showMessageBox("上一次招募未完成", EC_MessageBoxType.ok, function()
+			showMessageBox(TextDataMgr:getText(190001078), EC_MessageBoxType.ok, function()
 				AlertManager:close()
 				Utils:openView("summon.SimulationSummonView",event.data)
 				Utils:openView("summon.SimulationSummonResultView",event.data.lastCid, event.data.lastResult)

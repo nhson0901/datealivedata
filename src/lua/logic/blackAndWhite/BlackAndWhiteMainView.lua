@@ -75,13 +75,13 @@ function BlackAndWhiteMainView:initUI(ui)
 	if self.activityId_ then
 		self:onUpdateProgressEvent()
 		dump(self.activityInfo_)
-		local year, month, day = Utils:getDate(self.activityInfo_.startTime, true)
+		local year, month, day = Utils:getUTCDateYMD(self.activityInfo_.startTime, true , GV_UTC_TIME_ZONE)
 		local hour, min = Utils:getTime(self.activityInfo_.startTime, true)
 		self._startTime:setText(year.. "." .. month .. "." .. day .. "-")
 		
-		local year, month, day = Utils:getDate(self.activityInfo_.endTime, true)
+		local year, month, day = Utils:getUTCDateYMD(self.activityInfo_.endTime, true , GV_UTC_TIME_ZONE)
 		local hour, min = Utils:getTime(self.activityInfo_.endTime, true)
-		self._endTime:setText("-" .. year.. "." .. month.. "." .. day)
+		self._endTime:setText("-" .. year.. "." .. month.. "." .. day..GV_UTC_TIME_STRING)
 	else
 		self._startTime:hide()
 		self._endTime:hide()

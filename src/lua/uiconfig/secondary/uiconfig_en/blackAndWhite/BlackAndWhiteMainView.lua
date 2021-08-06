@@ -191,7 +191,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 5,
-										PositionY = 9,
+										PositionY = 2,
 									},
 									width = "212",
 									ZOrder = "1",
@@ -326,7 +326,7 @@ local t =
 									flipX = "False",
 									flipY = "False",
 									height = "58",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Button_rank",
 									normal = "ui/BlackAndWhite/Main/010.png",
 									pressed = "ui/BlackAndWhite/Main/010.png",
@@ -341,7 +341,7 @@ local t =
 										PositionY = 200,
 									},
 									UItype = "Button",
-									width = "132",
+									width = "156",
 									ZOrder = "1",
 									components = 
 									{
@@ -365,14 +365,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "16",
 											fontStroke = 
 											{
 												IsStroke = true,
 												StrokeColor = "#FF303F5D",
 												StrokeSize = 2,
 											},
-											height = "29",
+											height = "22",
 											ignoreSize = "True",
 											name = "Label_rank",
 											nTextAlign = "1",
@@ -388,7 +388,7 @@ local t =
 											{
 												
 											},
-											width = "66",
+											width = "112",
 											ZOrder = "1",
 										},
 									},
@@ -464,7 +464,7 @@ local t =
 												PositionX = 20,
 												PositionY = -1,
 											},
-											width = "53",
+											width = "58",
 											ZOrder = "1",
 										},
 										{
@@ -577,7 +577,7 @@ local t =
 										},
 										{
 											controlID = "Image_icon5_Image_lvbg1_Image_bg_Panel_root_Panel-BlackAndWhiteMainView_Layer1_blackAndWhite_Game",
-											UUID = "1767f447_96af_4cc1_8154_124b0b4ff7b6",
+											UUID = "d47bdaf1_b2b8_42c9_ae13_2bcb72bb8c65",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
@@ -701,7 +701,7 @@ local t =
 											{
 												PositionX = 17,
 											},
-											width = "53",
+											width = "58",
 											ZOrder = "1",
 										},
 										{
@@ -814,7 +814,7 @@ local t =
 										},
 										{
 											controlID = "Image_icon5_Image_lvbg2_Image_bg_Panel_root_Panel-BlackAndWhiteMainView_Layer1_blackAndWhite_Game",
-											UUID = "92f10eed_5724_49b3_83da_3bdb09f7ab26",
+											UUID = "10512410_e202_4f1a_9765_ad908fa21bbb",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
@@ -862,7 +862,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -7,
+												PositionX = -10,
 												PositionY = 37,
 											},
 											width = "152",
@@ -941,7 +941,7 @@ local t =
 												PositionX = 19,
 												PositionY = -1,
 											},
-											width = "53",
+											width = "58",
 											ZOrder = "1",
 										},
 										{
@@ -1054,7 +1054,7 @@ local t =
 										},
 										{
 											controlID = "Image_icon5_Image_lvbg3_Image_bg_Panel_root_Panel-BlackAndWhiteMainView_Layer1_blackAndWhite_Game",
-											UUID = "450ba675_76a3_4518_82ea_410cdff72682",
+											UUID = "cdb76e3e_2e71_46e2_a628_dfc9cb1c3498",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
@@ -1141,7 +1141,7 @@ local t =
 											controlID = "Label_count1_Image_other1_Image_bg_Panel_root_Panel-BlackAndWhiteMainView_Layer1_blackAndWhite_Game",
 											UUID = "7bcd11a0_06fe_42fc_ba53_fe4c586a126d",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -1172,15 +1172,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Activation Cost",
+											text = "Cost",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -43,
+												PositionX = -7,
 												PositionY = 24,
 											},
-											width = "83",
+											width = "39",
 											ZOrder = "1",
 										},
 										{
@@ -1256,7 +1256,7 @@ local t =
 												PositionX = 56,
 												PositionY = 24,
 											},
-											width = "30",
+											width = "44",
 											ZOrder = "1",
 										},
 										{
@@ -1320,7 +1320,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -3,
-										PositionY = -221,
+										PositionY = -220,
 									},
 									width = "188",
 									ZOrder = "1",
@@ -1331,7 +1331,7 @@ local t =
 											controlID = "Label_count1_Image_other2_Image_bg_Panel_root_Panel-BlackAndWhiteMainView_Layer1_blackAndWhite_Game",
 											UUID = "e56f13e1_1429_4b6d_a8ee_29bc50e9293c",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -1362,15 +1362,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Activation Cost",
+											text = "Cost",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -43,
+												PositionX = -7,
 												PositionY = 24,
 											},
-											width = "83",
+											width = "39",
 											ZOrder = "1",
 										},
 										{
@@ -1446,7 +1446,7 @@ local t =
 												PositionX = 58,
 												PositionY = 23,
 											},
-											width = "30",
+											width = "44",
 											ZOrder = "1",
 										},
 										{
@@ -1521,7 +1521,7 @@ local t =
 											controlID = "Label_count1_Image_other3_Image_bg_Panel_root_Panel-BlackAndWhiteMainView_Layer1_blackAndWhite_Game",
 											UUID = "677ba486_c1c1_4ffc_b6c4_c82443de5c11",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -1552,15 +1552,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Activation Cost",
+											text = "Cost",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -43,
+												PositionX = -7,
 												PositionY = 24,
 											},
-											width = "83",
+											width = "39",
 											ZOrder = "1",
 										},
 										{
@@ -1636,7 +1636,7 @@ local t =
 												PositionX = 58,
 												PositionY = 23,
 											},
-											width = "30",
+											width = "44",
 											ZOrder = "1",
 										},
 										{
@@ -1705,11 +1705,11 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "21",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_desc1",
 									nTextAlign = "1",
-									nTextHAlign = "2",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1720,9 +1720,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 160,
-										PositionY = -262,
+										PositionY = -247,
 									},
-									width = "309",
+									width = "400",
 									ZOrder = "1",
 								},
 								{
@@ -1751,11 +1751,11 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "21",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_desc2",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1768,7 +1768,7 @@ local t =
 										PositionX = 160,
 										PositionY = -292,
 									},
-									width = "633",
+									width = "400",
 									ZOrder = "1",
 								},
 								{
@@ -1831,7 +1831,7 @@ local t =
 												StrokeColor = "#FF303F5D",
 												StrokeSize = 1,
 											},
-											height = "34",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_BlackAndWhiteMainView_1",
 											nTextAlign = "1",
@@ -1848,7 +1848,7 @@ local t =
 												PositionX = 1,
 												PositionY = -42,
 											},
-											width = "56",
+											width = "85",
 											ZOrder = "1",
 										},
 										{
@@ -1919,10 +1919,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -35,
+										PositionX = -60,
 										PositionY = 96,
 									},
-									width = "145",
+									width = "144",
 									ZOrder = "1",
 								},
 								{
@@ -1965,10 +1965,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 30,
+										PositionX = 54,
 										PositionY = 96,
 									},
-									width = "144",
+									width = "143",
 									ZOrder = "1",
 								},
 							},

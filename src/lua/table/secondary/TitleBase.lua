@@ -917,11 +917,11 @@ return {
         quality = 1,
         id = 9200134,
     },
-    [9200122] = {
+    [9200123] = {
         superType = 38,
         excursion1 = {
         },
-        order = 22,
+        order = 23,
         pileUp = true,
         condition = {
         },
@@ -939,12 +939,12 @@ return {
         },
         content = 0,
         classify = 3,
-        lamp = 1125,
+        lamp = 1126,
         titleLevel = 1,
-        notable = 1325423,
-        showPower = 180,
-        accessdes = 1326424,
-        titleType = 22,
+        notable = 1325424,
+        showPower = 220,
+        accessdes = 1326425,
+        titleType = 23,
         toplimit = 0,
         size2 = {
             [1] = 110,
@@ -957,7 +957,7 @@ return {
         reward = {
         },
         displayClassify = 1,
-        showEffect = "effect/title/chenghao_lianghangyuan_chuji/chenghao_lianghangyuan_chuji",
+        showEffect = "effect/title/chenghao_lianghangyuan_zongji/chenghao_lianghangyuan_zongji",
         excursion2 = {
             [1] = {
                 [1] = 5,
@@ -975,9 +975,9 @@ return {
         useCast = {
         },
         baseAttribute = {
-            [1] = 26895,
-            [2] = 8978,
-            [3] = 5974,
+            [1] = 31446,
+            [2] = 10378,
+            [3] = 6980,
         },
         chatShow = true,
         title = 0,
@@ -986,12 +986,12 @@ return {
         timeDescription = 1326530,
         showPic = "",
         size1 = 0,
-        titleStar = 3,
+        titleStar = 4,
         dealProfit = {
         },
         probability = 0,
         quality = 1,
-        id = 9200122,
+        id = 9200123,
     },
     [9200126] = {
         superType = 38,
@@ -1069,6 +1069,83 @@ return {
         probability = 0,
         quality = 1,
         id = 9200126,
+    },
+    [9200114] = {
+        superType = 38,
+        excursion1 = {
+        },
+        order = 14,
+        pileUp = true,
+        condition = {
+            hasItem = 570516,
+        },
+        gridMax = 1,
+        effectivetime = -1,
+        activeTime = 0,
+        clubPush = 0,
+        sellProfit = {
+        },
+        onceUseLimit = 0,
+        triggerEnvelope = 0,
+        totalMax = 1,
+        deletePrevious = false,
+        convertMax = {
+        },
+        content = 0,
+        classify = 3,
+        lamp = 0,
+        titleLevel = 1,
+        notable = 1325417,
+        showPower = 130,
+        accessdes = 1326418,
+        titleType = 14,
+        toplimit = 0,
+        size2 = {
+            [1] = 110,
+            [2] = 100,
+            [3] = 100,
+        },
+        bagType = 0,
+        autoUse = false,
+        star = 4,
+        reward = {
+        },
+        displayClassify = 1,
+        showEffect = "effect/title/skeleton/skeleton",
+        excursion2 = {
+            [1] = {
+                [1] = 5,
+                [2] = -8,
+            },
+            [2] = {
+                [1] = 0,
+                [2] = 0,
+            },
+            [3] = {
+                [1] = 0,
+                [2] = 15,
+            },
+        },
+        useCast = {
+        },
+        baseAttribute = {
+            [1] = 14110,
+            [2] = 4831,
+            [3] = 3755,
+        },
+        chatShow = true,
+        title = 0,
+        relatedTask = 0,
+        subType = 0,
+        timeDescription = 0,
+        showPic = "",
+        size1 = 0,
+        titleStar = 3,
+        dealProfit = {
+        },
+        probability = 0,
+        quality = 1,
+        id = 9200114,
     },
     [9200110] = {
         superType = 38,
@@ -1300,19 +1377,19 @@ return {
         quality = 1,
         id = 9200112,
     },
-    [9200114] = {
+    [9200108] = {
         superType = 38,
         excursion1 = {
         },
-        order = 14,
+        order = 8,
         pileUp = true,
         condition = {
-            hasItem = 570516,
+            hasItem = 570510,
         },
         gridMax = 1,
         effectivetime = -1,
         activeTime = 0,
-        clubPush = 0,
+        clubPush = 276023,
         sellProfit = {
         },
         onceUseLimit = 0,
@@ -1322,13 +1399,13 @@ return {
         convertMax = {
         },
         content = 0,
-        classify = 3,
-        lamp = 0,
+        classify = 2,
+        lamp = 1110,
         titleLevel = 1,
-        notable = 1325417,
-        showPower = 130,
-        accessdes = 1326418,
-        titleType = 14,
+        notable = 1325410,
+        showPower = 154,
+        accessdes = 1326410,
+        titleType = 8,
         toplimit = 0,
         size2 = {
             [1] = 110,
@@ -1340,8 +1417,8 @@ return {
         star = 4,
         reward = {
         },
-        displayClassify = 1,
-        showEffect = "effect/title/skeleton/skeleton",
+        displayClassify = 2,
+        showEffect = "effect/title/effect_title_black_01/effect_title_black_01",
         excursion2 = {
             [1] = {
                 [1] = 5,
@@ -1359,8 +1436,8 @@ return {
         useCast = {
         },
         baseAttribute = {
-            [1] = 14110,
-            [2] = 4831,
+            [1] = 11520,
+            [2] = 6651,
             [3] = 3755,
         },
         chatShow = true,
@@ -1375,13 +1452,13 @@ return {
         },
         probability = 0,
         quality = 1,
-        id = 9200114,
+        id = 9200108,
     },
-    [9200123] = {
+    [9200122] = {
         superType = 38,
         excursion1 = {
         },
-        order = 23,
+        order = 22,
         pileUp = true,
         condition = {
         },
@@ -1399,12 +1476,12 @@ return {
         },
         content = 0,
         classify = 3,
-        lamp = 1126,
+        lamp = 1125,
         titleLevel = 1,
-        notable = 1325424,
-        showPower = 220,
-        accessdes = 1326425,
-        titleType = 23,
+        notable = 1325423,
+        showPower = 180,
+        accessdes = 1326424,
+        titleType = 22,
         toplimit = 0,
         size2 = {
             [1] = 110,
@@ -1417,7 +1494,7 @@ return {
         reward = {
         },
         displayClassify = 1,
-        showEffect = "effect/title/chenghao_lianghangyuan_zongji/chenghao_lianghangyuan_zongji",
+        showEffect = "effect/title/chenghao_lianghangyuan_chuji/chenghao_lianghangyuan_chuji",
         excursion2 = {
             [1] = {
                 [1] = 5,
@@ -1435,9 +1512,9 @@ return {
         useCast = {
         },
         baseAttribute = {
-            [1] = 31446,
-            [2] = 10378,
-            [3] = 6980,
+            [1] = 26895,
+            [2] = 8978,
+            [3] = 5974,
         },
         chatShow = true,
         title = 0,
@@ -1446,11 +1523,11 @@ return {
         timeDescription = 1326530,
         showPic = "",
         size1 = 0,
-        titleStar = 4,
+        titleStar = 3,
         dealProfit = {
         },
         probability = 0,
         quality = 1,
-        id = 9200123,
+        id = 9200122,
     },
 }

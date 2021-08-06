@@ -13,6 +13,7 @@ function SimulationSummonView:initData(data)
 end
 
 function SimulationSummonView:onRecvSimulationSummonReplace(data)
+	AlertManager:closeLayer(self)
 end
 
 --[[注册事件]]
@@ -162,7 +163,7 @@ function SimulationSummonView:updateSummonItem2(index)
     foo.root:onClick(function()
 		if SimulationSummonDataMgr:checkIsOpenById(summonCfg.id) then
 			if self.data_.lastCid ~= nil and self.data_.lastResult ~= nil then
-				showMessageBox("上一次招募未完成", EC_MessageBoxType.ok, function()
+				showMessageBox(TextDataMgr:getText(190001078), EC_MessageBoxType.ok, function()
 					AlertManager:close()
 					--Utils:openView("summon.SimulationSummonView",self.data_)
 					Utils:openView("summon.SimulationSummonResultView",self.data_.lastCid, self.data_.lastResult)
@@ -202,7 +203,7 @@ function SimulationSummonView:updateSummonItem(index)
 		--self:selectSummon(index)
 		if SimulationSummonDataMgr:checkIsOpenById(summonCfg.id) then
 			if self.data_.lastCid ~= nil and self.data_.lastResult ~= nil then
-				showMessageBox("上一次招募未完成", EC_MessageBoxType.ok, function()
+				showMessageBox(TextDataMgr:getText(190001078), EC_MessageBoxType.ok, function()
 					AlertManager:close()
 					--Utils:openView("summon.SimulationSummonView",self.data_)
 					Utils:openView("summon.SimulationSummonResultView",self.data_.lastCid, self.data_.lastResult)

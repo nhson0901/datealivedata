@@ -1460,7 +1460,9 @@ end
 
 function TeamFightTeamView:updateHandleInfo()
 
-    self.Image_match_state:setVisible(true)
+    if TeamFightDataMgr.nTeamType ~= 6 then  --终焉之战不加自动匹配
+        self.Image_match_state:setVisible(true)
+    end
 
     ---自动匹配
     local isAutoMatch = TeamFightDataMgr:isAutoMatching()

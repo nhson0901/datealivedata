@@ -11980,7 +11980,7 @@ return {
         sort = 2311,
         sortr = "2311",
         name1 = 0,
-        isOpen = false,
+        isOpen = true,
         type1 = 8,
         type3 = {
             [1] = 208002,

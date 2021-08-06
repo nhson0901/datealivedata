@@ -134,7 +134,7 @@ function BlackAndWhiteTaskView:updateItem(item, data)
 	label_TaskName:setTextById(itemInfo.details)
 	
 	local label_Desc =  TFDirector:getChildByPath(item, "Label_desc")
-	label_Desc:setText(itemInfo.extendData.des2)
+	label_Desc:setTextById(itemInfo.extendData.des2 , itemInfo.target)
 
 	local progress = (progressInfo.progress > itemInfo.target and itemInfo.target or progressInfo.progress)
 	

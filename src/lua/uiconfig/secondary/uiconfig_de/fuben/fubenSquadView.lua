@@ -1318,8 +1318,8 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "36",
-													ignoreSize = "True",
+													height = "54",
+													ignoreSize = "False",
 													name = "Image_skayladder",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -1329,9 +1329,8 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionY = -187,
+														PositionY = -179,
 													},
-													visible = "False",
 													width = "178",
 													ZOrder = "1",
 													components = 
@@ -1356,15 +1355,15 @@ local t =
 																OffsetX = 0,
 																OffsetY = 0,
 															},
-															fontSize = "20",
+															fontSize = "18",
 															fontStroke = 
 															{
 																IsStroke = false,
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "23",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_remain_tip",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -1377,10 +1376,10 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = -25,
-																PositionY = -3,
+																PositionX = -19,
+																PositionY = -1,
 															},
-															width = "207",
+															width = "102",
 															ZOrder = "1",
 														},
 														{
@@ -3003,8 +3002,8 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "36",
-													ignoreSize = "True",
+													height = "54",
+													ignoreSize = "False",
 													name = "Image_skayladder",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -3014,7 +3013,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionY = -187,
+														PositionY = -179,
 													},
 													width = "178",
 													ZOrder = "1",
@@ -3047,8 +3046,8 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "23",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_remain_tip",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -3061,10 +3060,10 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = -25,
-																PositionY = -3,
+																PositionX = -19,
+																PositionY = -1,
 															},
-															width = "207",
+															width = "102",
 															ZOrder = "1",
 														},
 														{
@@ -4684,8 +4683,8 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "36",
-													ignoreSize = "True",
+													height = "54",
+													ignoreSize = "False",
 													name = "Image_skayladder",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -4695,7 +4694,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionY = -187,
+														PositionY = -179,
 													},
 													width = "178",
 													ZOrder = "1",
@@ -4728,8 +4727,8 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "23",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_remain_tip",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -4742,10 +4741,10 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = -25,
-																PositionY = -3,
+																PositionX = -19,
+																PositionY = -1,
 															},
-															width = "207",
+															width = "102",
 															ZOrder = "1",
 														},
 														{
@@ -10477,8 +10476,8 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_remain_text",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -10486,14 +10485,15 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "   Male verbleibend",
+																	text = "Male verbleibend",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
+																		PositionX = 23,
 																		PositionY = -126,
 																	},
-																	width = "153",
+																	width = "92",
 																	ZOrder = "1",
 																	components = 
 																	{
@@ -10538,7 +10538,7 @@ local t =
 																			touchScaleEnable = "False",
 																			UILayoutViewModel = 
 																			{
-																				PositionX = 10,
+																				PositionX = -68,
 																			},
 																			width = "42",
 																			ZOrder = "1",
@@ -11173,8 +11173,8 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_remain_text",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -11187,9 +11187,10 @@ local t =
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
+																		PositionX = 23,
 																		PositionY = -126,
 																	},
-																	width = "153",
+																	width = "92",
 																	ZOrder = "1",
 																	components = 
 																	{
@@ -11234,7 +11235,7 @@ local t =
 																			touchScaleEnable = "False",
 																			UILayoutViewModel = 
 																			{
-																				PositionX = 10,
+																				PositionX = -68,
 																			},
 																			width = "42",
 																			ZOrder = "1",
@@ -11870,8 +11871,8 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_remain_text",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -11884,9 +11885,10 @@ local t =
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
+																		PositionX = 23,
 																		PositionY = -126,
 																	},
-																	width = "153",
+																	width = "92",
 																	ZOrder = "1",
 																	components = 
 																	{
@@ -11931,7 +11933,7 @@ local t =
 																			touchScaleEnable = "False",
 																			UILayoutViewModel = 
 																			{
-																				PositionX = 10,
+																				PositionX = -68,
 																			},
 																			width = "42",
 																			ZOrder = "1",
@@ -12050,11 +12052,11 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "38",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_equip_tip",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -12064,10 +12066,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 86,
+												PositionX = 67,
 												PositionY = 112,
 											},
-											width = "190",
+											width = "327",
 											ZOrder = "1",
 											components = 
 											{
@@ -12138,8 +12140,8 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 46,
-														PositionY = -4,
+														PositionX = 131,
+														PositionY = -3,
 													},
 													width = "28",
 													ZOrder = "1",

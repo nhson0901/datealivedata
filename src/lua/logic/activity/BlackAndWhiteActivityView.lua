@@ -35,7 +35,7 @@ function BlackAndWhiteActivityView:refreshView()
 			--costItemId = key
 			--costNum = value
 			self._item:setTexture(GoodsDataMgr:getItemCfg(key).icon)
-			self._cost:setText("消耗" .. value .. "/" .. GoodsDataMgr:getItemCount(key, false))
+			self._cost:setText(TextDataMgr:getText(100000113) .. TextDataMgr:getText(13202307 ,value,GoodsDataMgr:getItemCount(key, false)))
 			--self._uis[index][6]:setScale(0.3)
 			--self._uis[index][7]:setText(value)
 			--self._uis[index][6]:onClick(function()
@@ -51,10 +51,10 @@ function BlackAndWhiteActivityView:refreshView()
 		self.activityId_ = activity[1]
         self.activityInfo = ActivityDataMgr2:getActivityInfo(self.activityId_)
 		
-		local _startyear, _startmonth, _startday = Utils:getDate(self.activityInfo.startTime, true)
+		local _startyear, _startmonth, _startday = Utils:getUTCDateYMD(self.activityInfo.startTime, true , GV_UTC_TIME_ZONE)
 		
-		local _endyear, _endmonth, _endday = Utils:getDate(self.activityInfo.endTime, true)
-		self._time:setText(_startmonth .. "." .. _startday .. " - " .. _endmonth .. "." .. _endday)
+		local _endyear, _endmonth, _endday = Utils:getUTCDateYMD(self.activityInfo.endTime, true , GV_UTC_TIME_ZONE)
+		self._time:setText(_startmonth .. "." .. _startday .. " - " .. _endmonth .. "." .. _endday..GV_UTC_TIME_STRING)
 	end
 	
 	dump(self.activityInfo)

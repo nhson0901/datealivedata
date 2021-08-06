@@ -220,7 +220,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionY = 765,
+								PositionY = 640,
 								relativeToName = "Panel_ui_effect_bottom",
 								nType = 3,
 							},
@@ -9479,7 +9479,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
+										PositionX = 568,
 										PositionY = 134,
 										BottomPosition = 129,
 										relativeToName = "Panel_top",
@@ -9705,8 +9705,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 438,
-												PositionY = 276,
+												PositionX = 488,
+												PositionY = 213,
 												RightPosition = 45,
 												TopPosition = 78,
 												relativeToName = "Panel_practice",
@@ -9790,8 +9790,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 438,
-												PositionY = 204,
+												PositionX = 488,
+												PositionY = 142,
 												RightPosition = 45,
 												TopPosition = 149,
 												relativeToName = "Panel_practice",
@@ -9875,8 +9875,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 438,
-												PositionY = 348,
+												PositionX = 488,
+												PositionY = 286,
 												RightPosition = 45,
 												TopPosition = 5,
 												relativeToName = "Panel_practice",
@@ -10845,7 +10845,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = -230,
+												PositionY = -167,
 												BottomPosition = 114,
 												relativeToName = "Panel_practice",
 												nType = 3,
@@ -11148,7 +11148,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 418,
+										PositionX = 518,
 										PositionY = 69,
 										RightPosition = 400,
 										BottomPosition = 29,
@@ -14470,7 +14470,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 815,
+								PositionX = 915,
 								PositionY = 327,
 								RightPosition = 160,
 								BottomPosition = 303,
@@ -14502,8 +14502,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 518,
-								PositionY = 382,
+								PositionX = 568,
+								PositionY = 320,
 								relativeToName = "Panel_victory",
 								nType = 3,
 								nGravity = 6,
@@ -14581,8 +14581,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 518,
-								PositionY = 663,
+								PositionX = 568,
+								PositionY = 538,
 								TopPosition = 83,
 								relativeToName = "Panel_victory",
 								nType = 3,
@@ -17667,7 +17667,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "65",
+							height = "97",
 							ignoreSize = "False",
 							name = "Panel_skyladder_item",
 							sizepercentx = "0",
@@ -17710,7 +17710,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -105,
+										PositionX = -107,
+										PositionY = 31,
 									},
 									width = "14",
 									ZOrder = "1",
@@ -17741,7 +17742,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "46",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_tip",
 									nTextAlign = "0",
@@ -17755,10 +17756,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -90,
-										PositionY = 10,
+										PositionX = -93,
+										PositionY = 42,
 									},
-									width = "220",
+									width = "210",
 									ZOrder = "1",
 								},
 							},

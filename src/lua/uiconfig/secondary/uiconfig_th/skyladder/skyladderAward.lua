@@ -259,14 +259,14 @@ local t =
 																OffsetX = 0,
 																OffsetY = 0,
 															},
-															fontSize = "28",
+															fontSize = "25",
 															fontStroke = 
 															{
 																IsStroke = false,
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "35",
+															height = "29",
 															ignoreSize = "True",
 															name = "Label_btn_1",
 															nTextAlign = "1",
@@ -282,7 +282,7 @@ local t =
 															{
 																PositionY = 3,
 															},
-															width = "114",
+															width = "92",
 															ZOrder = "1",
 														},
 														{
@@ -327,7 +327,8 @@ local t =
 															{
 																PositionY = -20,
 															},
-															width = "91",
+															visible = "False",
+															width = "101",
 															ZOrder = "1",
 														},
 													},
@@ -383,14 +384,14 @@ local t =
 																OffsetX = 0,
 																OffsetY = 0,
 															},
-															fontSize = "28",
+															fontSize = "25",
 															fontStroke = 
 															{
 																IsStroke = false,
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "35",
+															height = "32",
 															ignoreSize = "True",
 															name = "Label_btn_1",
 															nTextAlign = "1",
@@ -406,7 +407,7 @@ local t =
 															{
 																PositionY = 3,
 															},
-															width = "114",
+															width = "163",
 															ZOrder = "1",
 														},
 														{
@@ -451,7 +452,8 @@ local t =
 															{
 																PositionY = -20,
 															},
-															width = "124",
+															visible = "False",
+															width = "97",
 															ZOrder = "1",
 														},
 													},
@@ -516,7 +518,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "37",
+									height = "34",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -531,9 +533,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -493,
-										PositionY = 209,
+										PositionY = 215,
 									},
-									width = "123",
+									width = "165",
 									ZOrder = "1",
 									components = 
 									{
@@ -561,6 +563,7 @@ local t =
 												PositionX = 129,
 												PositionY = 1,
 											},
+											visible = "False",
 											width = "2",
 											ZOrder = "1",
 										},
@@ -587,6 +590,7 @@ local t =
 												PositionX = 141,
 												PositionY = -2,
 											},
+											visible = "False",
 											width = "14",
 											ZOrder = "1",
 										},
@@ -633,7 +637,8 @@ local t =
 												PositionX = 167,
 												PositionY = -3,
 											},
-											width = "67",
+											visible = "False",
+											width = "40",
 											ZOrder = "1",
 										},
 									},
@@ -708,7 +713,7 @@ local t =
 											{
 												PositionX = 17,
 											},
-											width = "483",
+											width = "547",
 											ZOrder = "1",
 										},
 									},
@@ -876,7 +881,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_stage_name",
 											nTextAlign = "1",
@@ -893,7 +898,7 @@ local t =
 												PositionX = -238,
 												PositionY = 6,
 											},
-											width = "100",
+											width = "122",
 											ZOrder = "1",
 											components = 
 											{
@@ -941,7 +946,7 @@ local t =
 													{
 														PositionY = -21,
 													},
-													width = "68",
+													width = "42",
 													ZOrder = "1",
 												},
 											},
@@ -989,7 +994,7 @@ local t =
 												PositionX = -118,
 												PositionY = 12,
 											},
-											width = "111",
+											width = "216",
 											ZOrder = "1",
 										},
 										{
@@ -1018,7 +1023,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "22",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_taget",
 											nTextAlign = "1",
@@ -1035,7 +1040,7 @@ local t =
 												PositionX = -7,
 												PositionY = 12,
 											},
-											width = "65",
+											width = "121",
 											ZOrder = "1",
 										},
 										{
@@ -1081,7 +1086,7 @@ local t =
 												PositionX = -119,
 												PositionY = -10,
 											},
-											width = "165",
+											width = "136",
 											ZOrder = "1",
 										},
 										{

@@ -1317,8 +1317,8 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "36",
-													ignoreSize = "True",
+													height = "52",
+													ignoreSize = "False",
 													name = "Image_skayladder",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -1328,9 +1328,8 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionY = -187,
+														PositionY = -179,
 													},
-													visible = "False",
 													width = "178",
 													ZOrder = "1",
 													components = 
@@ -1362,8 +1361,8 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "23",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_remain_tip",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -1379,7 +1378,7 @@ local t =
 																PositionX = -25,
 																PositionY = -3,
 															},
-															width = "174",
+															width = "123",
 															ZOrder = "1",
 														},
 														{
@@ -1568,7 +1567,6 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													visible = "False",
 													width = "180",
 													ZOrder = "1",
 													components = 
@@ -3003,8 +3001,8 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "36",
-													ignoreSize = "True",
+													height = "52",
+													ignoreSize = "False",
 													name = "Image_skayladder",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -3014,7 +3012,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionY = -187,
+														PositionY = -179,
 													},
 													width = "178",
 													ZOrder = "1",
@@ -3047,8 +3045,8 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "23",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_remain_tip",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -3064,7 +3062,7 @@ local t =
 																PositionX = -25,
 																PositionY = -3,
 															},
-															width = "174",
+															width = "123",
 															ZOrder = "1",
 														},
 														{
@@ -4684,8 +4682,8 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "36",
-													ignoreSize = "True",
+													height = "52",
+													ignoreSize = "False",
 													name = "Image_skayladder",
 													sizepercentx = "0",
 													sizepercenty = "0",
@@ -4695,7 +4693,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionY = -187,
+														PositionY = -179,
 													},
 													width = "178",
 													ZOrder = "1",
@@ -4728,8 +4726,8 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "23",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_remain_tip",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -4745,7 +4743,7 @@ local t =
 																PositionX = -25,
 																PositionY = -3,
 															},
-															width = "174",
+															width = "123",
 															ZOrder = "1",
 														},
 														{
@@ -9599,7 +9597,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -9908,7 +9905,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -34,
+														PositionX = -30,
 														PositionY = -5,
 													},
 													width = "48",
@@ -10176,18 +10173,20 @@ local t =
 																		OffsetX = 0,
 																		OffsetY = 0,
 																	},
-																	fontSize = "20",
+																	fontSize = "18",
 																	fontStroke = 
 																	{
 																		IsStroke = false,
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_card_name",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
+																	scaleX = "0.8",
+																	scaleY = "0.8",
 																	sizepercentx = "0",
 																	sizepercenty = "0",
 																	sizeType = "0",
@@ -10199,7 +10198,7 @@ local t =
 																	{
 																		PositionY = -76,
 																	},
-																	width = "173",
+																	width = "158",
 																	ZOrder = "1",
 																},
 																{
@@ -10478,14 +10477,14 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "Sisa    x",
+																	text = "Sisa         x",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
 																		PositionY = -126,
 																	},
-																	width = "63",
+																	width = "88",
 																	ZOrder = "1",
 																	components = 
 																	{
@@ -10618,8 +10617,8 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_fubenSquadView_1",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -10634,7 +10633,7 @@ local t =
 																	{
 																		PositionY = -7,
 																	},
-																	width = "174",
+																	width = "132",
 																	ZOrder = "1",
 																},
 															},
@@ -10872,18 +10871,20 @@ local t =
 																		OffsetX = 0,
 																		OffsetY = 0,
 																	},
-																	fontSize = "20",
+																	fontSize = "18",
 																	fontStroke = 
 																	{
 																		IsStroke = false,
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_card_name",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
+																	scaleX = "0.8",
+																	scaleY = "0.8",
 																	sizepercentx = "0",
 																	sizepercenty = "0",
 																	sizeType = "0",
@@ -10895,7 +10896,7 @@ local t =
 																	{
 																		PositionY = -76,
 																	},
-																	width = "173",
+																	width = "158",
 																	ZOrder = "1",
 																},
 																{
@@ -11174,14 +11175,14 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "Sisa    x",
+																	text = "Sisa       x",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
 																		PositionY = -126,
 																	},
-																	width = "63",
+																	width = "78",
 																	ZOrder = "1",
 																	components = 
 																	{
@@ -11314,8 +11315,8 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_fubenSquadView_1",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -11330,7 +11331,7 @@ local t =
 																	{
 																		PositionY = -7,
 																	},
-																	width = "174",
+																	width = "132",
 																	ZOrder = "1",
 																},
 															},
@@ -11569,18 +11570,20 @@ local t =
 																		OffsetX = 0,
 																		OffsetY = 0,
 																	},
-																	fontSize = "20",
+																	fontSize = "18",
 																	fontStroke = 
 																	{
 																		IsStroke = false,
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_card_name",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
+																	scaleX = "0.8",
+																	scaleY = "0.8",
 																	sizepercentx = "0",
 																	sizepercenty = "0",
 																	sizeType = "0",
@@ -11592,7 +11595,7 @@ local t =
 																	{
 																		PositionY = -76,
 																	},
-																	width = "173",
+																	width = "158",
 																	ZOrder = "1",
 																},
 																{
@@ -11871,14 +11874,14 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "Sisa    x",
+																	text = "Sisa         x",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
 																		PositionY = -126,
 																	},
-																	width = "63",
+																	width = "88",
 																	ZOrder = "1",
 																	components = 
 																	{
@@ -12011,8 +12014,8 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_fubenSquadView_1",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -12027,7 +12030,7 @@ local t =
 																	{
 																		PositionY = -7,
 																	},
-																	width = "174",
+																	width = "132",
 																	ZOrder = "1",
 																},
 															},
@@ -12042,11 +12045,11 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "38",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_equip_tip",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -12059,7 +12062,7 @@ local t =
 												PositionX = 86,
 												PositionY = 112,
 											},
-											width = "190",
+											width = "224",
 											ZOrder = "1",
 											components = 
 											{
@@ -12130,7 +12133,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 46,
+														PositionX = 79,
 														PositionY = -4,
 													},
 													width = "28",
@@ -12161,7 +12164,7 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 207,
+												PositionX = 208,
 												PositionY = 131,
 											},
 											UItype = "Button",
@@ -16979,6 +16982,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 

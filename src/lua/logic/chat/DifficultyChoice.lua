@@ -4,11 +4,7 @@ local DifficultyChoice = class("DifficultyChoice", BaseLayer)
 function DifficultyChoice:ctor(params)
     self.super.ctor(self)
     self:showPopAnim(true)
-    if TFGlobalUtils:isConnectMiniServer() then  --英文版打开质点预设
-        self.iconRes = {"D.png","C.png","B.png","A.png","S.png",--[["blackwhite.png"]]}
-    else
-        self.iconRes = {"D.png","C.png","B.png","A.png","S.png","blackwhite.png"}
-    end
+    self.iconRes = {"D.png","C.png","B.png","A.png","S.png","blackwhite.png"}
     
     self:init("lua.uiconfig.chat.difficultyChoice")
 end

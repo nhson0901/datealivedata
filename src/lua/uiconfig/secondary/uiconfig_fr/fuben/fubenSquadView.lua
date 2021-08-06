@@ -9610,7 +9610,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -9663,14 +9662,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_zones_effect_name",
 											nTextAlign = "1",
@@ -9687,7 +9686,7 @@ local t =
 												PositionX = -190,
 												PositionY = -3,
 											},
-											width = "164",
+											width = "136",
 											ZOrder = "1",
 										},
 										{
@@ -9777,14 +9776,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_fight_card_name",
 											nTextAlign = "1",
@@ -9801,7 +9800,7 @@ local t =
 												PositionX = -190,
 												PositionY = -3,
 											},
-											width = "206",
+											width = "171",
 											ZOrder = "1",
 										},
 										{
@@ -9868,7 +9867,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = 25,
+														PositionX = 28,
 														PositionY = -4,
 													},
 													uipanelviewmodel = 
@@ -9898,14 +9897,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "16",
+													fontSize = "13",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "18",
+													height = "15",
 													ignoreSize = "True",
 													name = "Label_cost",
 													nTextAlign = "1",
@@ -9919,10 +9918,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -2,
+														PositionX = -10,
 														PositionY = -6,
 													},
-													width = "51",
+													width = "43",
 													ZOrder = "1",
 												},
 											},
@@ -10480,8 +10479,8 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_remain_text",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -10489,14 +10488,15 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "   tentatives restantes",
+																	text = "tentatives restantes",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
+																		PositionX = 12,
 																		PositionY = -126,
 																	},
-																	width = "164",
+																	width = "120",
 																	ZOrder = "1",
 																	components = 
 																	{
@@ -10541,7 +10541,7 @@ local t =
 																			touchScaleEnable = "False",
 																			UILayoutViewModel = 
 																			{
-																				PositionX = 10,
+																				PositionX = -69,
 																			},
 																			width = "60",
 																			ZOrder = "1",
@@ -11176,8 +11176,8 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_remain_text",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -11185,14 +11185,15 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "   tentatives restantes",
+																	text = "tentatives restantes",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
+																		PositionX = 12,
 																		PositionY = -126,
 																	},
-																	width = "164",
+																	width = "120",
 																	ZOrder = "1",
 																	components = 
 																	{
@@ -11237,7 +11238,7 @@ local t =
 																			touchScaleEnable = "False",
 																			UILayoutViewModel = 
 																			{
-																				PositionX = 10,
+																				PositionX = -69,
 																			},
 																			width = "60",
 																			ZOrder = "1",
@@ -11873,8 +11874,8 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "Label_remain_text",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -11882,14 +11883,15 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "   tentatives restantes",
+																	text = "tentatives restantes",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
+																		PositionX = 12,
 																		PositionY = -126,
 																	},
-																	width = "164",
+																	width = "120",
 																	ZOrder = "1",
 																	components = 
 																	{
@@ -11934,7 +11936,7 @@ local t =
 																			touchScaleEnable = "False",
 																			UILayoutViewModel = 
 																			{
-																				PositionX = 10,
+																				PositionX = -69,
 																			},
 																			width = "60",
 																			ZOrder = "1",
@@ -16993,6 +16995,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -18725,7 +18728,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "26",
+							height = "43",
 							ignoreSize = "False",
 							name = "Panel_effect_item",
 							sizepercentx = "0",
@@ -18793,15 +18796,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "17",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_tip",
 									nTextAlign = "0",
 									nTextHAlign = "0",
@@ -18817,7 +18820,7 @@ local t =
 										PositionX = -196,
 										PositionY = -2,
 									},
-									width = "61",
+									width = "388",
 									ZOrder = "1",
 								},
 								{

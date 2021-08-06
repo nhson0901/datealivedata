@@ -304,6 +304,11 @@ function GiftsView:onTouchEnded(sender, pos)
     end
 
     if self.elvesNpc.isCheck == true then
+        local sid = self.useRoleInfo.sid
+        if tostring(sid) == nil then
+            return
+        end
+            
         RoleDataMgr:sendDonate(self.useRoleInfo.sid,item.id,1)
 
         local spawnAc = {

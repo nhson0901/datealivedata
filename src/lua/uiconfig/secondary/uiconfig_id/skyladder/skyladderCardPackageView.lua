@@ -237,7 +237,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "35",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_card_name",
 											nTextAlign = "1",
@@ -254,7 +254,7 @@ local t =
 												PositionX = -110,
 												PositionY = 49,
 											},
-											width = "115",
+											width = "192",
 											ZOrder = "1",
 										},
 										{
@@ -372,7 +372,7 @@ local t =
 												PositionX = -117,
 												PositionY = -95,
 											},
-											width = "91",
+											width = "194",
 											ZOrder = "1",
 										},
 										{
@@ -395,7 +395,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 108,
+												PositionX = 197,
 												PositionY = -97,
 											},
 											width = "217",
@@ -473,7 +473,7 @@ local t =
 														PositionX = -7,
 														PositionY = 4,
 													},
-													width = "83",
+													width = "76",
 													ZOrder = "1",
 												},
 											},
@@ -581,7 +581,7 @@ local t =
 												PositionX = 57,
 												PositionY = 58,
 											},
-											width = "45",
+											width = "43",
 											ZOrder = "1",
 										},
 										{
@@ -648,7 +648,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_card_num",
 											nTextAlign = "1",
@@ -664,7 +664,7 @@ local t =
 											{
 												PositionY = -78,
 											},
-											width = "82",
+											width = "173",
 											ZOrder = "1",
 										},
 										{
@@ -863,7 +863,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_count",
 									nTextAlign = "1",
@@ -880,7 +880,7 @@ local t =
 										PositionX = -10,
 										PositionY = -124,
 									},
-									width = "121",
+									width = "171",
 									ZOrder = "1",
 									components = 
 									{
@@ -911,7 +911,7 @@ local t =
 												StrokeColor = "#FF486A88",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_remain_count",
 											nTextAlign = "1",
@@ -925,9 +925,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 12,
+												PositionX = -18,
 											},
-											width = "24",
+											width = "18",
 											ZOrder = "1",
 										},
 									},
@@ -1240,7 +1240,7 @@ local t =
 									{
 										PositionX = -6,
 									},
-									width = "98",
+									width = "135",
 									ZOrder = "1",
 								},
 							},
@@ -1427,7 +1427,7 @@ local t =
 												PositionX = 57,
 												PositionY = 58,
 											},
-											width = "45",
+											width = "43",
 											ZOrder = "1",
 										},
 										{
@@ -1487,18 +1487,20 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_card_name",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1510,7 +1512,7 @@ local t =
 											{
 												PositionY = -79,
 											},
-											width = "82",
+											width = "153",
 											ZOrder = "1",
 										},
 										{
@@ -1563,7 +1565,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_use_tip",
 											nTextAlign = "1",
@@ -1579,7 +1581,7 @@ local t =
 											{
 												PositionY = -123,
 											},
-											width = "36",
+											width = "29",
 											ZOrder = "1",
 										},
 									},

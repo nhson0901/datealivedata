@@ -42,13 +42,9 @@ function HuntingInvitationCountHelpView:initUI(ui)
     local ScrollView_help = TFDirector:getChildByPath(self.ui, "ScrollView_help")
     self.ListView_help = UIListView:create(ScrollView_help)
     self.targetItem = TFDirector:getChildByPath(self.Panel_help_item,"target1")
-    --TODO CLOSE
-    if TFGlobalUtils:isConnectMiniServer() then  --英文版打开质点预设
-        self.targetTextIds = {14110156,14110157,14110158,14110159,14110160}
-    else
-        self.targetTextIds = {14110156,14110157,14110158,14110159,14110160,14110461}
-    end 
 
+    self.targetTextIds = {14110156,14110157,14110158,14110159,14110160,14110461}
+   
     self:initContent()
 end
 

@@ -167,7 +167,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_zones_name",
 									nTextAlign = "1",
@@ -184,7 +184,7 @@ local t =
 										PositionX = -543,
 										PositionY = -2,
 									},
-									width = "108",
+									width = "124",
 									ZOrder = "1",
 								},
 								{
@@ -227,10 +227,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -426,
-										PositionY = -5,
+										PositionX = -406,
+										PositionY = -2,
 									},
-									width = "132",
+									width = "159",
 									ZOrder = "1",
 								},
 								{
@@ -332,7 +332,7 @@ local t =
 											{
 												
 											},
-											width = "51",
+											width = "63",
 											ZOrder = "1",
 										},
 									},
@@ -448,7 +448,7 @@ local t =
 													{
 														
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 											},
@@ -526,7 +526,7 @@ local t =
 													{
 														
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 											},
@@ -604,7 +604,7 @@ local t =
 													{
 														
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 											},
@@ -684,7 +684,7 @@ local t =
 											{
 												PositionX = -14,
 											},
-											width = "51",
+											width = "63",
 											ZOrder = "1",
 										},
 										{
@@ -825,7 +825,7 @@ local t =
 													{
 														PositionX = -14,
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 												{
@@ -929,7 +929,7 @@ local t =
 													{
 														PositionX = -14,
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 												{
@@ -1170,7 +1170,7 @@ local t =
 									{
 										
 									},
-									width = "103",
+									width = "96",
 									ZOrder = "1",
 								},
 							},
@@ -1646,7 +1646,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_card_name",
 											nTextAlign = "1",
@@ -1662,7 +1662,7 @@ local t =
 											{
 												PositionY = -76,
 											},
-											width = "82",
+											width = "59",
 											ZOrder = "1",
 										},
 										{
@@ -1732,7 +1732,7 @@ local t =
 												PositionX = 57,
 												PositionY = 58,
 											},
-											width = "45",
+											width = "91",
 											ZOrder = "1",
 										},
 										{
@@ -1778,7 +1778,7 @@ local t =
 												PositionY = -116,
 											},
 											visible = "False",
-											width = "91",
+											width = "101",
 											ZOrder = "1",
 										},
 										{
@@ -1877,7 +1877,7 @@ local t =
 													{
 														
 													},
-													width = "56",
+													width = "54",
 													ZOrder = "1",
 												},
 												{
@@ -1990,7 +1990,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
+													height = "28",
 													ignoreSize = "True",
 													name = "Label_not",
 													nTextAlign = "1",
@@ -2007,7 +2007,7 @@ local t =
 													{
 														PositionY = -9,
 													},
-													width = "98",
+													width = "92",
 													ZOrder = "1",
 												},
 											},
@@ -2055,7 +2055,7 @@ local t =
 												PositionY = -112,
 											},
 											visible = "False",
-											width = "129",
+											width = "125",
 											ZOrder = "1",
 											components = 
 											{

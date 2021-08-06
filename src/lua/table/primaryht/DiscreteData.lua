@@ -5827,13 +5827,13 @@ return {
         id = 61004,
         data = {
             seasonduration = {
-                balancetime = "2021-07-22 22:30:00",
-                endtime = "2021-07-22 23:00:00",
-                opentime = "2021-05-21 05:00:00",
+                balancetime = "2021-10-12 22:30:00",
+                endtime = "2021-10-12 23:00:00",
+                opentime = "2021-08-11 05:00:00",
             },
             season = {
-                numberServer = 1,
-                numberClient = 1,
+                numberServer = 3,
+                numberClient = 3,
             },
             weekduration = {
                 [1] = {

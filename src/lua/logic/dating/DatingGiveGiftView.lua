@@ -771,6 +771,10 @@ function DatingGiveGiftView:registerEvents()
                 end
             end
 
+            local sid = RoleDataMgr:getRoleInfo(self.roleId).sid
+            if tostring(sid) == nil then
+                return
+            end
             RoleDataMgr:sendDonate(RoleDataMgr:getRoleInfo(self.roleId).sid,self.selectItem.id,1)
             self:playGiftWaitVoice()
         end
