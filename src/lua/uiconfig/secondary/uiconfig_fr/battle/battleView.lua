@@ -17672,7 +17672,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "82",
+							height = "66",
 							ignoreSize = "False",
 							name = "Panel_skyladder_item",
 							sizepercentx = "0",
@@ -17716,7 +17716,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -109,
-										PositionY = 25,
+										PositionY = 15,
 									},
 									width = "14",
 									ZOrder = "1",
@@ -17761,10 +17761,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -95,
-										PositionY = 36,
+										PositionX = -96,
+										PositionY = 27,
 									},
-									width = "209",
+									width = "232",
 									ZOrder = "1",
 								},
 							},

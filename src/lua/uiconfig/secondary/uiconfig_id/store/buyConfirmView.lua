@@ -459,7 +459,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = -135,
+										PositionY = -149,
 									},
 									uipanelviewmodel = 
 									{

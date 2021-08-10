@@ -256,7 +256,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 334,
+										PositionX = 292,
 									},
 									UItype = "Button",
 									width = "150",
@@ -362,7 +362,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 335,
+										PositionX = 294,
 										PositionY = -23,
 									},
 									uipanelviewmodel = 
@@ -634,10 +634,10 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 482,
+										PositionX = 461,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "174",
 									ZOrder = "1",
 									components = 
 									{
@@ -707,7 +707,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 38,
+												PositionX = 66,
 											},
 											width = "30",
 											ZOrder = "1",
@@ -739,7 +739,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 482,
+										PositionX = 461,
 										PositionY = -23,
 									},
 									uipanelviewmodel = 
@@ -747,7 +747,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "130",
+									width = "174",
 									ZOrder = "1",
 									components = 
 									{
@@ -778,7 +778,7 @@ local t =
 												PositionY = -23,
 											},
 											UItype = "Button",
-											width = "130",
+											width = "174",
 											ZOrder = "1",
 											components = 
 											{
@@ -849,7 +849,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 38,
+														PositionX = 66,
 													},
 													width = "30",
 													ZOrder = "1",
@@ -882,7 +882,7 @@ local t =
 												PositionY = -70,
 											},
 											UItype = "Button",
-											width = "130",
+											width = "174",
 											ZOrder = "1",
 											components = 
 											{
@@ -952,7 +952,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 38,
+														PositionX = 66,
 													},
 													width = "30",
 													ZOrder = "1",

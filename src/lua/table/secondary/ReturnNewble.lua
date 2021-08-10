@@ -1233,7 +1233,7 @@ return {
         weight = 4,
         status = 2,
         titleIcon = "ui/activity/picture/icon75.png",
-        details = "{\"beginTime\":\"2021-08-06 00:00:00\",\"endTime\":\"2021-08-20 23:59:59\",\"showEndTime\":\"2021-08-24 23:59:59\",\"activityShowType\":3}",
+        details = "{\"beginTime\":\"2021-08-11 00:00:00\",\"endTime\":\"2021-08-20 23:59:59\",\"showEndTime\":\"2021-08-20 23:59:59\",\"activityShowType\":3,\"name\":14110424}",
         type = 1013,
     },
     [200041] = {

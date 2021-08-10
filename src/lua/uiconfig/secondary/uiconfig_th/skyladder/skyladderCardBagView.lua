@@ -204,7 +204,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_zones_name",
 									nTextAlign = "1",
@@ -221,7 +221,7 @@ local t =
 										PositionX = -543,
 										PositionY = -2,
 									},
-									width = "108",
+									width = "124",
 									ZOrder = "1",
 								},
 								{
@@ -264,10 +264,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -426,
+										PositionX = -397,
 										PositionY = -5,
 									},
-									width = "132",
+									width = "159",
 									ZOrder = "1",
 								},
 								{
@@ -296,7 +296,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_cost",
 									nTextAlign = "1",
@@ -310,10 +310,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 129,
-										PositionY = -7,
+										PositionX = 71,
+										PositionY = -8,
 									},
-									width = "72",
+									width = "46",
 									ZOrder = "1",
 								},
 								{
@@ -343,8 +343,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 241,
-										PositionY = -6,
+										PositionX = 183,
+										PositionY = -7,
 									},
 									uipanelviewmodel = 
 									{
@@ -377,7 +377,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 334,
+										PositionX = 293,
 									},
 									UItype = "Button",
 									width = "150",
@@ -453,7 +453,7 @@ local t =
 											{
 												
 											},
-											width = "51",
+											width = "63",
 											ZOrder = "1",
 										},
 									},
@@ -483,7 +483,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 335,
+										PositionX = 294,
 										PositionY = -23,
 									},
 									uipanelviewmodel = 
@@ -569,7 +569,7 @@ local t =
 													{
 														
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 											},
@@ -647,7 +647,7 @@ local t =
 													{
 														
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 											},
@@ -725,7 +725,7 @@ local t =
 													{
 														
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 											},
@@ -755,10 +755,10 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 482,
+										PositionX = 461,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "170",
 									ZOrder = "1",
 									components = 
 									{
@@ -805,7 +805,7 @@ local t =
 											{
 												PositionX = -14,
 											},
-											width = "51",
+											width = "63",
 											ZOrder = "1",
 										},
 										{
@@ -828,7 +828,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 38,
+												PositionX = 67,
 											},
 											width = "30",
 											ZOrder = "1",
@@ -860,7 +860,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 482,
+										PositionX = 461,
 										PositionY = -23,
 									},
 									uipanelviewmodel = 
@@ -868,7 +868,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "130",
+									width = "170",
 									ZOrder = "1",
 									components = 
 									{
@@ -899,7 +899,7 @@ local t =
 												PositionY = -23,
 											},
 											UItype = "Button",
-											width = "130",
+											width = "170",
 											ZOrder = "1",
 											components = 
 											{
@@ -946,7 +946,7 @@ local t =
 													{
 														PositionX = -15,
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 												{
@@ -970,7 +970,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 38,
+														PositionX = 67,
 													},
 													width = "30",
 													ZOrder = "1",
@@ -1003,7 +1003,7 @@ local t =
 												PositionY = -70,
 											},
 											UItype = "Button",
-											width = "130",
+											width = "170",
 											ZOrder = "1",
 											components = 
 											{
@@ -1051,7 +1051,7 @@ local t =
 														PositionX = -14,
 														PositionY = 1,
 													},
-													width = "47",
+													width = "58",
 													ZOrder = "1",
 												},
 												{
@@ -1074,7 +1074,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 38,
+														PositionX = 67,
 													},
 													width = "30",
 													ZOrder = "1",
@@ -1627,7 +1627,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_card_name",
 											nTextAlign = "1",
@@ -1643,7 +1643,7 @@ local t =
 											{
 												PositionY = -76,
 											},
-											width = "82",
+											width = "59",
 											ZOrder = "1",
 										},
 										{
@@ -1713,7 +1713,7 @@ local t =
 												PositionX = 57,
 												PositionY = 58,
 											},
-											width = "45",
+											width = "91",
 											ZOrder = "1",
 										},
 										{
@@ -1770,7 +1770,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
+													height = "28",
 													ignoreSize = "True",
 													name = "Label_not",
 													nTextAlign = "1",
@@ -1787,7 +1787,7 @@ local t =
 													{
 														PositionY = -9,
 													},
-													width = "98",
+													width = "92",
 													ZOrder = "1",
 												},
 											},
@@ -1796,7 +1796,7 @@ local t =
 											controlID = "Label_use_tip_Button_card_Panel_cardItem_Panel_prefab_Panel-skyladderCardBagView_Layer1_skyladder_Game",
 											UUID = "28baede6_b760_4a50_a8e9_18d7a2746021",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -1832,9 +1832,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
+												PositionX = 42,
 												PositionY = -112,
 											},
-											width = "129",
+											width = "125",
 											ZOrder = "1",
 											components = 
 											{
@@ -1879,7 +1880,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 30,
+														PositionX = 10,
 													},
 													width = "14",
 													ZOrder = "1",
@@ -1967,7 +1968,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_disabled",
 											nTextAlign = "1",
@@ -1983,7 +1984,7 @@ local t =
 											{
 												PositionY = -7,
 											},
-											width = "91",
+											width = "146",
 											ZOrder = "1",
 										},
 									},
