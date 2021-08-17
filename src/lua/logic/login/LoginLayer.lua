@@ -618,15 +618,22 @@ function LoginLayer:loginGameServerSuccess(event)
     if currentScene ~= nil and currentScene.getTopLayer then
         if currentScene.__cname == "LoginScene" then
         	MainPlayer:stopLoadTimer()
-        	local playerLv = MainPlayer:getPlayerLv()
-        	if playerLv <= 5 then
-        		MainPlayer:enterGame()
-            	AlertManager:changeScene(SceneType.MainScene)
-        	else
+        	if GOOGLE_ASSERT_PACK then
         		TFAssetsManager:downloadFullAssets(function()
         			MainPlayer:enterGame()
             		AlertManager:changeScene(SceneType.MainScene)
         		end)
+        	else
+        		local playerLv = MainPlayer:getPlayerLv()
+	        	if playerLv <= 5 then
+	        		MainPlayer:enterGame()
+	            	AlertManager:changeScene(SceneType.MainScene)
+	        	else
+	        		TFAssetsManager:downloadFullAssets(function()
+	        			MainPlayer:enterGame()
+	            		AlertManager:changeScene(SceneType.MainScene)
+	        		end)
+	        	end
         	end
         end
 	end

@@ -52995,7 +52995,7 @@ return {
         },
         gainEnergy = 0,
         continuousAction = "",
-        cd = 12000,
+        cd = 10000,
         useWarn = "",
         keyTap = "",
         othershiftSkill = {
@@ -73577,7 +73577,7 @@ return {
         },
         gainEnergy = 0,
         continuousAction = "",
-        cd = 12000,
+        cd = 10000,
         useWarn = "",
         keyTap = "",
         othershiftSkill = {
@@ -83832,7 +83832,7 @@ return {
         },
         gainEnergy = 0,
         continuousAction = "",
-        cd = 15000,
+        cd = 13000,
         useWarn = "",
         keyTap = "",
         othershiftSkill = {

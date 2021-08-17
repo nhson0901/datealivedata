@@ -15813,11 +15813,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "34",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_hwx_boss",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -15831,7 +15831,7 @@ local t =
 										PositionY = 40,
 									},
 									visible = "False",
-									width = "152",
+									width = "185",
 									ZOrder = "1",
 									components = 
 									{
@@ -15871,7 +15871,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "作战信息",
+											text = "Battle Info",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -15879,7 +15879,7 @@ local t =
 												PositionX = 10,
 												PositionY = -2,
 											},
-											width = "98",
+											width = "136",
 											ZOrder = "1",
 										},
 										{
@@ -16037,7 +16037,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "本轮作战用时",
+													text = "Spend Time",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -16045,7 +16045,7 @@ local t =
 														PositionX = -194,
 														PositionY = 15,
 													},
-													width = "135",
+													width = "107",
 													ZOrder = "1",
 												},
 												{
@@ -16083,7 +16083,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "本轮最佳评分",
+													text = "Best score",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -16091,7 +16091,7 @@ local t =
 														PositionX = -194,
 														PositionY = -18,
 													},
-													width = "135",
+													width = "91",
 													ZOrder = "1",
 												},
 											},

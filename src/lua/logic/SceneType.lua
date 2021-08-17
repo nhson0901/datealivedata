@@ -26,5 +26,6 @@ SceneType.OSD 				= "lua.logic.osd.BaseOSDScene"
 SceneType.TRANSITION        = "lua.logic.osd.TransitionScene" --组队战斗场景切换过渡场景
 SceneType.AmusementPack 	= "lua.logic.2020ZNQ.AmusementPackScene"
 SceneType.PACKBRANCH		= "lua.logic.packbranch.PackBranchScene"
+SceneType.GOOGLEASSETPACK		= "lua.logic.googleAssetPack.GoogleAssetPackScene"
 
 return SceneType

@@ -14,6 +14,12 @@ if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID  and HeitaoSdk and tonumber(Heitao
     EX_ASSETS_ENABLE = true
 end
 
+--google asset-delivery 包
+GOOGLE_ASSERT_PACK = false
+if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID  and HeitaoSdk and (tonumber(HeitaoSdk.getplatformId()) == 5) and (TFClientGameAssetManager ~= nil)) then 
+    GOOGLE_ASSERT_PACK = true
+end
+
 -- 如果是模拟器则直接打开调试模式
 if not (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32) then
     --非win32下只做日志输出
@@ -298,7 +304,12 @@ function TFGameStartup:run(strrest)
     if strrest == "CompleteUpdate" then
         print("============检查更新完成 CompleteUpdate==============")
         self:loadGameInitFile(function ()
-            AlertManager:changeScene(SceneType.PACKBRANCH)
+
+            if GOOGLE_ASSERT_PACK then
+                AlertManager:changeScene(SceneType.GOOGLEASSETPACK)
+            else
+                AlertManager:changeScene(SceneType.PACKBRANCH)
+            end
 
             -- TODO 模拟器下不显示LOGO
             -- -- if CC_TARGET_PLATFORM == CC_PLATFORM_WIN32 then

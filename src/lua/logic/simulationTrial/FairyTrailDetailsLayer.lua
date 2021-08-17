@@ -701,7 +701,7 @@ function FairyTrailDetailsLayer:updateEquipLayer()
             Image_skill_desc:setOpacity(255)
             local size = Label_skill_desc:getContentSize()
             size.width = size.width + 20
-            size.height = size.height
+            size.height = size.height + 20
             Image_skill_desc:setContentSize(size)
             Image_skill_desc:runAction(Sequence:create({DelayTime:create(2), FadeOut:create(0.5)}))
             end)

@@ -713,7 +713,7 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 2,
+												PositionX = 3,
 												PositionY = -120,
 											},
 											uipanelviewmodel = 
@@ -932,7 +932,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 4,
-												PositionY = -104,
+												PositionY = -111,
 											},
 											width = "290",
 											ZOrder = "1",

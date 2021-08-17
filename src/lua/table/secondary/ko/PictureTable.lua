@@ -1586,8 +1586,8 @@ return {
     },
     [318] = {
         id = 318,
-        res = "ui/mainLayer/new_ui/btn_zhanling.png",
-        res_en = "ui/mainLayer/new_ui/btn_zhanling_ko.png",
+        res = "ui/mainLayer/new_ui/btn_koanling.png",
+        res_en = "ui/mainLayer/new_ui/btn_koanling_ko.png",
     },
     [319] = {
         id = 319,
@@ -2976,8 +2976,8 @@ return {
     },
     [596] = {
         id = 596,
-        res = "icon/fuben/levelIcon/Team/2_zhihui_1.png",
-        res_en = "icon/fuben/levelIcon/Team/2_zhihui_1_ko.png",
+        res = "icon/fuben/levelIcon/Team/2_koihui_1.png",
+        res_en = "icon/fuben/levelIcon/Team/2_koihui_1_ko.png",
     },
     [597] = {
         id = 597,
@@ -3951,8 +3951,8 @@ return {
     },
     [791] = {
         id = 791,
-        res = "icon/fuben/levelIcon/Team/2_zhihui.png",
-        res_en = "icon/fuben/levelIcon/Team/2_zhihui_ko.png",
+        res = "icon/fuben/levelIcon/Team/2_koihui.png",
+        res_en = "icon/fuben/levelIcon/Team/2_koihui_ko.png",
     },
     [792] = {
         id = 792,
@@ -4091,8 +4091,8 @@ return {
     },
     [819] = {
         id = 819,
-        res = "icon/fuben/levelIcon/Team/2_zhihui_2.png",
-        res_en = "icon/fuben/levelIcon/Team/2_zhihui_2_ko.png",
+        res = "icon/fuben/levelIcon/Team/2_koihui_2.png",
+        res_en = "icon/fuben/levelIcon/Team/2_koihui_2_ko.png",
     },
     [820] = {
         id = 820,
@@ -5171,8 +5171,8 @@ return {
     },
     [1035] = {
         id = 1035,
-        res = "ui/activity/whiteQueenAssist/taskActivity/bg_zhaohuan.png",
-        res_en = "ui/activity/whiteQueenAssist/taskActivity/bg_zhaohuan_ko.png",
+        res = "ui/activity/whiteQueenAssist/taskActivity/bg_koaohuan.png",
+        res_en = "ui/activity/whiteQueenAssist/taskActivity/bg_koaohuan_ko.png",
     },
     [1036] = {
         id = 1036,
@@ -6508,5 +6508,105 @@ return {
         id = 1302,
         res = "ui/summon/063.png",
         res_en = "ui/summon/063_ko.png",
+    },
+    [1303] = {
+        id = 1303,
+        res = "ui/summon/079.png",
+        res_en = "ui/summon/079_ko.png",
+    },
+    [1304] = {
+        id = 1304,
+        res = "ui/summon/080.png",
+        res_en = "ui/summon/080_ko.png",
+    },
+    [1305] = {
+        id = 1305,
+        res = "ui/summon/081.png",
+        res_en = "ui/summon/081_ko.png",
+    },
+    [1306] = {
+        id = 1306,
+        res = "ui/summon/082.png",
+        res_en = "ui/summon/082_ko.png",
+    },
+    [1307] = {
+        id = 1307,
+        res = "ui/activity/picture/icon243.png",
+        res_en = "ui/activity/picture/icon243_ko.png",
+    },
+    [1308] = {
+        id = 1308,
+        res = "ui/activity/picture/icon245.png",
+        res_en = "ui/activity/picture/icon245_ko.png",
+    },
+    [1309] = {
+        id = 1309,
+        res = "ui/activity/picture/icon246.png",
+        res_en = "ui/activity/picture/icon246_ko.png",
+    },
+    [1310] = {
+        id = 1310,
+        res = "ui/activity/picture/icon247.png",
+        res_en = "ui/activity/picture/icon247_ko.png",
+    },
+    [1311] = {
+        id = 1311,
+        res = "ui/activity/picture/icon248.png",
+        res_en = "ui/activity/picture/icon248_ko.png",
+    },
+    [1312] = {
+        id = 1312,
+        res = "ui/activity/picture/icon249.png",
+        res_en = "ui/activity/picture/icon249_ko.png",
+    },
+    [1313] = {
+        id = 1313,
+        res = "ui/activity/picture/ad243.png",
+        res_en = "ui/activity/picture/ad243_ko.png",
+    },
+    [1314] = {
+        id = 1314,
+        res = "ui/activity/picture/ad245.png",
+        res_en = "ui/activity/picture/ad245_ko.png",
+    },
+    [1315] = {
+        id = 1315,
+        res = "ui/activity/picture/ad246.png",
+        res_en = "ui/activity/picture/ad246_ko.png",
+    },
+    [1316] = {
+        id = 1316,
+        res = "ui/activity/picture/ad247.png",
+        res_en = "ui/activity/picture/ad247_ko.png",
+    },
+    [1317] = {
+        id = 1317,
+        res = "ui/activity/picture/ad248.png",
+        res_en = "ui/activity/picture/ad248_ko.png",
+    },
+    [1318] = {
+        id = 1318,
+        res = "icon/equipment/name/zhenshizhiai.png",
+        res_en = "icon/equipment/name/zhenshizhiai_ko.png",
+    },
+    [1319] = {
+        id = 1319,
+        res = "icon/equipment/name/zaicixiangjian.png",
+        res_en = "icon/equipment/name/zaicixiangjian_ko.png",
+    },
+    [1320] = {
+        id = 1320,
+        res = "icon/equipment/name/xujiashijie.png",
+        res_en = "icon/equipment/name/xujiashijie_ko.png",
+    },
+    [1321] = {
+        id = 1321,
+        res = "icon/equipment/name/wuxia.png",
+        res_en = "icon/equipment/name/wuxia_ko.png",
+    },
+    [1322] = {
+        id = 1322,
+        res = "icon/equipment/name/tianzhen.png",
+        res_en = "icon/equipment/name/tianzhen_ko.png",
     },
 }

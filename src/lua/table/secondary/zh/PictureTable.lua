@@ -6144,4 +6144,114 @@ return {
         res = "ui/activity/groupPurchase/rule_explain.png",
         res_en = "ui/activity/groupPurchase/rule_explain_zh.png",
     },
+    [1230] = {
+        id = 1230,
+        res = "ui/summon/079.png",
+        res_en = "ui/summon/079_zh.png",
+    },
+    [1231] = {
+        id = 1231,
+        res = "ui/summon/080.png",
+        res_en = "ui/summon/080_zh.png",
+    },
+    [1232] = {
+        id = 1232,
+        res = "ui/summon/081.png",
+        res_en = "ui/summon/081_zh.png",
+    },
+    [1233] = {
+        id = 1233,
+        res = "ui/summon/082.png",
+        res_en = "ui/summon/082_zh.png",
+    },
+    [1234] = {
+        id = 1234,
+        res = "ui/activity/picture/icon243.png",
+        res_en = "ui/activity/picture/icon243_zh.png",
+    },
+    [1235] = {
+        id = 1235,
+        res = "ui/activity/picture/icon245.png",
+        res_en = "ui/activity/picture/icon245_zh.png",
+    },
+    [1236] = {
+        id = 1236,
+        res = "ui/activity/picture/icon246.png",
+        res_en = "ui/activity/picture/icon246_zh.png",
+    },
+    [1237] = {
+        id = 1237,
+        res = "ui/activity/picture/icon247.png",
+        res_en = "ui/activity/picture/icon247_zh.png",
+    },
+    [1238] = {
+        id = 1238,
+        res = "ui/activity/picture/icon248.png",
+        res_en = "ui/activity/picture/icon248_zh.png",
+    },
+    [1239] = {
+        id = 1239,
+        res = "ui/activity/picture/icon249.png",
+        res_en = "ui/activity/picture/icon249_zh.png",
+    },
+    [1240] = {
+        id = 1240,
+        res = "ui/activity/picture/ad243.png",
+        res_en = "ui/activity/picture/ad243_zh.png",
+    },
+    [1241] = {
+        id = 1241,
+        res = "ui/activity/picture/ad245.png",
+        res_en = "ui/activity/picture/ad245_zh.png",
+    },
+    [1242] = {
+        id = 1242,
+        res = "ui/activity/picture/ad246.png",
+        res_en = "ui/activity/picture/ad246_zh.png",
+    },
+    [1243] = {
+        id = 1243,
+        res = "ui/activity/picture/ad247.png",
+        res_en = "ui/activity/picture/ad247_zh.png",
+    },
+    [1244] = {
+        id = 1244,
+        res = "ui/activity/picture/ad248.png",
+        res_en = "ui/activity/picture/ad248_zh.png",
+    },
+    [1245] = {
+        id = 1245,
+        res = "icon/equipment/name/zhenshizhiai.png",
+        res_en = "icon/equipment/name/zhenshizhiai_zh.png",
+    },
+    [1246] = {
+        id = 1246,
+        res = "icon/equipment/name/zaicixiangjian.png",
+        res_en = "icon/equipment/name/zaicixiangjian_zh.png",
+    },
+    [1247] = {
+        id = 1247,
+        res = "icon/equipment/name/xujiashijie.png",
+        res_en = "icon/equipment/name/xujiashijie_zh.png",
+    },
+    [1248] = {
+        id = 1248,
+        res = "icon/equipment/name/wuxia.png",
+        res_en = "icon/equipment/name/wuxia_zh.png",
+    },
+    [1249] = {
+        id = 1249,
+        res = "icon/equipment/name/tianzhen.png",
+        res_en = "icon/equipment/name/tianzhen_zh.png",
+    },
+    [1250] = {
+        id = 1250,
+        res = "icon/equipment/suit/chunjie.png",
+        res_en = "icon/equipment/suit/chunjie_zh.png",
+    },
+    [1251] = {
+        id = 1251,
+        res = "icon/equipment/suit/ruler.png",
+        res_en = "icon/equipment/suit/ruler_zh.png",
+    },
 }
