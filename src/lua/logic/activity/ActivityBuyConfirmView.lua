@@ -165,36 +165,31 @@ function ActivityBuyConfirmView:registerEvents()
 
     self.TextField_buyNum:addMEListener(TFTEXTFIELD_DETACH, function(input)
         local text = input:getText()
-        if text == "" or tonumber(text)<=0 then
+        if text == "" or tonumber(text) <= 0 then
             text = self.oldInputText
         end
-        input:setText(text)
-        self.inputLayer_:listener(input:getText())
-        self.selectNum = tonumber(text)
+        
+        local numText = tonumber(text)
+        if numText then
+            local isCan,leftTimes =  ActivityDataMgr2:getRemainBuyCount(self.activityInfo_.activityType, self.itemId_)
+            local count = ActivityDataMgr2:getMaxBuyCount(self.activityInfo_.activityType, self.itemId_)
+            local value = math.min(numText, math.min(count, (leftTimes or count)))
+
+            input:setText(value)
+            self.inputLayer_:listener(value)
+            self.selectNum = value
+        end
     end)
+
     self.TextField_buyNum:addMEListener(TFTEXTFIELD_ATTACH, function(input)
         self.inputLayer_:show()
         self.inputLayer_:listener(input:getText())
         self.oldInputText = input:getText()
     end)
+
+
     self.TextField_buyNum:addMEListener(TFTEXTFIELD_TEXTCHANGE, function(input)
-        local text = input:getText()
-        if text ~= "" then
-            local new_text = string.gsub(text, "[^0-9]", "")
-            if tonumber(text) <=0 then
-                new_text = input:getText()
-            else
-                local isCan,leftTimes =  ActivityDataMgr2:getRemainBuyCount(self.activityInfo_.activityType, self.itemId_)
-                local count = ActivityDataMgr2:getMaxBuyCount(self.activityInfo_.activityType, self.itemId_)
-                new_text = math.min(count , tonumber(text))
-                new_text = math.min(new_text , leftTimes)
-            end
-            input:setText(new_text)
-            self.inputLayer_:listener(input:getText())
-        else
-            self.inputLayer_:listener(input:getText())
-        end
-        
+        self.inputLayer_:listener(input:getText())
     end)
 end
 

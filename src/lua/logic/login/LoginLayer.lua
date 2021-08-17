@@ -245,8 +245,18 @@ function LoginLayer:initUI(ui)
     self.Label_serverName = TFDirector:getChildByPath(self.Panel_serverList, "Label_serverName")
     self.Label_serverName:setTextById(800090)
 
-    if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectMiniServer() then
-    	self.Label_serverName:setFontColor(ccc3(255 , 255 , 255))
+    if TFGlobalUtils:isConnectEnServer() then
+    	if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
+    		self.Label_serverName:setFontColor(ccc3(254 , 200 , 253))
+    	else
+    		self.Label_serverName:setFontColor(ccc3(255 , 255 , 255))
+    	end
+    elseif TFGlobalUtils:isConnectMiniServer() then
+    	if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
+    		self.Label_serverName:setFontColor(ccc3(254 , 200 , 253))
+    	else
+    		self.Label_serverName:setFontColor(ccc3(255 , 255 , 255))
+    	end
     end
 
     self.gameServerList = TFDirector:getChildByPath(ui, "game_serverList")

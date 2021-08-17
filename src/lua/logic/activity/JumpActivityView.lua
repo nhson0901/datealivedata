@@ -41,7 +41,6 @@ function JumpActivityView:initUI( ui )
 	local act_time = TFDirector:getChildByPath(ui, "act_time")
 	local act_timeStart = TFDirector:getChildByPath(ui, "act_timeStart")
 	local act_timeEnd = TFDirector:getChildByPath(ui, "act_timeEnd")
-
     if self.activityInfo.extendData.dateRstring then
     	local dateStyle = self.activityInfo.extendData.dateStyle
     	local startDateStr = Utils:getUTCDateString(self.activityInfo.startTime, dateStyle)
@@ -59,7 +58,6 @@ function JumpActivityView:initUI( ui )
 		year, month, day = Utils:getUTCDateYMD(self.activityInfo.endTime or 0, false , GV_UTC_TIME_ZONE)
 		act_timeEnd:setText(TextDataMgr:getText(1410001,year, month, day)..GV_UTC_TIME_STRING)
 	end
-
 	if self.activityInfo.extendData.skewX then
 		self.label_date:setSkewX(self.activityInfo.extendData.skewX)
 		self.label_time:setSkewX(self.activityInfo.extendData.skewX)
@@ -86,8 +84,12 @@ function JumpActivityView:initUI( ui )
 			-- end
 			self.Button_jump:getChildByName("Label_hunterLevelActivity_1"):setPositionX(0)
 			self.Button_jump:getChildByName("Label_hunterLevelActivity_1"):setFontColor(ccc3(255 , 0 , 0))
+		elseif self.activityInfo.id == 208 then  --海王星跳转试炼按钮位置调整
+			self.Button_jump:setPosition(101 , 17)
 		else
-			self.label_date:setPosition(400 , 250)
+			if self.activityInfo.extendData.uiName ~= "jumpActivityView3" then
+				self.label_date:setPosition(400 , 250)
+			end
 		end
 		if self.Button_jump:getChildByName("label_jump") then
 			self.Button_jump:getChildByName("label_jump"):hide()

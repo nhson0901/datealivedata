@@ -2405,6 +2405,7 @@ end
 function BattleView:onBossWarning(callFunc)
     --TODO CLOSE 海外逻辑
     TimeOut(function()
+        if self.Panel_ui_effect_top == nil then return end
         local size = self.Panel_ui_effect_top:getSize()
 
         local skeletonNode = ResLoader.createEffect("battle_enemy",1)

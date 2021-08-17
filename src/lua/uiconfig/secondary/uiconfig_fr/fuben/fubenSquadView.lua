@@ -1513,8 +1513,8 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "23",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_disable_type",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -1529,7 +1529,7 @@ local t =
 															{
 																PositionY = 11,
 															},
-															width = "125",
+															width = "170",
 															ZOrder = "1",
 														},
 													},
@@ -1738,14 +1738,14 @@ local t =
 																		OffsetX = 0,
 																		OffsetY = 0,
 																	},
-																	fontSize = "18",
+																	fontSize = "16",
 																	fontStroke = 
 																	{
 																		IsStroke = false,
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "21",
+																	height = "18",
 																	ignoreSize = "True",
 																	name = "Label_remain_tip",
 																	nTextAlign = "1",
@@ -1762,7 +1762,7 @@ local t =
 																		PositionX = -25,
 																		PositionY = -3,
 																	},
-																	width = "116",
+																	width = "104",
 																	ZOrder = "1",
 																},
 																{
@@ -1909,7 +1909,7 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "获取加成 20%",
+																	text = "Get 20% extra",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
@@ -1917,7 +1917,7 @@ local t =
 																		PositionX = 53,
 																		PositionY = 15,
 																	},
-																	width = "111",
+																	width = "107",
 																	ZOrder = "1",
 																},
 																{
@@ -3198,8 +3198,8 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "23",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_disable_type",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -3214,7 +3214,7 @@ local t =
 															{
 																PositionY = 11,
 															},
-															width = "125",
+															width = "170",
 															ZOrder = "1",
 														},
 													},
@@ -3421,14 +3421,14 @@ local t =
 																		OffsetX = 0,
 																		OffsetY = 0,
 																	},
-																	fontSize = "18",
+																	fontSize = "16",
 																	fontStroke = 
 																	{
 																		IsStroke = false,
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "21",
+																	height = "18",
 																	ignoreSize = "True",
 																	name = "Label_remain_tip",
 																	nTextAlign = "1",
@@ -3445,7 +3445,7 @@ local t =
 																		PositionX = -25,
 																		PositionY = -3,
 																	},
-																	width = "116",
+																	width = "104",
 																	ZOrder = "1",
 																},
 																{
@@ -3592,7 +3592,7 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "获取加成 20%",
+																	text = "Get 20% extra",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
@@ -3600,7 +3600,7 @@ local t =
 																		PositionX = 53,
 																		PositionY = 15,
 																	},
-																	width = "111",
+																	width = "107",
 																	ZOrder = "1",
 																},
 																{
@@ -4881,8 +4881,8 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "23",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_disable_type",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -4897,7 +4897,7 @@ local t =
 															{
 																PositionY = 11,
 															},
-															width = "125",
+															width = "170",
 															ZOrder = "1",
 														},
 													},
@@ -5104,14 +5104,14 @@ local t =
 																		OffsetX = 0,
 																		OffsetY = 0,
 																	},
-																	fontSize = "18",
+																	fontSize = "16",
 																	fontStroke = 
 																	{
 																		IsStroke = false,
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "21",
+																	height = "18",
 																	ignoreSize = "True",
 																	name = "Label_remain_tip",
 																	nTextAlign = "1",
@@ -5128,7 +5128,7 @@ local t =
 																		PositionX = -25,
 																		PositionY = -3,
 																	},
-																	width = "116",
+																	width = "104",
 																	ZOrder = "1",
 																},
 																{
@@ -5210,7 +5210,6 @@ local t =
 																Layout="Absolute",
 																nType = "0"
 															},
-															visible = "False",
 															width = "180",
 															ZOrder = "1",
 															components = 
@@ -5276,7 +5275,7 @@ local t =
 																	sizepercenty = "0",
 																	sizeType = "0",
 																	srcBlendFunc = "770",
-																	text = "获取加成 20%",
+																	text = "Get 20% extra",
 																	touchAble = "False",
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
@@ -5284,7 +5283,7 @@ local t =
 																		PositionX = 53,
 																		PositionY = 15,
 																	},
-																	width = "111",
+																	width = "107",
 																	ZOrder = "1",
 																},
 																{
@@ -9610,6 +9609,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -12234,15 +12234,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "26",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_fighting",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -12257,7 +12257,7 @@ local t =
 											{
 												
 											},
-											width = "199",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -15315,7 +15315,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -15330,8 +15329,8 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "34",
-									ignoreSize = "True",
+									height = "39",
+									ignoreSize = "False",
 									name = "Image_hwx_title",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -15344,7 +15343,7 @@ local t =
 										PositionX = 117,
 										PositionY = 158,
 									},
-									width = "186",
+									width = "425",
 									ZOrder = "1",
 									components = 
 									{
@@ -15368,7 +15367,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -15414,14 +15413,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_hwx_desc_title",
 											nTextAlign = "1",
@@ -15438,7 +15437,7 @@ local t =
 												PositionX = 11,
 												PositionY = -2,
 											},
-											width = "351",
+											width = "290",
 											ZOrder = "1",
 										},
 									},
@@ -15491,7 +15490,7 @@ local t =
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "34",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_reward_title_line",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -15501,10 +15500,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -95,
+												PositionX = 18,
 												PositionY = 73,
 											},
-											width = "166",
+											width = "400",
 											ZOrder = "1",
 										},
 										{
@@ -15526,14 +15525,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_award_title",
 											nTextAlign = "1",
@@ -15550,7 +15549,7 @@ local t =
 												PositionX = -175,
 												PositionY = 70,
 											},
-											width = "318",
+											width = "263",
 											ZOrder = "1",
 										},
 										{
@@ -15630,7 +15629,7 @@ local t =
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "34",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_hwx_buff",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -15643,7 +15642,7 @@ local t =
 										PositionX = 119,
 										PositionY = 40,
 									},
-									width = "152",
+									width = "241",
 									ZOrder = "1",
 									components = 
 									{
@@ -15713,14 +15712,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_hwx_desc_title",
 											nTextAlign = "1",
@@ -15729,7 +15728,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "关卡效果",
+											text = "Stage Effects",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -15737,7 +15736,7 @@ local t =
 												PositionX = 10,
 												PositionY = -2,
 											},
-											width = "98",
+											width = "135",
 											ZOrder = "1",
 										},
 										{
@@ -15799,14 +15798,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_hwx_tips",
 									nTextAlign = "1",
@@ -15815,7 +15814,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "选择海王星联动女神出战或助战均可获得代币获取加成效果",
+									text = "Choose Neptune to play or assist in the battle, and you can get the bonus and tokens",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -15823,7 +15822,7 @@ local t =
 										PositionX = -540,
 										PositionY = -272,
 									},
-									width = "523",
+									width = "607",
 									ZOrder = "1",
 								},
 								{
@@ -15836,7 +15835,7 @@ local t =
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "34",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_hwx_boss",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -15850,7 +15849,7 @@ local t =
 										PositionY = 40,
 									},
 									visible = "False",
-									width = "152",
+									width = "220",
 									ZOrder = "1",
 									components = 
 									{
@@ -15874,14 +15873,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_hwx_desc_title",
 											nTextAlign = "1",
@@ -15890,7 +15889,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "作战信息",
+											text = "Battle Info",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -15898,7 +15897,7 @@ local t =
 												PositionX = 10,
 												PositionY = -2,
 											},
-											width = "98",
+											width = "113",
 											ZOrder = "1",
 										},
 										{
@@ -16056,7 +16055,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "本轮作战用时",
+													text = "Spend Time",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -16064,7 +16063,7 @@ local t =
 														PositionX = -194,
 														PositionY = 15,
 													},
-													width = "135",
+													width = "107",
 													ZOrder = "1",
 												},
 												{
@@ -16102,7 +16101,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "本轮最佳评分",
+													text = "Best score",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -16110,7 +16109,7 @@ local t =
 														PositionX = -194,
 														PositionY = -18,
 													},
-													width = "135",
+													width = "91",
 													ZOrder = "1",
 												},
 											},

@@ -290,7 +290,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "80",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_buff_desc",
 									nTextAlign = "0",
@@ -376,14 +376,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "选择",
+											text = "select",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "43",
+											width = "45",
 											ZOrder = "1",
 										},
 									},

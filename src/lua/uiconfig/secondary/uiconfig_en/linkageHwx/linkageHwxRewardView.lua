@@ -332,7 +332,7 @@ local t =
 									controlID = "Label_top_title_pannel_top_pannel_root_Panel-linkageHwxRewardView_Layer1_linkageHwx_Game",
 									UUID = "5e2c87be_3427_4931_9363_e2e2181d0549",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -368,7 +368,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 345,
+										PositionX = 243,
 										PositionY = -37,
 									},
 									width = "210",
@@ -495,6 +495,7 @@ local t =
 										PositionX = 356,
 										PositionY = -39,
 									},
+									visible = "False",
 									width = "10",
 									ZOrder = "1",
 								},
@@ -991,8 +992,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 674,
-										PositionY = 51,
+										PositionX = 675,
+										PositionY = 52,
 										IsPercent = true,
 										PercentX = 94.66,
 										PercentY = 50.98,

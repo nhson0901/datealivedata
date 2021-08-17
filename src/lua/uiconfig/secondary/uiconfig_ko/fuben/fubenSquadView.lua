@@ -15466,13 +15466,13 @@ local t =
 											controlID = "Image_reward_title_line_Panel_hwx_award_Panel_hwx_Panel_root_Panel-fubenSquadView_Layer1_fuben_Game",
 											UUID = "b0c21f3d_7767_4829_92dd_2ea949e03dac",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "0",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "34",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_reward_title_line",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -15482,10 +15482,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -95,
+												PositionX = -178,
 												PositionY = 73,
 											},
-											width = "166",
+											width = "186",
 											ZOrder = "1",
 										},
 										{
@@ -15796,7 +15796,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "选择海王星联动女神出战或助战均可获得代币获取加成效果",
+									text = "Choose Neptune to play or assist in the battle, and you can get the bonus and tokens",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -15804,7 +15804,7 @@ local t =
 										PositionX = -540,
 										PositionY = -272,
 									},
-									width = "523",
+									width = "656",
 									ZOrder = "1",
 								},
 								{

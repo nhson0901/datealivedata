@@ -46,6 +46,7 @@ function TaskActivityView:initUI(ui)
     --TODO CLOSE
     --self.Label_timing = TFDirector:getChildByPath(self.Image_ad, "Label_timing"):hide()
     self.Label_timing = TFDirector:getChildByPath(self.Image_ad, "Label_timing")
+    self.Label_timing:setVisible(not self.useNormalTime)
 
     self.Label_time_tip = TFDirector:getChildByPath(self.Image_ad, "Label_time_tip")
     self.Label_time_begin = TFDirector:getChildByPath(self.Image_ad, "Label_time_begin")
@@ -314,12 +315,12 @@ end
 function TaskActivityView:refreshView()
 
     if self.activityInfo_ and self.useNormalTime then
-        local startDate = Utils:getLocalDate(self.activityInfo_.startTime)
+        local startDate = Utils:getUTCDate(self.activityInfo_.startTime , GV_UTC_TIME_ZONE)
         local startDateStr = startDate:fmt("%Y.%m.%d")
-        local endDate = Utils:getLocalDate(self.activityInfo_.endTime)
+        local endDate = Utils:getUTCDate(self.activityInfo_.endTime , GV_UTC_TIME_ZONE)
         local endDateStr = endDate:fmt("%Y.%m.%d")
         self.Label_time_begin:setText(startDateStr)
-        self.Label_time_end:setText(endDateStr)
+        self.Label_time_end:setText(endDateStr..GV_UTC_TIME_STRING)
     end
 
 end
@@ -334,17 +335,17 @@ function TaskActivityView:updateCountDonw()
         local remainTime = math.max(0, self.activityInfo_.showEndTime - serverTime)
         local day, hour, min = Utils:getFuzzyDHMS(remainTime, true)
         if day == "00" then
-            self.Label_timing:setTextById("r42006", hour, min)
+            self.Label_timing:setTextById("r42002", hour, min)
         else
-            self.Label_timing:setTextById("r42005", day, hour)
+            self.Label_timing:setTextById("r42001", day, hour)
         end
     else
         local remainTime = math.max(0, self.activityInfo_.endTime - serverTime)
         local day, hour, min = Utils:getFuzzyDHMS(remainTime, true)
         if day == "00" then
-            self.Label_timing:setTextById("r42008", hour, min)
+            self.Label_timing:setTextById("r42004", hour, min)
         else
-            self.Label_timing:setTextById("r42007", day, hour)
+            self.Label_timing:setTextById("r42003", day, hour)
         end
     end
 

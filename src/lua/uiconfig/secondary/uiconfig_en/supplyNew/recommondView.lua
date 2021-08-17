@@ -313,7 +313,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -537,18 +537,19 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "21",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "51",
-													ignoreSize = "False",
+													height = "18",
+													ignoreSize = "True",
 													name = "Label_title_desc",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													rotation = "90",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -558,10 +559,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -19,
+														PositionX = -16,
 														PositionY = 7,
 													},
-													width = "28",
+													width = "61",
 													ZOrder = "1",
 												},
 												{

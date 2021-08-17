@@ -94,21 +94,21 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "534",
+							height = "535",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
-							srcBlendFunc = "770",
-							texturePath = "ui/activity/ad259.png",
+							srcBlendFunc = "1",
+							texturePath = "ui/activity/picture/ad148.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
 								PositionX = 3,
 								PositionY = -1,
 							},
-							width = "924",
+							width = "926",
 							ZOrder = "1",
 							components = 
 							{
@@ -140,8 +140,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 127,
-										PositionY = -41,
+										PositionX = 185,
+										PositionY = -12,
 									},
 									uipanelviewmodel = 
 									{
@@ -191,8 +191,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 439,
-										PositionY = 255,
+										PositionX = 391,
+										PositionY = 246,
 									},
 									width = "136",
 									ZOrder = "1",
@@ -330,7 +330,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -218,
-										PositionY = -219,
+										PositionY = -211,
 									},
 									width = "72",
 									ZOrder = "1",
@@ -358,8 +358,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 314,
-										PositionY = -216,
+										PositionX = 323,
+										PositionY = -166,
 									},
 									UItype = "Button",
 									width = "262",
@@ -408,7 +408,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -398,
-								PositionY = -218,
+								PositionY = -210,
 							},
 							width = "170",
 							ZOrder = "1",
@@ -880,7 +880,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/ad259.png",
+			"ui/activity/picture/ad148.png",
 			"ui/activity/add_recharge/008.png",
 			"ui/activity/add_recharge/005.png",
 			"ui/activity/add_recharge/006.png",

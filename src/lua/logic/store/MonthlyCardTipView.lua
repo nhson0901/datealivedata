@@ -32,11 +32,20 @@ function MonthlyCardTipView:initUI(ui)
     self.Label_pay = TFDirector:getChildByPath(self.Button_pay, "Label_pay")
     self.Button_close = TFDirector:getChildByPath(Image_content, "Button_close")
 
+    --修改为代币显示海外版特有
+    local cfg = GoodsDataMgr:getItemCfg(self.cardData_.exchangeCost[1].id)
+    local rich = TFRichText:create(ccs(110, 0))
+    local formatStr = TextDataMgr:getText(1605006)
+    local content = string.format(formatStr, cfg.icon, self.cardData_.exchangeCost[1].num)
+    local str = string.format([[<font face="fangzheng_zhunyuan26" color="#FFFFFF">%s</font>]], content)
+    rich:Text(str)
+    self.Button_pay:Add(rich)
     self:refreshView()
 end
 
 function MonthlyCardTipView:refreshView()
-    self.Label_pay:setTextById(1605006, self.cardData_.rechargeCfg.price *0.01)
+    --self.Label_pay:setTextById(1605006, self.cardData_.rechargeCfg.price *0.01)  --配合海外版代币显示屏蔽修改
+    self.Label_pay:setText("")
     self:updateRemainDay()
 end
 
@@ -49,7 +58,8 @@ function MonthlyCardTipView:registerEvents()
     end)
 
     self.Button_pay:onClick(function()
-            RechargeDataMgr:getOrderNO(self.cardData_.rechargeCfg.id)
+        --写死调用月卡购买id为40 2021-08-10
+        RechargeDataMgr:getOrderNO(40)
     end)
 end
 

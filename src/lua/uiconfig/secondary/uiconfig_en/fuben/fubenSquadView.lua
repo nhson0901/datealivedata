@@ -1685,7 +1685,6 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													visible = "False",
 													width = "180",
 													ZOrder = "1",
 													components = 
@@ -1739,14 +1738,14 @@ local t =
 																		OffsetX = 0,
 																		OffsetY = 0,
 																	},
-																	fontSize = "18",
+																	fontSize = "16",
 																	fontStroke = 
 																	{
 																		IsStroke = false,
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "21",
+																	height = "18",
 																	ignoreSize = "True",
 																	name = "Label_remain_tip",
 																	nTextAlign = "1",
@@ -1763,7 +1762,7 @@ local t =
 																		PositionX = -25,
 																		PositionY = -3,
 																	},
-																	width = "139",
+																	width = "124",
 																	ZOrder = "1",
 																},
 																{
@@ -2011,6 +2010,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
+													visible = "False",
 													width = "180",
 													ZOrder = "1",
 													components = 
@@ -3421,14 +3421,14 @@ local t =
 																		OffsetX = 0,
 																		OffsetY = 0,
 																	},
-																	fontSize = "18",
+																	fontSize = "16",
 																	fontStroke = 
 																	{
 																		IsStroke = false,
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "21",
+																	height = "18",
 																	ignoreSize = "True",
 																	name = "Label_remain_tip",
 																	nTextAlign = "1",
@@ -3445,7 +3445,7 @@ local t =
 																		PositionX = -25,
 																		PositionY = -3,
 																	},
-																	width = "139",
+																	width = "124",
 																	ZOrder = "1",
 																},
 																{
@@ -3693,6 +3693,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
+													visible = "False",
 													width = "180",
 													ZOrder = "1",
 													components = 
@@ -5103,14 +5104,14 @@ local t =
 																		OffsetX = 0,
 																		OffsetY = 0,
 																	},
-																	fontSize = "18",
+																	fontSize = "16",
 																	fontStroke = 
 																	{
 																		IsStroke = false,
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "21",
+																	height = "18",
 																	ignoreSize = "True",
 																	name = "Label_remain_tip",
 																	nTextAlign = "1",
@@ -5127,7 +5128,7 @@ local t =
 																		PositionX = -25,
 																		PositionY = -3,
 																	},
-																	width = "139",
+																	width = "124",
 																	ZOrder = "1",
 																},
 																{
@@ -5376,6 +5377,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
+													visible = "False",
 													width = "180",
 													ZOrder = "1",
 													components = 
@@ -13187,6 +13189,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -15327,7 +15330,7 @@ local t =
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "34",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_hwx_title",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -15340,7 +15343,7 @@ local t =
 										PositionX = 117,
 										PositionY = 158,
 									},
-									width = "186",
+									width = "292",
 									ZOrder = "1",
 									components = 
 									{
@@ -15364,7 +15367,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -15481,13 +15484,13 @@ local t =
 											controlID = "Image_reward_title_line_Panel_hwx_award_Panel_hwx_Panel_root_Panel-fubenSquadView_Layer1_fuben_Game",
 											UUID = "b0c21f3d_7767_4829_92dd_2ea949e03dac",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "0",
 											anchorPointY = "0.5",
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "34",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_reward_title_line",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -15497,10 +15500,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -95,
+												PositionX = -176,
 												PositionY = 73,
 											},
-											width = "166",
+											width = "292",
 											ZOrder = "1",
 										},
 										{
@@ -15626,7 +15629,7 @@ local t =
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "34",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_hwx_buff",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -15639,7 +15642,7 @@ local t =
 										PositionX = 119,
 										PositionY = 40,
 									},
-									width = "152",
+									width = "292",
 									ZOrder = "1",
 									components = 
 									{

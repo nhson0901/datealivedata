@@ -71,7 +71,7 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 568,
+						PositionX = 480,
 						PositionY = 320,
 						IsPercent = true,
 						PercentX = 50,
@@ -238,7 +238,7 @@ local t =
 											{
 												PositionX = -200,
 											},
-											width = "43",
+											width = "121",
 											ZOrder = "1",
 										},
 										{
@@ -283,7 +283,7 @@ local t =
 											{
 												PositionX = 198,
 											},
-											width = "83",
+											width = "142",
 											ZOrder = "1",
 										},
 									},
@@ -332,7 +332,7 @@ local t =
 									controlID = "Label_top_title_pannel_top_pannel_root_Panel-linkageHwxRewardView_Layer1_linkageHwx_Game",
 									UUID = "5e2c87be_3427_4931_9363_e2e2181d0549",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -354,7 +354,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_top_title",
 									nTextAlign = "1",
@@ -368,10 +368,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 298,
+										PositionX = 242,
 										PositionY = -37,
 									},
-									width = "115",
+									width = "343",
 									ZOrder = "1",
 								},
 								{
@@ -417,7 +417,8 @@ local t =
 										PositionX = 357,
 										PositionY = -42,
 									},
-									width = "122",
+									visible = "False",
+									width = "125",
 									ZOrder = "1",
 								},
 								{
@@ -476,7 +477,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_rankPopView_3",
 									nTextAlign = "1",
@@ -494,7 +495,8 @@ local t =
 										PositionX = 356,
 										PositionY = -39,
 									},
-									width = "11",
+									visible = "False",
+									width = "10",
 									ZOrder = "1",
 								},
 							},
@@ -594,15 +596,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "22",
+									fontSize = "16",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_tips",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -610,7 +612,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "9轮挑战结束后总评分达成条件可获得这一阶奖励",
+									text = "After 9 rounds of challenges, the total score can be obtained to obtain this level of reward",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -618,7 +620,7 @@ local t =
 										PositionX = 246,
 										PositionY = 132,
 									},
-									width = "476",
+									width = "600",
 									ZOrder = "1",
 								},
 							},

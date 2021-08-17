@@ -2508,6 +2508,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1033",
 							ZOrder = "1",
 							components = 
@@ -4858,7 +4859,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1033",
 							ZOrder = "1",
 							components = 
@@ -5038,7 +5038,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -206,
+										PositionX = -173,
 										PositionY = 64,
 									},
 									uipanelviewmodel = 
@@ -5580,8 +5580,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -441,
-										PositionY = 207,
+										PositionX = -401,
+										PositionY = 216,
 									},
 									width = "58",
 									ZOrder = "1",
@@ -5627,8 +5627,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -429,
-										PositionY = 179,
+										PositionX = -389,
+										PositionY = 188,
 									},
 									width = "46",
 									ZOrder = "1",
@@ -5773,7 +5773,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 59,
+												PositionX = 83,
 											},
 											width = "59",
 											ZOrder = "1",
@@ -8039,8 +8039,8 @@ local t =
 												StrokeColor = "#FF373C52",
 												StrokeSize = 1,
 											},
-											height = "34",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_unselect_name",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -8054,9 +8054,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 110,
-												PositionY = -120,
+												PositionY = -100,
 											},
-											width = "88",
+											width = "223",
 											ZOrder = "1",
 										},
 									},

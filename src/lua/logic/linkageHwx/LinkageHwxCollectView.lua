@@ -181,7 +181,7 @@ function LinkageHwxCollectView:registerEvents()
 
     self._ui.btn_double:onClick(function()
         if self.maxCount < 1 then
-            Utils:showTips("累计领取次数不足")
+            Utils:showTips(TextDataMgr:getText(190001085))
             return
         end
         LinkageHwxDataMgr:Send_getResource(self.cfgCity.id,self.selectNum,self.mulriple)

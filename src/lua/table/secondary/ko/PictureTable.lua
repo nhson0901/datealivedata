@@ -6349,4 +6349,164 @@ return {
         res = "icon/equipment/name/meilimanman.png",
         res_en = "icon/equipment/name/meilimanman_ko.png",
     },
+    [1271] = {
+        id = 1271,
+        res = "ui/activity/activity_bg/bg1.png",
+        res_en = "ui/activity/activity_bg/bg1_ko.png",
+    },
+    [1272] = {
+        id = 1272,
+        res = "ui/activity/activity_bg/bg3.png",
+        res_en = "ui/activity/activity_bg/bg3_ko.png",
+    },
+    [1273] = {
+        id = 1273,
+        res = "ui/activity/activity_bg/btn1.png",
+        res_en = "ui/activity/activity_bg/btn1_ko.png",
+    },
+    [1274] = {
+        id = 1274,
+        res = "ui/activity/activity_bg/btn3.png",
+        res_en = "ui/activity/activity_bg/btn3_ko.png",
+    },
+    [1275] = {
+        id = 1275,
+        res = "ui/activity/groupPurchase/main_3.png",
+        res_en = "ui/activity/groupPurchase/main_3_ko.png",
+    },
+    [1276] = {
+        id = 1276,
+        res = "ui/activity/groupPurchase/main_6.png",
+        res_en = "ui/activity/groupPurchase/main_6_ko.png",
+    },
+    [1277] = {
+        id = 1277,
+        res = "ui/activity/groupPurchase/pay_full.png",
+        res_en = "ui/activity/groupPurchase/pay_full_ko.png",
+    },
+    [1278] = {
+        id = 1278,
+        res = "ui/activity/groupPurchase/pay_startPeople.png",
+        res_en = "ui/activity/groupPurchase/pay_startPeople_ko.png",
+    },
+    [1279] = {
+        id = 1279,
+        res = "ui/activity/groupPurchase/rule_explain.png",
+        res_en = "ui/activity/groupPurchase/rule_explain_ko.png",
+    },
+    [1280] = {
+        id = 1280,
+        res = "ui/activity/picture/ad148.png",
+        res_en = "ui/activity/picture/ad148_ko.png",
+    },
+    [1281] = {
+        id = 1281,
+        res = "ui/activity/picture/ad153.png",
+        res_en = "ui/activity/picture/ad153_ko.png",
+    },
+    [1282] = {
+        id = 1282,
+        res = "ui/activity/picture/ad154.png",
+        res_en = "ui/activity/picture/ad154_ko.png",
+    },
+    [1283] = {
+        id = 1283,
+        res = "ui/fairy/new_ui/gongming/list/9.png",
+        res_en = "ui/fairy/new_ui/gongming/list/9_ko.png",
+    },
+    [1284] = {
+        id = 1284,
+        res = "ui/hwx/map/018.png",
+        res_en = "ui/hwx/map/018_ko.png",
+    },
+    [1285] = {
+        id = 1285,
+        res = "ui/hwx/pop/011.png",
+        res_en = "ui/hwx/pop/011_ko.png",
+    },
+    [1286] = {
+        id = 1286,
+        res = "ui/hwx/tower/007.png",
+        res_en = "ui/hwx/tower/007_ko.png",
+    },
+    [1287] = {
+        id = 1287,
+        res = "ui/simulation_trial8/002.png",
+        res_en = "ui/simulation_trial8/002_ko.png",
+    },
+    [1288] = {
+        id = 1288,
+        res = "ui/simulation_trial8/003.png",
+        res_en = "ui/simulation_trial8/003_ko.png",
+    },
+    [1289] = {
+        id = 1289,
+        res = "ui/simulation_trial8/result/title.png",
+        res_en = "ui/simulation_trial8/result/title_ko.png",
+    },
+    [1290] = {
+        id = 1290,
+        res = "ui/simulation_trial9/002.png",
+        res_en = "ui/simulation_trial9/002_ko.png",
+    },
+    [1291] = {
+        id = 1291,
+        res = "ui/simulation_trial9/003.png",
+        res_en = "ui/simulation_trial9/003_ko.png",
+    },
+    [1292] = {
+        id = 1292,
+        res = "ui/simulation_trial9/result/title.png",
+        res_en = "ui/simulation_trial9/result/title_ko.png",
+    },
+    [1293] = {
+        id = 1293,
+        res = "ui/update/s26.png",
+        res_en = "ui/update/s26_en.png",
+    },
+    [1294] = {
+        id = 1294,
+        res = "ui/update/s29.png",
+        res_en = "ui/update/s29_en.png",
+    },
+    [1295] = {
+        id = 1295,
+        res = "ui/update/s30.png",
+        res_en = "ui/update/s30_en.png",
+    },
+    [1296] = {
+        id = 1296,
+        res = "ui/update/s31.png",
+        res_en = "ui/update/s31_en.png",
+    },
+    [1297] = {
+        id = 1297,
+        res = "ui/summon/058.png",
+        res_en = "ui/summon/058_ko.png",
+    },
+    [1298] = {
+        id = 1298,
+        res = "ui/summon/059.png",
+        res_en = "ui/summon/059_ko.png",
+    },
+    [1299] = {
+        id = 1299,
+        res = "ui/summon/060.png",
+        res_en = "ui/summon/060_ko.png",
+    },
+    [1300] = {
+        id = 1300,
+        res = "ui/summon/061.png",
+        res_en = "ui/summon/061_ko.png",
+    },
+    [1301] = {
+        id = 1301,
+        res = "ui/summon/062.png",
+        res_en = "ui/summon/062_ko.png",
+    },
+    [1302] = {
+        id = 1302,
+        res = "ui/summon/063.png",
+        res_en = "ui/summon/063_ko.png",
+    },
 }

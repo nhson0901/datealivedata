@@ -465,15 +465,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "16",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_jiyong",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -488,7 +488,7 @@ local t =
 									{
 										PositionY = 8,
 									},
-									width = "125",
+									width = "140",
 									ZOrder = "1",
 								},
 							},
@@ -2305,7 +2305,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "兑换一次",
+											text = "Exchange Once",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 

@@ -1421,7 +1421,7 @@ local t =
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
-											srcBlendFunc = "1",
+											srcBlendFunc = "770",
 											texturePath = "ui/battle/099.png",
 											touchAble = "False",
 											UILayoutViewModel = 
@@ -9547,7 +9547,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 568,
-										PositionY = 134,
+										PositionY = 161,
 										BottomPosition = 129,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -10908,7 +10908,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = -167,
+												PositionY = -174,
 												BottomPosition = 114,
 												relativeToName = "Panel_practice",
 												nType = 3,
@@ -11211,8 +11211,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
-										PositionY = 69,
+										PositionX = 704,
+										PositionY = 61,
 										RightPosition = 400,
 										BottomPosition = 29,
 										relativeToName = "Panel_top",
@@ -12377,7 +12377,7 @@ local t =
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "58",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_time_bg",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -12389,7 +12389,7 @@ local t =
 											{
 												PositionX = 59,
 											},
-											width = "148",
+											width = "160",
 											ZOrder = "1",
 											components = 
 											{
@@ -12459,14 +12459,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "16",
+													fontSize = "15",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "18",
+													height = "17",
 													ignoreSize = "True",
 													name = "Label_hwx_time_tip",
 													nTextAlign = "1",
@@ -12480,10 +12480,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -15,
+														PositionX = -27,
 														PositionY = 9,
 													},
-													width = "107",
+													width = "103",
 													ZOrder = "1",
 												},
 											},
@@ -14534,8 +14534,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 915,
-								PositionY = 327,
+								PositionX = 944,
+								PositionY = 335,
 								RightPosition = 160,
 								BottomPosition = 303,
 								relativeToName = "Panel_ui",
@@ -14646,7 +14646,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 568,
-								PositionY = 538,
+								PositionY = 525,
 								TopPosition = 83,
 								relativeToName = "Panel_victory",
 								nType = 3,

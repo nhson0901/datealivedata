@@ -184,7 +184,7 @@ local t =
 											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "36",
+											height = "50",
 											ignoreSize = "False",
 											name = "Image_name",
 											sizepercentx = "0",
@@ -197,7 +197,7 @@ local t =
 											{
 												PositionY = -51,
 											},
-											width = "110",
+											width = "126",
 											ZOrder = "1",
 											components = 
 											{
@@ -228,8 +228,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "23",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_name",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -242,9 +242,9 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionY = -19,
+														PositionY = -22,
 													},
-													width = "83",
+													width = "116",
 													ZOrder = "1",
 												},
 											},

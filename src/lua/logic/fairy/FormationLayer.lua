@@ -613,6 +613,7 @@ function FormationLayer:updateOneHead(cell,idx,isChange)
     Image_skyladder:setVisible(self.isHwx)
     if self.isHwx then
         Image_skyladder:setTexture("ui/hwx/fight/008.png")
+        Image_skyladder:setSize(CCSize(145, 60))
         local heroFightCnt = LinkageHwxDataMgr:getHeroFightCnt(heroid)
         local heroBuyCnt = LinkageHwxDataMgr:getHeroBuyCnt(heroid)
         local maxFightCnt = LinkageHwxDataMgr:getInitFightCnt() + heroBuyCnt

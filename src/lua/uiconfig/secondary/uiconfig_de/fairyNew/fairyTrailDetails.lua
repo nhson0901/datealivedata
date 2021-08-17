@@ -6131,8 +6131,8 @@ local t =
 																		StrokeColor = "#FF9D9DC1",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "label_fanganName",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -6147,7 +6147,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "97",
+																	width = "140",
 																	ZOrder = "1",
 																},
 															},
@@ -6211,8 +6211,8 @@ local t =
 																		StrokeColor = "#FF9D9DC1",
 																		StrokeSize = 1,
 																	},
-																	height = "23",
-																	ignoreSize = "True",
+																	height = "0",
+																	ignoreSize = "False",
 																	name = "label_fanganName",
 																	nTextAlign = "1",
 																	nTextHAlign = "1",
@@ -6227,7 +6227,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "97",
+																	width = "140",
 																	ZOrder = "1",
 																},
 															},

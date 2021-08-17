@@ -31,6 +31,8 @@ function addActivityItem(self)
 
 Panel_activityItem.ImageSelect = TFDirector:getChildByPath(Panel_activityItem, "ImageSelect")
 Panel_activityItem.ImageNormal = TFDirector:getChildByPath(Panel_activityItem, "ImageNormal")
+Panel_activityItem.ImageSelect.Image_icon =  Panel_activityItem.ImageSelect:getChildByName("Image_icon")
+Panel_activityItem.ImageNormal.Image_icon =  Panel_activityItem.ImageNormal:getChildByName("Image_icon")
 
 
 
@@ -59,11 +61,11 @@ Panel_activityItem.setSelect = function (self,_select,icon)
     self.ImageNormal:setVisible(not _select)
 
     if _select then
-        if icon and #icon > 1 then 
-            if TFFileUtil:existFile(icon) then 
-                self.ImageSelect:setTexture(icon)
-            end
-        end 
+        -- if icon and #icon > 1 then 
+        --     if TFFileUtil:existFile(icon) then 
+        --         self.ImageSelect:setTexture(icon)
+        --     end
+        -- end 
         local size  = self.ImageSelect:getSize()
         size.height = size.height + 2
         Panel_activityItem:setSize(size)
@@ -81,6 +83,22 @@ Panel_activityItem.setVisibleRedpoint = function (self,select)
     self.ImageNormal.Image_new:setVisible(select)
 end
 
+Panel_activityItem.setTabBtnIcon = function (self,activity)
+        local iconPath = activity.titleIcon or "ui/activity/picture/icon67.png"
+
+        if self.ImageSelect.Image_icon then
+            self.ImageSelect.Image_icon:setTexture(string.sub(iconPath,0,-5) .. "_1.png")
+        else
+            self.ImageSelect:setTexture(string.sub(iconPath,0,-5) .. "_1.png")
+        end
+        
+        if self.ImageNormal.Image_icon then
+            self.ImageNormal.Image_icon:setTexture(iconPath)
+        else
+            self.ImageNormal:setTexture(iconPath)
+        end
+end
+
 
     self.activityItem_[Panel_activityItem] = Panel_activityItem
     self.ListView_activity:pushBackCustomItem(Panel_activityItem)
@@ -95,6 +113,7 @@ function updateActivtyItem(self,index)
     local item = self.ListView_activity:getItem(index)
     local foo  = self.activityItem_[item]
     foo:setActivityName(activity.extendData.name)
+    foo:setTabBtnIcon(activity)
     foo:setTouchEnabled(true)
     foo:onClick(function()
         self:selectActivity(index)
@@ -103,6 +122,8 @@ function updateActivtyItem(self,index)
     self:updateActivtyItemRedPoint(index)
 end
 rawset(ActivityGloablHwxMainView1, "updateActivtyItem", updateActivtyItem)
+
+
 
 function selectActivity(self, index, force)
     if #self.activityInfo_ == 0 then return end
@@ -114,18 +135,8 @@ function selectActivity(self, index, force)
         local activity = self.activityInfo_[i] 
 
         local foo = self.activityItem_[v]
-        -- local iconPath = activity.titleIcon or "ui/activity/picture/icon67.png"
-        -- foo.Image_flag:setTexture(isSelect and iconPath or string.sub(iconPath,0,-5) .. "_1.png")
-        -- foo.Image_item_bg:setTexture(isSelect and "ui/activity/activityMain2/c1.png" or "ui/activity/activityMain2/c1_1.png")
-        -- if isSelect then
-        --     foo.Image_flag:setPositionX(-165)
-        --     foo.activityName:setPositionX(-119)
-        --     foo.activityName:setFontColor(ccc3(255,255,255))
-        -- else
-        --     foo.Image_flag:setPositionX(-181)
-        --     foo.activityName:setPositionX(-129)
-        --     foo.activityName:setFontColor(ccc3(219,254,255))
-        -- end
+        
+
         foo:setSelect(isSelect,activity.titleIcon)
     end
 

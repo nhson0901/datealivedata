@@ -472,8 +472,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "18",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_jiyong",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -488,7 +488,7 @@ local t =
 									{
 										PositionY = 8,
 									},
-									width = "120",
+									width = "134",
 									ZOrder = "1",
 								},
 							},
@@ -978,7 +978,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 82,
-								PositionY = 56,
+								PositionY = 64,
 							},
 							width = "144",
 							ZOrder = "1",
@@ -1011,8 +1011,8 @@ local t =
 										StrokeColor = "#FF30354A",
 										StrokeSize = 1,
 									},
-									height = "20",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_ladder_tip",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -1025,9 +1025,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
+										PositionX = -27,
 										PositionY = -1,
 									},
-									width = "171",
+									width = "93",
 									ZOrder = "1",
 								},
 								{
@@ -2298,8 +2299,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_btn",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -2307,14 +2308,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "兑换一次",
+											text = "Exchange Once",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "99",
+											width = "125",
 											ZOrder = "1",
 										},
 									},

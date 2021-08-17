@@ -283,14 +283,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "16",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "80",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_buff_desc",
 									nTextAlign = "0",
@@ -360,14 +360,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "16",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
+											height = "18",
 											ignoreSize = "True",
 											name = "Label_btn",
 											nTextAlign = "1",
@@ -376,14 +376,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "选择",
+											text = "Sélectionner",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "43",
+											width = "82",
 											ZOrder = "1",
 										},
 									},

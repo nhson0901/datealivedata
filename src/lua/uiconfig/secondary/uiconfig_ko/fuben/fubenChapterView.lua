@@ -2509,6 +2509,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1033",
 							ZOrder = "1",
 							components = 
@@ -4859,7 +4860,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1033",
 							ZOrder = "1",
 							components = 
@@ -5774,7 +5774,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 59,
+												PositionX = 79,
 											},
 											width = "56",
 											ZOrder = "1",

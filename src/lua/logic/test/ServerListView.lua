@@ -28,7 +28,7 @@ function ServerListView:initUI(ui)
     self.ListView_groupList:setItemsMargin(6)
 
     self.Button_serverListItem = TFDirector:getChildByPath(self.Panel_prefab, "Button_serverListItem")
-    if FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
+    if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
         self.Button_serverListItem:setTextureNormal("ui/login/oneYear/2.png")
         self.Button_serverListItem:setTexturePressed("ui/login/oneYear/2.png")
     elseif TFGlobalUtils:isConnectEnServer() then
@@ -57,9 +57,17 @@ function ServerListView:showServerGroup()
         if TFGlobalUtils:isConnectKoreaTwServer( ) then
             Label_name:setFontColor(ccc3(255 , 255 , 255))
         elseif TFGlobalUtils:isConnectMiniServer() then
-            Label_name:setFontColor(ccc3(255 , 255 , 255))
+            if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
+                Label_name:setFontColor(ccc3(254 , 200 , 253))
+            else
+                Label_name:setFontColor(ccc3(255 , 255 , 255))
+            end
         elseif TFGlobalUtils:isConnectEnServer() then
-            Label_name:setFontColor(ccc3(255 , 255 , 255))
+            if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
+                Label_name:setFontColor(ccc3(254 , 200 , 253))
+            else
+                Label_name:setFontColor(ccc3(255 , 255 , 255))
+            end
         end
 
         -- if (_group.groupType == GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE) or (_group.groupType == GLOBAL_SERVER_LIST.SERVER_KOREA_TW) then

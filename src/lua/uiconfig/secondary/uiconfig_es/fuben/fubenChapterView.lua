@@ -2508,6 +2508,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1033",
 							ZOrder = "1",
 							components = 
@@ -2659,8 +2660,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -374,
-										PositionY = 225,
+										PositionX = -239,
+										PositionY = 266,
 									},
 									width = "89",
 									ZOrder = "1",
@@ -2706,8 +2707,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -392,
-										PositionY = 196,
+										PositionX = -257,
+										PositionY = 237,
 									},
 									width = "59",
 									ZOrder = "1",
@@ -2737,10 +2738,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -432,
-										PositionY = -278,
+										PositionX = -392,
+										PositionY = -279,
 										IsPercent = true,
-										PercentX = -41.91,
+										PercentX = -37.91,
 										PercentY = -49.78,
 									},
 									uipanelviewmodel = 
@@ -4858,7 +4859,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1033",
 							ZOrder = "1",
 							components = 
@@ -5038,7 +5038,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -206,
+										PositionX = -165,
 										PositionY = 64,
 									},
 									uipanelviewmodel = 
@@ -5580,8 +5580,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -441,
-										PositionY = 207,
+										PositionX = -415,
+										PositionY = 214,
 									},
 									width = "58",
 									ZOrder = "1",
@@ -5627,8 +5627,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -429,
-										PositionY = 179,
+										PositionX = -403,
+										PositionY = 186,
 									},
 									width = "46",
 									ZOrder = "1",
@@ -5773,7 +5773,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 59,
+												PositionX = 89,
 											},
 											width = "67",
 											ZOrder = "1",

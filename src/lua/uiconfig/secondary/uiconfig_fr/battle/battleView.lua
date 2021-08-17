@@ -12319,7 +12319,7 @@ local t =
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "58",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_time_bg",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -12331,7 +12331,7 @@ local t =
 											{
 												PositionX = 59,
 											},
-											width = "148",
+											width = "170",
 											ZOrder = "1",
 											components = 
 											{
@@ -12401,15 +12401,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "16",
+													fontSize = "15",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "18",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_hwx_time_tip",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -12417,15 +12417,15 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "作战时间",
+													text = "Combat time",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -15,
+														PositionX = -27,
 														PositionY = 9,
 													},
-													width = "67",
+													width = "107",
 													ZOrder = "1",
 												},
 											},
@@ -12469,6 +12469,7 @@ local t =
 										Layout="Relative",
 										nType = "3"
 									},
+									visible = "False",
 									width = "1136",
 									ZOrder = "20",
 									components = 
@@ -14231,6 +14232,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "184",
 									ZOrder = "1",
 									components = 

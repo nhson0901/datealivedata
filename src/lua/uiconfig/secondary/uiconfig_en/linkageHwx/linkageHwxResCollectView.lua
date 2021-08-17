@@ -237,7 +237,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_rankPopView_1",
 									nTextAlign = "1",
@@ -254,7 +254,7 @@ local t =
 										PositionX = 247,
 										PositionY = 494,
 									},
-									width = "116",
+									width = "289",
 									ZOrder = "1",
 								},
 							},
@@ -319,7 +319,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "24",
+							fontSize = "20",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -372,7 +372,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "27",
+							height = "25",
 							ignoreSize = "True",
 							name = "Label_ksResCollectPopView_1",
 							nTextAlign = "1",
@@ -389,7 +389,7 @@ local t =
 								PositionX = 325,
 								PositionY = 196,
 							},
-							width = "141",
+							width = "137",
 							ZOrder = "1",
 							components = 
 							{
@@ -420,7 +420,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "labLastNum",
 									nTextAlign = "1",
@@ -436,7 +436,7 @@ local t =
 									{
 										PositionX = 80,
 									},
-									width = "36",
+									width = "27",
 									ZOrder = "1",
 								},
 							},
@@ -633,7 +633,7 @@ local t =
 									{
 										PositionX = -40,
 									},
-									width = "10",
+									width = "13",
 									ZOrder = "1",
 								},
 							},
@@ -689,15 +689,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "26",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_ksResCollectPopView_1",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -712,7 +712,7 @@ local t =
 									{
 										
 									},
-									width = "55",
+									width = "120",
 									ZOrder = "1",
 								},
 							},
@@ -812,7 +812,7 @@ local t =
 									{
 										PositionX = 58,
 									},
-									width = "72",
+									width = "79",
 									ZOrder = "1",
 								},
 							},
@@ -868,15 +868,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "26",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_double",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -891,7 +891,7 @@ local t =
 									{
 										
 									},
-									width = "107",
+									width = "120",
 									ZOrder = "1",
 								},
 							},

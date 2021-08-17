@@ -140,7 +140,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -157,7 +157,7 @@ local t =
 										PositionX = -253,
 										PositionY = 128,
 									},
-									width = "114",
+									width = "200",
 									ZOrder = "1",
 								},
 								{
@@ -203,7 +203,8 @@ local t =
 										PositionX = -77,
 										PositionY = 121,
 									},
-									width = "115",
+									visible = "False",
+									width = "119",
 									ZOrder = "1",
 								},
 								{
@@ -299,7 +300,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "37",
+									height = "34",
 									ignoreSize = "True",
 									name = "Label_title_line",
 									nTextAlign = "1",
@@ -317,8 +318,64 @@ local t =
 										PositionX = -137,
 										PositionY = 127,
 									},
-									width = "11",
+									visible = "False",
+									width = "10",
 									ZOrder = "1",
+								},
+								{
+									controlID = "Image_honorBar_Image_content_Panel_root_Panel-fubenSelectCountView_Layer1_linkageHwx_Game",
+									UUID = "8b80defe_71b7_4187_895c_205017a2736e",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+									classname = "MEImage",
+									dstBlendFunc = "771",
+									height = "245",
+									ignoreSize = "False",
+									name = "Image_honorBar",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									texturePath = "ui/common/scroll_bar_01.png",
+									touchAble = "False",
+									UILayoutViewModel = 
+									{
+										PositionX = 257,
+										PositionY = -19,
+									},
+									width = "6",
+									ZOrder = "1",
+									components = 
+									{
+										
+										{
+											controlID = "Image_honorScrollBar_Image_honorBar_Image_content_Panel_root_Panel-fubenSelectCountView_Layer1_linkageHwx_Game",
+											UUID = "87d2a0dd_7868_48bb_99d4_a7931adcb6e3",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+											classname = "MEImage",
+											dstBlendFunc = "771",
+											height = "245",
+											ignoreSize = "False",
+											name = "Image_honorScrollBar",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "1",
+											texturePath = "ui/common/scroll_bar_02.png",
+											touchAble = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "6",
+											ZOrder = "1",
+										},
+									},
 								},
 							},
 						},
@@ -498,7 +555,7 @@ local t =
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "30",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_icon2",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -511,7 +568,7 @@ local t =
 										PositionX = -124,
 										PositionY = -18,
 									},
-									width = "90",
+									width = "101",
 									ZOrder = "1",
 								},
 								{
@@ -581,7 +638,7 @@ local t =
 										PositionX = -171,
 										PositionY = 20,
 									},
-									width = "77",
+									width = "72",
 									ZOrder = "1",
 								},
 								{
@@ -604,7 +661,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -157,
+										PositionX = -162,
 										PositionY = -17,
 									},
 									width = "20",
@@ -630,7 +687,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -145,
+										PositionX = -150,
 										PositionY = -17,
 									},
 									width = "20",
@@ -656,7 +713,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -133,
+										PositionX = -138,
 										PositionY = -17,
 									},
 									width = "20",
@@ -681,14 +738,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "16",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "18",
 									ignoreSize = "True",
 									name = "Label_unlock",
 									nTextAlign = "1",
@@ -703,9 +760,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -124,
-										PositionY = -18,
+										PositionY = -17,
 									},
-									width = "43",
+									width = "50",
 									ZOrder = "1",
 								},
 								{
@@ -751,7 +808,7 @@ local t =
 										PositionX = -6,
 										PositionY = 16,
 									},
-									width = "83",
+									width = "86",
 									ZOrder = "1",
 								},
 								{
@@ -780,7 +837,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_count",
 									nTextAlign = "1",
@@ -794,10 +851,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 78,
-										PositionY = 16,
+										PositionX = 93,
+										PositionY = 15,
 									},
-									width = "26",
+									width = "24",
 									ZOrder = "1",
 								},
 								{
@@ -826,7 +883,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_desc",
 									nTextAlign = "1",
@@ -840,10 +897,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 84,
-										PositionY = -17,
+										PositionX = 133,
+										PositionY = -7,
 									},
-									width = "22",
+									width = "16",
 									ZOrder = "1",
 								},
 								{
@@ -890,14 +947,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_desc1",
 									nTextAlign = "1",
@@ -906,15 +963,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Immediately Get",
+									text = "Immediately get X",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -7,
-										PositionY = -17,
+										PositionX = -4,
+										PositionY = -7,
 									},
-									width = "90",
+									width = "136",
 									ZOrder = "1",
 								},
 								{
@@ -936,14 +993,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_desc2",
 									nTextAlign = "1",
@@ -952,15 +1009,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Reward for each battle",
+									text = "Rewards for each battle",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 109,
-										PositionY = -17,
+										PositionX = -6,
+										PositionY = -29,
 									},
-									width = "123",
+									width = "172",
 									ZOrder = "1",
 								},
 							},
@@ -980,6 +1037,8 @@ local t =
 		{
 			"ui/hwx/pop/016.png",
 			"ui/hwx/pop/008.png",
+			"ui/common/scroll_bar_01.png",
+			"ui/common/scroll_bar_02.png",
 			"ui/hwx/pop/017.png",
 			"ui/hwx/pop/019.png",
 			"ui/hwx/pop/018.png",

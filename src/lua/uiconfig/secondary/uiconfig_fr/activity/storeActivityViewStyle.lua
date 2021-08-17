@@ -965,7 +965,6 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -1,
 														PositionY = 2,
 													},
 													width = "175",
@@ -1909,14 +1908,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "22",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "50",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_buy_tip",
 									nTextAlign = "1",
@@ -1933,7 +1932,7 @@ local t =
 										PositionY = -173,
 									},
 									visible = "False",
-									width = "140",
+									width = "232",
 									ZOrder = "1",
 								},
 							},

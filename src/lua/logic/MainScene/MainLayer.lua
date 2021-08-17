@@ -863,8 +863,8 @@ function MainLayer:showLeftBtnAnim()
         if self.button_OneYear:isVisible() then
             table.insert(threeActivity , self.button_OneYear)
         end
-        if self.Button_activity2:isVisible() then
-            table.insert(threeActivity , self.Button_activity2)
+        if self.button_Caociyuan:isVisible() then
+            table.insert(threeActivity , self.button_Caociyuan)
         end
         if self.Button_Activity5:isVisible() then
             table.insert(threeActivity , self.Button_Activity5)
@@ -932,7 +932,7 @@ function MainLayer:showLeftBtnAnim()
             v:runAction(Spawn:create({FadeIn:create(0.3),MoveTo:create(0.3,v.orgPos+ diffPos[k]),ScaleTo:create(0.3,0.8)}))
         end
     elseif #threeActivity == 3 then
-        local diffPos = {ccp(-60 , -20) , ccp(90 , -10) , ccp(0 , 40)}
+        local diffPos = {ccp(-70 , -30) , ccp(100 , -20) , ccp(0 , 40)}
         for k , v in pairs(threeActivity) do
             v:setScale(0.5)
             v.orgPos = v.orgPos or v:getPosition()
@@ -3515,8 +3515,8 @@ function MainLayer:updateOneYearBtns()
             if self.button_OneYear:isVisible() then
                 table.insert(threeActivity , self.button_OneYear)
             end
-            if self.Button_activity2:isVisible() then
-                table.insert(threeActivity , self.Button_activity2)
+            if self.button_Caociyuan:isVisible() then
+                table.insert(threeActivity , self.button_Caociyuan)
             end
             if self.Button_Activity5:isVisible() then
                 table.insert(threeActivity , self.Button_Activity5)

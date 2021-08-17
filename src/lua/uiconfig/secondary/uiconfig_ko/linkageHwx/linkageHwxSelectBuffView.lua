@@ -376,14 +376,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "选择",
+											text = "select",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "43",
+											width = "45",
 											ZOrder = "1",
 										},
 									},

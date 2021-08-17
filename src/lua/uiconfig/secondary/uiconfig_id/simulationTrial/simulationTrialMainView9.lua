@@ -238,8 +238,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 75,
-										PositionY = -17,
+										PositionX = -84,
+										PositionY = -45,
 									},
 									width = "184",
 									ZOrder = "1",
@@ -350,7 +350,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "37",
+							height = "34",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -368,7 +368,7 @@ local t =
 								PositionY = 204,
 							},
 							visible = "False",
-							width = "124",
+							width = "213",
 							ZOrder = "1",
 						},
 						{
@@ -535,7 +535,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -549,10 +549,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 41,
+										PositionX = 20,
 										PositionY = -45,
 									},
-									width = "55",
+									width = "105",
 									ZOrder = "1",
 								},
 								{
@@ -598,7 +598,7 @@ local t =
 										PositionX = 45,
 										PositionY = -66,
 									},
-									width = "65",
+									width = "66",
 									ZOrder = "1",
 								},
 								{
@@ -687,7 +687,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -704,7 +704,7 @@ local t =
 										PositionX = 52,
 										PositionY = -37,
 									},
-									width = "55",
+									width = "112",
 									ZOrder = "1",
 								},
 								{
@@ -750,7 +750,7 @@ local t =
 										PositionX = 32,
 										PositionY = -58,
 									},
-									width = "75",
+									width = "72",
 									ZOrder = "1",
 								},
 								{

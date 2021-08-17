@@ -238,8 +238,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 75,
-										PositionY = -17,
+										PositionX = -89,
+										PositionY = -49,
 									},
 									width = "184",
 									ZOrder = "1",
@@ -350,7 +350,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "37",
+							height = "34",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -368,7 +368,7 @@ local t =
 								PositionY = 204,
 							},
 							visible = "False",
-							width = "124",
+							width = "213",
 							ZOrder = "1",
 						},
 						{
@@ -440,8 +440,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = -531,
-								PositionY = -125,
+								PositionX = -495,
+								PositionY = -121,
 							},
 							UItype = "Button",
 							width = "39",
@@ -535,7 +535,7 @@ local t =
 										StrokeColor = "#FF295CD7",
 										StrokeSize = 1,
 									},
-									height = "34",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -549,10 +549,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 41,
+										PositionX = 6,
 										PositionY = -45,
 									},
-									width = "56",
+									width = "106",
 									ZOrder = "1",
 								},
 								{
@@ -598,7 +598,7 @@ local t =
 										PositionX = 45,
 										PositionY = -66,
 									},
-									width = "65",
+									width = "66",
 									ZOrder = "1",
 								},
 								{
@@ -687,7 +687,7 @@ local t =
 										StrokeColor = "#FF2957CD",
 										StrokeSize = 1,
 									},
-									height = "34",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -704,7 +704,7 @@ local t =
 										PositionX = 52,
 										PositionY = -37,
 									},
-									width = "56",
+									width = "113",
 									ZOrder = "1",
 								},
 								{
@@ -750,7 +750,7 @@ local t =
 										PositionX = 32,
 										PositionY = -58,
 									},
-									width = "75",
+									width = "72",
 									ZOrder = "1",
 								},
 								{
@@ -804,8 +804,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = -532,
-								PositionY = -200,
+								PositionX = -496,
+								PositionY = -196,
 							},
 							UItype = "Button",
 							width = "41",

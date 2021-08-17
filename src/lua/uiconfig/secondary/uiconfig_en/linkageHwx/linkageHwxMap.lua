@@ -290,7 +290,7 @@ local t =
 							{
 								
 							},
-							width = "83",
+							width = "149",
 							ZOrder = "1",
 						},
 					},
@@ -469,7 +469,7 @@ local t =
 							{
 								PositionY = -51,
 							},
-							width = "110",
+							width = "126",
 							ZOrder = "1",
 							components = 
 							{
@@ -493,15 +493,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_name",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -514,9 +514,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = -19,
+										PositionY = -17,
 									},
-									width = "83",
+									width = "116",
 									ZOrder = "1",
 								},
 							},

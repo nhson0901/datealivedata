@@ -465,15 +465,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "17",
+									fontSize = "16",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "19",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_jiyong",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -488,7 +488,7 @@ local t =
 									{
 										PositionY = 8,
 									},
-									width = "136",
+									width = "140",
 									ZOrder = "1",
 								},
 							},
@@ -2290,15 +2290,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_btn",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -2306,14 +2306,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "兑换一次",
+											text = "Exchange Once",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "99",
+											width = "120",
 											ZOrder = "1",
 										},
 									},

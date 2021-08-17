@@ -1891,8 +1891,8 @@ local t =
 							height = "70",
 							ignoreSize = "True",
 							name = "Button_migrationServer",
-							normal = "ui/login/oneYear/5.png",
-							pressed = "ui/login/oneYear/5.png",
+							normal = "ui/login/oneYear/login_migration_1.png",
+							pressed = "ui/login/oneYear/login_migration_1.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -1900,7 +1900,7 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 649,
+								PositionX = 650,
 								PositionY = 598,
 								relativeToName = "Panel",
 							},
@@ -2149,6 +2149,7 @@ local t =
 			"ui/login/004.png",
 			"ui/login/oneYear/6.png",
 			"ui/login/oneYear/4.png",
+			"ui/login/oneYear/login_migration_1.png",
 			"ui/login/002.png",
 			"ui/login/003.png",
 		},

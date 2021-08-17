@@ -2347,4 +2347,10 @@ function Utils:isOfficialChannel()
     return platformId == 101 or platformId == 173 or platformId == 682
 end
 
+function Utils:toUtcTimestap( times, timeZone )
+    timeZone = timeZone or GV_UTC_TIME_ZONE
+    local timeInterval = os.time(os.date("!*t", times)) + timeZone * 3600 + (os.date("*t", time).isdst and -1 or 0) * 3600  --isdst是否夏令时决定加一或者不加1小时
+    return timeInterval
+end
+
 return Utils

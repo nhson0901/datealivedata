@@ -142,7 +142,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -159,7 +159,7 @@ local t =
 										PositionX = -321,
 										PositionY = 182,
 									},
-									width = "45",
+									width = "43",
 									ZOrder = "1",
 								},
 								{
@@ -185,6 +185,7 @@ local t =
 										PositionX = -270,
 										PositionY = 184,
 									},
+									visible = "False",
 									width = "2",
 									ZOrder = "1",
 								},
@@ -231,7 +232,8 @@ local t =
 										PositionX = -264,
 										PositionY = 177,
 									},
-									width = "141",
+									visible = "False",
+									width = "138",
 									ZOrder = "1",
 								},
 								{
@@ -327,7 +329,7 @@ local t =
 													controlID = "Label_condTitle_Image_cond_Panel_fighting_Image_content_Panel_root_Panel-fubenReadyView_Layer1_linkageHwx_Game",
 													UUID = "4b7e5606_be7d_4f20_bfd7_dddaa572d234",
 													anchorPoint = "False",
-													anchorPointX = "0.5",
+													anchorPointX = "0",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -363,17 +365,17 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -193,
-														PositionY = -1,
+														PositionX = -241,
+														PositionY = -4,
 													},
-													width = "83",
+													width = "207",
 													ZOrder = "1",
 												},
 												{
 													controlID = "Label_condTitle2_Image_cond_Panel_fighting_Image_content_Panel_root_Panel-fubenReadyView_Layer1_linkageHwx_Game",
 													UUID = "a0438a61_5097_4423_9155_7fc3adaa7e0e",
 													anchorPoint = "False",
-													anchorPointX = "0",
+													anchorPointX = "1",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -388,14 +390,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "14",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "16",
+													height = "18",
 													ignoreSize = "True",
 													name = "Label_condTitle2",
 													nTextAlign = "1",
@@ -409,10 +411,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -136,
-														PositionY = -9,
+														PositionX = 219,
+														PositionY = -6,
 													},
-													width = "130",
+													width = "176",
 													ZOrder = "1",
 												},
 												{
@@ -458,7 +460,7 @@ local t =
 														PositionX = -206,
 														PositionY = -49,
 													},
-													width = "83",
+													width = "152",
 													ZOrder = "1",
 												},
 											},
@@ -494,7 +496,7 @@ local t =
 													controlID = "Label_targetTitle_Image_target_Panel_fighting_Image_content_Panel_root_Panel-fubenReadyView_Layer1_linkageHwx_Game",
 													UUID = "6fbbde6e_5b48_4394_902a_c084999b43d2",
 													anchorPoint = "False",
-													anchorPointX = "0.5",
+													anchorPointX = "0",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -530,17 +532,17 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -193,
-														PositionY = -1,
+														PositionX = -245,
+														PositionY = -4,
 													},
-													width = "83",
+													width = "207",
 													ZOrder = "1",
 												},
 												{
 													controlID = "Label_targetTitle2_Image_target_Panel_fighting_Image_content_Panel_root_Panel-fubenReadyView_Layer1_linkageHwx_Game",
 													UUID = "a0c78954_173c_4b67_9044_3dd653d1c41b",
 													anchorPoint = "False",
-													anchorPointX = "0",
+													anchorPointX = "1",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -555,14 +557,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "14",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "16",
+													height = "18",
 													ignoreSize = "True",
 													name = "Label_targetTitle2",
 													nTextAlign = "1",
@@ -576,10 +578,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -137,
-														PositionY = -9,
+														PositionX = 212,
+														PositionY = -6,
 													},
-													width = "104",
+													width = "126",
 													ZOrder = "1",
 												},
 												{
@@ -715,7 +717,7 @@ local t =
 																PositionX = 45,
 																PositionY = 14,
 															},
-															width = "83",
+															width = "152",
 															ZOrder = "1",
 														},
 														{
@@ -786,7 +788,7 @@ local t =
 																PositionX = 44,
 																PositionY = 14,
 															},
-															width = "91",
+															width = "170",
 															ZOrder = "1",
 														},
 														{
@@ -859,7 +861,7 @@ local t =
 																	{
 																		PositionX = 4,
 																	},
-																	width = "67",
+																	width = "126",
 																	ZOrder = "1",
 																},
 															},
@@ -999,7 +1001,7 @@ local t =
 																PositionX = 45,
 																PositionY = 14,
 															},
-															width = "83",
+															width = "152",
 															ZOrder = "1",
 														},
 														{
@@ -1070,7 +1072,7 @@ local t =
 																PositionX = 44,
 																PositionY = 14,
 															},
-															width = "91",
+															width = "170",
 															ZOrder = "1",
 														},
 														{
@@ -1143,7 +1145,7 @@ local t =
 																	{
 																		PositionX = 4,
 																	},
-																	width = "67",
+																	width = "126",
 																	ZOrder = "1",
 																},
 															},
@@ -1283,7 +1285,7 @@ local t =
 																PositionX = 46,
 																PositionY = 15,
 															},
-															width = "83",
+															width = "152",
 															ZOrder = "1",
 														},
 														{
@@ -1354,7 +1356,7 @@ local t =
 																PositionX = 44,
 																PositionY = 14,
 															},
-															width = "91",
+															width = "170",
 															ZOrder = "1",
 														},
 														{
@@ -1427,7 +1429,7 @@ local t =
 																	{
 																		PositionX = 4,
 																	},
-																	width = "67",
+																	width = "126",
 																	ZOrder = "1",
 																},
 															},
@@ -1497,7 +1499,7 @@ local t =
 													controlID = "Label_remainCount_Image_fight_info_Panel_fighting_Image_content_Panel_root_Panel-fubenReadyView_Layer1_linkageHwx_Game",
 													UUID = "75097674_d527_44ee_a234_8c1b1ce2c4c3",
 													anchorPoint = "False",
-													anchorPointX = "0",
+													anchorPointX = "1",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -1533,10 +1535,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 158,
+														PositionX = 232,
 														PositionY = -3,
 													},
-													width = "75",
+													width = "176",
 													ZOrder = "1",
 												},
 												{
@@ -1582,7 +1584,7 @@ local t =
 														PositionX = 248,
 														PositionY = -2,
 													},
-													width = "58",
+													width = "52",
 													ZOrder = "1",
 												},
 												{
@@ -1605,7 +1607,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 145,
+														PositionX = 243,
 														PositionY = 2,
 													},
 													width = "2",
@@ -1653,10 +1655,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 254,
+												PositionX = 235,
 												PositionY = 139,
 											},
-											width = "83",
+											width = "168",
 											ZOrder = "1",
 										},
 										{
@@ -1665,14 +1667,14 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEButton",
 											ClickHighLightEnabled = "True",
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
 											height = "50",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Button_ready",
 											normal = "ui/hwx/pop/014.png",
 											sizepercentx = "0",
@@ -1682,11 +1684,11 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 296,
+												PositionX = 280,
 												PositionY = -174,
 											},
 											UItype = "Button",
-											width = "120",
+											width = "142",
 											ZOrder = "1",
 											components = 
 											{
@@ -1733,7 +1735,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "107",
+													width = "128",
 													ZOrder = "1",
 												},
 											},
@@ -1961,7 +1963,7 @@ local t =
 														PositionX = -269,
 														PositionY = -2,
 													},
-													width = "75",
+													width = "114",
 													ZOrder = "1",
 												},
 												{
@@ -2139,7 +2141,7 @@ local t =
 													{
 														
 													},
-													width = "39",
+													width = "38",
 													ZOrder = "1",
 												},
 												{
@@ -2185,7 +2187,7 @@ local t =
 														PositionX = 33,
 														PositionY = -12,
 													},
-													width = "68",
+													width = "121",
 													ZOrder = "1",
 												},
 											},
@@ -2213,7 +2215,7 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 202,
+												PositionX = 177,
 												PositionY = -174,
 											},
 											UItype = "Button",
@@ -2292,7 +2294,7 @@ local t =
 														PositionX = -193,
 														PositionY = -1,
 													},
-													width = "83",
+													width = "202",
 													ZOrder = "1",
 												},
 												{
@@ -2338,7 +2340,7 @@ local t =
 														PositionX = -137,
 														PositionY = -9,
 													},
-													width = "93",
+													width = "131",
 													ZOrder = "1",
 												},
 												{
@@ -2526,7 +2528,7 @@ local t =
 														PositionX = -193,
 														PositionY = -1,
 													},
-													width = "83",
+													width = "207",
 													ZOrder = "1",
 												},
 												{
@@ -2572,7 +2574,7 @@ local t =
 														PositionX = -136,
 														PositionY = -9,
 													},
-													width = "62",
+													width = "110",
 													ZOrder = "1",
 												},
 												{
@@ -2694,7 +2696,7 @@ local t =
 														PositionX = -193,
 														PositionY = -1,
 													},
-													width = "83",
+													width = "207",
 													ZOrder = "1",
 												},
 												{
@@ -2740,7 +2742,7 @@ local t =
 														PositionX = -136,
 														PositionY = -9,
 													},
-													width = "104",
+													width = "110",
 													ZOrder = "1",
 												},
 												{
@@ -2786,7 +2788,7 @@ local t =
 														PositionX = -152,
 														PositionY = -49,
 													},
-													width = "83",
+													width = "152",
 													ZOrder = "1",
 												},
 												{
@@ -2884,7 +2886,7 @@ local t =
 														PositionX = -152,
 														PositionY = -49,
 													},
-													width = "91",
+													width = "170",
 													ZOrder = "1",
 												},
 											},
@@ -2957,7 +2959,7 @@ local t =
 												PositionX = 254,
 												PositionY = 139,
 											},
-											width = "83",
+											width = "168",
 											ZOrder = "1",
 										},
 										{
@@ -3034,7 +3036,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "107",
+													width = "138",
 													ZOrder = "1",
 												},
 											},
@@ -3223,7 +3225,7 @@ local t =
 														StrokeColor = "#FFB7982C",
 														StrokeSize = 1,
 													},
-													height = "22",
+													height = "20",
 													ignoreSize = "True",
 													name = "Label_earnings_multiple",
 													nTextAlign = "1",
@@ -3240,7 +3242,7 @@ local t =
 													{
 														
 													},
-													width = "18",
+													width = "13",
 													ZOrder = "1",
 												},
 											},
@@ -3270,8 +3272,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 175,
-										PositionY = -175,
+										PositionX = 131,
+										PositionY = -173,
 									},
 									UItype = "Button",
 									width = "104",
@@ -3322,7 +3324,7 @@ local t =
 												PositionX = -25,
 												PositionY = -4,
 											},
-											width = "29",
+											width = "27",
 											ZOrder = "1",
 										},
 										{
@@ -3396,7 +3398,7 @@ local t =
 												PositionX = 18,
 												PositionY = -13,
 											},
-											width = "43",
+											width = "49",
 											ZOrder = "1",
 										},
 									},
@@ -3426,8 +3428,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 147,
-										PositionY = -174,
+										PositionX = 103,
+										PositionY = -172,
 									},
 									uipanelviewmodel = 
 									{

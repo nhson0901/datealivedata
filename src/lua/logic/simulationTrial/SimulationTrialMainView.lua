@@ -93,8 +93,8 @@ function SimulationTrialMainView:onRedPointUpdateSimulationTrialLevel()
     end
     local isShow = false
     --
-    local infos = FubenDataMgr:getSimulationTrialInfo().info_
-
+    --local infos = FubenDataMgr:getSimulationTrialInfo().info_  --修改为下方获取试炼任务方式可以单独获取指定英雄的任务
+    local infos = {FubenDataMgr:getSimulationTrialHeroInfo(self.heroId)}
     if infos then 
         for i,v in pairs(infos) do
             for u,k in ipairs(v.tasks) do

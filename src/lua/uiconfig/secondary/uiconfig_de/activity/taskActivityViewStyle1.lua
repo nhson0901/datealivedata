@@ -591,14 +591,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "17",
+									fontSize = "22",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "54",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_desc",
 									nTextAlign = "0",
@@ -637,14 +637,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "21",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_progress_title",
 									nTextAlign = "1",
@@ -661,7 +661,7 @@ local t =
 										PositionX = -311,
 										PositionY = -31,
 									},
-									width = "115",
+									width = "129",
 									ZOrder = "1",
 								},
 								{
@@ -683,14 +683,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "21",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_progress",
 									nTextAlign = "1",
@@ -707,7 +707,7 @@ local t =
 										PositionX = -31,
 										PositionY = -51,
 									},
-									width = "74",
+									width = "80",
 									ZOrder = "1",
 								},
 								{

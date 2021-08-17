@@ -52,6 +52,10 @@ function AddRechargeActivityView:initUI(ui)
     self.ListView_task = UIListView:create(TFDirector:getChildByPath(ui, "ScrollView_task"))
     self.ListView_task:setItemsMargin(0)
 
+    if self.activityId_ == 127 then  --冰铠和海王星同时存在累充冰铠活动做特殊位置处理
+        self.Button_recharge:setPositionY(-210)
+        TFDirector:getChildByPath(ui, "ScrollView_task"):setPosition(137 , -47)
+    end
     -- self.Image_preview = Utils:previewReward()
     -- self.Image_preview:AddTo(self.Panel_root, 1000)
 end

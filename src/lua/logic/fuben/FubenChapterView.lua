@@ -373,14 +373,25 @@ function FubenChapterView:initUI(ui)
     ---海王星副本
     self.Panel_hwx = TFDirector:getChildByPath(self.Panel_root, "Panel_hwx")
     self.Panel_hwx.Label_day_title = TFDirector:getChildByPath(self.Panel_hwx, "Label_day_title")
+    self.Panel_hwx.Label_day_title:setTextById(190001083)
+    self.Panel_hwx.Label_day_title:setFontSize(20)
     self.Panel_hwx.Label_hour_title       = TFDirector:getChildByPath(self.Panel_hwx, "Label_hour_title")
+    self.Panel_hwx.Label_hour_title:setTextById(190001084)
+    self.Panel_hwx.Label_hour_title:setFontSize(20)
     self.Panel_hwx.Label_day_value       = TFDirector:getChildByPath(self.Panel_hwx, "Label_day_value")
     self.Panel_hwx.Label_hour_value         = TFDirector:getChildByPath(self.Panel_hwx, "Label_hour_value")
     self.Panel_hwx.Button_start     = TFDirector:getChildByPath(self.Panel_hwx, "Button_start")
     self.Label_hwx_des = TFDirector:getChildByPath(self.Panel_hwx, "Label_hwx_des")
-    self.Label_hwx_des:setTextById(12031194)
+    self.Panel_hwx.Button_start:getChildByName("Label_btn"):setTextById(2107019)
+    self.Label_hwx_des:setText(TextDataMgr:getText(12031194)..GV_UTC_TIME_STRING)
     self.Panel_hwx.Label_hwx_star = TFDirector:getChildByPath(self.Panel_hwx, "Label_hwx_star")
+    self.Panel_hwx.Label_hwx_star_tip = TFDirector:getChildByPath(self.Panel_hwx, "Label_hwx_star_tip")
+    self.Panel_hwx.Label_hwx_star_tip:setTextById(1330001)
     self.Panel_hwx.Panel_time = TFDirector:getChildByPath(self.Panel_hwx, "Panel_time")
+    self.Panel_hwx.Panel_time:getChildByName("Label_zuo"):setTextById(310014)
+    self.Panel_hwx.Label_hwx_tip = TFDirector:getChildByPath(self.Panel_hwx, "Label_hwx_tip")
+    self.Panel_hwx.Label_hwx_tip:setTextById(2109026)
+    
 
     --local model = SkeletonAnimation:create("modle/hero/paintshow_11751/paintshow_11751")
     --model:setAnimationFps(GameConfig.ANIM_FPS)
@@ -812,14 +823,14 @@ function FubenChapterView:updateFubenItem(index)
         end
     elseif fubenData.type_ == EC_FBType.NEWYEAR_FUBEN then
         if self.activityNewYear then
-            local year, month, day = Utils:getUTCDateYMD(self.activityNewYear.showEndTime, GV_UTC_TIME_ZONE)
+            local year, month, day = Utils:getUTCDateYMD(self.activityNewYear.showEndTime, false ,GV_UTC_TIME_ZONE)
             local timeStr  = TextDataMgr:getText(12030003,month,day)
             foo.Label_tip:setScale(0.8)
             foo.Label_tip:setText(timeStr)
         end
     elseif fubenData.type_ == EC_FBType.HWX_FUBEN then
         if self.activityHwxFuben then
-            local year, month, day = Utils:getUTCDateYMD(self.activityHwxFuben.showEndTime, GV_UTC_TIME_ZONE)
+            local year, month, day = Utils:getUTCDateYMD(self.activityHwxFuben.showEndTime,false, GV_UTC_TIME_ZONE)
             local timeStr  = TextDataMgr:getText(12030003,month,day)
             foo.Label_tip:setScale(0.8)
             foo.Label_tip:setText(timeStr)

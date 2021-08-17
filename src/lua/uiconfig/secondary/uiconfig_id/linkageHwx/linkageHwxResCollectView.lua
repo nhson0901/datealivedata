@@ -237,7 +237,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_rankPopView_1",
 									nTextAlign = "1",
@@ -246,7 +246,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "资源收集",
+									text = "Kumpulkan Sumber Daya|",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -254,7 +254,7 @@ local t =
 										PositionX = 247,
 										PositionY = 494,
 									},
-									width = "116",
+									width = "384",
 									ZOrder = "1",
 								},
 							},
@@ -319,14 +319,14 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "24",
+							fontSize = "20",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "60",
+							height = "0",
 							ignoreSize = "False",
 							name = "labDesc",
 							nTextAlign = "0",
@@ -350,7 +350,7 @@ local t =
 							controlID = "Label_ksResCollectPopView_1_pannel_root_Panel-linkageHwxResCollectView_Layer1_linkageHwx_Game",
 							UUID = "50248ca4_0504_4f22_a355_b27b96668c62",
 							anchorPoint = "False",
-							anchorPointX = "0.5",
+							anchorPointX = "0",
 							anchorPointY = "0.5",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
@@ -365,14 +365,14 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "22",
+							fontSize = "18",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "27",
+							height = "21",
 							ignoreSize = "True",
 							name = "Label_ksResCollectPopView_1",
 							nTextAlign = "1",
@@ -386,10 +386,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 325,
+								PositionX = 252,
 								PositionY = 196,
 							},
-							width = "141",
+							width = "182",
 							ZOrder = "1",
 							components = 
 							{
@@ -420,7 +420,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "labLastNum",
 									nTextAlign = "1",
@@ -434,9 +434,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 80,
+										PositionX = 192,
 									},
-									width = "36",
+									width = "27",
 									ZOrder = "1",
 								},
 							},
@@ -633,7 +633,7 @@ local t =
 									{
 										PositionX = -40,
 									},
-									width = "10",
+									width = "13",
 									ZOrder = "1",
 								},
 							},
@@ -689,15 +689,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "26",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_ksResCollectPopView_1",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -712,7 +712,7 @@ local t =
 									{
 										
 									},
-									width = "55",
+									width = "120",
 									ZOrder = "1",
 								},
 							},
@@ -812,7 +812,7 @@ local t =
 									{
 										PositionX = 58,
 									},
-									width = "72",
+									width = "79",
 									ZOrder = "1",
 								},
 							},
@@ -868,15 +868,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "26",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_double",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -891,7 +891,7 @@ local t =
 									{
 										
 									},
-									width = "107",
+									width = "120",
 									ZOrder = "1",
 								},
 							},

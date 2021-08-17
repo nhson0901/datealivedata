@@ -704,7 +704,7 @@ function BattleResultView:refreshView()
                         if displayCfg and 3 == displayCfg.displayDetail then
                             self.Image_skyladder_fight:setVisible(true)
                             local timeRate = 1
-                            local curTime = math.ceil(self.passTime_ / 1000)
+                            local curTime = math.floor(self.passTime_ / 1000)
                             local remainTime = self.levelCfg_.time - curTime
                             remainTime = remainTime > 0 and remainTime or 0
                             local rate = math.floor(timeRate*remainTime)

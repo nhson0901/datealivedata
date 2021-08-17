@@ -237,7 +237,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_rankPopView_1",
 									nTextAlign = "1",
@@ -246,7 +246,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "资源收集",
+									text = "รวบรวมทรัพยากร",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -254,7 +254,7 @@ local t =
 										PositionX = 247,
 										PositionY = 494,
 									},
-									width = "116",
+									width = "176",
 									ZOrder = "1",
 								},
 							},
@@ -326,7 +326,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "60",
+							height = "0",
 							ignoreSize = "False",
 							name = "labDesc",
 							nTextAlign = "0",
@@ -372,7 +372,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "27",
+							height = "25",
 							ignoreSize = "True",
 							name = "Label_ksResCollectPopView_1",
 							nTextAlign = "1",
@@ -389,7 +389,7 @@ local t =
 								PositionX = 325,
 								PositionY = 196,
 							},
-							width = "141",
+							width = "65",
 							ZOrder = "1",
 							components = 
 							{
@@ -420,7 +420,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "labLastNum",
 									nTextAlign = "1",
@@ -436,7 +436,7 @@ local t =
 									{
 										PositionX = 80,
 									},
-									width = "36",
+									width = "27",
 									ZOrder = "1",
 								},
 							},
@@ -633,7 +633,7 @@ local t =
 									{
 										PositionX = -40,
 									},
-									width = "10",
+									width = "13",
 									ZOrder = "1",
 								},
 							},
@@ -712,7 +712,7 @@ local t =
 									{
 										
 									},
-									width = "55",
+									width = "53",
 									ZOrder = "1",
 								},
 							},
@@ -737,7 +737,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 450,
+								PositionX = 500,
 								PositionY = 144,
 							},
 							width = "140",
@@ -812,7 +812,7 @@ local t =
 									{
 										PositionX = 58,
 									},
-									width = "72",
+									width = "79",
 									ZOrder = "1",
 								},
 							},
@@ -823,14 +823,14 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEButton",
 							ClickHighLightEnabled = "True",
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
 							height = "50",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "btn_double",
 							normal = "ui/hwx/pop/014.png",
 							sizepercentx = "0",
@@ -840,11 +840,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 311,
+								PositionX = 334,
 								PositionY = 143,
 							},
 							UItype = "Button",
-							width = "120",
+							width = "180",
 							ZOrder = "1",
 							components = 
 							{
@@ -891,7 +891,7 @@ local t =
 									{
 										
 									},
-									width = "107",
+									width = "170",
 									ZOrder = "1",
 								},
 							},

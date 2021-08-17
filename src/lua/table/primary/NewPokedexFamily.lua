@@ -188,7 +188,7 @@ return {
         scale  = 0.35,
         paintPosition = {
             y = 10,
-            x = 950,
+            x = 980,
         },
     },
     [17] = {
@@ -357,6 +357,30 @@ return {
         paintPosition = {
             y = 340,
             x = 450,
+        },
+    },
+    [31] = {
+        show = 1,
+        heroSkinId = 1122011,
+        sort = 3,
+        id = 31,
+        heroId = 112201,
+        scale  = 0.3,
+        paintPosition = {
+            y = 325,
+            x = 570,
+        },
+    },
+    [32] = {
+        show = 1,
+        heroSkinId = 1123011,
+        sort = 3,
+        id = 32,
+        heroId = 112301,
+        scale  = 0.3,
+        paintPosition = {
+            y = 315,
+            x = 650,
         },
     },
 }

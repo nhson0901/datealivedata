@@ -23,7 +23,7 @@ function LinkageHwxMainView:ctor( data )
     self.maxTurnNum = 0
     if  self.activityInfo and self.activityInfo.extendData then
         self.maxTurnNum = #self.activityInfo.extendData.roundduration
-        self.battleendtime = self.activityInfo.extendData.activityduration.battleendtime
+        self.battleendtime = Utils:toUtcTimestap( self.activityInfo.extendData.activityduration.battleendtime, GV_UTC_TIME_ZONE )
     end
 
     self.lastCityIdInMapOne = 1
@@ -451,6 +451,8 @@ function LinkageHwxMainView:updateMapPoint(cityId,cityCfg,data,isUnlock)
         table.insert(self.timingNode,cityPoint.Label_res_time)
     end
     cityPoint.Label_res_time.timingFunc()
+
+    cityPoint.Image_name:setContentSize(CCSizeMake(math.max(cityPoint.Label_name:getContentSize().width + 10, cityPoint.Label_res_time:getContentSize().width + 10 ),h))
 end
 
 function LinkageHwxMainView:changeMap()

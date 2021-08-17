@@ -81791,7 +81791,7 @@ return {
         text = {
             [1] = {
                 speed = 10,
-                text = "Cannot dodge at all... I underestimated her! My Faith has been taken away by it before... I didn't expect such drastic improvement in such a short time...",
+                text = "This is too difficult to escape... I underestimated her! My Faith has been taken away by it before... I didn't expect such drastic improvement in such a short time...",
             },
         },
         actionL = {
@@ -89849,7 +89849,7 @@ return {
         text = {
             [1] = {
                 speed = 10,
-                text = "Oh my, isn't that obvious? I can't allow DEM to get their hands on a goddess.",
+                text = "Oh my. Of course, it is because if a goddess falls into the hands of the DEM, some people will be in trouble.",
             },
         },
         actionL = {
@@ -90121,7 +90121,7 @@ return {
         text = {
             [1] = {
                 speed = 10,
-                text = "She must be a female cadre of an evil organization and the mistress of its leader, a common and easy to understand position!",
+                text = "She must be a female executive of an evil organization and the mistress of their boss, a common and easy to understand position!",
             },
         },
         actionL = {
@@ -110880,7 +110880,7 @@ return {
         text = {
             [1] = {
                 speed = 10,
-                text = "Nep? What's that? Is it a hidden Collabo Instance?",
+                text = "Nep? What's that? Is it a hidden boss?",
             },
         },
         actionL = {
@@ -127668,7 +127668,7 @@ return {
         text = {
             [1] = {
                 speed = 10,
-                text = "Hehe... Please be patient.",
+                text = "Hehe… What will it be?",
             },
         },
         actionL = {
@@ -135314,7 +135314,7 @@ return {
         text = {
             [1] = {
                 speed = 10,
-                text = "Feels like the power of spirit... Should we help %s?",
+                text = "Feels like the power of a spirit... Should we help %s?",
             },
         },
         actionL = {
@@ -136538,7 +136538,7 @@ return {
         text = {
             [1] = {
                 speed = 10,
-                text = "%s, the Spirit Power of spirits is very unstable. There is a risk of immediate inverse.",
+                text = "%s, the Spirit Power of the spirits is very unstable. There is a risk of immediate inverse.",
             },
         },
         actionL = {
@@ -136946,7 +136946,7 @@ return {
         text = {
             [1] = {
                 speed = 10,
-                text = "This is a new invention based on Ike's research on Sephira Crystal.",
+                text = "This is a new invention based on Ike's research on Sephira Crystals.",
             },
         },
         actionL = {
@@ -145638,7 +145638,7 @@ Father... Mother...",
         text = {
             [1] = {
                 speed = 10,
-                text = "I might not be able to find you if you stay in the shadow. So why did you show yourself all of a sudden?",
+                text = "I wouldn't have been able to find you if you stayed in the shadows. So why did you show yourself all of a sudden?",
             },
         },
         actionL = {
@@ -162950,7 +162950,7 @@ Father... Mother...",
         text = {
             [1] = {
                 speed = 10,
-                text = "Meet you again. I've been waiting for so long since Ike asked me to do so.",
+                text = "So we meet again. I've been waiting for so long since Ike asked me to do so.",
             },
         },
         actionL = {

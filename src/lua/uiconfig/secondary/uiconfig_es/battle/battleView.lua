@@ -12414,7 +12414,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "作战时间",
+													text = "Battle time",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -12422,7 +12422,7 @@ local t =
 														PositionX = -15,
 														PositionY = 9,
 													},
-													width = "67",
+													width = "93",
 													ZOrder = "1",
 												},
 											},
