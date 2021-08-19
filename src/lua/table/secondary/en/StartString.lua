@@ -423,6 +423,10 @@ return {
         id = 800119,
         text = "End in %d D %d Hr%d Min",
     },
+    [190000888] = {
+        id = 190000888,
+        text = "Updating additional resources, enter after the update is complete. ",
+    },
     [800120] = {
         id = 800120,
         text = "Cannot connect to battle server",

@@ -423,6 +423,10 @@ return {
         id = 800119,
         text = "%d일 %d시간 %d분 후 종료",
     },
+    [190000888] = {
+        id = 190000888,
+        text = "Updating additional resources, enter after the update is complete. ",
+    },
     [800120] = {
         id = 800120,
         text = "전투 서버에 연결할 수 없습니다.",

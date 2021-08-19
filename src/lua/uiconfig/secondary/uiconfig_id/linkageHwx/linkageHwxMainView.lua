@@ -565,7 +565,7 @@ local t =
 							classname = "MEImage",
 							dstBlendFunc = "771",
 							height = "132",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "Image_stage_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -575,10 +575,10 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -446,
+								PositionX = -420,
 								PositionY = 188,
 							},
-							width = "210",
+							width = "284",
 							ZOrder = "1",
 							components = 
 							{
@@ -623,10 +623,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 82,
+										PositionX = 128,
 										PositionY = 42,
 									},
-									width = "110",
+									width = "156",
 									ZOrder = "1",
 								},
 								{
@@ -669,7 +669,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 85,
+										PositionX = 126,
 										PositionY = 9,
 									},
 									width = "35",

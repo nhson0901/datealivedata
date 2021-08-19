@@ -431,6 +431,10 @@ return {
         id = 800121,
         text = "Verbindung zum Server fehlgeschlagen",
     },
+    [190000888] = {
+        id = 190000888,
+        text = "Updating additional resources, enter after the update is complete. ",
+    },
     [800122] = {
         id = 800122,
         text = "Verbindung vom Server getrennt",

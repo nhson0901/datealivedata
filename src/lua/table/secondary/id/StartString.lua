@@ -431,6 +431,10 @@ return {
         id = 800121,
         text = "Gagal terhubung ke server",
     },
+    [190000888] = {
+        id = 190000888,
+        text = "Updating additional resources, enter after the update is complete. ",
+    },
     [800122] = {
         id = 800122,
         text = "Koneksi server putus",

@@ -886,6 +886,9 @@ end
 
 function TFAssetsManager:setLoadedSucAwbFile( id, value )
 	local KEY_LOADED_AWB_FILE = "KEY_LOADED_NEWAWB_FILE_"
+	if GOOGLE_ASSERT_PACK then
+		KEY_LOADED_AWB_FILE = KEY_LOADED_AWB_FILE ..self.baseAppVersion .."_"
+	end
 	if id and (id > 0) then
 		KEY_LOADED_AWB_FILE = KEY_LOADED_AWB_FILE ..id
 		CCUserDefault:sharedUserDefault():setIntegerForKey(KEY_LOADED_AWB_FILE, value)
@@ -895,6 +898,9 @@ end
 
 function TFAssetsManager:getLoadedSucAwbFile( id )
 	local KEY_LOADED_AWB_FILE = "KEY_LOADED_NEWAWB_FILE_"
+	if GOOGLE_ASSERT_PACK then
+		KEY_LOADED_AWB_FILE = KEY_LOADED_AWB_FILE ..self.baseAppVersion .."_"
+	end
 	if id and (id > 0) then
 		KEY_LOADED_AWB_FILE = KEY_LOADED_AWB_FILE ..id
 		return CCUserDefault:sharedUserDefault():getIntegerForKey(KEY_LOADED_AWB_FILE, 0)

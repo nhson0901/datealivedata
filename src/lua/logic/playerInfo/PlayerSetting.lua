@@ -43,15 +43,6 @@ function PlayerSetting:initData(data)
         })
     end
 
-    ---灵力共鸣是否开启
-    local isOpen = FunctionDataMgr:isOpen(151)
-    if isOpen then
-        table.insert(self.btnConfig_, {
-            txt = 14221105,
-            idx = 5,
-            iconImg = "ui/fairy/new_ui/gongming/3.png",
-        })
-    end
 
     self.defaultIdx = data and data.selectIdx or nil
     self.selectIndex_ = nil

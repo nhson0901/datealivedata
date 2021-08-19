@@ -11,6 +11,11 @@ function GoogleAssetPackLayer:initData( ... )
     self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.DEFAULT
     self.assetPacks = {{packName = "InstallPack"}, {packName = "FastFollowOnePack"}, {packName = "FastFollowTwoPack"}}
     self.readyAssetPacks = {}
+
+    local ret = TFClientGameAssetManager:requestRemoval("FastFollowOnePack")
+    print("GoogleAssetPackLayer FClientGameAssetManager:requestRemoval FastFollowOnePack  >> " ..tostring(ret))
+    local ret = TFClientGameAssetManager:requestRemoval("FastFollowTwoPack")
+    print("GoogleAssetPackLayer FClientGameAssetManager:requestRemoval FastFollowTwoPack  >> " ..tostring(ret))
 end
 
 function GoogleAssetPackLayer:initUI(ui)
@@ -95,19 +100,26 @@ end
 function GoogleAssetPackLayer:displayAssetPackUI( assetPackName )
     local assetStatus = TFClientGameAssetManager:getGameAssetPackStatus(assetPackName)
     if(assetStatus == TFClientGameAssetManager.GAMEASSET_NOT_FOUND) then
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_WAITING_FOR_STATUS) then 
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_NEEDS_DOWNLOAD) then 
+    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_WAITING_FOR_STATUS) then --fast fallow pack default status
+        self:displayWaitingForStatus(assetPackName)
+    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_NEEDS_DOWNLOAD) then --The asset pack isn't installed. or Asset pack download has been canceled. will change to this status
         self:displayAssetPackNeedsDownloadStatus(assetPackName)
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_NEEDS_MOBILE_AUTH) then 
+    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_NEEDS_MOBILE_AUTH) then --The asset pack download is waiting for Wi-Fi to proceed.
         self:displayAssetPackNeedsMobileAuthStatus(assetPackName)
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_DOWNLOADING) then 
+    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_DOWNLOADING) then --after An AssetPackManager_requestDownload() async request is pending.
         self:displayAssetPackDownloadStatus(assetPackName)
     elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_READY) then 
         self:displayAssetPackReadyStatus(assetPackName)
     elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_PENDING_ACTION) then 
+    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_PACK_TRANSFERRING) then --The asset pack is being transferred to the app.
     elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_ERROR) then 
         self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_ERROR
     end
+end
+
+function GoogleAssetPackLayer:displayWaitingForStatus( assetPackName )
+    self.tipLabel:setText(self.strCfg[190000888].text  .."  " ..assetPackName)
+    self.tipLabel:show()
 end
 
 function GoogleAssetPackLayer:displayAssetPackNeedsDownloadStatus( assetPackName )
