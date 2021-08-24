@@ -415,24 +415,40 @@ return {
         id = 800117,
         text = "Kesempatan habis",
     },
+    [190012042] = {
+        id = 190012042,
+        text = "The asset pack isn&apos;t installed (%s)...",
+    },
     [800118] = {
         id = 800118,
         text = "Kartu bulanan tersisa %s hari",
+    },
+    [190012041] = {
+        id = 190012041,
+        text = "The asset pack download is waiting for Wi-Fi to proceed (%s)... ",
     },
     [800119] = {
         id = 800119,
         text = "Berakhir dalam %d hari %d jam %d menit",
     },
+    [190012040] = {
+        id = 190012040,
+        text = "The asset pack is being transferred to the app (%s)... ",
+    },
     [800120] = {
         id = 800120,
         text = "Tidak bisa terhubung ke server battle",
+    },
+    [190012039] = {
+        id = 190012039,
+        text = "The Google Play Store additional file is downloading (%s) ...",
     },
     [800121] = {
         id = 800121,
         text = "Gagal terhubung ke server",
     },
-    [190000888] = {
-        id = 190000888,
+    [190012038] = {
+        id = 190012038,
         text = "Updating additional resources, enter after the update is complete. ",
     },
     [800122] = {

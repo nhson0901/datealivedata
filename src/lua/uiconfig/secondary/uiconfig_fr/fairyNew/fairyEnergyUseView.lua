@@ -587,7 +587,7 @@ local t =
 														PositionX = 60,
 														PositionY = -4,
 													},
-													width = "67",
+													width = "66",
 													ZOrder = "1",
 												},
 											},
@@ -725,7 +725,7 @@ local t =
 														PositionX = 50,
 														PositionY = 44,
 													},
-													width = "36",
+													width = "37",
 													ZOrder = "1",
 												},
 												{
@@ -825,7 +825,7 @@ local t =
 														PositionX = 60,
 														PositionY = 8,
 													},
-													width = "67",
+													width = "66",
 													ZOrder = "1",
 												},
 											},
@@ -1063,7 +1063,7 @@ local t =
 														PositionX = 60,
 														PositionY = 8,
 													},
-													width = "67",
+													width = "66",
 													ZOrder = "1",
 												},
 											},
@@ -1236,7 +1236,7 @@ local t =
 												PositionX = -78,
 												PositionY = 29,
 											},
-											width = "118",
+											width = "109",
 											ZOrder = "1",
 										},
 										{
@@ -1425,7 +1425,7 @@ local t =
 											controlID = "Label_title_Image_title_bg_Panel_right_Panel_base_Panel-fairyEnergyUseView_Layer1_fairyNew_Game",
 											UUID = "d1132128_1920_499a_8849_d4809fbb044a",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "0",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -1461,9 +1461,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -238,
+												PositionX = -270,
 											},
-											width = "50",
+											width = "55",
 											ZOrder = "1",
 										},
 										{
@@ -1488,7 +1488,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -193,
+												PositionX = -32,
 												PositionY = 3,
 											},
 											width = "44",
@@ -1538,7 +1538,7 @@ local t =
 												PositionY = -12,
 											},
 											visible = "False",
-											width = "123",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -1590,14 +1590,14 @@ local t =
 							anchorPointY = "0",
 							backGroundScale9Enable = "False",
 							bgColorOpacity = "50",
-							bIsOpenClipping = "False",
+							bIsOpenClipping = "True",
 							classname = "MEPanel",
 							colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 							DesignHeight = "640",
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "112",
+							height = "171",
 							ignoreSize = "False",
 							name = "Panel_skill_item",
 							sizepercentx = "0",
@@ -1626,11 +1626,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "112",
-									ignoreSize = "True",
+									height = "167",
+									ignoreSize = "False",
 									name = "Image_bg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -1640,8 +1640,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 283,
-										PositionY = 56,
+										PositionX = 280,
+										PositionY = 86,
 									},
 									width = "528",
 									ZOrder = "1",
@@ -1665,15 +1665,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = true,
 										StrokeColor = "#FF4C909E",
 										StrokeSize = 2,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "25",
+									ignoreSize = "True",
 									name = "Label_skill_name",
 									nTextAlign = "1",
 									nTextHAlign = "0",
@@ -1686,17 +1686,17 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 31,
-										PositionY = 93,
+										PositionX = 20,
+										PositionY = 152,
 									},
-									width = "146",
+									width = "191",
 									ZOrder = "1",
 								},
 								{
 									controlID = "Label_skill_level_Panel_skill_item_Panel_base_Panel-fairyEnergyUseView_Layer1_fairyNew_Game",
 									UUID = "006d97be_cbb0_4d36_8da3_bf7b500e0093",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -1732,8 +1732,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 209,
-										PositionY = 93,
+										PositionX = 538,
+										PositionY = 152,
 									},
 									width = "57",
 									ZOrder = "1",
@@ -1742,7 +1742,7 @@ local t =
 									controlID = "Label_level_limit_Panel_skill_item_Panel_base_Panel-fairyEnergyUseView_Layer1_fairyNew_Game",
 									UUID = "7443cd80_e955_4e71_b5b7_a81cc55d604e",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -1757,7 +1757,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = true,
@@ -1768,7 +1768,7 @@ local t =
 									ignoreSize = "False",
 									name = "Label_level_limit",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1778,10 +1778,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 397,
-										PositionY = 95,
+										PositionX = 21,
+										PositionY = 29,
 									},
-									width = "220",
+									width = "516",
 									ZOrder = "1",
 								},
 								{
@@ -1804,8 +1804,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 69,
-										PositionY = 38,
+										PositionX = 65,
+										PositionY = 95,
 									},
 									width = "72",
 									ZOrder = "1",
@@ -1830,8 +1830,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 69,
-										PositionY = 38,
+										PositionX = 65,
+										PositionY = 95,
 									},
 									width = "44",
 									ZOrder = "1",
@@ -1876,10 +1876,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 214,
-										PositionY = 38,
+										PositionX = 210,
+										PositionY = 95,
 									},
-									width = "74",
+									width = "77",
 									ZOrder = "1",
 								},
 								{
@@ -1902,8 +1902,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 439,
-										PositionY = 40,
+										PositionX = 435,
+										PositionY = 97,
 									},
 									width = "154",
 									ZOrder = "1",
@@ -1948,8 +1948,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 437,
-										PositionY = 39,
+										PositionX = 433,
+										PositionY = 96,
 									},
 									width = "80",
 									ZOrder = "1",
@@ -1977,8 +1977,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 516,
-										PositionY = 40,
+										PositionX = 512,
+										PositionY = 97,
 									},
 									UItype = "Button",
 									width = "44",
@@ -2007,8 +2007,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 356,
-										PositionY = 40,
+										PositionX = 352,
+										PositionY = 97,
 									},
 									UItype = "Button",
 									width = "44",

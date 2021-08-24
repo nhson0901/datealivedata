@@ -197,7 +197,7 @@ local t =
 										PositionX = 568,
 										PositionY = 430,
 									},
-									width = "410",
+									width = "382",
 									ZOrder = "1",
 								},
 								{
@@ -243,7 +243,7 @@ local t =
 										PositionX = 406,
 										PositionY = 368,
 									},
-									width = "120",
+									width = "126",
 									ZOrder = "1",
 								},
 								{
@@ -289,7 +289,7 @@ local t =
 										PositionX = 713,
 										PositionY = 368,
 									},
-									width = "121",
+									width = "126",
 									ZOrder = "1",
 								},
 								{
@@ -368,15 +368,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_title1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -389,9 +389,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = 21,
+												PositionY = 29,
 											},
-											width = "294",
+											width = "130",
 											ZOrder = "1",
 										},
 										{
@@ -465,7 +465,7 @@ local t =
 												PositionX = 7,
 												PositionY = -17,
 											},
-											width = "36",
+											width = "37",
 											ZOrder = "1",
 										},
 									},
@@ -548,7 +548,7 @@ local t =
 								PercentX = 50,
 								PercentY = 16.72,
 							},
-							width = "216",
+							width = "206",
 							ZOrder = "1",
 						},
 					},

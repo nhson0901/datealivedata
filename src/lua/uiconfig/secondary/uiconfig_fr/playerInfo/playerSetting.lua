@@ -6559,7 +6559,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 341,
+										PositionX = 444,
 										PositionY = 50,
 									},
 									width = "140",
@@ -6665,11 +6665,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 192,
+										PositionX = 246,
 										PositionY = 50,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "217",
 									ZOrder = "1",
 									components = 
 									{
@@ -6716,7 +6716,7 @@ local t =
 											{
 												
 											},
-											width = "119",
+											width = "201",
 											ZOrder = "1",
 										},
 										{
@@ -6739,7 +6739,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 62,
+												PositionX = 100,
 												PositionY = 24,
 											},
 											width = "30",
@@ -6770,11 +6770,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 1058,
+										PositionX = 1037,
 										PositionY = 50,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "175",
 									ZOrder = "1",
 									components = 
 									{
@@ -6821,7 +6821,7 @@ local t =
 											{
 												PositionX = 1,
 											},
-											width = "120",
+											width = "166",
 											ZOrder = "1",
 										},
 									},
@@ -6849,11 +6849,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 1058,
+										PositionX = 1037,
 										PositionY = 50,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "175",
 									ZOrder = "1",
 									components = 
 									{
@@ -6900,7 +6900,7 @@ local t =
 											{
 												
 											},
-											width = "119",
+											width = "166",
 											ZOrder = "1",
 										},
 									},
@@ -6978,14 +6978,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "16",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "80",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_qiyue_tips",
 											nTextAlign = "1",
@@ -6994,7 +6994,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "TextLable",
+											text = "Collect Spirits with high quality to raise covenant level cap. (Collabo Spirits are excluded)",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 

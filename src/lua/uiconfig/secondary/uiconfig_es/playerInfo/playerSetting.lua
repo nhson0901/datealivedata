@@ -5579,7 +5579,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 60,
+														PositionY = 46,
 													},
 													width = "50",
 													ZOrder = "1",
@@ -5625,7 +5625,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 34,
+														PositionY = -30,
 													},
 													width = "95",
 													ZOrder = "1",
@@ -5817,7 +5817,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 74,
+														PositionY = 62,
 													},
 													width = "50",
 													ZOrder = "1",
@@ -5863,7 +5863,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 44,
+														PositionY = -17,
 													},
 													width = "39",
 													ZOrder = "1",
@@ -6055,7 +6055,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 71,
+														PositionY = 59,
 													},
 													width = "50",
 													ZOrder = "1",
@@ -6101,7 +6101,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 43,
+														PositionY = -17,
 													},
 													width = "112",
 													ZOrder = "1",
@@ -6553,7 +6553,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 341,
+										PositionX = 430,
 										PositionY = 50,
 									},
 									width = "140",
@@ -6659,11 +6659,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 192,
+										PositionX = 246,
 										PositionY = 50,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "199",
 									ZOrder = "1",
 									components = 
 									{
@@ -6694,8 +6694,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_add_title",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -6710,7 +6710,7 @@ local t =
 											{
 												
 											},
-											width = "165",
+											width = "191",
 											ZOrder = "1",
 										},
 										{
@@ -6733,7 +6733,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 62,
+												PositionX = 96,
 												PositionY = 24,
 											},
 											width = "30",
@@ -6764,11 +6764,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 1058,
+										PositionX = 1012,
 										PositionY = 50,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "207",
 									ZOrder = "1",
 									components = 
 									{
@@ -6843,11 +6843,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 1058,
+										PositionX = 1012,
 										PositionY = 50,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "207",
 									ZOrder = "1",
 									components = 
 									{
@@ -6979,7 +6979,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "80",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_qiyue_tips",
 											nTextAlign = "1",
@@ -6988,7 +6988,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "TextLable",
+											text = "Collect Spirits with high quality to raise covenant level cap. (Collabo Spirits are excluded)",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 

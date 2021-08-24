@@ -218,9 +218,9 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 312,
-								PositionY = 432,
+								PositionY = 437,
 							},
-							width = "152",
+							width = "162",
 							ZOrder = "1",
 						},
 						{
@@ -273,7 +273,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "16",
+							fontSize = "18",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -284,7 +284,7 @@ local t =
 							ignoreSize = "False",
 							name = "Label_tips1",
 							nTextAlign = "0",
-							nTextHAlign = "1",
+							nTextHAlign = "0",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -294,10 +294,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 445,
-								PositionY = 338,
+								PositionX = 343,
+								PositionY = 342,
 							},
-							width = "300",
+							width = "441",
 							ZOrder = "1",
 						},
 						{
@@ -322,7 +322,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 662,
+								PositionX = 569,
 								PositionY = 392,
 							},
 							width = "100",
@@ -423,7 +423,7 @@ local t =
 								PositionX = 553,
 								PositionY = 283,
 							},
-							width = "266",
+							width = "260",
 							ZOrder = "1",
 						},
 						{
@@ -497,7 +497,7 @@ local t =
 								PositionX = 591,
 								PositionY = 251,
 							},
-							width = "74",
+							width = "75",
 							ZOrder = "1",
 						},
 						{

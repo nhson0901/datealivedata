@@ -9,13 +9,8 @@ end
 
 function GoogleAssetPackLayer:initData( ... )
     self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.DEFAULT
-    self.assetPacks = {{packName = "InstallPack"}, {packName = "FastFollowOnePack"}, {packName = "FastFollowTwoPack"}}
+    self.assetPacks = {{packName = "InstallPack"}, {packName = "FastFollowPack"}}
     self.readyAssetPacks = {}
-
-    local ret = TFClientGameAssetManager:requestRemoval("FastFollowOnePack")
-    print("GoogleAssetPackLayer FClientGameAssetManager:requestRemoval FastFollowOnePack  >> " ..tostring(ret))
-    local ret = TFClientGameAssetManager:requestRemoval("FastFollowTwoPack")
-    print("GoogleAssetPackLayer FClientGameAssetManager:requestRemoval FastFollowTwoPack  >> " ..tostring(ret))
 end
 
 function GoogleAssetPackLayer:initUI(ui)
@@ -112,25 +107,53 @@ function GoogleAssetPackLayer:displayAssetPackUI( assetPackName )
         self:displayAssetPackReadyStatus(assetPackName)
     elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_PENDING_ACTION) then 
     elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_PACK_TRANSFERRING) then --The asset pack is being transferred to the app.
+        self:displayAssetPackTransferring(assetPackName)
     elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_ERROR) then 
         self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_ERROR
     end
 end
 
-function GoogleAssetPackLayer:displayWaitingForStatus( assetPackName )
-    self.tipLabel:setText(self.strCfg[190000888].text  .."  " ..assetPackName)
+function GoogleAssetPackLayer:displayAssetPackTransferring( assetPackName )
+    self.loadingBar:setPercent(100)
+    self.loadingBar:show()
+
+    self.tipLabel:setText(string.format(self.strCfg[190012040].text, assetPackName))
     self.tipLabel:show()
+
+    self.percentLabel:setText(string.format(self.strCfg[800093].text, 100))
+    self.percentLabel:show()
+end
+
+function GoogleAssetPackLayer:displayWaitingForStatus( assetPackName )
+    self.tipLabel:setText(self.strCfg[190012038].text  .."  " ..assetPackName)
+    self.tipLabel:show()
+
+    self.loadingBar:hide()
+    self.percentLabel:hide()
 end
 
 function GoogleAssetPackLayer:displayAssetPackNeedsDownloadStatus( assetPackName )
-    print("GoogleAssetPackLayer:displayAssetPackNeedsDownloadStatus")
+    self.tipLabel:setText(string.format(self.strCfg[190012042].text, assetPackName))
+    self.tipLabel:show()
+
+    self.loadingBar:setPercent(0)
+    self.loadingBar:show()
+
+    self.percentLabel:hide()
+
     local assetPackSizeMB = TFClientGameAssetManager:getDownloadTotalPackDownloadSize(assetPackName)
-    print("GoogleAssetPackLayer:displayAssetPackNeedsDownloadStatus   assetPackSizeMB  " ..assetPackSizeMB)
     TFClientGameAssetManager:requestDownload(assetPackName)
 end
 
 function GoogleAssetPackLayer:displayAssetPackNeedsMobileAuthStatus( assetPackName )
-    print("GoogleAssetPackLayer:displayAssetPackNeedsMobileAuthStatus")
+    self.tipLabel:setText(string.format(self.strCfg[190012041].text, assetPackName))
+    self.tipLabel:show()
+
+    self.loadingBar:setPercent(0)
+    self.loadingBar:show()
+
+    self.percentLabel:hide()
+
     local assetPackSizeMB = TFClientGameAssetManager:getDownloadTotalPackDownloadSize(assetPackName)
     TFClientGameAssetManager:requestMobileDataDownloads()
 end
@@ -150,8 +173,10 @@ function GoogleAssetPackLayer:displayAssetPackDownloadStatus( assetPackName )
     if displayPercent > 0 then
         self.loadingBar:setPercent(displayPercent)
         self.loadingBar:show()
-        self.tipLabel:setText(assetPackName .."  " ..self.strCfg[800095].text)
+
+        self.tipLabel:setText(string.format(self.strCfg[190012039].text, assetPackName))
         self.tipLabel:show()
+        
         self.percentLabel:setText(string.format(self.strCfg[800093].text, displayPercent))
         self.percentLabel:show()
     end

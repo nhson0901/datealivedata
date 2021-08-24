@@ -10351,8 +10351,8 @@ local t =
 															touchAble = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 240,
-																PositionY = 12,
+																PositionX = 261,
+																PositionY = 13,
 															},
 															width = "36",
 															ZOrder = "1",
@@ -11179,7 +11179,7 @@ local t =
 														PositionY = 65,
 													},
 													UItype = "Button",
-													width = "120",
+													width = "179",
 													ZOrder = "1",
 													components = 
 													{
@@ -11226,7 +11226,7 @@ local t =
 															{
 																
 															},
-															width = "120",
+															width = "209",
 															ZOrder = "1",
 														},
 													},

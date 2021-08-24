@@ -407,24 +407,40 @@ return {
         id = 800115,
         text = "The text server will open on %d-%d %d:00. Thanks for your attention!",
     },
+    [190012042] = {
+        id = 190012042,
+        text = "The asset pack isn&apos;t installed (%s)...",
+    },
     [800116] = {
         id = 800116,
         text = "Verification failure",
+    },
+    [190012041] = {
+        id = 190012041,
+        text = "The asset pack download is waiting for Wi-Fi to proceed (%s)... ",
     },
     [800117] = {
         id = 800117,
         text = "Out of chances",
     },
+    [190012040] = {
+        id = 190012040,
+        text = "The asset pack is being transferred to the app (%s)... ",
+    },
     [800118] = {
         id = 800118,
         text = "Month Card: %s day(s) left",
+    },
+    [190012039] = {
+        id = 190012039,
+        text = "The Google Play Store additional file is downloading (%s) ...",
     },
     [800119] = {
         id = 800119,
         text = "End in %d D %d Hr%d Min",
     },
-    [190000888] = {
-        id = 190000888,
+    [190012038] = {
+        id = 190012038,
         text = "Updating additional resources, enter after the update is complete. ",
     },
     [800120] = {

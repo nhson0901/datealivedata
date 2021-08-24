@@ -95,11 +95,17 @@ end
 function PackBranchLayer:downLoadExtListFileSuc()
     --官网3，亚马逊4，谷歌小包5 ，华为小包 6
     if HeitaoSdk then
-        local checkExtId = self:getFuncIDByLangCode(TFLanguageMgr:getUsingLanguage())
-        if (checkExtId) then
-            TFAssetsManager:downloadAssetsOfFunc(checkExtId, function()
+        if GOOGLE_ASSERT_PACK then
+            TFAssetsManager:downloadFullAssets(function()
                 AlertManager:changeScene(SceneType.LOGO)
-            end, false)
+            end)
+        else
+            local checkExtId = self:getFuncIDByLangCode(TFLanguageMgr:getUsingLanguage())
+            if (checkExtId) then
+                TFAssetsManager:downloadAssetsOfFunc(checkExtId, function()
+                    AlertManager:changeScene(SceneType.LOGO)
+                end, false)
+            end
         end
         return 
     end

@@ -415,24 +415,40 @@ return {
         id = 800117,
         text = "Plus de chances",
     },
+    [190012042] = {
+        id = 190012042,
+        text = "The asset pack isn&apos;t installed (%s)...",
+    },
     [800118] = {
         id = 800118,
         text = "Carte de mois : %s jour(s) restant",
+    },
+    [190012041] = {
+        id = 190012041,
+        text = "The asset pack download is waiting for Wi-Fi to proceed (%s)... ",
     },
     [800119] = {
         id = 800119,
         text = "Fin dans %d J %d H%d Min",
     },
+    [190012040] = {
+        id = 190012040,
+        text = "The asset pack is being transferred to the app (%s)... ",
+    },
     [800120] = {
         id = 800120,
         text = "Impossible de se connecter au serveur de combat",
+    },
+    [190012039] = {
+        id = 190012039,
+        text = "The Google Play Store additional file is downloading (%s) ...",
     },
     [800121] = {
         id = 800121,
         text = "Échec de la connexion au serveur",
     },
-    [190000888] = {
-        id = 190000888,
+    [190012038] = {
+        id = 190012038,
         text = "Updating additional resources, enter after the update is complete. ",
     },
     [800122] = {

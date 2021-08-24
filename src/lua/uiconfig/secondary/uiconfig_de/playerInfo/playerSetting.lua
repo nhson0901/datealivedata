@@ -5580,7 +5580,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 60,
+														PositionY = 48,
 													},
 													width = "50",
 													ZOrder = "1",
@@ -5625,8 +5625,8 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 50,
-														PositionY = 34,
+														PositionX = 52,
+														PositionY = -29,
 													},
 													width = "101",
 													ZOrder = "1",
@@ -5817,8 +5817,8 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 50,
-														PositionY = 74,
+														PositionX = 48,
+														PositionY = 61,
 													},
 													width = "50",
 													ZOrder = "1",
@@ -5863,8 +5863,8 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 50,
-														PositionY = 44,
+														PositionX = 47,
+														PositionY = -16,
 													},
 													width = "37",
 													ZOrder = "1",
@@ -6055,8 +6055,8 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 50,
-														PositionY = 71,
+														PositionX = 51,
+														PositionY = 58,
 													},
 													width = "50",
 													ZOrder = "1",
@@ -6102,7 +6102,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 43,
+														PositionY = -16,
 													},
 													width = "85",
 													ZOrder = "1",
@@ -6554,7 +6554,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 341,
+										PositionX = 444,
 										PositionY = 50,
 									},
 									width = "140",
@@ -6660,11 +6660,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 192,
+										PositionX = 242,
 										PositionY = 50,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "224",
 									ZOrder = "1",
 									components = 
 									{
@@ -6734,7 +6734,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 62,
+												PositionX = 104,
 												PositionY = 24,
 											},
 											width = "30",
@@ -6765,11 +6765,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 1058,
+										PositionX = 1022,
 										PositionY = 50,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "205",
 									ZOrder = "1",
 									components = 
 									{
@@ -6844,11 +6844,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 1058,
+										PositionX = 1022,
 										PositionY = 50,
 									},
 									UItype = "Button",
-									width = "130",
+									width = "205",
 									ZOrder = "1",
 									components = 
 									{
@@ -6980,7 +6980,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "80",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_qiyue_tips",
 											nTextAlign = "1",
@@ -6989,7 +6989,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "TextLable",
+											text = "Collect Spirits with high quality to raise covenant level cap. (Collabo Spirits are excluded)",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 

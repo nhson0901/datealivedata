@@ -7905,7 +7905,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "750",
 									ZOrder = "1",
 									components = 
@@ -11186,7 +11185,7 @@ local t =
 															compPath = "luacomponents.common.MEIconLabel",
 															dstBlendFunc = "771",
 															FontColor = "#FFFFFFFF",
-															fontName = "phanta.ttf",
+															fontName = "font/fangzheng_zhunyuan.ttf",
 															fontShadow = 
 															{
 																IsShadow = false,
@@ -11218,7 +11217,7 @@ local t =
 															{
 																
 															},
-															width = "0",
+															width = "92",
 															ZOrder = "1",
 														},
 													},

@@ -1894,14 +1894,28 @@ function FairyDetailsLayer:updateAngelLayer()
     	TFDirector:getChildByPath(self.angelPanel,"Label_awaken_point"):show();
     end
 
+    
     self.Button_angel_break:hide()
     self.Panel_angel_info:setPositionY(-120)
-    --TODO CLOSE
-    -- if not self.isfriend and HeroDataMgr:checkAngelBreakUpEnable(self.showHeroId) then
-    -- 	self.Button_angel_break:show()
-    -- 	self.Panel_angel_info:setPositionY(0)
-    -- 	self.Label_angel_break:setText(HeroDataMgr:getHeroWeaponName(self.showHeroId)..TextDataMgr:getText(10931235))
-    -- end
+    local limitLevel = TabDataMgr:getData("DiscreteData",90008).data.contractLevel  --修改天使突破根据全局表控制显示
+    if MainPlayer:getPlayerLv() >= limitLevel then
+        if GlobalFuncDataMgr:isOpen(19) then
+        	if not self.isfriend and HeroDataMgr:checkAngelBreakUpEnable(self.showHeroId) then
+		    	self.Button_angel_break:show()
+		    	self.Panel_angel_info:setPositionY(0)
+		    	local strTag = ""
+		    	if TFLanguageMgr:getUsingLanguage() ~= cc.SIMPLIFIED_CHINESE and
+		    		TFLanguageMgr:getUsingLanguage() ~= cc.TRADITIONAL_CHINESE and
+		    		TFLanguageMgr:getUsingLanguage() ~= cc.THAI and
+		    		TFLanguageMgr:getUsingLanguage() ~= cc.KOREAN then
+		    			strTag = " "
+		    	end
+
+		    	self.Label_angel_break:setText(HeroDataMgr:getHeroWeaponName(self.showHeroId)..strTag..TextDataMgr:getText(10931235))
+		    	self.Button_angel_break:setContentSize(CCSize(self.Label_angel_break:getContentSize().width + 10 , 56))
+		    end
+        end
+    end
 
     -- 天使粒子特效
     for i, v in ipairs(self.angelParticleNode_) do

@@ -5581,7 +5581,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 60,
+														PositionY = 50,
 													},
 													width = "50",
 													ZOrder = "1",
@@ -5627,7 +5627,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 34,
+														PositionY = -27,
 													},
 													width = "62",
 													ZOrder = "1",
@@ -5819,7 +5819,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 74,
+														PositionY = 64,
 													},
 													width = "50",
 													ZOrder = "1",
@@ -5864,8 +5864,8 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 50,
-														PositionY = 44,
+														PositionX = 51,
+														PositionY = -16,
 													},
 													width = "60",
 													ZOrder = "1",
@@ -6057,7 +6057,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 71,
+														PositionY = 57,
 													},
 													width = "50",
 													ZOrder = "1",
@@ -6103,7 +6103,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 50,
-														PositionY = 43,
+														PositionY = -18,
 													},
 													width = "74",
 													ZOrder = "1",
@@ -6907,11 +6907,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "109",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_tips_bg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -6921,10 +6921,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 251,
+										PositionX = 293,
 										PositionY = 190,
 									},
-									width = "231",
+									width = "301",
 									ZOrder = "1",
 									components = 
 									{
@@ -6949,7 +6949,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -114,
+												PositionX = -144,
 												PositionY = 53,
 											},
 											width = "42",
@@ -6981,7 +6981,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "80",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_qiyue_tips",
 											nTextAlign = "1",
@@ -6997,7 +6997,7 @@ local t =
 											{
 												PositionY = -3,
 											},
-											width = "220",
+											width = "293",
 											ZOrder = "1",
 										},
 									},
@@ -7251,10 +7251,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 565,
-								PositionY = 321,
+								PositionY = 322,
 								IsPercent = true,
 								PercentX = 49.82,
-								PercentY = 50.31,
+								PercentY = 50.47,
 							},
 							uipanelviewmodel = 
 							{

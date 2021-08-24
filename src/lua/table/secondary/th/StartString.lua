@@ -415,24 +415,40 @@ return {
         id = 800117,
         text = "ไม่เหลือโอกาสแล้ว",
     },
+    [190012042] = {
+        id = 190012042,
+        text = "The asset pack isn&apos;t installed (%s)...",
+    },
     [800118] = {
         id = 800118,
         text = "บัตรรายเดือนเหลือ: %s วัน",
+    },
+    [190012041] = {
+        id = 190012041,
+        text = "The asset pack download is waiting for Wi-Fi to proceed (%s)... ",
     },
     [800119] = {
         id = 800119,
         text = "สิ้นสุดใน %d วัน %d ชม. %d นาที",
     },
+    [190012040] = {
+        id = 190012040,
+        text = "The asset pack is being transferred to the app (%s)... ",
+    },
     [800120] = {
         id = 800120,
         text = "ไม่สามารถเชื่อมต่อกับเซิร์ฟเวอร์การต่อสู้ได้",
+    },
+    [190012039] = {
+        id = 190012039,
+        text = "The Google Play Store additional file is downloading (%s) ...",
     },
     [800121] = {
         id = 800121,
         text = "การเชื่อมต่อกับเซิร์ฟเวอร์ล้มเหลว",
     },
-    [190000888] = {
-        id = 190000888,
+    [190012038] = {
+        id = 190012038,
         text = "Updating additional resources, enter after the update is complete. ",
     },
     [800122] = {

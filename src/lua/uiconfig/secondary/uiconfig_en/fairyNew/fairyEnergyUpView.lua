@@ -352,7 +352,7 @@ local t =
 											controlID = "Label_suit_name_Panel_suit_Panel_left_Panel_base_Panel-fairyEnergyUpView_Layer1_fairyNew_Game",
 											UUID = "9936cb1f_ad22_490b_86a7_c9cfa85551e1",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -367,18 +367,19 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "26",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "280",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_suit_name",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											rotation = "-90",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -389,9 +390,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 7,
-												PositionY = -19,
+												PositionY = 120,
 											},
-											width = "30",
+											width = "200",
 											ZOrder = "1",
 										},
 									},
@@ -658,6 +659,7 @@ local t =
 												PositionX = 10,
 												PositionY = 380,
 											},
+											visible = "False",
 											width = "60",
 											ZOrder = "1",
 										},
@@ -704,6 +706,7 @@ local t =
 												PositionX = 10,
 												PositionY = 358,
 											},
+											visible = "False",
 											width = "60",
 											ZOrder = "1",
 										},
@@ -2055,7 +2058,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 133,
+												PositionX = 265,
 												PositionY = 53,
 											},
 											width = "40",
@@ -2292,15 +2295,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_add_title",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -2315,7 +2318,7 @@ local t =
 											{
 												
 											},
-											width = "124",
+											width = "120",
 											ZOrder = "1",
 										},
 										{
@@ -2476,15 +2479,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_break_title",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -2499,7 +2502,7 @@ local t =
 											{
 												
 											},
-											width = "161",
+											width = "120",
 											ZOrder = "1",
 										},
 									},

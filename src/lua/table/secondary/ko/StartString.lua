@@ -407,24 +407,40 @@ return {
         id = 800115,
         text = "이번 테스트 서버는 %d월 %d일 %d시에 개방됩니다. 많은 관심 바랍니다!",
     },
+    [190012042] = {
+        id = 190012042,
+        text = "The asset pack isn&apos;t installed (%s)...",
+    },
     [800116] = {
         id = 800116,
         text = "인증 실패",
+    },
+    [190012041] = {
+        id = 190012041,
+        text = "The asset pack download is waiting for Wi-Fi to proceed (%s)... ",
     },
     [800117] = {
         id = 800117,
         text = "남은 횟수가 없습니다.",
     },
+    [190012040] = {
+        id = 190012040,
+        text = "The asset pack is being transferred to the app (%s)... ",
+    },
     [800118] = {
         id = 800118,
         text = "월카드 %s일 남음",
+    },
+    [190012039] = {
+        id = 190012039,
+        text = "The Google Play Store additional file is downloading (%s) ...",
     },
     [800119] = {
         id = 800119,
         text = "%d일 %d시간 %d분 후 종료",
     },
-    [190000888] = {
-        id = 190000888,
+    [190012038] = {
+        id = 190012038,
         text = "Updating additional resources, enter after the update is complete. ",
     },
     [800120] = {

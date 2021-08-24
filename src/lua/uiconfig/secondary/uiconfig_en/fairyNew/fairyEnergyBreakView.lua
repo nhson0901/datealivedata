@@ -203,7 +203,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -220,7 +220,7 @@ local t =
 								PositionX = 213,
 								PositionY = 488,
 							},
-							width = "115",
+							width = "246",
 							ZOrder = "1",
 						},
 						{
@@ -328,7 +328,7 @@ local t =
 									{
 										
 									},
-									width = "99",
+									width = "107",
 									ZOrder = "1",
 								},
 							},
@@ -414,7 +414,7 @@ local t =
 										PositionX = 354,
 										PositionY = 157,
 									},
-									width = "146",
+									width = "149",
 									ZOrder = "1",
 								},
 								{
@@ -460,7 +460,7 @@ local t =
 										PositionX = 313,
 										PositionY = 68,
 									},
-									width = "83",
+									width = "149",
 									ZOrder = "1",
 								},
 								{
@@ -489,7 +489,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "55",
+									height = "51",
 									ignoreSize = "True",
 									name = "old_lv",
 									nTextAlign = "1",
@@ -506,7 +506,7 @@ local t =
 										PositionX = 269,
 										PositionY = 127,
 									},
-									width = "150",
+									width = "119",
 									ZOrder = "1",
 								},
 								{
@@ -535,7 +535,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "55",
+									height = "51",
 									ignoreSize = "True",
 									name = "cur_lv",
 									nTextAlign = "1",
@@ -552,7 +552,7 @@ local t =
 										PositionX = 438,
 										PositionY = 127,
 									},
-									width = "149",
+									width = "119",
 									ZOrder = "1",
 								},
 								{
@@ -661,7 +661,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_get",
 									nTextAlign = "1",
@@ -678,7 +678,7 @@ local t =
 										PositionX = 356,
 										PositionY = 43,
 									},
-									width = "54",
+									width = "37",
 									ZOrder = "1",
 								},
 							},
@@ -779,7 +779,7 @@ local t =
 								PositionX = 568,
 								PositionY = 286,
 							},
-							width = "263",
+							width = "279",
 							ZOrder = "1",
 						},
 						{
@@ -941,18 +941,18 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_name",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -963,9 +963,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 104,
-												PositionY = 73,
+												PositionY = 69,
 											},
-											width = "83",
+											width = "150",
 											ZOrder = "1",
 										},
 										{
@@ -1009,7 +1009,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 105,
-												PositionY = 30,
+												PositionY = 27,
 											},
 											width = "113",
 											ZOrder = "1",
@@ -1163,18 +1163,18 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_name",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1185,9 +1185,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 104,
-												PositionY = 73,
+												PositionY = 69,
 											},
-											width = "83",
+											width = "150",
 											ZOrder = "1",
 										},
 										{
@@ -1231,7 +1231,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 105,
-												PositionY = 30,
+												PositionY = 27,
 											},
 											width = "113",
 											ZOrder = "1",

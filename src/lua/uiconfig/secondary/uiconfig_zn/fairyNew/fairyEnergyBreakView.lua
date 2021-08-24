@@ -203,7 +203,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -489,7 +489,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "55",
+									height = "51",
 									ignoreSize = "True",
 									name = "old_lv",
 									nTextAlign = "1",
@@ -506,7 +506,7 @@ local t =
 										PositionX = 269,
 										PositionY = 127,
 									},
-									width = "150",
+									width = "126",
 									ZOrder = "1",
 								},
 								{
@@ -535,7 +535,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "55",
+									height = "51",
 									ignoreSize = "True",
 									name = "cur_lv",
 									nTextAlign = "1",
@@ -552,7 +552,7 @@ local t =
 										PositionX = 438,
 										PositionY = 127,
 									},
-									width = "149",
+									width = "117",
 									ZOrder = "1",
 								},
 								{
@@ -661,7 +661,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_get",
 									nTextAlign = "1",
@@ -678,7 +678,7 @@ local t =
 										PositionX = 356,
 										PositionY = 43,
 									},
-									width = "54",
+									width = "37",
 									ZOrder = "1",
 								},
 							},
@@ -948,11 +948,11 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_name",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -963,9 +963,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 104,
-												PositionY = 73,
+												PositionY = 66,
 											},
-											width = "83",
+											width = "150",
 											ZOrder = "1",
 										},
 										{
@@ -978,7 +978,7 @@ local t =
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
 											FontColor = "#FFFFFFFF",
-											fontName = "phanta.ttf",
+											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
 												IsShadow = false,
@@ -1008,10 +1008,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 105,
-												PositionY = 30,
+												PositionX = 106,
+												PositionY = 26,
 											},
-											width = "113",
+											width = "112",
 											ZOrder = "1",
 										},
 										{
@@ -1170,11 +1170,11 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_name",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1185,9 +1185,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 104,
-												PositionY = 73,
+												PositionY = 66,
 											},
-											width = "83",
+											width = "150",
 											ZOrder = "1",
 										},
 										{
@@ -1200,7 +1200,7 @@ local t =
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
 											FontColor = "#FFFFFFFF",
-											fontName = "phanta.ttf",
+											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
 												IsShadow = false,
@@ -1230,10 +1230,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 105,
-												PositionY = 30,
+												PositionX = 106,
+												PositionY = 26,
 											},
-											width = "113",
+											width = "112",
 											ZOrder = "1",
 										},
 										{
