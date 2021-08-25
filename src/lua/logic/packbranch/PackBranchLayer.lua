@@ -97,7 +97,7 @@ function PackBranchLayer:downLoadExtListFileSuc()
     if HeitaoSdk then
         if GOOGLE_ASSERT_PACK then
             TFAssetsManager:downloadFullAssets(function()
-                AlertManager:changeScene(SceneType.LOGO)
+                AlertManager:changeScene(SceneType.GOOGLEASSETPACK)
             end)
         else
             local checkExtId = self:getFuncIDByLangCode(TFLanguageMgr:getUsingLanguage())

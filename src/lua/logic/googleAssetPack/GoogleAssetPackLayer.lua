@@ -63,7 +63,7 @@ end
 
 function GoogleAssetPackLayer:displayReadyUI( )
     self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_OTHER
-    AlertManager:changeScene(SceneType.PACKBRANCH)
+    AlertManager:changeScene(SceneType.LOGO)
 end
 
 function GoogleAssetPackLayer:displayMainUI(  )

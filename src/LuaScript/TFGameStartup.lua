@@ -19,6 +19,9 @@ GOOGLE_ASSERT_PACK = false
 if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID  and HeitaoSdk and (tonumber(HeitaoSdk.getplatformId()) == 5) and (TFClientGameAssetManager ~= nil)) then 
     GOOGLE_ASSERT_PACK = true
 end
+if TFClientGameAssetManager and TFClientGameAssetManager.setAssetPackEnable then
+    TFClientGameAssetManager:setAssetPackEnable(GOOGLE_ASSERT_PACK)
+end
 
 -- 如果是模拟器则直接打开调试模式
 if not (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32) then
@@ -304,13 +307,8 @@ function TFGameStartup:run(strrest)
     if strrest == "CompleteUpdate" then
         print("============检查更新完成 CompleteUpdate==============")
         self:loadGameInitFile(function ()
-
-            if GOOGLE_ASSERT_PACK then
-                AlertManager:changeScene(SceneType.GOOGLEASSETPACK)
-            else
-                AlertManager:changeScene(SceneType.PACKBRANCH)
-            end
-
+            
+            AlertManager:changeScene(SceneType.PACKBRANCH)
             -- TODO 模拟器下不显示LOGO
             -- -- if CC_TARGET_PLATFORM == CC_PLATFORM_WIN32 then
             -- --     TFDirector:changeScene:changeScene(SceneType.LOGIN)
