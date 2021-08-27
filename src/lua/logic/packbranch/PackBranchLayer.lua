@@ -100,11 +100,17 @@ function PackBranchLayer:downLoadExtListFileSuc()
                 AlertManager:changeScene(SceneType.GOOGLEASSETPACK)
             end)
         else
-            local checkExtId = self:getFuncIDByLangCode(TFLanguageMgr:getUsingLanguage())
-            if (checkExtId) then
-                TFAssetsManager:downloadAssetsOfFunc(checkExtId, function()
+            if TFClientGameAssetManager then
+                TFAssetsManager:downloadFullAssets(function()
                     AlertManager:changeScene(SceneType.LOGO)
-                end, false)
+                end)
+            else
+                local checkExtId = self:getFuncIDByLangCode(TFLanguageMgr:getUsingLanguage())
+                if (checkExtId) then
+                    TFAssetsManager:downloadAssetsOfFunc(checkExtId, function()
+                        AlertManager:changeScene(SceneType.LOGO)
+                    end, false)
+                end
             end
         end
         return 

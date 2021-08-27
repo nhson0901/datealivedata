@@ -293,10 +293,14 @@ function TFAssetsManager:downloadFullAssets(callback)
 		end
 		return
 	end
-	if CommonManager:getConnectionStatus() == false then
-		Utils:showError(strCfg[111000051].text)
-		return
+
+	if self.tag and self.tag > 0 then
+		if CommonManager:getConnectionStatus() == false then
+			Utils:showError(strCfg[111000051].text)
+			return
+		end
 	end
+	
 	if self.remoteListDict == nil then
 		--CDN未连接成功
 		Utils:showError(strCfg[111000052].text)

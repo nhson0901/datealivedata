@@ -1021,7 +1021,7 @@ return {
         },
         showAction = {
             action = "skillD_show",
-            animation = "fight_11701",
+            animation = "fight_11701_skillD_show",
         },
         effectsDown = {
         },
@@ -1365,6 +1365,32 @@ return {
             [1] = {
                 action = "skillD_show_beijing",
                 animation = "effects_10313_skillD",
+            },
+        },
+        skipGame = 0,
+    },
+    [54] = {
+        showSound = "0",
+        id = 54,
+        triggerEvents = {
+            [1] = "show1",
+        },
+        actionId = 15641,
+        detection = true,
+        effectsUp = {
+            [1] = {
+                action = "skillD_show_qian",
+                animation = "effects_13701_skillD",
+            },
+        },
+        showAction = {
+            action = "skillD_show",
+            animation = "fight_13701_skillD_show",
+        },
+        effectsDown = {
+            [1] = {
+                action = "skillD_show_hou",
+                animation = "effects_13701_skillD",
             },
         },
         skipGame = 0,
