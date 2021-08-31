@@ -824,10 +824,10 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 1148,
-						PositionY = -301,
-						LeftPositon = 1148,
-						TopPosition = 301,
+						PositionX = 232,
+						PositionY = -976,
+						LeftPositon = 232,
+						TopPosition = 976,
 						relativeToName = "Panel",
 						nType = 3,
 					},
