@@ -172,11 +172,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "132",
-							ignoreSize = "True",
+							height = "148",
+							ignoreSize = "False",
 							name = "Image_summonView_1",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -187,7 +187,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 28,
-								PositionY = -223,
+								PositionY = -218,
 							},
 							width = "952",
 							ZOrder = "1",
@@ -371,9 +371,8 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 9,
-										PositionY = 18,
+										PositionY = 33,
 									},
-									visible = "False",
 									width = "194",
 									ZOrder = "1",
 									components = 
@@ -583,10 +582,10 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "21",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_have",
-											nTextAlign = "1",
+											nTextAlign = "2",
 											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -599,7 +598,7 @@ local t =
 											{
 												PositionY = 20,
 											},
-											width = "156",
+											width = "220",
 											ZOrder = "1",
 										},
 										{
@@ -3682,6 +3681,7 @@ local t =
 								PositionY = -201,
 							},
 							UItype = "Button",
+							visible = "False",
 							width = "108",
 							ZOrder = "1",
 							components = 
@@ -3873,7 +3873,7 @@ local t =
 									UUID = "db840125_bb84_477a_b71e_27a132df862b",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -3897,7 +3897,7 @@ local t =
 									height = "0",
 									ignoreSize = "False",
 									name = "Label_name",
-									nTextAlign = "1",
+									nTextAlign = "2",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -3909,7 +3909,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -11,
-										PositionY = -28,
+										PositionY = -46,
 									},
 									width = "94",
 									ZOrder = "1",

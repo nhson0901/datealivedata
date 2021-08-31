@@ -6609,4 +6609,9 @@ return {
         res = "icon/equipment/name/tianzhen.png",
         res_en = "icon/equipment/name/tianzhen_ko.png",
     },
+    [1323] = {
+        id = 1323,
+        res = "icon/item/goods/570530.png",
+        res_en = "icon/item/goods/570530_en.png",
+    },
 }

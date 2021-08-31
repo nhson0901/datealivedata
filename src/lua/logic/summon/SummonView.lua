@@ -280,6 +280,12 @@ function SummonView:updateSelectInfo()
     self.panel_cost_2:setVisible(summonCfg.clothesSummonShow)
 
     self.panel_cost_2:getChildByName("Image_cloth_icon"):setTexture(GoodsDataMgr:getItemCfg(566057).icon)
+    self.panel_cost_2:getChildByName("Image_cloth_icon"):setTouchEnabled(true)
+    self.panel_cost_2:getChildByName("Image_cloth_icon"):onClick(function()
+        Utils:showInfo(566057, nil, true)
+    end)
+
+
     self.panel_cost_2:getChildByName("Label_cur"):setTextById(800007, GoodsDataMgr:getItemCount(566057))
     self.panel_cost_2:getChildByName("Label_have"):setTextById(1200001, TextDataMgr:getText(GoodsDataMgr:getItemCfg(566057).nameTextId))
     self.panel_cost_2:getChildByName("Label_have"):setFontSize(20)
@@ -1006,6 +1012,10 @@ function SummonView:registerEvents()
         -- body
         Utils:openView("summon.SummonPieceUpgradeView",self.Button_store.storeId)
     end)
+
+    self.Button_goto_shop:onClick(function()  --增加高级时装商店跳转
+        FunctionDataMgr:jStore(600002)
+    end)
 end
 
 function SummonView:selectHotTab(index)
@@ -1115,6 +1125,7 @@ function SummonView:onItemUpdateEvent()
     if self.firstCostItemId_ then
         self.Label_fistCur:setTextById(800007, GoodsDataMgr:getItemCount(self.firstCostItemId_))
     end
+    self.panel_cost_2:getChildByName("Label_cur"):setTextById(800007, GoodsDataMgr:getItemCount(566057))
 end
 
 function SummonView:onRecvUpdatePanelInfo()

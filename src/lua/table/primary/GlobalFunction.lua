@@ -53,7 +53,7 @@ return {
     },
     [14] = {
         id = 14,
-        isopen = 0,
+        isopen = 1,
     },
     [15] = {
         id = 15,
@@ -61,11 +61,11 @@ return {
     },
     [16] = {
         id = 16,
-        isopen = 0,
+        isopen = 1,
     },
     [17] = {
         id = 17,
-        isopen = 0,
+        isopen = 1,
     },
     [18] = {
         id = 18,

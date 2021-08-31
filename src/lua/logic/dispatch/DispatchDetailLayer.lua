@@ -497,6 +497,8 @@ function DispatchDetailLayer:refreshChaptetItems()
 				foo.Label_state:setTextById(213122)
 			end
 		end
+		local stateLabelPos = foo.Label_state:getPosition()
+		foo.Image_state:setPosition(stateLabelPos.x + foo.Label_state:getContentSize().width*0.5 + foo.Image_state:getContentSize().width, stateLabelPos.y)
 	end
 end
 

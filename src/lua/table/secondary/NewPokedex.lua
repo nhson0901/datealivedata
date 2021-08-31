@@ -37443,6 +37443,37 @@ return {
         roleID = 102,
         size1 = 0,
     },
+    [9900001] = {
+        type2 = {
+            [1] = 108002,
+        },
+        name2 = 0,
+        unlockType = 0,
+        unlock = {
+        },
+        sort = 2324,
+        sortr = "2324",
+        name1 = 0,
+        isOpen = true,
+        type1 = 8,
+        type3 = {
+            [1] = 208002,
+        },
+        id = 9900001,
+        nameTextId = "3320078",
+        subType = 38,
+        defaultInfo = {
+        },
+        specialCondition = {
+        },
+        cup = 10,
+        size2 = 0,
+        endSuit = 0,
+        endType = 0,
+        heroID = 0,
+        roleID = 0,
+        size1 = 0,
+    },
     [10014] = {
         type2 = {
             [1] = 109002,

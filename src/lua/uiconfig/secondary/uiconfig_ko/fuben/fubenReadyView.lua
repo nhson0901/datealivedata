@@ -266,7 +266,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "740",
 									ZOrder = "1",
 									components = 
@@ -1768,7 +1767,7 @@ local t =
 											DesignType = "0",
 											DesignWidth = "960",
 											dstBlendFunc = "771",
-											height = "30",
+											height = "35",
 											ignoreSize = "False",
 											name = "Panel_buffer",
 											sizepercentx = "0",
@@ -1843,11 +1842,11 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "23",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_buffer",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -1858,9 +1857,8 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 56,
-														PositionY = -1,
 													},
-													width = "80",
+													width = "438",
 													ZOrder = "1",
 												},
 											},
@@ -2438,6 +2436,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "740",
 									ZOrder = "1",
 									components = 

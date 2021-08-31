@@ -660,7 +660,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 218,
-										PositionY = 255,
+										PositionY = 284,
 									},
 									width = "164",
 									ZOrder = "1",
@@ -695,7 +695,7 @@ local t =
 									ignoreSize = "True",
 									name = "Label_get_time_value",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -705,8 +705,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 392,
-										PositionY = 255,
+										PositionX = 218,
+										PositionY = 254,
 									},
 									width = "84",
 									ZOrder = "1",

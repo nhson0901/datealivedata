@@ -1711,7 +1711,7 @@ return {
         skinSettingDesc = 0,
         belongTo = 0,
         convertMax = {
-            [570004] = 120,
+            [566057] = 120,
         },
         kanbanBgm = "sound/bgm/kanban/main_kuangsan_10416.mp3",
         kanbanEffect = {
@@ -2307,7 +2307,7 @@ return {
         skinSettingDesc = 0,
         belongTo = 0,
         convertMax = {
-            [570004] = 120,
+            [566057] = 120,
         },
         kanbanBgm = "sound/bgm/kanban/main_qizui_11311.mp3",
         kanbanEffect = {
@@ -3491,7 +3491,7 @@ return {
         skinSettingDesc = 0,
         belongTo = 0,
         convertMax = {
-            [570004] = 120,
+            [566057] = 120,
         },
         kanbanBgm = "sound/bgm/kanban/main_xixian_10808.mp3",
         kanbanEffect = {
@@ -8380,7 +8380,7 @@ return {
         skinSettingDesc = 0,
         belongTo = 0,
         convertMax = {
-            [570004] = 120,
+            [566057] = 120,
         },
         kanbanBgm = "sound/bgm/kanban/main_qinli_10514.mp3",
         kanbanEffect = {
@@ -8802,7 +8802,7 @@ return {
         skinSettingDesc = 0,
         belongTo = 0,
         convertMax = {
-            [570004] = 120,
+            [566057] = 120,
         },
         kanbanBgm = "sound/bgm/kanban/main_yejushi_10708.mp3",
         kanbanEffect = {

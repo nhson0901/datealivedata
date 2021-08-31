@@ -204,11 +204,6 @@ function MainLayer:initUI(ui)
     --TODO CLOSE
     -- 屏蔽通讯
     self.btn_phone_small:setVisible(false)
-
-    if not GlobalFuncDataMgr:isOpen(14) then
-        --暂时屏蔽指挥按钮
-        self.Button_dispatch:hide()
-    end
     
 	
     self.Image_dispatchTips = TFDirector:getChildByPath(self.Button_dispatch, "Image_dispatchTips"):hide()
@@ -372,19 +367,14 @@ function MainLayer:initUI(ui)
     self.Image_newtip = TFDirector:getChildByPath(self.Button_phone, "Image_newtip")
 
     self.Button_explore    = TFDirector:getChildByPath(self.Panel_bottom,"Button_explore")
-    self.effect_explore    = TFDirector:getChildByPath(self.Button_explore,"Spine_phone")
-
     if not GlobalFuncDataMgr:isOpen(13) then   --英文版小语种控制探索模式显示
         -- TODO CLOSE
         -- 屏蔽飞船系统
         self.Button_explore:setVisible(false)
     end
-    
-    
-
+    self.effect_explore    = TFDirector:getChildByPath(self.Button_explore,"Spine_phone")
     self.Button_league = TFDirector:getChildByPath(self.Panel_bottom, "Button_league")
     self.Image_leagueTip = TFDirector:getChildByPath(self.Button_league, "RedTips")
-
 
     self.Button_ARCamera    = TFDirector:getChildByPath(self.Panel_bottom,"Button_ARCamera")
 

@@ -76,14 +76,14 @@ return {
         quality = 1,
         id = 9200118,
     },
-    [9200133] = {
+    [9200126] = {
         superType = 38,
         excursion1 = {
         },
-        order = 33,
+        order = 26,
         pileUp = true,
         condition = {
-            hasItem = 570535,
+            hasItem = 570528,
         },
         gridMax = 1,
         effectivetime = -1,
@@ -98,13 +98,13 @@ return {
         convertMax = {
         },
         content = 0,
-        classify = 3,
+        classify = 1,
         lamp = 0,
         titleLevel = 1,
-        notable = 1325433,
-        showPower = 132,
-        accessdes = 1326435,
-        titleType = 33,
+        notable = 1325426,
+        showPower = 292,
+        accessdes = 1326428,
+        titleType = 26,
         toplimit = 0,
         size2 = {
             [1] = 100,
@@ -117,7 +117,7 @@ return {
         reward = {
         },
         displayClassify = 1,
-        showEffect = "effect/title/chenghao_zhenchayuan/chenghao_zhenchayuan",
+        showEffect = "effect/title/chenghao_linghunjianshangjia/chenghao_linghunjianshangjia",
         excursion2 = {
             [1] = {
                 [1] = 5,
@@ -135,9 +135,9 @@ return {
         useCast = {
         },
         baseAttribute = {
-            [1] = 14110,
-            [2] = 4027,
-            [3] = 3755,
+            [1] = 27370,
+            [2] = 9012,
+            [3] = 7004,
         },
         chatShow = true,
         title = 0,
@@ -151,7 +151,7 @@ return {
         },
         probability = 0,
         quality = 1,
-        id = 9200133,
+        id = 9200126,
     },
     [9200134] = {
         superType = 38,
@@ -460,6 +460,83 @@ return {
         quality = 1,
         id = 9200115,
     },
+    [9900001] = {
+        superType = 38,
+        excursion1 = {
+        },
+        order = 999,
+        pileUp = true,
+        condition = {
+            hasItem = 564013,
+        },
+        gridMax = 1,
+        effectivetime = -1,
+        activeTime = 0,
+        clubPush = 0,
+        sellProfit = {
+        },
+        onceUseLimit = 0,
+        triggerEnvelope = 0,
+        totalMax = 1,
+        deletePrevious = false,
+        convertMax = {
+        },
+        content = 0,
+        classify = 3,
+        lamp = 0,
+        titleLevel = 1,
+        notable = 190001087,
+        showPower = 140,
+        accessdes = 190001088,
+        titleType = 999,
+        toplimit = 0,
+        size2 = {
+            [1] = 100,
+            [2] = 90,
+            [3] = 90,
+        },
+        bagType = 0,
+        autoUse = false,
+        star = 4,
+        reward = {
+        },
+        displayClassify = 1,
+        showEffect = "effect/title/stayTuneo/Stay Tuneo",
+        excursion2 = {
+            [1] = {
+                [1] = 5,
+                [2] = -8,
+            },
+            [2] = {
+                [1] = 0,
+                [2] = 0,
+            },
+            [3] = {
+                [1] = 0,
+                [2] = 15,
+            },
+        },
+        useCast = {
+        },
+        baseAttribute = {
+            [1] = 11829,
+            [2] = 2774,
+            [3] = 2627,
+        },
+        chatShow = true,
+        title = 0,
+        relatedTask = 0,
+        subType = 0,
+        timeDescription = 0,
+        showPic = "",
+        size1 = 0,
+        titleStar = 5,
+        dealProfit = {
+        },
+        probability = 0,
+        quality = 1,
+        id = 9900001,
+    },
     [9200116] = {
         superType = 38,
         excursion1 = {
@@ -535,6 +612,83 @@ return {
         probability = 0,
         quality = 1,
         id = 9200116,
+    },
+    [9200133] = {
+        superType = 38,
+        excursion1 = {
+        },
+        order = 33,
+        pileUp = true,
+        condition = {
+            hasItem = 570535,
+        },
+        gridMax = 1,
+        effectivetime = -1,
+        activeTime = 0,
+        clubPush = 0,
+        sellProfit = {
+        },
+        onceUseLimit = 0,
+        triggerEnvelope = 0,
+        totalMax = 1,
+        deletePrevious = false,
+        convertMax = {
+        },
+        content = 0,
+        classify = 3,
+        lamp = 0,
+        titleLevel = 1,
+        notable = 1325433,
+        showPower = 132,
+        accessdes = 1326435,
+        titleType = 33,
+        toplimit = 0,
+        size2 = {
+            [1] = 100,
+            [2] = 90,
+            [3] = 90,
+        },
+        bagType = 0,
+        autoUse = false,
+        star = 4,
+        reward = {
+        },
+        displayClassify = 1,
+        showEffect = "effect/title/chenghao_zhenchayuan/chenghao_zhenchayuan",
+        excursion2 = {
+            [1] = {
+                [1] = 5,
+                [2] = 0,
+            },
+            [2] = {
+                [1] = 0,
+                [2] = 0,
+            },
+            [3] = {
+                [1] = 0,
+                [2] = 15,
+            },
+        },
+        useCast = {
+        },
+        baseAttribute = {
+            [1] = 14110,
+            [2] = 4027,
+            [3] = 3755,
+        },
+        chatShow = true,
+        title = 0,
+        relatedTask = 0,
+        subType = 0,
+        timeDescription = 0,
+        showPic = "",
+        size1 = 0,
+        titleStar = 4,
+        dealProfit = {
+        },
+        probability = 0,
+        quality = 1,
+        id = 9200133,
     },
     [9200117] = {
         superType = 38,

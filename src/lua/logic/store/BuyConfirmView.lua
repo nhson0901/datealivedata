@@ -34,6 +34,9 @@ function BuyConfirmView:initUI(ui)
     self.Button_max = TFDirector:getChildByPath(self.Panel_batch, "Button_max")
     self.Label_num      = TFDirector:getChildByPath(Image_bg,"Label_num") 
 
+    self.ListView_des = UIListView:create(TFDirector:getChildByPath(ui, "ScrollView_des"))
+    self.Panel_des_item = TFDirector:getChildByPath(ui , "Panel_des")
+
     self:refreshView()
 end
 
@@ -43,7 +46,18 @@ function BuyConfirmView:refreshView()
     Panel_goodsItem:setTouchEnabled(false)
     PrefabDataMgr:setInfo(Panel_goodsItem, self.itemId_, self.itemCount_)
     Panel_goodsItem:Pos(0, 0):AddTo(self.Image_head)
-    self.Label_desc:setTextById(itemCfg.desTextId)
+
+    self.Label_desc:setVisible(false)   --海外版更改为滚动显示描述
+    self.ListView_des:removeAllItems()
+    local Panel_des_item = self.Panel_des_item:clone()
+    Panel_des_item:setPosition(0,0)
+    Panel_des_item.Label_title = Panel_des_item:getChildByName("Label_title")
+    Panel_des_item.Label_title:setTextById(itemCfg.desTextId)
+    Panel_des_item:setContentSize(Panel_des_item.Label_title:getContentSize())
+
+    self.ListView_des:pushBackCustomItem(Panel_des_item)
+
+
     self.Label_name:setTextById(itemCfg.nameTextId)
 
     local count = GoodsDataMgr:getItemCount(self.itemId_)

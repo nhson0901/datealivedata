@@ -6154,4 +6154,9 @@ return {
         res = "ui/summon/063.png",
         res_en = "ui/summon/063_en.png",
     },
+    [1232] = {
+        id = 1232,
+        res = "icon/item/goods/570530.png",
+        res_en = "icon/item/goods/570530_en.png",
+    },
 }

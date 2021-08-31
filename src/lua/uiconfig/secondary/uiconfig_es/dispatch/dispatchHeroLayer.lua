@@ -136,8 +136,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -232,
-								PositionY = 15,
+								PositionX = -233,
+								PositionY = 16,
 								LeftPositon = 303,
 								TopPosition = 272,
 								relativeToName = "Panel_root",
@@ -319,7 +319,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_title_name",
 											nTextAlign = "1",
@@ -336,7 +336,7 @@ local t =
 												PositionX = 9,
 												PositionY = -3,
 											},
-											width = "99",
+											width = "219",
 											ZOrder = "1",
 										},
 									},
@@ -498,7 +498,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "37",
+													height = "34",
 													ignoreSize = "True",
 													name = "Label_title1",
 													nTextAlign = "1",
@@ -514,7 +514,7 @@ local t =
 													{
 														PositionX = 15,
 													},
-													width = "122",
+													width = "382",
 													ZOrder = "1",
 												},
 											},
@@ -575,7 +575,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "37",
+													height = "34",
 													ignoreSize = "True",
 													name = "Label_title2",
 													nTextAlign = "1",
@@ -592,7 +592,7 @@ local t =
 														PositionX = 15,
 														PositionY = -2,
 													},
-													width = "122",
+													width = "301",
 													ZOrder = "1",
 												},
 											},
@@ -640,7 +640,7 @@ local t =
 												PositionX = 27,
 												PositionY = 483,
 											},
-											width = "59",
+											width = "82",
 											ZOrder = "1",
 										},
 										{
@@ -686,7 +686,7 @@ local t =
 												PositionX = 133,
 												PositionY = 483,
 											},
-											width = "123",
+											width = "158",
 											ZOrder = "1",
 										},
 										{
@@ -732,7 +732,7 @@ local t =
 												PositionX = 27,
 												PositionY = 452,
 											},
-											width = "59",
+											width = "155",
 											ZOrder = "1",
 										},
 										{
@@ -760,8 +760,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 135,
-												PositionY = 452,
+												PositionX = 270,
+												PositionY = 450,
 											},
 											uipanelviewmodel = 
 											{
@@ -950,10 +950,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 133,
+												PositionX = 197,
 												PositionY = 452,
 											},
-											width = "100",
+											width = "153",
 											ZOrder = "1",
 										},
 										{
@@ -1056,7 +1056,7 @@ local t =
 												PositionX = 27,
 												PositionY = 418,
 											},
-											width = "83",
+											width = "31",
 											ZOrder = "1",
 										},
 										{
@@ -1102,7 +1102,7 @@ local t =
 												PositionX = 139,
 												PositionY = 418,
 											},
-											width = "42",
+											width = "40",
 											ZOrder = "1",
 										},
 										{
@@ -1124,14 +1124,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "68",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_hero_desc",
 											nTextAlign = "0",
@@ -1221,7 +1221,7 @@ local t =
 													{
 														PositionX = -194,
 													},
-													width = "107",
+													width = "203",
 													ZOrder = "1",
 												},
 											},
@@ -1378,7 +1378,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "27",
+															height = "25",
 															ignoreSize = "True",
 															name = "Label_suit_name",
 															nTextAlign = "1",
@@ -1395,7 +1395,7 @@ local t =
 																PositionX = -241,
 																PositionY = 42,
 															},
-															width = "91",
+															width = "230",
 															ZOrder = "1",
 														},
 														{
@@ -1466,7 +1466,7 @@ local t =
 															controlID = "Label_suit_desc_Panel_suit_info_Panel_suit1_Panel_info_Panel_content_Panel_root_Panel-dispatchHeroLayer_Layer1_dispatch_Game",
 															UUID = "392103d1_1d76_4896_90fe_7034d085d7ab",
 															anchorPoint = "False",
-															anchorPointX = "0.5",
+															anchorPointX = "1",
 															anchorPointY = "0.5",
 															classname = "MELabel",
 															compPath = "luacomponents.common.MEIconLabel",
@@ -1488,11 +1488,11 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "70",
+															height = "0",
 															ignoreSize = "False",
 															name = "Label_suit_desc",
 															nTextAlign = "1",
-															nTextHAlign = "0",
+															nTextHAlign = "2",
 															sizepercentx = "0",
 															sizepercenty = "0",
 															sizeType = "0",
@@ -1502,10 +1502,10 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 108,
+																PositionX = 267,
 																PositionY = -13,
 															},
-															width = "260",
+															width = "288",
 															ZOrder = "1",
 														},
 													},
@@ -1579,7 +1579,7 @@ local t =
 															{
 																
 															},
-															width = "69",
+															width = "109",
 															ZOrder = "1",
 														},
 													},
@@ -1738,7 +1738,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "27",
+															height = "25",
 															ignoreSize = "True",
 															name = "Label_suit_name",
 															nTextAlign = "1",
@@ -1755,7 +1755,7 @@ local t =
 																PositionX = -241,
 																PositionY = 42,
 															},
-															width = "91",
+															width = "230",
 															ZOrder = "1",
 														},
 														{
@@ -1826,7 +1826,7 @@ local t =
 															controlID = "Label_suit_desc_Panel_suit_info_Panel_suit2_Panel_info_Panel_content_Panel_root_Panel-dispatchHeroLayer_Layer1_dispatch_Game",
 															UUID = "fdb3a2d5_fea8_4814_826b_712e07aa09ff",
 															anchorPoint = "False",
-															anchorPointX = "0.5",
+															anchorPointX = "1",
 															anchorPointY = "0.5",
 															classname = "MELabel",
 															compPath = "luacomponents.common.MEIconLabel",
@@ -1848,7 +1848,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "70",
+															height = "0",
 															ignoreSize = "False",
 															name = "Label_suit_desc",
 															nTextAlign = "1",
@@ -1862,10 +1862,10 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 108,
+																PositionX = 267,
 																PositionY = -13,
 															},
-															width = "260",
+															width = "288",
 															ZOrder = "1",
 														},
 													},
@@ -1939,7 +1939,7 @@ local t =
 															{
 																
 															},
-															width = "69",
+															width = "109",
 															ZOrder = "1",
 														},
 													},
@@ -2020,7 +2020,7 @@ local t =
 													{
 														
 													},
-													width = "98",
+													width = "86",
 													ZOrder = "1",
 												},
 											},
@@ -2099,7 +2099,7 @@ local t =
 													{
 														
 													},
-													width = "52",
+													width = "16",
 													ZOrder = "1",
 												},
 											},

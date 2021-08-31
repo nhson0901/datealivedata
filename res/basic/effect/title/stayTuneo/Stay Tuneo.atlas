@@ -1,0 +1,20 @@
+
+Stay Tuneo.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/Stay Tuneo1_000
+  rotate: false
+  xy: 2, 94
+  size: 143, 30
+  orig: 171, 46
+  offset: 14, 7
+  index: -1
+images/Stay Tuneo_000
+  rotate: false
+  xy: 2, 126
+  size: 169, 45
+  orig: 169, 45
+  offset: 0, 0
+  index: -1

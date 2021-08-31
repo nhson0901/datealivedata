@@ -2229,7 +2229,7 @@ return {
     },
     [128] = {
         isOpen = true,
-        openLevel = 99,
+        openLevel = 40,
         isStinger = false,
         id = 128,
         openDun = 0,

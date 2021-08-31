@@ -459,7 +459,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = -135,
+										PositionY = -149,
 									},
 									uipanelviewmodel = 
 									{
@@ -711,6 +711,212 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionY = 38,
+									},
+									width = "338",
+									ZOrder = "1",
+								},
+								{
+									controlID = "panel_scroll_Image_bg_Panel_root_Panel-buyConfirmView_Layer1_store_Game",
+									UUID = "34eecdfe_760a_4460_ab12_e457d3cab2d5",
+									anchorPoint = "False",
+									anchorPointX = "0",
+									anchorPointY = "0",
+									backGroundScale9Enable = "False",
+									bgColorOpacity = "50",
+									bIsOpenClipping = "False",
+									classname = "MEPanel",
+									colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+									DesignHeight = "640",
+									DesignType = "0",
+									DesignWidth = "960",
+									dstBlendFunc = "771",
+									height = "160",
+									ignoreSize = "False",
+									name = "panel_scroll",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									touchAble = "False",
+									UILayoutViewModel = 
+									{
+										PositionX = -171,
+										PositionY = -120,
+									},
+									uipanelviewmodel = 
+									{
+										Layout="Absolute",
+										nType = "0"
+									},
+									width = "338",
+									ZOrder = "1",
+									components = 
+									{
+										
+										{
+											controlID = "ScrollView_des_panel_scroll_Image_bg_Panel_root_Panel-buyConfirmView_Layer1_store_Game",
+											UUID = "e9c7eb9f_3b1d_4b3a_b424_2567955c682f",
+											anchorPoint = "False",
+											anchorPointX = "0",
+											anchorPointY = "0",
+											backGroundScale9Enable = "False",
+											bgColorOpacity = "50",
+											bIsOpenClipping = "True",
+											bounceEnable = "False",
+											classname = "MEScrollView",
+											colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+											direction = "1",
+											dstBlendFunc = "771",
+											height = "160",
+											ignoreSize = "False",
+											innerHeight = "160",
+											innerWidth = "338",
+											name = "ScrollView_des",
+											showScrollbar = "False",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "1",
+											touchAble = "True",
+											UILayoutViewModel = 
+											{
+												
+											},
+											uipanelviewmodel = 
+											{
+												Layout="Absolute",
+												nType = "0"
+											},
+											width = "338",
+											ZOrder = "1",
+										},
+									},
+								},
+							},
+						},
+					},
+				},
+				{
+					controlID = "Panel_prefab_Panel-buyConfirmView_Layer1_store_Game",
+					UUID = "bbdaa888_8e42_4ce6_8db7_1413a6cb14df",
+					anchorPoint = "False",
+					anchorPointX = "0",
+					anchorPointY = "0",
+					backGroundScale9Enable = "False",
+					bgColorOpacity = "50",
+					bIsOpenClipping = "False",
+					classname = "MEPanel",
+					colorType = "1;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+					DesignHeight = "640",
+					DesignType = "0",
+					DesignWidth = "960",
+					dstBlendFunc = "771",
+					height = "548",
+					ignoreSize = "False",
+					name = "Panel_prefab",
+					sizepercentx = "100",
+					sizepercenty = "100",
+					sizeType = "1",
+					srcBlendFunc = "1",
+					touchAble = "False",
+					UILayoutViewModel = 
+					{
+						PositionX = 1148,
+						PositionY = -301,
+						LeftPositon = 1148,
+						TopPosition = 301,
+						relativeToName = "Panel",
+						nType = 3,
+					},
+					uipanelviewmodel = 
+					{
+						Layout="Absolute",
+						nType = "0"
+					},
+					width = "888",
+					ZOrder = "1",
+					components = 
+					{
+						
+						{
+							controlID = "Panel_des_Panel_prefab_Panel-buyConfirmView_Layer1_store_Game",
+							UUID = "78ad99e1_62a8_42f9_a33a_ce3f22574689",
+							anchorPoint = "False",
+							anchorPointX = "0",
+							anchorPointY = "1",
+							backGroundScale9Enable = "False",
+							bgColorOpacity = "50",
+							bIsOpenClipping = "False",
+							classname = "MEPanel",
+							colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+							DesignHeight = "640",
+							DesignType = "0",
+							DesignWidth = "960",
+							dstBlendFunc = "771",
+							height = "160",
+							ignoreSize = "False",
+							name = "Panel_des",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = 139,
+								PositionY = 366,
+							},
+							uipanelviewmodel = 
+							{
+								Layout="Absolute",
+								nType = "0"
+							},
+							width = "338",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "Label_title_Panel_des_Panel_prefab_Panel-buyConfirmView_Layer1_store_Game",
+									UUID = "adf79952_8d97_434a_98fb_59fd9e683891",
+									anchorPoint = "False",
+									anchorPointX = "0",
+									anchorPointY = "1",
+									classname = "MELabel",
+									compPath = "luacomponents.common.MEIconLabel",
+									dstBlendFunc = "771",
+									FontColor = "#FF3E4868",
+									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "22",
+									fontStroke = 
+									{
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
+									},
+									height = "0",
+									ignoreSize = "False",
+									name = "Label_title",
+									nTextAlign = "0",
+									nTextHAlign = "0",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "Remaining",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										
 									},
 									width = "338",
 									ZOrder = "1",
