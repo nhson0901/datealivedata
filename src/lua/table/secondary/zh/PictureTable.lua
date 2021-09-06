@@ -4876,8 +4876,8 @@ return {
     },
     [976] = {
         id = 976,
-        res = "ui/mainui/battle_entrance.png",
-        res_en = "ui/mainui/battle_entrance_zh.png",
+        res = "ui/mainui/battle_zhtrance.png",
+        res_en = "ui/mainui/battle_zhtrance_zh.png",
     },
     [977] = {
         id = 977,
@@ -6253,5 +6253,1295 @@ return {
         id = 1251,
         res = "icon/equipment/suit/ruler.png",
         res_en = "icon/equipment/suit/ruler_zh.png",
+    },
+    [1252] = {
+        id = 1252,
+        res = "ui/activity/detective/picture/11.png",
+        res_en = "ui/activity/detective/picture/11_zh.png",
+    },
+    [1253] = {
+        id = 1253,
+        res = "ui/fuben/boss_challege/12.png",
+        res_en = "ui/fuben/boss_challege/12_zh.png",
+    },
+    [1254] = {
+        id = 1254,
+        res = "icon/item/goods/529042.png",
+        res_en = "icon/item/goods/529042_zh.png",
+    },
+    [1255] = {
+        id = 1255,
+        res = "ui/activity/picture/icon301.png",
+        res_en = "ui/activity/picture/icon301_zh.png",
+    },
+    [1256] = {
+        id = 1256,
+        res = "ui/activity/detective/main/005.png",
+        res_en = "ui/activity/detective/main/005_zh.png",
+    },
+    [1257] = {
+        id = 1257,
+        res = "modle/cg/mojin-jielonggong.png",
+        res_en = "modle/cg/mojin-jielonggong_zh.png",
+    },
+    [1258] = {
+        id = 1258,
+        res = "ui/monthcardNew1/bg12.png",
+        res_en = "ui/monthcardNew1/bg12_zh.png",
+    },
+    [1259] = {
+        id = 1259,
+        res = "ui/dfwNew/ui_dfw_ad_button.png",
+        res_en = "ui/dfwNew/ui_dfw_ad_button_zh.png",
+    },
+    [1260] = {
+        id = 1260,
+        res = "ui/mainLayer/ad_btn1.png",
+        res_en = "ui/mainLayer/ad_btn1_zh.png",
+    },
+    [1261] = {
+        id = 1261,
+        res = "ui/activity/znq_yly/help/002.png",
+        res_en = "ui/activity/znq_yly/help/002_zh.png",
+    },
+    [1262] = {
+        id = 1262,
+        res = "icon/equipment/name/hanfuchunjiewanyouli.png",
+        res_en = "icon/equipment/name/hanfuchunjiewanyouli_zh.png",
+    },
+    [1263] = {
+        id = 1263,
+        res = "ui/activity/baowuhunter/001.png",
+        res_en = "ui/activity/baowuhunter/001_zh.png",
+    },
+    [1264] = {
+        id = 1264,
+        res = "ui/activity/picture/ad202.png",
+        res_en = "ui/activity/picture/ad202_zh.png",
+    },
+    [1265] = {
+        id = 1265,
+        res = "ui/activity/whiteValentine/008.png",
+        res_en = "ui/activity/whiteValentine/008_zh.png",
+    },
+    [1266] = {
+        id = 1266,
+        res = "ui/mainLayer/new_ui/ad/duanwujie.png",
+        res_en = "ui/mainLayer/new_ui/ad/duanwujie_zh.png",
+    },
+    [1267] = {
+        id = 1267,
+        res = "ui/activity/picture/ad156.png",
+        res_en = "ui/activity/picture/ad156_zh.png",
+    },
+    [1268] = {
+        id = 1268,
+        res = "ui/activity/coffee/pop/013.png",
+        res_en = "ui/activity/coffee/pop/013_zh.png",
+    },
+    [1269] = {
+        id = 1269,
+        res = "icon/item/goods/500132.png",
+        res_en = "icon/item/goods/500132_zh.png",
+    },
+    [1270] = {
+        id = 1270,
+        res = "ui/activity/picture/icon179.png",
+        res_en = "ui/activity/picture/icon179_zh.png",
+    },
+    [1271] = {
+        id = 1271,
+        res = "ui/activity/add_recharge/008.png",
+        res_en = "ui/activity/add_recharge/008_zh.png",
+    },
+    [1272] = {
+        id = 1272,
+        res = "ui/activity/callback/4.png",
+        res_en = "ui/activity/callback/4_zh.png",
+    },
+    [1273] = {
+        id = 1273,
+        res = "ui/activity/callback/3.png",
+        res_en = "ui/activity/callback/3_zh.png",
+    },
+    [1274] = {
+        id = 1274,
+        res = "ui/activity/szdy/path/back_2.png",
+        res_en = "ui/activity/szdy/path/back_2_zh.png",
+    },
+    [1275] = {
+        id = 1275,
+        res = "ui/activity/allServerAssistance/main/bgActivity.png",
+        res_en = "ui/activity/allServerAssistance/main/bgActivity_zh.png",
+    },
+    [1276] = {
+        id = 1276,
+        res = "ui/activity/whiteQueenAssist/activityFund/bg.png",
+        res_en = "ui/activity/whiteQueenAssist/activityFund/bg_zh.png",
+    },
+    [1277] = {
+        id = 1277,
+        res = "ui/activity/picture/ad186.png",
+        res_en = "ui/activity/picture/ad186_zh.png",
+    },
+    [1278] = {
+        id = 1278,
+        res = "ui/dfwNew/ui_dfw_logo.png",
+        res_en = "ui/dfwNew/ui_dfw_logo_zh.png",
+    },
+    [1279] = {
+        id = 1279,
+        res = "ui/activity/picture/icon121.png",
+        res_en = "ui/activity/picture/icon121_zh.png",
+    },
+    [1280] = {
+        id = 1280,
+        res = "ui/activity/picture/ad216.png",
+        res_en = "ui/activity/picture/ad216_zh.png",
+    },
+    [1281] = {
+        id = 1281,
+        res = "ui/activity/allServerAssistance/task/007.png",
+        res_en = "ui/activity/allServerAssistance/task/007_zh.png",
+    },
+    [1282] = {
+        id = 1282,
+        res = "ui/activity/picture/ad122.png",
+        res_en = "ui/activity/picture/ad122_zh.png",
+    },
+    [1283] = {
+        id = 1283,
+        res = "ui/activity/szdy/path/back_3.png",
+        res_en = "ui/activity/szdy/path/back_3_zh.png",
+    },
+    [1284] = {
+        id = 1284,
+        res = "ui/activity/znq_yly/mainUi/019.png",
+        res_en = "ui/activity/znq_yly/mainUi/019_zh.png",
+    },
+    [1285] = {
+        id = 1285,
+        res = "ui/skyladder/end/t_002.png",
+        res_en = "ui/skyladder/end/t_002_zh.png",
+    },
+    [1286] = {
+        id = 1286,
+        res = "ui/activity/znq_yly/help/003.png",
+        res_en = "ui/activity/znq_yly/help/003_zh.png",
+    },
+    [1287] = {
+        id = 1287,
+        res = "ui/activity/picture/ad54.png",
+        res_en = "ui/activity/picture/ad54_zh.png",
+    },
+    [1288] = {
+        id = 1288,
+        res = "ui/explore/general/boss/010.png",
+        res_en = "ui/explore/general/boss/010_zh.png",
+    },
+    [1289] = {
+        id = 1289,
+        res = "ui/activity/picture/ad204.png",
+        res_en = "ui/activity/picture/ad204_zh.png",
+    },
+    [1290] = {
+        id = 1290,
+        res = "ui/dfwNew/ui_dfw_ad.png",
+        res_en = "ui/dfwNew/ui_dfw_ad_zh.png",
+    },
+    [1291] = {
+        id = 1291,
+        res = "icon/item/goods/529036.png",
+        res_en = "icon/item/goods/529036_zh.png",
+    },
+    [1292] = {
+        id = 1292,
+        res = "ui/dating/1214Dating/favorUpLv/008.png",
+        res_en = "ui/dating/1214Dating/favorUpLv/008_zh.png",
+    },
+    [1293] = {
+        id = 1293,
+        res = "ui/activity/crazyDiamond/crazyDiamond_9.png",
+        res_en = "ui/activity/crazyDiamond/crazyDiamond_9_zh.png",
+    },
+    [1294] = {
+        id = 1294,
+        res = "icon/item/goods/570539.png",
+        res_en = "icon/item/goods/570539_zh.png",
+    },
+    [1295] = {
+        id = 1295,
+        res = "ui/activity/crazyDiamond/crazyDiamond_14.png",
+        res_en = "ui/activity/crazyDiamond/crazyDiamond_14_zh.png",
+    },
+    [1296] = {
+        id = 1296,
+        res = "ui/activity/picture/ad217.png",
+        res_en = "ui/activity/picture/ad217_zh.png",
+    },
+    [1297] = {
+        id = 1297,
+        res = "ui/activity/callback/2.png",
+        res_en = "ui/activity/callback/2_zh.png",
+    },
+    [1298] = {
+        id = 1298,
+        res = "ui/activity/picture/icon300.png",
+        res_en = "ui/activity/picture/icon300_zh.png",
+    },
+    [1299] = {
+        id = 1299,
+        res = "ui/valentine/new/003.png",
+        res_en = "ui/valentine/new/003_zh.png",
+    },
+    [1300] = {
+        id = 1300,
+        res = "ui/monthcardNew1/bg11.png",
+        res_en = "ui/monthcardNew1/bg11_zh.png",
+    },
+    [1301] = {
+        id = 1301,
+        res = "ui/fuben/sisinaiTips/btn.png",
+        res_en = "ui/fuben/sisinaiTips/btn_zh.png",
+    },
+    [1302] = {
+        id = 1302,
+        res = "ui/activity/coffee/pop/019.png",
+        res_en = "ui/activity/coffee/pop/019_zh.png",
+    },
+    [1303] = {
+        id = 1303,
+        res = "ui/balloon/20.png",
+        res_en = "ui/balloon/20_zh.png",
+    },
+    [1304] = {
+        id = 1304,
+        res = "ui/activity/szdy/path/front_3.png",
+        res_en = "ui/activity/szdy/path/front_3_zh.png",
+    },
+    [1305] = {
+        id = 1305,
+        res = "ui/monthcardNew1/bg10.png",
+        res_en = "ui/monthcardNew1/bg10_zh.png",
+    },
+    [1306] = {
+        id = 1306,
+        res = "ui/activity/allServerAssistance/task/006.png",
+        res_en = "ui/activity/allServerAssistance/task/006_zh.png",
+    },
+    [1307] = {
+        id = 1307,
+        res = "ui/activity/turtableActivity/btn_go.png",
+        res_en = "ui/activity/turtableActivity/btn_go_zh.png",
+    },
+    [1308] = {
+        id = 1308,
+        res = "ui/activity/groupPurchase/hasget.png",
+        res_en = "ui/activity/groupPurchase/hasget_zh.png",
+    },
+    [1309] = {
+        id = 1309,
+        res = "ui/turnTabletGame/04.png",
+        res_en = "ui/turnTabletGame/04_zh.png",
+    },
+    [1310] = {
+        id = 1310,
+        res = "ui/activity/baowuhunter/003.png",
+        res_en = "ui/activity/baowuhunter/003_zh.png",
+    },
+    [1311] = {
+        id = 1311,
+        res = "ui/activity/znq_yly/mainUi/highFive.png",
+        res_en = "ui/activity/znq_yly/mainUi/highFive_zh.png",
+    },
+    [1312] = {
+        id = 1312,
+        res = "ui/summon/077.png",
+        res_en = "ui/summon/077_zh.png",
+    },
+    [1313] = {
+        id = 1313,
+        res = "ui/summon/elf_contract/role_1120.png",
+        res_en = "ui/summon/elf_contract/role_1120_zh.png",
+    },
+    [1314] = {
+        id = 1314,
+        res = "ui/activity/coffee/pop/028.png",
+        res_en = "ui/activity/coffee/pop/028_zh.png",
+    },
+    [1315] = {
+        id = 1315,
+        res = "ui/activity/picture/ad118.png",
+        res_en = "ui/activity/picture/ad118_zh.png",
+    },
+    [1316] = {
+        id = 1316,
+        res = "ui/balloon/14.png",
+        res_en = "ui/balloon/14_zh.png",
+    },
+    [1317] = {
+        id = 1317,
+        res = "ui/activity/detective/specialVote/006.png",
+        res_en = "ui/activity/detective/specialVote/006_zh.png",
+    },
+    [1318] = {
+        id = 1318,
+        res = "icon/item/goods/570529.png",
+        res_en = "icon/item/goods/570529_zh.png",
+    },
+    [1319] = {
+        id = 1319,
+        res = "ui/activity/znq_yly/help/004.png",
+        res_en = "ui/activity/znq_yly/help/004_zh.png",
+    },
+    [1320] = {
+        id = 1320,
+        res = "ui/mainLayer/new_ui/ad/shengrihuodong.png",
+        res_en = "ui/mainLayer/new_ui/ad/shengrihuodong_zh.png",
+    },
+    [1321] = {
+        id = 1321,
+        res = "icon/item/goods/1200043.png",
+        res_en = "icon/item/goods/1200043_zh.png",
+    },
+    [1322] = {
+        id = 1322,
+        res = "icon/equipment/name/ding.png",
+        res_en = "icon/equipment/name/ding_zh.png",
+    },
+    [1323] = {
+        id = 1323,
+        res = "ui/activity/picture/icon175.png",
+        res_en = "ui/activity/picture/icon175_zh.png",
+    },
+    [1324] = {
+        id = 1324,
+        res = "ui/summon/ad_clothes4.png",
+        res_en = "ui/summon/ad_clothes4_zh.png",
+    },
+    [1325] = {
+        id = 1325,
+        res = "ui/activity/picture/ad206.png",
+        res_en = "ui/activity/picture/ad206_zh.png",
+    },
+    [1326] = {
+        id = 1326,
+        res = "ui/activity/detective/main/022.png",
+        res_en = "ui/activity/detective/main/022_zh.png",
+    },
+    [1327] = {
+        id = 1327,
+        res = "ui/activity/szdy/bg.png",
+        res_en = "ui/activity/szdy/bg_zh.png",
+    },
+    [1328] = {
+        id = 1328,
+        res = "icon/equipment/name/hanfuchunjiemeijiu.png",
+        res_en = "icon/equipment/name/hanfuchunjiemeijiu_zh.png",
+    },
+    [1329] = {
+        id = 1329,
+        res = "ui/monthcardNew1/bg_month.png",
+        res_en = "ui/monthcardNew1/bg_month_zh.png",
+    },
+    [1330] = {
+        id = 1330,
+        res = "icon/item/goods/570522.png",
+        res_en = "icon/item/goods/570522_zh.png",
+    },
+    [1331] = {
+        id = 1331,
+        res = "ui/activity/znq_yly/mainUi/leave.png",
+        res_en = "ui/activity/znq_yly/mainUi/leave_zh.png",
+    },
+    [1332] = {
+        id = 1332,
+        res = "ui/setting/new/bg3.png",
+        res_en = "ui/setting/new/bg3_zh.png",
+    },
+    [1333] = {
+        id = 1333,
+        res = "ui/activity/picture/icon120.png",
+        res_en = "ui/activity/picture/icon120_zh.png",
+    },
+    [1334] = {
+        id = 1334,
+        res = "ui/activity/picture/ad193.png",
+        res_en = "ui/activity/picture/ad193_zh.png",
+    },
+    [1335] = {
+        id = 1335,
+        res = "ui/skyladder/end/t_003.png",
+        res_en = "ui/skyladder/end/t_003_zh.png",
+    },
+    [1336] = {
+        id = 1336,
+        res = "ui/explore/skin/005.png",
+        res_en = "ui/explore/skin/005_zh.png",
+    },
+    [1337] = {
+        id = 1337,
+        res = "icon/equipment/name/hanfuchunjieqizui.png",
+        res_en = "icon/equipment/name/hanfuchunjieqizui_zh.png",
+    },
+    [1338] = {
+        id = 1338,
+        res = "icon/item/goods/570530.png",
+        res_en = "icon/item/goods/570530_zh.png",
+    },
+    [1339] = {
+        id = 1339,
+        res = "ui/update/s57.png",
+        res_en = "ui/update/s57_zh.png",
+    },
+    [1340] = {
+        id = 1340,
+        res = "modle/cg/mojin-jielongqiu.png",
+        res_en = "modle/cg/mojin-jielongqiu_zh.png",
+    },
+    [1341] = {
+        id = 1341,
+        res = "ui/explore/console/full.png",
+        res_en = "ui/explore/console/full_zh.png",
+    },
+    [1342] = {
+        id = 1342,
+        res = "ui/activity/detective/main/021.png",
+        res_en = "ui/activity/detective/main/021_zh.png",
+    },
+    [1343] = {
+        id = 1343,
+        res = "ui/activity/picture/icon61.png",
+        res_en = "ui/activity/picture/icon61_zh.png",
+    },
+    [1344] = {
+        id = 1344,
+        res = "modle/cg/mojin-jielongmeng.png",
+        res_en = "modle/cg/mojin-jielongmeng_zh.png",
+    },
+    [1345] = {
+        id = 1345,
+        res = "icon/item/goods/529047.png",
+        res_en = "icon/item/goods/529047_zh.png",
+    },
+    [1346] = {
+        id = 1346,
+        res = "ui/mainLayer/recall/btn_go.png",
+        res_en = "ui/mainLayer/recall/btn_go_zh.png",
+    },
+    [1347] = {
+        id = 1347,
+        res = "ui/activity/whiteValentine/m4.png",
+        res_en = "ui/activity/whiteValentine/m4_zh.png",
+    },
+    [1348] = {
+        id = 1348,
+        res = "icon/item/goods/570519.png",
+        res_en = "icon/item/goods/570519_zh.png",
+    },
+    [1349] = {
+        id = 1349,
+        res = "ui/activity/szdy/path/front_1.png",
+        res_en = "ui/activity/szdy/path/front_1_zh.png",
+    },
+    [1350] = {
+        id = 1350,
+        res = "ui/activity/picture/icon168.png",
+        res_en = "ui/activity/picture/icon168_zh.png",
+    },
+    [1351] = {
+        id = 1351,
+        res = "icon/item/goods/529038.png",
+        res_en = "icon/item/goods/529038_zh.png",
+    },
+    [1352] = {
+        id = 1352,
+        res = "ui/activity/catKSAcvivity/img_bg.png",
+        res_en = "ui/activity/catKSAcvivity/img_bg_zh.png",
+    },
+    [1353] = {
+        id = 1353,
+        res = "icon/equipment/suit/hanfuchunjie.png",
+        res_en = "icon/equipment/suit/hanfuchunjie_zh.png",
+    },
+    [1354] = {
+        id = 1354,
+        res = "ui/fuben/monsterTrial/perfectLabel.png",
+        res_en = "ui/fuben/monsterTrial/perfectLabel_zh.png",
+    },
+    [1355] = {
+        id = 1355,
+        res = "ui/activity/picture/icon187.png",
+        res_en = "ui/activity/picture/icon187_zh.png",
+    },
+    [1356] = {
+        id = 1356,
+        res = "icon/item/goods/570528.png",
+        res_en = "icon/item/goods/570528_zh.png",
+    },
+    [1357] = {
+        id = 1357,
+        res = "icon/item/goods/570527.png",
+        res_en = "icon/item/goods/570527_zh.png",
+    },
+    [1358] = {
+        id = 1358,
+        res = "ui/explore/console/2.png",
+        res_en = "ui/explore/console/2_zh.png",
+    },
+    [1359] = {
+        id = 1359,
+        res = "ui/explore/growup/command/task/021.png",
+        res_en = "ui/explore/growup/command/task/021_zh.png",
+    },
+    [1360] = {
+        id = 1360,
+        res = "ui/activity/picture/icon51.png",
+        res_en = "ui/activity/picture/icon51_zh.png",
+    },
+    [1361] = {
+        id = 1361,
+        res = "ui/activity/znq_yly/mainUi/016.png",
+        res_en = "ui/activity/znq_yly/mainUi/016_zh.png",
+    },
+    [1362] = {
+        id = 1362,
+        res = "ui/explore/main/007.png",
+        res_en = "ui/explore/main/007_zh.png",
+    },
+    [1363] = {
+        id = 1363,
+        res = "ui/activity/summonActivity/cover1.png",
+        res_en = "ui/activity/summonActivity/cover1_zh.png",
+    },
+    [1364] = {
+        id = 1364,
+        res = "ui/activity/feedback/01.png",
+        res_en = "ui/activity/feedback/01_zh.png",
+    },
+    [1365] = {
+        id = 1365,
+        res = "ui/activity/coffee/pop/031.png",
+        res_en = "ui/activity/coffee/pop/031_zh.png",
+    },
+    [1366] = {
+        id = 1366,
+        res = "ui/activity/picture/ad120.png",
+        res_en = "ui/activity/picture/ad120_zh.png",
+    },
+    [1367] = {
+        id = 1367,
+        res = "ui/summon/ad_clothes5.png",
+        res_en = "ui/summon/ad_clothes5_zh.png",
+    },
+    [1368] = {
+        id = 1368,
+        res = "ui/activity/detective/main/020.png",
+        res_en = "ui/activity/detective/main/020_zh.png",
+    },
+    [1369] = {
+        id = 1369,
+        res = "ui/balloon/30.png",
+        res_en = "ui/balloon/30_zh.png",
+    },
+    [1370] = {
+        id = 1370,
+        res = "ui/activity/christmas_pre/z1.png",
+        res_en = "ui/activity/christmas_pre/z1_zh.png",
+    },
+    [1371] = {
+        id = 1371,
+        res = "ui/summon/Store.png",
+        res_en = "ui/summon/Store_zh.png",
+    },
+    [1372] = {
+        id = 1372,
+        res = "icon/item/goods/1200009.png",
+        res_en = "icon/item/goods/1200009_zh.png",
+    },
+    [1373] = {
+        id = 1373,
+        res = "ui/activity/picture/ad121.png",
+        res_en = "ui/activity/picture/ad121_zh.png",
+    },
+    [1374] = {
+        id = 1374,
+        res = "ui/activity/activity_dicuo/enhui/013.png",
+        res_en = "ui/activity/activity_dicuo/enhui/013_zh.png",
+    },
+    [1375] = {
+        id = 1375,
+        res = "ui/explore/skin/skinIcon/02.png",
+        res_en = "ui/explore/skin/skinIcon/02_zh.png",
+    },
+    [1376] = {
+        id = 1376,
+        res = "ui/activity/picture/icon173.png",
+        res_en = "ui/activity/picture/icon173_zh.png",
+    },
+    [1377] = {
+        id = 1377,
+        res = "ui/explore/console/1.png",
+        res_en = "ui/explore/console/1_zh.png",
+    },
+    [1378] = {
+        id = 1378,
+        res = "icon/item/goods/570078.png",
+        res_en = "icon/item/goods/570078_zh.png",
+    },
+    [1379] = {
+        id = 1379,
+        res = "ui/activity/znq_yly/mainUi/015.png",
+        res_en = "ui/activity/znq_yly/mainUi/015_zh.png",
+    },
+    [1380] = {
+        id = 1380,
+        res = "ui/activity/picture/icon40.png",
+        res_en = "ui/activity/picture/icon40_zh.png",
+    },
+    [1381] = {
+        id = 1381,
+        res = "ui/activity/picture/icon186.png",
+        res_en = "ui/activity/picture/icon186_zh.png",
+    },
+    [1382] = {
+        id = 1382,
+        res = "ui/friend/master/019.png",
+        res_en = "ui/friend/master/019_zh.png",
+    },
+    [1383] = {
+        id = 1383,
+        res = "icon/item/goods/1200015.png",
+        res_en = "icon/item/goods/1200015_zh.png",
+    },
+    [1384] = {
+        id = 1384,
+        res = "ui/summon/076.png",
+        res_en = "ui/summon/076_zh.png",
+    },
+    [1385] = {
+        id = 1385,
+        res = "ui/activity/detective/picture/03.png",
+        res_en = "ui/activity/detective/picture/03_zh.png",
+    },
+    [1386] = {
+        id = 1386,
+        res = "ui/activity/picture/ad207.png",
+        res_en = "ui/activity/picture/ad207_zh.png",
+    },
+    [1387] = {
+        id = 1387,
+        res = "ui/activity/callback/get.png",
+        res_en = "ui/activity/callback/get_zh.png",
+    },
+    [1388] = {
+        id = 1388,
+        res = "icon/item/goods/570521.png",
+        res_en = "icon/item/goods/570521_zh.png",
+    },
+    [1389] = {
+        id = 1389,
+        res = "icon/stone/random/524009.png",
+        res_en = "icon/stone/random/524009_zh.png",
+    },
+    [1390] = {
+        id = 1390,
+        res = "ui/dfwNew/ui_dfw_ad_title.png",
+        res_en = "ui/dfwNew/ui_dfw_ad_title_zh.png",
+    },
+    [1391] = {
+        id = 1391,
+        res = "ui/activity/picture/icon199.png",
+        res_en = "ui/activity/picture/icon199_zh.png",
+    },
+    [1392] = {
+        id = 1392,
+        res = "ui/balloon/19.png",
+        res_en = "ui/balloon/19_zh.png",
+    },
+    [1393] = {
+        id = 1393,
+        res = "icon/item/goods/1200038.png",
+        res_en = "icon/item/goods/1200038_zh.png",
+    },
+    [1394] = {
+        id = 1394,
+        res = "ui/dfwNew/ui_dfw_claim2.png",
+        res_en = "ui/dfwNew/ui_dfw_claim2_zh.png",
+    },
+    [1395] = {
+        id = 1395,
+        res = "ui/fairy/new_ui/element/img_01.png",
+        res_en = "ui/fairy/new_ui/element/img_01_zh.png",
+    },
+    [1396] = {
+        id = 1396,
+        res = "ui/fuben/sisinaiTips/bg.png",
+        res_en = "ui/fuben/sisinaiTips/bg_zh.png",
+    },
+    [1397] = {
+        id = 1397,
+        res = "ui/fuben/linkage/012.png",
+        res_en = "ui/fuben/linkage/012_zh.png",
+    },
+    [1398] = {
+        id = 1398,
+        res = "ui/activity/znq_yly/help/001.png",
+        res_en = "ui/activity/znq_yly/help/001_zh.png",
+    },
+    [1399] = {
+        id = 1399,
+        res = "ui/dfwNew/ui_dfw_unachieved.png",
+        res_en = "ui/dfwNew/ui_dfw_unachieved_zh.png",
+    },
+    [1400] = {
+        id = 1400,
+        res = "ui/activity/callback/geted.png",
+        res_en = "ui/activity/callback/geted_zh.png",
+    },
+    [1401] = {
+        id = 1401,
+        res = "ui/activity/picture/icon104.png",
+        res_en = "ui/activity/picture/icon104_zh.png",
+    },
+    [1402] = {
+        id = 1402,
+        res = "ui/activity/coffee/pop/016.png",
+        res_en = "ui/activity/coffee/pop/016_zh.png",
+    },
+    [1403] = {
+        id = 1403,
+        res = "ui/supplyNew/recommond/r4.png",
+        res_en = "ui/supplyNew/recommond/r4_zh.png",
+    },
+    [1404] = {
+        id = 1404,
+        res = "ui/summon/elf_contract/role_103.png",
+        res_en = "ui/summon/elf_contract/role_103_zh.png",
+    },
+    [1405] = {
+        id = 1405,
+        res = "icon/equipment/name/yue.png",
+        res_en = "icon/equipment/name/yue_zh.png",
+    },
+    [1406] = {
+        id = 1406,
+        res = "ui/activity/chunriji/001.png",
+        res_en = "ui/activity/chunriji/001_zh.png",
+    },
+    [1407] = {
+        id = 1407,
+        res = "ui/activity/znq_yly/mainUi/investigate.png",
+        res_en = "ui/activity/znq_yly/mainUi/investigate_zh.png",
+    },
+    [1408] = {
+        id = 1408,
+        res = "ui/activity/whiteQueenAssist/taskActivity/bg_zuozhan.png",
+        res_en = "ui/activity/whiteQueenAssist/taskActivity/bg_zuozhan_zh.png",
+    },
+    [1409] = {
+        id = 1409,
+        res = "ui/activity/callback/7.png",
+        res_en = "ui/activity/callback/7_zh.png",
+    },
+    [1410] = {
+        id = 1410,
+        res = "ui/mainLayer/new_ui/ad/chunriji.png",
+        res_en = "ui/mainLayer/new_ui/ad/chunriji_zh.png",
+    },
+    [1411] = {
+        id = 1411,
+        res = "ui/activity/znq_yly/mainUi/020.png",
+        res_en = "ui/activity/znq_yly/mainUi/020_zh.png",
+    },
+    [1412] = {
+        id = 1412,
+        res = "ui/fuben/monsterTrial/finished.png",
+        res_en = "ui/fuben/monsterTrial/finished_zh.png",
+    },
+    [1413] = {
+        id = 1413,
+        res = "ui/activity/picture/icon54.png",
+        res_en = "ui/activity/picture/icon54_zh.png",
+    },
+    [1414] = {
+        id = 1414,
+        res = "ui/activity/picture/icon302.png",
+        res_en = "ui/activity/picture/icon302_zh.png",
+    },
+    [1415] = {
+        id = 1415,
+        res = "ui/activity/fashionStore/1/005.png",
+        res_en = "ui/activity/fashionStore/1/005_zh.png",
+    },
+    [1416] = {
+        id = 1416,
+        res = "ui/mainLayer/ad_btn.png",
+        res_en = "ui/mainLayer/ad_btn_zh.png",
+    },
+    [1417] = {
+        id = 1417,
+        res = "ui/fuben/boss_challege/get.png",
+        res_en = "ui/fuben/boss_challege/get_zh.png",
+    },
+    [1418] = {
+        id = 1418,
+        res = "ui/activity/picture/icon198.png",
+        res_en = "ui/activity/picture/icon198_zh.png",
+    },
+    [1419] = {
+        id = 1419,
+        res = "ui/activity/picture/icon218.png",
+        res_en = "ui/activity/picture/icon218_zh.png",
+    },
+    [1420] = {
+        id = 1420,
+        res = "ui/activity/szdy/path/bg2.png",
+        res_en = "ui/activity/szdy/path/bg2_zh.png",
+    },
+    [1421] = {
+        id = 1421,
+        res = "ui/mainLayer/new_ui/ad/gaojishizhuang.png",
+        res_en = "ui/mainLayer/new_ui/ad/gaojishizhuang_zh.png",
+    },
+    [1422] = {
+        id = 1422,
+        res = "ui/activity/league_back/img_bg.png",
+        res_en = "ui/activity/league_back/img_bg_zh.png",
+    },
+    [1423] = {
+        id = 1423,
+        res = "ui/activity/znq_yly/mainUi/017.png",
+        res_en = "ui/activity/znq_yly/mainUi/017_zh.png",
+    },
+    [1424] = {
+        id = 1424,
+        res = "ui/dfwautumn/card/DFW_kapai_2.png",
+        res_en = "ui/dfwautumn/card/DFW_kapai_2_zh.png",
+    },
+    [1425] = {
+        id = 1425,
+        res = "ui/activity/christmas_pre/bg.png",
+        res_en = "ui/activity/christmas_pre/bg_zh.png",
+    },
+    [1426] = {
+        id = 1426,
+        res = "ui/activity/welfareSign/007.png",
+        res_en = "ui/activity/welfareSign/007_zh.png",
+    },
+    [1427] = {
+        id = 1427,
+        res = "ui/activity/crazyDiamond/crazyDiamond_7.png",
+        res_en = "ui/activity/crazyDiamond/crazyDiamond_7_zh.png",
+    },
+    [1428] = {
+        id = 1428,
+        res = "ui/activity/sx_birthday/004.png",
+        res_en = "ui/activity/sx_birthday/004_zh.png",
+    },
+    [1429] = {
+        id = 1429,
+        res = "ui/monthcardNew1/bg5.png",
+        res_en = "ui/monthcardNew1/bg5_zh.png",
+    },
+    [1430] = {
+        id = 1430,
+        res = "ui/activity/picture/icon303.png",
+        res_en = "ui/activity/picture/icon303_zh.png",
+    },
+    [1431] = {
+        id = 1431,
+        res = "ui/activity/szdy/path/front_2.png",
+        res_en = "ui/activity/szdy/path/front_2_zh.png",
+    },
+    [1432] = {
+        id = 1432,
+        res = "ui/activity/picture/ad187.png",
+        res_en = "ui/activity/picture/ad187_zh.png",
+    },
+    [1433] = {
+        id = 1433,
+        res = "ui/activity/znq_yly/mainUi/021.png",
+        res_en = "ui/activity/znq_yly/mainUi/021_zh.png",
+    },
+    [1434] = {
+        id = 1434,
+        res = "ui/dfwautumn/card/DFW_kapai_3.png",
+        res_en = "ui/dfwautumn/card/DFW_kapai_3_zh.png",
+    },
+    [1435] = {
+        id = 1435,
+        res = "icon/item/goods/1200021.png",
+        res_en = "icon/item/goods/1200021_zh.png",
+    },
+    [1436] = {
+        id = 1436,
+        res = "ui/dfwautumn/003.png",
+        res_en = "ui/dfwautumn/003_zh.png",
+    },
+    [1437] = {
+        id = 1437,
+        res = "ui/activity/picture/icon184.png",
+        res_en = "ui/activity/picture/icon184_zh.png",
+    },
+    [1438] = {
+        id = 1438,
+        res = "ui/dfwautumn/card/DFW_kapai_1.png",
+        res_en = "ui/dfwautumn/card/DFW_kapai_1_zh.png",
+    },
+    [1439] = {
+        id = 1439,
+        res = "ui/skyladder/end/t_004.png",
+        res_en = "ui/skyladder/end/t_004_zh.png",
+    },
+    [1440] = {
+        id = 1440,
+        res = "ui/summon/ad_clothes2.png",
+        res_en = "ui/summon/ad_clothes2_zh.png",
+    },
+    [1441] = {
+        id = 1441,
+        res = "ui/activity/picture/icon304.png",
+        res_en = "ui/activity/picture/icon304_zh.png",
+    },
+    [1442] = {
+        id = 1442,
+        res = "ui/activity/znq_yly/privilege/bg.png",
+        res_en = "ui/activity/znq_yly/privilege/bg_zh.png",
+    },
+    [1443] = {
+        id = 1443,
+        res = "ui/activity/picture/icon203.png",
+        res_en = "ui/activity/picture/icon203_zh.png",
+    },
+    [1444] = {
+        id = 1444,
+        res = "ui/activity/szdy/hasget.png",
+        res_en = "ui/activity/szdy/hasget_zh.png",
+    },
+    [1445] = {
+        id = 1445,
+        res = "ui/activity/picture/icon118.png",
+        res_en = "ui/activity/picture/icon118_zh.png",
+    },
+    [1446] = {
+        id = 1446,
+        res = "ui/activity/newGiftByEnglishVer/dropActivity/bg.png",
+        res_en = "ui/activity/newGiftByEnglishVer/dropActivity/bg_zh.png",
+    },
+    [1447] = {
+        id = 1447,
+        res = "ui/dfwNew/ui_dfw_claim.png",
+        res_en = "ui/dfwNew/ui_dfw_claim_zh.png",
+    },
+    [1448] = {
+        id = 1448,
+        res = "ui/activity/picture/icon202.png",
+        res_en = "ui/activity/picture/icon202_zh.png",
+    },
+    [1449] = {
+        id = 1449,
+        res = "ui/activity/picture/ad117.png",
+        res_en = "ui/activity/picture/ad117_zh.png",
+    },
+    [1450] = {
+        id = 1450,
+        res = "ui/mainLayer/new_ui/ad/zhezhiluoli.png",
+        res_en = "ui/mainLayer/new_ui/ad/zhezhiluoli_zh.png",
+    },
+    [1451] = {
+        id = 1451,
+        res = "ui/activity/picture/icon117.png",
+        res_en = "ui/activity/picture/icon117_zh.png",
+    },
+    [1452] = {
+        id = 1452,
+        res = "ui/activity/picture/ad179.png",
+        res_en = "ui/activity/picture/ad179_zh.png",
+    },
+    [1453] = {
+        id = 1453,
+        res = "ui/activity/turtableActivity/bg1.png",
+        res_en = "ui/activity/turtableActivity/bg1_zh.png",
+    },
+    [1454] = {
+        id = 1454,
+        res = "modle/cg/mojin-jielong.png",
+        res_en = "modle/cg/mojin-jielong_zh.png",
+    },
+    [1455] = {
+        id = 1455,
+        res = "icon/item/goods/570520.png",
+        res_en = "icon/item/goods/570520_zh.png",
+    },
+    [1456] = {
+        id = 1456,
+        res = "ui/activity/coffee/pop/025.png",
+        res_en = "ui/activity/coffee/pop/025_zh.png",
+    },
+    [1457] = {
+        id = 1457,
+        res = "ui/activity/picture/icon177.png",
+        res_en = "ui/activity/picture/icon177_zh.png",
+    },
+    [1458] = {
+        id = 1458,
+        res = "icon/equipment/name/ji.png",
+        res_en = "icon/equipment/name/ji_zh.png",
+    },
+    [1459] = {
+        id = 1459,
+        res = "ui/activity/picture/ad304.png",
+        res_en = "ui/activity/picture/ad304_zh.png",
+    },
+    [1460] = {
+        id = 1460,
+        res = "icon/item/goods/570538.png",
+        res_en = "icon/item/goods/570538_zh.png",
+    },
+    [1461] = {
+        id = 1461,
+        res = "ui/activity/picture/ad203.png",
+        res_en = "ui/activity/picture/ad203_zh.png",
+    },
+    [1462] = {
+        id = 1462,
+        res = "icon/item/goods/570535.png",
+        res_en = "icon/item/goods/570535_zh.png",
+    },
+    [1463] = {
+        id = 1463,
+        res = "ui/explore/skin/skinIcon/01.png",
+        res_en = "ui/explore/skin/skinIcon/01_zh.png",
+    },
+    [1464] = {
+        id = 1464,
+        res = "ui/valentine/new/002.png",
+        res_en = "ui/valentine/new/002_zh.png",
+    },
+    [1465] = {
+        id = 1465,
+        res = "ui/activity/picture/icon176.png",
+        res_en = "ui/activity/picture/icon176_zh.png",
+    },
+    [1466] = {
+        id = 1466,
+        res = "ui/dfwautumn/001.png",
+        res_en = "ui/dfwautumn/001_zh.png",
+    },
+    [1467] = {
+        id = 1467,
+        res = "ui/mainui/battletrance.png",
+        res_en = "ui/mainui/battle_zhtrance_zh.png",
+    },
+    [1468] = {
+        id = 1468,
+        res = "ui/activity/szdy/path/back_1.png",
+        res_en = "ui/activity/szdy/path/back_1_zh.png",
+    },
+    [1469] = {
+        id = 1469,
+        res = "ui/activity/znq_yly/mainUi/018.png",
+        res_en = "ui/activity/znq_yly/mainUi/018_zh.png",
+    },
+    [1470] = {
+        id = 1470,
+        res = "ui/activity/picture/icon185.png",
+        res_en = "ui/activity/picture/icon185_zh.png",
+    },
+    [1471] = {
+        id = 1471,
+        res = "ui/activity/summonActivity/cover1_1.png",
+        res_en = "ui/activity/summonActivity/cover1_1_zh.png",
+    },
+    [1472] = {
+        id = 1472,
+        res = "ui/activity/detective/main/019.png",
+        res_en = "ui/activity/detective/main/019_zh.png",
+    },
+    [1473] = {
+        id = 1473,
+        res = "ui/activity/coffee/pop/022.png",
+        res_en = "ui/activity/coffee/pop/022_zh.png",
+    },
+    [1474] = {
+        id = 1474,
+        res = "ui/summon/elf_contract/role_112001.png",
+        res_en = "ui/summon/elf_contract/role_112001_zh.png",
+    },
+    [1475] = {
+        id = 1475,
+        res = "ui/activity/newGiftByEnglishVer/quanfuzhuli/bg.png",
+        res_en = "ui/activity/newGiftByEnglishVer/quanfuzhuli/bg_zh.png",
+    },
+    [1476] = {
+        id = 1476,
+        res = "icon/equipment/suit/bingganfensuiji.png",
+        res_en = "icon/equipment/suit/bingganfensuiji_zh.png",
+    },
+    [1477] = {
+        id = 1477,
+        res = "ui/activity/picture/ad51.png",
+        res_en = "ui/activity/picture/ad51_zh.png",
+    },
+    [1478] = {
+        id = 1478,
+        res = "ui/activity/feedback/01.jpg",
+        res_en = "ui/activity/feedback/01_zh.png",
+    },
+    [1479] = {
+        id = 1479,
+        res = "ui/summon/o_001.png",
+        res_en = "ui/summon/o_001_zh.png",
+    },
+    [1480] = {
+        id = 1480,
+        res = "ui/activity/picture/icon286.png",
+        res_en = "ui/activity/picture/icon286_zh.png",
+    },
+    [1481] = {
+        id = 1481,
+        res = "ui/fairy/new_ui/gongming/list/9.png",
+        res_en = "ui/fairy/new_ui/gongming/list/9_zh.png",
+    },
+    [1482] = {
+        id = 1482,
+        res = "ui/summon/068.png",
+        res_en = "ui/summon/068_zh.png",
+    },
+    [1483] = {
+        id = 1483,
+        res = "ui/summon/069.png",
+        res_en = "ui/summon/069_zh.png",
+    },
+    [1484] = {
+        id = 1484,
+        res = "ui/summon/070.png",
+        res_en = "ui/summon/070_zh.png",
+    },
+    [1485] = {
+        id = 1485,
+        res = "ui/summon/071.png",
+        res_en = "ui/summon/071_zh.png",
+    },
+    [1486] = {
+        id = 1486,
+        res = "ui/activity/picture/ad190.png",
+        res_en = "ui/activity/picture/ad190_zh.png",
+    },
+    [1487] = {
+        id = 1487,
+        res = "ui/activity/picture/ad191.png",
+        res_en = "ui/activity/picture/ad191_zh.png",
+    },
+    [1488] = {
+        id = 1488,
+        res = "ui/activity/picture/ad194.png",
+        res_en = "ui/activity/picture/ad194_zh.png",
+    },
+    [1489] = {
+        id = 1489,
+        res = "ui/activity/picture/ad195.png",
+        res_en = "ui/activity/picture/ad195_zh.png",
+    },
+    [1490] = {
+        id = 1490,
+        res = "ui/activity/picture/ad196.png",
+        res_en = "ui/activity/picture/ad196_zh.png",
+    },
+    [1491] = {
+        id = 1491,
+        res = "ui/activity/picture/ad200.png",
+        res_en = "ui/activity/picture/ad200_zh.png",
+    },
+    [1492] = {
+        id = 1492,
+        res = "ui/activity/picture/ad251.png",
+        res_en = "ui/activity/picture/ad251_zh.png",
+    },
+    [1493] = {
+        id = 1493,
+        res = "ui/activity/picture/ad252.png",
+        res_en = "ui/activity/picture/ad252_zh.png",
+    },
+    [1494] = {
+        id = 1494,
+        res = "ui/activity/picture/icon190.png",
+        res_en = "ui/activity/picture/icon190_zh.png",
+    },
+    [1495] = {
+        id = 1495,
+        res = "ui/activity/picture/icon191.png",
+        res_en = "ui/activity/picture/icon191_zh.png",
+    },
+    [1496] = {
+        id = 1496,
+        res = "ui/activity/picture/icon194.png",
+        res_en = "ui/activity/picture/icon194_zh.png",
+    },
+    [1497] = {
+        id = 1497,
+        res = "ui/activity/picture/icon195.png",
+        res_en = "ui/activity/picture/icon195_zh.png",
+    },
+    [1498] = {
+        id = 1498,
+        res = "ui/activity/picture/icon196.png",
+        res_en = "ui/activity/picture/icon196_zh.png",
+    },
+    [1499] = {
+        id = 1499,
+        res = "ui/activity/picture/icon200.png",
+        res_en = "ui/activity/picture/icon200_zh.png",
+    },
+    [1500] = {
+        id = 1500,
+        res = "ui/activity/picture/icon251.png",
+        res_en = "ui/activity/picture/icon251_zh.png",
+    },
+    [1501] = {
+        id = 1501,
+        res = "ui/activity/picture/icon252.png",
+        res_en = "ui/activity/picture/icon252_zh.png",
+    },
+    [1502] = {
+        id = 1502,
+        res = "icon/equipment/name/fanghu.png",
+        res_en = "icon/equipment/name/fanghu_zh.png",
+    },
+    [1503] = {
+        id = 1503,
+        res = "icon/equipment/name/feifaruqin.png",
+        res_en = "icon/equipment/name/feifaruqin_zh.png",
+    },
+    [1504] = {
+        id = 1504,
+        res = "icon/equipment/name/heianbingdu.png",
+        res_en = "icon/equipment/name/heianbingdu_zh.png",
+    },
+    [1505] = {
+        id = 1505,
+        res = "icon/equipment/name/kongjianduobi.png",
+        res_en = "icon/equipment/name/kongjianduobi_zh.png",
+    },
+    [1506] = {
+        id = 1506,
+        res = "icon/equipment/name/tansuo.png",
+        res_en = "icon/equipment/name/tansuo_zh.png",
+    },
+    [1507] = {
+        id = 1507,
+        res = "icon/equipment/name/yunxing.png",
+        res_en = "icon/equipment/name/yunxing_zh.png",
+    },
+    [1508] = {
+        id = 1508,
+        res = "icon/equipment/suit/jueduiruqin.png",
+        res_en = "icon/equipment/suit/jueduiruqin_zh.png",
+    },
+    [1509] = {
+        id = 1509,
+        res = "icon/equipment/suit/shijie.png",
+        res_en = "icon/equipment/suit/shijie_zh.png",
     },
 }

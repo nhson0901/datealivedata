@@ -698,7 +698,7 @@ local t =
 											UUID = "775ebf1a_7f0d_4b33_bb1b_6d6241998cc5",
 											anchorPoint = "False",
 											anchorPointX = "0",
-											anchorPointY = "0.5",
+											anchorPointY = "1",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
@@ -719,11 +719,11 @@ local t =
 												StrokeColor = "#FF444444",
 												StrokeSize = 1,
 											},
-											height = "20",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_sp",
-											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextAlign = "0",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -733,10 +733,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 74,
-												PositionY = -35,
+												PositionX = 76,
+												PositionY = -26,
 											},
-											width = "49",
+											width = "103",
 											ZOrder = "1",
 										},
 										{
@@ -779,7 +779,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 242,
+												PositionX = 251,
 												PositionY = -35,
 											},
 											width = "31",

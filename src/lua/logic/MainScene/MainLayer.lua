@@ -367,11 +367,6 @@ function MainLayer:initUI(ui)
     self.Image_newtip = TFDirector:getChildByPath(self.Button_phone, "Image_newtip")
 
     self.Button_explore    = TFDirector:getChildByPath(self.Panel_bottom,"Button_explore")
-    if not GlobalFuncDataMgr:isOpen(13) then   --英文版小语种控制探索模式显示
-        -- TODO CLOSE
-        -- 屏蔽飞船系统
-        self.Button_explore:setVisible(false)
-    end
     self.effect_explore    = TFDirector:getChildByPath(self.Button_explore,"Spine_phone")
     self.Button_league = TFDirector:getChildByPath(self.Panel_bottom, "Button_league")
     self.Image_leagueTip = TFDirector:getChildByPath(self.Button_league, "RedTips")
@@ -4531,7 +4526,7 @@ function MainLayer:flushZhaoHuanBtn(  )
                     local summon = SummonDataMgr:getSummon()
                     for k ,v in pairs(summon) do
                         local summonCfg = SummonDataMgr:getSummonCfg(v[1].id)
-                        if summonCfg.up then
+                        if summonCfg.up and v[1].isOpen then
                             self.Image_upTips:setVisible(summonCfg.up)
                         end
                     end
@@ -4547,7 +4542,7 @@ function MainLayer:flushZhaoHuanBtn(  )
                     local summon = SummonDataMgr:getSummon()
                     for k ,v in pairs(summon) do
                         local summonCfg = SummonDataMgr:getSummonCfg(v[1].id)
-                        if summonCfg.up then
+                        if summonCfg.up  and v[1].isOpen then
                             self.Image_upTips:setVisible(summonCfg.up)
                         end
                     end

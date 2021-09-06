@@ -1,6 +1,6 @@
 return {
     [1] = {
-        des2 = "火力值+1%",
+        des2 = "Firepower +1%",
         starConut = 5,
         talent = {
             [1] = 3801,
@@ -9,11 +9,11 @@ return {
         arpgAttr = {
             [1002] = 100,
         },
-        des1 = "攻击加成+1%",
+        des1 = "ATK Bonus +1%",
         combatPower = 20,
     },
     [2] = {
-        des2 = "护盾值+1%",
+        des2 = "Shield +1%",
         starConut = 10,
         talent = {
             [1] = 3802,
@@ -22,11 +22,11 @@ return {
         arpgAttr = {
             [1003] = 100,
         },
-        des1 = "防御加成+1%",
+        des1 = "DEF Bonus +1%",
         combatPower = 20,
     },
     [3] = {
-        des2 = "穿透率+1%",
+        des2 = "Pierce Rate +1%",
         starConut = 15,
         talent = {
             [1] = 3803,
@@ -35,11 +35,11 @@ return {
         arpgAttr = {
             [1001] = 200,
         },
-        des1 = "生命加成+2%",
+        des1 = "HP Bonus +2%",
         combatPower = 20,
     },
     [4] = {
-        des2 = "防御力+1%",
+        des2 = "DEF +1%",
         starConut = 20,
         talent = {
             [1] = 3804,
@@ -48,11 +48,11 @@ return {
         arpgAttr = {
             [507] = 100,
         },
-        des1 = "暴击率+1%",
+        des1 = "Crit Rate +1%",
         combatPower = 20,
     },
     [5] = {
-        des2 = "偏斜率+2%",
+        des2 = "Deflection Rate +2%",
         starConut = 25,
         talent = {
             [1] = 3805,
@@ -61,11 +61,11 @@ return {
         arpgAttr = {
             [1003] = 100,
         },
-        des1 = "防御加成+1%",
+        des1 = "DEF Bonus +1%",
         combatPower = 20,
     },
     [6] = {
-        des2 = "偏斜值+3%",
+        des2 = "Deflection Value +3%",
         starConut = 30,
         talent = {
             [1] = 3806,
@@ -74,11 +74,11 @@ return {
         arpgAttr = {
             [509] = 300,
         },
-        des1 = "暴击伤害+3%",
+        des1 = "Crit DMG +3%",
         combatPower = 20,
     },
     [7] = {
-        des2 = "火力值+2%",
+        des2 = "Firepower +2%",
         starConut = 35,
         talent = {
             [1] = 3807,
@@ -87,11 +87,11 @@ return {
         arpgAttr = {
             [503] = 100,
         },
-        des1 = "穿透率+1%",
+        des1 = "Pierce Rate +1%",
         combatPower = 20,
     },
     [8] = {
-        des2 = "免伤率+2%",
+        des2 = "Damage Immunity +2%",
         starConut = 40,
         talent = {
             [1] = 3808,
@@ -100,11 +100,11 @@ return {
         arpgAttr = {
             [522] = 300,
         },
-        des1 = "穿透伤害+3%",
+        des1 = "Pierce DMG +3%",
         combatPower = 20,
     },
     [9] = {
-        des2 = "战斗速度+2%",
+        des2 = "Battle Speed +2%",
         starConut = 45,
         talent = {
             [1] = 3809,
@@ -113,11 +113,11 @@ return {
         arpgAttr = {
             [1003] = 100,
         },
-        des1 = "防御加成+1%",
+        des1 = "DEF Bonus +1%",
         combatPower = 20,
     },
     [10] = {
-        des2 = "飞行速度+2%",
+        des2 = "Fly Speed +2%",
         starConut = 50,
         talent = {
             [1] = 3810,
@@ -126,11 +126,11 @@ return {
         arpgAttr = {
             [1002] = 200,
         },
-        des1 = "攻击加成+2%",
+        des1 = "ATK Bonus +2%",
         combatPower = 20,
     },
     [11] = {
-        des2 = "护盾值+3%",
+        des2 = "Shield +3%",
         starConut = 55,
         talent = {
             [1] = 3811,
@@ -139,11 +139,11 @@ return {
         arpgAttr = {
             [1001] = 300,
         },
-        des1 = "生命加成+3%",
+        des1 = "HP Bonus +3%",
         combatPower = 20,
     },
     [12] = {
-        des2 = "防御力+3%",
+        des2 = "DEF +3%",
         starConut = 60,
         talent = {
             [1] = 3812,
@@ -152,11 +152,11 @@ return {
         arpgAttr = {
             [502] = 100,
         },
-        des1 = "免伤率+1%",
+        des1 = "Damage Immunity +1%",
         combatPower = 20,
     },
     [13] = {
-        des2 = "生命值+3%",
+        des2 = "HP +3%",
         starConut = 65,
         talent = {
             [1] = 3813,
@@ -165,11 +165,11 @@ return {
         arpgAttr = {
             [509] = 400,
         },
-        des1 = "暴击伤害+4%",
+        des1 = "Crit DMG +4%",
         combatPower = 20,
     },
     [14] = {
-        des2 = "穿透率+2%",
+        des2 = "Pierce Rate +2%",
         starConut = 70,
         talent = {
             [1] = 3814,
@@ -178,11 +178,11 @@ return {
         arpgAttr = {
             [507] = 300,
         },
-        des1 = "暴击率+3%",
+        des1 = "Crit Rate +3%",
         combatPower = 20,
     },
     [15] = {
-        des2 = "火力值+3%",
+        des2 = "Firepower +3%",
         starConut = 75,
         talent = {
             [1] = 3815,
@@ -191,11 +191,11 @@ return {
         arpgAttr = {
             [1003] = 100,
         },
-        des1 = "防御加成+1%",
+        des1 = "DEF Bonus +1%",
         combatPower = 20,
     },
     [16] = {
-        des2 = "主炮技能伤害+3%",
+        des2 = "Cannon Skill DMG +3%",
         starConut = 80,
         talent = {
             [1] = 3816,
@@ -204,7 +204,7 @@ return {
         arpgAttr = {
             [1002] = 200,
         },
-        des1 = "攻击加成+2%",
+        des1 = "ATK Bonus +2%",
         combatPower = 20,
     },
 }

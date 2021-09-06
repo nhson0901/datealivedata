@@ -35,11 +35,11 @@ function ServerListView:initUI(ui)
         self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
         self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
     elseif TFGlobalUtils:isConnectKoreaTwServer() then
-        self.Button_serverListItem:setTextureNormal("ui/login/7.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/7.png")
-    else
         self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
         self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
+    else
+        self.Button_serverListItem:setTextureNormal("ui/login/7.png")
+        self.Button_serverListItem:setTexturePressed("ui/login/7.png")
     end
 
     self:refreshView()

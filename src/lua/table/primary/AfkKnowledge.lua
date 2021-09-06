@@ -12,7 +12,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+9%",
+        des2 = "Airship Firepower +9%",
         preAbility = {
             [1] = 1010208,
         },
@@ -36,7 +36,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+5%",
+        des2 = "Airship Damage +5%",
         preAbility = {
             [1] = 1030904,
         },
@@ -60,7 +60,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+10%",
+        des2 = "Airship Firepower +10%",
         preAbility = {
             [1] = 1010209,
         },
@@ -87,14 +87,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 221,
         },
-        name = "弹药改造III",
+        name = "Ammo Modification Ⅲ",
         position = 22,
-        describe = "（全形态）飞舰生命值提升318",
+        describe = "(All Forms) Airship HP +318",
         level = 1,
         icon = "ui/explore/growup/command/skill/danyao.png",
         type = 1,
@@ -115,14 +115,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 315,
         },
-        name = "疾走偏锋II",
+        name = "Haste Diverge Ⅱ",
         position = 16,
-        describe = "疾走形态触发偏斜时提高自身伤害4%",
+        describe = "+4% damage when triggering a deflection in Haste form",
         level = 1,
         icon = "ui/explore/growup/command/skill/yijin.png",
         type = 2,
@@ -140,7 +140,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「监视者山地」中事件[补给作战]触发",
+        des2 = "Unlock the [Battle Supplies] event in [Watcher Mountains] to trigger",
         preAbility = {
             [1] = 1011901,
         },
@@ -164,7 +164,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「天狗平原」中事件[失落金矿]触发",
+        des2 = "Unlock the [Lost Gold Mine] event in [Kabuto Plain] to trigger",
         preAbility = {
             [1] = 1012001,
         },
@@ -188,7 +188,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「石城堡平原」中事件[犬神宝库]触发",
+        des2 = "Unlock the [Divine Canine Treasury] event in [Stone Castle Plain] to trigger",
         preAbility = {
             [1] = 1012002,
         },
@@ -214,14 +214,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 316,
         },
-        name = "阻力破除II",
+        name = "Drag Force Reduction Ⅱ",
         position = 17,
-        describe = "（全形态）飞舰穿透率提升2.56%",
+        describe = "(All Forms) Airship Pierce Rate +2.56%",
         level = 1,
         icon = "ui/explore/growup/command/skill/menglie.png",
         type = 2,
@@ -239,7 +239,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+1%",
+        des2 = "Airship HP +1%",
         preAbility = {
             [1] = 1030301,
         },
@@ -263,7 +263,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+2%",
+        des2 = "Airship HP +2%",
         preAbility = {
             [1] = 1030401,
         },
@@ -290,14 +290,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 222,
         },
-        name = "强袭火力III",
+        name = "Assault Firepower Ⅲ",
         position = 23,
-        describe = "强袭天赋下主炮技能伤害提升5.75%",
+        describe = "(Assault) Cannon Skill DMG +5.75%",
         level = 1,
         icon = "ui/explore/growup/command/skill/gaoyuancs.png",
         type = 1,
@@ -317,14 +317,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 317,
         },
-        name = "疾风援护II",
+        name = "Gale Support Ⅱ",
         position = 18,
-        describe = "（全形态）飞舰防御力提升2%",
+        describe = "(All Forms) Airship DEF +2%",
         level = 1,
         icon = "ui/explore/growup/command/skill/yinxing.png",
         type = 2,
@@ -342,7 +342,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+5%",
+        des2 = "Airship HP +5%",
         preAbility = {
             [1] = 1030404,
         },
@@ -366,7 +366,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+6%",
+        des2 = "Airship HP +6%",
         preAbility = {
             [1] = 1030405,
         },
@@ -390,7 +390,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+7%",
+        des2 = "Airship HP +7%",
         preAbility = {
             [1] = 1030406,
         },
@@ -414,7 +414,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "完成[击败白犬]事件后提升5%飞舰火力值",
+        des2 = "Complete the [Defeat White Canine] event to get +5% Airship Firepower",
         preAbility = {
             [1] = 1011401,
         },
@@ -438,7 +438,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+9%",
+        des2 = "Airship HP +9%",
         preAbility = {
             [1] = 1030408,
         },
@@ -462,7 +462,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+1%",
+        des2 = "Airship Battle Speed +1%",
         preAbility = {
             [1] = 1020601,
         },
@@ -489,14 +489,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 223,
         },
-        name = "猛烈突进III",
+        name = "Rapid Assault Ⅲ",
         position = 24,
-        describe = "（全形态）飞舰穿透率提升2%",
+        describe = "(All Forms) Airship Pierce Rate +2%",
         level = 1,
         icon = "ui/explore/growup/command/skill/menglie.png",
         type = 1,
@@ -516,14 +516,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 319,
         },
-        name = "疾风破灭II",
+        name = "Gale Destruction Ⅱ",
         position = 20,
-        describe = "（全形态）飞舰火力值提升4%",
+        describe = "(All Forms) Airship Firepower +4%",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 2,
@@ -541,7 +541,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[裂谷盆地]50个收益点奖励",
+        des2 = "Instantly get 50 [Rift Basin] exploration points",
         preAbility = {
             [1] = 1032101,
         },
@@ -565,7 +565,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+4%",
+        des2 = "Airship Battle Speed +4%",
         preAbility = {
             [1] = 1020703,
         },
@@ -589,7 +589,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[裂谷盆地]120个收益点奖励",
+        des2 = "Instantly get 120 [Rift Basin] exploration points",
         preAbility = {
             [1] = 1032201,
         },
@@ -613,7 +613,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+5%",
+        des2 = "Airship Battle Speed +5%",
         preAbility = {
             [1] = 1020704,
         },
@@ -637,7 +637,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[裂谷盆地]200个收益点奖励",
+        des2 = "Instantly get 200 [Rift Basin] exploration points",
         preAbility = {
             [1] = 1032202,
         },
@@ -661,7 +661,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+6%",
+        des2 = "Airship Battle Speed +6%",
         preAbility = {
             [1] = 1020705,
         },
@@ -685,7 +685,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[裂谷盆地]350个收益点奖励",
+        des2 = "Instantly get 350 [Rift Basin] exploration points",
         preAbility = {
             [1] = 1032203,
         },
@@ -712,14 +712,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 320,
         },
-        name = "三倍音速III",
+        name = "Triple Sonic Ⅲ",
         position = 21,
-        describe = "（全形态）飞舰战斗速度提升50",
+        describe = "(All Forms) Airship Battle Speed +50",
         level = 1,
         icon = "ui/explore/growup/command/skill/sanbei.png",
         type = 2,
@@ -737,7 +737,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+8%",
+        des2 = "Airship Battle Speed +8%",
         preAbility = {
             [1] = 1020707,
         },
@@ -761,7 +761,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+9%",
+        des2 = "Airship Battle Speed +9%",
         preAbility = {
             [1] = 1020708,
         },
@@ -788,14 +788,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 224,
         },
-        name = "以进为退III",
+        name = "Feigned Attack Ⅲ",
         position = 25,
-        describe = "（全形态）飞舰护盾值提升543",
+        describe = "(All Forms) Airship Shield +543",
         level = 1,
         icon = "ui/explore/growup/command/skill/guangxue.png",
         type = 1,
@@ -816,14 +816,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 321,
         },
-        name = "疾行姿态III",
+        name = "Haste Stance Ⅲ",
         position = 22,
-        describe = "（全形态）飞舰飞行速度提升5%",
+        describe = "(All Forms) Airship Fly Speed +5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/leida.png",
         type = 2,
@@ -841,7 +841,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+1.5%",
+        des2 = "Airship Pierce Rate +1.5%",
         preAbility = {
             [1] = 1011002,
         },
@@ -865,7 +865,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+2%",
+        des2 = "Airship Firepower +2%",
         preAbility = {
             [1] = 1020201,
         },
@@ -889,7 +889,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+3%",
+        des2 = "Airship Firepower +3%",
         preAbility = {
             [1] = 1020202,
         },
@@ -913,7 +913,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「水晶宫平原」中事件[荒野遗珠]触发",
+        des2 = "Unlock the [Wilderness Pearl] event in [Crystal Palace Plain] to trigger",
         preAbility = {
             [1] = 1031601,
         },
@@ -941,14 +941,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 322,
         },
-        name = "疾走冲击III",
+        name = "Haste Impact Ⅲ",
         position = 23,
-        describe = "疾走天赋下当速度高于敌方时，造成伤害提高4%",
+        describe = "(Haste) +4% damage if your Speed exceed the enemy's.",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingcy.png",
         type = 2,
@@ -966,7 +966,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「裂谷盆地」中事件[击溃先锋]触发",
+        des2 = "Unlock the [Defeat Vanguard] event in [Rift Basin] to trigger",
         preAbility = {
             [1] = 1031701,
         },
@@ -990,7 +990,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+3.5%",
+        des2 = "Airship Pierce Rate +3.5%",
         preAbility = {
             [1] = 1011006,
         },
@@ -1014,7 +1014,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「珊瑚丘陵」中事件[遗迹探索]触发",
+        des2 = "Unlock the [Ruins Exploration] event in [Coral Hills] to trigger",
         preAbility = {
             [1] = 1031702,
         },
@@ -1038,7 +1038,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+4%",
+        des2 = "Airship Pierce Rate +4%",
         preAbility = {
             [1] = 1011007,
         },
@@ -1062,7 +1062,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+7%",
+        des2 = "Airship Firepower +7%",
         preAbility = {
             [1] = 1020206,
         },
@@ -1089,14 +1089,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 323,
         },
-        name = "涡轮推进III",
+        name = "Turbo Boost Ⅲ",
         position = 24,
-        describe = "（全形态）飞舰偏斜率提升1.2%",
+        describe = "(All Forms) Airship Deflection Rate +1.2%",
         level = 1,
         icon = "ui/explore/growup/command/skill/wolun.png",
         type = 2,
@@ -1114,7 +1114,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+9%",
+        des2 = "Airship Firepower +9%",
         preAbility = {
             [1] = 1020208,
         },
@@ -1138,7 +1138,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+10%",
+        des2 = "Airship Firepower +10%",
         preAbility = {
             [1] = 1020209,
         },
@@ -1162,7 +1162,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "完成[黑暗宫殿]事件后提升15%飞舰护盾值",
+        des2 = "Complete the [Palace of Darkness] event to get +15% Airship Shield",
         preAbility = {
             [1] = 1032201,
         },
@@ -1189,14 +1189,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 324,
         },
-        name = "流线改造III",
+        name = "Streamline Modification Ⅲ",
         position = 25,
-        describe = "（全形态）飞舰偏斜值2.5%",
+        describe = "(All Forms) Airship Deflection Value +2.5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/liuxian.png",
         type = 2,
@@ -1214,7 +1214,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「大食平原」中事件[海盗宝藏]触发",
+        des2 = "Unlock the [Pirate Treasure] event in [Plain of Feasting] to trigger",
         preAbility = {
             [1] = 1021901,
         },
@@ -1238,7 +1238,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+1%",
+        des2 = "Airship Collection Cabin Capacity +1%",
         preAbility = {
             [1] = 1020501,
         },
@@ -1262,7 +1262,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「大食平原」在事件[友军求助]触发",
+        des2 = "Unlock the [Help Allies] event in [Plain of Feasting] to trigger",
         preAbility = {
             [1] = 1022001,
         },
@@ -1286,7 +1286,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[甜甜圈盆地]120个收益点奖励",
+        des2 = "Instantly get 120 [Donut Basin] exploration points",
         preAbility = {
             [1] = 1021601,
         },
@@ -1310,7 +1310,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「食之都平原」中事件[感恩谢礼]触发",
+        des2 = "Unlock the [Gift of Gratitude] event in [Foodie Flatlands] to trigger",
         preAbility = {
             [1] = 1022002,
         },
@@ -1337,14 +1337,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 226,
         },
-        name = "扫除障碍III",
+        name = "Obstacle Clearance Ⅲ",
         position = 27,
-        describe = "（全形态）飞舰战斗免伤增加1.23%",
+        describe = "(All Forms) Airship Battle Damage Immunity +1.23%",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingyn.png",
         type = 1,
@@ -1362,7 +1362,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「食之都平原」中事件[失落金矿]触发",
+        des2 = "Unlock the [Lost Gold Mine] event in [Foodie Flatlands] to trigger",
         preAbility = {
             [1] = 1022003,
         },
@@ -1390,14 +1390,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 325,
         },
-        name = "疾走偏锋III",
+        name = "Haste Diverge Ⅲ",
         position = 26,
-        describe = "疾走形态触发偏斜时提高自身伤害5%",
+        describe = "+5% damage when triggering a deflection in Haste form",
         level = 1,
         icon = "ui/explore/growup/command/skill/yijin.png",
         type = 2,
@@ -1415,7 +1415,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害减免+3%",
+        des2 = "Airship DMG MIT +3%",
         preAbility = {
             [1] = 1031202,
         },
@@ -1439,7 +1439,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+1%",
+        des2 = "Airship Pierce Rate +1%",
         preAbility = {
             [1] = 1031001,
         },
@@ -1463,7 +1463,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害减免+4%",
+        des2 = "Airship DMG MIT +4%",
         preAbility = {
             [1] = 1031203,
         },
@@ -1487,7 +1487,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+2%",
+        des2 = "Airship Shield +2%",
         preAbility = {
             [1] = 1030801,
         },
@@ -1511,7 +1511,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害减免+5%",
+        des2 = "Airship DMG MIT +5%",
         preAbility = {
             [1] = 1031204,
         },
@@ -1535,7 +1535,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+10%",
+        des2 = "Airship Battle Speed +10%",
         preAbility = {
             [1] = 1030709,
         },
@@ -1559,7 +1559,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+4%",
+        des2 = "Airship Pierce Rate +4%",
         preAbility = {
             [1] = 1031007,
         },
@@ -1586,14 +1586,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 326,
         },
-        name = "阻力破除III",
+        name = "Drag Force Reduction Ⅲ",
         position = 27,
-        describe = "（全形态）飞舰穿透率提升3.2%",
+        describe = "(All Forms) Airship Pierce Rate +3.2%",
         level = 1,
         icon = "ui/explore/growup/command/skill/menglie.png",
         type = 2,
@@ -1611,7 +1611,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "完成[邪恶之鲨]事件后提升15%飞舰生命值",
+        des2 = "Complete the [Sinister Shark] event to get +15% Airship HP",
         preAbility = {
             [1] = 1031801,
         },
@@ -1635,7 +1635,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[鱼刺山山地]350个收益点奖励",
+        des2 = "Instantly get 350 [Fish Bone Mountains] exploration points",
         preAbility = {
             [1] = 1022203,
         },
@@ -1659,7 +1659,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "完成[击败灰犬]事件后提升5%飞舰护盾值",
+        des2 = "Complete the [Defeat Grey Canine] event to get +5% Airship Shield",
         preAbility = {
             [1] = 1012201,
         },
@@ -1683,7 +1683,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+5%",
+        des2 = "Airship DEF +5%",
         preAbility = {
             [1] = 1030304,
         },
@@ -1707,7 +1707,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+5%",
+        des2 = "T4 Explore drop rate +5%",
         preAbility = {
             [1] = 1020106,
         },
@@ -1734,14 +1734,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 227,
         },
-        name = "火力全开III",
+        name = "Open Fire Ⅲ",
         position = 28,
-        describe = "（全形态）飞舰火力值提升5%",
+        describe = "(All Forms) Airship Firepower +5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 1,
@@ -1759,7 +1759,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "完成[天空之豹]事件后提升10%飞舰火力值",
+        des2 = "Complete the [Sky Leopard] event to get +10% Airship Firepower",
         preAbility = {
             [1] = 1021401,
         },
@@ -1786,14 +1786,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 327,
         },
-        name = "疾风援护III",
+        name = "Gale Support Ⅲ",
         position = 28,
-        describe = "（全形态）飞舰防御力提升3%",
+        describe = "(All Forms) Airship DEF +3%",
         level = 1,
         icon = "ui/explore/growup/command/skill/yinxing.png",
         type = 2,
@@ -1811,7 +1811,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐A级掉落几率+2%",
+        des2 = "Class A Energy Canister drop rate +2%",
         preAbility = {
             [1] = 1031801,
         },
@@ -1835,7 +1835,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+7%",
+        des2 = "Airship DEF +7%",
         preAbility = {
             [1] = 1030306,
         },
@@ -1859,7 +1859,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+1%",
+        des2 = "Airship Battle Speed +1%",
         preAbility = {
             [1] = 1030601,
         },
@@ -1885,14 +1885,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 402,
         },
-        name = "隐遁之影I",
+        name = "Concealed Shadow Ⅰ",
         position = 3,
-        describe = "隐遁形态下隐遁天赋材料掉落提升1.5%",
+        describe = "+1.5% drop rate for Concealed talent materials in Concealed form",
         level = 1,
         icon = "ui/explore/growup/command/skill/feixing.png",
         type = 3,
@@ -1910,7 +1910,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+2%",
+        des2 = "Airship Battle Speed +2%",
         preAbility = {
             [1] = 1030701,
         },
@@ -1934,7 +1934,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+7%",
+        des2 = "Airship Shield +7%",
         preAbility = {
             [1] = 1010806,
         },
@@ -1958,7 +1958,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+3%",
+        des2 = "Airship Battle Speed +3%",
         preAbility = {
             [1] = 1030702,
         },
@@ -1986,14 +1986,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 328,
         },
-        name = "疾走迂回III",
+        name = "Haste Redirect Ⅲ",
         position = 29,
-        describe = "疾走形态穿透敌人时回复自身护盾值5%",
+        describe = "Restore shield by 5% when piercing an enemy in Haste form",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingcy.png",
         type = 2,
@@ -2011,7 +2011,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+4%",
+        des2 = "Airship Battle Speed +4%",
         preAbility = {
             [1] = 1030703,
         },
@@ -2035,7 +2035,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+1%",
+        des2 = "Airship Pierce Rate +1%",
         preAbility = {
             [1] = 1011001,
         },
@@ -2059,7 +2059,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+5%",
+        des2 = "Airship Battle Speed +5%",
         preAbility = {
             [1] = 1030704,
         },
@@ -2083,7 +2083,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+10%",
+        des2 = "Airship Damage +10%",
         preAbility = {
             [1] = 1020909,
         },
@@ -2107,7 +2107,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+6%",
+        des2 = "Airship Battle Speed +6%",
         preAbility = {
             [1] = 1030705,
         },
@@ -2134,14 +2134,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 228,
         },
-        name = "强袭射线III",
+        name = "Assault Beam Ⅲ",
         position = 29,
-        describe = "强袭天赋下浮游炮技能伤害提升1.75%",
+        describe = "(Assault) Pillar Skill DMG +1.75%",
         level = 1,
         icon = "ui/explore/growup/command/skill/quansu.png",
         type = 1,
@@ -2159,7 +2159,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+7%",
+        des2 = "Airship Battle Speed +7%",
         preAbility = {
             [1] = 1030706,
         },
@@ -2186,14 +2186,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 329,
         },
-        name = "疾风破灭III",
+        name = "Gale Destruction Ⅲ",
         position = 30,
-        describe = "（全形态）飞舰火力值提升5%",
+        describe = "(All Forms) Airship Firepower +5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 2,
@@ -2211,7 +2211,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐C级掉落几率+1%",
+        des2 = "Class C Energy Canister drop rate +1%",
         preAbility = {
             [1] = 1011701,
         },
@@ -2235,7 +2235,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+1%",
+        des2 = "Airship Damage +1%",
         preAbility = {
             [1] = 1030801,
         },
@@ -2259,7 +2259,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐C级掉落几率+2%",
+        des2 = "Class C Energy Canister drop rate +2%",
         preAbility = {
             [1] = 1011801,
         },
@@ -2283,7 +2283,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+4.5%",
+        des2 = "Airship Pierce Rate +4.5%",
         preAbility = {
             [1] = 1011008,
         },
@@ -2307,7 +2307,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐C级掉落几率+3%",
+        des2 = "Class C Energy Canister drop rate +3%",
         preAbility = {
             [1] = 1011802,
         },
@@ -2331,7 +2331,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "获得[波塞冬之力]碎片x5",
+        des2 = "Get [Power of Poseidon] Fragment*5",
         preAbility = {
             [1] = 1031401,
         },
@@ -2355,7 +2355,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐C级掉落几率+4%",
+        des2 = "Class C Energy Canister drop rate +4%",
         preAbility = {
             [1] = 1011803,
         },
@@ -2379,7 +2379,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "获得[波塞冬之力]碎片x5",
+        des2 = "Get [Power of Poseidon] Fragment*5",
         preAbility = {
             [1] = 1031301,
         },
@@ -2403,7 +2403,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐C级掉落几率+5%",
+        des2 = "Class C Energy Canister drop rate +5%",
         preAbility = {
             [1] = 1011804,
         },
@@ -2427,7 +2427,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「太阳神盆地」中事件[万流归墟]触发",
+        des2 = "Unlock the [Tidal Ruins] event in [Apollo Basin] to trigger",
         preAbility = {
             [1] = 1031302,
         },
@@ -2451,7 +2451,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+2%",
+        des2 = "Airship Pierce Rate +2%",
         preAbility = {
             [1] = 1021003,
         },
@@ -2475,7 +2475,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+10%",
+        des2 = "Airship Firepower +10%",
         preAbility = {
             [1] = 1030209,
         },
@@ -2499,7 +2499,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+2.5%",
+        des2 = "Airship Pierce Rate +2.5%",
         preAbility = {
             [1] = 1021004,
         },
@@ -2526,14 +2526,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 229,
         },
-        name = "迅猛出击III",
+        name = "Rapid Strike Ⅲ",
         position = 30,
-        describe = "（全形态）飞舰战斗增伤提升5%",
+        describe = "(All Forms) Airship Battle DMG Boost +5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/menglie.png",
         type = 1,
@@ -2551,7 +2551,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+3%",
+        des2 = "Airship Pierce Rate +3%",
         preAbility = {
             [1] = 1021005,
         },
@@ -2575,7 +2575,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+1%",
+        des2 = "Airship DEF +1%",
         preAbility = {
             [1] = 1030201,
         },
@@ -2599,7 +2599,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+3.5%",
+        des2 = "Airship Pierce Rate +3.5%",
         preAbility = {
             [1] = 1021006,
         },
@@ -2623,7 +2623,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害减免+2%",
+        des2 = "Airship DMG MIT +2%",
         preAbility = {
             [1] = 1031201,
         },
@@ -2647,7 +2647,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+4%",
+        des2 = "Airship Pierce Rate +4%",
         preAbility = {
             [1] = 1021007,
         },
@@ -2671,7 +2671,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害减免+1%",
+        des2 = "Airship DMG MIT +1%",
         preAbility = {
             [1] = 1031101,
         },
@@ -2695,7 +2695,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+4.5%",
+        des2 = "Airship Pierce Rate +4.5%",
         preAbility = {
             [1] = 1021008,
         },
@@ -2719,7 +2719,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+3%",
+        des2 = "Airship Battle Speed +3%",
         preAbility = {
             [1] = 1020702,
         },
@@ -2743,7 +2743,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「棒骨高原」中事件[感恩谢礼]触发",
+        des2 = "Unlock the [Gift of Gratitude] event in [Boneclub Plateau] to trigger",
         preAbility = {
             [1] = 1010101,
         },
@@ -2767,7 +2767,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+7%",
+        des2 = "Airship Battle Speed +7%",
         preAbility = {
             [1] = 1020706,
         },
@@ -2791,7 +2791,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「犬牙山地」中事件[特别通缉]触发",
+        des2 = "Unlock the [Special Bounty] event in [Dog Fang Peaks] to trigger",
         preAbility = {
             [1] = 1011301,
         },
@@ -2815,7 +2815,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+10%",
+        des2 = "Airship Battle Speed +10%",
         preAbility = {
             [1] = 1020709,
         },
@@ -2839,7 +2839,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「根达亚盆地」中事件[上古神骸]触发",
+        des2 = "Unlock the [Ancient God Corpse] event in [Gondayer Basin] to trigger",
         preAbility = {
             [1] = 1011302,
         },
@@ -2863,7 +2863,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+1%",
+        des2 = "Airship Shield +1%",
         preAbility = {
             [1] = 1020701,
         },
@@ -2887,7 +2887,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+2%",
+        des2 = "Airship Shield +2%",
         preAbility = {
             [1] = 1020801,
         },
@@ -2911,7 +2911,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+5%",
+        des2 = "Airship Pierce Rate +5%",
         preAbility = {
             [1] = 1031009,
         },
@@ -2935,7 +2935,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+4.5%",
+        des2 = "Airship Pierce Rate +4.5%",
         preAbility = {
             [1] = 1031008,
         },
@@ -2959,7 +2959,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「海神山地」中事件[发光珠贝]触发",
+        des2 = "Unlock the [Glowing Oyster] event in [Poseidon Peak] to trigger",
         preAbility = {
             [1] = 1031901,
         },
@@ -2983,7 +2983,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+8%",
+        des2 = "Airship Battle Speed +8%",
         preAbility = {
             [1] = 1030707,
         },
@@ -3007,7 +3007,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「珍珠丘陵」中事件[鉴定珍宝]触发",
+        des2 = "Unlock the [Treasure Appraisal] event in [Pearl Hills] to trigger",
         preAbility = {
             [1] = 1032001,
         },
@@ -3031,7 +3031,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+1%",
+        des2 = "Airship Shield +1%",
         preAbility = {
             [1] = 1030701,
         },
@@ -3055,7 +3055,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「晶王座平原」中事件[神墓探险]触发",
+        des2 = "Unlock the [Tomb Adventure] event in [Plain of the Crystal Throne] to trigger",
         preAbility = {
             [1] = 1032002,
         },
@@ -3079,7 +3079,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+1.5%",
+        des2 = "Airship Pierce Rate +1.5%",
         preAbility = {
             [1] = 1031002,
         },
@@ -3103,7 +3103,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「晶王座平原」中事件[解放奴隶]触发",
+        des2 = "Unlock the [Emancipation] event in [Plain of the Crystal Throne] to trigger",
         preAbility = {
             [1] = 1032003,
         },
@@ -3127,7 +3127,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+0.5%",
+        des2 = "Airship Pierce Rate +0.5%",
         preAbility = {
             [1] = 1030901,
         },
@@ -3151,7 +3151,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+10%",
+        des2 = "Airship Damage +10%",
         preAbility = {
             [1] = 1030909,
         },
@@ -3175,7 +3175,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+9%",
+        des2 = "Airship Damage +9%",
         preAbility = {
             [1] = 1030908,
         },
@@ -3199,7 +3199,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+8%",
+        des2 = "Airship Damage +8%",
         preAbility = {
             [1] = 1030907,
         },
@@ -3223,7 +3223,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+7%",
+        des2 = "Airship Damage +7%",
         preAbility = {
             [1] = 1030906,
         },
@@ -3247,7 +3247,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+6%",
+        des2 = "Airship Damage +6%",
         preAbility = {
             [1] = 1030905,
         },
@@ -3271,7 +3271,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+1%",
+        des2 = "Airship Shield +1%",
         preAbility = {
             [1] = 1010701,
         },
@@ -3295,7 +3295,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+8%",
+        des2 = "Airship Firepower +8%",
         preAbility = {
             [1] = 1020207,
         },
@@ -3319,7 +3319,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+2%",
+        des2 = "Airship Shield +2%",
         preAbility = {
             [1] = 1010801,
         },
@@ -3343,7 +3343,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+3%",
+        des2 = "Airship Damage +3%",
         preAbility = {
             [1] = 1030902,
         },
@@ -3367,7 +3367,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+3%",
+        des2 = "Airship Shield +3%",
         preAbility = {
             [1] = 1010802,
         },
@@ -3391,7 +3391,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "完成[真相显露]事件后提升10%飞舰护盾值",
+        des2 = "Complete the [Truth Revealed] event to get +10% Airship Shield",
         preAbility = {
             [1] = 1022201,
         },
@@ -3415,7 +3415,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+4%",
+        des2 = "Airship Shield +4%",
         preAbility = {
             [1] = 1010803,
         },
@@ -3439,7 +3439,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁飞舰武器[导弹]",
+        des2 = "Unlock Airship Weapon [Guided Missile]",
         preAbility = {
             [1] = 1010401,
         },
@@ -3463,7 +3463,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+5%",
+        des2 = "Airship Shield +5%",
         preAbility = {
             [1] = 1010804,
         },
@@ -3487,7 +3487,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "完成[迅捷之豚]事件后提升15%飞舰火力值",
+        des2 = "Complete the [Nimble Dolphin] event to get +15% Airship Firepower",
         preAbility = {
             [1] = 1031401,
         },
@@ -3511,7 +3511,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+6%",
+        des2 = "Airship Shield +6%",
         preAbility = {
             [1] = 1010805,
         },
@@ -3535,7 +3535,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+10%",
+        des2 = "Airship Shield +10%",
         preAbility = {
             [1] = 1030809,
         },
@@ -3560,13 +3560,13 @@ return {
         },
         condition = {
         },
-        des3 = "无解锁条件",
-        des2 = "加成效果",
+        des3 = "No unlock requirements",
+        des2 = "Bonus Effect",
         preAbility = {
         },
-        name = "隐形力场I",
+        name = "Hidden Force Field Ⅰ",
         position = 1,
-        describe = "（全形态）飞舰防御力提升23",
+        describe = "(All Forms) Airship DEF +23",
         level = 1,
         icon = "ui/explore/growup/command/skill/yinxing.png",
         type = 3,
@@ -3584,7 +3584,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+5%",
+        des2 = "T4 Explore drop rate +5%",
         preAbility = {
             [1] = 1030106,
         },
@@ -3608,7 +3608,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+8%",
+        des2 = "Airship Shield +8%",
         preAbility = {
             [1] = 1010807,
         },
@@ -3632,7 +3632,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+8%",
+        des2 = "Airship Shield +8%",
         preAbility = {
             [1] = 1030807,
         },
@@ -3656,7 +3656,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+9%",
+        des2 = "Airship Shield +9%",
         preAbility = {
             [1] = 1010808,
         },
@@ -3680,7 +3680,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+15%",
+        des2 = "T5 Explore drop rate +15%",
         preAbility = {
             [1] = 1030109,
         },
@@ -3704,7 +3704,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+10%",
+        des2 = "Airship Shield +10%",
         preAbility = {
             [1] = 1010809,
         },
@@ -3728,7 +3728,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+2%",
+        des2 = "Airship Firepower +2%",
         preAbility = {
             [1] = 1030201,
         },
@@ -3753,14 +3753,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 401,
         },
-        name = "雷达回避I",
+        name = "Radar Avoidance Ⅰ",
         position = 2,
-        describe = "（全形态）飞舰生命值提升68",
+        describe = "(All Forms) Airship HP +68",
         level = 1,
         icon = "ui/explore/growup/command/skill/danyao.png",
         type = 3,
@@ -3778,7 +3778,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+3%",
+        des2 = "Airship Firepower +3%",
         preAbility = {
             [1] = 1030202,
         },
@@ -3802,7 +3802,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+1%",
+        des2 = "Airship DEF +1%",
         preAbility = {
             [1] = 1010201,
         },
@@ -3826,7 +3826,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+4%",
+        des2 = "Airship Shield +4%",
         preAbility = {
             [1] = 1030803,
         },
@@ -3850,7 +3850,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+2%",
+        des2 = "Airship DEF +2%",
         preAbility = {
             [1] = 1010301,
         },
@@ -3874,7 +3874,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+4%",
+        des2 = "Airship Firepower +4%",
         preAbility = {
             [1] = 1030203,
         },
@@ -3898,7 +3898,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+3%",
+        des2 = "Airship DEF +3%",
         preAbility = {
             [1] = 1010302,
         },
@@ -3922,7 +3922,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐B级掉落几率+1%",
+        des2 = "Class B Energy Canister drop rate +1%",
         preAbility = {
             [1] = 1021701,
         },
@@ -3946,7 +3946,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+4%",
+        des2 = "Airship DEF +4%",
         preAbility = {
             [1] = 1010303,
         },
@@ -3970,7 +3970,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐B级掉落几率+2%",
+        des2 = "Class B Energy Canister drop rate +2%",
         preAbility = {
             [1] = 1021801,
         },
@@ -3994,7 +3994,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+5%",
+        des2 = "Airship DEF +5%",
         preAbility = {
             [1] = 1010304,
         },
@@ -4018,7 +4018,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐B级掉落几率+3%",
+        des2 = "Class B Energy Canister drop rate +3%",
         preAbility = {
             [1] = 1021802,
         },
@@ -4043,14 +4043,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 201,
         },
-        name = "弹药改造I",
+        name = "Ammo Modification Ⅰ",
         position = 2,
-        describe = "（全形态）飞舰生命值提升68",
+        describe = "(All Forms) Airship HP +68",
         level = 1,
         icon = "ui/explore/growup/command/skill/danyao.png",
         type = 1,
@@ -4068,7 +4068,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐B级掉落几率+4%",
+        des2 = "Class B Energy Canister drop rate +4%",
         preAbility = {
             [1] = 1021803,
         },
@@ -4092,7 +4092,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+7%",
+        des2 = "Airship DEF +7%",
         preAbility = {
             [1] = 1010306,
         },
@@ -4116,7 +4116,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐B级掉落几率+5%",
+        des2 = "Class B Energy Canister drop rate +5%",
         preAbility = {
             [1] = 1021804,
         },
@@ -4140,7 +4140,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+8%",
+        des2 = "Airship DEF +8%",
         preAbility = {
             [1] = 1010307,
         },
@@ -4164,7 +4164,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+2%",
+        des2 = "Airship Pierce Rate +2%",
         preAbility = {
             [1] = 1031003,
         },
@@ -4188,7 +4188,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+9%",
+        des2 = "Airship DEF +9%",
         preAbility = {
             [1] = 1010308,
         },
@@ -4212,7 +4212,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+2.5%",
+        des2 = "Airship Pierce Rate +2.5%",
         preAbility = {
             [1] = 1031004,
         },
@@ -4236,7 +4236,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+10%",
+        des2 = "Airship DEF +10%",
         preAbility = {
             [1] = 1010309,
         },
@@ -4260,7 +4260,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+3%",
+        des2 = "Airship Pierce Rate +3%",
         preAbility = {
             [1] = 1031005,
         },
@@ -4284,7 +4284,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+9%",
+        des2 = "Airship Battle Speed +9%",
         preAbility = {
             [1] = 1030708,
         },
@@ -4308,7 +4308,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+3.5%",
+        des2 = "Airship Pierce Rate +3.5%",
         preAbility = {
             [1] = 1031006,
         },
@@ -4333,14 +4333,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 404,
         },
-        name = "侦测干扰I",
+        name = "Detection Interference Ⅰ",
         position = 5,
-        describe = "（全形态）飞舰飞行速度提升4.5%",
+        describe = "(All Forms) Airship Fly Speed +4.5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/leida.png",
         type = 3,
@@ -4361,7 +4361,7 @@ return {
             },
         },
         des3 = "",
-        des2 = "解锁区域9[天狗平原]探索",
+        des2 = "Unlock Region 9 [Kabuto Plain] for exploration",
         preAbility = {
             [1] = 1012001,
         },
@@ -4385,7 +4385,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+10%",
+        des2 = "Airship Collection Cabin Capacity +10%",
         preAbility = {
             [1] = 1030609,
         },
@@ -4412,7 +4412,7 @@ return {
             },
         },
         des3 = "",
-        des2 = "解锁区域10[石城堡平原]探索",
+        des2 = "Unlock Region 10 [Stone Castle Plain] for exploration",
         preAbility = {
             [1] = 1012101,
         },
@@ -4437,14 +4437,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 202,
         },
-        name = "强袭火力I",
+        name = "Assault Firepower Ⅰ",
         position = 3,
-        describe = "强袭天赋下主炮技能伤害提升3.45%",
+        describe = "(Assault) Cannon Skill DMG +3.45%",
         level = 1,
         icon = "ui/explore/growup/command/skill/gaoyuancs.png",
         type = 1,
@@ -4462,7 +4462,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「永冻高原」中事件[拦截盗船]触发",
+        des2 = "Unlock the [Intercepting Pirates] event in [Frozen Plateau] to trigger",
         preAbility = {
             [1] = 1020101,
         },
@@ -4486,7 +4486,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+9%",
+        des2 = "Airship Collection Cabin Capacity +9%",
         preAbility = {
             [1] = 1030608,
         },
@@ -4510,7 +4510,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「风雪高原」中事件[诱敌深入]触发",
+        des2 = "Unlock the [Lure the Enemy] event in [Blizzard Plateau] to trigger",
         preAbility = {
             [1] = 1021301,
         },
@@ -4536,14 +4536,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 405,
         },
-        name = "隐遁之爪I",
+        name = "Concealed Claw Ⅰ",
         position = 6,
-        describe = "隐遁形态下强袭天赋材料掉落提升1.5%",
+        describe = "+1.5% drop rate for Assault talent materials in Concealed form",
         level = 1,
         icon = "ui/explore/growup/command/skill/sanbei.png",
         type = 3,
@@ -4561,7 +4561,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「浮冰丘陵」中事件[厨神工坊]触发",
+        des2 = "Unlock the [Chef Workshop] event in [Hills of Ice] to trigger",
         preAbility = {
             [1] = 1021302,
         },
@@ -4585,7 +4585,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+8%",
+        des2 = "Airship Collection Cabin Capacity +8%",
         preAbility = {
             [1] = 1030607,
         },
@@ -4609,7 +4609,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰偏斜率+2%",
+        des2 = "Airship Deflection Rate +2%",
         preAbility = {
             [1] = 1030501,
         },
@@ -4636,14 +4636,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 424,
         },
-        name = "侦测干扰III",
+        name = "Detection Interference Ⅲ",
         position = 25,
-        describe = "（全形态）飞舰飞行速度提升7.5%",
+        describe = "(All Forms) Airship Fly Speed +7.5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/leida.png",
         type = 3,
@@ -4661,7 +4661,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰偏斜率+3%",
+        des2 = "Airship Deflection Rate +3%",
         preAbility = {
             [1] = 1030502,
         },
@@ -4685,7 +4685,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+10%",
+        des2 = "Airship Damage +10%",
         preAbility = {
             [1] = 1010909,
         },
@@ -4709,7 +4709,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰偏斜率+4%",
+        des2 = "Airship Deflection Rate +4%",
         preAbility = {
             [1] = 1030503,
         },
@@ -4734,14 +4734,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 406,
         },
-        name = "光学甲板I",
+        name = "Optical Deck Ⅰ",
         position = 7,
-        describe = "（全形态）飞舰护盾值提升110",
+        describe = "(All Forms) Airship Shield +110",
         level = 1,
         icon = "ui/explore/growup/command/skill/guangxue.png",
         type = 3,
@@ -4759,7 +4759,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰偏斜率+5%",
+        des2 = "Airship Deflection Rate +5%",
         preAbility = {
             [1] = 1030504,
         },
@@ -4783,7 +4783,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+8%",
+        des2 = "Airship Damage +8%",
         preAbility = {
             [1] = 1010907,
         },
@@ -4807,7 +4807,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+7%",
+        des2 = "Airship Damage +7%",
         preAbility = {
             [1] = 1010906,
         },
@@ -4832,14 +4832,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 203,
         },
-        name = "猛烈突进I",
+        name = "Rapid Assault Ⅰ",
         position = 4,
-        describe = "（全形态）飞舰穿透率提升1.2%",
+        describe = "(All Forms) Airship Pierce Rate +1.2%",
         level = 1,
         icon = "ui/explore/growup/command/skill/menglie.png",
         type = 1,
@@ -4861,14 +4861,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 425,
         },
-        name = "隐遁之爪III",
+        name = "Concealed Claw Ⅲ",
         position = 26,
-        describe = "隐遁形态下强袭天赋材料掉落提升2.5%",
+        describe = "+2.5% drop rate for Assault talent materials in Concealed form",
         level = 1,
         icon = "ui/explore/growup/command/skill/sanbei.png",
         type = 3,
@@ -4886,7 +4886,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+10%",
+        des2 = "Airship HP +10%",
         preAbility = {
             [1] = 1020409,
         },
@@ -4910,7 +4910,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[棒骨高原]50个收益点奖励",
+        des2 = "Instantly get 50 [Boneclub Plateau] exploration points",
         preAbility = {
             [1] = 1011501,
         },
@@ -4935,14 +4935,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 407,
         },
-        name = "隐匿暗袭I",
+        name = "Hidden Strike Ⅰ",
         position = 8,
-        describe = "（全形态）飞舰火力值提升1.05%",
+        describe = "(All Forms) Airship Firepower +1.05%",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 3,
@@ -4960,7 +4960,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[棒骨高原]120个收益点奖励",
+        des2 = "Instantly get 120 [Boneclub Plateau] exploration points",
         preAbility = {
             [1] = 1011601,
         },
@@ -4984,7 +4984,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+1%",
+        des2 = "Airship Collection Cabin Capacity +1%",
         preAbility = {
             [1] = 1030501,
         },
@@ -5008,7 +5008,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[棒骨高原]200个收益点奖励",
+        des2 = "Instantly get 200 [Boneclub Plateau] exploration points",
         preAbility = {
             [1] = 1011602,
         },
@@ -5032,7 +5032,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰偏斜率+1%",
+        des2 = "Airship Deflection Rate +1%",
         preAbility = {
             [1] = 1030401,
         },
@@ -5056,7 +5056,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[棒骨高原]350个收益点奖励",
+        des2 = "Instantly get 350 [Boneclub Plateau] exploration points",
         preAbility = {
             [1] = 1011603,
         },
@@ -5080,7 +5080,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+10%",
+        des2 = "Airship HP +10%",
         preAbility = {
             [1] = 1030409,
         },
@@ -5104,7 +5104,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+3%",
+        des2 = "Airship Shield +3%",
         preAbility = {
             [1] = 1020802,
         },
@@ -5130,14 +5130,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 408,
         },
-        name = "隐遁之翼I",
+        name = "Concealed Wings Ⅰ",
         position = 9,
-        describe = "隐遁形态下疾走天赋材料掉落提升1.5%",
+        describe = "+1.5% drop rate for Haste talent materials in Concealed form",
         level = 1,
         icon = "ui/explore/growup/command/skill/feixing.png",
         type = 3,
@@ -5155,7 +5155,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+4%",
+        des2 = "Airship Shield +4%",
         preAbility = {
             [1] = 1020803,
         },
@@ -5179,7 +5179,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+8%",
+        des2 = "Airship HP +8%",
         preAbility = {
             [1] = 1030407,
         },
@@ -5203,7 +5203,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+5%",
+        des2 = "Airship Shield +5%",
         preAbility = {
             [1] = 1020804,
         },
@@ -5228,14 +5228,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 204,
         },
-        name = "以进为退I",
+        name = "Feigned Attack Ⅰ",
         position = 5,
-        describe = "（全形态）飞舰护盾值提升110",
+        describe = "(All Forms) Airship Shield +110",
         level = 1,
         icon = "ui/explore/growup/command/skill/guangxue.png",
         type = 1,
@@ -5253,7 +5253,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+6%",
+        des2 = "Airship Shield +6%",
         preAbility = {
             [1] = 1020805,
         },
@@ -5277,7 +5277,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+4%",
+        des2 = "Airship HP +4%",
         preAbility = {
             [1] = 1030403,
         },
@@ -5301,7 +5301,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+7%",
+        des2 = "Airship Shield +7%",
         preAbility = {
             [1] = 1020806,
         },
@@ -5326,14 +5326,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 409,
         },
-        name = "暗光行者I",
+        name = "Darklight Walker Ⅰ",
         position = 10,
-        describe = "（全形态）飞舰战斗免伤增加1.5%",
+        describe = "(All Forms) Airship Battle Damage Immunity +1.5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingyn.png",
         type = 3,
@@ -5351,7 +5351,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+8%",
+        des2 = "Airship Shield +8%",
         preAbility = {
             [1] = 1020807,
         },
@@ -5375,7 +5375,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+3%",
+        des2 = "Airship HP +3%",
         preAbility = {
             [1] = 1030402,
         },
@@ -5399,7 +5399,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+9%",
+        des2 = "Airship Shield +9%",
         preAbility = {
             [1] = 1020808,
         },
@@ -5423,7 +5423,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+10%",
+        des2 = "Airship DEF +10%",
         preAbility = {
             [1] = 1030309,
         },
@@ -5447,7 +5447,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+1%",
+        des2 = "Airship Fly Speed +1%",
         preAbility = {
             [1] = 1011001,
         },
@@ -5471,7 +5471,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+9%",
+        des2 = "Airship DEF +9%",
         preAbility = {
             [1] = 1030308,
         },
@@ -5495,7 +5495,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+2%",
+        des2 = "Airship Fly Speed +2%",
         preAbility = {
             [1] = 1011101,
         },
@@ -5520,14 +5520,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 410,
         },
-        name = "隐形力场II",
+        name = "Hidden Force Field Ⅱ",
         position = 11,
-        describe = "（全形态）飞舰防御力提升46",
+        describe = "(All Forms) Airship DEF +46",
         level = 1,
         icon = "ui/explore/growup/command/skill/yinxing.png",
         type = 3,
@@ -5545,7 +5545,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+3%",
+        des2 = "Airship Fly Speed +3%",
         preAbility = {
             [1] = 1011102,
         },
@@ -5569,7 +5569,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+8%",
+        des2 = "Airship DEF +8%",
         preAbility = {
             [1] = 1030307,
         },
@@ -5593,7 +5593,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+4%",
+        des2 = "Airship Fly Speed +4%",
         preAbility = {
             [1] = 1011103,
         },
@@ -5618,14 +5618,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 205,
         },
-        name = "强袭飞弹I",
+        name = "Assault Missiles Ⅰ",
         position = 6,
-        describe = "强袭天赋下追踪飞弹触发几率提升0.29%",
+        describe = "(Assault) Homing Missile Trigger Rate +0.29%",
         level = 1,
         icon = "ui/explore/growup/command/skill/gaoyuanyn.png",
         type = 1,
@@ -5643,7 +5643,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+5%",
+        des2 = "Airship Fly Speed +5%",
         preAbility = {
             [1] = 1011104,
         },
@@ -5667,7 +5667,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐A级掉落几率+1%",
+        des2 = "Class A Energy Canister drop rate +1%",
         preAbility = {
             [1] = 1031701,
         },
@@ -5691,7 +5691,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+4%",
+        des2 = "Airship DEF +4%",
         preAbility = {
             [1] = 1020303,
         },
@@ -5716,14 +5716,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 411,
         },
-        name = "雷达回避II",
+        name = "Radar Avoidance Ⅱ",
         position = 12,
-        describe = "（全形态）飞舰生命值提升172",
+        describe = "(All Forms) Airship HP +172",
         level = 1,
         icon = "ui/explore/growup/command/skill/danyao.png",
         type = 3,
@@ -5741,7 +5741,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+5%",
+        des2 = "Airship DEF +5%",
         preAbility = {
             [1] = 1020304,
         },
@@ -5765,7 +5765,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐A级掉落几率+3%",
+        des2 = "Class A Energy Canister drop rate +3%",
         preAbility = {
             [1] = 1031802,
         },
@@ -5789,7 +5789,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+6%",
+        des2 = "Airship DEF +6%",
         preAbility = {
             [1] = 1020305,
         },
@@ -5813,7 +5813,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐A级掉落几率+4%",
+        des2 = "Class A Energy Canister drop rate +4%",
         preAbility = {
             [1] = 1031803,
         },
@@ -5837,7 +5837,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+7%",
+        des2 = "Airship DEF +7%",
         preAbility = {
             [1] = 1020306,
         },
@@ -5861,7 +5861,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "能源罐A级掉落几率+5%",
+        des2 = "Class A Energy Canister drop rate +5%",
         preAbility = {
             [1] = 1031804,
         },
@@ -5885,7 +5885,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+8%",
+        des2 = "Airship DEF +8%",
         preAbility = {
             [1] = 1020307,
         },
@@ -5911,14 +5911,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 412,
         },
-        name = "隐遁之影II",
+        name = "Concealed Shadow Ⅱ",
         position = 13,
-        describe = "隐遁形态下隐遁天赋材料掉落提升2%",
+        describe = "+2% drop rate for Concealed talent materials in Concealed form",
         level = 1,
         icon = "ui/explore/growup/command/skill/feixing.png",
         type = 3,
@@ -5936,7 +5936,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+9%",
+        des2 = "Airship DEF +9%",
         preAbility = {
             [1] = 1020308,
         },
@@ -5960,7 +5960,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+3%",
+        des2 = "Airship DEF +3%",
         preAbility = {
             [1] = 1030302,
         },
@@ -5984,7 +5984,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+1%",
+        des2 = "Airship Collection Cabin Capacity +1%",
         preAbility = {
             [1] = 1010501,
         },
@@ -6009,14 +6009,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 206,
         },
-        name = "扫除障碍I",
+        name = "Obstacle Clearance Ⅰ",
         position = 7,
-        describe = "（全形态）飞舰战斗免伤增加0.74%",
+        describe = "(All Forms) Airship Battle Damage Immunity +0.74%",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingyn.png",
         type = 1,
@@ -6034,7 +6034,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+2%",
+        des2 = "Airship Collection Cabin Capacity +2%",
         preAbility = {
             [1] = 1010601,
         },
@@ -6058,7 +6058,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+2%",
+        des2 = "Airship DEF +2%",
         preAbility = {
             [1] = 1030301,
         },
@@ -6082,7 +6082,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+3%",
+        des2 = "Airship Collection Cabin Capacity +3%",
         preAbility = {
             [1] = 1010602,
         },
@@ -6107,14 +6107,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 413,
         },
-        name = "飞行降噪II",
+        name = "Quiet Flying Ⅱ",
         position = 14,
-        describe = "（全形态）飞舰战斗速度提升140",
+        describe = "(All Forms) Airship Battle Speed +140",
         level = 1,
         icon = "ui/explore/growup/command/skill/sanbei.png",
         type = 3,
@@ -6132,7 +6132,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+4%",
+        des2 = "Airship Collection Cabin Capacity +4%",
         preAbility = {
             [1] = 1010603,
         },
@@ -6159,7 +6159,7 @@ return {
             },
         },
         des3 = "",
-        des2 = "解锁区域10[食之都平原]探索",
+        des2 = "Unlock Region 10 [Foodie Flatlands] for exploration",
         preAbility = {
             [1] = 1022101,
         },
@@ -6183,7 +6183,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+5%",
+        des2 = "Airship Collection Cabin Capacity +5%",
         preAbility = {
             [1] = 1010604,
         },
@@ -6207,7 +6207,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「磁欧矿山地」中事件[特别通缉]触发",
+        des2 = "Unlock the [Special Bounty] event in [Tuaoi Mines] to trigger",
         preAbility = {
             [1] = 1030101,
         },
@@ -6231,7 +6231,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+6%",
+        des2 = "Airship Collection Cabin Capacity +6%",
         preAbility = {
             [1] = 1010605,
         },
@@ -6255,7 +6255,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「鲨栖高原」中事件[感恩谢礼]触发",
+        des2 = "Unlock the [Gift of Gratitude] event in [Shark Plateau] to trigger",
         preAbility = {
             [1] = 1031301,
         },
@@ -6279,7 +6279,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+7%",
+        des2 = "Airship Collection Cabin Capacity +7%",
         preAbility = {
             [1] = 1010606,
         },
@@ -6305,14 +6305,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 414,
         },
-        name = "侦测干扰II",
+        name = "Detection Interference Ⅱ",
         position = 15,
-        describe = "（全形态）飞舰飞行速度提升6%",
+        describe = "(All Forms) Airship Fly Speed +6%",
         level = 1,
         icon = "ui/explore/growup/command/skill/leida.png",
         type = 3,
@@ -6330,7 +6330,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+8%",
+        des2 = "Airship Collection Cabin Capacity +8%",
         preAbility = {
             [1] = 1010607,
         },
@@ -6354,7 +6354,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+9%",
+        des2 = "Airship Firepower +9%",
         preAbility = {
             [1] = 1030208,
         },
@@ -6378,7 +6378,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+9%",
+        des2 = "Airship Collection Cabin Capacity +9%",
         preAbility = {
             [1] = 1010608,
         },
@@ -6403,14 +6403,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 207,
         },
-        name = "火力全开I",
+        name = "Open Fire Ⅰ",
         position = 8,
-        describe = "（全形态）飞舰火力值提升3%",
+        describe = "(All Forms) Airship Firepower +3%",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 1,
@@ -6428,7 +6428,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+10%",
+        des2 = "Airship Collection Cabin Capacity +10%",
         preAbility = {
             [1] = 1010609,
         },
@@ -6452,7 +6452,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+8%",
+        des2 = "Airship Firepower +8%",
         preAbility = {
             [1] = 1030207,
         },
@@ -6476,7 +6476,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+7%",
+        des2 = "Airship Firepower +7%",
         preAbility = {
             [1] = 1030206,
         },
@@ -6503,14 +6503,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 415,
         },
-        name = "隐遁之爪II",
+        name = "Concealed Claw Ⅱ",
         position = 16,
-        describe = "隐遁形态下强袭天赋材料掉落提升2%",
+        describe = "+2% drop rate for Assault talent materials in Concealed form",
         level = 1,
         icon = "ui/explore/growup/command/skill/sanbei.png",
         type = 3,
@@ -6528,7 +6528,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "3阶探索收益掉落几率+5%",
+        des2 = "T3 Explore drop rate +5%",
         preAbility = {
         },
         name = "13313178",
@@ -6551,7 +6551,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+6%",
+        des2 = "Airship Firepower +6%",
         preAbility = {
             [1] = 1030205,
         },
@@ -6575,7 +6575,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+2%",
+        des2 = "T4 Explore drop rate +2%",
         preAbility = {
             [1] = 1010101,
         },
@@ -6599,7 +6599,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+5%",
+        des2 = "Airship Firepower +5%",
         preAbility = {
             [1] = 1030204,
         },
@@ -6623,7 +6623,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+3%",
+        des2 = "T5 Explore drop rate +3%",
         preAbility = {
             [1] = 1010102,
         },
@@ -6647,7 +6647,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[甜甜圈盆地]50个收益点奖励",
+        des2 = "Instantly get 50 [Donut Basin] exploration points",
         preAbility = {
             [1] = 1021501,
         },
@@ -6671,7 +6671,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "3阶探索收益掉落几率+5%",
+        des2 = "T3 Explore drop rate +5%",
         preAbility = {
             [1] = 1010103,
         },
@@ -6697,14 +6697,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 416,
         },
-        name = "光学甲板II",
+        name = "Optical Deck Ⅱ",
         position = 17,
-        describe = "（全形态）飞舰护盾值提升290",
+        describe = "(All Forms) Airship Shield +290",
         level = 1,
         icon = "ui/explore/growup/command/skill/guangxue.png",
         type = 3,
@@ -6722,7 +6722,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+5%",
+        des2 = "T4 Explore drop rate +5%",
         preAbility = {
             [1] = 1010104,
         },
@@ -6746,7 +6746,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[甜甜圈盆地]200个收益点奖励",
+        des2 = "Instantly get 200 [Donut Basin] exploration points",
         preAbility = {
             [1] = 1021602,
         },
@@ -6770,7 +6770,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+5%",
+        des2 = "T5 Explore drop rate +5%",
         preAbility = {
             [1] = 1010105,
         },
@@ -6795,14 +6795,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 208,
         },
-        name = "强袭射线I",
+        name = "Assault Beam Ⅰ",
         position = 9,
-        describe = "强袭天赋下浮游炮技能伤害提升1.05%",
+        describe = "(Assault) Pillar Skill DMG +1.05%",
         level = 1,
         icon = "ui/explore/growup/command/skill/quansu.png",
         type = 1,
@@ -6820,7 +6820,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+5%",
+        des2 = "T4 Explore drop rate +5%",
         preAbility = {
             [1] = 1010106,
         },
@@ -6844,7 +6844,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+3%",
+        des2 = "Airship Shield +3%",
         preAbility = {
             [1] = 1030802,
         },
@@ -6868,7 +6868,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+5%",
+        des2 = "T5 Explore drop rate +5%",
         preAbility = {
             [1] = 1010107,
         },
@@ -6894,14 +6894,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 417,
         },
-        name = "隐匿暗袭II",
+        name = "Hidden Strike Ⅱ",
         position = 18,
-        describe = "（全形态）飞舰火力值提升1.4%",
+        describe = "(All Forms) Airship Firepower +1.4%",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 3,
@@ -6919,7 +6919,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+10%",
+        des2 = "T4 Explore drop rate +10%",
         preAbility = {
             [1] = 1010108,
         },
@@ -6943,7 +6943,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+5%",
+        des2 = "Airship Shield +5%",
         preAbility = {
             [1] = 1030804,
         },
@@ -6967,7 +6967,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+15%",
+        des2 = "T5 Explore drop rate +15%",
         preAbility = {
             [1] = 1010109,
         },
@@ -6991,7 +6991,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+6%",
+        des2 = "Airship Shield +6%",
         preAbility = {
             [1] = 1030805,
         },
@@ -7015,7 +7015,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+1%",
+        des2 = "Airship Firepower +1%",
         preAbility = {
             [1] = 1030101,
         },
@@ -7039,7 +7039,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+7%",
+        des2 = "Airship Shield +7%",
         preAbility = {
             [1] = 1030806,
         },
@@ -7066,14 +7066,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 225,
         },
-        name = "强袭飞弹III",
+        name = "Assault Missiles Ⅲ",
         position = 26,
-        describe = "强袭天赋下追踪飞弹触发几率提升0.49%",
+        describe = "(Assault) Homing Missile Trigger Rate +0.49%",
         level = 1,
         icon = "ui/explore/growup/command/skill/gaoyuanyn.png",
         type = 1,
@@ -7094,14 +7094,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 418,
         },
-        name = "隐遁之翼II",
+        name = "Concealed Wings Ⅱ",
         position = 19,
-        describe = "隐遁形态下疾走天赋材料掉落提升2%",
+        describe = "+2% drop rate for Haste talent materials in Concealed form",
         level = 1,
         icon = "ui/explore/growup/command/skill/feixing.png",
         type = 3,
@@ -7119,7 +7119,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+5%",
+        des2 = "T5 Explore drop rate +5%",
         preAbility = {
             [1] = 1030107,
         },
@@ -7143,7 +7143,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+9%",
+        des2 = "Airship Shield +9%",
         preAbility = {
             [1] = 1030808,
         },
@@ -7167,7 +7167,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+5%",
+        des2 = "T5 Explore drop rate +5%",
         preAbility = {
             [1] = 1030105,
         },
@@ -7192,14 +7192,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 209,
         },
-        name = "迅猛出击I",
+        name = "Rapid Strike Ⅰ",
         position = 10,
-        describe = "（全形态）飞舰战斗增伤提升3%",
+        describe = "(All Forms) Airship Battle DMG Boost +3%",
         level = 1,
         icon = "ui/explore/growup/command/skill/menglie.png",
         type = 1,
@@ -7217,7 +7217,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+5%",
+        des2 = "T4 Explore drop rate +5%",
         preAbility = {
             [1] = 1030104,
         },
@@ -7241,7 +7241,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+2%",
+        des2 = "Airship Fly Speed +2%",
         preAbility = {
             [1] = 1021101,
         },
@@ -7265,7 +7265,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "3阶探索收益掉落几率+5%",
+        des2 = "T3 Explore drop rate +5%",
         preAbility = {
             [1] = 1030103,
         },
@@ -7291,14 +7291,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 419,
         },
-        name = "暗光行者II",
+        name = "Darklight Walker Ⅱ",
         position = 20,
-        describe = "（全形态）飞舰战斗免伤增加2%",
+        describe = "(All Forms) Airship Battle Damage Immunity +2%",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingyn.png",
         type = 3,
@@ -7316,7 +7316,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+3%",
+        des2 = "T5 Explore drop rate +3%",
         preAbility = {
             [1] = 1030102,
         },
@@ -7340,7 +7340,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+4%",
+        des2 = "Airship Fly Speed +4%",
         preAbility = {
             [1] = 1021103,
         },
@@ -7364,7 +7364,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+2%",
+        des2 = "T4 Explore drop rate +2%",
         preAbility = {
             [1] = 1030101,
         },
@@ -7388,7 +7388,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+5%",
+        des2 = "Airship Fly Speed +5%",
         preAbility = {
             [1] = 1021104,
         },
@@ -7412,7 +7412,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "3阶探索收益掉落几率+5%",
+        des2 = "T3 Explore drop rate +5%",
         preAbility = {
         },
         name = "13313226",
@@ -7435,7 +7435,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+4%",
+        des2 = "Airship DEF +4%",
         preAbility = {
             [1] = 1030303,
         },
@@ -7459,7 +7459,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[鱼刺山山地]200个收益点奖励",
+        des2 = "Instantly get 200 [Fish Bone Mountains] exploration points",
         preAbility = {
             [1] = 1022202,
         },
@@ -7486,14 +7486,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 420,
         },
-        name = "隐形力场III",
+        name = "Hidden Force Field Ⅲ",
         position = 21,
-        describe = "（全形态）飞舰防御力提升76",
+        describe = "(All Forms) Airship DEF +76",
         level = 1,
         icon = "ui/explore/growup/command/skill/yinxing.png",
         type = 3,
@@ -7511,7 +7511,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+2%",
+        des2 = "Airship HP +2%",
         preAbility = {
             [1] = 1010401,
         },
@@ -7535,7 +7535,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+6%",
+        des2 = "Airship DEF +6%",
         preAbility = {
             [1] = 1030305,
         },
@@ -7562,7 +7562,7 @@ return {
             },
         },
         des3 = "",
-        des2 = "解锁区域9[大食平原]探索",
+        des2 = "Unlock Region 9 [Plain of Feasting] for exploration",
         preAbility = {
             [1] = 1022001,
         },
@@ -7587,14 +7587,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 210,
         },
-        name = "自杀袭击II",
+        name = "Suicide Attack Ⅱ",
         position = 11,
-        describe = "（全形态）飞舰火力值提升59",
+        describe = "(All Forms) Airship Firepower +59",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 1,
@@ -7612,7 +7612,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+1%",
+        des2 = "Airship Damage +1%",
         preAbility = {
             [1] = 1020801,
         },
@@ -7636,7 +7636,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "获得[大棒骨]碎片x3",
+        des2 = "Get [Great Bone] Fragment*3",
         preAbility = {
             [1] = 1011301,
         },
@@ -7661,13 +7661,13 @@ return {
         },
         condition = {
         },
-        des3 = "无解锁条件",
-        des2 = "加成效果",
+        des3 = "No unlock requirements",
+        des2 = "Bonus Effect",
         preAbility = {
         },
-        name = "自杀袭击I",
+        name = "Suicide Attack Ⅰ",
         position = 1,
-        describe = "（全形态）飞舰火力值提升24",
+        describe = "(All Forms) Airship Firepower +24",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 1,
@@ -7685,7 +7685,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "获得[犬神之牙]碎片x3",
+        des2 = "Get [Divine Canine Fang] Fragment*3",
         preAbility = {
             [1] = 1011401,
         },
@@ -7709,7 +7709,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+2%",
+        des2 = "Airship Pierce Rate +2%",
         preAbility = {
             [1] = 1011003,
         },
@@ -7733,7 +7733,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "获得[统治之眼]碎片x4",
+        des2 = "Get [Eye of Ruling] Fragment*4",
         preAbility = {
             [1] = 1011402,
         },
@@ -7757,7 +7757,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「鱼刺山山地」中事件[神墓探险]触发",
+        des2 = "Unlock the [Tomb Adventure] event in [Fish Bone Mountains] to trigger",
         preAbility = {
             [1] = 1021601,
         },
@@ -7781,7 +7781,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+2%",
+        des2 = "Airship Collection Cabin Capacity +2%",
         preAbility = {
             [1] = 1020601,
         },
@@ -7805,7 +7805,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[甜甜圈盆地]350个收益点奖励",
+        des2 = "Instantly get 350 [Donut Basin] exploration points",
         preAbility = {
             [1] = 1021603,
         },
@@ -7829,7 +7829,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+3%",
+        des2 = "Airship Collection Cabin Capacity +3%",
         preAbility = {
             [1] = 1020602,
         },
@@ -7856,7 +7856,7 @@ return {
             },
         },
         des3 = "",
-        des2 = "解锁[珍珠丘陵]探索",
+        des2 = "Unlock [Pearl Hills] for exploration",
         preAbility = {
             [1] = 1032001,
         },
@@ -7884,14 +7884,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 422,
         },
-        name = "隐遁之影III",
+        name = "Concealed Shadow Ⅲ",
         position = 23,
-        describe = "隐遁形态下隐遁天赋材料掉落提升2.5%",
+        describe = "+2.5% drop rate for Concealed talent materials in Concealed form",
         level = 1,
         icon = "ui/explore/growup/command/skill/feixing.png",
         type = 3,
@@ -7912,7 +7912,7 @@ return {
             },
         },
         des3 = "",
-        des2 = "解锁[晶王座平原]探索",
+        des2 = "Unlock [Plain of the Crystal Throne] for exploration",
         preAbility = {
             [1] = 1032101,
         },
@@ -7936,7 +7936,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+5%",
+        des2 = "Airship Collection Cabin Capacity +5%",
         preAbility = {
             [1] = 1020604,
         },
@@ -7960,7 +7960,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "获得[天神食谱]碎片x5",
+        des2 = "Get [Divine Recipe] Fragment*5",
         preAbility = {
             [1] = 1021401,
         },
@@ -7985,14 +7985,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 211,
         },
-        name = "弹药改造II",
+        name = "Ammo Modification Ⅱ",
         position = 12,
-        describe = "（全形态）飞舰生命值提升173",
+        describe = "(All Forms) Airship HP +173",
         level = 1,
         icon = "ui/explore/growup/command/skill/danyao.png",
         type = 1,
@@ -8010,7 +8010,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "获得[寒冰巫面]碎片x5",
+        des2 = "Get [Ice Mask] Fragment*5",
         preAbility = {
             [1] = 1021301,
         },
@@ -8034,7 +8034,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+7%",
+        des2 = "Airship Collection Cabin Capacity +7%",
         preAbility = {
             [1] = 1020606,
         },
@@ -8058,7 +8058,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁飞舰防具[力场]",
+        des2 = "Unlock Airship Armor [Force Field]",
         preAbility = {
             [1] = 1021101,
         },
@@ -8085,14 +8085,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 423,
         },
-        name = "飞行降噪III",
+        name = "Quiet Flying Ⅲ",
         position = 24,
-        describe = "（全形态）飞舰战斗速度提升250",
+        describe = "(All Forms) Airship Battle Speed +250",
         level = 1,
         icon = "ui/explore/growup/command/skill/sanbei.png",
         type = 3,
@@ -8110,7 +8110,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+3%",
+        des2 = "Airship Fly Speed +3%",
         preAbility = {
             [1] = 1021102,
         },
@@ -8134,7 +8134,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+9%",
+        des2 = "Airship Collection Cabin Capacity +9%",
         preAbility = {
             [1] = 1020608,
         },
@@ -8158,7 +8158,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+1%",
+        des2 = "Airship Fly Speed +1%",
         preAbility = {
             [1] = 1021001,
         },
@@ -8182,7 +8182,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+1%",
+        des2 = "Airship Damage +1%",
         preAbility = {
             [1] = 1010801,
         },
@@ -8206,7 +8206,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+5%",
+        des2 = "Airship Pierce Rate +5%",
         preAbility = {
             [1] = 1021009,
         },
@@ -8230,7 +8230,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+2%",
+        des2 = "Airship Damage +2%",
         preAbility = {
             [1] = 1010901,
         },
@@ -8254,7 +8254,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+1.5%",
+        des2 = "Airship Pierce Rate +1.5%",
         preAbility = {
             [1] = 1021002,
         },
@@ -8278,7 +8278,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+3%",
+        des2 = "Airship Damage +3%",
         preAbility = {
             [1] = 1010902,
         },
@@ -8302,7 +8302,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+1%",
+        des2 = "Airship Pierce Rate +1%",
         preAbility = {
             [1] = 1021001,
         },
@@ -8326,7 +8326,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+4%",
+        des2 = "Airship Damage +4%",
         preAbility = {
             [1] = 1010903,
         },
@@ -8350,7 +8350,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+0.5%",
+        des2 = "Airship Pierce Rate +0.5%",
         preAbility = {
             [1] = 1020901,
         },
@@ -8374,7 +8374,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+5%",
+        des2 = "Airship Damage +5%",
         preAbility = {
             [1] = 1010904,
         },
@@ -8398,7 +8398,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[鲨栖高原]50个收益点奖励",
+        des2 = "Instantly get 50 [Shark Plateau] exploration points",
         preAbility = {
             [1] = 1031501,
         },
@@ -8422,7 +8422,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+6%",
+        des2 = "Airship Damage +6%",
         preAbility = {
             [1] = 1010905,
         },
@@ -8446,7 +8446,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[鲨栖高原]120个收益点奖励",
+        des2 = "Instantly get 120 [Shark Plateau] exploration points",
         preAbility = {
             [1] = 1031601,
         },
@@ -8470,7 +8470,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+5%",
+        des2 = "T4 Explore drop rate +5%",
         preAbility = {
             [1] = 1020104,
         },
@@ -8494,7 +8494,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[鲨栖高原]200个收益点奖励",
+        des2 = "Instantly get 200 [Shark Plateau] exploration points",
         preAbility = {
             [1] = 1031602,
         },
@@ -8518,7 +8518,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+5%",
+        des2 = "T5 Explore drop rate +5%",
         preAbility = {
             [1] = 1020105,
         },
@@ -8542,7 +8542,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[鲨栖高原]350个收益点奖励",
+        des2 = "Instantly get 350 [Shark Plateau] exploration points",
         preAbility = {
             [1] = 1031603,
         },
@@ -8566,7 +8566,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+9%",
+        des2 = "Airship Damage +9%",
         preAbility = {
             [1] = 1010908,
         },
@@ -8590,7 +8590,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+2%",
+        des2 = "T4 Explore drop rate +2%",
         preAbility = {
             [1] = 1020101,
         },
@@ -8614,7 +8614,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+5%",
+        des2 = "T5 Explore drop rate +5%",
         preAbility = {
             [1] = 1020107,
         },
@@ -8638,7 +8638,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "3阶探索收益掉落几率+5%",
+        des2 = "T3 Explore drop rate +5%",
         preAbility = {
         },
         name = "13313199",
@@ -8664,14 +8664,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 426,
         },
-        name = "光学甲板III",
+        name = "Optical Deck Ⅲ",
         position = 27,
-        describe = "（全形态）飞舰护盾值提升543",
+        describe = "(All Forms) Airship Shield +543",
         level = 1,
         icon = "ui/explore/growup/command/skill/guangxue.png",
         type = 3,
@@ -8689,7 +8689,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+8%",
+        des2 = "Airship HP +8%",
         preAbility = {
             [1] = 1010407,
         },
@@ -8713,7 +8713,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+15%",
+        des2 = "T5 Explore drop rate +15%",
         preAbility = {
             [1] = 1020109,
         },
@@ -8738,14 +8738,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 212,
         },
-        name = "强袭火力II",
+        name = "Assault Firepower Ⅱ",
         position = 13,
-        describe = "强袭天赋下主炮技能伤害提升4.6%",
+        describe = "(Assault) Cannon Skill DMG +4.6%",
         level = 1,
         icon = "ui/explore/growup/command/skill/gaoyuancs.png",
         type = 1,
@@ -8764,14 +8764,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 213,
         },
-        name = "猛烈突进II",
+        name = "Rapid Assault Ⅱ",
         position = 14,
-        describe = "（全形态）飞舰穿透率提升1.6%",
+        describe = "(All Forms) Airship Pierce Rate +1.6%",
         level = 1,
         icon = "ui/explore/growup/command/skill/menglie.png",
         type = 1,
@@ -8789,7 +8789,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+0.5%",
+        des2 = "Airship Pierce Rate +0.5%",
         preAbility = {
             [1] = 1010901,
         },
@@ -8813,7 +8813,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+3%",
+        des2 = "Airship HP +3%",
         preAbility = {
             [1] = 1010402,
         },
@@ -8837,7 +8837,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "完成[扫荡敌舰]事件后提升10%飞舰生命值",
+        des2 = "Complete the [Sweep Enemy Ships] event to get +10% Airship HP",
         preAbility = {
             [1] = 1021801,
         },
@@ -8864,14 +8864,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 427,
         },
-        name = "隐匿暗袭III",
+        name = "Hidden Strike Ⅲ",
         position = 28,
-        describe = "（全形态）飞舰火力值提升1.75%",
+        describe = "(All Forms) Airship Firepower +1.75%",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 3,
@@ -8889,7 +8889,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰护盾值+10%",
+        des2 = "Airship Shield +10%",
         preAbility = {
             [1] = 1020809,
         },
@@ -8913,7 +8913,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+5%",
+        des2 = "Airship HP +5%",
         preAbility = {
             [1] = 1010404,
         },
@@ -8937,7 +8937,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+1%",
+        des2 = "Airship Fly Speed +1%",
         preAbility = {
             [1] = 1031001,
         },
@@ -8961,7 +8961,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+6%",
+        des2 = "Airship HP +6%",
         preAbility = {
             [1] = 1010405,
         },
@@ -8985,7 +8985,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+2%",
+        des2 = "Airship Fly Speed +2%",
         preAbility = {
             [1] = 1031101,
         },
@@ -9010,13 +9010,13 @@ return {
         },
         condition = {
         },
-        des3 = "无解锁条件",
-        des2 = "加成效果",
+        des3 = "No unlock requirements",
+        des2 = "Bonus Effect",
         preAbility = {
         },
-        name = "三倍音速I",
+        name = "Triple Sonic Ⅰ",
         position = 1,
-        describe = "（全形态）飞舰战斗速度提升12",
+        describe = "(All Forms) Airship Battle Speed +12",
         level = 1,
         icon = "ui/explore/growup/command/skill/sanbei.png",
         type = 2,
@@ -9034,7 +9034,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+3%",
+        des2 = "Airship Fly Speed +3%",
         preAbility = {
             [1] = 1031102,
         },
@@ -9062,14 +9062,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 428,
         },
-        name = "隐遁之翼III",
+        name = "Concealed Wings Ⅲ",
         position = 29,
-        describe = "隐遁形态下疾走天赋材料掉落提升2.5%",
+        describe = "+2.5% drop rate for Haste talent materials in Concealed form",
         level = 1,
         icon = "ui/explore/growup/command/skill/feixing.png",
         type = 3,
@@ -9087,7 +9087,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+4%",
+        des2 = "Airship Fly Speed +4%",
         preAbility = {
             [1] = 1031103,
         },
@@ -9111,7 +9111,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+9%",
+        des2 = "Airship HP +9%",
         preAbility = {
             [1] = 1010408,
         },
@@ -9135,7 +9135,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰飞行速度+5%",
+        des2 = "Airship Fly Speed +5%",
         preAbility = {
             [1] = 1031104,
         },
@@ -9159,7 +9159,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+10%",
+        des2 = "Airship HP +10%",
         preAbility = {
             [1] = 1010409,
         },
@@ -9183,7 +9183,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+2%",
+        des2 = "Airship Battle Speed +2%",
         preAbility = {
             [1] = 1020701,
         },
@@ -9208,14 +9208,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 301,
         },
-        name = "疾行姿态I",
+        name = "Haste Stance Ⅰ",
         position = 2,
-        describe = "（全形态）飞舰飞行速度提升3%",
+        describe = "(All Forms) Airship Fly Speed +3%",
         level = 1,
         icon = "ui/explore/growup/command/skill/leida.png",
         type = 2,
@@ -9233,7 +9233,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+10%",
+        des2 = "Airship Collection Cabin Capacity +10%",
         preAbility = {
             [1] = 1020609,
         },
@@ -9260,14 +9260,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 429,
         },
-        name = "暗光行者III",
+        name = "Darklight Walker Ⅲ",
         position = 30,
-        describe = "（全形态）飞舰战斗免伤增加2.5%",
+        describe = "(All Forms) Airship Battle Damage Immunity +2.5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingyn.png",
         type = 3,
@@ -9285,7 +9285,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[埋骨盆地]50个收益点奖励",
+        des2 = "Instantly get 50 [Bone Cemetery] exploration points",
         preAbility = {
             [1] = 1012101,
         },
@@ -9309,7 +9309,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+8%",
+        des2 = "Airship Collection Cabin Capacity +8%",
         preAbility = {
             [1] = 1020607,
         },
@@ -9333,7 +9333,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[埋骨盆地]120个收益点奖励",
+        des2 = "Instantly get 120 [Bone Cemetery] exploration points",
         preAbility = {
             [1] = 1012201,
         },
@@ -9357,7 +9357,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+6%",
+        des2 = "Airship Collection Cabin Capacity +6%",
         preAbility = {
             [1] = 1020605,
         },
@@ -9381,7 +9381,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[埋骨盆地]200个收益点奖励",
+        des2 = "Instantly get 200 [Bone Cemetery] exploration points",
         preAbility = {
             [1] = 1012202,
         },
@@ -9407,14 +9407,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 302,
         },
-        name = "疾走冲击I",
+        name = "Haste Impact Ⅰ",
         position = 3,
-        describe = "疾走天赋下当速度高于敌方时，造成伤害提高2%",
+        describe = "(Haste) +2% damage if your Speed exceed the enemy's.",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingcy.png",
         type = 2,
@@ -9432,7 +9432,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[埋骨盆地]350个收益点奖励",
+        des2 = "Instantly get 350 [Bone Cemetery] exploration points",
         preAbility = {
             [1] = 1012203,
         },
@@ -9456,7 +9456,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+4%",
+        des2 = "Airship Collection Cabin Capacity +4%",
         preAbility = {
             [1] = 1020603,
         },
@@ -9480,7 +9480,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "获得[黄金鱼干]碎片x10",
+        des2 = "Get [Golden Fish Jerky] Fragment*10",
         preAbility = {
             [1] = 1021402,
         },
@@ -9504,7 +9504,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁飞舰武器[浮游炮]",
+        des2 = "Unlock Airship Weapon [Pillar]",
         preAbility = {
             [1] = 1020401,
         },
@@ -9528,7 +9528,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+2%",
+        des2 = "Airship Collection Cabin Capacity +2%",
         preAbility = {
             [1] = 1030601,
         },
@@ -9554,14 +9554,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 215,
         },
-        name = "强袭飞弹II",
+        name = "Assault Missiles Ⅱ",
         position = 16,
-        describe = "强袭天赋下追踪飞弹触发几率提升0.39%",
+        describe = "(Assault) Homing Missile Trigger Rate +0.39%",
         level = 1,
         icon = "ui/explore/growup/command/skill/gaoyuanyn.png",
         type = 1,
@@ -9579,7 +9579,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+3%",
+        des2 = "Airship Collection Cabin Capacity +3%",
         preAbility = {
             [1] = 1030602,
         },
@@ -9604,14 +9604,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 303,
         },
-        name = "涡轮推进I",
+        name = "Turbo Boost Ⅰ",
         position = 4,
-        describe = "（全形态）飞舰偏斜率提升0.72%",
+        describe = "(All Forms) Airship Deflection Rate +0.72%",
         level = 1,
         icon = "ui/explore/growup/command/skill/wolun.png",
         type = 2,
@@ -9629,7 +9629,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+4%",
+        des2 = "Airship Collection Cabin Capacity +4%",
         preAbility = {
             [1] = 1030603,
         },
@@ -9653,7 +9653,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+5%",
+        des2 = "Airship Firepower +5%",
         preAbility = {
             [1] = 1020204,
         },
@@ -9677,7 +9677,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+5%",
+        des2 = "Airship Collection Cabin Capacity +5%",
         preAbility = {
             [1] = 1030604,
         },
@@ -9701,7 +9701,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+2%",
+        des2 = "Airship DEF +2%",
         preAbility = {
             [1] = 1020301,
         },
@@ -9725,7 +9725,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+6%",
+        des2 = "Airship Collection Cabin Capacity +6%",
         preAbility = {
             [1] = 1030605,
         },
@@ -9749,7 +9749,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+1%",
+        des2 = "Airship HP +1%",
         preAbility = {
             [1] = 1010301,
         },
@@ -9773,7 +9773,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰采集舱容量+7%",
+        des2 = "Airship Collection Cabin Capacity +7%",
         preAbility = {
             [1] = 1030606,
         },
@@ -9798,14 +9798,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 304,
         },
-        name = "流线改造I",
+        name = "Streamline Modification Ⅰ",
         position = 5,
-        describe = "（全形态）飞舰偏斜值1.5%",
+        describe = "(All Forms) Airship Deflection Value +1.5%",
         level = 1,
         icon = "ui/explore/growup/command/skill/liuxian.png",
         type = 2,
@@ -9823,7 +9823,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「猎爪丘陵」中事件[意外收获]触发",
+        des2 = "Unlock the [Unexpected Harvest] event in [Hunter's Hills] to trigger",
         preAbility = {
             [1] = 1011601,
         },
@@ -9847,7 +9847,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+4%",
+        des2 = "Airship HP +4%",
         preAbility = {
             [1] = 1010403,
         },
@@ -9871,7 +9871,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「埋骨盆地」中事件[配合清扫]触发",
+        des2 = "Unlock the [Eradication Assistance] event in [Bone Cemetery] to trigger",
         preAbility = {
             [1] = 1011701,
         },
@@ -9895,7 +9895,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+6%",
+        des2 = "Airship Firepower +6%",
         preAbility = {
             [1] = 1020205,
         },
@@ -9919,7 +9919,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「三眼丘陵」中事件[矿脉挖掘]触发",
+        des2 = "Unlock the [Mine Excavation] event in [Third Eye Hills] to trigger",
         preAbility = {
             [1] = 1011702,
         },
@@ -9945,14 +9945,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 216,
         },
-        name = "扫除障碍II",
+        name = "Obstacle Clearance Ⅱ",
         position = 17,
-        describe = "（全形态）飞舰战斗免伤增加0.98%",
+        describe = "(All Forms) Airship Battle Damage Immunity +0.98%",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingyn.png",
         type = 1,
@@ -9970,7 +9970,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+2%",
+        des2 = "Airship Damage +2%",
         preAbility = {
             [1] = 1020901,
         },
@@ -9996,14 +9996,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 305,
         },
-        name = "疾走偏锋I",
+        name = "Haste Diverge Ⅰ",
         position = 6,
-        describe = "疾走形态触发偏斜时提高自身伤害3%",
+        describe = "+3% damage when triggering a deflection in Haste form",
         level = 1,
         icon = "ui/explore/growup/command/skill/yijin.png",
         type = 2,
@@ -10021,7 +10021,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+3%",
+        des2 = "Airship Damage +3%",
         preAbility = {
             [1] = 1020902,
         },
@@ -10045,7 +10045,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+7%",
+        des2 = "Airship HP +7%",
         preAbility = {
             [1] = 1010406,
         },
@@ -10069,7 +10069,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+4%",
+        des2 = "Airship Damage +4%",
         preAbility = {
             [1] = 1020903,
         },
@@ -10096,14 +10096,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 421,
         },
-        name = "雷达回避III",
+        name = "Radar Avoidance Ⅲ",
         position = 22,
-        describe = "（全形态）飞舰生命值提升317",
+        describe = "(All Forms) Airship HP +317",
         level = 1,
         icon = "ui/explore/growup/command/skill/danyao.png",
         type = 3,
@@ -10121,7 +10121,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+5%",
+        des2 = "Airship Damage +5%",
         preAbility = {
             [1] = 1020904,
         },
@@ -10145,7 +10145,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+1%",
+        des2 = "Airship DEF +1%",
         preAbility = {
             [1] = 1020201,
         },
@@ -10169,7 +10169,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+6%",
+        des2 = "Airship Damage +6%",
         preAbility = {
             [1] = 1020905,
         },
@@ -10194,14 +10194,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 306,
         },
-        name = "阻力破除I",
+        name = "Drag Force Reduction Ⅰ",
         position = 7,
-        describe = "（全形态）飞舰穿透率提升1.92%",
+        describe = "(All Forms) Airship Pierce Rate +1.92%",
         level = 1,
         icon = "ui/explore/growup/command/skill/menglie.png",
         type = 2,
@@ -10219,7 +10219,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+7%",
+        des2 = "Airship Damage +7%",
         preAbility = {
             [1] = 1020906,
         },
@@ -10243,7 +10243,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "5阶探索收益掉落几率+3%",
+        des2 = "T5 Explore drop rate +3%",
         preAbility = {
             [1] = 1020102,
         },
@@ -10267,7 +10267,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+8%",
+        des2 = "Airship Damage +8%",
         preAbility = {
             [1] = 1020907,
         },
@@ -10291,7 +10291,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "3阶探索收益掉落几率+5%",
+        des2 = "T3 Explore drop rate +5%",
         preAbility = {
             [1] = 1020103,
         },
@@ -10315,7 +10315,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+9%",
+        des2 = "Airship Damage +9%",
         preAbility = {
             [1] = 1020908,
         },
@@ -10341,14 +10341,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 217,
         },
-        name = "火力全开II",
+        name = "Open Fire Ⅱ",
         position = 18,
-        describe = "（全形态）飞舰火力值提升4%",
+        describe = "(All Forms) Airship Firepower +4%",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 1,
@@ -10366,7 +10366,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁飞舰防具[防弹板]",
+        des2 = "Unlock Airship Armor [Ballistic Plating]",
         preAbility = {
             [1] = 1011101,
         },
@@ -10391,14 +10391,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 307,
         },
-        name = "疾风援护I",
+        name = "Gale Support Ⅰ",
         position = 8,
-        describe = "（全形态）飞舰防御力提升1%",
+        describe = "(All Forms) Airship DEF +1%",
         level = 1,
         icon = "ui/explore/growup/command/skill/yinxing.png",
         type = 2,
@@ -10416,7 +10416,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+10%",
+        des2 = "T4 Explore drop rate +10%",
         preAbility = {
             [1] = 1030108,
         },
@@ -10440,7 +10440,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+10%",
+        des2 = "Airship DEF +10%",
         preAbility = {
             [1] = 1020309,
         },
@@ -10464,7 +10464,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+1%",
+        des2 = "Airship HP +1%",
         preAbility = {
             [1] = 1020301,
         },
@@ -10488,7 +10488,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「石城堡平原」中事件[荒野遗珠]触发",
+        des2 = "Unlock the [Wilderness Pearl] event in [Stone Castle Plain] to trigger",
         preAbility = {
             [1] = 1012003,
         },
@@ -10512,7 +10512,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+2%",
+        des2 = "Airship HP +2%",
         preAbility = {
             [1] = 1020401,
         },
@@ -10536,7 +10536,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+3%",
+        des2 = "Airship DEF +3%",
         preAbility = {
             [1] = 1020302,
         },
@@ -10560,7 +10560,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+3%",
+        des2 = "Airship HP +3%",
         preAbility = {
             [1] = 1020402,
         },
@@ -10586,14 +10586,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 308,
         },
-        name = "疾走迂回I",
+        name = "Haste Redirect Ⅰ",
         position = 9,
-        describe = "疾走形态穿透敌人时回复自身护盾值3%",
+        describe = "Restore shield by 3% when piercing an enemy in Haste form",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingcy.png",
         type = 2,
@@ -10611,7 +10611,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+4%",
+        des2 = "Airship HP +4%",
         preAbility = {
             [1] = 1020403,
         },
@@ -10635,7 +10635,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰防御力+6%",
+        des2 = "Airship DEF +6%",
         preAbility = {
             [1] = 1010305,
         },
@@ -10659,7 +10659,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+5%",
+        des2 = "Airship HP +5%",
         preAbility = {
             [1] = 1020404,
         },
@@ -10683,7 +10683,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+2.5%",
+        des2 = "Airship Pierce Rate +2.5%",
         preAbility = {
             [1] = 1011004,
         },
@@ -10707,7 +10707,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+6%",
+        des2 = "Airship HP +6%",
         preAbility = {
             [1] = 1020405,
         },
@@ -10733,14 +10733,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 218,
         },
-        name = "强袭射线II",
+        name = "Assault Beam Ⅱ",
         position = 19,
-        describe = "强袭天赋下浮游炮技能伤害提升1.4%",
+        describe = "(Assault) Pillar Skill DMG +1.4%",
         level = 1,
         icon = "ui/explore/growup/command/skill/quansu.png",
         type = 1,
@@ -10758,7 +10758,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+7%",
+        des2 = "Airship HP +7%",
         preAbility = {
             [1] = 1020406,
         },
@@ -10783,14 +10783,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 309,
         },
-        name = "疾风破灭I",
+        name = "Gale Destruction Ⅰ",
         position = 10,
-        describe = "（全形态）飞舰火力值提升3%",
+        describe = "(All Forms) Airship Firepower +3%",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 2,
@@ -10808,7 +10808,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+8%",
+        des2 = "Airship HP +8%",
         preAbility = {
             [1] = 1020407,
         },
@@ -10832,7 +10832,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+4%",
+        des2 = "Airship Firepower +4%",
         preAbility = {
             [1] = 1020203,
         },
@@ -10856,7 +10856,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰生命值+9%",
+        des2 = "Airship HP +9%",
         preAbility = {
             [1] = 1020408,
         },
@@ -10880,7 +10880,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+1%",
+        des2 = "Airship Firepower +1%",
         preAbility = {
             [1] = 1020101,
         },
@@ -10904,7 +10904,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+1%",
+        des2 = "Airship Battle Speed +1%",
         preAbility = {
             [1] = 1010601,
         },
@@ -10928,7 +10928,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "4阶探索收益掉落几率+10%",
+        des2 = "T4 Explore drop rate +10%",
         preAbility = {
             [1] = 1020108,
         },
@@ -10952,7 +10952,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+2%",
+        des2 = "Airship Battle Speed +2%",
         preAbility = {
             [1] = 1010701,
         },
@@ -10977,14 +10977,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 310,
         },
-        name = "三倍音速II",
+        name = "Triple Sonic Ⅱ",
         position = 11,
-        describe = "（全形态）飞舰战斗速度提升28",
+        describe = "(All Forms) Airship Battle Speed +28",
         level = 1,
         icon = "ui/explore/growup/command/skill/sanbei.png",
         type = 2,
@@ -11002,7 +11002,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+3%",
+        des2 = "Airship Battle Speed +3%",
         preAbility = {
             [1] = 1010702,
         },
@@ -11026,7 +11026,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[鱼刺山山地]50个收益点奖励",
+        des2 = "Instantly get 50 [Fish Bone Mountains] exploration points",
         preAbility = {
             [1] = 1022101,
         },
@@ -11050,7 +11050,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+4%",
+        des2 = "Airship Battle Speed +4%",
         preAbility = {
             [1] = 1010703,
         },
@@ -11074,7 +11074,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "立即获得[鱼刺山山地]120个收益点奖励",
+        des2 = "Instantly get 120 [Fish Bone Mountains] exploration points",
         preAbility = {
             [1] = 1022201,
         },
@@ -11098,7 +11098,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+5%",
+        des2 = "Airship Battle Speed +5%",
         preAbility = {
             [1] = 1010704,
         },
@@ -11124,14 +11124,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 219,
         },
-        name = "迅猛出击II",
+        name = "Rapid Strike Ⅱ",
         position = 20,
-        describe = "（全形态）飞舰战斗增伤提升4%",
+        describe = "(All Forms) Airship Battle DMG Boost +4%",
         level = 1,
         icon = "ui/explore/growup/command/skill/menglie.png",
         type = 1,
@@ -11149,7 +11149,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+6%",
+        des2 = "Airship Battle Speed +6%",
         preAbility = {
             [1] = 1010705,
         },
@@ -11174,14 +11174,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 311,
         },
-        name = "疾行姿态II",
+        name = "Haste Stance Ⅱ",
         position = 12,
-        describe = "（全形态）飞舰飞行速度提升4%",
+        describe = "(All Forms) Airship Fly Speed +4%",
         level = 1,
         icon = "ui/explore/growup/command/skill/leida.png",
         type = 2,
@@ -11199,7 +11199,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+7%",
+        des2 = "Airship Battle Speed +7%",
         preAbility = {
             [1] = 1010706,
         },
@@ -11223,7 +11223,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "获得[太阳之辉]碎片x10",
+        des2 = "Get [Sun's Glory] Fragment*10",
         preAbility = {
             [1] = 1031402,
         },
@@ -11247,7 +11247,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+8%",
+        des2 = "Airship Battle Speed +8%",
         preAbility = {
             [1] = 1010707,
         },
@@ -11271,7 +11271,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+3%",
+        des2 = "Airship Pierce Rate +3%",
         preAbility = {
             [1] = 1011005,
         },
@@ -11295,7 +11295,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+9%",
+        des2 = "Airship Battle Speed +9%",
         preAbility = {
             [1] = 1010708,
         },
@@ -11319,7 +11319,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰穿透率+5%",
+        des2 = "Airship Pierce Rate +5%",
         preAbility = {
             [1] = 1011009,
         },
@@ -11343,7 +11343,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰战斗速度+10%",
+        des2 = "Airship Battle Speed +10%",
         preAbility = {
             [1] = 1010709,
         },
@@ -11369,14 +11369,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 312,
         },
-        name = "疾走冲击II",
+        name = "Haste Impact Ⅱ",
         position = 13,
-        describe = "疾走天赋下当速度高于敌方时，造成伤害提高3%",
+        describe = "(Haste) +3% damage if your Speed exceed the enemy's.",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingcy.png",
         type = 2,
@@ -11396,14 +11396,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 214,
         },
-        name = "以进为退II",
+        name = "Feigned Attack Ⅱ",
         position = 15,
-        describe = "（全形态）飞舰护盾值提升291",
+        describe = "(All Forms) Airship Shield +291",
         level = 1,
         icon = "ui/explore/growup/command/skill/guangxue.png",
         type = 1,
@@ -11421,7 +11421,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "完成[击败灰犬]事件后提升5%飞舰生命值",
+        des2 = "Complete the [Defeat Grey Canine] event to get +5% Airship HP",
         preAbility = {
             [1] = 1011801,
         },
@@ -11445,7 +11445,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+1%",
+        des2 = "Airship Firepower +1%",
         preAbility = {
             [1] = 1010101,
         },
@@ -11472,14 +11472,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 318,
         },
-        name = "疾走迂回II",
+        name = "Haste Redirect Ⅱ",
         position = 19,
-        describe = "疾走形态穿透敌人时回复自身护盾值4%",
+        describe = "Restore shield by 4% when piercing an enemy in Haste form",
         level = 1,
         icon = "ui/explore/growup/command/skill/qiulingcy.png",
         type = 2,
@@ -11497,7 +11497,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+2%",
+        des2 = "Airship Firepower +2%",
         preAbility = {
             [1] = 1010201,
         },
@@ -11524,14 +11524,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 220,
         },
-        name = "自杀袭击III",
+        name = "Suicide Attack Ⅲ",
         position = 21,
-        describe = "（全形态）飞舰火力值提升108",
+        describe = "(All Forms) Airship Firepower +108",
         level = 1,
         icon = "ui/explore/growup/command/skill/zisha.png",
         type = 1,
@@ -11549,7 +11549,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+3%",
+        des2 = "Airship Firepower +3%",
         preAbility = {
             [1] = 1010202,
         },
@@ -11574,14 +11574,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 313,
         },
-        name = "涡轮推进II",
+        name = "Turbo Boost Ⅱ",
         position = 14,
-        describe = "（全形态）飞舰偏斜率提升0.96%",
+        describe = "(All Forms) Airship Deflection Rate +0.96%",
         level = 1,
         icon = "ui/explore/growup/command/skill/wolun.png",
         type = 2,
@@ -11599,7 +11599,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+4%",
+        des2 = "Airship Firepower +4%",
         preAbility = {
             [1] = 1010203,
         },
@@ -11623,7 +11623,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「寒武山地」中事件[意外收获]触发",
+        des2 = "Unlock the [Unexpected Harvest] event in [Cambrian Mountains] to trigger",
         preAbility = {
             [1] = 1021701,
         },
@@ -11647,7 +11647,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+5%",
+        des2 = "Airship Firepower +5%",
         preAbility = {
             [1] = 1010204,
         },
@@ -11671,7 +11671,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "解锁「冻岩丘陵」中事件[迎头痛击]触发",
+        des2 = "Unlock the [Head-on Strike] event in [Frozen Rock Hills] to trigger",
         preAbility = {
             [1] = 1021702,
         },
@@ -11695,7 +11695,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+6%",
+        des2 = "Airship Firepower +6%",
         preAbility = {
             [1] = 1010205,
         },
@@ -11719,7 +11719,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+2%",
+        des2 = "Airship Damage +2%",
         preAbility = {
             [1] = 1030901,
         },
@@ -11743,7 +11743,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+7%",
+        des2 = "Airship Firepower +7%",
         preAbility = {
             [1] = 1010206,
         },
@@ -11769,14 +11769,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 314,
         },
-        name = "流线改造II",
+        name = "Streamline Modification Ⅱ",
         position = 15,
-        describe = "（全形态）飞舰偏斜值2%",
+        describe = "(All Forms) Airship Deflection Value +2%",
         level = 1,
         icon = "ui/explore/growup/command/skill/liuxian.png",
         type = 2,
@@ -11794,7 +11794,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰火力值+8%",
+        des2 = "Airship Firepower +8%",
         preAbility = {
             [1] = 1010207,
         },
@@ -11818,7 +11818,7 @@ return {
         condition = {
         },
         des3 = "",
-        des2 = "飞舰伤害+4%",
+        des2 = "Airship Damage +4%",
         preAbility = {
             [1] = 1030903,
         },
@@ -11843,14 +11843,14 @@ return {
         },
         condition = {
         },
-        des3 = "激活上一个天赋后解锁",
-        des2 = "加成效果",
+        des3 = "Activate the previous talent to unlock",
+        des2 = "Bonus Effect",
         preAbility = {
             [1] = 403,
         },
-        name = "飞行降噪I",
+        name = "Quiet Flying Ⅰ",
         position = 4,
-        describe = "（全形态）飞舰战斗速度提升60",
+        describe = "(All Forms) Airship Battle Speed +60",
         level = 1,
         icon = "ui/explore/growup/command/skill/sanbei.png",
         type = 3,

@@ -348,6 +348,7 @@ function GemComposeView:updateTreasureList( ... )
 			item.goodsItem:setOpacity(120)
 			Label_num:show()
 		end
+		item:setName("item"..v.id)
 		
 		starUp_redPoint:setVisible(GemComposeView.checkStarUpRedPoint(v))
 

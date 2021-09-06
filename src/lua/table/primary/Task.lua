@@ -6231,6 +6231,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,
@@ -23168,6 +23171,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,
@@ -25434,6 +25440,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,
@@ -42477,6 +42486,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,
@@ -44665,6 +44677,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,
@@ -51649,6 +51664,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -51895,6 +51913,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -52233,6 +52254,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -52429,6 +52453,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -52992,6 +53019,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -53184,6 +53214,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -62904,7 +62937,7 @@ return {
         colour2 = {
         },
         typeDes = "1330003",
-        open = false,
+        open = true,
         id = 210022,
         extendsTaskId = 0,
         subType = 2,
@@ -63938,6 +63971,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,
@@ -65977,6 +66013,8 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
             },
         },
         effectiveTime = -1,
@@ -67453,13 +67491,13 @@ return {
         icon = "ui/task/icon_1.png",
         completeResult = 2,
         playerLevel = {
-            [1] = 50,
+            [1] = 40,
             [2] = 99,
         },
         colour2 = {
         },
         typeDes = "1330003",
-        open = false,
+        open = true,
         id = 220013,
         extendsTaskId = 0,
         subType = 2,
@@ -74208,6 +74246,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,
@@ -75827,6 +75868,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,
@@ -81007,6 +81051,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -81102,6 +81149,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -81192,6 +81242,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -81287,6 +81340,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = -1,
@@ -82987,6 +83043,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,
@@ -85162,6 +85221,9 @@ return {
             dunTypeList = {
                 [1] = 9,
                 [2] = 17,
+                [3] = 22,
+                [4] = 23,
+                [5] = 24,
             },
         },
         effectiveTime = 1,

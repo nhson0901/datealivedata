@@ -2,7 +2,7 @@ return {
     [1531] = {
         rangeType = 0,
         id = 1531,
-        des2 = "战斗速度+2860,总战斗速度+18%",
+        des2 = "Battle Speed +2860, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -18,7 +18,7 @@ return {
     [1533] = {
         rangeType = 0,
         id = 1533,
-        des2 = "战斗速度+2920,总战斗速度+18%",
+        des2 = "Battle Speed +2920, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -34,7 +34,7 @@ return {
     [1535] = {
         rangeType = 0,
         id = 1535,
-        des2 = "战斗速度+2980,总战斗速度+18%",
+        des2 = "Battle Speed +2980, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -50,7 +50,7 @@ return {
     [1537] = {
         rangeType = 0,
         id = 1537,
-        des2 = "战斗速度+3040,总战斗速度+18%",
+        des2 = "Battle Speed +3040, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -66,7 +66,7 @@ return {
     [1539] = {
         rangeType = 0,
         id = 1539,
-        des2 = "战斗速度+3100,总战斗速度+20%",
+        des2 = "Battle Speed +3100, Total Battle Speed +20%",
         name = "",
         rangePrams = {
         },
@@ -82,7 +82,7 @@ return {
     [1541] = {
         rangeType = 0,
         id = 1541,
-        des2 = "采集容量+530",
+        des2 = "Collection Capacity +530",
         name = "",
         rangePrams = {
         },
@@ -97,7 +97,7 @@ return {
     [1543] = {
         rangeType = 0,
         id = 1543,
-        des2 = "采集容量+590",
+        des2 = "Collection Capacity +590",
         name = "",
         rangePrams = {
         },
@@ -127,7 +127,7 @@ return {
     [1547] = {
         rangeType = 0,
         id = 1547,
-        des2 = "采集容量+710",
+        des2 = "Collection Capacity +710",
         name = "",
         rangePrams = {
         },
@@ -142,7 +142,7 @@ return {
     [1549] = {
         rangeType = 0,
         id = 1549,
-        des2 = "采集容量+770",
+        des2 = "Collection Capacity +770",
         name = "",
         rangePrams = {
         },
@@ -157,7 +157,7 @@ return {
     [3101] = {
         rangeType = 0,
         id = 3101,
-        des2 = "飞舰火力+0.42%",
+        des2 = "Airship Firepower +0.42%",
         name = "",
         rangePrams = {
         },
@@ -172,7 +172,7 @@ return {
     [1553] = {
         rangeType = 0,
         id = 1553,
-        des2 = "采集容量+860,飞行速度+2%",
+        des2 = "Collection Capacity +860, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -188,7 +188,7 @@ return {
     [1555] = {
         rangeType = 0,
         id = 1555,
-        des2 = "采集容量+920,飞行速度+2%",
+        des2 = "Collection Capacity +920, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -204,7 +204,7 @@ return {
     [1557] = {
         rangeType = 0,
         id = 1557,
-        des2 = "采集容量+980,飞行速度+2%",
+        des2 = "Collection Capacity +980, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -220,7 +220,7 @@ return {
     [1559] = {
         rangeType = 0,
         id = 1559,
-        des2 = "采集容量+1040,飞行速度+2%",
+        des2 = "Collection Capacity +1040, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -236,7 +236,7 @@ return {
     [1561] = {
         rangeType = 0,
         id = 1561,
-        des2 = "采集容量+1100,飞行速度+4%",
+        des2 = "Collection Capacity +1100, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -252,7 +252,7 @@ return {
     [1563] = {
         rangeType = 0,
         id = 1563,
-        des2 = "采集容量+1130,飞行速度+4%",
+        des2 = "Collection Capacity +1130, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -268,7 +268,7 @@ return {
     [1565] = {
         rangeType = 0,
         id = 1565,
-        des2 = "采集容量+1190,飞行速度+4%",
+        des2 = "Collection Capacity +1190, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -284,7 +284,7 @@ return {
     [1567] = {
         rangeType = 0,
         id = 1567,
-        des2 = "采集容量+1250,飞行速度+4%",
+        des2 = "Collection Capacity +1250, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -300,7 +300,7 @@ return {
     [1569] = {
         rangeType = 0,
         id = 1569,
-        des2 = "采集容量+1310,飞行速度+4%",
+        des2 = "Collection Capacity +1310, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -316,7 +316,7 @@ return {
     [1571] = {
         rangeType = 0,
         id = 1571,
-        des2 = "采集容量+1370,飞行速度+4%",
+        des2 = "Collection Capacity +1370, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -347,7 +347,7 @@ return {
     [1575] = {
         rangeType = 0,
         id = 1575,
-        des2 = "采集容量+1460,飞行速度+6%",
+        des2 = "Collection Capacity +1460, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -378,7 +378,7 @@ return {
     [1579] = {
         rangeType = 0,
         id = 1579,
-        des2 = "采集容量+1580,飞行速度+6%",
+        des2 = "Collection Capacity +1580, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -394,7 +394,7 @@ return {
     [1581] = {
         rangeType = 0,
         id = 1581,
-        des2 = "采集容量+1640,飞行速度+6%",
+        des2 = "Collection Capacity +1640, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -410,7 +410,7 @@ return {
     [1583] = {
         rangeType = 0,
         id = 1583,
-        des2 = "采集容量+1700,飞行速度+8%",
+        des2 = "Collection Capacity +1700, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -426,7 +426,7 @@ return {
     [1585] = {
         rangeType = 0,
         id = 1585,
-        des2 = "采集容量+1730,飞行速度+8%",
+        des2 = "Collection Capacity +1730, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -442,7 +442,7 @@ return {
     [1587] = {
         rangeType = 0,
         id = 1587,
-        des2 = "采集容量+1790,飞行速度+8%",
+        des2 = "Collection Capacity +1790, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -458,7 +458,7 @@ return {
     [1589] = {
         rangeType = 0,
         id = 1589,
-        des2 = "采集容量+1850,飞行速度+8%",
+        des2 = "Collection Capacity +1850, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -474,7 +474,7 @@ return {
     [1591] = {
         rangeType = 0,
         id = 1591,
-        des2 = "采集容量+1910,飞行速度+8%",
+        des2 = "Collection Capacity +1910, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -490,7 +490,7 @@ return {
     [1593] = {
         rangeType = 0,
         id = 1593,
-        des2 = "采集容量+1970,飞行速度+8%",
+        des2 = "Collection Capacity +1970, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -506,7 +506,7 @@ return {
     [1597] = {
         rangeType = 0,
         id = 1597,
-        des2 = "采集容量+2060,飞行速度+10%",
+        des2 = "Collection Capacity +2060, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -522,7 +522,7 @@ return {
     [1599] = {
         rangeType = 0,
         id = 1599,
-        des2 = "采集容量+2120,飞行速度+10%",
+        des2 = "Collection Capacity +2120, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -538,7 +538,7 @@ return {
     [1601] = {
         rangeType = 0,
         id = 1601,
-        des2 = "采集容量+2180,飞行速度+10%",
+        des2 = "Collection Capacity +2180, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -554,7 +554,7 @@ return {
     [1603] = {
         rangeType = 0,
         id = 1603,
-        des2 = "采集容量+2240,飞行速度+10%",
+        des2 = "Collection Capacity +2240, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -570,7 +570,7 @@ return {
     [1605] = {
         rangeType = 0,
         id = 1605,
-        des2 = "采集容量+2300,飞行速度+12%",
+        des2 = "Collection Capacity +2300, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -586,7 +586,7 @@ return {
     [1607] = {
         rangeType = 0,
         id = 1607,
-        des2 = "采集容量+2330,飞行速度+12%",
+        des2 = "Collection Capacity +2330, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -617,7 +617,7 @@ return {
     [1611] = {
         rangeType = 0,
         id = 1611,
-        des2 = "采集容量+2450,飞行速度+12%",
+        des2 = "Collection Capacity +2450, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -633,7 +633,7 @@ return {
     [1613] = {
         rangeType = 0,
         id = 1613,
-        des2 = "采集容量+2510,飞行速度+12%",
+        des2 = "Collection Capacity +2510, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -649,7 +649,7 @@ return {
     [1615] = {
         rangeType = 0,
         id = 1615,
-        des2 = "采集容量+2570,飞行速度+12%",
+        des2 = "Collection Capacity +2570, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -665,7 +665,7 @@ return {
     [1619] = {
         rangeType = 0,
         id = 1619,
-        des2 = "采集容量+2660,飞行速度+14%",
+        des2 = "Collection Capacity +2660, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -681,7 +681,7 @@ return {
     [1621] = {
         rangeType = 0,
         id = 1621,
-        des2 = "采集容量+2720,飞行速度+14%",
+        des2 = "Collection Capacity +2720, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -697,7 +697,7 @@ return {
     [1623] = {
         rangeType = 0,
         id = 1623,
-        des2 = "采集容量+2780,飞行速度+14%",
+        des2 = "Collection Capacity +2780, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -713,7 +713,7 @@ return {
     [1625] = {
         rangeType = 0,
         id = 1625,
-        des2 = "采集容量+2840,飞行速度+14%",
+        des2 = "Collection Capacity +2840, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -729,7 +729,7 @@ return {
     [1627] = {
         rangeType = 0,
         id = 1627,
-        des2 = "采集容量+2900,飞行速度+16%",
+        des2 = "Collection Capacity +2900, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -745,7 +745,7 @@ return {
     [1629] = {
         rangeType = 0,
         id = 1629,
-        des2 = "采集容量+2930,飞行速度+16%",
+        des2 = "Collection Capacity +2930, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -761,7 +761,7 @@ return {
     [1631] = {
         rangeType = 0,
         id = 1631,
-        des2 = "采集容量+2990,飞行速度+16%",
+        des2 = "Collection Capacity +2990, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -777,7 +777,7 @@ return {
     [1633] = {
         rangeType = 0,
         id = 1633,
-        des2 = "采集容量+3050,飞行速度+16%",
+        des2 = "Collection Capacity +3050, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -793,7 +793,7 @@ return {
     [1635] = {
         rangeType = 0,
         id = 1635,
-        des2 = "采集容量+3110,飞行速度+16%",
+        des2 = "Collection Capacity +3110, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -839,7 +839,7 @@ return {
     [1643] = {
         rangeType = 0,
         id = 1643,
-        des2 = "采集容量+3320,飞行速度+18%",
+        des2 = "Collection Capacity +3320, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -855,7 +855,7 @@ return {
     [1645] = {
         rangeType = 0,
         id = 1645,
-        des2 = "采集容量+3380,飞行速度+18%",
+        des2 = "Collection Capacity +3380, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -871,7 +871,7 @@ return {
     [1647] = {
         rangeType = 0,
         id = 1647,
-        des2 = "采集容量+3440,飞行速度+18%",
+        des2 = "Collection Capacity +3440, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -887,7 +887,7 @@ return {
     [1649] = {
         rangeType = 0,
         id = 1649,
-        des2 = "采集容量+3500,飞行速度+20%",
+        des2 = "Collection Capacity +3500, Fly Speed +20%",
         name = "",
         rangePrams = {
         },
@@ -903,7 +903,7 @@ return {
     [3301] = {
         rangeType = 0,
         id = 3301,
-        des2 = "战斗速度+0.42%",
+        des2 = "Battle Speed +0.42%",
         name = "",
         rangePrams = {
         },
@@ -918,7 +918,7 @@ return {
     [3305] = {
         rangeType = 0,
         id = 3305,
-        des2 = "战斗速度+2.08%",
+        des2 = "Battle Speed +2.08%",
         name = "",
         rangePrams = {
         },
@@ -933,7 +933,7 @@ return {
     [3309] = {
         rangeType = 0,
         id = 3309,
-        des2 = "战斗速度+3.75%",
+        des2 = "Battle Speed +3.75%",
         name = "",
         rangePrams = {
         },
@@ -948,7 +948,7 @@ return {
     [3313] = {
         rangeType = 0,
         id = 3313,
-        des2 = "战斗速度+5.42%",
+        des2 = "Battle Speed +5.42%",
         name = "",
         rangePrams = {
         },
@@ -1122,7 +1122,7 @@ return {
     [3401] = {
         rangeType = 0,
         id = 3401,
-        des2 = "采集容量+0.42%",
+        des2 = "Collection Capacity +0.42%",
         name = "",
         rangePrams = {
         },
@@ -1136,7 +1136,7 @@ return {
     [3405] = {
         rangeType = 0,
         id = 3405,
-        des2 = "采集容量+2.08%",
+        des2 = "Collection Capacity +2.08%",
         name = "",
         rangePrams = {
         },
@@ -1150,7 +1150,7 @@ return {
     [3409] = {
         rangeType = 0,
         id = 3409,
-        des2 = "采集容量+3.75%",
+        des2 = "Collection Capacity +3.75%",
         name = "",
         rangePrams = {
         },
@@ -1164,7 +1164,7 @@ return {
     [3413] = {
         rangeType = 0,
         id = 3413,
-        des2 = "采集容量+5.42%",
+        des2 = "Collection Capacity +5.42%",
         name = "",
         rangePrams = {
         },
@@ -1253,7 +1253,7 @@ return {
     [3501] = {
         rangeType = 0,
         id = 3501,
-        des2 = "全形态火力值提升24",
+        des2 = "All Forms Firepower +24",
         name = "",
         rangePrams = {
         },
@@ -1268,7 +1268,7 @@ return {
     [3505] = {
         rangeType = 0,
         id = 3505,
-        des2 = "全形态护盾提升110",
+        des2 = "All Forms Shield +110",
         name = "",
         rangePrams = {
         },
@@ -1283,7 +1283,7 @@ return {
     [3509] = {
         rangeType = 6,
         id = 3509,
-        des2 = "强袭天赋下浮游炮技能伤害提升1.05%",
+        des2 = "(Assault) Pillar Skill DMG +1.05%",
         name = "",
         rangePrams = {
             shipType = {
@@ -1301,7 +1301,7 @@ return {
     [3513] = {
         rangeType = 6,
         id = 3513,
-        des2 = "强袭天赋下主炮技能伤害提升4.6%",
+        des2 = "(Assault) Cannon Skill DMG +4.6%",
         name = "",
         rangePrams = {
             shipType = {
@@ -1319,7 +1319,7 @@ return {
     [3517] = {
         rangeType = 0,
         id = 3517,
-        des2 = "全形态免伤提升0.98%",
+        des2 = "All Forms Damage Immunity +0.98%",
         name = "",
         rangePrams = {
         },
@@ -1334,7 +1334,7 @@ return {
     [3521] = {
         rangeType = 0,
         id = 3521,
-        des2 = "全形态火力值提升108",
+        des2 = "All Forms Firepower +108",
         name = "",
         rangePrams = {
         },
@@ -1349,7 +1349,7 @@ return {
     [3525] = {
         rangeType = 0,
         id = 3525,
-        des2 = "全形态护盾提升543",
+        des2 = "All Forms Shield +543",
         name = "",
         rangePrams = {
         },
@@ -1552,7 +1552,7 @@ return {
     [3601] = {
         rangeType = 0,
         id = 3601,
-        des2 = "全形态战斗速度提升12",
+        des2 = "All Forms Battle Speed +12",
         name = "",
         rangePrams = {
         },
@@ -1567,7 +1567,7 @@ return {
     [3605] = {
         rangeType = 0,
         id = 3605,
-        des2 = "全形态偏斜值1.5%",
+        des2 = "All Forms Deflection Value +1.5%",
         name = "",
         rangePrams = {
         },
@@ -1582,7 +1582,7 @@ return {
     [3609] = {
         rangeType = 6,
         id = 3609,
-        des2 = "疾走形态穿透敌舰时回复自身护盾3%",
+        des2 = "Restore shield by 3% when piercing an enemy airship in Haste form",
         name = "",
         rangePrams = {
             shipType = {
@@ -1601,7 +1601,7 @@ return {
     [3613] = {
         rangeType = 6,
         id = 3613,
-        des2 = "疾走天赋下当速度高于敌方时，造成伤害提高3%",
+        des2 = "(Haste) +3% damage if your Speed exceed the enemy's.",
         name = "",
         rangePrams = {
             shipType = {
@@ -1620,7 +1620,7 @@ return {
     [3617] = {
         rangeType = 0,
         id = 3617,
-        des2 = "全形态穿透率提升2.56%",
+        des2 = "All Forms Pierce Rate +2.56%",
         name = "",
         rangePrams = {
         },
@@ -1635,7 +1635,7 @@ return {
     [3621] = {
         rangeType = 0,
         id = 3621,
-        des2 = "全形态战斗速度提升50",
+        des2 = "All Forms Battle Speed +50",
         name = "",
         rangePrams = {
         },
@@ -1650,7 +1650,7 @@ return {
     [3625] = {
         rangeType = 0,
         id = 3625,
-        des2 = "全形态偏斜值2.50%",
+        des2 = "All Forms Deflection Value +2.50%",
         name = "",
         rangePrams = {
         },
@@ -1665,7 +1665,7 @@ return {
     [3629] = {
         rangeType = 6,
         id = 3629,
-        des2 = "疾走形态穿透敌舰时回复自身护盾5%",
+        des2 = "Restore shield by 5% when piercing an enemy airship in Haste form",
         name = "",
         rangePrams = {
             shipType = {
@@ -1917,7 +1917,7 @@ return {
     [3701] = {
         rangeType = 0,
         id = 3701,
-        des2 = "全形态防御力提升23",
+        des2 = "All Forms DEF +23",
         name = "",
         rangePrams = {
         },
@@ -1932,7 +1932,7 @@ return {
     [3705] = {
         rangeType = 0,
         id = 3705,
-        des2 = "全形态飞行速度提升4.5%",
+        des2 = "All Forms Fly Speed +4.5%",
         name = "",
         rangePrams = {
         },
@@ -1947,7 +1947,7 @@ return {
     [3709] = {
         rangeType = 6,
         id = 3709,
-        des2 = "隐遁形态下疾走天赋材料掉落提升1.5%",
+        des2 = "+1.5% drop rate for Haste talent materials in Concealed form",
         name = "",
         rangePrams = {
             shipType = {
@@ -1967,7 +1967,7 @@ return {
     [3713] = {
         rangeType = 6,
         id = 3713,
-        des2 = "隐遁形态下隐遁天赋材料掉落提升2%",
+        des2 = "+2% drop rate for Concealed talent materials in Concealed form",
         name = "",
         rangePrams = {
             shipType = {
@@ -1987,7 +1987,7 @@ return {
     [3717] = {
         rangeType = 0,
         id = 3717,
-        des2 = "全形态护盾提升290",
+        des2 = "All Forms Shield +290",
         name = "",
         rangePrams = {
         },
@@ -2002,7 +2002,7 @@ return {
     [3721] = {
         rangeType = 0,
         id = 3721,
-        des2 = "全形态防御力提升76",
+        des2 = "All Forms DEF +76",
         name = "",
         rangePrams = {
         },
@@ -2017,7 +2017,7 @@ return {
     [3725] = {
         rangeType = 0,
         id = 3725,
-        des2 = "全形态飞行速度提升7.5%",
+        des2 = "All Forms Fly Speed +7.5%",
         name = "",
         rangePrams = {
         },
@@ -2032,7 +2032,7 @@ return {
     [3729] = {
         rangeType = 6,
         id = 3729,
-        des2 = "隐遁形态下疾走天赋材料掉落提升2.5%",
+        des2 = "+2.5% drop rate for Haste talent materials in Concealed form",
         name = "",
         rangePrams = {
             shipType = {
@@ -2052,11 +2052,11 @@ return {
     [66202] = {
         rangeType = 0,
         id = 66202,
-        des2 = "每次天空舰遭受攻击时，若发生偏斜，则将其攻击能量收集起来，用以提升自身伤害5%，持续1回合（冷却时间2回合）",
-        name = "逆转蓄能",
+        des2 = "Whenever an attack against the Sky Airship is deflected, absorb the energy to gain +5% damage for 1 turn (CD: 2 turns)",
+        name = "Reverse Energy",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/26.png",
         ability = {
@@ -2161,7 +2161,7 @@ return {
     [3801] = {
         rangeType = 0,
         id = 3801,
-        des2 = "火力值+1%",
+        des2 = "Firepower +1%",
         name = "",
         rangePrams = {
         },
@@ -2176,7 +2176,7 @@ return {
     [3805] = {
         rangeType = 0,
         id = 3805,
-        des2 = "偏斜率+2%",
+        des2 = "Deflection Rate +2%",
         name = "",
         rangePrams = {
         },
@@ -2191,7 +2191,7 @@ return {
     [3809] = {
         rangeType = 0,
         id = 3809,
-        des2 = "战斗速度+2%",
+        des2 = "Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -2206,7 +2206,7 @@ return {
     [3813] = {
         rangeType = 0,
         id = 3813,
-        des2 = "生命值+3%",
+        des2 = "HP +3%",
         name = "",
         rangePrams = {
         },
@@ -2221,11 +2221,11 @@ return {
     [65102] = {
         rangeType = 0,
         id = 65102,
-        des2 = "对天空舰的根达亚原始飞弹系统进行专精升级，将飞弹数量提升到4个",
-        name = "飞弹专精I",
+        des2 = "Specialization upgrade increases the Sky Airship's Gondayer missile quantity to 4.",
+        name = "Specialized Missile I",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/6.png",
         ability = {
@@ -2315,11 +2315,11 @@ return {
     [66204] = {
         rangeType = 0,
         id = 66204,
-        des2 = "每次天空舰遭受攻击时，若发生偏斜，则挫败敌舰，提升本舰士气，防御提升10%，持续1回合（冷却时间2回合）",
-        name = "锋锐挫败",
+        des2 = "Whenever an attack against the Sky Airship is deflected, inspire the team and gain 10% DEF for 1 turn (CD: 2 turns)",
+        name = "Boost Morale",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/27.png",
         ability = {
@@ -2653,11 +2653,11 @@ return {
     [66206] = {
         rangeType = 0,
         id = 66206,
-        des2 = "每次天空舰遭受攻击时，若发生偏斜，则防御系统获得喘息时间，趁机恢复自身5%护盾值（冷却时间2回合）",
-        name = "再生装填",
+        des2 = "Whenever an attack against the Sky Airship is deflected, the defensive system gets the time to rest and restore the shield for 5% (CD: 2 turns)",
+        name = "Regenerative Loading",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/28.png",
         ability = {
@@ -2793,11 +2793,11 @@ return {
     [65104] = {
         rangeType = 0,
         id = 65104,
-        des2 = "以重金属合金重新打造飞弹，让每颗飞弹爆炸后造成溅射，有25%的几率造成我方火力值30%的额外伤害",
-        name = "弹片激射",
+        des2 = "Rebuild missiles with heavy metal alloys, causing each missile to deal splash damage after exploding. Has a 25% chance to deal extra damage equal to 30% of Firepower.",
+        name = "Missile Splash",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/7.png",
         ability = {
@@ -2919,11 +2919,11 @@ return {
     [66208] = {
         rangeType = 0,
         id = 66208,
-        des2 = "每次天空舰遭受攻击时，若发生偏斜，则有有20%几率将攻击反弹回敌舰，对敌舰造成自身最大护盾值10%的伤害。",
-        name = "逆光反弹",
+        des2 = "Whenever an attack against the Sky Airship is deflected, there is a 20% chance to reflect the attack back on the enemy and deal damage equal to 10% of your max shields.",
+        name = "Attack Reflect",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/29.png",
         ability = {
@@ -3161,11 +3161,11 @@ return {
     [66210] = {
         rangeType = 0,
         id = 66210,
-        des2 = "每次天空舰遭受攻击时，若发生偏斜，则能够将攻击转化为能量，提升自身速度10%，持续2回合（冷却时间4回合）",
-        name = "动力转换",
+        des2 = "Whenever an attack against the Sky Airship is deflected, convert such attack into energy to gain +10% Speed for 2 turns (CD: 4 turns)",
+        name = "Attack Convert",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/30.png",
         ability = {
@@ -3287,11 +3287,11 @@ return {
     [65106] = {
         rangeType = 0,
         id = 65106,
-        des2 = "对天空舰的根达亚原始飞弹系统进行专精升级，将飞弹数量提升到6个",
-        name = "飞弹专精II",
+        des2 = "Specialization upgrade increases the Sky Airship's Gondayer missile quantity to 6.",
+        name = "Specialized Missile II",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/8.png",
         ability = {
@@ -3805,11 +3805,11 @@ return {
     [65108] = {
         rangeType = 0,
         id = 65108,
-        des2 = "加入易燃粉尘，让每颗飞弹有20%概率造成：敌舰在每回合开始时受到我方火力值15%的燃烧伤害。可叠加3层，持续3回合",
-        name = "燃烧飞弹",
+        des2 = "Adds flammable powder that gives each missile a 20% chance to inflict: burning damage equal to 15% of Ally Firepower at the start of each turn. Stacks up to 3 times. Lasts 3 turns",
+        name = "Burning Missile 燃烧飞弹",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/9.png",
         ability = {
@@ -4096,11 +4096,11 @@ return {
     [65110] = {
         rangeType = 0,
         id = 65110,
-        des2 = "使用特制爆弹提升我舰士气，每颗飞弹造成伤害时，有20%的几率提升我方火力值20%，持续3回合，不可叠加",
-        name = "集中火力",
+        des2 = "Use special bombs to boost airship morale. When a missile deals damage, it has a 20% chance to increase Firepower by 20% for 3 turns. Cannot stack.",
+        name = "Concentrated Fire",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/10.png",
         ability = {
@@ -4440,7 +4440,7 @@ return {
     [1354] = {
         rangeType = 0,
         id = 1354,
-        des2 = "护甲+1566,总护甲+6%",
+        des2 = "Armor +1566, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -4456,7 +4456,7 @@ return {
     [3002] = {
         rangeType = 0,
         id = 3002,
-        des2 = "飞舰生命+0.83%",
+        des2 = "Airship HP +0.83%",
         name = "",
         rangePrams = {
         },
@@ -4471,7 +4471,7 @@ return {
     [3006] = {
         rangeType = 0,
         id = 3006,
-        des2 = "飞舰生命+2.50%",
+        des2 = "Airship HP +2.50%",
         name = "",
         rangePrams = {
         },
@@ -4486,7 +4486,7 @@ return {
     [3010] = {
         rangeType = 0,
         id = 3010,
-        des2 = "飞舰生命+4.17%",
+        des2 = "Airship HP +4.17%",
         name = "",
         rangePrams = {
         },
@@ -4501,7 +4501,7 @@ return {
     [3014] = {
         rangeType = 0,
         id = 3014,
-        des2 = "飞舰生命+5.83%",
+        des2 = "Airship HP +5.83%",
         name = "",
         rangePrams = {
         },
@@ -4516,7 +4516,7 @@ return {
     [1481] = {
         rangeType = 0,
         id = 1481,
-        des2 = "战斗速度+1510,总战斗速度+8%",
+        des2 = "Battle Speed +1510, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -4838,7 +4838,7 @@ return {
     [3102] = {
         rangeType = 0,
         id = 3102,
-        des2 = "飞舰火力+0.83%",
+        des2 = "Airship Firepower +0.83%",
         name = "",
         rangePrams = {
         },
@@ -4853,7 +4853,7 @@ return {
     [3106] = {
         rangeType = 0,
         id = 3106,
-        des2 = "飞舰火力+2.50%",
+        des2 = "Airship Firepower +2.50%",
         name = "",
         rangePrams = {
         },
@@ -4868,7 +4868,7 @@ return {
     [3110] = {
         rangeType = 0,
         id = 3110,
-        des2 = "飞舰火力+4.17%",
+        des2 = "Airship Firepower +4.17%",
         name = "",
         rangePrams = {
         },
@@ -4883,7 +4883,7 @@ return {
     [3114] = {
         rangeType = 0,
         id = 3114,
-        des2 = "飞舰火力+5.83%",
+        des2 = "Airship Firepower +5.83%",
         name = "",
         rangePrams = {
         },
@@ -5198,7 +5198,7 @@ return {
     [1321] = {
         rangeType = 0,
         id = 1321,
-        des2 = "护甲+420",
+        des2 = "Armor +420",
         name = "",
         rangePrams = {
         },
@@ -5229,7 +5229,7 @@ return {
     [3202] = {
         rangeType = 0,
         id = 3202,
-        des2 = "飞舰防御+0.83%",
+        des2 = "Airship DEF +0.83%",
         name = "",
         rangePrams = {
         },
@@ -5244,7 +5244,7 @@ return {
     [3206] = {
         rangeType = 0,
         id = 3206,
-        des2 = "飞舰防御+2.50%",
+        des2 = "Airship DEF +2.50%",
         name = "",
         rangePrams = {
         },
@@ -5259,7 +5259,7 @@ return {
     [3210] = {
         rangeType = 0,
         id = 3210,
-        des2 = "飞舰防御+4.17%",
+        des2 = "Airship DEF +4.17%",
         name = "",
         rangePrams = {
         },
@@ -5274,7 +5274,7 @@ return {
     [3214] = {
         rangeType = 0,
         id = 3214,
-        des2 = "飞舰防御+5.83%",
+        des2 = "Airship DEF +5.83%",
         name = "",
         rangePrams = {
         },
@@ -5603,7 +5603,7 @@ return {
     [3302] = {
         rangeType = 0,
         id = 3302,
-        des2 = "战斗速度+0.83%",
+        des2 = "Battle Speed +0.83%",
         name = "",
         rangePrams = {
         },
@@ -5618,7 +5618,7 @@ return {
     [3306] = {
         rangeType = 0,
         id = 3306,
-        des2 = "战斗速度+2.50%",
+        des2 = "Battle Speed +2.50%",
         name = "",
         rangePrams = {
         },
@@ -5633,7 +5633,7 @@ return {
     [3310] = {
         rangeType = 0,
         id = 3310,
-        des2 = "战斗速度+4.17%",
+        des2 = "Battle Speed +4.17%",
         name = "",
         rangePrams = {
         },
@@ -5648,7 +5648,7 @@ return {
     [3314] = {
         rangeType = 0,
         id = 3314,
-        des2 = "战斗速度+5.83%",
+        des2 = "Battle Speed +5.83%",
         name = "",
         rangePrams = {
         },
@@ -5987,7 +5987,7 @@ return {
     [3402] = {
         rangeType = 0,
         id = 3402,
-        des2 = "采集容量+0.83%",
+        des2 = "Collection Capacity +0.83%",
         name = "",
         rangePrams = {
         },
@@ -6001,7 +6001,7 @@ return {
     [3406] = {
         rangeType = 0,
         id = 3406,
-        des2 = "采集容量+2.50%",
+        des2 = "Collection Capacity +2.50%",
         name = "",
         rangePrams = {
         },
@@ -6015,7 +6015,7 @@ return {
     [3410] = {
         rangeType = 0,
         id = 3410,
-        des2 = "采集容量+4.17%",
+        des2 = "Collection Capacity +4.17%",
         name = "",
         rangePrams = {
         },
@@ -6101,7 +6101,7 @@ return {
     [1189] = {
         rangeType = 0,
         id = 1189,
-        des2 = "生命+16794,总生命+16%",
+        des2 = "HP +16794, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -6148,7 +6148,7 @@ return {
     [3414] = {
         rangeType = 0,
         id = 3414,
-        des2 = "采集容量+5.83%",
+        des2 = "Collection Capacity +5.83%",
         name = "",
         rangePrams = {
         },
@@ -6176,7 +6176,7 @@ return {
     [1482] = {
         rangeType = 0,
         id = 1482,
-        des2 = "战斗速度+1540,总战斗速度+8%",
+        des2 = "Battle Speed +1540, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -6270,11 +6270,11 @@ return {
     [66102] = {
         rangeType = 0,
         id = 66102,
-        des2 = "采用异度文明稀有晶石加固甲板外层，减少敌舰5%的主炮伤害。",
-        name = "守护铁壁",
+        des2 = "Fortify the hull with rare alien jewels to reduce enemy ship's cannon damage by 5%.",
+        name = "Guard wall",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/21.png",
         ability = {
@@ -6366,7 +6366,7 @@ return {
     [3502] = {
         rangeType = 0,
         id = 3502,
-        des2 = "全形态生命值提升68",
+        des2 = "All Forms HP +68",
         name = "",
         rangePrams = {
         },
@@ -6381,7 +6381,7 @@ return {
     [3506] = {
         rangeType = 6,
         id = 3506,
-        des2 = "强袭天赋下追踪飞弹触发几率提升0.23%",
+        des2 = "(Assault) Homing Missile Trigger Rate +0.23%",
         name = "",
         rangePrams = {
             shipType = {
@@ -6399,7 +6399,7 @@ return {
     [3510] = {
         rangeType = 0,
         id = 3510,
-        des2 = "全形态伤害提升3%",
+        des2 = "All Forms Damage +3%",
         name = "",
         rangePrams = {
         },
@@ -6414,7 +6414,7 @@ return {
     [3514] = {
         rangeType = 0,
         id = 3514,
-        des2 = "全形态穿透率提升1.6%",
+        des2 = "All Forms Pierce Rate +1.6%",
         name = "",
         rangePrams = {
         },
@@ -6429,7 +6429,7 @@ return {
     [3518] = {
         rangeType = 0,
         id = 3518,
-        des2 = "全形态火力值提升4%",
+        des2 = "All Forms Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -6444,7 +6444,7 @@ return {
     [3522] = {
         rangeType = 0,
         id = 3522,
-        des2 = "全形态生命值提升318",
+        des2 = "All Forms HP +318",
         name = "",
         rangePrams = {
         },
@@ -6459,7 +6459,7 @@ return {
     [3526] = {
         rangeType = 6,
         id = 3526,
-        des2 = "强袭天赋下追踪飞弹触发几率提升0.39%",
+        des2 = "(Assault) Homing Missile Trigger Rate +0.39%",
         name = "",
         rangePrams = {
             shipType = {
@@ -6477,7 +6477,7 @@ return {
     [3530] = {
         rangeType = 0,
         id = 3530,
-        des2 = "全形态伤害提升5%",
+        des2 = "All Forms Damage +5%",
         name = "",
         rangePrams = {
         },
@@ -6758,7 +6758,7 @@ return {
     [3602] = {
         rangeType = 0,
         id = 3602,
-        des2 = "全形态飞行速度提升3%",
+        des2 = "All Forms Fly Speed +3%",
         name = "",
         rangePrams = {
         },
@@ -6773,11 +6773,11 @@ return {
     [66104] = {
         rangeType = 0,
         id = 66104,
-        des2 = "采用异度文明稀有金属加固甲板外层，减少敌舰5%的导弹伤害。",
-        name = "防爆铁壁",
+        des2 = "Fortify the hull with rare alien metals to reduce enemy ship's guided missile damage by 5%.",
+        name = "Explosion-Proof Wall",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/22.png",
         ability = {
@@ -6789,7 +6789,7 @@ return {
     [3610] = {
         rangeType = 0,
         id = 3610,
-        des2 = "全形态火力值提升3%",
+        des2 = "All Forms Firepower +3%",
         name = "",
         rangePrams = {
         },
@@ -6804,7 +6804,7 @@ return {
     [3614] = {
         rangeType = 0,
         id = 3614,
-        des2 = "全形态偏斜率提升0.96%",
+        des2 = "All Forms Deflection Rate +0.96%",
         name = "",
         rangePrams = {
         },
@@ -6819,7 +6819,7 @@ return {
     [3618] = {
         rangeType = 0,
         id = 3618,
-        des2 = "全形态防御力提升2%",
+        des2 = "All Forms DEF +2%",
         name = "",
         rangePrams = {
         },
@@ -6834,7 +6834,7 @@ return {
     [3622] = {
         rangeType = 0,
         id = 3622,
-        des2 = "全形态飞行速度提升5%",
+        des2 = "All Forms Fly Speed +5%",
         name = "",
         rangePrams = {
         },
@@ -6849,7 +6849,7 @@ return {
     [3626] = {
         rangeType = 6,
         id = 3626,
-        des2 = "疾走形态触发偏斜时提高自身伤害5%",
+        des2 = "+5% damage when triggering a deflection in Haste form",
         name = "",
         rangePrams = {
             shipType = {
@@ -6868,7 +6868,7 @@ return {
     [3630] = {
         rangeType = 0,
         id = 3630,
-        des2 = "全形态火力值提升5%",
+        des2 = "All Forms Firepower +5%",
         name = "",
         rangePrams = {
         },
@@ -7134,7 +7134,7 @@ return {
     [67001] = {
         rangeType = 0,
         id = 67001,
-        des2 = "◆战斗中，飞舰主炮造成伤害时，有30%几率使敌人受到持续伤害。敌人每回合出手前受到我方火力值10%的伤害，同时战斗速度减少3%，持续3回合，该效果可叠加3层。",
+        des2 = "◆When the airship cannon deals damage in battle, there is a 30% chance to inflict damage over time to the enemy who will take damage equal to 10% of Ally Firepower before attacking in each turn and gets -3% Speed for 3 turns. Stacks up to 3 times.",
         name = "",
         rangePrams = {
         },
@@ -7150,7 +7150,7 @@ return {
     [3702] = {
         rangeType = 0,
         id = 3702,
-        des2 = "全形态生命值提升68",
+        des2 = "All Forms HP +68",
         name = "",
         rangePrams = {
         },
@@ -7165,7 +7165,7 @@ return {
     [3706] = {
         rangeType = 6,
         id = 3706,
-        des2 = "隐遁形态下强袭天赋材料掉落提升1.5%",
+        des2 = "+1.5% drop rate for Assault talent materials in Concealed form",
         name = "",
         rangePrams = {
             shipType = {
@@ -7185,7 +7185,7 @@ return {
     [3710] = {
         rangeType = 0,
         id = 3710,
-        des2 = "全形态免伤率提升1.5%",
+        des2 = "All Forms Damage Immunity +1.5%",
         name = "",
         rangePrams = {
         },
@@ -7200,7 +7200,7 @@ return {
     [3714] = {
         rangeType = 0,
         id = 3714,
-        des2 = "全形态战斗速度提升140",
+        des2 = "All Forms Battle Speed +140",
         name = "",
         rangePrams = {
         },
@@ -7215,7 +7215,7 @@ return {
     [3718] = {
         rangeType = 0,
         id = 3718,
-        des2 = "全形态火力值提升1.4%",
+        des2 = "All Forms Firepower +1.4%",
         name = "",
         rangePrams = {
         },
@@ -7230,7 +7230,7 @@ return {
     [3722] = {
         rangeType = 0,
         id = 3722,
-        des2 = "全形态生命值提升317",
+        des2 = "All Forms HP +317",
         name = "",
         rangePrams = {
         },
@@ -7245,7 +7245,7 @@ return {
     [3726] = {
         rangeType = 6,
         id = 3726,
-        des2 = "隐遁形态下强袭天赋材料掉落提升2.5%",
+        des2 = "+2.5% drop rate for Assault talent materials in Concealed form",
         name = "",
         rangePrams = {
             shipType = {
@@ -7265,7 +7265,7 @@ return {
     [3730] = {
         rangeType = 0,
         id = 3730,
-        des2 = "全形态免伤率提升2.5%",
+        des2 = "All Forms Damage Immunity +2.5%",
         name = "",
         rangePrams = {
         },
@@ -7280,11 +7280,11 @@ return {
     [66106] = {
         rangeType = 0,
         id = 66106,
-        des2 = "采用异度文明稀有涂料装饰甲板，减少敌舰5%的浮游炮伤害。",
-        name = "折光铁壁",
+        des2 = "Fortify the hull with rare alien paint to reduce enemy ship's Pillar damage by 5%.",
+        name = "Refracting Wall",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/23.png",
         ability = {
@@ -7391,7 +7391,7 @@ return {
     [67002] = {
         rangeType = 0,
         id = 67002,
-        des2 = "◆飞舰火力+200",
+        des2 = "◆Airship Firepower +200",
         name = "",
         rangePrams = {
         },
@@ -7539,7 +7539,7 @@ return {
     [3802] = {
         rangeType = 0,
         id = 3802,
-        des2 = "护盾值+1%",
+        des2 = "Shield +1%",
         name = "",
         rangePrams = {
         },
@@ -7554,7 +7554,7 @@ return {
     [3806] = {
         rangeType = 0,
         id = 3806,
-        des2 = "偏斜值+3%",
+        des2 = "Deflection Value +3%",
         name = "",
         rangePrams = {
         },
@@ -7569,7 +7569,7 @@ return {
     [3810] = {
         rangeType = 0,
         id = 3810,
-        des2 = "飞行速度+2%",
+        des2 = "Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -7584,7 +7584,7 @@ return {
     [3814] = {
         rangeType = 0,
         id = 3814,
-        des2 = "穿透率+2%",
+        des2 = "Pierce Rate +2%",
         name = "",
         rangePrams = {
         },
@@ -7630,7 +7630,7 @@ return {
     [67003] = {
         rangeType = 0,
         id = 67003,
-        des2 = "◆飞舰战斗速度+1%",
+        des2 = "◆Airship Battle Speed +1%",
         name = "",
         rangePrams = {
         },
@@ -7770,11 +7770,11 @@ return {
     [66108] = {
         rangeType = 0,
         id = 66108,
-        des2 = "以异界科技改造甲板外层，当受到伤害时，汲取爆炸能量，有20%几率提升火力值10%，持续3回合（冷却时间3回合）",
-        name = "释能汲取",
+        des2 = "Modify the hull with alien tech to absorb explosive energy. After receiving damage, has a 20% chance to grant +10% Firepower for 3 turns (CD: 3 turns)",
+        name = "Absorb Energy",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/24.png",
         ability = {
@@ -7881,7 +7881,7 @@ return {
     [67004] = {
         rangeType = 0,
         id = 67004,
-        des2 = "◆飞舰采集容量+50",
+        des2 = "◆Airship Collection Capacity +50",
         name = "",
         rangePrams = {
         },
@@ -8112,7 +8112,7 @@ return {
     [67005] = {
         rangeType = 0,
         id = 67005,
-        des2 = "◆飞舰战斗力+700",
+        des2 = "◆Airship BP +700",
         name = "",
         rangePrams = {
         },
@@ -8252,11 +8252,11 @@ return {
     [66110] = {
         rangeType = 0,
         id = 66110,
-        des2 = "天空舰储备生命力量，在自身濒死时涅槃，恢复20%的生命值，并提升50%的防御1回合（冷却时间20回合）",
-        name = "濒死涅槃",
+        des2 = "The Sky Airship stores life energy and revives upon death, recovering 20% of HP and increase DEF by 50% for 1 turn (CD: 20 turns)",
+        name = "Dying to Survive",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/25.png",
         ability = {
@@ -8395,7 +8395,7 @@ return {
     [3528] = {
         rangeType = 0,
         id = 3528,
-        des2 = "全形态火力值提升5%",
+        des2 = "All Forms Firepower +5%",
         name = "",
         rangePrams = {
         },
@@ -8749,7 +8749,7 @@ return {
     [3109] = {
         rangeType = 0,
         id = 3109,
-        des2 = "飞舰火力+3.75%",
+        des2 = "Airship Firepower +3.75%",
         name = "",
         rangePrams = {
         },
@@ -9237,7 +9237,7 @@ return {
     [1102] = {
         rangeType = 0,
         id = 1102,
-        des2 = "生命+614",
+        des2 = "HP +614",
         name = "",
         rangePrams = {
         },
@@ -9252,7 +9252,7 @@ return {
     [1104] = {
         rangeType = 0,
         id = 1104,
-        des2 = "生命+1024",
+        des2 = "HP +1024",
         name = "",
         rangePrams = {
         },
@@ -9267,7 +9267,7 @@ return {
     [1106] = {
         rangeType = 0,
         id = 1106,
-        des2 = "生命+1434",
+        des2 = "HP +1434",
         name = "",
         rangePrams = {
         },
@@ -9282,7 +9282,7 @@ return {
     [1108] = {
         rangeType = 0,
         id = 1108,
-        des2 = "生命+1843",
+        des2 = "HP +1843",
         name = "",
         rangePrams = {
         },
@@ -9297,7 +9297,7 @@ return {
     [1110] = {
         rangeType = 0,
         id = 1110,
-        des2 = "生命+2298,总生命+2%",
+        des2 = "HP +2,298, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -9313,7 +9313,7 @@ return {
     [1112] = {
         rangeType = 0,
         id = 1112,
-        des2 = "生命+2458,总生命+2%",
+        des2 = "HP +2458, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -9329,7 +9329,7 @@ return {
     [1114] = {
         rangeType = 0,
         id = 1114,
-        des2 = "生命+2867,总生命+2%",
+        des2 = "HP +2867, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -9345,7 +9345,7 @@ return {
     [1116] = {
         rangeType = 0,
         id = 1116,
-        des2 = "生命+3277,总生命+2%",
+        des2 = "HP +3277, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -9361,7 +9361,7 @@ return {
     [1118] = {
         rangeType = 0,
         id = 1118,
-        des2 = "生命+3686,总生命+2%",
+        des2 = "HP +3686, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -9377,7 +9377,7 @@ return {
     [1120] = {
         rangeType = 0,
         id = 1120,
-        des2 = "生命+4096,总生命+2%",
+        des2 = "HP +4096, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -9409,7 +9409,7 @@ return {
     [1124] = {
         rangeType = 0,
         id = 1124,
-        des2 = "生命+4710,总生命+4%",
+        des2 = "HP +4710, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -9425,7 +9425,7 @@ return {
     [1126] = {
         rangeType = 0,
         id = 1126,
-        des2 = "生命+5120,总生命+4%",
+        des2 = "HP +5120, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -9441,7 +9441,7 @@ return {
     [1128] = {
         rangeType = 0,
         id = 1128,
-        des2 = "生命+5530,总生命+4%",
+        des2 = "HP +5530, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -9472,7 +9472,7 @@ return {
     [1132] = {
         rangeType = 0,
         id = 1132,
-        des2 = "生命+6349,总生命+6%",
+        des2 = "HP +6349, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -9488,7 +9488,7 @@ return {
     [1134] = {
         rangeType = 0,
         id = 1134,
-        des2 = "生命+6554,总生命+6%",
+        des2 = "HP +6554, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -9504,7 +9504,7 @@ return {
     [1136] = {
         rangeType = 0,
         id = 1136,
-        des2 = "生命+6963,总生命+6%",
+        des2 = "HP +6963, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -9520,7 +9520,7 @@ return {
     [1138] = {
         rangeType = 0,
         id = 1138,
-        des2 = "生命+7373,总生命+6%",
+        des2 = "HP +7373, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -9536,7 +9536,7 @@ return {
     [1140] = {
         rangeType = 0,
         id = 1140,
-        des2 = "生命+7782,总生命+6%",
+        des2 = "HP +7782, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -9552,7 +9552,7 @@ return {
     [1142] = {
         rangeType = 0,
         id = 1142,
-        des2 = "生命+8192,总生命+6%",
+        des2 = "HP +8192, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -9583,7 +9583,7 @@ return {
     [1146] = {
         rangeType = 0,
         id = 1146,
-        des2 = "生命+8806,总生命+8%",
+        des2 = "HP +8806, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -9599,7 +9599,7 @@ return {
     [1148] = {
         rangeType = 0,
         id = 1148,
-        des2 = "生命+9216,总生命+8%",
+        des2 = "HP +9216, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -9615,7 +9615,7 @@ return {
     [1150] = {
         rangeType = 0,
         id = 1150,
-        des2 = "生命+9626,总生命+8%",
+        des2 = "HP +9626, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -9631,7 +9631,7 @@ return {
     [1152] = {
         rangeType = 0,
         id = 1152,
-        des2 = "生命+10035,总生命+8%",
+        des2 = "HP +10035, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -9647,7 +9647,7 @@ return {
     [1154] = {
         rangeType = 0,
         id = 1154,
-        des2 = "生命+10445,总生命+10%",
+        des2 = "HP +10445, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -9663,7 +9663,7 @@ return {
     [1156] = {
         rangeType = 0,
         id = 1156,
-        des2 = "生命+10650,总生命+10%",
+        des2 = "HP +10650, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -9679,7 +9679,7 @@ return {
     [1158] = {
         rangeType = 0,
         id = 1158,
-        des2 = "生命+11059,总生命+10%",
+        des2 = "HP +11059, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -9695,7 +9695,7 @@ return {
     [1160] = {
         rangeType = 0,
         id = 1160,
-        des2 = "生命+11469,总生命+10%",
+        des2 = "HP +11469, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -9711,7 +9711,7 @@ return {
     [1162] = {
         rangeType = 0,
         id = 1162,
-        des2 = "生命+11878,总生命+10%",
+        des2 = "HP +11878, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -9727,7 +9727,7 @@ return {
     [1164] = {
         rangeType = 0,
         id = 1164,
-        des2 = "生命+12288,总生命+10%",
+        des2 = "HP +12288, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -9759,7 +9759,7 @@ return {
     [1168] = {
         rangeType = 0,
         id = 1168,
-        des2 = "生命+12902,总生命+12%",
+        des2 = "HP +12902, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -9775,7 +9775,7 @@ return {
     [1170] = {
         rangeType = 0,
         id = 1170,
-        des2 = "生命+13312,总生命+12%",
+        des2 = "HP +13312, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -9791,7 +9791,7 @@ return {
     [1172] = {
         rangeType = 0,
         id = 1172,
-        des2 = "生命+13722,总生命+12%",
+        des2 = "HP +13722, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -9807,7 +9807,7 @@ return {
     [1174] = {
         rangeType = 0,
         id = 1174,
-        des2 = "生命+14131,总生命+12%",
+        des2 = "HP +14131, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -9823,7 +9823,7 @@ return {
     [1176] = {
         rangeType = 0,
         id = 1176,
-        des2 = "生命+14541,总生命+14%",
+        des2 = "HP +14541, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -9839,7 +9839,7 @@ return {
     [1178] = {
         rangeType = 0,
         id = 1178,
-        des2 = "生命+14746,总生命+14%",
+        des2 = "HP +14746, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -9855,7 +9855,7 @@ return {
     [1180] = {
         rangeType = 0,
         id = 1180,
-        des2 = "生命+15155,总生命+14%",
+        des2 = "HP +15155, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -9871,7 +9871,7 @@ return {
     [1182] = {
         rangeType = 0,
         id = 1182,
-        des2 = "生命+15565,总生命+14%",
+        des2 = "HP +15565, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -9887,7 +9887,7 @@ return {
     [1184] = {
         rangeType = 0,
         id = 1184,
-        des2 = "生命+15974,总生命+14%",
+        des2 = "HP +15974, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -9903,7 +9903,7 @@ return {
     [1186] = {
         rangeType = 0,
         id = 1186,
-        des2 = "生命+16384,总生命+14%",
+        des2 = "HP +16384, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -9935,7 +9935,7 @@ return {
     [1190] = {
         rangeType = 0,
         id = 1190,
-        des2 = "生命+16998,总生命+16%",
+        des2 = "HP +16998, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -9951,7 +9951,7 @@ return {
     [1192] = {
         rangeType = 0,
         id = 1192,
-        des2 = "生命+17408,总生命+16%",
+        des2 = "HP +17408, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -9982,7 +9982,7 @@ return {
     [1196] = {
         rangeType = 0,
         id = 1196,
-        des2 = "生命+18227,总生命+16%",
+        des2 = "HP +18227, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -9998,7 +9998,7 @@ return {
     [1198] = {
         rangeType = 0,
         id = 1198,
-        des2 = "生命+18637,总生命+18%",
+        des2 = "HP +18637, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -10014,7 +10014,7 @@ return {
     [1200] = {
         rangeType = 0,
         id = 1200,
-        des2 = "生命+18842,总生命+18%",
+        des2 = "HP +18842, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -10030,7 +10030,7 @@ return {
     [1202] = {
         rangeType = 0,
         id = 1202,
-        des2 = "生命+19251,总生命+18%",
+        des2 = "HP +19251, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -10046,7 +10046,7 @@ return {
     [1204] = {
         rangeType = 0,
         id = 1204,
-        des2 = "生命+19661,总生命+18%",
+        des2 = "HP +19661, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -10062,7 +10062,7 @@ return {
     [1206] = {
         rangeType = 0,
         id = 1206,
-        des2 = "生命+20070,总生命+18%",
+        des2 = "HP +20070, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -10078,7 +10078,7 @@ return {
     [1208] = {
         rangeType = 0,
         id = 1208,
-        des2 = "生命+20480,总生命+18%",
+        des2 = "HP +20480, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -10110,7 +10110,7 @@ return {
     [1212] = {
         rangeType = 0,
         id = 1212,
-        des2 = "火力+251",
+        des2 = "Firepower +251",
         name = "",
         rangePrams = {
         },
@@ -10125,7 +10125,7 @@ return {
     [1214] = {
         rangeType = 0,
         id = 1214,
-        des2 = "火力+386",
+        des2 = "Firepower +386",
         name = "",
         rangePrams = {
         },
@@ -10140,7 +10140,7 @@ return {
     [1216] = {
         rangeType = 0,
         id = 1216,
-        des2 = "火力+521",
+        des2 = "Firepower +521",
         name = "",
         rangePrams = {
         },
@@ -10155,7 +10155,7 @@ return {
     [1218] = {
         rangeType = 0,
         id = 1218,
-        des2 = "火力+656",
+        des2 = "Firepower +656",
         name = "",
         rangePrams = {
         },
@@ -10170,7 +10170,7 @@ return {
     [1220] = {
         rangeType = 0,
         id = 1220,
-        des2 = "火力+791,总火力+2%",
+        des2 = "Firepower +791, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -10186,7 +10186,7 @@ return {
     [1222] = {
         rangeType = 0,
         id = 1222,
-        des2 = "火力+859,总火力+2%",
+        des2 = "Firepower +859, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -10202,7 +10202,7 @@ return {
     [1224] = {
         rangeType = 0,
         id = 1224,
-        des2 = "火力+994,总火力+2%",
+        des2 = "Firepower +994, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -10233,7 +10233,7 @@ return {
     [1228] = {
         rangeType = 0,
         id = 1228,
-        des2 = "火力+1264,总火力+2%",
+        des2 = "Firepower +1264, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -10249,7 +10249,7 @@ return {
     [1230] = {
         rangeType = 0,
         id = 1230,
-        des2 = "火力+1399,总火力+2%",
+        des2 = "Firepower +1399, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -10265,7 +10265,7 @@ return {
     [1545] = {
         rangeType = 0,
         id = 1545,
-        des2 = "采集容量+650",
+        des2 = "Collection Capacity +650",
         name = "",
         rangePrams = {
         },
@@ -10280,7 +10280,7 @@ return {
     [1234] = {
         rangeType = 0,
         id = 1234,
-        des2 = "火力+1602,总火力+4%",
+        des2 = "Firepower +1602, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -10296,7 +10296,7 @@ return {
     [1236] = {
         rangeType = 0,
         id = 1236,
-        des2 = "火力+1737,总火力+4%",
+        des2 = "Firepower +1737, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -10312,7 +10312,7 @@ return {
     [1238] = {
         rangeType = 0,
         id = 1238,
-        des2 = "火力+1872,总火力+4%",
+        des2 = "Firepower +1872, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -10328,7 +10328,7 @@ return {
     [1240] = {
         rangeType = 0,
         id = 1240,
-        des2 = "火力+2007,总火力+4%",
+        des2 = "Firepower +2007, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -10344,7 +10344,7 @@ return {
     [1242] = {
         rangeType = 0,
         id = 1242,
-        des2 = "火力+2142,总火力+6%",
+        des2 = "Firepower +2142, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -10360,7 +10360,7 @@ return {
     [1244] = {
         rangeType = 0,
         id = 1244,
-        des2 = "火力+2210,总火力+6%",
+        des2 = "Firepower +2210, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -10376,7 +10376,7 @@ return {
     [1246] = {
         rangeType = 0,
         id = 1246,
-        des2 = "火力+2345,总火力+6%",
+        des2 = "Firepower +2345, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -10392,7 +10392,7 @@ return {
     [1248] = {
         rangeType = 0,
         id = 1248,
-        des2 = "火力+2480,总火力+6%",
+        des2 = "Firepower +2480, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -10408,7 +10408,7 @@ return {
     [1250] = {
         rangeType = 0,
         id = 1250,
-        des2 = "火力+2615,总火力+6%",
+        des2 = "Firepower +2615, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -10424,7 +10424,7 @@ return {
     [1252] = {
         rangeType = 0,
         id = 1252,
-        des2 = "火力+2750,总火力+6%",
+        des2 = "Firepower +2750, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -10456,7 +10456,7 @@ return {
     [1256] = {
         rangeType = 0,
         id = 1256,
-        des2 = "火力+2953,总火力+8%",
+        des2 = "Firepower +2953, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -10487,7 +10487,7 @@ return {
     [1260] = {
         rangeType = 0,
         id = 1260,
-        des2 = "火力+3223,总火力+8%",
+        des2 = "Firepower +3223, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -10503,7 +10503,7 @@ return {
     [1262] = {
         rangeType = 0,
         id = 1262,
-        des2 = "火力+3358,总火力+8%",
+        des2 = "Firepower +3358, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -10519,7 +10519,7 @@ return {
     [1264] = {
         rangeType = 0,
         id = 1264,
-        des2 = "火力+3493,总火力+10%",
+        des2 = "Firepower +3493, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -10535,7 +10535,7 @@ return {
     [1266] = {
         rangeType = 0,
         id = 1266,
-        des2 = "火力+3561,总火力+10%",
+        des2 = "Firepower +3561, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -10551,7 +10551,7 @@ return {
     [1268] = {
         rangeType = 0,
         id = 1268,
-        des2 = "火力+3696,总火力+10%",
+        des2 = "Firepower +3696, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -10567,7 +10567,7 @@ return {
     [1270] = {
         rangeType = 0,
         id = 1270,
-        des2 = "火力+3831,总火力+10%",
+        des2 = "Firepower +3831, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -10583,7 +10583,7 @@ return {
     [1272] = {
         rangeType = 0,
         id = 1272,
-        des2 = "火力+3966,总火力+10%",
+        des2 = "Firepower +3966, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -10599,7 +10599,7 @@ return {
     [1274] = {
         rangeType = 0,
         id = 1274,
-        des2 = "火力+4101,总火力+10%",
+        des2 = "Firepower +4101, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -10631,7 +10631,7 @@ return {
     [1278] = {
         rangeType = 0,
         id = 1278,
-        des2 = "火力+4304,总火力+12%",
+        des2 = "Firepower +4304, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -10647,7 +10647,7 @@ return {
     [1280] = {
         rangeType = 0,
         id = 1280,
-        des2 = "火力+4439,总火力+12%",
+        des2 = "Firepower +4439, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -10663,7 +10663,7 @@ return {
     [1282] = {
         rangeType = 0,
         id = 1282,
-        des2 = "火力+4574,总火力+12%",
+        des2 = "Firepower +4574, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -10679,7 +10679,7 @@ return {
     [1284] = {
         rangeType = 0,
         id = 1284,
-        des2 = "火力+4709,总火力+12%",
+        des2 = "Firepower +4709, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -10695,7 +10695,7 @@ return {
     [1286] = {
         rangeType = 0,
         id = 1286,
-        des2 = "火力+4844,总火力+14%",
+        des2 = "Firepower +4844, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -10711,7 +10711,7 @@ return {
     [1288] = {
         rangeType = 0,
         id = 1288,
-        des2 = "火力+4912,总火力+14%",
+        des2 = "Firepower +4912, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -10742,7 +10742,7 @@ return {
     [1292] = {
         rangeType = 0,
         id = 1292,
-        des2 = "火力+5182,总火力+14%",
+        des2 = "Firepower +5182, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -10758,7 +10758,7 @@ return {
     [1294] = {
         rangeType = 0,
         id = 1294,
-        des2 = "火力+5317,总火力+14%",
+        des2 = "Firepower +5317, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -10774,7 +10774,7 @@ return {
     [1296] = {
         rangeType = 0,
         id = 1296,
-        des2 = "火力+5452,总火力+14%",
+        des2 = "Firepower +5452, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -10806,7 +10806,7 @@ return {
     [1300] = {
         rangeType = 0,
         id = 1300,
-        des2 = "火力+5655,总火力+16%",
+        des2 = "Firepower +5655, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -10822,7 +10822,7 @@ return {
     [1302] = {
         rangeType = 0,
         id = 1302,
-        des2 = "火力+5790,总火力+16%",
+        des2 = "Firepower +5790, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -10838,7 +10838,7 @@ return {
     [1304] = {
         rangeType = 0,
         id = 1304,
-        des2 = "火力+5925,总火力+16%",
+        des2 = "Firepower +5925, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -10854,7 +10854,7 @@ return {
     [1306] = {
         rangeType = 0,
         id = 1306,
-        des2 = "火力+6060,总火力+16%",
+        des2 = "Firepower +6060, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -10870,7 +10870,7 @@ return {
     [1308] = {
         rangeType = 0,
         id = 1308,
-        des2 = "火力+6195,总火力+18%",
+        des2 = "Firepower +6195, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -10886,7 +10886,7 @@ return {
     [1310] = {
         rangeType = 0,
         id = 1310,
-        des2 = "火力+6263,总火力+18%",
+        des2 = "Firepower +6263, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -10902,7 +10902,7 @@ return {
     [1312] = {
         rangeType = 0,
         id = 1312,
-        des2 = "火力+6398,总火力+18%",
+        des2 = "Firepower +6398, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -10918,7 +10918,7 @@ return {
     [1314] = {
         rangeType = 0,
         id = 1314,
-        des2 = "火力+6533,总火力+18%",
+        des2 = "Firepower +6533, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -10934,7 +10934,7 @@ return {
     [1316] = {
         rangeType = 0,
         id = 1316,
-        des2 = "火力+6668,总火力+18%",
+        des2 = "Firepower +6668, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -10950,7 +10950,7 @@ return {
     [1318] = {
         rangeType = 0,
         id = 1318,
-        des2 = "火力+6803,总火力+18%",
+        des2 = "Firepower +6803, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -10998,7 +10998,7 @@ return {
     [1324] = {
         rangeType = 0,
         id = 1324,
-        des2 = "护甲+535",
+        des2 = "Armor +535",
         name = "",
         rangePrams = {
         },
@@ -11013,7 +11013,7 @@ return {
     [1326] = {
         rangeType = 0,
         id = 1326,
-        des2 = "护甲+611",
+        des2 = "Armor +611",
         name = "",
         rangePrams = {
         },
@@ -11028,7 +11028,7 @@ return {
     [1328] = {
         rangeType = 0,
         id = 1328,
-        des2 = "护甲+688",
+        des2 = "Armor +688",
         name = "",
         rangePrams = {
         },
@@ -11043,7 +11043,7 @@ return {
     [1330] = {
         rangeType = 0,
         id = 1330,
-        des2 = "护甲+764,总护甲+2%",
+        des2 = "Armor +764, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -11059,7 +11059,7 @@ return {
     [1332] = {
         rangeType = 0,
         id = 1332,
-        des2 = "护甲+802,总护甲+2%",
+        des2 = "Armor +802, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -11075,7 +11075,7 @@ return {
     [1334] = {
         rangeType = 0,
         id = 1334,
-        des2 = "护甲+879,总护甲+2%",
+        des2 = "Armor +879, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -11091,7 +11091,7 @@ return {
     [1336] = {
         rangeType = 0,
         id = 1336,
-        des2 = "护甲+955,总护甲+2%",
+        des2 = "Armor +955, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -11107,7 +11107,7 @@ return {
     [1338] = {
         rangeType = 0,
         id = 1338,
-        des2 = "护甲+1031,总护甲+2%",
+        des2 = "Armor +1031, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -11123,7 +11123,7 @@ return {
     [1340] = {
         rangeType = 0,
         id = 1340,
-        des2 = "护甲+1108,总护甲+2%",
+        des2 = "Armor +1108, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -11155,7 +11155,7 @@ return {
     [1344] = {
         rangeType = 0,
         id = 1344,
-        des2 = "护甲+1222,总护甲+4%",
+        des2 = "Armor +1222, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -11171,7 +11171,7 @@ return {
     [1346] = {
         rangeType = 0,
         id = 1346,
-        des2 = "护甲+1299,总护甲+4%",
+        des2 = "Armor +1299, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -11187,7 +11187,7 @@ return {
     [1348] = {
         rangeType = 0,
         id = 1348,
-        des2 = "护甲+1375,总护甲+4%",
+        des2 = "Armor +1375, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -11203,7 +11203,7 @@ return {
     [1350] = {
         rangeType = 0,
         id = 1350,
-        des2 = "护甲+1452,总护甲+4%",
+        des2 = "Armor +1452, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -11219,7 +11219,7 @@ return {
     [1352] = {
         rangeType = 0,
         id = 1352,
-        des2 = "护甲+1528,总护甲+6%",
+        des2 = "Armor +1528, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -11250,7 +11250,7 @@ return {
     [1356] = {
         rangeType = 0,
         id = 1356,
-        des2 = "护甲+1643,总护甲+6%",
+        des2 = "Armor +1643, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -11266,7 +11266,7 @@ return {
     [1358] = {
         rangeType = 0,
         id = 1358,
-        des2 = "护甲+1719,总护甲+6%",
+        des2 = "Armor +1719, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -11282,7 +11282,7 @@ return {
     [1360] = {
         rangeType = 0,
         id = 1360,
-        des2 = "护甲+1795,总护甲+6%",
+        des2 = "Armor +1795, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -11298,7 +11298,7 @@ return {
     [1362] = {
         rangeType = 0,
         id = 1362,
-        des2 = "护甲+1872,总护甲+6%",
+        des2 = "Armor +1872, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -11327,7 +11327,7 @@ return {
     [1366] = {
         rangeType = 0,
         id = 1366,
-        des2 = "护甲+1986,总护甲+8%",
+        des2 = "Armor +1986, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -11343,7 +11343,7 @@ return {
     [1368] = {
         rangeType = 0,
         id = 1368,
-        des2 = "护甲+2063,总护甲+8%",
+        des2 = "Armor +2063, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -11359,7 +11359,7 @@ return {
     [1370] = {
         rangeType = 0,
         id = 1370,
-        des2 = "护甲+2139,总护甲+8%",
+        des2 = "Armor +2139, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -11375,7 +11375,7 @@ return {
     [1372] = {
         rangeType = 0,
         id = 1372,
-        des2 = "护甲+2216,总护甲+8%",
+        des2 = "Armor +2216, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -11391,7 +11391,7 @@ return {
     [1374] = {
         rangeType = 0,
         id = 1374,
-        des2 = "护甲+2292,总护甲+10%",
+        des2 = "Armor +2292, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -11407,7 +11407,7 @@ return {
     [1376] = {
         rangeType = 0,
         id = 1376,
-        des2 = "护甲+2330,总护甲+10%",
+        des2 = "Armor +2330, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -11423,7 +11423,7 @@ return {
     [1378] = {
         rangeType = 0,
         id = 1378,
-        des2 = "护甲+2407,总护甲+10%",
+        des2 = "Armor +2407, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -11439,7 +11439,7 @@ return {
     [1380] = {
         rangeType = 0,
         id = 1380,
-        des2 = "护甲+2483,总护甲+10%",
+        des2 = "Armor +2483, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -11455,7 +11455,7 @@ return {
     [1382] = {
         rangeType = 0,
         id = 1382,
-        des2 = "护甲+2559,总护甲+10%",
+        des2 = "Armor +2559, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -11471,7 +11471,7 @@ return {
     [1384] = {
         rangeType = 0,
         id = 1384,
-        des2 = "护甲+2636,总护甲+10%",
+        des2 = "Armor +2636, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -11502,7 +11502,7 @@ return {
     [1388] = {
         rangeType = 0,
         id = 1388,
-        des2 = "护甲+2750,总护甲+12%",
+        des2 = "Armor +2750, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -11518,7 +11518,7 @@ return {
     [1390] = {
         rangeType = 0,
         id = 1390,
-        des2 = "护甲+2827,总护甲+12%",
+        des2 = "Armor +2827, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -11534,7 +11534,7 @@ return {
     [1392] = {
         rangeType = 0,
         id = 1392,
-        des2 = "护甲+2903,总护甲+12%",
+        des2 = "Armor +2903, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -11550,7 +11550,7 @@ return {
     [1394] = {
         rangeType = 0,
         id = 1394,
-        des2 = "护甲+2980,总护甲+12%",
+        des2 = "Armor +2980, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -11566,7 +11566,7 @@ return {
     [1396] = {
         rangeType = 0,
         id = 1396,
-        des2 = "护甲+3056,总护甲+14%",
+        des2 = "Armor +3056, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -11582,7 +11582,7 @@ return {
     [1398] = {
         rangeType = 0,
         id = 1398,
-        des2 = "护甲+3094,总护甲+14%",
+        des2 = "Armor +3094, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -11598,7 +11598,7 @@ return {
     [1400] = {
         rangeType = 0,
         id = 1400,
-        des2 = "护甲+3171,总护甲+14%",
+        des2 = "Armor +3171, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -11614,7 +11614,7 @@ return {
     [1402] = {
         rangeType = 0,
         id = 1402,
-        des2 = "护甲+3247,总护甲+14%",
+        des2 = "Armor +3247, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -11630,7 +11630,7 @@ return {
     [1404] = {
         rangeType = 0,
         id = 1404,
-        des2 = "护甲+3323,总护甲+14%",
+        des2 = "Armor +3323, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -11646,7 +11646,7 @@ return {
     [1406] = {
         rangeType = 0,
         id = 1406,
-        des2 = "护甲+3400,总护甲+14%",
+        des2 = "Armor +3400, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -11678,7 +11678,7 @@ return {
     [1410] = {
         rangeType = 0,
         id = 1410,
-        des2 = "护甲+3514,总护甲+16%",
+        des2 = "Armor +3514, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -11694,7 +11694,7 @@ return {
     [1412] = {
         rangeType = 0,
         id = 1412,
-        des2 = "护甲+3591,总护甲+16%",
+        des2 = "Armor +3591, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -11710,7 +11710,7 @@ return {
     [1414] = {
         rangeType = 0,
         id = 1414,
-        des2 = "护甲+3667,总护甲+16%",
+        des2 = "Armor +3667, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -11726,7 +11726,7 @@ return {
     [1416] = {
         rangeType = 0,
         id = 1416,
-        des2 = "护甲+3744,总护甲+16%",
+        des2 = "Armor +3744, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -11757,7 +11757,7 @@ return {
     [1420] = {
         rangeType = 0,
         id = 1420,
-        des2 = "护甲+3858,总护甲+18%",
+        des2 = "Armor +3858, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -11773,7 +11773,7 @@ return {
     [1422] = {
         rangeType = 0,
         id = 1422,
-        des2 = "护甲+3935,总护甲+18%",
+        des2 = "Armor +3935, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -11789,7 +11789,7 @@ return {
     [1424] = {
         rangeType = 0,
         id = 1424,
-        des2 = "护甲+4011,总护甲+18%",
+        des2 = "Armor +4011, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -11805,7 +11805,7 @@ return {
     [1426] = {
         rangeType = 0,
         id = 1426,
-        des2 = "护甲+4087,总护甲+18%",
+        des2 = "Armor +4087, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -11821,7 +11821,7 @@ return {
     [1428] = {
         rangeType = 0,
         id = 1428,
-        des2 = "护甲+4164,总护甲+18%",
+        des2 = "Armor +4164, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -11837,7 +11837,7 @@ return {
     [3209] = {
         rangeType = 0,
         id = 3209,
-        des2 = "飞舰防御+3.75%",
+        des2 = "Airship DEF +3.75%",
         name = "",
         rangePrams = {
         },
@@ -11852,7 +11852,7 @@ return {
     [1432] = {
         rangeType = 0,
         id = 1432,
-        des2 = "战斗速度+160",
+        des2 = "Battle Speed +160",
         name = "",
         rangePrams = {
         },
@@ -11867,7 +11867,7 @@ return {
     [1434] = {
         rangeType = 0,
         id = 1434,
-        des2 = "战斗速度+220",
+        des2 = "Battle Speed +220",
         name = "",
         rangePrams = {
         },
@@ -11898,7 +11898,7 @@ return {
     [1438] = {
         rangeType = 0,
         id = 1438,
-        des2 = "战斗速度+340",
+        des2 = "Battle Speed +340",
         name = "",
         rangePrams = {
         },
@@ -11913,7 +11913,7 @@ return {
     [1440] = {
         rangeType = 0,
         id = 1440,
-        des2 = "战斗速度+400,总战斗速度+2%",
+        des2 = "Battle Speed +400, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -11929,7 +11929,7 @@ return {
     [1442] = {
         rangeType = 0,
         id = 1442,
-        des2 = "战斗速度+430,总战斗速度+2%",
+        des2 = "Battle Speed +430, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -11945,7 +11945,7 @@ return {
     [1444] = {
         rangeType = 0,
         id = 1444,
-        des2 = "战斗速度+490,总战斗速度+2%",
+        des2 = "Battle Speed +490, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -11961,7 +11961,7 @@ return {
     [1446] = {
         rangeType = 0,
         id = 1446,
-        des2 = "战斗速度+550,总战斗速度+2%",
+        des2 = "Battle Speed +550, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -11977,7 +11977,7 @@ return {
     [1448] = {
         rangeType = 0,
         id = 1448,
-        des2 = "战斗速度+610,总战斗速度+2%",
+        des2 = "Battle Speed +610, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -12008,7 +12008,7 @@ return {
     [3205] = {
         rangeType = 0,
         id = 3205,
-        des2 = "飞舰防御+2.08%",
+        des2 = "Airship DEF +2.08%",
         name = "",
         rangePrams = {
         },
@@ -12023,7 +12023,7 @@ return {
     [1454] = {
         rangeType = 0,
         id = 1454,
-        des2 = "战斗速度+760,总战斗速度+4%",
+        des2 = "Battle Speed +760, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -12039,7 +12039,7 @@ return {
     [1456] = {
         rangeType = 0,
         id = 1456,
-        des2 = "战斗速度+820,总战斗速度+4%",
+        des2 = "Battle Speed +820, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -12055,7 +12055,7 @@ return {
     [1458] = {
         rangeType = 0,
         id = 1458,
-        des2 = "战斗速度+880,总战斗速度+4%",
+        des2 = "Battle Speed +880, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -12071,7 +12071,7 @@ return {
     [1460] = {
         rangeType = 0,
         id = 1460,
-        des2 = "战斗速度+940,总战斗速度+4%",
+        des2 = "Battle Speed +940, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -12087,7 +12087,7 @@ return {
     [1462] = {
         rangeType = 0,
         id = 1462,
-        des2 = "战斗速度+1000,总战斗速度+6%",
+        des2 = "Battle Speed +1000, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -12103,7 +12103,7 @@ return {
     [1464] = {
         rangeType = 0,
         id = 1464,
-        des2 = "战斗速度+1030,总战斗速度+6%",
+        des2 = "Battle Speed +1030, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -12119,7 +12119,7 @@ return {
     [1466] = {
         rangeType = 0,
         id = 1466,
-        des2 = "战斗速度+1090,总战斗速度+6%",
+        des2 = "Battle Speed +1090, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -12135,7 +12135,7 @@ return {
     [1468] = {
         rangeType = 0,
         id = 1468,
-        des2 = "战斗速度+1150,总战斗速度+6%",
+        des2 = "Battle Speed +1150, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -12151,7 +12151,7 @@ return {
     [1470] = {
         rangeType = 0,
         id = 1470,
-        des2 = "战斗速度+1210,总战斗速度+6%",
+        des2 = "Battle Speed +1210, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -12167,7 +12167,7 @@ return {
     [1472] = {
         rangeType = 0,
         id = 1472,
-        des2 = "战斗速度+1270,总战斗速度+6%",
+        des2 = "Battle Speed +1270, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -12199,7 +12199,7 @@ return {
     [1476] = {
         rangeType = 0,
         id = 1476,
-        des2 = "战斗速度+1360,总战斗速度+8%",
+        des2 = "Battle Speed +1360, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -12215,7 +12215,7 @@ return {
     [1478] = {
         rangeType = 0,
         id = 1478,
-        des2 = "战斗速度+1420,总战斗速度+8%",
+        des2 = "Battle Speed +1420, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -12231,7 +12231,7 @@ return {
     [1480] = {
         rangeType = 0,
         id = 1480,
-        des2 = "战斗速度+1480,总战斗速度+8%",
+        des2 = "Battle Speed +1480, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -12262,7 +12262,7 @@ return {
     [1484] = {
         rangeType = 0,
         id = 1484,
-        des2 = "战斗速度+1600,总战斗速度+10%",
+        des2 = "Battle Speed +1600, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -12278,7 +12278,7 @@ return {
     [1486] = {
         rangeType = 0,
         id = 1486,
-        des2 = "战斗速度+1630,总战斗速度+10%",
+        des2 = "Battle Speed +1630, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -12294,7 +12294,7 @@ return {
     [1488] = {
         rangeType = 0,
         id = 1488,
-        des2 = "战斗速度+1690,总战斗速度+10%",
+        des2 = "Battle Speed +1690, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -12310,7 +12310,7 @@ return {
     [1490] = {
         rangeType = 0,
         id = 1490,
-        des2 = "战斗速度+1750,总战斗速度+10%",
+        des2 = "Battle Speed +1750, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -12326,7 +12326,7 @@ return {
     [1492] = {
         rangeType = 0,
         id = 1492,
-        des2 = "战斗速度+1810,总战斗速度+10%",
+        des2 = "Battle Speed +1810, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -12342,7 +12342,7 @@ return {
     [1494] = {
         rangeType = 0,
         id = 1494,
-        des2 = "战斗速度+1870,总战斗速度+10%",
+        des2 = "Battle Speed +1870, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -12373,7 +12373,7 @@ return {
     [1498] = {
         rangeType = 0,
         id = 1498,
-        des2 = "战斗速度+1960,总战斗速度+12%",
+        des2 = "Battle Speed +1960, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -12405,7 +12405,7 @@ return {
     [3003] = {
         rangeType = 0,
         id = 3003,
-        des2 = "飞舰生命+1.25%",
+        des2 = "Airship HP +1.25%",
         name = "",
         rangePrams = {
         },
@@ -12420,7 +12420,7 @@ return {
     [3007] = {
         rangeType = 0,
         id = 3007,
-        des2 = "飞舰生命+2.92%",
+        des2 = "Airship HP +2.92%",
         name = "",
         rangePrams = {
         },
@@ -12435,7 +12435,7 @@ return {
     [3011] = {
         rangeType = 0,
         id = 3011,
-        des2 = "飞舰生命+4.58%",
+        des2 = "Airship HP +4.58%",
         name = "",
         rangePrams = {
         },
@@ -12450,7 +12450,7 @@ return {
     [3015] = {
         rangeType = 0,
         id = 3015,
-        des2 = "飞舰生命+6.25%",
+        des2 = "Airship HP +6.25%",
         name = "",
         rangePrams = {
         },
@@ -12465,7 +12465,7 @@ return {
     [1510] = {
         rangeType = 0,
         id = 1510,
-        des2 = "战斗速度+2290,总战斗速度+14%",
+        des2 = "Battle Speed +2290, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -12481,7 +12481,7 @@ return {
     [1512] = {
         rangeType = 0,
         id = 1512,
-        des2 = "战斗速度+2350,总战斗速度+14%",
+        des2 = "Battle Speed +2350, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -12512,7 +12512,7 @@ return {
     [1516] = {
         rangeType = 0,
         id = 1516,
-        des2 = "战斗速度+2470,总战斗速度+14%",
+        des2 = "Battle Speed +2470, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -12528,7 +12528,7 @@ return {
     [3201] = {
         rangeType = 0,
         id = 3201,
-        des2 = "飞舰防御+0.42%",
+        des2 = "Airship DEF +0.42%",
         name = "",
         rangePrams = {
         },
@@ -12543,7 +12543,7 @@ return {
     [1520] = {
         rangeType = 0,
         id = 1520,
-        des2 = "战斗速度+2560,总战斗速度+16%",
+        des2 = "Battle Speed +2560, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -12575,7 +12575,7 @@ return {
     [1524] = {
         rangeType = 0,
         id = 1524,
-        des2 = "战斗速度+2680,总战斗速度+16%",
+        des2 = "Battle Speed +2680, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -12591,7 +12591,7 @@ return {
     [1526] = {
         rangeType = 0,
         id = 1526,
-        des2 = "战斗速度+2740,总战斗速度+16%",
+        des2 = "Battle Speed +2740, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -12607,7 +12607,7 @@ return {
     [1528] = {
         rangeType = 0,
         id = 1528,
-        des2 = "战斗速度+2800,总战斗速度+18%",
+        des2 = "Battle Speed +2800, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -12623,7 +12623,7 @@ return {
     [1530] = {
         rangeType = 0,
         id = 1530,
-        des2 = "战斗速度+2830,总战斗速度+18%",
+        des2 = "Battle Speed +2830, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -12639,7 +12639,7 @@ return {
     [1532] = {
         rangeType = 0,
         id = 1532,
-        des2 = "战斗速度+2890,总战斗速度+18%",
+        des2 = "Battle Speed +2890, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -12655,7 +12655,7 @@ return {
     [1534] = {
         rangeType = 0,
         id = 1534,
-        des2 = "战斗速度+2950,总战斗速度+18%",
+        des2 = "Battle Speed +2950, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -12671,7 +12671,7 @@ return {
     [1536] = {
         rangeType = 0,
         id = 1536,
-        des2 = "战斗速度+3010,总战斗速度+18%",
+        des2 = "Battle Speed +3010, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -12687,7 +12687,7 @@ return {
     [1538] = {
         rangeType = 0,
         id = 1538,
-        des2 = "战斗速度+3070,总战斗速度+18%",
+        des2 = "Battle Speed +3070, Total Battle Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -12719,7 +12719,7 @@ return {
     [1542] = {
         rangeType = 0,
         id = 1542,
-        des2 = "采集容量+560",
+        des2 = "Collection Capacity +560",
         name = "",
         rangePrams = {
         },
@@ -12734,7 +12734,7 @@ return {
     [1544] = {
         rangeType = 0,
         id = 1544,
-        des2 = "采集容量+620",
+        des2 = "Collection Capacity +620",
         name = "",
         rangePrams = {
         },
@@ -12764,7 +12764,7 @@ return {
     [1548] = {
         rangeType = 0,
         id = 1548,
-        des2 = "采集容量+740",
+        des2 = "Collection Capacity +740",
         name = "",
         rangePrams = {
         },
@@ -12779,7 +12779,7 @@ return {
     [1550] = {
         rangeType = 0,
         id = 1550,
-        des2 = "采集容量+800,飞行速度+2%",
+        des2 = "Collection Capacity +800, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -12795,7 +12795,7 @@ return {
     [1552] = {
         rangeType = 0,
         id = 1552,
-        des2 = "采集容量+830,飞行速度+2%",
+        des2 = "Collection Capacity +830, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -12811,7 +12811,7 @@ return {
     [1554] = {
         rangeType = 0,
         id = 1554,
-        des2 = "采集容量+890,飞行速度+2%",
+        des2 = "Collection Capacity +890, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -12827,7 +12827,7 @@ return {
     [1556] = {
         rangeType = 0,
         id = 1556,
-        des2 = "采集容量+950,飞行速度+2%",
+        des2 = "Collection Capacity +950, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -12843,7 +12843,7 @@ return {
     [1558] = {
         rangeType = 0,
         id = 1558,
-        des2 = "采集容量+1010,飞行速度+2%",
+        des2 = "Collection Capacity +1010, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -12859,7 +12859,7 @@ return {
     [1560] = {
         rangeType = 0,
         id = 1560,
-        des2 = "采集容量+1070,飞行速度+2%",
+        des2 = "Collection Capacity +1070, Fly Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -12907,7 +12907,7 @@ return {
     [1566] = {
         rangeType = 0,
         id = 1566,
-        des2 = "采集容量+1220,飞行速度+4%",
+        des2 = "Collection Capacity +1220, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -12923,7 +12923,7 @@ return {
     [1568] = {
         rangeType = 0,
         id = 1568,
-        des2 = "采集容量+1280,飞行速度+4%",
+        des2 = "Collection Capacity +1280, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -12939,7 +12939,7 @@ return {
     [1570] = {
         rangeType = 0,
         id = 1570,
-        des2 = "采集容量+1340,飞行速度+4%",
+        des2 = "Collection Capacity +1340, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -12955,7 +12955,7 @@ return {
     [1572] = {
         rangeType = 0,
         id = 1572,
-        des2 = "采集容量+1400,飞行速度+6%",
+        des2 = "Collection Capacity +1400, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -12971,7 +12971,7 @@ return {
     [1574] = {
         rangeType = 0,
         id = 1574,
-        des2 = "采集容量+1430,飞行速度+6%",
+        des2 = "Collection Capacity +1430, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -12987,7 +12987,7 @@ return {
     [1576] = {
         rangeType = 0,
         id = 1576,
-        des2 = "采集容量+1490,飞行速度+6%",
+        des2 = "Collection Capacity +1490, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -13003,7 +13003,7 @@ return {
     [1578] = {
         rangeType = 0,
         id = 1578,
-        des2 = "采集容量+1550,飞行速度+6%",
+        des2 = "Collection Capacity +1550, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -13019,7 +13019,7 @@ return {
     [1580] = {
         rangeType = 0,
         id = 1580,
-        des2 = "采集容量+1610,飞行速度+6%",
+        des2 = "Collection Capacity +1610, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -13035,7 +13035,7 @@ return {
     [1582] = {
         rangeType = 0,
         id = 1582,
-        des2 = "采集容量+1670,飞行速度+6%",
+        des2 = "Collection Capacity +1670, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -13081,7 +13081,7 @@ return {
     [1588] = {
         rangeType = 0,
         id = 1588,
-        des2 = "采集容量+1820,飞行速度+8%",
+        des2 = "Collection Capacity +1820, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -13097,7 +13097,7 @@ return {
     [1590] = {
         rangeType = 0,
         id = 1590,
-        des2 = "采集容量+1880,飞行速度+8%",
+        des2 = "Collection Capacity +1880, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -13113,7 +13113,7 @@ return {
     [1592] = {
         rangeType = 0,
         id = 1592,
-        des2 = "采集容量+1940,飞行速度+8%",
+        des2 = "Collection Capacity +1940, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -13129,7 +13129,7 @@ return {
     [1594] = {
         rangeType = 0,
         id = 1594,
-        des2 = "采集容量+2000,飞行速度+10%",
+        des2 = "Collection Capacity +2000, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -13145,7 +13145,7 @@ return {
     [1596] = {
         rangeType = 0,
         id = 1596,
-        des2 = "采集容量+2030,飞行速度+10%",
+        des2 = "Collection Capacity +2030, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -13161,7 +13161,7 @@ return {
     [1598] = {
         rangeType = 0,
         id = 1598,
-        des2 = "采集容量+2090,飞行速度+10%",
+        des2 = "Collection Capacity +2090, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -13177,7 +13177,7 @@ return {
     [1600] = {
         rangeType = 0,
         id = 1600,
-        des2 = "采集容量+2150,飞行速度+10%",
+        des2 = "Collection Capacity +2150, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -13193,7 +13193,7 @@ return {
     [1602] = {
         rangeType = 0,
         id = 1602,
-        des2 = "采集容量+2210,飞行速度+10%",
+        des2 = "Collection Capacity +2210, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -13209,7 +13209,7 @@ return {
     [1604] = {
         rangeType = 0,
         id = 1604,
-        des2 = "采集容量+2270,飞行速度+10%",
+        des2 = "Collection Capacity +2270, Fly Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -13225,7 +13225,7 @@ return {
     [3211] = {
         rangeType = 0,
         id = 3211,
-        des2 = "飞舰防御+4.58%",
+        des2 = "Airship DEF +4.58%",
         name = "",
         rangePrams = {
         },
@@ -13240,7 +13240,7 @@ return {
     [1608] = {
         rangeType = 0,
         id = 1608,
-        des2 = "采集容量+2360,飞行速度+12%",
+        des2 = "Collection Capacity +2360, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -13256,11 +13256,11 @@ return {
     [66002] = {
         rangeType = 0,
         id = 66002,
-        des2 = "舰载智能防御系统处理防御危机，使得自身护盾被破时，获得10%的伤害减免，持续3回合（冷却时间10回合）",
-        name = "危险预知",
+        des2 = "The on-board AI defense system handles defensive emergencies. When your shield is broken, gain 10% DMG MIT for 3 turns (CD: 10 turns)",
+        name = "Emergency Prediction",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/16.png",
         ability = {
@@ -13272,7 +13272,7 @@ return {
     [1612] = {
         rangeType = 0,
         id = 1612,
-        des2 = "采集容量+2480,飞行速度+12%",
+        des2 = "Collection Capacity +2480, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -13302,7 +13302,7 @@ return {
     [1616] = {
         rangeType = 0,
         id = 1616,
-        des2 = "采集容量+2600,飞行速度+14%",
+        des2 = "Collection Capacity +2600, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -13318,7 +13318,7 @@ return {
     [1618] = {
         rangeType = 0,
         id = 1618,
-        des2 = "采集容量+2630,飞行速度+14%",
+        des2 = "Collection Capacity +2630, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -13334,7 +13334,7 @@ return {
     [1620] = {
         rangeType = 0,
         id = 1620,
-        des2 = "采集容量+2690,飞行速度+14%",
+        des2 = "Collection Capacity +2690, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -13350,7 +13350,7 @@ return {
     [1622] = {
         rangeType = 0,
         id = 1622,
-        des2 = "采集容量+2750,飞行速度+14%",
+        des2 = "Collection Capacity +2750, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -13366,7 +13366,7 @@ return {
     [1624] = {
         rangeType = 0,
         id = 1624,
-        des2 = "采集容量+2810,飞行速度+14%",
+        des2 = "Collection Capacity +2810, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -13382,7 +13382,7 @@ return {
     [1626] = {
         rangeType = 0,
         id = 1626,
-        des2 = "采集容量+2870,飞行速度+14%",
+        des2 = "Collection Capacity +2870, Fly Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -13411,7 +13411,7 @@ return {
     [1630] = {
         rangeType = 0,
         id = 1630,
-        des2 = "采集容量+2960,飞行速度+16%",
+        des2 = "Collection Capacity +2960, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -13427,7 +13427,7 @@ return {
     [1632] = {
         rangeType = 0,
         id = 1632,
-        des2 = "采集容量+3020,飞行速度+16%",
+        des2 = "Collection Capacity +3020, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -13443,7 +13443,7 @@ return {
     [1634] = {
         rangeType = 0,
         id = 1634,
-        des2 = "采集容量+3080,飞行速度+16%",
+        des2 = "Collection Capacity +3080, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -13459,7 +13459,7 @@ return {
     [1636] = {
         rangeType = 0,
         id = 1636,
-        des2 = "采集容量+3140,飞行速度+16%",
+        des2 = "Collection Capacity +3140, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -13475,7 +13475,7 @@ return {
     [1638] = {
         rangeType = 0,
         id = 1638,
-        des2 = "采集容量+3200,飞行速度+18%",
+        des2 = "Collection Capacity +3200, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -13491,7 +13491,7 @@ return {
     [1640] = {
         rangeType = 0,
         id = 1640,
-        des2 = "采集容量+3230,飞行速度+18%",
+        des2 = "Collection Capacity +3230, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -13521,7 +13521,7 @@ return {
     [1644] = {
         rangeType = 0,
         id = 1644,
-        des2 = "采集容量+3350,飞行速度+18%",
+        des2 = "Collection Capacity +3350, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -13537,7 +13537,7 @@ return {
     [1646] = {
         rangeType = 0,
         id = 1646,
-        des2 = "采集容量+3410,飞行速度+18%",
+        des2 = "Collection Capacity +3410, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -13553,7 +13553,7 @@ return {
     [1648] = {
         rangeType = 0,
         id = 1648,
-        des2 = "采集容量+3470,飞行速度+18%",
+        des2 = "Collection Capacity +3470, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -13569,11 +13569,11 @@ return {
     [65002] = {
         rangeType = 0,
         id = 65002,
-        des2 = "由异界能量改造的镭射光线，能迅速瓦解敌舰防御工事，当敌舰护盾＞0时，主炮伤害提升10%",
-        name = "护盾克星",
+        des2 = "Laser beams modified with alien energy can rapidly erode the defenses of enemy ships. When the enemy ship has >0 shield, gain Cannon Damage +10%.",
+        name = "Shield Nemesis",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/1.png",
         ability = {
@@ -13585,7 +13585,7 @@ return {
     [3303] = {
         rangeType = 0,
         id = 3303,
-        des2 = "战斗速度+1.25%",
+        des2 = "Battle Speed +1.25%",
         name = "",
         rangePrams = {
         },
@@ -13600,7 +13600,7 @@ return {
     [3307] = {
         rangeType = 0,
         id = 3307,
-        des2 = "战斗速度+2.92%",
+        des2 = "Battle Speed +2.92%",
         name = "",
         rangePrams = {
         },
@@ -13615,7 +13615,7 @@ return {
     [3311] = {
         rangeType = 0,
         id = 3311,
-        des2 = "战斗速度+4.58%",
+        des2 = "Battle Speed +4.58%",
         name = "",
         rangePrams = {
         },
@@ -13630,7 +13630,7 @@ return {
     [3315] = {
         rangeType = 0,
         id = 3315,
-        des2 = "战斗速度+6.25%",
+        des2 = "Battle Speed +6.25%",
         name = "",
         rangePrams = {
         },
@@ -13676,7 +13676,7 @@ return {
     [1586] = {
         rangeType = 0,
         id = 1586,
-        des2 = "采集容量+1760,飞行速度+8%",
+        des2 = "Collection Capacity +1760, Fly Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -13754,11 +13754,11 @@ return {
     [66004] = {
         rangeType = 0,
         id = 66004,
-        des2 = "当飞舰护盾被破时，天空舰启动危急攻击方案，自身获得持续3回合的10%火力值加成，（冷却时间10回合）",
-        name = "破灭出击",
+        des2 = "When the airship's shield is broken, activate the ship's emergency attack protocol to gain 10% Firepower for 3 turns (CD: 10 turns)",
+        name = "Broken Attack",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/17.png",
         ability = {
@@ -13972,7 +13972,7 @@ return {
     [3403] = {
         rangeType = 0,
         id = 3403,
-        des2 = "采集容量+1.25%",
+        des2 = "Collection Capacity +1.25%",
         name = "",
         rangePrams = {
         },
@@ -13986,7 +13986,7 @@ return {
     [3407] = {
         rangeType = 0,
         id = 3407,
-        des2 = "采集容量+2.92%",
+        des2 = "Collection Capacity +2.92%",
         name = "",
         rangePrams = {
         },
@@ -14014,7 +14014,7 @@ return {
     [3415] = {
         rangeType = 0,
         id = 3415,
-        des2 = "采集容量+6.25%",
+        des2 = "Collection Capacity +6.25%",
         name = "",
         rangePrams = {
         },
@@ -14250,11 +14250,11 @@ return {
     [66006] = {
         rangeType = 0,
         id = 66006,
-        des2 = "当飞舰护盾被破时，天空舰启动特殊防卫系统，利用磁场干扰对敌舰造成缴械1回合（冷却时间5回合）",
-        name = "危急干扰",
+        des2 = "When the airship's shield is broken, activate the ship's special defense protocol to disarm the enemy airship for 1 turn with a magnetic interference field (CD: 5 turns)",
+        name = "Emergency Interference ",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/18.png",
         ability = {
@@ -14362,7 +14362,7 @@ return {
     [3503] = {
         rangeType = 6,
         id = 3503,
-        des2 = "强袭天赋下主炮技能伤害提升3.45%",
+        des2 = "(Assault) Cannon Skill DMG +3.45%",
         name = "",
         rangePrams = {
             shipType = {
@@ -14380,7 +14380,7 @@ return {
     [3507] = {
         rangeType = 0,
         id = 3507,
-        des2 = "全形态免伤提升0.74%",
+        des2 = "All Forms Damage Immunity +0.74%",
         name = "",
         rangePrams = {
         },
@@ -14395,7 +14395,7 @@ return {
     [3511] = {
         rangeType = 0,
         id = 3511,
-        des2 = "全形态火力值提升59",
+        des2 = "All Forms Firepower +59",
         name = "",
         rangePrams = {
         },
@@ -14410,7 +14410,7 @@ return {
     [3515] = {
         rangeType = 0,
         id = 3515,
-        des2 = "全形态护盾提升291",
+        des2 = "All Forms Shield +291",
         name = "",
         rangePrams = {
         },
@@ -14425,7 +14425,7 @@ return {
     [3519] = {
         rangeType = 6,
         id = 3519,
-        des2 = "强袭天赋下浮游炮技能伤害提升1.4%",
+        des2 = "(Assault) Pillar Skill DMG +1.4%",
         name = "",
         rangePrams = {
             shipType = {
@@ -14443,7 +14443,7 @@ return {
     [3523] = {
         rangeType = 6,
         id = 3523,
-        des2 = "强袭天赋下主炮技能伤害提升5.75%",
+        des2 = "(Assault) Cannon Skill DMG +5.75%",
         name = "",
         rangePrams = {
             shipType = {
@@ -14461,7 +14461,7 @@ return {
     [3527] = {
         rangeType = 0,
         id = 3527,
-        des2 = "全形态免伤提升1.23%",
+        des2 = "All Forms Damage Immunity +1.23%",
         name = "",
         rangePrams = {
         },
@@ -14571,11 +14571,11 @@ return {
     [65004] = {
         rangeType = 0,
         id = 65004,
-        des2 = "天空舰能针对高防敌舰进行致命打击，当主炮攻击命中时，必定会对敌方护盾造成火力值20%的伤害",
-        name = "破盾冲击",
+        des2 = "Deliver lethal attacks to enemy ships with high DEF. When a cannon attack hits the enemy, guaranteed to damage the enemy's shield for 20% of Firepower.",
+        name = "Attack Shield",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/2.png",
         ability = {
@@ -14763,7 +14763,7 @@ return {
     [3603] = {
         rangeType = 6,
         id = 3603,
-        des2 = "疾走天赋下当速度高于敌方时，造成伤害提高2%",
+        des2 = "(Haste) +2% damage if your Speed exceed the enemy's.",
         name = "",
         rangePrams = {
             shipType = {
@@ -14782,7 +14782,7 @@ return {
     [3607] = {
         rangeType = 0,
         id = 3607,
-        des2 = "全形态穿透率提升1.92%",
+        des2 = "All Forms Pierce Rate +1.92%",
         name = "",
         rangePrams = {
         },
@@ -14797,7 +14797,7 @@ return {
     [3611] = {
         rangeType = 0,
         id = 3611,
-        des2 = "全形态战斗速度提升28",
+        des2 = "All Forms Battle Speed +28",
         name = "",
         rangePrams = {
         },
@@ -14812,7 +14812,7 @@ return {
     [3615] = {
         rangeType = 0,
         id = 3615,
-        des2 = "全形态偏斜值2%",
+        des2 = "All Forms Deflection Value +2%",
         name = "",
         rangePrams = {
         },
@@ -14827,7 +14827,7 @@ return {
     [3619] = {
         rangeType = 6,
         id = 3619,
-        des2 = "疾走形态穿透敌舰时回复自身护盾4%",
+        des2 = "Restore shield by 4% when piercing an enemy airship in Haste form",
         name = "",
         rangePrams = {
             shipType = {
@@ -14846,7 +14846,7 @@ return {
     [3623] = {
         rangeType = 6,
         id = 3623,
-        des2 = "疾走天赋下当速度高于敌方时，造成伤害提高4%",
+        des2 = "(Haste) +4% damage if your Speed exceed the enemy's.",
         name = "",
         rangePrams = {
             shipType = {
@@ -14865,7 +14865,7 @@ return {
     [3627] = {
         rangeType = 0,
         id = 3627,
-        des2 = "全形态穿透率提升3.2%",
+        des2 = "All Forms Pierce Rate +3.2%",
         name = "",
         rangePrams = {
         },
@@ -15160,7 +15160,7 @@ return {
     [3703] = {
         rangeType = 6,
         id = 3703,
-        des2 = "隐遁形态下隐遁天赋材料掉落提升1.5%",
+        des2 = "+1.5% drop rate for Concealed talent materials in Concealed form",
         name = "",
         rangePrams = {
             shipType = {
@@ -15180,7 +15180,7 @@ return {
     [3707] = {
         rangeType = 0,
         id = 3707,
-        des2 = "全形态护盾提升110",
+        des2 = "All Forms Shield +110",
         name = "",
         rangePrams = {
         },
@@ -15195,7 +15195,7 @@ return {
     [3711] = {
         rangeType = 0,
         id = 3711,
-        des2 = "全形态防御力提升46",
+        des2 = "All Forms DEF +46",
         name = "",
         rangePrams = {
         },
@@ -15210,7 +15210,7 @@ return {
     [3715] = {
         rangeType = 0,
         id = 3715,
-        des2 = "全形态飞行速度提升6%",
+        des2 = "All Forms Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -15225,7 +15225,7 @@ return {
     [3719] = {
         rangeType = 6,
         id = 3719,
-        des2 = "隐遁形态下疾走天赋材料掉落提升2%",
+        des2 = "+2% drop rate for Haste talent materials in Concealed form",
         name = "",
         rangePrams = {
             shipType = {
@@ -15245,7 +15245,7 @@ return {
     [3723] = {
         rangeType = 6,
         id = 3723,
-        des2 = "隐遁形态下隐遁天赋材料掉落提升2.5%",
+        des2 = "+2.5% drop rate for Concealed talent materials in Concealed form",
         name = "",
         rangePrams = {
             shipType = {
@@ -15265,7 +15265,7 @@ return {
     [3727] = {
         rangeType = 0,
         id = 3727,
-        des2 = "全形态护盾提升543",
+        des2 = "All Forms Shield +543",
         name = "",
         rangePrams = {
         },
@@ -15280,11 +15280,11 @@ return {
     [66010] = {
         rangeType = 0,
         id = 66010,
-        des2 = "当自身受击护盾未破时，天空舰将能量运转偏斜向攻击系统，提升我方火力值3%，可叠加5次，持续3回合",
-        name = "攻击偏斜",
+        des2 = "When hit by an attack while the shield is still active, the Sky Airship diverts energy to the attack system to increase Firepower by 3% for 3 turns. Stacks up to 5 times.",
+        name = "Attack Deflection",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/20.png",
         ability = {
@@ -15360,11 +15360,11 @@ return {
     [66008] = {
         rangeType = 0,
         id = 66008,
-        des2 = "当自身受击护盾未破时，天空舰提高输出能量，让所有攻击有30%的几率对敌舰造成我方防御力30%的伤害（冷却时间2回合）",
-        name = "防御姿态",
+        des2 = "When hit by an attack while the shield is still active, the Sky Airship increases energy output to give all attacks a 30% chance to deal extra damage equal to 30% of DEF (CD: 2 turns)",
+        name = "Defensive Posture",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/19.png",
         ability = {
@@ -15423,7 +15423,7 @@ return {
     [1258] = {
         rangeType = 0,
         id = 1258,
-        des2 = "火力+3088,总火力+8%",
+        des2 = "Firepower +3088, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -15562,7 +15562,7 @@ return {
     [3803] = {
         rangeType = 0,
         id = 3803,
-        des2 = "穿透率+1%",
+        des2 = "Pierce Rate +1%",
         name = "",
         rangePrams = {
         },
@@ -15577,7 +15577,7 @@ return {
     [3807] = {
         rangeType = 0,
         id = 3807,
-        des2 = "火力值+2%",
+        des2 = "Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -15592,11 +15592,11 @@ return {
     [65006] = {
         rangeType = 0,
         id = 65006,
-        des2 = "针对敌舰护盾发射特制穿透镭射光线，主炮攻击若破盾，则飞舰火力值提升20%，持续3回合",
-        name = "趁胜追击",
+        des2 = "Fires a special piercing laser at the enemy's shield. If the attack breaks the shield, gain Airship Firepower +20% for 3 turns.",
+        name = "Victory Rush",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/3.png",
         ability = {
@@ -15608,7 +15608,7 @@ return {
     [3815] = {
         rangeType = 0,
         id = 3815,
-        des2 = "火力值+3%",
+        des2 = "Firepower +3%",
         name = "",
         rangePrams = {
         },
@@ -16284,7 +16284,7 @@ return {
     [1193] = {
         rangeType = 0,
         id = 1193,
-        des2 = "生命+17613,总生命+16%",
+        des2 = "HP +17613, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -16346,7 +16346,7 @@ return {
     [1642] = {
         rangeType = 0,
         id = 1642,
-        des2 = "采集容量+3290,飞行速度+18%",
+        des2 = "Collection Capacity +3290, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -16586,11 +16586,11 @@ return {
     [65008] = {
         rangeType = 0,
         id = 65008,
-        des2 = "天空舰能够摄取敌舰护盾能量，若敌舰护盾＞0，则摄取其能量提高自身5%火力值，最大叠加5层，持续3回合",
-        name = "加深打击",
+        des2 = "The Sky Airship can absorb shield energy from enemy ships. If the enemy ship has >0 shield, drain its energy to gain 5% Firepower for 3 turns. Stacks up to 5 times.",
+        name = "Increase Attack",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/4.png",
         ability = {
@@ -17606,11 +17606,11 @@ return {
     [65010] = {
         rangeType = 0,
         id = 65010,
-        des2 = "启动舰载追踪打击系统，当飞舰任意攻击被偏斜，则立即对敌舰造成一次自身火力值50%的额外伤害",
-        name = "迂回打击",
+        des2 = "Activate the onboard homing strike system. When any of the airship's attacks are deflected, immediately deal extra damage to the enemy ship equal to 50% of Firepower.",
+        name = "Roundabout Attack",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/5.png",
         ability = {
@@ -17654,11 +17654,11 @@ return {
     [65202] = {
         rangeType = 0,
         id = 65202,
-        des2 = "对天空舰的根达亚原始浮游炮装置进行专精升级，浮游炮数量变为2个",
-        name = "镭射专精I",
+        des2 = "Specialization upgrade increase the Sky Airship's Gondayer Pillar quantity to 2.",
+        name = "Specialized Laser I",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/11.png",
         ability = {
@@ -18307,7 +18307,7 @@ return {
     [1503] = {
         rangeType = 0,
         id = 1503,
-        des2 = "战斗速度+2110,总战斗速度+12%",
+        des2 = "Battle Speed +2110, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -18323,11 +18323,11 @@ return {
     [65206] = {
         rangeType = 0,
         id = 65206,
-        des2 = "对天空舰的根达亚原始浮游炮装置进行专精升级，浮游炮数量变为3个",
-        name = "镭射专精II",
+        des2 = "Specialization upgrade increase the Sky Airship's Gondayer Pillar quantity to 3.",
+        name = "Specialized Laser II",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/13.png",
         ability = {
@@ -18355,7 +18355,7 @@ return {
     [1436] = {
         rangeType = 0,
         id = 1436,
-        des2 = "战斗速度+280",
+        des2 = "Battle Speed +280",
         name = "",
         rangePrams = {
         },
@@ -18652,11 +18652,11 @@ return {
     [65204] = {
         rangeType = 0,
         id = 65204,
-        des2 = "浮游炮以集束射线打击敌舰，若触发穿透，对敌舰额外造成自身火力值50%的无视防御、无视护盾的伤害",
-        name = "穿透加深",
+        des2 = "The Pillar fires a cluster laser at the enemy airship. If the attack triggers Pierce, deals extra damage equal to 50% of Firepower that ignores DEF and shield.",
+        name = "Increase Pierce",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/12.png",
         ability = {
@@ -20432,7 +20432,7 @@ return {
     [3004] = {
         rangeType = 0,
         id = 3004,
-        des2 = "飞舰生命+1.67%",
+        des2 = "Airship HP +1.67%",
         name = "",
         rangePrams = {
         },
@@ -20447,7 +20447,7 @@ return {
     [3008] = {
         rangeType = 0,
         id = 3008,
-        des2 = "飞舰生命+3.33%",
+        des2 = "Airship HP +3.33%",
         name = "",
         rangePrams = {
         },
@@ -20462,7 +20462,7 @@ return {
     [3012] = {
         rangeType = 0,
         id = 3012,
-        des2 = "飞舰生命+5.00%",
+        des2 = "Airship HP +5.00%",
         name = "",
         rangePrams = {
         },
@@ -20813,7 +20813,7 @@ return {
     [3104] = {
         rangeType = 0,
         id = 3104,
-        des2 = "飞舰火力+1.67%",
+        des2 = "Airship Firepower +1.67%",
         name = "",
         rangePrams = {
         },
@@ -20828,7 +20828,7 @@ return {
     [3108] = {
         rangeType = 0,
         id = 3108,
-        des2 = "飞舰火力+3.33%",
+        des2 = "Airship Firepower +3.33%",
         name = "",
         rangePrams = {
         },
@@ -20843,7 +20843,7 @@ return {
     [3112] = {
         rangeType = 0,
         id = 3112,
-        des2 = "飞舰火力+5.00%",
+        des2 = "Airship Firepower +5.00%",
         name = "",
         rangePrams = {
         },
@@ -21224,7 +21224,7 @@ return {
     [3204] = {
         rangeType = 0,
         id = 3204,
-        des2 = "飞舰防御+1.67%",
+        des2 = "Airship DEF +1.67%",
         name = "",
         rangePrams = {
         },
@@ -21239,7 +21239,7 @@ return {
     [3208] = {
         rangeType = 0,
         id = 3208,
-        des2 = "飞舰防御+3.33%",
+        des2 = "Airship DEF +3.33%",
         name = "",
         rangePrams = {
         },
@@ -21662,7 +21662,7 @@ return {
     [3304] = {
         rangeType = 0,
         id = 3304,
-        des2 = "战斗速度+1.67%",
+        des2 = "Battle Speed +1.67%",
         name = "",
         rangePrams = {
         },
@@ -21677,7 +21677,7 @@ return {
     [3308] = {
         rangeType = 0,
         id = 3308,
-        des2 = "战斗速度+3.33%",
+        des2 = "Battle Speed +3.33%",
         name = "",
         rangePrams = {
         },
@@ -21692,11 +21692,11 @@ return {
     [65210] = {
         rangeType = 0,
         id = 65210,
-        des2 = "升级浮游炮装置，提升运转能力，当浮游炮攻击触发穿透时，浮游炮冷却时间降低1回合（冷却时间3回合）",
-        name = "光速打击",
+        des2 = "Upgrades the Pillar device to improve its rotational speed. When a Pillar attack triggers Pierce, its CD is reduced by 1 turn (CD: 3 turns)",
+        name = "Quick Attack",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/15.png",
         ability = {
@@ -22072,7 +22072,7 @@ return {
     [3404] = {
         rangeType = 0,
         id = 3404,
-        des2 = "采集容量+1.67%",
+        des2 = "Collection Capacity +1.67%",
         name = "",
         rangePrams = {
         },
@@ -22101,7 +22101,7 @@ return {
     [3412] = {
         rangeType = 0,
         id = 3412,
-        des2 = "采集容量+5.00%",
+        des2 = "Collection Capacity +5.00%",
         name = "",
         rangePrams = {
         },
@@ -22485,7 +22485,7 @@ return {
     [3504] = {
         rangeType = 0,
         id = 3504,
-        des2 = "全形态穿透率提升1.2%",
+        des2 = "All Forms Pierce Rate +1.2%",
         name = "",
         rangePrams = {
         },
@@ -22500,7 +22500,7 @@ return {
     [3508] = {
         rangeType = 0,
         id = 3508,
-        des2 = "全形态火力值提升3%",
+        des2 = "All Forms Firepower +3%",
         name = "",
         rangePrams = {
         },
@@ -22515,7 +22515,7 @@ return {
     [3512] = {
         rangeType = 0,
         id = 3512,
-        des2 = "全形态生命值提升173",
+        des2 = "All Forms HP +173",
         name = "",
         rangePrams = {
         },
@@ -22530,7 +22530,7 @@ return {
     [3516] = {
         rangeType = 6,
         id = 3516,
-        des2 = "强袭天赋下追踪飞弹触发几率提升0.31%",
+        des2 = "(Assault) Homing Missile Trigger Rate +0.31%",
         name = "",
         rangePrams = {
             shipType = {
@@ -22548,7 +22548,7 @@ return {
     [3520] = {
         rangeType = 0,
         id = 3520,
-        des2 = "全形态伤害提升4%",
+        des2 = "All Forms Damage +4%",
         name = "",
         rangePrams = {
         },
@@ -22563,7 +22563,7 @@ return {
     [3524] = {
         rangeType = 0,
         id = 3524,
-        des2 = "全形态穿透率提升2%",
+        des2 = "All Forms Pierce Rate +2%",
         name = "",
         rangePrams = {
         },
@@ -22767,7 +22767,7 @@ return {
     [1289] = {
         rangeType = 0,
         id = 1289,
-        des2 = "火力+4979,总火力+14%",
+        des2 = "Firepower +4979, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -22783,7 +22783,7 @@ return {
     [3103] = {
         rangeType = 0,
         id = 3103,
-        des2 = "飞舰火力+1.25%",
+        des2 = "Airship Firepower +1.25%",
         name = "",
         rangePrams = {
         },
@@ -22798,7 +22798,7 @@ return {
     [3105] = {
         rangeType = 0,
         id = 3105,
-        des2 = "飞舰火力+2.08%",
+        des2 = "Airship Firepower +2.08%",
         name = "",
         rangePrams = {
         },
@@ -22813,7 +22813,7 @@ return {
     [3107] = {
         rangeType = 0,
         id = 3107,
-        des2 = "飞舰火力+2.92%",
+        des2 = "Airship Firepower +2.92%",
         name = "",
         rangePrams = {
         },
@@ -22841,7 +22841,7 @@ return {
     [3111] = {
         rangeType = 0,
         id = 3111,
-        des2 = "飞舰火力+4.58%",
+        des2 = "Airship Firepower +4.58%",
         name = "",
         rangePrams = {
         },
@@ -22871,7 +22871,7 @@ return {
     [3604] = {
         rangeType = 0,
         id = 3604,
-        des2 = "全形态偏斜率提升0.72%",
+        des2 = "All Forms Deflection Rate +0.72%",
         name = "",
         rangePrams = {
         },
@@ -22886,7 +22886,7 @@ return {
     [3608] = {
         rangeType = 0,
         id = 3608,
-        des2 = "全形态防御力提升1%",
+        des2 = "All Forms DEF +1%",
         name = "",
         rangePrams = {
         },
@@ -22901,7 +22901,7 @@ return {
     [3612] = {
         rangeType = 0,
         id = 3612,
-        des2 = "全形态飞行速度提升4%",
+        des2 = "All Forms Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -22916,7 +22916,7 @@ return {
     [3616] = {
         rangeType = 6,
         id = 3616,
-        des2 = "疾走形态触发偏斜时提高自身伤害4%",
+        des2 = "+4% damage when triggering a deflection in Haste form",
         name = "",
         rangePrams = {
             shipType = {
@@ -22935,7 +22935,7 @@ return {
     [3620] = {
         rangeType = 0,
         id = 3620,
-        des2 = "全形态火力值提升4%",
+        des2 = "All Forms Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -22950,7 +22950,7 @@ return {
     [3624] = {
         rangeType = 0,
         id = 3624,
-        des2 = "全形态偏斜率提升1.20%",
+        des2 = "All Forms Deflection Rate +1.20%",
         name = "",
         rangePrams = {
         },
@@ -22965,7 +22965,7 @@ return {
     [3628] = {
         rangeType = 0,
         id = 3628,
-        des2 = "全形态防御力提升3%",
+        des2 = "All Forms DEF +3%",
         name = "",
         rangePrams = {
         },
@@ -22996,7 +22996,7 @@ return {
     [3113] = {
         rangeType = 0,
         id = 3113,
-        des2 = "飞舰火力+5.42%",
+        des2 = "Airship Firepower +5.42%",
         name = "",
         rangePrams = {
         },
@@ -23011,7 +23011,7 @@ return {
     [3115] = {
         rangeType = 0,
         id = 3115,
-        des2 = "飞舰火力+6.25%",
+        des2 = "Airship Firepower +6.25%",
         name = "",
         rangePrams = {
         },
@@ -23263,7 +23263,7 @@ return {
     [3704] = {
         rangeType = 0,
         id = 3704,
-        des2 = "全形态战斗速度提升60",
+        des2 = "All Forms Battle Speed +60",
         name = "",
         rangePrams = {
         },
@@ -23278,7 +23278,7 @@ return {
     [3708] = {
         rangeType = 0,
         id = 3708,
-        des2 = "全形态火力值提升1.05%",
+        des2 = "All Forms Firepower +1.05%",
         name = "",
         rangePrams = {
         },
@@ -23293,7 +23293,7 @@ return {
     [3712] = {
         rangeType = 0,
         id = 3712,
-        des2 = "全形态生命值提升172",
+        des2 = "All Forms HP +172",
         name = "",
         rangePrams = {
         },
@@ -23308,7 +23308,7 @@ return {
     [3716] = {
         rangeType = 6,
         id = 3716,
-        des2 = "隐遁形态下强袭天赋材料掉落提升2%",
+        des2 = "+2% drop rate for Assault talent materials in Concealed form",
         name = "",
         rangePrams = {
             shipType = {
@@ -23328,7 +23328,7 @@ return {
     [3720] = {
         rangeType = 0,
         id = 3720,
-        des2 = "全形态免伤率提升2%",
+        des2 = "All Forms Damage Immunity +2%",
         name = "",
         rangePrams = {
         },
@@ -23343,7 +23343,7 @@ return {
     [3724] = {
         rangeType = 0,
         id = 3724,
-        des2 = "全形态战斗速度提升250",
+        des2 = "All Forms Battle Speed +250",
         name = "",
         rangePrams = {
         },
@@ -23437,7 +23437,7 @@ return {
     [3312] = {
         rangeType = 0,
         id = 3312,
-        des2 = "战斗速度+5.00%",
+        des2 = "Battle Speed +5.00%",
         name = "",
         rangePrams = {
         },
@@ -23515,7 +23515,7 @@ return {
     [1381] = {
         rangeType = 0,
         id = 1381,
-        des2 = "护甲+2521,总护甲+10%",
+        des2 = "Armor +2521, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -23656,7 +23656,7 @@ return {
     [3804] = {
         rangeType = 0,
         id = 3804,
-        des2 = "防御力+1%",
+        des2 = "DEF +1%",
         name = "",
         rangePrams = {
         },
@@ -23671,7 +23671,7 @@ return {
     [3808] = {
         rangeType = 0,
         id = 3808,
-        des2 = "免伤率+2%",
+        des2 = "Damage Immunity +2%",
         name = "",
         rangePrams = {
         },
@@ -23686,7 +23686,7 @@ return {
     [3812] = {
         rangeType = 0,
         id = 3812,
-        des2 = "防御力+3%",
+        des2 = "DEF +3%",
         name = "",
         rangePrams = {
         },
@@ -23701,7 +23701,7 @@ return {
     [3816] = {
         rangeType = 0,
         id = 3816,
-        des2 = "主炮技能伤害+3%",
+        des2 = "Cannon Skill DMG +3%",
         name = "",
         rangePrams = {
         },
@@ -23796,7 +23796,7 @@ return {
     [3203] = {
         rangeType = 0,
         id = 3203,
-        des2 = "飞舰防御+1.25%",
+        des2 = "Airship DEF +1.25%",
         name = "",
         rangePrams = {
         },
@@ -23827,7 +23827,7 @@ return {
     [3207] = {
         rangeType = 0,
         id = 3207,
-        des2 = "飞舰防御+2.92%",
+        des2 = "Airship DEF +2.92%",
         name = "",
         rangePrams = {
         },
@@ -23873,7 +23873,7 @@ return {
     [3213] = {
         rangeType = 0,
         id = 3213,
-        des2 = "飞舰防御+5.42%",
+        des2 = "Airship DEF +5.42%",
         name = "",
         rangePrams = {
         },
@@ -23888,7 +23888,7 @@ return {
     [3215] = {
         rangeType = 0,
         id = 3215,
-        des2 = "飞舰防御+6.25%",
+        des2 = "Airship DEF +6.25%",
         name = "",
         rangePrams = {
         },
@@ -23903,11 +23903,11 @@ return {
     [65208] = {
         rangeType = 0,
         id = 65208,
-        des2 = "浮游炮发射汲取射线，若触发穿透，则可以汲取敌舰能量，恢复我方最大护盾值10%的护盾值",
-        name = "穿透汲取",
+        des2 = "The Pillar fires an absorbing laser beam. If the attack triggers Pierce, absorb the enemy ship's energy to restore 10% of your max shield capacity.",
+        name = "Pierce Absorb",
         rangePrams = {
         },
-        describe = "效果描述",
+        describe = "Effect Description",
         knowledgeType = 14,
         icon = "ui/explore/growup/weapon/14.png",
         ability = {
@@ -23932,7 +23932,7 @@ return {
     [1514] = {
         rangeType = 0,
         id = 1514,
-        des2 = "战斗速度+2410,总战斗速度+14%",
+        des2 = "Battle Speed +2410, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -23961,7 +23961,7 @@ return {
     [3606] = {
         rangeType = 6,
         id = 3606,
-        des2 = "疾走形态触发偏斜时提高自身伤害3%",
+        des2 = "+3% damage when triggering a deflection in Haste form",
         name = "",
         rangePrams = {
             shipType = {
@@ -24028,7 +24028,7 @@ return {
     [1522] = {
         rangeType = 0,
         id = 1522,
-        des2 = "战斗速度+2620,总战斗速度+16%",
+        des2 = "Battle Speed +2620, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -24184,7 +24184,7 @@ return {
     [3728] = {
         rangeType = 0,
         id = 3728,
-        des2 = "全形态火力值提升1.75%",
+        des2 = "All Forms Firepower +1.75%",
         name = "",
         rangePrams = {
         },
@@ -24231,7 +24231,7 @@ return {
     [1125] = {
         rangeType = 0,
         id = 1125,
-        des2 = "生命+4915,总生命+4%",
+        des2 = "HP +4915, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -24247,7 +24247,7 @@ return {
     [1417] = {
         rangeType = 0,
         id = 1417,
-        des2 = "护甲+3782,总护甲+16%",
+        des2 = "Armor +3782, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -24263,7 +24263,7 @@ return {
     [1129] = {
         rangeType = 0,
         id = 1129,
-        des2 = "生命+5734,总生命+4%",
+        des2 = "HP +5734, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -24279,7 +24279,7 @@ return {
     [1130] = {
         rangeType = 0,
         id = 1130,
-        des2 = "生命+5939,总生命+4%",
+        des2 = "HP +5939, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -24295,7 +24295,7 @@ return {
     [1418] = {
         rangeType = 0,
         id = 1418,
-        des2 = "护甲+3820,总护甲+18%",
+        des2 = "Armor +3820, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -24356,7 +24356,7 @@ return {
     [1290] = {
         rangeType = 0,
         id = 1290,
-        des2 = "火力+5047,总火力+14%",
+        des2 = "Firepower +5047, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -24372,7 +24372,7 @@ return {
     [1546] = {
         rangeType = 0,
         id = 1546,
-        des2 = "采集容量+680",
+        des2 = "Collection Capacity +680",
         name = "",
         rangePrams = {
         },
@@ -24417,7 +24417,7 @@ return {
     [1564] = {
         rangeType = 0,
         id = 1564,
-        des2 = "采集容量+1160,飞行速度+4%",
+        des2 = "Collection Capacity +1160, Fly Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -24433,7 +24433,7 @@ return {
     [1577] = {
         rangeType = 0,
         id = 1577,
-        des2 = "采集容量+1520,飞行速度+6%",
+        des2 = "Collection Capacity +1520, Fly Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -24497,7 +24497,7 @@ return {
     [1614] = {
         rangeType = 0,
         id = 1614,
-        des2 = "采集容量+2540,飞行速度+12%",
+        des2 = "Collection Capacity +2540, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -24527,7 +24527,7 @@ return {
     [1161] = {
         rangeType = 0,
         id = 1161,
-        des2 = "生命+11674,总生命+10%",
+        des2 = "HP +11674, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -24543,7 +24543,7 @@ return {
     [1637] = {
         rangeType = 0,
         id = 1637,
-        des2 = "采集容量+3170,飞行速度+16%",
+        des2 = "Collection Capacity +3170, Fly Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -24575,7 +24575,7 @@ return {
     [1450] = {
         rangeType = 0,
         id = 1450,
-        des2 = "战斗速度+670,总战斗速度+2%",
+        des2 = "Battle Speed +670, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -24606,7 +24606,7 @@ return {
     [1317] = {
         rangeType = 0,
         id = 1317,
-        des2 = "火力+6736,总火力+18%",
+        des2 = "Firepower +6736, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -24622,7 +24622,7 @@ return {
     [1641] = {
         rangeType = 0,
         id = 1641,
-        des2 = "采集容量+3260,飞行速度+18%",
+        des2 = "Collection Capacity +3260, Fly Speed +18%",
         name = "",
         rangePrams = {
         },
@@ -24654,7 +24654,7 @@ return {
     [1322] = {
         rangeType = 0,
         id = 1322,
-        des2 = "护甲+458",
+        des2 = "Armor +458",
         name = "",
         rangePrams = {
         },
@@ -24749,7 +24749,7 @@ return {
     [3411] = {
         rangeType = 0,
         id = 3411,
-        des2 = "采集容量+4.58%",
+        des2 = "Collection Capacity +4.58%",
         name = "",
         rangePrams = {
         },
@@ -24779,7 +24779,7 @@ return {
     [3408] = {
         rangeType = 0,
         id = 3408,
-        des2 = "采集容量+3.33%",
+        des2 = "Collection Capacity +3.33%",
         name = "",
         rangePrams = {
         },
@@ -24809,7 +24809,7 @@ return {
     [1194] = {
         rangeType = 0,
         id = 1194,
-        des2 = "生命+17818,总生命+16%",
+        des2 = "HP +17818, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -24990,7 +24990,7 @@ return {
     [3811] = {
         rangeType = 0,
         id = 3811,
-        des2 = "护盾值+3%",
+        des2 = "Shield +3%",
         name = "",
         rangePrams = {
         },
@@ -25065,7 +25065,7 @@ return {
     [1225] = {
         rangeType = 0,
         id = 1225,
-        des2 = "火力+1062,总火力+2%",
+        des2 = "Firepower +1062, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -25096,7 +25096,7 @@ return {
     [1226] = {
         rangeType = 0,
         id = 1226,
-        des2 = "火力+1129,总火力+2%",
+        des2 = "Firepower +1129, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -25140,7 +25140,7 @@ return {
     [1500] = {
         rangeType = 0,
         id = 1500,
-        des2 = "战斗速度+2020,总战斗速度+12%",
+        des2 = "Battle Speed +2020, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -25172,7 +25172,7 @@ return {
     [1502] = {
         rangeType = 0,
         id = 1502,
-        des2 = "战斗速度+2080,总战斗速度+12%",
+        des2 = "Battle Speed +2080, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -25220,7 +25220,7 @@ return {
     [1504] = {
         rangeType = 0,
         id = 1504,
-        des2 = "战斗速度+2140,总战斗速度+12%",
+        des2 = "Battle Speed +2140, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -25236,7 +25236,7 @@ return {
     [1505] = {
         rangeType = 0,
         id = 1505,
-        des2 = "战斗速度+2170,总战斗速度+12%",
+        des2 = "Battle Speed +2170, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -25252,7 +25252,7 @@ return {
     [1506] = {
         rangeType = 0,
         id = 1506,
-        des2 = "战斗速度+2200,总战斗速度+14%",
+        des2 = "Battle Speed +2200, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -25268,7 +25268,7 @@ return {
     [1508] = {
         rangeType = 0,
         id = 1508,
-        des2 = "战斗速度+2230,总战斗速度+14%",
+        des2 = "Battle Speed +2230, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -25284,7 +25284,7 @@ return {
     [1509] = {
         rangeType = 0,
         id = 1509,
-        des2 = "战斗速度+2260,总战斗速度+14%",
+        des2 = "Battle Speed +2260, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -25300,7 +25300,7 @@ return {
     [1253] = {
         rangeType = 0,
         id = 1253,
-        des2 = "火力+2818,总火力+8%",
+        des2 = "Firepower +2818, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -25316,7 +25316,7 @@ return {
     [3529] = {
         rangeType = 6,
         id = 3529,
-        des2 = "强袭天赋下浮游炮技能伤害提升1.75%",
+        des2 = "(Assault) Pillar Skill DMG +1.75%",
         name = "",
         rangePrams = {
             shipType = {
@@ -25349,7 +25349,7 @@ return {
     [1257] = {
         rangeType = 0,
         id = 1257,
-        des2 = "火力+3020,总火力+8%",
+        des2 = "Firepower +3020, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -25380,7 +25380,7 @@ return {
     [1103] = {
         rangeType = 0,
         id = 1103,
-        des2 = "生命+819",
+        des2 = "HP +819",
         name = "",
         rangePrams = {
         },
@@ -25395,7 +25395,7 @@ return {
     [1105] = {
         rangeType = 0,
         id = 1105,
-        des2 = "生命+1229",
+        des2 = "HP +1229",
         name = "",
         rangePrams = {
         },
@@ -25410,7 +25410,7 @@ return {
     [1107] = {
         rangeType = 0,
         id = 1107,
-        des2 = "生命+1638",
+        des2 = "HP +1638",
         name = "",
         rangePrams = {
         },
@@ -25425,7 +25425,7 @@ return {
     [1109] = {
         rangeType = 0,
         id = 1109,
-        des2 = "生命+2048",
+        des2 = "HP +2048",
         name = "",
         rangePrams = {
         },
@@ -25456,7 +25456,7 @@ return {
     [1113] = {
         rangeType = 0,
         id = 1113,
-        des2 = "生命+2662,总生命+2%",
+        des2 = "HP +2662, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -25472,7 +25472,7 @@ return {
     [1115] = {
         rangeType = 0,
         id = 1115,
-        des2 = "生命+3072,总生命+2%",
+        des2 = "HP +3072, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -25488,7 +25488,7 @@ return {
     [1117] = {
         rangeType = 0,
         id = 1117,
-        des2 = "生命+3482,总生命+2%",
+        des2 = "HP +3482, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -25504,7 +25504,7 @@ return {
     [1119] = {
         rangeType = 0,
         id = 1119,
-        des2 = "生命+3891,总生命+2%",
+        des2 = "HP +3891, Total HP +2%",
         name = "",
         rangePrams = {
         },
@@ -25520,7 +25520,7 @@ return {
     [1121] = {
         rangeType = 0,
         id = 1121,
-        des2 = "生命+4301,总生命+4%",
+        des2 = "HP +4301, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -25536,7 +25536,7 @@ return {
     [1123] = {
         rangeType = 0,
         id = 1123,
-        des2 = "生命+4506,总生命+4%",
+        des2 = "HP +4506, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -25568,7 +25568,7 @@ return {
     [1127] = {
         rangeType = 0,
         id = 1127,
-        des2 = "生命+5325,总生命+4%",
+        des2 = "HP +5325, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -25599,7 +25599,7 @@ return {
     [1131] = {
         rangeType = 0,
         id = 1131,
-        des2 = "生命+6144,总生命+4%",
+        des2 = "HP +6144, Total HP +4%",
         name = "",
         rangePrams = {
         },
@@ -25630,7 +25630,7 @@ return {
     [1135] = {
         rangeType = 0,
         id = 1135,
-        des2 = "生命+6758,总生命+6%",
+        des2 = "HP +6758, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -25646,7 +25646,7 @@ return {
     [1137] = {
         rangeType = 0,
         id = 1137,
-        des2 = "生命+7168,总生命+6%",
+        des2 = "HP +7168, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -25662,7 +25662,7 @@ return {
     [1139] = {
         rangeType = 0,
         id = 1139,
-        des2 = "生命+7578,总生命+6%",
+        des2 = "HP +7578, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -25678,7 +25678,7 @@ return {
     [1141] = {
         rangeType = 0,
         id = 1141,
-        des2 = "生命+7987,总生命+6%",
+        des2 = "HP +7987, Total HP +6%",
         name = "",
         rangePrams = {
         },
@@ -25694,7 +25694,7 @@ return {
     [1143] = {
         rangeType = 0,
         id = 1143,
-        des2 = "生命+8397,总生命+8%",
+        des2 = "HP +8397, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -25710,7 +25710,7 @@ return {
     [1145] = {
         rangeType = 0,
         id = 1145,
-        des2 = "生命+8602,总生命+8%",
+        des2 = "HP +8602, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -25726,7 +25726,7 @@ return {
     [1147] = {
         rangeType = 0,
         id = 1147,
-        des2 = "生命+9011,总生命+8%",
+        des2 = "HP +9011, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -25742,7 +25742,7 @@ return {
     [1149] = {
         rangeType = 0,
         id = 1149,
-        des2 = "生命+9421,总生命+8%",
+        des2 = "HP +9421, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -25758,7 +25758,7 @@ return {
     [1151] = {
         rangeType = 0,
         id = 1151,
-        des2 = "生命+9830,总生命+8%",
+        des2 = "HP +9830, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -25774,7 +25774,7 @@ return {
     [1153] = {
         rangeType = 0,
         id = 1153,
-        des2 = "生命+10240,总生命+8%",
+        des2 = "HP +10240, Total HP +8%",
         name = "",
         rangePrams = {
         },
@@ -25790,7 +25790,7 @@ return {
     [1609] = {
         rangeType = 0,
         id = 1609,
-        des2 = "采集容量+2390,飞行速度+12%",
+        des2 = "Collection Capacity +2390, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -25806,7 +25806,7 @@ return {
     [1157] = {
         rangeType = 0,
         id = 1157,
-        des2 = "生命+10854,总生命+10%",
+        des2 = "HP +10854, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -25822,7 +25822,7 @@ return {
     [1159] = {
         rangeType = 0,
         id = 1159,
-        des2 = "生命+11264,总生命+10%",
+        des2 = "HP +11264, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -25853,7 +25853,7 @@ return {
     [1163] = {
         rangeType = 0,
         id = 1163,
-        des2 = "生命+12083,总生命+10%",
+        des2 = "HP +12083, Total HP +10%",
         name = "",
         rangePrams = {
         },
@@ -25869,7 +25869,7 @@ return {
     [1165] = {
         rangeType = 0,
         id = 1165,
-        des2 = "生命+12493,总生命+12%",
+        des2 = "HP +12493, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -25885,7 +25885,7 @@ return {
     [1167] = {
         rangeType = 0,
         id = 1167,
-        des2 = "生命+12698,总生命+12%",
+        des2 = "HP +12698, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -25901,7 +25901,7 @@ return {
     [1169] = {
         rangeType = 0,
         id = 1169,
-        des2 = "生命+13107,总生命+12%",
+        des2 = "HP +13107, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -25917,7 +25917,7 @@ return {
     [1171] = {
         rangeType = 0,
         id = 1171,
-        des2 = "生命+13517,总生命+12%",
+        des2 = "HP +13517, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -25933,7 +25933,7 @@ return {
     [1173] = {
         rangeType = 0,
         id = 1173,
-        des2 = "生命+13926,总生命+12%",
+        des2 = "HP +13926, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -25949,7 +25949,7 @@ return {
     [1175] = {
         rangeType = 0,
         id = 1175,
-        des2 = "生命+14336,总生命+12%",
+        des2 = "HP +14336, Total HP +12%",
         name = "",
         rangePrams = {
         },
@@ -25981,7 +25981,7 @@ return {
     [1179] = {
         rangeType = 0,
         id = 1179,
-        des2 = "生命+14950,总生命+14%",
+        des2 = "HP +14950, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -25997,7 +25997,7 @@ return {
     [1181] = {
         rangeType = 0,
         id = 1181,
-        des2 = "生命+15360,总生命+14%",
+        des2 = "HP +15360, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -26013,7 +26013,7 @@ return {
     [1183] = {
         rangeType = 0,
         id = 1183,
-        des2 = "生命+15770,总生命+14%",
+        des2 = "HP +15770, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -26029,7 +26029,7 @@ return {
     [1185] = {
         rangeType = 0,
         id = 1185,
-        des2 = "生命+16179,总生命+14%",
+        des2 = "HP +16179, Total HP +14%",
         name = "",
         rangePrams = {
         },
@@ -26045,7 +26045,7 @@ return {
     [1187] = {
         rangeType = 0,
         id = 1187,
-        des2 = "生命+16589,总生命+16%",
+        des2 = "HP +16589, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -26077,7 +26077,7 @@ return {
     [1191] = {
         rangeType = 0,
         id = 1191,
-        des2 = "生命+17203,总生命+16%",
+        des2 = "HP +17203, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -26108,7 +26108,7 @@ return {
     [1195] = {
         rangeType = 0,
         id = 1195,
-        des2 = "生命+18022,总生命+16%",
+        des2 = "HP +18022, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -26124,7 +26124,7 @@ return {
     [1197] = {
         rangeType = 0,
         id = 1197,
-        des2 = "生命+18432,总生命+16%",
+        des2 = "HP +18432, Total HP +16%",
         name = "",
         rangePrams = {
         },
@@ -26155,7 +26155,7 @@ return {
     [1201] = {
         rangeType = 0,
         id = 1201,
-        des2 = "生命+19046,总生命+18%",
+        des2 = "HP +19046, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -26171,7 +26171,7 @@ return {
     [1203] = {
         rangeType = 0,
         id = 1203,
-        des2 = "生命+19456,总生命+18%",
+        des2 = "HP +19456, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -26187,7 +26187,7 @@ return {
     [1205] = {
         rangeType = 0,
         id = 1205,
-        des2 = "生命+19866,总生命+18%",
+        des2 = "HP +19866, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -26203,7 +26203,7 @@ return {
     [1207] = {
         rangeType = 0,
         id = 1207,
-        des2 = "生命+20275,总生命+18%",
+        des2 = "HP +20275, Total HP +18%",
         name = "",
         rangePrams = {
         },
@@ -26219,7 +26219,7 @@ return {
     [1209] = {
         rangeType = 0,
         id = 1209,
-        des2 = "生命+20685,总生命+20%",
+        des2 = "HP +20685, Total HP +20%",
         name = "",
         rangePrams = {
         },
@@ -26235,7 +26235,7 @@ return {
     [1211] = {
         rangeType = 0,
         id = 1211,
-        des2 = "火力+183",
+        des2 = "Firepower +183",
         name = "",
         rangePrams = {
         },
@@ -26250,7 +26250,7 @@ return {
     [1213] = {
         rangeType = 0,
         id = 1213,
-        des2 = "火力+318",
+        des2 = "Firepower +318",
         name = "",
         rangePrams = {
         },
@@ -26265,7 +26265,7 @@ return {
     [1215] = {
         rangeType = 0,
         id = 1215,
-        des2 = "火力+454",
+        des2 = "Firepower +454",
         name = "",
         rangePrams = {
         },
@@ -26280,7 +26280,7 @@ return {
     [1217] = {
         rangeType = 0,
         id = 1217,
-        des2 = "火力+589",
+        des2 = "Firepower +589",
         name = "",
         rangePrams = {
         },
@@ -26295,7 +26295,7 @@ return {
     [1219] = {
         rangeType = 0,
         id = 1219,
-        des2 = "火力+724",
+        des2 = "Firepower +724",
         name = "",
         rangePrams = {
         },
@@ -26326,7 +26326,7 @@ return {
     [1223] = {
         rangeType = 0,
         id = 1223,
-        des2 = "火力+926,总火力+2%",
+        des2 = "Firepower +926, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -26357,7 +26357,7 @@ return {
     [1227] = {
         rangeType = 0,
         id = 1227,
-        des2 = "火力+1197,总火力+2%",
+        des2 = "Firepower +1197, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -26373,7 +26373,7 @@ return {
     [1229] = {
         rangeType = 0,
         id = 1229,
-        des2 = "火力+1332,总火力+2%",
+        des2 = "Firepower +1332, Total Firepower +2%",
         name = "",
         rangePrams = {
         },
@@ -26389,7 +26389,7 @@ return {
     [1231] = {
         rangeType = 0,
         id = 1231,
-        des2 = "火力+1467,总火力+4%",
+        des2 = "Firepower +1467, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -26405,7 +26405,7 @@ return {
     [1233] = {
         rangeType = 0,
         id = 1233,
-        des2 = "火力+1534,总火力+4%",
+        des2 = "Firepower +1534, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -26421,7 +26421,7 @@ return {
     [1235] = {
         rangeType = 0,
         id = 1235,
-        des2 = "火力+1669,总火力+4%",
+        des2 = "Firepower +1669, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -26437,7 +26437,7 @@ return {
     [1237] = {
         rangeType = 0,
         id = 1237,
-        des2 = "火力+1805,总火力+4%",
+        des2 = "Firepower +1805, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -26453,7 +26453,7 @@ return {
     [1239] = {
         rangeType = 0,
         id = 1239,
-        des2 = "火力+1940,总火力+4%",
+        des2 = "Firepower +1940, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -26469,7 +26469,7 @@ return {
     [1241] = {
         rangeType = 0,
         id = 1241,
-        des2 = "火力+2075,总火力+4%",
+        des2 = "Firepower +2075, Total Firepower +4%",
         name = "",
         rangePrams = {
         },
@@ -26485,7 +26485,7 @@ return {
     [1385] = {
         rangeType = 0,
         id = 1385,
-        des2 = "护甲+2674,总护甲+12%",
+        des2 = "Armor +2674, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -26501,7 +26501,7 @@ return {
     [1245] = {
         rangeType = 0,
         id = 1245,
-        des2 = "火力+2277,总火力+6%",
+        des2 = "Firepower +2277, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -26517,7 +26517,7 @@ return {
     [1247] = {
         rangeType = 0,
         id = 1247,
-        des2 = "火力+2413,总火力+6%",
+        des2 = "Firepower +2413, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -26533,7 +26533,7 @@ return {
     [1249] = {
         rangeType = 0,
         id = 1249,
-        des2 = "火力+2548,总火力+6%",
+        des2 = "Firepower +2548, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -26549,7 +26549,7 @@ return {
     [1251] = {
         rangeType = 0,
         id = 1251,
-        des2 = "火力+2683,总火力+6%",
+        des2 = "Firepower +2683, Total Firepower +6%",
         name = "",
         rangePrams = {
         },
@@ -26581,7 +26581,7 @@ return {
     [1255] = {
         rangeType = 0,
         id = 1255,
-        des2 = "火力+2885,总火力+8%",
+        des2 = "Firepower +2885, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -26612,7 +26612,7 @@ return {
     [1259] = {
         rangeType = 0,
         id = 1259,
-        des2 = "火力+3156,总火力+8%",
+        des2 = "Firepower +3156, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -26628,7 +26628,7 @@ return {
     [1261] = {
         rangeType = 0,
         id = 1261,
-        des2 = "火力+3291,总火力+8%",
+        des2 = "Firepower +3291, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -26644,7 +26644,7 @@ return {
     [1263] = {
         rangeType = 0,
         id = 1263,
-        des2 = "火力+3426,总火力+8%",
+        des2 = "Firepower +3426, Total Firepower +8%",
         name = "",
         rangePrams = {
         },
@@ -26675,7 +26675,7 @@ return {
     [1267] = {
         rangeType = 0,
         id = 1267,
-        des2 = "火力+3628,总火力+10%",
+        des2 = "Firepower +3628, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -26691,7 +26691,7 @@ return {
     [1269] = {
         rangeType = 0,
         id = 1269,
-        des2 = "火力+3764,总火力+10%",
+        des2 = "Firepower +3764, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -26707,7 +26707,7 @@ return {
     [1271] = {
         rangeType = 0,
         id = 1271,
-        des2 = "火力+3899,总火力+10%",
+        des2 = "Firepower +3899, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -26723,7 +26723,7 @@ return {
     [1273] = {
         rangeType = 0,
         id = 1273,
-        des2 = "火力+4034,总火力+10%",
+        des2 = "Firepower +4034, Total Firepower +10%",
         name = "",
         rangePrams = {
         },
@@ -26739,7 +26739,7 @@ return {
     [1275] = {
         rangeType = 0,
         id = 1275,
-        des2 = "火力+4169,总火力+12%",
+        des2 = "Firepower +4169, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -26755,7 +26755,7 @@ return {
     [1277] = {
         rangeType = 0,
         id = 1277,
-        des2 = "火力+4236,总火力+12%",
+        des2 = "Firepower +4236, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -26771,7 +26771,7 @@ return {
     [1279] = {
         rangeType = 0,
         id = 1279,
-        des2 = "火力+4371,总火力+12%",
+        des2 = "Firepower +4371, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -26787,7 +26787,7 @@ return {
     [1281] = {
         rangeType = 0,
         id = 1281,
-        des2 = "火力+4507,总火力+12%",
+        des2 = "Firepower +4507, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -26803,7 +26803,7 @@ return {
     [1283] = {
         rangeType = 0,
         id = 1283,
-        des2 = "火力+4642,总火力+12%",
+        des2 = "Firepower +4642, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -26819,7 +26819,7 @@ return {
     [1285] = {
         rangeType = 0,
         id = 1285,
-        des2 = "火力+4777,总火力+12%",
+        des2 = "Firepower +4777, Total Firepower +12%",
         name = "",
         rangePrams = {
         },
@@ -26866,7 +26866,7 @@ return {
     [1291] = {
         rangeType = 0,
         id = 1291,
-        des2 = "火力+5115,总火力+14%",
+        des2 = "Firepower +5115, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -26882,7 +26882,7 @@ return {
     [1293] = {
         rangeType = 0,
         id = 1293,
-        des2 = "火力+5250,总火力+14%",
+        des2 = "Firepower +5250, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -26898,7 +26898,7 @@ return {
     [1295] = {
         rangeType = 0,
         id = 1295,
-        des2 = "火力+5385,总火力+14%",
+        des2 = "Firepower +5385, Total Firepower +14%",
         name = "",
         rangePrams = {
         },
@@ -26914,7 +26914,7 @@ return {
     [1297] = {
         rangeType = 0,
         id = 1297,
-        des2 = "火力+5520,总火力+16%",
+        des2 = "Firepower +5520, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -26930,7 +26930,7 @@ return {
     [1299] = {
         rangeType = 0,
         id = 1299,
-        des2 = "火力+5587,总火力+16%",
+        des2 = "Firepower +5587, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -26946,7 +26946,7 @@ return {
     [1301] = {
         rangeType = 0,
         id = 1301,
-        des2 = "火力+5722,总火力+16%",
+        des2 = "Firepower +5722, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -26962,7 +26962,7 @@ return {
     [1303] = {
         rangeType = 0,
         id = 1303,
-        des2 = "火力+5858,总火力+16%",
+        des2 = "Firepower +5858, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -26978,7 +26978,7 @@ return {
     [1305] = {
         rangeType = 0,
         id = 1305,
-        des2 = "火力+5993,总火力+16%",
+        des2 = "Firepower +5993, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -26994,7 +26994,7 @@ return {
     [1307] = {
         rangeType = 0,
         id = 1307,
-        des2 = "火力+6128,总火力+16%",
+        des2 = "Firepower +6128, Total Firepower +16%",
         name = "",
         rangePrams = {
         },
@@ -27010,7 +27010,7 @@ return {
     [1445] = {
         rangeType = 0,
         id = 1445,
-        des2 = "战斗速度+520,总战斗速度+2%",
+        des2 = "Battle Speed +520, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -27026,7 +27026,7 @@ return {
     [1311] = {
         rangeType = 0,
         id = 1311,
-        des2 = "火力+6330,总火力+18%",
+        des2 = "Firepower +6330, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -27042,7 +27042,7 @@ return {
     [1313] = {
         rangeType = 0,
         id = 1313,
-        des2 = "火力+6466,总火力+18%",
+        des2 = "Firepower +6466, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -27058,7 +27058,7 @@ return {
     [1315] = {
         rangeType = 0,
         id = 1315,
-        des2 = "火力+6601,总火力+18%",
+        des2 = "Firepower +6601, Total Firepower +18%",
         name = "",
         rangePrams = {
         },
@@ -27090,7 +27090,7 @@ return {
     [1319] = {
         rangeType = 0,
         id = 1319,
-        des2 = "火力+6871,总火力+20%",
+        des2 = "Firepower +6871, Total Firepower +20%",
         name = "",
         rangePrams = {
         },
@@ -27121,7 +27121,7 @@ return {
     [1323] = {
         rangeType = 0,
         id = 1323,
-        des2 = "护甲+497",
+        des2 = "Armor +497",
         name = "",
         rangePrams = {
         },
@@ -27136,7 +27136,7 @@ return {
     [1325] = {
         rangeType = 0,
         id = 1325,
-        des2 = "护甲+573",
+        des2 = "Armor +573",
         name = "",
         rangePrams = {
         },
@@ -27151,7 +27151,7 @@ return {
     [1327] = {
         rangeType = 0,
         id = 1327,
-        des2 = "护甲+649",
+        des2 = "Armor +649",
         name = "",
         rangePrams = {
         },
@@ -27166,7 +27166,7 @@ return {
     [1329] = {
         rangeType = 0,
         id = 1329,
-        des2 = "护甲+726",
+        des2 = "Armor +726",
         name = "",
         rangePrams = {
         },
@@ -27196,7 +27196,7 @@ return {
     [1333] = {
         rangeType = 0,
         id = 1333,
-        des2 = "护甲+840,总护甲+2%",
+        des2 = "Armor +840, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -27212,7 +27212,7 @@ return {
     [1335] = {
         rangeType = 0,
         id = 1335,
-        des2 = "护甲+917,总护甲+2%",
+        des2 = "Armor +917, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -27228,7 +27228,7 @@ return {
     [1337] = {
         rangeType = 0,
         id = 1337,
-        des2 = "护甲+993,总护甲+2%",
+        des2 = "Armor +993, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -27244,7 +27244,7 @@ return {
     [1339] = {
         rangeType = 0,
         id = 1339,
-        des2 = "护甲+1070,总护甲+2%",
+        des2 = "Armor +1070, Total Armor +2%",
         name = "",
         rangePrams = {
         },
@@ -27260,7 +27260,7 @@ return {
     [1341] = {
         rangeType = 0,
         id = 1341,
-        des2 = "护甲+1146,总护甲+4%",
+        des2 = "Armor +1146, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -27276,7 +27276,7 @@ return {
     [1343] = {
         rangeType = 0,
         id = 1343,
-        des2 = "护甲+1184,总护甲+4%",
+        des2 = "Armor +1184, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -27292,7 +27292,7 @@ return {
     [1345] = {
         rangeType = 0,
         id = 1345,
-        des2 = "护甲+1261,总护甲+4%",
+        des2 = "Armor +1261, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -27308,7 +27308,7 @@ return {
     [1347] = {
         rangeType = 0,
         id = 1347,
-        des2 = "护甲+1337,总护甲+4%",
+        des2 = "Armor +1337, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -27324,7 +27324,7 @@ return {
     [1349] = {
         rangeType = 0,
         id = 1349,
-        des2 = "护甲+1413,总护甲+4%",
+        des2 = "Armor +1413, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -27340,7 +27340,7 @@ return {
     [1351] = {
         rangeType = 0,
         id = 1351,
-        des2 = "护甲+1490,总护甲+4%",
+        des2 = "Armor +1490, Total Armor +4%",
         name = "",
         rangePrams = {
         },
@@ -27371,7 +27371,7 @@ return {
     [1355] = {
         rangeType = 0,
         id = 1355,
-        des2 = "护甲+1604,总护甲+6%",
+        des2 = "Armor +1604, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -27387,7 +27387,7 @@ return {
     [1357] = {
         rangeType = 0,
         id = 1357,
-        des2 = "护甲+1681,总护甲+6%",
+        des2 = "Armor +1681, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -27403,7 +27403,7 @@ return {
     [1359] = {
         rangeType = 0,
         id = 1359,
-        des2 = "护甲+1757,总护甲+6%",
+        des2 = "Armor +1757, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -27419,7 +27419,7 @@ return {
     [1361] = {
         rangeType = 0,
         id = 1361,
-        des2 = "护甲+1834,总护甲+6%",
+        des2 = "Armor +1834, Total Armor +6%",
         name = "",
         rangePrams = {
         },
@@ -27435,7 +27435,7 @@ return {
     [1363] = {
         rangeType = 0,
         id = 1363,
-        des2 = "护甲+1910,总护甲+8%",
+        des2 = "Armor +1910, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -27451,7 +27451,7 @@ return {
     [1365] = {
         rangeType = 0,
         id = 1365,
-        des2 = "护甲+1948,总护甲+8%",
+        des2 = "Armor +1948, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -27467,7 +27467,7 @@ return {
     [1367] = {
         rangeType = 0,
         id = 1367,
-        des2 = "护甲+2025,总护甲+8%",
+        des2 = "Armor +2025, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -27483,7 +27483,7 @@ return {
     [1369] = {
         rangeType = 0,
         id = 1369,
-        des2 = "护甲+2101,总护甲+8%",
+        des2 = "Armor +2101, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -27499,7 +27499,7 @@ return {
     [1371] = {
         rangeType = 0,
         id = 1371,
-        des2 = "护甲+2177,总护甲+8%",
+        des2 = "Armor +2177, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -27515,7 +27515,7 @@ return {
     [1373] = {
         rangeType = 0,
         id = 1373,
-        des2 = "护甲+2254,总护甲+8%",
+        des2 = "Armor +2254, Total Armor +8%",
         name = "",
         rangePrams = {
         },
@@ -27531,7 +27531,7 @@ return {
     [1501] = {
         rangeType = 0,
         id = 1501,
-        des2 = "战斗速度+2050,总战斗速度+12%",
+        des2 = "Battle Speed +2050, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -27547,7 +27547,7 @@ return {
     [1377] = {
         rangeType = 0,
         id = 1377,
-        des2 = "护甲+2368,总护甲+10%",
+        des2 = "Armor +2368, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -27563,7 +27563,7 @@ return {
     [1379] = {
         rangeType = 0,
         id = 1379,
-        des2 = "护甲+2445,总护甲+10%",
+        des2 = "Armor +2445, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -27595,7 +27595,7 @@ return {
     [1383] = {
         rangeType = 0,
         id = 1383,
-        des2 = "护甲+2598,总护甲+10%",
+        des2 = "Armor +2598, Total Armor +10%",
         name = "",
         rangePrams = {
         },
@@ -27626,7 +27626,7 @@ return {
     [1387] = {
         rangeType = 0,
         id = 1387,
-        des2 = "护甲+2712,总护甲+12%",
+        des2 = "Armor +2712, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -27642,7 +27642,7 @@ return {
     [1389] = {
         rangeType = 0,
         id = 1389,
-        des2 = "护甲+2789,总护甲+12%",
+        des2 = "Armor +2789, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -27658,7 +27658,7 @@ return {
     [1391] = {
         rangeType = 0,
         id = 1391,
-        des2 = "护甲+2865,总护甲+12%",
+        des2 = "Armor +2865, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -27674,7 +27674,7 @@ return {
     [1393] = {
         rangeType = 0,
         id = 1393,
-        des2 = "护甲+2941,总护甲+12%",
+        des2 = "Armor +2941, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -27690,7 +27690,7 @@ return {
     [1395] = {
         rangeType = 0,
         id = 1395,
-        des2 = "护甲+3018,总护甲+12%",
+        des2 = "Armor +3018, Total Armor +12%",
         name = "",
         rangePrams = {
         },
@@ -27706,7 +27706,7 @@ return {
     [1513] = {
         rangeType = 0,
         id = 1513,
-        des2 = "战斗速度+2380,总战斗速度+14%",
+        des2 = "Battle Speed +2380, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -27722,7 +27722,7 @@ return {
     [1399] = {
         rangeType = 0,
         id = 1399,
-        des2 = "护甲+3132,总护甲+14%",
+        des2 = "Armor +3132, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -27738,7 +27738,7 @@ return {
     [1401] = {
         rangeType = 0,
         id = 1401,
-        des2 = "护甲+3209,总护甲+14%",
+        des2 = "Armor +3209, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -27754,7 +27754,7 @@ return {
     [1403] = {
         rangeType = 0,
         id = 1403,
-        des2 = "护甲+3285,总护甲+14%",
+        des2 = "Armor +3285, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -27770,7 +27770,7 @@ return {
     [1405] = {
         rangeType = 0,
         id = 1405,
-        des2 = "护甲+3362,总护甲+14%",
+        des2 = "Armor +3362, Total Armor +14%",
         name = "",
         rangePrams = {
         },
@@ -27786,7 +27786,7 @@ return {
     [1407] = {
         rangeType = 0,
         id = 1407,
-        des2 = "护甲+3438,总护甲+16%",
+        des2 = "Armor +3438, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -27802,7 +27802,7 @@ return {
     [1409] = {
         rangeType = 0,
         id = 1409,
-        des2 = "护甲+3476,总护甲+16%",
+        des2 = "Armor +3476, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -27818,7 +27818,7 @@ return {
     [1411] = {
         rangeType = 0,
         id = 1411,
-        des2 = "护甲+3553,总护甲+16%",
+        des2 = "Armor +3553, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -27834,7 +27834,7 @@ return {
     [1413] = {
         rangeType = 0,
         id = 1413,
-        des2 = "护甲+3629,总护甲+16%",
+        des2 = "Armor +3629, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -27850,7 +27850,7 @@ return {
     [1415] = {
         rangeType = 0,
         id = 1415,
-        des2 = "护甲+3705,总护甲+16%",
+        des2 = "Armor +3705, Total Armor +16%",
         name = "",
         rangePrams = {
         },
@@ -27897,7 +27897,7 @@ return {
     [1421] = {
         rangeType = 0,
         id = 1421,
-        des2 = "护甲+3896,总护甲+18%",
+        des2 = "Armor +3896, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -27913,7 +27913,7 @@ return {
     [1423] = {
         rangeType = 0,
         id = 1423,
-        des2 = "护甲+3973,总护甲+18%",
+        des2 = "Armor +3973, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -27929,7 +27929,7 @@ return {
     [1425] = {
         rangeType = 0,
         id = 1425,
-        des2 = "护甲+4049,总护甲+18%",
+        des2 = "Armor +4049, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -27945,7 +27945,7 @@ return {
     [1427] = {
         rangeType = 0,
         id = 1427,
-        des2 = "护甲+4126,总护甲+18%",
+        des2 = "Armor +4126, Total Armor +18%",
         name = "",
         rangePrams = {
         },
@@ -27961,7 +27961,7 @@ return {
     [1429] = {
         rangeType = 0,
         id = 1429,
-        des2 = "护甲+4202,总护甲+20%",
+        des2 = "Armor +4202, Total Armor +20%",
         name = "",
         rangePrams = {
         },
@@ -27977,7 +27977,7 @@ return {
     [1431] = {
         rangeType = 0,
         id = 1431,
-        des2 = "战斗速度+130",
+        des2 = "Battle Speed +130",
         name = "",
         rangePrams = {
         },
@@ -27992,7 +27992,7 @@ return {
     [1433] = {
         rangeType = 0,
         id = 1433,
-        des2 = "战斗速度+190",
+        des2 = "Battle Speed +190",
         name = "",
         rangePrams = {
         },
@@ -28007,7 +28007,7 @@ return {
     [1435] = {
         rangeType = 0,
         id = 1435,
-        des2 = "战斗速度+250",
+        des2 = "Battle Speed +250",
         name = "",
         rangePrams = {
         },
@@ -28022,7 +28022,7 @@ return {
     [1437] = {
         rangeType = 0,
         id = 1437,
-        des2 = "战斗速度+310",
+        des2 = "Battle Speed +310",
         name = "",
         rangePrams = {
         },
@@ -28037,7 +28037,7 @@ return {
     [1439] = {
         rangeType = 0,
         id = 1439,
-        des2 = "战斗速度+370",
+        des2 = "Battle Speed +370",
         name = "",
         rangePrams = {
         },
@@ -28052,7 +28052,7 @@ return {
     [1610] = {
         rangeType = 0,
         id = 1610,
-        des2 = "采集容量+2420,飞行速度+12%",
+        des2 = "Collection Capacity +2420, Fly Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -28068,7 +28068,7 @@ return {
     [1443] = {
         rangeType = 0,
         id = 1443,
-        des2 = "战斗速度+460,总战斗速度+2%",
+        des2 = "Battle Speed +460, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -28100,7 +28100,7 @@ return {
     [1447] = {
         rangeType = 0,
         id = 1447,
-        des2 = "战斗速度+580,总战斗速度+2%",
+        des2 = "Battle Speed +580, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -28116,7 +28116,7 @@ return {
     [1449] = {
         rangeType = 0,
         id = 1449,
-        des2 = "战斗速度+640,总战斗速度+2%",
+        des2 = "Battle Speed +640, Total Battle Speed +2%",
         name = "",
         rangePrams = {
         },
@@ -28132,7 +28132,7 @@ return {
     [1451] = {
         rangeType = 0,
         id = 1451,
-        des2 = "战斗速度+700,总战斗速度+4%",
+        des2 = "Battle Speed +700, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -28148,7 +28148,7 @@ return {
     [1453] = {
         rangeType = 0,
         id = 1453,
-        des2 = "战斗速度+730,总战斗速度+4%",
+        des2 = "Battle Speed +730, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -28164,7 +28164,7 @@ return {
     [1455] = {
         rangeType = 0,
         id = 1455,
-        des2 = "战斗速度+790,总战斗速度+4%",
+        des2 = "Battle Speed +790, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -28180,7 +28180,7 @@ return {
     [1457] = {
         rangeType = 0,
         id = 1457,
-        des2 = "战斗速度+850,总战斗速度+4%",
+        des2 = "Battle Speed +850, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -28196,7 +28196,7 @@ return {
     [1459] = {
         rangeType = 0,
         id = 1459,
-        des2 = "战斗速度+910,总战斗速度+4%",
+        des2 = "Battle Speed +910, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -28212,7 +28212,7 @@ return {
     [1461] = {
         rangeType = 0,
         id = 1461,
-        des2 = "战斗速度+970,总战斗速度+4%",
+        des2 = "Battle Speed +970, Total Battle Speed +4%",
         name = "",
         rangePrams = {
         },
@@ -28244,7 +28244,7 @@ return {
     [1465] = {
         rangeType = 0,
         id = 1465,
-        des2 = "战斗速度+1060,总战斗速度+6%",
+        des2 = "Battle Speed +1060, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -28260,7 +28260,7 @@ return {
     [1467] = {
         rangeType = 0,
         id = 1467,
-        des2 = "战斗速度+1120,总战斗速度+6%",
+        des2 = "Battle Speed +1120, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -28276,7 +28276,7 @@ return {
     [1469] = {
         rangeType = 0,
         id = 1469,
-        des2 = "战斗速度+1180,总战斗速度+6%",
+        des2 = "Battle Speed +1180, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -28292,7 +28292,7 @@ return {
     [1471] = {
         rangeType = 0,
         id = 1471,
-        des2 = "战斗速度+1240,总战斗速度+6%",
+        des2 = "Battle Speed +1240, Total Battle Speed +6%",
         name = "",
         rangePrams = {
         },
@@ -28308,7 +28308,7 @@ return {
     [1473] = {
         rangeType = 0,
         id = 1473,
-        des2 = "战斗速度+1300,总战斗速度+8%",
+        des2 = "Battle Speed +1300, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -28324,7 +28324,7 @@ return {
     [1475] = {
         rangeType = 0,
         id = 1475,
-        des2 = "战斗速度+1330,总战斗速度+8%",
+        des2 = "Battle Speed +1330, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -28340,7 +28340,7 @@ return {
     [1477] = {
         rangeType = 0,
         id = 1477,
-        des2 = "战斗速度+1390,总战斗速度+8%",
+        des2 = "Battle Speed +1390, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -28356,7 +28356,7 @@ return {
     [1479] = {
         rangeType = 0,
         id = 1479,
-        des2 = "战斗速度+1450,总战斗速度+8%",
+        des2 = "Battle Speed +1450, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -28387,7 +28387,7 @@ return {
     [1483] = {
         rangeType = 0,
         id = 1483,
-        des2 = "战斗速度+1570,总战斗速度+8%",
+        des2 = "Battle Speed +1570, Total Battle Speed +8%",
         name = "",
         rangePrams = {
         },
@@ -28417,7 +28417,7 @@ return {
     [1487] = {
         rangeType = 0,
         id = 1487,
-        des2 = "战斗速度+1660,总战斗速度+10%",
+        des2 = "Battle Speed +1660, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -28433,7 +28433,7 @@ return {
     [1489] = {
         rangeType = 0,
         id = 1489,
-        des2 = "战斗速度+1720,总战斗速度+10%",
+        des2 = "Battle Speed +1720, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -28449,7 +28449,7 @@ return {
     [1491] = {
         rangeType = 0,
         id = 1491,
-        des2 = "战斗速度+1780,总战斗速度+10%",
+        des2 = "Battle Speed +1780, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -28465,7 +28465,7 @@ return {
     [1493] = {
         rangeType = 0,
         id = 1493,
-        des2 = "战斗速度+1840,总战斗速度+10%",
+        des2 = "Battle Speed +1840, Total Battle Speed +10%",
         name = "",
         rangePrams = {
         },
@@ -28481,7 +28481,7 @@ return {
     [1495] = {
         rangeType = 0,
         id = 1495,
-        des2 = "战斗速度+1900,总战斗速度+12%",
+        des2 = "Battle Speed +1900, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -28497,7 +28497,7 @@ return {
     [1497] = {
         rangeType = 0,
         id = 1497,
-        des2 = "战斗速度+1930,总战斗速度+12%",
+        des2 = "Battle Speed +1930, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -28513,7 +28513,7 @@ return {
     [1499] = {
         rangeType = 0,
         id = 1499,
-        des2 = "战斗速度+1990,总战斗速度+12%",
+        des2 = "Battle Speed +1990, Total Battle Speed +12%",
         name = "",
         rangePrams = {
         },
@@ -28529,7 +28529,7 @@ return {
     [3001] = {
         rangeType = 0,
         id = 3001,
-        des2 = "飞舰生命+0.42%",
+        des2 = "Airship HP +0.42%",
         name = "",
         rangePrams = {
         },
@@ -28544,7 +28544,7 @@ return {
     [3005] = {
         rangeType = 0,
         id = 3005,
-        des2 = "飞舰生命+2.08%",
+        des2 = "Airship HP +2.08%",
         name = "",
         rangePrams = {
         },
@@ -28559,7 +28559,7 @@ return {
     [3009] = {
         rangeType = 0,
         id = 3009,
-        des2 = "飞舰生命+3.75%",
+        des2 = "Airship HP +3.75%",
         name = "",
         rangePrams = {
         },
@@ -28574,7 +28574,7 @@ return {
     [3013] = {
         rangeType = 0,
         id = 3013,
-        des2 = "飞舰生命+5.42%",
+        des2 = "Airship HP +5.42%",
         name = "",
         rangePrams = {
         },
@@ -28605,7 +28605,7 @@ return {
     [1511] = {
         rangeType = 0,
         id = 1511,
-        des2 = "战斗速度+2320,总战斗速度+14%",
+        des2 = "Battle Speed +2320, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -28636,7 +28636,7 @@ return {
     [1515] = {
         rangeType = 0,
         id = 1515,
-        des2 = "战斗速度+2440,总战斗速度+14%",
+        des2 = "Battle Speed +2440, Total Battle Speed +14%",
         name = "",
         rangePrams = {
         },
@@ -28652,7 +28652,7 @@ return {
     [1517] = {
         rangeType = 0,
         id = 1517,
-        des2 = "战斗速度+2500,总战斗速度+16%",
+        des2 = "Battle Speed +2500, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -28668,7 +28668,7 @@ return {
     [1519] = {
         rangeType = 0,
         id = 1519,
-        des2 = "战斗速度+2530,总战斗速度+16%",
+        des2 = "Battle Speed +2530, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -28684,7 +28684,7 @@ return {
     [1521] = {
         rangeType = 0,
         id = 1521,
-        des2 = "战斗速度+2590,总战斗速度+16%",
+        des2 = "Battle Speed +2590, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -28700,7 +28700,7 @@ return {
     [1523] = {
         rangeType = 0,
         id = 1523,
-        des2 = "战斗速度+2650,总战斗速度+16%",
+        des2 = "Battle Speed +2650, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -28716,7 +28716,7 @@ return {
     [1525] = {
         rangeType = 0,
         id = 1525,
-        des2 = "战斗速度+2710,总战斗速度+16%",
+        des2 = "Battle Speed +2710, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -28732,7 +28732,7 @@ return {
     [1527] = {
         rangeType = 0,
         id = 1527,
-        des2 = "战斗速度+2770,总战斗速度+16%",
+        des2 = "Battle Speed +2770, Total Battle Speed +16%",
         name = "",
         rangePrams = {
         },
@@ -28764,7 +28764,7 @@ return {
     [3212] = {
         rangeType = 0,
         id = 3212,
-        des2 = "飞舰防御+5.00%",
+        des2 = "Airship DEF +5.00%",
         name = "",
         rangePrams = {
         },

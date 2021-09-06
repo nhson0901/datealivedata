@@ -70,6 +70,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
+						PositionX = -101,
+						PositionY = 54,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -108,12 +110,13 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 563,
-						PositionY = 484,
-						LeftPositon = 463,
-						TopPosition = 130,
+						PositionX = 466,
+						PositionY = 539,
+						TopPosition = 185,
 						relativeToName = "Panel",
 						nType = 3,
+						nGravity = 6,
+						nAlign = 2
 					},
 					uipanelviewmodel = 
 					{
@@ -148,8 +151,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 568,
-						PositionY = 320,
+						PositionX = 466,
+						PositionY = 374,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -778,7 +781,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = 9,
-						PositionY = -760,
+						PositionY = -651,
 						LeftPositon = 9,
 						TopPosition = 760,
 						relativeToName = "Panel",

@@ -30,7 +30,7 @@ return {
         id = 101010,
         order = 10,
         count = 1,
-        des = "发现于「根达亚盆地」",
+        des = "Found in [Gondayer Basin]",
     },
     [101026] = {
         chapterID = 10101,
@@ -41,7 +41,7 @@ return {
         id = 101026,
         order = 26,
         count = 1,
-        des = "发现于「监视者山地」",
+        des = "Found in [Watcher Mountains]",
     },
     [301013] = {
         chapterID = 10103,
@@ -52,7 +52,7 @@ return {
         id = 301013,
         order = 13,
         count = 1,
-        des = "发现于「太阳神盆地」",
+        des = "Found in [Apollo Basin]",
     },
     [203007] = {
         chapterID = 10102,
@@ -87,7 +87,7 @@ return {
         id = 201031,
         order = 31,
         count = 3,
-        des = "发现于「冻岩丘陵」",
+        des = "Found in [Frozen Rock Hills]",
     },
     [301015] = {
         chapterID = 10103,
@@ -98,7 +98,7 @@ return {
         id = 301015,
         order = 15,
         count = 1,
-        des = "发现于「水晶宫平原」",
+        des = "Found in [Crystal Palace Plain]",
     },
     [103003] = {
         chapterID = 10101,
@@ -131,7 +131,7 @@ return {
         id = 101011,
         order = 11,
         count = 1,
-        des = "发现于「猎爪丘陵」",
+        des = "Found in [Hunter's Hills]",
     },
     [101027] = {
         chapterID = 10101,
@@ -142,7 +142,7 @@ return {
         id = 101027,
         order = 27,
         count = 1,
-        des = "发现于「监视者山地」",
+        des = "Found in [Watcher Mountains]",
     },
     [301017] = {
         chapterID = 10103,
@@ -153,7 +153,7 @@ return {
         id = 301017,
         order = 17,
         count = 1,
-        des = "发现于「水晶宫平原」",
+        des = "Found in [Crystal Palace Plain]",
     },
     [201001] = {
         chapterID = 10102,
@@ -164,7 +164,7 @@ return {
         id = 201001,
         order = 1,
         count = 1,
-        des = "发现于「咸鱼盆地」",
+        des = "Found in [Salted Fish Basin]",
     },
     [201033] = {
         chapterID = 10102,
@@ -175,7 +175,7 @@ return {
         id = 201033,
         order = 33,
         count = 1,
-        des = "发现于「冻岩丘陵」",
+        des = "Found in [Frozen Rock Hills]",
     },
     [301019] = {
         chapterID = 10103,
@@ -186,7 +186,7 @@ return {
         id = 301019,
         order = 19,
         count = 1,
-        des = "发现于「裂谷盆地」",
+        des = "Found in [Rift Basin]",
     },
     [103004] = {
         chapterID = 10101,
@@ -219,7 +219,7 @@ return {
         id = 201002,
         order = 2,
         count = 1,
-        des = "发现于「咸鱼盆地」",
+        des = "Found in [Salted Fish Basin]",
     },
     [201034] = {
         chapterID = 10102,
@@ -230,7 +230,7 @@ return {
         id = 201034,
         order = 34,
         count = 1,
-        des = "发现于「大食平原」",
+        des = "Found in [Plain of Feasting]",
     },
     [301021] = {
         chapterID = 10103,
@@ -241,7 +241,7 @@ return {
         id = 301021,
         order = 21,
         count = 1,
-        des = "发现于「裂谷盆地」",
+        des = "Found in [Rift Basin]",
     },
     [201003] = {
         chapterID = 10102,
@@ -252,7 +252,7 @@ return {
         id = 201003,
         order = 3,
         count = 1,
-        des = "发现于「咸鱼盆地」",
+        des = "Found in [Salted Fish Basin]",
     },
     [201035] = {
         chapterID = 10102,
@@ -263,7 +263,7 @@ return {
         id = 201035,
         order = 35,
         count = 1,
-        des = "发现于「大食平原」",
+        des = "Found in [Plain of Feasting]",
     },
     [301023] = {
         chapterID = 10103,
@@ -274,7 +274,7 @@ return {
         id = 301023,
         order = 23,
         count = 1,
-        des = "发现于「珊瑚丘陵」",
+        des = "Found in [Coral Hills]",
     },
     [103005] = {
         chapterID = 10101,
@@ -318,7 +318,7 @@ return {
         id = 201004,
         order = 4,
         count = 1,
-        des = "发现于「甜甜圈盆地」",
+        des = "Found in [Donut Basin]",
     },
     [201036] = {
         chapterID = 10102,
@@ -329,7 +329,7 @@ return {
         id = 201036,
         order = 36,
         count = 1,
-        des = "发现于「大食平原」",
+        des = "Found in [Plain of Feasting]",
     },
     [303001] = {
         chapterID = 10103,
@@ -353,7 +353,7 @@ return {
         id = 301025,
         order = 25,
         count = 3,
-        des = "发现于「珊瑚丘陵」",
+        des = "Found in [Coral Hills]",
     },
     [303002] = {
         chapterID = 10103,
@@ -376,7 +376,7 @@ return {
         id = 201005,
         order = 5,
         count = 2,
-        des = "发现于「甜甜圈盆地」",
+        des = "Found in [Donut Basin]",
     },
     [201037] = {
         chapterID = 10102,
@@ -387,7 +387,7 @@ return {
         id = 201037,
         order = 37,
         count = 1,
-        des = "发现于「大食平原」",
+        des = "Found in [Plain of Feasting]",
     },
     [303003] = {
         chapterID = 10103,
@@ -409,7 +409,7 @@ return {
         id = 301027,
         order = 27,
         count = 1,
-        des = "发现于「珊瑚丘陵」",
+        des = "Found in [Coral Hills]",
     },
     [103006] = {
         chapterID = 10101,
@@ -453,7 +453,7 @@ return {
         id = 201006,
         order = 6,
         count = 1,
-        des = "发现于「甜甜圈盆地」",
+        des = "Found in [Donut Basin]",
     },
     [201038] = {
         chapterID = 10102,
@@ -464,7 +464,7 @@ return {
         id = 201038,
         order = 38,
         count = 1,
-        des = "发现于「大食平原」",
+        des = "Found in [Plain of Feasting]",
     },
     [303005] = {
         chapterID = 10103,
@@ -486,7 +486,7 @@ return {
         id = 301029,
         order = 29,
         count = 1,
-        des = "发现于「海神山地」",
+        des = "Found in [Poseidon Peak]",
     },
     [303006] = {
         chapterID = 10103,
@@ -508,7 +508,7 @@ return {
         id = 201007,
         order = 7,
         count = 1,
-        des = "发现于「永冻高原」",
+        des = "Found in [Frozen Plateau]",
     },
     [201039] = {
         chapterID = 10102,
@@ -519,7 +519,7 @@ return {
         id = 201039,
         order = 39,
         count = 1,
-        des = "发现于「大食平原」",
+        des = "Found in [Plain of Feasting]",
     },
     [303007] = {
         chapterID = 10103,
@@ -541,7 +541,7 @@ return {
         id = 301031,
         order = 31,
         count = 1,
-        des = "发现于「海神山地」",
+        des = "Found in [Poseidon Peak]",
     },
     [103007] = {
         chapterID = 10101,
@@ -585,7 +585,7 @@ return {
         id = 201008,
         order = 8,
         count = 1,
-        des = "发现于「永冻高原」",
+        des = "Found in [Frozen Plateau]",
     },
     [101031] = {
         chapterID = 10101,
@@ -596,7 +596,7 @@ return {
         id = 101031,
         order = 31,
         count = 1,
-        des = "发现于「天狗平原」",
+        des = "Found in [Kabuto Plain]",
     },
     [301033] = {
         chapterID = 10103,
@@ -607,7 +607,7 @@ return {
         id = 301033,
         order = 33,
         count = 1,
-        des = "发现于「海神山地」",
+        des = "Found in [Poseidon Peak]",
     },
     [201009] = {
         chapterID = 10102,
@@ -618,7 +618,7 @@ return {
         id = 201009,
         order = 9,
         count = 1,
-        des = "发现于「永冻高原」",
+        des = "Found in [Frozen Plateau]",
     },
     [201041] = {
         chapterID = 10102,
@@ -629,7 +629,7 @@ return {
         id = 201041,
         order = 41,
         count = 1,
-        des = "发现于「食之都平原」",
+        des = "Found in [Foodie Flatlands]",
     },
     [303004] = {
         chapterID = 10103,
@@ -662,7 +662,7 @@ return {
         id = 301035,
         order = 35,
         count = 1,
-        des = "发现于「珍珠丘陵」",
+        des = "Found in [Pearl Hills]",
     },
     [302022] = {
         chapterID = 10103,
@@ -706,7 +706,7 @@ return {
         id = 201010,
         order = 10,
         count = 1,
-        des = "发现于「风雪高原」",
+        des = "Found in [Blizzard Plateau]",
     },
     [101032] = {
         chapterID = 10101,
@@ -717,7 +717,7 @@ return {
         id = 101032,
         order = 32,
         count = 1,
-        des = "发现于「天狗平原」",
+        des = "Found in [Kabuto Plain]",
     },
     [302021] = {
         chapterID = 10103,
@@ -750,7 +750,7 @@ return {
         id = 301037,
         order = 37,
         count = 1,
-        des = "发现于「珍珠丘陵」",
+        des = "Found in [Pearl Hills]",
     },
     [202016] = {
         chapterID = 10102,
@@ -794,7 +794,7 @@ return {
         id = 201011,
         order = 11,
         count = 1,
-        des = "发现于「风雪高原」",
+        des = "Found in [Blizzard Plateau]",
     },
     [201043] = {
         chapterID = 10102,
@@ -805,7 +805,7 @@ return {
         id = 201043,
         order = 43,
         count = 1,
-        des = "发现于「食之都平原」",
+        des = "Found in [Foodie Flatlands]",
     },
     [302016] = {
         chapterID = 10103,
@@ -838,7 +838,7 @@ return {
         id = 301039,
         order = 39,
         count = 1,
-        des = "发现于「珍珠丘陵」",
+        des = "Found in [Pearl Hills]",
     },
     [302014] = {
         chapterID = 10103,
@@ -882,7 +882,7 @@ return {
         id = 101017,
         order = 17,
         count = 1,
-        des = "发现于「埋骨盆地」",
+        des = "Found in [Bone Cemetery]",
     },
     [101033] = {
         chapterID = 10101,
@@ -895,7 +895,7 @@ return {
         id = 101033,
         order = 33,
         count = 3,
-        des = "发现于「天狗平原」",
+        des = "Found in [Kabuto Plain]",
     },
     [301004] = {
         chapterID = 10103,
@@ -906,7 +906,7 @@ return {
         id = 301004,
         order = 4,
         count = 1,
-        des = "发现于「磁欧矿山地」",
+        des = "Found in [Tuaoi Mines]",
     },
     [302012] = {
         chapterID = 10103,
@@ -928,7 +928,7 @@ return {
         id = 301041,
         order = 41,
         count = 1,
-        des = "发现于「晶王座平原」",
+        des = "Found in [Plain of the Crystal Throne]",
     },
     [301008] = {
         chapterID = 10103,
@@ -939,7 +939,7 @@ return {
         id = 301008,
         order = 8,
         count = 1,
-        des = "发现于「鲨栖高原」",
+        des = "Found in [Shark Plateau]",
     },
     [302010] = {
         chapterID = 10103,
@@ -972,7 +972,7 @@ return {
         id = 201013,
         order = 13,
         count = 1,
-        des = "发现于「风雪高原」",
+        des = "Found in [Blizzard Plateau]",
     },
     [201045] = {
         chapterID = 10102,
@@ -983,7 +983,7 @@ return {
         id = 201045,
         order = 45,
         count = 1,
-        des = "发现于「食之都平原」",
+        des = "Found in [Foodie Flatlands]",
     },
     [301016] = {
         chapterID = 10103,
@@ -994,7 +994,7 @@ return {
         id = 301016,
         order = 16,
         count = 1,
-        des = "发现于「水晶宫平原」",
+        des = "Found in [Crystal Palace Plain]",
     },
     [302008] = {
         chapterID = 10103,
@@ -1016,7 +1016,7 @@ return {
         id = 301043,
         order = 43,
         count = 1,
-        des = "发现于「晶王座平原」",
+        des = "Found in [Plain of the Crystal Throne]",
     },
     [301024] = {
         chapterID = 10103,
@@ -1027,7 +1027,7 @@ return {
         id = 301024,
         order = 24,
         count = 1,
-        des = "发现于「珊瑚丘陵」",
+        des = "Found in [Coral Hills]",
     },
     [102006] = {
         chapterID = 10101,
@@ -1060,7 +1060,7 @@ return {
         id = 201014,
         order = 14,
         count = 1,
-        des = "发现于「浮冰丘陵」",
+        des = "Found in [Hills of Ice]",
     },
     [101034] = {
         chapterID = 10101,
@@ -1071,7 +1071,7 @@ return {
         id = 101034,
         order = 34,
         count = 1,
-        des = "发现于「天狗平原」",
+        des = "Found in [Kabuto Plain]",
     },
     [302006] = {
         chapterID = 10103,
@@ -1104,7 +1104,7 @@ return {
         id = 301045,
         order = 45,
         count = 1,
-        des = "发现于「晶王座平原」",
+        des = "Found in [Plain of the Crystal Throne]",
     },
     [301036] = {
         chapterID = 10103,
@@ -1115,7 +1115,7 @@ return {
         id = 301036,
         order = 36,
         count = 1,
-        des = "发现于「珍珠丘陵」",
+        des = "Found in [Pearl Hills]",
     },
     [302004] = {
         chapterID = 10103,
@@ -1148,7 +1148,7 @@ return {
         id = 201015,
         order = 15,
         count = 1,
-        des = "发现于「浮冰丘陵」",
+        des = "Found in [Hills of Ice]",
     },
     [301044] = {
         chapterID = 10103,
@@ -1159,7 +1159,7 @@ return {
         id = 301044,
         order = 44,
         count = 1,
-        des = "发现于「晶王座平原」",
+        des = "Found in [Plain of the Crystal Throne]",
     },
     [302002] = {
         chapterID = 10103,
@@ -1192,7 +1192,7 @@ return {
         id = 301042,
         order = 42,
         count = 1,
-        des = "发现于「晶王座平原」",
+        des = "Found in [Plain of the Crystal Throne]",
     },
     [301040] = {
         chapterID = 10103,
@@ -1203,7 +1203,7 @@ return {
         id = 301040,
         order = 40,
         count = 1,
-        des = "发现于「晶王座平原」",
+        des = "Found in [Plain of the Crystal Throne]",
     },
     [102007] = {
         chapterID = 10101,
@@ -1236,7 +1236,7 @@ return {
         id = 101019,
         order = 19,
         count = 1,
-        des = "发现于「三眼丘陵」",
+        des = "Found in [Third Eye Hills]",
     },
     [101035] = {
         chapterID = 10101,
@@ -1247,7 +1247,7 @@ return {
         id = 101035,
         order = 35,
         count = 1,
-        des = "发现于「石城堡平原」",
+        des = "Found in [Stone Castle Plain]",
     },
     [301038] = {
         chapterID = 10103,
@@ -1260,7 +1260,7 @@ return {
         id = 301038,
         order = 38,
         count = 3,
-        des = "发现于「珍珠丘陵」",
+        des = "Found in [Pearl Hills]",
     },
     [302005] = {
         chapterID = 10103,
@@ -1282,7 +1282,7 @@ return {
         id = 301034,
         order = 34,
         count = 1,
-        des = "发现于「珍珠丘陵」",
+        des = "Found in [Pearl Hills]",
     },
     [301032] = {
         chapterID = 10103,
@@ -1293,7 +1293,7 @@ return {
         id = 301032,
         order = 32,
         count = 1,
-        des = "发现于「海神山地」",
+        des = "Found in [Poseidon Peak]",
     },
     [301030] = {
         chapterID = 10103,
@@ -1304,7 +1304,7 @@ return {
         id = 301030,
         order = 30,
         count = 1,
-        des = "发现于「海神山地」",
+        des = "Found in [Poseidon Peak]",
     },
     [202005] = {
         chapterID = 10102,
@@ -1326,7 +1326,7 @@ return {
         id = 201017,
         order = 17,
         count = 1,
-        des = "发现于「浮冰丘陵」",
+        des = "Found in [Hills of Ice]",
     },
     [301028] = {
         chapterID = 10103,
@@ -1337,7 +1337,7 @@ return {
         id = 301028,
         order = 28,
         count = 1,
-        des = "发现于「海神山地」",
+        des = "Found in [Poseidon Peak]",
     },
     [301026] = {
         chapterID = 10103,
@@ -1348,7 +1348,7 @@ return {
         id = 301026,
         order = 26,
         count = 1,
-        des = "发现于「珊瑚丘陵」",
+        des = "Found in [Coral Hills]",
     },
     [302007] = {
         chapterID = 10103,
@@ -1370,7 +1370,7 @@ return {
         id = 301022,
         order = 22,
         count = 1,
-        des = "发现于「裂谷盆地」",
+        des = "Found in [Rift Basin]",
     },
     [301020] = {
         chapterID = 10103,
@@ -1381,7 +1381,7 @@ return {
         id = 301020,
         order = 20,
         count = 1,
-        des = "发现于「裂谷盆地」",
+        des = "Found in [Rift Basin]",
     },
     [102008] = {
         chapterID = 10101,
@@ -1414,7 +1414,7 @@ return {
         id = 201018,
         order = 18,
         count = 1,
-        des = "发现于「鱼刺山山地」",
+        des = "Found in [Fish Bone Mountains]",
     },
     [101036] = {
         chapterID = 10101,
@@ -1425,7 +1425,7 @@ return {
         id = 101036,
         order = 36,
         count = 1,
-        des = "发现于「石城堡平原」",
+        des = "Found in [Stone Castle Plain]",
     },
     [301018] = {
         chapterID = 10103,
@@ -1436,7 +1436,7 @@ return {
         id = 301018,
         order = 18,
         count = 1,
-        des = "发现于「裂谷盆地」",
+        des = "Found in [Rift Basin]",
     },
     [302009] = {
         chapterID = 10103,
@@ -1458,7 +1458,7 @@ return {
         id = 301014,
         order = 14,
         count = 1,
-        des = "发现于「水晶宫平原」",
+        des = "Found in [Crystal Palace Plain]",
     },
     [301012] = {
         chapterID = 10103,
@@ -1470,7 +1470,7 @@ return {
         id = 301012,
         order = 12,
         count = 2,
-        des = "发现于「太阳神盆地」",
+        des = "Found in [Apollo Basin]",
     },
     [201016] = {
         chapterID = 10102,
@@ -1481,7 +1481,7 @@ return {
         id = 201016,
         order = 16,
         count = 1,
-        des = "发现于「浮冰丘陵」",
+        des = "Found in [Hills of Ice]",
     },
     [202007] = {
         chapterID = 10102,
@@ -1503,7 +1503,7 @@ return {
         id = 201019,
         order = 19,
         count = 1,
-        des = "发现于「鱼刺山山地」",
+        des = "Found in [Fish Bone Mountains]",
     },
     [301010] = {
         chapterID = 10103,
@@ -1514,7 +1514,7 @@ return {
         id = 301010,
         order = 10,
         count = 1,
-        des = "发现于「太阳神盆地」",
+        des = "Found in [Apollo Basin]",
     },
     [101016] = {
         chapterID = 10101,
@@ -1525,7 +1525,7 @@ return {
         id = 101016,
         order = 16,
         count = 1,
-        des = "发现于「埋骨盆地」",
+        des = "Found in [Bone Cemetery]",
     },
     [302011] = {
         chapterID = 10103,
@@ -1558,7 +1558,7 @@ return {
         id = 301006,
         order = 6,
         count = 1,
-        des = "发现于「磁欧矿山地」",
+        des = "Found in [Tuaoi Mines]",
     },
     [102009] = {
         chapterID = 10101,
@@ -1592,7 +1592,7 @@ return {
         id = 201020,
         order = 20,
         count = 2,
-        des = "发现于「鱼刺山山地」",
+        des = "Found in [Fish Bone Mountains]",
     },
     [101037] = {
         chapterID = 10101,
@@ -1603,7 +1603,7 @@ return {
         id = 101037,
         order = 37,
         count = 1,
-        des = "发现于「石城堡平原」",
+        des = "Found in [Stone Castle Plain]",
     },
     [101021] = {
         chapterID = 10101,
@@ -1614,7 +1614,7 @@ return {
         id = 101021,
         order = 21,
         count = 1,
-        des = "发现于「三眼丘陵」",
+        des = "Found in [Third Eye Hills]",
     },
     [302013] = {
         chapterID = 10103,
@@ -1648,7 +1648,7 @@ return {
         id = 301002,
         order = 2,
         count = 2,
-        des = "发现于「黑礁高原」",
+        des = "Found in [Black Reef Plateau]",
     },
     [101012] = {
         chapterID = 10101,
@@ -1659,7 +1659,7 @@ return {
         id = 101012,
         order = 12,
         count = 1,
-        des = "发现于「猎爪丘陵」",
+        des = "Found in [Hunter's Hills]",
     },
     [202009] = {
         chapterID = 10102,
@@ -1681,7 +1681,7 @@ return {
         id = 201021,
         order = 21,
         count = 1,
-        des = "发现于「鱼刺山山地」",
+        des = "Found in [Fish Bone Mountains]",
     },
     [203006] = {
         chapterID = 10102,
@@ -1703,7 +1703,7 @@ return {
         id = 101002,
         order = 2,
         count = 1,
-        des = "发现于「犬牙山地」",
+        des = "Found in [Dog Fang Peaks]",
     },
     [302015] = {
         chapterID = 10103,
@@ -1725,7 +1725,7 @@ return {
         id = 201040,
         order = 40,
         count = 1,
-        des = "发现于「食之都平原」",
+        des = "Found in [Foodie Flatlands]",
     },
     [203002] = {
         chapterID = 10102,
@@ -1758,7 +1758,7 @@ return {
         id = 101006,
         order = 6,
         count = 1,
-        des = "发现于「棒骨高原」",
+        des = "Found in [Boneclub Plateau]",
     },
     [101022] = {
         chapterID = 10101,
@@ -1769,7 +1769,7 @@ return {
         id = 101022,
         order = 22,
         count = 1,
-        des = "发现于「三眼丘陵」",
+        des = "Found in [Third Eye Hills]",
     },
     [101038] = {
         chapterID = 10101,
@@ -1780,7 +1780,7 @@ return {
         id = 101038,
         order = 38,
         count = 1,
-        des = "发现于「石城堡平原」",
+        des = "Found in [Stone Castle Plain]",
     },
     [201012] = {
         chapterID = 10102,
@@ -1791,7 +1791,7 @@ return {
         id = 201012,
         order = 12,
         count = 1,
-        des = "发现于「风雪高原」",
+        des = "Found in [Blizzard Plateau]",
     },
     [302017] = {
         chapterID = 10103,
@@ -1857,7 +1857,7 @@ return {
         id = 201023,
         order = 23,
         count = 1,
-        des = "发现于「寒武山地」",
+        des = "Found in [Cambrian Mountains]",
     },
     [202018] = {
         chapterID = 10102,
@@ -1879,7 +1879,7 @@ return {
         id = 101001,
         order = 1,
         count = 1,
-        des = "发现于「犬牙山地」",
+        des = "Found in [Dog Fang Peaks]",
     },
     [302019] = {
         chapterID = 10103,
@@ -1901,7 +1901,7 @@ return {
         id = 101014,
         order = 14,
         count = 1,
-        des = "发现于「猎爪丘陵」",
+        des = "Found in [Hunter's Hills]",
     },
     [202014] = {
         chapterID = 10102,
@@ -1934,7 +1934,7 @@ return {
         id = 101007,
         order = 7,
         count = 1,
-        des = "发现于「棒骨高原」",
+        des = "Found in [Boneclub Plateau]",
     },
     [201024] = {
         chapterID = 10102,
@@ -1945,7 +1945,7 @@ return {
         id = 201024,
         order = 24,
         count = 1,
-        des = "发现于「寒武山地」",
+        des = "Found in [Cambrian Mountains]",
     },
     [101039] = {
         chapterID = 10101,
@@ -1958,7 +1958,7 @@ return {
         id = 101039,
         order = 39,
         count = 3,
-        des = "发现于「石城堡平原」",
+        des = "Found in [Stone Castle Plain]",
     },
     [101004] = {
         chapterID = 10101,
@@ -1969,7 +1969,7 @@ return {
         id = 101004,
         order = 4,
         count = 1,
-        des = "发现于「咆哮高原」",
+        des = "Found in [Roaring Plateau]",
     },
     [301001] = {
         chapterID = 10103,
@@ -1980,7 +1980,7 @@ return {
         id = 301001,
         order = 1,
         count = 1,
-        des = "发现于「黑礁高原」",
+        des = "Found in [Black Reef Plateau]",
     },
     [101020] = {
         chapterID = 10101,
@@ -1992,7 +1992,7 @@ return {
         id = 101020,
         order = 20,
         count = 2,
-        des = "发现于「三眼丘陵」",
+        des = "Found in [Third Eye Hills]",
     },
     [101028] = {
         chapterID = 10101,
@@ -2003,7 +2003,7 @@ return {
         id = 101028,
         order = 28,
         count = 1,
-        des = "发现于「监视者山地」",
+        des = "Found in [Watcher Mountains]",
     },
     [203001] = {
         chapterID = 10102,
@@ -2036,7 +2036,7 @@ return {
         id = 201025,
         order = 25,
         count = 1,
-        des = "发现于「寒武山地」",
+        des = "Found in [Cambrian Mountains]",
     },
     [202012] = {
         chapterID = 10102,
@@ -2058,7 +2058,7 @@ return {
         id = 201022,
         order = 22,
         count = 1,
-        des = "发现于「鱼刺山山地」",
+        des = "Found in [Fish Bone Mountains]",
     },
     [301003] = {
         chapterID = 10103,
@@ -2069,7 +2069,7 @@ return {
         id = 301003,
         order = 3,
         count = 1,
-        des = "发现于「黑礁高原」",
+        des = "Found in [Black Reef Plateau]",
     },
     [101015] = {
         chapterID = 10101,
@@ -2080,7 +2080,7 @@ return {
         id = 101015,
         order = 15,
         count = 1,
-        des = "发现于「埋骨盆地」",
+        des = "Found in [Bone Cemetery]",
     },
     [101005] = {
         chapterID = 10101,
@@ -2091,7 +2091,7 @@ return {
         id = 101005,
         order = 5,
         count = 1,
-        des = "发现于「棒骨高原」",
+        des = "Found in [Boneclub Plateau]",
     },
     [102012] = {
         chapterID = 10101,
@@ -2113,7 +2113,7 @@ return {
         id = 101008,
         order = 8,
         count = 1,
-        des = "发现于「根达亚盆地」",
+        des = "Found in [Gondayer Basin]",
     },
     [201026] = {
         chapterID = 10102,
@@ -2124,7 +2124,7 @@ return {
         id = 201026,
         order = 26,
         count = 1,
-        des = "发现于「寒武山地」",
+        des = "Found in [Cambrian Mountains]",
     },
     [101040] = {
         chapterID = 10101,
@@ -2135,7 +2135,7 @@ return {
         id = 101040,
         order = 40,
         count = 1,
-        des = "发现于「石城堡平原」",
+        des = "Found in [Stone Castle Plain]",
     },
     [101013] = {
         chapterID = 10101,
@@ -2146,7 +2146,7 @@ return {
         id = 101013,
         order = 13,
         count = 1,
-        des = "发现于「猎爪丘陵」",
+        des = "Found in [Hunter's Hills]",
     },
     [301005] = {
         chapterID = 10103,
@@ -2157,7 +2157,7 @@ return {
         id = 301005,
         order = 5,
         count = 1,
-        des = "发现于「磁欧矿山地」",
+        des = "Found in [Tuaoi Mines]",
     },
     [101029] = {
         chapterID = 10101,
@@ -2168,7 +2168,7 @@ return {
         id = 101029,
         order = 29,
         count = 1,
-        des = "发现于「天狗平原」",
+        des = "Found in [Kabuto Plain]",
     },
     [201030] = {
         chapterID = 10102,
@@ -2179,7 +2179,7 @@ return {
         id = 201030,
         order = 30,
         count = 1,
-        des = "发现于「冻岩丘陵」",
+        des = "Found in [Frozen Rock Hills]",
     },
     [203003] = {
         chapterID = 10102,
@@ -2212,7 +2212,7 @@ return {
         id = 201027,
         order = 27,
         count = 1,
-        des = "发现于「寒武山地」",
+        des = "Found in [Cambrian Mountains]",
     },
     [101030] = {
         chapterID = 10101,
@@ -2223,7 +2223,7 @@ return {
         id = 101030,
         order = 30,
         count = 1,
-        des = "发现于「天狗平原」",
+        des = "Found in [Kabuto Plain]",
     },
     [202004] = {
         chapterID = 10102,
@@ -2245,7 +2245,7 @@ return {
         id = 301007,
         order = 7,
         count = 1,
-        des = "发现于「鲨栖高原」",
+        des = "Found in [Shark Plateau]",
     },
     [103001] = {
         chapterID = 10101,
@@ -2269,7 +2269,7 @@ return {
         id = 201044,
         order = 44,
         count = 3,
-        des = "发现于「食之都平原」",
+        des = "Found in [Foodie Flatlands]",
     },
     [102013] = {
         chapterID = 10101,
@@ -2291,7 +2291,7 @@ return {
         id = 101009,
         order = 9,
         count = 1,
-        des = "发现于「根达亚盆地」",
+        des = "Found in [Gondayer Basin]",
     },
     [201028] = {
         chapterID = 10102,
@@ -2302,7 +2302,7 @@ return {
         id = 201028,
         order = 28,
         count = 1,
-        des = "发现于「冻岩丘陵」",
+        des = "Found in [Frozen Rock Hills]",
     },
     [101023] = {
         chapterID = 10101,
@@ -2313,7 +2313,7 @@ return {
         id = 101023,
         order = 23,
         count = 1,
-        des = "发现于「三眼丘陵」",
+        des = "Found in [Third Eye Hills]",
     },
     [201042] = {
         chapterID = 10102,
@@ -2324,7 +2324,7 @@ return {
         id = 201042,
         order = 42,
         count = 1,
-        des = "发现于「食之都平原」",
+        des = "Found in [Foodie Flatlands]",
     },
     [301009] = {
         chapterID = 10103,
@@ -2335,7 +2335,7 @@ return {
         id = 301009,
         order = 9,
         count = 1,
-        des = "发现于「鲨栖高原」",
+        des = "Found in [Shark Plateau]",
     },
     [101024] = {
         chapterID = 10101,
@@ -2346,7 +2346,7 @@ return {
         id = 101024,
         order = 24,
         count = 1,
-        des = "发现于「监视者山地」",
+        des = "Found in [Watcher Mountains]",
     },
     [201032] = {
         chapterID = 10102,
@@ -2357,7 +2357,7 @@ return {
         id = 201032,
         order = 32,
         count = 1,
-        des = "发现于「冻岩丘陵」",
+        des = "Found in [Frozen Rock Hills]",
     },
     [203005] = {
         chapterID = 10102,
@@ -2390,7 +2390,7 @@ return {
         id = 201029,
         order = 29,
         count = 1,
-        des = "发现于「冻岩丘陵」",
+        des = "Found in [Frozen Rock Hills]",
     },
     [101025] = {
         chapterID = 10101,
@@ -2401,7 +2401,7 @@ return {
         id = 101025,
         order = 25,
         count = 1,
-        des = "发现于「监视者山地」",
+        des = "Found in [Watcher Mountains]",
     },
     [101018] = {
         chapterID = 10101,
@@ -2412,7 +2412,7 @@ return {
         id = 101018,
         order = 18,
         count = 1,
-        des = "发现于「埋骨盆地」",
+        des = "Found in [Bone Cemetery]",
     },
     [301011] = {
         chapterID = 10103,
@@ -2423,7 +2423,7 @@ return {
         id = 301011,
         order = 11,
         count = 1,
-        des = "发现于「太阳神盆地」",
+        des = "Found in [Apollo Basin]",
     },
     [101003] = {
         chapterID = 10101,
@@ -2434,6 +2434,6 @@ return {
         id = 101003,
         order = 3,
         count = 1,
-        des = "发现于「咆哮高原」",
+        des = "Found in [Roaring Plateau]",
     },
 }

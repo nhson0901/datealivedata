@@ -1173,6 +1173,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
+									text = "23",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 

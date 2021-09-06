@@ -123,7 +123,7 @@ return {
         combatPower = 60,
         desTextId = 231026,
         herosequip = 332007,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 325001,
         },
@@ -141,7 +141,7 @@ return {
         combatPower = 60,
         desTextId = 231027,
         herosequip = 332008,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 326001,
         },

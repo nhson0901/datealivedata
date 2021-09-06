@@ -50,7 +50,7 @@ function SummonMainView:refreshView()
                     local summon = SummonDataMgr:getSummon()
                     for k ,v in pairs(summon) do
                         local summonCfg = SummonDataMgr:getSummonCfg(v[1].id)
-                        if summonCfg.up then
+                        if summonCfg.up and v[1].isOpen then  --up提升并且卡池开启才会进入判断
                             self.Image_upTips:setVisible(summonCfg.up)
                         end
                     end

@@ -1,7 +1,7 @@
 return {
     [504] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含反转折纸，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Mayuri, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -11,7 +11,7 @@ return {
                 [112001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含万由里",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Mayuri",
         extAwardShow = {
             [651014] = 1,
         },
@@ -29,7 +29,7 @@ return {
                 [6] = 3,
             },
             targetQuality = {
-                [110210] = 2,
+                [112001] = 2,
             },
         },
         name = 13313054,
@@ -39,21 +39,21 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明内爆发大规模暴动，琴里需要人手协助镇压暴动，保护平民。",
+        describe1 = "A massive uprising has erupted within this civilization. Kotori needs some helper to appease the violence and protect the civilians.",
     },
     [512] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含万由里，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Mayuri, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
                 [5] = 3,
             },
             targetQuality = {
-                [110210] = 2,
+                [112001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含反转折纸",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Mayuri",
         extAwardShow = {
             [651015] = 1,
         },
@@ -81,11 +81,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "在荒野中发现了神秘洞穴，需要一些人手进行探索。",
+        describe1 = "You discovered a mysterious cave in the wilderness and need some crew members to go investigate.",
     },
     [401] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含狂三，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Kurumi, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -95,7 +95,7 @@ return {
                 [110208] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含DEM折纸",
+        describe2 = "[Required] 3 Class S or higher Spirits, including DEM Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -123,11 +123,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」停靠在迷雾地区，需要几名舰员驾驶侦查舰前往探路。",
+        describe1 = "The [Sky Airship] is docked in a foggy region and needs a few crew members to pilot the scout ship and investigate the route forward.",
     },
     [405] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含DEM折纸，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including DEM Origami, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -137,7 +137,7 @@ return {
                 [110602] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含真那-芬里尔",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Mana Vanargandr",
         extAwardShow = {
             [651015] = 1,
         },
@@ -165,11 +165,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "敌舰装载的部分武器可以用于武装「天空舰」，琴里需要帮手。",
+        describe1 = "Some of the weapons carried on the enemy ship can be used to arm the [Sky Airship], but Kotori needs some help.",
     },
     [413] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含艾伦，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Ellen, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -179,7 +179,7 @@ return {
                 [110209] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含精灵折纸",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Spirit Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -207,11 +207,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "从敌舰缴获的宝箱有极为复杂的密码锁保护，需要几名舰员解锁。",
+        describe1 = "The chest captured in the enemy ship is protected by a complex code lock. A few crew members are required to unlock it.",
     },
     [417] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含强化十香，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Enhanced Tohka, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -221,7 +221,7 @@ return {
                 [110401] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含狂三",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Kurumi",
         extAwardShow = {
             [651015] = 1,
         },
@@ -249,11 +249,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明中的空际海盗非常猖獗，琴里需要几名强大精灵进行清剿。",
+        describe1 = "This civilization is rampant with air pirates. Kotori would need several powerful Spirits to eradicate them.",
     },
     [421] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含狂三，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Kurumi, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -263,7 +263,7 @@ return {
                 [110208] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含DEM折纸",
+        describe2 = "[Required] 3 Class S or higher Spirits, including DEM Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -291,11 +291,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」停靠在迷雾地区，需要几名舰员驾驶侦查舰前往探路。",
+        describe1 = "The [Sky Airship] is docked in a foggy region and needs a few crew members to pilot the scout ship and investigate the route forward.",
     },
     [425] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含DEM折纸，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including DEM Origami, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -305,7 +305,7 @@ return {
                 [110602] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含真那-芬里尔",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Mana Vanargandr",
         extAwardShow = {
             [651015] = 1,
         },
@@ -333,11 +333,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "敌舰装载的部分武器可以用于武装「天空舰」，琴里需要帮手。",
+        describe1 = "Some of the weapons carried on the enemy ship can be used to arm the [Sky Airship], but Kotori needs some help.",
     },
     [302] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含琴里，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Kotori, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -347,7 +347,7 @@ return {
                 [111001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含诱宵美九",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Miku Izayoi",
         extAwardShow = {
             [651014] = 1,
         },
@@ -375,11 +375,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "发现异界邪恶势力举行的邪恶祭祀仪式，需要人手对仪式进行破坏。",
+        describe1 = "You discovered an evil power of the alien world performing an evil sacrificial rite. You need someone to disrupt the rite.",
     },
     [306] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含万由里，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Mayuri, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -389,7 +389,7 @@ return {
                 [110302] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含强化四糸乃",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Enhanced Yoshino",
         extAwardShow = {
             [651014] = 1,
         },
@@ -417,11 +417,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "因为有些敌人能够攀附在飞舰外壳上，所以需要派人进行日常巡查。",
+        describe1 = "Some enemies are capable of climbing the airship's outer hull, so patrols must be sent out regularly.",
     },
     [314] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含七罪，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Natsumi, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -431,7 +431,7 @@ return {
                 [110102] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含强化十香",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Enhanced Tohka",
         extAwardShow = {
             [651014] = 1,
         },
@@ -459,11 +459,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」停靠在异度文明未知区域，需要几名舰员前往调查。",
+        describe1 = "The [Sky Airship] docked in an unknown alien civilization and needs a few crew members to investigate.",
     },
     [322] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含琴里，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Kotori, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -473,7 +473,7 @@ return {
                 [111001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含诱宵美九",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Miku Izayoi",
         extAwardShow = {
             [651014] = 1,
         },
@@ -501,11 +501,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "发现异界邪恶势力举行的邪恶祭祀仪式，需要人手对仪式进行破坏。",
+        describe1 = "You discovered an evil power of the alien world performing an evil sacrificial rite. You need someone to disrupt the rite.",
     },
     [326] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含万由里，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Mayuri, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -515,7 +515,7 @@ return {
                 [110302] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含强化四糸乃",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Enhanced Yoshino",
         extAwardShow = {
             [651014] = 1,
         },
@@ -543,7 +543,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "因为有些敌人能够攀附在飞舰外壳上，所以需要派人进行日常巡查。",
+        describe1 = "Some enemies are capable of climbing the airship's outer hull, so patrols must be sent out regularly.",
     },
     [601] = {
         qualityIcon = "ui/common/hero/quality_c.png",
@@ -554,7 +554,7 @@ return {
                 [1] = 1,
             },
         },
-        describe2 = "「强制条件」1名评级B以上精灵",
+        describe2 = "[Required] 1 Class B or higher Spirit",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/D.png",
@@ -572,11 +572,11 @@ return {
         awardShow = {
             [1601523] = 10,
         },
-        describe1 = "从敌舰缴获的宝箱有极为复杂的密码锁保护，需要几名舰员解锁",
+        describe1 = "The chest captured in the enemy ship is protected by a complex code lock. A few crew members would be needed to unlock it.",
     },
     [501] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含强化十香，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Enhanced Tohka, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -586,7 +586,7 @@ return {
                 [110103] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含反转十香",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Inverse Tohka",
         extAwardShow = {
             [651014] = 1,
         },
@@ -614,11 +614,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "从空际海盗老巢中缴获了大量物资，需要一些人手帮助搬运。",
+        describe1 = "You captured many supplies in the air pirate lair and need some crew members to help move them.",
     },
     [514] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含反转折纸，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Mayuri, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -628,7 +628,7 @@ return {
                 [112001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含万由里",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Mayuri",
         extAwardShow = {
             [651015] = 1,
         },
@@ -646,7 +646,7 @@ return {
                 [6] = 3,
             },
             targetQuality = {
-                [110210] = 2,
+                [112001] = 2,
             },
         },
         name = 13313054,
@@ -656,21 +656,21 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明内爆发大规模暴动，琴里需要人手协助镇压暴动，保护平民。",
+        describe1 = "A massive uprising has erupted within this civilization. Kotori needs some helper to appease the violence and protect the civilians.",
     },
     [522] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含万由里，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Mayuri, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
                 [5] = 3,
             },
             targetQuality = {
-                [110210] = 2,
+                [112001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含反转折纸",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Mayuri",
         extAwardShow = {
             [651016] = 1,
         },
@@ -698,11 +698,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "在荒野中发现了神秘洞穴，需要一些人手进行探索。",
+        describe1 = "You discovered a mysterious cave in the wilderness and need some crew members to go investigate.",
     },
     [402] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含琴里，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Kotori, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -712,7 +712,7 @@ return {
                 [111001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含诱宵美九",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Miku Izayoi",
         extAwardShow = {
             [651014] = 1,
         },
@@ -740,7 +740,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "探测器带回来的神秘矿物蕴含未知力量，需要几名舰员进行研究。",
+        describe1 = "The mysterious ore brought back in the probe contains an unknown power. You need a few crew members to perform research.",
     },
     [204] = {
         qualityIcon = "ui/common/hero/quality_b.png",
@@ -751,7 +751,7 @@ return {
                 [1] = 2,
             },
         },
-        describe2 = "「强制条件」2名评级B以上精灵",
+        describe2 = "[Required] 2 Class B or higher Spirits",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/B.png",
@@ -771,7 +771,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明中的空际海盗非常猖獗，琴里需要几名强大精灵进行清剿。",
+        describe1 = "This civilization is rampant with air pirates. Kotori would need several powerful Spirits to eradicate them.",
     },
     [206] = {
         qualityIcon = "ui/common/hero/quality_b.png",
@@ -782,7 +782,7 @@ return {
                 [3] = 2,
             },
         },
-        describe2 = "「强制条件」2名评级AA以上精灵",
+        describe2 = "[Required] 2 Class AA or higher Spirits",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/B.png",
@@ -802,11 +802,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "从空际海盗老巢中缴获了大量物资，需要一些人手帮助搬运。",
+        describe1 = "You captured many supplies in the air pirate lair and need some crew members to help move them.",
     },
     [414] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含七罪，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Natsumi, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -816,7 +816,7 @@ return {
                 [110102] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含强化十香",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Enhanced Tohka",
         extAwardShow = {
             [651014] = 1,
         },
@@ -844,11 +844,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "研究出从敌舰缴获的武器的使用方法，用来武装「世界之眼。",
+        describe1 = "Research has revealed how to use weapons captured from enemy ships to arm the [Vedfolnir].",
     },
     [418] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含强化四糸乃，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Enhanced Yoshino, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -858,7 +858,7 @@ return {
                 [110501] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含琴里",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Kotori",
         extAwardShow = {
             [651015] = 1,
         },
@@ -886,11 +886,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "琴里需要人手将一些物资交给战火中饱受折磨的平民。",
+        describe1 = "Kotori needs some helping hands to deliver supplies to the civilians suffering the torments of war.",
     },
     [422] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含琴里，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Kotori, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -900,7 +900,7 @@ return {
                 [111001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含诱宵美九",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Miku Izayoi",
         extAwardShow = {
             [651014] = 1,
         },
@@ -928,11 +928,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "探测器带回来的神秘矿物蕴含未知力量，需要几名舰员进行研究。",
+        describe1 = "The mysterious ore brought back in the probe contains an unknown power. You need a few crew members to perform research.",
     },
     [426] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含狂三，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Kurumi, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -942,7 +942,7 @@ return {
                 [110302] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含强化四糸乃",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Enhanced Yoshino",
         extAwardShow = {
             [651015] = 1,
         },
@@ -970,11 +970,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "异界的重力变化影响精灵的作战水平，需要人手采集重力信息。",
+        describe1 = "Gravitational changes in this world are affecting the Spirit's battle capabilities. You need some people to collect gravitational data.",
     },
     [303] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含艾伦，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Ellen, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -984,7 +984,7 @@ return {
                 [110209] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含精灵折纸",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Spirit Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1012,11 +1012,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明内爆发大规模暴动，琴里需要人手协助镇压暴动，保护平民。",
+        describe1 = "A massive uprising has erupted within this civilization. Kotori needs some helper to appease the violence and protect the civilians.",
     },
     [311] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含狂三，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Kurumi, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1026,7 +1026,7 @@ return {
                 [110208] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含DEM折纸",
+        describe2 = "[Required] 3 Class A or higher Spirits, including DEM Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1054,11 +1054,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "在荒野中发现了神秘洞穴，需要一些人手进行探索。",
+        describe1 = "You discovered a mysterious cave in the wilderness and need some crew members to go investigate.",
     },
     [315] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含DEM折纸，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including DEM Origami, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1068,7 +1068,7 @@ return {
                 [110602] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含真那-芬里尔",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Mana Vanargandr",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1096,11 +1096,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」在航行中有所破损，需要几名有专业知识的舰员维修。",
+        describe1 = "The [Sky Airship] has been damaged during navigation and needs some knowledgeable crew members for the repair.",
     },
     [323] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含艾伦，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Ellen, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1110,7 +1110,7 @@ return {
                 [110209] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含精灵折纸",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Spirit Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1138,11 +1138,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明内爆发大规模暴动，琴里需要人手协助镇压暴动，保护平民。",
+        describe1 = "A massive uprising has erupted within this civilization. Kotori needs some helper to appease the violence and protect the civilians.",
     },
     [523] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含反转十香，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Inverse Tohka, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1152,7 +1152,7 @@ return {
                 [110413] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含强化狂三",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Enhanced Kurumi",
         extAwardShow = {
             [651016] = 1,
         },
@@ -1180,21 +1180,21 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "发现异界邪恶势力举行的邪恶祭祀仪式，需要人手对仪式进行破坏。",
+        describe1 = "You discovered an evil power of the alien world performing an evil sacrificial rite. You need someone to disrupt the rite.",
     },
     [502] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含万由里，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Mayuri, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
                 [5] = 3,
             },
             targetQuality = {
-                [110210] = 2,
+                [112001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含反转折纸",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Mayuri",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1222,11 +1222,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "在荒野中发现了神秘洞穴，需要一些人手进行探索。",
+        describe1 = "You discovered a mysterious cave in the wilderness and need some crew members to go investigate.",
     },
     [524] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含反转折纸，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Mayuri, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1236,7 +1236,7 @@ return {
                 [112001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含万由里",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Mayuri",
         extAwardShow = {
             [651016] = 1,
         },
@@ -1254,7 +1254,7 @@ return {
                 [6] = 3,
             },
             targetQuality = {
-                [110210] = 2,
+                [112001] = 2,
             },
         },
         name = 13313054,
@@ -1264,11 +1264,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明内爆发大规模暴动，琴里需要人手协助镇压暴动，保护平民。",
+        describe1 = "A massive uprising has erupted within this civilization. Kotori needs some helper to appease the violence and protect the civilians.",
     },
     [403] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含艾伦，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Ellen, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1278,7 +1278,7 @@ return {
                 [110209] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含精灵折纸",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Spirit Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1306,11 +1306,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "从敌舰缴获的宝箱有极为复杂的密码锁保护，需要几名舰员解锁。",
+        describe1 = "The chest captured in the enemy ship is protected by a complex code lock. A few crew members are required to unlock it.",
     },
     [407] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含强化十香，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Enhanced Tohka, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1320,7 +1320,7 @@ return {
                 [110401] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含狂三",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Kurumi",
         extAwardShow = {
             [651015] = 1,
         },
@@ -1348,11 +1348,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明中的空际海盗非常猖獗，琴里需要几名强大精灵进行清剿。",
+        describe1 = "This civilization is rampant with air pirates. Kotori would need several powerful Spirits to eradicate them.",
     },
     [411] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含狂三，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Kurumi, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1362,7 +1362,7 @@ return {
                 [110208] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含DEM折纸",
+        describe2 = "[Required] 3 Class S or higher Spirits, including DEM Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1390,11 +1390,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」停靠在迷雾地区，需要几名舰员驾驶侦查舰前往探路。",
+        describe1 = "The [Sky Airship] is docked in a foggy region and needs a few crew members to pilot the scout ship and investigate the route forward.",
     },
     [415] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含DEM折纸，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including DEM Origami, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1404,7 +1404,7 @@ return {
                 [110602] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含真那-芬里尔",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Mana Vanargandr",
         extAwardShow = {
             [651015] = 1,
         },
@@ -1432,11 +1432,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "敌舰装载的部分武器可以用于武装「天空舰」，琴里需要帮手。",
+        describe1 = "Some of the weapons carried on the enemy ship can be used to arm the [Sky Airship], but Kotori needs some help.",
     },
     [423] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含艾伦，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Ellen, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1446,7 +1446,7 @@ return {
                 [110209] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含精灵折纸",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Spirit Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1474,11 +1474,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "从敌舰缴获的宝箱有极为复杂的密码锁保护，需要几名舰员解锁。",
+        describe1 = "The chest captured in the enemy ship is protected by a complex code lock. A few crew members are required to unlock it.",
     },
     [427] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含强化十香，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Enhanced Tohka, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1488,7 +1488,7 @@ return {
                 [110401] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含狂三",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Kurumi",
         extAwardShow = {
             [651015] = 1,
         },
@@ -1516,11 +1516,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明中的空际海盗非常猖獗，琴里需要几名强大精灵进行清剿。",
+        describe1 = "This civilization is rampant with air pirates. Kotori would need several powerful Spirits to eradicate them.",
     },
     [304] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含七罪，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Natsumi, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1530,7 +1530,7 @@ return {
                 [110102] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含强化十香",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Enhanced Tohka",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1558,11 +1558,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」停靠在异度文明未知区域，需要几名舰员前往调查。",
+        describe1 = "The [Sky Airship] docked in an unknown alien civilization and needs a few crew members to investigate.",
     },
     [312] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含琴里，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Kotori, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1572,7 +1572,7 @@ return {
                 [111001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含诱宵美九",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Miku Izayoi",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1600,11 +1600,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "发现异界邪恶势力举行的邪恶祭祀仪式，需要人手对仪式进行破坏。",
+        describe1 = "You discovered an evil power of the alien world performing an evil sacrificial rite. You need someone to disrupt the rite.",
     },
     [316] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含万由里，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Mayuri, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1614,7 +1614,7 @@ return {
                 [110302] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含强化四糸乃",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Enhanced Yoshino",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1642,11 +1642,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "因为有些敌人能够攀附在飞舰外壳上，所以需要派人进行日常巡查。",
+        describe1 = "Some enemies are capable of climbing the airship's outer hull, so patrols must be sent out regularly.",
     },
     [324] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含七罪，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Natsumi, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1656,7 +1656,7 @@ return {
                 [110102] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含强化十香",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Enhanced Tohka",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1684,11 +1684,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」停靠在异度文明未知区域，需要几名舰员前往调查。",
+        describe1 = "The [Sky Airship] docked in an unknown alien civilization and needs a few crew members to investigate.",
     },
     [503] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含反转十香，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Inverse Tohka, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1698,7 +1698,7 @@ return {
                 [110413] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含强化狂三",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Enhanced Kurumi",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1726,11 +1726,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "发现异界邪恶势力举行的邪恶祭祀仪式，需要人手对仪式进行破坏。",
+        describe1 = "You discovered an evil power of the alien world performing an evil sacrificial rite. You need someone to disrupt the rite.",
     },
     [511] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含强化十香，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Enhanced Tohka, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1740,7 +1740,7 @@ return {
                 [110103] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含反转十香",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Inverse Tohka",
         extAwardShow = {
             [651015] = 1,
         },
@@ -1768,11 +1768,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "从空际海盗老巢中缴获了大量物资，需要一些人手帮助搬运。",
+        describe1 = "You captured many supplies in the air pirate lair and need some crew members to help move them.",
     },
     [408] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含强化四糸乃，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Enhanced Yoshino, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1782,7 +1782,7 @@ return {
                 [110501] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含琴里",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Kotori",
         extAwardShow = {
             [651015] = 1,
         },
@@ -1810,11 +1810,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "琴里需要人手将一些物资交给战火中饱受折磨的平民。",
+        describe1 = "Kotori needs some helping hands to deliver supplies to the civilians suffering the torments of war.",
     },
     [513] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含反转十香，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Inverse Tohka, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1824,7 +1824,7 @@ return {
                 [110413] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含强化狂三",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Enhanced Kurumi",
         extAwardShow = {
             [651015] = 1,
         },
@@ -1852,11 +1852,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "发现异界邪恶势力举行的邪恶祭祀仪式，需要人手对仪式进行破坏。",
+        describe1 = "You discovered an evil power of the alien world performing an evil sacrificial rite. You need someone to disrupt the rite.",
     },
     [301] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含狂三，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Kurumi, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -1866,7 +1866,7 @@ return {
                 [110208] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含DEM折纸",
+        describe2 = "[Required] 3 Class A or higher Spirits, including DEM Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -1894,7 +1894,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "在荒野中发现了神秘洞穴，需要一些人手进行探索。",
+        describe1 = "You discovered a mysterious cave in the wilderness and need some crew members to go investigate.",
     },
     [201] = {
         qualityIcon = "ui/common/hero/quality_b.png",
@@ -1905,7 +1905,7 @@ return {
                 [1] = 2,
             },
         },
-        describe2 = "「强制条件」2名评级B以上精灵",
+        describe2 = "[Required] 2 Class B or higher Spirits",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/C.png",
@@ -1925,7 +1925,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "研究出从敌舰缴获的武器的使用方法，用来武装「世界之眼。",
+        describe1 = "Research has revealed how to use weapons captured from enemy ships to arm the [Vedfolnir].",
     },
     [203] = {
         qualityIcon = "ui/common/hero/quality_b.png",
@@ -1936,7 +1936,7 @@ return {
                 [3] = 2,
             },
         },
-        describe2 = "「强制条件」2名评级AA以上精灵",
+        describe2 = "[Required] 2 Class AA or higher Spirits",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/C.png",
@@ -1956,7 +1956,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "异界的重力变化影响精灵的作战水平，需要人手采集重力信息。",
+        describe1 = "Gravitational changes in this world are affecting the Spirit's battle capabilities. You need some people to collect gravitational data.",
     },
     [205] = {
         qualityIcon = "ui/common/hero/quality_b.png",
@@ -1967,7 +1967,7 @@ return {
                 [2] = 2,
             },
         },
-        describe2 = "「强制条件」2名评级A以上精灵",
+        describe2 = "[Required] 2 Class A or higher Spirits",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/B.png",
@@ -1987,11 +1987,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "琴里需要人手将一些物资交给战火中饱受折磨的平民。",
+        describe1 = "Kotori needs some helping hands to deliver supplies to the civilians suffering the torments of war.",
     },
     [412] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含琴里，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Kotori, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2001,7 +2001,7 @@ return {
                 [111001] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含诱宵美九",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Miku Izayoi",
         extAwardShow = {
             [651014] = 1,
         },
@@ -2029,7 +2029,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "探测器带回来的神秘矿物蕴含未知力量，需要几名舰员进行研究。",
+        describe1 = "The mysterious ore brought back in the probe contains an unknown power. You need a few crew members to perform research.",
     },
     [105] = {
         qualityIcon = "ui/common/hero/quality_c.png",
@@ -2040,7 +2040,7 @@ return {
                 [2] = 1,
             },
         },
-        describe2 = "「强制条件」1名评级A以上精灵",
+        describe2 = "[Required] 1 Class A or higher Spirit",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/D.png",
@@ -2060,7 +2060,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "探测器带回来的神秘矿物蕴含未知力量，需要舰员进行研究分析。",
+        describe1 = "The mysterious ore brought back in the probe contains an unknown power. You need crew members to perform research and analysis.",
     },
     [106] = {
         qualityIcon = "ui/common/hero/quality_c.png",
@@ -2071,7 +2071,7 @@ return {
                 [2] = 1,
             },
         },
-        describe2 = "「强制条件」1名评级A以上精灵",
+        describe2 = "[Required] 1 Class A or higher Spirit",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/D.png",
@@ -2091,11 +2091,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "从敌舰缴获的宝箱有极为复杂的密码锁保护，需要几名舰员解锁。",
+        describe1 = "The chest captured in the enemy ship is protected by a complex code lock. A few crew members are required to unlock it.",
     },
     [424] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含七罪，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Natsumi, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2105,7 +2105,7 @@ return {
                 [110102] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含强化十香",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Enhanced Tohka",
         extAwardShow = {
             [651014] = 1,
         },
@@ -2133,11 +2133,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "研究出从敌舰缴获的武器的使用方法，用来武装「世界之眼。",
+        describe1 = "Research has revealed how to use weapons captured from enemy ships to arm the [Vedfolnir].",
     },
     [428] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含强化四糸乃，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Enhanced Yoshino, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2147,7 +2147,7 @@ return {
                 [110501] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含琴里",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Kotori",
         extAwardShow = {
             [651015] = 1,
         },
@@ -2175,11 +2175,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "琴里需要人手将一些物资交给战火中饱受折磨的平民。",
+        describe1 = "Kotori needs some helping hands to deliver supplies to the civilians suffering the torments of war.",
     },
     [305] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含DEM折纸，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including DEM Origami, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2189,7 +2189,7 @@ return {
                 [110602] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含真那-芬里尔",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Mana Vanargandr",
         extAwardShow = {
             [651014] = 1,
         },
@@ -2217,11 +2217,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」在航行中有所破损，需要几名有专业知识的舰员维修。",
+        describe1 = "The [Sky Airship] has been damaged during navigation and needs some knowledgeable crew members for the repair.",
     },
     [521] = {
         qualityIcon = "ui/common/hero/quality_s.png",
-        describe3 = "「额外条件」3名评级SSS以上精灵，包含强化十香，总战力≥18000",
+        describe3 = "[Bonus] 3 Class SSS or higher Spirits, including Enhanced Tohka, with total BP ≥18000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2231,7 +2231,7 @@ return {
                 [110103] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级SS以上精灵，包含反转十香",
+        describe2 = "[Required] 3 Class SS or higher Spirits, including Inverse Tohka",
         extAwardShow = {
             [651016] = 1,
         },
@@ -2259,11 +2259,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "从空际海盗老巢中缴获了大量物资，需要一些人手帮助搬运。",
+        describe1 = "You captured many supplies in the air pirate lair and need some crew members to help move them.",
     },
     [313] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含艾伦，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Ellen, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2273,7 +2273,7 @@ return {
                 [110209] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含精灵折纸",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Spirit Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -2301,11 +2301,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "文明内爆发大规模暴动，琴里需要人手协助镇压暴动，保护平民。",
+        describe1 = "A massive uprising has erupted within this civilization. Kotori needs some helper to appease the violence and protect the civilians.",
     },
     [404] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含七罪，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Natsumi, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2315,7 +2315,7 @@ return {
                 [110102] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含强化十香",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Enhanced Tohka",
         extAwardShow = {
             [651014] = 1,
         },
@@ -2343,11 +2343,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "研究出从敌舰缴获的武器的使用方法，用来武装「世界之眼。",
+        describe1 = "Research has revealed how to use weapons captured from enemy ships to arm the [Vedfolnir].",
     },
     [321] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含狂三，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including Kurumi, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2357,7 +2357,7 @@ return {
                 [110208] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含DEM折纸",
+        describe2 = "[Required] 3 Class A or higher Spirits, including DEM Origami",
         extAwardShow = {
             [651014] = 1,
         },
@@ -2385,11 +2385,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "在荒野中发现了神秘洞穴，需要一些人手进行探索。",
+        describe1 = "You discovered a mysterious cave in the wilderness and need some crew members to go investigate.",
     },
     [325] = {
         qualityIcon = "ui/common/hero/quality_a.png",
-        describe3 = "「额外条件」3名评级S以上精灵，包含DEM折纸，总战力≥10000",
+        describe3 = "[Bonus] 3 Class S or higher Spirits, including DEM Origami, with total BP ≥10000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2399,7 +2399,7 @@ return {
                 [110602] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级A以上精灵，包含真那-芬里尔",
+        describe2 = "[Required] 3 Class A or higher Spirits, including Mana Vanargandr",
         extAwardShow = {
             [651014] = 1,
         },
@@ -2427,11 +2427,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」在航行中有所破损，需要几名有专业知识的舰员维修。",
+        describe1 = "The [Sky Airship] has been damaged during navigation and needs some knowledgeable crew members for the repair.",
     },
     [416] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含狂三，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Kurumi, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2441,7 +2441,7 @@ return {
                 [110302] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含强化四糸乃",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Enhanced Yoshino",
         extAwardShow = {
             [651015] = 1,
         },
@@ -2469,11 +2469,11 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "异界的重力变化影响精灵的作战水平，需要人手采集重力信息。",
+        describe1 = "Gravitational changes in this world are affecting the Spirit's battle capabilities. You need some people to collect gravitational data.",
     },
     [406] = {
         qualityIcon = "ui/common/hero/quality_aaa.png",
-        describe3 = "「额外条件」3名评级SS以上精灵，包含狂三，总战力≥15000",
+        describe3 = "[Bonus] 3 Class SS or higher Spirits, including Kurumi, with total BP ≥15000",
         bigAwardRate = 3000,
         condition = {
             heroQualityAndCount = {
@@ -2483,7 +2483,7 @@ return {
                 [110302] = 2,
             },
         },
-        describe2 = "「强制条件」3名评级S以上精灵，包含强化四糸乃",
+        describe2 = "[Required] 3 Class S or higher Spirits, including Enhanced Yoshino",
         extAwardShow = {
             [651015] = 1,
         },
@@ -2511,7 +2511,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "异界的重力变化影响精灵的作战水平，需要人手采集重力信息。",
+        describe1 = "Gravitational changes in this world are affecting the Spirit's battle capabilities. You need some people to collect gravitational data.",
     },
     [101] = {
         qualityIcon = "ui/common/hero/quality_c.png",
@@ -2522,7 +2522,7 @@ return {
                 [1] = 1,
             },
         },
-        describe2 = "「强制条件」1名评级B以上精灵",
+        describe2 = "[Required] 1 Class B or higher Spirit",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/C.png",
@@ -2542,7 +2542,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」停靠在异度文明未知区域，需要几名舰员前往调查。",
+        describe1 = "The [Sky Airship] docked in an unknown alien civilization and needs a few crew members to investigate.",
     },
     [103] = {
         qualityIcon = "ui/common/hero/quality_c.png",
@@ -2553,7 +2553,7 @@ return {
                 [1] = 1,
             },
         },
-        describe2 = "「强制条件」1名评级B以上精灵",
+        describe2 = "[Required] 1 Class B or higher Spirit",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/C.png",
@@ -2573,7 +2573,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "因为有些敌人能够攀附在飞舰外壳上，所以需要派人进行日常巡查。",
+        describe1 = "Some enemies are capable of climbing the airship's outer hull, so patrols must be sent out regularly.",
     },
     [202] = {
         qualityIcon = "ui/common/hero/quality_b.png",
@@ -2584,7 +2584,7 @@ return {
                 [2] = 2,
             },
         },
-        describe2 = "「强制条件」2名评级A以上精灵",
+        describe2 = "[Required] 2 Class A or higher Spirits",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/C.png",
@@ -2604,7 +2604,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "敌舰装载的部分武器可以用于武装「天空舰」，琴里需要帮手。",
+        describe1 = "Some of the weapons carried on the enemy ship can be used to arm the [Sky Airship], but Kotori needs some help.",
     },
     [102] = {
         qualityIcon = "ui/common/hero/quality_c.png",
@@ -2615,7 +2615,7 @@ return {
                 [1] = 1,
             },
         },
-        describe2 = "「强制条件」1名评级B以上精灵",
+        describe2 = "[Required] 1 Class B or higher Spirit",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/C.png",
@@ -2635,7 +2635,7 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」在航行中有所破损，需要几名有专业知识的舰员维修。",
+        describe1 = "The [Sky Airship] has been damaged during navigation and needs some knowledgeable crew members for the repair.",
     },
     [104] = {
         qualityIcon = "ui/common/hero/quality_c.png",
@@ -2646,7 +2646,7 @@ return {
                 [2] = 1,
             },
         },
-        describe2 = "「强制条件」1名评级A以上精灵",
+        describe2 = "[Required] 1 Class A or higher Spirit",
         extAwardShow = {
         },
         icon = "ui/explore/growup/command/task/D.png",
@@ -2666,6 +2666,6 @@ return {
             [651011] = 1,
             [651010] = 1,
         },
-        describe1 = "「天空舰」停靠在迷雾地区，需要几名舰员驾驶侦查舰前往探路。",
+        describe1 = "The [Sky Airship] is docked in a foggy region and needs a few crew members to pilot the scout ship and investigate the route forward.",
     },
 }

@@ -49,7 +49,7 @@ return {
     },
     [13] = {
         id = 13,
-        isopen = 0,
+        isopen = 1,
     },
     [14] = {
         id = 14,

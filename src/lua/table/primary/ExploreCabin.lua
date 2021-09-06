@@ -9,9 +9,9 @@ return {
         talent = {
             [1] = 1101,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 1,
         taskLayout = {
             [1] = 3,
@@ -22,7 +22,7 @@ return {
         },
         level = 1,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命410",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 410 HP.",
     },
     [2] = {
         type = 1,
@@ -38,9 +38,9 @@ return {
             [1] = 1102,
             [2] = 130,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 1,
         taskLayout = {
             [1] = 3,
@@ -51,7 +51,7 @@ return {
         },
         level = 2,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命614",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 614 HP.",
     },
     [3] = {
         type = 1,
@@ -66,9 +66,9 @@ return {
         talent = {
             [1] = 1103,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 1,
         taskLayout = {
             [1] = 3,
@@ -79,7 +79,7 @@ return {
         },
         level = 3,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命819",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 819 HP.",
     },
     [4] = {
         type = 1,
@@ -94,9 +94,9 @@ return {
         talent = {
             [1] = 1104,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 1,
         taskLayout = {
             [1] = 3,
@@ -107,7 +107,7 @@ return {
         },
         level = 4,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命1024",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 1024 HP.",
     },
     [5] = {
         type = 1,
@@ -123,9 +123,9 @@ return {
         talent = {
             [1] = 1105,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 1,
         taskLayout = {
             [1] = 3,
@@ -136,7 +136,7 @@ return {
         },
         level = 5,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命1229",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 1229 HP.",
     },
     [6] = {
         type = 1,
@@ -151,9 +151,9 @@ return {
         talent = {
             [1] = 1106,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 1,
         taskLayout = {
             [1] = 3,
@@ -164,7 +164,7 @@ return {
         },
         level = 6,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命1434",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 1434 HP.",
     },
     [7] = {
         type = 1,
@@ -179,9 +179,9 @@ return {
         talent = {
             [1] = 1107,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 1,
         taskLayout = {
             [1] = 3,
@@ -192,7 +192,7 @@ return {
         },
         level = 7,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命1638",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 1638 HP.",
     },
     [8] = {
         type = 1,
@@ -207,9 +207,9 @@ return {
         talent = {
             [1] = 1108,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 1,
         taskLayout = {
             [1] = 3,
@@ -220,7 +220,7 @@ return {
         },
         level = 8,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命1843",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 1843 HP.",
     },
     [9] = {
         type = 1,
@@ -235,9 +235,9 @@ return {
         talent = {
             [1] = 1109,
         },
-        des2 = "生命+250,总生命+2%",
+        des2 = "HP +250, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 1,
         taskLayout = {
             [1] = 3,
@@ -248,7 +248,7 @@ return {
         },
         level = 9,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命2048",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 2048 HP.",
     },
     [10] = {
         type = 1,
@@ -264,9 +264,9 @@ return {
         talent = {
             [1] = 1110,
         },
-        des2 = "生命+160",
+        des2 = "HP +160",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 3,
@@ -277,7 +277,7 @@ return {
         },
         level = 10,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命2298，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 2298 HP. Preliminary research success grants Total HP +2%.",
     },
     [11] = {
         type = 1,
@@ -292,9 +292,9 @@ return {
         talent = {
             [1] = 1112,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 3,
@@ -305,7 +305,7 @@ return {
         },
         level = 11,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命2458，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 2458 HP. Preliminary research success grants Total HP +2%.",
     },
     [12] = {
         type = 1,
@@ -320,9 +320,9 @@ return {
         talent = {
             [1] = 1113,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 2,
@@ -333,7 +333,7 @@ return {
         },
         level = 12,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命2662，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 2662 HP. Preliminary research success grants Total HP +2%.",
     },
     [13] = {
         type = 1,
@@ -348,9 +348,9 @@ return {
         talent = {
             [1] = 1114,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 2,
@@ -361,7 +361,7 @@ return {
         },
         level = 13,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命2867，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 2867 HP. Preliminary research success grants Total HP +2%.",
     },
     [14] = {
         type = 1,
@@ -376,9 +376,9 @@ return {
         talent = {
             [1] = 1115,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 2,
@@ -389,7 +389,7 @@ return {
         },
         level = 14,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命3072，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 3072 HP. Preliminary research success grants Total HP +2%.",
     },
     [15] = {
         type = 1,
@@ -405,9 +405,9 @@ return {
         talent = {
             [1] = 1116,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 2,
@@ -418,7 +418,7 @@ return {
         },
         level = 15,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命3277，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 3277 HP. Preliminary research success grants Total HP +2%.",
     },
     [16] = {
         type = 1,
@@ -433,9 +433,9 @@ return {
         talent = {
             [1] = 1117,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 2,
@@ -446,7 +446,7 @@ return {
         },
         level = 16,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命3482，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 3482 HP. Preliminary research success grants Total HP +2%.",
     },
     [17] = {
         type = 1,
@@ -461,9 +461,9 @@ return {
         talent = {
             [1] = 1118,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 2,
@@ -474,7 +474,7 @@ return {
         },
         level = 17,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命3686，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 3686 HP. Preliminary research success grants Total HP +2%.",
     },
     [18] = {
         type = 1,
@@ -489,9 +489,9 @@ return {
         talent = {
             [1] = 1119,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 2,
@@ -502,7 +502,7 @@ return {
         },
         level = 18,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命3891，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 3891 HP. Preliminary research success grants Total HP +2%.",
     },
     [19] = {
         type = 1,
@@ -517,9 +517,9 @@ return {
         talent = {
             [1] = 1120,
         },
-        des2 = "生命+205,总生命+2%",
+        des2 = "HP +205, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 2,
         taskLayout = {
             [1] = 2,
@@ -530,7 +530,7 @@ return {
         },
         level = 19,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命4096，研究初具成果，总生命提升2%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 4096 HP. Preliminary research success grants Total HP +2%.",
     },
     [20] = {
         type = 1,
@@ -546,9 +546,9 @@ return {
         talent = {
             [1] = 1121,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -559,7 +559,7 @@ return {
         },
         level = 20,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命4301，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 4301 HP. Preliminary research success grants Total HP +4%.",
     },
     [21] = {
         type = 1,
@@ -574,9 +574,9 @@ return {
         talent = {
             [1] = 1123,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -587,7 +587,7 @@ return {
         },
         level = 21,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命4506，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 4506 HP. Preliminary research success grants Total HP +4%.",
     },
     [22] = {
         type = 1,
@@ -602,9 +602,9 @@ return {
         talent = {
             [1] = 1124,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -615,7 +615,7 @@ return {
         },
         level = 22,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命4710，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 4710 HP. Preliminary research success grants Total HP +4%.",
     },
     [23] = {
         type = 1,
@@ -630,9 +630,9 @@ return {
         talent = {
             [1] = 1125,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -643,7 +643,7 @@ return {
         },
         level = 23,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命4915，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 4915 HP. Preliminary research success grants Total HP +4%.",
     },
     [24] = {
         type = 1,
@@ -658,9 +658,9 @@ return {
         talent = {
             [1] = 1126,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -671,7 +671,7 @@ return {
         },
         level = 24,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命5120，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 5120 HP. Preliminary research success grants Total HP +4%.",
     },
     [25] = {
         type = 1,
@@ -687,9 +687,9 @@ return {
         talent = {
             [1] = 1127,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -700,7 +700,7 @@ return {
         },
         level = 25,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命5325，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 5325 HP. Preliminary research success grants Total HP +4%.",
     },
     [26] = {
         type = 1,
@@ -715,9 +715,9 @@ return {
         talent = {
             [1] = 1128,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -728,7 +728,7 @@ return {
         },
         level = 26,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命5530，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 5530 HP. Preliminary research success grants Total HP +4%.",
     },
     [27] = {
         type = 1,
@@ -743,9 +743,9 @@ return {
         talent = {
             [1] = 1129,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -756,7 +756,7 @@ return {
         },
         level = 27,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命5734，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 5734 HP. Preliminary research success grants Total HP +4%.",
     },
     [28] = {
         type = 1,
@@ -771,9 +771,9 @@ return {
         talent = {
             [1] = 1130,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -784,7 +784,7 @@ return {
         },
         level = 28,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命5939，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 5939 HP. Preliminary research success grants Total HP +4%.",
     },
     [29] = {
         type = 1,
@@ -799,9 +799,9 @@ return {
         talent = {
             [1] = 1131,
         },
-        des2 = "生命+205,总生命+2%",
+        des2 = "HP +205, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 3,
         taskLayout = {
             [1] = 2,
@@ -812,7 +812,7 @@ return {
         },
         level = 29,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命6144，研究初具成果，总生命提升4%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 6144 HP. Preliminary research success grants Total HP +4%.",
     },
     [30] = {
         type = 1,
@@ -828,9 +828,9 @@ return {
         talent = {
             [1] = 1132,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 2,
@@ -841,7 +841,7 @@ return {
         },
         level = 30,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命6349，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 6349 HP. Preliminary research success grants Total HP +6%.",
     },
     [31] = {
         type = 1,
@@ -856,9 +856,9 @@ return {
         talent = {
             [1] = 1134,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 2,
@@ -869,7 +869,7 @@ return {
         },
         level = 31,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命6554，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 6554 HP. Preliminary research success grants Total HP +6%.",
     },
     [32] = {
         type = 1,
@@ -884,9 +884,9 @@ return {
         talent = {
             [1] = 1135,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 2,
@@ -897,7 +897,7 @@ return {
         },
         level = 32,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命6758，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 6758 HP. Preliminary research success grants Total HP +6%.",
     },
     [33] = {
         type = 1,
@@ -912,9 +912,9 @@ return {
         talent = {
             [1] = 1136,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 2,
@@ -925,7 +925,7 @@ return {
         },
         level = 33,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命6963，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 6963 HP. Preliminary research success grants Total HP +6%.",
     },
     [34] = {
         type = 1,
@@ -940,9 +940,9 @@ return {
         talent = {
             [1] = 1137,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 2,
@@ -953,7 +953,7 @@ return {
         },
         level = 34,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命7168，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 7168 HP. Preliminary research success grants Total HP +6%.",
     },
     [35] = {
         type = 1,
@@ -970,9 +970,9 @@ return {
         talent = {
             [1] = 1138,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 2,
@@ -983,7 +983,7 @@ return {
         },
         level = 35,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命7373，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 7373 HP. Preliminary research success grants Total HP +6%.",
     },
     [36] = {
         type = 1,
@@ -998,9 +998,9 @@ return {
         talent = {
             [1] = 1139,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 1,
@@ -1011,7 +1011,7 @@ return {
         },
         level = 36,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命7578，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 7578 HP. Preliminary research success grants Total HP +6%.",
     },
     [37] = {
         type = 1,
@@ -1026,9 +1026,9 @@ return {
         talent = {
             [1] = 1140,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 1,
@@ -1039,7 +1039,7 @@ return {
         },
         level = 37,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命7782，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 7782 HP. Preliminary research success grants Total HP +6%.",
     },
     [38] = {
         type = 1,
@@ -1054,9 +1054,9 @@ return {
         talent = {
             [1] = 1141,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 1,
@@ -1067,7 +1067,7 @@ return {
         },
         level = 38,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命7987，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 7987 HP. Preliminary research success grants Total HP +6%.",
     },
     [39] = {
         type = 1,
@@ -1082,9 +1082,9 @@ return {
         talent = {
             [1] = 1142,
         },
-        des2 = "生命+205,总生命+2%",
+        des2 = "HP +205, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 4,
         taskLayout = {
             [1] = 1,
@@ -1095,7 +1095,7 @@ return {
         },
         level = 39,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命8192，研究初具成果，总生命提升6%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 8192 HP. Preliminary research success grants Total HP +6%.",
     },
     [40] = {
         type = 1,
@@ -1112,9 +1112,9 @@ return {
         talent = {
             [1] = 1143,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1125,7 +1125,7 @@ return {
         },
         level = 40,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命8397，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 8397 HP. Preliminary research success grants Total HP +8%.",
     },
     [41] = {
         type = 1,
@@ -1140,9 +1140,9 @@ return {
         talent = {
             [1] = 1145,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1153,7 +1153,7 @@ return {
         },
         level = 41,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命8602，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 8602 HP. Preliminary research success grants Total HP +8%.",
     },
     [42] = {
         type = 1,
@@ -1168,9 +1168,9 @@ return {
         talent = {
             [1] = 1146,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1181,7 +1181,7 @@ return {
         },
         level = 42,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命8806，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 8806 HP. Preliminary research success grants Total HP +8%.",
     },
     [43] = {
         type = 1,
@@ -1196,9 +1196,9 @@ return {
         talent = {
             [1] = 1147,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1209,7 +1209,7 @@ return {
         },
         level = 43,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命9011，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 9011 HP. Preliminary research success grants Total HP +8%.",
     },
     [44] = {
         type = 1,
@@ -1224,9 +1224,9 @@ return {
         talent = {
             [1] = 1148,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1237,7 +1237,7 @@ return {
         },
         level = 44,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命9216，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 9216 HP. Preliminary research success grants Total HP +8%.",
     },
     [45] = {
         type = 1,
@@ -1254,9 +1254,9 @@ return {
         talent = {
             [1] = 1149,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1267,7 +1267,7 @@ return {
         },
         level = 45,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命9421，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 9421 HP. Preliminary research success grants Total HP +8%.",
     },
     [46] = {
         type = 1,
@@ -1282,9 +1282,9 @@ return {
         talent = {
             [1] = 1150,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1295,7 +1295,7 @@ return {
         },
         level = 46,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命9626，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 9626 HP. Preliminary research success grants Total HP +8%.",
     },
     [47] = {
         type = 1,
@@ -1310,9 +1310,9 @@ return {
         talent = {
             [1] = 1151,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1323,7 +1323,7 @@ return {
         },
         level = 47,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命9830，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 9830 HP. Preliminary research success grants Total HP +8%.",
     },
     [48] = {
         type = 1,
@@ -1338,9 +1338,9 @@ return {
         talent = {
             [1] = 1152,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1351,7 +1351,7 @@ return {
         },
         level = 48,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命10035，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 10035 HP. Preliminary research success grants Total HP +8%.",
     },
     [49] = {
         type = 1,
@@ -1366,9 +1366,9 @@ return {
         talent = {
             [1] = 1153,
         },
-        des2 = "生命+205,总生命+2%",
+        des2 = "HP +205, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1379,7 +1379,7 @@ return {
         },
         level = 49,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命10240，研究初具成果，总生命提升8%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 10240 HP. Preliminary research success grants Total HP +8%.",
     },
     [50] = {
         type = 1,
@@ -1396,9 +1396,9 @@ return {
         talent = {
             [1] = 1154,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1409,7 +1409,7 @@ return {
         },
         level = 50,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命10445，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 10445 HP. Preliminary research success grants Total HP +10%.",
     },
     [51] = {
         type = 1,
@@ -1424,9 +1424,9 @@ return {
         talent = {
             [1] = 1156,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1437,7 +1437,7 @@ return {
         },
         level = 51,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命10650，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 10650 HP. Preliminary research success grants Total HP +10%.",
     },
     [52] = {
         type = 1,
@@ -1452,9 +1452,9 @@ return {
         talent = {
             [1] = 1157,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1465,7 +1465,7 @@ return {
         },
         level = 52,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命10854，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 10854 HP. Preliminary research success grants Total HP +10%.",
     },
     [53] = {
         type = 1,
@@ -1480,9 +1480,9 @@ return {
         talent = {
             [1] = 1158,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1493,7 +1493,7 @@ return {
         },
         level = 53,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命11059，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 11059 HP. Preliminary research success grants Total HP +10%.",
     },
     [54] = {
         type = 1,
@@ -1508,9 +1508,9 @@ return {
         talent = {
             [1] = 1159,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1521,7 +1521,7 @@ return {
         },
         level = 54,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命11264，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 11264 HP. Preliminary research success grants Total HP +10%.",
     },
     [55] = {
         type = 1,
@@ -1538,9 +1538,9 @@ return {
         talent = {
             [1] = 1160,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1551,7 +1551,7 @@ return {
         },
         level = 55,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命11469，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 11469 HP. Preliminary research success grants Total HP +10%.",
     },
     [56] = {
         type = 1,
@@ -1566,9 +1566,9 @@ return {
         talent = {
             [1] = 1161,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1579,7 +1579,7 @@ return {
         },
         level = 56,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命11674，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 11674 HP. Preliminary research success grants Total HP +10%.",
     },
     [57] = {
         type = 1,
@@ -1594,9 +1594,9 @@ return {
         talent = {
             [1] = 1162,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1607,7 +1607,7 @@ return {
         },
         level = 57,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命11878，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 11878 HP. Preliminary research success grants Total HP +10%.",
     },
     [58] = {
         type = 1,
@@ -1622,9 +1622,9 @@ return {
         talent = {
             [1] = 1163,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1635,7 +1635,7 @@ return {
         },
         level = 58,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命12083，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 12083 HP. Preliminary research success grants Total HP +10%.",
     },
     [59] = {
         type = 1,
@@ -1650,9 +1650,9 @@ return {
         talent = {
             [1] = 1164,
         },
-        des2 = "生命+205,总生命+2%",
+        des2 = "HP +205, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1663,7 +1663,7 @@ return {
         },
         level = 59,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命12288，研究初具成果，总生命提升10%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 12288 HP. Preliminary research success grants Total HP +10%.",
     },
     [60] = {
         type = 1,
@@ -1680,9 +1680,9 @@ return {
         talent = {
             [1] = 1165,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1693,7 +1693,7 @@ return {
         },
         level = 60,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命12493，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 12493 HP. Preliminary research success grants Total HP +12%.",
     },
     [61] = {
         type = 1,
@@ -1708,9 +1708,9 @@ return {
         talent = {
             [1] = 1167,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1721,7 +1721,7 @@ return {
         },
         level = 61,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命12698，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 12698 HP. Preliminary research success grants Total HP +12%.",
     },
     [62] = {
         type = 1,
@@ -1736,9 +1736,9 @@ return {
         talent = {
             [1] = 1168,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1749,7 +1749,7 @@ return {
         },
         level = 62,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命12902，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 12902 HP. Preliminary research success grants Total HP +12%.",
     },
     [63] = {
         type = 1,
@@ -1764,9 +1764,9 @@ return {
         talent = {
             [1] = 1169,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1777,7 +1777,7 @@ return {
         },
         level = 63,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命13107，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 13107 HP. Preliminary research success grants Total HP +12%.",
     },
     [64] = {
         type = 1,
@@ -1792,9 +1792,9 @@ return {
         talent = {
             [1] = 1170,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1805,7 +1805,7 @@ return {
         },
         level = 64,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命13312，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 13312 HP. Preliminary research success grants Total HP +12%.",
     },
     [65] = {
         type = 1,
@@ -1822,9 +1822,9 @@ return {
         talent = {
             [1] = 1171,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1835,7 +1835,7 @@ return {
         },
         level = 65,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命13517，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 13517 HP. Preliminary research success grants Total HP +12%.",
     },
     [66] = {
         type = 1,
@@ -1850,9 +1850,9 @@ return {
         talent = {
             [1] = 1172,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1863,7 +1863,7 @@ return {
         },
         level = 66,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命13722，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 13722 HP. Preliminary research success grants Total HP +12%.",
     },
     [67] = {
         type = 1,
@@ -1878,9 +1878,9 @@ return {
         talent = {
             [1] = 1173,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1891,7 +1891,7 @@ return {
         },
         level = 67,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命13926，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 13926 HP. Preliminary research success grants Total HP +12%.",
     },
     [68] = {
         type = 1,
@@ -1906,9 +1906,9 @@ return {
         talent = {
             [1] = 1174,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1919,7 +1919,7 @@ return {
         },
         level = 68,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命14131，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 14131 HP. Preliminary research success grants Total HP +12%.",
     },
     [69] = {
         type = 1,
@@ -1934,9 +1934,9 @@ return {
         talent = {
             [1] = 1175,
         },
-        des2 = "生命+205,总生命+2%",
+        des2 = "HP +205, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1947,7 +1947,7 @@ return {
         },
         level = 69,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命14336，研究初具成果，总生命提升12%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 14336 HP. Preliminary research success grants Total HP +12%.",
     },
     [70] = {
         type = 1,
@@ -1963,9 +1963,9 @@ return {
         talent = {
             [1] = 1176,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -1976,7 +1976,7 @@ return {
         },
         level = 70,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命14541，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 14541 HP. Preliminary research success grants Total HP +14%.",
     },
     [71] = {
         type = 1,
@@ -1991,9 +1991,9 @@ return {
         talent = {
             [1] = 1178,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 1,
@@ -2004,7 +2004,7 @@ return {
         },
         level = 71,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命14746，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 14746 HP. Preliminary research success grants Total HP +14%.",
     },
     [72] = {
         type = 1,
@@ -2019,9 +2019,9 @@ return {
         talent = {
             [1] = 1179,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2032,7 +2032,7 @@ return {
         },
         level = 72,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命14950，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 14950 HP. Preliminary research success grants Total HP +14%.",
     },
     [73] = {
         type = 1,
@@ -2047,9 +2047,9 @@ return {
         talent = {
             [1] = 1180,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2060,7 +2060,7 @@ return {
         },
         level = 73,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命15155，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 15155 HP. Preliminary research success grants Total HP +14%.",
     },
     [74] = {
         type = 1,
@@ -2075,9 +2075,9 @@ return {
         talent = {
             [1] = 1181,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2088,7 +2088,7 @@ return {
         },
         level = 74,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命15360，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 15360 HP. Preliminary research success grants Total HP +14%.",
     },
     [75] = {
         type = 1,
@@ -2105,9 +2105,9 @@ return {
         talent = {
             [1] = 1182,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2118,7 +2118,7 @@ return {
         },
         level = 75,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命15565，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 15565 HP. Preliminary research success grants Total HP +14%.",
     },
     [76] = {
         type = 1,
@@ -2133,9 +2133,9 @@ return {
         talent = {
             [1] = 1183,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2146,7 +2146,7 @@ return {
         },
         level = 76,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命15770，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 15770 HP. Preliminary research success grants Total HP +14%.",
     },
     [77] = {
         type = 1,
@@ -2161,9 +2161,9 @@ return {
         talent = {
             [1] = 1184,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2174,7 +2174,7 @@ return {
         },
         level = 77,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命15974，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 15974 HP. Preliminary research success grants Total HP +14%.",
     },
     [78] = {
         type = 1,
@@ -2189,9 +2189,9 @@ return {
         talent = {
             [1] = 1185,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2202,7 +2202,7 @@ return {
         },
         level = 78,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命16179，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 16179 HP. Preliminary research success grants Total HP +14%.",
     },
     [79] = {
         type = 1,
@@ -2217,9 +2217,9 @@ return {
         talent = {
             [1] = 1186,
         },
-        des2 = "生命+205,总生命+2%",
+        des2 = "HP +205, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2230,7 +2230,7 @@ return {
         },
         level = 79,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命16384，研究初具成果，总生命提升14%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 16384 HP. Preliminary research success grants Total HP +14%.",
     },
     [80] = {
         type = 1,
@@ -2247,9 +2247,9 @@ return {
         talent = {
             [1] = 1187,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2260,7 +2260,7 @@ return {
         },
         level = 80,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命16589，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 16589 HP. Preliminary research success grants Total HP +16%.",
     },
     [81] = {
         type = 1,
@@ -2275,9 +2275,9 @@ return {
         talent = {
             [1] = 1189,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2288,7 +2288,7 @@ return {
         },
         level = 81,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命16794，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 16794 HP. Preliminary research success grants Total HP +16%.",
     },
     [82] = {
         type = 1,
@@ -2303,9 +2303,9 @@ return {
         talent = {
             [1] = 1190,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2316,7 +2316,7 @@ return {
         },
         level = 82,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命16998，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 16998 HP. Preliminary research success grants Total HP +16%.",
     },
     [83] = {
         type = 1,
@@ -2331,9 +2331,9 @@ return {
         talent = {
             [1] = 1191,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2344,7 +2344,7 @@ return {
         },
         level = 83,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命17203，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 17203 HP. Preliminary research success grants Total HP +16%.",
     },
     [84] = {
         type = 1,
@@ -2359,9 +2359,9 @@ return {
         talent = {
             [1] = 1192,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2372,7 +2372,7 @@ return {
         },
         level = 84,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命17408，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 17408 HP. Preliminary research success grants Total HP +16%.",
     },
     [85] = {
         type = 1,
@@ -2389,9 +2389,9 @@ return {
         talent = {
             [1] = 1193,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2402,7 +2402,7 @@ return {
         },
         level = 85,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命17613，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 17613 HP. Preliminary research success grants Total HP +16%.",
     },
     [86] = {
         type = 1,
@@ -2417,9 +2417,9 @@ return {
         talent = {
             [1] = 1194,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2430,7 +2430,7 @@ return {
         },
         level = 86,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命17818，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 17818 HP. Preliminary research success grants Total HP +16%.",
     },
     [87] = {
         type = 1,
@@ -2445,9 +2445,9 @@ return {
         talent = {
             [1] = 1195,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2458,7 +2458,7 @@ return {
         },
         level = 87,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命18022，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 18022 HP. Preliminary research success grants Total HP +16%.",
     },
     [88] = {
         type = 1,
@@ -2473,9 +2473,9 @@ return {
         talent = {
             [1] = 1196,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2486,7 +2486,7 @@ return {
         },
         level = 88,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命18227，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 18227 HP. Preliminary research success grants Total HP +16%.",
     },
     [89] = {
         type = 1,
@@ -2501,9 +2501,9 @@ return {
         talent = {
             [1] = 1197,
         },
-        des2 = "生命+205,总生命+2%",
+        des2 = "HP +205, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2514,7 +2514,7 @@ return {
         },
         level = 89,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命18432，研究初具成果，总生命提升16%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 18432 HP. Preliminary research success grants Total HP +16%.",
     },
     [90] = {
         type = 1,
@@ -2531,9 +2531,9 @@ return {
         talent = {
             [1] = 1198,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2544,7 +2544,7 @@ return {
         },
         level = 90,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命18637，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 18637 HP. Preliminary research success grants Total HP +18%.",
     },
     [91] = {
         type = 1,
@@ -2559,9 +2559,9 @@ return {
         talent = {
             [1] = 1200,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2572,7 +2572,7 @@ return {
         },
         level = 91,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命18842，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 18842 HP. Preliminary research success grants Total HP +18%.",
     },
     [92] = {
         type = 1,
@@ -2587,9 +2587,9 @@ return {
         talent = {
             [1] = 1201,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2600,7 +2600,7 @@ return {
         },
         level = 92,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命19046，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 19046 HP. Preliminary research success grants Total HP +18%.",
     },
     [93] = {
         type = 1,
@@ -2615,9 +2615,9 @@ return {
         talent = {
             [1] = 1202,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2628,7 +2628,7 @@ return {
         },
         level = 93,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命19251，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 19251 HP. Preliminary research success grants Total HP +18%.",
     },
     [94] = {
         type = 1,
@@ -2643,9 +2643,9 @@ return {
         talent = {
             [1] = 1203,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2656,7 +2656,7 @@ return {
         },
         level = 94,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命19456，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 19456 HP. Preliminary research success grants Total HP +18%.",
     },
     [95] = {
         type = 1,
@@ -2673,9 +2673,9 @@ return {
         talent = {
             [1] = 1204,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2686,7 +2686,7 @@ return {
         },
         level = 95,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命19661，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 19661 HP. Preliminary research success grants Total HP +18%.",
     },
     [96] = {
         type = 1,
@@ -2701,9 +2701,9 @@ return {
         talent = {
             [1] = 1205,
         },
-        des2 = "生命+204",
+        des2 = "HP +204",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2714,7 +2714,7 @@ return {
         },
         level = 96,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命19866，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 19866 HP. Preliminary research success grants Total HP +18%.",
     },
     [97] = {
         type = 1,
@@ -2729,9 +2729,9 @@ return {
         talent = {
             [1] = 1206,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2742,7 +2742,7 @@ return {
         },
         level = 97,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命20070，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 20070 HP. Preliminary research success grants Total HP +18%.",
     },
     [98] = {
         type = 1,
@@ -2757,9 +2757,9 @@ return {
         talent = {
             [1] = 1207,
         },
-        des2 = "生命+205",
+        des2 = "HP +205",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2770,7 +2770,7 @@ return {
         },
         level = 98,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命20275，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 20275 HP. Preliminary research success grants Total HP +18%.",
     },
     [99] = {
         type = 1,
@@ -2785,9 +2785,9 @@ return {
         talent = {
             [1] = 1208,
         },
-        des2 = "生命+205,总生命+2%",
+        des2 = "HP +205, Total HP +2%",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2798,7 +2798,7 @@ return {
         },
         level = 99,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命20480，研究初具成果，总生命提升18%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 20480 HP. Preliminary research success grants Total HP +18%.",
     },
     [100] = {
         type = 1,
@@ -2817,7 +2817,7 @@ return {
         },
         des2 = "",
         taskCount = 8,
-        name = "指挥室",
+        name = "Command Room",
         heroSize = 5,
         taskLayout = {
             [1] = 0,
@@ -2828,7 +2828,7 @@ return {
         },
         level = 100,
         holeSize = 0,
-        des = "指挥室是天空舰的控制中枢，为飞舰提供生命20685，研究初具成果，总生命提升20%",
+        des = "The Command Room is the control center of the Sky Airship and provides it with 20685 HP. Preliminary research success grants Total HP +20%.",
     },
     [101] = {
         type = 2,
@@ -2841,15 +2841,15 @@ return {
             [1] = 1211,
             [2] = 110,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 1,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力283",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien technology and provides the airship with 283 Firepower.",
     },
     [102] = {
         type = 2,
@@ -2867,15 +2867,15 @@ return {
         talent = {
             [1] = 1212,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 2,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力387",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien technology and provides the airship with 387 Firepower.",
     },
     [103] = {
         type = 2,
@@ -2893,15 +2893,15 @@ return {
         talent = {
             [1] = 1213,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 3,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力492",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien technology and provides the airship with 492 Firepower.",
     },
     [104] = {
         type = 2,
@@ -2919,15 +2919,15 @@ return {
         talent = {
             [1] = 1214,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 4,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力596",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien technology and provides the airship with 596 Firepower.",
     },
     [105] = {
         type = 2,
@@ -2946,15 +2946,15 @@ return {
         talent = {
             [1] = 1215,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 5,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力700",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien technology and provides the airship with 700 Firepower.",
     },
     [106] = {
         type = 2,
@@ -2972,15 +2972,15 @@ return {
         talent = {
             [1] = 1216,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 6,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力805",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien technology and provides the airship with 805 Firepower.",
     },
     [107] = {
         type = 2,
@@ -2998,15 +2998,15 @@ return {
         talent = {
             [1] = 1217,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 7,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力909",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien technology and provides the airship with 909 Firepower.",
     },
     [108] = {
         type = 2,
@@ -3024,15 +3024,15 @@ return {
         talent = {
             [1] = 1218,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 8,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1013",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien technology and provides the airship with 1013 Firepower.",
     },
     [109] = {
         type = 2,
@@ -3050,15 +3050,15 @@ return {
         talent = {
             [1] = 1219,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 9,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1118",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien technology and provides the airship with 1118 Firepower.",
     },
     [110] = {
         type = 2,
@@ -3077,15 +3077,15 @@ return {
         talent = {
             [1] = 1220,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 10,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1222，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 1222 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [111] = {
         type = 2,
@@ -3103,15 +3103,15 @@ return {
         talent = {
             [1] = 1222,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 11,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1326，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 1326 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [112] = {
         type = 2,
@@ -3129,15 +3129,15 @@ return {
         talent = {
             [1] = 1223,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 12,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1430，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 1430 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [113] = {
         type = 2,
@@ -3155,15 +3155,15 @@ return {
         talent = {
             [1] = 1224,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 13,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1535，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 1535 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [114] = {
         type = 2,
@@ -3181,15 +3181,15 @@ return {
         talent = {
             [1] = 1225,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 14,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1639，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 1639 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [115] = {
         type = 2,
@@ -3208,15 +3208,15 @@ return {
         talent = {
             [1] = 1226,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 15,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1743，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 1743 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [116] = {
         type = 2,
@@ -3234,15 +3234,15 @@ return {
         talent = {
             [1] = 1227,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 16,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1848，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 1848 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [117] = {
         type = 2,
@@ -3260,15 +3260,15 @@ return {
         talent = {
             [1] = 1228,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 17,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力1952，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 1952 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [118] = {
         type = 2,
@@ -3286,15 +3286,15 @@ return {
         talent = {
             [1] = 1229,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 18,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2056，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2056 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [119] = {
         type = 2,
@@ -3312,15 +3312,15 @@ return {
         talent = {
             [1] = 1230,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 19,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2161，研究初具成果，总火力提升2%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2161 Firepower. Preliminary research success grants Total Firepower +2%.",
     },
     [120] = {
         type = 2,
@@ -3339,15 +3339,15 @@ return {
         talent = {
             [1] = 1231,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 20,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2265，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2265 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [121] = {
         type = 2,
@@ -3365,15 +3365,15 @@ return {
         talent = {
             [1] = 1233,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 21,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2369，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2369 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [122] = {
         type = 2,
@@ -3391,15 +3391,15 @@ return {
         talent = {
             [1] = 1234,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 22,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2473，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2473 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [123] = {
         type = 2,
@@ -3417,15 +3417,15 @@ return {
         talent = {
             [1] = 1235,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 23,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2578，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2578 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [124] = {
         type = 2,
@@ -3443,15 +3443,15 @@ return {
         talent = {
             [1] = 1236,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 24,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2682，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2682 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [125] = {
         type = 2,
@@ -3470,15 +3470,15 @@ return {
         talent = {
             [1] = 1237,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 25,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2786，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2786 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [126] = {
         type = 2,
@@ -3496,15 +3496,15 @@ return {
         talent = {
             [1] = 1238,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 26,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2891，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2891 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [127] = {
         type = 2,
@@ -3522,15 +3522,15 @@ return {
         talent = {
             [1] = 1239,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 27,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力2995，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 2995 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [128] = {
         type = 2,
@@ -3548,15 +3548,15 @@ return {
         talent = {
             [1] = 1240,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 28,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力3099，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 3099 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [129] = {
         type = 2,
@@ -3574,15 +3574,15 @@ return {
         talent = {
             [1] = 1241,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 29,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力3204，研究初具成果，总火力提升4%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 3204 Firepower. Preliminary research success grants Total Firepower +4%.",
     },
     [130] = {
         type = 2,
@@ -3601,15 +3601,15 @@ return {
         talent = {
             [1] = 1242,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 30,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力3308，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 3308 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [131] = {
         type = 2,
@@ -3627,15 +3627,15 @@ return {
         talent = {
             [1] = 1244,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 31,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力3412，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 3412 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [132] = {
         type = 2,
@@ -3653,15 +3653,15 @@ return {
         talent = {
             [1] = 1245,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 32,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力3516，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 3516 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [133] = {
         type = 2,
@@ -3679,15 +3679,15 @@ return {
         talent = {
             [1] = 1246,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 33,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力3621，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 3621 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [134] = {
         type = 2,
@@ -3705,15 +3705,15 @@ return {
         talent = {
             [1] = 1247,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 34,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力3725，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 3725 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [135] = {
         type = 2,
@@ -3733,15 +3733,15 @@ return {
         talent = {
             [1] = 1248,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 35,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力3829，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 3829 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [136] = {
         type = 2,
@@ -3759,15 +3759,15 @@ return {
         talent = {
             [1] = 1249,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 36,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力3934，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 3934 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [137] = {
         type = 2,
@@ -3785,15 +3785,15 @@ return {
         talent = {
             [1] = 1250,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 37,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4038，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4038 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [138] = {
         type = 2,
@@ -3811,15 +3811,15 @@ return {
         talent = {
             [1] = 1251,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 38,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4142，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4142 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [139] = {
         type = 2,
@@ -3837,15 +3837,15 @@ return {
         talent = {
             [1] = 1252,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 39,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4247，研究初具成果，总火力提升6%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4247 Firepower. Preliminary research success grants Total Firepower +6%.",
     },
     [140] = {
         type = 2,
@@ -3865,15 +3865,15 @@ return {
         talent = {
             [1] = 1253,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 40,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4351，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4351 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [141] = {
         type = 2,
@@ -3891,15 +3891,15 @@ return {
         talent = {
             [1] = 1255,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 41,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4455，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4455 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [142] = {
         type = 2,
@@ -3917,15 +3917,15 @@ return {
         talent = {
             [1] = 1256,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 42,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4559，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4559 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [143] = {
         type = 2,
@@ -3943,15 +3943,15 @@ return {
         talent = {
             [1] = 1257,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 43,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4664，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4664 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [144] = {
         type = 2,
@@ -3969,15 +3969,15 @@ return {
         talent = {
             [1] = 1258,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 44,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4768，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4768 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [145] = {
         type = 2,
@@ -3997,15 +3997,15 @@ return {
         talent = {
             [1] = 1259,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 45,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4872，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4872 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [146] = {
         type = 2,
@@ -4023,15 +4023,15 @@ return {
         talent = {
             [1] = 1260,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 46,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力4977，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 4977 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [147] = {
         type = 2,
@@ -4049,15 +4049,15 @@ return {
         talent = {
             [1] = 1261,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 47,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力5081，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 5081 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [148] = {
         type = 2,
@@ -4075,15 +4075,15 @@ return {
         talent = {
             [1] = 1262,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 48,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力5185，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 5185 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [149] = {
         type = 2,
@@ -4101,15 +4101,15 @@ return {
         talent = {
             [1] = 1263,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 49,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力5290，研究初具成果，总火力提升8%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 5290 Firepower. Preliminary research success grants Total Firepower +8%.",
     },
     [150] = {
         type = 2,
@@ -4129,15 +4129,15 @@ return {
         talent = {
             [1] = 1264,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 50,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力5394，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 5394 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [151] = {
         type = 2,
@@ -4155,15 +4155,15 @@ return {
         talent = {
             [1] = 1266,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 51,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力5498，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 5498 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [152] = {
         type = 2,
@@ -4181,15 +4181,15 @@ return {
         talent = {
             [1] = 1267,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 52,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力5602，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 5602 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [153] = {
         type = 2,
@@ -4207,15 +4207,15 @@ return {
         talent = {
             [1] = 1268,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 53,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力5707，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 5707 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [154] = {
         type = 2,
@@ -4233,15 +4233,15 @@ return {
         talent = {
             [1] = 1269,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 54,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力5811，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 5811 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [155] = {
         type = 2,
@@ -4261,15 +4261,15 @@ return {
         talent = {
             [1] = 1270,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 55,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力5915，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 5915 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [156] = {
         type = 2,
@@ -4287,15 +4287,15 @@ return {
         talent = {
             [1] = 1271,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 56,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6020，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6020 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [157] = {
         type = 2,
@@ -4313,15 +4313,15 @@ return {
         talent = {
             [1] = 1272,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 57,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6124，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6124 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [158] = {
         type = 2,
@@ -4339,15 +4339,15 @@ return {
         talent = {
             [1] = 1273,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 58,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6228，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6228 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [159] = {
         type = 2,
@@ -4365,15 +4365,15 @@ return {
         talent = {
             [1] = 1274,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 59,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6333，研究初具成果，总火力提升10%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6333 Firepower. Preliminary research success grants Total Firepower +10%.",
     },
     [160] = {
         type = 2,
@@ -4393,15 +4393,15 @@ return {
         talent = {
             [1] = 1275,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 60,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6437，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6437 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [161] = {
         type = 2,
@@ -4419,15 +4419,15 @@ return {
         talent = {
             [1] = 1277,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 61,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6541，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6541 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [162] = {
         type = 2,
@@ -4445,15 +4445,15 @@ return {
         talent = {
             [1] = 1278,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 62,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6645，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6645 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [163] = {
         type = 2,
@@ -4471,15 +4471,15 @@ return {
         talent = {
             [1] = 1279,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 63,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6750，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6750 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [164] = {
         type = 2,
@@ -4497,15 +4497,15 @@ return {
         talent = {
             [1] = 1280,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 64,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6854，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6854 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [165] = {
         type = 2,
@@ -4525,15 +4525,15 @@ return {
         talent = {
             [1] = 1281,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 65,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力6958，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 6958 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [166] = {
         type = 2,
@@ -4551,15 +4551,15 @@ return {
         talent = {
             [1] = 1282,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 66,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力7063，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 7063 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [167] = {
         type = 2,
@@ -4577,15 +4577,15 @@ return {
         talent = {
             [1] = 1283,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 67,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力7167，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 7167 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [168] = {
         type = 2,
@@ -4603,15 +4603,15 @@ return {
         talent = {
             [1] = 1284,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 68,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力7271，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 7271 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [169] = {
         type = 2,
@@ -4629,15 +4629,15 @@ return {
         talent = {
             [1] = 1285,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 69,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力7376，研究初具成果，总火力提升12%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 7376 Firepower. Preliminary research success grants Total Firepower +12%.",
     },
     [170] = {
         type = 2,
@@ -4656,15 +4656,15 @@ return {
         talent = {
             [1] = 1286,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 70,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力7480，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 7480 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [171] = {
         type = 2,
@@ -4682,15 +4682,15 @@ return {
         talent = {
             [1] = 1288,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 71,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力7584，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 7584 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [172] = {
         type = 2,
@@ -4708,15 +4708,15 @@ return {
         talent = {
             [1] = 1289,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 72,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力7688，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 7688 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [173] = {
         type = 2,
@@ -4734,15 +4734,15 @@ return {
         talent = {
             [1] = 1290,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 73,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力7793，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 7793 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [174] = {
         type = 2,
@@ -4760,15 +4760,15 @@ return {
         talent = {
             [1] = 1291,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 74,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力7897，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 7897 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [175] = {
         type = 2,
@@ -4788,15 +4788,15 @@ return {
         talent = {
             [1] = 1292,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 75,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8001，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8001 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [176] = {
         type = 2,
@@ -4814,15 +4814,15 @@ return {
         talent = {
             [1] = 1293,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 76,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8106，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8106 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [177] = {
         type = 2,
@@ -4840,15 +4840,15 @@ return {
         talent = {
             [1] = 1294,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 77,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8210，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8210 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [178] = {
         type = 2,
@@ -4866,15 +4866,15 @@ return {
         talent = {
             [1] = 1295,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 78,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8314，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8314 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [179] = {
         type = 2,
@@ -4892,15 +4892,15 @@ return {
         talent = {
             [1] = 1296,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 79,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8419，研究初具成果，总火力提升14%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8419 Firepower. Preliminary research success grants Total Firepower +14%.",
     },
     [180] = {
         type = 2,
@@ -4920,15 +4920,15 @@ return {
         talent = {
             [1] = 1297,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 80,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8523，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8523 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [181] = {
         type = 2,
@@ -4946,15 +4946,15 @@ return {
         talent = {
             [1] = 1299,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 81,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8627，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8627 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [182] = {
         type = 2,
@@ -4972,15 +4972,15 @@ return {
         talent = {
             [1] = 1300,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 82,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8731，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8731 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [183] = {
         type = 2,
@@ -4998,15 +4998,15 @@ return {
         talent = {
             [1] = 1301,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 83,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8836，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8836 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [184] = {
         type = 2,
@@ -5024,15 +5024,15 @@ return {
         talent = {
             [1] = 1302,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 84,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力8940，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 8940 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [185] = {
         type = 2,
@@ -5052,15 +5052,15 @@ return {
         talent = {
             [1] = 1303,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 85,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9044，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9044 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [186] = {
         type = 2,
@@ -5078,15 +5078,15 @@ return {
         talent = {
             [1] = 1304,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 86,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9149，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9149 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [187] = {
         type = 2,
@@ -5104,15 +5104,15 @@ return {
         talent = {
             [1] = 1305,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 87,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9253，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9253 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [188] = {
         type = 2,
@@ -5130,15 +5130,15 @@ return {
         talent = {
             [1] = 1306,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 88,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9357，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9357 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [189] = {
         type = 2,
@@ -5156,15 +5156,15 @@ return {
         talent = {
             [1] = 1307,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 89,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9462，研究初具成果，总火力提升16%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9462 Firepower. Preliminary research success grants Total Firepower +16%.",
     },
     [190] = {
         type = 2,
@@ -5184,15 +5184,15 @@ return {
         talent = {
             [1] = 1308,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 90,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9566，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9566 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [191] = {
         type = 2,
@@ -5210,15 +5210,15 @@ return {
         talent = {
             [1] = 1310,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 91,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9670，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9670 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [192] = {
         type = 2,
@@ -5236,15 +5236,15 @@ return {
         talent = {
             [1] = 1311,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 92,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9774，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9774 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [193] = {
         type = 2,
@@ -5262,15 +5262,15 @@ return {
         talent = {
             [1] = 1312,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 93,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9879，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9879 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [194] = {
         type = 2,
@@ -5288,15 +5288,15 @@ return {
         talent = {
             [1] = 1313,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 94,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力9983，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 9983 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [195] = {
         type = 2,
@@ -5316,15 +5316,15 @@ return {
         talent = {
             [1] = 1314,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 95,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力10087，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 10087 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [196] = {
         type = 2,
@@ -5342,15 +5342,15 @@ return {
         talent = {
             [1] = 1315,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 96,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力10192，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 10192 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [197] = {
         type = 2,
@@ -5368,15 +5368,15 @@ return {
         talent = {
             [1] = 1316,
         },
-        des2 = "火力+104",
+        des2 = "Firepower +104",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 97,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力10296，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 10296 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [198] = {
         type = 2,
@@ -5394,15 +5394,15 @@ return {
         talent = {
             [1] = 1317,
         },
-        des2 = "火力+105",
+        des2 = "Firepower +105",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 98,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力10400，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 10400 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [199] = {
         type = 2,
@@ -5420,15 +5420,15 @@ return {
         talent = {
             [1] = 1318,
         },
-        des2 = "火力+104,总火力+2%",
+        des2 = "Firepower +104, Total Firepower +2%",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 99,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力10505，研究初具成果，总火力提升18%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 10505 Firepower. Preliminary research success grants Total Firepower +18%.",
     },
     [200] = {
         type = 2,
@@ -5450,13 +5450,13 @@ return {
         },
         des2 = "",
         taskCount = 0,
-        name = "武器舱",
+        name = "Weapons Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 100,
         holeSize = 0,
-        des = "武器舱装配着威力强大的异界改装武器，为飞舰提供火力10609，研究初具成果，总火力提升20%",
+        des = "The Weapons Cabin is equipped with powerful weaponry modified using alien tech and provides the airship with 10609 Firepower. Preliminary research success grants Total Firepower +20%.",
     },
     [201] = {
         type = 3,
@@ -5469,15 +5469,15 @@ return {
             [1] = 1321,
             [2] = 120,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 1,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御420",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 420 DEF.",
     },
     [202] = {
         type = 3,
@@ -5495,15 +5495,15 @@ return {
         talent = {
             [1] = 1322,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 2,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御458",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 458 DEF.",
     },
     [203] = {
         type = 3,
@@ -5521,15 +5521,15 @@ return {
         talent = {
             [1] = 1323,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 3,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御497",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 497 DEF.",
     },
     [204] = {
         type = 3,
@@ -5547,15 +5547,15 @@ return {
         talent = {
             [1] = 1324,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 4,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御535",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 535 DEF.",
     },
     [205] = {
         type = 3,
@@ -5574,15 +5574,15 @@ return {
         talent = {
             [1] = 1325,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 5,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御573",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 573 DEF.",
     },
     [206] = {
         type = 3,
@@ -5600,15 +5600,15 @@ return {
         talent = {
             [1] = 1326,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 6,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御611",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 611 DEF.",
     },
     [207] = {
         type = 3,
@@ -5626,15 +5626,15 @@ return {
         talent = {
             [1] = 1327,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 7,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御649",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 649 DEF.",
     },
     [208] = {
         type = 3,
@@ -5652,15 +5652,15 @@ return {
         talent = {
             [1] = 1328,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 8,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御688",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 688 DEF.",
     },
     [209] = {
         type = 3,
@@ -5678,15 +5678,15 @@ return {
         talent = {
             [1] = 1329,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 9,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御726",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 726 DEF.",
     },
     [210] = {
         type = 3,
@@ -5705,15 +5705,15 @@ return {
         talent = {
             [1] = 1330,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 10,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御764，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 764 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [211] = {
         type = 3,
@@ -5731,15 +5731,15 @@ return {
         talent = {
             [1] = 1332,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 11,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御802，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 802 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [212] = {
         type = 3,
@@ -5757,15 +5757,15 @@ return {
         talent = {
             [1] = 1333,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 12,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御840，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 840 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [213] = {
         type = 3,
@@ -5783,15 +5783,15 @@ return {
         talent = {
             [1] = 1334,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 13,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御879，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 879 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [214] = {
         type = 3,
@@ -5809,15 +5809,15 @@ return {
         talent = {
             [1] = 1335,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 14,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御917，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 917 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [215] = {
         type = 3,
@@ -5836,15 +5836,15 @@ return {
         talent = {
             [1] = 1336,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 15,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御955，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 955 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [216] = {
         type = 3,
@@ -5862,15 +5862,15 @@ return {
         talent = {
             [1] = 1337,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 16,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御993，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 993 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [217] = {
         type = 3,
@@ -5888,15 +5888,15 @@ return {
         talent = {
             [1] = 1338,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 17,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1031，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1031 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [218] = {
         type = 3,
@@ -5914,15 +5914,15 @@ return {
         talent = {
             [1] = 1339,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 18,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1070，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1070 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [219] = {
         type = 3,
@@ -5940,15 +5940,15 @@ return {
         talent = {
             [1] = 1340,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 19,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1108，研究初具成果，总防御提升2%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1108 DEF. Preliminary research success grants Total DEF +2%.",
     },
     [220] = {
         type = 3,
@@ -5967,15 +5967,15 @@ return {
         talent = {
             [1] = 1341,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 20,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1146，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1146 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [221] = {
         type = 3,
@@ -5993,15 +5993,15 @@ return {
         talent = {
             [1] = 1343,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 21,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1184，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1184 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [222] = {
         type = 3,
@@ -6019,15 +6019,15 @@ return {
         talent = {
             [1] = 1344,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 22,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1222，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1222 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [223] = {
         type = 3,
@@ -6045,15 +6045,15 @@ return {
         talent = {
             [1] = 1345,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 23,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1261，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1261 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [224] = {
         type = 3,
@@ -6071,15 +6071,15 @@ return {
         talent = {
             [1] = 1346,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 24,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1299，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1299 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [225] = {
         type = 3,
@@ -6098,15 +6098,15 @@ return {
         talent = {
             [1] = 1347,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 25,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1337，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1337 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [226] = {
         type = 3,
@@ -6124,15 +6124,15 @@ return {
         talent = {
             [1] = 1348,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 26,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1375，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1375 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [227] = {
         type = 3,
@@ -6150,15 +6150,15 @@ return {
         talent = {
             [1] = 1349,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 27,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1413，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1413 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [228] = {
         type = 3,
@@ -6176,15 +6176,15 @@ return {
         talent = {
             [1] = 1350,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 28,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1452，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1452 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [229] = {
         type = 3,
@@ -6202,15 +6202,15 @@ return {
         talent = {
             [1] = 1351,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 29,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1490，研究初具成果，总防御提升4%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1490 DEF. Preliminary research success grants Total DEF +4%.",
     },
     [230] = {
         type = 3,
@@ -6229,15 +6229,15 @@ return {
         talent = {
             [1] = 1352,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 30,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1528，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1528 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [231] = {
         type = 3,
@@ -6255,15 +6255,15 @@ return {
         talent = {
             [1] = 1354,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 31,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1566，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1566 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [232] = {
         type = 3,
@@ -6281,15 +6281,15 @@ return {
         talent = {
             [1] = 1355,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 32,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1604，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1604 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [233] = {
         type = 3,
@@ -6307,15 +6307,15 @@ return {
         talent = {
             [1] = 1356,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 33,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1643，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1643 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [234] = {
         type = 3,
@@ -6333,15 +6333,15 @@ return {
         talent = {
             [1] = 1357,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 34,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1681，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1681 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [235] = {
         type = 3,
@@ -6361,15 +6361,15 @@ return {
         talent = {
             [1] = 1358,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 35,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1719，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1719 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [236] = {
         type = 3,
@@ -6387,15 +6387,15 @@ return {
         talent = {
             [1] = 1359,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 36,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1757，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1757 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [237] = {
         type = 3,
@@ -6413,15 +6413,15 @@ return {
         talent = {
             [1] = 1360,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 37,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1795，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1795 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [238] = {
         type = 3,
@@ -6439,15 +6439,15 @@ return {
         talent = {
             [1] = 1361,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 38,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1834，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1834 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [239] = {
         type = 3,
@@ -6465,15 +6465,15 @@ return {
         talent = {
             [1] = 1362,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 39,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1872，研究初具成果，总防御提升6%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1872 DEF. Preliminary research success grants Total DEF +6%.",
     },
     [240] = {
         type = 3,
@@ -6493,15 +6493,15 @@ return {
         talent = {
             [1] = 1363,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 40,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1910，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1910 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [241] = {
         type = 3,
@@ -6519,15 +6519,15 @@ return {
         talent = {
             [1] = 1365,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 41,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1948，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1948 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [242] = {
         type = 3,
@@ -6545,15 +6545,15 @@ return {
         talent = {
             [1] = 1366,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 42,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御1986，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 1986 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [243] = {
         type = 3,
@@ -6571,15 +6571,15 @@ return {
         talent = {
             [1] = 1367,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 43,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2025，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2025 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [244] = {
         type = 3,
@@ -6597,15 +6597,15 @@ return {
         talent = {
             [1] = 1368,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 44,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2063，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2063 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [245] = {
         type = 3,
@@ -6625,15 +6625,15 @@ return {
         talent = {
             [1] = 1369,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 45,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2101，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2101 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [246] = {
         type = 3,
@@ -6651,15 +6651,15 @@ return {
         talent = {
             [1] = 1370,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 46,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2139，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2139 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [247] = {
         type = 3,
@@ -6677,15 +6677,15 @@ return {
         talent = {
             [1] = 1371,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 47,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2177，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2177 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [248] = {
         type = 3,
@@ -6703,15 +6703,15 @@ return {
         talent = {
             [1] = 1372,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 48,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2216，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2216 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [249] = {
         type = 3,
@@ -6729,15 +6729,15 @@ return {
         talent = {
             [1] = 1373,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 49,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2254，研究初具成果，总防御提升8%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2254 DEF. Preliminary research success grants Total DEF +8%.",
     },
     [250] = {
         type = 3,
@@ -6757,15 +6757,15 @@ return {
         talent = {
             [1] = 1374,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 50,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2292，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2292 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [251] = {
         type = 3,
@@ -6783,15 +6783,15 @@ return {
         talent = {
             [1] = 1376,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 51,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2330，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2330 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [252] = {
         type = 3,
@@ -6809,15 +6809,15 @@ return {
         talent = {
             [1] = 1377,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 52,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2368，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2368 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [253] = {
         type = 3,
@@ -6835,15 +6835,15 @@ return {
         talent = {
             [1] = 1378,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 53,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2407，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2407 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [254] = {
         type = 3,
@@ -6861,15 +6861,15 @@ return {
         talent = {
             [1] = 1379,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 54,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2445，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2445 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [255] = {
         type = 3,
@@ -6889,15 +6889,15 @@ return {
         talent = {
             [1] = 1380,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 55,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2483，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2483 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [256] = {
         type = 3,
@@ -6915,15 +6915,15 @@ return {
         talent = {
             [1] = 1381,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 56,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2521，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2521 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [257] = {
         type = 3,
@@ -6941,15 +6941,15 @@ return {
         talent = {
             [1] = 1382,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 57,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2559，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2559 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [258] = {
         type = 3,
@@ -6967,15 +6967,15 @@ return {
         talent = {
             [1] = 1383,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 58,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2598，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2598 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [259] = {
         type = 3,
@@ -6993,15 +6993,15 @@ return {
         talent = {
             [1] = 1384,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 59,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2636，研究初具成果，总防御提升10%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2636 DEF. Preliminary research success grants Total DEF +10%.",
     },
     [260] = {
         type = 3,
@@ -7021,15 +7021,15 @@ return {
         talent = {
             [1] = 1385,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 60,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2674，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2674 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [261] = {
         type = 3,
@@ -7047,15 +7047,15 @@ return {
         talent = {
             [1] = 1387,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 61,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2712，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2712 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [262] = {
         type = 3,
@@ -7073,15 +7073,15 @@ return {
         talent = {
             [1] = 1388,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 62,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2750，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2750 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [263] = {
         type = 3,
@@ -7099,15 +7099,15 @@ return {
         talent = {
             [1] = 1389,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 63,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2789，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2789 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [264] = {
         type = 3,
@@ -7125,15 +7125,15 @@ return {
         talent = {
             [1] = 1390,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 64,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2827，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2827 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [265] = {
         type = 3,
@@ -7153,15 +7153,15 @@ return {
         talent = {
             [1] = 1391,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 65,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2865，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2865 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [266] = {
         type = 3,
@@ -7179,15 +7179,15 @@ return {
         talent = {
             [1] = 1392,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 66,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2903，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2903 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [267] = {
         type = 3,
@@ -7205,15 +7205,15 @@ return {
         talent = {
             [1] = 1393,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 67,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2941，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2941 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [268] = {
         type = 3,
@@ -7231,15 +7231,15 @@ return {
         talent = {
             [1] = 1394,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 68,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御2980，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 2980 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [269] = {
         type = 3,
@@ -7257,15 +7257,15 @@ return {
         talent = {
             [1] = 1395,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 69,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3018，研究初具成果，总防御提升12%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3018 DEF. Preliminary research success grants Total DEF +12%.",
     },
     [270] = {
         type = 3,
@@ -7284,15 +7284,15 @@ return {
         talent = {
             [1] = 1396,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 70,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3056，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3056 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [271] = {
         type = 3,
@@ -7310,15 +7310,15 @@ return {
         talent = {
             [1] = 1398,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 71,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3094，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3094 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [272] = {
         type = 3,
@@ -7336,15 +7336,15 @@ return {
         talent = {
             [1] = 1399,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 72,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3132，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3132 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [273] = {
         type = 3,
@@ -7362,15 +7362,15 @@ return {
         talent = {
             [1] = 1400,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 73,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3171，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3171 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [274] = {
         type = 3,
@@ -7388,15 +7388,15 @@ return {
         talent = {
             [1] = 1401,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 74,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3209，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3209 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [275] = {
         type = 3,
@@ -7416,15 +7416,15 @@ return {
         talent = {
             [1] = 1402,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 75,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3247，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3247 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [276] = {
         type = 3,
@@ -7442,15 +7442,15 @@ return {
         talent = {
             [1] = 1403,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 76,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3285，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3285 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [277] = {
         type = 3,
@@ -7468,15 +7468,15 @@ return {
         talent = {
             [1] = 1404,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 77,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3323，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3323 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [278] = {
         type = 3,
@@ -7494,15 +7494,15 @@ return {
         talent = {
             [1] = 1405,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 78,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3362，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3362 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [279] = {
         type = 3,
@@ -7520,15 +7520,15 @@ return {
         talent = {
             [1] = 1406,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 79,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3400，研究初具成果，总防御提升14%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3400 DEF. Preliminary research success grants Total DEF +14%.",
     },
     [280] = {
         type = 3,
@@ -7548,15 +7548,15 @@ return {
         talent = {
             [1] = 1407,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 80,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3438，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3438 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [281] = {
         type = 3,
@@ -7574,15 +7574,15 @@ return {
         talent = {
             [1] = 1409,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 81,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3476，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3476 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [282] = {
         type = 3,
@@ -7600,15 +7600,15 @@ return {
         talent = {
             [1] = 1410,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 82,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3514，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3514 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [283] = {
         type = 3,
@@ -7626,15 +7626,15 @@ return {
         talent = {
             [1] = 1411,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 83,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3553，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3553 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [284] = {
         type = 3,
@@ -7652,15 +7652,15 @@ return {
         talent = {
             [1] = 1412,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 84,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3591，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3591 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [285] = {
         type = 3,
@@ -7680,15 +7680,15 @@ return {
         talent = {
             [1] = 1413,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 85,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3629，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3629 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [286] = {
         type = 3,
@@ -7706,15 +7706,15 @@ return {
         talent = {
             [1] = 1414,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 86,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3667，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3667 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [287] = {
         type = 3,
@@ -7732,15 +7732,15 @@ return {
         talent = {
             [1] = 1415,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 87,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3705，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3705 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [288] = {
         type = 3,
@@ -7758,15 +7758,15 @@ return {
         talent = {
             [1] = 1416,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 88,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3744，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3744 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [289] = {
         type = 3,
@@ -7784,15 +7784,15 @@ return {
         talent = {
             [1] = 1417,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 89,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3782，研究初具成果，总防御提升16%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3782 DEF. Preliminary research success grants Total DEF +16%.",
     },
     [290] = {
         type = 3,
@@ -7812,15 +7812,15 @@ return {
         talent = {
             [1] = 1418,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 90,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3820，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3820 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [291] = {
         type = 3,
@@ -7838,15 +7838,15 @@ return {
         talent = {
             [1] = 1420,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 91,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3858，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3858 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [292] = {
         type = 3,
@@ -7864,15 +7864,15 @@ return {
         talent = {
             [1] = 1421,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 92,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3896，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3896 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [293] = {
         type = 3,
@@ -7890,15 +7890,15 @@ return {
         talent = {
             [1] = 1422,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 93,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3935，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3935 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [294] = {
         type = 3,
@@ -7916,15 +7916,15 @@ return {
         talent = {
             [1] = 1423,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 94,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御3973，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 3973 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [295] = {
         type = 3,
@@ -7944,15 +7944,15 @@ return {
         talent = {
             [1] = 1424,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 95,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御4011，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 4011 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [296] = {
         type = 3,
@@ -7970,15 +7970,15 @@ return {
         talent = {
             [1] = 1425,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 96,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御4049，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 4049 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [297] = {
         type = 3,
@@ -7996,15 +7996,15 @@ return {
         talent = {
             [1] = 1426,
         },
-        des2 = "防御+39",
+        des2 = "DEF +39",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 97,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御4087，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 4087 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [298] = {
         type = 3,
@@ -8022,15 +8022,15 @@ return {
         talent = {
             [1] = 1427,
         },
-        des2 = "防御+38",
+        des2 = "DEF +38",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 98,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御4126，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 4126 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [299] = {
         type = 3,
@@ -8048,15 +8048,15 @@ return {
         talent = {
             [1] = 1428,
         },
-        des2 = "防御+38,总防御+2%",
+        des2 = "DEF +38, Total DEF +2%",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 99,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御4164，研究初具成果，总防御提升18%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 4164 DEF. Preliminary research success grants Total DEF +18%.",
     },
     [300] = {
         type = 3,
@@ -8078,13 +8078,13 @@ return {
         },
         des2 = "",
         taskCount = 0,
-        name = "防御舱",
+        name = "Armor Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 100,
         holeSize = 0,
-        des = "防御舱可以集中调配飞舰的所有防御装置，为飞舰提供防御4202，研究初具成果，总防御提升20%",
+        des = "The Armor Cabin is the deployment center for all airship defense devices and provides the airship with 4202 DEF. Preliminary research success grants Total DEF +20%.",
     },
     [301] = {
         type = 4,
@@ -8096,15 +8096,15 @@ return {
         talent = {
             [1] = 1431,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 1,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升130 ",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, increasing the airship's Battle Speed by 130. ",
     },
     [302] = {
         type = 4,
@@ -8122,15 +8122,15 @@ return {
         talent = {
             [1] = 1432,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 2,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升160",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, increasing the airship's Battle Speed by 160.",
     },
     [303] = {
         type = 4,
@@ -8148,15 +8148,15 @@ return {
         talent = {
             [1] = 1433,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 3,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升190",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, increasing the airship's Battle Speed by 190.",
     },
     [304] = {
         type = 4,
@@ -8174,15 +8174,15 @@ return {
         talent = {
             [1] = 1434,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 4,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升220",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, increasing the airship's Battle Speed by 220.",
     },
     [305] = {
         type = 4,
@@ -8201,15 +8201,15 @@ return {
         talent = {
             [1] = 1435,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 5,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升250",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, increasing the airship's Battle Speed by 250.",
     },
     [306] = {
         type = 4,
@@ -8227,15 +8227,15 @@ return {
         talent = {
             [1] = 1436,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 6,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升280",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, increasing the airship's Battle Speed by 280.",
     },
     [307] = {
         type = 4,
@@ -8253,15 +8253,15 @@ return {
         talent = {
             [1] = 1437,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 7,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升310",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, increasing the airship's Battle Speed by 310.",
     },
     [308] = {
         type = 4,
@@ -8279,15 +8279,15 @@ return {
         talent = {
             [1] = 1438,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 8,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升340",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, increasing the airship's Battle Speed by 340.",
     },
     [309] = {
         type = 4,
@@ -8305,15 +8305,15 @@ return {
         talent = {
             [1] = 1439,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 9,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升370",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, increasing the airship's Battle Speed by 370.",
     },
     [310] = {
         type = 4,
@@ -8332,15 +8332,15 @@ return {
         talent = {
             [1] = 1440,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 10,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升400，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 400. Preliminary research success grants Battle Speed +2%.",
     },
     [311] = {
         type = 4,
@@ -8358,15 +8358,15 @@ return {
         talent = {
             [1] = 1442,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 11,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升430，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 430. Preliminary research success grants Battle Speed +2%.",
     },
     [312] = {
         type = 4,
@@ -8384,15 +8384,15 @@ return {
         talent = {
             [1] = 1443,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 12,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升460，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 460. Preliminary research success grants Battle Speed +2%.",
     },
     [313] = {
         type = 4,
@@ -8410,15 +8410,15 @@ return {
         talent = {
             [1] = 1444,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 13,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升490，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 490. Preliminary research success grants Battle Speed +2%.",
     },
     [314] = {
         type = 4,
@@ -8436,15 +8436,15 @@ return {
         talent = {
             [1] = 1445,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 14,
         holeSize = 1,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升520，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 520. Preliminary research success grants Battle Speed +2%.",
     },
     [315] = {
         type = 4,
@@ -8463,15 +8463,15 @@ return {
         talent = {
             [1] = 1446,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 15,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升550，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 550. Preliminary research success grants Battle Speed +2%.",
     },
     [316] = {
         type = 4,
@@ -8489,15 +8489,15 @@ return {
         talent = {
             [1] = 1447,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 16,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升580，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 580. Preliminary research success grants Battle Speed +2%.",
     },
     [317] = {
         type = 4,
@@ -8515,15 +8515,15 @@ return {
         talent = {
             [1] = 1448,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 17,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升610，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 610. Preliminary research success grants Battle Speed +2%.",
     },
     [318] = {
         type = 4,
@@ -8541,15 +8541,15 @@ return {
         talent = {
             [1] = 1449,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 18,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升640，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 640. Preliminary research success grants Battle Speed +2%.",
     },
     [319] = {
         type = 4,
@@ -8567,15 +8567,15 @@ return {
         talent = {
             [1] = 1450,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 19,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升670，研究初具成果，战斗速度提升2%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 670. Preliminary research success grants Battle Speed +2%.",
     },
     [320] = {
         type = 4,
@@ -8594,15 +8594,15 @@ return {
         talent = {
             [1] = 1451,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 20,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升700，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 700. Preliminary research success grants Battle Speed +4%.",
     },
     [321] = {
         type = 4,
@@ -8620,15 +8620,15 @@ return {
         talent = {
             [1] = 1453,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 21,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升730，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 730. Preliminary research success grants Battle Speed +4%.",
     },
     [322] = {
         type = 4,
@@ -8646,15 +8646,15 @@ return {
         talent = {
             [1] = 1454,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 22,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升760，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 760. Preliminary research success grants Battle Speed +4%.",
     },
     [323] = {
         type = 4,
@@ -8672,15 +8672,15 @@ return {
         talent = {
             [1] = 1455,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 23,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升790，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 790. Preliminary research success grants Battle Speed +4%.",
     },
     [324] = {
         type = 4,
@@ -8698,15 +8698,15 @@ return {
         talent = {
             [1] = 1456,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 24,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升820，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 820. Preliminary research success grants Battle Speed +4%.",
     },
     [325] = {
         type = 4,
@@ -8725,15 +8725,15 @@ return {
         talent = {
             [1] = 1457,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 25,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升850，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 850. Preliminary research success grants Battle Speed +4%.",
     },
     [326] = {
         type = 4,
@@ -8751,15 +8751,15 @@ return {
         talent = {
             [1] = 1458,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 26,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升880，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 880. Preliminary research success grants Battle Speed +4%.",
     },
     [327] = {
         type = 4,
@@ -8777,15 +8777,15 @@ return {
         talent = {
             [1] = 1459,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 27,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升910，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 910. Preliminary research success grants Battle Speed +4%.",
     },
     [328] = {
         type = 4,
@@ -8803,15 +8803,15 @@ return {
         talent = {
             [1] = 1460,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 28,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升940，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 940. Preliminary research success grants Battle Speed +4%.",
     },
     [329] = {
         type = 4,
@@ -8829,15 +8829,15 @@ return {
         talent = {
             [1] = 1461,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 29,
         holeSize = 2,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升970，研究初具成果，战斗速度提升4%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 970. Preliminary research success grants Battle Speed +4%.",
     },
     [330] = {
         type = 4,
@@ -8856,15 +8856,15 @@ return {
         talent = {
             [1] = 1462,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 30,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1000，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1000. Preliminary research success grants Battle Speed +6%.",
     },
     [331] = {
         type = 4,
@@ -8882,15 +8882,15 @@ return {
         talent = {
             [1] = 1464,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 31,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1030，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1030. Preliminary research success grants Battle Speed +6%.",
     },
     [332] = {
         type = 4,
@@ -8908,15 +8908,15 @@ return {
         talent = {
             [1] = 1465,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 32,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1060，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1060. Preliminary research success grants Battle Speed +6%.",
     },
     [333] = {
         type = 4,
@@ -8934,15 +8934,15 @@ return {
         talent = {
             [1] = 1466,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 33,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1090，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1090. Preliminary research success grants Battle Speed +6%.",
     },
     [334] = {
         type = 4,
@@ -8960,15 +8960,15 @@ return {
         talent = {
             [1] = 1467,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 34,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1120，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1120. Preliminary research success grants Battle Speed +6%.",
     },
     [335] = {
         type = 4,
@@ -8988,15 +8988,15 @@ return {
         talent = {
             [1] = 1468,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 35,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1150，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1150. Preliminary research success grants Battle Speed +6%.",
     },
     [336] = {
         type = 4,
@@ -9014,15 +9014,15 @@ return {
         talent = {
             [1] = 1469,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 36,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1180，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1180. Preliminary research success grants Battle Speed +6%.",
     },
     [337] = {
         type = 4,
@@ -9040,15 +9040,15 @@ return {
         talent = {
             [1] = 1470,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 37,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1210，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1210. Preliminary research success grants Battle Speed +6%.",
     },
     [338] = {
         type = 4,
@@ -9066,15 +9066,15 @@ return {
         talent = {
             [1] = 1471,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 38,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1240，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1240. Preliminary research success grants Battle Speed +6%.",
     },
     [339] = {
         type = 4,
@@ -9092,15 +9092,15 @@ return {
         talent = {
             [1] = 1472,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 39,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1270，研究初具成果，战斗速度提升6%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1270. Preliminary research success grants Battle Speed +6%.",
     },
     [340] = {
         type = 4,
@@ -9120,15 +9120,15 @@ return {
         talent = {
             [1] = 1473,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 40,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1300，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1300. Preliminary research success grants Battle Speed +8%.",
     },
     [341] = {
         type = 4,
@@ -9146,15 +9146,15 @@ return {
         talent = {
             [1] = 1475,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 41,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1330，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1330. Preliminary research success grants Battle Speed +8%.",
     },
     [342] = {
         type = 4,
@@ -9172,15 +9172,15 @@ return {
         talent = {
             [1] = 1476,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 42,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1360，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1360. Preliminary research success grants Battle Speed +8%.",
     },
     [343] = {
         type = 4,
@@ -9198,15 +9198,15 @@ return {
         talent = {
             [1] = 1477,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 43,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1390，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1390. Preliminary research success grants Battle Speed +8%.",
     },
     [344] = {
         type = 4,
@@ -9224,15 +9224,15 @@ return {
         talent = {
             [1] = 1478,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 44,
         holeSize = 3,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1420，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1420. Preliminary research success grants Battle Speed +8%.",
     },
     [345] = {
         type = 4,
@@ -9252,15 +9252,15 @@ return {
         talent = {
             [1] = 1479,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 45,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1450，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1450. Preliminary research success grants Battle Speed +8%.",
     },
     [346] = {
         type = 4,
@@ -9278,15 +9278,15 @@ return {
         talent = {
             [1] = 1480,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 46,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1480，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1480. Preliminary research success grants Battle Speed +8%.",
     },
     [347] = {
         type = 4,
@@ -9304,15 +9304,15 @@ return {
         talent = {
             [1] = 1481,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 47,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1510，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1510. Preliminary research success grants Battle Speed +8%.",
     },
     [348] = {
         type = 4,
@@ -9330,15 +9330,15 @@ return {
         talent = {
             [1] = 1482,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 48,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1540，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1540. Preliminary research success grants Battle Speed +8%.",
     },
     [349] = {
         type = 4,
@@ -9356,15 +9356,15 @@ return {
         talent = {
             [1] = 1483,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 49,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1570，研究初具成果，战斗速度提升8%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1570. Preliminary research success grants Battle Speed +8%.",
     },
     [350] = {
         type = 4,
@@ -9384,15 +9384,15 @@ return {
         talent = {
             [1] = 1484,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 50,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1600，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1600. Preliminary research success grants Battle Speed +10%.",
     },
     [351] = {
         type = 4,
@@ -9410,15 +9410,15 @@ return {
         talent = {
             [1] = 1486,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 51,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1630，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1630. Preliminary research success grants Battle Speed +10%.",
     },
     [352] = {
         type = 4,
@@ -9436,15 +9436,15 @@ return {
         talent = {
             [1] = 1487,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 52,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1660，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1660. Preliminary research success grants Battle Speed +10%.",
     },
     [353] = {
         type = 4,
@@ -9462,15 +9462,15 @@ return {
         talent = {
             [1] = 1488,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 53,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1690，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1690. Preliminary research success grants Battle Speed +10%.",
     },
     [354] = {
         type = 4,
@@ -9488,15 +9488,15 @@ return {
         talent = {
             [1] = 1489,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 54,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1720，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1720. Preliminary research success grants Battle Speed +10%.",
     },
     [355] = {
         type = 4,
@@ -9516,15 +9516,15 @@ return {
         talent = {
             [1] = 1490,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 55,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1750，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1750. Preliminary research success grants Battle Speed +10%.",
     },
     [356] = {
         type = 4,
@@ -9542,15 +9542,15 @@ return {
         talent = {
             [1] = 1491,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 56,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1780，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1780. Preliminary research success grants Battle Speed +10%.",
     },
     [357] = {
         type = 4,
@@ -9568,15 +9568,15 @@ return {
         talent = {
             [1] = 1492,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 57,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1810，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1810. Preliminary research success grants Battle Speed +10%.",
     },
     [358] = {
         type = 4,
@@ -9594,15 +9594,15 @@ return {
         talent = {
             [1] = 1493,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 58,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1840，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1840. Preliminary research success grants Battle Speed +10%.",
     },
     [359] = {
         type = 4,
@@ -9620,15 +9620,15 @@ return {
         talent = {
             [1] = 1494,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 59,
         holeSize = 4,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1870，研究初具成果，战斗速度提升10%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1870. Preliminary research success grants Battle Speed +10%.",
     },
     [360] = {
         type = 4,
@@ -9648,15 +9648,15 @@ return {
         talent = {
             [1] = 1495,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 60,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1900，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1900. Preliminary research success grants Battle Speed +12%.",
     },
     [361] = {
         type = 4,
@@ -9674,15 +9674,15 @@ return {
         talent = {
             [1] = 1497,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 61,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1930，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1930. Preliminary research success grants Battle Speed +12%.",
     },
     [362] = {
         type = 4,
@@ -9700,15 +9700,15 @@ return {
         talent = {
             [1] = 1498,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 62,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1960，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1960. Preliminary research success grants Battle Speed +12%.",
     },
     [363] = {
         type = 4,
@@ -9726,15 +9726,15 @@ return {
         talent = {
             [1] = 1499,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 63,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升1990，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 1990. Preliminary research success grants Battle Speed +12%.",
     },
     [364] = {
         type = 4,
@@ -9752,15 +9752,15 @@ return {
         talent = {
             [1] = 1500,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 64,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2020，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2020. Preliminary research success grants Battle Speed +12%.",
     },
     [365] = {
         type = 4,
@@ -9780,15 +9780,15 @@ return {
         talent = {
             [1] = 1501,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 65,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2050，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2050. Preliminary research success grants Battle Speed +12%.",
     },
     [366] = {
         type = 4,
@@ -9806,15 +9806,15 @@ return {
         talent = {
             [1] = 1502,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 66,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2080，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2080. Preliminary research success grants Battle Speed +12%.",
     },
     [367] = {
         type = 4,
@@ -9832,15 +9832,15 @@ return {
         talent = {
             [1] = 1503,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 67,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2110，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2110. Preliminary research success grants Battle Speed +12%.",
     },
     [368] = {
         type = 4,
@@ -9858,15 +9858,15 @@ return {
         talent = {
             [1] = 1504,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 68,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2140，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2140. Preliminary research success grants Battle Speed +12%.",
     },
     [369] = {
         type = 4,
@@ -9884,15 +9884,15 @@ return {
         talent = {
             [1] = 1505,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 69,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2170，研究初具成果，战斗速度提升12%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2170. Preliminary research success grants Battle Speed +12%.",
     },
     [370] = {
         type = 4,
@@ -9911,15 +9911,15 @@ return {
         talent = {
             [1] = 1506,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 70,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2200，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2200. Preliminary research success grants Battle Speed +14%.",
     },
     [371] = {
         type = 4,
@@ -9937,15 +9937,15 @@ return {
         talent = {
             [1] = 1508,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 71,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2230，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2230. Preliminary research success grants Battle Speed +14%.",
     },
     [372] = {
         type = 4,
@@ -9963,15 +9963,15 @@ return {
         talent = {
             [1] = 1509,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 72,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2260，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2260. Preliminary research success grants Battle Speed +14%.",
     },
     [373] = {
         type = 4,
@@ -9989,15 +9989,15 @@ return {
         talent = {
             [1] = 1510,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 73,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2290，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2290. Preliminary research success grants Battle Speed +14%.",
     },
     [374] = {
         type = 4,
@@ -10015,15 +10015,15 @@ return {
         talent = {
             [1] = 1511,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 74,
         holeSize = 5,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2320，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2320. Preliminary research success grants Battle Speed +14%.",
     },
     [375] = {
         type = 4,
@@ -10043,15 +10043,15 @@ return {
         talent = {
             [1] = 1512,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 75,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2350，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2350. Preliminary research success grants Battle Speed +14%.",
     },
     [376] = {
         type = 4,
@@ -10069,15 +10069,15 @@ return {
         talent = {
             [1] = 1513,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 76,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2380，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2380. Preliminary research success grants Battle Speed +14%.",
     },
     [377] = {
         type = 4,
@@ -10095,15 +10095,15 @@ return {
         talent = {
             [1] = 1514,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 77,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2410，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2410. Preliminary research success grants Battle Speed +14%.",
     },
     [378] = {
         type = 4,
@@ -10121,15 +10121,15 @@ return {
         talent = {
             [1] = 1515,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 78,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2440，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2440. Preliminary research success grants Battle Speed +14%.",
     },
     [379] = {
         type = 4,
@@ -10147,15 +10147,15 @@ return {
         talent = {
             [1] = 1516,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 79,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2470，研究初具成果，战斗速度提升14%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2470. Preliminary research success grants Battle Speed +14%.",
     },
     [380] = {
         type = 4,
@@ -10175,15 +10175,15 @@ return {
         talent = {
             [1] = 1517,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 80,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2500，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2500. Preliminary research success grants Battle Speed +16%.",
     },
     [381] = {
         type = 4,
@@ -10201,15 +10201,15 @@ return {
         talent = {
             [1] = 1519,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 81,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2530，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2530. Preliminary research success grants Battle Speed +16%.",
     },
     [382] = {
         type = 4,
@@ -10227,15 +10227,15 @@ return {
         talent = {
             [1] = 1520,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 82,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2560，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2560. Preliminary research success grants Battle Speed +16%.",
     },
     [383] = {
         type = 4,
@@ -10253,15 +10253,15 @@ return {
         talent = {
             [1] = 1521,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 83,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2590，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2590. Preliminary research success grants Battle Speed +16%.",
     },
     [384] = {
         type = 4,
@@ -10279,15 +10279,15 @@ return {
         talent = {
             [1] = 1522,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 84,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2620，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2620. Preliminary research success grants Battle Speed +16%.",
     },
     [385] = {
         type = 4,
@@ -10307,15 +10307,15 @@ return {
         talent = {
             [1] = 1523,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 85,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2650，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2650. Preliminary research success grants Battle Speed +16%.",
     },
     [386] = {
         type = 4,
@@ -10333,15 +10333,15 @@ return {
         talent = {
             [1] = 1524,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 86,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2680，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2680. Preliminary research success grants Battle Speed +16%.",
     },
     [387] = {
         type = 4,
@@ -10359,15 +10359,15 @@ return {
         talent = {
             [1] = 1525,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 87,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2710，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2710. Preliminary research success grants Battle Speed +16%.",
     },
     [388] = {
         type = 4,
@@ -10385,15 +10385,15 @@ return {
         talent = {
             [1] = 1526,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 88,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2740，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2740. Preliminary research success grants Battle Speed +16%.",
     },
     [389] = {
         type = 4,
@@ -10411,15 +10411,15 @@ return {
         talent = {
             [1] = 1527,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 89,
         holeSize = 6,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2770，研究初具成果，战斗速度提升16%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2770. Preliminary research success grants Battle Speed +16%.",
     },
     [390] = {
         type = 4,
@@ -10439,15 +10439,15 @@ return {
         talent = {
             [1] = 1528,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 90,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2800，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2800. Preliminary research success grants Battle Speed +18%.",
     },
     [391] = {
         type = 4,
@@ -10465,15 +10465,15 @@ return {
         talent = {
             [1] = 1530,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 91,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2830，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2830. Preliminary research success grants Battle Speed +18%.",
     },
     [392] = {
         type = 4,
@@ -10491,15 +10491,15 @@ return {
         talent = {
             [1] = 1531,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 92,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2860，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2860. Preliminary research success grants Battle Speed +18%.",
     },
     [393] = {
         type = 4,
@@ -10517,15 +10517,15 @@ return {
         talent = {
             [1] = 1532,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 93,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2890，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2890. Preliminary research success grants Battle Speed +18%.",
     },
     [394] = {
         type = 4,
@@ -10543,15 +10543,15 @@ return {
         talent = {
             [1] = 1533,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 94,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2920，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2920. Preliminary research success grants Battle Speed +18%.",
     },
     [395] = {
         type = 4,
@@ -10571,15 +10571,15 @@ return {
         talent = {
             [1] = 1534,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 95,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2950，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2950. Preliminary research success grants Battle Speed +18%.",
     },
     [396] = {
         type = 4,
@@ -10597,15 +10597,15 @@ return {
         talent = {
             [1] = 1535,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 96,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升2980，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 2980. Preliminary research success grants Battle Speed +18%.",
     },
     [397] = {
         type = 4,
@@ -10623,15 +10623,15 @@ return {
         talent = {
             [1] = 1536,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 97,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升3010，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 3010. Preliminary research success grants Battle Speed +18%.",
     },
     [398] = {
         type = 4,
@@ -10649,15 +10649,15 @@ return {
         talent = {
             [1] = 1537,
         },
-        des2 = "速度+30",
+        des2 = "Speed +30",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 98,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升3040，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 3040. Preliminary research success grants Battle Speed +18%.",
     },
     [399] = {
         type = 4,
@@ -10675,15 +10675,15 @@ return {
         talent = {
             [1] = 1538,
         },
-        des2 = "速度+30,战斗速度+2%",
+        des2 = "Speed +30, Battle Speed +2%",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 99,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升3070，研究初具成果，战斗速度提升18%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 3070. Preliminary research success grants Battle Speed +18%.",
     },
     [400] = {
         type = 4,
@@ -10705,13 +10705,13 @@ return {
         },
         des2 = "",
         taskCount = 0,
-        name = "配件舱",
+        name = "Component Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 100,
         holeSize = 7,
-        des = "配件舱的各种异界配件，可提升飞舰的战斗效率，战斗速度提升3100，研究初具成果，战斗速度提升20%",
+        des = "The Component Cabin stores various alien tech that enhances combat efficiency, boosting the airship's Battle Speed by 3100. Preliminary research success grants Battle Speed +20%.",
     },
     [401] = {
         type = 5,
@@ -10723,15 +10723,15 @@ return {
         talent = {
             [1] = 1541,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 1,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量530",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 530 Collection Capacity.",
     },
     [402] = {
         type = 5,
@@ -10749,15 +10749,15 @@ return {
         talent = {
             [1] = 1542,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 2,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量560",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 560 Collection Capacity.",
     },
     [403] = {
         type = 5,
@@ -10775,15 +10775,15 @@ return {
         talent = {
             [1] = 1543,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 3,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量590",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 590 Collection Capacity.",
     },
     [404] = {
         type = 5,
@@ -10801,15 +10801,15 @@ return {
         talent = {
             [1] = 1544,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 4,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量620",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 620 Collection Capacity.",
     },
     [405] = {
         type = 5,
@@ -10828,15 +10828,15 @@ return {
         talent = {
             [1] = 1545,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 5,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量650",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 650 Collection Capacity.",
     },
     [406] = {
         type = 5,
@@ -10854,15 +10854,15 @@ return {
         talent = {
             [1] = 1546,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 6,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量680",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 680 Collection Capacity.",
     },
     [407] = {
         type = 5,
@@ -10880,15 +10880,15 @@ return {
         talent = {
             [1] = 1547,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 7,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量710",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 710 Collection Capacity.",
     },
     [408] = {
         type = 5,
@@ -10906,15 +10906,15 @@ return {
         talent = {
             [1] = 1548,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 8,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量740",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 740 Collection Capacity.",
     },
     [409] = {
         type = 5,
@@ -10932,15 +10932,15 @@ return {
         talent = {
             [1] = 1549,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 1,
         taskLayout = {
         },
         level = 9,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量770",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 770 Collection Capacity.",
     },
     [410] = {
         type = 5,
@@ -10959,15 +10959,15 @@ return {
         talent = {
             [1] = 1550,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 10,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量800,研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 800 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [411] = {
         type = 5,
@@ -10985,15 +10985,15 @@ return {
         talent = {
             [1] = 1552,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 11,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量830，研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 830 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [412] = {
         type = 5,
@@ -11011,15 +11011,15 @@ return {
         talent = {
             [1] = 1553,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 12,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量860，研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 860 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [413] = {
         type = 5,
@@ -11037,15 +11037,15 @@ return {
         talent = {
             [1] = 1554,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 13,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量890，研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 890 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [414] = {
         type = 5,
@@ -11063,15 +11063,15 @@ return {
         talent = {
             [1] = 1555,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 14,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量920，研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 920 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [415] = {
         type = 5,
@@ -11090,15 +11090,15 @@ return {
         talent = {
             [1] = 1556,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 15,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量950，研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 950 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [416] = {
         type = 5,
@@ -11116,15 +11116,15 @@ return {
         talent = {
             [1] = 1557,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 16,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量980，研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 980 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [417] = {
         type = 5,
@@ -11142,15 +11142,15 @@ return {
         talent = {
             [1] = 1558,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 17,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1010，研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1010 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [418] = {
         type = 5,
@@ -11168,15 +11168,15 @@ return {
         talent = {
             [1] = 1559,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 18,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1040，研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1040 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [419] = {
         type = 5,
@@ -11194,15 +11194,15 @@ return {
         talent = {
             [1] = 1560,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 2,
         taskLayout = {
         },
         level = 19,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1070，研究获突破性发展，航速提升2%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1070 Collection Capacity. Research breakthroughs grant Nav Speed +2%.",
     },
     [420] = {
         type = 5,
@@ -11221,15 +11221,15 @@ return {
         talent = {
             [1] = 1561,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 20,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1100，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1100 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [421] = {
         type = 5,
@@ -11247,15 +11247,15 @@ return {
         talent = {
             [1] = 1563,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 21,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1130，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1130 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [422] = {
         type = 5,
@@ -11273,15 +11273,15 @@ return {
         talent = {
             [1] = 1564,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 22,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1160，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1160 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [423] = {
         type = 5,
@@ -11299,15 +11299,15 @@ return {
         talent = {
             [1] = 1565,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 23,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1190，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1190 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [424] = {
         type = 5,
@@ -11325,15 +11325,15 @@ return {
         talent = {
             [1] = 1566,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 24,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1220，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1220 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [425] = {
         type = 5,
@@ -11352,15 +11352,15 @@ return {
         talent = {
             [1] = 1567,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 25,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1250，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1250 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [426] = {
         type = 5,
@@ -11378,15 +11378,15 @@ return {
         talent = {
             [1] = 1568,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 26,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1280，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1280 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [427] = {
         type = 5,
@@ -11404,15 +11404,15 @@ return {
         talent = {
             [1] = 1569,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 27,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1310，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1310 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [428] = {
         type = 5,
@@ -11430,15 +11430,15 @@ return {
         talent = {
             [1] = 1570,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 28,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1340，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1340 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [429] = {
         type = 5,
@@ -11456,15 +11456,15 @@ return {
         talent = {
             [1] = 1571,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 3,
         taskLayout = {
         },
         level = 29,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1370，研究获突破性发展，航速提升4%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1370 Collection Capacity. Research breakthroughs grant Nav Speed +4%.",
     },
     [430] = {
         type = 5,
@@ -11483,15 +11483,15 @@ return {
         talent = {
             [1] = 1572,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 30,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1400，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1400 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [431] = {
         type = 5,
@@ -11509,15 +11509,15 @@ return {
         talent = {
             [1] = 1574,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 31,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1430，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1430 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [432] = {
         type = 5,
@@ -11535,15 +11535,15 @@ return {
         talent = {
             [1] = 1575,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 32,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1460，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1460 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [433] = {
         type = 5,
@@ -11561,15 +11561,15 @@ return {
         talent = {
             [1] = 1576,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 33,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1490，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1490 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [434] = {
         type = 5,
@@ -11587,15 +11587,15 @@ return {
         talent = {
             [1] = 1577,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 34,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1520，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1520 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [435] = {
         type = 5,
@@ -11615,15 +11615,15 @@ return {
         talent = {
             [1] = 1578,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 35,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1550，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1550 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [436] = {
         type = 5,
@@ -11641,15 +11641,15 @@ return {
         talent = {
             [1] = 1579,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 36,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1580，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1580 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [437] = {
         type = 5,
@@ -11667,15 +11667,15 @@ return {
         talent = {
             [1] = 1580,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 37,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1610，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1610 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [438] = {
         type = 5,
@@ -11693,15 +11693,15 @@ return {
         talent = {
             [1] = 1581,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 38,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1640，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1640 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [439] = {
         type = 5,
@@ -11719,15 +11719,15 @@ return {
         talent = {
             [1] = 1582,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 4,
         taskLayout = {
         },
         level = 39,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1670，研究获突破性发展，航速提升6%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1670 Collection Capacity. Research breakthroughs grant Nav Speed +6%.",
     },
     [440] = {
         type = 5,
@@ -11747,15 +11747,15 @@ return {
         talent = {
             [1] = 1583,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 40,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1700，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1700 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [441] = {
         type = 5,
@@ -11773,15 +11773,15 @@ return {
         talent = {
             [1] = 1585,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 41,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1730，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1730 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [442] = {
         type = 5,
@@ -11799,15 +11799,15 @@ return {
         talent = {
             [1] = 1586,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 42,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1760，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1760 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [443] = {
         type = 5,
@@ -11825,15 +11825,15 @@ return {
         talent = {
             [1] = 1587,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 43,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1790，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1790 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [444] = {
         type = 5,
@@ -11851,15 +11851,15 @@ return {
         talent = {
             [1] = 1588,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 44,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1820，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1820 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [445] = {
         type = 5,
@@ -11879,15 +11879,15 @@ return {
         talent = {
             [1] = 1589,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 45,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1850，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1850 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [446] = {
         type = 5,
@@ -11905,15 +11905,15 @@ return {
         talent = {
             [1] = 1590,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 46,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1880，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1880 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [447] = {
         type = 5,
@@ -11931,15 +11931,15 @@ return {
         talent = {
             [1] = 1591,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 47,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1910，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1910 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [448] = {
         type = 5,
@@ -11957,15 +11957,15 @@ return {
         talent = {
             [1] = 1592,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 48,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1940，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1940 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [449] = {
         type = 5,
@@ -11983,15 +11983,15 @@ return {
         talent = {
             [1] = 1593,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 49,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量1970，研究获突破性发展，航速提升8%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 1970 Collection Capacity. Research breakthroughs grant Nav Speed +8%.",
     },
     [450] = {
         type = 5,
@@ -12011,15 +12011,15 @@ return {
         talent = {
             [1] = 1594,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 50,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2000，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2000 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [451] = {
         type = 5,
@@ -12037,15 +12037,15 @@ return {
         talent = {
             [1] = 1596,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 51,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2030，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2030 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [452] = {
         type = 5,
@@ -12063,15 +12063,15 @@ return {
         talent = {
             [1] = 1597,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 52,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2060，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2060 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [453] = {
         type = 5,
@@ -12089,15 +12089,15 @@ return {
         talent = {
             [1] = 1598,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 53,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2090，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2090 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [454] = {
         type = 5,
@@ -12115,15 +12115,15 @@ return {
         talent = {
             [1] = 1599,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 54,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2120，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2120 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [455] = {
         type = 5,
@@ -12143,15 +12143,15 @@ return {
         talent = {
             [1] = 1600,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 55,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2150，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2150 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [456] = {
         type = 5,
@@ -12169,15 +12169,15 @@ return {
         talent = {
             [1] = 1601,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 56,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2180，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2180 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [457] = {
         type = 5,
@@ -12195,15 +12195,15 @@ return {
         talent = {
             [1] = 1602,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 57,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2210，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2210 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [458] = {
         type = 5,
@@ -12221,15 +12221,15 @@ return {
         talent = {
             [1] = 1603,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 58,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2240，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2240 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [459] = {
         type = 5,
@@ -12247,15 +12247,15 @@ return {
         talent = {
             [1] = 1604,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 59,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2270，研究获突破性发展，航速提升10%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2270 Collection Capacity. Research breakthroughs grant Nav Speed +10%.",
     },
     [460] = {
         type = 5,
@@ -12275,15 +12275,15 @@ return {
         talent = {
             [1] = 1605,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 60,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2300，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2300 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [461] = {
         type = 5,
@@ -12301,15 +12301,15 @@ return {
         talent = {
             [1] = 1607,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 61,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2330，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2330 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [462] = {
         type = 5,
@@ -12327,15 +12327,15 @@ return {
         talent = {
             [1] = 1608,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 62,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2360，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2360 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [463] = {
         type = 5,
@@ -12353,15 +12353,15 @@ return {
         talent = {
             [1] = 1609,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 63,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2390，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2390 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [464] = {
         type = 5,
@@ -12379,15 +12379,15 @@ return {
         talent = {
             [1] = 1610,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 64,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2420，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2420 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [465] = {
         type = 5,
@@ -12407,15 +12407,15 @@ return {
         talent = {
             [1] = 1611,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 65,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2450，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2450 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [466] = {
         type = 5,
@@ -12433,15 +12433,15 @@ return {
         talent = {
             [1] = 1612,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 66,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2480，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2480 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [467] = {
         type = 5,
@@ -12459,15 +12459,15 @@ return {
         talent = {
             [1] = 1613,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 67,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2510，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2510 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [468] = {
         type = 5,
@@ -12485,15 +12485,15 @@ return {
         talent = {
             [1] = 1614,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 68,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2540，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2540 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [469] = {
         type = 5,
@@ -12511,15 +12511,15 @@ return {
         talent = {
             [1] = 1615,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 69,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2570，研究获突破性发展，航速提升12%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2570 Collection Capacity. Research breakthroughs grant Nav Speed +12%.",
     },
     [470] = {
         type = 5,
@@ -12538,15 +12538,15 @@ return {
         talent = {
             [1] = 1616,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 70,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2600，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2600 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [471] = {
         type = 5,
@@ -12564,15 +12564,15 @@ return {
         talent = {
             [1] = 1618,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 71,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2630，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2630 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [472] = {
         type = 5,
@@ -12590,15 +12590,15 @@ return {
         talent = {
             [1] = 1619,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 72,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2660，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2660 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [473] = {
         type = 5,
@@ -12616,15 +12616,15 @@ return {
         talent = {
             [1] = 1620,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 73,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2690，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2690 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [474] = {
         type = 5,
@@ -12642,15 +12642,15 @@ return {
         talent = {
             [1] = 1621,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 74,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2720，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2720 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [475] = {
         type = 5,
@@ -12670,15 +12670,15 @@ return {
         talent = {
             [1] = 1622,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 75,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2750，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2750 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [476] = {
         type = 5,
@@ -12696,15 +12696,15 @@ return {
         talent = {
             [1] = 1623,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 76,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2780，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2780 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [477] = {
         type = 5,
@@ -12722,15 +12722,15 @@ return {
         talent = {
             [1] = 1624,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 77,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2810，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2810 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [478] = {
         type = 5,
@@ -12748,15 +12748,15 @@ return {
         talent = {
             [1] = 1625,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 78,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2840，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2840 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [479] = {
         type = 5,
@@ -12774,15 +12774,15 @@ return {
         talent = {
             [1] = 1626,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 79,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2870，研究获突破性发展，航速提升14%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2870 Collection Capacity. Research breakthroughs grant Nav Speed +14%.",
     },
     [480] = {
         type = 5,
@@ -12802,15 +12802,15 @@ return {
         talent = {
             [1] = 1627,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 80,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2900，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2900 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [481] = {
         type = 5,
@@ -12828,15 +12828,15 @@ return {
         talent = {
             [1] = 1629,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 81,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2930，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2930 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [482] = {
         type = 5,
@@ -12854,15 +12854,15 @@ return {
         talent = {
             [1] = 1630,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 82,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2960，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2960 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [483] = {
         type = 5,
@@ -12880,15 +12880,15 @@ return {
         talent = {
             [1] = 1631,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 83,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量2990，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 2990 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [484] = {
         type = 5,
@@ -12906,15 +12906,15 @@ return {
         talent = {
             [1] = 1632,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 84,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3020，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3020 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [485] = {
         type = 5,
@@ -12934,15 +12934,15 @@ return {
         talent = {
             [1] = 1633,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 85,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3050，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3050 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [486] = {
         type = 5,
@@ -12960,15 +12960,15 @@ return {
         talent = {
             [1] = 1634,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 86,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3080，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3080 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [487] = {
         type = 5,
@@ -12986,15 +12986,15 @@ return {
         talent = {
             [1] = 1635,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 87,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3110，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3110 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [488] = {
         type = 5,
@@ -13012,15 +13012,15 @@ return {
         talent = {
             [1] = 1636,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 88,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3140，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3140 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [489] = {
         type = 5,
@@ -13038,15 +13038,15 @@ return {
         talent = {
             [1] = 1637,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 89,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3170，研究获突破性发展，航速提升16%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3170 Collection Capacity. Research breakthroughs grant Nav Speed +16%.",
     },
     [490] = {
         type = 5,
@@ -13066,15 +13066,15 @@ return {
         talent = {
             [1] = 1638,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 90,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3200，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3200 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [491] = {
         type = 5,
@@ -13092,15 +13092,15 @@ return {
         talent = {
             [1] = 1640,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 91,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3230，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3230 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [492] = {
         type = 5,
@@ -13118,15 +13118,15 @@ return {
         talent = {
             [1] = 1641,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 92,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3260，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3260 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [493] = {
         type = 5,
@@ -13144,15 +13144,15 @@ return {
         talent = {
             [1] = 1642,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 93,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3290，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3290 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [494] = {
         type = 5,
@@ -13170,15 +13170,15 @@ return {
         talent = {
             [1] = 1643,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 94,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3320，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3320 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [495] = {
         type = 5,
@@ -13198,15 +13198,15 @@ return {
         talent = {
             [1] = 1644,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 95,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3350，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3350 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [496] = {
         type = 5,
@@ -13224,15 +13224,15 @@ return {
         talent = {
             [1] = 1645,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 96,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3380，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3380 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [497] = {
         type = 5,
@@ -13250,15 +13250,15 @@ return {
         talent = {
             [1] = 1646,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 97,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3410，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3410 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [498] = {
         type = 5,
@@ -13276,15 +13276,15 @@ return {
         talent = {
             [1] = 1647,
         },
-        des2 = "容量+30",
+        des2 = "Capacity +30",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 98,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3440，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3440 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [499] = {
         type = 5,
@@ -13302,15 +13302,15 @@ return {
         talent = {
             [1] = 1648,
         },
-        des2 = "容量+30,航速+2%",
+        des2 = "Capacity +30, Nav Speed +2%",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 99,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3470，研究获突破性发展，航速提升18%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3470 Collection Capacity. Research breakthroughs grant Nav Speed +18%.",
     },
     [500] = {
         type = 5,
@@ -13332,13 +13332,13 @@ return {
         },
         des2 = "",
         taskCount = 0,
-        name = "采集舱",
+        name = "Collection Cabin",
         heroSize = 5,
         taskLayout = {
         },
         level = 100,
         holeSize = 0,
-        des = "采集舱用于收藏和研究探索中的战利品，为飞舰提供采集容量3500，研究获突破性发展，航速提升20%",
+        des = "The Collection Cabin is used to store and research items found during exploration and provides the airship with 3500 Collection Capacity. Research breakthroughs grant Nav Speed +20%.",
     },
     [501] = {
         type = 6,
@@ -13354,7 +13354,7 @@ return {
         },
         des2 = "",
         taskCount = 0,
-        name = "陈列舱",
+        name = "Display Cabin",
         heroSize = 0,
         taskLayout = {
         },

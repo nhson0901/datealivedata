@@ -16,9 +16,9 @@ function LoginLayer:ctor(data)
 		if TFGlobalUtils:isConnectEnServer() then
 			self:init("lua.uiconfig.loginScene.loginLayerNew1")
 		elseif TFGlobalUtils:isConnectKoreaTwServer() then
-			self:init("lua.uiconfig.loginScene.loginLayer")
-		else
 			self:init("lua.uiconfig.loginScene.loginLayerNew1")
+		else
+			self:init("lua.uiconfig.loginScene.loginLayer")
 		end
 	end
 end
@@ -32,9 +32,9 @@ function LoginLayer:initUI(ui)
 	self.continue = TFDirector:getChildByPath(ui,"continue");
 	self.continue:setTextById(800086)
 
-	if TFGlobalUtils:isConnectEnServer() then
-    	self.continue:setFontColor(ccc3(252 , 245 , 216))
-    end
+	--if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectKoreaTwServer() then
+    	self.continue:setFontColor(ccc3(255 , 255 , 255))
+    --end
 	--self.continue:setFontColor(ccc3(255 , 255 , 255))
 	local tween =
 	    {
@@ -52,11 +52,10 @@ function LoginLayer:initUI(ui)
 	    }
 	TFDirector:toTween(tween)
 
-	if TFGlobalUtils:isConnectEnServer() then
+	if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectKoreaTwServer() then
 		local logonImag = TFImage:create("ui/login/logo.png")
 		TFDirector:getChildByPath(ui , "logo"):addChild(logonImag)
 		logonImag:setPosition(380 , 120)
-		logonImag:hide()  --英文版屏蔽新增logo
 	end
 
 	self.loginBoard = TFDirector:getChildByPath(ui,"loginBoard");
@@ -245,7 +244,7 @@ function LoginLayer:initUI(ui)
     self.Label_serverName = TFDirector:getChildByPath(self.Panel_serverList, "Label_serverName")
     self.Label_serverName:setTextById(800090)
 
-    if TFGlobalUtils:isConnectEnServer() then
+    if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectKoreaTwServer() then
     	if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
     		self.Label_serverName:setFontColor(ccc3(254 , 200 , 253))
     	else
@@ -256,6 +255,17 @@ function LoginLayer:initUI(ui)
     		self.Label_serverName:setFontColor(ccc3(254 , 200 , 253))
     	else
     		self.Label_serverName:setFontColor(ccc3(255 , 255 , 255))
+    	end
+    end
+
+    self.serverListBgImg = TFDirector:getChildByPath(self.Panel_serverList, "Image_severlistbg")
+    if self.serverListBgImg then
+    	if TFGlobalUtils:isConnectMiniServer() then
+    		self.serverListBgImg:setTexture("ui/login/7.png")
+    	elseif TFGlobalUtils:isConnectEnServer() then
+    		self.serverListBgImg:setTexture("ui/login/new1/b7.png")
+    	elseif TFGlobalUtils:isConnectKoreaTwServer() then	
+    		self.serverListBgImg:setTexture("ui/login/new1/b7.png")
     	end
     end
 

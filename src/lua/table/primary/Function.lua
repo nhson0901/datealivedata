@@ -2418,8 +2418,8 @@ return {
         levelType = 1,
     },
     [155] = {
-        isOpen = false,
-        openLevel = 99,
+        isOpen = true,
+        openLevel = 28,
         isStinger = false,
         id = 155,
         openDun = 0,
@@ -2478,8 +2478,8 @@ return {
         levelType = 1,
     },
     [160] = {
-        isOpen = false,
-        openLevel = 99,
+        isOpen = true,
+        openLevel = 28,
         isStinger = false,
         id = 160,
         openDun = 0,

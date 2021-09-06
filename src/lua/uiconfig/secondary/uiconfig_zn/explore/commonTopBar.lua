@@ -211,7 +211,7 @@ local t =
 									controlID = "Label_name_panel_top_Panel_base_Panel-commonTopBar_flyShipGrowUp_explore_Game",
 									UUID = "1a08d3e4_6783_4b98_89b0_5d58b1cb16c9",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -233,7 +233,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "40",
+									height = "37",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -247,10 +247,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -416,
-										PositionY = -43,
+										PositionX = -479,
+										PositionY = -41,
 									},
-									width = "115",
+									width = "116",
 									ZOrder = "1",
 								},
 								{
@@ -273,8 +273,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -328,
-										PositionY = -38,
+										PositionX = -112,
+										PositionY = -31,
 									},
 									width = "48",
 									ZOrder = "1",
@@ -305,7 +305,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_stage",
 									nTextAlign = "1",
@@ -319,10 +319,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -284,
-										PositionY = -45,
+										PositionX = -68,
+										PositionY = -38,
 									},
-									width = "39",
+									width = "33",
 									ZOrder = "1",
 								},
 								{
@@ -348,8 +348,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -238,
-										PositionY = -41,
+										PositionX = -22,
+										PositionY = -34,
 									},
 									UItype = "Button",
 									width = "50",
@@ -381,7 +381,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_tip",
 									nTextAlign = "1",
@@ -398,7 +398,7 @@ local t =
 										PositionX = 450,
 										PositionY = -20,
 									},
-									width = "84",
+									width = "83",
 									ZOrder = "1",
 								},
 								{
@@ -749,8 +749,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_pageName",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -765,7 +765,7 @@ local t =
 									{
 										PositionY = -5,
 									},
-									width = "75",
+									width = "131",
 									ZOrder = "1",
 								},
 								{
@@ -912,7 +912,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "22",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_1",
 											nTextAlign = "1",
@@ -929,7 +929,7 @@ local t =
 											{
 												PositionX = -129,
 											},
-											width = "76",
+											width = "75",
 											ZOrder = "1",
 										},
 										{
@@ -958,7 +958,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_name",
 											nTextAlign = "1",
@@ -967,7 +967,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "TextLable",
+											text = "确认洗练将消耗洗练材料，并返还90%材料",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -975,7 +975,7 @@ local t =
 												PositionX = 105,
 												PositionY = -21,
 											},
-											width = "159",
+											width = "458",
 											ZOrder = "1",
 										},
 										{
@@ -1013,7 +1013,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "TextLable",
+											text = "确认洗练将消耗洗练材料，并返还90%材料",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1021,7 +1021,7 @@ local t =
 												PositionX = 105,
 												PositionY = 8,
 											},
-											width = "88",
+											width = "415",
 											ZOrder = "1",
 										},
 									},
@@ -1072,14 +1072,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_name",
 											nTextAlign = "1",
@@ -1088,7 +1088,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "TextLable",
+											text = "确认洗练将消耗洗练材料，并返还90%材料",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1096,7 +1096,7 @@ local t =
 												PositionX = 106,
 												PositionY = -21,
 											},
-											width = "159",
+											width = "420",
 											ZOrder = "1",
 										},
 										{
@@ -1134,7 +1134,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "TextLable",
+											text = "确认洗练将消耗洗练材料，并返还90%材料",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1142,7 +1142,7 @@ local t =
 												PositionX = 105,
 												PositionY = 9,
 											},
-											width = "88",
+											width = "415",
 											ZOrder = "1",
 										},
 									},

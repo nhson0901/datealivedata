@@ -325,7 +325,7 @@ function FlyShipMainView:updateCabinList( ... )
 		local Label_level = TFDirector:getChildByPath(Panel_normal,"Label_level")
 		local Image_redTip = TFDirector:getChildByPath(Panel_normal,"Image_redTip")
 		btn:setTextureNormal(roomCfg.mainIcon)
-		if (TFLanguageMgr:getUsingLanguage() == cc.ENGLISH) then
+		if (TFLanguageMgr:getUsingLanguage() ~= cc.SIMPLIFIED_CHINESE and TFLanguageMgr:getUsingLanguage() ~= cc.TRADITIONAL_CHINESE) then
 			btn:setContentSize(CCSize(160 , 95))
 		end
 		Label_name:setText(roomDetailCfg.name)

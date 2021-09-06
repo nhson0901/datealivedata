@@ -83531,7 +83531,7 @@ return {
         itemMap = {
             [410808] = 1,
         },
-        quality = 3,
+        quality = 4,
         id = 10333,
         repeatNum = 1,
     },
@@ -84889,7 +84889,7 @@ return {
         itemMap = {
             [410514] = 1,
         },
-        quality = 3,
+        quality = 4,
         id = 10334,
         repeatNum = 1,
     },
@@ -86228,7 +86228,7 @@ return {
         itemMap = {
             [411311] = 1,
         },
-        quality = 3,
+        quality = 4,
         id = 10335,
         repeatNum = 1,
     },
@@ -106057,7 +106057,7 @@ return {
         itemMap = {
             [410708] = 1,
         },
-        quality = 3,
+        quality = 4,
         id = 10332,
         repeatNum = 1,
     },

@@ -1,7 +1,7 @@
 return {
     [1] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 1,
         taskRate = {
             [304] = 3000,
@@ -15,7 +15,7 @@ return {
     },
     [2] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 1,
         taskRate = {
             [304] = 3000,
@@ -29,7 +29,7 @@ return {
     },
     [3] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 1,
         taskRate = {
             [304] = 3000,
@@ -43,7 +43,7 @@ return {
     },
     [4] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 2,
         taskRate = {
             [304] = 3000,
@@ -57,7 +57,7 @@ return {
     },
     [5] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 2,
         taskRate = {
             [304] = 3000,
@@ -71,7 +71,7 @@ return {
     },
     [6] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 2,
         taskRate = {
             [304] = 3000,
@@ -85,7 +85,7 @@ return {
     },
     [7] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 3,
         taskRate = {
             [304] = 3000,
@@ -99,7 +99,7 @@ return {
     },
     [8] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 3,
         taskRate = {
             [304] = 3000,
@@ -113,7 +113,7 @@ return {
     },
     [9] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 3,
         taskRate = {
             [304] = 3000,
@@ -127,7 +127,7 @@ return {
     },
     [10] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 4,
         taskRate = {
             [304] = 3000,
@@ -141,7 +141,7 @@ return {
     },
     [11] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 4,
         taskRate = {
             [304] = 3000,
@@ -155,7 +155,7 @@ return {
     },
     [12] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 4,
         taskRate = {
             [304] = 3000,
@@ -169,7 +169,7 @@ return {
     },
     [13] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 5,
         taskRate = {
             [304] = 3000,
@@ -183,7 +183,7 @@ return {
     },
     [14] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 5,
         taskRate = {
             [304] = 3000,
@@ -197,7 +197,7 @@ return {
     },
     [15] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 5,
         taskRate = {
             [304] = 3000,
@@ -211,7 +211,7 @@ return {
     },
     [16] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 6,
         taskRate = {
             [304] = 3000,
@@ -225,7 +225,7 @@ return {
     },
     [17] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 6,
         taskRate = {
             [304] = 3000,
@@ -239,7 +239,7 @@ return {
     },
     [18] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 6,
         taskRate = {
             [304] = 3000,
@@ -253,7 +253,7 @@ return {
     },
     [19] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 7,
         taskRate = {
             [304] = 3000,
@@ -267,7 +267,7 @@ return {
     },
     [20] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 7,
         taskRate = {
             [304] = 3000,
@@ -281,7 +281,7 @@ return {
     },
     [21] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 7,
         taskRate = {
             [304] = 3000,
@@ -295,7 +295,7 @@ return {
     },
     [22] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 8,
         taskRate = {
             [304] = 3000,
@@ -309,7 +309,7 @@ return {
     },
     [23] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 8,
         taskRate = {
             [304] = 3000,
@@ -323,7 +323,7 @@ return {
     },
     [24] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 8,
         taskRate = {
             [304] = 3000,
@@ -337,7 +337,7 @@ return {
     },
     [25] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 9,
         taskRate = {
             [304] = 3000,
@@ -351,7 +351,7 @@ return {
     },
     [26] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 9,
         taskRate = {
             [304] = 3000,
@@ -365,7 +365,7 @@ return {
     },
     [27] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 9,
         taskRate = {
             [304] = 3000,
@@ -379,7 +379,7 @@ return {
     },
     [28] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 10,
         taskRate = {
             [304] = 3000,
@@ -393,7 +393,7 @@ return {
     },
     [29] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 10,
         taskRate = {
             [304] = 3000,
@@ -407,7 +407,7 @@ return {
     },
     [30] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 10,
         taskRate = {
             [304] = 3000,
@@ -421,7 +421,7 @@ return {
     },
     [31] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 11,
         taskRate = {
             [304] = 3000,
@@ -435,7 +435,7 @@ return {
     },
     [32] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 11,
         taskRate = {
             [304] = 3000,
@@ -449,7 +449,7 @@ return {
     },
     [33] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 11,
         taskRate = {
             [304] = 3000,
@@ -463,7 +463,7 @@ return {
     },
     [34] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 12,
         taskRate = {
             [304] = 3000,
@@ -477,7 +477,7 @@ return {
     },
     [35] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 12,
         taskRate = {
             [304] = 3000,
@@ -491,7 +491,7 @@ return {
     },
     [36] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 12,
         taskRate = {
             [304] = 3000,
@@ -505,7 +505,7 @@ return {
     },
     [37] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 13,
         taskRate = {
             [304] = 3000,
@@ -519,7 +519,7 @@ return {
     },
     [38] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 13,
         taskRate = {
             [304] = 3000,
@@ -533,7 +533,7 @@ return {
     },
     [39] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 13,
         taskRate = {
             [304] = 3000,
@@ -547,7 +547,7 @@ return {
     },
     [40] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 14,
         taskRate = {
             [304] = 3000,
@@ -561,7 +561,7 @@ return {
     },
     [41] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 14,
         taskRate = {
             [304] = 3000,
@@ -575,7 +575,7 @@ return {
     },
     [42] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 14,
         taskRate = {
             [304] = 3000,
@@ -589,7 +589,7 @@ return {
     },
     [43] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 15,
         taskRate = {
             [304] = 3000,
@@ -603,7 +603,7 @@ return {
     },
     [44] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 15,
         taskRate = {
             [304] = 3000,
@@ -617,7 +617,7 @@ return {
     },
     [45] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 15,
         taskRate = {
             [304] = 3000,
@@ -631,7 +631,7 @@ return {
     },
     [46] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 16,
         taskRate = {
             [304] = 3000,
@@ -645,7 +645,7 @@ return {
     },
     [47] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 16,
         taskRate = {
             [304] = 3000,
@@ -659,7 +659,7 @@ return {
     },
     [48] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 16,
         taskRate = {
             [304] = 3000,
@@ -673,7 +673,7 @@ return {
     },
     [49] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 17,
         taskRate = {
             [304] = 3000,
@@ -687,7 +687,7 @@ return {
     },
     [50] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 17,
         taskRate = {
             [304] = 3000,
@@ -701,7 +701,7 @@ return {
     },
     [51] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 17,
         taskRate = {
             [304] = 3000,
@@ -715,7 +715,7 @@ return {
     },
     [52] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 18,
         taskRate = {
             [304] = 3000,
@@ -729,7 +729,7 @@ return {
     },
     [53] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 18,
         taskRate = {
             [304] = 3000,
@@ -743,7 +743,7 @@ return {
     },
     [54] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 18,
         taskRate = {
             [304] = 3000,
@@ -757,7 +757,7 @@ return {
     },
     [55] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 18,
         taskRate = {
             [304] = 3000,
@@ -771,7 +771,7 @@ return {
     },
     [56] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 19,
         taskRate = {
             [304] = 3000,
@@ -785,7 +785,7 @@ return {
     },
     [57] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 19,
         taskRate = {
             [304] = 3000,
@@ -799,7 +799,7 @@ return {
     },
     [58] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 19,
         taskRate = {
             [304] = 3000,
@@ -813,7 +813,7 @@ return {
     },
     [59] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 19,
         taskRate = {
             [304] = 3000,
@@ -827,7 +827,7 @@ return {
     },
     [60] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 20,
         taskRate = {
             [304] = 3000,
@@ -841,7 +841,7 @@ return {
     },
     [61] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 20,
         taskRate = {
             [304] = 3000,
@@ -855,7 +855,7 @@ return {
     },
     [62] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 20,
         taskRate = {
             [304] = 3000,
@@ -869,7 +869,7 @@ return {
     },
     [63] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 20,
         taskRate = {
             [304] = 3000,
@@ -883,7 +883,7 @@ return {
     },
     [64] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 21,
         taskRate = {
             [304] = 3000,
@@ -897,7 +897,7 @@ return {
     },
     [65] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 21,
         taskRate = {
             [304] = 3000,
@@ -911,7 +911,7 @@ return {
     },
     [66] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 21,
         taskRate = {
             [304] = 3000,
@@ -925,7 +925,7 @@ return {
     },
     [67] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 21,
         taskRate = {
             [304] = 3000,
@@ -939,7 +939,7 @@ return {
     },
     [68] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 22,
         taskRate = {
             [304] = 3000,
@@ -953,7 +953,7 @@ return {
     },
     [69] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 22,
         taskRate = {
             [304] = 3000,
@@ -967,7 +967,7 @@ return {
     },
     [70] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 22,
         taskRate = {
             [304] = 3000,
@@ -981,7 +981,7 @@ return {
     },
     [71] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 22,
         taskRate = {
             [304] = 3000,
@@ -995,7 +995,7 @@ return {
     },
     [72] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 23,
         taskRate = {
             [304] = 3000,
@@ -1009,7 +1009,7 @@ return {
     },
     [73] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 23,
         taskRate = {
             [304] = 3000,
@@ -1023,7 +1023,7 @@ return {
     },
     [74] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 23,
         taskRate = {
             [304] = 3000,
@@ -1037,7 +1037,7 @@ return {
     },
     [75] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 23,
         taskRate = {
             [304] = 3000,
@@ -1051,7 +1051,7 @@ return {
     },
     [76] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 24,
         taskRate = {
             [304] = 3000,
@@ -1065,7 +1065,7 @@ return {
     },
     [77] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 24,
         taskRate = {
             [304] = 3000,
@@ -1079,7 +1079,7 @@ return {
     },
     [78] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 24,
         taskRate = {
             [304] = 3000,
@@ -1093,7 +1093,7 @@ return {
     },
     [79] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 24,
         taskRate = {
             [304] = 3000,
@@ -1107,7 +1107,7 @@ return {
     },
     [80] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 25,
         taskRate = {
             [304] = 3000,
@@ -1121,7 +1121,7 @@ return {
     },
     [81] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 25,
         taskRate = {
             [304] = 3000,
@@ -1135,7 +1135,7 @@ return {
     },
     [82] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 25,
         taskRate = {
             [304] = 3000,
@@ -1149,7 +1149,7 @@ return {
     },
     [83] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 25,
         taskRate = {
             [304] = 3000,
@@ -1163,7 +1163,7 @@ return {
     },
     [84] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 26,
         taskRate = {
             [304] = 3000,
@@ -1177,7 +1177,7 @@ return {
     },
     [85] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 26,
         taskRate = {
             [304] = 3000,
@@ -1191,7 +1191,7 @@ return {
     },
     [86] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 26,
         taskRate = {
             [304] = 3000,
@@ -1205,7 +1205,7 @@ return {
     },
     [87] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 26,
         taskRate = {
             [304] = 3000,
@@ -1219,7 +1219,7 @@ return {
     },
     [88] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 27,
         taskRate = {
             [304] = 3000,
@@ -1233,7 +1233,7 @@ return {
     },
     [89] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 27,
         taskRate = {
             [304] = 3000,
@@ -1247,7 +1247,7 @@ return {
     },
     [90] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 27,
         taskRate = {
             [304] = 3000,
@@ -1261,7 +1261,7 @@ return {
     },
     [91] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 27,
         taskRate = {
             [304] = 3000,
@@ -1275,7 +1275,7 @@ return {
     },
     [92] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 28,
         taskRate = {
             [304] = 3000,
@@ -1289,7 +1289,7 @@ return {
     },
     [93] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 28,
         taskRate = {
             [304] = 3000,
@@ -1303,7 +1303,7 @@ return {
     },
     [94] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 28,
         taskRate = {
             [304] = 3000,
@@ -1317,7 +1317,7 @@ return {
     },
     [95] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 28,
         taskRate = {
             [304] = 3000,
@@ -1331,7 +1331,7 @@ return {
     },
     [96] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 29,
         taskRate = {
             [304] = 3000,
@@ -1345,7 +1345,7 @@ return {
     },
     [97] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 29,
         taskRate = {
             [304] = 3000,
@@ -1359,7 +1359,7 @@ return {
     },
     [98] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 29,
         taskRate = {
             [304] = 3000,
@@ -1373,7 +1373,7 @@ return {
     },
     [99] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 29,
         taskRate = {
             [304] = 3000,
@@ -1387,7 +1387,7 @@ return {
     },
     [100] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 30,
         taskRate = {
             [304] = 3000,
@@ -1401,7 +1401,7 @@ return {
     },
     [101] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 30,
         taskRate = {
             [304] = 3000,
@@ -1415,7 +1415,7 @@ return {
     },
     [102] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 30,
         taskRate = {
             [304] = 3000,
@@ -1429,7 +1429,7 @@ return {
     },
     [103] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 30,
         taskRate = {
             [304] = 3000,
@@ -1443,7 +1443,7 @@ return {
     },
     [104] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 31,
         taskRate = {
             [304] = 3000,
@@ -1457,7 +1457,7 @@ return {
     },
     [105] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 31,
         taskRate = {
             [304] = 3000,
@@ -1471,7 +1471,7 @@ return {
     },
     [106] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 31,
         taskRate = {
             [304] = 3000,
@@ -1485,7 +1485,7 @@ return {
     },
     [107] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 31,
         taskRate = {
             [304] = 3000,
@@ -1499,7 +1499,7 @@ return {
     },
     [108] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 32,
         taskRate = {
             [304] = 3000,
@@ -1513,7 +1513,7 @@ return {
     },
     [109] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 32,
         taskRate = {
             [304] = 3000,
@@ -1527,7 +1527,7 @@ return {
     },
     [110] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 32,
         taskRate = {
             [304] = 3000,
@@ -1541,7 +1541,7 @@ return {
     },
     [111] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 32,
         taskRate = {
             [304] = 3000,
@@ -1555,7 +1555,7 @@ return {
     },
     [112] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 33,
         taskRate = {
             [304] = 3000,
@@ -1569,7 +1569,7 @@ return {
     },
     [113] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 33,
         taskRate = {
             [304] = 3000,
@@ -1583,7 +1583,7 @@ return {
     },
     [114] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 33,
         taskRate = {
             [304] = 3000,
@@ -1597,7 +1597,7 @@ return {
     },
     [115] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 33,
         taskRate = {
             [304] = 3000,
@@ -1611,7 +1611,7 @@ return {
     },
     [116] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 34,
         taskRate = {
             [304] = 3000,
@@ -1625,7 +1625,7 @@ return {
     },
     [117] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 34,
         taskRate = {
             [304] = 3000,
@@ -1639,7 +1639,7 @@ return {
     },
     [118] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 34,
         taskRate = {
             [304] = 3000,
@@ -1653,7 +1653,7 @@ return {
     },
     [119] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 34,
         taskRate = {
             [304] = 3000,
@@ -1667,7 +1667,7 @@ return {
     },
     [120] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 35,
         taskRate = {
             [304] = 3000,
@@ -1681,7 +1681,7 @@ return {
     },
     [121] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 35,
         taskRate = {
             [304] = 3000,
@@ -1695,7 +1695,7 @@ return {
     },
     [122] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 35,
         taskRate = {
             [304] = 3000,
@@ -1709,7 +1709,7 @@ return {
     },
     [123] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 35,
         taskRate = {
             [304] = 3000,
@@ -1723,7 +1723,7 @@ return {
     },
     [124] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 36,
         taskRate = {
             [304] = 3000,
@@ -1737,7 +1737,7 @@ return {
     },
     [125] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 36,
         taskRate = {
             [304] = 3000,
@@ -1751,7 +1751,7 @@ return {
     },
     [126] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 36,
         taskRate = {
             [304] = 3000,
@@ -1765,7 +1765,7 @@ return {
     },
     [127] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 36,
         taskRate = {
             [304] = 3000,
@@ -1779,7 +1779,7 @@ return {
     },
     [128] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 36,
         taskRate = {
             [304] = 3000,
@@ -1793,7 +1793,7 @@ return {
     },
     [129] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 37,
         taskRate = {
             [304] = 3000,
@@ -1807,7 +1807,7 @@ return {
     },
     [130] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 37,
         taskRate = {
             [304] = 3000,
@@ -1821,7 +1821,7 @@ return {
     },
     [131] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 37,
         taskRate = {
             [304] = 3000,
@@ -1835,7 +1835,7 @@ return {
     },
     [132] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 37,
         taskRate = {
             [304] = 3000,
@@ -1849,7 +1849,7 @@ return {
     },
     [133] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 37,
         taskRate = {
             [304] = 3000,
@@ -1863,7 +1863,7 @@ return {
     },
     [134] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 38,
         taskRate = {
             [304] = 3000,
@@ -1877,7 +1877,7 @@ return {
     },
     [135] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 38,
         taskRate = {
             [304] = 3000,
@@ -1891,7 +1891,7 @@ return {
     },
     [136] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 38,
         taskRate = {
             [304] = 3000,
@@ -1905,7 +1905,7 @@ return {
     },
     [137] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 38,
         taskRate = {
             [304] = 3000,
@@ -1919,7 +1919,7 @@ return {
     },
     [138] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 38,
         taskRate = {
             [304] = 3000,
@@ -1933,7 +1933,7 @@ return {
     },
     [139] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 39,
         taskRate = {
             [304] = 3000,
@@ -1947,7 +1947,7 @@ return {
     },
     [140] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 39,
         taskRate = {
             [304] = 3000,
@@ -1961,7 +1961,7 @@ return {
     },
     [141] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 39,
         taskRate = {
             [304] = 3000,
@@ -1975,7 +1975,7 @@ return {
     },
     [142] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 39,
         taskRate = {
             [304] = 3000,
@@ -1989,7 +1989,7 @@ return {
     },
     [143] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 39,
         taskRate = {
             [304] = 3000,
@@ -2003,7 +2003,7 @@ return {
     },
     [144] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 40,
         taskRate = {
             [304] = 3000,
@@ -2017,7 +2017,7 @@ return {
     },
     [145] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 40,
         taskRate = {
             [304] = 3000,
@@ -2031,7 +2031,7 @@ return {
     },
     [146] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 40,
         taskRate = {
             [304] = 3000,
@@ -2045,7 +2045,7 @@ return {
     },
     [147] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 40,
         taskRate = {
             [304] = 3000,
@@ -2059,7 +2059,7 @@ return {
     },
     [148] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 40,
         taskRate = {
             [304] = 3000,
@@ -2073,7 +2073,7 @@ return {
     },
     [149] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 41,
         taskRate = {
             [304] = 3000,
@@ -2087,7 +2087,7 @@ return {
     },
     [150] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 41,
         taskRate = {
             [304] = 3000,
@@ -2101,7 +2101,7 @@ return {
     },
     [151] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 41,
         taskRate = {
             [304] = 3000,
@@ -2115,7 +2115,7 @@ return {
     },
     [152] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 41,
         taskRate = {
             [304] = 3000,
@@ -2129,7 +2129,7 @@ return {
     },
     [153] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 41,
         taskRate = {
             [304] = 3000,
@@ -2143,7 +2143,7 @@ return {
     },
     [154] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 42,
         taskRate = {
             [304] = 3000,
@@ -2157,7 +2157,7 @@ return {
     },
     [155] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 42,
         taskRate = {
             [304] = 3000,
@@ -2171,7 +2171,7 @@ return {
     },
     [156] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 42,
         taskRate = {
             [304] = 3000,
@@ -2185,7 +2185,7 @@ return {
     },
     [157] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 42,
         taskRate = {
             [304] = 3000,
@@ -2199,7 +2199,7 @@ return {
     },
     [158] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 42,
         taskRate = {
             [304] = 3000,
@@ -2213,7 +2213,7 @@ return {
     },
     [159] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 43,
         taskRate = {
             [304] = 3000,
@@ -2227,7 +2227,7 @@ return {
     },
     [160] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 43,
         taskRate = {
             [304] = 3000,
@@ -2241,7 +2241,7 @@ return {
     },
     [161] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 43,
         taskRate = {
             [304] = 3000,
@@ -2255,7 +2255,7 @@ return {
     },
     [162] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 43,
         taskRate = {
             [304] = 3000,
@@ -2269,7 +2269,7 @@ return {
     },
     [163] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 43,
         taskRate = {
             [304] = 3000,
@@ -2283,7 +2283,7 @@ return {
     },
     [164] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 44,
         taskRate = {
             [304] = 3000,
@@ -2297,7 +2297,7 @@ return {
     },
     [165] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 44,
         taskRate = {
             [304] = 3000,
@@ -2311,7 +2311,7 @@ return {
     },
     [166] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 44,
         taskRate = {
             [304] = 3000,
@@ -2325,7 +2325,7 @@ return {
     },
     [167] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 44,
         taskRate = {
             [304] = 3000,
@@ -2339,7 +2339,7 @@ return {
     },
     [168] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 44,
         taskRate = {
             [304] = 3000,
@@ -2353,7 +2353,7 @@ return {
     },
     [169] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 45,
         taskRate = {
             [304] = 3000,
@@ -2367,7 +2367,7 @@ return {
     },
     [170] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 45,
         taskRate = {
             [304] = 3000,
@@ -2381,7 +2381,7 @@ return {
     },
     [171] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 45,
         taskRate = {
             [304] = 3000,
@@ -2395,7 +2395,7 @@ return {
     },
     [172] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 45,
         taskRate = {
             [304] = 3000,
@@ -2409,7 +2409,7 @@ return {
     },
     [173] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 45,
         taskRate = {
             [304] = 3000,
@@ -2423,7 +2423,7 @@ return {
     },
     [174] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 46,
         taskRate = {
             [304] = 3000,
@@ -2437,7 +2437,7 @@ return {
     },
     [175] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 46,
         taskRate = {
             [304] = 3000,
@@ -2451,7 +2451,7 @@ return {
     },
     [176] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 46,
         taskRate = {
             [304] = 3000,
@@ -2465,7 +2465,7 @@ return {
     },
     [177] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 46,
         taskRate = {
             [304] = 3000,
@@ -2479,7 +2479,7 @@ return {
     },
     [178] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 46,
         taskRate = {
             [304] = 3000,
@@ -2493,7 +2493,7 @@ return {
     },
     [179] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 47,
         taskRate = {
             [304] = 3000,
@@ -2507,7 +2507,7 @@ return {
     },
     [180] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 47,
         taskRate = {
             [304] = 3000,
@@ -2521,7 +2521,7 @@ return {
     },
     [181] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 47,
         taskRate = {
             [304] = 3000,
@@ -2535,7 +2535,7 @@ return {
     },
     [182] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 47,
         taskRate = {
             [304] = 3000,
@@ -2549,7 +2549,7 @@ return {
     },
     [183] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 47,
         taskRate = {
             [304] = 3000,
@@ -2563,7 +2563,7 @@ return {
     },
     [184] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 48,
         taskRate = {
             [304] = 3000,
@@ -2577,7 +2577,7 @@ return {
     },
     [185] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 48,
         taskRate = {
             [304] = 3000,
@@ -2591,7 +2591,7 @@ return {
     },
     [186] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 48,
         taskRate = {
             [304] = 3000,
@@ -2605,7 +2605,7 @@ return {
     },
     [187] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 48,
         taskRate = {
             [304] = 3000,
@@ -2619,7 +2619,7 @@ return {
     },
     [188] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 48,
         taskRate = {
             [304] = 3000,
@@ -2633,7 +2633,7 @@ return {
     },
     [189] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 49,
         taskRate = {
             [304] = 3000,
@@ -2647,7 +2647,7 @@ return {
     },
     [190] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 49,
         taskRate = {
             [304] = 3000,
@@ -2661,7 +2661,7 @@ return {
     },
     [191] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 49,
         taskRate = {
             [304] = 3000,
@@ -2675,7 +2675,7 @@ return {
     },
     [192] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 49,
         taskRate = {
             [304] = 3000,
@@ -2689,7 +2689,7 @@ return {
     },
     [193] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 49,
         taskRate = {
             [304] = 3000,
@@ -2703,7 +2703,7 @@ return {
     },
     [194] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 50,
         taskRate = {
             [304] = 3000,
@@ -2717,7 +2717,7 @@ return {
     },
     [195] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 50,
         taskRate = {
             [304] = 3000,
@@ -2731,7 +2731,7 @@ return {
     },
     [196] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 50,
         taskRate = {
             [304] = 3000,
@@ -2745,7 +2745,7 @@ return {
     },
     [197] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 50,
         taskRate = {
             [304] = 3000,
@@ -2759,7 +2759,7 @@ return {
     },
     [198] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 50,
         taskRate = {
             [304] = 3000,
@@ -2773,7 +2773,7 @@ return {
     },
     [199] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 51,
         taskRate = {
             [304] = 3000,
@@ -2787,7 +2787,7 @@ return {
     },
     [200] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 51,
         taskRate = {
             [304] = 3000,
@@ -2801,7 +2801,7 @@ return {
     },
     [201] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 51,
         taskRate = {
             [304] = 3000,
@@ -2815,7 +2815,7 @@ return {
     },
     [202] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 51,
         taskRate = {
             [304] = 3000,
@@ -2829,7 +2829,7 @@ return {
     },
     [203] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 51,
         taskRate = {
             [304] = 3000,
@@ -2843,7 +2843,7 @@ return {
     },
     [204] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 52,
         taskRate = {
             [304] = 3000,
@@ -2857,7 +2857,7 @@ return {
     },
     [205] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 52,
         taskRate = {
             [304] = 3000,
@@ -2871,7 +2871,7 @@ return {
     },
     [206] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 52,
         taskRate = {
             [304] = 3000,
@@ -2885,7 +2885,7 @@ return {
     },
     [207] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 52,
         taskRate = {
             [304] = 3000,
@@ -2899,7 +2899,7 @@ return {
     },
     [208] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 52,
         taskRate = {
             [304] = 3000,
@@ -2913,7 +2913,7 @@ return {
     },
     [209] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 53,
         taskRate = {
             [304] = 3000,
@@ -2927,7 +2927,7 @@ return {
     },
     [210] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 53,
         taskRate = {
             [304] = 3000,
@@ -2941,7 +2941,7 @@ return {
     },
     [211] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 53,
         taskRate = {
             [304] = 3000,
@@ -2955,7 +2955,7 @@ return {
     },
     [212] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 53,
         taskRate = {
             [304] = 3000,
@@ -2969,7 +2969,7 @@ return {
     },
     [213] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 53,
         taskRate = {
             [304] = 3000,
@@ -2983,7 +2983,7 @@ return {
     },
     [214] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 54,
         taskRate = {
             [304] = 3000,
@@ -2997,7 +2997,7 @@ return {
     },
     [215] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 54,
         taskRate = {
             [304] = 3000,
@@ -3011,7 +3011,7 @@ return {
     },
     [216] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 54,
         taskRate = {
             [304] = 3000,
@@ -3025,7 +3025,7 @@ return {
     },
     [217] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 54,
         taskRate = {
             [304] = 3000,
@@ -3039,7 +3039,7 @@ return {
     },
     [218] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 54,
         taskRate = {
             [304] = 3000,
@@ -3053,7 +3053,7 @@ return {
     },
     [219] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 55,
         taskRate = {
             [304] = 3000,
@@ -3067,7 +3067,7 @@ return {
     },
     [220] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 55,
         taskRate = {
             [304] = 3000,
@@ -3081,7 +3081,7 @@ return {
     },
     [221] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 55,
         taskRate = {
             [304] = 3000,
@@ -3095,7 +3095,7 @@ return {
     },
     [222] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 55,
         taskRate = {
             [304] = 3000,
@@ -3109,7 +3109,7 @@ return {
     },
     [223] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 55,
         taskRate = {
             [304] = 3000,
@@ -3123,7 +3123,7 @@ return {
     },
     [224] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 56,
         taskRate = {
             [304] = 3000,
@@ -3137,7 +3137,7 @@ return {
     },
     [225] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 56,
         taskRate = {
             [304] = 3000,
@@ -3151,7 +3151,7 @@ return {
     },
     [226] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 56,
         taskRate = {
             [304] = 3000,
@@ -3165,7 +3165,7 @@ return {
     },
     [227] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 56,
         taskRate = {
             [304] = 3000,
@@ -3179,7 +3179,7 @@ return {
     },
     [228] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 56,
         taskRate = {
             [304] = 3000,
@@ -3193,7 +3193,7 @@ return {
     },
     [229] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 57,
         taskRate = {
             [304] = 3000,
@@ -3207,7 +3207,7 @@ return {
     },
     [230] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 57,
         taskRate = {
             [304] = 3000,
@@ -3221,7 +3221,7 @@ return {
     },
     [231] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 57,
         taskRate = {
             [304] = 3000,
@@ -3235,7 +3235,7 @@ return {
     },
     [232] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 57,
         taskRate = {
             [304] = 3000,
@@ -3249,7 +3249,7 @@ return {
     },
     [233] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 57,
         taskRate = {
             [304] = 3000,
@@ -3263,7 +3263,7 @@ return {
     },
     [234] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 58,
         taskRate = {
             [304] = 3000,
@@ -3277,7 +3277,7 @@ return {
     },
     [235] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 58,
         taskRate = {
             [304] = 3000,
@@ -3291,7 +3291,7 @@ return {
     },
     [236] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 58,
         taskRate = {
             [304] = 3000,
@@ -3305,7 +3305,7 @@ return {
     },
     [237] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 58,
         taskRate = {
             [304] = 3000,
@@ -3319,7 +3319,7 @@ return {
     },
     [238] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 58,
         taskRate = {
             [304] = 3000,
@@ -3333,7 +3333,7 @@ return {
     },
     [239] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 59,
         taskRate = {
             [304] = 3000,
@@ -3347,7 +3347,7 @@ return {
     },
     [240] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 59,
         taskRate = {
             [304] = 3000,
@@ -3361,7 +3361,7 @@ return {
     },
     [241] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 59,
         taskRate = {
             [304] = 3000,
@@ -3375,7 +3375,7 @@ return {
     },
     [242] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 59,
         taskRate = {
             [304] = 3000,
@@ -3389,7 +3389,7 @@ return {
     },
     [243] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 59,
         taskRate = {
             [304] = 3000,
@@ -3403,7 +3403,7 @@ return {
     },
     [244] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 60,
         taskRate = {
             [304] = 3000,
@@ -3417,7 +3417,7 @@ return {
     },
     [245] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 60,
         taskRate = {
             [304] = 3000,
@@ -3431,7 +3431,7 @@ return {
     },
     [246] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 60,
         taskRate = {
             [304] = 3000,
@@ -3445,7 +3445,7 @@ return {
     },
     [247] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 60,
         taskRate = {
             [304] = 3000,
@@ -3459,7 +3459,7 @@ return {
     },
     [248] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 60,
         taskRate = {
             [304] = 3000,
@@ -3473,7 +3473,7 @@ return {
     },
     [249] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 61,
         taskRate = {
             [304] = 3000,
@@ -3487,7 +3487,7 @@ return {
     },
     [250] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 61,
         taskRate = {
             [304] = 3000,
@@ -3501,7 +3501,7 @@ return {
     },
     [251] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 61,
         taskRate = {
             [304] = 3000,
@@ -3515,7 +3515,7 @@ return {
     },
     [252] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 61,
         taskRate = {
             [304] = 3000,
@@ -3529,7 +3529,7 @@ return {
     },
     [253] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 61,
         taskRate = {
             [304] = 3000,
@@ -3543,7 +3543,7 @@ return {
     },
     [254] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 62,
         taskRate = {
             [304] = 3000,
@@ -3557,7 +3557,7 @@ return {
     },
     [255] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 62,
         taskRate = {
             [304] = 3000,
@@ -3571,7 +3571,7 @@ return {
     },
     [256] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 62,
         taskRate = {
             [304] = 3000,
@@ -3585,7 +3585,7 @@ return {
     },
     [257] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 62,
         taskRate = {
             [304] = 3000,
@@ -3599,7 +3599,7 @@ return {
     },
     [258] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 62,
         taskRate = {
             [304] = 3000,
@@ -3613,7 +3613,7 @@ return {
     },
     [259] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 63,
         taskRate = {
             [304] = 3000,
@@ -3627,7 +3627,7 @@ return {
     },
     [260] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 63,
         taskRate = {
             [304] = 3000,
@@ -3641,7 +3641,7 @@ return {
     },
     [261] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 63,
         taskRate = {
             [304] = 3000,
@@ -3655,7 +3655,7 @@ return {
     },
     [262] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 63,
         taskRate = {
             [304] = 3000,
@@ -3669,7 +3669,7 @@ return {
     },
     [263] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 63,
         taskRate = {
             [304] = 3000,
@@ -3683,7 +3683,7 @@ return {
     },
     [264] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 64,
         taskRate = {
             [304] = 3000,
@@ -3697,7 +3697,7 @@ return {
     },
     [265] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 64,
         taskRate = {
             [304] = 3000,
@@ -3711,7 +3711,7 @@ return {
     },
     [266] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 64,
         taskRate = {
             [304] = 3000,
@@ -3725,7 +3725,7 @@ return {
     },
     [267] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 64,
         taskRate = {
             [304] = 3000,
@@ -3739,7 +3739,7 @@ return {
     },
     [268] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 64,
         taskRate = {
             [304] = 3000,
@@ -3753,7 +3753,7 @@ return {
     },
     [269] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 65,
         taskRate = {
             [304] = 3000,
@@ -3767,7 +3767,7 @@ return {
     },
     [270] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 65,
         taskRate = {
             [304] = 3000,
@@ -3781,7 +3781,7 @@ return {
     },
     [271] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 65,
         taskRate = {
             [304] = 3000,
@@ -3795,7 +3795,7 @@ return {
     },
     [272] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 65,
         taskRate = {
             [304] = 3000,
@@ -3809,7 +3809,7 @@ return {
     },
     [273] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 65,
         taskRate = {
             [304] = 3000,
@@ -3823,7 +3823,7 @@ return {
     },
     [274] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 66,
         taskRate = {
             [304] = 3000,
@@ -3837,7 +3837,7 @@ return {
     },
     [275] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 66,
         taskRate = {
             [304] = 3000,
@@ -3851,7 +3851,7 @@ return {
     },
     [276] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 66,
         taskRate = {
             [304] = 3000,
@@ -3865,7 +3865,7 @@ return {
     },
     [277] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 66,
         taskRate = {
             [304] = 3000,
@@ -3879,7 +3879,7 @@ return {
     },
     [278] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 66,
         taskRate = {
             [304] = 3000,
@@ -3893,7 +3893,7 @@ return {
     },
     [279] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 67,
         taskRate = {
             [304] = 3000,
@@ -3907,7 +3907,7 @@ return {
     },
     [280] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 67,
         taskRate = {
             [304] = 3000,
@@ -3921,7 +3921,7 @@ return {
     },
     [281] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 67,
         taskRate = {
             [304] = 3000,
@@ -3935,7 +3935,7 @@ return {
     },
     [282] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 67,
         taskRate = {
             [304] = 3000,
@@ -3949,7 +3949,7 @@ return {
     },
     [283] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 67,
         taskRate = {
             [304] = 3000,
@@ -3963,7 +3963,7 @@ return {
     },
     [284] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 68,
         taskRate = {
             [304] = 3000,
@@ -3977,7 +3977,7 @@ return {
     },
     [285] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 68,
         taskRate = {
             [304] = 3000,
@@ -3991,7 +3991,7 @@ return {
     },
     [286] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 68,
         taskRate = {
             [304] = 3000,
@@ -4005,7 +4005,7 @@ return {
     },
     [287] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 68,
         taskRate = {
             [304] = 3000,
@@ -4019,7 +4019,7 @@ return {
     },
     [288] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 68,
         taskRate = {
             [304] = 3000,
@@ -4033,7 +4033,7 @@ return {
     },
     [289] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 69,
         taskRate = {
             [304] = 3000,
@@ -4047,7 +4047,7 @@ return {
     },
     [290] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 69,
         taskRate = {
             [304] = 3000,
@@ -4061,7 +4061,7 @@ return {
     },
     [291] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 69,
         taskRate = {
             [304] = 3000,
@@ -4075,7 +4075,7 @@ return {
     },
     [292] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 69,
         taskRate = {
             [304] = 3000,
@@ -4089,7 +4089,7 @@ return {
     },
     [293] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 69,
         taskRate = {
             [304] = 3000,
@@ -4103,7 +4103,7 @@ return {
     },
     [294] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 70,
         taskRate = {
             [304] = 3000,
@@ -4117,7 +4117,7 @@ return {
     },
     [295] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 70,
         taskRate = {
             [304] = 3000,
@@ -4131,7 +4131,7 @@ return {
     },
     [296] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 70,
         taskRate = {
             [304] = 3000,
@@ -4145,7 +4145,7 @@ return {
     },
     [297] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 70,
         taskRate = {
             [304] = 3000,
@@ -4159,7 +4159,7 @@ return {
     },
     [298] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 70,
         taskRate = {
             [304] = 3000,
@@ -4173,7 +4173,7 @@ return {
     },
     [299] = {
         taskLv = 1,
-        name = "C级",
+        name = "Class C",
         cabinID = 71,
         taskRate = {
             [304] = 3000,
@@ -4187,7 +4187,7 @@ return {
     },
     [300] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 71,
         taskRate = {
             [304] = 3000,
@@ -4201,7 +4201,7 @@ return {
     },
     [301] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 71,
         taskRate = {
             [304] = 3000,
@@ -4215,7 +4215,7 @@ return {
     },
     [302] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 71,
         taskRate = {
             [304] = 3000,
@@ -4229,7 +4229,7 @@ return {
     },
     [303] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 71,
         taskRate = {
             [304] = 3000,
@@ -4243,7 +4243,7 @@ return {
     },
     [304] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 72,
         taskRate = {
             [304] = 3000,
@@ -4257,7 +4257,7 @@ return {
     },
     [305] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 72,
         taskRate = {
             [304] = 3000,
@@ -4271,7 +4271,7 @@ return {
     },
     [306] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 72,
         taskRate = {
             [304] = 3000,
@@ -4285,7 +4285,7 @@ return {
     },
     [307] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 72,
         taskRate = {
             [304] = 3000,
@@ -4299,7 +4299,7 @@ return {
     },
     [308] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 73,
         taskRate = {
             [304] = 3000,
@@ -4313,7 +4313,7 @@ return {
     },
     [309] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 73,
         taskRate = {
             [304] = 3000,
@@ -4327,7 +4327,7 @@ return {
     },
     [310] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 73,
         taskRate = {
             [304] = 3000,
@@ -4341,7 +4341,7 @@ return {
     },
     [311] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 73,
         taskRate = {
             [304] = 3000,
@@ -4355,7 +4355,7 @@ return {
     },
     [312] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 74,
         taskRate = {
             [304] = 3000,
@@ -4369,7 +4369,7 @@ return {
     },
     [313] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 74,
         taskRate = {
             [304] = 3000,
@@ -4383,7 +4383,7 @@ return {
     },
     [314] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 74,
         taskRate = {
             [304] = 3000,
@@ -4397,7 +4397,7 @@ return {
     },
     [315] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 74,
         taskRate = {
             [304] = 3000,
@@ -4411,7 +4411,7 @@ return {
     },
     [316] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 75,
         taskRate = {
             [304] = 3000,
@@ -4425,7 +4425,7 @@ return {
     },
     [317] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 75,
         taskRate = {
             [304] = 3000,
@@ -4439,7 +4439,7 @@ return {
     },
     [318] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 75,
         taskRate = {
             [304] = 3000,
@@ -4453,7 +4453,7 @@ return {
     },
     [319] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 75,
         taskRate = {
             [304] = 3000,
@@ -4467,7 +4467,7 @@ return {
     },
     [320] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 76,
         taskRate = {
             [304] = 3000,
@@ -4481,7 +4481,7 @@ return {
     },
     [321] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 76,
         taskRate = {
             [304] = 3000,
@@ -4495,7 +4495,7 @@ return {
     },
     [322] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 76,
         taskRate = {
             [304] = 3000,
@@ -4509,7 +4509,7 @@ return {
     },
     [323] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 76,
         taskRate = {
             [304] = 3000,
@@ -4523,7 +4523,7 @@ return {
     },
     [324] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 77,
         taskRate = {
             [304] = 3000,
@@ -4537,7 +4537,7 @@ return {
     },
     [325] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 77,
         taskRate = {
             [304] = 3000,
@@ -4551,7 +4551,7 @@ return {
     },
     [326] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 77,
         taskRate = {
             [304] = 3000,
@@ -4565,7 +4565,7 @@ return {
     },
     [327] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 77,
         taskRate = {
             [304] = 3000,
@@ -4579,7 +4579,7 @@ return {
     },
     [328] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 78,
         taskRate = {
             [304] = 3000,
@@ -4593,7 +4593,7 @@ return {
     },
     [329] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 78,
         taskRate = {
             [304] = 3000,
@@ -4607,7 +4607,7 @@ return {
     },
     [330] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 78,
         taskRate = {
             [304] = 3000,
@@ -4621,7 +4621,7 @@ return {
     },
     [331] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 78,
         taskRate = {
             [304] = 3000,
@@ -4635,7 +4635,7 @@ return {
     },
     [332] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 79,
         taskRate = {
             [304] = 3000,
@@ -4649,7 +4649,7 @@ return {
     },
     [333] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 79,
         taskRate = {
             [304] = 3000,
@@ -4663,7 +4663,7 @@ return {
     },
     [334] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 79,
         taskRate = {
             [304] = 3000,
@@ -4677,7 +4677,7 @@ return {
     },
     [335] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 79,
         taskRate = {
             [304] = 3000,
@@ -4691,7 +4691,7 @@ return {
     },
     [336] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 80,
         taskRate = {
             [304] = 3000,
@@ -4705,7 +4705,7 @@ return {
     },
     [337] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 80,
         taskRate = {
             [304] = 3000,
@@ -4719,7 +4719,7 @@ return {
     },
     [338] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 80,
         taskRate = {
             [304] = 3000,
@@ -4733,7 +4733,7 @@ return {
     },
     [339] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 80,
         taskRate = {
             [304] = 3000,
@@ -4747,7 +4747,7 @@ return {
     },
     [340] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 81,
         taskRate = {
             [304] = 3000,
@@ -4761,7 +4761,7 @@ return {
     },
     [341] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 81,
         taskRate = {
             [304] = 3000,
@@ -4775,7 +4775,7 @@ return {
     },
     [342] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 81,
         taskRate = {
             [304] = 3000,
@@ -4789,7 +4789,7 @@ return {
     },
     [343] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 81,
         taskRate = {
             [304] = 3000,
@@ -4803,7 +4803,7 @@ return {
     },
     [344] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 82,
         taskRate = {
             [304] = 3000,
@@ -4817,7 +4817,7 @@ return {
     },
     [345] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 82,
         taskRate = {
             [304] = 3000,
@@ -4831,7 +4831,7 @@ return {
     },
     [346] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 82,
         taskRate = {
             [304] = 3000,
@@ -4845,7 +4845,7 @@ return {
     },
     [347] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 82,
         taskRate = {
             [304] = 3000,
@@ -4859,7 +4859,7 @@ return {
     },
     [348] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 83,
         taskRate = {
             [304] = 3000,
@@ -4873,7 +4873,7 @@ return {
     },
     [349] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 83,
         taskRate = {
             [304] = 3000,
@@ -4887,7 +4887,7 @@ return {
     },
     [350] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 83,
         taskRate = {
             [304] = 3000,
@@ -4901,7 +4901,7 @@ return {
     },
     [351] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 83,
         taskRate = {
             [304] = 3000,
@@ -4915,7 +4915,7 @@ return {
     },
     [352] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 84,
         taskRate = {
             [304] = 3000,
@@ -4929,7 +4929,7 @@ return {
     },
     [353] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 84,
         taskRate = {
             [304] = 3000,
@@ -4943,7 +4943,7 @@ return {
     },
     [354] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 84,
         taskRate = {
             [304] = 3000,
@@ -4957,7 +4957,7 @@ return {
     },
     [355] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 84,
         taskRate = {
             [304] = 3000,
@@ -4971,7 +4971,7 @@ return {
     },
     [356] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 85,
         taskRate = {
             [304] = 3000,
@@ -4985,7 +4985,7 @@ return {
     },
     [357] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 85,
         taskRate = {
             [304] = 3000,
@@ -4999,7 +4999,7 @@ return {
     },
     [358] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 85,
         taskRate = {
             [304] = 3000,
@@ -5013,7 +5013,7 @@ return {
     },
     [359] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 85,
         taskRate = {
             [304] = 3000,
@@ -5027,7 +5027,7 @@ return {
     },
     [360] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 86,
         taskRate = {
             [304] = 3000,
@@ -5041,7 +5041,7 @@ return {
     },
     [361] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 86,
         taskRate = {
             [304] = 3000,
@@ -5055,7 +5055,7 @@ return {
     },
     [362] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 86,
         taskRate = {
             [304] = 3000,
@@ -5069,7 +5069,7 @@ return {
     },
     [363] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 86,
         taskRate = {
             [304] = 3000,
@@ -5083,7 +5083,7 @@ return {
     },
     [364] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 87,
         taskRate = {
             [304] = 3000,
@@ -5097,7 +5097,7 @@ return {
     },
     [365] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 87,
         taskRate = {
             [304] = 3000,
@@ -5111,7 +5111,7 @@ return {
     },
     [366] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 87,
         taskRate = {
             [304] = 3000,
@@ -5125,7 +5125,7 @@ return {
     },
     [367] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 87,
         taskRate = {
             [304] = 3000,
@@ -5139,7 +5139,7 @@ return {
     },
     [368] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 88,
         taskRate = {
             [304] = 3000,
@@ -5153,7 +5153,7 @@ return {
     },
     [369] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 88,
         taskRate = {
             [304] = 3000,
@@ -5167,7 +5167,7 @@ return {
     },
     [370] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 88,
         taskRate = {
             [304] = 3000,
@@ -5181,7 +5181,7 @@ return {
     },
     [371] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 88,
         taskRate = {
             [304] = 3000,
@@ -5195,7 +5195,7 @@ return {
     },
     [372] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 89,
         taskRate = {
             [304] = 3000,
@@ -5209,7 +5209,7 @@ return {
     },
     [373] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 89,
         taskRate = {
             [304] = 3000,
@@ -5223,7 +5223,7 @@ return {
     },
     [374] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 89,
         taskRate = {
             [304] = 3000,
@@ -5237,7 +5237,7 @@ return {
     },
     [375] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 89,
         taskRate = {
             [304] = 3000,
@@ -5251,7 +5251,7 @@ return {
     },
     [376] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 90,
         taskRate = {
             [304] = 3000,
@@ -5265,7 +5265,7 @@ return {
     },
     [377] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 90,
         taskRate = {
             [304] = 3000,
@@ -5279,7 +5279,7 @@ return {
     },
     [378] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 90,
         taskRate = {
             [304] = 3000,
@@ -5293,7 +5293,7 @@ return {
     },
     [379] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 90,
         taskRate = {
             [304] = 3000,
@@ -5307,7 +5307,7 @@ return {
     },
     [380] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 91,
         taskRate = {
             [304] = 3000,
@@ -5321,7 +5321,7 @@ return {
     },
     [381] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 91,
         taskRate = {
             [304] = 3000,
@@ -5335,7 +5335,7 @@ return {
     },
     [382] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 91,
         taskRate = {
             [304] = 3000,
@@ -5349,7 +5349,7 @@ return {
     },
     [383] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 91,
         taskRate = {
             [304] = 3000,
@@ -5363,7 +5363,7 @@ return {
     },
     [384] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 92,
         taskRate = {
             [304] = 3000,
@@ -5377,7 +5377,7 @@ return {
     },
     [385] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 92,
         taskRate = {
             [304] = 3000,
@@ -5391,7 +5391,7 @@ return {
     },
     [386] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 92,
         taskRate = {
             [304] = 3000,
@@ -5405,7 +5405,7 @@ return {
     },
     [387] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 92,
         taskRate = {
             [304] = 3000,
@@ -5419,7 +5419,7 @@ return {
     },
     [388] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 93,
         taskRate = {
             [304] = 3000,
@@ -5433,7 +5433,7 @@ return {
     },
     [389] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 93,
         taskRate = {
             [304] = 3000,
@@ -5447,7 +5447,7 @@ return {
     },
     [390] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 93,
         taskRate = {
             [304] = 3000,
@@ -5461,7 +5461,7 @@ return {
     },
     [391] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 93,
         taskRate = {
             [304] = 3000,
@@ -5475,7 +5475,7 @@ return {
     },
     [392] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 94,
         taskRate = {
             [304] = 3000,
@@ -5489,7 +5489,7 @@ return {
     },
     [393] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 94,
         taskRate = {
             [304] = 3000,
@@ -5503,7 +5503,7 @@ return {
     },
     [394] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 94,
         taskRate = {
             [304] = 3000,
@@ -5517,7 +5517,7 @@ return {
     },
     [395] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 94,
         taskRate = {
             [304] = 3000,
@@ -5531,7 +5531,7 @@ return {
     },
     [396] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 95,
         taskRate = {
             [304] = 3000,
@@ -5545,7 +5545,7 @@ return {
     },
     [397] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 95,
         taskRate = {
             [304] = 3000,
@@ -5559,7 +5559,7 @@ return {
     },
     [398] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 95,
         taskRate = {
             [304] = 3000,
@@ -5573,7 +5573,7 @@ return {
     },
     [399] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 95,
         taskRate = {
             [304] = 3000,
@@ -5587,7 +5587,7 @@ return {
     },
     [400] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 96,
         taskRate = {
             [304] = 3000,
@@ -5601,7 +5601,7 @@ return {
     },
     [401] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 96,
         taskRate = {
             [304] = 3000,
@@ -5615,7 +5615,7 @@ return {
     },
     [402] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 96,
         taskRate = {
             [304] = 3000,
@@ -5629,7 +5629,7 @@ return {
     },
     [403] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 96,
         taskRate = {
             [304] = 3000,
@@ -5643,7 +5643,7 @@ return {
     },
     [404] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 97,
         taskRate = {
             [304] = 3000,
@@ -5657,7 +5657,7 @@ return {
     },
     [405] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 97,
         taskRate = {
             [304] = 3000,
@@ -5671,7 +5671,7 @@ return {
     },
     [406] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 97,
         taskRate = {
             [304] = 3000,
@@ -5685,7 +5685,7 @@ return {
     },
     [407] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 97,
         taskRate = {
             [304] = 3000,
@@ -5699,7 +5699,7 @@ return {
     },
     [408] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 98,
         taskRate = {
             [304] = 3000,
@@ -5713,7 +5713,7 @@ return {
     },
     [409] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 98,
         taskRate = {
             [304] = 3000,
@@ -5727,7 +5727,7 @@ return {
     },
     [410] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 98,
         taskRate = {
             [304] = 3000,
@@ -5741,7 +5741,7 @@ return {
     },
     [411] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 98,
         taskRate = {
             [304] = 3000,
@@ -5755,7 +5755,7 @@ return {
     },
     [412] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 99,
         taskRate = {
             [304] = 3000,
@@ -5769,7 +5769,7 @@ return {
     },
     [413] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 99,
         taskRate = {
             [304] = 3000,
@@ -5783,7 +5783,7 @@ return {
     },
     [414] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 99,
         taskRate = {
             [304] = 3000,
@@ -5797,7 +5797,7 @@ return {
     },
     [415] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 99,
         taskRate = {
             [304] = 3000,
@@ -5811,7 +5811,7 @@ return {
     },
     [416] = {
         taskLv = 2,
-        name = "B级",
+        name = "Class B",
         cabinID = 100,
         taskRate = {
             [304] = 3000,
@@ -5825,7 +5825,7 @@ return {
     },
     [417] = {
         taskLv = 3,
-        name = "A级",
+        name = "Class A",
         cabinID = 100,
         taskRate = {
             [304] = 3000,
@@ -5839,7 +5839,7 @@ return {
     },
     [418] = {
         taskLv = 4,
-        name = "S级",
+        name = "Class S",
         cabinID = 100,
         taskRate = {
             [304] = 3000,
@@ -5853,7 +5853,7 @@ return {
     },
     [419] = {
         taskLv = 5,
-        name = "SS级",
+        name = "Class SS",
         cabinID = 100,
         taskRate = {
             [304] = 3000,

@@ -287,11 +287,11 @@ return {
         bodyArea = {
             [1] = "bdbox",
         },
-        nameTextId = 21122,
+        nameTextId = 21128,
         smallType = 0,
         sellProfit = {
         },
-        fitting = false,
+        fitting = true,
         moveType = 0,
         totalMax = 1,
         convertMax = {
@@ -310,7 +310,7 @@ return {
         beginForm = 1270101,
         Equipheroicon = "icon/equipment/heroicon/baizhinvwang_1.png",
         des = "白王",
-        desTextId = 21123,
+        desTextId = 21129,
         subType = 0,
         winBackdrop = "ui/629.png",
         cost = 0,

@@ -108,12 +108,13 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 563,
-						PositionY = 484,
-						LeftPositon = 463,
+						PositionX = 568,
+						PositionY = 485,
 						TopPosition = 130,
 						relativeToName = "Panel",
 						nType = 3,
+						nGravity = 6,
+						nAlign = 2
 					},
 					uipanelviewmodel = 
 					{
@@ -491,7 +492,7 @@ local t =
 											{
 												PositionY = -3,
 											},
-											width = "266",
+											width = "283",
 											ZOrder = "1",
 										},
 									},
@@ -629,7 +630,7 @@ local t =
 													{
 														
 													},
-													width = "112",
+													width = "104",
 													ZOrder = "1",
 												},
 											},

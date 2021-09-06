@@ -93,7 +93,7 @@ local t =
 					bgColorOpacity = "50",
 					bIsOpenClipping = "False",
 					classname = "MEPanel",
-					colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+					colorType = "0;SingleColor:#FFFF4500;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 					DesignHeight = "640",
 					DesignType = "0",
 					DesignWidth = "960",
@@ -108,12 +108,13 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 563,
-						PositionY = 484,
-						LeftPositon = 463,
+						PositionX = 568,
+						PositionY = 485,
 						TopPosition = 130,
 						relativeToName = "Panel",
 						nType = 3,
+						nGravity = 6,
+						nAlign = 2
 					},
 					uipanelviewmodel = 
 					{
@@ -475,7 +476,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "40",
+											height = "37",
 											ignoreSize = "True",
 											name = "Label_title",
 											nTextAlign = "1",
@@ -491,7 +492,7 @@ local t =
 											{
 												PositionY = -3,
 											},
-											width = "152",
+											width = "156",
 											ZOrder = "1",
 										},
 									},

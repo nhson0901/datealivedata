@@ -264,7 +264,7 @@ return {
         },
     },
     [23] = {
-        show = 0,
+        show = 1,
         heroSkinId = 1127011,
         sort = 4,
         id = 23,
@@ -300,7 +300,7 @@ return {
         },
     },
     [26] = {
-        show = 0,
+        show = 1,
         heroSkinId = 1128011,
         sort = 6,
         id = 26,

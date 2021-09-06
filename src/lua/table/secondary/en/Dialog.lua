@@ -82706,15 +82706,21 @@ return {
         scriptId = 9361,
         headMirrorL = false,
         showBG = 0,
+        headMirrorR = true,
         actionR = {
         },
-        headMirrorR = true,
+        autoShutTime = 0,
         effect = "",
         id = 2860,
-        cameraAction2 = 0,
+        text = {
+            [1] = {
+                speed = 10,
+                text = "Maybe a higher level player is required to enter?",
+            },
+        },
         actionL = {
         },
-        autoShutTime = 0,
+        cameraAction2 = 0,
         actionText = {
         },
         isSpeakingR = true,
@@ -82734,15 +82740,21 @@ return {
         scriptId = 9362,
         headMirrorL = false,
         showBG = 0,
+        headMirrorR = true,
         actionR = {
         },
-        headMirrorR = true,
+        autoShutTime = 0,
         effect = "",
         id = 2868,
-        cameraAction2 = 0,
+        text = {
+            [1] = {
+                speed = 10,
+                text = "Thanks to %s, we made it! The current quest is to find Marina inside the Core of the World.",
+            },
+        },
         actionL = {
         },
-        autoShutTime = 0,
+        cameraAction2 = 0,
         actionText = {
         },
         isSpeakingR = true,
@@ -98071,15 +98083,21 @@ return {
         scriptId = 9361,
         headMirrorL = false,
         showBG = 0,
+        headMirrorR = true,
         actionR = {
         },
-        headMirrorR = true,
+        autoShutTime = 0,
         effect = "",
         id = 2862,
-        cameraAction2 = 0,
+        text = {
+            [1] = {
+                speed = 10,
+                text = "Love in Tengu City is a game. Isn't it normal to require a higher level to unlock new features in the game?",
+            },
+        },
         actionL = {
         },
-        autoShutTime = 0,
+        cameraAction2 = 0,
         actionText = {
         },
         isSpeakingR = true,
@@ -106661,15 +106679,21 @@ return {
         scriptId = 9360,
         headMirrorL = false,
         showBG = 0,
+        headMirrorR = false,
         actionR = {
         },
-        headMirrorR = false,
+        autoShutTime = 0,
         effect = "",
         id = 2852,
-        cameraAction2 = 0,
+        text = {
+            [1] = {
+                speed = 10,
+                text = "Yes! In addition, the system has locked Marina's position, which is also the Core of the World.",
+            },
+        },
         actionL = {
         },
-        autoShutTime = 0,
+        cameraAction2 = 0,
         actionText = {
         },
         isSpeakingR = false,
@@ -132790,15 +132814,21 @@ return {
         scriptId = 9348,
         headMirrorL = false,
         showBG = 0,
+        headMirrorR = false,
         actionR = {
         },
-        headMirrorR = false,
+        autoShutTime = 0,
         effect = "",
         id = 2806,
-        cameraAction2 = 0,
+        text = {
+            [1] = {
+                speed = 10,
+                text = "Huh? Today's audience seems special... I'm going on a date with %s. Get out of my way!",
+            },
+        },
         actionL = {
         },
-        autoShutTime = 0,
+        cameraAction2 = 0,
         actionText = {
         },
         isSpeakingR = false,

@@ -6093,7 +6093,7 @@ return {
         helpInterface = {
             [1] = 2428,
         },
-        isHelp = true,
+        isHelp = false,
         help = "",
         isMain = true,
         isBack = true,

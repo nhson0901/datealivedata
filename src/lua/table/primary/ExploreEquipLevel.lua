@@ -4,9 +4,9 @@ return {
         id = 1600102017,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升18.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +18.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 17,
         talent = {
             [1] = 74017,
@@ -23,9 +23,9 @@ return {
         id = 1600103041,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有13.2%的几率偏移掉25.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 13.2% chance to deflect 25.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 41,
         talent = {
             [1] = 75041,
@@ -45,9 +45,9 @@ return {
         id = 1600102018,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升19%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +19% DEF!\nReduces DMG taken by an extra 1%.",
         level = 18,
         talent = {
             [1] = 74018,
@@ -64,9 +64,9 @@ return {
         id = 1600103042,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有13.4%的几率偏移掉26%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 13.4% chance to deflect 26% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 42,
         talent = {
             [1] = 75042,
@@ -86,9 +86,9 @@ return {
         id = 1600209001,
         unlockSkill = {
         },
-        desc = "探索中，提升10%的3阶奖励掉落概率！",
+        desc = "While exploring, increases T3 reward drop rate by 10%!",
         name = 0,
-        desc2 = "探索中，提升10%的3阶奖励掉落概率！",
+        desc2 = "While exploring, increases T3 reward drop rate by 10%!",
         level = 1,
         talent = {
             [1] = 40009,
@@ -102,9 +102,9 @@ return {
         id = 1600102019,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升19.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +19.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 19,
         talent = {
             [1] = 74019,
@@ -121,9 +121,9 @@ return {
         id = 1600103043,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有13.6%的几率偏移掉26.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 13.6% chance to deflect 26.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 43,
         talent = {
             [1] = 75043,
@@ -144,9 +144,9 @@ return {
         unlockSkill = {
             [1] = 66102,
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升20%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +20% DEF!\nReduces DMG taken by an extra 1%.",
         level = 20,
         talent = {
             [1] = 74020,
@@ -165,9 +165,9 @@ return {
         id = 1600103044,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有13.8%的几率偏移掉27%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 13.8% chance to deflect 27% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 44,
         talent = {
             [1] = 75044,
@@ -187,9 +187,9 @@ return {
         id = 1600102021,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升20.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +20.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 21,
         talent = {
             [1] = 74021,
@@ -207,9 +207,9 @@ return {
         id = 1600103045,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有14%的几率偏移掉27.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 14% chance to deflect 27.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 45,
         talent = {
             [1] = 75045,
@@ -231,9 +231,9 @@ return {
         id = 1600102022,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升21%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +21% DEF!\nReduces DMG taken by an extra 1%.",
         level = 22,
         talent = {
             [1] = 74022,
@@ -251,9 +251,9 @@ return {
         id = 1600103046,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有14.2%的几率偏移掉28%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 14.2% chance to deflect 28% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 46,
         talent = {
             [1] = 75046,
@@ -273,9 +273,9 @@ return {
         id = 1600102023,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升21.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +21.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 23,
         talent = {
             [1] = 74023,
@@ -293,9 +293,9 @@ return {
         id = 1600103047,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有14.4%的几率偏移掉28.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 14.4% chance to deflect 28.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 47,
         talent = {
             [1] = 75047,
@@ -315,9 +315,9 @@ return {
         id = 1600102024,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升22%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +22% DEF!\nReduces DMG taken by an extra 1%.",
         level = 24,
         talent = {
             [1] = 74024,
@@ -335,9 +335,9 @@ return {
         id = 1600103048,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有14.6%的几率偏移掉29%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 14.6% chance to deflect 29% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 48,
         talent = {
             [1] = 75048,
@@ -359,7 +359,7 @@ return {
         },
         desc = "",
         name = 0,
-        desc2 = "战斗开场获得420点护盾，吸收受到的所有攻击！",
+        desc2 = "When battle starts, gain a shield with 420 HP that absorbs all attacks received!",
         level = 1,
         talent = {
             [1] = 73001,
@@ -372,9 +372,9 @@ return {
         id = 1600102025,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升22.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +22.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 25,
         talent = {
             [1] = 74025,
@@ -393,9 +393,9 @@ return {
         id = 1600103049,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有14.8%的几率偏移掉29.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 14.8% chance to deflect 29.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 49,
         talent = {
             [1] = 75049,
@@ -415,9 +415,9 @@ return {
         id = 1600101002,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得780点护盾，吸收受到的所有攻击！",
+        desc2 = "When battle starts, gain a shield with 780 HP that absorbs all attacks received!",
         level = 2,
         talent = {
             [1] = 73002,
@@ -433,9 +433,9 @@ return {
         id = 1600102026,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升23%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +23% DEF!\nReduces DMG taken by an extra 1%.",
         level = 26,
         talent = {
             [1] = 74026,
@@ -453,9 +453,9 @@ return {
         id = 1600103050,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%  偏移率额外+2%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%, additional Deflection Rate +2%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有15%的几率偏移掉30%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 15% chance to deflect 30% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 50,
         talent = {
             [1] = 75050,
@@ -478,9 +478,9 @@ return {
         id = 1600101003,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得1140点护盾，吸收受到的所有攻击！",
+        desc2 = "When battle starts, gain a shield with 1140 HP that absorbs all attacks received!",
         level = 3,
         talent = {
             [1] = 73003,
@@ -496,9 +496,9 @@ return {
         id = 1600102027,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升23.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +23.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 27,
         talent = {
             [1] = 74027,
@@ -516,9 +516,9 @@ return {
         id = 1600103051,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有15.2%的几率偏移掉30.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 15.2% chance to deflect 30.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 51,
         talent = {
             [1] = 75051,
@@ -539,9 +539,9 @@ return {
         id = 1600101004,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得1500点护盾，吸收受到的所有攻击！",
+        desc2 = "When battle starts, gain a shield with 1500 HP that absorbs all attacks received!",
         level = 4,
         talent = {
             [1] = 73004,
@@ -557,9 +557,9 @@ return {
         id = 1600102028,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升24%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +24% DEF!\nReduces DMG taken by an extra 1%.",
         level = 28,
         talent = {
             [1] = 74028,
@@ -577,9 +577,9 @@ return {
         id = 1600103052,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有15.4%的几率偏移掉31%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 15.4% chance to deflect 31% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 52,
         talent = {
             [1] = 75052,
@@ -600,9 +600,9 @@ return {
         id = 1600101005,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得1860点护盾，吸收受到的所有攻击！",
+        desc2 = "When battle starts, gain a shield with 1860 HP that absorbs all attacks received!",
         level = 5,
         talent = {
             [1] = 73005,
@@ -619,9 +619,9 @@ return {
         id = 1600102029,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升24.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +24.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 29,
         talent = {
             [1] = 74029,
@@ -639,9 +639,9 @@ return {
         id = 1600103053,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有15.6%的几率偏移掉31.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 15.6% chance to deflect 31.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 53,
         talent = {
             [1] = 75053,
@@ -662,9 +662,9 @@ return {
         id = 1600101006,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得2220点护盾，吸收受到的所有攻击！",
+        desc2 = "When battle starts, gain a shield with 2220 HP that absorbs all attacks received!",
         level = 6,
         talent = {
             [1] = 73006,
@@ -680,9 +680,9 @@ return {
         id = 1600102030,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%  受伤减免+1%",
+        desc = "DEF +0.5%, DMG MIT +1%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升25%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +25% DEF!\nReduces DMG taken by an extra 2%.",
         level = 30,
         talent = {
             [1] = 74030,
@@ -702,9 +702,9 @@ return {
         id = 1600103054,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有15.8%的几率偏移掉32%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 15.8% chance to deflect 32% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 54,
         talent = {
             [1] = 75054,
@@ -725,9 +725,9 @@ return {
         id = 1600101007,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得2580点护盾，吸收受到的所有攻击！",
+        desc2 = "When battle starts, gain a shield with 2580 HP that absorbs all attacks received!",
         level = 7,
         talent = {
             [1] = 73007,
@@ -743,9 +743,9 @@ return {
         id = 1600102031,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升25.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +25.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 31,
         talent = {
             [1] = 74031,
@@ -764,9 +764,9 @@ return {
         id = 1600103055,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有16%的几率偏移掉32.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 16% chance to deflect 32.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 55,
         talent = {
             [1] = 75055,
@@ -789,9 +789,9 @@ return {
         id = 1600101008,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得2940点护盾，吸收受到的所有攻击！",
+        desc2 = "When battle starts, gain a shield with 2940 HP that absorbs all attacks received!",
         level = 8,
         talent = {
             [1] = 73008,
@@ -807,9 +807,9 @@ return {
         id = 1600102032,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升26%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +26% DEF!\nReduces DMG taken by an extra 2%.",
         level = 32,
         talent = {
             [1] = 74032,
@@ -828,9 +828,9 @@ return {
         id = 1600103056,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有16.2%的几率偏移掉33%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 16.2% chance to deflect 33% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 56,
         talent = {
             [1] = 75056,
@@ -851,9 +851,9 @@ return {
         id = 1600101009,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得3300点护盾，吸收受到的所有攻击！",
+        desc2 = "When battle starts, gain a shield with 3300 HP that absorbs all attacks received!",
         level = 9,
         talent = {
             [1] = 73009,
@@ -869,9 +869,9 @@ return {
         id = 1600102033,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升26.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +26.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 33,
         talent = {
             [1] = 74033,
@@ -890,9 +890,9 @@ return {
         id = 1600103057,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有16.4%的几率偏移掉33.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 16.4% chance to deflect 33.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 57,
         talent = {
             [1] = 75057,
@@ -913,9 +913,9 @@ return {
         id = 1600101010,
         unlockSkill = {
         },
-        desc = "护盾值+360  护盾值额外+3%",
+        desc = "Shield +360, additional Shield +3%",
         name = 0,
-        desc2 = "战斗开场获得3660点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 3660 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 10,
         talent = {
             [1] = 73010,
@@ -933,9 +933,9 @@ return {
         id = 1600102034,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升27%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +27% DEF!\nReduces DMG taken by an extra 2%.",
         level = 34,
         talent = {
             [1] = 74034,
@@ -954,9 +954,9 @@ return {
         id = 1600103058,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有16.6%的几率偏移掉34%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 16.6% chance to deflect 34% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 58,
         talent = {
             [1] = 75058,
@@ -977,9 +977,9 @@ return {
         id = 1600101011,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得4020点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 4020 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 11,
         talent = {
             [1] = 73011,
@@ -996,9 +996,9 @@ return {
         id = 1600102035,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升27.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +27.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 35,
         talent = {
             [1] = 74035,
@@ -1019,9 +1019,9 @@ return {
         id = 1600103059,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有16.8%的几率偏移掉34.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 16.8% chance to deflect 34.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 59,
         talent = {
             [1] = 75059,
@@ -1042,9 +1042,9 @@ return {
         id = 1600101012,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得4380点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 4380 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 12,
         talent = {
             [1] = 73012,
@@ -1061,9 +1061,9 @@ return {
         id = 1600102036,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升28%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +28% DEF!\nReduces DMG taken by an extra 2%.",
         level = 36,
         talent = {
             [1] = 74036,
@@ -1083,9 +1083,9 @@ return {
         unlockSkill = {
             [1] = 66206,
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有17%的几率偏移掉35%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 17% chance to deflect 35% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 60,
         talent = {
             [1] = 75060,
@@ -1109,9 +1109,9 @@ return {
         id = 1600101013,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得4740点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 4740 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 13,
         talent = {
             [1] = 73013,
@@ -1128,9 +1128,9 @@ return {
         id = 1600102037,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升28.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +28.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 37,
         talent = {
             [1] = 74037,
@@ -1149,9 +1149,9 @@ return {
         id = 1600103061,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有17.2%的几率偏移掉35.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 17.2% chance to deflect 35.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 61,
         talent = {
             [1] = 75061,
@@ -1173,9 +1173,9 @@ return {
         id = 1600101014,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得5100点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 5100 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 14,
         talent = {
             [1] = 73014,
@@ -1192,9 +1192,9 @@ return {
         id = 1600102038,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升29%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +29% DEF!\nReduces DMG taken by an extra 2%.",
         level = 38,
         talent = {
             [1] = 74038,
@@ -1213,9 +1213,9 @@ return {
         id = 1600103062,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有17.4%的几率偏移掉36%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 17.4% chance to deflect 36% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 62,
         talent = {
             [1] = 75062,
@@ -1237,9 +1237,9 @@ return {
         id = 1600101015,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得5460点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 5460 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 15,
         talent = {
             [1] = 73015,
@@ -1257,9 +1257,9 @@ return {
         id = 1600102039,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升29.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +29.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 39,
         talent = {
             [1] = 74039,
@@ -1278,9 +1278,9 @@ return {
         id = 1600103063,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有17.6%的几率偏移掉36.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 17.6% chance to deflect 36.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 63,
         talent = {
             [1] = 75063,
@@ -1302,9 +1302,9 @@ return {
         id = 1600101016,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得5820点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 5820 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 16,
         talent = {
             [1] = 73016,
@@ -1322,9 +1322,9 @@ return {
         unlockSkill = {
             [1] = 66104,
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升30%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +30% DEF!\nReduces DMG taken by an extra 2%.",
         level = 40,
         talent = {
             [1] = 74040,
@@ -1346,9 +1346,9 @@ return {
         id = 1600103064,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有17.8%的几率偏移掉37%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 17.8% chance to deflect 37% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 64,
         talent = {
             [1] = 75064,
@@ -1370,9 +1370,9 @@ return {
         id = 1600101017,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得6180点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 6180 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 17,
         talent = {
             [1] = 73017,
@@ -1389,9 +1389,9 @@ return {
         id = 1600102041,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升30.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +30.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 41,
         talent = {
             [1] = 74041,
@@ -1411,9 +1411,9 @@ return {
         id = 1600103065,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有18%的几率偏移掉37.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 18% chance to deflect 37.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 65,
         talent = {
             [1] = 75065,
@@ -1437,9 +1437,9 @@ return {
         id = 1600101018,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得6540点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 6540 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 18,
         talent = {
             [1] = 73018,
@@ -1456,9 +1456,9 @@ return {
         id = 1600102042,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升31%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +31% DEF!\nReduces DMG taken by an extra 2%.",
         level = 42,
         talent = {
             [1] = 74042,
@@ -1478,9 +1478,9 @@ return {
         id = 1600103066,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有18.2%的几率偏移掉38%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 18.2% chance to deflect 38% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 66,
         talent = {
             [1] = 75066,
@@ -1502,9 +1502,9 @@ return {
         id = 1600208001,
         unlockSkill = {
         },
-        desc = "探索中，提升15%的2阶奖励掉落概率！",
+        desc = "While exploring, increases T2 reward drop rate by 15%!",
         name = 0,
-        desc2 = "探索中，提升15%的2阶奖励掉落概率！",
+        desc2 = "While exploring, increases T2 reward drop rate by 15%!",
         level = 1,
         talent = {
             [1] = 40008,
@@ -1518,9 +1518,9 @@ return {
         id = 1600101019,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得6900点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 6900 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 19,
         talent = {
             [1] = 73019,
@@ -1537,9 +1537,9 @@ return {
         id = 1600102043,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升31.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +31.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 43,
         talent = {
             [1] = 74043,
@@ -1559,9 +1559,9 @@ return {
         id = 1600103067,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有18.4%的几率偏移掉38.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 18.4% chance to deflect 38.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 67,
         talent = {
             [1] = 75067,
@@ -1584,9 +1584,9 @@ return {
         unlockSkill = {
             [1] = 66002,
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得7260点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 7260 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 20,
         talent = {
             [1] = 73020,
@@ -1605,9 +1605,9 @@ return {
         id = 1600102044,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升32%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +32% DEF!\nReduces DMG taken by an extra 2%.",
         level = 44,
         talent = {
             [1] = 74044,
@@ -1627,9 +1627,9 @@ return {
         id = 1600103068,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有18.6%的几率偏移掉39%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 18.6% chance to deflect 39% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 68,
         talent = {
             [1] = 75068,
@@ -1651,9 +1651,9 @@ return {
         id = 1600101021,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得7620点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 7620 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 21,
         talent = {
             [1] = 73021,
@@ -1671,9 +1671,9 @@ return {
         id = 1600102045,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升32.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +32.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 45,
         talent = {
             [1] = 74045,
@@ -1695,9 +1695,9 @@ return {
         id = 1600103069,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有18.8%的几率偏移掉39.5%的伤害！\n额外增加偏移率6%",
+        desc2 = "When the shield is active, it has a 18.8% chance to deflect 39.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 6%.",
         level = 69,
         talent = {
             [1] = 75069,
@@ -1719,9 +1719,9 @@ return {
         id = 1600101022,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得7980点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 7980 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 22,
         talent = {
             [1] = 73022,
@@ -1739,9 +1739,9 @@ return {
         id = 1600102046,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升33%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +33% DEF!\nReduces DMG taken by an extra 2%.",
         level = 46,
         talent = {
             [1] = 74046,
@@ -1761,9 +1761,9 @@ return {
         id = 1600103070,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%  偏移率额外+2%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%, additional Deflection Rate +2%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有19%的几率偏移掉40%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 19% chance to deflect 40% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 70,
         talent = {
             [1] = 75070,
@@ -1787,9 +1787,9 @@ return {
         id = 1600101023,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得8340点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 8340 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 23,
         talent = {
             [1] = 73023,
@@ -1807,9 +1807,9 @@ return {
         id = 1600102047,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升33.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +33.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 47,
         talent = {
             [1] = 74047,
@@ -1829,9 +1829,9 @@ return {
         id = 1600103071,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有19.2%的几率偏移掉40.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 19.2% chance to deflect 40.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 71,
         talent = {
             [1] = 75071,
@@ -1854,9 +1854,9 @@ return {
         id = 1600101024,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得8700点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 8700 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 24,
         talent = {
             [1] = 73024,
@@ -1876,7 +1876,7 @@ return {
         },
         desc = "",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次21%火力值的伤害，伤害有5.2%概率触发穿透！",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 21% of Firepower with a 5.2% chance to trigger Pierce!",
         level = 1,
         talent = {
             [1] = 72001,
@@ -1890,9 +1890,9 @@ return {
         id = 1600103072,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有19.4%的几率偏移掉41%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 19.4% chance to deflect 41% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 72,
         talent = {
             [1] = 75072,
@@ -1915,9 +1915,9 @@ return {
         id = 1600101025,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得9060点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 9060 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 25,
         talent = {
             [1] = 73025,
@@ -1936,9 +1936,9 @@ return {
         id = 1600003002,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次22%火力值的伤害，伤害有5.4%概率触发穿透！",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 22% of Firepower with a 5.4% chance to trigger Pierce!",
         level = 2,
         talent = {
             [1] = 72002,
@@ -1955,9 +1955,9 @@ return {
         id = 1600103073,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有19.6%的几率偏移掉41.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 19.6% chance to deflect 41.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 73,
         talent = {
             [1] = 75073,
@@ -1980,9 +1980,9 @@ return {
         id = 1600101026,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得9420点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 9420 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 26,
         talent = {
             [1] = 73026,
@@ -2000,9 +2000,9 @@ return {
         id = 1600003003,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次23%火力值的伤害，伤害有5.6%概率触发穿透！",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 23% of Firepower with a 5.6% chance to trigger Pierce!",
         level = 3,
         talent = {
             [1] = 72003,
@@ -2019,9 +2019,9 @@ return {
         id = 1600103074,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有19.8%的几率偏移掉42%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 19.8% chance to deflect 42% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 74,
         talent = {
             [1] = 75074,
@@ -2044,9 +2044,9 @@ return {
         id = 1600101027,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得9780点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 9780 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 27,
         talent = {
             [1] = 73027,
@@ -2064,9 +2064,9 @@ return {
         id = 1600003004,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次24%火力值的伤害，伤害有5.8%概率触发穿透！",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 24% of Firepower with a 5.8% chance to trigger Pierce!",
         level = 4,
         talent = {
             [1] = 72004,
@@ -2083,9 +2083,9 @@ return {
         id = 1600103075,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有20%的几率偏移掉42.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 20% chance to deflect 42.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 75,
         talent = {
             [1] = 75075,
@@ -2110,9 +2110,9 @@ return {
         id = 1600101028,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得10140点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 10140 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 28,
         talent = {
             [1] = 73028,
@@ -2130,9 +2130,9 @@ return {
         id = 1600003005,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次25%火力值的伤害，伤害有6%概率触发穿透！",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 25% of Firepower with a 6% chance to trigger Pierce!",
         level = 5,
         talent = {
             [1] = 72005,
@@ -2150,9 +2150,9 @@ return {
         id = 1600103076,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有20.2%的几率偏移掉43%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 20.2% chance to deflect 43% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 76,
         talent = {
             [1] = 75076,
@@ -2175,9 +2175,9 @@ return {
         id = 1600101029,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得10500点护盾，吸收受到的所有攻击！\n额外提升护盾值3%",
+        desc2 = "When battle starts, gain a shield with 10500 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 3%.",
         level = 29,
         talent = {
             [1] = 73029,
@@ -2195,9 +2195,9 @@ return {
         id = 1600003006,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次26%火力值的伤害，伤害有6.2%概率触发穿透！",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 26% of Firepower with a 6.2% chance to trigger Pierce!",
         level = 6,
         talent = {
             [1] = 72006,
@@ -2214,9 +2214,9 @@ return {
         id = 1600103077,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有20.4%的几率偏移掉43.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 20.4% chance to deflect 43.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 77,
         talent = {
             [1] = 75077,
@@ -2239,9 +2239,9 @@ return {
         id = 1600101030,
         unlockSkill = {
         },
-        desc = "护盾值+360  护盾值额外+3%",
+        desc = "Shield +360, additional Shield +3%",
         name = 0,
-        desc2 = "战斗开场获得10860点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 10860 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 30,
         talent = {
             [1] = 73030,
@@ -2261,9 +2261,9 @@ return {
         id = 1600003007,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次27%火力值的伤害，伤害有6.4%概率触发穿透！",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 27% of Firepower with a 6.4% chance to trigger Pierce!",
         level = 7,
         talent = {
             [1] = 72007,
@@ -2280,9 +2280,9 @@ return {
         id = 1600103078,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有20.6%的几率偏移掉44%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 20.6% chance to deflect 44% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 78,
         talent = {
             [1] = 75078,
@@ -2305,9 +2305,9 @@ return {
         id = 1600101031,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得11220点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 11220 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 31,
         talent = {
             [1] = 73031,
@@ -2326,9 +2326,9 @@ return {
         id = 1600003008,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次28%火力值的伤害，伤害有6.6%概率触发穿透！",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 28% of Firepower with a 6.6% chance to trigger Pierce!",
         level = 8,
         talent = {
             [1] = 72008,
@@ -2345,9 +2345,9 @@ return {
         id = 1600103079,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有20.8%的几率偏移掉44.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 20.8% chance to deflect 44.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 79,
         talent = {
             [1] = 75079,
@@ -2370,9 +2370,9 @@ return {
         id = 1600101032,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得11580点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 11580 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 32,
         talent = {
             [1] = 73032,
@@ -2391,9 +2391,9 @@ return {
         id = 1600003009,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次29%火力值的伤害，伤害有6.8%概率触发穿透！",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 29% of Firepower with a 6.8% chance to trigger Pierce!",
         level = 9,
         talent = {
             [1] = 72009,
@@ -2411,9 +2411,9 @@ return {
         unlockSkill = {
             [1] = 66208,
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有21%的几率偏移掉45%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 21% chance to deflect 45% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 80,
         talent = {
             [1] = 75080,
@@ -2439,9 +2439,9 @@ return {
         id = 1600101033,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得11940点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 11940 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 33,
         talent = {
             [1] = 73033,
@@ -2460,9 +2460,9 @@ return {
         id = 1600003010,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%  穿透率额外+2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%, additional Pierce Rate +2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次30%火力值的伤害，伤害有7%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 30% of Firepower with a 7% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 10,
         talent = {
             [1] = 72010,
@@ -2481,9 +2481,9 @@ return {
         id = 1600103081,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有21.2%的几率偏移掉45.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 21.2% chance to deflect 45.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 81,
         talent = {
             [1] = 75081,
@@ -2507,9 +2507,9 @@ return {
         id = 1600101034,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得12300点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 12300 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 34,
         talent = {
             [1] = 73034,
@@ -2528,9 +2528,9 @@ return {
         id = 1600003011,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次31%火力值的伤害，伤害有7.2%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 31% of Firepower with a 7.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 11,
         talent = {
             [1] = 72011,
@@ -2548,9 +2548,9 @@ return {
         id = 1600103082,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有21.4%的几率偏移掉46%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 21.4% chance to deflect 46% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 82,
         talent = {
             [1] = 75082,
@@ -2574,9 +2574,9 @@ return {
         id = 1600101035,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得12660点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 12660 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 35,
         talent = {
             [1] = 73035,
@@ -2597,9 +2597,9 @@ return {
         id = 1600003012,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次32%火力值的伤害，伤害有7.4%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 32% of Firepower with a 7.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 12,
         talent = {
             [1] = 72012,
@@ -2617,9 +2617,9 @@ return {
         id = 1600103083,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有21.6%的几率偏移掉46.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 21.6% chance to deflect 46.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 83,
         talent = {
             [1] = 75083,
@@ -2643,9 +2643,9 @@ return {
         id = 1600101036,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得13020点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 13020 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 36,
         talent = {
             [1] = 73036,
@@ -2665,9 +2665,9 @@ return {
         unlockSkill = {
             [1] = 66106,
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升40%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +40% DEF!\nReduces DMG taken by an extra 3%.",
         level = 60,
         talent = {
             [1] = 74060,
@@ -2691,9 +2691,9 @@ return {
         id = 1600103084,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有21.8%的几率偏移掉47%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 21.8% chance to deflect 47% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 84,
         talent = {
             [1] = 75084,
@@ -2717,9 +2717,9 @@ return {
         id = 1600218001,
         unlockSkill = {
         },
-        desc = "我方攻击有15%几率对敌人造成敌方当前生命值10%的伤害，冷却3回合。",
+        desc = "Ally attacks have a 15% chance to inflict damage equal to 10% of the enemy's current HP. CD: 3 turns",
         name = 0,
-        desc2 = "战斗中，我方攻击（包括护盾吸收）有15%几率对敌人造成敌方当前生命值10%的伤害，冷却3回合。",
+        desc2 = "In battle, ally attacks (including shield absorption) have a 15% chance to inflict damage equal to 10% of the enemy's current HP. CD: 3 turns",
         level = 1,
         talent = {
             [1] = 40018,
@@ -2733,9 +2733,9 @@ return {
         id = 1600101037,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得13380点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 13380 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 37,
         talent = {
             [1] = 73037,
@@ -2754,9 +2754,9 @@ return {
         id = 1600102061,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升40.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +40.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 61,
         talent = {
             [1] = 74061,
@@ -2778,9 +2778,9 @@ return {
         id = 1600103085,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有22%的几率偏移掉47.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 22% chance to deflect 47.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 85,
         talent = {
             [1] = 75085,
@@ -2806,9 +2806,9 @@ return {
         id = 1600101038,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得13740点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 13740 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 38,
         talent = {
             [1] = 73038,
@@ -2827,9 +2827,9 @@ return {
         id = 1600003015,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次35%火力值的伤害，伤害有8%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 35% of Firepower with a 8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 15,
         talent = {
             [1] = 72015,
@@ -2848,9 +2848,9 @@ return {
         id = 1600103086,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有22.2%的几率偏移掉48%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 22.2% chance to deflect 48% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 86,
         talent = {
             [1] = 75086,
@@ -2874,9 +2874,9 @@ return {
         id = 1600101039,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得14100点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 14100 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 39,
         talent = {
             [1] = 73039,
@@ -2895,9 +2895,9 @@ return {
         id = 1600003016,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次36%火力值的伤害，伤害有8.2%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 36% of Firepower with a 8.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 16,
         talent = {
             [1] = 72016,
@@ -2915,9 +2915,9 @@ return {
         id = 1600103087,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有22.4%的几率偏移掉48.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 22.4% chance to deflect 48.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 87,
         talent = {
             [1] = 75087,
@@ -2942,9 +2942,9 @@ return {
         unlockSkill = {
             [1] = 66004,
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得14460点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 14460 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 40,
         talent = {
             [1] = 73040,
@@ -2966,9 +2966,9 @@ return {
         id = 1600003017,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次37%火力值的伤害，伤害有8.4%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 37% of Firepower with a 8.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 17,
         talent = {
             [1] = 72017,
@@ -2986,9 +2986,9 @@ return {
         id = 1600103088,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有22.6%的几率偏移掉49%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 22.6% chance to deflect 49% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 88,
         talent = {
             [1] = 75088,
@@ -3012,9 +3012,9 @@ return {
         id = 1600101041,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得14820点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 14820 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 41,
         talent = {
             [1] = 73041,
@@ -3034,9 +3034,9 @@ return {
         id = 1600003018,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次38%火力值的伤害，伤害有8.6%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 38% of Firepower with a 8.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 18,
         talent = {
             [1] = 72018,
@@ -3054,9 +3054,9 @@ return {
         id = 1600103089,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有22.8%的几率偏移掉49.5%的伤害！\n额外增加偏移率8%",
+        desc2 = "When the shield is active, it has a 22.8% chance to deflect 49.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 8%.",
         level = 89,
         talent = {
             [1] = 75089,
@@ -3080,9 +3080,9 @@ return {
         id = 1600101042,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得15180点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 15180 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 42,
         talent = {
             [1] = 73042,
@@ -3102,9 +3102,9 @@ return {
         id = 1600003019,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次39%火力值的伤害，伤害有8.8%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 39% of Firepower with a 8.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 19,
         talent = {
             [1] = 72019,
@@ -3122,9 +3122,9 @@ return {
         id = 1600103090,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%  偏移率额外+2%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%, additional Deflection Rate +2%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有23%的几率偏移掉50%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 23% chance to deflect 50% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 90,
         talent = {
             [1] = 75090,
@@ -3151,9 +3151,9 @@ return {
         id = 1600101043,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得15540点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 15540 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 43,
         talent = {
             [1] = 73043,
@@ -3174,9 +3174,9 @@ return {
         unlockSkill = {
             [1] = 65202,
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次40%火力值的伤害，伤害有9%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 40% of Firepower with a 9% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 20,
         talent = {
             [1] = 72020,
@@ -3195,9 +3195,9 @@ return {
         id = 1600103091,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有23.2%的几率偏移掉50.5%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 23.2% chance to deflect 50.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 91,
         talent = {
             [1] = 75091,
@@ -3222,9 +3222,9 @@ return {
         id = 1600101044,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得15900点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 15900 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 44,
         talent = {
             [1] = 73044,
@@ -3244,9 +3244,9 @@ return {
         id = 1600003021,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次41%火力值的伤害，伤害有9.2%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 41% of Firepower with a 9.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 21,
         talent = {
             [1] = 72021,
@@ -3264,9 +3264,9 @@ return {
         id = 1600103092,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有23.4%的几率偏移掉51%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 23.4% chance to deflect 51% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 92,
         talent = {
             [1] = 75092,
@@ -3291,9 +3291,9 @@ return {
         id = 1600101045,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得16260点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 16260 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 45,
         talent = {
             [1] = 73045,
@@ -3315,9 +3315,9 @@ return {
         id = 1600003022,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次42%火力值的伤害，伤害有9.4%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 42% of Firepower with a 9.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 22,
         talent = {
             [1] = 72022,
@@ -3335,9 +3335,9 @@ return {
         id = 1600103093,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有23.6%的几率偏移掉51.5%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 23.6% chance to deflect 51.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 93,
         talent = {
             [1] = 75093,
@@ -3362,9 +3362,9 @@ return {
         id = 1600101046,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得16620点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 16620 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 46,
         talent = {
             [1] = 73046,
@@ -3384,9 +3384,9 @@ return {
         id = 1600003023,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次43%火力值的伤害，伤害有9.6%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 43% of Firepower with a 9.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 23,
         talent = {
             [1] = 72023,
@@ -3404,9 +3404,9 @@ return {
         id = 1600103094,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有23.8%的几率偏移掉52%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 23.8% chance to deflect 52% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 94,
         talent = {
             [1] = 75094,
@@ -3431,9 +3431,9 @@ return {
         id = 1600101047,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得16980点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 16980 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 47,
         talent = {
             [1] = 73047,
@@ -3453,9 +3453,9 @@ return {
         id = 1600003024,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次44%火力值的伤害，伤害有9.8%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 44% of Firepower with a 9.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 24,
         talent = {
             [1] = 72024,
@@ -3473,9 +3473,9 @@ return {
         id = 1600103095,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有24%的几率偏移掉52.5%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 24% chance to deflect 52.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 95,
         talent = {
             [1] = 75095,
@@ -3502,9 +3502,9 @@ return {
         id = 1600101048,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得17340点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 17340 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 48,
         talent = {
             [1] = 73048,
@@ -3524,9 +3524,9 @@ return {
         id = 1600003025,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次45%火力值的伤害，伤害有10%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 45% of Firepower with a 10% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 25,
         talent = {
             [1] = 72025,
@@ -3545,9 +3545,9 @@ return {
         id = 1600103096,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有24.2%的几率偏移掉53%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 24.2% chance to deflect 53% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 96,
         talent = {
             [1] = 75096,
@@ -3572,9 +3572,9 @@ return {
         id = 1600002002,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有5.2%概率发射2枚导弹攻击敌人，每次造成11%火力值的伤害！",
+        desc2 = "Has a 5.2% chance each turn to fire 2 missiles, each dealing DMG equal to 11% of Firepower!",
         level = 2,
         talent = {
             [1] = 71002,
@@ -3591,9 +3591,9 @@ return {
         id = 1600003026,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次46%火力值的伤害，伤害有10.2%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 46% of Firepower with a 10.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 26,
         talent = {
             [1] = 72026,
@@ -3611,9 +3611,9 @@ return {
         id = 1600103097,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有24.4%的几率偏移掉53.5%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 24.4% chance to deflect 53.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 97,
         talent = {
             [1] = 75097,
@@ -3638,9 +3638,9 @@ return {
         id = 1600002003,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有5.4%概率发射2枚导弹攻击敌人，每次造成11.5%火力值的伤害！",
+        desc2 = "Has a 5.4% chance each turn to fire 2 missiles, each dealing DMG equal to 11.5% of Firepower!",
         level = 3,
         talent = {
             [1] = 71003,
@@ -3657,9 +3657,9 @@ return {
         id = 1600003027,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次47%火力值的伤害，伤害有10.4%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 47% of Firepower with a 10.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 27,
         talent = {
             [1] = 72027,
@@ -3677,9 +3677,9 @@ return {
         id = 1600103098,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有24.6%的几率偏移掉54%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 24.6% chance to deflect 54% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 98,
         talent = {
             [1] = 75098,
@@ -3704,9 +3704,9 @@ return {
         id = 1600002004,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有5.6%概率发射2枚导弹攻击敌人，每次造成12%火力值的伤害！",
+        desc2 = "Has a 5.6% chance each turn to fire 2 missiles, each dealing DMG equal to 12% of Firepower!",
         level = 4,
         talent = {
             [1] = 71004,
@@ -3723,9 +3723,9 @@ return {
         id = 1600003028,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次48%火力值的伤害，伤害有10.6%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 48% of Firepower with a 10.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 28,
         talent = {
             [1] = 72028,
@@ -3743,9 +3743,9 @@ return {
         id = 1600103099,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有24.8%的几率偏移掉54.5%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 24.8% chance to deflect 54.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 99,
         talent = {
             [1] = 75099,
@@ -3770,9 +3770,9 @@ return {
         id = 1600002005,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有5.8%概率发射2枚导弹攻击敌人，每次造成12.5%火力值的伤害！",
+        desc2 = "Has a 5.8% chance each turn to fire 2 missiles, each dealing DMG equal to 12.5% of Firepower!",
         level = 5,
         talent = {
             [1] = 71005,
@@ -3790,9 +3790,9 @@ return {
         id = 1600102076,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升48%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +48% DEF!\nReduces DMG taken by an extra 4%.",
         level = 76,
         talent = {
             [1] = 74076,
@@ -3816,9 +3816,9 @@ return {
         unlockSkill = {
             [1] = 66210,
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有25%的几率偏移掉55%的伤害！\n额外增加偏移率10%",
+        desc2 = "When the shield is active, it has a 25% chance to deflect 55% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 10%.",
         level = 100,
         talent = {
             [1] = 75100,
@@ -3846,9 +3846,9 @@ return {
         id = 1600002006,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有6%概率发射2枚导弹攻击敌人，每次造成13%火力值的伤害！",
+        desc2 = "Has a 6% chance each turn to fire 2 missiles, each dealing DMG equal to 13% of Firepower!",
         level = 6,
         talent = {
             [1] = 71006,
@@ -3865,9 +3865,9 @@ return {
         id = 1600003030,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%  穿透率额外+2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%, additional Pierce Rate +2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次50%火力值的伤害，伤害有11%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 50% of Firepower with a 11% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 30,
         talent = {
             [1] = 72030,
@@ -3887,9 +3887,9 @@ return {
         id = 1600002007,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有6.2%概率发射2枚导弹攻击敌人，每次造成13.5%火力值的伤害！",
+        desc2 = "Has a 6.2% chance each turn to fire 2 missiles, each dealing DMG equal to 13.5% of Firepower!",
         level = 7,
         talent = {
             [1] = 71007,
@@ -3906,9 +3906,9 @@ return {
         id = 1600003031,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次51%火力值的伤害，伤害有11.2%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 51% of Firepower with a 11.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 31,
         talent = {
             [1] = 72031,
@@ -3927,9 +3927,9 @@ return {
         id = 1600002008,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有6.4%概率发射2枚导弹攻击敌人，每次造成14%火力值的伤害！",
+        desc2 = "Has a 6.4% chance each turn to fire 2 missiles, each dealing DMG equal to 14% of Firepower!",
         level = 8,
         talent = {
             [1] = 71008,
@@ -3946,9 +3946,9 @@ return {
         id = 1600003032,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次52%火力值的伤害，伤害有11.4%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 52% of Firepower with a 11.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 32,
         talent = {
             [1] = 72032,
@@ -3967,9 +3967,9 @@ return {
         id = 1600002009,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有6.6%概率发射2枚导弹攻击敌人，每次造成14.5%火力值的伤害！",
+        desc2 = "Has a 6.6% chance each turn to fire 2 missiles, each dealing DMG equal to 14.5% of Firepower!",
         level = 9,
         talent = {
             [1] = 71009,
@@ -3986,9 +3986,9 @@ return {
         id = 1600003033,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次53%火力值的伤害，伤害有11.6%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 53% of Firepower with a 11.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 33,
         talent = {
             [1] = 72033,
@@ -4007,9 +4007,9 @@ return {
         id = 1600002010,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%  触发概率额外+2%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%, additional Trigger Rate +2%",
         name = 0,
-        desc2 = "每回合有6.8%概率发射2枚导弹攻击敌人，每次造成15%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 6.8% chance each turn to fire 2 missiles, each dealing DMG equal to 15% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 10,
         talent = {
             [1] = 71010,
@@ -4028,9 +4028,9 @@ return {
         id = 1600003034,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次54%火力值的伤害，伤害有11.8%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 54% of Firepower with a 11.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 34,
         talent = {
             [1] = 72034,
@@ -4049,9 +4049,9 @@ return {
         id = 1600002011,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有7%概率发射2枚导弹攻击敌人，每次造成15.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 7% chance each turn to fire 2 missiles, each dealing DMG equal to 15.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 11,
         talent = {
             [1] = 71011,
@@ -4069,9 +4069,9 @@ return {
         id = 1600003035,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次55%火力值的伤害，伤害有12%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 55% of Firepower with a 12% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 35,
         talent = {
             [1] = 72035,
@@ -4092,9 +4092,9 @@ return {
         id = 1600002012,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有7.2%概率发射2枚导弹攻击敌人，每次造成16%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 7.2% chance each turn to fire 2 missiles, each dealing DMG equal to 16% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 12,
         talent = {
             [1] = 71012,
@@ -4112,9 +4112,9 @@ return {
         id = 1600003036,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次56%火力值的伤害，伤害有12.2%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 56% of Firepower with a 12.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 36,
         talent = {
             [1] = 72036,
@@ -4133,9 +4133,9 @@ return {
         id = 1600002013,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有7.4%概率发射2枚导弹攻击敌人，每次造成16.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 7.4% chance each turn to fire 2 missiles, each dealing DMG equal to 16.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 13,
         talent = {
             [1] = 71013,
@@ -4153,9 +4153,9 @@ return {
         id = 1600003037,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次57%火力值的伤害，伤害有12.4%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 57% of Firepower with a 12.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 37,
         talent = {
             [1] = 72037,
@@ -4174,9 +4174,9 @@ return {
         id = 1600217001,
         unlockSkill = {
         },
-        desc = "我方攻击有15%几率对敌人造成敌方当前生命值5%的伤害，冷却3回合。",
+        desc = "Ally attacks have a 15% chance to inflict damage equal to 5% of the enemy's current HP. CD: 3 turns",
         name = 0,
-        desc2 = "战斗中，我方攻击（包括护盾吸收）有15%几率对敌人造成敌方当前生命值5%的伤害，冷却3回合。",
+        desc2 = "In battle, ally attacks (including shield absorption) have a 15% chance to inflict damage equal to 5% of the enemy's current HP. CD: 3 turns",
         level = 1,
         talent = {
             [1] = 40017,
@@ -4190,9 +4190,9 @@ return {
         id = 1600002014,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有7.6%概率发射2枚导弹攻击敌人，每次造成17%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 7.6% chance each turn to fire 2 missiles, each dealing DMG equal to 17% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 14,
         talent = {
             [1] = 71014,
@@ -4210,9 +4210,9 @@ return {
         id = 1600003038,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次58%火力值的伤害，伤害有12.6%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 58% of Firepower with a 12.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 38,
         talent = {
             [1] = 72038,
@@ -4231,9 +4231,9 @@ return {
         id = 1600002015,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有7.8%概率发射2枚导弹攻击敌人，每次造成17.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 7.8% chance each turn to fire 2 missiles, each dealing DMG equal to 17.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 15,
         talent = {
             [1] = 71015,
@@ -4252,9 +4252,9 @@ return {
         id = 1600003039,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次59%火力值的伤害，伤害有12.8%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 59% of Firepower with a 12.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 39,
         talent = {
             [1] = 72039,
@@ -4273,9 +4273,9 @@ return {
         id = 1600002016,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有8%概率发射2枚导弹攻击敌人，每次造成18%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 8% chance each turn to fire 2 missiles, each dealing DMG equal to 18% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 16,
         talent = {
             [1] = 71016,
@@ -4294,9 +4294,9 @@ return {
         unlockSkill = {
             [1] = 65204,
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次60%火力值的伤害，伤害有13%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 60% of Firepower with a 13% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 40,
         talent = {
             [1] = 72040,
@@ -4318,9 +4318,9 @@ return {
         id = 1600002017,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有8.2%概率发射2枚导弹攻击敌人，每次造成18.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 8.2% chance each turn to fire 2 missiles, each dealing DMG equal to 18.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 17,
         talent = {
             [1] = 71017,
@@ -4338,9 +4338,9 @@ return {
         id = 1600102088,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升54%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +54% DEF!\nReduces DMG taken by an extra 4%.",
         level = 88,
         talent = {
             [1] = 74088,
@@ -4364,9 +4364,9 @@ return {
         id = 1600101065,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得23460点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 23460 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 65,
         talent = {
             [1] = 73065,
@@ -4390,9 +4390,9 @@ return {
         id = 1600003042,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次62%火力值的伤害，伤害有13.4%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 62% of Firepower with a 13.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 42,
         talent = {
             [1] = 72042,
@@ -4412,9 +4412,9 @@ return {
         id = 1600101066,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得23820点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 23820 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 66,
         talent = {
             [1] = 73066,
@@ -4436,9 +4436,9 @@ return {
         id = 1600003043,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次63%火力值的伤害，伤害有13.6%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 63% of Firepower with a 13.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 43,
         talent = {
             [1] = 72043,
@@ -4458,9 +4458,9 @@ return {
         id = 1600101067,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得24180点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 24180 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 67,
         talent = {
             [1] = 73067,
@@ -4482,9 +4482,9 @@ return {
         id = 1600003044,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次64%火力值的伤害，伤害有13.8%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 64% of Firepower with a 13.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 44,
         talent = {
             [1] = 72044,
@@ -4504,9 +4504,9 @@ return {
         id = 1600002021,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有9%概率发射4枚导弹攻击敌人，每次造成20.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 9% chance each turn to fire 4 missiles, each dealing DMG equal to 20.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 21,
         talent = {
             [1] = 71021,
@@ -4524,9 +4524,9 @@ return {
         id = 1600003045,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次65%火力值的伤害，伤害有14%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 65% of Firepower with a 14% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 45,
         talent = {
             [1] = 72045,
@@ -4548,9 +4548,9 @@ return {
         id = 1600002022,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有9.2%概率发射4枚导弹攻击敌人，每次造成21%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 9.2% chance each turn to fire 4 missiles, each dealing DMG equal to 21% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 22,
         talent = {
             [1] = 71022,
@@ -4568,9 +4568,9 @@ return {
         id = 1600003046,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次66%火力值的伤害，伤害有14.2%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 66% of Firepower with a 14.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 46,
         talent = {
             [1] = 72046,
@@ -4590,9 +4590,9 @@ return {
         id = 1600101070,
         unlockSkill = {
         },
-        desc = "护盾值+360  护盾值额外+3%",
+        desc = "Shield +360, additional Shield +3%",
         name = 0,
-        desc2 = "战斗开场获得25260点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 25260 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 70,
         talent = {
             [1] = 73070,
@@ -4616,9 +4616,9 @@ return {
         id = 1600102094,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升57%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +57% DEF!\nReduces DMG taken by an extra 5%.",
         level = 94,
         talent = {
             [1] = 74094,
@@ -4643,9 +4643,9 @@ return {
         id = 1600101071,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得25620点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 25620 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 71,
         talent = {
             [1] = 73071,
@@ -4668,9 +4668,9 @@ return {
         id = 1600003048,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次68%火力值的伤害，伤害有14.6%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 68% of Firepower with a 14.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 48,
         talent = {
             [1] = 72048,
@@ -4692,7 +4692,7 @@ return {
         },
         desc = "",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次101%火力值的伤害！",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 101% of Firepower!",
         level = 1,
         talent = {
             [1] = 70001,
@@ -4706,9 +4706,9 @@ return {
         id = 1600101072,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得25980点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 25980 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 72,
         talent = {
             [1] = 73072,
@@ -4731,9 +4731,9 @@ return {
         id = 1600003049,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次69%火力值的伤害，伤害有14.8%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 69% of Firepower with a 14.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 49,
         talent = {
             [1] = 72049,
@@ -4753,9 +4753,9 @@ return {
         id = 1600001002,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次102%火力值的伤害！",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 102% of Firepower!",
         level = 2,
         talent = {
             [1] = 70002,
@@ -4772,9 +4772,9 @@ return {
         id = 1600101073,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得26340点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 26340 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 73,
         talent = {
             [1] = 73073,
@@ -4797,9 +4797,9 @@ return {
         id = 1600003050,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%  穿透率额外+2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%, additional Pierce Rate +2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次70%火力值的伤害，伤害有15%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 70% of Firepower with a 15% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 50,
         talent = {
             [1] = 72050,
@@ -4822,9 +4822,9 @@ return {
         id = 1600001003,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次103%火力值的伤害！",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 103% of Firepower!",
         level = 3,
         talent = {
             [1] = 70003,
@@ -4841,9 +4841,9 @@ return {
         id = 1600101074,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得26700点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 26700 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 74,
         talent = {
             [1] = 73074,
@@ -4866,9 +4866,9 @@ return {
         id = 1600102098,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升59%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +59% DEF!\nReduces DMG taken by an extra 5%.",
         level = 98,
         talent = {
             [1] = 74098,
@@ -4893,9 +4893,9 @@ return {
         id = 1600001004,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次104%火力值的伤害！",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 104% of Firepower!",
         level = 4,
         talent = {
             [1] = 70004,
@@ -4912,9 +4912,9 @@ return {
         id = 1600101075,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得27060点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 27060 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 75,
         talent = {
             [1] = 73075,
@@ -4939,9 +4939,9 @@ return {
         id = 1600102099,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升59.5%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +59.5% DEF!\nReduces DMG taken by an extra 5%.",
         level = 99,
         talent = {
             [1] = 74099,
@@ -4966,9 +4966,9 @@ return {
         id = 1600001005,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次105%火力值的伤害！",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 105% of Firepower!",
         level = 5,
         talent = {
             [1] = 70005,
@@ -4986,9 +4986,9 @@ return {
         id = 1600101076,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得27420点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 27420 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 76,
         talent = {
             [1] = 73076,
@@ -5012,9 +5012,9 @@ return {
         unlockSkill = {
             [1] = 66110,
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升60%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +60% DEF!\nReduces DMG taken by an extra 5%.",
         level = 100,
         talent = {
             [1] = 74100,
@@ -5042,9 +5042,9 @@ return {
         id = 1600001006,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次106%火力值的伤害！",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 106% of Firepower!",
         level = 6,
         talent = {
             [1] = 70006,
@@ -5061,9 +5061,9 @@ return {
         id = 1600101077,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得27780点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 27780 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 77,
         talent = {
             [1] = 73077,
@@ -5086,9 +5086,9 @@ return {
         id = 1600003054,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次74%火力值的伤害，伤害有15.8%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 74% of Firepower with a 15.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 54,
         talent = {
             [1] = 72054,
@@ -5109,9 +5109,9 @@ return {
         id = 1600001007,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次107%火力值的伤害！",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 107% of Firepower!",
         level = 7,
         talent = {
             [1] = 70007,
@@ -5128,9 +5128,9 @@ return {
         id = 1600101078,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得28140点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 28140 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 78,
         talent = {
             [1] = 73078,
@@ -5153,9 +5153,9 @@ return {
         id = 1600003055,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次75%火力值的伤害，伤害有16%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 75% of Firepower with a 16% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 55,
         talent = {
             [1] = 72055,
@@ -5178,9 +5178,9 @@ return {
         id = 1600001008,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次108%火力值的伤害！",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 108% of Firepower!",
         level = 8,
         talent = {
             [1] = 70008,
@@ -5197,9 +5197,9 @@ return {
         id = 1600101079,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得28500点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 28500 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 79,
         talent = {
             [1] = 73079,
@@ -5222,9 +5222,9 @@ return {
         id = 1600003056,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次76%火力值的伤害，伤害有16.2%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 76% of Firepower with a 16.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 56,
         talent = {
             [1] = 72056,
@@ -5245,9 +5245,9 @@ return {
         id = 1600001009,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次109%火力值的伤害！",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 109% of Firepower!",
         level = 9,
         talent = {
             [1] = 70009,
@@ -5265,9 +5265,9 @@ return {
         unlockSkill = {
             [1] = 66008,
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得28860点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 28860 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 80,
         talent = {
             [1] = 73080,
@@ -5293,9 +5293,9 @@ return {
         id = 1600003057,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次77%火力值的伤害，伤害有16.4%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 77% of Firepower with a 16.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 57,
         talent = {
             [1] = 72057,
@@ -5316,9 +5316,9 @@ return {
         id = 1600001010,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  无视敌人偏斜率+2%",
+        desc = "DMG Ratio +1%, Enemy Deflection Rate Ignored +2%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次110%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 110% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 10,
         talent = {
             [1] = 70010,
@@ -5337,9 +5337,9 @@ return {
         id = 1600101081,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得29220点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 29220 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 81,
         talent = {
             [1] = 73081,
@@ -5363,9 +5363,9 @@ return {
         id = 1600003058,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次78%火力值的伤害，伤害有16.6%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 78% of Firepower with a 16.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 58,
         talent = {
             [1] = 72058,
@@ -5386,9 +5386,9 @@ return {
         id = 1600001011,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次111%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 111% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 11,
         talent = {
             [1] = 70011,
@@ -5406,9 +5406,9 @@ return {
         id = 1600002035,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有11.8%概率发射4枚导弹攻击敌人，每次造成27.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 11.8% chance each turn to fire 4 missiles, each dealing DMG equal to 27.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 35,
         talent = {
             [1] = 71035,
@@ -5429,9 +5429,9 @@ return {
         id = 1600003059,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次79%火力值的伤害，伤害有16.8%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 79% of Firepower with a 16.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 59,
         talent = {
             [1] = 72059,
@@ -5452,9 +5452,9 @@ return {
         id = 1600001012,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次112%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 112% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 12,
         talent = {
             [1] = 70012,
@@ -5472,9 +5472,9 @@ return {
         id = 1600002036,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有12%概率发射4枚导弹攻击敌人，每次造成28%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 12% chance each turn to fire 4 missiles, each dealing DMG equal to 28% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 36,
         talent = {
             [1] = 71036,
@@ -5494,9 +5494,9 @@ return {
         unlockSkill = {
             [1] = 65206,
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次80%火力值的伤害，伤害有17%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 80% of Firepower with a 17% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 60,
         talent = {
             [1] = 72060,
@@ -5519,9 +5519,9 @@ return {
         id = 1600001013,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次113%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 113% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 13,
         talent = {
             [1] = 70013,
@@ -5539,9 +5539,9 @@ return {
         id = 1600002037,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有12.2%概率发射4枚导弹攻击敌人，每次造成28.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 12.2% chance each turn to fire 4 missiles, each dealing DMG equal to 28.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 37,
         talent = {
             [1] = 71037,
@@ -5560,9 +5560,9 @@ return {
         id = 1600003061,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次81%火力值的伤害，伤害有17.2%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 81% of Firepower with a 17.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 61,
         talent = {
             [1] = 72061,
@@ -5583,9 +5583,9 @@ return {
         id = 1600001014,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次114%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 114% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 14,
         talent = {
             [1] = 70014,
@@ -5603,9 +5603,9 @@ return {
         id = 1600002038,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有12.4%概率发射4枚导弹攻击敌人，每次造成29%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 12.4% chance each turn to fire 4 missiles, each dealing DMG equal to 29% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 38,
         talent = {
             [1] = 71038,
@@ -5624,9 +5624,9 @@ return {
         id = 1600003062,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次82%火力值的伤害，伤害有17.4%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 82% of Firepower with a 17.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 62,
         talent = {
             [1] = 72062,
@@ -5647,9 +5647,9 @@ return {
         id = 1600001015,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次115%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 115% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 15,
         talent = {
             [1] = 70015,
@@ -5668,9 +5668,9 @@ return {
         id = 1600002039,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有12.6%概率发射4枚导弹攻击敌人，每次造成29.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 12.6% chance each turn to fire 4 missiles, each dealing DMG equal to 29.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 39,
         talent = {
             [1] = 71039,
@@ -5689,9 +5689,9 @@ return {
         id = 1600003063,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次83%火力值的伤害，伤害有17.6%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 83% of Firepower with a 17.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 63,
         talent = {
             [1] = 72063,
@@ -5712,9 +5712,9 @@ return {
         id = 1600001016,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次116%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 116% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 16,
         talent = {
             [1] = 70016,
@@ -5733,9 +5733,9 @@ return {
         unlockSkill = {
             [1] = 65104,
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有12.8%概率发射4枚导弹攻击敌人，每次造成30%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 12.8% chance each turn to fire 4 missiles, each dealing DMG equal to 30% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 40,
         talent = {
             [1] = 71040,
@@ -5757,9 +5757,9 @@ return {
         id = 1600003064,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次84%火力值的伤害，伤害有17.8%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 84% of Firepower with a 17.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 64,
         talent = {
             [1] = 72064,
@@ -5780,9 +5780,9 @@ return {
         id = 1600001017,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次117%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 117% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 17,
         talent = {
             [1] = 70017,
@@ -5800,9 +5800,9 @@ return {
         id = 1600002041,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有13%概率发射4枚导弹攻击敌人，每次造成30.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 13% chance each turn to fire 4 missiles, each dealing DMG equal to 30.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 41,
         talent = {
             [1] = 71041,
@@ -5822,9 +5822,9 @@ return {
         id = 1600003065,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次85%火力值的伤害，伤害有18%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 85% of Firepower with a 18% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 65,
         talent = {
             [1] = 72065,
@@ -5847,9 +5847,9 @@ return {
         id = 1600001018,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次118%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 118% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 18,
         talent = {
             [1] = 70018,
@@ -5867,9 +5867,9 @@ return {
         id = 1600002042,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有13.2%概率发射4枚导弹攻击敌人，每次造成31%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 13.2% chance each turn to fire 4 missiles, each dealing DMG equal to 31% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 42,
         talent = {
             [1] = 71042,
@@ -5889,9 +5889,9 @@ return {
         id = 1600003066,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次86%火力值的伤害，伤害有18.2%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 86% of Firepower with a 18.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 66,
         talent = {
             [1] = 72066,
@@ -5912,9 +5912,9 @@ return {
         id = 1600001019,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次119%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 119% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 19,
         talent = {
             [1] = 70019,
@@ -5932,9 +5932,9 @@ return {
         id = 1600002043,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有13.4%概率发射4枚导弹攻击敌人，每次造成31.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 13.4% chance each turn to fire 4 missiles, each dealing DMG equal to 31.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 43,
         talent = {
             [1] = 71043,
@@ -5954,9 +5954,9 @@ return {
         id = 1600003067,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次87%火力值的伤害，伤害有18.4%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 87% of Firepower with a 18.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 67,
         talent = {
             [1] = 72067,
@@ -5978,9 +5978,9 @@ return {
         unlockSkill = {
             [1] = 65002,
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次120%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 120% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 20,
         talent = {
             [1] = 70020,
@@ -6000,9 +6000,9 @@ return {
         id = 1600002044,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有13.6%概率发射4枚导弹攻击敌人，每次造成32%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 13.6% chance each turn to fire 4 missiles, each dealing DMG equal to 32% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 44,
         talent = {
             [1] = 71044,
@@ -6022,9 +6022,9 @@ return {
         id = 1600003068,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次88%火力值的伤害，伤害有18.6%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 88% of Firepower with a 18.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 68,
         talent = {
             [1] = 72068,
@@ -6045,9 +6045,9 @@ return {
         id = 1600001021,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次121%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 121% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 21,
         talent = {
             [1] = 70021,
@@ -6066,9 +6066,9 @@ return {
         id = 1600002045,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有13.8%概率发射4枚导弹攻击敌人，每次造成32.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 13.8% chance each turn to fire 4 missiles, each dealing DMG equal to 32.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 45,
         talent = {
             [1] = 71045,
@@ -6090,9 +6090,9 @@ return {
         id = 1600003069,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次89%火力值的伤害，伤害有18.8%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 89% of Firepower with a 18.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 69,
         talent = {
             [1] = 72069,
@@ -6113,9 +6113,9 @@ return {
         id = 1600001022,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次122%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 122% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 22,
         talent = {
             [1] = 70022,
@@ -6134,9 +6134,9 @@ return {
         id = 1600002046,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有14%概率发射4枚导弹攻击敌人，每次造成33%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 14% chance each turn to fire 4 missiles, each dealing DMG equal to 33% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 46,
         talent = {
             [1] = 71046,
@@ -6156,9 +6156,9 @@ return {
         id = 1600003070,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%  穿透率额外+2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%, additional Pierce Rate +2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次90%火力值的伤害，伤害有19%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 90% of Firepower with a 19% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 70,
         talent = {
             [1] = 72070,
@@ -6181,9 +6181,9 @@ return {
         id = 1600001023,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次123%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 123% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 23,
         talent = {
             [1] = 70023,
@@ -6202,9 +6202,9 @@ return {
         id = 1600002047,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有14.2%概率发射4枚导弹攻击敌人，每次造成33.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 14.2% chance each turn to fire 4 missiles, each dealing DMG equal to 33.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 47,
         talent = {
             [1] = 71047,
@@ -6224,9 +6224,9 @@ return {
         id = 1600003071,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次91%火力值的伤害，伤害有19.2%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 91% of Firepower with a 19.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 71,
         talent = {
             [1] = 72071,
@@ -6248,9 +6248,9 @@ return {
         id = 1600001024,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次124%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 124% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 24,
         talent = {
             [1] = 70024,
@@ -6269,9 +6269,9 @@ return {
         id = 1600002048,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有14.4%概率发射4枚导弹攻击敌人，每次造成34%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 14.4% chance each turn to fire 4 missiles, each dealing DMG equal to 34% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 48,
         talent = {
             [1] = 71048,
@@ -6291,9 +6291,9 @@ return {
         id = 1600003072,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次92%火力值的伤害，伤害有19.4%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 92% of Firepower with a 19.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 72,
         talent = {
             [1] = 72072,
@@ -6315,9 +6315,9 @@ return {
         id = 1600001025,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次125%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 125% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 25,
         talent = {
             [1] = 70025,
@@ -6337,9 +6337,9 @@ return {
         id = 1600002049,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有14.6%概率发射4枚导弹攻击敌人，每次造成34.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 14.6% chance each turn to fire 4 missiles, each dealing DMG equal to 34.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 49,
         talent = {
             [1] = 71049,
@@ -6359,9 +6359,9 @@ return {
         id = 1600003073,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次93%火力值的伤害，伤害有19.6%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 93% of Firepower with a 19.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 73,
         talent = {
             [1] = 72073,
@@ -6383,9 +6383,9 @@ return {
         id = 1600101097,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得34980点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 34980 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 97,
         talent = {
             [1] = 73097,
@@ -6410,9 +6410,9 @@ return {
         id = 1600002050,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%  触发概率额外+2%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%, additional Trigger Rate +2%",
         name = 0,
-        desc2 = "每回合有14.8%概率发射4枚导弹攻击敌人，每次造成35%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 14.8% chance each turn to fire 4 missiles, each dealing DMG equal to 35% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 50,
         talent = {
             [1] = 71050,
@@ -6435,9 +6435,9 @@ return {
         id = 1600003074,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次94%火力值的伤害，伤害有19.8%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 94% of Firepower with a 19.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 74,
         talent = {
             [1] = 72074,
@@ -6459,9 +6459,9 @@ return {
         id = 1600101098,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得35340点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 35340 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 98,
         talent = {
             [1] = 73098,
@@ -6486,9 +6486,9 @@ return {
         id = 1600002051,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有15%概率发射4枚导弹攻击敌人，每次造成35.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 15% chance each turn to fire 4 missiles, each dealing DMG equal to 35.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 51,
         talent = {
             [1] = 71051,
@@ -6509,9 +6509,9 @@ return {
         id = 1600003075,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次95%火力值的伤害，伤害有20%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 95% of Firepower with a 20% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 75,
         talent = {
             [1] = 72075,
@@ -6535,9 +6535,9 @@ return {
         id = 1600101099,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得35700点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 35700 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 99,
         talent = {
             [1] = 73099,
@@ -6562,9 +6562,9 @@ return {
         id = 1600002052,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有15.2%概率发射4枚导弹攻击敌人，每次造成36%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 15.2% chance each turn to fire 4 missiles, each dealing DMG equal to 36% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 52,
         talent = {
             [1] = 71052,
@@ -6585,9 +6585,9 @@ return {
         id = 1600003076,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次96%火力值的伤害，伤害有20.2%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 96% of Firepower with a 20.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 76,
         talent = {
             [1] = 72076,
@@ -6610,9 +6610,9 @@ return {
         unlockSkill = {
             [1] = 66010,
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得36060点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 36060 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 100,
         talent = {
             [1] = 73100,
@@ -6640,9 +6640,9 @@ return {
         id = 1600002053,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有15.4%概率发射4枚导弹攻击敌人，每次造成36.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 15.4% chance each turn to fire 4 missiles, each dealing DMG equal to 36.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 53,
         talent = {
             [1] = 71053,
@@ -6663,9 +6663,9 @@ return {
         id = 1600003077,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次97%火力值的伤害，伤害有20.4%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 97% of Firepower with a 20.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 77,
         talent = {
             [1] = 72077,
@@ -6687,9 +6687,9 @@ return {
         id = 1600001030,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  无视敌人偏斜率+2%",
+        desc = "DMG Ratio +1%, Enemy Deflection Rate Ignored +2%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次130%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 130% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 30,
         talent = {
             [1] = 70030,
@@ -6710,9 +6710,9 @@ return {
         id = 1600002054,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有15.6%概率发射4枚导弹攻击敌人，每次造成37%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 15.6% chance each turn to fire 4 missiles, each dealing DMG equal to 37% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 54,
         talent = {
             [1] = 71054,
@@ -6733,9 +6733,9 @@ return {
         id = 1600003078,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次98%火力值的伤害，伤害有20.6%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 98% of Firepower with a 20.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 78,
         talent = {
             [1] = 72078,
@@ -6757,9 +6757,9 @@ return {
         id = 1600001031,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次131%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 131% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 31,
         talent = {
             [1] = 70031,
@@ -6779,9 +6779,9 @@ return {
         id = 1600002055,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有15.8%概率发射4枚导弹攻击敌人，每次造成37.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 15.8% chance each turn to fire 4 missiles, each dealing DMG equal to 37.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 55,
         talent = {
             [1] = 71055,
@@ -6804,9 +6804,9 @@ return {
         id = 1600003079,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次99%火力值的伤害，伤害有20.8%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 99% of Firepower with a 20.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 79,
         talent = {
             [1] = 72079,
@@ -6828,9 +6828,9 @@ return {
         id = 1600001032,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次132%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 132% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 32,
         talent = {
             [1] = 70032,
@@ -6850,9 +6850,9 @@ return {
         id = 1600002056,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有16%概率发射4枚导弹攻击敌人，每次造成38%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 16% chance each turn to fire 4 missiles, each dealing DMG equal to 38% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 56,
         talent = {
             [1] = 71056,
@@ -6874,9 +6874,9 @@ return {
         unlockSkill = {
             [1] = 65208,
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次100%火力值的伤害，伤害有21%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 100% of Firepower with a 21% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 80,
         talent = {
             [1] = 72080,
@@ -6901,9 +6901,9 @@ return {
         id = 1600001033,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次133%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 133% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 33,
         talent = {
             [1] = 70033,
@@ -6923,9 +6923,9 @@ return {
         id = 1600002057,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有16.2%概率发射4枚导弹攻击敌人，每次造成38.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 16.2% chance each turn to fire 4 missiles, each dealing DMG equal to 38.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 57,
         talent = {
             [1] = 71057,
@@ -6946,9 +6946,9 @@ return {
         id = 1600003081,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次101%火力值的伤害，伤害有21.2%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 101% of Firepower with a 21.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 81,
         talent = {
             [1] = 72081,
@@ -6971,9 +6971,9 @@ return {
         id = 1600001034,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次134%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 134% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 34,
         talent = {
             [1] = 70034,
@@ -6993,9 +6993,9 @@ return {
         id = 1600002058,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有16.4%概率发射4枚导弹攻击敌人，每次造成39%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 16.4% chance each turn to fire 4 missiles, each dealing DMG equal to 39% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 58,
         talent = {
             [1] = 71058,
@@ -7016,9 +7016,9 @@ return {
         id = 1600003082,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次102%火力值的伤害，伤害有21.4%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 102% of Firepower with a 21.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 82,
         talent = {
             [1] = 72082,
@@ -7041,9 +7041,9 @@ return {
         id = 1600001035,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次135%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 135% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 35,
         talent = {
             [1] = 70035,
@@ -7065,9 +7065,9 @@ return {
         id = 1600002059,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有16.6%概率发射4枚导弹攻击敌人，每次造成39.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 16.6% chance each turn to fire 4 missiles, each dealing DMG equal to 39.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 59,
         talent = {
             [1] = 71059,
@@ -7088,9 +7088,9 @@ return {
         id = 1600003083,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次103%火力值的伤害，伤害有21.6%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 103% of Firepower with a 21.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 83,
         talent = {
             [1] = 72083,
@@ -7113,9 +7113,9 @@ return {
         id = 1600001036,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次136%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 136% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 36,
         talent = {
             [1] = 70036,
@@ -7136,9 +7136,9 @@ return {
         unlockSkill = {
             [1] = 65106,
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有16.8%概率发射6枚导弹攻击敌人，每次造成40%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 16.8% chance each turn to fire 6 missiles, each dealing DMG equal to 40% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 60,
         talent = {
             [1] = 71060,
@@ -7161,9 +7161,9 @@ return {
         id = 1600003084,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次104%火力值的伤害，伤害有21.8%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 104% of Firepower with a 21.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 84,
         talent = {
             [1] = 72084,
@@ -7186,9 +7186,9 @@ return {
         id = 1600001037,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次137%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 137% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 37,
         talent = {
             [1] = 70037,
@@ -7208,9 +7208,9 @@ return {
         id = 1600002061,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有17%概率发射6枚导弹攻击敌人，每次造成40.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 17% chance each turn to fire 6 missiles, each dealing DMG equal to 40.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 61,
         talent = {
             [1] = 71061,
@@ -7231,9 +7231,9 @@ return {
         id = 1600003085,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次105%火力值的伤害，伤害有22%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 105% of Firepower with a 22% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 85,
         talent = {
             [1] = 72085,
@@ -7258,9 +7258,9 @@ return {
         id = 1600001038,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次138%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 138% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 38,
         talent = {
             [1] = 70038,
@@ -7280,9 +7280,9 @@ return {
         id = 1600002062,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有17.2%概率发射6枚导弹攻击敌人，每次造成41%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 17.2% chance each turn to fire 6 missiles, each dealing DMG equal to 41% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 62,
         talent = {
             [1] = 71062,
@@ -7303,9 +7303,9 @@ return {
         id = 1600003086,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次106%火力值的伤害，伤害有22.2%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 106% of Firepower with a 22.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 86,
         talent = {
             [1] = 72086,
@@ -7328,9 +7328,9 @@ return {
         id = 1600001039,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次139%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 139% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 39,
         talent = {
             [1] = 70039,
@@ -7350,9 +7350,9 @@ return {
         id = 1600002063,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有17.4%概率发射6枚导弹攻击敌人，每次造成41.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 17.4% chance each turn to fire 6 missiles, each dealing DMG equal to 41.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 63,
         talent = {
             [1] = 71063,
@@ -7373,9 +7373,9 @@ return {
         id = 1600003087,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次107%火力值的伤害，伤害有22.4%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 107% of Firepower with a 22.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 87,
         talent = {
             [1] = 72087,
@@ -7399,9 +7399,9 @@ return {
         unlockSkill = {
             [1] = 65004,
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次140%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 140% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 40,
         talent = {
             [1] = 70040,
@@ -7424,9 +7424,9 @@ return {
         id = 1600002064,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有17.6%概率发射6枚导弹攻击敌人，每次造成42%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 17.6% chance each turn to fire 6 missiles, each dealing DMG equal to 42% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 64,
         talent = {
             [1] = 71064,
@@ -7447,9 +7447,9 @@ return {
         id = 1600003088,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次108%火力值的伤害，伤害有22.6%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 108% of Firepower with a 22.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 88,
         talent = {
             [1] = 72088,
@@ -7472,9 +7472,9 @@ return {
         id = 1600001041,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次141%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 141% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 41,
         talent = {
             [1] = 70041,
@@ -7495,9 +7495,9 @@ return {
         id = 1600002065,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有17.8%概率发射6枚导弹攻击敌人，每次造成42.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 17.8% chance each turn to fire 6 missiles, each dealing DMG equal to 42.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 65,
         talent = {
             [1] = 71065,
@@ -7520,9 +7520,9 @@ return {
         id = 1600003089,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次109%火力值的伤害，伤害有22.8%概率触发穿透！\n额外穿透率增加8%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 109% of Firepower with a 22.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 8%.",
         level = 89,
         talent = {
             [1] = 72089,
@@ -7545,9 +7545,9 @@ return {
         id = 1600001042,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次142%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 142% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 42,
         talent = {
             [1] = 70042,
@@ -7568,9 +7568,9 @@ return {
         id = 1600002066,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有18%概率发射6枚导弹攻击敌人，每次造成43%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 18% chance each turn to fire 6 missiles, each dealing DMG equal to 43% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 66,
         talent = {
             [1] = 71066,
@@ -7591,9 +7591,9 @@ return {
         id = 1600003090,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%  穿透率额外+2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%, additional Pierce Rate +2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次110%火力值的伤害，伤害有23%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 110% of Firepower with a 23% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 90,
         talent = {
             [1] = 72090,
@@ -7619,9 +7619,9 @@ return {
         id = 1600204001,
         unlockSkill = {
         },
-        desc = "探索中，额外有5%的概率掉落武器舱升级材料[能源石]",
+        desc = "While exploring, provides an extra 5% chance to drop Weapons Cabin Upgrade Material [Energy Stone]",
         name = 0,
-        desc2 = "探索中，额外有5%的概率掉落武器舱升级材料[能源石]",
+        desc2 = "While exploring, provides an extra 5% chance to drop Weapons Cabin Upgrade Material [Energy Stone]",
         level = 1,
         talent = {
             [1] = 40004,
@@ -7635,9 +7635,9 @@ return {
         id = 1600001043,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次143%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 143% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 43,
         talent = {
             [1] = 70043,
@@ -7658,9 +7658,9 @@ return {
         id = 1600002067,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有18.2%概率发射6枚导弹攻击敌人，每次造成43.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 18.2% chance each turn to fire 6 missiles, each dealing DMG equal to 43.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 67,
         talent = {
             [1] = 71067,
@@ -7681,9 +7681,9 @@ return {
         id = 1600003091,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次111%火力值的伤害，伤害有23.2%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 111% of Firepower with a 23.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 91,
         talent = {
             [1] = 72091,
@@ -7707,9 +7707,9 @@ return {
         id = 1600001044,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次144%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 144% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 44,
         talent = {
             [1] = 70044,
@@ -7730,9 +7730,9 @@ return {
         id = 1600002068,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有18.4%概率发射6枚导弹攻击敌人，每次造成44%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 18.4% chance each turn to fire 6 missiles, each dealing DMG equal to 44% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 68,
         talent = {
             [1] = 71068,
@@ -7753,9 +7753,9 @@ return {
         id = 1600003092,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次112%火力值的伤害，伤害有23.4%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 112% of Firepower with a 23.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 92,
         talent = {
             [1] = 72092,
@@ -7779,9 +7779,9 @@ return {
         id = 1600001045,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次145%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 145% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 45,
         talent = {
             [1] = 70045,
@@ -7804,9 +7804,9 @@ return {
         id = 1600002069,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有18.6%概率发射6枚导弹攻击敌人，每次造成44.5%火力值的伤害！\n触发概率额外增加6%",
+        desc2 = "Has a 18.6% chance each turn to fire 6 missiles, each dealing DMG equal to 44.5% of Firepower!\nIncreases Trigger Rate by an additional 6%.",
         level = 69,
         talent = {
             [1] = 71069,
@@ -7827,9 +7827,9 @@ return {
         id = 1600003093,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次113%火力值的伤害，伤害有23.6%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 113% of Firepower with a 23.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 93,
         talent = {
             [1] = 72093,
@@ -7853,9 +7853,9 @@ return {
         id = 1600001046,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次146%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 146% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 46,
         talent = {
             [1] = 70046,
@@ -7876,9 +7876,9 @@ return {
         id = 1600002070,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%  触发概率额外+2%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%, additional Trigger Rate +2%",
         name = 0,
-        desc2 = "每回合有18.8%概率发射6枚导弹攻击敌人，每次造成45%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 18.8% chance each turn to fire 6 missiles, each dealing DMG equal to 45% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 70,
         talent = {
             [1] = 71070,
@@ -7901,9 +7901,9 @@ return {
         id = 1600003094,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次114%火力值的伤害，伤害有23.8%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 114% of Firepower with a 23.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 94,
         talent = {
             [1] = 72094,
@@ -7927,9 +7927,9 @@ return {
         id = 1600001047,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次147%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 147% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 47,
         talent = {
             [1] = 70047,
@@ -7950,9 +7950,9 @@ return {
         id = 1600002071,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有19%概率发射6枚导弹攻击敌人，每次造成45.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 19% chance each turn to fire 6 missiles, each dealing DMG equal to 45.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 71,
         talent = {
             [1] = 71071,
@@ -7974,9 +7974,9 @@ return {
         id = 1600003095,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次115%火力值的伤害，伤害有24%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 115% of Firepower with a 24% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 95,
         talent = {
             [1] = 72095,
@@ -8002,9 +8002,9 @@ return {
         id = 1600001048,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次148%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 148% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 48,
         talent = {
             [1] = 70048,
@@ -8025,9 +8025,9 @@ return {
         id = 1600002072,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有19.2%概率发射6枚导弹攻击敌人，每次造成46%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 19.2% chance each turn to fire 6 missiles, each dealing DMG equal to 46% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 72,
         talent = {
             [1] = 71072,
@@ -8049,9 +8049,9 @@ return {
         id = 1600003096,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次116%火力值的伤害，伤害有24.2%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 116% of Firepower with a 24.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 96,
         talent = {
             [1] = 72096,
@@ -8075,9 +8075,9 @@ return {
         id = 1600001049,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次149%火力值的伤害！\n无视敌人偏斜率4%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 149% of Firepower!\nIgnores 4% of enemy Deflection Rate.",
         level = 49,
         talent = {
             [1] = 70049,
@@ -8098,9 +8098,9 @@ return {
         id = 1600002073,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有19.4%概率发射6枚导弹攻击敌人，每次造成46.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 19.4% chance each turn to fire 6 missiles, each dealing DMG equal to 46.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 73,
         talent = {
             [1] = 71073,
@@ -8122,9 +8122,9 @@ return {
         id = 1600003097,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次117%火力值的伤害，伤害有24.4%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 117% of Firepower with a 24.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 97,
         talent = {
             [1] = 72097,
@@ -8148,9 +8148,9 @@ return {
         id = 1600001050,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  无视敌人偏斜率+2%",
+        desc = "DMG Ratio +1%, Enemy Deflection Rate Ignored +2%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次150%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 150% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 50,
         talent = {
             [1] = 70050,
@@ -8174,9 +8174,9 @@ return {
         id = 1600002074,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有19.6%概率发射6枚导弹攻击敌人，每次造成47%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 19.6% chance each turn to fire 6 missiles, each dealing DMG equal to 47% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 74,
         talent = {
             [1] = 71074,
@@ -8198,9 +8198,9 @@ return {
         id = 1600003098,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次118%火力值的伤害，伤害有24.6%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 118% of Firepower with a 24.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 98,
         talent = {
             [1] = 72098,
@@ -8224,9 +8224,9 @@ return {
         id = 1600001051,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次151%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 151% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 51,
         talent = {
             [1] = 70051,
@@ -8248,9 +8248,9 @@ return {
         id = 1600002075,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有19.8%概率发射6枚导弹攻击敌人，每次造成47.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 19.8% chance each turn to fire 6 missiles, each dealing DMG equal to 47.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 75,
         talent = {
             [1] = 71075,
@@ -8274,9 +8274,9 @@ return {
         id = 1600003099,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次119%火力值的伤害，伤害有24.8%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 119% of Firepower with a 24.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 99,
         talent = {
             [1] = 72099,
@@ -8300,9 +8300,9 @@ return {
         id = 1600001052,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次152%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 152% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 52,
         talent = {
             [1] = 70052,
@@ -8324,9 +8324,9 @@ return {
         id = 1600002076,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有20%概率发射6枚导弹攻击敌人，每次造成48%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 20% chance each turn to fire 6 missiles, each dealing DMG equal to 48% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 76,
         talent = {
             [1] = 71076,
@@ -8349,9 +8349,9 @@ return {
         unlockSkill = {
             [1] = 65210,
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成3次120%火力值的伤害，伤害有25%概率触发穿透！\n额外穿透率增加10%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 3 attacks that deals DMG equal to 120% of Firepower with a 25% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 10%.",
         level = 100,
         talent = {
             [1] = 72100,
@@ -8378,9 +8378,9 @@ return {
         id = 1600001053,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次153%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 153% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 53,
         talent = {
             [1] = 70053,
@@ -8402,9 +8402,9 @@ return {
         id = 1600002077,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有20.2%概率发射6枚导弹攻击敌人，每次造成48.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 20.2% chance each turn to fire 6 missiles, each dealing DMG equal to 48.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 77,
         talent = {
             [1] = 71077,
@@ -8426,9 +8426,9 @@ return {
         id = 1600001054,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次154%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 154% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 54,
         talent = {
             [1] = 70054,
@@ -8450,9 +8450,9 @@ return {
         id = 1600002078,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有20.4%概率发射6枚导弹攻击敌人，每次造成49%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 20.4% chance each turn to fire 6 missiles, each dealing DMG equal to 49% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 78,
         talent = {
             [1] = 71078,
@@ -8474,9 +8474,9 @@ return {
         id = 1600001055,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次155%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 155% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 55,
         talent = {
             [1] = 70055,
@@ -8500,9 +8500,9 @@ return {
         id = 1600002079,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有20.6%概率发射6枚导弹攻击敌人，每次造成49.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 20.6% chance each turn to fire 6 missiles, each dealing DMG equal to 49.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 79,
         talent = {
             [1] = 71079,
@@ -8524,9 +8524,9 @@ return {
         id = 1600001056,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次156%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 156% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 56,
         talent = {
             [1] = 70056,
@@ -8549,9 +8549,9 @@ return {
         unlockSkill = {
             [1] = 65108,
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有20.8%概率发射6枚导弹攻击敌人，每次造成50%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 20.8% chance each turn to fire 6 missiles, each dealing DMG equal to 50% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 80,
         talent = {
             [1] = 71080,
@@ -8576,9 +8576,9 @@ return {
         id = 1600001057,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次157%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 157% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 57,
         talent = {
             [1] = 70057,
@@ -8600,9 +8600,9 @@ return {
         id = 1600002081,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有21%概率发射6枚导弹攻击敌人，每次造成50.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 21% chance each turn to fire 6 missiles, each dealing DMG equal to 50.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 81,
         talent = {
             [1] = 71081,
@@ -8625,9 +8625,9 @@ return {
         id = 1600001058,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次158%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 158% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 58,
         talent = {
             [1] = 70058,
@@ -8649,9 +8649,9 @@ return {
         id = 1600002082,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有21.2%概率发射6枚导弹攻击敌人，每次造成51%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 21.2% chance each turn to fire 6 missiles, each dealing DMG equal to 51% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 82,
         talent = {
             [1] = 71082,
@@ -8674,9 +8674,9 @@ return {
         id = 1600001059,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次159%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 159% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 59,
         talent = {
             [1] = 70059,
@@ -8698,9 +8698,9 @@ return {
         id = 1600002083,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有21.4%概率发射6枚导弹攻击敌人，每次造成51.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 21.4% chance each turn to fire 6 missiles, each dealing DMG equal to 51.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 83,
         talent = {
             [1] = 71083,
@@ -8724,9 +8724,9 @@ return {
         unlockSkill = {
             [1] = 65006,
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次160%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 160% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 60,
         talent = {
             [1] = 70060,
@@ -8751,9 +8751,9 @@ return {
         id = 1600002084,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有21.6%概率发射6枚导弹攻击敌人，每次造成52%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 21.6% chance each turn to fire 6 missiles, each dealing DMG equal to 52% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 84,
         talent = {
             [1] = 71084,
@@ -8776,9 +8776,9 @@ return {
         id = 1600214001,
         unlockSkill = {
         },
-        desc = "战斗中，我方护盾破损时，降低敌人火力值20%，持续3回合，冷却5回合。",
+        desc = "When an ally shield is broken in battle, reduces the enemy's Firepower by 20% for 3 turns. CD: 5 turns",
         name = 0,
-        desc2 = "战斗中，我方护盾破损时，降低敌人火力值20%，持续3回合，冷却5回合。",
+        desc2 = "When an ally shield is broken in battle, reduces the enemy's Firepower by 20% for 3 turns. CD: 5 turns",
         level = 1,
         talent = {
             [1] = 40014,
@@ -8792,9 +8792,9 @@ return {
         id = 1600001061,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次161%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 161% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 61,
         talent = {
             [1] = 70061,
@@ -8817,9 +8817,9 @@ return {
         id = 1600002085,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有21.8%概率发射6枚导弹攻击敌人，每次造成52.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 21.8% chance each turn to fire 6 missiles, each dealing DMG equal to 52.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 85,
         talent = {
             [1] = 71085,
@@ -8844,9 +8844,9 @@ return {
         id = 1600001062,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次162%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 162% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 62,
         talent = {
             [1] = 70062,
@@ -8869,9 +8869,9 @@ return {
         id = 1600002086,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有22%概率发射6枚导弹攻击敌人，每次造成53%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 22% chance each turn to fire 6 missiles, each dealing DMG equal to 53% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 86,
         talent = {
             [1] = 71086,
@@ -8894,9 +8894,9 @@ return {
         id = 1600001063,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次163%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 163% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 63,
         talent = {
             [1] = 70063,
@@ -8919,9 +8919,9 @@ return {
         id = 1600002087,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有22.2%概率发射6枚导弹攻击敌人，每次造成53.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 22.2% chance each turn to fire 6 missiles, each dealing DMG equal to 53.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 87,
         talent = {
             [1] = 71087,
@@ -8944,9 +8944,9 @@ return {
         id = 1600001064,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次164%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 164% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 64,
         talent = {
             [1] = 70064,
@@ -8969,9 +8969,9 @@ return {
         id = 1600002088,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有22.4%概率发射6枚导弹攻击敌人，每次造成54%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 22.4% chance each turn to fire 6 missiles, each dealing DMG equal to 54% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 88,
         talent = {
             [1] = 71088,
@@ -8994,9 +8994,9 @@ return {
         id = 1600001065,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次165%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 165% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 65,
         talent = {
             [1] = 70065,
@@ -9021,9 +9021,9 @@ return {
         id = 1600002089,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有22.6%概率发射6枚导弹攻击敌人，每次造成54.5%火力值的伤害！\n触发概率额外增加8%",
+        desc2 = "Has a 22.6% chance each turn to fire 6 missiles, each dealing DMG equal to 54.5% of Firepower!\nIncreases Trigger Rate by an additional 8%.",
         level = 89,
         talent = {
             [1] = 71089,
@@ -9046,9 +9046,9 @@ return {
         id = 1600001066,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次166%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 166% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 66,
         talent = {
             [1] = 70066,
@@ -9071,9 +9071,9 @@ return {
         id = 1600002090,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%  触发概率额外+2%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%, additional Trigger Rate +2%",
         name = 0,
-        desc2 = "每回合有22.8%概率发射6枚导弹攻击敌人，每次造成55%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 22.8% chance each turn to fire 6 missiles, each dealing DMG equal to 55% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 90,
         talent = {
             [1] = 71090,
@@ -9099,9 +9099,9 @@ return {
         id = 1600203001,
         unlockSkill = {
         },
-        desc = "探索中，额外有5%的概率掉落指挥舱升级材料[传输晶管]",
+        desc = "While exploring, provides an extra 5% chance to drop Command Cabin Upgrade Material [Transmission Tube]",
         name = 0,
-        desc2 = "探索中，额外有5%的概率掉落指挥舱升级材料[传输晶管]",
+        desc2 = "While exploring, provides an extra 5% chance to drop Command Cabin Upgrade Material [Transmission Tube]",
         level = 1,
         talent = {
             [1] = 40003,
@@ -9115,9 +9115,9 @@ return {
         id = 1600001067,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次167%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 167% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 67,
         talent = {
             [1] = 70067,
@@ -9140,9 +9140,9 @@ return {
         id = 1600002091,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有23%概率发射6枚导弹攻击敌人，每次造成55.5%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 23% chance each turn to fire 6 missiles, each dealing DMG equal to 55.5% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 91,
         talent = {
             [1] = 71091,
@@ -9166,9 +9166,9 @@ return {
         id = 1600001068,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次168%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 168% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 68,
         talent = {
             [1] = 70068,
@@ -9191,9 +9191,9 @@ return {
         id = 1600002092,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有23.2%概率发射6枚导弹攻击敌人，每次造成56%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 23.2% chance each turn to fire 6 missiles, each dealing DMG equal to 56% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 92,
         talent = {
             [1] = 71092,
@@ -9217,9 +9217,9 @@ return {
         id = 1600001069,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次169%火力值的伤害！\n无视敌人偏斜率6%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 169% of Firepower!\nIgnores 6% of enemy Deflection Rate.",
         level = 69,
         talent = {
             [1] = 70069,
@@ -9242,9 +9242,9 @@ return {
         id = 1600002093,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有23.4%概率发射6枚导弹攻击敌人，每次造成56.5%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 23.4% chance each turn to fire 6 missiles, each dealing DMG equal to 56.5% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 93,
         talent = {
             [1] = 71093,
@@ -9268,9 +9268,9 @@ return {
         id = 1600001070,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  无视敌人偏斜率+2%",
+        desc = "DMG Ratio +1%, Enemy Deflection Rate Ignored +2%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次170%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 170% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 70,
         talent = {
             [1] = 70070,
@@ -9295,9 +9295,9 @@ return {
         id = 1600002094,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有23.6%概率发射6枚导弹攻击敌人，每次造成57%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 23.6% chance each turn to fire 6 missiles, each dealing DMG equal to 57% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 94,
         talent = {
             [1] = 71094,
@@ -9321,9 +9321,9 @@ return {
         id = 1600001071,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次171%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 171% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 71,
         talent = {
             [1] = 70071,
@@ -9347,9 +9347,9 @@ return {
         id = 1600002095,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有23.8%概率发射6枚导弹攻击敌人，每次造成57.5%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 23.8% chance each turn to fire 6 missiles, each dealing DMG equal to 57.5% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 95,
         talent = {
             [1] = 71095,
@@ -9375,9 +9375,9 @@ return {
         id = 1600001072,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次172%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 172% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 72,
         talent = {
             [1] = 70072,
@@ -9401,9 +9401,9 @@ return {
         id = 1600002096,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有24%概率发射6枚导弹攻击敌人，每次造成58%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 24% chance each turn to fire 6 missiles, each dealing DMG equal to 58% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 96,
         talent = {
             [1] = 71096,
@@ -9427,9 +9427,9 @@ return {
         id = 1600001073,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次173%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 173% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 73,
         talent = {
             [1] = 70073,
@@ -9453,9 +9453,9 @@ return {
         id = 1600002097,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有24.2%概率发射6枚导弹攻击敌人，每次造成58.5%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 24.2% chance each turn to fire 6 missiles, each dealing DMG equal to 58.5% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 97,
         talent = {
             [1] = 71097,
@@ -9479,9 +9479,9 @@ return {
         id = 1600001074,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次174%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 174% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 74,
         talent = {
             [1] = 70074,
@@ -9505,9 +9505,9 @@ return {
         id = 1600002098,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有24.4%概率发射6枚导弹攻击敌人，每次造成59%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 24.4% chance each turn to fire 6 missiles, each dealing DMG equal to 59% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 98,
         talent = {
             [1] = 71098,
@@ -9531,9 +9531,9 @@ return {
         id = 1600001075,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次175%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 175% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 75,
         talent = {
             [1] = 70075,
@@ -9559,9 +9559,9 @@ return {
         id = 1600002099,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有24.6%概率发射6枚导弹攻击敌人，每次造成59.5%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 24.6% chance each turn to fire 6 missiles, each dealing DMG equal to 59.5% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 99,
         talent = {
             [1] = 71099,
@@ -9585,9 +9585,9 @@ return {
         id = 1600001076,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次176%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 176% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 76,
         talent = {
             [1] = 70076,
@@ -9612,9 +9612,9 @@ return {
         unlockSkill = {
             [1] = 65110,
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有24.8%概率发射6枚导弹攻击敌人，每次造成60%火力值的伤害！\n触发概率额外增加10%",
+        desc2 = "Has a 24.8% chance each turn to fire 6 missiles, each dealing DMG equal to 60% of Firepower!\nIncreases Trigger Rate by an additional 10%.",
         level = 100,
         talent = {
             [1] = 71100,
@@ -9641,9 +9641,9 @@ return {
         id = 1600001077,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次177%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 177% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 77,
         talent = {
             [1] = 70077,
@@ -9667,9 +9667,9 @@ return {
         id = 1600001078,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次178%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 178% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 78,
         talent = {
             [1] = 70078,
@@ -9693,9 +9693,9 @@ return {
         id = 1600001079,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次179%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 179% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 79,
         talent = {
             [1] = 70079,
@@ -9720,9 +9720,9 @@ return {
         unlockSkill = {
             [1] = 65008,
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次180%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 180% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 80,
         talent = {
             [1] = 70080,
@@ -9749,9 +9749,9 @@ return {
         id = 1600001081,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次181%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 181% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 81,
         talent = {
             [1] = 70081,
@@ -9776,9 +9776,9 @@ return {
         id = 1600001082,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次182%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 182% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 82,
         talent = {
             [1] = 70082,
@@ -9803,9 +9803,9 @@ return {
         id = 1600001083,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次183%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 183% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 83,
         talent = {
             [1] = 70083,
@@ -9830,9 +9830,9 @@ return {
         id = 1600001084,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次184%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 184% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 84,
         talent = {
             [1] = 70084,
@@ -9857,9 +9857,9 @@ return {
         id = 1600213001,
         unlockSkill = {
         },
-        desc = "战斗中，我方护盾破损时，降低敌人火力值10%，持续3回合，冷却5回合。",
+        desc = "When an ally shield is broken in battle, reduces the enemy's Firepower by 10% for 3 turns. CD: 5 turns",
         name = 0,
-        desc2 = "战斗中，我方护盾破损时，降低敌人火力值10%，持续3回合，冷却5回合。",
+        desc2 = "When an ally shield is broken in battle, reduces the enemy's Firepower by 10% for 3 turns. CD: 5 turns",
         level = 1,
         talent = {
             [1] = 40013,
@@ -9873,9 +9873,9 @@ return {
         id = 1600001085,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次185%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 185% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 85,
         talent = {
             [1] = 70085,
@@ -9902,9 +9902,9 @@ return {
         id = 1600001086,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次186%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 186% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 86,
         talent = {
             [1] = 70086,
@@ -9929,9 +9929,9 @@ return {
         id = 1600001087,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次187%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 187% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 87,
         talent = {
             [1] = 70087,
@@ -9956,9 +9956,9 @@ return {
         id = 1600001088,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次188%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 188% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 88,
         talent = {
             [1] = 70088,
@@ -9983,9 +9983,9 @@ return {
         id = 1600001089,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次189%火力值的伤害！\n无视敌人偏斜率8%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 189% of Firepower!\nIgnores 8% of enemy Deflection Rate.",
         level = 89,
         talent = {
             [1] = 70089,
@@ -10010,9 +10010,9 @@ return {
         id = 1600001090,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  无视敌人偏斜率+2%",
+        desc = "DMG Ratio +1%, Enemy Deflection Rate Ignored +2%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次190%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 190% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 90,
         talent = {
             [1] = 70090,
@@ -10040,9 +10040,9 @@ return {
         id = 1600202001,
         unlockSkill = {
         },
-        desc = "探索中，额外有5%的概率掉落护盾升级材料[斥盾电池]",
+        desc = "While exploring, provides an extra 5% chance to drop Shield Upgrade Material [Shield Battery]",
         name = 0,
-        desc2 = "探索中，额外有5%的概率掉落护盾升级材料[斥盾电池]",
+        desc2 = "While exploring, provides an extra 5% chance to drop Shield Upgrade Material [Shield Battery]",
         level = 1,
         talent = {
             [1] = 40002,
@@ -10056,9 +10056,9 @@ return {
         id = 1600001091,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次191%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 191% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 91,
         talent = {
             [1] = 70091,
@@ -10084,9 +10084,9 @@ return {
         id = 1600001092,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次192%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 192% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 92,
         talent = {
             [1] = 70092,
@@ -10112,9 +10112,9 @@ return {
         id = 1600001093,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次193%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 193% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 93,
         talent = {
             [1] = 70093,
@@ -10140,9 +10140,9 @@ return {
         id = 1600001094,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次194%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 194% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 94,
         talent = {
             [1] = 70094,
@@ -10168,9 +10168,9 @@ return {
         id = 1600001095,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次195%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 195% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 95,
         talent = {
             [1] = 70095,
@@ -10198,9 +10198,9 @@ return {
         id = 1600001096,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次196%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 196% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 96,
         talent = {
             [1] = 70096,
@@ -10226,9 +10226,9 @@ return {
         id = 1600001097,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次197%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 197% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 97,
         talent = {
             [1] = 70097,
@@ -10254,9 +10254,9 @@ return {
         id = 1600001098,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次198%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 198% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 98,
         talent = {
             [1] = 70098,
@@ -10282,9 +10282,9 @@ return {
         id = 1600001099,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次199%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 199% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 99,
         talent = {
             [1] = 70099,
@@ -10311,9 +10311,9 @@ return {
         unlockSkill = {
             [1] = 65010,
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次200%火力值的伤害！\n无视敌人偏斜率10%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 200% of Firepower!\nIgnores 10% of enemy Deflection Rate.",
         level = 100,
         talent = {
             [1] = 70100,
@@ -10342,9 +10342,9 @@ return {
         id = 1600223001,
         unlockSkill = {
         },
-        desc = "我方生命值提升5%。",
+        desc = "Ally HP +5%.",
         name = 0,
-        desc2 = "我方生命值提升5%。",
+        desc2 = "Ally HP +5%.",
         level = 1,
         talent = {
             [1] = 40023,
@@ -10357,9 +10357,9 @@ return {
         id = 1600212001,
         unlockSkill = {
         },
-        desc = "战斗中，受到30次攻击后，干扰敌方1回合，使敌人无法使用主炮、导弹！",
+        desc = "After taking 30 hits in battle, interfere with enemy for 1 turn, preventing them from using Cannon and Guided Missile!",
         name = 0,
-        desc2 = "战斗中，受到30次攻击后（包括护盾吸收），干扰敌方1回合，使敌人无法使用主炮、导弹技能！",
+        desc2 = "After taking 30 hits in battle (including shield absorption), interfere with enemy for 1 turn, preventing them from using Cannon and Guided Missile skills!",
         level = 1,
         talent = {
             [1] = 40012,
@@ -10373,9 +10373,9 @@ return {
         id = 1600201001,
         unlockSkill = {
         },
-        desc = "探索中，额外有5%的概率掉落主炮升级材料[镭射椎体]",
+        desc = "While exploring, provides an extra 5% chance to drop Cannon Upgrade Material [Ray Beam Cone]",
         name = 0,
-        desc2 = "探索中，额外有5%的概率掉落主炮升级材料[镭射椎体]",
+        desc2 = "While exploring, provides an extra 5% chance to drop Cannon Upgrade Material [Ray Beam Cone]",
         level = 1,
         talent = {
             [1] = 40001,
@@ -10389,9 +10389,9 @@ return {
         id = 1600222001,
         unlockSkill = {
         },
-        desc = "我方火力值提升8%。",
+        desc = "Ally Firepower +8%.",
         name = 0,
-        desc2 = "我方火力值提升8%。",
+        desc2 = "Ally Firepower +8%.",
         level = 1,
         talent = {
             [1] = 40022,
@@ -10404,9 +10404,9 @@ return {
         id = 1600211001,
         unlockSkill = {
         },
-        desc = "战斗中，受到40次攻击后，干扰敌方1回合，使敌人无法使用主炮、导弹！",
+        desc = "After taking 40 hits in battle, interfere with enemy for 1 turn, preventing them from using Cannon and Guided Missile!",
         name = 0,
-        desc2 = "战斗中，受到40次攻击后（包括护盾吸收），干扰敌方1回合，使敌人无法使用主炮、导弹技能！",
+        desc2 = "After taking 40 hits in battle (including shield absorption), interfere with enemy for 1 turn, preventing them from using Cannon and Guided Missile skills!",
         level = 1,
         talent = {
             [1] = 40011,
@@ -10420,9 +10420,9 @@ return {
         id = 1600230001,
         unlockSkill = {
         },
-        desc = "战斗开场时，使敌人战斗速度减少30%，持续3回合。",
+        desc = "Reduce enemy Battle Speed by 30% for 3 turns.",
         name = 0,
-        desc2 = "战斗开场时，使敌人战斗速度减少30%，持续3回合。",
+        desc2 = "Reduce enemy Battle Speed by 30% for 3 turns.",
         level = 1,
         talent = {
             [1] = 40030,
@@ -10436,9 +10436,9 @@ return {
         id = 1600229001,
         unlockSkill = {
         },
-        desc = "战斗中，我方攻击使敌人受到电子感染，敌人每次出手前受到我方火力值7%的伤害，最多叠加15层。每层持续3回合，每层持续时间独立计算。",
+        desc = "In battle, ally attacks cause electrical interference: the enemy takes DMG equal to 7% of our Firepower before their every attack. Stacks up to 15 times. Each stack lasts 3 turns (calculated separately).",
         name = 0,
-        desc2 = "战斗中，我方攻击（包括护盾吸收）使敌人受到电子感染，敌人每次出手前受到我方火力值7%的伤害，最多叠加15层。每层持续3回合，每层持续时间独立计算。",
+        desc2 = "In battle, ally attacks (including shield absorption) cause electrical interference: the enemy takes DMG equal to 7% of our Firepower before their every attack. Stacks up to 15 times. Each stack lasts 3 turns (calculated separately).",
         level = 1,
         talent = {
             [1] = 40029,
@@ -10452,9 +10452,9 @@ return {
         id = 1600228001,
         unlockSkill = {
         },
-        desc = "战斗中，我方攻击使敌人受到电子感染，敌人每次出手前受到我方火力值7%的伤害，最多叠加10层。每层持续3回合，每层持续时间独立计算。",
+        desc = "In battle, ally attacks cause electrical interference: the enemy takes DMG equal to 7% of our Firepower before their every attack. Stacks up to 10 times. Each stack lasts 3 turns (calculated separately).",
         name = 0,
-        desc2 = "战斗中，我方攻击（包括护盾吸收）使敌人受到电子感染，敌人每次出手前受到我方火力值7%的伤害，最多叠加10层。每层持续3回合，每层持续时间独立计算。",
+        desc2 = "In battle, ally attacks (including shield absorption) cause electrical interference: the enemy takes DMG equal to 7% of our Firepower before their every attack. Stacks up to 10 times. Each stack lasts 3 turns (calculated separately).",
         level = 1,
         talent = {
             [1] = 40028,
@@ -10468,9 +10468,9 @@ return {
         id = 1600227001,
         unlockSkill = {
         },
-        desc = "战斗中，我方伤害（护盾吸收不算伤害）有10%几率使敌人无法使用主炮、导弹技能，持续1回合！冷却3回合。",
+        desc = "In battle, ally DMG (not including shield absorption) has a 10% chance to prevent the enemy from using their Cannon and Guided Missile skills for 1 turn! CD: 3 turns",
         name = 0,
-        desc2 = "战斗中，我方伤害（护盾吸收不算伤害）有10%的几率使敌人受到干扰，使敌人无法使用主炮、导弹技能，持续1回合！效果冷却3回合。",
+        desc2 = "In battle, ally DMG (not including shield absorption) has a 10% chance to interfere with the enemy, preventing them from using their Cannon and Guided Missile skills for 1 turn! CD: 3 turns",
         level = 1,
         talent = {
             [1] = 40027,
@@ -10484,9 +10484,9 @@ return {
         id = 1600226001,
         unlockSkill = {
         },
-        desc = "我方攻击触发穿透的几率提升5%。",
+        desc = "Chance for ally attacks to trigger Pierce +5%.",
         name = 0,
-        desc2 = "我方攻击触发穿透的几率提升5%。",
+        desc2 = "Chance for ally attacks to trigger Pierce +5%.",
         level = 1,
         talent = {
             [1] = 40026,
@@ -10499,9 +10499,9 @@ return {
         id = 1600225001,
         unlockSkill = {
         },
-        desc = "我方攻击触发穿透的几率提升3%。",
+        desc = "Chance for ally attacks to trigger Pierce +3%.",
         name = 0,
-        desc2 = "我方攻击触发穿透的几率提升3%。",
+        desc2 = "Chance for ally attacks to trigger Pierce +3%.",
         level = 1,
         talent = {
             [1] = 40025,
@@ -10514,9 +10514,9 @@ return {
         id = 1600224001,
         unlockSkill = {
         },
-        desc = "我方生命值提升10%。",
+        desc = "Ally HP +10%.",
         name = 0,
-        desc2 = "我方生命值提升10%。",
+        desc2 = "Ally HP +10%.",
         level = 1,
         talent = {
             [1] = 40024,
@@ -10529,9 +10529,9 @@ return {
         id = 1600221001,
         unlockSkill = {
         },
-        desc = "我方火力值提升5%。",
+        desc = "Ally Firepower +5%.",
         name = 0,
-        desc2 = "我方火力值提升5%。",
+        desc2 = "Ally Firepower +5%.",
         level = 1,
         talent = {
             [1] = 40021,
@@ -10544,9 +10544,9 @@ return {
         id = 1600220001,
         unlockSkill = {
         },
-        desc = "战斗中，我方对有护盾的敌人伤害提升20%",
+        desc = "Increases DMG dealt to shielded enemies by 20% while in battle.",
         name = 0,
-        desc2 = "战斗中，我方对有护盾的敌人伤害提升20%",
+        desc2 = "Increases DMG dealt to shielded enemies by 20% while in battle.",
         level = 1,
         talent = {
             [1] = 40020,
@@ -10560,9 +10560,9 @@ return {
         id = 1600219001,
         unlockSkill = {
         },
-        desc = "战斗中，我方对有护盾的敌人伤害提升10%",
+        desc = "Increases DMG dealt to shielded enemies by 10% while in battle.",
         name = 0,
-        desc2 = "战斗中，我方对有护盾的敌人伤害提升10%",
+        desc2 = "Increases DMG dealt to shielded enemies by 10% while in battle.",
         level = 1,
         talent = {
             [1] = 40019,
@@ -10576,9 +10576,9 @@ return {
         id = 1600216001,
         unlockSkill = {
         },
-        desc = "战斗中，我方攻击会降低敌人防御力20%，持续3回合，不可叠加。",
+        desc = "In battle, ally attacks reduce the enemy's DEF by 20% for 3 turns. Does not stack.",
         name = 0,
-        desc2 = "战斗中，我方攻击（包括护盾吸收）会降低敌人防御力20%，持续3回合，不可叠加。",
+        desc2 = "In battle, ally attacks (including shield absorption) reduce the enemy's DEF by 20% for 3 turns. Does not stack.",
         level = 1,
         talent = {
             [1] = 40016,
@@ -10592,9 +10592,9 @@ return {
         id = 1600215001,
         unlockSkill = {
         },
-        desc = "战斗中，我方攻击会降低敌人防御力10%，持续3回合，不可叠加。",
+        desc = "In battle, ally attacks reduce the enemy's DEF by 10% for 3 turns. Does not stack.",
         name = 0,
-        desc2 = "战斗中，我方攻击（包括护盾吸收）会降低敌人防御力10%，持续3回合，不可叠加。",
+        desc2 = "In battle, ally attacks (including shield absorption) reduce the enemy's DEF by 10% for 3 turns. Does not stack.",
         level = 1,
         talent = {
             [1] = 40015,
@@ -10608,9 +10608,9 @@ return {
         id = 1600102074,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升47%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +47% DEF!\nReduces DMG taken by an extra 4%.",
         level = 74,
         talent = {
             [1] = 74074,
@@ -10633,9 +10633,9 @@ return {
         id = 1600207001,
         unlockSkill = {
         },
-        desc = "探索中，额外有5%的概率掉落配件舱升级材料[拓展芯片]",
+        desc = "While exploring, provides an extra 5% chance to drop Component Cabin Upgrade Material [Expansion Chip]",
         name = 0,
-        desc2 = "探索中，额外有5%的概率掉落配件舱升级材料[拓展芯片]",
+        desc2 = "While exploring, provides an extra 5% chance to drop Component Cabin Upgrade Material [Expansion Chip]",
         level = 1,
         talent = {
             [1] = 40007,
@@ -10649,9 +10649,9 @@ return {
         id = 1600206001,
         unlockSkill = {
         },
-        desc = "探索中，额外有5%的概率掉落采集舱升级材料[解析晶片]",
+        desc = "While exploring, provides an extra 5% chance to drop Collection Cabin Upgrade Material [Analysis Chip]",
         name = 0,
-        desc2 = "探索中，额外有5%的概率掉落采集舱升级材料[解析晶片]",
+        desc2 = "While exploring, provides an extra 5% chance to drop Collection Cabin Upgrade Material [Analysis Chip]",
         level = 1,
         talent = {
             [1] = 40006,
@@ -10665,9 +10665,9 @@ return {
         id = 1600205001,
         unlockSkill = {
         },
-        desc = "探索中，额外有5%的概率掉落护甲舱升级材料[铠合金]",
+        desc = "While exploring, provides an extra 5% chance to drop Armor Cabin Upgrade Material [Armor Alloy]",
         name = 0,
-        desc2 = "探索中，额外有5%的概率掉落护甲舱升级材料[铠合金]",
+        desc2 = "While exploring, provides an extra 5% chance to drop Armor Cabin Upgrade Material [Armor Alloy]",
         level = 1,
         talent = {
             [1] = 40005,
@@ -10681,9 +10681,9 @@ return {
         id = 1600003051,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次71%火力值的伤害，伤害有15.2%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 71% of Firepower with a 15.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 51,
         talent = {
             [1] = 72051,
@@ -10704,9 +10704,9 @@ return {
         id = 1600102095,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升57.5%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +57.5% DEF!\nReduces DMG taken by an extra 5%.",
         level = 95,
         talent = {
             [1] = 74095,
@@ -10733,9 +10733,9 @@ return {
         id = 1600101068,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得24540点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 24540 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 68,
         talent = {
             [1] = 73068,
@@ -10757,9 +10757,9 @@ return {
         id = 1600002033,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有11.4%概率发射4枚导弹攻击敌人，每次造成26.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 11.4% chance each turn to fire 4 missiles, each dealing DMG equal to 26.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 33,
         talent = {
             [1] = 71033,
@@ -10780,7 +10780,7 @@ return {
         },
         desc = "",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有5.2%的几率偏移掉5.5%的伤害！",
+        desc2 = "When the shield is active, it has a 5.2% chance to deflect 5.5% of the DMG taken from each attack!",
         level = 1,
         talent = {
             [1] = 75001,
@@ -10793,9 +10793,9 @@ return {
         id = 1600002031,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有11%概率发射4枚导弹攻击敌人，每次造成25.5%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 11% chance each turn to fire 4 missiles, each dealing DMG equal to 25.5% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 31,
         talent = {
             [1] = 71031,
@@ -10814,9 +10814,9 @@ return {
         id = 1600101094,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得33900点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 33900 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 94,
         talent = {
             [1] = 73094,
@@ -10841,9 +10841,9 @@ return {
         id = 1600101095,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得34260点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 34260 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 95,
         talent = {
             [1] = 73095,
@@ -10870,9 +10870,9 @@ return {
         id = 1600103002,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有5.4%的几率偏移掉6%的伤害！",
+        desc2 = "When the shield is active, it has a 5.4% chance to deflect 6% of the DMG taken from each attack!",
         level = 2,
         talent = {
             [1] = 75002,
@@ -10888,9 +10888,9 @@ return {
         id = 1600101093,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得33540点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 33540 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 93,
         talent = {
             [1] = 73093,
@@ -10915,9 +10915,9 @@ return {
         id = 1600003052,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次72%火力值的伤害，伤害有15.4%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 72% of Firepower with a 15.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 52,
         talent = {
             [1] = 72052,
@@ -10939,9 +10939,9 @@ return {
         unlockSkill = {
             [1] = 66006,
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得21660点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 21660 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 60,
         talent = {
             [1] = 73060,
@@ -10965,9 +10965,9 @@ return {
         id = 1600103003,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有5.6%的几率偏移掉6.5%的伤害！",
+        desc2 = "When the shield is active, it has a 5.6% chance to deflect 6.5% of the DMG taken from each attack!",
         level = 3,
         talent = {
             [1] = 75003,
@@ -10983,9 +10983,9 @@ return {
         id = 1600101059,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得21300点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 21300 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 59,
         talent = {
             [1] = 73059,
@@ -11006,9 +11006,9 @@ return {
         id = 1600101058,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得20940点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 20940 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 58,
         talent = {
             [1] = 73058,
@@ -11029,9 +11029,9 @@ return {
         id = 1600101057,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得20580点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 20580 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 57,
         talent = {
             [1] = 73057,
@@ -11052,9 +11052,9 @@ return {
         id = 1600103004,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有5.8%的几率偏移掉7%的伤害！",
+        desc2 = "When the shield is active, it has a 5.8% chance to deflect 7% of the DMG taken from each attack!",
         level = 4,
         talent = {
             [1] = 75004,
@@ -11070,9 +11070,9 @@ return {
         id = 1600102050,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%  受伤减免1%",
+        desc = "DEF +0.5%, DMG MIT 1%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升35%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +35% DEF!\nReduces DMG taken by an extra 3%.",
         level = 50,
         talent = {
             [1] = 74050,
@@ -11095,9 +11095,9 @@ return {
         id = 1600102053,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升36.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +36.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 53,
         talent = {
             [1] = 74053,
@@ -11118,9 +11118,9 @@ return {
         id = 1600101088,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得31740点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 31740 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 88,
         talent = {
             [1] = 73088,
@@ -11144,9 +11144,9 @@ return {
         id = 1600103005,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有6%的几率偏移掉7.5%的伤害！",
+        desc2 = "When the shield is active, it has a 6% chance to deflect 7.5% of the DMG taken from each attack!",
         level = 5,
         talent = {
             [1] = 75005,
@@ -11163,9 +11163,9 @@ return {
         id = 1600102057,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升38.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +38.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 57,
         talent = {
             [1] = 74057,
@@ -11186,9 +11186,9 @@ return {
         id = 1600102062,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升41%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +41% DEF!\nReduces DMG taken by an extra 3%.",
         level = 62,
         talent = {
             [1] = 74062,
@@ -11210,9 +11210,9 @@ return {
         id = 1600101055,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得19860点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 19860 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 55,
         talent = {
             [1] = 73055,
@@ -11235,9 +11235,9 @@ return {
         id = 1600103006,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有6.2%的几率偏移掉8%的伤害！",
+        desc2 = "When the shield is active, it has a 6.2% chance to deflect 8% of the DMG taken from each attack!",
         level = 6,
         talent = {
             [1] = 75006,
@@ -11253,9 +11253,9 @@ return {
         id = 1600003014,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次34%火力值的伤害，伤害有7.8%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 34% of Firepower with a 7.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 14,
         talent = {
             [1] = 72014,
@@ -11273,9 +11273,9 @@ return {
         id = 1600102071,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升45.5%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +45.5% DEF!\nReduces DMG taken by an extra 4%.",
         level = 71,
         talent = {
             [1] = 74071,
@@ -11298,9 +11298,9 @@ return {
         id = 1600101054,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得19500点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 19500 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 54,
         talent = {
             [1] = 73054,
@@ -11321,9 +11321,9 @@ return {
         id = 1600103007,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有6.4%的几率偏移掉8.5%的伤害！",
+        desc2 = "When the shield is active, it has a 6.4% chance to deflect 8.5% of the DMG taken from each attack!",
         level = 7,
         talent = {
             [1] = 75007,
@@ -11339,9 +11339,9 @@ return {
         id = 1600003013,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每5回合造成1次33%火力值的伤害，伤害有7.6%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 5 turns, launches 1 attack that deals DMG equal to 33% of Firepower with a 7.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 13,
         talent = {
             [1] = 72013,
@@ -11360,9 +11360,9 @@ return {
         unlockSkill = {
             [1] = 66108,
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升50%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +50% DEF!\nReduces DMG taken by an extra 4%.",
         level = 80,
         talent = {
             [1] = 74080,
@@ -11388,9 +11388,9 @@ return {
         id = 1600101053,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得19140点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 19140 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 53,
         talent = {
             [1] = 73053,
@@ -11411,9 +11411,9 @@ return {
         id = 1600103008,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有6.6%的几率偏移掉9%的伤害！",
+        desc2 = "When the shield is active, it has a 6.6% chance to deflect 9% of the DMG taken from each attack!",
         level = 8,
         talent = {
             [1] = 75008,
@@ -11429,9 +11429,9 @@ return {
         id = 1600001028,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次128%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 128% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 28,
         talent = {
             [1] = 70028,
@@ -11450,9 +11450,9 @@ return {
         id = 1600102089,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升54.5%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +54.5% DEF!\nReduces DMG taken by an extra 5%.",
         level = 89,
         talent = {
             [1] = 74089,
@@ -11476,9 +11476,9 @@ return {
         id = 1600101052,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得18780点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 18780 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 52,
         talent = {
             [1] = 73052,
@@ -11499,9 +11499,9 @@ return {
         id = 1600103009,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有6.8%的几率偏移掉9.5%的伤害！",
+        desc2 = "When the shield is active, it has a 6.8% chance to deflect 9.5% of the DMG taken from each attack!",
         level = 9,
         talent = {
             [1] = 75009,
@@ -11517,9 +11517,9 @@ return {
         id = 1600003053,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每3回合造成2次73%火力值的伤害，伤害有15.6%概率触发穿透！\n额外穿透率增加6%",
+        desc2 = "Fire the Pillar! Every 3 turns, launches 2 attacks that deals DMG equal to 73% of Firepower with a 15.6% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 6%.",
         level = 53,
         talent = {
             [1] = 72053,
@@ -11540,9 +11540,9 @@ return {
         id = 1600101051,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得18420点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 18420 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 51,
         talent = {
             [1] = 73051,
@@ -11563,9 +11563,9 @@ return {
         id = 1600101050,
         unlockSkill = {
         },
-        desc = "护盾值+360  护盾值额外+3%",
+        desc = "Shield +360, additional Shield +3%",
         name = 0,
-        desc2 = "战斗开场获得18060点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 18060 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 50,
         talent = {
             [1] = 73050,
@@ -11588,9 +11588,9 @@ return {
         id = 1600103010,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%  偏移率额外+2%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%, additional Deflection Rate +2%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有7%的几率偏移掉10%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 7% chance to deflect 10% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 10,
         talent = {
             [1] = 75010,
@@ -11608,9 +11608,9 @@ return {
         id = 1600101082,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得29580点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 29580 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 82,
         talent = {
             [1] = 73082,
@@ -11634,9 +11634,9 @@ return {
         id = 1600002018,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有8.4%概率发射2枚导弹攻击敌人，每次造成19%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 8.4% chance each turn to fire 2 missiles, each dealing DMG equal to 19% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 18,
         talent = {
             [1] = 71018,
@@ -11654,9 +11654,9 @@ return {
         id = 1600001026,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次126%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 126% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 26,
         talent = {
             [1] = 70026,
@@ -11675,9 +11675,9 @@ return {
         id = 1600103011,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有7.2%的几率偏移掉10.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 7.2% chance to deflect 10.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 11,
         talent = {
             [1] = 75011,
@@ -11694,9 +11694,9 @@ return {
         id = 1600101083,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得29940点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 29940 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 83,
         talent = {
             [1] = 73083,
@@ -11720,9 +11720,9 @@ return {
         id = 1600003029,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次49%火力值的伤害，伤害有10.8%概率触发穿透！\n额外穿透率增加2%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 49% of Firepower with a 10.8% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 2%.",
         level = 29,
         talent = {
             [1] = 72029,
@@ -11740,9 +11740,9 @@ return {
         id = 1600003041,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次61%火力值的伤害，伤害有13.2%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 61% of Firepower with a 13.2% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 41,
         talent = {
             [1] = 72041,
@@ -11762,9 +11762,9 @@ return {
         id = 1600103012,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有7.4%的几率偏移掉11%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 7.4% chance to deflect 11% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 12,
         talent = {
             [1] = 75012,
@@ -11781,9 +11781,9 @@ return {
         id = 1600002019,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有8.6%概率发射2枚导弹攻击敌人，每次造成19.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 8.6% chance each turn to fire 2 missiles, each dealing DMG equal to 19.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 19,
         talent = {
             [1] = 71019,
@@ -11801,9 +11801,9 @@ return {
         id = 1600001027,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次127%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 127% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 27,
         talent = {
             [1] = 70027,
@@ -11822,9 +11822,9 @@ return {
         id = 1600102092,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升56%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +56% DEF!\nReduces DMG taken by an extra 5%.",
         level = 92,
         talent = {
             [1] = 74092,
@@ -11849,9 +11849,9 @@ return {
         id = 1600103013,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有7.6%的几率偏移掉11.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 7.6% chance to deflect 11.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 13,
         talent = {
             [1] = 75013,
@@ -11868,9 +11868,9 @@ return {
         id = 1600101084,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得30300点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 30300 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 84,
         talent = {
             [1] = 73084,
@@ -11894,9 +11894,9 @@ return {
         id = 1600102091,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升55.5%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +55.5% DEF!\nReduces DMG taken by an extra 5%.",
         level = 91,
         talent = {
             [1] = 74091,
@@ -11921,9 +11921,9 @@ return {
         id = 1600102090,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%  受伤减免1%",
+        desc = "DEF +0.5%, DMG MIT 1%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升55%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +55% DEF!\nReduces DMG taken by an extra 5%.",
         level = 90,
         talent = {
             [1] = 74090,
@@ -11950,9 +11950,9 @@ return {
         id = 1600103014,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有7.8%的几率偏移掉12%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 7.8% chance to deflect 12% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 14,
         talent = {
             [1] = 75014,
@@ -11969,9 +11969,9 @@ return {
         id = 1600102087,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升53.5%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +53.5% DEF!\nReduces DMG taken by an extra 4%.",
         level = 87,
         talent = {
             [1] = 74087,
@@ -11995,9 +11995,9 @@ return {
         id = 1600102086,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升53%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +53% DEF!\nReduces DMG taken by an extra 4%.",
         level = 86,
         talent = {
             [1] = 74086,
@@ -12022,9 +12022,9 @@ return {
         unlockSkill = {
             [1] = 65102,
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有8.8%概率发射4枚导弹攻击敌人，每次造成20%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 8.8% chance each turn to fire 4 missiles, each dealing DMG equal to 20% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 20,
         talent = {
             [1] = 71020,
@@ -12043,9 +12043,9 @@ return {
         id = 1600103015,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有8%的几率偏移掉12.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 8% chance to deflect 12.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 15,
         talent = {
             [1] = 75015,
@@ -12063,9 +12063,9 @@ return {
         id = 1600102085,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升52.5%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +52.5% DEF!\nReduces DMG taken by an extra 4%.",
         level = 85,
         talent = {
             [1] = 74085,
@@ -12091,9 +12091,9 @@ return {
         id = 1600102084,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升52%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +52% DEF!\nReduces DMG taken by an extra 4%.",
         level = 84,
         talent = {
             [1] = 74084,
@@ -12117,9 +12117,9 @@ return {
         id = 1600102083,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升51.5%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +51.5% DEF!\nReduces DMG taken by an extra 4%.",
         level = 83,
         talent = {
             [1] = 74083,
@@ -12143,9 +12143,9 @@ return {
         id = 1600103016,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有8.2%的几率偏移掉13%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 8.2% chance to deflect 13% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 16,
         talent = {
             [1] = 75016,
@@ -12162,9 +12162,9 @@ return {
         id = 1600101085,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得30660点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 30660 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 85,
         talent = {
             [1] = 73085,
@@ -12190,9 +12190,9 @@ return {
         id = 1600102082,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升51%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +51% DEF!\nReduces DMG taken by an extra 4%.",
         level = 82,
         talent = {
             [1] = 74082,
@@ -12216,9 +12216,9 @@ return {
         id = 1600102081,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升50.5%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +50.5% DEF!\nReduces DMG taken by an extra 4%.",
         level = 81,
         talent = {
             [1] = 74081,
@@ -12242,9 +12242,9 @@ return {
         id = 1600103017,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有8.4%的几率偏移掉13.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 8.4% chance to deflect 13.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 17,
         talent = {
             [1] = 75017,
@@ -12261,9 +12261,9 @@ return {
         id = 1600102079,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升49.5%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +49.5% DEF!\nReduces DMG taken by an extra 4%.",
         level = 79,
         talent = {
             [1] = 74079,
@@ -12286,9 +12286,9 @@ return {
         id = 1600102078,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升49%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +49% DEF!\nReduces DMG taken by an extra 4%.",
         level = 78,
         talent = {
             [1] = 74078,
@@ -12311,9 +12311,9 @@ return {
         id = 1600102077,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升48.5%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +48.5% DEF!\nReduces DMG taken by an extra 4%.",
         level = 77,
         talent = {
             [1] = 74077,
@@ -12336,9 +12336,9 @@ return {
         id = 1600103018,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有8.6%的几率偏移掉14%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 8.6% chance to deflect 14% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 18,
         talent = {
             [1] = 75018,
@@ -12355,9 +12355,9 @@ return {
         id = 1600001029,
         unlockSkill = {
         },
-        desc = "伤害比例+1%",
+        desc = "DMG Ratio +1%",
         name = 0,
-        desc2 = "每回合发射能量炮，造成1次129%火力值的伤害！\n无视敌人偏斜率2%",
+        desc2 = "Fires a laser cannon each turn that deals 1 attack for DMG equal to 129% of Firepower!\nIgnores 2% of enemy Deflection Rate.",
         level = 29,
         talent = {
             [1] = 70029,
@@ -12376,9 +12376,9 @@ return {
         id = 1600102075,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升47.5%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +47.5% DEF!\nReduces DMG taken by an extra 4%.",
         level = 75,
         talent = {
             [1] = 74075,
@@ -12403,9 +12403,9 @@ return {
         id = 1600210001,
         unlockSkill = {
         },
-        desc = "探索中，提升5%的3阶奖励掉落概率！",
+        desc = "While exploring, increases T3 reward drop rate by 5%!",
         name = 0,
-        desc2 = "探索中，提升5%的3阶奖励掉落概率！",
+        desc2 = "While exploring, increases T3 reward drop rate by 5%!",
         level = 1,
         talent = {
             [1] = 40010,
@@ -12419,9 +12419,9 @@ return {
         id = 1600103019,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有8.8%的几率偏移掉14.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 8.8% chance to deflect 14.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 19,
         talent = {
             [1] = 75019,
@@ -12438,9 +12438,9 @@ return {
         id = 1600101086,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得31020点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 31020 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 86,
         talent = {
             [1] = 73086,
@@ -12464,9 +12464,9 @@ return {
         id = 1600102073,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升46.5%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +46.5% DEF!\nReduces DMG taken by an extra 4%.",
         level = 73,
         talent = {
             [1] = 74073,
@@ -12489,9 +12489,9 @@ return {
         id = 1600102072,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升46%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +46% DEF!\nReduces DMG taken by an extra 4%.",
         level = 72,
         talent = {
             [1] = 74072,
@@ -12515,9 +12515,9 @@ return {
         unlockSkill = {
             [1] = 66202,
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有9%的几率偏移掉15%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 9% chance to deflect 15% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 20,
         talent = {
             [1] = 75020,
@@ -12536,9 +12536,9 @@ return {
         id = 1600102070,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%  受伤减免1%",
+        desc = "DEF +0.5%, DMG MIT 1%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升45%防御力！\n额外减少受到伤害4%",
+        desc2 = "Enforces the airship hull, granting +45% DEF!\nReduces DMG taken by an extra 4%.",
         level = 70,
         talent = {
             [1] = 74070,
@@ -12562,9 +12562,9 @@ return {
         id = 1600102069,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升44.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +44.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 69,
         talent = {
             [1] = 74069,
@@ -12586,9 +12586,9 @@ return {
         id = 1600102068,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升44%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +44% DEF!\nReduces DMG taken by an extra 3%.",
         level = 68,
         talent = {
             [1] = 74068,
@@ -12610,9 +12610,9 @@ return {
         id = 1600103021,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有9.2%的几率偏移掉15.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 9.2% chance to deflect 15.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 21,
         talent = {
             [1] = 75021,
@@ -12630,9 +12630,9 @@ return {
         id = 1600102067,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升43.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +43.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 67,
         talent = {
             [1] = 74067,
@@ -12654,9 +12654,9 @@ return {
         id = 1600102066,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升43%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +43% DEF!\nReduces DMG taken by an extra 3%.",
         level = 66,
         talent = {
             [1] = 74066,
@@ -12678,9 +12678,9 @@ return {
         id = 1600102065,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升42.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +42.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 65,
         talent = {
             [1] = 74065,
@@ -12704,9 +12704,9 @@ return {
         id = 1600103022,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有9.4%的几率偏移掉16%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 9.4% chance to deflect 16% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 22,
         talent = {
             [1] = 75022,
@@ -12724,9 +12724,9 @@ return {
         id = 1600101087,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得31380点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 31380 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 87,
         talent = {
             [1] = 73087,
@@ -12750,9 +12750,9 @@ return {
         id = 1600102064,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升42%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +42% DEF!\nReduces DMG taken by an extra 3%.",
         level = 64,
         talent = {
             [1] = 74064,
@@ -12774,9 +12774,9 @@ return {
         id = 1600102063,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升41.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +41.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 63,
         talent = {
             [1] = 74063,
@@ -12798,9 +12798,9 @@ return {
         id = 1600103023,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有9.6%的几率偏移掉16.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 9.6% chance to deflect 16.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 23,
         talent = {
             [1] = 75023,
@@ -12818,9 +12818,9 @@ return {
         id = 1600102059,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升39.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +39.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 59,
         talent = {
             [1] = 74059,
@@ -12841,9 +12841,9 @@ return {
         id = 1600002023,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有9.4%概率发射4枚导弹攻击敌人，每次造成21.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 9.4% chance each turn to fire 4 missiles, each dealing DMG equal to 21.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 23,
         talent = {
             [1] = 71023,
@@ -12861,9 +12861,9 @@ return {
         id = 1600102058,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升39%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +39% DEF!\nReduces DMG taken by an extra 3%.",
         level = 58,
         talent = {
             [1] = 74058,
@@ -12884,9 +12884,9 @@ return {
         id = 1600103024,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有9.8%的几率偏移掉17%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 9.8% chance to deflect 17% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 24,
         talent = {
             [1] = 75024,
@@ -12904,9 +12904,9 @@ return {
         id = 1600102056,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升38%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +38% DEF!\nReduces DMG taken by an extra 3%.",
         level = 56,
         talent = {
             [1] = 74056,
@@ -12927,9 +12927,9 @@ return {
         id = 1600101056,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得20220点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 20220 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 56,
         talent = {
             [1] = 73056,
@@ -12952,7 +12952,7 @@ return {
         },
         desc = "",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升10.5%防御力！",
+        desc2 = "Enforces the airship hull, granting +10.5% DEF!",
         level = 1,
         talent = {
             [1] = 74001,
@@ -12965,9 +12965,9 @@ return {
         id = 1600103025,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有10%的几率偏移掉17.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 10% chance to deflect 17.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 25,
         talent = {
             [1] = 75025,
@@ -12986,9 +12986,9 @@ return {
         id = 1600102055,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升37.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +37.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 55,
         talent = {
             [1] = 74055,
@@ -13011,9 +13011,9 @@ return {
         id = 1600102054,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升37%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +37% DEF!\nReduces DMG taken by an extra 3%.",
         level = 54,
         talent = {
             [1] = 74054,
@@ -13034,9 +13034,9 @@ return {
         id = 1600102002,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升11%防御力！",
+        desc2 = "Enforces the airship hull, granting +11% DEF!",
         level = 2,
         talent = {
             [1] = 74002,
@@ -13052,9 +13052,9 @@ return {
         id = 1600103026,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有10.2%的几率偏移掉18%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 10.2% chance to deflect 18% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 26,
         talent = {
             [1] = 75026,
@@ -13072,9 +13072,9 @@ return {
         id = 1600102052,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升36%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +36% DEF!\nReduces DMG taken by an extra 3%.",
         level = 52,
         talent = {
             [1] = 74052,
@@ -13095,9 +13095,9 @@ return {
         id = 1600102051,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升35.5%防御力！\n额外减少受到伤害3%",
+        desc2 = "Enforces the airship hull, granting +35.5% DEF!\nReduces DMG taken by an extra 3%.",
         level = 51,
         talent = {
             [1] = 74051,
@@ -13118,9 +13118,9 @@ return {
         id = 1600102003,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升11.5%防御力！",
+        desc2 = "Enforces the airship hull, granting +11.5% DEF!",
         level = 3,
         talent = {
             [1] = 74003,
@@ -13136,9 +13136,9 @@ return {
         id = 1600103027,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有10.4%的几率偏移掉18.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 10.4% chance to deflect 18.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 27,
         talent = {
             [1] = 75027,
@@ -13156,9 +13156,9 @@ return {
         id = 1600102049,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升34.5%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +34.5% DEF!\nReduces DMG taken by an extra 2%.",
         level = 49,
         talent = {
             [1] = 74049,
@@ -13178,9 +13178,9 @@ return {
         id = 1600102048,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升34%防御力！\n额外减少受到伤害2%",
+        desc2 = "Enforces the airship hull, granting +34% DEF!\nReduces DMG taken by an extra 2%.",
         level = 48,
         talent = {
             [1] = 74048,
@@ -13200,9 +13200,9 @@ return {
         id = 1600102004,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升12%防御力！",
+        desc2 = "Enforces the airship hull, granting +12% DEF!",
         level = 4,
         talent = {
             [1] = 74004,
@@ -13218,9 +13218,9 @@ return {
         id = 1600103028,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有10.6%的几率偏移掉19%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 10.6% chance to deflect 19% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 28,
         talent = {
             [1] = 75028,
@@ -13238,9 +13238,9 @@ return {
         id = 1600101089,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得32100点护盾，吸收受到的所有攻击！\n额外提升护盾值12%",
+        desc2 = "When battle starts, gain a shield with 32100 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 12%.",
         level = 89,
         talent = {
             [1] = 73089,
@@ -13264,9 +13264,9 @@ return {
         id = 1600002025,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有9.8%概率发射4枚导弹攻击敌人，每次造成22.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 9.8% chance each turn to fire 4 missiles, each dealing DMG equal to 22.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 25,
         talent = {
             [1] = 71025,
@@ -13285,9 +13285,9 @@ return {
         id = 1600102005,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升12.5%防御力！",
+        desc2 = "Enforces the airship hull, granting +12.5% DEF!",
         level = 5,
         talent = {
             [1] = 74005,
@@ -13304,9 +13304,9 @@ return {
         id = 1600103029,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有10.8%的几率偏移掉19.5%的伤害！\n额外增加偏移率2%",
+        desc2 = "When the shield is active, it has a 10.8% chance to deflect 19.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 2%.",
         level = 29,
         talent = {
             [1] = 75029,
@@ -13324,9 +13324,9 @@ return {
         id = 1600101090,
         unlockSkill = {
         },
-        desc = "护盾值+360  护盾值额外+3%",
+        desc = "Shield +360, additional Shield +3%",
         name = 0,
-        desc2 = "战斗开场获得32460点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 32460 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 90,
         talent = {
             [1] = 73090,
@@ -13353,9 +13353,9 @@ return {
         id = 1600002026,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有10%概率发射4枚导弹攻击敌人，每次造成23%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 10% chance each turn to fire 4 missiles, each dealing DMG equal to 23% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 26,
         talent = {
             [1] = 71026,
@@ -13373,9 +13373,9 @@ return {
         id = 1600102006,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升13%防御力！",
+        desc2 = "Enforces the airship hull, granting +13% DEF!",
         level = 6,
         talent = {
             [1] = 74006,
@@ -13391,9 +13391,9 @@ return {
         id = 1600103030,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%  偏移率额外+2%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%, additional Deflection Rate +2%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有11%的几率偏移掉20%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 11% chance to deflect 20% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 30,
         talent = {
             [1] = 75030,
@@ -13413,9 +13413,9 @@ return {
         id = 1600101091,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得32820点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 32820 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 91,
         talent = {
             [1] = 73091,
@@ -13440,9 +13440,9 @@ return {
         id = 1600002027,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有10.2%概率发射4枚导弹攻击敌人，每次造成23.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 10.2% chance each turn to fire 4 missiles, each dealing DMG equal to 23.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 27,
         talent = {
             [1] = 71027,
@@ -13460,9 +13460,9 @@ return {
         id = 1600102007,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升13.5%防御力！",
+        desc2 = "Enforces the airship hull, granting +13.5% DEF!",
         level = 7,
         talent = {
             [1] = 74007,
@@ -13478,9 +13478,9 @@ return {
         id = 1600103031,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有11.2%的几率偏移掉20.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 11.2% chance to deflect 20.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 31,
         talent = {
             [1] = 75031,
@@ -13499,9 +13499,9 @@ return {
         id = 1600101092,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得33180点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 33180 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 92,
         talent = {
             [1] = 73092,
@@ -13526,9 +13526,9 @@ return {
         id = 1600002028,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有10.4%概率发射4枚导弹攻击敌人，每次造成24%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 10.4% chance each turn to fire 4 missiles, each dealing DMG equal to 24% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 28,
         talent = {
             [1] = 71028,
@@ -13546,9 +13546,9 @@ return {
         id = 1600102008,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升14%防御力！",
+        desc2 = "Enforces the airship hull, granting +14% DEF!",
         level = 8,
         talent = {
             [1] = 74008,
@@ -13564,9 +13564,9 @@ return {
         id = 1600103032,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有11.4%的几率偏移掉21%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 11.4% chance to deflect 21% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 32,
         talent = {
             [1] = 75032,
@@ -13585,9 +13585,9 @@ return {
         id = 1600102093,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升56.5%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +56.5% DEF!\nReduces DMG taken by an extra 5%.",
         level = 93,
         talent = {
             [1] = 74093,
@@ -13612,9 +13612,9 @@ return {
         id = 1600101061,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得22020点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 22020 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 61,
         talent = {
             [1] = 73061,
@@ -13636,9 +13636,9 @@ return {
         id = 1600102009,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升14.5%防御力！",
+        desc2 = "Enforces the airship hull, granting +14.5% DEF!",
         level = 9,
         talent = {
             [1] = 74009,
@@ -13654,9 +13654,9 @@ return {
         id = 1600103033,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有11.6%的几率偏移掉21.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 11.6% chance to deflect 21.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 33,
         talent = {
             [1] = 75033,
@@ -13677,7 +13677,7 @@ return {
         },
         desc = "",
         name = 0,
-        desc2 = "每回合有5%概率发射2枚导弹攻击敌人，每次造成10.5%火力值的伤害！",
+        desc2 = "Has a 5% chance each turn to fire 2 missiles, each dealing DMG equal to 10.5% of Firepower!",
         level = 1,
         talent = {
             [1] = 71001,
@@ -13691,9 +13691,9 @@ return {
         id = 1600002032,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有11.2%概率发射4枚导弹攻击敌人，每次造成26%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 11.2% chance each turn to fire 4 missiles, each dealing DMG equal to 26% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 32,
         talent = {
             [1] = 71032,
@@ -13712,9 +13712,9 @@ return {
         id = 1600102010,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%  受伤减免+1%",
+        desc = "DEF +0.5%, DMG MIT +1%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升15%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +15% DEF!\nReduces DMG taken by an extra 1%.",
         level = 10,
         talent = {
             [1] = 74010,
@@ -13732,9 +13732,9 @@ return {
         id = 1600103034,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有11.8%的几率偏移掉22%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 11.8% chance to deflect 22% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 34,
         talent = {
             [1] = 75034,
@@ -13753,9 +13753,9 @@ return {
         id = 1600101062,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得22380点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 22380 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 62,
         talent = {
             [1] = 73062,
@@ -13777,9 +13777,9 @@ return {
         id = 1600002029,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有10.6%概率发射4枚导弹攻击敌人，每次造成24.5%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 10.6% chance each turn to fire 4 missiles, each dealing DMG equal to 24.5% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 29,
         talent = {
             [1] = 71029,
@@ -13797,9 +13797,9 @@ return {
         id = 1600102011,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升15.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +15.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 11,
         talent = {
             [1] = 74011,
@@ -13816,9 +13816,9 @@ return {
         id = 1600103035,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有12%的几率偏移掉22.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 12% chance to deflect 22.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 35,
         talent = {
             [1] = 75035,
@@ -13839,9 +13839,9 @@ return {
         id = 1600002030,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%  触发概率额外+2%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%, additional Trigger Rate +2%",
         name = 0,
-        desc2 = "每回合有10.8%概率发射4枚导弹攻击敌人，每次造成25%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 10.8% chance each turn to fire 4 missiles, each dealing DMG equal to 25% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 30,
         talent = {
             [1] = 71030,
@@ -13861,9 +13861,9 @@ return {
         id = 1600101063,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得22740点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 22740 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 63,
         talent = {
             [1] = 73063,
@@ -13885,9 +13885,9 @@ return {
         id = 1600102012,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升16%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +16% DEF!\nReduces DMG taken by an extra 1%.",
         level = 12,
         talent = {
             [1] = 74012,
@@ -13904,9 +13904,9 @@ return {
         id = 1600103036,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有12.2%的几率偏移掉23%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 12.2% chance to deflect 23% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 36,
         talent = {
             [1] = 75036,
@@ -13925,9 +13925,9 @@ return {
         id = 1600101064,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得23100点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 23100 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 64,
         talent = {
             [1] = 73064,
@@ -13949,9 +13949,9 @@ return {
         id = 1600101096,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得34620点护盾，吸收受到的所有攻击！\n额外提升护盾值15%",
+        desc2 = "When battle starts, gain a shield with 34620 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 15%.",
         level = 96,
         talent = {
             [1] = 73096,
@@ -13976,9 +13976,9 @@ return {
         id = 1600102013,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升16.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +16.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 13,
         talent = {
             [1] = 74013,
@@ -13995,9 +13995,9 @@ return {
         id = 1600103037,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有12.4%的几率偏移掉23.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 12.4% chance to deflect 23.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 37,
         talent = {
             [1] = 75037,
@@ -14016,9 +14016,9 @@ return {
         id = 1600002024,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有9.6%概率发射4枚导弹攻击敌人，每次造成22%火力值的伤害！\n触发概率额外增加2%",
+        desc2 = "Has a 9.6% chance each turn to fire 4 missiles, each dealing DMG equal to 22% of Firepower!\nIncreases Trigger Rate by an additional 2%.",
         level = 24,
         talent = {
             [1] = 71024,
@@ -14036,9 +14036,9 @@ return {
         id = 1600002034,
         unlockSkill = {
         },
-        desc = "触发概率+0.2%  伤害比例+0.5%",
+        desc = "Trigger Rate +0.2%, DMG Ratio +0.5%",
         name = 0,
-        desc2 = "每回合有11.6%概率发射4枚导弹攻击敌人，每次造成27%火力值的伤害！\n触发概率额外增加4%",
+        desc2 = "Has a 11.6% chance each turn to fire 4 missiles, each dealing DMG equal to 27% of Firepower!\nIncreases Trigger Rate by an additional 4%.",
         level = 34,
         talent = {
             [1] = 71034,
@@ -14057,9 +14057,9 @@ return {
         id = 1600102014,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升17%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +17% DEF!\nReduces DMG taken by an extra 1%.",
         level = 14,
         talent = {
             [1] = 74014,
@@ -14076,9 +14076,9 @@ return {
         id = 1600103038,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有12.6%的几率偏移掉24%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 12.6% chance to deflect 24% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 38,
         talent = {
             [1] = 75038,
@@ -14097,9 +14097,9 @@ return {
         id = 1600003047,
         unlockSkill = {
         },
-        desc = "伤害比例+1%  穿透率+0.2%",
+        desc = "DMG Ratio +1%, Pierce Rate +0.2%",
         name = 0,
-        desc2 = "浮游炮出击！每4回合造成2次67%火力值的伤害，伤害有14.4%概率触发穿透！\n额外穿透率增加4%",
+        desc2 = "Fire the Pillar! Every 4 turns, launches 2 attacks that deals DMG equal to 67% of Firepower with a 14.4% chance to trigger Pierce!\nIncreases Pierce Rate by an additional 4%.",
         level = 47,
         talent = {
             [1] = 72047,
@@ -14119,9 +14119,9 @@ return {
         id = 1600101069,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得24900点护盾，吸收受到的所有攻击！\n额外提升护盾值9%",
+        desc2 = "When battle starts, gain a shield with 24900 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 9%.",
         level = 69,
         talent = {
             [1] = 73069,
@@ -14143,9 +14143,9 @@ return {
         id = 1600102015,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升17.5%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +17.5% DEF!\nReduces DMG taken by an extra 1%.",
         level = 15,
         talent = {
             [1] = 74015,
@@ -14163,9 +14163,9 @@ return {
         id = 1600103039,
         unlockSkill = {
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有12.8%的几率偏移掉24.5%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 12.8% chance to deflect 24.5% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 39,
         talent = {
             [1] = 75039,
@@ -14184,9 +14184,9 @@ return {
         id = 1600102096,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升58%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +58% DEF!\nReduces DMG taken by an extra 5%.",
         level = 96,
         talent = {
             [1] = 74096,
@@ -14211,9 +14211,9 @@ return {
         id = 1600102097,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升58.5%防御力！\n额外减少受到伤害5%",
+        desc2 = "Enforces the airship hull, granting +58.5% DEF!\nReduces DMG taken by an extra 5%.",
         level = 97,
         talent = {
             [1] = 74097,
@@ -14238,9 +14238,9 @@ return {
         id = 1600102016,
         unlockSkill = {
         },
-        desc = "防御力提升0.5%",
+        desc = "DEF +0.5%",
         name = 0,
-        desc2 = "提升飞舰主体防御能力，提升18%防御力！\n额外减少受到伤害1%",
+        desc2 = "Enforces the airship hull, granting +18% DEF!\nReduces DMG taken by an extra 1%.",
         level = 16,
         talent = {
             [1] = 74016,
@@ -14258,9 +14258,9 @@ return {
         unlockSkill = {
             [1] = 66204,
         },
-        desc = "偏斜率+0.2%  偏移伤害+0.5%",
+        desc = "Deflection Rate +0.2%, Deflected DMG +0.5%",
         name = 0,
-        desc2 = "存在护盾时，每次受到攻击有13%的几率偏移掉25%的伤害！\n额外增加偏移率4%",
+        desc2 = "When the shield is active, it has a 13% chance to deflect 25% of the DMG taken from each attack!\nIncreases Deflection Rate by an additional 4%.",
         level = 40,
         talent = {
             [1] = 75040,
@@ -14282,9 +14282,9 @@ return {
         id = 1600101049,
         unlockSkill = {
         },
-        desc = "护盾值+360",
+        desc = "Shield +360",
         name = 0,
-        desc2 = "战斗开场获得17700点护盾，吸收受到的所有攻击！\n额外提升护盾值6%",
+        desc2 = "When battle starts, gain a shield with 17700 HP that absorbs all attacks received!\nIncreases Shield HP by an additional 6%.",
         level = 49,
         talent = {
             [1] = 73049,

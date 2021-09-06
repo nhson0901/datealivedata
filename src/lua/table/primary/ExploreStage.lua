@@ -7,7 +7,7 @@ return {
         stageLevel = 0,
         talent = {
         },
-        des = "无加成",
+        des = "No bonus",
     },
     [2] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -18,7 +18,7 @@ return {
         talent = {
             [1] = 3001,
         },
-        des = "生命+0.42%",
+        des = "HP +0.42%",
     },
     [3] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -29,7 +29,7 @@ return {
         talent = {
             [1] = 3002,
         },
-        des = "生命+0.83%",
+        des = "HP +0.83%",
     },
     [4] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -40,7 +40,7 @@ return {
         talent = {
             [1] = 3003,
         },
-        des = "生命+1.25%",
+        des = "HP +1.25%",
     },
     [5] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -51,7 +51,7 @@ return {
         talent = {
             [1] = 3004,
         },
-        des = "生命+1.67%",
+        des = "HP +1.67%",
     },
     [6] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -62,7 +62,7 @@ return {
         talent = {
             [1] = 3005,
         },
-        des = "生命+2.08%",
+        des = "HP +2.08%",
     },
     [7] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -73,7 +73,7 @@ return {
         talent = {
             [1] = 3006,
         },
-        des = "生命+2.50%",
+        des = "HP +2.50%",
     },
     [8] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -84,7 +84,7 @@ return {
         talent = {
             [1] = 3007,
         },
-        des = "生命+2.92%",
+        des = "HP +2.92%",
     },
     [9] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -95,7 +95,7 @@ return {
         talent = {
             [1] = 3008,
         },
-        des = "生命+3.33%",
+        des = "HP +3.33%",
     },
     [10] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -106,7 +106,7 @@ return {
         talent = {
             [1] = 3009,
         },
-        des = "生命+3.75%",
+        des = "HP +3.75%",
     },
     [11] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -117,7 +117,7 @@ return {
         talent = {
             [1] = 3010,
         },
-        des = "生命+4.17%",
+        des = "HP +4.17%",
     },
     [12] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -128,7 +128,7 @@ return {
         talent = {
             [1] = 3011,
         },
-        des = "生命+4.58%",
+        des = "HP +4.58%",
     },
     [13] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -139,7 +139,7 @@ return {
         talent = {
             [1] = 3012,
         },
-        des = "生命+5.00%",
+        des = "HP +5.00%",
     },
     [14] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -150,7 +150,7 @@ return {
         talent = {
             [1] = 3013,
         },
-        des = "生命+5.42%",
+        des = "HP +5.42%",
     },
     [15] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -161,7 +161,7 @@ return {
         talent = {
             [1] = 3014,
         },
-        des = "生命+5.83%",
+        des = "HP +5.83%",
     },
     [16] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -172,7 +172,7 @@ return {
         talent = {
             [1] = 3015,
         },
-        des = "生命+6.25%",
+        des = "HP +6.25%",
     },
     [17] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -182,7 +182,7 @@ return {
         stageLevel = 0,
         talent = {
         },
-        des = "无加成",
+        des = "No bonus",
     },
     [18] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -193,7 +193,7 @@ return {
         talent = {
             [1] = 3101,
         },
-        des = "火力+0.42%",
+        des = "Firepower +0.42%",
     },
     [19] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -204,7 +204,7 @@ return {
         talent = {
             [1] = 3102,
         },
-        des = "火力+0.83%",
+        des = "Firepower +0.83%",
     },
     [20] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -215,7 +215,7 @@ return {
         talent = {
             [1] = 3103,
         },
-        des = "火力+1.25%",
+        des = "Firepower +1.25%",
     },
     [21] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -226,7 +226,7 @@ return {
         talent = {
             [1] = 3104,
         },
-        des = "火力+1.67%",
+        des = "Firepower +1.67%",
     },
     [22] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -237,7 +237,7 @@ return {
         talent = {
             [1] = 3105,
         },
-        des = "火力+2.08%",
+        des = "Firepower +2.08%",
     },
     [23] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -248,7 +248,7 @@ return {
         talent = {
             [1] = 3106,
         },
-        des = "火力+2.50%",
+        des = "Firepower +2.50%",
     },
     [24] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -259,7 +259,7 @@ return {
         talent = {
             [1] = 3107,
         },
-        des = "火力+2.92%",
+        des = "Firepower +2.92%",
     },
     [25] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -270,7 +270,7 @@ return {
         talent = {
             [1] = 3108,
         },
-        des = "火力+3.33%",
+        des = "Firepower +3.33%",
     },
     [26] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -281,7 +281,7 @@ return {
         talent = {
             [1] = 3109,
         },
-        des = "火力+3.75%",
+        des = "Firepower +3.75%",
     },
     [27] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -292,7 +292,7 @@ return {
         talent = {
             [1] = 3110,
         },
-        des = "火力+4.17%",
+        des = "Firepower +4.17%",
     },
     [28] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -303,7 +303,7 @@ return {
         talent = {
             [1] = 3111,
         },
-        des = "火力+4.58%",
+        des = "Firepower +4.58%",
     },
     [29] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -314,7 +314,7 @@ return {
         talent = {
             [1] = 3112,
         },
-        des = "火力+5.00%",
+        des = "Firepower +5.00%",
     },
     [30] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -325,7 +325,7 @@ return {
         talent = {
             [1] = 3113,
         },
-        des = "火力+5.42%",
+        des = "Firepower +5.42%",
     },
     [31] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -336,7 +336,7 @@ return {
         talent = {
             [1] = 3114,
         },
-        des = "火力+5.83%",
+        des = "Firepower +5.83%",
     },
     [32] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -347,7 +347,7 @@ return {
         talent = {
             [1] = 3115,
         },
-        des = "火力+6.25%",
+        des = "Firepower +6.25%",
     },
     [33] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -357,7 +357,7 @@ return {
         stageLevel = 0,
         talent = {
         },
-        des = "无加成",
+        des = "No bonus",
     },
     [34] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -368,7 +368,7 @@ return {
         talent = {
             [1] = 3201,
         },
-        des = "防御+0.42%",
+        des = "DEF +0.42%",
     },
     [35] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -379,7 +379,7 @@ return {
         talent = {
             [1] = 3202,
         },
-        des = "防御+0.83%",
+        des = "DEF +0.83%",
     },
     [36] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -390,7 +390,7 @@ return {
         talent = {
             [1] = 3203,
         },
-        des = "防御+1.25%",
+        des = "DEF +1.25%",
     },
     [37] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -401,7 +401,7 @@ return {
         talent = {
             [1] = 3204,
         },
-        des = "防御+1.67%",
+        des = "DEF +1.67%",
     },
     [38] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -412,7 +412,7 @@ return {
         talent = {
             [1] = 3205,
         },
-        des = "防御+2.08%",
+        des = "DEF +2.08%",
     },
     [39] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -423,7 +423,7 @@ return {
         talent = {
             [1] = 3206,
         },
-        des = "防御+2.50%",
+        des = "DEF +2.50%",
     },
     [40] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -434,7 +434,7 @@ return {
         talent = {
             [1] = 3207,
         },
-        des = "防御+2.92%",
+        des = "DEF +2.92%",
     },
     [41] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -445,7 +445,7 @@ return {
         talent = {
             [1] = 3208,
         },
-        des = "防御+3.33%",
+        des = "DEF +3.33%",
     },
     [42] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -456,7 +456,7 @@ return {
         talent = {
             [1] = 3209,
         },
-        des = "防御+3.75%",
+        des = "DEF +3.75%",
     },
     [43] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -467,7 +467,7 @@ return {
         talent = {
             [1] = 3210,
         },
-        des = "防御+4.17%",
+        des = "DEF +4.17%",
     },
     [44] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -478,7 +478,7 @@ return {
         talent = {
             [1] = 3211,
         },
-        des = "防御+4.58%",
+        des = "DEF +4.58%",
     },
     [45] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -489,7 +489,7 @@ return {
         talent = {
             [1] = 3212,
         },
-        des = "防御+5.00%",
+        des = "DEF +5.00%",
     },
     [46] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -500,7 +500,7 @@ return {
         talent = {
             [1] = 3213,
         },
-        des = "防御+5.42%",
+        des = "DEF +5.42%",
     },
     [47] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -511,7 +511,7 @@ return {
         talent = {
             [1] = 3214,
         },
-        des = "防御+5.83%",
+        des = "DEF +5.83%",
     },
     [48] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -522,7 +522,7 @@ return {
         talent = {
             [1] = 3215,
         },
-        des = "防御+6.25%",
+        des = "DEF +6.25%",
     },
     [49] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -532,7 +532,7 @@ return {
         stageLevel = 0,
         talent = {
         },
-        des = "无加成",
+        des = "No bonus",
     },
     [50] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -543,7 +543,7 @@ return {
         talent = {
             [1] = 3301,
         },
-        des = "战斗速度+0.42%",
+        des = "Battle Speed +0.42%",
     },
     [51] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -554,7 +554,7 @@ return {
         talent = {
             [1] = 3302,
         },
-        des = "战斗速度+0.83%",
+        des = "Battle Speed +0.83%",
     },
     [52] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -565,7 +565,7 @@ return {
         talent = {
             [1] = 3303,
         },
-        des = "战斗速度+1.25%",
+        des = "Battle Speed +1.25%",
     },
     [53] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -576,7 +576,7 @@ return {
         talent = {
             [1] = 3304,
         },
-        des = "战斗速度+1.67%",
+        des = "Battle Speed +1.67%",
     },
     [54] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -587,7 +587,7 @@ return {
         talent = {
             [1] = 3305,
         },
-        des = "战斗速度+2.08%",
+        des = "Battle Speed +2.08%",
     },
     [55] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -598,7 +598,7 @@ return {
         talent = {
             [1] = 3306,
         },
-        des = "战斗速度+2.50%",
+        des = "Battle Speed +2.50%",
     },
     [56] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -609,7 +609,7 @@ return {
         talent = {
             [1] = 3307,
         },
-        des = "战斗速度+2.92%",
+        des = "Battle Speed +2.92%",
     },
     [57] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -620,7 +620,7 @@ return {
         talent = {
             [1] = 3308,
         },
-        des = "战斗速度+3.33%",
+        des = "Battle Speed +3.33%",
     },
     [58] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -631,7 +631,7 @@ return {
         talent = {
             [1] = 3309,
         },
-        des = "战斗速度+3.75%",
+        des = "Battle Speed +3.75%",
     },
     [59] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -642,7 +642,7 @@ return {
         talent = {
             [1] = 3310,
         },
-        des = "战斗速度+4.17%",
+        des = "Battle Speed +4.17%",
     },
     [60] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -653,7 +653,7 @@ return {
         talent = {
             [1] = 3311,
         },
-        des = "战斗速度+4.58%",
+        des = "Battle Speed +4.58%",
     },
     [61] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -664,7 +664,7 @@ return {
         talent = {
             [1] = 3312,
         },
-        des = "战斗速度+5.00%",
+        des = "Battle Speed +5.00%",
     },
     [62] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -675,7 +675,7 @@ return {
         talent = {
             [1] = 3313,
         },
-        des = "战斗速度+5.42%",
+        des = "Battle Speed +5.42%",
     },
     [63] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -686,7 +686,7 @@ return {
         talent = {
             [1] = 3314,
         },
-        des = "战斗速度+5.83%",
+        des = "Battle Speed +5.83%",
     },
     [64] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -697,7 +697,7 @@ return {
         talent = {
             [1] = 3315,
         },
-        des = "战斗速度+6.25%",
+        des = "Battle Speed +6.25%",
     },
     [65] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -707,7 +707,7 @@ return {
         stageLevel = 0,
         talent = {
         },
-        des = "无加成",
+        des = "No bonus",
     },
     [66] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -718,7 +718,7 @@ return {
         talent = {
             [1] = 3401,
         },
-        des = "容量+0.42%",
+        des = "Capacity +0.42%",
     },
     [67] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -729,7 +729,7 @@ return {
         talent = {
             [1] = 3402,
         },
-        des = "容量+0.83%",
+        des = "Capacity +0.83%",
     },
     [68] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -740,7 +740,7 @@ return {
         talent = {
             [1] = 3403,
         },
-        des = "容量+1.25%",
+        des = "Capacity +1.25%",
     },
     [69] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -751,7 +751,7 @@ return {
         talent = {
             [1] = 3404,
         },
-        des = "容量+1.67%",
+        des = "Capacity +1.67%",
     },
     [70] = {
         stageIcon = "ui/explore/growup/common/jiewei1.png",
@@ -762,7 +762,7 @@ return {
         talent = {
             [1] = 3405,
         },
-        des = "容量+2.08%",
+        des = "Capacity +2.08%",
     },
     [71] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -773,7 +773,7 @@ return {
         talent = {
             [1] = 3406,
         },
-        des = "容量+2.50%",
+        des = "Capacity +2.50%",
     },
     [72] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -784,7 +784,7 @@ return {
         talent = {
             [1] = 3407,
         },
-        des = "容量+2.92%",
+        des = "Capacity +2.92%",
     },
     [73] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -795,7 +795,7 @@ return {
         talent = {
             [1] = 3408,
         },
-        des = "容量+3.33%",
+        des = "Capacity +3.33%",
     },
     [74] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -806,7 +806,7 @@ return {
         talent = {
             [1] = 3409,
         },
-        des = "容量+3.75%",
+        des = "Capacity +3.75%",
     },
     [75] = {
         stageIcon = "ui/explore/growup/common/jiewei2.png",
@@ -817,7 +817,7 @@ return {
         talent = {
             [1] = 3410,
         },
-        des = "容量+4.17%",
+        des = "Capacity +4.17%",
     },
     [76] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -828,7 +828,7 @@ return {
         talent = {
             [1] = 3411,
         },
-        des = "容量+4.58%",
+        des = "Capacity +4.58%",
     },
     [77] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -839,7 +839,7 @@ return {
         talent = {
             [1] = 3412,
         },
-        des = "容量+5.00%",
+        des = "Capacity +5.00%",
     },
     [78] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -850,7 +850,7 @@ return {
         talent = {
             [1] = 3413,
         },
-        des = "容量+5.42%",
+        des = "Capacity +5.42%",
     },
     [79] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -861,7 +861,7 @@ return {
         talent = {
             [1] = 3414,
         },
-        des = "容量+5.83%",
+        des = "Capacity +5.83%",
     },
     [80] = {
         stageIcon = "ui/explore/growup/common/jiewei3.png",
@@ -872,7 +872,7 @@ return {
         talent = {
             [1] = 3415,
         },
-        des = "容量+6.25%",
+        des = "Capacity +6.25%",
     },
     [81] = {
         stageIcon = "ui/explore/growup/common/lingshijieduan.png",
@@ -882,6 +882,6 @@ return {
         stageLevel = 0,
         talent = {
         },
-        des = "无加成",
+        des = "No bonus",
     },
 }

@@ -92,8 +92,8 @@ function LoginScene:showVideoViewMiniServer( re )
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		videoPth1 = "video/loginPart1_1.mp4"
-		videoPth2 = "video/loginPart2_1.mp4"
+		videoPth1 = "video/loginPart1_2.mp4"
+		videoPth2 = "video/loginPart2_2.mp4"
 	end
 	
 
@@ -156,8 +156,8 @@ function LoginScene:showVideoViewEngServer( re )
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		videoPth1 = "video/loginPart1_1.mp4"
-		videoPth2 = "video/loginPart2_1.mp4"
+		videoPth1 = "video/loginPart8.mp4"
+		videoPth2 = "video/loginPart9.mp4"
 	end
 	
 
@@ -214,8 +214,8 @@ function LoginScene:showVideoViewKoreaTwServer( re )
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		videoPth1 = "video/loginPart1.mp4"
-		videoPth2 = "video/loginPart2.mp4"
+		videoPth1 = "video/loginPart8.mp4"
+		videoPth2 = "video/loginPart9.mp4"
 	end
 	
 

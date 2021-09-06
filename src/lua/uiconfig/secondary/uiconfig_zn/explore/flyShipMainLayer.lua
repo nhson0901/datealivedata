@@ -482,7 +482,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "TextLable",
+													text = "确认洗练将消耗洗练材料，并返还90%材料",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -490,7 +490,7 @@ local t =
 														PositionX = -478,
 														PositionY = 22,
 													},
-													width = "117",
+													width = "421",
 													ZOrder = "1",
 												},
 												{
@@ -1085,7 +1085,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 6,
-														PositionY = -46,
+														PositionY = -45,
 													},
 													width = "43",
 													ZOrder = "1",
@@ -1165,7 +1165,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 6,
-														PositionY = -46,
+														PositionY = -45,
 													},
 													width = "62",
 													ZOrder = "1",
@@ -1245,7 +1245,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 6,
-														PositionY = -46,
+														PositionY = -45,
 													},
 													width = "42",
 													ZOrder = "1",
@@ -1622,18 +1622,20 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_name",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1643,10 +1645,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 85,
+												PositionX = 79,
 												PositionY = 24,
 											},
-											width = "62",
+											width = "91",
 											ZOrder = "1",
 										},
 										{
@@ -1690,7 +1692,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 115,
-												PositionY = 42,
+												PositionY = 44,
 											},
 											width = "40",
 											ZOrder = "1",
@@ -1809,18 +1811,20 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_name",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1830,10 +1834,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 85,
-												PositionY = 24,
+												PositionX = 82,
+												PositionY = 28,
 											},
-											width = "62",
+											width = "91",
 											ZOrder = "1",
 										},
 										{
@@ -1855,18 +1859,20 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "16",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "18",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_unlock_level",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1877,9 +1883,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 115,
-												PositionY = 42,
+												PositionY = 54,
 											},
-											width = "36",
+											width = "40",
 											ZOrder = "1",
 										},
 									},
@@ -1985,7 +1991,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "TextLable",
+									text = "确认洗练将消耗洗练材料，并返还90%材料",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1993,7 +1999,7 @@ local t =
 										PositionX = 10,
 										PositionY = 15,
 									},
-									width = "80",
+									width = "378",
 									ZOrder = "1",
 								},
 								{
@@ -2031,7 +2037,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "TextLable",
+									text = "确认洗练将消耗洗练材料，并返还90%材料",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -2039,7 +2045,7 @@ local t =
 										PositionX = 213,
 										PositionY = 15,
 									},
-									width = "89",
+									width = "415",
 									ZOrder = "1",
 								},
 							},

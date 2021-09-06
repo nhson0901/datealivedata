@@ -20,17 +20,13 @@ function ServerChoose:initUI(ui)
     self.ListView_groupList:setItemsMargin(6)
     self.Button_serverListItem = TFDirector:getChildByPath(self.Panel_prefab, "Button_serverListItem")
 
-    if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectKoreaTwServer() then
+    if TFGlobalUtils:isConnectEnServer() then
         self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
         self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
     elseif TFGlobalUtils:isConnectKoreaTwServer() then
-        self.Button_serverListItem:setTextureNormal("ui/login/global_new1/b7.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/global_new1/b7.png")
-    else
         self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
         self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
-    end
-    if TFGlobalUtils:isConnectEnServer() then
+    else
         self.Button_serverListItem:setTextureNormal("ui/login/7.png")
         self.Button_serverListItem:setTexturePressed("ui/login/7.png")
     end

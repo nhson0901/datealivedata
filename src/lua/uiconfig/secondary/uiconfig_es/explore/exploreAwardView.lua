@@ -178,14 +178,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Number of Earnings",
+											text = "Number of Earnings:",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -362,
 											},
-											width = "150",
+											width = "153",
 											ZOrder = "1",
 										},
 										{
@@ -228,7 +228,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -138,
+												PositionX = -201,
 											},
 											width = "134",
 											ZOrder = "1",
@@ -268,14 +268,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = " Frequency of Single Earninngs",
+											text = "Frequency of Single Earninngs:",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = 8,
 											},
-											width = "226",
+											width = "224",
 											ZOrder = "1",
 										},
 										{

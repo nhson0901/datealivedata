@@ -10253,7 +10253,7 @@ return {
         convertMax = {
             [570004] = 120,
         },
-        kanbanBgm = "",
+        kanbanBgm = "sound/bgm/kanban/main_cang_12802.mp3",
         kanbanEffect = {
         },
         favorUpOffset = {
@@ -10280,7 +10280,7 @@ return {
             [6] = 1784,
         },
         star = 0,
-        roleName = 32257,
+        roleName = 32264,
         dealProfit = {
         },
         sellProfit = {
@@ -10293,14 +10293,18 @@ return {
         totalMax = 1,
         kanbanBgmId = 11056,
         backgroundEffect = {
+            [1] = 412802,
         },
         dressImg = "icon/role/dress_kanban/12802m.png",
         offSet = {
+            y = 111,
+            x = 12,
         },
         nameTextId = 20237,
         roleModel = 212801,
         skinSettingTitle = 0,
         accessId = {
+            [1] = 321,
         },
         icon = "icon/role/dress_kanban/12802.png",
     },
@@ -10452,7 +10456,7 @@ return {
             [6] = 1769,
         },
         star = 0,
-        roleName = 32257,
+        roleName = 32264,
         dealProfit = {
         },
         sellProfit = {
@@ -10641,14 +10645,14 @@ return {
         },
         dressImg = "icon/role/dress_kanban/12702m.png",
         offSet = {
-            y = 110,
+            y = 35,
             x = -27,
         },
         nameTextId = 20233,
         roleModel = 212701,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 192,
+            [1] = 321,
         },
         icon = "icon/role/dress_kanban/12702.png",
     },
@@ -11079,6 +11083,9 @@ return {
         speVoiceSuffix = "",
         subType = 0,
         popupOffset = {
+            y = -230,
+            x = 60,
+            withUichange = 0,
         },
         scales = 0,
         name = "响-超市高级",
@@ -11091,7 +11098,7 @@ return {
         convertMax = {
             [570004] = 120,
         },
-        kanbanBgm = "",
+        kanbanBgm = "sound/bgm/kanban/main_xiang_12602.mp3",
         kanbanEffect = {
         },
         favorUpOffset = {
@@ -11131,14 +11138,18 @@ return {
         totalMax = 1,
         kanbanBgmId = 11054,
         backgroundEffect = {
+            [1] = 412602,
         },
         dressImg = "icon/role/dress_kanban/12602m.png",
         offSet = {
+            y = 49,
+            x = 33,
         },
         nameTextId = 20229,
         roleModel = 212601,
         skinSettingTitle = 0,
         accessId = {
+            [1] = 321,
         },
         icon = "icon/role/dress_kanban/12602.png",
     },
@@ -11386,6 +11397,7 @@ return {
         roleModel = 212601,
         skinSettingTitle = 0,
         accessId = {
+            [1] = 33,
         },
         icon = "icon/role/dress_kanban/12601.png",
     },

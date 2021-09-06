@@ -6,19 +6,19 @@ return {
             [1] = {
                 pageIndex = 1,
                 fileName = "CommonRoomView",
-                name = "升级",
+                name = "Upgrade",
             },
             [2] = {
                 pageIndex = 2,
                 fileName = "CommonRoomView",
-                name = "属性",
+                name = "Stats",
             },
             [3] = {
-                name = "任务",
+                name = "Quest",
                 fileName = "CommandTaskView",
             },
             [4] = {
-                name = "形态系统",
+                name = "Form System",
                 fileName = "CommandSkillView",
             },
         },
@@ -70,15 +70,15 @@ return {
             [1] = {
                 pageIndex = 1,
                 fileName = "CommonRoomView",
-                name = "升级",
+                name = "Upgrade",
             },
             [2] = {
                 pageIndex = 2,
                 fileName = "CommonRoomView",
-                name = "属性",
+                name = "Stats",
             },
             [3] = {
-                name = "武器",
+                name = "Weapon",
                 fileName = "WeaponRoomView",
             },
         },
@@ -95,7 +95,7 @@ return {
             [3] = 1600003,
         },
         id = 2,
-        unlockDes = "Lv4解锁",
+        unlockDes = "Unlocked at Lv.4",
         poses  = {
             [1] = {
                 y = 383,
@@ -134,15 +134,15 @@ return {
             [1] = {
                 pageIndex = 1,
                 fileName = "CommonRoomView",
-                name = "升级",
+                name = "Upgrade",
             },
             [2] = {
                 pageIndex = 2,
                 fileName = "CommonRoomView",
-                name = "属性",
+                name = "Stats",
             },
             [3] = {
-                name = "防具",
+                name = "Armor",
                 fileName = "WeaponRoomView",
             },
         },
@@ -159,7 +159,7 @@ return {
             [3] = 1600103,
         },
         id = 3,
-        unlockDes = "Lv6解锁",
+        unlockDes = "Unlocked at Lv.6",
         poses  = {
             [1] = {
                 y = 395,
@@ -198,15 +198,15 @@ return {
             [1] = {
                 pageIndex = 1,
                 fileName = "CommonRoomView",
-                name = "升级",
+                name = "Upgrade",
             },
             [2] = {
                 pageIndex = 2,
                 fileName = "CommonRoomView",
-                name = "属性",
+                name = "Stats",
             },
             [3] = {
-                name = "配件装配",
+                name = "Component Assembly",
                 fileName = "AccessoriesRoomView",
             },
         },
@@ -244,7 +244,7 @@ return {
         equipId = {
         },
         id = 4,
-        unlockDes = "Lv8解锁",
+        unlockDes = "Unlocked at Lv.8",
         poses  = {
             [1] = {
                 y = 399,
@@ -283,12 +283,12 @@ return {
             [1] = {
                 pageIndex = 1,
                 fileName = "CommonRoomView",
-                name = "升级",
+                name = "Upgrade",
             },
             [2] = {
                 pageIndex = 2,
                 fileName = "CommonRoomView",
-                name = "属性",
+                name = "Stats",
             },
         },
         team = {
@@ -301,7 +301,7 @@ return {
         equipId = {
         },
         id = 5,
-        unlockDes = "Lv10解锁",
+        unlockDes = "Unlocked at Lv.10",
         poses  = {
             [1] = {
                 y = 314,
@@ -338,15 +338,15 @@ return {
         showStage = false,
         pageUi = {
             [1] = {
-                name = "星数加成",
+                name = "Star Bonus",
                 fileName = "ExhibitionRoomInfoView",
             },
             [2] = {
-                name = "秘宝升星",
+                name = "Treasure Star Up",
                 fileName = "GemComposeView",
             },
             [3] = {
-                name = "秘宝激活",
+                name = "Treasure Activation",
                 fileName = "ExhibitionRoomView",
             },
         },
@@ -360,7 +360,7 @@ return {
         equipId = {
         },
         id = 6,
-        unlockDes = "Lv2解锁",
+        unlockDes = "Unlocked at Lv.2",
         poses  = {
         },
         mainIcon = "ui/explore/main/014.png",

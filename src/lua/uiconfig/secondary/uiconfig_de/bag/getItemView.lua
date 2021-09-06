@@ -108,12 +108,13 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 563,
-						PositionY = 484,
-						LeftPositon = 463,
+						PositionX = 568,
+						PositionY = 485,
 						TopPosition = 130,
 						relativeToName = "Panel",
 						nType = 3,
+						nGravity = 6,
+						nAlign = 2
 					},
 					uipanelviewmodel = 
 					{
@@ -475,7 +476,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "40",
+											height = "37",
 											ignoreSize = "True",
 											name = "Label_title",
 											nTextAlign = "1",
@@ -491,7 +492,7 @@ local t =
 											{
 												PositionY = -3,
 											},
-											width = "152",
+											width = "329",
 											ZOrder = "1",
 										},
 									},
@@ -629,7 +630,7 @@ local t =
 													{
 														
 													},
-													width = "83",
+													width = "117",
 													ZOrder = "1",
 												},
 											},
