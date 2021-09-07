@@ -42,7 +42,7 @@ return {
         totalMax = 1,
         convertMax = {
         },
-        isSkip = false,
+        isSkip = true,
         superType = 70,
         Note = "尼德霍格",
     },

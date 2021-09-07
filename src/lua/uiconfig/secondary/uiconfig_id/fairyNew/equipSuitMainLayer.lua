@@ -4540,7 +4540,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "570",
 									ZOrder = "1",
 									components = 
@@ -5213,7 +5212,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "70",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_info_skill_desc",
 											nTextAlign = "0",
@@ -5858,6 +5857,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "570",
 									ZOrder = "1",
 									components = 
@@ -6261,7 +6261,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 60,
-														PositionY = 45,
+														PositionY = 35,
 													},
 													width = "86",
 													ZOrder = "1",
@@ -6292,7 +6292,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "50",
+													height = "0",
 													ignoreSize = "False",
 													name = "Label_bag_skill_desc",
 													nTextAlign = "1",
@@ -6307,7 +6307,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 84,
-														PositionY = 45,
+														PositionY = 35,
 													},
 													width = "468",
 													ZOrder = "1",

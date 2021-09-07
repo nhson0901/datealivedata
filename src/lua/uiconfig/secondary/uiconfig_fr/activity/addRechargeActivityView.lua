@@ -94,21 +94,21 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "535",
+							height = "546",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/picture/ad148.png",
+							texturePath = "ui/activity/picture/ad196.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
 								PositionX = 3,
 								PositionY = -1,
 							},
-							width = "926",
+							width = "890",
 							ZOrder = "1",
 							components = 
 							{
@@ -130,7 +130,7 @@ local t =
 									height = "90",
 									ignoreSize = "False",
 									innerHeight = "90",
-									innerWidth = "480",
+									innerWidth = "520",
 									name = "ScrollView_task",
 									showScrollbar = "False",
 									sizepercentx = "0",
@@ -140,15 +140,15 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 211,
-										PositionY = -19,
+										PositionX = 148,
+										PositionY = -56,
 									},
 									uipanelviewmodel = 
 									{
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "480",
+									width = "520",
 									ZOrder = "1",
 								},
 								{
@@ -191,8 +191,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 394,
-										PositionY = 247,
+										PositionX = 396,
+										PositionY = 245,
 									},
 									width = "136",
 									ZOrder = "1",
@@ -330,7 +330,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -207,
-										PositionY = -206,
+										PositionY = -207,
 									},
 									width = "72",
 									ZOrder = "1",
@@ -358,8 +358,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 321,
-										PositionY = -168,
+										PositionX = 294,
+										PositionY = -184,
 									},
 									UItype = "Button",
 									width = "262",
@@ -408,7 +408,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -398,
-								PositionY = -206,
+								PositionY = -207,
 							},
 							width = "188",
 							ZOrder = "1",
@@ -880,7 +880,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/picture/ad148.png",
+			"ui/activity/picture/ad196.png",
 			"ui/activity/add_recharge/008.png",
 			"ui/activity/add_recharge/005.png",
 			"ui/activity/add_recharge/006.png",

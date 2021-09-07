@@ -172,11 +172,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "132",
-							ignoreSize = "True",
+							height = "173",
+							ignoreSize = "False",
 							name = "Image_summonView_1",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -187,7 +187,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 28,
-								PositionY = -223,
+								PositionY = -199,
 							},
 							width = "952",
 							ZOrder = "1",
@@ -371,7 +371,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 9,
-										PositionY = 18,
+										PositionY = 37,
 									},
 									width = "194",
 									ZOrder = "1",
@@ -410,7 +410,7 @@ local t =
 											UUID = "e84c4475_3475_4c95_9001_e86850ef4760",
 											anchorPoint = "False",
 											anchorPointX = "0",
-											anchorPointY = "0.5",
+											anchorPointY = "0",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
@@ -424,18 +424,18 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_have",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -445,9 +445,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = 35,
+												PositionY = 26,
 											},
-											width = "202",
+											width = "210",
 											ZOrder = "1",
 										},
 										{
@@ -575,7 +575,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -3681,6 +3681,7 @@ local t =
 								PositionY = -201,
 							},
 							UItype = "Button",
+							visible = "False",
 							width = "108",
 							ZOrder = "1",
 							components = 

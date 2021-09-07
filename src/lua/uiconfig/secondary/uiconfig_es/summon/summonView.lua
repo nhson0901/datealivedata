@@ -172,11 +172,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "132",
-							ignoreSize = "True",
+							height = "168",
+							ignoreSize = "False",
 							name = "Image_summonView_1",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -187,7 +187,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 28,
-								PositionY = -223,
+								PositionY = -202,
 							},
 							width = "952",
 							ZOrder = "1",
@@ -371,9 +371,8 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 9,
-										PositionY = 26,
+										PositionY = 35,
 									},
-									visible = "False",
 									width = "194",
 									ZOrder = "1",
 									components = 
@@ -411,7 +410,7 @@ local t =
 											UUID = "e84c4475_3475_4c95_9001_e86850ef4760",
 											anchorPoint = "False",
 											anchorPointX = "0",
-											anchorPointY = "0.5",
+											anchorPointY = "0",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
@@ -432,11 +431,11 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_have",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -446,9 +445,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = 35,
+												PositionY = 25,
 											},
-											width = "221",
+											width = "210",
 											ZOrder = "1",
 										},
 										{
@@ -520,7 +519,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 1,
+										PositionX = 9,
 										PositionY = -18,
 									},
 									width = "194",
@@ -581,8 +580,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_have",
 											nTextAlign = "2",
 											nTextHAlign = "0",
@@ -598,7 +597,7 @@ local t =
 												PositionX = -3,
 												PositionY = 21,
 											},
-											width = "252",
+											width = "210",
 											ZOrder = "1",
 										},
 										{
@@ -3039,7 +3038,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 9,
+										PositionX = 18,
 										PositionY = -18,
 									},
 									width = "194",
@@ -3100,8 +3099,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_have",
 											nTextAlign = "2",
 											nTextHAlign = "0",
@@ -3116,7 +3115,7 @@ local t =
 											{
 												PositionY = 21,
 											},
-											width = "184",
+											width = "208",
 											ZOrder = "1",
 										},
 										{

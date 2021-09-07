@@ -6263,7 +6263,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 60,
-														PositionY = 45,
+														PositionY = 38,
 													},
 													width = "86",
 													ZOrder = "1",
@@ -6294,7 +6294,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "50",
+													height = "0",
 													ignoreSize = "False",
 													name = "Label_bag_skill_desc",
 													nTextAlign = "1",
@@ -6309,7 +6309,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 84,
-														PositionY = 45,
+														PositionY = 38,
 													},
 													width = "468",
 													ZOrder = "1",

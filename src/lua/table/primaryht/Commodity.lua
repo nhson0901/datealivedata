@@ -9004,8 +9004,8 @@ return {
         batchBuy = false,
         buyEndTime = {
         },
-        order = 14,
-        grid = 14,
+        order = 15,
+        grid = 15,
         priceVal = {
             [1] = 12000,
         },
@@ -9525,7 +9525,7 @@ return {
             [325001] = 1,
         },
         showBeginTime = "",
-        openContVal = 99,
+        openContVal = 3,
         title = 0,
         sellDescribtion = "2004",
         showEndTime = "",
@@ -78503,8 +78503,8 @@ return {
         batchBuy = false,
         buyEndTime = {
         },
-        order = 13,
-        grid = 13,
+        order = 14,
+        grid = 14,
         priceVal = {
             [1] = 12000,
         },
