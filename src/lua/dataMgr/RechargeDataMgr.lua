@@ -13,6 +13,7 @@ function RechargeDataMgr:reset()
 	self.monthCardSignData = {}--月卡签到数据
 	self.monthCardGiftData = {}--月卡礼包数据
 	self.fundDataDic = {}  -- 养成基金数据
+	self.rechargeBackInfo = {}  --退款后扣除钻石和代币
 
 	self.pushGiftData = nil
 end
@@ -53,7 +54,8 @@ function RechargeDataMgr:init()
 
 	TFDirector:addProto(s2c.RECHARGE_PUSH_CHANGE_RECHARGE_CFG, self, self.recvGoodsList)
 
-	--s2c.RECHARGE_BUY_MONTH_CARD_INFO
+	TFDirector:addProto(s2c.RECHARGE_RESP_GET_DIAMOND_EXCHANGE_ITEM, self, self.recvRechargeBackInfo)
+
 
 	if HeitaoSdk then
 		HeitaoSdk.setPayCallBack(function(result)
@@ -114,6 +116,12 @@ function RechargeDataMgr:onLogin()
 	TFDirector:send(c2s.RECHARGE_GET_MONTH_CARD_INFO, {})
 	TFDirector:send(c2s.RECHARGE_REQ_RECEIVE_SYS_FUN_INFO, {})
 	TFDirector:send(c2s.RECHARGE_REQ_GIFT_LOGIN_CHECK, {})
+
+	if not TFGlobalUtils:isConnectKoreaTwServer() then   --除韩台服外
+		TFDirector:send(c2s.RECHARGE_REQ_GET_DIAMOND_EXCHANGE_ITEM, {})  --海外版新增统计退款扣除钻石代币协议
+	end
+	
+
 	self:sendGetTotalPayRewardInfo()
 	self:sendGetTotalPayRewardCfg()
 	self:sendGetMonthCardInfo()
@@ -1485,6 +1493,20 @@ end
 --获取月卡信息
 function RechargeDataMgr:getMonthCardInfo(  )
 	return self.monthCard
+end
+
+--还玩版本退款后扣除钻石和代币信息
+function RechargeDataMgr:recvRechargeBackInfo(event)
+	self.rechargeBackInfo = self.rechargeBackInfo or {} 
+	local data = event.data
+	self.rechargeBackInfo[EC_SItemType.DIAMOND] = data.diamondNum
+	self.rechargeBackInfo[EC_SItemType.TokenMoney] = data.exchangeItemNum
+
+	EventMgr:dispatchEvent(EV_BAG_ITEM_UPDATE) --通知更新显示
+end
+--获取退款代币和钻石信息
+function RechargeDataMgr:getRechargeBackInfo(itemId)
+	return self.rechargeBackInfo[itemId] or 0
 end
 
 return RechargeDataMgr:new();

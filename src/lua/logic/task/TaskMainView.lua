@@ -1317,6 +1317,7 @@ function TaskMainView:onTaskReceiveEvent(reward)
 end
 
 function TaskMainView:onUpdateActiveEvent(oldItem, newItem)
+    if not (oldItem and newItem) then return end  --针对海外版退款容错处理
     local itemCid
     if oldItem then
         itemCid = oldItem.cid

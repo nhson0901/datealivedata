@@ -116,6 +116,12 @@ function GoodsDataMgr:getItemCount(cid, isFormat)
         end
     end
 
+    if cid == EC_SItemType.DIAMOND or cid == EC_SItemType.TokenMoney then  --优先判断是有有扣除钻石和代币为负状态
+        local rechageBackNum = RechargeDataMgr:getRechargeBackInfo(cid)
+        if rechageBackNum < 0 then
+            return rechageBackNum
+        end
+    end
     -- 超过百万显示为 'k'
     if isFormat then
         return Utils:format_number(count)

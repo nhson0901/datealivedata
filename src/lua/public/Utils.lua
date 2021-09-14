@@ -788,7 +788,9 @@ function Utils:getTimeData(timeVal)
 end
 
 function Utils:getTimeDiff(timeVal)
-    local diff = os.time() - timeVal;
+    timeZone = GV_UTC_TIME_ZONE
+    local timeInterval = os.time(os.date("!*t", timeVal)) + timeZone * 3600 + (os.date("*t", time).isdst and -1 or 0) * 3600  --isdst是否夏令时决定加一或者不加1小时
+    local diff = os.time() - timeInterval
     local day = diff / 86400;
     local hour= diff % 86400 / 3600;
     local min = diff % 86400 % 3600 / 60;
