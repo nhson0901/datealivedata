@@ -789,8 +789,10 @@ end
 
 function Utils:getTimeDiff(timeVal)
     timeZone = GV_UTC_TIME_ZONE
-    local timeInterval = os.time(os.date("!*t", timeVal)) + timeZone * 3600 + (os.date("*t", time).isdst and -1 or 0) * 3600  --isdst是否夏令时决定加一或者不加1小时
-    local diff = os.time() - timeInterval
+    local now = os.time()
+    local timeInterval = os.time(os.date("!*t", now))  --减去时区差值 统一为UTC-0 
+    local timeServer = os.time(os.date("!*t", timeVal)) --减去时区差值 统一为UTC-0 
+    local diff = timeInterval - timeServer 
     local day = diff / 86400;
     local hour= diff % 86400 / 3600;
     local min = diff % 86400 % 3600 / 60;
