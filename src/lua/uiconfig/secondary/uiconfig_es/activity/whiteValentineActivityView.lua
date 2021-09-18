@@ -265,7 +265,7 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 307,
+								PositionX = 282,
 								PositionY = -229,
 							},
 							UItype = "Button",
@@ -289,7 +289,7 @@ local t =
 							height = "70",
 							ignoreSize = "False",
 							innerHeight = "70",
-							innerWidth = "600",
+							innerWidth = "550",
 							name = "scroll_cost",
 							showScrollbar = "False",
 							sizepercentx = "0",
@@ -307,14 +307,14 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "600",
+							width = "550",
 							ZOrder = "2",
 						},
 						{
 							controlID = "txt_tip_panel_content_Panel-whiteValentineActivityView_Layer1_activity_Game",
 							UUID = "fec78152_033f_460b_8b42_b1d41975ca93",
 							anchorPoint = "False",
-							anchorPointX = "0.5",
+							anchorPointX = "0",
 							anchorPointY = "0.5",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
@@ -350,10 +350,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -362,
+								PositionX = -437,
 								PositionY = -172,
 							},
-							width = "251",
+							width = "278",
 							ZOrder = "2",
 						},
 						{
@@ -396,10 +396,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -286,
+								PositionX = -149,
 								PositionY = -172,
 							},
-							width = "13",
+							width = "14",
 							ZOrder = "2",
 						},
 						{

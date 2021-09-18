@@ -637,7 +637,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -172,
-										PositionY = -22,
+										PositionY = -16,
 									},
 									width = "244",
 									ZOrder = "1",
@@ -661,14 +661,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_progress_title",
 									nTextAlign = "1",
@@ -683,9 +683,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -296,
-										PositionY = -39,
+										PositionY = -30,
 									},
-									width = "143",
+									width = "130",
 									ZOrder = "1",
 								},
 								{
@@ -707,14 +707,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_progress",
 									nTextAlign = "1",
@@ -728,10 +728,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -34,
-										PositionY = -39,
+										PositionX = -52,
+										PositionY = -48,
 									},
-									width = "80",
+									width = "74",
 									ZOrder = "1",
 								},
 								{

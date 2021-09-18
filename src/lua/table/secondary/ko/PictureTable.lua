@@ -4572,7 +4572,7 @@ return {
     [915] = {
         id = 915,
         res = "ui/activity/whiteValentine/m2.png",
-        res_en = "ui/activity/whiteValentine/m2_ko.png",
+        res_en = "ui/activity/whiteValentine/m2_en.png",
     },
     [916] = {
         id = 916,
@@ -7713,5 +7713,10 @@ return {
         id = 1543,
         res = "icon/equipment/suit/shijie.png",
         res_en = "icon/equipment/suit/shijie_ko.png",
+    },
+    [1544] = {
+        id = 1544,
+        res = "ui/activity/picture/icon1001.png",
+        res_en = "ui/activity/picture/icon1001_en.png",
     },
 }

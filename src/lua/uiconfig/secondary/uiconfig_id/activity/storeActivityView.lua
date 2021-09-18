@@ -861,7 +861,7 @@ local t =
 											{
 												PositionX = 47,
 											},
-											width = "71",
+											width = "74",
 											ZOrder = "1",
 										},
 										{
@@ -997,7 +997,7 @@ local t =
 											{
 												PositionX = 47,
 											},
-											width = "71",
+											width = "74",
 											ZOrder = "1",
 										},
 										{
@@ -1133,7 +1133,7 @@ local t =
 											{
 												PositionX = 47,
 											},
-											width = "71",
+											width = "74",
 											ZOrder = "1",
 										},
 										{
@@ -1336,7 +1336,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "34",
+													height = "0",
 													ignoreSize = "False",
 													name = "Label_countLimit",
 													nTextAlign = "1",
@@ -1352,7 +1352,7 @@ local t =
 													{
 														PositionY = 20,
 													},
-													width = "158",
+													width = "160",
 													ZOrder = "1",
 												},
 											},
@@ -2218,14 +2218,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "15",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "50",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_buy_tip",
 									nTextAlign = "1",

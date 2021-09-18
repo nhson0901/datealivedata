@@ -5952,7 +5952,7 @@ return {
     [1191] = {
         id = 1191,
         res = "ui/activity/whiteValentine/m2.png",
-        res_en = "ui/activity/whiteValentine/m2_de.png",
+        res_en = "ui/activity/whiteValentine/m2_en.png",
     },
     [1192] = {
         id = 1192,
@@ -7403,5 +7403,15 @@ return {
         id = 1481,
         res = "ui/summon/o_001.png",
         res_en = "ui/summon/o_001_en.png",
+    },
+    [1482] = {
+        id = 1482,
+        res = "ui/activity/summonActivity/cover1_1.png",
+        res_en = "ui/activity/summonActivity/cover1_1_en.png",
+    },
+    [1483] = {
+        id = 1483,
+        res = "ui/activity/picture/icon1001.png",
+        res_en = "ui/activity/picture/icon1001_en.png",
     },
 }

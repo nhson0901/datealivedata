@@ -336,7 +336,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "27",
+							height = "25",
 							ignoreSize = "True",
 							name = "txt_tip",
 							nTextAlign = "1",
@@ -353,7 +353,7 @@ local t =
 								PositionX = -362,
 								PositionY = -172,
 							},
-							width = "141",
+							width = "142",
 							ZOrder = "2",
 						},
 						{
@@ -382,7 +382,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "22",
+							height = "21",
 							ignoreSize = "True",
 							name = "txt_num",
 							nTextAlign = "1",
@@ -396,10 +396,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -307,
+								PositionX = -283,
 								PositionY = -174,
 							},
-							width = "13",
+							width = "12",
 							ZOrder = "2",
 						},
 						{

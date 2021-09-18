@@ -5967,7 +5967,7 @@ return {
     [1194] = {
         id = 1194,
         res = "ui/activity/whiteValentine/m2.png",
-        res_en = "ui/activity/whiteValentine/m2_es.png",
+        res_en = "ui/activity/whiteValentine/m2_en.png",
     },
     [1195] = {
         id = 1195,
@@ -7443,5 +7443,15 @@ return {
         id = 1489,
         res = "ui/summon/o_001.png",
         res_en = "ui/summon/o_001_en.png",
+    },
+    [1490] = {
+        id = 1490,
+        res = "ui/activity/summonActivity/cover1_1.png",
+        res_en = "ui/activity/summonActivity/cover1_1_en.png",
+    },
+    [1491] = {
+        id = 1491,
+        res = "ui/activity/picture/icon1001.png",
+        res_en = "ui/activity/picture/icon1001_en.png",
     },
 }

@@ -4331,8 +4331,8 @@ return {
         [1] = {
             baseName = "MFLiHei_Noncommercial",
             name = "font/MFLiHei_Noncommercial.ttf",
-            color = "#e3e4f0",
-            text = "花費代幣",
+            color = "#f9db47",
+            text = "立即前往購買",
             clickId = "",
             size = 24,
         },

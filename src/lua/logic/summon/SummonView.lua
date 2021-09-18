@@ -5,7 +5,7 @@ local summonToStore = {    -- 谷峰强制要求配置放到代码里面
 }
 function SummonView:initData(paramIdx, selectRightIndex)
     self.summon_ = SummonDataMgr:getSummon()
-    dump(self.summon_)
+    --dump(self.summon_)
     self.summonItems_ = {}
     self.firstCostItemId_ = nil
     self.fristCostItem_ = {}
@@ -310,85 +310,7 @@ function SummonView:updateSelectInfo()
 
     self.costItem_ = {}
     self.fristCostItem_ = {}
-    for i, v in ipairs(self.Button_buy) do
-        v.root:setVisible(tobool(summon[i]))
-
-        if summonCfg.summonType == EC_SummonType.APPOINT_EQUIPMENT or
-                summonCfg.summonType == EC_SummonType.APPOINT_HERO then
-            local inOpenStage = SummonDataMgr:isInOpenStage(summon[i].id)
-            v.root:setGrayEnabled(not inOpenStage);
-            v.root:setTouchEnabled(inOpenStage);
-        else
-            v.root:setGrayEnabled(false);
-            v.root:setTouchEnabled(true);
-        end
-
-        v.Image_upTips:setVisible(summonCfg.up)
-        if v.root:isVisible() then
-            local subSummonCfg = SummonDataMgr:getSummonCfg(summon[i].id)
-            local cost = subSummonCfg.cost[1]
-            local costId, costNum
-            for id, num in pairs(cost) do
-                costId = id
-                costNum = num
-                break
-            end
-            
-            -- 特权召唤一次免费情况(仅限召唤一次的按钮)
-            if i == 1 and SummonDataMgr:isFreeBtnById(self.currentSummon_[i].id) then
-                v.Label_summon:setTextById(14300345)
-                costNum = 0
-                v.saleBg:show()
-            else
-                v.Label_summon:setTextById(1200006, subSummonCfg.cardCount)
-                v.saleBg:hide()
-            end
-
-            local costCfg = GoodsDataMgr:getItemCfg(costId)
-            costicon = costCfg.icon
-            v.Image_costIcon:setTexture(costCfg.icon)
-            v.Label_costNum:setTextById(800007, costNum)
-            self.costItem_[i] = {
-                id = costId,
-                num = costNum,
-            }
-
-            v.Image_firstCostIcon:hide()
-            v.Label_firstCostNum:hide()
-            if subSummonCfg.firstCost and #subSummonCfg.firstCost > 0 then
-                local firstCost = subSummonCfg.firstCost[1]
-                local firstCostId, firstCostNum
-                for id, num in pairs(firstCost) do
-                    firstCostId = id
-                    firstCostNum = num
-                    break
-                end
-
-                v.Image_firstCostIcon:show()
-                v.Label_firstCostNum:show()
-                v.Image_firstCostIcon:setTexture(GoodsDataMgr:getItemCfg(firstCostId).icon)
-
-                local ownNum = GoodsDataMgr:getItemCount(firstCostId)
-                if ownNum >= costNum then
-                    v.Label_firstCostNum:setTextById(800007, costNum)
-                    v.Label_costNum:setTextById(800007, 0)
-                else
-                    v.Label_firstCostNum:setTextById(800007, ownNum)
-                    v.Label_costNum:setTextById(800007, costNum - ownNum)
-                end
-
-                self.fristCostItem_[i] = {
-                    id = firstCostId,
-                    num = firstCostNum,
-                }
-            end
-
-            v.Image_costIcon:setPositionX(v.initFirstPosX)
-            if v.Image_firstCostIcon:isVisible() then
-                v.Image_costIcon:setPositionX(v.initPosX)
-            end
-        end
-    end
+    
 
     --判断是否有优先消耗的道具
     self.Image_firstCost:hide()
@@ -573,7 +495,7 @@ function SummonView:updateSelectInfo()
 
     -- 服装召唤
     if isClothseSummon then
-        local summon = {}
+        summon = {}
 
         local summonType = self.clothseData_[self.selectClothse].type
         for i, v in ipairs(self.currentSummon_) do
@@ -702,6 +624,85 @@ function SummonView:updateSelectInfo()
         Label_Count:setText(summonFreeTime.summonNums)
     end
 
+    for i, v in ipairs(self.Button_buy) do
+        v.root:setVisible(tobool(summon[i]))
+
+        if summonCfg.summonType == EC_SummonType.APPOINT_EQUIPMENT or
+                summonCfg.summonType == EC_SummonType.APPOINT_HERO then
+            local inOpenStage = SummonDataMgr:isInOpenStage(summon[i].id)
+            v.root:setGrayEnabled(not inOpenStage);
+            v.root:setTouchEnabled(inOpenStage);
+        else
+            v.root:setGrayEnabled(false);
+            v.root:setTouchEnabled(true);
+        end
+
+        v.Image_upTips:setVisible(summonCfg.up)
+        if v.root:isVisible() then
+            local subSummonCfg = SummonDataMgr:getSummonCfg(summon[i].id)
+            local cost = subSummonCfg.cost[1]
+            local costId, costNum
+            for id, num in pairs(cost) do
+                costId = id
+                costNum = num
+                break
+            end
+            
+            -- 特权召唤一次免费情况(仅限召唤一次的按钮)
+            if i == 1 and SummonDataMgr:isFreeBtnById(self.currentSummon_[i].id) then
+                v.Label_summon:setTextById(14300345)
+                costNum = 0
+                v.saleBg:show()
+            else
+                v.Label_summon:setTextById(1200006, subSummonCfg.cardCount)
+                v.saleBg:hide()
+            end
+
+            local costCfg = GoodsDataMgr:getItemCfg(costId)
+            costicon = costCfg.icon
+            v.Image_costIcon:setTexture(costCfg.icon)
+            v.Label_costNum:setTextById(800007, costNum)
+            self.costItem_[i] = {
+                id = costId,
+                num = costNum,
+            }
+
+            v.Image_firstCostIcon:hide()
+            v.Label_firstCostNum:hide()
+            if subSummonCfg.firstCost and #subSummonCfg.firstCost > 0 then
+                local firstCost = subSummonCfg.firstCost[1]
+                local firstCostId, firstCostNum
+                for id, num in pairs(firstCost) do
+                    firstCostId = id
+                    firstCostNum = num
+                    break
+                end
+
+                v.Image_firstCostIcon:show()
+                v.Label_firstCostNum:show()
+                v.Image_firstCostIcon:setTexture(GoodsDataMgr:getItemCfg(firstCostId).icon)
+
+                local ownNum = GoodsDataMgr:getItemCount(firstCostId)
+                if ownNum >= costNum then
+                    v.Label_firstCostNum:setTextById(800007, costNum)
+                    v.Label_costNum:setTextById(800007, 0)
+                else
+                    v.Label_firstCostNum:setTextById(800007, ownNum)
+                    v.Label_costNum:setTextById(800007, costNum - ownNum)
+                end
+
+                self.fristCostItem_[i] = {
+                    id = firstCostId,
+                    num = firstCostNum,
+                }
+            end
+
+            v.Image_costIcon:setPositionX(v.initFirstPosX)
+            if v.Image_firstCostIcon:isVisible() then
+                v.Image_costIcon:setPositionX(v.initPosX)
+            end
+        end
+    end
 
 end
 function SummonView:selectSummon(index, force)

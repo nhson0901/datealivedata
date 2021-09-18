@@ -5775,16 +5775,8 @@ return {
         [1] = {
             baseName = "MFLiHei_Noncommercial",
             name = "font/MFLiHei_Noncommercial.ttf",
-            color = "#e3e4f0",
-            text = "Dapatkan dengan $",
-            clickId = "",
-            size = 24,
-        },
-        [2] = {
-            baseName = "MFLiHei_Noncommercial",
-            name = "font/MFLiHei_Noncommercial.ttf",
             color = "#f9db47",
-            text = "%s",
+            text = "Go buy now",
             clickId = "",
             size = 24,
         },
