@@ -7,10 +7,12 @@ function GoogleAssetPackLayer:ctor( )
     self:init("lua.uiconfig.googleAsset.googleAssetPackLayer")
 end
 
-function GoogleAssetPackLayer:initData( ... )
-    self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.DEFAULT
-    self.assetPacks = {{packName = "InstallPack"}, {packName = "FastFollowPack"}}
+function GoogleAssetPackLayer:initData( )
+    self.assetPacks = {{packName = "FastFollowPack"}}
     self.readyAssetPacks = {}
+
+    self.timeDelay = 0
+    self.complete = false
 end
 
 function GoogleAssetPackLayer:initUI(ui)
@@ -39,7 +41,7 @@ function GoogleAssetPackLayer:initUI(ui)
         self.bgImg:setSize(CCSizeMake(realSize.width, size.height))
     end
 
-    self:determineWaitStatus()
+    TFClientGameAssetManager:registerListener()
 end
 
 function GoogleAssetPackLayer:registerEvents()
@@ -47,180 +49,98 @@ function GoogleAssetPackLayer:registerEvents()
 end
 
 function GoogleAssetPackLayer:update( )
-    -- body
-    TFClientGameAssetManager:updateGameAssetManager()
-
-    if self.statusCode == EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.DEFAULT then
-        self:displayMainUI()
-    elseif self.statusCode == EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_NOT_READY then
-        self:displayWaitUI()
-    elseif self.statusCode == EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_ERROR then
-        self:displayErrorUI()
-    elseif self.statusCode == EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_READY then
-        self:displayReadyUI()
+    if self.complete then return end
+    if self.timeDelay <= 0 then
+        self:checkAssetPackStatus()
+        self.timeDelay = 120
     end
+    self.timeDelay = self.timeDelay - 1
 end
 
-function GoogleAssetPackLayer:displayReadyUI( )
-    self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_OTHER
-    AlertManager:changeScene(SceneType.LOGO)
-end
-
-function GoogleAssetPackLayer:displayMainUI(  )
+function GoogleAssetPackLayer:checkAssetPackStatus( )
     for i,_info in ipairs(self.assetPacks) do
-        self:displayAssetPackUI(_info.packName)
-    end
-end
+        local packStatus = TFClientGameAssetManager:getAssetPackStatus(_info.packName)
+        if packStatus == TFClientGameAssetManager.ASSET_UNKNOWN then
+            self:displayDefault(_info.packName)
+        elseif packStatus == TFClientGameAssetManager.ASSET_PENDING then
 
-function GoogleAssetPackLayer:displayWaitUI( )
-    for i,_info in ipairs(self.assetPacks) do
-        self:displayAssetPackUI(_info.packName)
-    end
+        elseif packStatus == TFClientGameAssetManager.ASSET_DOWNLOADING then
+            self:displayDownLoading(_info.packName)
+        elseif packStatus == TFClientGameAssetManager.ASSET_TRANSFERRING then
+            self:displayTransFerring(_info.packName)
+        elseif packStatus == TFClientGameAssetManager.ASSET_COMPLETED then
+            self:displayComplete(_info.packName)
+        elseif packStatus == TFClientGameAssetManager.ASSET_FAILED then
 
-    self:determineWaitStatus()
-    for i,_info in ipairs(self.assetPacks) do
-        local assetStatus = TFClientGameAssetManager:getGameAssetPackStatus(_info.packName)
-        if (assetStatus == TFClientGameAssetManager.GAMEASSET_NEEDS_MOBILE_AUTH) then
-            TFClientGameAssetManager:requestMobileDataDownloads()
+        elseif packStatus == TFClientGameAssetManager.ASSET_CANCELED then
+            TFClientGameAssetManager:registerListener()
+        elseif packStatus == TFClientGameAssetManager.ASSET_WAITING_FOR_WIFI then
+
+        elseif packStatus == TFClientGameAssetManager.ASSET_NOT_INSTALLED then
+
         end
     end
 end
 
-function GoogleAssetPackLayer:displayErrorUI( )
-    local assetErrorString = TFClientGameAssetManager:getGameAssetErrorMessage()
-    self.tipLabel:setText(assetErrorString)
+function GoogleAssetPackLayer:displayDefault( assetPackName )
+    self.tipLabel:setText(self.strCfg[190000138].text)
     self.percentLabel:hide()
+    self.loadingBar:setPercent(0)
+    self.loadingBar:hide()
 end
 
-function GoogleAssetPackLayer:displayAssetPackUI( assetPackName )
-    local assetStatus = TFClientGameAssetManager:getGameAssetPackStatus(assetPackName)
-    if(assetStatus == TFClientGameAssetManager.GAMEASSET_NOT_FOUND) then
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_WAITING_FOR_STATUS) then --fast fallow pack default status
-        self:displayWaitingForStatus(assetPackName)
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_NEEDS_DOWNLOAD) then --The asset pack isn't installed. or Asset pack download has been canceled. will change to this status
-        self:displayAssetPackNeedsDownloadStatus(assetPackName)
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_NEEDS_MOBILE_AUTH) then --The asset pack download is waiting for Wi-Fi to proceed.
-        self:displayAssetPackNeedsMobileAuthStatus(assetPackName)
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_DOWNLOADING) then --after An AssetPackManager_requestDownload() async request is pending.
-        self:displayAssetPackDownloadStatus(assetPackName)
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_READY) then 
-        self:displayAssetPackReadyStatus(assetPackName)
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_PENDING_ACTION) then 
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_PACK_TRANSFERRING) then --The asset pack is being transferred to the app.
-        self:displayAssetPackTransferring(assetPackName)
-    elseif(assetStatus == TFClientGameAssetManager.GAMEASSET_ERROR) then 
-        self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_ERROR
-    end
+function GoogleAssetPackLayer:displayDownLoading( assetPackName )
+    local downLoadedSize = TFClientGameAssetManager:getAssetPackDownLoaded(assetPackName)
+    local totalSize = TFClientGameAssetManager:getAssetPackTotalSize(assetPackName)
+    local percent = 100*downLoadedSize/totalSize
+    self.loadingBar:setPercent(percent)
+    self.loadingBar:show()
+
+    self.tipLabel:setText(string.format(self.strCfg[190012039].text, assetPackName))
+    self.tipLabel:show()
+    
+    local downLoadedSizeMb = math.ceil(downLoadedSize/(1024*1024))
+    local totalSizeMb = math.ceil(totalSize/(1024*1024))
+
+    self.percentLabel:setText(string.format(self.strCfg[800093].text, percent) .." (" ..downLoadedSizeMb .."/" ..totalSizeMb ..")")
+    self.percentLabel:show()
 end
 
-function GoogleAssetPackLayer:displayAssetPackTransferring( assetPackName )
+function GoogleAssetPackLayer:displayTransFerring( assetPackName )
+    self.percentLabel:hide()
     self.loadingBar:setPercent(100)
     self.loadingBar:show()
 
     self.tipLabel:setText(string.format(self.strCfg[190012040].text, assetPackName))
     self.tipLabel:show()
-
-    self.percentLabel:setText(string.format(self.strCfg[800093].text, 100))
-    self.percentLabel:show()
 end
 
-function GoogleAssetPackLayer:displayWaitingForStatus( assetPackName )
-    self.tipLabel:setText(self.strCfg[190012038].text  .."  " ..assetPackName)
-    self.tipLabel:show()
-
-    self.loadingBar:hide()
-    self.percentLabel:hide()
-end
-
-function GoogleAssetPackLayer:displayAssetPackNeedsDownloadStatus( assetPackName )
-    self.tipLabel:setText(string.format(self.strCfg[190012042].text, assetPackName))
-    self.tipLabel:show()
-
-    self.loadingBar:setPercent(0)
-    self.loadingBar:show()
-
-    self.percentLabel:hide()
-
-    local assetPackSizeMB = TFClientGameAssetManager:getDownloadTotalPackDownloadSize(assetPackName)
-    TFClientGameAssetManager:requestDownload(assetPackName)
-end
-
-function GoogleAssetPackLayer:displayAssetPackNeedsMobileAuthStatus( assetPackName )
-    self.tipLabel:setText(string.format(self.strCfg[190012041].text, assetPackName))
-    self.tipLabel:show()
-
-    self.loadingBar:setPercent(0)
-    self.loadingBar:show()
-
-    self.percentLabel:hide()
-
-    local assetPackSizeMB = TFClientGameAssetManager:getDownloadTotalPackDownloadSize(assetPackName)
-    TFClientGameAssetManager:requestMobileDataDownloads()
-end
-
-function GoogleAssetPackLayer:displayAssetPackDownloadStatus( assetPackName )
-    local completionPercent = TFClientGameAssetManager:getDownloadCompletionProgress(assetPackName)
-    local displayPercent = 0
-    if completionPercent > 0 then
-        displayPercent = completionPercent * 100
-    end
-
-    local assetPackType = TFClientGameAssetManager:getGameAssetPackType(assetPackName)
-    if (assetPackType == TFClientGameAssetManager.GAMEASSET_PACKTYPE_ONDEMAND) then
-        TFClientGameAssetManager:requestDownloadCancellation(assetPackName)
-    end
-
-    if displayPercent > 0 then
-        self.loadingBar:setPercent(displayPercent)
-        self.loadingBar:show()
-
-        self.tipLabel:setText(string.format(self.strCfg[190012039].text, assetPackName))
-        self.tipLabel:show()
-        
-        self.percentLabel:setText(string.format(self.strCfg[800093].text, displayPercent))
-        self.percentLabel:show()
-    end
-end
-
-function GoogleAssetPackLayer:displayAssetPackReadyStatus( assetPackName )
-    local foundPack = false
+function GoogleAssetPackLayer:displayComplete( assetPackName )
+    local exit = false
     for _,_info in ipairs(self.readyAssetPacks) do
         if _info.packName == assetPackName then
-            foundPack = true
+            exit = true
             break
         end
     end
 
-    if not foundPack then
-        table.insert(self.readyAssetPacks, {packName = assetPackName})
+    if not exit then
+        table.insert(self.readyAssetPacks, assetPackName)
     end
 
     if #self.readyAssetPacks >= #self.assetPacks then
-        self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_READY
+        self.complete = true
+        AlertManager:changeScene(SceneType.LOGO)
     end
 end
 
 function GoogleAssetPackLayer:removeEvents()
-    
+    self.super.removeEvents(self)
 end
 
 function GoogleAssetPackLayer:onShow()
     self.super.onShow(self)
 end
-
-function GoogleAssetPackLayer:determineWaitStatus( )
-    for i,_info in ipairs(self.assetPacks) do
-        local assetPackStatus = TFClientGameAssetManager:getGameAssetPackStatus(_info.packName)
-        if assetPackStatus == TFClientGameAssetManager.GAMEASSET_ERROR then
-            self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_ERROR
-            break
-        elseif (assetPackStatus ~= TFClientGameAssetManager.GAMEASSET_READY) then
-            self.statusCode = EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS.GAMEASSET_NOT_READY
-            break
-        end
-    end
-end
-
 
 
 return GoogleAssetPackLayer

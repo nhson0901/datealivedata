@@ -1,0 +1,27 @@
+
+2021zhongqiu_hunt.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/huan_00
+  rotate: false
+  xy: 350, 350
+  size: 126, 126
+  orig: 130, 130
+  offset: 2, 2
+  index: -1
+images/tix
+  rotate: false
+  xy: 2, 210
+  size: 200, 104
+  orig: 205, 109
+  offset: 2, 3
+  index: -1
+images/wh
+  rotate: false
+  xy: 2, 316
+  size: 346, 160
+  orig: 346, 160
+  offset: 0, 0
+  index: -1

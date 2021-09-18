@@ -1,0 +1,118 @@
+
+moonTable_idle.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/hudie/hudie_00
+  rotate: false
+  xy: 2, 2
+  size: 57, 56
+  orig: 71, 72
+  offset: 7, 6
+  index: -1
+images/hudie/hudie_01
+  rotate: true
+  xy: 196, 88
+  size: 57, 58
+  orig: 71, 72
+  offset: 8, 5
+  index: -1
+images/hudie/hudie_02
+  rotate: false
+  xy: 133, 87
+  size: 59, 57
+  orig: 71, 72
+  offset: 8, 6
+  index: -1
+images/hudie/hudie_03
+  rotate: false
+  xy: 2, 125
+  size: 64, 63
+  orig: 71, 72
+  offset: 3, 5
+  index: -1
+images/hudie/hudie_04
+  rotate: false
+  xy: 2, 190
+  size: 64, 64
+  orig: 71, 72
+  offset: 3, 5
+  index: -1
+images/hudie/hudie_05
+  rotate: false
+  xy: 2, 60
+  size: 63, 63
+  orig: 71, 72
+  offset: 3, 6
+  index: -1
+images/hudie/hudie_06
+  rotate: false
+  xy: 61, 2
+  size: 57, 56
+  orig: 71, 72
+  offset: 5, 12
+  index: -1
+images/hudie/hudie_07
+  rotate: true
+  xy: 198, 147
+  size: 49, 56
+  orig: 71, 72
+  offset: 10, 13
+  index: -1
+images/hudie/hudie_08
+  rotate: false
+  xy: 67, 67
+  size: 48, 56
+  orig: 71, 72
+  offset: 9, 13
+  index: -1
+images/hudie/hudie_09
+  rotate: false
+  xy: 134, 197
+  size: 62, 57
+  orig: 71, 72
+  offset: 5, 7
+  index: -1
+images/hudie/hudie_10
+  rotate: false
+  xy: 68, 126
+  size: 63, 63
+  orig: 71, 72
+  offset: 3, 5
+  index: -1
+images/hudie/hudie_11
+  rotate: false
+  xy: 68, 191
+  size: 64, 63
+  orig: 71, 72
+  offset: 3, 5
+  index: -1
+images/hudie/hudie_12
+  rotate: false
+  xy: 198, 198
+  size: 56, 56
+  orig: 71, 72
+  offset: 7, 7
+  index: -1
+images/hudie/hudie_13
+  rotate: false
+  xy: 120, 28
+  size: 57, 57
+  orig: 71, 72
+  offset: 6, 6
+  index: -1
+images/hudie/hudie_14
+  rotate: false
+  xy: 179, 26
+  size: 49, 59
+  orig: 71, 72
+  offset: 12, 10
+  index: -1
+images/hudie/hudie_15
+  rotate: true
+  xy: 134, 146
+  size: 49, 60
+  orig: 71, 72
+  offset: 12, 9
+  index: -1

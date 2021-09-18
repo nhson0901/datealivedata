@@ -1,0 +1,76 @@
+
+bigLamp_idle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g
+  rotate: false
+  xy: 426, 116
+  size: 148, 184
+  orig: 148, 184
+  offset: 0, 0
+  index: -1
+images/huadeng/1
+  rotate: false
+  xy: 2, 3
+  size: 275, 297
+  orig: 275, 297
+  offset: 0, 0
+  index: -1
+images/huadeng/2
+  rotate: false
+  xy: 763, 666
+  size: 237, 334
+  orig: 237, 334
+  offset: 0, 0
+  index: -1
+images/huadeng/3
+  rotate: false
+  xy: 279, 28
+  size: 145, 272
+  orig: 145, 272
+  offset: 0, 0
+  index: -1
+images/huadeng/4
+  rotate: false
+  xy: 2, 302
+  size: 759, 698
+  orig: 759, 698
+  offset: 0, 0
+  index: -1
+images/huadeng/5
+  rotate: false
+  xy: 845, 564
+  size: 124, 100
+  orig: 124, 100
+  offset: 0, 0
+  index: -1
+images/huadeng/6
+  rotate: false
+  xy: 763, 307
+  size: 76, 61
+  orig: 76, 61
+  offset: 0, 0
+  index: -1
+images/huadeng/7
+  rotate: false
+  xy: 426, 71
+  size: 54, 43
+  orig: 54, 43
+  offset: 0, 0
+  index: -1
+images/huadeng/8
+  rotate: false
+  xy: 763, 370
+  size: 80, 294
+  orig: 80, 294
+  offset: 0, 0
+  index: -1
+images/huadeng/9
+  rotate: false
+  xy: 576, 146
+  size: 53, 154
+  orig: 53, 154
+  offset: 0, 0
+  index: -1

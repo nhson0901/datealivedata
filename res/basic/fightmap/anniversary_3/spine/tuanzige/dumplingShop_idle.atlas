@@ -1,0 +1,237 @@
+
+dumplingShop_idle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/bctg
+  rotate: false
+  xy: 2, 2
+  size: 290, 253
+  orig: 291, 259
+  offset: 1, 2
+  index: -1
+images/li3/li3_00
+  rotate: false
+  xy: 893, 204
+  size: 52, 51
+  orig: 56, 64
+  offset: 2, 4
+  index: -1
+images/li3/li3_01
+  rotate: false
+  xy: 376, 25
+  size: 51, 49
+  orig: 56, 64
+  offset: 3, 7
+  index: -1
+images/li3/li3_02
+  rotate: false
+  xy: 376, 76
+  size: 49, 57
+  orig: 56, 64
+  offset: 4, 0
+  index: -1
+images/li3/li3_03
+  rotate: true
+  xy: 666, 209
+  size: 46, 56
+  orig: 56, 64
+  offset: 6, 0
+  index: -1
+images/li3/li3_04
+  rotate: true
+  xy: 605, 209
+  size: 46, 59
+  orig: 56, 64
+  offset: 4, 0
+  index: -1
+images/li3/li3_05
+  rotate: false
+  xy: 979, 900
+  size: 42, 62
+  orig: 56, 64
+  offset: 6, 0
+  index: -1
+images/li3/li3_06
+  rotate: false
+  xy: 979, 773
+  size: 34, 61
+  orig: 56, 64
+  offset: 12, 0
+  index: -1
+images/li3/li3_07
+  rotate: false
+  xy: 979, 531
+  size: 29, 57
+  orig: 56, 64
+  offset: 13, 7
+  index: -1
+images/li3/li3_08
+  rotate: false
+  xy: 979, 474
+  size: 26, 55
+  orig: 56, 64
+  offset: 13, 9
+  index: -1
+images/li3/li3_09
+  rotate: true
+  xy: 357, 2
+  size: 21, 59
+  orig: 56, 64
+  offset: 18, 5
+  index: -1
+images/li3/li3_10
+  rotate: false
+  xy: 979, 413
+  size: 19, 59
+  orig: 56, 64
+  offset: 19, 5
+  index: -1
+images/li3/li3_11
+  rotate: true
+  xy: 418, 2
+  size: 21, 59
+  orig: 56, 64
+  offset: 17, 4
+  index: -1
+images/li3/li3_12
+  rotate: true
+  xy: 294, 4
+  size: 23, 61
+  orig: 56, 64
+  offset: 16, 2
+  index: -1
+images/li3/li3_13
+  rotate: false
+  xy: 979, 649
+  size: 31, 59
+  orig: 56, 64
+  offset: 9, 2
+  index: -1
+images/li3/li3_14
+  rotate: false
+  xy: 979, 710
+  size: 30, 61
+  orig: 56, 64
+  offset: 9, 2
+  index: -1
+images/li3/li3_15
+  rotate: false
+  xy: 979, 836
+  size: 38, 62
+  orig: 56, 64
+  offset: 2, 1
+  index: -1
+images/li3/li3_16
+  rotate: false
+  xy: 979, 590
+  size: 40, 57
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_17
+  rotate: false
+  xy: 979, 964
+  size: 43, 58
+  orig: 56, 64
+  offset: 0, 3
+  index: -1
+images/li3/li3_18
+  rotate: false
+  xy: 376, 135
+  size: 51, 60
+  orig: 56, 64
+  offset: 0, 1
+  index: -1
+images/li3/li3_19
+  rotate: false
+  xy: 838, 203
+  size: 53, 52
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_20
+  rotate: false
+  xy: 491, 202
+  size: 55, 53
+  orig: 56, 64
+  offset: 0, 4
+  index: -1
+images/li3/li3_21
+  rotate: false
+  xy: 376, 197
+  size: 56, 58
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_22
+  rotate: false
+  xy: 548, 202
+  size: 55, 53
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_23
+  rotate: false
+  xy: 724, 209
+  size: 55, 46
+  orig: 56, 64
+  offset: 0, 7
+  index: -1
+images/li3/li3_24
+  rotate: false
+  xy: 434, 200
+  size: 55, 55
+  orig: 56, 64
+  offset: 0, 3
+  index: -1
+images/li3/li3_25
+  rotate: false
+  xy: 781, 205
+  size: 55, 50
+  orig: 56, 64
+  offset: 0, 3
+  index: -1
+images/li3/li3_26
+  rotate: true
+  xy: 947, 200
+  size: 55, 44
+  orig: 56, 64
+  offset: 0, 8
+  index: -1
+images/li3/li3_27
+  rotate: false
+  xy: 605, 157
+  size: 53, 50
+  orig: 56, 64
+  offset: 1, 3
+  index: -1
+images/li3/li3_28
+  rotate: false
+  xy: 660, 158
+  size: 52, 49
+  orig: 56, 64
+  offset: 2, 5
+  index: -1
+images/li3/li3_29
+  rotate: false
+  xy: 714, 159
+  size: 53, 48
+  orig: 56, 64
+  offset: 1, 7
+  index: -1
+images/qizi
+  rotate: false
+  xy: 294, 29
+  size: 80, 226
+  orig: 80, 226
+  offset: 0, 0
+  index: -1
+images/tuanzige
+  rotate: false
+  xy: 2, 257
+  size: 975, 765
+  orig: 975, 765
+  offset: 0, 0
+  index: -1

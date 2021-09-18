@@ -1666,7 +1666,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -1688,7 +1688,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -235,
-										PositionY = -268,
+										PositionY = -258,
 									},
 									width = "250",
 									ZOrder = "1",

@@ -7544,4 +7544,14 @@ return {
         res = "icon/equipment/suit/shijie.png",
         res_en = "icon/equipment/suit/shijie_zh.png",
     },
+    [1510] = {
+        id = 1510,
+        res = "ui/activity/summonActivity/cover1_1.png",
+        res_en = "ui/activity/summonActivity/cover1_1_zh.png",
+    },
+    [1511] = {
+        id = 1511,
+        res = "ui/activity/picture/icon1001.png",
+        res_en = "ui/activity/picture/icon1001_zh.png",
+    },
 }

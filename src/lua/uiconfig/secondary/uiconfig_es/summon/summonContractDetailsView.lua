@@ -164,14 +164,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "28",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_remainTime",
 									nTextAlign = "1",
@@ -185,10 +185,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -339,
-										PositionY = 118,
+										PositionX = -352,
+										PositionY = 120,
 									},
-									width = "386",
+									width = "345",
 									ZOrder = "1",
 								},
 								{
@@ -210,14 +210,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "28",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_timing",
 									nTextAlign = "1",
@@ -231,10 +231,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -133,
+										PositionX = 29,
 										PositionY = 118,
 									},
-									width = "95",
+									width = "83",
 									ZOrder = "1",
 								},
 								{
@@ -307,14 +307,14 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEButton",
 									ClickHighLightEnabled = "True",
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
 									height = "58",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Button_build",
 									normal = "ui/common/button_big_n.png",
 									sizepercentx = "0",
@@ -324,11 +324,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 419,
+										PositionX = 402,
 										PositionY = -211,
 									},
 									UItype = "Button",
-									width = "134",
+									width = "194",
 									ZOrder = "1",
 									components = 
 									{
@@ -359,11 +359,11 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_build",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "2",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -373,10 +373,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 60,
+												PositionX = 93,
 												PositionY = -2,
 											},
-											width = "203",
+											width = "183",
 											ZOrder = "1",
 										},
 										{
@@ -507,7 +507,7 @@ local t =
 											{
 												PositionX = -68,
 											},
-											width = "14",
+											width = "16",
 											ZOrder = "1",
 										},
 										{
@@ -653,7 +653,7 @@ local t =
 											{
 												PositionX = 22,
 											},
-											width = "14",
+											width = "16",
 											ZOrder = "1",
 										},
 										{
@@ -710,11 +710,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "50",
-									ignoreSize = "True",
+									height = "69",
+									ignoreSize = "False",
 									name = "Image_flag",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -724,10 +724,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 430,
-										PositionY = -184,
+										PositionX = 407,
+										PositionY = -165,
 									},
-									width = "148",
+									width = "203",
 									ZOrder = "1",
 									components = 
 									{
@@ -761,8 +761,8 @@ local t =
 											height = "32",
 											ignoreSize = "True",
 											name = "Label_num",
-											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextAlign = "2",
+											nTextHAlign = "2",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -772,10 +772,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 14,
-												PositionY = 3,
+												PositionX = 79,
+												PositionY = 19,
 											},
-											width = "155",
+											width = "159",
 											ZOrder = "1",
 										},
 										{
@@ -807,8 +807,8 @@ local t =
 											height = "23",
 											ignoreSize = "True",
 											name = "Label_tip",
-											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextAlign = "2",
+											nTextHAlign = "2",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -818,10 +818,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 62,
-												PositionY = 1,
+												PositionX = 76,
+												PositionY = -5,
 											},
-											width = "142",
+											width = "155",
 											ZOrder = "1",
 										},
 									},
@@ -849,7 +849,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 276,
+										PositionX = 234,
 										PositionY = -210,
 									},
 									UItype = "Button",
@@ -900,7 +900,7 @@ local t =
 											{
 												
 											},
-											width = "114",
+											width = "112",
 											ZOrder = "1",
 										},
 									},
@@ -1127,7 +1127,7 @@ local t =
 											controlID = "Label_desc_Button_welfare_Panel_welfareItem_Panel_prefab_Panel-summonContractDetailsView_Layer1_summon_Game",
 											UUID = "692d2f89_8b73_4e16_a740_9abc341c03ba",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "0",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -1149,7 +1149,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "64",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_desc",
 											nTextAlign = "1",
@@ -1163,10 +1163,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -16,
-												PositionY = -2,
+												PositionX = -236,
 											},
-											width = "423",
+											width = "458",
 											ZOrder = "1",
 										},
 									},

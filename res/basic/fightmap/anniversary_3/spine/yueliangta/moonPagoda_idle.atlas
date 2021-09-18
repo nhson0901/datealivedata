@@ -1,0 +1,349 @@
+
+moonPagoda_idle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/dig
+  rotate: false
+  xy: 2, 222
+  size: 248, 84
+  orig: 248, 84
+  offset: 0, 0
+  index: -1
+images/g
+  rotate: false
+  xy: 533, 838
+  size: 148, 184
+  orig: 148, 184
+  offset: 0, 0
+  index: -1
+images/li2/lizi_00
+  rotate: false
+  xy: 957, 355
+  size: 57, 63
+  orig: 68, 87
+  offset: 9, 21
+  index: -1
+images/li2/lizi_01
+  rotate: false
+  xy: 822, 134
+  size: 57, 64
+  orig: 68, 87
+  offset: 9, 20
+  index: -1
+images/li2/lizi_02
+  rotate: false
+  xy: 558, 150
+  size: 57, 71
+  orig: 68, 87
+  offset: 9, 13
+  index: -1
+images/li2/lizi_03
+  rotate: false
+  xy: 559, 223
+  size: 56, 72
+  orig: 68, 87
+  offset: 10, 12
+  index: -1
+images/li2/lizi_04
+  rotate: true
+  xy: 945, 297
+  size: 56, 72
+  orig: 68, 87
+  offset: 10, 11
+  index: -1
+images/li2/lizi_05
+  rotate: true
+  xy: 680, 150
+  size: 55, 71
+  orig: 68, 87
+  offset: 11, 11
+  index: -1
+images/li2/lizi_06
+  rotate: true
+  xy: 774, 200
+  size: 57, 72
+  orig: 68, 87
+  offset: 8, 11
+  index: -1
+images/li2/lizi_07
+  rotate: false
+  xy: 496, 150
+  size: 60, 71
+  orig: 68, 87
+  offset: 5, 11
+  index: -1
+images/li2/lizi_08
+  rotate: false
+  xy: 617, 171
+  size: 61, 69
+  orig: 68, 87
+  offset: 4, 10
+  index: -1
+images/li2/lizi_09
+  rotate: true
+  xy: 956, 795
+  size: 63, 66
+  orig: 68, 87
+  offset: 2, 9
+  index: -1
+images/li2/lizi_10
+  rotate: true
+  xy: 753, 136
+  size: 62, 67
+  orig: 68, 87
+  offset: 2, 8
+  index: -1
+images/li2/lizi_11
+  rotate: false
+  xy: 881, 247
+  size: 62, 67
+  orig: 68, 87
+  offset: 2, 8
+  index: -1
+images/li2/lizi_12
+  rotate: true
+  xy: 945, 233
+  size: 62, 67
+  orig: 68, 87
+  offset: 2, 8
+  index: -1
+images/li2/lizi_13
+  rotate: false
+  xy: 496, 223
+  size: 61, 72
+  orig: 68, 87
+  offset: 2, 3
+  index: -1
+images/li2/lizi_14
+  rotate: false
+  xy: 957, 503
+  size: 61, 74
+  orig: 68, 87
+  offset: 2, 1
+  index: -1
+images/li2/lizi_15
+  rotate: false
+  xy: 956, 717
+  size: 60, 76
+  orig: 68, 87
+  offset: 2, 3
+  index: -1
+images/li2/lizi_16
+  rotate: false
+  xy: 927, 942
+  size: 59, 80
+  orig: 68, 87
+  offset: 3, 1
+  index: -1
+images/li2/lizi_17
+  rotate: false
+  xy: 927, 860
+  size: 58, 80
+  orig: 68, 87
+  offset: 3, 3
+  index: -1
+images/li2/lizi_18
+  rotate: false
+  xy: 956, 637
+  size: 57, 78
+  orig: 68, 87
+  offset: 3, 6
+  index: -1
+images/li2/lizi_19
+  rotate: false
+  xy: 957, 420
+  size: 54, 81
+  orig: 68, 87
+  offset: 4, 4
+  index: -1
+images/li2/lizi_20
+  rotate: true
+  xy: 617, 295
+  size: 53, 81
+  orig: 68, 87
+  offset: 4, 5
+  index: -1
+images/li2/lizi_21
+  rotate: true
+  xy: 617, 242
+  size: 51, 80
+  orig: 68, 87
+  offset: 5, 5
+  index: -1
+images/li2/lizi_22
+  rotate: true
+  xy: 533, 297
+  size: 51, 82
+  orig: 68, 87
+  offset: 5, 4
+  index: -1
+images/li2/lizi_23
+  rotate: true
+  xy: 702, 315
+  size: 51, 79
+  orig: 68, 87
+  offset: 5, 7
+  index: -1
+images/li2/lizi_24
+  rotate: true
+  xy: 783, 315
+  size: 51, 79
+  orig: 68, 87
+  offset: 5, 6
+  index: -1
+images/li2/lizi_25
+  rotate: true
+  xy: 864, 316
+  size: 49, 79
+  orig: 68, 87
+  offset: 6, 6
+  index: -1
+images/li2/lizi_26
+  rotate: true
+  xy: 700, 264
+  size: 49, 74
+  orig: 68, 87
+  offset: 7, 11
+  index: -1
+images/li2/lizi_27
+  rotate: true
+  xy: 776, 259
+  size: 54, 74
+  orig: 68, 87
+  offset: 7, 11
+  index: -1
+images/li2/lizi_28
+  rotate: true
+  xy: 699, 207
+  size: 55, 73
+  orig: 68, 87
+  offset: 8, 12
+  index: -1
+images/li2/lizi_29
+  rotate: true
+  xy: 957, 579
+  size: 56, 65
+  orig: 68, 87
+  offset: 8, 20
+  index: -1
+images/ylt
+  rotate: false
+  xy: 2, 308
+  size: 529, 714
+  orig: 531, 716
+  offset: 2, 0
+  index: -1
+images/ylt/dihua_00
+  rotate: true
+  xy: 702, 611
+  size: 241, 83
+  orig: 247, 89
+  offset: 2, 2
+  index: -1
+images/ylt/dihua_01
+  rotate: true
+  xy: 702, 368
+  size: 241, 83
+  orig: 247, 89
+  offset: 2, 2
+  index: -1
+images/ylt/dihua_02
+  rotate: true
+  xy: 787, 611
+  size: 241, 83
+  orig: 247, 89
+  offset: 2, 2
+  index: -1
+images/ylt/dihua_03
+  rotate: true
+  xy: 787, 368
+  size: 241, 83
+  orig: 247, 89
+  offset: 2, 2
+  index: -1
+images/ylt/dihua_04
+  rotate: false
+  xy: 252, 223
+  size: 242, 83
+  orig: 247, 89
+  offset: 1, 2
+  index: -1
+images/ylt/dihua_05
+  rotate: true
+  xy: 533, 594
+  size: 242, 83
+  orig: 247, 89
+  offset: 1, 2
+  index: -1
+images/ylt/dihua_06
+  rotate: false
+  xy: 683, 939
+  size: 242, 83
+  orig: 247, 89
+  offset: 1, 2
+  index: -1
+images/ylt/dihua_07
+  rotate: true
+  xy: 872, 367
+  size: 241, 83
+  orig: 247, 89
+  offset: 1, 2
+  index: -1
+images/ylt/dihua_08
+  rotate: false
+  xy: 2, 52
+  size: 242, 83
+  orig: 247, 89
+  offset: 0, 2
+  index: -1
+images/ylt/dihua_09
+  rotate: true
+  xy: 533, 350
+  size: 242, 83
+  orig: 247, 89
+  offset: 0, 2
+  index: -1
+images/ylt/dihua_10
+  rotate: true
+  xy: 618, 594
+  size: 242, 82
+  orig: 247, 89
+  offset: 0, 2
+  index: -1
+images/ylt/dihua_11
+  rotate: true
+  xy: 618, 350
+  size: 242, 82
+  orig: 247, 89
+  offset: 0, 2
+  index: -1
+images/ylt/dihua_12
+  rotate: true
+  xy: 872, 610
+  size: 242, 82
+  orig: 247, 89
+  offset: 0, 2
+  index: -1
+images/ylt/dihua_13
+  rotate: false
+  xy: 252, 139
+  size: 242, 82
+  orig: 247, 89
+  offset: 0, 2
+  index: -1
+images/ylt/dihua_14
+  rotate: false
+  xy: 683, 854
+  size: 242, 83
+  orig: 247, 89
+  offset: 1, 2
+  index: -1
+images/ylt/dihua_15
+  rotate: false
+  xy: 2, 137
+  size: 243, 83
+  orig: 247, 89
+  offset: 0, 2
+  index: -1

@@ -1,0 +1,237 @@
+
+moonTemple_idle.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/den
+  rotate: false
+  xy: 1260, 1658
+  size: 43, 98
+  orig: 43, 98
+  offset: 0, 0
+  index: -1
+images/g
+  rotate: false
+  xy: 2, 1039
+  size: 148, 184
+  orig: 148, 184
+  offset: 0, 0
+  index: -1
+images/li3/li3_00
+  rotate: false
+  xy: 253, 1172
+  size: 52, 51
+  orig: 56, 64
+  offset: 2, 4
+  index: -1
+images/li3/li3_01
+  rotate: false
+  xy: 1581, 1707
+  size: 51, 49
+  orig: 56, 64
+  offset: 3, 7
+  index: -1
+images/li3/li3_02
+  rotate: false
+  xy: 152, 1104
+  size: 49, 57
+  orig: 56, 64
+  offset: 4, 0
+  index: -1
+images/li3/li3_03
+  rotate: false
+  xy: 152, 1046
+  size: 46, 56
+  orig: 56, 64
+  offset: 6, 0
+  index: -1
+images/li3/li3_04
+  rotate: false
+  xy: 205, 1164
+  size: 46, 59
+  orig: 56, 64
+  offset: 4, 0
+  index: -1
+images/li3/li3_05
+  rotate: false
+  xy: 1260, 1594
+  size: 42, 62
+  orig: 56, 64
+  offset: 6, 0
+  index: -1
+images/li3/li3_06
+  rotate: false
+  xy: 1260, 1467
+  size: 34, 61
+  orig: 56, 64
+  offset: 12, 0
+  index: -1
+images/li3/li3_07
+  rotate: false
+  xy: 2, 694
+  size: 29, 57
+  orig: 56, 64
+  offset: 13, 7
+  index: -1
+images/li3/li3_08
+  rotate: true
+  xy: 1305, 1673
+  size: 26, 55
+  orig: 56, 64
+  offset: 13, 9
+  index: -1
+images/li3/li3_09
+  rotate: true
+  xy: 1697, 1735
+  size: 21, 59
+  orig: 56, 64
+  offset: 18, 5
+  index: -1
+images/li3/li3_10
+  rotate: false
+  xy: 2, 633
+  size: 19, 59
+  orig: 56, 64
+  offset: 19, 5
+  index: -1
+images/li3/li3_11
+  rotate: true
+  xy: 482, 1202
+  size: 21, 59
+  orig: 56, 64
+  offset: 17, 4
+  index: -1
+images/li3/li3_12
+  rotate: false
+  xy: 1260, 1404
+  size: 23, 61
+  orig: 56, 64
+  offset: 16, 2
+  index: -1
+images/li3/li3_13
+  rotate: true
+  xy: 421, 1192
+  size: 31, 59
+  orig: 56, 64
+  offset: 9, 2
+  index: -1
+images/li3/li3_14
+  rotate: true
+  xy: 1634, 1726
+  size: 30, 61
+  orig: 56, 64
+  offset: 9, 2
+  index: -1
+images/li3/li3_15
+  rotate: false
+  xy: 1260, 1530
+  size: 38, 62
+  orig: 56, 64
+  offset: 2, 1
+  index: -1
+images/li3/li3_16
+  rotate: false
+  xy: 2, 753
+  size: 40, 57
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_17
+  rotate: false
+  xy: 2, 812
+  size: 43, 58
+  orig: 56, 64
+  offset: 0, 3
+  index: -1
+images/li3/li3_18
+  rotate: false
+  xy: 152, 1163
+  size: 51, 60
+  orig: 56, 64
+  offset: 0, 1
+  index: -1
+images/li3/li3_19
+  rotate: false
+  xy: 1362, 1704
+  size: 53, 52
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_20
+  rotate: false
+  xy: 2, 924
+  size: 55, 53
+  orig: 56, 64
+  offset: 0, 4
+  index: -1
+images/li3/li3_21
+  rotate: false
+  xy: 2, 979
+  size: 56, 58
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_22
+  rotate: false
+  xy: 60, 984
+  size: 55, 53
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_23
+  rotate: false
+  xy: 307, 1177
+  size: 55, 46
+  orig: 56, 64
+  offset: 0, 7
+  index: -1
+images/li3/li3_24
+  rotate: false
+  xy: 1305, 1701
+  size: 55, 55
+  orig: 56, 64
+  offset: 0, 3
+  index: -1
+images/li3/li3_25
+  rotate: false
+  xy: 2, 872
+  size: 55, 50
+  orig: 56, 64
+  offset: 0, 3
+  index: -1
+images/li3/li3_26
+  rotate: false
+  xy: 364, 1179
+  size: 55, 44
+  orig: 56, 64
+  offset: 0, 8
+  index: -1
+images/li3/li3_27
+  rotate: false
+  xy: 1417, 1706
+  size: 53, 50
+  orig: 56, 64
+  offset: 1, 3
+  index: -1
+images/li3/li3_28
+  rotate: false
+  xy: 1472, 1707
+  size: 52, 49
+  orig: 56, 64
+  offset: 2, 5
+  index: -1
+images/li3/li3_29
+  rotate: false
+  xy: 1526, 1708
+  size: 53, 48
+  orig: 56, 64
+  offset: 1, 7
+  index: -1
+images/zt
+  rotate: false
+  xy: 2, 1225
+  size: 1256, 531
+  orig: 1282, 531
+  offset: 0, 0
+  index: -1

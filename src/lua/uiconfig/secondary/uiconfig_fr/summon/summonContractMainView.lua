@@ -362,7 +362,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -432,7 +432,7 @@ local t =
 										PositionX = 180,
 										PositionY = -1,
 									},
-									width = "78",
+									width = "76",
 									ZOrder = "1",
 								},
 								{
@@ -454,7 +454,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -570,7 +570,7 @@ local t =
 										PositionX = -164,
 										PositionY = 21,
 									},
-									width = "26",
+									width = "29",
 									ZOrder = "1",
 									components = 
 									{
@@ -618,7 +618,7 @@ local t =
 												PositionX = 8,
 												PositionY = -36,
 											},
-											width = "73",
+											width = "70",
 											ZOrder = "1",
 										},
 									},
@@ -681,7 +681,6 @@ local t =
 									name = "Label_summonContractMainView_1",
 									nTextAlign = "1",
 									nTextHAlign = "1",
-									rotation = "32",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -691,10 +690,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -120,
-										PositionY = 57,
+										PositionX = -156,
+										PositionY = 70,
 									},
-									width = "46",
+									width = "157",
 									ZOrder = "1",
 								},
 							},
@@ -760,8 +759,8 @@ local t =
 									height = "0",
 									ignoreSize = "False",
 									name = "Label_build",
-									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextAlign = "2",
+									nTextHAlign = "2",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -771,7 +770,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 60,
+										PositionX = 59,
 										PositionY = -2,
 									},
 									width = "123",
@@ -951,7 +950,7 @@ local t =
 									{
 										PositionX = 69,
 									},
-									width = "59",
+									width = "64",
 									ZOrder = "1",
 								},
 							},
@@ -1056,7 +1055,7 @@ local t =
 									{
 										PositionX = -68,
 									},
-									width = "14",
+									width = "16",
 									ZOrder = "1",
 								},
 								{
@@ -1102,7 +1101,7 @@ local t =
 										PositionX = -56,
 										PositionY = 3,
 									},
-									width = "74",
+									width = "72",
 									ZOrder = "1",
 								},
 								{
@@ -1202,7 +1201,7 @@ local t =
 									{
 										PositionX = 22,
 									},
-									width = "14",
+									width = "16",
 									ZOrder = "1",
 								},
 								{
@@ -1248,7 +1247,7 @@ local t =
 										PositionX = 35,
 										PositionY = 3,
 									},
-									width = "61",
+									width = "59",
 									ZOrder = "1",
 								},
 							},
@@ -1848,7 +1847,7 @@ local t =
 													{
 														PositionY = -39,
 													},
-													width = "80",
+													width = "88",
 													ZOrder = "1",
 												},
 											},

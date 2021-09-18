@@ -3140,6 +3140,19 @@ return {
         startTime = "",
         jumpInterface = 23,
     },
+    [1001] = {
+        accessparam = "",
+        name2 = "1420058",
+        id = 1001,
+        parameter = {
+            [1] = 159,
+        },
+        name = "1400012",
+        endTime = "",
+        accessType = 52,
+        startTime = "",
+        jumpInterface = 6,
+    },
     [308] = {
         accessparam = "",
         name2 = "190000279",

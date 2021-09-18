@@ -234,7 +234,7 @@ local t =
 										PositionX = -133,
 										PositionY = 118,
 									},
-									width = "95",
+									width = "99",
 									ZOrder = "1",
 								},
 								{
@@ -352,14 +352,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_build",
 											nTextAlign = "1",
@@ -376,7 +376,7 @@ local t =
 												PositionX = 60,
 												PositionY = -2,
 											},
-											width = "138",
+											width = "116",
 											ZOrder = "1",
 										},
 										{
@@ -507,7 +507,7 @@ local t =
 											{
 												PositionX = -68,
 											},
-											width = "14",
+											width = "16",
 											ZOrder = "1",
 										},
 										{
@@ -653,7 +653,7 @@ local t =
 											{
 												PositionX = 22,
 											},
-											width = "14",
+											width = "16",
 											ZOrder = "1",
 										},
 										{
@@ -713,8 +713,8 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "50",
-									ignoreSize = "True",
+									height = "64",
+									ignoreSize = "False",
 									name = "Image_flag",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -724,10 +724,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 430,
-										PositionY = -184,
+										PositionX = 419,
+										PositionY = -173,
 									},
-									width = "148",
+									width = "170",
 									ZOrder = "1",
 									components = 
 									{
@@ -772,8 +772,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 14,
-												PositionY = 3,
+												PositionX = 81,
+												PositionY = 14,
 											},
 											width = "140",
 											ZOrder = "1",
@@ -818,8 +818,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 62,
-												PositionY = 1,
+												PositionX = 79,
+												PositionY = -2,
 											},
 											width = "53",
 											ZOrder = "1",
@@ -849,7 +849,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 276,
+										PositionX = 252,
 										PositionY = -210,
 									},
 									UItype = "Button",
@@ -877,7 +877,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,

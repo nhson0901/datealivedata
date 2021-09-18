@@ -707,14 +707,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_progress",
 									nTextAlign = "1",
@@ -728,10 +728,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -51,
+										PositionX = -43,
 										PositionY = -39,
 									},
-									width = "80",
+									width = "74",
 									ZOrder = "1",
 								},
 								{

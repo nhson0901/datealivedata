@@ -19,9 +19,6 @@ GOOGLE_ASSERT_PACK = false
 if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID  and HeitaoSdk and (tonumber(HeitaoSdk.getplatformId()) == 5) and (TFClientGameAssetManager ~= nil)) then 
     GOOGLE_ASSERT_PACK = true
 end
-if TFClientGameAssetManager and TFClientGameAssetManager.setAssetPackEnable then
-    TFClientGameAssetManager:setAssetPackEnable(GOOGLE_ASSERT_PACK)
-end
 
 -- 如果是模拟器则直接打开调试模式
 if not (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32) then

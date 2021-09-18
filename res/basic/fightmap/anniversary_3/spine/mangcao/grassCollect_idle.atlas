@@ -1,0 +1,118 @@
+
+grassCollect_idle.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/li/li_00
+  rotate: true
+  xy: 220, 397
+  size: 40, 90
+  orig: 56, 106
+  offset: 10, 9
+  index: -1
+images/li/li_02
+  rotate: false
+  xy: 58, 248
+  size: 44, 92
+  orig: 56, 106
+  offset: 9, 9
+  index: -1
+images/li/li_04
+  rotate: false
+  xy: 110, 394
+  size: 53, 95
+  orig: 56, 106
+  offset: 1, 8
+  index: -1
+images/li/li_06
+  rotate: false
+  xy: 2, 141
+  size: 47, 98
+  orig: 56, 106
+  offset: 8, 2
+  index: -1
+images/li/li_08
+  rotate: true
+  xy: 220, 439
+  size: 50, 85
+  orig: 56, 106
+  offset: 6, 18
+  index: -1
+images/li/li_10
+  rotate: false
+  xy: 2, 241
+  size: 54, 99
+  orig: 56, 106
+  offset: 2, 7
+  index: -1
+images/li/li_12
+  rotate: false
+  xy: 165, 406
+  size: 53, 83
+  orig: 56, 106
+  offset: 3, 9
+  index: -1
+images/li/li_14
+  rotate: true
+  xy: 312, 395
+  size: 48, 79
+  orig: 56, 106
+  offset: 5, 12
+  index: -1
+images/li/li_16
+  rotate: true
+  xy: 110, 347
+  size: 45, 76
+  orig: 56, 106
+  offset: 6, 15
+  index: -1
+images/li/li_18
+  rotate: true
+  xy: 2, 2
+  size: 41, 76
+  orig: 56, 106
+  offset: 8, 18
+  index: -1
+images/li/li_20
+  rotate: true
+  xy: 188, 354
+  size: 41, 70
+  orig: 56, 106
+  offset: 9, 22
+  index: -1
+images/li/li_22
+  rotate: false
+  xy: 51, 153
+  size: 37, 86
+  orig: 56, 106
+  offset: 13, 4
+  index: -1
+images/li/li_24
+  rotate: true
+  xy: 307, 445
+  size: 44, 90
+  orig: 56, 106
+  offset: 7, 2
+  index: -1
+images/li/li_26
+  rotate: false
+  xy: 2, 45
+  size: 42, 94
+  orig: 56, 106
+  offset: 7, 1
+  index: -1
+images/li/li_28
+  rotate: true
+  xy: 399, 446
+  size: 43, 90
+  orig: 56, 106
+  offset: 8, 4
+  index: -1
+images/mangcao
+  rotate: false
+  xy: 2, 342
+  size: 106, 147
+  orig: 106, 147
+  offset: 0, 0
+  index: -1

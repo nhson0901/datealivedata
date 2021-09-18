@@ -1681,15 +1681,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Sisa  x pasti dapat Spirit Class SS",
+									text = "Sisa                 x pasti dapat Spirit Class SS",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -319,
-										PositionY = -262,
+										PositionX = -317,
+										PositionY = -258,
 									},
-									width = "292",
+									width = "382",
 									ZOrder = "1",
 									components = 
 									{
@@ -1714,7 +1714,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 91,
+												PositionX = 43,
+												PositionY = 34,
 											},
 											width = "84",
 											ZOrder = "1",
@@ -1918,7 +1919,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -2196,11 +2196,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "30",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_hotCount",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -2210,10 +2210,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 264,
-										PositionY = 192,
+										PositionX = 202,
+										PositionY = 159,
 									},
-									width = "348",
+									width = "467",
 									ZOrder = "1",
 									components = 
 									{
@@ -2258,7 +2258,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -104,
+												PositionX = -137,
 											},
 											visible = "False",
 											width = "92",
@@ -2283,18 +2283,18 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_hotCount_2",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -2304,10 +2304,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -101,
+												PositionX = -133,
 												PositionY = 1,
 											},
-											width = "261",
+											width = "233",
 											ZOrder = "1",
 										},
 										{
@@ -2350,7 +2350,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -103,
+												PositionX = -135,
 												PositionY = -1,
 											},
 											width = "24",

@@ -97,7 +97,8 @@ function PackBranchLayer:downLoadExtListFileSuc()
     if HeitaoSdk then
         if GOOGLE_ASSERT_PACK then
             TFAssetsManager:downloadFullAssets(function()
-                AlertManager:changeScene(SceneType.GOOGLEASSETPACK)
+                --AlertManager:changeScene(SceneType.GOOGLEASSETPACK)
+                AlertManager:changeScene(SceneType.LOGO)
             end)
         else
             if TFClientGameAssetManager then

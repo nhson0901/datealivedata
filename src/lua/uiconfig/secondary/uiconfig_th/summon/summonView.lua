@@ -1686,7 +1686,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -319,
+										PositionX = -221,
 										PositionY = -262,
 									},
 									width = "286",
@@ -1714,7 +1714,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 91,
+												PositionX = -50,
 											},
 											width = "84",
 											ZOrder = "1",
@@ -2209,10 +2209,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 228,
+										PositionX = 206,
 										PositionY = 192,
 									},
-									width = "384",
+									width = "446",
 									ZOrder = "1",
 									components = 
 									{
@@ -2257,7 +2257,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -151,
+												PositionX = -185,
+												PositionY = 1,
 											},
 											visible = "False",
 											width = "34",
@@ -2303,8 +2304,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -148,
-												PositionY = 1,
+												PositionX = -182,
+												PositionY = 2,
 											},
 											width = "334",
 											ZOrder = "1",
@@ -2349,8 +2350,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -150,
-												PositionY = -1,
+												PositionX = -184,
 											},
 											width = "24",
 											ZOrder = "1",

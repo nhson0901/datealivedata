@@ -57620,7 +57620,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 600022,
         extendsTaskId = 0,
         subType = 2,
@@ -68356,7 +68356,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 600021,
         extendsTaskId = 0,
         subType = 2,

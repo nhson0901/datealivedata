@@ -1,0 +1,230 @@
+
+medicineShop_idle.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/baicaotang
+  rotate: false
+  xy: 2, 199
+  size: 621, 823
+  orig: 621, 823
+  offset: 0, 0
+  index: -1
+images/bctg
+  rotate: false
+  xy: 625, 769
+  size: 290, 253
+  orig: 291, 259
+  offset: 1, 2
+  index: -1
+images/li3/li3_00
+  rotate: false
+  xy: 117, 146
+  size: 52, 51
+  orig: 56, 64
+  offset: 2, 4
+  index: -1
+images/li3/li3_01
+  rotate: false
+  xy: 771, 718
+  size: 51, 49
+  orig: 56, 64
+  offset: 3, 7
+  index: -1
+images/li3/li3_02
+  rotate: false
+  xy: 625, 648
+  size: 49, 57
+  orig: 56, 64
+  offset: 4, 0
+  index: -1
+images/li3/li3_03
+  rotate: false
+  xy: 625, 590
+  size: 46, 56
+  orig: 56, 64
+  offset: 6, 0
+  index: -1
+images/li3/li3_04
+  rotate: false
+  xy: 678, 708
+  size: 46, 59
+  orig: 56, 64
+  offset: 4, 0
+  index: -1
+images/li3/li3_05
+  rotate: false
+  xy: 2, 20
+  size: 42, 62
+  orig: 56, 64
+  offset: 6, 0
+  index: -1
+images/li3/li3_06
+  rotate: false
+  xy: 625, 463
+  size: 34, 61
+  orig: 56, 64
+  offset: 12, 0
+  index: -1
+images/li3/li3_07
+  rotate: true
+  xy: 345, 168
+  size: 29, 57
+  orig: 56, 64
+  offset: 13, 7
+  index: -1
+images/li3/li3_08
+  rotate: true
+  xy: 404, 171
+  size: 26, 55
+  orig: 56, 64
+  offset: 13, 9
+  index: -1
+images/li3/li3_09
+  rotate: false
+  xy: 625, 278
+  size: 21, 59
+  orig: 56, 64
+  offset: 18, 5
+  index: -1
+images/li3/li3_10
+  rotate: false
+  xy: 625, 217
+  size: 19, 59
+  orig: 56, 64
+  offset: 19, 5
+  index: -1
+images/li3/li3_11
+  rotate: true
+  xy: 461, 176
+  size: 21, 59
+  orig: 56, 64
+  offset: 17, 4
+  index: -1
+images/li3/li3_12
+  rotate: false
+  xy: 625, 339
+  size: 23, 61
+  orig: 56, 64
+  offset: 16, 2
+  index: -1
+images/li3/li3_13
+  rotate: false
+  xy: 625, 402
+  size: 31, 59
+  orig: 56, 64
+  offset: 9, 2
+  index: -1
+images/li3/li3_14
+  rotate: true
+  xy: 282, 167
+  size: 30, 61
+  orig: 56, 64
+  offset: 9, 2
+  index: -1
+images/li3/li3_15
+  rotate: false
+  xy: 625, 526
+  size: 38, 62
+  orig: 56, 64
+  offset: 2, 1
+  index: -1
+images/li3/li3_16
+  rotate: true
+  xy: 824, 727
+  size: 40, 57
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_17
+  rotate: false
+  xy: 726, 709
+  size: 43, 58
+  orig: 56, 64
+  offset: 0, 3
+  index: -1
+images/li3/li3_18
+  rotate: false
+  xy: 625, 707
+  size: 51, 60
+  orig: 56, 64
+  offset: 0, 1
+  index: -1
+images/li3/li3_19
+  rotate: false
+  xy: 917, 913
+  size: 53, 52
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_20
+  rotate: false
+  xy: 2, 84
+  size: 55, 53
+  orig: 56, 64
+  offset: 0, 4
+  index: -1
+images/li3/li3_21
+  rotate: false
+  xy: 2, 139
+  size: 56, 58
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_22
+  rotate: false
+  xy: 60, 144
+  size: 55, 53
+  orig: 56, 64
+  offset: 0, 2
+  index: -1
+images/li3/li3_23
+  rotate: true
+  xy: 917, 804
+  size: 55, 46
+  orig: 56, 64
+  offset: 0, 7
+  index: -1
+images/li3/li3_24
+  rotate: false
+  xy: 917, 967
+  size: 55, 55
+  orig: 56, 64
+  offset: 0, 3
+  index: -1
+images/li3/li3_25
+  rotate: true
+  xy: 972, 910
+  size: 55, 50
+  orig: 56, 64
+  offset: 0, 3
+  index: -1
+images/li3/li3_26
+  rotate: false
+  xy: 225, 153
+  size: 55, 44
+  orig: 56, 64
+  offset: 0, 8
+  index: -1
+images/li3/li3_27
+  rotate: false
+  xy: 917, 861
+  size: 53, 50
+  orig: 56, 64
+  offset: 1, 3
+  index: -1
+images/li3/li3_28
+  rotate: false
+  xy: 171, 148
+  size: 52, 49
+  orig: 56, 64
+  offset: 2, 5
+  index: -1
+images/li3/li3_29
+  rotate: true
+  xy: 974, 969
+  size: 53, 48
+  orig: 56, 64
+  offset: 1, 7
+  index: -1

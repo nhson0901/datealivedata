@@ -434,7 +434,7 @@ local t =
 										PositionY = -1,
 									},
 									visible = "False",
-									width = "78",
+									width = "76",
 									ZOrder = "1",
 								},
 								{
@@ -526,7 +526,7 @@ local t =
 										PositionY = -16,
 									},
 									visible = "False",
-									width = "363",
+									width = "369",
 									ZOrder = "1",
 								},
 								{
@@ -572,7 +572,7 @@ local t =
 										PositionX = -164,
 										PositionY = 21,
 									},
-									width = "21",
+									width = "25",
 									ZOrder = "1",
 									components = 
 									{
@@ -620,7 +620,7 @@ local t =
 												PositionX = 8,
 												PositionY = -36,
 											},
-											width = "43",
+											width = "42",
 											ZOrder = "1",
 										},
 									},
@@ -752,14 +752,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_build",
 									nTextAlign = "1",
@@ -776,7 +776,7 @@ local t =
 										PositionX = 60,
 										PositionY = -2,
 									},
-									width = "138",
+									width = "116",
 									ZOrder = "1",
 								},
 								{
@@ -888,14 +888,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_summon",
 									nTextAlign = "1",
@@ -911,7 +911,7 @@ local t =
 									{
 										
 									},
-									width = "88",
+									width = "76",
 									ZOrder = "1",
 								},
 							},
@@ -1016,7 +1016,7 @@ local t =
 									{
 										PositionX = -68,
 									},
-									width = "14",
+									width = "16",
 									ZOrder = "1",
 								},
 								{
@@ -1162,7 +1162,7 @@ local t =
 									{
 										PositionX = 22,
 									},
-									width = "14",
+									width = "16",
 									ZOrder = "1",
 								},
 								{

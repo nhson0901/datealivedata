@@ -1,0 +1,55 @@
+
+collectionPoint.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/deng
+  rotate: false
+  xy: 2, 316
+  size: 188, 321
+  orig: 188, 321
+  offset: 0, 0
+  index: -1
+images/g
+  rotate: false
+  xy: 2, 130
+  size: 148, 184
+  orig: 148, 184
+  offset: 0, 0
+  index: -1
+images/gq
+  rotate: false
+  xy: 192, 518
+  size: 119, 119
+  orig: 128, 128
+  offset: 5, 4
+  index: -1
+images/huan_00
+  rotate: false
+  xy: 2, 2
+  size: 126, 126
+  orig: 130, 130
+  offset: 2, 2
+  index: -1
+images/shouji
+  rotate: false
+  xy: 2, 639
+  size: 417, 383
+  orig: 417, 383
+  offset: 0, 0
+  index: -1
+images/sjg
+  rotate: false
+  xy: 421, 866
+  size: 210, 156
+  orig: 211, 156
+  offset: 1, 0
+  index: -1
+images/tan
+  rotate: false
+  xy: 421, 802
+  size: 37, 62
+  orig: 43, 72
+  offset: 4, 4
+  index: -1

@@ -1,0 +1,404 @@
+
+main_effect_10711.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BG_000
+  rotate: false
+  xy: 2, 1246
+  size: 1488, 800
+  orig: 1488, 800
+  offset: 0, 0
+  index: -1
+images/caidai/1_000
+  rotate: false
+  xy: 2020, 2016
+  size: 26, 30
+  orig: 100, 100
+  offset: 37, 32
+  index: -1
+images/caidai/2_000
+  rotate: false
+  xy: 1961, 907
+  size: 15, 15
+  orig: 100, 100
+  offset: 42, 40
+  index: -1
+images/caidai/3_000
+  rotate: false
+  xy: 1533, 1282
+  size: 20, 18
+  orig: 100, 100
+  offset: 42, 39
+  index: -1
+images/caidai/4_000
+  rotate: false
+  xy: 2, 3
+  size: 21, 22
+  orig: 100, 100
+  offset: 41, 38
+  index: -1
+images/caidai/5_000
+  rotate: false
+  xy: 1757, 535
+  size: 19, 19
+  orig: 100, 100
+  offset: 42, 40
+  index: -1
+images/caidai/6_000
+  rotate: false
+  xy: 1982, 1983
+  size: 18, 18
+  orig: 100, 100
+  offset: 41, 41
+  index: -1
+images/caidai/7_000
+  rotate: false
+  xy: 1999, 948
+  size: 16, 18
+  orig: 100, 100
+  offset: 43, 39
+  index: -1
+images/caidai/8_000
+  rotate: false
+  xy: 1953, 13
+  size: 19, 24
+  orig: 100, 100
+  offset: 41, 36
+  index: -1
+images/dengguang/1/1_000
+  rotate: true
+  xy: 1911, 2
+  size: 35, 40
+  orig: 100, 100
+  offset: 32, 27
+  index: -1
+images/dengguang/1/1_001
+  rotate: false
+  xy: 1961, 924
+  size: 36, 42
+  orig: 100, 100
+  offset: 32, 26
+  index: -1
+images/dengguang/1/1_002
+  rotate: false
+  xy: 1982, 2003
+  size: 36, 43
+  orig: 100, 100
+  offset: 32, 25
+  index: -1
+images/dengguang/1/1_003
+  rotate: false
+  xy: 1718, 510
+  size: 37, 44
+  orig: 100, 100
+  offset: 32, 25
+  index: -1
+images/dengguang/1/1_004
+  rotate: false
+  xy: 1492, 1254
+  size: 39, 46
+  orig: 100, 100
+  offset: 31, 24
+  index: -1
+images/dengguang/2/2_000
+  rotate: true
+  xy: 1961, 1052
+  size: 84, 74
+  orig: 125, 125
+  offset: 26, 30
+  index: -1
+images/dengguang/2/2_001
+  rotate: false
+  xy: 1818, 27
+  size: 91, 77
+  orig: 125, 125
+  offset: 22, 29
+  index: -1
+images/dengguang/2/2_002
+  rotate: true
+  xy: 1961, 968
+  size: 82, 70
+  orig: 125, 125
+  offset: 20, 28
+  index: -1
+images/dengguang/2/2_003
+  rotate: true
+  xy: 1961, 1138
+  size: 86, 75
+  orig: 125, 125
+  offset: 19, 23
+  index: -1
+images/dengguang/2/2_004
+  rotate: false
+  xy: 1961, 1226
+  size: 85, 74
+  orig: 125, 125
+  offset: 19, 25
+  index: -1
+images/dengguang/guang_000
+  rotate: false
+  xy: 1494, 106
+  size: 497, 392
+  orig: 497, 392
+  offset: 0, 0
+  index: -1
+images/led/led_001
+  rotate: false
+  xy: 2, 756
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_002
+  rotate: true
+  xy: 1739, 1302
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_003
+  rotate: false
+  xy: 748, 16
+  size: 744, 239
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_004
+  rotate: true
+  xy: 1477, 500
+  size: 744, 239
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_006
+  rotate: false
+  xy: 2, 513
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_007
+  rotate: false
+  xy: 2, 270
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_008
+  rotate: true
+  xy: 748, 500
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_009
+  rotate: false
+  xy: 2, 27
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_011
+  rotate: true
+  xy: 991, 500
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_016
+  rotate: true
+  xy: 1234, 500
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_017
+  rotate: false
+  xy: 748, 257
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_018
+  rotate: true
+  xy: 1718, 556
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_022
+  rotate: false
+  xy: 2, 999
+  size: 744, 245
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_023
+  rotate: true
+  xy: 1492, 1302
+  size: 744, 245
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/qiqiu/qiqiu1_000
+  rotate: false
+  xy: 1721, 15
+  size: 95, 89
+  orig: 95, 89
+  offset: 0, 0
+  index: -1
+images/qiqiu/qiqiu4_000
+  rotate: false
+  xy: 1911, 39
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+images/sijiaoxing/dengguang1_000
+  rotate: false
+  xy: 1494, 5
+  size: 225, 99
+  orig: 350, 300
+  offset: 86, 93
+  index: -1
+
+main_effect_107112.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beijingguang/guang_000
+  rotate: false
+  xy: 1735, 1727
+  size: 238, 246
+  orig: 300, 300
+  offset: 25, 17
+  index: -1
+images/beijingguang/yuan1_000
+  rotate: false
+  xy: 1494, 1036
+  size: 173, 191
+  orig: 300, 300
+  offset: 58, 59
+  index: -1
+images/led/led_012
+  rotate: false
+  xy: 748, 1005
+  size: 744, 239
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_013
+  rotate: false
+  xy: 2, 520
+  size: 744, 238
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_014
+  rotate: true
+  xy: 1494, 1229
+  size: 744, 239
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_019
+  rotate: false
+  xy: 2, 1732
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_021
+  rotate: false
+  xy: 2, 1489
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_024
+  rotate: false
+  xy: 748, 1732
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_025
+  rotate: false
+  xy: 2, 1246
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_026
+  rotate: false
+  xy: 748, 1489
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_027
+  rotate: false
+  xy: 2, 1003
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_028
+  rotate: false
+  xy: 748, 1246
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/led/led_029
+  rotate: false
+  xy: 2, 760
+  size: 744, 241
+  orig: 800, 300
+  offset: 24, 46
+  index: -1
+images/qiqiu/qiqiu2_000
+  rotate: false
+  xy: 1735, 1596
+  size: 109, 129
+  orig: 109, 129
+  offset: 0, 0
+  index: -1
+images/qiqiu/qiqiu3_000
+  rotate: false
+  xy: 748, 550
+  size: 200, 161
+  orig: 200, 161
+  offset: 0, 0
+  index: -1
+images/qiqiu/qiqiu5_000
+  rotate: false
+  xy: 2, 261
+  size: 110, 107
+  orig: 110, 107
+  offset: 0, 0
+  index: -1
+images/qiqiu/qiqiu_000
+  rotate: false
+  xy: 748, 713
+  size: 249, 290
+  orig: 249, 290
+  offset: 0, 0
+  index: -1
+images/sijiaoxing/dengguang_000
+  rotate: false
+  xy: 2, 370
+  size: 335, 148
+  orig: 350, 300
+  offset: 15, 91
+  index: -1
+images/sijiaoxing/sijiaoxing_000
+  rotate: false
+  xy: 999, 875
+  size: 124, 128
+  orig: 200, 200
+  offset: 37, 38
+  index: -1

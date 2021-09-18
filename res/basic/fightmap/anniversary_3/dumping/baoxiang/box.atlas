@@ -1,0 +1,139 @@
+
+box.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/gai1
+  rotate: false
+  xy: 586, 924
+  size: 157, 96
+  orig: 157, 96
+  offset: 0, 0
+  index: -1
+images/gai2
+  rotate: false
+  xy: 2, 2
+  size: 119, 115
+  orig: 119, 115
+  offset: 0, 0
+  index: -1
+images/gd
+  rotate: false
+  xy: 543, 816
+  size: 106, 106
+  orig: 128, 128
+  offset: 11, 11
+  index: -1
+images/gh
+  rotate: false
+  xy: 2, 513
+  size: 238, 249
+  orig: 256, 256
+  offset: 11, 7
+  index: -1
+images/huanci
+  rotate: false
+  xy: 2, 764
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/hyz
+  rotate: false
+  xy: 745, 967
+  size: 174, 53
+  orig: 174, 53
+  offset: 0, 0
+  index: -1
+images/xg_00
+  rotate: false
+  xy: 242, 521
+  size: 23, 241
+  orig: 28, 303
+  offset: 2, 3
+  index: -1
+images/xli/xjli_03
+  rotate: false
+  xy: 423, 810
+  size: 118, 114
+  orig: 150, 140
+  offset: 16, 14
+  index: -1
+images/xli/xjli_05
+  rotate: false
+  xy: 267, 503
+  size: 129, 122
+  orig: 150, 140
+  offset: 11, 9
+  index: -1
+images/xli/xjli_07
+  rotate: false
+  xy: 2, 248
+  size: 136, 128
+  orig: 150, 140
+  offset: 7, 6
+  index: -1
+images/xli/xjli_09
+  rotate: false
+  xy: 260, 764
+  size: 141, 131
+  orig: 150, 140
+  offset: 5, 4
+  index: -1
+images/xli/xjli_11
+  rotate: false
+  xy: 2, 378
+  size: 145, 133
+  orig: 150, 140
+  offset: 3, 3
+  index: -1
+images/xli/xjli_13
+  rotate: false
+  xy: 267, 627
+  size: 127, 135
+  orig: 150, 140
+  offset: 2, 2
+  index: -1
+images/xli/xjli_15
+  rotate: false
+  xy: 2, 119
+  size: 127, 127
+  orig: 150, 140
+  offset: 2, 2
+  index: -1
+images/xli/xjli_17
+  rotate: false
+  xy: 242, 375
+  size: 128, 126
+  orig: 150, 140
+  offset: 2, 2
+  index: -1
+images/xli/xjli_19
+  rotate: true
+  xy: 149, 383
+  size: 128, 91
+  orig: 150, 140
+  offset: 2, 12
+  index: -1
+images/xz
+  rotate: false
+  xy: 260, 897
+  size: 161, 123
+  orig: 161, 123
+  offset: 0, 0
+  index: -1
+images/xz1
+  rotate: false
+  xy: 423, 926
+  size: 161, 94
+  orig: 161, 94
+  offset: 0, 0
+  index: -1
+images/xz2
+  rotate: false
+  xy: 745, 900
+  size: 144, 65
+  orig: 144, 65
+  offset: 0, 0
+  index: -1

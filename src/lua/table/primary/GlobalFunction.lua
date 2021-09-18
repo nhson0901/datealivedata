@@ -21,7 +21,7 @@ return {
     },
     [6] = {
         id = 6,
-        isopen = 0,
+        isopen = 1,
     },
     [7] = {
         id = 7,

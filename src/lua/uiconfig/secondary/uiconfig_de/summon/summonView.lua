@@ -1673,11 +1673,11 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_contract_tips",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1687,10 +1687,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -317,
-										PositionY = -272,
+										PositionX = -226,
+										PositionY = -254,
 									},
-									width = "518",
+									width = "333",
 									ZOrder = "1",
 									components = 
 									{
@@ -1715,7 +1715,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 91,
+												PositionX = -53,
 											},
 											width = "84",
 											ZOrder = "1",

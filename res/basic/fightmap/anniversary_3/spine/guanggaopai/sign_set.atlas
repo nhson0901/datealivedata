@@ -1,0 +1,195 @@
+
+sign_set.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/pan1
+  rotate: false
+  xy: 148, 171
+  size: 89, 204
+  orig: 89, 204
+  offset: 0, 0
+  index: -1
+images/pan2
+  rotate: false
+  xy: 905, 781
+  size: 95, 238
+  orig: 95, 238
+  offset: 0, 0
+  index: -1
+images/pan3
+  rotate: false
+  xy: 239, 201
+  size: 89, 204
+  orig: 89, 204
+  offset: 0, 0
+  index: -1
+images/shanguang/shanguang_00
+  rotate: false
+  xy: 761, 558
+  size: 122, 188
+  orig: 157, 329
+  offset: 16, 5
+  index: -1
+images/shanguang/shanguang_01
+  rotate: false
+  xy: 611, 486
+  size: 148, 250
+  orig: 157, 329
+  offset: 5, 0
+  index: -1
+images/shanguang/shanguang_02
+  rotate: false
+  xy: 306, 449
+  size: 150, 263
+  orig: 157, 329
+  offset: 4, 0
+  index: -1
+images/shanguang/shanguang_03
+  rotate: false
+  xy: 458, 464
+  size: 151, 263
+  orig: 157, 329
+  offset: 3, 0
+  index: -1
+images/shanguang/shanguang_04
+  rotate: false
+  xy: 752, 748
+  size: 151, 271
+  orig: 157, 329
+  offset: 3, 0
+  index: -1
+images/shanguang/shanguang_05
+  rotate: false
+  xy: 599, 738
+  size: 151, 281
+  orig: 157, 329
+  offset: 3, 0
+  index: -1
+images/shanguang/shanguang_06
+  rotate: false
+  xy: 447, 729
+  size: 150, 290
+  orig: 157, 329
+  offset: 4, 0
+  index: -1
+images/shanguang/shanguang_07
+  rotate: false
+  xy: 154, 407
+  size: 150, 300
+  orig: 157, 329
+  offset: 4, 0
+  index: -1
+images/shanguang/shanguang_08
+  rotate: false
+  xy: 154, 709
+  size: 150, 310
+  orig: 157, 329
+  offset: 4, 0
+  index: -1
+images/shanguang/shanguang_09
+  rotate: false
+  xy: 2, 699
+  size: 150, 320
+  orig: 157, 329
+  offset: 4, 0
+  index: -1
+images/shanguang/shanguang_10
+  rotate: false
+  xy: 2, 377
+  size: 150, 320
+  orig: 157, 329
+  offset: 4, 0
+  index: -1
+images/shanguang/shanguang_11
+  rotate: false
+  xy: 2, 64
+  size: 144, 311
+  orig: 157, 329
+  offset: 7, 0
+  index: -1
+images/shanguang/shanguang_12
+  rotate: false
+  xy: 306, 714
+  size: 139, 305
+  orig: 157, 329
+  offset: 10, 1
+  index: -1
+images/shanguang/shanguang_13
+  rotate: true
+  xy: 761, 476
+  size: 80, 144
+  orig: 157, 329
+  offset: 36, 78
+  index: -1
+images/shanguang/shanguang_14
+  rotate: false
+  xy: 330, 299
+  size: 79, 148
+  orig: 157, 329
+  offset: 35, 73
+  index: -1
+images/shanguang/shanguang_15
+  rotate: false
+  xy: 411, 304
+  size: 77, 143
+  orig: 157, 329
+  offset: 35, 76
+  index: -1
+images/shanguang/shanguang_16
+  rotate: false
+  xy: 148, 46
+  size: 80, 123
+  orig: 157, 329
+  offset: 36, 94
+  index: -1
+images/shanguang/shanguang_17
+  rotate: false
+  xy: 490, 334
+  size: 78, 128
+  orig: 157, 329
+  offset: 36, 96
+  index: -1
+images/shanguang/shanguang_18
+  rotate: false
+  xy: 330, 170
+  size: 73, 127
+  orig: 157, 329
+  offset: 36, 97
+  index: -1
+images/shanguang/shanguang_19
+  rotate: false
+  xy: 570, 372
+  size: 72, 90
+  orig: 157, 329
+  offset: 37, 93
+  index: -1
+images/shanguang/shanguang_20
+  rotate: true
+  xy: 154, 384
+  size: 21, 62
+  orig: 157, 329
+  offset: 39, 119
+  index: -1
+images/shanguang/shanguang_21
+  rotate: false
+  xy: 570, 338
+  size: 66, 32
+  orig: 157, 329
+  offset: 41, 122
+  index: -1
+images/shanguang/shanguang_22
+  rotate: true
+  xy: 2, 2
+  size: 60, 95
+  orig: 157, 329
+  offset: 48, 92
+  index: -1
+images/shanguang/shanguang_23
+  rotate: true
+  xy: 905, 750
+  size: 29, 71
+  orig: 157, 329
+  offset: 36, 116
+  index: -1

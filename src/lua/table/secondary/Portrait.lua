@@ -2215,33 +2215,6 @@ return {
         fontcolor = "",
         classify = 1,
     },
-    [1013] = {
-        ShowEffect1 = "",
-        group = 1,
-        condition = {
-            [1] = {
-                hasHero = 110302,
-            },
-        },
-        accessdes = 265547,
-        titleType = 1060,
-        theirdialog = "",
-        icon = "icon/hero/name/1103021.png",
-        checkType = 0,
-        minedialog = "",
-        id = 1013,
-        ShowEffect2 = "",
-        font = "",
-        name = 265014,
-        toggle = {
-        },
-        itemTemplateId = {
-            [1] = 110302,
-        },
-        classifyOrder = 60,
-        fontcolor = "",
-        classify = 1,
-    },
     [10122] = {
         ShowEffect1 = "",
         group = 2,
@@ -2269,6 +2242,33 @@ return {
         fontcolor = "",
         classify = 2,
     },
+    [1013] = {
+        ShowEffect1 = "",
+        group = 1,
+        condition = {
+            [1] = {
+                hasHero = 110302,
+            },
+        },
+        accessdes = 265547,
+        titleType = 1060,
+        theirdialog = "",
+        icon = "icon/hero/name/1103021.png",
+        checkType = 0,
+        minedialog = "",
+        id = 1013,
+        ShowEffect2 = "",
+        font = "",
+        name = 265014,
+        toggle = {
+        },
+        itemTemplateId = {
+            [1] = 110302,
+        },
+        classifyOrder = 60,
+        fontcolor = "",
+        classify = 1,
+    },
     [60015] = {
         ShowEffect1 = "",
         group = 3,
@@ -2293,6 +2293,33 @@ return {
             [1] = 566055,
         },
         classifyOrder = 80,
+        fontcolor = "",
+        classify = 2,
+    },
+    [60017] = {
+        ShowEffect1 = "",
+        group = 2,
+        condition = {
+            [1] = {
+                hasItem = 566067,
+            },
+        },
+        accessdes = 190000350,
+        titleType = 118,
+        theirdialog = "",
+        icon = "icon/hero/frame/60017.png",
+        checkType = 0,
+        minedialog = "",
+        id = 60017,
+        ShowEffect2 = "",
+        font = "",
+        name = 190000349,
+        toggle = {
+        },
+        itemTemplateId = {
+            [1] = 566067,
+        },
+        classifyOrder = 118,
         fontcolor = "",
         classify = 2,
     },
@@ -2347,33 +2374,6 @@ return {
             [1] = 566060,
         },
         classifyOrder = 98,
-        fontcolor = "",
-        classify = 2,
-    },
-    [60017] = {
-        ShowEffect1 = "",
-        group = 2,
-        condition = {
-            [1] = {
-                hasItem = 566067,
-            },
-        },
-        accessdes = 190000350,
-        titleType = 118,
-        theirdialog = "",
-        icon = "icon/hero/frame/60017.png",
-        checkType = 0,
-        minedialog = "",
-        id = 60017,
-        ShowEffect2 = "",
-        font = "",
-        name = 190000349,
-        toggle = {
-        },
-        itemTemplateId = {
-            [1] = 566067,
-        },
-        classifyOrder = 118,
         fontcolor = "",
         classify = 2,
     },
@@ -2432,6 +2432,33 @@ return {
         fontcolor = "",
         classify = 2,
     },
+    [10120] = {
+        ShowEffect1 = "",
+        group = 2,
+        condition = {
+            [1] = {
+                hasDress = 410414,
+            },
+        },
+        accessdes = 266744,
+        titleType = 216,
+        theirdialog = "",
+        icon = "icon/hero/frame/10154.png",
+        checkType = 0,
+        minedialog = "",
+        id = 10120,
+        ShowEffect2 = "",
+        font = "",
+        name = 266566,
+        toggle = {
+        },
+        itemTemplateId = {
+            [1] = 410414,
+        },
+        classifyOrder = 31,
+        fontcolor = "",
+        classify = 2,
+    },
     [1014] = {
         ShowEffect1 = "",
         group = 1,
@@ -2460,33 +2487,6 @@ return {
         fontcolor = "",
         classify = 1,
     },
-    [10120] = {
-        ShowEffect1 = "",
-        group = 2,
-        condition = {
-            [1] = {
-                hasDress = 410414,
-            },
-        },
-        accessdes = 266744,
-        titleType = 216,
-        theirdialog = "",
-        icon = "icon/hero/frame/10154.png",
-        checkType = 0,
-        minedialog = "",
-        id = 10120,
-        ShowEffect2 = "",
-        font = "",
-        name = 266566,
-        toggle = {
-        },
-        itemTemplateId = {
-            [1] = 410414,
-        },
-        classifyOrder = 31,
-        fontcolor = "",
-        classify = 2,
-    },
     [60009] = {
         ShowEffect1 = "",
         group = 2,
@@ -2511,6 +2511,33 @@ return {
             [1] = 566033,
         },
         classifyOrder = 113,
+        fontcolor = "",
+        classify = 2,
+    },
+    [60007] = {
+        ShowEffect1 = "",
+        group = 2,
+        condition = {
+            [1] = {
+                hasItem = 566031,
+            },
+        },
+        accessdes = 190000053,
+        titleType = 111,
+        theirdialog = "",
+        icon = "icon/hero/frame/10119.png",
+        checkType = 0,
+        minedialog = "",
+        id = 60007,
+        ShowEffect2 = "",
+        font = "",
+        name = 266520,
+        toggle = {
+        },
+        itemTemplateId = {
+            [1] = 566031,
+        },
+        classifyOrder = 111,
         fontcolor = "",
         classify = 2,
     },
@@ -2540,33 +2567,6 @@ return {
         classifyOrder = 13,
         fontcolor = "",
         classify = 1,
-    },
-    [60007] = {
-        ShowEffect1 = "",
-        group = 2,
-        condition = {
-            [1] = {
-                hasItem = 566031,
-            },
-        },
-        accessdes = 190000053,
-        titleType = 111,
-        theirdialog = "",
-        icon = "icon/hero/frame/10119.png",
-        checkType = 0,
-        minedialog = "",
-        id = 60007,
-        ShowEffect2 = "",
-        font = "",
-        name = 266520,
-        toggle = {
-        },
-        itemTemplateId = {
-            [1] = 566031,
-        },
-        classifyOrder = 111,
-        fontcolor = "",
-        classify = 2,
     },
     [60005] = {
         ShowEffect1 = "",
@@ -2649,33 +2649,6 @@ return {
         fontcolor = "",
         classify = 2,
     },
-    [1015] = {
-        ShowEffect1 = "",
-        group = 1,
-        condition = {
-            [1] = {
-                hasHeroSkin = 1103019,
-            },
-        },
-        accessdes = 265562,
-        titleType = 1062,
-        theirdialog = "",
-        icon = "icon/hero/name/1103019.png",
-        checkType = 0,
-        minedialog = "",
-        id = 1015,
-        ShowEffect2 = "",
-        font = "",
-        name = 265014,
-        toggle = {
-        },
-        itemTemplateId = {
-            [1] = 1103019,
-        },
-        classifyOrder = 62,
-        fontcolor = "",
-        classify = 1,
-    },
     [10136] = {
         ShowEffect1 = "",
         group = 2,
@@ -2703,6 +2676,33 @@ return {
         fontcolor = "",
         classify = 2,
     },
+    [1015] = {
+        ShowEffect1 = "",
+        group = 1,
+        condition = {
+            [1] = {
+                hasHeroSkin = 1103019,
+            },
+        },
+        accessdes = 265562,
+        titleType = 1062,
+        theirdialog = "",
+        icon = "icon/hero/name/1103019.png",
+        checkType = 0,
+        minedialog = "",
+        id = 1015,
+        ShowEffect2 = "",
+        font = "",
+        name = 265014,
+        toggle = {
+        },
+        itemTemplateId = {
+            [1] = 1103019,
+        },
+        classifyOrder = 62,
+        fontcolor = "",
+        classify = 1,
+    },
     [60001] = {
         ShowEffect1 = "",
         group = 2,
@@ -2727,6 +2727,33 @@ return {
             [1] = 566025,
         },
         classifyOrder = 105,
+        fontcolor = "",
+        classify = 2,
+    },
+    [8029] = {
+        ShowEffect1 = "",
+        group = 1,
+        condition = {
+            [1] = {
+                hasItem = 554026,
+            },
+        },
+        accessdes = 265145,
+        titleType = 2022,
+        theirdialog = "",
+        icon = "icon/hero/name/554026.png",
+        checkType = 0,
+        minedialog = "",
+        id = 8029,
+        ShowEffect2 = "",
+        font = "",
+        name = 265144,
+        toggle = {
+        },
+        itemTemplateId = {
+            [1] = 554026,
+        },
+        classifyOrder = 23,
         fontcolor = "",
         classify = 2,
     },
@@ -2784,33 +2811,6 @@ return {
         fontcolor = "",
         classify = 2,
     },
-    [8029] = {
-        ShowEffect1 = "",
-        group = 1,
-        condition = {
-            [1] = {
-                hasItem = 554026,
-            },
-        },
-        accessdes = 265145,
-        titleType = 2022,
-        theirdialog = "",
-        icon = "icon/hero/name/554026.png",
-        checkType = 0,
-        minedialog = "",
-        id = 8029,
-        ShowEffect2 = "",
-        font = "",
-        name = 265144,
-        toggle = {
-        },
-        itemTemplateId = {
-            [1] = 554026,
-        },
-        classifyOrder = 23,
-        fontcolor = "",
-        classify = 2,
-    },
     [1004] = {
         ShowEffect1 = "",
         group = 1,
@@ -2837,6 +2837,33 @@ return {
         classifyOrder = 56,
         fontcolor = "",
         classify = 1,
+    },
+    [20007] = {
+        ShowEffect1 = "",
+        group = 3,
+        condition = {
+            [1] = {
+                hasItem = 575004,
+            },
+        },
+        accessdes = 266907,
+        titleType = 111,
+        theirdialog = "",
+        icon = "icon/chatBubble/010.png",
+        checkType = 0,
+        minedialog = "",
+        id = 20007,
+        ShowEffect2 = "",
+        font = "",
+        name = 266807,
+        toggle = {
+        },
+        itemTemplateId = {
+            [1] = 575004,
+        },
+        classifyOrder = 8,
+        fontcolor = "",
+        classify = 2,
     },
     [10006] = {
         ShowEffect1 = "",
@@ -2973,33 +3000,6 @@ return {
         fontcolor = "",
         classify = 1,
     },
-    [20007] = {
-        ShowEffect1 = "",
-        group = 3,
-        condition = {
-            [1] = {
-                hasItem = 575004,
-            },
-        },
-        accessdes = 266907,
-        titleType = 111,
-        theirdialog = "",
-        icon = "icon/chatBubble/010.png",
-        checkType = 0,
-        minedialog = "",
-        id = 20007,
-        ShowEffect2 = "",
-        font = "",
-        name = 266807,
-        toggle = {
-        },
-        itemTemplateId = {
-            [1] = 575004,
-        },
-        classifyOrder = 8,
-        fontcolor = "",
-        classify = 2,
-    },
     [20002] = {
         ShowEffect1 = "",
         group = 3,
@@ -3025,6 +3025,33 @@ return {
         },
         classifyOrder = 3,
         fontcolor = "#c5e0ff",
+        classify = 2,
+    },
+    [20001] = {
+        ShowEffect1 = "",
+        group = 3,
+        condition = {
+            [1] = {
+                hasItem = 553000,
+            },
+        },
+        accessdes = 266901,
+        titleType = 105,
+        theirdialog = "",
+        icon = "icon/chatBubble/006.png",
+        checkType = 0,
+        minedialog = "",
+        id = 20001,
+        ShowEffect2 = "",
+        font = "",
+        name = 266801,
+        toggle = {
+        },
+        itemTemplateId = {
+            [1] = 553000,
+        },
+        classifyOrder = 2,
+        fontcolor = "#Ba591f",
         classify = 2,
     },
     [10020] = {
@@ -3088,33 +3115,6 @@ return {
         fontcolor = "",
         classify = 2,
     },
-    [20001] = {
-        ShowEffect1 = "",
-        group = 3,
-        condition = {
-            [1] = {
-                hasItem = 553000,
-            },
-        },
-        accessdes = 266901,
-        titleType = 105,
-        theirdialog = "",
-        icon = "icon/chatBubble/006.png",
-        checkType = 0,
-        minedialog = "",
-        id = 20001,
-        ShowEffect2 = "",
-        font = "",
-        name = 266801,
-        toggle = {
-        },
-        itemTemplateId = {
-            [1] = 553000,
-        },
-        classifyOrder = 2,
-        fontcolor = "#Ba591f",
-        classify = 2,
-    },
     [1053] = {
         ShowEffect1 = "",
         group = 1,
@@ -3142,6 +3142,33 @@ return {
         classifyOrder = 93,
         fontcolor = "",
         classify = 1,
+    },
+    [10183] = {
+        ShowEffect1 = "",
+        group = 2,
+        condition = {
+            [1] = {
+                hasDress = 410428,
+            },
+        },
+        accessdes = 266791,
+        titleType = 279,
+        theirdialog = "",
+        icon = "icon/hero/frame/570301.png",
+        checkType = 0,
+        minedialog = "",
+        id = 10183,
+        ShowEffect2 = "",
+        font = "",
+        name = 266790,
+        toggle = {
+        },
+        itemTemplateId = {
+            [1] = 410428,
+        },
+        classifyOrder = 93,
+        fontcolor = "",
+        classify = 2,
     },
     [104] = {
         ShowEffect1 = "",

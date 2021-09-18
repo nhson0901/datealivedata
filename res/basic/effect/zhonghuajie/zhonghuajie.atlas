@@ -1,0 +1,244 @@
+
+zhonghuajie.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/ren_00
+  rotate: false
+  xy: 2, 590
+  size: 168, 216
+  orig: 204, 221
+  offset: 25, 2
+  index: -1
+images/ren_02
+  rotate: false
+  xy: 2, 385
+  size: 153, 203
+  orig: 204, 221
+  offset: 38, 2
+  index: -1
+images/ren_04
+  rotate: false
+  xy: 186, 826
+  size: 182, 189
+  orig: 204, 221
+  offset: 17, 2
+  index: -1
+images/ren_06
+  rotate: false
+  xy: 2, 808
+  size: 182, 207
+  orig: 204, 221
+  offset: 0, 3
+  index: -1
+images/yan_22
+  rotate: true
+  xy: 534, 144
+  size: 81, 80
+  orig: 131, 133
+  offset: 28, 29
+  index: -1
+images/yan_23
+  rotate: false
+  xy: 455, 317
+  size: 96, 97
+  orig: 131, 133
+  offset: 20, 21
+  index: -1
+images/yan_24
+  rotate: false
+  xy: 128, 46
+  size: 108, 106
+  orig: 131, 133
+  offset: 14, 19
+  index: -1
+images/yan_25
+  rotate: false
+  xy: 251, 709
+  size: 117, 115
+  orig: 131, 133
+  offset: 9, 13
+  index: -1
+images/yan_26
+  rotate: false
+  xy: 752, 894
+  size: 124, 121
+  orig: 131, 133
+  offset: 3, 8
+  index: -1
+images/yan_27
+  rotate: false
+  xy: 626, 890
+  size: 124, 125
+  orig: 131, 133
+  offset: 3, 4
+  index: -1
+images/yan_28
+  rotate: false
+  xy: 2, 256
+  size: 126, 127
+  orig: 131, 133
+  offset: 2, 2
+  index: -1
+images/yan_29
+  rotate: false
+  xy: 370, 887
+  size: 126, 128
+  orig: 131, 133
+  offset: 2, 1
+  index: -1
+images/yan_30
+  rotate: false
+  xy: 498, 888
+  size: 126, 127
+  orig: 131, 133
+  offset: 2, 1
+  index: -1
+images/yan_31
+  rotate: false
+  xy: 2, 128
+  size: 124, 126
+  orig: 131, 133
+  offset: 3, 1
+  index: -1
+images/yan_32
+  rotate: false
+  xy: 2, 2
+  size: 124, 124
+  orig: 131, 133
+  offset: 3, 2
+  index: -1
+images/yan_33
+  rotate: false
+  xy: 878, 893
+  size: 122, 122
+  orig: 131, 133
+  offset: 4, 3
+  index: -1
+images/yan_34
+  rotate: false
+  xy: 370, 764
+  size: 122, 121
+  orig: 131, 133
+  offset: 4, 3
+  index: -1
+images/yan_35
+  rotate: true
+  xy: 130, 263
+  size: 120, 119
+  orig: 131, 133
+  offset: 5, 4
+  index: -1
+images/yan_36
+  rotate: true
+  xy: 370, 644
+  size: 118, 119
+  orig: 131, 133
+  offset: 6, 4
+  index: -1
+images/yan_37
+  rotate: false
+  xy: 172, 591
+  size: 116, 116
+  orig: 131, 133
+  offset: 7, 5
+  index: -1
+images/yan_38
+  rotate: false
+  xy: 157, 472
+  size: 114, 116
+  orig: 131, 133
+  offset: 8, 5
+  index: -1
+images/yan_39
+  rotate: false
+  xy: 273, 475
+  size: 114, 114
+  orig: 131, 133
+  offset: 8, 5
+  index: -1
+images/yan_40
+  rotate: false
+  xy: 389, 528
+  size: 112, 114
+  orig: 131, 133
+  offset: 9, 5
+  index: -1
+images/yan_41
+  rotate: true
+  xy: 389, 416
+  size: 110, 112
+  orig: 131, 133
+  offset: 10, 5
+  index: -1
+images/yan_42
+  rotate: false
+  xy: 130, 154
+  size: 109, 107
+  orig: 131, 133
+  offset: 10, 6
+  index: -1
+images/yan_43
+  rotate: true
+  xy: 241, 155
+  size: 106, 97
+  orig: 131, 133
+  offset: 12, 6
+  index: -1
+images/yan_44
+  rotate: true
+  xy: 251, 278
+  size: 106, 96
+  orig: 131, 133
+  offset: 12, 6
+  index: -1
+images/yan_45
+  rotate: false
+  xy: 349, 319
+  size: 104, 95
+  orig: 131, 133
+  offset: 13, 6
+  index: -1
+images/yan_46
+  rotate: false
+  xy: 349, 229
+  size: 102, 88
+  orig: 131, 133
+  offset: 14, 12
+  index: -1
+images/yan_47
+  rotate: false
+  xy: 453, 227
+  size: 102, 88
+  orig: 131, 133
+  offset: 14, 12
+  index: -1
+images/yan_48
+  rotate: false
+  xy: 340, 141
+  size: 99, 86
+  orig: 131, 133
+  offset: 15, 13
+  index: -1
+images/yan_49
+  rotate: false
+  xy: 157, 386
+  size: 98, 84
+  orig: 131, 133
+  offset: 16, 14
+  index: -1
+images/yan_50
+  rotate: false
+  xy: 441, 142
+  size: 91, 83
+  orig: 131, 133
+  offset: 22, 14
+  index: -1
+images/yan_51
+  rotate: false
+  xy: 257, 388
+  size: 90, 82
+  orig: 131, 133
+  offset: 22, 15
+  index: -1

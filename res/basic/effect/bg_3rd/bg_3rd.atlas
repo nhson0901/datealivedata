@@ -1,0 +1,573 @@
+
+bg_3rd.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/beijing
+  rotate: false
+  xy: 2, 1402
+  size: 1386, 640
+  orig: 1386, 640
+  offset: 0, 0
+  index: -1
+images/shu1
+  rotate: true
+  xy: 1390, 1421
+  size: 621, 548
+  orig: 621, 548
+  offset: 0, 0
+  index: -1
+images/shui/shui_000
+  rotate: true
+  xy: 2, 14
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_001
+  rotate: true
+  xy: 505, 14
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_002
+  rotate: true
+  xy: 1008, 14
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_003
+  rotate: true
+  xy: 1511, 33
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/xh2
+  rotate: true
+  xy: 2014, 2022
+  size: 20, 28
+  orig: 20, 28
+  offset: 0, 0
+  index: -1
+
+bg_3rd2.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/caocon
+  rotate: false
+  xy: 1722, 229
+  size: 283, 210
+  orig: 283, 210
+  offset: 0, 0
+  index: -1
+images/shu
+  rotate: false
+  xy: 1390, 2
+  size: 330, 437
+  orig: 330, 437
+  offset: 0, 0
+  index: -1
+images/shui/shui_004
+  rotate: false
+  xy: 2, 1528
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_005
+  rotate: true
+  xy: 1390, 643
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_006
+  rotate: false
+  xy: 2, 1025
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_007
+  rotate: false
+  xy: 2, 522
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_008
+  rotate: false
+  xy: 2, 19
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/sijiaoxing_000
+  rotate: false
+  xy: 1722, 27
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_000
+  rotate: false
+  xy: 1390, 441
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+
+bg_3rd3.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shui/shui_009
+  rotate: false
+  xy: 2, 1511
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_010
+  rotate: false
+  xy: 2, 1008
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_011
+  rotate: false
+  xy: 2, 505
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_012
+  rotate: true
+  xy: 1390, 626
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_013
+  rotate: false
+  xy: 2, 2
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/wu/yun_002
+  rotate: false
+  xy: 1390, 424
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_004
+  rotate: false
+  xy: 1390, 222
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_006
+  rotate: false
+  xy: 1390, 20
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+
+bg_3rd4.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shui/shui_014
+  rotate: false
+  xy: 2, 1511
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_015
+  rotate: false
+  xy: 2, 1008
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_016
+  rotate: false
+  xy: 2, 505
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_017
+  rotate: true
+  xy: 1390, 626
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_018
+  rotate: false
+  xy: 2, 2
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/wu/yun_008
+  rotate: false
+  xy: 1390, 424
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_010
+  rotate: false
+  xy: 1390, 222
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_012
+  rotate: false
+  xy: 1390, 20
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+
+bg_3rd5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shui/shui_019
+  rotate: false
+  xy: 2, 1511
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_020
+  rotate: false
+  xy: 2, 1008
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_021
+  rotate: false
+  xy: 2, 505
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_022
+  rotate: true
+  xy: 1390, 626
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_023
+  rotate: false
+  xy: 2, 2
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/wu/yun_014
+  rotate: false
+  xy: 1390, 424
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_016
+  rotate: false
+  xy: 1390, 222
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_018
+  rotate: false
+  xy: 1390, 20
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+
+bg_3rd6.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shui/shui_024
+  rotate: false
+  xy: 2, 1511
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_025
+  rotate: false
+  xy: 2, 1008
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_026
+  rotate: false
+  xy: 2, 505
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_027
+  rotate: true
+  xy: 1390, 626
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/shui/shui_028
+  rotate: false
+  xy: 2, 2
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/wu/yun_020
+  rotate: false
+  xy: 1390, 424
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_022
+  rotate: false
+  xy: 1390, 222
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_024
+  rotate: false
+  xy: 1390, 20
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+
+bg_3rd7.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/shui/shui_029
+  rotate: false
+  xy: 2, 1513
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+images/wu/yun_026
+  rotate: false
+  xy: 2, 407
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_028
+  rotate: true
+  xy: 1775, 1514
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_030
+  rotate: false
+  xy: 2, 205
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_032
+  rotate: false
+  xy: 504, 407
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_034
+  rotate: true
+  xy: 1775, 1012
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_036
+  rotate: false
+  xy: 2, 3
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_038
+  rotate: false
+  xy: 504, 205
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_040
+  rotate: false
+  xy: 504, 3
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_042
+  rotate: true
+  xy: 1006, 107
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_044
+  rotate: true
+  xy: 1208, 107
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_046
+  rotate: true
+  xy: 1410, 284
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_048
+  rotate: true
+  xy: 1612, 284
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_050
+  rotate: false
+  xy: 1410, 82
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_052
+  rotate: true
+  xy: 1814, 510
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/zhong
+  rotate: false
+  xy: 2, 609
+  size: 1386, 399
+  orig: 1386, 399
+  offset: 0, 0
+  index: -1
+images/zhongceng
+  rotate: true
+  xy: 1390, 786
+  size: 1228, 383
+  orig: 1228, 383
+  offset: 0, 0
+  index: -1
+images/zhongdi
+  rotate: false
+  xy: 2, 1010
+  size: 1386, 501
+  orig: 1386, 501
+  offset: 0, 0
+  index: -1
+
+bg_3rd8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/g1
+  rotate: false
+  xy: 504, 148
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+images/wu/yun_054
+  rotate: false
+  xy: 2, 810
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_056
+  rotate: false
+  xy: 2, 608
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_058
+  rotate: false
+  xy: 504, 810
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_060
+  rotate: false
+  xy: 2, 406
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_062
+  rotate: false
+  xy: 504, 608
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_064
+  rotate: false
+  xy: 2, 204
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_066
+  rotate: false
+  xy: 504, 406
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1
+images/wu/yun_068
+  rotate: false
+  xy: 2, 2
+  size: 500, 200
+  orig: 500, 200
+  offset: 0, 0
+  index: -1

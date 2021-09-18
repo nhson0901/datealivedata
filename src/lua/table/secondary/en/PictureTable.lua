@@ -7309,4 +7309,9 @@ return {
         res = "ui/fuben/huoshoujuchang/huoshouTabText.png",
         res_en = "ui/fuben/huoshoujuchang/huoshouTabText_en.png",
     },
+    [1467] = {
+        id = 1467,
+        res = "ui/activity/picture/icon1001.png",
+        res_en = "ui/activity/picture/1001_en.png",
+    },
 }

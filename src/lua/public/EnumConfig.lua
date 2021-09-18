@@ -2508,11 +2508,3 @@ EC_TASK_STATUS = {
     NotReceve = 4, -- 未领取
     Complete = 5   -- 已完成 
 }
-
-EC_GOOGLE_ASSET_LAYER_LOGIC_STATUS = {
-    DEFAULT = 0,
-    GAMEASSET_NOT_READY = 1,
-    GAMEASSET_ERROR = 2,
-    GAMEASSET_READY = 3,
-    GAMEASSET_OTHER = 999,
-}

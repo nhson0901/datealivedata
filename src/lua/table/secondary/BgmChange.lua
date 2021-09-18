@@ -267,7 +267,7 @@ return {
         id = 45,
         changeTime = 1,
         nameId = "BingoMainView",
-        bgm = "sound/bgm/kanban/main_qizui_11308.mp3",
+        bgm = "sound/bgm/anniversary_3_bigworld.mp3",
     },
     [46] = {
         id = 46,
@@ -502,5 +502,59 @@ return {
         changeTime = 1,
         nameId = "NianShouChallegeView",
         bgm = "sound/bgm/dafuweng_main.mp3",
+    },
+    [89] = {
+        id = 89,
+        changeTime = 1,
+        nameId = "TongActivityMainView",
+        bgm = "sound/bgm/VITmax_main.mp3",
+    },
+    [90] = {
+        id = 90,
+        changeTime = 1,
+        nameId = "TongMainView",
+        bgm = "sound/bgm/VITmax_map.mp3",
+    },
+    [91] = {
+        id = 91,
+        changeTime = 1,
+        nameId = "FubenSquadViewTong",
+        bgm = "sound/bgm/VITmax_map.mp3",
+    },
+    [92] = {
+        id = 92,
+        changeTime = 1,
+        nameId = "MakeMoonCakeView",
+        bgm = "sound/bgm/anniversary_3_bigworld.mp3",
+    },
+    [93] = {
+        id = 93,
+        changeTime = 1,
+        nameId = "MoonActivityView",
+        bgm = "sound/bgm/anniversary_3_bigworld.mp3",
+    },
+    [94] = {
+        id = 94,
+        changeTime = 1,
+        nameId = "ZHJ_mainView",
+        bgm = "sound/bgm/anniversary_3_bigworld.mp3",
+    },
+    [95] = {
+        id = 95,
+        changeTime = 1,
+        nameId = "ActivityMainView8",
+        bgm = "sound/bgm/anniversary_3_bigworld.mp3",
+    },
+    [96] = {
+        id = 96,
+        changeTime = 1,
+        nameId = "ActivityMainView10",
+        bgm = "sound/bgm/anniversary_3_bigworld.mp3",
+    },
+    [97] = {
+        id = 97,
+        changeTime = 1,
+        nameId = "HuaDengActivity",
+        bgm = "sound/bgm/anniversary_3_bigworld.mp3",
     },
 }
