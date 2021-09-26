@@ -43,10 +43,11 @@ function TaskActivityView:initUI(ui)
     
     self.Label_date = TFDirector:getChildByPath(self.Image_ad, "Label_date")
     self.Label_date:setFontSize(18)
-    --TODO CLOSE
+    --TODO CLOSE 强三开启屏蔽
     --self.Label_timing = TFDirector:getChildByPath(self.Image_ad, "Label_timing"):hide()
     self.Label_timing = TFDirector:getChildByPath(self.Image_ad, "Label_timing")
     self.Label_timing:setVisible(not self.useNormalTime)
+
 
     self.Label_time_tip = TFDirector:getChildByPath(self.Image_ad, "Label_time_tip")
     self.Label_time_begin = TFDirector:getChildByPath(self.Image_ad, "Label_time_begin")

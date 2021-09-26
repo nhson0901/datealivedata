@@ -123,6 +123,7 @@ function StoreActivityView:addGoodsItem()
     foo.Panel_head = TFDirector:getChildByPath(Image_diban, "Panel_head")
     foo.Image_Limit = TFDirector:getChildByPath(Image_diban, "Image_Limit")
     foo.Label_buy_tip = TFDirector:getChildByPath(foo.root, "Label_buy_tip"):hide()
+    foo.Label_buy = TFDirector:getChildByPath(foo.root , "Label_buy")
     foo.Image_back_no_stuff = TFDirector:getChildByPath(foo.root, "Image_back_no_stuff")
     foo.Image_back_active = TFDirector:getChildByPath(foo.root, "Image_back_active")
 
@@ -185,6 +186,7 @@ function StoreActivityView:updateGoodsItem(index)
     foo.Button_buy:setVisible(true)
     foo.Image_Limit:setVisible(true)
     foo.Label_buy_tip:setVisible(false)
+    foo.Label_buy:setVisible(true)
     ---信物特殊处理
     local tipId = Utils:getStoreBuyTipId(itemInfo.extendData, 1)
     if tipId then
@@ -192,6 +194,8 @@ function StoreActivityView:updateGoodsItem(index)
         foo.Image_Limit:setVisible(not tipId)
         foo.Label_buy_tip:setTextById(tipId)
         foo.Label_buy_tip:setVisible(tipId)
+        --TODO CLOSE
+        foo.Label_buy:setVisible(not tipId)
     end
 
     if itemInfo.extendData.comment then
@@ -257,11 +261,12 @@ function StoreActivityView:updateGoodsItem(index)
     foo.Button_buy:setGrayEnabled(not isCanBuy)
     foo.Button_buy:setTouchEnabled(isCanBuy)
 
-    if not isCanBuy then
+    if not isCanBuy and not tipId then
         --优先判断是否能购买
         foo.Button_buy:setVisible(true)
         foo.Image_Limit:setVisible(true)
         foo.Label_buy_tip:setVisible(false)
+        foo.Label_buy:setVisible(true)
     end
 
     if foo.Image_back_no_stuff then 

@@ -131,6 +131,7 @@ end
 
 function MainMapLayer:onUpdateCityInfo()
     self.activityInfo = ActivityDataMgr2:getActivityInfo(self.activityId)
+    if self.activityInfo == nil then return end
 	if not self.activityInfo.historyInfo then return end
 
     local curstage = self.activityInfo.historyInfo.stage

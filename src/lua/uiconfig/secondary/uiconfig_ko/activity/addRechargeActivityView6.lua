@@ -153,7 +153,7 @@ local t =
 									controlID = "Label_timing_Image_bg_Panel_root_Panel-addRechargeActivityView6_kuangsanAssist_activity_Game",
 									UUID = "61d998e1_7c76_4289_a7d8_c5a5c58cc53f",
 									anchorPoint = "False",
-									anchorPointX = "1",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -189,8 +189,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 434,
-										PositionY = 261,
+										PositionX = -379,
+										PositionY = 248,
 									},
 									width = "213",
 									ZOrder = "1",
@@ -230,7 +230,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "이벤트 기간내 누적 충전 금액은 지정금액 달성하면 해당하는 보상을 수령 가능",
+									text = "During the event, players can get great rewards by fulfilling the top-up targets.",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -277,7 +277,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "누적 충전금액에 패키지, 월카드 구매금액도 포함되어 있음",
+									text = "Buying packs is counted as well",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -286,7 +286,7 @@ local t =
 										PositionY = -238,
 									},
 									visible = "False",
-									width = "468",
+									width = "247",
 									ZOrder = "1",
 								},
 								{
@@ -298,7 +298,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFFFFFFF",
+									FontColor = "#FFFFCC71",
 									fontName = "font/MFLiHei_Noncommercial.ttf",
 									fontShadow = 
 									{
@@ -308,14 +308,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "30",
+									fontSize = "25",
 									fontStroke = 
 									{
-										IsStroke = true,
-										StrokeColor = "#FF1856C7",
-										StrokeSize = 2,
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
 									},
-									height = "38",
+									height = "29",
 									ignoreSize = "True",
 									name = "Label_recharge",
 									nTextAlign = "1",
@@ -324,15 +324,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "100원",
+									text = "$100",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -238,
-										PositionY = -216,
+										PositionX = -227,
+										PositionY = -217,
 									},
-									width = "82",
+									width = "60",
 									ZOrder = "1",
 								},
 								{
@@ -347,10 +347,10 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "97",
+									height = "78",
 									ignoreSize = "True",
 									name = "Button_recharge",
-									normal = "ui/activity/add_recharge/003.png",
+									normal = "ui/activity/assist/kuangsan/add_recharge_001.png",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -362,7 +362,7 @@ local t =
 										PositionY = -221,
 									},
 									UItype = "Button",
-									width = "262",
+									width = "277",
 									ZOrder = "1",
 								},
 								{
@@ -388,7 +388,6 @@ local t =
 										PositionX = -398,
 										PositionY = 244,
 									},
-									visible = "False",
 									width = "39",
 									ZOrder = "1",
 								},
@@ -401,7 +400,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFFFFFFF",
+									FontColor = "#FFE1D7C7",
 									fontName = "font/MFLiHei_Noncommercial.ttf",
 									fontShadow = 
 									{
@@ -411,23 +410,23 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "28",
+									fontSize = "26",
 									fontStroke = 
 									{
-										IsStroke = true,
-										StrokeColor = "#FF1856C7",
-										StrokeSize = 2,
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
 									},
-									height = "36",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_addRecharge_title",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "현재 충전 금액",
+									text = "Total Top-up",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -435,7 +434,7 @@ local t =
 										PositionX = -424,
 										PositionY = -216,
 									},
-									width = "170",
+									width = "177",
 									ZOrder = "1",
 								},
 							},
@@ -574,7 +573,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/add_recharge/005.png",
+											texturePath = "ui/activity/assist/kuangsan/add_recharge_005.png",
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
@@ -618,14 +617,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "수령 완료",
+											text = "Claimed",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = 11,
 											},
-											width = "73",
+											width = "81",
 											ZOrder = "1",
 										},
 									},
@@ -679,8 +678,8 @@ local t =
 											sizeType = "0",
 											spineModel = 
 											{
-												SpinePath = "effect/ui_task_gift/ui_task_gift",
-												animationName = "animation",
+												SpinePath = "effect/ui_fanzhehuodong_gift/ui_fanzhehuodong_gift",
+												animationName = "animation2",
 												IsLoop = true,
 												IsPlay = true,
 												IsUseQueue = false,
@@ -712,7 +711,7 @@ local t =
 											height = "102",
 											ignoreSize = "True",
 											name = "Button_get",
-											normal = "ui/activity/add_recharge/006.png",
+											normal = "ui/activity/assist/kuangsan/add_recharge_002.png",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -737,7 +736,7 @@ local t =
 											sizeType = "0",
 											spineModel = 
 											{
-												SpinePath = "effect/ui_task_gift/ui_task_gift",
+												SpinePath = "effect/ui_fanzhehuodong_gift/ui_fanzhehuodong_gift",
 												animationName = "animation",
 												IsLoop = true,
 												IsPlay = true,
@@ -791,14 +790,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "수령",
+											text = "Claim",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = 11,
 											},
-											width = "35",
+											width = "59",
 											ZOrder = "1",
 										},
 									},
@@ -857,7 +856,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/activity/add_recharge/007.png",
+											texturePath = "ui/activity/assist/kuangsan/add_recharge_003.png",
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
@@ -901,14 +900,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "1000 1000",
+											text = "100",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = 10,
 											},
-											width = "89",
+											width = "34",
 											ZOrder = "1",
 										},
 									},
@@ -929,11 +928,11 @@ local t =
 		textures = 
 		{
 			"ui/activity/assist/kuangsan/add_recharge_006.png",
-			"ui/activity/add_recharge/003.png",
+			"ui/activity/assist/kuangsan/add_recharge_001.png",
 			"ui/activity/assist/kuangsan/add_recharge_004.png",
-			"ui/activity/add_recharge/005.png",
-			"ui/activity/add_recharge/006.png",
-			"ui/activity/add_recharge/007.png",
+			"ui/activity/assist/kuangsan/add_recharge_005.png",
+			"ui/activity/assist/kuangsan/add_recharge_002.png",
+			"ui/activity/assist/kuangsan/add_recharge_003.png",
 		},
 		armatures = 
 		{

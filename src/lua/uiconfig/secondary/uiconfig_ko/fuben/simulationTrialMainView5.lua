@@ -252,7 +252,7 @@ local t =
 									controlID = "Label_time_Image_font1_Panel_root_Panel-simulationTrialMainView5_Layer1_fuben_Game",
 									UUID = "5d16fd9a_ba9c_4a21_848f_9e895fdbcff4",
 									anchorPoint = "False",
-									anchorPointX = "0",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -288,8 +288,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 40,
-										PositionY = -29,
+										PositionX = 172,
+										PositionY = -43,
 									},
 									width = "132",
 									ZOrder = "1",

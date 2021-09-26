@@ -124,6 +124,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -1204,7 +1205,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -1227,7 +1227,7 @@ local t =
 									height = "576",
 									ignoreSize = "False",
 									innerHeight = "580",
-									innerWidth = "2346",
+									innerWidth = "2332",
 									name = "ScrollView_wave",
 									showScrollbar = "False",
 									sizepercentx = "0",
@@ -1237,7 +1237,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 60,
+										PositionX = 77,
 										PositionY = 288,
 									},
 									uipanelviewmodel = 
@@ -1245,7 +1245,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "1202",
+									width = "1183",
 									ZOrder = "1",
 									components = 
 									{

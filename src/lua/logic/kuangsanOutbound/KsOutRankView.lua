@@ -6,6 +6,7 @@ function KsOutRankView:initData()
     local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.KUANGSAN_FUBEN)[1]
     local data = ActivityDataMgr2:getActivityInfo(activityId) or {}
 
+
     local dataRank = data.historyRank or {}  
     for i, v in ipairs(dataRank) do
         if v.camp then
@@ -208,8 +209,27 @@ function KsOutRankView:refreshMyRankData()
     end
     self._ui.myDataRankNum:setSkewX(15)
     self._ui.myImage_head:setTexture(AvatarDataMgr:getSelfAvatarIconPath())
-    local avatarFrameIcon,avatarFrameEffect = AvatarDataMgr:getSelfAvatarFrameIconPath()
+    local avatarFrameIcon,avatarFrameEffect = AvatarDataMgr:getSelfAvatarFrameIconPath(data.headFrame)
     self._ui.myImage_head_frame_cover:setTexture(avatarFrameIcon)
+
+    if avatarFrameEffect ~= "" then
+        if self._ui.myImage_head_frame_cover.HeadFrameEffect then
+            self._ui.myImage_head_frame_cover.HeadFrameEffect:removeFromParent()
+            self._ui.myImage_head_frame_cover.HeadFrameEffect = nil
+        end
+        if not self._ui.myImage_head_frame_cover.HeadFrameEffect then
+            self._ui.myImage_head_frame_cover.HeadFrameEffect = SkeletonAnimation:create(avatarFrameEffect)
+            self._ui.myImage_head_frame_cover.HeadFrameEffect:setAnchorPoint(ccp(0,0))
+            self._ui.myImage_head_frame_cover.HeadFrameEffect:setPosition(ccp(0,0))
+            self._ui.myImage_head_frame_cover.HeadFrameEffect:play("animation", true)
+            self._ui.myImage_head_frame_cover:addChild(self._ui.myImage_head_frame_cover.HeadFrameEffect, 1)
+        end
+    else
+        if self._ui.myImage_head_frame_cover.HeadFrameEffect then
+            self._ui.myImage_head_frame_cover.HeadFrameEffect:removeFromParent()
+            self._ui.myImage_head_frame_cover.HeadFrameEffect = nil
+        end
+    end
     self._ui.myName:setText(MainPlayer:getPlayerName())
     self._ui.myLv:setText("LV."..MainPlayer:getPlayerLv())
     self._ui.myTime:setSkewX(15)
@@ -328,11 +348,30 @@ function KsOutRankView:refreshCellItem(item,idx)
 
     dataRankNum:setText(data.rank)
     Image_head:setTexture(AvatarDataMgr:getAvatarIconPath(data.headId))
-    local avatarFrameIcon,avatarFrameEffect = AvatarDataMgr:getSelfAvatarFrameIconPath(data.headFrame)
+    local avatarFrameIcon,avatarFrameEffect = AvatarDataMgr:getAvatarFrameIconPath(data.headFrame)
     Image_head_frame_cover:setTexture(avatarFrameIcon)
     playerName:setText(data.pName)
     playerLv:setText("LV."..data.level)
     useTime:setText(self:setTime(data.bestTime))
+
+    if avatarFrameEffect ~= "" then
+        if bg.HeadFrameEffect then
+            bg.HeadFrameEffect:removeFromParent()
+            bg.HeadFrameEffect = nil
+        end
+        if not bg.HeadFrameEffect then
+            bg.HeadFrameEffect = SkeletonAnimation:create(avatarFrameEffect)
+            bg.HeadFrameEffect:setAnchorPoint(ccp(0,0))
+            bg.HeadFrameEffect:setPosition(ccp(0,0))
+            bg.HeadFrameEffect:play("animation", true)
+            Image_head_frame_cover:addChild(bg.HeadFrameEffect, 1)
+        end
+    else
+        if bg.HeadFrameEffect then
+            bg.HeadFrameEffect:removeFromParent()
+            bg.HeadFrameEffect = nil
+        end
+    end
 
     Image_head:setTouchEnabled(true)
 	Image_head:onClick(function ()

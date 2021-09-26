@@ -868,7 +868,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									touchAble = "True",
+									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = 761,
@@ -1096,7 +1096,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									touchAble = "True",
+									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = 781,

@@ -230,7 +230,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Selama event, Top-up hingga nominal tertentu, akan dapat hadiah berlimpah",
+									text = "During the event, players can get great rewards by fulfilling the top-up targets.",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -277,7 +277,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Pembelian nominal Kado juga dihitung",
+									text = "Buying packs is counted as well",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -286,7 +286,7 @@ local t =
 										PositionY = -238,
 									},
 									visible = "False",
-									width = "304",
+									width = "247",
 									ZOrder = "1",
 								},
 								{
@@ -308,14 +308,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "30",
+									fontSize = "25",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "34",
+									height = "29",
 									ignoreSize = "True",
 									name = "Label_recharge",
 									nTextAlign = "1",
@@ -324,15 +324,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "100 Yuan",
+									text = "$100",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -58,
-										PositionY = -211,
+										PositionX = -163,
+										PositionY = -213,
 									},
-									width = "143",
+									width = "60",
 									ZOrder = "1",
 								},
 								{
@@ -410,18 +410,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "28",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_addRecharge_title",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -434,7 +434,7 @@ local t =
 										PositionX = -424,
 										PositionY = -216,
 									},
-									width = "189",
+									width = "138",
 									ZOrder = "1",
 								},
 							},
@@ -515,7 +515,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "146",
+							width = "88",
 							ZOrder = "1",
 							components = 
 							{
@@ -617,14 +617,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Sudah diklaim",
+											text = "Claimed",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = 11,
 											},
-											width = "139",
+											width = "81",
 											ZOrder = "1",
 										},
 									},
@@ -790,14 +790,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Klaim",
+											text = "Claim",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = 11,
 											},
-											width = "61",
+											width = "59",
 											ZOrder = "1",
 										},
 									},

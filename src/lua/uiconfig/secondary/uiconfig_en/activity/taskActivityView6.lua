@@ -141,7 +141,7 @@ local t =
 									controlID = "Label_timing_Image_ad_Panel_root_Panel-taskActivityView6_kuangsanAssist_activity_Game",
 									UUID = "860b5fbc_0c0c_4cdf_b58c_833b4f8fb717",
 									anchorPoint = "False",
-									anchorPointX = "1",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -177,10 +177,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 452,
-										PositionY = -48,
+										PositionX = -450,
+										PositionY = 73,
 									},
-									visible = "False",
 									width = "94",
 									ZOrder = "1",
 								},
@@ -225,7 +224,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 452,
-										PositionY = -48,
+										PositionY = -50,
 									},
 									width = "0",
 									ZOrder = "1",

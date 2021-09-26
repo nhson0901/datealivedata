@@ -235,6 +235,8 @@ function MainLayer:initUI(ui)
 
     self.Image_activity_red5 = TFDirector:getChildByPath(self.ui, "Image_activity_red5"):hide()
     self.Button_Activity6 = TFDirector:getChildByPath(self.ui, "Button_Activity6")
+    self.Button_Activity6:setTextureNormal("ui/mainLayer/new_ui/a5.png")
+    self.Button_Activity6:setTexturePressed("ui/mainLayer/new_ui/a5.png")
     self.Image_activity_red6 = TFDirector:getChildByPath(self.ui, "Image_activity_red6"):hide()
     self.Button_Activity7 = TFDirector:getChildByPath(self.ui, "Button_Activity7"):hide()
     self.Image_activity_red7 = TFDirector:getChildByPath(self.ui, "Image_activity_red7"):hide()

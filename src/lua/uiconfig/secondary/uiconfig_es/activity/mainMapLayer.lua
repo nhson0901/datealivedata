@@ -830,7 +830,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -583,
+								PositionX = -684,
 								PositionY = -320,
 							},
 							uipanelviewmodel = 
@@ -861,14 +861,14 @@ local t =
 									height = "300",
 									ignoreSize = "False",
 									innerHeight = "300",
-									innerWidth = "280",
+									innerWidth = "350",
 									name = "scrollView_bossList",
 									showScrollbar = "False",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									touchAble = "True",
+									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = 870,
@@ -879,7 +879,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "280",
+									width = "350",
 									ZOrder = "1",
 								},
 								{
@@ -1096,7 +1096,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									touchAble = "True",
+									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = 827,

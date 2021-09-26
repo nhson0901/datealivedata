@@ -3677,7 +3677,7 @@ return {
     [736] = {
         id = 736,
         res = "ui/activity/summonActivity/cover1_1.png",
-        res_en = "ui/activity/summonActivity/cover1_1_ko.png",
+        res_en = "ui/activity/summonActivity/cover1_1_en.png",
     },
     [737] = {
         id = 737,

@@ -294,7 +294,7 @@ local t =
 										PositionX = 113,
 										PositionY = 158,
 									},
-									width = "109",
+									width = "119",
 									ZOrder = "1",
 								},
 								{
@@ -340,7 +340,7 @@ local t =
 										PositionX = 114,
 										PositionY = 129,
 									},
-									width = "47",
+									width = "48",
 									ZOrder = "1",
 								},
 								{
@@ -386,7 +386,7 @@ local t =
 										PositionX = 113,
 										PositionY = 102,
 									},
-									width = "103",
+									width = "112",
 									ZOrder = "1",
 								},
 								{
@@ -432,7 +432,7 @@ local t =
 										PositionX = 114,
 										PositionY = 75,
 									},
-									width = "47",
+									width = "48",
 									ZOrder = "1",
 								},
 								{
@@ -478,7 +478,7 @@ local t =
 										PositionX = 114,
 										PositionY = 48,
 									},
-									width = "59",
+									width = "64",
 									ZOrder = "1",
 								},
 								{
@@ -524,7 +524,7 @@ local t =
 										PositionX = 114,
 										PositionY = 21,
 									},
-									width = "47",
+									width = "48",
 									ZOrder = "1",
 								},
 							},
@@ -807,7 +807,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "100",
+							height = "158",
 							ignoreSize = "False",
 							name = "Panel_tipItem",
 							sizepercentx = "0",
@@ -885,8 +885,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 46,
-										PositionY = 17,
+										PositionX = 47,
+										PositionY = 25,
 									},
 									width = "278",
 									ZOrder = "1",
@@ -896,7 +896,7 @@ local t =
 									UUID = "dd9160b3_c0f5_4313_a7db_6198c257c952",
 									anchorPoint = "False",
 									anchorPointX = "0",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -910,7 +910,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -920,8 +920,8 @@ local t =
 									height = "0",
 									ignoreSize = "False",
 									name = "Label_name",
-									nTextAlign = "1",
-									nTextHAlign = "0",
+									nTextAlign = "2",
+									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -931,8 +931,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -91,
-										PositionY = 30,
+										PositionX = -89,
+										PositionY = 29,
 									},
 									width = "274",
 									ZOrder = "1",
@@ -942,7 +942,7 @@ local t =
 									UUID = "1f7198d1_290a_4eca_9c2a_fdce43b5bc8d",
 									anchorPoint = "False",
 									anchorPointX = "0",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -956,14 +956,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "60",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_desc",
 									nTextAlign = "0",
@@ -977,8 +977,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -91,
-										PositionY = -16,
+										PositionX = -89,
+										PositionY = 14,
 									},
 									width = "274",
 									ZOrder = "1",
@@ -1003,7 +1003,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = -49,
+										PositionX = 1,
+										PositionY = -75,
 									},
 									width = "382",
 									ZOrder = "1",
@@ -1117,7 +1118,7 @@ local t =
 												PositionX = -1,
 												PositionY = 1,
 											},
-											width = "38",
+											width = "39",
 											ZOrder = "1",
 										},
 									},

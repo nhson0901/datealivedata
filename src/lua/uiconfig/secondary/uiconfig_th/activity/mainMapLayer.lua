@@ -830,7 +830,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -568,
+								PositionX = -629,
 								PositionY = -320,
 							},
 							uipanelviewmodel = 
@@ -867,7 +867,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									touchAble = "True",
+									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = 933,
@@ -1095,7 +1095,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									touchAble = "True",
+									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = 883,

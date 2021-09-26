@@ -3444,7 +3444,10 @@ function BattleView:showFuben()
         TeamFightDataMgr:reset()
     end
     GuideDataMgr:setPlotLvlBackState(true)
-    battleController.popLastScence()
+
+    TimeOut(function()
+        battleController.popLastScence()
+    end,1);
 end
 
 function BattleView:commonFightResult()
