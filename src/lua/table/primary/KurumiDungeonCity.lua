@@ -15,7 +15,7 @@ return {
         },
         city = 1,
         firstReward = 63740101,
-        sTime = "2021-09-29 00:00:00",
+        sTime = "2021-09-28 00:00:00",
         buffDescribe = {
         },
         stage = 0,
@@ -37,7 +37,7 @@ return {
         },
         city = 2,
         firstReward = 63740101,
-        sTime = "2021-09-29 00:00:00",
+        sTime = "2021-09-28 00:00:00",
         buffDescribe = {
         },
         stage = 0,
@@ -59,7 +59,7 @@ return {
         },
         city = 3,
         firstReward = 63740101,
-        sTime = "2021-09-29 00:00:00",
+        sTime = "2021-09-28 00:00:00",
         buffDescribe = {
         },
         stage = 0,
@@ -81,7 +81,7 @@ return {
         },
         city = 4,
         firstReward = 63740101,
-        sTime = "2021-09-29 00:00:00",
+        sTime = "2021-09-28 00:00:00",
         buffDescribe = {
         },
         stage = 0,
