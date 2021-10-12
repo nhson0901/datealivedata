@@ -53,6 +53,7 @@ function VictoryDecide.init(data, agent)
     or this.nViewType == EC_LevelPassCond.TIMING  -- 日常副本计时
     or this.nViewType == EC_LevelPassCond.HALLOWEEN_DESTORY
     or this.nViewType == EC_LevelPassCond.GUARDMODE_3
+    or this.nViewType == EC_LevelPassCond.NO_DEFEAT
     or this.nViewType == EC_LevelPassCond.KILL_ALL_OR_LIMIT  then
         -- this.nSecondTime    = cfg.victoryParam[1]
         -- this.nRemainingTime = cfg.victoryParam[1]*1000
@@ -354,7 +355,8 @@ function VictoryDecide.update(dt)
     or this.nViewType == EC_LevelPassCond.TIMING  -- 日常副本计时
     or this.nViewType == EC_LevelPassCond.HALLOWEEN_DESTORY 
     or this.nViewType == EC_LevelPassCond.SCORE 
-    or this.nViewType == EC_LevelPassCond.KILL_ALL_OR_LIMIT then
+    or this.nViewType == EC_LevelPassCond.KILL_ALL_OR_LIMIT
+    or this.nViewType == EC_LevelPassCond.NO_DEFEAT then
     -- or this.nViewType == EC_LevelPassCond.GUARDMODE then  --守护模式没有时间限制 @周浩然
         this.scoreUpdate(dt)
         this.countDown(dt)
@@ -375,6 +377,8 @@ end
 function VictoryDecide.checkLastResult(isWin)
     if this.nViewType == EC_LevelPassCond.KILL_ALL_OR_LIMIT then    -- 限时杀怪
         return statistics.killNum >= this.data[1].victoryParam[2]
+    elseif this.nViewType == EC_LevelPassCond.NO_DEFEAT then
+        return true
     end
     return isWin
 end
@@ -496,6 +500,10 @@ function VictoryDecide.checkResult()
             else
                 this.agent.endBattle(false)
             end
+        end
+    elseif this.nViewType == EC_LevelPassCond.NO_DEFEAT then
+        if this.nRemainingTime <= 0 then
+            this.agent.endBattle(true)
         end
     else
 

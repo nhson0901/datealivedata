@@ -652,6 +652,8 @@ function FubenDataMgr:getLevelName(levelCid)
         return TextDataMgr:getText(levelCfg.name)
     elseif levelCfg.dungeonType == EC_FBLevelType.MUSIC_GAME then
         return TextDataMgr:getText(levelCfg.name)
+    elseif levelCfg.dungeonType == EC_FBLevelType.PRACTICE then
+        return TextDataMgr:getText(levelCfg.name)
     end
     local levelGroupCfg = self:getLevelGroupCfg(levelCfg.levelGroupId)
     local chapterCfg = self:getChapterCfg(levelGroupCfg.dungeonChapterId)
@@ -944,6 +946,7 @@ end
 function FubenDataMgr:getStarRuleDesc(levelId, pos)
     local levelCfg = self.levelMap_[levelId]
     local desc = ""
+    local fbType = self:getFubenType(levelId)
     if levelCfg.dungeonType == EC_FBLevelType.FIGHTING or levelCfg.dungeonType == EC_FBLevelType.THEATER_FIGHTING
         or levelCfg.dungeonType == EC_FBLevelType.KUANGSAN_FIGHTING or levelCfg.dungeonType == EC_FBLevelType.HWX or levelCfg.dungeonType == EC_FBLevelType.KUANGSAN_DATING or levelCfg.dungeonType == EC_FBLevelType.DICUO_MAINFIGHT then
         local starParam = levelCfg.starParam
@@ -968,6 +971,9 @@ function FubenDataMgr:getStarRuleDesc(levelId, pos)
             desc = TextDataMgr:getText(datingRuleCfg.dungeonDateDes[pos])
         end
     elseif levelCfg.dungeonType == EC_FBLevelType.CITYDATING then
+        local starDesc = levelCfg.starDescribe
+        desc = TextDataMgr:getText(starDesc[1])
+    elseif fbType == EC_FBType.TONG_FUBEN then
         local starDesc = levelCfg.starDescribe
         desc = TextDataMgr:getText(starDesc[1])
     end
@@ -1638,9 +1644,15 @@ end
 
 function FubenDataMgr:getFubenType(levelCid)
     local levelCfg = self:getLevelCfg(levelCid)
+    if not levelCfg then
+        return 0
+    end
     local levelGroupCfg = self:getLevelGroupCfg(levelCfg.levelGroupId)
-    local chapterCfg = self:getChapterCfg(levelGroupCfg.dungeonChapterId)
-    return chapterCfg.type
+    if levelGroupCfg and levelGroupCfg.dungeonChapterId then
+        local chapterCfg = self:getChapterCfg(levelGroupCfg.dungeonChapterId)
+        return chapterCfg.type
+    end
+    return 0
 end
 
 function FubenDataMgr:getEndlessJumpLevel(sec)
@@ -2451,7 +2463,7 @@ function FubenDataMgr:getCurFightParam()
 end
 
 
-function FubenDataMgr:send_DUNGEON_FIGHT_OVER(levelId, isWin, reachStar, maxComboNum, pickUpTypeCount, pickUpCount, killTargets, costTime, damage,rating ,skillEnemy)
+function FubenDataMgr:send_DUNGEON_FIGHT_OVER(levelId, isWin, reachStar, maxComboNum, pickUpTypeCount, pickUpCount, killTargets, costTime, damage,rating ,skillEnemy,hitedCnt,recoverHpCnt)
     maxComboNum = maxComboNum or 0
     pickUpTypeCount = pickUpTypeCount or 0
     pickUpCount = pickUpCount or 0
@@ -2460,8 +2472,10 @@ function FubenDataMgr:send_DUNGEON_FIGHT_OVER(levelId, isWin, reachStar, maxComb
     damage =damage or 0
     rating = rating or 0
     skillEnemy = skillEnemy or {}
-    dump({levelId, isWin, reachStar, maxComboNum, pickUpTypeCount, pickUpCount, killTargets, costTime, damage,rating,skillEnemy})
-    TFDirector:send(c2s.DUNGEON_FIGHT_OVER, {levelId, isWin, reachStar, maxComboNum, pickUpTypeCount, pickUpCount, killTargets, costTime, damage,rating,skillEnemy})
+    hitedCnt = hitedCnt or 0
+    recoverHpCnt = recoverHpCnt or 0
+    dump({levelId, isWin, reachStar, maxComboNum, pickUpTypeCount, pickUpCount, killTargets, costTime, damage,rating,skillEnemy,hitedCnt,recoverHpCnt})
+    TFDirector:send(c2s.DUNGEON_FIGHT_OVER, {levelId, isWin, reachStar, maxComboNum, pickUpTypeCount, pickUpCount, killTargets, costTime, damage,rating,skillEnemy,hitedCnt,recoverHpCnt})
 end
 
 function FubenDataMgr:send_ENDLESS_CLOISTER_REQ_START_FIGHT_ENDLESS()
@@ -2605,7 +2619,12 @@ function FubenDataMgr:onRecvFightStart(event)
             battleController.enterBattle(data, EC_BattleType.COMMON)
         end
         EventMgr:dispatchEvent(EV_BATTLE_FIGHTSTART)
-    elseif levelCfg.dungeonType == EC_FBLevelType.DATING or levelCfg.dungeonType == EC_FBLevelType.THEATER_DATING or levelCfg.dungeonType == EC_FBLevelType.KUANGSAN_DATING  or levelCfg.dungeonType == EC_FBLevelType.DICUO_MAINDATING then
+    elseif levelCfg.dungeonType == EC_FBLevelType.DATING
+            or levelCfg.dungeonType == EC_FBLevelType.THEATER_DATING
+            or levelCfg.dungeonType == EC_FBLevelType.KUANGSAN_DATING
+            or levelCfg.dungeonType == EC_FBLevelType.DICUO_MAINDATING
+            or levelCfg.dungeonType == EC_FBLevelType.TONG_DATING
+    then
         DatingDataMgr:sendGetSciptMsg(EC_DatingScriptType.FUBEN_SCRIPT,nil,nil, levelCfg.datingID[1])
     elseif levelCfg.dungeonType == EC_FBLevelType.CITYDATING then
         NewCityDataMgr:sendGetCitySetpData(EC_NewCityType.NewCity_FuBen, levelCfg.datingID[1], RoleDataMgr:getCurId())
@@ -2642,7 +2661,12 @@ function FubenDataMgr:onRecvFightStart(event)
         battleController.enterBattle(data, EC_BattleType.COMMON)
     elseif levelCfg.dungeonType == EC_FBLevelType.WORLD_BOSS then
         battleController.enterBattle(data, EC_BattleType.COMMON)
-
+    elseif levelCfg.dungeonType == EC_FBLevelType.TONG_DATINGFIGHT
+            or levelCfg.dungeonType == EC_FBLevelType.TONG_AIRFIGHT
+            or levelCfg.dungeonType == EC_FBLevelType.TONG_AIRINTEREST
+            or levelCfg.dungeonType == EC_FBLevelType.TONG_MONSTER
+            or levelCfg.dungeonType == EC_FBLevelType.TONG_FIGHT then
+        battleController.enterBattle(data, EC_BattleType.COMMON)
     elseif levelCfg.dungeonType == EC_FBLevelType.DICUO_MAINFIGHT
             or levelCfg.dungeonType == EC_FBLevelType.DICUO_ENHUI
             or levelCfg.dungeonType == EC_FBLevelType.DICUO_HUALUN
@@ -2748,6 +2772,14 @@ function FubenDataMgr:onRecvFightOver(event)
     elseif levelCfg.dungeonType == EC_FBLevelType.DALMAP then
         BattleDataMgr:setBattleResutlData(dropReward)
         DalMapDataMgr:overDalFight(isWin)
+        EventMgr:dispatchEvent(EV_BATTLE_FIGHTOVER, dropReward, isWin)
+    elseif levelCfg.dungeonType == EC_FBLevelType.TONG_DATING then
+        BattleDataMgr:setBattleResutlData(dropReward)
+        EventMgr:dispatchEvent(EV_BATTLE_FIGHTOVER, dropReward, isWin)
+    elseif levelCfg.dungeonType == EC_FBLevelType.TONG_MONSTER then
+        TongDataMgr:Send_GetMonsterInfo()
+        TongDataMgr:setFightMonsterState(true)
+        BattleDataMgr:setBattleResutlData(dropReward)
         EventMgr:dispatchEvent(EV_BATTLE_FIGHTOVER, dropReward, isWin)
     else
         BattleDataMgr:setBattleResutlData(dropReward)

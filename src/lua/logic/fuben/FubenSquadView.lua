@@ -272,6 +272,30 @@ function FubenSquadView:initMonsterTrialData(lvlId)
 	self:initFormationData()
 end
 
+function FubenSquadView:initTongLevelData(data,challengeCount)
+
+    self.levelCid_ = data.levelCid
+    self.levelCfg_ = FubenDataMgr:getLevelCfg(self.levelCid_)
+
+    self.challengeCount_ = challengeCount or 0
+    self.calChallengeCount_ = math.max(1, self.challengeCount_)
+
+    self.bossId = data.bossId
+
+    local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TONG)[1]
+    self.tongActivityInfo = ActivityDataMgr2:getActivityInfo(activityId)
+
+    self:initFormationData()
+    self:initAssistanData()
+
+    if self.levelCfg_.dungeonType == EC_FBLevelType.TONG_DATINGFIGHT or
+       self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRFIGHT or
+       self.levelCfg_.dungeonType == EC_FBLevelType.TONG_FIGHT then
+        self.isUnlockAssistant_ = true
+    end
+
+end
+
 function FubenSquadView:initData(fubenType, ...)
 
     dump({fubenType, {...}})
@@ -312,6 +336,8 @@ function FubenSquadView:initData(fubenType, ...)
         self:initHwxLevelData(...)
     elseif self.fubenType_ == EC_FBType.DICUO_FUBEN then
         self:initPlotAndDailyData(...)
+    elseif self.fubenType_ == EC_FBType.TONG_FUBEN then
+        self:initTongLevelData(...)
     end
 
 end
@@ -350,6 +376,8 @@ function FubenSquadView:ctor(...)
         self.topBarFileName = "FubenSquadViewHwx"
     elseif self.fubenType_ == EC_FBType.DICUO_FUBEN then
         self.topBarFileName = "FubenSquadViewDicuo"
+    elseif self.fubenType_ == EC_FBType.TONG_FUBEN then
+        self.topBarFileName = "FubenSquadViewTong"
 	end	
     self:init("lua.uiconfig.fuben.fubenSquadView")
 end
@@ -425,6 +453,15 @@ function FubenSquadView:initUI(ui)
     self.Panel_mojin_award = TFDirector:getChildByPath(self.Panel_mojin, "Panel_mojin_award"):hide()
     self.Panel_mojin_award = TFDirector:getChildByPath(self.Panel_mojin, "Panel_mojin_award"):hide()
 
+    self.Panel_tong        = TFDirector:getChildByPath(self.Panel_root, "Panel_tong"):hide()
+    self.Label_tong_desc   = TFDirector:getChildByPath(self.Panel_tong, "Label_tong_desc")
+    self.Image_tong_desc   = TFDirector:getChildByPath(self.Panel_tong, "Image_tong_desc")
+    self.Panel_tongMonster = TFDirector:getChildByPath(self.Panel_tong, "Panel_monster")
+    self.Label_tong_tip    = TFDirector:getChildByPath(self.Panel_tong, "Label_tong_tip")
+    self.Label_tong_tip:setTextById(13206505)
+    local ScrollView_buff  = TFDirector:getChildByPath(self.Panel_tong, "ScrollView_buff")
+    self.UIListView_buff   = UIListView:create(ScrollView_buff)
+
     self.Panel_dicuo_hualun = TFDirector:getChildByPath(self.Panel_root, "Panel_dicuo_hualun"):hide()
     self.Panel_dicuo_jiban = TFDirector:getChildByPath(self.Panel_root, "Panel_dicuo_jiban"):hide()
 
@@ -445,6 +482,9 @@ function FubenSquadView:initUI(ui)
 
     self.Panel_snowFestival = TFDirector:getChildByPath(self.Panel_root, "Panel_snowFestival"):hide()
     self.Image_snowFestival = TFDirector:getChildByName(ui, "Image_snowFestival"):hide()
+    self.Image_patong       = TFDirector:getChildByName(ui, "Image_patong"):hide()
+
+    self.Image_myteam_title = TFDirector:getChildByName(ui, "Image_myteam_title"):show()
 
     self.equipCardBtn = {}
     for i=1,3 do
@@ -813,6 +853,75 @@ function FubenSquadView:showHalloween()
     Label_halloween_target:setText(desc)
     local chineseNumber = Utils:getChineseNumber(self.levelCfg_.num)
     Label_halloween_desc:setTextById(self.levelCfg_.plotBrief)
+end
+
+function FubenSquadView:showTongData()
+
+    self.Image_patong:show()
+    --self.Image_myteam_title:hide()
+    self.Button_fighting:setTextureNormal("ui/tong/common/btn1.png")
+    self.Button_preTeam:setTextureNormal("ui/tong/common/btn1.png")
+
+    if self.levelCfg_.dungeonType == EC_FBLevelType.TONG_MONSTER then
+
+        local Label_monsterName = TFDirector:getChildByPath(self.Panel_tongMonster, "Label_monsterName")
+        local Image_monster = TFDirector:getChildByPath(self.Panel_tongMonster, "Image_monster")
+        local Label_difficulty = TFDirector:getChildByPath(self.Panel_tongMonster, "Label_threat_lv")
+        local Panel_buff_item = TFDirector:getChildByPath(self.Panel_tongMonster, "Panel_buff_item")
+        local Label_tong_score = TFDirector:getChildByPath(self.Panel_tongMonster, "Label_tong_score")
+        local LoadingBar_threat= TFDirector:getChildByPath(self.Panel_tongMonster, "LoadingBar_threat")
+        local vitMaxDungonInfo = TabDataMgr:getData("DungeonInfoOfVITmax")[self.levelCid_]
+        local vitmaxThreatCfg        = TabDataMgr:getData("VITmaxEIPointThreat")
+        if not vitMaxDungonInfo then
+            return
+        end
+
+        local maxThreatCfg = vitmaxThreatCfg[#vitmaxThreatCfg]
+        local curThreatExp = TongDataMgr:getCurThreatExp()
+        local curId,curLv = maxThreatCfg.id,maxThreatCfg.threatLevel
+        for k,v in ipairs(vitmaxThreatCfg) do
+            if curThreatExp <= v.threatValueLmt then
+                curId = k
+                curLv = v.threatLevel
+                break
+            end
+        end
+
+        print(curId,curLv,curThreatExp)
+
+        local maxValue,beforValue = TongDataMgr:getBarMaxValue(curId)
+        local percent = math.floor((curThreatExp-beforValue)/maxValue*100)
+        LoadingBar_threat:setPercent(percent)
+
+        Label_monsterName:setTextById(vitMaxDungonInfo.eliteBossName)
+        Image_monster:setTexture(vitMaxDungonInfo.eliteBossIcon)
+        Label_difficulty:setText(vitMaxDungonInfo.eliteLevel)
+
+        self.UIListView_buff:removeAllItems()
+        local buff = TongDataMgr:getEliteBuff()
+        local score = 0
+        for k,v in ipairs(buff) do
+            local cfg = TongDataMgr:getAffixCfg(v)
+            if cfg then
+                local item = Panel_buff_item:clone()
+                local img = TFDirector:getChildByPath(item, "Image_icon")
+                img:setTexture(cfg.icon)
+                local Label_desc = TFDirector:getChildByPath(item, "Label_desc")
+                Label_desc:setTextById(cfg.des)
+                local Image_bg = TFDirector:getChildByPath(item, "Image_bg")
+                local h = Label_desc:getContentSize().height + 15
+                h = math.max(h,90)
+                item:setContentSize(CCSize(365 , h))
+                Image_bg:setContentSize(CCSize(365 , h-5))
+                self.UIListView_buff:pushBackCustomItem(item)
+                score = score + cfg.scoreAdd
+            end
+        end
+
+        Label_tong_score:setText("总评分："..score)
+        Label_tong_score:setVisible(false)
+    end
+
 end
 
 function FubenSquadView:showKsanLevelData()
@@ -1338,6 +1447,21 @@ function FubenSquadView:refreshView()
             self.Panel_formation:show()
             self.Panel_assistant:setVisible(true)
         end
+    elseif self.fubenType_ == EC_FBType.TONG_FUBEN then
+
+        print("self.levelCfg_.dungeonType",self.levelCfg_.dungeonType)
+        self.Panel_formation:show()
+        self.Panel_tong:show()
+
+        self.Panel_assistant:setVisible(self.levelCfg_.dungeonType ~= EC_FBLevelType.TONG_AIRINTEREST
+                and self.levelCfg_.dungeonType ~= EC_FBLevelType.TONG_MONSTER)
+        self.Label_tong_desc:setTextById(self.levelCfg_.plotBrief)
+
+        self.Label_tong_tip:setVisible(self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRFIGHT
+                or self.levelCfg_.dungeonType == EC_FBLevelType.TONG_FIGHT)
+
+        self.Image_tong_desc:setVisible(self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRINTEREST)
+        self.Panel_tongMonster:setVisible(self.levelCfg_.dungeonType == EC_FBLevelType.TONG_MONSTER)
     end
 
 
@@ -1409,6 +1533,10 @@ function FubenSquadView:refreshView()
 
     if self.fubenType_ == EC_FBType.KSAN_FUBEN then
         self:showKsanLevelData()
+    end
+
+    if self.fubenType_ == EC_FBType.TONG_FUBEN then
+        self:showTongData()
     end
 
     self:updateGMSkill()
@@ -1971,6 +2099,66 @@ function FubenSquadView:onFightingClick()
         else
             battleController.requestFightStart(self.levelCid_, assistantPlayerId, assistantHeroCid, heros, self.challengeCount_, self.isDuelMod_)
         end
+    elseif self.fubenType_ == EC_FBType.TONG_FUBEN then
+
+        local function func()
+            if self.levelCfg_.dungeonType == EC_FBLevelType.TONG_MONSTER then
+                battleController.requestFightStart(self.levelCid_, 0, 0, heros, 0, false)
+
+                local eliteInfo = TongDataMgr:getEliteInfo()
+                if not eliteInfo then
+                    return
+                end
+
+                local specifyData = {}
+                specifyData[self.bossId] = {
+                    [1] = tonumber(eliteInfo.maxHp),
+                    [52] = tonumber(eliteInfo.hp)
+                }
+                dump(specifyData)
+                battleController.setSpecifyMonster(specifyData)
+
+                local isLayerInQueue,layer = AlertManager:isLayerInQueue("TongMonsterView")
+                if isLayerInQueue then
+                    AlertManager:closeLayer(layer)
+                end
+            else
+                TongDataMgr:setActivityViewState(true)
+                battleController.requestFightStart(self.levelCid_, assistantPlayerId, assistantHeroCid, heros, self.challengeCount_, false)
+            end
+        end
+
+        if self.levelCfg_.dungeonType == EC_FBLevelType.TONG_DATING or
+                self.levelCfg_.dungeonType == EC_FBLevelType.TONG_DATINGFIGHT then
+            func()
+        else
+            local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TONG)[1]
+            local isOpen = ActivityDataMgr2:isInOpenTime(activityId)
+            if not isOpen then
+                local args = {
+                    tittle = 2107025,
+                    content = TextDataMgr:getText(13205113),
+                    reType = false,
+                    opacity = 255 * 0.45,
+                    confirmCall = function()
+                        local layerName = {"TongMainView","TongMonsterView","TongFightReadyView","FubenSquadView"}
+                        for k,v in ipairs(layerName) do
+                            local isLayerInQueue,layer = AlertManager:isLayerInQueue(v)
+                            if isLayerInQueue then
+                                AlertManager:closeLayer(layer)
+                            end
+                        end
+                    end,
+                    showCancel = false,
+                    showClose = false
+                }
+                Utils:openView("tong.TongAddNumConfirmView",args)
+            else
+                func()
+            end
+
+        end
+
     else
         battleController.requestFightStart(self.levelCid_, 0, 0, heros, 0, false)
     end
@@ -2217,6 +2405,26 @@ function FubenSquadView:updateFormation()
                             TFDirector:getChildByPath(v.Panel_mojin_coin, "Label_coin_buff"):setTextById(buff <= 10 and 12033022 or 12033021)
                             break
                          end 
+                    end
+                end
+            elseif self.fubenType_ == EC_FBType.TONG_FUBEN then
+                if self.tongActivityInfo then
+
+                    self.Panel_formation:show()
+                    if self.levelCfg_.dungeonType == EC_FBLevelType.TONG_FIGHT
+                            or self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRFIGHT then
+                        local herobonus = self.tongActivityInfo.extendData.herobonus or {}
+                        for heroId,bonus in pairs(herobonus) do
+                            if tonumber(heroId) == heroData.id then
+                                v.Panel_mojin_coin:show()
+                                for itemId,buff in pairs(bonus) do
+                                    local itemCfg = GoodsDataMgr:getItemCfg(tonumber(itemId))
+                                    TFDirector:getChildByPath(v.Panel_mojin_coin, "Image_coin"):setTexture(itemCfg.icon)
+                                    TFDirector:getChildByPath(v.Panel_mojin_coin, "Label_coin_buff"):setTextById(buff <= 10 and 12033022 or 12033021)
+                                    break
+                                end
+                            end
+                        end
                     end
                 end
             elseif self.fubenType_ == EC_FBType.HWX_FUBEN then

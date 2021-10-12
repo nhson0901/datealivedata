@@ -41,9 +41,9 @@ end
 function ReturnGiftView:initUI(ui)
     self.super.initUI(self,ui)
 
-    local year1, month1, day1 = Utils:getDate(self.activityInfo.showStartTime or 0)
-    local year2, month2, day2 = Utils:getDate(self.activityInfo.endTime or 0)
-    self._ui.act_time:setTextById(63917, year1, month1, day1, year2, month2, day2)
+    local year1, month1, day1 = Utils:getUTCDateYMD(self.activityInfo.showStartTime or 0 , false , GV_UTC_TIME_ZONE)
+    local year2, month2, day2 = Utils:getUTCDateYMD(self.activityInfo.endTime or 0 , false , GV_UTC_TIME_ZONE)
+    self._ui.act_time:setText(TextDataMgr:getText(63917, year1, month1, day1, year2, month2, day2)..GV_UTC_TIME_STRING)
 
     self.listView = UIListView:create(self._ui.listView)
     self.listView:setItemsMargin(10)
@@ -172,7 +172,7 @@ function ReturnGiftView:updateGifts()
             isHadBought = rechargeCfg.buyCount ~= 0 and (rechargeCfg.buyCount - RechargeDataMgr:getBuyCount(assemblyGiftId)) <= 0
         end
         local isTaskGetted = isTaskItem and status and status == EC_TaskStatus.GETED
-        item.Label_name:setText(itemInfo.details)
+        item.Label_name:setTextById(itemInfo.details)
         item.btn_buy:setVisible(not isTaskItem and not isHadBought)
         item.btn_getReward:setVisible(isTaskItem and status and status == EC_TaskStatus.GET)
         item.img_hadGetted:setVisible(isTaskGetted or isHadBought)

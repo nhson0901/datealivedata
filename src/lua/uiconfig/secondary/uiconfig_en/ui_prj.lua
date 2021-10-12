@@ -291,15 +291,20 @@ local t = {
 																																																																																																																					id=1,
 																																																																																																																				},
 																																																																																																																						{
-																																																																																																																							name="twoYearTurnTablet",
-																																																																																																																							path ="twoYearTurnTablet/sceneConfig.lua",
+																																																																																																																							name="tong",
+																																																																																																																							path ="tong/sceneConfig.lua",
 																																																																																																																							id=1,
 																																																																																																																						},
 																																																																																																																								{
-																																																																																																																									name="valentine",
-																																																																																																																									path ="valentine/sceneConfig.lua",
+																																																																																																																									name="twoYearTurnTablet",
+																																																																																																																									path ="twoYearTurnTablet/sceneConfig.lua",
 																																																																																																																									id=1,
 																																																																																																																								},
+																																																																																																																										{
+																																																																																																																											name="valentine",
+																																																																																																																											path ="valentine/sceneConfig.lua",
+																																																																																																																											id=1,
+																																																																																																																										},
 	}
 }
 return t

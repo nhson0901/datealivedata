@@ -227,6 +227,21 @@ return {
         describe2 = 0,
         describe1 = 14300287,
     },
+    [113701] = {
+        recommend1 = {
+            [1] = 250693,
+            [2] = 250691,
+            [3] = 250695,
+        },
+        describe3 = 0,
+        recommend2 = {
+        },
+        id = 113701,
+        recommend3 = {
+        },
+        describe2 = 0,
+        describe1 = 14300412,
+    },
     [113201] = {
         recommend1 = {
             [1] = 250664,

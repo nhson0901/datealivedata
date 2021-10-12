@@ -373,7 +373,7 @@ return {
     [540000] = {
         ext = {
         },
-        buyEndTime = "2021-08-10 23:59:59",
+        buyEndTime = "2021-08-20 23:59:59",
         openTimeType = 1,
         showCurrency = {
             [1] = 500075,
@@ -533,7 +533,7 @@ return {
     [550000] = {
         ext = {
         },
-        buyEndTime = "2021-08-10 23:59:59",
+        buyEndTime = "2021-08-20 23:59:59",
         openTimeType = 1,
         showCurrency = {
             [1] = 500075,
@@ -1028,7 +1028,7 @@ return {
     [530000] = {
         ext = {
         },
-        buyEndTime = "2021-08-10 23:59:59",
+        buyEndTime = "2021-08-20 23:59:59",
         openTimeType = 1,
         showCurrency = {
             [1] = 500075,
@@ -1914,7 +1914,7 @@ return {
     [520000] = {
         ext = {
         },
-        buyEndTime = "2021-08-10 23:59:59",
+        buyEndTime = "2021-08-20 23:59:59",
         openTimeType = 1,
         showCurrency = {
             [1] = 500075,
@@ -2075,7 +2075,7 @@ return {
     [510000] = {
         ext = {
         },
-        buyEndTime = "2021-08-10 23:59:59",
+        buyEndTime = "2021-08-20 23:59:59",
         openTimeType = 1,
         showCurrency = {
             [1] = 500075,

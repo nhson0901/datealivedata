@@ -10,6 +10,7 @@ local PauseView     = class("PauseView", BaseLayer)
 function PauseView:initData(data)
     self.levelCid_ = BattleDataMgr:getPointId()
     self.levelCfg_ = BattleDataMgr:getLevelCfg()
+    self.fubenType_ = FubenDataMgr:getFubenType(self.levelCid_)
     self.data_ = data
 end
 
@@ -58,10 +59,15 @@ function PauseView:initUI(ui)
 
     if self.levelCfg_.dungeonType == EC_FBLevelType.SPRITE 
         or self.levelCfg_.dungeonType == EC_FBLevelType.HUNTER
-        or self.levelCfg_.dungeonType == EC_FBLevelType.TXJZ then
+        or self.levelCfg_.dungeonType == EC_FBLevelType.TXJZ
+    then
         self.Image_challenge:hide()
     else
         self.Image_challenge:show()
+    end
+
+    if self.fubenType_ == EC_FBType.TONG_FUBEN then
+        self.Image_challenge:hide()
     end
 
     self.Button_reopen:setVisible(self.levelCfg_.dungeonType == EC_FBLevelType.ENDLESS_PLUSS )

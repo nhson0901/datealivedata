@@ -173,10 +173,10 @@ return {
         sort = 8,
         id = 15,
         heroId = 110701,
-        scale  = 0.35,
+        scale  = 0.3,
         paintPosition = {
-            y = 10,
-            x = 880,
+            y = 50,
+            x = 860,
         },
     },
     [16] = {
@@ -185,10 +185,10 @@ return {
         sort = 7,
         id = 16,
         heroId = 110801,
-        scale  = 0.35,
+        scale  = 0.3,
         paintPosition = {
-            y = 10,
-            x = 950,
+            y = 50,
+            x = 940,
         },
     },
     [17] = {
@@ -381,6 +381,42 @@ return {
         paintPosition = {
             y = 315,
             x = 650,
+        },
+    },
+    [33] = {
+        show = 1,
+        heroSkinId = 1124011,
+        sort = 8,
+        id = 33,
+        heroId = 112401,
+        scale  = 0.3,
+        paintPosition = {
+            y = 10,
+            x = 995,
+        },
+    },
+    [34] = {
+        show = 1,
+        heroSkinId = 1125011,
+        sort = 7,
+        id = 34,
+        heroId = 112501,
+        scale  = 0.3,
+        paintPosition = {
+            y = 10,
+            x = 1095,
+        },
+    },
+    [35] = {
+        show = 1,
+        heroSkinId = 1137011,
+        sort = 10,
+        id = 35,
+        heroId = 113701,
+        scale  = 0.3,
+        paintPosition = {
+            y = 38,
+            x = 105,
         },
     },
 }

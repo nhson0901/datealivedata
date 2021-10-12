@@ -8588,7 +8588,7 @@ return {
         summonSize = 0.5,
         inherentAttribute = 10180,
         nameTextId = "400218",
-        icon = "icon/equipment/icon/106_106/icon1_renai_13.png",
+        icon = "icon/equipment/icon/106_106/icon1_renai_12.png",
         size = 0.5,
         specialAttrLevelRange = {
             [1] = {
@@ -8622,7 +8622,7 @@ return {
         conversion = {
         },
         maxAdvanced = 0,
-        halfPaint = "icon/equipment/icon/170_214/icon2_renai_13.png",
+        halfPaint = "icon/equipment/icon/170_214/icon2_renai_12.png",
         bornEffect = true,
         dealProfit = {
         },
@@ -8691,7 +8691,7 @@ return {
         },
         initalLevel = 1,
         quality = 6,
-        equipPaint = "icon/equipment/icon/192_166/icon3_renai_13.png",
+        equipPaint = "icon/equipment/icon/192_166/icon3_renai_12.png",
         convertMax = {
             [570001] = 2000,
         },

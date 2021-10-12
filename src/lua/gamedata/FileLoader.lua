@@ -100,6 +100,7 @@ local __dataMgr = {
     KVP("MaokaActivityMgr", "lua.dataMgr.MaokaActivityMgr"),
     KVP("FubenEndlessPlusDataMgr", "lua.dataMgr.FubenEndlessPlusDataMgr"),
     KVP("GlobalFuncDataMgr","lua.dataMgr.GlobalFuncDataMgr"),
+    KVP("TongDataMgr", "lua.dataMgr.TongDataMgr"),
 }
 
 local __loadList = {}

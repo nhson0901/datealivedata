@@ -10,6 +10,7 @@ local GuideType = {
 function GuideDataMgr:ctor()
 	self.guideData = TabDataMgr:getData("Guide")
 	self.guideGroup = {}
+	self.serverGuideGroup = {}
 	self.maxNewStep = 0
 	self.triggerGuideGroupIds = {}
 	local groupIds = {}
@@ -66,7 +67,7 @@ function GuideDataMgr:onLogin()
 end
 
 function GuideDataMgr:reset()
-
+	self.serverGuideGroup = {}
 end
 
 function GuideDataMgr:onLoginOut()
@@ -187,6 +188,13 @@ function GuideDataMgr:checkHasGuideInfo(ui)
 		return false		
 	end
 
+
+	local stepId = self:getStepByName(ui.__cname,ui.checkGroupId)
+	dump(stepId,"getCfgByName")
+	if stepId then
+		self.__step = stepId
+	end
+	print("GuideDataMgr 2222222222222222", self.__step, ui.__cname)
 	----触发约会
 	local info = self:getCfgByStep(self.__step)
 	if info then
@@ -444,6 +452,44 @@ function GuideDataMgr:getCfgByStep(step)
 	end
 end
 
+function GuideDataMgr:getStepByName(uiName,checkGroupId)
+
+	local groupId
+	for k,v in pairs(self.guideData) do
+		if v.guideType == 2 and v.fileName == uiName  then
+			local isSave = self:isSaveGuideGroup(v.guideId)
+			if not isSave then
+				groupId = v.guideId
+				break
+			end
+		end
+	end
+
+	groupId = checkGroupId and checkGroupId or groupId
+
+	if not groupId then
+		return
+	end
+
+	local isSave = self:isSaveGuideGroup(groupId)
+	if isSave then
+		return
+	end
+
+	local group = self.guideGroup[groupId]
+	local step = self:getTabMinKey(group)
+
+    print(" self.__step", self.__step,step,self.__groupId , groupId)
+
+    if self.__groupId == groupId then
+        return
+    end
+
+    self.__groupId = groupId
+
+	return step
+end
+
 function GuideDataMgr:isInGroupFirst()
 	local group = self.guideGroup[self.__groupId]
 	for step,v in pairs(group) do
@@ -576,9 +622,17 @@ function GuideDataMgr:getServerGroupIds()
 	return self.serverGuideGroup
 end
 
+function GuideDataMgr:isSaveGuideGroup(groupId)
+	return table.indexOf(self.serverGuideGroup,groupId) ~= -1
+end
+
 function GuideDataMgr:addServerGuideGroupId(id)
 	table.insert(self.serverGuideGroup,id)
 	TFDirector:send(c2s.EXPLORE_REQ_ADD_GUIDE_STEP, {id})
+end
+
+function GuideDataMgr:clearServerGuideGroupId()
+	self.serverGuideGroup = {}
 end
 
 function GuideDataMgr:recvAddServerGuideGroup(event)

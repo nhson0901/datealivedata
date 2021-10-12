@@ -1751,9 +1751,9 @@ local t =
 										},
 										{
 											controlID = "Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
-											UUID = "85111743_cdb9_481a_bf0d_6ab413dc6c9d",
+											UUID = "556873fd_f950_4f6c_b12a_5b02847e3478",
 											anchorPoint = "False",
-											anchorPointX = "0",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											backGroundScale9Enable = "False",
 											bgColorOpacity = "50",
@@ -1776,23 +1776,22 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 62,
-												PositionY = -79,
+												PositionX = 250,
+												PositionY = -75,
 											},
 											uipanelviewmodel = 
 											{
 												Layout="Absolute",
 												nType = "0"
 											},
-											visible = "False",
-											width = "175",
+											width = "198",
 											ZOrder = "1",
 											components = 
 											{
 												
 												{
 													controlID = "Image_super_energy_bg_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
-													UUID = "c5c6a625_d96e_48ea_bc42_717237f5020c",
+													UUID = "1485aa7b_20c5_4674_a865_02ef310cfdfc",
 													anchorPoint = "False",
 													anchorPointX = "0",
 													anchorPointY = "0.5",
@@ -1810,6 +1809,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
+														PositionX = -175,
 														relativeToName = "Panel",
 													},
 													width = "178",
@@ -1818,8 +1818,34 @@ local t =
 													{
 														
 														{
+															controlID = "Image_super_bar_bg_Image_super_energy_bg_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
+															UUID = "5046ec6f_ec63_42b9_992d_130a533914fb",
+															anchorPoint = "False",
+															anchorPointX = "0.5",
+															anchorPointY = "0.5",
+															backGroundScale9Enable = "False",
+															classname = "MEImage",
+															dstBlendFunc = "771",
+															height = "2",
+															ignoreSize = "True",
+															name = "Image_super_bar_bg",
+															sizepercentx = "0",
+															sizepercenty = "0",
+															sizeType = "0",
+															srcBlendFunc = "1",
+															texturePath = "ui/battle/battle_energy_bar03_1.png",
+															touchAble = "False",
+															UILayoutViewModel = 
+															{
+																PositionX = 110,
+															},
+															visible = "False",
+															width = "2",
+															ZOrder = "1",
+														},
+														{
 															controlID = "LoadingBar_super_energy_Image_super_energy_bg_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
-															UUID = "2d4635d3_6b75_455b_a6a9_e4e6ed4a9777",
+															UUID = "ce06fe33_eec9_4999_835c_e2a10966608b",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
 															anchorPointY = "0.5",
@@ -1848,7 +1874,7 @@ local t =
 												},
 												{
 													controlID = "Spine_super_energy_guang_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
-													UUID = "36163c4d_9f98_42a9_85e3_760505798c92",
+													UUID = "9f4d0821_8e00_4dba_a113_8159b2189bd9",
 													classname = "MESpine",
 													dstBlendFunc = "771",
 													name = "Spine_super_energy_guang",
@@ -1871,13 +1897,14 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 170,
+														PositionX = -5,
 													},
+													visible = "False",
 													ZOrder = "1",
 												},
 												{
 													controlID = "Spine_super_energy_dian_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
-													UUID = "b4530652_06c8_449d_9679_17b48c709b81",
+													UUID = "93723a44_d9eb_4862_a925_79222e506919",
 													classname = "MESpine",
 													dstBlendFunc = "771",
 													name = "Spine_super_energy_dian",
@@ -1900,15 +1927,46 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 110,
+														PositionX = -65,
 													},
+													visible = "False",
+													ZOrder = "1",
+												},
+												{
+													controlID = "Spine_super_energy_huo_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
+													UUID = "ff07be80_2c05_43d8_be97_086e54789104",
+													classname = "MESpine",
+													dstBlendFunc = "771",
+													name = "Spine_super_energy_huo",
+													sizepercentx = "0",
+													sizepercenty = "0",
+													sizeType = "0",
+													spineModel = 
+													{
+														SpinePath = "effect/energyUI_bar_03/energyUI_bar_03",
+														animationName = "animation",
+														IsLoop = true,
+														IsPlay = true,
+														IsUseQueue = false,
+														AnimationQueue = 
+														{
+															
+														},
+													},
+													srcBlendFunc = "1",
+													touchAble = "False",
+													UILayoutViewModel = 
+													{
+														PositionX = -65,
+													},
+													visible = "False",
 													ZOrder = "1",
 												},
 												{
 													controlID = "Label_super_sp_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
 													UUID = "9825bcce_e4b1_47d7_884c_7c745479bff8",
 													anchorPoint = "False",
-													anchorPointX = "0",
+													anchorPointX = "1",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -1944,7 +2002,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 8,
+														PositionX = -134,
 														PositionY = -1,
 													},
 													width = "32",
@@ -18046,6 +18104,7 @@ local t =
 			"ui/battle/004.png",
 			"ui/onlineteam/012.png",
 			"ui/battle/battle_energy_bar02.png",
+			"ui/battle/battle_energy_bar03_1.png",
 			"ui/battle/battle_energy_bar02-1.png",
 			"ui/battle/015.png",
 			"ui/battle/017.png",

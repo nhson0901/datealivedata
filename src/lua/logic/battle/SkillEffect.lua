@@ -1109,6 +1109,13 @@ function Effect:onArmtureEvent(...)
     
 	local event = BattleUtils.translateArmtureEventData(...)
 	local eventName = event.name
+    if event.name == "speedRate" then
+        self.speedRate = event.pramF
+        if self.speedRate <= 0 then
+            self.speedRate = 1
+        end
+    end
+
     self.eventCount[eventName] = self.eventCount[eventName] or 0
     self.eventCount[eventName] = self.eventCount[eventName] + 1
     local pramN = self.eventCount[eventName]
@@ -1442,6 +1449,8 @@ function Effect:triggerHurt(target,hurtData)
         --检查目标是否触发招架
         if target:isTriggerParry(calculationDir(self.srcHero,target)) then
             target:showState(eShowState.ZhaoJia) --招架
+            self.srcHero:onEventTrigger(eBFState.E_REV_PARRY,target)
+            target:onEventTrigger(eBFState.E_PARRY,self.srcHero)
             return 
         end
 
@@ -1542,6 +1551,8 @@ function Effect:triggerHurt(target,hurtData)
 
         if self:isHitBack(target) then
             self.srcHero:onEventTrigger(eBFState.E_BACK_SKILL_HURT,target)
+        else
+            self.srcHero:onEventTrigger(eBFState.E_FRONT_SKILL_HURT,target)
         end
     
 		-- end
@@ -1818,7 +1829,7 @@ function Effect:skeletonNodeUpdata(dt)
     dt = dt*0.001
     self:retain()
     if self.skeletonNode then
-        self.skeletonNode:update(dt)
+        self.skeletonNode:update(dt*self.speedRate)
     end
     self:release()
     if BattleConfig.SHOW_HITBOX then
@@ -1863,6 +1874,7 @@ function Effect:createSkeletonNode()
 	end
     self.skeletonNode:addMEListener(TFARMATURE_EVENT,handler(self.onArmtureEvent,self))
 	self:addChild(self.skeletonNode)
+    self.speedRate = 1
     self.skeletonNode:play(self.effectData.action, loop)
     local color =  self.effectData.actionColor
     if ResLoader.isValid(color) then

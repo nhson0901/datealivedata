@@ -768,7 +768,9 @@ local TEAM_MAX_HEROS = 3
 function BattleDataMgr:heroData()
     local _max_num = TEAM_MAX_HEROS
     local dungeonType = self:getLevelCfg().dungeonType
-    if dungeonType == EC_FBLevelType.PRACTICE or dungeonType == EC_FBLevelType.MUSIC_GAME then
+    if dungeonType == EC_FBLevelType.PRACTICE or
+            dungeonType == EC_FBLevelType.MUSIC_GAME or
+            dungeonType == EC_FBLevelType.TONG_AIRINTEREST then
         _max_num =  5
     end
 
@@ -981,7 +983,9 @@ function BattleDataMgr:setServerData(sData, battleType)
         end
 
         -- 初始化练习模式数据
-        if levelCfg.dungeonType == EC_FBLevelType.PRACTICE or levelCfg.dungeonType == EC_FBLevelType.MUSIC_GAME then
+        if levelCfg.dungeonType == EC_FBLevelType.PRACTICE or
+                levelCfg.dungeonType == EC_FBLevelType.MUSIC_GAME or
+                levelCfg.dungeonType == EC_FBLevelType.TONG_AIRINTEREST then
             self:loadPracticeData()
         end
     elseif battleType == EC_BattleType.ENDLESS then
@@ -1392,7 +1396,7 @@ function BattleDataMgr:loadMusicGameCustomData()
     self.musicGameCustomData = {}
     self.musicGameCustomData.diffIndex = 1
     self.musicGameCustomData.levelIndex = 1
-    self.musicGameCustomData.level = 1
+    self.musicGameCustomData.level = self:getLevelCfg().dungeonType == EC_FBLevelType.TONG_AIRINTEREST and 70 or 1
     self.musicGameCustomData.number = 1
     self.musicGameCustomData.hpIndex = 1
     self.musicGameCustomData.superIndex = 1
@@ -1500,7 +1504,7 @@ function BattleDataMgr:isPracticeLevel()
 end
 
 function BattleDataMgr:isMusicGameLevel()
-    return self:getLevelCfg().dungeonType == EC_FBLevelType.MUSIC_GAME
+    return self:getLevelCfg().dungeonType == EC_FBLevelType.MUSIC_GAME or self:getLevelCfg().dungeonType == EC_FBLevelType.TONG_AIRINTEREST
 end
 
 function BattleDataMgr.getHeroBuffIds( heroData )

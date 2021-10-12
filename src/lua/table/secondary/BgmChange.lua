@@ -557,4 +557,10 @@ return {
         nameId = "HuaDengActivity",
         bgm = "sound/bgm/anniversary_3_bigworld.mp3",
     },
+    [98] = {
+        id = 98,
+        changeTime = 1,
+        nameId = "ActivityMainView9",
+        bgm = "sound/bgm/anniversary_3_bigworld.mp3",
+    },
 }

@@ -599,4 +599,23 @@ return {
         },
         powerName = 2300114,
     },
+    [34] = {
+        consumePrams = {
+        },
+        id = 34,
+        energyExchange = {
+        },
+        specialEnergyUI = 3,
+        powerUI = 1,
+        specialEnergyName = 2300127,
+        getType = 3,
+        consumeType = 0,
+        getPrams = {
+            [1] = 1000,
+            [2] = 2,
+        },
+        triggerBuff = {
+        },
+        powerName = 2300126,
+    },
 }

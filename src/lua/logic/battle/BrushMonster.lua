@@ -132,7 +132,8 @@ function BrushMonster:doSlain(hero)
     if not self:isEnabled() then 
         return 
     end
-    if self.levelType_ == EC_FBLevelType.PRACTICE or self.levelType_ == EC_FBLevelType.MUSIC_GAME then
+    if self.levelType_ == EC_FBLevelType.PRACTICE or self.levelType_ == EC_FBLevelType.MUSIC_GAME or
+       self.levelType_ == EC_FBLevelType.TONG_AIRINTEREST then
         local data = hero:getData()
         self:brushPracticeMonster(data.practiceSite)
     else
@@ -458,7 +459,8 @@ function BrushMonster:brushPracticeMonster(site)
     end
     BrushMonster:initPracticeSite()
     local practiceData = BattleDataMgr:getPracticeData()
-    if self.levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME then
+    if self.levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME or
+       self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRINTEREST then
         practiceData = BattleDataMgr:getMusicGameCustomData()
     end
     local battleData = battleController.getBattleData()
@@ -534,7 +536,8 @@ function BrushMonster:onPracticeBrushEvent(mode)
         local practiceData = BattleDataMgr:getPracticeData()
         number = practiceData.number
     end
-    if self.levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME then
+    if self.levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME or
+       self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRINTEREST then
         number = 1
     end
     for i = 1, number do

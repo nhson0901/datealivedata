@@ -932,6 +932,10 @@ end
 function LockStep:onRevChangeLeader(event)
     local errorCode = event.errorCode
     local data      = event.data
+    if data.closePush then
+        return
+    end
+    
     if errorCode == 0 then 
         print("队长变更:"..tostring(data.newLeaderId))
         battleController.setLeaderPid(data.newLeaderId)

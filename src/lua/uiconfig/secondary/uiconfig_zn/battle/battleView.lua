@@ -1785,7 +1785,6 @@ local t =
 												Layout="Absolute",
 												nType = "0"
 											},
-											visible = "False",
 											width = "175",
 											ZOrder = "1",
 											components = 
@@ -1818,6 +1817,32 @@ local t =
 													components = 
 													{
 														
+														{
+															controlID = "Image_super_bar_bg_Image_super_energy_bg_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
+															UUID = "5046ec6f_ec63_42b9_992d_130a533914fb",
+															anchorPoint = "False",
+															anchorPointX = "0.5",
+															anchorPointY = "0.5",
+															backGroundScale9Enable = "False",
+															classname = "MEImage",
+															dstBlendFunc = "771",
+															height = "2",
+															ignoreSize = "True",
+															name = "Image_super_bar_bg",
+															sizepercentx = "0",
+															sizepercenty = "0",
+															sizeType = "0",
+															srcBlendFunc = "1",
+															texturePath = "ui/battle/battle_energy_bar03_1.png",
+															touchAble = "False",
+															UILayoutViewModel = 
+															{
+																PositionX = 110,
+															},
+															visible = "False",
+															width = "2",
+															ZOrder = "1",
+														},
 														{
 															controlID = "LoadingBar_super_energy_Image_super_energy_bg_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
 															UUID = "ce06fe33_eec9_4999_835c_e2a10966608b",
@@ -1874,6 +1899,7 @@ local t =
 													{
 														PositionX = 170,
 													},
+													visible = "False",
 													ZOrder = "1",
 												},
 												{
@@ -1903,6 +1929,37 @@ local t =
 													{
 														PositionX = 110,
 													},
+													visible = "False",
+													ZOrder = "1",
+												},
+												{
+													controlID = "Spine_super_energy_huo_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
+													UUID = "ff07be80_2c05_43d8_be97_086e54789104",
+													classname = "MESpine",
+													dstBlendFunc = "771",
+													name = "Spine_super_energy_huo",
+													sizepercentx = "0",
+													sizepercenty = "0",
+													sizeType = "0",
+													spineModel = 
+													{
+														SpinePath = "effect/energyUI_bar_03/energyUI_bar_03",
+														animationName = "animation",
+														IsLoop = true,
+														IsPlay = true,
+														IsUseQueue = false,
+														AnimationQueue = 
+														{
+															
+														},
+													},
+													srcBlendFunc = "1",
+													touchAble = "False",
+													UILayoutViewModel = 
+													{
+														PositionX = 110,
+													},
+													visible = "False",
 													ZOrder = "1",
 												},
 												{
@@ -18044,6 +18101,7 @@ local t =
 			"ui/battle/004.png",
 			"ui/onlineteam/012.png",
 			"ui/battle/battle_energy_bar02.png",
+			"ui/battle/battle_energy_bar03_1.png",
 			"ui/battle/battle_energy_bar02-1.png",
 			"ui/battle/015.png",
 			"ui/battle/017.png",

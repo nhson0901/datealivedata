@@ -38,7 +38,17 @@ local eMoveType  =
     Pnchange_Dir = 5, --摇杆位移固定朝向
 }
 
-
+--技能冷却事件定义
+local count_down_event = {}
+count_down_event[eSkillType.Skill_1]            = eBFState.E_SKILL_CD_Skill_1
+count_down_event[eSkillType.Skill_2]            = eBFState.E_SKILL_CD_Skill_2
+count_down_event[eSkillType.ENTER]              = eBFState.E_SKILL_CD_ENTER
+count_down_event[eSkillType.DODGE]              = eBFState.E_SKILL_CD_DODGE
+count_down_event[eSkillType.CRI]                = eBFState.E_SKILL_CD_CRI
+count_down_event[eSkillType.AWAKE]              = eBFState.E_SKILL_CD_AWAKE
+count_down_event[eSkillType.EXTRA_SKILL_1]      = eBFState.E_SKILL_CD_EXTRA_SKILL_1
+count_down_event[eSkillType.EXTRA_SKILL_2]      = eBFState.E_SKILL_CD_EXTRA_SKILL_2
+count_down_event[eSkillType.EXTRA_SKILL_3]      = eBFState.E_SKILL_CD_EXTRA_SKILL_3
 
 local Skill = class("Skill")
 
@@ -62,6 +72,8 @@ function Skill:ctor(data,hero)
     self.next       = false
     self.solecd = 0 --自定义cd上限
     self.fixedCd = false  --是否使用固定cd
+    self.addSolecd = 0
+    self.addSolecdFlag = false
 --冷却缓存次数
     self.nCacheTimes = 0
     self.bCDing = false
@@ -69,6 +81,7 @@ function Skill:ctor(data,hero)
     if self.nCDTime > 0 then
         self.nCacheTimes = 0
         self.bCDing = true
+        self:checkCdEvent()
     else
         self.nCacheTimes = self.data.useTimes
     end
@@ -224,6 +237,14 @@ function Skill:startCDTime()
     else
         self.nCDTime = self:getDataCD()
     end
+    if self.addSolecd > 0 then
+        if not self.addSolecdFlag then
+            self.addSolecdFlag = true
+        end
+    end
+    if self.nCDTime > 0 then
+        self:checkCdEvent()
+    end
 end
 
 function Skill:getDataCD()
@@ -234,6 +255,9 @@ function Skill:getDataCD()
         else
             return math.abs(self.solecd * (1 - cdRatio))
         end
+    end
+    if self.addSolecd > 0 then
+        return math.abs(self.addSolecd * (1 - cdRatio))
     end
     return math.abs(self.data.cd * (1 - cdRatio))
 end
@@ -294,6 +318,10 @@ function Skill:handlCD(time)
                 self.bCDing = false
                 self.extraCdTime = 0
                 self.nCacheTimes = self.nCacheTimes + 1
+                if self.addSolecdFlag then
+                    self.addSolecd = 0
+                    self.addSolecdFlag = false
+                end
                 if self:isManual(true) then
                     EventMgr:dispatchEvent(eEvent.EVENT_VKSTATE_CHANGE,self)
                 end
@@ -316,6 +344,7 @@ function Skill:reduceCDTime(time)
         self.nCDTime  = math.max(self.nCDTime,0)
         if self.nCDTime > 0 and not self.bCDing then
             self.bCDing = true
+            self:checkCdEvent()
             self.nCacheTimes = self.nCacheTimes - 1
             self.nCacheTimes = math.max(self.nCacheTimes,0)
         end
@@ -342,6 +371,21 @@ function Skill:setCDControl(solecd, fixed, renovate)
     else
         self.solecd = 0
         self.fixedCd = false
+    end
+end
+
+function Skill:setAddCDControl(solecd)
+    if self.addSolecd < self.data.cd then
+        self.addSolecd = self.data.cd
+    end
+    self.addSolecd = self.addSolecd + solecd
+end
+
+function Skill:checkCdEvent()
+    local skillType = self.data.skillType
+    local event = count_down_event[skillType]
+    if event then
+        self.hero:onEventTrigger(event)
     end
 end
 
@@ -577,6 +621,7 @@ function Skill:tryCast(force,skillSubId)
             local eventdata ={} 
             eventdata[self.data.keyCode] ={}
             eventdata[self.data.keyCode][self.data.keyEvent] = self.data.first
+
             -- dump(eventdata)
             -- print_("-------------------------------Skill:tryCast")
             if self.hero:matchKeyEvent(eventdata) then
@@ -641,31 +686,98 @@ function Skill:triggerEvent()
 
     if skillType == eSkillType.AWAKE then       
         EventMgr:dispatchEvent(eEvent.EVENT_SKILL_AWAKE, self.hero) --使用觉醒技能
+        self:checkCdEvent()
     elseif skillType == eSkillType.DODGE then   
         EventMgr:dispatchEvent(eEvent.EVENT_SKILL_DODGE, self.hero) --使用觉醒技能
+    elseif skillType >= 10 then
+        self:checkCdEvent()
     end
+end
+
+function Skill:getSkillActionId()
+     -- body
+     local actionID = -1
+    if self.skillCfg.accept then
+        for k,v in ipairs(self.skillCfg.accept) do
+            if not v.cond or self:checkCond(v.cond) then
+                if v.actionId and  v.actionId ~= -1 then
+                    actionID = v.actionId
+                end
+            end
+        end
+    end
+    return actionID
+end 
+
+function Skill:checkCond( cond )
+    -- body
+    for k,v in pairs(cond) do
+         if k == "inspZone" then
+            local inZone = false
+            for _k,_v in ipairs(v) do
+                if self.hero:checkHeroInZone(_v) then
+                    inZone = true
+                    break
+                end
+            end
+            if not inZone then
+                return false
+            end
+        elseif k == "outspZone" then
+            for _k,_v in ipairs(v) do
+                if self.hero:checkHeroInZone(_v) then
+                    return false
+                end
+            end
+        elseif k == "curSkill" then
+            if not self.hero.curSkill or self.hero.curSkill.skillCfg.id ~= v then
+                return false
+            end
+        end
+    end
+    return true
+end
+
+function Skill:forceTrigger( )
+    -- body
+    local actionId = self:getSkillActionId()
+    if actionId ~= -1 then
+        self:playAction(actionId)
+        self.eventdata = nil
+        self.eventSkillData = nil
+        return true
+    end
+    return false
 end
 
 function Skill:playActionF(skillSubId)
     --非强制消耗
     if self:isEnoughExtraAnger() then
         self:costExtra() --费强制的消耗处理
-        local actionID = self.data.extraFirst
+        local  actionID = self.data.extraFirst
         if skillSubId and skillSubId > 0 then
             if skillSubId > 0 then
                 actionID = self.data.subclassesFirst[skillSubId]
             end
         end
+        local actionId = self:getSkillActionId() --释放技能时添加条件选择action机制
+        if actionId ~= -1 then
+            actionID = actionId
+        end
         self:playAction(actionID)
         self:triggerEvent()
         self:doGainEnergy()
     else
-        self:costForce() 
-        local actionID = self.data.first
+        self:costForce()
+        local  actionID = self.data.first
         if skillSubId and skillSubId > 0 then
             if skillSubId > 0 then
                 actionID = self.data.subclassesFirst[skillSubId]
             end
+        end
+        local actionId = self:getSkillActionId() --释放技能时添加条件选择action机制
+        if actionId ~= -1 then
+            actionID = actionId
         end
         self:playAction(actionID)
         self:triggerEvent()
@@ -1332,6 +1444,7 @@ function Skill:onEventTrigger(source,event,target,param)
             end
         end
     end
+
 end
 --技能的一个动作播放完成
 function Skill:onAcitonOver()
@@ -1357,7 +1470,11 @@ end
 function Skill:selectTarget()
     if self.actionData then
         local actionData = self.actionData
-        local targets = selectTarget.selectTarget(self.hero, actionData.target , actionData.area , 1 , actionData.cond)
+        local targetId = nil
+        if actionData.targetId and actionData.targetId > 0 then
+            targetId = actionData.targetId
+        end
+        local targets = selectTarget.selectTarget(self.hero, actionData.target , actionData.area , 1 , actionData.cond, targetId )
         return targets[1]
     end
 end

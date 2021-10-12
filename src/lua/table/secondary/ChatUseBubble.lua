@@ -13,12 +13,12 @@ return {
         icon = "icon/chatBubble/chatUseRes/005.png",
         portraitid = 20001,
     },
-    [50] = {
-        overturnType = 0,
-        othericon = "icon/chatBubble/chatUseRes/081.png",
-        id = 50,
-        icon = "icon/chatBubble/chatUseRes/080.png",
-        portraitid = 60015,
+    [3] = {
+        overturnType = 1,
+        othericon = "",
+        id = 3,
+        icon = "icon/chatBubble/chatUseRes/003.png",
+        portraitid = 20002,
     },
     [7] = {
         overturnType = 0,
@@ -34,26 +34,12 @@ return {
         icon = "icon/chatBubble/chatUseRes/002.png",
         portraitid = 20007,
     },
-    [10] = {
-        overturnType = 1,
-        othericon = "",
-        id = 10,
-        icon = "icon/chatBubble/chatUseRes/015.png",
-        portraitid = 20009,
-    },
-    [3] = {
-        overturnType = 1,
-        othericon = "",
-        id = 3,
-        icon = "icon/chatBubble/chatUseRes/003.png",
-        portraitid = 20002,
-    },
-    [9] = {
-        overturnType = 1,
-        othericon = "",
-        id = 9,
-        icon = "icon/chatBubble/chatUseRes/014.png",
-        portraitid = 20008,
+    [50] = {
+        overturnType = 0,
+        othericon = "icon/chatBubble/chatUseRes/081.png",
+        id = 50,
+        icon = "icon/chatBubble/chatUseRes/080.png",
+        portraitid = 60015,
     },
     [51] = {
         overturnType = 1,
@@ -61,5 +47,26 @@ return {
         id = 51,
         icon = "icon/chatBubble/chatUseRes/082.png",
         portraitid = 60018,
+    },
+    [10] = {
+        overturnType = 1,
+        othericon = "",
+        id = 10,
+        icon = "icon/chatBubble/chatUseRes/015.png",
+        portraitid = 20009,
+    },
+    [16] = {
+        overturnType = 0,
+        othericon = "icon/chatBubble/chatUseRes/024.png",
+        id = 16,
+        icon = "icon/chatBubble/chatUseRes/023.png",
+        portraitid = 20015,
+    },
+    [9] = {
+        overturnType = 1,
+        othericon = "",
+        id = 9,
+        icon = "icon/chatBubble/chatUseRes/014.png",
+        portraitid = 20008,
     },
 }

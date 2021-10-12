@@ -2972,6 +2972,55 @@ return {
         recover_count = 0,
         sendNum = 0,
     },
+    [40] = {
+        privilegePrice = "",
+        id = 40,
+        cooldown = 0,
+        resetBuyCountTime = 1,
+        quota = 0,
+        price = {
+            [1] = {
+                [1] = {
+                    [1] = {
+                        id = 500002,
+                        num = 40,
+                    },
+                    targetNum = 60,
+                },
+            },
+            [2] = {
+                [1] = {
+                    [1] = {
+                        id = 500002,
+                        num = 60,
+                    },
+                    targetNum = 60,
+                },
+            },
+            [3] = {
+                [1] = {
+                    [1] = {
+                        id = 500002,
+                        num = 80,
+                    },
+                    targetNum = 60,
+                },
+            },
+            [4] = {
+                [1] = {
+                    [1] = {
+                        id = 500002,
+                        num = 120,
+                    },
+                    targetNum = 60,
+                },
+            },
+        },
+        item_id = 580376,
+        maxRecoverCount = 0,
+        recover_count = 0,
+        sendNum = 0,
+    },
     [90] = {
         privilegePrice = "",
         id = 90,

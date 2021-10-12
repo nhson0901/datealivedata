@@ -86,14 +86,14 @@ function LoginScene:showVideoViewMiniServer( re )
 	
 	local videoPth1, videoPth2
 	if FunctionDataMgr:isMoJingLoginUI() then
-		videoPth1 = "video/loginPart6.mp4"
-		videoPth2 = "video/loginPart7.mp4"
+		videoPth1 = "video/loginPart10.mp4"
+		videoPth2 = "video/loginPart11.mp4"
 	elseif FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		videoPth1 = "video/loginPart1_2.mp4"
-		videoPth2 = "video/loginPart2_2.mp4"
+		videoPth1 = "video/loginPart1.mp4"
+		videoPth2 = "video/loginPart2.mp4"
 	end
 	
 
@@ -150,14 +150,14 @@ function LoginScene:showVideoViewEngServer( re )
 	
 	local videoPth1, videoPth2
 	if FunctionDataMgr:isMoJingLoginUI() then
-		videoPth1 = "video/loginPart6.mp4"
-		videoPth2 = "video/loginPart7.mp4"
+		videoPth1 = "video/loginPart10.mp4"
+		videoPth2 = "video/loginPart11.mp4"
 	elseif FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		videoPth1 = "video/loginPart8.mp4"
-		videoPth2 = "video/loginPart9.mp4"
+		videoPth1 = "video/loginPart1.mp4"
+		videoPth2 = "video/loginPart2.mp4"
 	end
 	
 
@@ -208,14 +208,14 @@ function LoginScene:showVideoViewKoreaTwServer( re )
 	
 	local videoPth1, videoPth2
 	if FunctionDataMgr:isMoJingLoginUI() then
-		videoPth1 = "video/loginPart6.mp4"
-		videoPth2 = "video/loginPart7.mp4"
+		videoPth1 = "video/loginPart10.mp4"
+		videoPth2 = "video/loginPart11.mp4"
 	elseif FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		videoPth1 = "video/loginPart8.mp4"
-		videoPth2 = "video/loginPart9.mp4"
+		videoPth1 = "video/loginPart1.mp4"
+		videoPth2 = "video/loginPart2.mp4"
 	end
 	
 

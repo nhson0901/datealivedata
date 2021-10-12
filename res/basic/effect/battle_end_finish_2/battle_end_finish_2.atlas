@@ -6,98 +6,91 @@ filter: Linear,Linear
 repeat: none
 kuangsan/effect/V/V1_000
   rotate: false
-  xy: 30, 211
-  size: 356, 118
-  orig: 356, 118
-  offset: 0, 0
-  index: -1
-kuangsan/effect/V/V2_000
-  rotate: false
-  xy: 404, 718
-  size: 352, 109
-  orig: 356, 118
-  offset: 4, 4
+  xy: 379, 642
+  size: 323, 84
+  orig: 338, 134
+  offset: 14, 22
   index: -1
 kuangsan/effect/V/guangxian_000
   rotate: false
-  xy: 2, 781
+  xy: 2, 818
   size: 400, 200
   orig: 400, 200
   offset: 0, 0
   index: -1
 kuangsan/effect/V/hengtiao_000
   rotate: false
-  xy: 2, 2
+  xy: 30, 307
   size: 417, 59
   orig: 420, 100
   offset: 0, 16
   index: -1
 kuangsan/effect/V/lizi/lizi_000
-  rotate: false
-  xy: 388, 167
+  rotate: true
+  xy: 890, 680
   size: 338, 128
   orig: 350, 160
   offset: 7, 9
   index: -1
 kuangsan/effect/V/lizi/lizi_002
   rotate: false
-  xy: 379, 580
+  xy: 404, 728
   size: 346, 136
   orig: 350, 160
   offset: 0, 5
   index: -1
 kuangsan/effect/V/lizi/lizi_004
   rotate: false
-  xy: 30, 331
+  xy: 30, 368
   size: 347, 144
   orig: 350, 160
   offset: 0, 3
   index: -1
 kuangsan/effect/V/lizi/lizi_006
   rotate: false
-  xy: 30, 630
+  xy: 30, 667
   size: 347, 149
   orig: 350, 160
   offset: 0, 3
   index: -1
 kuangsan/effect/V/lizi/lizi_008
   rotate: false
-  xy: 404, 829
+  xy: 404, 866
   size: 346, 152
   orig: 350, 160
   offset: 0, 3
   index: -1
 kuangsan/effect/V/lizi/lizi_010
   rotate: false
-  xy: 30, 477
+  xy: 30, 514
   size: 343, 151
   orig: 350, 160
   offset: 0, 5
   index: -1
 kuangsan/effect/V/lizi/lizi_012
   rotate: false
-  xy: 2, 63
+  xy: 2, 159
   size: 338, 146
   orig: 350, 160
   offset: 0, 8
   index: -1
 kuangsan/effect/V/lizi/lizi_014
   rotate: false
-  xy: 379, 435
+  xy: 2, 14
   size: 336, 143
   orig: 350, 160
   offset: 0, 9
   index: -1
 kuangsan/effect/V/lizi/lizi_016
-  rotate: false
-  xy: 388, 297
+  rotate: true
+  xy: 752, 685
   size: 333, 136
   orig: 350, 160
   offset: 0, 13
   index: -1
 kuangsan/effect/V/shaoguang_000
   rotate: true
-  xy: 2, 279
+  xy: 2, 316
   size: 500, 26
   orig: 500, 50
   offset: 0, 11

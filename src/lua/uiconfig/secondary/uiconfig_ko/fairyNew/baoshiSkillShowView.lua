@@ -302,12 +302,12 @@ local t =
 							bgColorOpacity = "50",
 							bIsOpenClipping = "False",
 							classname = "MEPanel",
-							colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+							colorType = "1;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 							DesignHeight = "640",
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "100",
+							height = "120",
 							ignoreSize = "False",
 							name = "Panel_skill_item",
 							sizepercentx = "0",
@@ -336,11 +336,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "100",
-									ignoreSize = "True",
+									height = "120",
+									ignoreSize = "False",
 									name = "Image_bg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -351,7 +351,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 176,
-										PositionY = 50,
+										PositionY = 60,
 									},
 									width = "351",
 									ZOrder = "1",
@@ -379,7 +379,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 40,
-										PositionY = 51,
+										PositionY = 61,
 									},
 									width = "104",
 									ZOrder = "1",
@@ -407,7 +407,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 40,
-										PositionY = 51,
+										PositionY = 61,
 									},
 									width = "36",
 									ZOrder = "1",
@@ -453,7 +453,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 84,
-										PositionY = 80,
+										PositionY = 90,
 									},
 									width = "92",
 									ZOrder = "1",
@@ -463,7 +463,7 @@ local t =
 									UUID = "df1646d3_7ddc_4274_a4de_d29727eefa3e",
 									anchorPoint = "False",
 									anchorPointX = "0",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -484,7 +484,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "50",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_skill_desc",
 									nTextAlign = "0",
@@ -499,7 +499,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 78,
-										PositionY = 27,
+										PositionY = 62,
 									},
 									width = "266",
 									ZOrder = "1",

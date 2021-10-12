@@ -23,6 +23,8 @@ local CHANGE_TYPE = {
     longWhiteType = 13,   --长时间白屏
     whiteShotType = 14,    --白屏快闪
     whiteMiddleChange =15,  --白屏中等
+    rightToLeftSlowType = 16,        --从右往左黑幕切换缓慢
+    leftToRightSlowType = 17,        --从左往右黑幕切换缓慢
 }
 
 function DatingChangeBgView:initData(bgTarget,type, closeCallBack, refreshBgStateBack,isShowChangeBg)
@@ -104,7 +106,7 @@ function DatingChangeBgView:onClose()
 end
 
 function DatingChangeBgView:onShow()
-    --self.super.onShow(self)
+    self.super.onShow(self)
 end
 
 function DatingChangeBgView:enterAction()
@@ -157,6 +159,10 @@ function DatingChangeBgView:enterAction()
         self:whiteShotChange(closeCallFunc,refreshBgStateFunc)
     elseif self.changeType == CHANGE_TYPE.whiteMiddleChange then
         self:whiteMiddleChange(closeCallFunc,refreshBgStateFunc)             
+    elseif self.changeType == CHANGE_TYPE.rightToLeftSlowType then
+        self:rightToLeftSlowChange(closeCallFunc,refreshBgStateFunc)
+    elseif self.changeType == CHANGE_TYPE.leftToRightSlowType then
+        self:leftToRightSlowChange(closeCallFunc,refreshBgStateFunc)
     end
 end
 
@@ -339,7 +345,7 @@ function DatingChangeBgView:leftToRightChange(closeCallBack,refreshBgStateCallBa
 
     local time = 0.5
     local acArrOut = TFVector:create()
-    local deyTimeAc = CCDelayTime:create(0.1)
+    local deyTimeAc = CCDelayTime:create(0.3)
     local moveIn = CCMoveBy:create(time,ccp(self.Image_maskBlackL:Size().width,0))
     local moveOut = CCMoveBy:create(time,ccp(self.Image_maskBlackL:Size().width,0))
     acArrOut:addObject(moveIn)
@@ -373,7 +379,7 @@ function DatingChangeBgView:circleChange(closeCallBack,refreshBgStateCallBack)
     local time = 1.6
     local acArrOut = TFVector:create()
     local scaleIn = CCScaleTo:create(time/2,0)
-    local deyTime = CCDelayTime:create(0.5)
+    local deyTime = CCDelayTime:create(1.5)
     local scaleOut = CCScaleTo:create(time/2,15)
     acArrOut:addObject(scaleIn)
     acArrOut:addObject(refreshBgStateCallBack)
@@ -578,6 +584,46 @@ function DatingChangeBgView:leftAndRightChange(closeCallBack,refreshBgStateCallB
     acArrRightOut:addObject(moveRightOut)
     self.Panel_maskBlackRight:runAction(CCSequence:create(acArrRightOut))
 
+end
+
+function DatingChangeBgView:rightToLeftSlowChange(closeCallBack,refreshBgStateCallBack)
+    print("rightToLeftChange")
+
+    self.Image_maskBlackL:show()
+
+    self.Image_maskBlackL:PosX(self.Image_maskBlackL:Size().width + self.Panel_base:Size().width/2)
+
+    local time = 0.5
+    local acArrOut = TFVector:create()
+    local deyTimeAc = CCDelayTime:create(1.3)
+    local moveIn = CCMoveBy:create(time,ccp(-self.Image_maskBlackL:Size().width,0))
+    local moveOut = CCMoveBy:create(time,ccp(-self.Image_maskBlackL:Size().width,0))
+    acArrOut:addObject(moveIn)
+    acArrOut:addObject(refreshBgStateCallBack)
+    acArrOut:addObject(deyTimeAc)
+    acArrOut:addObject(moveOut)
+    acArrOut:addObject(closeCallBack)
+    self.Image_maskBlackL:runAction(CCSequence:create(acArrOut))
+end
+
+function DatingChangeBgView:leftToRightSlowChange(closeCallBack,refreshBgStateCallBack)
+    print("leftToRightChange")
+
+    self.Image_maskBlackL:show()
+
+    self.Image_maskBlackL:PosX(-self.Image_maskBlackL:Size().width + self.Panel_base:Size().width/2)
+
+    local time = 0.5
+    local acArrOut = TFVector:create()
+    local deyTimeAc = CCDelayTime:create(1.3)
+    local moveIn = CCMoveBy:create(time,ccp(self.Image_maskBlackL:Size().width,0))
+    local moveOut = CCMoveBy:create(time,ccp(self.Image_maskBlackL:Size().width,0))
+    acArrOut:addObject(moveIn)
+    acArrOut:addObject(refreshBgStateCallBack)
+    acArrOut:addObject(deyTimeAc)
+    acArrOut:addObject(moveOut)
+    acArrOut:addObject(closeCallBack)
+    self.Image_maskBlackL:runAction(CCSequence:create(acArrOut))
 end
 
 return DatingChangeBgView;

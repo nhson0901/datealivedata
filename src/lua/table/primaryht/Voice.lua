@@ -2902,6 +2902,16 @@ return {
         },
         des = "等级/星级提升",
     },
+    [137001] = {
+        hero = 113701,
+        role = 0,
+        id = 137001,
+        type = "hero_get",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_021.mp3",
+        },
+        des = "获得角色1",
+    },
     [111008] = {
         hero = 0,
         role = 111,
@@ -2921,6 +2931,15 @@ return {
             [1] = "sound/role/shixiang/TOUKA_91.mp3",
         },
         des = "进入主界面-凌晨",
+    },
+    [137002] = {
+        hero = 0,
+        role = 0,
+        id = 137002,
+        type = "button_dating",
+        voice = {
+        },
+        des = "点击约会按钮",
     },
     [128024] = {
         hero = 0,
@@ -2961,6 +2980,15 @@ return {
         },
         des = "切换看板娘",
     },
+    [137003] = {
+        hero = 0,
+        role = 0,
+        id = 137003,
+        type = "dating_complete",
+        voice = {
+        },
+        des = "约会结束-成功",
+    },
     [127001] = {
         hero = 112701,
         role = 0,
@@ -2990,6 +3018,15 @@ return {
             [1] = "sound/role/shixiang/TOUKA_114.mp3",
         },
         des = "温泉功能",
+    },
+    [137004] = {
+        hero = 0,
+        role = 0,
+        id = 137004,
+        type = "hidden_end",
+        voice = {
+        },
+        des = "约会结束-hidden end",
     },
     [128025] = {
         hero = 0,
@@ -3030,6 +3067,15 @@ return {
         },
         des = "切换精灵",
     },
+    [137005] = {
+        hero = 0,
+        role = 0,
+        id = 137005,
+        type = "good_end",
+        voice = {
+        },
+        des = "约会结束-happy、good",
+    },
     [127002] = {
         hero = 0,
         role = 0,
@@ -3058,6 +3104,15 @@ return {
             [1] = "sound/role/shixiang/TOUKA_25.mp3",
         },
         des = "获得角色1",
+    },
+    [137006] = {
+        hero = 0,
+        role = 0,
+        id = 137006,
+        type = "bad_end",
+        voice = {
+        },
+        des = "约会结束-normal、bad",
     },
     [128026] = {
         hero = 0,
@@ -3098,6 +3153,15 @@ return {
         },
         des = "更换灵装",
     },
+    [137007] = {
+        hero = 0,
+        role = 0,
+        id = 137007,
+        type = "dating_invite_yes",
+        voice = {
+        },
+        des = "预定约会-接受邀请",
+    },
     [127003] = {
         hero = 0,
         role = 0,
@@ -3125,6 +3189,15 @@ return {
         voice = {
         },
         des = "点击约会按钮",
+    },
+    [137008] = {
+        hero = 0,
+        role = 0,
+        id = 137008,
+        type = "dating_invite_no",
+        voice = {
+        },
+        des = "预定约会-拒绝邀请",
     },
     [128027] = {
         hero = 0,
@@ -3166,6 +3239,16 @@ return {
         },
         des = "上阵",
     },
+    [137009] = {
+        hero = 0,
+        role = 137,
+        id = 137009,
+        type = "button_dress",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_005.mp3",
+        },
+        des = "进入换装",
+    },
     [127004] = {
         hero = 0,
         role = 0,
@@ -3193,6 +3276,16 @@ return {
         voice = {
         },
         des = "约会结束-成功",
+    },
+    [137010] = {
+        hero = 0,
+        role = 137,
+        id = 137010,
+        type = "dress_low",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_006.mp3",
+        },
+        des = "换上服装-一般",
     },
     [128028] = {
         hero = 0,
@@ -3233,6 +3326,16 @@ return {
         },
         des = "看板娘处于无聊、生气、饥饿状态",
     },
+    [137011] = {
+        hero = 0,
+        role = 137,
+        id = 137011,
+        type = "dress_high",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_007.mp3",
+        },
+        des = "换上服装-高级",
+    },
     [127005] = {
         hero = 0,
         role = 0,
@@ -3260,6 +3363,16 @@ return {
         voice = {
         },
         des = "约会结束-hidden end",
+    },
+    [137012] = {
+        hero = 0,
+        role = 137,
+        id = 137012,
+        type = "button_gift",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_008.mp3",
+        },
+        des = "进入送礼",
     },
     [128029] = {
         hero = 0,
@@ -3300,6 +3413,16 @@ return {
         },
         des = "在城市点击看板娘模型1",
     },
+    [137013] = {
+        hero = 0,
+        role = 137,
+        id = 137013,
+        type = "gifts_wait",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_009.mp3",
+        },
+        des = "等待送礼",
+    },
     [127006] = {
         hero = 0,
         role = 0,
@@ -3337,6 +3460,16 @@ return {
         voice = {
         },
         des = "约会结束-happy、good",
+    },
+    [137014] = {
+        hero = 0,
+        role = 137,
+        id = 137014,
+        type = "food_high",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_011.mp3",
+        },
+        des = "喜爱食物",
     },
     [128030] = {
         hero = 0,
@@ -3376,6 +3509,16 @@ return {
         },
         des = "进入主界面-早上",
     },
+    [137015] = {
+        hero = 0,
+        role = 137,
+        id = 137015,
+        type = "food_low",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_010.mp3",
+        },
+        des = "一般食物",
+    },
     [127007] = {
         hero = 0,
         role = 0,
@@ -3414,6 +3557,16 @@ return {
         },
         des = "约会结束-normal、bad",
     },
+    [137016] = {
+        hero = 0,
+        role = 137,
+        id = 137016,
+        type = "gift_high",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_013.mp3",
+        },
+        des = "喜爱礼物",
+    },
     [122018] = {
         hero = 0,
         role = 122,
@@ -3442,6 +3595,16 @@ return {
         voice = {
         },
         des = "进入主界面-下午",
+    },
+    [137017] = {
+        hero = 0,
+        role = 137,
+        id = 137017,
+        type = "gift_low",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_012.mp3",
+        },
+        des = "一般礼物",
     },
     [127008] = {
         hero = 0,
@@ -3481,6 +3644,16 @@ return {
         },
         des = "预定约会-接受邀请",
     },
+    [137018] = {
+        hero = 0,
+        role = 137,
+        id = 137018,
+        type = "favor_up",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_014.mp3",
+        },
+        des = "好感度等级提升",
+    },
     [122019] = {
         hero = 112201,
         role = 0,
@@ -3509,6 +3682,16 @@ return {
         voice = {
         },
         des = "进入主界面-晚上",
+    },
+    [137019] = {
+        hero = 113701,
+        role = 0,
+        id = 137019,
+        type = "ability_up",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_023.mp3",
+        },
+        des = "等级/星级提升",
     },
     [127009] = {
         hero = 0,
@@ -3549,6 +3732,16 @@ return {
         },
         des = "预定约会-拒绝邀请",
     },
+    [137020] = {
+        hero = 0,
+        role = 137,
+        id = 137020,
+        type = "change_kanban",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_001.mp3",
+        },
+        des = "切换看板娘",
+    },
     [122020] = {
         hero = 0,
         role = 122,
@@ -3577,6 +3770,16 @@ return {
         voice = {
         },
         des = "进入主界面-凌晨",
+    },
+    [137021] = {
+        hero = 113701,
+        role = 0,
+        id = 137021,
+        type = "change_hero",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_024.mp3",
+        },
+        des = "切换精灵",
     },
     [127010] = {
         hero = 0,
@@ -3617,6 +3820,15 @@ return {
         },
         des = "进入换装",
     },
+    [137022] = {
+        hero = 0,
+        role = 0,
+        id = 137022,
+        type = "change_equip",
+        voice = {
+        },
+        des = "更换灵装",
+    },
     [122021] = {
         hero = 112201,
         role = 0,
@@ -3645,6 +3857,16 @@ return {
         voice = {
         },
         des = "温泉功能",
+    },
+    [137023] = {
+        hero = 113701,
+        role = 0,
+        id = 137023,
+        type = "battle_play",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_022.mp3",
+        },
+        des = "上阵",
     },
     [127011] = {
         hero = 0,
@@ -3684,6 +3906,16 @@ return {
         },
         des = "换上服装-一般",
     },
+    [137024] = {
+        hero = 0,
+        role = 137,
+        id = 137024,
+        type = "mood_sad",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_004.mp3",
+        },
+        des = "看板娘处于无聊、生气、饥饿状态",
+    },
     [122022] = {
         hero = 112201,
         role = 0,
@@ -3712,6 +3944,16 @@ return {
         voice = {
         },
         des = "饥饿",
+    },
+    [137025] = {
+        hero = 0,
+        role = 137,
+        id = 137025,
+        type = "mood_normal",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_020.mp3",
+        },
+        des = "在城市点击看板娘模型1",
     },
     [127012] = {
         hero = 0,
@@ -3752,6 +3994,16 @@ return {
         },
         des = "换上服装-高级",
     },
+    [137026] = {
+        hero = 0,
+        role = 137,
+        id = 137026,
+        type = "mian_morning",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_015.mp3",
+        },
+        des = "进入主界面-早上",
+    },
     [122023] = {
         hero = 112201,
         role = 0,
@@ -3780,6 +4032,16 @@ return {
         voice = {
         },
         des = "无聊",
+    },
+    [137027] = {
+        hero = 0,
+        role = 137,
+        id = 137027,
+        type = "mian_afternoon",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_017.mp3",
+        },
+        des = "进入主界面-下午",
     },
     [127013] = {
         hero = 0,
@@ -3819,6 +4081,16 @@ return {
         },
         des = "进入送礼",
     },
+    [137028] = {
+        hero = 0,
+        role = 137,
+        id = 137028,
+        type = "mian_night",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_018.mp3",
+        },
+        des = "进入主界面-晚上",
+    },
     [122024] = {
         hero = 0,
         role = 122,
@@ -3846,6 +4118,16 @@ return {
         voice = {
         },
         des = "生气",
+    },
+    [137029] = {
+        hero = 0,
+        role = 137,
+        id = 137029,
+        type = "mian_dawn",
+        voice = {
+            [1] = "sound/role/maple/maple_sysPiece_019.mp3",
+        },
+        des = "进入主界面-凌晨",
     },
     [127014] = {
         hero = 0,
@@ -3885,6 +4167,15 @@ return {
         voice = {
         },
         des = "等待送礼",
+    },
+    [137030] = {
+        hero = 0,
+        role = 0,
+        id = 137030,
+        type = "spring",
+        voice = {
+        },
+        des = "温泉功能",
     },
     [122025] = {
         hero = 0,

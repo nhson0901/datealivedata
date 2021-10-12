@@ -48,7 +48,8 @@ EC_SItemType = {
     REVERSAL = 500057,           -- 十香反转值
     LOVER = 500058,              -- 十香亲密度   
     TokenMoney = 500096,           -- 代币
-	SZDY_TOUZI = 500112				-- 时之赌约骰子
+    SZDY_TOUZI = 500112,				-- 时之赌约骰子
+    BATTLE_LV_REVIEW = 500141,      -- 战令回顾经验
 }
 
 -- 副本难度
@@ -104,6 +105,12 @@ EC_FBLevelType = {
     DICUO_JIBAN = 51,           -- 地错羁绊
     SNOW_FESTIVAL = 52,         -- 冰雪大作战
     NIANSHOU = 53,              -- 年兽大作战（鞭炮）
+    TONG_MONSTER = 54,          --怕痛精英入侵
+    TONG_DATINGFIGHT = 55,      --怕痛剧情作战
+    TONG_DATING = 56,           --怕痛剧情约会
+    TONG_AIRFIGHT = 57,         --怕痛空投作战
+    TONG_AIRINTEREST = 58,      --怕痛空投节奏游戏
+    TONG_FIGHT = 59,            --怕痛基础作战
     ENDLESS_PLUSS = 107,        --无尽plus
 }
 
@@ -177,6 +184,7 @@ EC_FBType = {
 	NEWYEAR_FUBEN = 24,
     HWX_FUBEN = 25,     --海王星副本
     DICUO_FUBEN = 26,     --海王星副本
+    TONG_FUBEN  = 27,     --怕痛副本
     WORLD_BOSS = 45,    -- 社团世界Boss
 }
 
@@ -275,6 +283,7 @@ EC_LevelPassCond = {
     LIMIT_TIME_KILL2 = 18, -- 日常副本(限时杀怪)
     TIMING = 19,  -- 日常副本计时
     KILL_ALL_OR_LIMIT = 20,    -- 歼灭或至少击杀数量
+    NO_DEFEAT = 21, --没有失败直接胜利
 }
 
 -- 主线剧情类型
@@ -1281,6 +1290,7 @@ EC_TaskPage = {
     HONOR = 4,    -- 荣誉任务
     ACTIVITY = 5,    -- 活动任务
     TRAININIG_TASK = 6,    -- 特训任务
+    TRAININIG_Review = 7, -- 战令回顾
 }
 
 -- 任务分页
@@ -1523,6 +1533,9 @@ EC_OneLoginStatusType = {
     ReConfirm_CrazyDiamond = "ReConfirm_CrazyDiamond",   ---疯狂钻石抽取
     ReConfirm_DafuwengRefreashCost = "ReConfirm_DafuwengRefreashCost",  --大富翁刷新二次确认消耗
     ReconFirm_PreTeam = "ReconFirm_PreTeam",                     --预设队伍提示
+    
+    ReConfirm_ShowNewBackTips = "ReConfirm_ShowNewBackTips", -- 新回归弹窗
+    ReConfirm_ResetPoint = "ReConfirm_ResetPoint",     --怕痛重置属性点数
 }
 
 EC_SKILL_TYPE = {
@@ -1798,7 +1811,30 @@ EC_ActivityType2 = {
     BINGKAI_TASK = 91,          -- 冰铠任务
     RETURN_GIFT = 100,           -- 赠送返利活动
     DFW_SUMMER = 20,     -- 大富翁夏日祭
+    
+    TONG    = 1027,             --怕痛
+    BATTLE_LV_REVIEW = 1028,     -- 战令回顾
+    PLAYER_REGRESS_TASK = 1029,  -- 玩家回归任务
+    PLAYER_REGRESS_LOGIN = 1030, -- 玩家回归登录
+    PLAYER_REGRESS_GIFT = 1031,  -- 玩家回归礼包
+    MAKE_MOON = 97,              -- 月饼制作
     QL_BIRTHDAY = 98,            -- 琴里生日
+    
+    SUMMON_EQUIP  = 99,           --质点抽取活动
+
+    ZNQ_2021_MOON_CON_FULL = 102,            --祭月献礼全服活动
+    ZNQ_2021_FESTIVE_LAMP = 103,            --花灯活动
+
+    --周年庆
+    CHINESE_STREET_2021 = 104,            --周年庆祭中华街活动
+    INFO_COLLECT = 105,            --信息收集活动
+    ZNQ_2021_MOON_CON = 106,            --周年庆祭月全服贡献活动
+
+    --2021战令
+    WAR_ORDER_2021 = 107,            --战令活动
+    WORLD_GAME = 108,           -- 庙会
+    ZNQ_2021_TOUCH_LAMP = 109,           -- 打灯笼活动
+    DOUBLE_S_SUMMON = 1032,           -- 双S卡池
 }
 
 EC_Activity_CHRISTMAS_Subtype = {
@@ -2379,6 +2415,7 @@ EC_NetTeamType = {
     Hunter = 5,    ---追猎计划
     SnowFestival = 10, --双旦大作战
     NianShou = 11, --年兽大作战
+    WORLDFIGHT = 12, --大世界联机游戏
 }
 
 EC_NetChangeState = {
@@ -2468,6 +2505,7 @@ WorldRoomType = {
     OSD_UNION = 2, -- 夏拉姆大世界社团房间
     ZNQ_WORLD = 3, -- 周年庆大世界社团房间
     ZNQ_UNION = 4, -- 周年庆大世界社团房间
+    GAME_WORLD = 10, -- 追捕玩法
     SINGLE = 99, -- 单机类型
 }
 
@@ -2507,4 +2545,21 @@ EC_TASK_STATUS = {
     Ing = 3,       -- 进行中
     NotReceve = 4, -- 未领取
     Complete = 5   -- 已完成 
+}
+
+EC_PatongUiType = {
+    DatingFight     = 1,
+    Dating          = 2,
+    FightMode       = 11,
+    AirDrop         = 21,
+    AirDropInterest = 22,
+    MonsterMode     = 31
+}
+
+EC_EliteStatus = {
+    NOT_START = 1,		        --没开始
+    FIGHTING = 2,		        --战斗中
+    RETREAT = 3,		        --逃跑
+    KILL = 4,			        --击杀
+    NOT_START_RETREAT = 5,      --未开始，时间到了
 }

@@ -508,7 +508,7 @@ local t =
 										PositionX = 10,
 										PositionY = 380,
 									},
-									width = "57",
+									width = "60",
 									ZOrder = "1",
 								},
 								{
@@ -554,7 +554,7 @@ local t =
 										PositionX = 10,
 										PositionY = 358,
 									},
-									width = "57",
+									width = "60",
 									ZOrder = "1",
 								},
 								{
@@ -628,7 +628,7 @@ local t =
 											{
 												PositionY = 93,
 											},
-											width = "148",
+											width = "134",
 											ZOrder = "1",
 										},
 										{
@@ -836,7 +836,7 @@ local t =
 												PositionX = 10,
 												PositionY = -4,
 											},
-											width = "68",
+											width = "65",
 											ZOrder = "1",
 										},
 									},
@@ -1219,7 +1219,7 @@ local t =
 												PositionX = 31,
 												PositionY = -4,
 											},
-											width = "68",
+											width = "65",
 											ZOrder = "1",
 										},
 									},
@@ -1287,7 +1287,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "235",
+							height = "280",
 							ignoreSize = "False",
 							name = "Panel_fairy_skill",
 							sizepercentx = "0",
@@ -1331,7 +1331,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 160,
-										PositionY = 221,
+										PositionY = 260,
 									},
 									width = "278",
 									ZOrder = "1",
@@ -1427,7 +1427,8 @@ local t =
 												PositionX = -53,
 												PositionY = -4,
 											},
-											width = "68",
+											visible = "False",
+											width = "65",
 											ZOrder = "1",
 										},
 									},
@@ -1441,7 +1442,7 @@ local t =
 									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "87",
+									height = "130",
 									ignoreSize = "False",
 									name = "Image_mainskill",
 									sizepercentx = "0",
@@ -1452,7 +1453,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 159,
+										PositionY = 177,
 									},
 									width = "490",
 									ZOrder = "1",
@@ -1555,7 +1556,7 @@ local t =
 													UUID = "2dff65f9_58dc_425c_b1e4_2a62df7d9c69",
 													anchorPoint = "False",
 													anchorPointX = "0",
-													anchorPointY = "0.5",
+													anchorPointY = "0",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
 													dstBlendFunc = "771",
@@ -1569,7 +1570,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "18",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -1591,7 +1592,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 74,
-														PositionY = 11,
+														PositionY = -5,
 													},
 													width = "97",
 													ZOrder = "1",
@@ -1601,7 +1602,7 @@ local t =
 													UUID = "f705f6fc_38c1_4e04_bfc9_32ff37e58980",
 													anchorPoint = "False",
 													anchorPointX = "0",
-													anchorPointY = "0.5",
+													anchorPointY = "1",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
 													dstBlendFunc = "771",
@@ -1622,11 +1623,11 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "18",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_skill_effect",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -1637,9 +1638,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 75,
-														PositionY = -27,
+														PositionY = -7,
 													},
-													width = "122",
+													width = "84",
 													ZOrder = "1",
 												},
 											},
@@ -1740,7 +1741,7 @@ local t =
 													UUID = "0026a338_0c93_4323_9677_8943abe1800d",
 													anchorPoint = "False",
 													anchorPointX = "0",
-													anchorPointY = "0.5",
+													anchorPointY = "0",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
 													dstBlendFunc = "771",
@@ -1754,7 +1755,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "18",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -1776,7 +1777,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 75,
-														PositionY = 12,
+														PositionY = -4,
 													},
 													width = "90",
 													ZOrder = "1",
@@ -1786,7 +1787,7 @@ local t =
 													UUID = "81cc7733_6093_4464_95fe_7971bf5b539e",
 													anchorPoint = "False",
 													anchorPointX = "0",
-													anchorPointY = "0.5",
+													anchorPointY = "1",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
 													dstBlendFunc = "771",
@@ -1807,8 +1808,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "18",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_skill_effect",
 													nTextAlign = "0",
 													nTextHAlign = "0",
@@ -1822,9 +1823,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 75,
-														PositionY = -27,
+														PositionY = -7,
 													},
-													width = "122",
+													width = "84",
 													ZOrder = "1",
 												},
 											},
@@ -1925,7 +1926,7 @@ local t =
 													UUID = "0bf460d6_3128_4b4c_8e17_57b466837e09",
 													anchorPoint = "False",
 													anchorPointX = "0",
-													anchorPointY = "0.5",
+													anchorPointY = "0",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
 													dstBlendFunc = "771",
@@ -1939,7 +1940,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "18",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -1961,7 +1962,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 75,
-														PositionY = 12,
+														PositionY = -4,
 													},
 													width = "83",
 													ZOrder = "1",
@@ -1971,7 +1972,7 @@ local t =
 													UUID = "95f720b9_3f3f_404a_aa11_33c35195350e",
 													anchorPoint = "False",
 													anchorPointX = "0",
-													anchorPointY = "0.5",
+													anchorPointY = "1",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
 													dstBlendFunc = "771",
@@ -1992,11 +1993,11 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "18",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_skill_effect",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -2007,9 +2008,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 75,
-														PositionY = -27,
+														PositionY = -7,
 													},
-													width = "122",
+													width = "84",
 													ZOrder = "1",
 												},
 											},
@@ -2935,7 +2936,7 @@ local t =
 												PositionX = 30,
 												PositionY = -4,
 											},
-											width = "68",
+											width = "65",
 											ZOrder = "1",
 										},
 									},
@@ -3790,7 +3791,7 @@ local t =
 												PositionX = -25,
 												PositionY = 77,
 											},
-											width = "20",
+											width = "22",
 											ZOrder = "1",
 											components = 
 											{
@@ -3931,7 +3932,7 @@ local t =
 												PositionX = 54,
 												PositionY = -94,
 											},
-											width = "23",
+											width = "22",
 											ZOrder = "1",
 										},
 										{
@@ -4276,7 +4277,7 @@ local t =
 												PositionX = -25,
 												PositionY = 77,
 											},
-											width = "20",
+											width = "22",
 											ZOrder = "1",
 											components = 
 											{
@@ -4417,7 +4418,7 @@ local t =
 												PositionX = 54,
 												PositionY = -94,
 											},
-											width = "23",
+											width = "22",
 											ZOrder = "1",
 										},
 										{
@@ -4762,7 +4763,7 @@ local t =
 												PositionX = -25,
 												PositionY = 77,
 											},
-											width = "20",
+											width = "22",
 											ZOrder = "1",
 											components = 
 											{
@@ -4903,7 +4904,7 @@ local t =
 												PositionX = 54,
 												PositionY = -94,
 											},
-											width = "23",
+											width = "22",
 											ZOrder = "1",
 										},
 										{

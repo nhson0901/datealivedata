@@ -333,7 +333,10 @@ function Team:getMenbers_(camp,campState,needActive)
     return list
 end
 
-
+function Team:getMenbersByCid(heroCid)
+    local hero = self:getHeroWithID(heroCid)
+    return hero and {hero} or {}
+end
 
 --组队队长
 function Team:getCaptain()

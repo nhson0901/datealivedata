@@ -1,0 +1,477 @@
+local t = 
+{
+	version = 1,
+	components = 
+	{
+		
+		{
+			controlID = "Panel-tongBossInfoView_Layer1_tong_Game",
+			UUID = "41a9045a_88d6_4e5c_bac8_18b019f25c86",
+			anchorPoint = "False",
+			anchorPointX = "0",
+			anchorPointY = "0",
+			backGroundScale9Enable = "False",
+			bgColorOpacity = "50",
+			bIsOpenClipping = "False",
+			classname = "MEPanel",
+			colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+			DesignHeight = "640",
+			DesignType = "0",
+			DesignWidth = "960",
+			dstBlendFunc = "771",
+			height = "640",
+			ignoreSize = "False",
+			name = "Panel",
+			PanelRelativeSizeModel = 
+			{
+				PanelRelativeEnable = true,
+			},
+			sizepercentx = "0",
+			sizepercenty = "0",
+			sizeType = "0",
+			srcBlendFunc = "1",
+			touchAble = "False",
+			UILayoutViewModel = 
+			{
+				nType = 3,
+			},
+			uipanelviewmodel = 
+			{
+				Layout="Relative",
+				nType = "3"
+			},
+			width = "1136",
+			ZOrder = "1",
+			components = 
+			{
+				
+				{
+					controlID = "Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+					UUID = "f4a2fd76_b618_4739_94aa_4a627526d819",
+					anchorPoint = "False",
+					anchorPointX = "0.5",
+					anchorPointY = "0",
+					backGroundScale9Enable = "False",
+					bgColorOpacity = "50",
+					bIsOpenClipping = "False",
+					classname = "MEPanel",
+					colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+					DesignHeight = "640",
+					DesignType = "0",
+					DesignWidth = "960",
+					dstBlendFunc = "771",
+					height = "640",
+					ignoreSize = "False",
+					name = "Panel_root",
+					sizepercentx = "0",
+					sizepercenty = "0",
+					sizeType = "0",
+					srcBlendFunc = "1",
+					touchAble = "False",
+					UILayoutViewModel = 
+					{
+						PositionX = 510,
+						PositionY = 39,
+						relativeToName = "Panel",
+						nType = 3,
+						nGravity = 6,
+						nAlign = 5
+					},
+					uipanelviewmodel = 
+					{
+						Layout="Absolute",
+						nType = "0"
+					},
+					width = "1386",
+					ZOrder = "1",
+					components = 
+					{
+						
+						{
+							controlID = "Image_bg_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+							UUID = "9a2f3938_221d_44dd_b592_0475cd8005c1",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "False",
+							classname = "MEImage",
+							dstBlendFunc = "771",
+							height = "347",
+							ignoreSize = "True",
+							name = "Image_bg",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							texturePath = "ui/tong/common/small.png",
+							touchAble = "False",
+							UILayoutViewModel = 
+							{
+								PositionY = 320,
+							},
+							width = "561",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "Image_tongBossInfoView_1_Image_bg_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+									UUID = "85690d63_c317_407d_88b0_fa64a2735994",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									backGroundScale9Enable = "False",
+									classname = "MEImage",
+									dstBlendFunc = "771",
+									height = "154",
+									ignoreSize = "True",
+									name = "Image_tongBossInfoView_1",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									texturePath = "ui/tong/elite/011.png",
+									touchAble = "False",
+									UILayoutViewModel = 
+									{
+										PositionX = -1,
+										PositionY = 95,
+									},
+									width = "479",
+									ZOrder = "1",
+								},
+							},
+						},
+						{
+							controlID = "Label_title_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+							UUID = "94eed3db_10d7_4d1a_a8db_d3dc228976cc",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							classname = "MELabel",
+							compPath = "luacomponents.common.MEIconLabel",
+							dstBlendFunc = "771",
+							FontColor = "#FF126280",
+							fontName = "font/MFLiHei_Noncommercial.ttf",
+							fontShadow = 
+							{
+								IsShadow = false,
+								ShadowColor = "#FFFFFFFF",
+								ShadowAlpha = 255,
+								OffsetX = 0,
+								OffsetY = 0,
+							},
+							fontSize = "22",
+							fontStroke = 
+							{
+								IsStroke = false,
+								StrokeColor = "#FFE6E6E6",
+								StrokeSize = 1,
+							},
+							height = "25",
+							ignoreSize = "True",
+							name = "Label_title",
+							nTextAlign = "1",
+							nTextHAlign = "1",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "770",
+							text = "作戰情報",
+							touchAble = "False",
+							touchScaleEnable = "False",
+							UILayoutViewModel = 
+							{
+								PositionY = 452,
+							},
+							width = "90",
+							ZOrder = "1",
+						},
+						{
+							controlID = "Button_close_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+							UUID = "3080bb5c_ecbc_4cf0_9bb0_34154cd724d2",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "False",
+							classname = "MEButton",
+							ClickHighLightEnabled = "True",
+							dstBlendFunc = "771",
+							flipX = "False",
+							flipY = "False",
+							height = "52",
+							ignoreSize = "True",
+							name = "Button_close",
+							normal = "ui/tong/common/close.png",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = 239,
+								PositionY = 451,
+							},
+							UItype = "Button",
+							width = "52",
+							ZOrder = "1",
+						},
+						{
+							controlID = "Image_head_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+							UUID = "2ddbc9b0_dc73_47d8_8e20_b530cccf78f2",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "False",
+							classname = "MEImage",
+							dstBlendFunc = "771",
+							height = "98",
+							ignoreSize = "True",
+							name = "Image_head",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							texturePath = "icon/hero/name/1104011.png",
+							touchAble = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = -178,
+								PositionY = 404,
+							},
+							visible = "False",
+							width = "98",
+							ZOrder = "1",
+						},
+						{
+							controlID = "Label_desc_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+							UUID = "443ed61a_9df4_4498_b412_7631e04bf52c",
+							anchorPoint = "False",
+							anchorPointX = "0",
+							anchorPointY = "0.5",
+							classname = "MELabel",
+							compPath = "luacomponents.common.MEIconLabel",
+							dstBlendFunc = "771",
+							FontColor = "#FFFFEADC",
+							fontName = "font/fangzheng_zhunyuan.ttf",
+							fontShadow = 
+							{
+								IsShadow = false,
+								ShadowColor = "#FFFFFFFF",
+								ShadowAlpha = 255,
+								OffsetX = 0,
+								OffsetY = 0,
+							},
+							fontSize = "20",
+							fontStroke = 
+							{
+								IsStroke = false,
+								StrokeColor = "#FFE6E6E6",
+								StrokeSize = 1,
+							},
+							height = "60",
+							ignoreSize = "False",
+							name = "Label_desc",
+							nTextAlign = "1",
+							nTextHAlign = "0",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "770",
+							text = "TextLable",
+							touchAble = "False",
+							touchScaleEnable = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = -77,
+								PositionY = 392,
+							},
+							width = "290",
+							ZOrder = "1",
+						},
+						{
+							controlID = "ScrollView_skill_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+							UUID = "1afec988_225c_4507_866f_571ca17856a4",
+							anchorPoint = "False",
+							anchorPointX = "0",
+							anchorPointY = "0",
+							backGroundScale9Enable = "False",
+							bgColorOpacity = "50",
+							bIsOpenClipping = "True",
+							bounceEnable = "False",
+							classname = "MEScrollView",
+							colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+							direction = "1",
+							dstBlendFunc = "771",
+							height = "100",
+							ignoreSize = "False",
+							innerHeight = "100",
+							innerWidth = "440",
+							name = "ScrollView_skill",
+							showScrollbar = "False",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = -220,
+								PositionY = 182,
+							},
+							uipanelviewmodel = 
+							{
+								Layout="Absolute",
+								nType = "0"
+							},
+							width = "440",
+							ZOrder = "1",
+						},
+						{
+							controlID = "Label_tongBossInfoView_1_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+							UUID = "a8f6384f_69cc_4c6e_b713_14f19f88b0ce",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							classname = "MELabel",
+							compPath = "luacomponents.common.MEIconLabel",
+							dstBlendFunc = "771",
+							FontColor = "#FF126280",
+							fontName = "font/fangzheng_zhunyuan.ttf",
+							fontShadow = 
+							{
+								IsShadow = false,
+								ShadowColor = "#FFFFFFFF",
+								ShadowAlpha = 255,
+								OffsetX = 0,
+								OffsetY = 0,
+							},
+							fontSize = "23",
+							fontStroke = 
+							{
+								IsStroke = false,
+								StrokeColor = "#FFE6E6E6",
+								StrokeSize = 1,
+							},
+							height = "26",
+							ignoreSize = "True",
+							name = "Label_tongBossInfoView_1",
+							nTextAlign = "1",
+							nTextHAlign = "1",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "770",
+							text = "技能描述",
+							touchAble = "False",
+							touchScaleEnable = "False",
+							UILayoutViewModel = 
+							{
+								PositionY = 320,
+							},
+							width = "95",
+							ZOrder = "1",
+						},
+						{
+							controlID = "Image_tongBossInfoView_1_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+							UUID = "3c355a04_8b9f_4bb3_bbe5_64a0bb8d3260",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "False",
+							classname = "MEImage",
+							dstBlendFunc = "771",
+							height = "11",
+							ignoreSize = "True",
+							name = "Image_tongBossInfoView_1",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							texturePath = "ui/tong/boss/dressline.png",
+							touchAble = "False",
+							UILayoutViewModel = 
+							{
+								PositionY = 297,
+							},
+							width = "350",
+							ZOrder = "1",
+						},
+						{
+							controlID = "Label_skill_Panel_root_Panel-tongBossInfoView_Layer1_tong_Game",
+							UUID = "3affab6e_6a0c_42f1_9c76_f438636ea730",
+							anchorPoint = "False",
+							anchorPointX = "0",
+							anchorPointY = "0.5",
+							classname = "MELabel",
+							compPath = "luacomponents.common.MEIconLabel",
+							dstBlendFunc = "771",
+							FontColor = "#FF126280",
+							fontName = "font/fangzheng_zhunyuan.ttf",
+							fontShadow = 
+							{
+								IsShadow = false,
+								ShadowColor = "#FFFFFFFF",
+								ShadowAlpha = 255,
+								OffsetX = 0,
+								OffsetY = 0,
+							},
+							fontSize = "20",
+							fontStroke = 
+							{
+								IsStroke = false,
+								StrokeColor = "#FFE6E6E6",
+								StrokeSize = 1,
+							},
+							height = "23",
+							ignoreSize = "True",
+							name = "Label_skill",
+							nTextAlign = "1",
+							nTextHAlign = "0",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "770",
+							text = "TextLable",
+							touchAble = "False",
+							touchScaleEnable = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = -469,
+								PositionY = -174,
+							},
+							width = "80",
+							ZOrder = "1",
+						},
+					},
+				},
+			},
+		},
+	},
+	actions = 
+	{
+		
+	},
+	respaths = 
+	{
+		textures = 
+		{
+			"ui/tong/common/small.png",
+			"ui/tong/elite/011.png",
+			"ui/tong/common/close.png",
+			"icon/hero/name/1104011.png",
+			"ui/tong/boss/dressline.png",
+		},
+		armatures = 
+		{
+			
+		},
+		movieclips = 
+		{
+			
+		},
+	},
+}
+return t
+

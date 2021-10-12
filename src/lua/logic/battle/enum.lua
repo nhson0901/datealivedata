@@ -493,6 +493,13 @@ ATTR_DMSUB_CCJ   = 904, -- 伤害减免（出场技）
 ATTR_DMSUB_DZ    = 906, -- 伤害减免（大招）
 ATTR_DMSUB_JX    = 907, -- 伤害减免（觉醒）
 
+--怕痛特殊属性
+ATTR_PATONG_STR         = 190001,
+ATTR_PATONG_AGI         = 190002,
+ATTR_PATONG_VIT         = 190003,
+ATTR_PATONG_DEX         = 190004,
+ATTR_PATONG_INT         = 190005,
+
 }
 
 -- 固定值加成属性（累加）
@@ -816,6 +823,7 @@ enum.eBFEffectType =
     ET_SET_SKILL_CD         = 15,       -- 设置固定技能CD使用
     ET_EFFECT_UNABLED       = 16,       -- 屏蔽指定buff效果
     ET_FORCE_CHANGE_SKIN    = 17,       -- 强制变换形态
+    ET_ADD_SKILL_CD         = 18,       -- 递增技能CD使用
 }
 
 
@@ -966,6 +974,7 @@ E_STATE_60 = 60 , --该状态中不被怪物追踪
 E_FORM_1     = 62 ,--处于1形态中   变身相关的状态
 E_FORM_2     = 63 ,--处于2形态中   变身相关的状态
 E_ZM_SHMY    = 64 ,--正面伤害免疫   
+
 E_STATE_70 = 70 ,--
 E_STATE_71 = 71 ,--
 E_STATE_72 = 72 ,--
@@ -1127,6 +1136,16 @@ E_EXTRA_SKILL_3   = 212, --使用特殊技能3
 E_EXTRA_SKILL_4   = 213, --使用特殊技能4
 E_EXTRA_SKILL_5   = 214, --使用特殊技能5
 
+E_SKILL_CD_Skill_1              = 232, -- F技能冷却
+E_SKILL_CD_Skill_2              = 233, --S技能冷却
+E_SKILL_CD_ENTER                = 234, --出场技能冷却
+E_SKILL_CD_DODGE                = 235, --闪避技能冷却
+E_SKILL_CD_CRI                  = 236, --大招技能冷却
+E_SKILL_CD_AWAKE                = 237, --觉醒技能冷却
+E_SKILL_CD_EXTRA_SKILL_1        = 240, --额外技能冷却
+E_SKILL_CD_EXTRA_SKILL_2        = 241, --额外技能冷却
+E_SKILL_CD_EXTRA_SKILL_3        = 242, --额外技能冷却
+
 --瞄准
 E_EXTRA_SKILL_1_AIM   = 260, --使用特殊技能1 瞄准
 E_EXTRA_SKILL_2_AIM   = 261, --使用特殊技能2 瞄准
@@ -1148,6 +1167,7 @@ E_EXTRA_SKILL_4_HURT   = 413, --使用特殊技能4 伤害
 E_EXTRA_SKILL_5_HURT   = 414, --使用特殊技能5 伤害
 
 E_BACK_SKILL_HURT   = 421, --制造背击伤害
+E_FRONT_SKILL_HURT   = 422, --正面伤害事件
 
 E_EXTRA_SKILL_1_CRIT   = 510, --使用特殊技能1 暴击
 E_EXTRA_SKILL_2_CRIT   = 511, --使用特殊技能2 暴击
@@ -1188,6 +1208,7 @@ E_JX_HITED      = 307, --觉醒命中
 
 E_REV_DODGE     = 341, --被闪避
 E_REV_PT_BLOCK  = 342, --被格挡
+E_REV_PARRY     = 343, --被招架
 
 E_REV_HIT        = 350, --通用受击
 E_PT_REV_HIT     = 351, --普攻受击
@@ -1201,6 +1222,7 @@ E_JX_REV_HIT     = 357, --觉醒受击
 
 E_DODGE         = 391, --闪避
 E_BLOCK         = 392, --格挡
+E_PARRY         = 393, --触发招架
 
 
 E_HURT           =400, --制造通用伤害
@@ -1382,6 +1404,8 @@ enum.eArmtureEvent =
     GRASP_END    = "siteEnd",  --抓取
     GRASP_CHANGE = "change",  --抓取
     BUFFER    = "buffer",  --抓取
+    SPZONE    = "spZone",  --特殊区间开始
+    SPZONEEND    = "spZoneEnd",  --特殊区间结束
 }
 
 --
@@ -1537,6 +1561,7 @@ enum.eEvent = {
     EVENT_SKILL_OVER              = "event_skill_over" ,--技能释放完成
     EVENT_WORLDROOM_LEAVE                    = "EV_LEAVE",    -- 离开
     EVENT_AIR_POINT_CHANGE        = "EVENT_AIR_POINT_CHANGE", --空气墙变更
+    EVENT_LEAVE_SKILL           = "EVENT_LEAVE_SKILL",  --完成技能释放
     EVENT_QUIT_BATTLE = "event_quit_battle"   --英文版适应修改战斗结算后需要添加事件触发试炼结算
 }
 

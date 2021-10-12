@@ -43,7 +43,8 @@ function Statistics.init(starCfg)
     this.eatMonsterCount = 0  --吃到怪物道具数
     this.conEatMonsterCount = 0  --连续吃到怪物道具数
     this.maxEatCount = 0
-    
+
+    this.recoverHpNum    = 0  --回血次数
 
     this.controller = BattleDataMgr:getController()
 
@@ -110,6 +111,8 @@ function Statistics.clear( ... )
     this.eatMonsterCount = 0
     this.conEatMonsterCount = 0
     this.maxEatCount = 0
+
+    this.recoverHpNum    = 0
 end
 
 -- 重置无尽模式数据
@@ -427,6 +430,11 @@ function Statistics.eatMonsterItem(hero,monster)
     end
 end
 
+---统计角色回血次数
+function Statistics.recoverHpEvent()
+    this.recoverHpNum = this.recoverHpNum + 1
+end
+
 --每20%进入提示一次
 function Statistics.percent20Tip(starType)
     local starInfo, index
@@ -582,6 +590,8 @@ function Statistics.getStarIsReach(index)
         isReach = tobool(this.maxEatCount >= starParam)
     elseif starType == EC_FBStarRule.PASS_LEVEL_NO_ITEM then
         isReach = tobool(this.eatMonsterCount < 1)
+    elseif starType == EC_FBStarRule.PASS then
+        isReach = true
     end
     return isReach
 end

@@ -53,6 +53,10 @@ function ServerDataMgr:init()
                         serverId = 260,
                         serverName= "yuxie",
                     },
+                    {
+                        serverId = 261,
+                        serverName= "sunaofeng",
+                    },
                 },
                 groupType = GLOBAL_SERVER_LIST.SERVER_ENGLISH
             },

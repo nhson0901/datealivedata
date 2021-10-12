@@ -343,10 +343,9 @@ function RecommondView:updateGiftItem(item, data)
             if tipId then
                 local args = {
                     tittle = 2107025,
-                    reType = "buyGiftTip",
                     content = TextDataMgr:getText(tipId),
                     confirmCall = function ( ... )
-                        callFunc()
+                        
                     end,
                 }
                 Utils:showReConfirm(args)

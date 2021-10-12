@@ -276,6 +276,13 @@ function battleController._onHpChange(hero,hp)
     if hp < 0 then 
         this._onLoseHp(hero,hp)
     end
+
+    if hero:getCampType() == eCampType.Hero then
+        if hp > 0 then
+            statistics.recoverHpEvent()
+        end
+    end
+
     EventTrigger:_onChangeHp(hero)
 end
 --失血
@@ -619,7 +626,9 @@ function battleController.init(data)
     local battleType = this.data.battleType
     if battleType == EC_BattleType.COMMON or
         battleType == EC_BattleType.ENDLESS then
-        if this.levelCfg_.dungeonType ~= EC_FBLevelType.PRACTICE and this.levelCfg_.dungeonType ~= EC_FBLevelType.MUSIC_GAME then
+        if this.levelCfg_.dungeonType ~= EC_FBLevelType.PRACTICE and
+           this.levelCfg_.dungeonType ~= EC_FBLevelType.MUSIC_GAME and
+           this.levelCfg_.dungeonType ~= EC_FBLevelType.TONG_AIRINTEREST then
             this.bNeedVerifyHurt = true
         end
     end
@@ -1238,7 +1247,9 @@ function battleController.herosEnter()
                 this.setTiming(true)--开始计时
                 EventTrigger:start()
                 local levelCfg_ = BattleDataMgr:getLevelCfg()
-                if levelCfg_ and (levelCfg_.dungeonType == EC_FBLevelType.PRACTICE or levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME) then
+                if levelCfg_ and (levelCfg_.dungeonType == EC_FBLevelType.PRACTICE or
+                        levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME or
+                        levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRINTEREST) then
                     AIAgent:setEnabled(false)
                     EventMgr:dispatchEvent(EV_PRACTICE_BRUSH_MONSTER)
                 end
@@ -1409,6 +1420,8 @@ function battleController.requestFightingOver()
         local pickUpTypeCount = statistics.pickUpTypeCount
         local pickUpCount     = statistics.pickUpCount
         local maxComboNum     = statistics.maxComboNum
+        local hitedCnt        = statistics.getHit
+        local recoverHpNum    = statistics.recoverHpNum
         local killTargets = victoryDecide.getKillTargets()
         local hitValue = statistics.hitValue
         local rating   = victoryDecide.getRating()
@@ -1419,10 +1432,11 @@ function battleController.requestFightingOver()
         if statistics.skillAwakeKill > 0 then
           table.insert(skillEnemy,{eSkillType.AWAKE, statistics.skillAwakeKill})
         end
-        if levelCfg.dungeonType == EC_FBLevelType.PRACTICE or
-                levelCfg.dungeonType == EC_FBLevelType.NOOBSUMMON or
-                levelCfg.dungeonType == EC_FBLevelType.MUSIC_GAME then
-                    EventMgr:dispatchEvent(eEvent.EVENT_QUIT_BATTLE)  --英文版新增战斗结束
+        
+        if levelCfg.dungeonType == EC_FBLevelType.PRACTICE
+        or levelCfg.dungeonType == EC_FBLevelType.NOOBSUMMON
+        or levelCfg.dungeonType == EC_FBLevelType.MUSIC_GAME then
+             EventMgr:dispatchEvent(eEvent.EVENT_QUIT_BATTLE)  --英文版新增战斗结束  海外版独有
         elseif levelCfg.dungeonType == EC_FBLevelType.MONSTER_TRIAL then
 			battleController.sendVerifyFightResult(isWin)
 			local costTime = math.floor(this.getTime())
@@ -1430,13 +1444,13 @@ function battleController.requestFightingOver()
 			local total = FubenDataMgr:caculationMonsterScore(this.levelCfg_.id, costTime)			
             FubenDataMgr:send_DUNGEON_FIGHT_OVER(levelId, isWin, {total},
                                                  maxComboNum, pickUpTypeCount,
-                                                 pickUpCount, killTargets, costTime, hitValue,rating,skillEnemy)
+                                                 pickUpCount, killTargets, costTime, hitValue,rating,skillEnemy,hitedCnt,recoverHpNum)
         else
             battleController.sendVerifyFightResult(isWin)
             local costTime = math.floor(this.getTime())
             FubenDataMgr:send_DUNGEON_FIGHT_OVER(levelId, isWin, reachStar,
                                                  maxComboNum, pickUpTypeCount,
-                                                 pickUpCount, killTargets, costTime, hitValue,rating,skillEnemy)
+                                                 pickUpCount, killTargets, costTime, hitValue,rating,skillEnemy,hitedCnt,recoverHpNum)
         end
     elseif battleType == EC_BattleType.ENDLESS then
         local levelCid = BattleDataMgr:getPointId()
@@ -1837,13 +1851,19 @@ function battleController.eventCheck(hero)
         end
     else
         --木桩副本只要有角色死亡直接结束战斗
-        if this.levelCfg_.dungeonType == EC_FBLevelType.PRACTICE or this.levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME then
+        if this.levelCfg_.dungeonType == EC_FBLevelType.PRACTICE
+                or this.levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME
+                or this.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRINTEREST then
             if hero:getCampType() == eCampType.Hero then
                 this.endBattle(false)
             end
         else
             if this.team:isAllDestoryByRoleType(eRoleType.Hero,eRoleType.Team) then
-                this.endBattle(false)
+                if this.levelCfg_.dungeonType == EC_FBLevelType.TONG_DATINGFIGHT then
+                    this.endBattle(victoryDecide.checkLastResult(false))
+                else
+                    this.endBattle(false)
+                end
             end
         end
     end
@@ -2144,6 +2164,7 @@ end
 function battleController.getPointBuffer(targetType)
     local bufferIds = {}
     local data = BattleDataMgr:getLevelCfg()
+    local fubenType = FubenDataMgr:getFubenType(data.id)
     for index , _targetType in ipairs(data.limitTargetType) do
         if _targetType == targetType then
             table.insert(bufferIds,data.limitAttributes[index])
@@ -2232,6 +2253,27 @@ function battleController.getPointBuffer(targetType)
         if towerInfo  then
             for k,v in ipairs(towerInfo.roundBuff) do
                 local buffCfg = LinkageHwxDataMgr:getHwxBuffManageCfg(v)
+                if buffCfg and buffCfg.limitTargetType == targetType then
+                    table.insertTo(bufferIds, buffCfg.buffId)
+                end
+            end
+        end
+    end
+
+    ----怕痛Buff
+    if fubenType == EC_FBType.TONG_FUBEN then
+        local extraBuff = TongDataMgr:getFightExtraBuff()
+        for k,v in ipairs(extraBuff) do
+            local buffCfg = TongDataMgr:getCombatMgrCfg(v)
+            if buffCfg and buffCfg.limitTargetType == targetType then
+                table.insertTo(bufferIds, buffCfg.buffId)
+            end
+        end
+
+        if data.dungeonType == EC_FBLevelType.TONG_MONSTER then
+            local eliteBuff = TongDataMgr:getTongEliteBuff()
+            for k,v in ipairs(eliteBuff) do
+                local buffCfg = TongDataMgr:getCombatMgrCfg(v)
                 if buffCfg and buffCfg.limitTargetType == targetType then
                     table.insertTo(bufferIds, buffCfg.buffId)
                 end

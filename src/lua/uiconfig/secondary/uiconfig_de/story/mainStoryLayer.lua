@@ -445,7 +445,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "740",
 									ZOrder = "1",
 									components = 
@@ -501,20 +500,20 @@ local t =
 												StrokeSize = 1,
 											},
 											hAlignment = "0",
-											height = "80",
+											height = "130",
 											ignoreSize = "False",
 											name = "TextArea_talk",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Fumuaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+											text = "Fumu",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -195,
-												PositionY = -50,
+												PositionX = -191,
+												PositionY = -73,
 											},
 											vAlignment = "1",
 											width = "450",
@@ -540,8 +539,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -160,
-												PositionY = 85,
+												PositionX = -163,
+												PositionY = 93,
 											},
 											width = "202",
 											ZOrder = "1",
@@ -567,15 +566,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "30",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "34",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_role_name",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -584,14 +583,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "TextLable",
+													text = "TextLable TextLable",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "156",
+													width = "190",
 													ZOrder = "1",
 												},
 											},
@@ -723,7 +722,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Unübertroffen",
+											text = "Unrivaled",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -782,15 +781,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "30",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "34",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_role_name",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -806,7 +805,7 @@ local t =
 													{
 														
 													},
-													width = "156",
+													width = "190",
 													ZOrder = "1",
 												},
 											},
@@ -888,14 +887,14 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+									backGroundScale9Enable = "False",
 									classname = "MEButton",
 									ClickHighLightEnabled = "True",
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
 									height = "44",
-									ignoreSize = "False",
+									ignoreSize = "True",
 									name = "Button_skip",
 									normal = "ui/common/button_skip.png",
 									sizepercentx = "0",
@@ -905,11 +904,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 1054,
-										PositionY = 602,
+										PositionX = 1070,
+										PositionY = 601,
 									},
 									UItype = "Button",
-									width = "160",
+									width = "110",
 									ZOrder = "1",
 									components = 
 									{
@@ -933,14 +932,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "17",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = true,
 												StrokeColor = "#FFF588A7",
 												StrokeSize = 2,
 											},
-											height = "24",
+											height = "29",
 											ignoreSize = "True",
 											name = "Label_title",
 											nTextAlign = "1",
@@ -949,14 +948,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Überspringen",
+											text = "Skip",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = -2,
 											},
-											width = "129",
+											width = "55",
 											ZOrder = "1",
 										},
 									},

@@ -980,6 +980,15 @@ return {
             [2] = 640,
         },
     },
+    [250] = {
+        path  = "video/cg_VITmax_op.mp4",
+        isFullScreen = true,
+        id = 250,
+        size = {
+            [1] = 1386,
+            [2] = 640,
+        },
+    },
     [1008] = {
         path  = "video/summon_fanzhuanshixiang1.mp4",
         isFullScreen = false,

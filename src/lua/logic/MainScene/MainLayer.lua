@@ -2016,7 +2016,15 @@ function MainLayer:registerEvents()
         -- if not activityInfo then return end
         -- FunctionDataMgr:enterByFuncId(activityInfo.extendData.jumpInterface,unpack(activityInfo.extendData.jumpParamters or {}))
 
-        FunctionDataMgr:jActivity6()
+        local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TONG)[1]  --怕痛跳转打开
+        local isOpen = ActivityDataMgr2:isInShowTime(activityId)
+        local activityInfo = ActivityDataMgr2:getActivityInfo(activityId)
+        if activityInfo and isOpen then
+            Utils:openView("tong.TongActivityMainView")
+            return
+        end
+
+        --FunctionDataMgr:jActivity6()
     end)
 
     --周年庆游乐园
@@ -4425,6 +4433,19 @@ function MainLayer:onUpdateActivitysState()
     local activityInfos = ActivityDataMgr2:getActivityInfo(nil,1001)
     self.Button_Activity1001:setVisible(#activityInfos > 0)
 
+	
+        ---怕痛特殊处理
+    if not self.Button_Activity6:isVisible() then
+        local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TONG)[1]
+        local isOpen = ActivityDataMgr2:isInShowTime(activityId)
+        local activityInfo = ActivityDataMgr2:getActivityInfo(activityId)
+        if activityInfo and isOpen then
+            self.Button_Activity6:setTextureNormal("ui/mainLayer/rukou/patong.png")
+            self.Button_Activity6:setTexturePressed("ui/mainLayer/rukou/patong.png")
+            self.Button_Activity6:setVisible(true)
+        end
+    end
+    
     --showType:7 不在主界面用
     --local activityInfos = ActivityDataMgr2:getActivityInfo(nil,7)
     --self.Button_Activity7:setVisible(#activityInfos > 0)

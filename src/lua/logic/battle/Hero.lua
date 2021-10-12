@@ -343,6 +343,26 @@ function Hero:addExtraProperty()
             self.property:changeValue(tonumber(k), value)
         end
     end
+
+    --if self:getRoleType() == eRoleType.Hero then
+    --
+    --    local addExtraAttr = false
+    --    local dungType = Utils:getKVP(90045,"dungType")
+    --    for k,v in ipairs(dungType) do
+    --        if v == levelCfg.dungeonType then
+    --            addExtraAttr = true
+    --            break
+    --        end
+    --    end
+    --
+    --    if addExtraAttr then
+    --        local extraAttr = TongDataMgr:getExtraAttr()
+    --        for attrType,attrValue in pairs(extraAttr) do
+    --            self.property:changeValue(attrType, attrValue)
+    --        end
+    --    end
+    --end
+
 end
 
 function Hero:recvExchangeAttr(srcHero,attrs)
@@ -2224,11 +2244,14 @@ end
 function Hero:onLeaveSK(event)
     -- printError("onLeaveSkill....")
     -- self:setActionTimeScale(1) --还原默认动画播放速度
+    local keyCode = self.skill and self.skill:getKeyCode() or 0
+    self.curSkill = nil
     if self.actor then 
         self.actor.fixZOrder = nil
     end
     self:cancel(true)
     if self:isManual() then
+        EventMgr:dispatchEvent(eEvent.EVENT_LEAVE_SKILL,keyCode)
         self.operate:clearKeyQueue()
         if battleController.getCaptain() == self then 
             EventMgr:dispatchEvent(eEvent.EVENT_SHOW_KEYLIST,{})
@@ -2405,6 +2428,7 @@ function Hero:onBorn(callback)
 end
 
 function Hero:onStand()
+    self.curSkill = nil
     if self.actor then
         self.actor:playStand()
     end
@@ -2455,6 +2479,7 @@ function Hero:onCastSkill(actionData)
                 self:doEvent(eStateEvent.BH_STAND)
                 self.aiAgent:next()
             else
+                self.curSkill = nil
                 self:doEvent(eStateEvent.BH_STAND)
             end
             self:checkBornState()
@@ -2932,6 +2957,35 @@ function Hero:doFirstTrigger(time)
         if self:enableUpdateBossPanel() then
             EventMgr:dispatchEvent(eEvent.EVENT_BOSS_CHANGE, self)
         end
+
+        if self:getRoleType() == eRoleType.Hero then
+
+            local levelCfg = BattleDataMgr:getLevelCfg()
+            local addExtraAttr = false
+            local dungType = Utils:getKVP(90045,"dungType")
+            for k,v in ipairs(dungType) do
+                if v == levelCfg.dungeonType then
+                    addExtraAttr = true
+                    break
+                end
+            end
+
+            if addExtraAttr then
+                local extraAttr = TongDataMgr:getExtraAttr()
+                for attrType,attrValue in pairs(extraAttr) do
+                    self.property:changeValue(attrType, attrValue)
+                end
+
+                for i = eAttrType.ATTR_PATONG_STR,eAttrType.ATTR_PATONG_INT do
+                    local value = self.property:getValue(i)
+                    local coverAttr = TongDataMgr:coverAttr(i,value)
+                    for attrType,attrValue in pairs(coverAttr) do
+                        self.property:changeValue(attrType, attrValue)
+                    end
+                end
+            end
+        end
+
         --天赋buff触发
         self:onTalentTrigger()
         self.property:dispatchChange()
@@ -3061,6 +3115,12 @@ function Hero:update(time)
             self:clearFlag(eFlag.HITED)
             return
         elseif state == eState.ST_MOVEEX then
+            self:doEvent(eStateEvent.BH_DIE)
+            self:checkAndRelease()
+            self:clearFlag(eFlag.HITED)
+            return
+        elseif state == eState.ST_SKILL then
+            self:moveToStand()
             self:doEvent(eStateEvent.BH_DIE)
             self:checkAndRelease()
             self:clearFlag(eFlag.HITED)
@@ -4498,11 +4558,32 @@ function Hero:onArmtureEvent(event)
     elseif event.name == eArmtureEvent.STIFF then
         self:handleStiffEvent(event.pramN)
         return
+    elseif string.match(event.name, eArmtureEvent.SPZONE.."(%d+)") then
+        self.spZone = self.spZone or {}
+        local key = string.match(event.name, eArmtureEvent.SPZONE.."(%d+)")
+        self.spZone[tonumber(key)]  = true
+        return
+    elseif string.match(event.name, eArmtureEvent.SPZONEEND.."(%d+)") then
+        self.spZone = self.spZone or {}
+        local key = string.match(event.name, eArmtureEvent.SPZONEEND.."(%d+)")
+        self.spZone[tonumber(key)] = nil
+        return
     end
     if self.skill then
         self.skill:onEvent(event)
     end
 end
+
+function Hero:clearSpZone( ... )
+    -- body
+    self.spZone = {}
+end
+
+function Hero:checkHeroInZone(zone)
+    self.spZone = self.spZone or {}
+    return self.spZone[zone]
+end
+
 function Hero:handleStiffEvent(pramN)
     local hurtStiff = self:getValue(eAttrType.ATTR_NOW_HURT_STIFF)
     if pramN == 1 then --触发僵直
@@ -4682,8 +4763,16 @@ function Hero:castSK(skill,force,skillSubId)
     end
 end
 
+function Hero:tryForceTrigger( skill )
+    if self:canCast(skill) and skill:forceTrigger( skill ~= self.skill ) then
+        return true
+    end
+    return false
+end
+
 function Hero:cast(keyCode,skillSubId)
     local skill = self:getSkill(keyCode)
+
     if skill and skill:isEnable() and skill ~= self.skill then
         -- print("cast keyCode:",keyCode)
         return self:castSK(skill,false,skillSubId)
@@ -4712,8 +4801,13 @@ function Hero:onKeyEvent(keyCode,skillSubId)
     if battleController.isClearing then --战斗结束 不再处理案件响应
         return
     end
+
     local skill = self:getSkill(keyCode)
     if skill then
+        if  skill == self.skill and self:tryForceTrigger(skill) then -- 同技能释放过程中添加判断技能选取action机制（与Skill的checkNext互斥）
+            return true
+        end
+
         if self.skill then
             if self.skill:getKeyCode() ~= keyCode and skill:checkLevel(self.skill:getLevel())  then
                 return self:cast(keyCode,skillSubId)
@@ -5312,6 +5406,13 @@ function Hero:doAttrTrigger()
                 effect:onAttrTrigger(self,attrType,0)
             end
         end)
+        
+        for i, attrType in ipairs(_attrTypeList) do
+            if self.superArmorMgr then
+                self.superArmorMgr:onAttrChange(attrType)
+            end
+        end
+
         for i, attrType in ipairs(_attrTypeList) do
             if attrType == eAttrType.ATTR_NOW_HP
             or attrType == eAttrType.ATTR_NOW_AGR
@@ -5322,10 +5423,7 @@ function Hero:doAttrTrigger()
             or attrType == eAttrType.ATTR_SUPER_ENERGY 
             or attrType == eAttrType.ATTR_SUPER_ENERGY_LEVEL then
                 EventMgr:dispatchEvent(eEvent.EVENT_HERO_ATTR_CHANGE,self)
-                if self.superArmorMgr then
-                    self.superArmorMgr:onAttrChange(attrType)
-                end
-                break
+                break;
             end
         end
     end

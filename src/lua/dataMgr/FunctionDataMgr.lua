@@ -107,6 +107,12 @@ function FunctionDataMgr:initFuncList()
         [314] = self.jNewYearClothStore,  -- 2021年成衣铺
         [315] = self.jNewYearStore,  -- 2021乐园商店
         [316] = self.jNewYearTask,  -- 2021乐园任务
+	[317] = self.jTongMap,      --跳转到怕痛地图界面
+        [318] = self.jTongActivity,      --跳转到怕痛活动
+        [319] = self.jMakeMoonActivity,  --跳转到月饼制作
+        [320] = self.jWorldGuessGame,  -- 2021乐园任务
+        [321] = self.jEnjoyMoonActivity,  --跳转到赏月
+	
         [405] = self.jBalloon,    -- 气球活动
         [406] = self.jTurnTable,    -- 转盘活动
         [500] = self.jWarStore,             --夏拉姆商店跳转
@@ -1589,7 +1595,8 @@ function FunctionDataMgr:jSpecialFuben(activityType)
 
     if servertime >= activityKsanInfo.startTime and  servertime < activityKsanInfo.endTime then
         if activityType == EC_ActivityType2.KUANGSAN_FUBEN then
-            Utils:openView("kuangsanOutbound.MainMapLayer")
+            --Utils:openView("kuangsanOutbound.MainMapLayer")
+            Utils:openView("tong.TongMainView")
         elseif activityType == EC_ActivityType2.NEWYEAR_FUBEN then
             Utils:openView("newyearFuben.newYearMainLayer")
         elseif activityType == EC_ActivityType2.HWX_FUBEN then
@@ -1610,9 +1617,9 @@ function FunctionDataMgr:jKsanFuben()
 end
 
 ---狂三副本跳转
-function FunctionDataMgr:jKsanGift()
-    self:jActivity6(10109)
-end
+-- function FunctionDataMgr:jKsanGift()
+--     self:jActivity6(10109)
+-- end
 
 function FunctionDataMgr:jWarOrderBuy()
     if not self:checkFuncOpen() then return end
@@ -1750,6 +1757,63 @@ function FunctionDataMgr:jNewYearTask()
     Utils:openView("activity.2021_spring.NewyearTaskView")
 end
 
+function FunctionDataMgr:jTongMap()
+    local isOpen = ActivityDataMgr2:isInOpenTimeByType(EC_ActivityType2.TONG)
+    if not isOpen then
+        Utils:showTips(1710021)
+        return
+    end
+
+    local isStoryMode = true
+    local isPlayGuide = false
+    local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TONG)[1]
+    local activityInfo = ActivityDataMgr2:getActivityInfo(activityId)
+    if activityInfo and activityInfo.extendData then
+        if activityInfo.extendData.isStoryMode ~= nil then
+            isStoryMode = activityInfo.extendData.isStoryMode
+        end
+    end
+
+    local canjump = true
+    if isPlayGuide then
+        if isStoryMode then
+            for i=1,2 do
+                local isPass,levelCid = TongDataMgr:guideLevelState(i)
+                if not isPass then
+                    canjump = false
+                    break
+                end
+            end
+        end
+    end
+
+    if not canjump then
+        Utils:showTips(15011479)
+        return
+    end
+
+    Utils:openView("tong.TongMainView")
+end
+
+function FunctionDataMgr:jTongActivity()
+
+    local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TONG)[1]
+    local isOpen = ActivityDataMgr2:isInShowTime(activityId)
+    local activityInfo = ActivityDataMgr2:getActivityInfo(activityId)
+    if activityInfo and isOpen then
+        Utils:openView("tong.TongActivityMainView")
+        return
+    else
+        Utils:showTips(1710021)
+    end
+end
+
+function FunctionDataMgr:jWorldGuessGame(...)
+    local layer = requireNew("lua.logic.fightWorldRoom.GuessGameLayer"):new(...)
+    AlertManager:addLayer(layer)
+    AlertManager:show()
+end
+
 function FunctionDataMgr:jNewYearBuildRepair()
     local isOpen = ActivityDataMgr2:isInOpenTimeByType(EC_ActivityType2.NEWYEAR_BUILDREPAIR)
     if not isOpen then
@@ -1761,6 +1825,20 @@ function FunctionDataMgr:jNewYearBuildRepair()
     AlertManager:addLayer(view,AlertManager.BLOCK_CLOSE)
     AlertManager:show()
 
+end
+
+function FunctionDataMgr:jMakeMoonActivity()
+    local isOpen = ActivityDataMgr2:isInOpenTimeByType(EC_ActivityType2.MAKE_MOON)
+    if not isOpen then
+        Utils:showTips(1710021)
+        return
+    end
+
+    Utils:openView("newCity.MakeMoonCakeView")
+end
+
+function FunctionDataMgr:jEnjoyMoonActivity()
+    Utils:openView("activity.MoonActivityView")
 end
 
 function FunctionDataMgr:jPersonInfoBase( index )

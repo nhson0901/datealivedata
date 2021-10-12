@@ -173,6 +173,7 @@ function KeyBoard:initUI(ui)
     EventMgr:addEventListener(self,eEvent.EVENT_VKSTATE_CHANGE, handler(self.onVKStateChange,self))
     EventMgr:addEventListener(self,eEvent.EVENT_SKILLEX_REFRESH, handler(self.onSkillExChange,self))
     EventMgr:addEventListener(self,eEvent.EVENT_SUB_SKILL_SHOW, handler(self.onSubSkillChange,self))
+    EventMgr:addEventListener(self,eEvent.EVENT_LEAVE_SKILL, handler(self.onLeaveSkill,self))
 
     self.panel_revive     = TFDirector:getChildByPath(self.panel_root, "Panel_revive"):hide()
     self.button_revive    = TFDirector:getChildByPath(self.panel_root, "Button_revive")
@@ -1048,6 +1049,7 @@ function KeyBoard:doKeyMoved(keyCode,movepos)
 end
 
 function KeyBoard:doKeyReleased(keyCode)
+    self:stopTimer()
     if VKeySubSkill[keyCode] then
         local vKeyNode = self.vKeyNodes[keyCode]
         if vKeyNode.selectSubIdx and vKeyNode.selectSubIdx > 0 then
@@ -1060,7 +1062,6 @@ function KeyBoard:doKeyReleased(keyCode)
         return
     end
     KeyStateMgr.doKeyReleased(keyCode)
-    self:stopTimer()
 end
 --按键长按
 function KeyBoard:doKeyDoing(keyCode)
@@ -1076,11 +1077,10 @@ end
 function KeyBoard:startTimer(keyCode)
     self:stopTimer()
     local timerID
-    timerID = TFDirector:addTimer(200, 1, function ()
+    timerID = TFDirector:addTimer(200, -1, nil,function ()
         if self.stopTimer == nil then
             TFDirector:removeTimer(timerID)
         else
-            self:stopTimer()
             self:doKeyDoing(keyCode)
         end
     end)
@@ -1092,6 +1092,12 @@ function KeyBoard:stopTimer()
         TFDirector:removeTimer(self.timerID)
     end
     self.timerID = nil
+end
+
+function KeyBoard:onLeaveSkill(keyCode)
+    if keyCode > 0 then
+        self:doKeyReleased(keyCode)
+    end
 end
 
 ---------------------------键盘输入的相关处理-----------------------

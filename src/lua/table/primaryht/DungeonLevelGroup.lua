@@ -9351,6 +9351,41 @@ return {
         buyCountType = 0,
         titleName = "",
     },
+    [8317] = {
+        resIcon = "",
+        heroChapter = 0,
+        unlockLevel = 2,
+        order = 1,
+        activityDsc = "",
+        preDungeonId = {
+        },
+        reward = {
+        },
+        ext = {
+        },
+        price = {
+        },
+        buyCountLimit = 0,
+        openTimeType = 0,
+        cycleParam = 0,
+        cycleType = 0,
+        countLimit = 0,
+        id = 8317,
+        layout = {
+        },
+        dropShow = {
+        },
+        desc = "",
+        dungeonChapterId = 3106,
+        timeFrame = {
+        },
+        name = "",
+        pictureIcon = "",
+        dungeonType = 108,
+        pictureText = "",
+        buyCountType = 0,
+        titleName = "",
+    },
     [100002] = {
         resIcon = "",
         heroChapter = 0,
@@ -10609,6 +10644,41 @@ return {
         buyCountType = 0,
         titleName = "",
     },
+    [9601] = {
+        resIcon = "",
+        heroChapter = 0,
+        unlockLevel = 0,
+        order = 1,
+        activityDsc = "",
+        preDungeonId = {
+        },
+        reward = {
+        },
+        ext = {
+        },
+        price = {
+        },
+        buyCountLimit = 0,
+        openTimeType = 0,
+        cycleParam = 0,
+        cycleType = 0,
+        countLimit = 0,
+        id = 9601,
+        layout = {
+        },
+        dropShow = {
+        },
+        desc = "",
+        dungeonChapterId = 3102,
+        timeFrame = {
+        },
+        name = "300512",
+        pictureIcon = "icon/fuben/top_shixiang.png",
+        dungeonType = 102,
+        pictureText = "",
+        buyCountType = 0,
+        titleName = "",
+    },
     [8309] = {
         resIcon = "",
         heroChapter = 0,
@@ -10857,10 +10927,10 @@ return {
         buyCountType = 0,
         titleName = "",
     },
-    [9601] = {
+    [8316] = {
         resIcon = "",
         heroChapter = 0,
-        unlockLevel = 0,
+        unlockLevel = 2,
         order = 1,
         activityDsc = "",
         preDungeonId = {
@@ -10876,18 +10946,18 @@ return {
         cycleParam = 0,
         cycleType = 0,
         countLimit = 0,
-        id = 9601,
+        id = 8316,
         layout = {
         },
         dropShow = {
         },
         desc = "",
-        dungeonChapterId = 3102,
+        dungeonChapterId = 3105,
         timeFrame = {
         },
-        name = "300512",
-        pictureIcon = "icon/fuben/top_shixiang.png",
-        dungeonType = 102,
+        name = "",
+        pictureIcon = "",
+        dungeonType = 108,
         pictureText = "",
         buyCountType = 0,
         titleName = "",

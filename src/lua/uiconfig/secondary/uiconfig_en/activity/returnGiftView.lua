@@ -201,7 +201,7 @@ local t =
 								StrokeColor = "#FF5679C5",
 								StrokeSize = 2,
 							},
-							height = "31",
+							height = "29",
 							ignoreSize = "True",
 							name = "act_timeTxt",
 							nTextAlign = "1",
@@ -210,15 +210,15 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "活动时间：",
+							text = "Event Time：",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -340,
-								PositionY = 249,
+								PositionX = -331,
+								PositionY = 250,
 							},
-							width = "99",
+							width = "141",
 							ZOrder = "1",
 						},
 						{
@@ -247,7 +247,7 @@ local t =
 								StrokeColor = "#FF5679C5",
 								StrokeSize = 2,
 							},
-							height = "31",
+							height = "29",
 							ignoreSize = "True",
 							name = "act_time",
 							nTextAlign = "1",
@@ -261,10 +261,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -284,
-								PositionY = 249,
+								PositionX = -252,
+								PositionY = 250,
 							},
-							width = "145",
+							width = "101",
 							ZOrder = "1",
 						},
 						{
@@ -431,7 +431,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "35",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_name",
 											nTextAlign = "1",
@@ -447,7 +447,7 @@ local t =
 											{
 												PositionY = 211,
 											},
-											width = "117",
+											width = "114",
 											ZOrder = "1",
 										},
 										{
@@ -746,7 +746,7 @@ local t =
 																nGravity = 5,
 																nAlign = 4
 															},
-															width = "59",
+															width = "58",
 															ZOrder = "1",
 														},
 														{
@@ -797,7 +797,7 @@ local t =
 																nAlign = 4
 															},
 															visible = "False",
-															width = "59",
+															width = "58",
 															ZOrder = "1",
 														},
 													},
@@ -862,7 +862,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
+													height = "28",
 													ignoreSize = "True",
 													name = "Label_returnGiftView_1",
 													nTextAlign = "1",
@@ -871,14 +871,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "领取",
+													text = "Claim",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "52",
+													width = "50",
 													ZOrder = "1",
 												},
 											},
@@ -936,7 +936,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
+													height = "28",
 													ignoreSize = "True",
 													name = "lab_hadGetted",
 													nTextAlign = "1",
@@ -945,14 +945,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "已领取",
+													text = "Claimed",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "77",
+													width = "74",
 													ZOrder = "1",
 												},
 											},
@@ -1145,7 +1145,7 @@ local t =
 											{
 												
 											},
-											width = "29",
+											width = "32",
 											ZOrder = "1",
 										},
 									},

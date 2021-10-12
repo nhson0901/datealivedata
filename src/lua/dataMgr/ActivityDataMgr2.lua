@@ -19,6 +19,9 @@ ActivityDataMgr.checkRedPointFunc = {
             return ActivityDataMgr2:isBalloonTip() or TurnTabletMgr:isTurnTabletRedShow() or ActivityDataMgr2:isShowRedPointInMainView(7)
         end
     end,
+    [321] = function ()
+        return NewCityDataMgr:checkEnjoyRedTip()
+    end,
 }
 
 function ActivityDataMgr:init()
@@ -292,6 +295,10 @@ function ActivityDataMgr:getActivityInfo(id, activityShowType)
             EC_ActivityType2.CHRISTMAS_SIGN,
             EC_ActivityType2.DUANWU_2,
             EC_ActivityType2.TRAINING,
+            EC_ActivityType2.BATTLE_LV_REVIEW,
+            EC_ActivityType2.PLAYER_REGRESS_TASK,
+            EC_ActivityType2.PLAYER_REGRESS_LOGIN,
+            EC_ActivityType2.PLAYER_REGRESS_GIFT,
             --EC_ActivityType2.ONLINE_SCORE_REWARD,   --在线积分活动
             EC_ActivityType2.NEWGIFT_PACK_EN,   --新手礼包不显示在活动界面
         }
@@ -301,6 +308,10 @@ function ActivityDataMgr:getActivityInfo(id, activityShowType)
                 local index = table.indexOf(self.assistActivitys_, v.id)
                 
                 local excludeIndex = table.indexOf(excludeType, v.activityType)
+
+				if v.extendData.activityShowType == 0 then
+					v.extendData.activityShowType = nil
+				end
                 if excludeIndex == -1 and index == -1 then
                     if v.extendData.activityShowType == activityShowType then -- 必须判断活动显示类型
                         table.insert(activitys, v)
@@ -308,7 +319,6 @@ function ActivityDataMgr:getActivityInfo(id, activityShowType)
                 end
             end
         end
-
         -- 活动结束后，隐藏活动
         local excludeHideType = {
             EC_ActivityType2.ONLINE_SCORE_REWARD,
@@ -341,6 +351,10 @@ function ActivityDataMgr:getBackPlayerActivityInfo(id)
         local excludeType = {
             EC_ActivityType2.BACKPLAYER,
             EC_ActivityType2.BACKACTIVITY,
+            EC_ActivityType2.PLAYER_REGRESS_TASK,
+            EC_ActivityType2.PLAYER_REGRESS_LOGIN,
+            EC_ActivityType2.PLAYER_REGRESS_GIFT,
+
         }
         local activitys = {}
         for i, v in ipairs(self.activityInfo_) do
@@ -758,11 +772,16 @@ function ActivityDataMgr:isCanGet(activityId)
                 break
             end
         end
-
-
-        
     end
     return isShow
+end
+function ActivityDataMgr:isShowRedPointByShowType(showType)
+    for i,v in ipairs(self:getActivityInfo(nil, showType)) do
+        if self:isShowRedPoint(v.id) then
+            return true
+        end
+    end
+    return false
 end
 
 function ActivityDataMgr:isShowRedPoint(activityId)

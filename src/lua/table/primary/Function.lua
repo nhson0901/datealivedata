@@ -2605,11 +2605,47 @@ return {
         icon = "",
         levelType = 1,
     },
+    [317] = {
+        isOpen = true,
+        openLevel = 2,
+        isStinger = false,
+        id = 317,
+        openDun = 0,
+        repetition = false,
+        stingerTrigger = {
+        },
+        serverId = 3,
+        showIcon = false,
+        stingerDating = "",
+        name = "",
+        unlockExplain = {
+        },
+        icon = "",
+        levelType = 1,
+    },
     [310] = {
         isOpen = true,
         openLevel = 2,
         isStinger = false,
         id = 310,
+        openDun = 0,
+        repetition = false,
+        stingerTrigger = {
+        },
+        serverId = 3,
+        showIcon = false,
+        stingerDating = "",
+        name = "",
+        unlockExplain = {
+        },
+        icon = "",
+        levelType = 1,
+    },
+    [318] = {
+        isOpen = true,
+        openLevel = 2,
+        isStinger = false,
+        id = 318,
         openDun = 0,
         repetition = false,
         stingerTrigger = {
@@ -2767,6 +2803,24 @@ return {
         icon = "",
         levelType = 1,
     },
+    [801] = {
+        isOpen = true,
+        openLevel = 1,
+        isStinger = false,
+        id = 801,
+        openDun = 0,
+        repetition = false,
+        stingerTrigger = {
+        },
+        serverId = 2,
+        showIcon = false,
+        stingerDating = "",
+        name = "",
+        unlockExplain = {
+        },
+        icon = "",
+        levelType = 1,
+    },
     [315] = {
         isOpen = true,
         openLevel = 2,
@@ -2821,11 +2875,11 @@ return {
         icon = "",
         levelType = 1,
     },
-    [801] = {
+    [500] = {
         isOpen = true,
         openLevel = 1,
         isStinger = false,
-        id = 801,
+        id = 500,
         openDun = 0,
         repetition = false,
         stingerTrigger = {
@@ -2839,11 +2893,11 @@ return {
         icon = "",
         levelType = 1,
     },
-    [500] = {
+    [800] = {
         isOpen = true,
         openLevel = 1,
         isStinger = false,
-        id = 500,
+        id = 800,
         openDun = 0,
         repetition = false,
         stingerTrigger = {

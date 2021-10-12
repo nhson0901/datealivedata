@@ -1308,9 +1308,33 @@ function AlertManager:openMainSceneCacheLayer()
     local cacheParams = clone(MainSceneLayerParamsCache)
     MainSceneLayerParamsCache = {}
     for i,data in ipairs(cacheParams) do
-        Utils:openView(data.moduleName, unpack(data.param))
-        if data.cname == "FubenLevelView" then
-            self:showLevelUpPopView()
+
+        local openView = true
+        if data.cname == "TongActivityMainView" then
+            local isPlayGuide = false
+            if isPlayGuide then
+                local isStoryMode = true
+                local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TONG)[1]
+                local activityInfo = ActivityDataMgr2:getActivityInfo(activityId)
+                if activityInfo and activityInfo.extendData then
+                    if activityInfo.extendData.isStoryMode ~= nil then
+                        isStoryMode = activityInfo.extendData.isStoryMode
+                    end
+                end
+                if isStoryMode then
+                    local isPass,levelCid = TongDataMgr:guideLevelState(2)
+                    if not isPass then
+                        openView = false
+                    end
+                end
+            end
+        end
+
+        if openView then
+            Utils:openView(data.moduleName, unpack(data.param))
+            if data.cname == "FubenLevelView" then
+                self:showLevelUpPopView()
+            end
         end
     end
 end

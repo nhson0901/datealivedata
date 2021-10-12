@@ -68,6 +68,7 @@ function BattleResultView:initData()
         self.passTime_ = math.floor(self.passTime_)
     end
 
+    self.fubenType_ = FubenDataMgr:getFubenType(self.levelCid_)
     self.formation_ = FubenDataMgr:getFormation()
     self.isSingle_ = (#self.formation_ == 1)
 
@@ -82,7 +83,6 @@ end
 
 function BattleResultView:initUI(ui)
     self.super.initUI(self, ui)
-
     self.ui = ui
     self.Panel_root = TFDirector:getChildByPath(ui, "Panel_root")
     self.Panel_touch = TFDirector:getChildByPath(ui, "Panel_touch")
@@ -123,6 +123,23 @@ function BattleResultView:initUI(ui)
     self.Label_extend_title_en = TFDirector:getChildByPath(self.Panel_reward, "Label_extend_title_en")
     self.Label_extend_value    = TFDirector:getChildByPath(self.Panel_reward, "Label_extend_value")
     self.Panel_extend          = TFDirector:getChildByPath(self.Panel_reward, "Panel_extend")
+
+    self.Image_elite  = TFDirector:getChildByPath(self.Panel_reward, "Image_elite"):hide()
+    self.Label_elite_value1 = TFDirector:getChildByPath(self.Image_elite, "Label_elite_value1")
+    self.Label_elite_value2 = TFDirector:getChildByPath(self.Image_elite, "Label_elite_value2")
+    self.Image_elite_flag   = TFDirector:getChildByPath(self.Image_elite, "Image_elite_flag")
+
+    self.Image_elite_time = TFDirector:getChildByPath(self.Panel_reward, "Image_elite_time"):hide()
+    self.Label_elite_pass_time = TFDirector:getChildByPath(self.Image_elite_time, "Label_elite_pass_time")
+
+    self.Image_damage_bg  = TFDirector:getChildByPath(self.Panel_reward, "Image_damage_bg"):hide()
+    self.Label_damage_value = TFDirector:getChildByPath(self.Image_damage_bg, "Label_damage_value")
+
+    self.Image_monster_blood  = TFDirector:getChildByPath(self.Panel_reward, "Image_monster_blood"):hide()
+    self.Image_monster_icon = TFDirector:getChildByPath(self.Image_monster_blood, "Image_monster_icon")
+    self.Label_blood_percent = TFDirector:getChildByPath(self.Image_monster_blood, "Label_blood_percent")
+    self.LoadingBar_blood   = TFDirector:getChildByPath(self.Image_monster_blood, "LoadingBar_blood")
+
     --------------------------------
     self.ScrollView_reward = TFDirector:getChildByPath(self.Panel_reward, "ScrollView_reward")
     self.list_reward = UIListView:create(self.ScrollView_reward)
@@ -138,6 +155,10 @@ function BattleResultView:initUI(ui)
     self.Label_pass_time = TFDirector:getChildByPath(self.Image_pass_time, "Label_pass_time")
     self.Image_pass_review = TFDirector:getChildByPath(self.Panel_evaluation, "Image_pass_review"):hide()
     self.Label_review_title = TFDirector:getChildByPath(self.Image_pass_review, "Label_review_title")
+
+    self.Image_elite_formation = TFDirector:getChildByPath(self.Panel_evaluation, "Image_elite_formation"):hide()
+    self.Panel_elite_role      = TFDirector:getChildByPath(self.Panel_evaluation, "Panel_elite_role")
+
     self.Panel_target = {}
     for i = 1, 3 do
         local item = {}
@@ -589,7 +610,6 @@ end
 
 function BattleResultView:refreshView()
     
-	dump(self.levelCfg_)
     if self.battleType_ == EC_BattleType.COMMON then
         local levelGroupCid = self.levelCfg_.levelGroupId
         if FubenDataMgr:isSimulationGroup(1,levelGroupCid) then --模拟试炼第一章
@@ -616,7 +636,7 @@ function BattleResultView:refreshView()
                 self.Panel_simlationTrial.list_reward:pushBackCustomItem(item)
                 PrefabDataMgr:setInfo(item, v.id, v.num)
             end
-        elseif BattleDataMgr:isMusicGameLevel() then
+        elseif self.levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME then
             self.Image_pass_time:show()
             self.Image_pass_review:setVisible(false)
             self.Label_time_title:setTextById(13316479)
@@ -628,9 +648,10 @@ function BattleResultView:refreshView()
             if self.levelCfg_.isHideTarget then
                 self.Image_pass_review:hide()
             else
-                self.Image_pass_review:setVisible(#self.levelCfg_.starType > 0)
+                local starTypeCnt = #self.levelCfg_.starType
+                self.Image_pass_review:setVisible(starTypeCnt > 0)
                 for i, v in ipairs(self.Panel_target) do
-                    v.root:show()
+                    v.root:setVisible(i<=starTypeCnt)
                 end
                 for i, v in ipairs(self.Image_effect) do
                     v:hide()
@@ -754,6 +775,111 @@ function BattleResultView:refreshView()
                                 break
                             end
                         end
+                    elseif self.levelCfg_.dungeonType == EC_FBLevelType.TONG_DATINGFIGHT then
+                        self.Image_exp_bg:hide()
+                        local _, min, sec = Utils:getTime(self.passTime_ * 0.001, true)
+                        self.Label_pass_time:setTextById(800014, min, sec)
+                    elseif self.levelCfg_.dungeonType == EC_FBLevelType.TONG_FIGHT
+                        or self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRFIGHT
+                        or self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRINTEREST then
+                        self.Image_exp_bg:hide()
+
+                        local _, min, sec = Utils:getTime(self.passTime_ * 0.001, true)
+                        self.Label_pass_time:setTextById(800014, min, sec)
+
+                        local dungonInfoCfg = TabDataMgr:getData("DungeonInfoOfVITmax")[self.levelCid_]
+                        local eliteRefCost
+                        local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TONG)[1]
+                        local activityInfo = ActivityDataMgr2:getActivityInfo(activityId)
+                        if activityInfo and activityInfo.extendData then
+                            eliteRefCost = activityInfo.extendData.eliteRefCost
+                        end
+
+                        if eliteRefCost and dungonInfoCfg then
+                            local addCnt = 0
+                            local itemId,maxCnt
+                            for k,v in pairs(eliteRefCost or {}) do
+                                itemId,maxCnt = k,v
+                                for i, item in ipairs(self.rewardList_) do
+                                    if item.id == k then
+                                        addCnt = item.num
+                                    end
+                                end
+                            end
+
+                            if itemId and maxCnt then
+                                self.Image_elite:show()
+                                local ownCnt = GoodsDataMgr:getItemCount(itemId)
+                                ownCnt = math.max(ownCnt - addCnt,0)
+                                self.Label_elite_value1:setText(ownCnt.."/"..maxCnt)
+                                local itemCfg = GoodsDataMgr:getItemCfg(itemId)
+                                local nextCnt = math.min(addCnt + ownCnt,itemCfg.totalMax)
+                                self.Label_elite_value2:setText(nextCnt.."/"..maxCnt)
+
+                                local posX = self.Label_elite_value2:getPositionX() - self.Label_elite_value2:getContentSize().width - 20
+                                self.Image_elite_flag:setPositionX(posX)
+
+                                self.Label_elite_value1:setPositionX(posX - 20 - 26)
+                            end
+                        end
+                    elseif self.levelCfg_.dungeonType == EC_FBLevelType.TONG_MONSTER then
+                        self.Image_pass_time:hide()
+                        self.Image_exp_bg:hide()
+                        self.Image_role_bg:hide()
+                        self.Image_elite_time:show()
+                        self.Image_elite_formation:show()
+                        self.Image_damage_bg:show()
+                        self.Image_monster_blood:show()
+                        --self.Image_battleResul_bg:setTexture("ui/tong/result/bg.png")
+
+                        self.Spine_battleResult_title:setFile("effect/battle_end_finish_2/battle_end_finish_2")
+
+                        for i, v in ipairs(self.formation_) do
+                            local item = {}
+                            item.root = self.Panel_role_exp_item:clone()
+                            item.Panel_role = TFDirector:getChildByPath(item.root, "Panel_role")
+                            item.Image_playerIcon = TFDirector:getChildByPath(item.root, "Image_playerIcon")
+                            item.Image_quality = TFDirector:getChildByPath(item.root, "Image_quality")
+                            item.Label_level = TFDirector:getChildByPath(item.root, "Label_level")
+                            item.Image_pinzhi = TFDirector:getChildByPath(item.Panel_role, "Image_pinzhi")
+
+                            item.Image_roleExp = TFDirector:getChildByPath(item.root, "Image_roleExp")
+                            item.Image_roleExp:hide()
+                            item.LoadingBar_roleExp = TFDirector:getChildByPath(item.root, "LoadingBar_roleExp")
+                            item.Label_exp = TFDirector:getChildByPath(item.root, "Label_exp")
+                            item.Label_exp:hide()
+                            item.Image_playerIcon:setTexture(HeroDataMgr:getIconPathById(v.id, v.skinCid))
+                            item.Label_level:setText("Lv."..v.lvl)
+                            item.Image_pinzhi:setTexture(HeroDataMgr:getQualityPic(v.id, v.quality))
+
+                            self.Panel_elite_role:addChild(item.root)
+                            item.root:setPosition(ccp(-((i - 1) *95)-40 , 55))
+
+                        end
+
+                        local vitMaxDungonInfo = TabDataMgr:getData("DungeonInfoOfVITmax")[self.levelCid_]
+                        if vitMaxDungonInfo then
+                            self.Image_monster_icon:setTexture(vitMaxDungonInfo.eliteBossIcon)
+                        end
+
+                        local maxHp = self.statistics_.hitValue
+                        local eliteInfo = TongDataMgr:getEliteInfo()
+                        if eliteInfo then
+                            maxHp = eliteInfo.maxHp
+                            local curHp = math.max(eliteInfo.hp,0)
+                            local percent = string.format("%.2f", curHp/maxHp*100)
+                            self.LoadingBar_blood:setPercent(percent)
+                            self.Label_blood_percent:setText(percent.."%")
+
+                            dump({maxHp,eliteInfo.hp,self.statistics_.hitValue},"result")
+                        end
+
+                        local hitValue = math.min(self.statistics_.hitValue,maxHp)
+                        self.Label_damage_value:setText(hitValue)
+
+                        local _, min, sec = Utils:getTime(self.passTime_ * 0.001, true)
+                        self.Label_elite_pass_time:setTextById(800014, min, sec)
+
                     else
                         local _, min, sec = Utils:getTime(self.passTime_ * 0.001, true)
                         self.Label_pass_time:setTextById(800014, min, sec)
@@ -1286,16 +1412,29 @@ function BattleResultView:updateReward()
     else
         self.Image_reward:getChildByName("Image_mass_sign"):setVisible(false)
     end
+
+    local hideItem = false
+    if self.fubenType_ == EC_FBType.TONG_FUBEN then
+        hideItem = true
+    end
+
     self.Image_reward:setVisible(#self.rewardList_ > 0)
     local Panel_goodsItem = PrefabDataMgr:getPrefab("Panel_goodsItem"):clone()
     self.list_reward:removeAllItems()
+    local showCnt = 0
     for i, v in ipairs(self.rewardList_) do
-        local item = Panel_goodsItem:clone()
-        item:setScale(0.65)
-        self.list_reward:pushBackCustomItem(item)
-        PrefabDataMgr:setInfo(item, v.id, v.num)
+
+        local itemCfg = GoodsDataMgr:getItemCfg(v.id)
+        if itemCfg.isHide and hideItem then
+        else
+            showCnt = showCnt + 1
+            local item = Panel_goodsItem:clone()
+            item:setScale(0.65)
+            self.list_reward:pushBackCustomItem(item)
+            PrefabDataMgr:setInfo(item, v.id, v.num)
+        end
     end
-    local minX = math.min((#self.rewardList_ * 79), self.ScrollView_reward:getSize().width)
+    local minX = math.min((showCnt * 79), self.ScrollView_reward:getSize().width)
     self.ScrollView_reward:setPositionX(self.ScrollView_reward:getPositionX() - minX)
 end
 
@@ -1552,6 +1691,7 @@ end
 function BattleResultView:registerEvents()
     EventMgr:addEventListener(self, EV_RECV_PLAYERINFO, handler(self.onShowPlayerInfoView, self))
     EventMgr:addEventListener(self, EV_TEAM_FIGHT_HERO_REWARD, handler(self.onTeamFightRewardRefresh, self))
+    EventMgr:addEventListener(self, EV_TONG.EliteInfo, handler(self.updateTongMonsterInfo, self))
     self.Button_leftArrow:onClick(function()
             local curPageIndex = self.PageView_reward:getCurPageIndex()
             local index = math.max(0, curPageIndex - 1)
@@ -1601,7 +1741,7 @@ function BattleResultView:registerEvents()
 
                         -- 展示奖励
                         self:runTeamHeroAnim()
-                    elseif BattleDataMgr:isMusicGameLevel() then
+                    elseif self.levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME then
                         AlertManager:changeScene(SceneType.MainScene)
                         return
                     else
@@ -1674,6 +1814,25 @@ function BattleResultView:specialKeyBackLogic( )
     GuideDataMgr:setPlotLvlBackState(false)
     self:panelRootClickFunc()
     return true
+end
+
+function BattleResultView:updateTongMonsterInfo()
+    local maxHp = self.statistics_.hitValue
+    local eliteInfo = TongDataMgr:getEliteInfo()
+    if eliteInfo then
+        maxHp = eliteInfo.maxHp
+                            local curHp = math.max(eliteInfo.hp,0)
+                            local percent = string.format("%.2f", curHp/maxHp*100)
+                            self.LoadingBar_blood:setPercent(percent)
+                            self.Label_blood_percent:setText(percent.."%")
+
+        end
+
+                        local hitValue = math.min(self.statistics_.hitValue,maxHp)
+                        self.Label_damage_value:setText(hitValue)
+
+                        local _, min, sec = Utils:getTime(self.passTime_ * 0.001, true)
+                        self.Label_elite_pass_time:setTextById(800014, min, sec)
 end
 
 return BattleResultView

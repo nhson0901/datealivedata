@@ -749,6 +749,14 @@ function BFEffect:takeEffect(addTimes)
             for i, skill in ipairs(skills) do
                 skill:setCDControl(solecd,fixed,renovate)
             end
+
+        elseif effectType == eBFEffectType.ET_ADD_SKILL_CD then -- 设置技能CD上限
+            local skillType = self.data.skillType
+            local solecd      = self.data.solecd
+            local skills    = target:getSkillsByType(skillType)
+            for i, skill in ipairs(skills) do
+                skill:setAddCDControl(solecd)
+            end
         elseif effectType == eBFEffectType.ET_SHARE_HURT then --伤害分担处理
             -- local state = self.data.effectState
             -- local team  = battleController.getTeam()

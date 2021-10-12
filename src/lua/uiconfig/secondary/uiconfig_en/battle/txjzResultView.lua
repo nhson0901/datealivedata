@@ -334,7 +334,7 @@ local t =
 								PositionX = 549,
 								PositionY = -293,
 							},
-							width = "183",
+							width = "316",
 							ZOrder = "1",
 						},
 						{
@@ -408,7 +408,7 @@ local t =
 										PositionX = -9,
 										PositionY = 6,
 									},
-									width = "91",
+									width = "59",
 									ZOrder = "1",
 								},
 								{
@@ -454,6 +454,7 @@ local t =
 										PositionX = -7,
 										PositionY = -12,
 									},
+									visible = "False",
 									width = "76",
 									ZOrder = "1",
 								},
@@ -560,7 +561,7 @@ local t =
 										PositionX = -9,
 										PositionY = 6,
 									},
-									width = "91",
+									width = "157",
 									ZOrder = "1",
 								},
 								{
@@ -606,7 +607,8 @@ local t =
 										PositionX = -7,
 										PositionY = -12,
 									},
-									width = "53",
+									visible = "False",
+									width = "51",
 									ZOrder = "1",
 								},
 								{
@@ -635,7 +637,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_hurt",
 									nTextAlign = "1",
@@ -651,7 +653,7 @@ local t =
 									{
 										PositionY = -46,
 									},
-									width = "56",
+									width = "36",
 									ZOrder = "1",
 								},
 							},
@@ -727,7 +729,7 @@ local t =
 										PositionX = -9,
 										PositionY = 6,
 									},
-									width = "90",
+									width = "80",
 									ZOrder = "1",
 								},
 								{
@@ -773,7 +775,8 @@ local t =
 										PositionX = -7,
 										PositionY = -12,
 									},
-									width = "62",
+									visible = "False",
+									width = "65",
 									ZOrder = "1",
 								},
 								{

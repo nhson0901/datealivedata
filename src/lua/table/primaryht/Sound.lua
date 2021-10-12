@@ -79,7 +79,7 @@ return {
     [2132013] = {
         sortForMainBgm = 0,
         soundName = 1706307,
-        bgm = "sound/role/sonorio/SonoRio_023.mp3",
+        bgm = "sound/role/sonorio/SonoRio_021.mp3",
         id = 2132013,
         unlockDescribe1 = 1706323,
         name = 0,

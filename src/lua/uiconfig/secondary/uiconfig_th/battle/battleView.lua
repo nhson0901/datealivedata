@@ -1754,7 +1754,7 @@ local t =
 											controlID = "Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
 											UUID = "556873fd_f950_4f6c_b12a_5b02847e3478",
 											anchorPoint = "False",
-											anchorPointX = "0",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											backGroundScale9Enable = "False",
 											bgColorOpacity = "50",
@@ -1777,16 +1777,15 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 62,
-												PositionY = -79,
+												PositionX = 250,
+												PositionY = -87,
 											},
 											uipanelviewmodel = 
 											{
 												Layout="Absolute",
 												nType = "0"
 											},
-											visible = "False",
-											width = "175",
+											width = "193",
 											ZOrder = "1",
 											components = 
 											{
@@ -1811,6 +1810,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
+														PositionX = -175,
 														relativeToName = "Panel",
 													},
 													width = "178",
@@ -1818,6 +1818,32 @@ local t =
 													components = 
 													{
 														
+														{
+															controlID = "Image_super_bar_bg_Image_super_energy_bg_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
+															UUID = "5046ec6f_ec63_42b9_992d_130a533914fb",
+															anchorPoint = "False",
+															anchorPointX = "0.5",
+															anchorPointY = "0.5",
+															backGroundScale9Enable = "False",
+															classname = "MEImage",
+															dstBlendFunc = "771",
+															height = "2",
+															ignoreSize = "True",
+															name = "Image_super_bar_bg",
+															sizepercentx = "0",
+															sizepercenty = "0",
+															sizeType = "0",
+															srcBlendFunc = "1",
+															texturePath = "ui/battle/battle_energy_bar03_1.png",
+															touchAble = "False",
+															UILayoutViewModel = 
+															{
+																PositionX = 110,
+															},
+															visible = "False",
+															width = "2",
+															ZOrder = "1",
+														},
 														{
 															controlID = "LoadingBar_super_energy_Image_super_energy_bg_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
 															UUID = "ce06fe33_eec9_4999_835c_e2a10966608b",
@@ -1872,8 +1898,9 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 170,
+														PositionX = -5,
 													},
+													visible = "False",
 													ZOrder = "1",
 												},
 												{
@@ -1901,15 +1928,46 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 110,
+														PositionX = -65,
 													},
+													visible = "False",
+													ZOrder = "1",
+												},
+												{
+													controlID = "Spine_super_energy_huo_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
+													UUID = "ff07be80_2c05_43d8_be97_086e54789104",
+													classname = "MESpine",
+													dstBlendFunc = "771",
+													name = "Spine_super_energy_huo",
+													sizepercentx = "0",
+													sizepercenty = "0",
+													sizeType = "0",
+													spineModel = 
+													{
+														SpinePath = "effect/energyUI_bar_03/energyUI_bar_03",
+														animationName = "animation",
+														IsLoop = true,
+														IsPlay = true,
+														IsUseQueue = false,
+														AnimationQueue = 
+														{
+															
+														},
+													},
+													srcBlendFunc = "1",
+													touchAble = "False",
+													UILayoutViewModel = 
+													{
+														PositionX = -65,
+													},
+													visible = "False",
 													ZOrder = "1",
 												},
 												{
 													controlID = "Label_super_sp_Panel_super_energy_Panel_captain_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
 													UUID = "9825bcce_e4b1_47d7_884c_7c745479bff8",
 													anchorPoint = "False",
-													anchorPointX = "0",
+													anchorPointX = "1",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -1940,15 +1998,15 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "势能",
+													text = "Morale",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 8,
+														PositionX = -131,
 														PositionY = -1,
 													},
-													width = "32",
+													width = "56",
 													ZOrder = "1",
 												},
 											},
@@ -18046,6 +18104,7 @@ local t =
 			"ui/battle/004.png",
 			"ui/onlineteam/012.png",
 			"ui/battle/battle_energy_bar02.png",
+			"ui/battle/battle_energy_bar03_1.png",
 			"ui/battle/battle_energy_bar02-1.png",
 			"ui/battle/015.png",
 			"ui/battle/017.png",

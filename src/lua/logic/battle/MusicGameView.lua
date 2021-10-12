@@ -137,11 +137,15 @@ end
 function MusicGameView:showGameResult()
     self.panel_root:runAction(CCSequence:create({DelayTime:create(1.0),CallFunc:create(function()
         self.battleController.endBattle(true)
-        local data = FubenDataMgr:getMusicGameLevelData()
-        print("=======111111========",data)
-        DuanwuHangUpDataMgr:sendHANGUP_ACT_REQ_DEAL_EVENT(data.id,data.eventid, false,self.myPoints)
-        BattleDataMgr:setBattleResutlData({dropReward = {},percent = self.myPoints / math.max(self.totalPoints, 1) * 100})
-        Utils:openView("battle.BattleResultView")
+
+        if self.levelCfg_.dungeonType == EC_FBLevelType.MUSIC_GAME then
+            local data = FubenDataMgr:getMusicGameLevelData()
+            print("=======111111========",data)
+
+            DuanwuHangUpDataMgr:sendHANGUP_ACT_REQ_DEAL_EVENT(data.id,data.eventid, false,self.myPoints)
+            BattleDataMgr:setBattleResutlData({dropReward = {},percent = self.myPoints / math.max(self.totalPoints, 1) * 100})
+            Utils:openView("battle.BattleResultView")
+        end
     end)}))
 end
 

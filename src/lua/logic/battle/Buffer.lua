@@ -263,6 +263,10 @@ function Buffer:checkTargetState(target)
                 return false
             end
         end
+
+        if self.data.targetExtraCond then
+            return self:checkExtraTriggerCondition(self.data.targetExtraCond, target)
+        end
         return true
     end
     return true
@@ -762,10 +766,45 @@ function Buffer:checkTriggerCondition(target)
                     " triggerCondition"..string.format(triggerCondition))
             end
         end
+
+
+    end
+
+    if self.data.extraTriggerCondition then
+        return self:checkExtraTriggerCondition(self.data.extraTriggerCondition, target)
     end
     return true
 end
 
+
+function Buffer:checkExtraTriggerCondition(cond, target )
+    -- body
+    for k,v in pairs(cond) do
+        if k == "inspZone" then
+            local inZone = false
+            for _k,_v in ipairs(v) do
+                if target:checkHeroInZone(_v) then
+                    inZone = true
+                    break
+                end
+            end
+            if not inZone then
+                return false
+            end
+        elseif k == "outspZone" then
+            for _k,_v in ipairs(v) do
+                if target:checkHeroInZone(_v) then
+                    return false
+                end
+            end 
+        elseif k == "curSkill" then
+            if not target.curSkill or target.curSkill.skillCfg.id ~= v then
+                return false
+            end
+        end
+    end
+    return true
+end
 --检查目标状态
 -- function Buffer:checkTargetState(target)
 --     return target:isAState(self.data.stateId)

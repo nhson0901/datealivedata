@@ -451,8 +451,10 @@ function BattleView:initUI(ui)
 
     self.Panel_super_energy = self.plyerNode:getChildByName("Panel_super_energy"):hide()
     self.LoadingBar_super_energy = self.plyerNode:getChildByName("LoadingBar_super_energy")
+    self.Image_super_bar_bg = self.plyerNode:getChildByName("Image_super_bar_bg"):hide()
     self.Spine_super_energy_guang = self.plyerNode:getChildByName("Spine_super_energy_guang")
     self.Spine_super_energy_dian = self.plyerNode:getChildByName("Spine_super_energy_dian")
+    self.Spine_super_energy_huo = self.plyerNode:getChildByName("Spine_super_energy_huo")
     self.Label_super_sp = self.plyerNode:getChildByName("Label_super_sp")
 
     --队员列表
@@ -1096,12 +1098,19 @@ function BattleView:refreshCommonVictoryState()
         self.label_victory_time:setText(string.format("%s:%s", min, sec))
         self.textVictorycontent:setText(string.format("%s:%s", min, sec))
         self.Label_hwx_time:setText(string.format("%s:%s", min, sec))
+
+        if self.levelType_ == EC_FBLevelType.TONG_DATINGFIGHT then
+            self.textVictoryTitle:setTextById(13205106)
+        end
+
     elseif viewType ==  EC_LevelPassCond.SURVIVAL_HURT then
         local _, hour, min, sec = Utils:getDHMS(victoryDecide.nSecondTime, true)
         self.label_victory_time:setText(string.format("%s:%s", min, sec))
         self.Label_hwx_time:setText(string.format("%s:%s", min, sec))
         if self.levelType_ == EC_FBLevelType.KUANGSAN_FIGHTING then
             self.textVictoryTitle:setTextById(12033024)
+        elseif self.levelType_ == EC_FBLevelType.TONG_DATINGFIGHT then
+            self.textVictoryTitle:setTextById(13205107)
         end
         -- self.textVictoryTitle:setText("本次伤害:")
         self.textVictorycontent:setText(tostring(self.statistics_.hitValue))
@@ -1153,7 +1162,12 @@ function BattleView:refreshCommonVictoryState()
         local num    = victoryDecide.getKillNum()
         local maxNum = cfg.victoryParam[1]
         self.textVictorycontent:setText(string.format("%s/%s",num,maxNum))
+    elseif viewType == EC_LevelPassCond.NO_DEFEAT then
+        local _, hour, min, sec = Utils:getDHMS(victoryDecide.nSecondTime, true)
+        self.label_victory_time:setText(string.format("%s:%s", min, sec))
+        self.Label_hwx_time:setText(string.format("%s:%s", min, sec))
         -- node.imagekill:setVisible(num >= maxNum )
+        --Box("X")
     elseif viewType == EC_LevelPassCond.GUARDMODE then
         -- local _, hour, min, sec = Utils:getDHMS(victoryDecide.nSecondTime, true)
         -- self.label_victory_time:setText(string.format("%s:%s", min, sec))
@@ -2504,6 +2518,7 @@ function BattleView:onHeroAttrChange(hero)
             if powerData.specialEnergyUI == 2 then 
                 self.Panel_super_energy:show()
                 self.Spine_super_energy_dian:hide()
+                self.Image_super_bar_bg:hide()
                 if self.Label_super_sp._energyName ~= powerData.specialEnergyName then
                     self.Label_super_sp:setText(TextDataMgr:getText(powerData.specialEnergyName))
                     self.Label_super_sp._energyName = powerData.specialEnergyName
@@ -2528,6 +2543,20 @@ function BattleView:onHeroAttrChange(hero)
                 local rate = hero:getSuperEnergy() / 100
                 self.LoadingBar_super_energy:setPercent(rate * 100)
                 self.Spine_super_energy_guang:setPositionX(47 + 123 * rate)
+            elseif powerData.specialEnergyUI == 3 then 
+                self.Panel_super_energy:show()
+                self.Spine_super_energy_guang:hide()
+                self.Spine_super_energy_dian:hide()
+                self.Image_super_bar_bg:show()
+                if self.Label_super_sp._energyName ~= powerData.specialEnergyName then
+                    self.Label_super_sp:setText(TextDataMgr:getText(powerData.specialEnergyName))
+                    self.Label_super_sp._energyName = powerData.specialEnergyName
+                end
+                self.LoadingBar_super_energy:setTexture("ui/battle/battle_energy_bar03_2.png")
+                
+                local percent = hero:getSuperEnergy() / 100 * 100
+                self.LoadingBar_super_energy:setPercent(percent)
+                self.Spine_super_energy_huo:setVisible(percent >= 100)
             else
                 self.Panel_super_energy:hide()
             end
@@ -3339,13 +3368,21 @@ function BattleView:onStaceClear(callback)
         local size = self.Panel_ui_effect_top:getSize()
         local bWin = battleController.isWin()
         local skeletonNode
-        if bWin then
-            skeletonNode = ResLoader.createEffect("battle_end_win",1)
+
+        if self.levelCfg_.dungeonType == EC_FBLevelType.TONG_MONSTER then
+            skeletonNode = ResLoader.createEffect("battle_end_finish_2",1)
             Utils:playSound(403)
+            skeletonNode:play("battle_end_win1", 0)
         else
-            skeletonNode = ResLoader.createEffect("battle_end_defeated",1)
+            if bWin then
+                skeletonNode = ResLoader.createEffect("battle_end_win",1)
+                Utils:playSound(403)
+            else
+                skeletonNode = ResLoader.createEffect("battle_end_defeated",1)
+            end
+            skeletonNode:play("animation", 0)
         end
-        skeletonNode:play("animation", 0)
+
         skeletonNode:setPosition(me.p(size.width/2, size.height/2))
         skeletonNode:removeMEListener(TFARMATURE_COMPLETE)    
         skeletonNode:addMEListener(TFARMATURE_COMPLETE,function(_skeletonNode) 
@@ -3375,6 +3412,10 @@ function BattleView:normalFightResult()
     if self.endMsgFlag_ and self.endAniFlag_ then
         self.endMsgFlag_ = false
         self.endAniFlag_ = false
+        if self.levelType_ == EC_FBLevelType.TONG_MONSTER then
+            Utils:openView("battle.BattleResultView")
+            return
+        end
 
         local levelId = BattleDataMgr:getPointId()
         if self.isWin_ then

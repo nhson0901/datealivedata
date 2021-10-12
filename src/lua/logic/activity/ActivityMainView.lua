@@ -190,6 +190,10 @@ end
 
 function ActivityMainView:onShow()
     self.super.onShow(self)
+    if not self.activityShowType then
+        return
+    end
+    DatingDataMgr:triggerDating("ActivityMainView"..self.activityShowType, "onShow")
     for k,v in pairs(self.activityInfo_) do
         if v.activityType == EC_ActivityType2.WELFARE_JUMP then
             self:updateActivtyItemRedPoint(k)
@@ -339,6 +343,9 @@ function ActivityMainView:selectActivity(index, force)
     local model = self.activityModel_[activityInfo.id]
     if not model then
         model = self:addModelItem(activityInfo.id, type_)
+        if not model then
+            return
+        end
 		print("activityInfo.id===============" .. activityInfo.id)
 		print("type_===============" .. type_)
         self.activityModel_[activityInfo.id] = model

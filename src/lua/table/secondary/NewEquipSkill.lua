@@ -296,4 +296,13 @@ return {
         icon = "",
         des = "231034",
     },
+    [35] = {
+        name = "",
+        attribute = {
+        },
+        id = 35,
+        suitSkill = 310046,
+        icon = "",
+        des = "231035",
+    },
 }

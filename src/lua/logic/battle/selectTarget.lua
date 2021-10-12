@@ -9,6 +9,9 @@ local selectTarget = {}
 --target 2 自己 1 对方
 local function getMenbers(hero,data)
 	local team = battleController.getTeam()
+	if data.target == 3 and data.targetId then
+		return team:getMenbersByCid(data.targetId)
+	end
 	return team:getMenbers_(hero:getCamp(),data.target)
 end
 
@@ -153,13 +156,14 @@ function selectTarget.getFun(selectType)
 end
 
 --组织通用寻敌数据
-function selectTarget.createData(target,area,targetNum)
+function selectTarget.createData(target,area,targetNum,targetId)
 	-- print("get select fun",selectType)
-	return { target = target, area = area , targetNum = targetNum}
+	return { target = target, area = area , targetNum = targetNum, targetId = targetId}
 end
-function selectTarget.selectTarget(hero,target,area,targetNum,selectType)
+
+function selectTarget.selectTarget(hero,target,area,targetNum,selectType,targetId)
 	local func = selectTarget.getFun(selectType)
-	local data = selectTarget.createData(target,area,targetNum)
+	local data = selectTarget.createData(target,area,targetNum,targetId)
 	return func(hero,data)
 end
 

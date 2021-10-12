@@ -240,6 +240,16 @@ local t = {
 			logic="",
 		},
 		{
+			name="duanwuGameView",
+			ui ="duanwuGameView.lua",
+			x=0,
+			y=0,
+			speed=0,
+			layer="battle",
+			canLoad=true,
+			logic="",
+		},
+		{
 			name="musicgame",
 			ui ="musicgame.lua",
 			x=0,
