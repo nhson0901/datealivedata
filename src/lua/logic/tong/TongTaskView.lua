@@ -48,12 +48,12 @@ end
 function TongTaskView:refreshView()
 
     if self.activityInfo_ then
-        local startDate = Utils:getLocalDate(self.activityInfo_.startTime)
+        local startDate = Utils:getUTCDate(self.activityInfo_.startTime)
         local startDateStr = startDate:fmt("%Y.%m.%d")
-        local endDate = Utils:getLocalDate(self.activityInfo_.endTime)
+        local endDate = Utils:getUTCDate(self.activityInfo_.endTime)
         local endDateStr = endDate:fmt("%Y.%m.%d")
         self.Label_time_begin:setText(startDateStr)
-        self.Label_time_end:setText(endDateStr)
+        self.Label_time_end:setText(endDateStr..GV_UTC_TIME_STRING)
     end
 
     self:updateActivity()

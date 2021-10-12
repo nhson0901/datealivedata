@@ -44,6 +44,13 @@ function FubenSquadView:initAssistanData()
     self.assistantNum_ = 10
     self.assistantData_ = {}
     self.isRequestAssistant_ = false
+
+    --TODO gloabo Add
+    if self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRFIGHT and self.isLimitHero_ then
+        self.isUnlockAssistant_ = true
+        return
+    end
+
     local hero = FubenDataMgr:getAssistHero()
     if hero then
         self:updateAssistantData()
@@ -1462,6 +1469,8 @@ function FubenSquadView:refreshView()
 
         self.Image_tong_desc:setVisible(self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRINTEREST)
         self.Panel_tongMonster:setVisible(self.levelCfg_.dungeonType == EC_FBLevelType.TONG_MONSTER)
+
+        self.Panel_assistant:setVisible(not self.isLimitHero_)
     end
 
 
@@ -2519,19 +2528,24 @@ function FubenSquadView:updateFormation()
                 end
         end)
         v.Button_head:onClick(function()
-                local heroTab = HeroDataMgr:getHero()
-                if i < #heroTab then
-                    Utils:showTips(300011)
+            -- TODO CLOSE add  global 雪人作战
+            if self.levelCfg_.dungeonType == EC_FBLevelType.TONG_AIRFIGHT and self.isLimitHero_ and formationData.type == EC_BattleHeroType.LIMIT then
+                return
+            end
+
+            local heroTab = HeroDataMgr:getHero()
+            if i < #heroTab then
+                Utils:showTips(300011)
+            else
+                if self.isLimitHero_ or self.isDisableHero_ or self.isLimitSimulationTrialHero_ then
+                    HeroDataMgr:changeFormation(i, false,false,false,false,self.isLimitSimulationTrialHero_,self.isContainSimulationTrial)
                 else
-                    if self.isLimitHero_ or self.isDisableHero_ or self.isLimitSimulationTrialHero_ then
-                        HeroDataMgr:changeFormation(i, false,false,false,false,self.isLimitSimulationTrialHero_,self.isContainSimulationTrial)
-                    else
-                        local isEndless = (self.fubenType_ == EC_FBType.ACTIVITY and self.chapterCid_ == EC_ActivityFubenType.ENDLESS)
-                        local isSkyLadder = (self.fubenType_ == EC_FBType.SKYLADDER and self.chapterCid_ == EC_ActivityFubenType.SKYLADDER)
-                        local isHwx =  self.levelCfg_.dungeonType == EC_FBLevelType.HWX_TOWER
-                        HeroDataMgr:changeFormation(i, true, isEndless,isSkyLadder,isHwx,self.isLimitSimulationTrialHero_,self.isContainSimulationTrial)
-                    end
+                    local isEndless = (self.fubenType_ == EC_FBType.ACTIVITY and self.chapterCid_ == EC_ActivityFubenType.ENDLESS)
+                    local isSkyLadder = (self.fubenType_ == EC_FBType.SKYLADDER and self.chapterCid_ == EC_ActivityFubenType.SKYLADDER)
+                    local isHwx =  self.levelCfg_.dungeonType == EC_FBLevelType.HWX_TOWER
+                    HeroDataMgr:changeFormation(i, true, isEndless,isSkyLadder,isHwx,self.isLimitSimulationTrialHero_,self.isContainSimulationTrial)
                 end
+            end
         end)
         v.Button_add:onClick(function()
                 local heroTab = HeroDataMgr:getHero()

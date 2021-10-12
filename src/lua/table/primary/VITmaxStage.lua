@@ -9,7 +9,7 @@ return {
     [2] = {
         isVITmaxQuickBattle = false,
         id = 2,
-        condByProgress = 900000,
+        condByProgress = 500000,
         eliteThreatLmt = 37,
         eliteLevelLmt = 5,
     },
