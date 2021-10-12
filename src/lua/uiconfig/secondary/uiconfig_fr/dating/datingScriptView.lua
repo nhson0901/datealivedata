@@ -679,7 +679,7 @@ local t =
 											DesignType = "0",
 											DesignWidth = "960",
 											dstBlendFunc = "771",
-											height = "116",
+											height = "117",
 											ignoreSize = "False",
 											name = "Panel_clip",
 											sizepercentx = "0",
@@ -690,7 +690,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -1261,
-												PositionY = -59,
+												PositionY = -60,
 											},
 											uipanelviewmodel = 
 											{
@@ -721,18 +721,20 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "32",
 													fontStroke = 
 													{
 														IsStroke = true,
 														StrokeColor = "#FF49557F",
 														StrokeSize = 1,
 													},
-													height = "90",
+													height = "148",
 													ignoreSize = "False",
 													name = "TextArea_talking",
-													nTextAlign = "0",
+													nTextAlign = "1",
 													nTextHAlign = "0",
+													scaleX = "0.8",
+													scaleY = "0.8",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -742,10 +744,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 54,
-														PositionY = 12,
+														PositionX = 93,
+														PositionY = -3,
 													},
-													width = "1040",
+													width = "1233",
 													ZOrder = "1",
 												},
 											},

@@ -105,6 +105,44 @@ function PrefabDataMgr:addItemId(item, cid)
     idText:setText(cid)
 end
 
+function PrefabDataMgr:updateStarListViewPos( item, starNum )
+    local starScrollView = TFDirector:getChildByPath(item, "ScrollView_star")
+    starScrollView:setClippingEnabled(false)
+    local Image_starItem = TFDirector:getChildByPath(item, "Image_starItem"):hide()
+
+    local MAXNUM = 5
+    local DISTANCE = 1
+    item.starNodeList = item.starNodeList or {}
+    if #item.starNodeList < MAXNUM then
+        local addedItemNum = #item.starNodeList
+        for i=1,(MAXNUM - addedItemNum) do
+            local starItem = Image_starItem:clone()
+            starItem:ZO(MAXNUM - i + 1)
+            starScrollView:addChild(starItem)
+            table.insert(item.starNodeList, starItem)
+        end
+    end
+    for _,_node in ipairs(item.starNodeList) do
+        _node:hide()
+    end
+    local totalStarWidth = Image_starItem:getContentSize().width*starNum - (MAXNUM - 1)*DISTANCE
+    starScrollView:setContentSize(CCSizeMake(totalStarWidth, starScrollView:getContentSize().height))
+    starScrollView:setInnerContainerSize(CCSizeMake(totalStarWidth, starScrollView:getContentSize().height))
+    starScrollView:setSize(CCSizeMake(totalStarWidth, starScrollView:getContentSize().height))
+    
+    local visibleNodeList = {}
+    for i=1,starNum do
+        local node = item.starNodeList[i]
+        if node then
+            local x = Image_starItem:getContentSize().width*i - Image_starItem:getContentSize().width*0.5 - (i-1)*DISTANCE
+            node:setPosition(x,starScrollView:getContentSize().height*0.5)
+            node:show()
+            table.insert(visibleNodeList, node)
+        end
+    end
+    return visibleNodeList
+end
+
 function PrefabDataMgr:set_Panel_goodsItem(item, idOrCid, count, level, isNotAccess)
     local cid, id
     if type(idOrCid) == "string" then
@@ -144,19 +182,9 @@ function PrefabDataMgr:set_Panel_goodsItem(item, idOrCid, count, level, isNotAcc
     if Spine_qualityEffect_up then
         Spine_qualityEffect_up:hide()
     end
-    local ScrollView_star = TFDirector:getChildByPath(item, "ScrollView_star")
+    --local ScrollView_star = TFDirector:getChildByPath(item, "ScrollView_star")
     local Panel_level_star = TFDirector:getChildByPath(item, "Panel_level_star"):hide()
     Label_level_title:setString("Lv.")
-    local ListView_star = item.ListView_star
-    if not ListView_star then
-        ListView_star = UIListView:create(ScrollView_star)
-        ListView_star:setInertiaScrollEnabled(false)
-        ListView_star:setItemsMargin(-3)
-        item.ListView_star = ListView_star
-        item.ScrollView_star = ScrollView_star
-    end
-    ListView_star:removeAllItems()
-    item.ScrollView_star:setPositionX(0)
 
     if itemCfg.superType == EC_ResourceType.HERO then
         Image_heroQuality:show()
@@ -173,13 +201,12 @@ function PrefabDataMgr:set_Panel_goodsItem(item, idOrCid, count, level, isNotAcc
             if equipInfo then
                 starNum = equipInfo.stage
             end
+
+            local visibleNodeList = self:updateStarListViewPos(item, maxStar)
             for i = 1, maxStar do
-                local starItem = Image_starItem:clone():show()
-                starItem:ZO(starNum - i + 1)
                 if i > starNum then
-                    starItem:setTexture("ui/common/starBack.png")
+                    visibleNodeList[i]:setTexture("ui/common/starBack.png")
                 end
-                ListView_star:pushBackCustomItem(starItem)
             end
         elseif itemCfg.superType == EC_ResourceType.EXPLORE_TREASURE then
             local maxStar = #itemCfg.levelCost + 1
@@ -190,31 +217,22 @@ function PrefabDataMgr:set_Panel_goodsItem(item, idOrCid, count, level, isNotAcc
                 starNum = itemData.star
             end
 
+            local visibleNodeList = self:updateStarListViewPos(item, maxStar)
             for i = 1, maxStar do
-                local starItem = Image_starItem:clone():show()
-                starItem:ZO(starNum - i + 1)
                 if i > starNum then
-                    starItem:setTexture("ui/common/starBack.png")
+                    visibleNodeList[i]:setTexture("ui/common/starBack.png")
                 end
-                ListView_star:pushBackCustomItem(starItem)
             end
         else
-            for i = 1, starNum do
-                local starItem = Image_starItem:clone():show()
-                starItem:ZO(starNum - i + 1)
-                ListView_star:pushBackCustomItem(starItem)
-            end
+            self:updateStarListViewPos(item, starNum)
             if itemCfg.superType == EC_ResourceType.SPIRIT and id then
                 local starLevel = EquipmentDataMgr:getEquipStarLevel(id)
                 if starLevel > 0 then
                     if starLevel < 2 then
-                        item.ScrollView_star:setPositionX(-7)
                         Panel_level_star:setPositionX(31)
                     else
-                        item.ScrollView_star:setPositionX(-12)
                         Panel_level_star:setPositionX(23)
                     end
-                    
                     Panel_level_star:show()
                     local Image_stage1 = TFDirector:getChildByPath(Panel_level_star,"Image_stage1")
                     local Image_stage2 = TFDirector:getChildByPath(Panel_level_star,"Image_stage2")
@@ -225,8 +243,6 @@ function PrefabDataMgr:set_Panel_goodsItem(item, idOrCid, count, level, isNotAcc
                 end
             end
         end
-        
-        Utils:setAliginCenterByListView(ListView_star, true)
 
         if itemCfg.superType == EC_ResourceType.KABALA and
                 (itemCfg.subType == Enum_KabalaItemType.ItemType_BuffItem or itemCfg.subType == Enum_KabalaItemType.ItemType_Buff)then

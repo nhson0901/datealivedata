@@ -679,7 +679,7 @@ local t =
 											DesignType = "0",
 											DesignWidth = "960",
 											dstBlendFunc = "771",
-											height = "100",
+											height = "117",
 											ignoreSize = "False",
 											name = "Panel_clip",
 											sizepercentx = "0",
@@ -690,7 +690,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -1261,
-												PositionY = -36,
+												PositionY = -60,
 											},
 											uipanelviewmodel = 
 											{
@@ -721,18 +721,20 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "32",
 													fontStroke = 
 													{
 														IsStroke = true,
 														StrokeColor = "#FF49557F",
 														StrokeSize = 1,
 													},
-													height = "80",
+													height = "148",
 													ignoreSize = "False",
 													name = "TextArea_talking",
-													nTextAlign = "0",
+													nTextAlign = "1",
 													nTextHAlign = "0",
+													scaleX = "0.8",
+													scaleY = "0.8",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -745,7 +747,7 @@ local t =
 														PositionX = 93,
 														PositionY = -3,
 													},
-													width = "1040",
+													width = "1233",
 													ZOrder = "1",
 												},
 											},
@@ -820,7 +822,7 @@ local t =
 													{
 														PositionX = 20,
 													},
-													width = "162",
+													width = "179",
 													ZOrder = "1",
 												},
 											},
@@ -3741,7 +3743,7 @@ local t =
 														PositionX = 183,
 														PositionY = 24,
 													},
-													width = "72",
+													width = "82",
 													ZOrder = "1",
 												},
 												{
@@ -3843,7 +3845,7 @@ local t =
 														PositionX = 42,
 														PositionY = 24,
 													},
-													width = "98",
+													width = "107",
 													ZOrder = "1",
 												},
 												{

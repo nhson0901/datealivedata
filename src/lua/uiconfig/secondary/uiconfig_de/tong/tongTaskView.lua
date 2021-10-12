@@ -746,8 +746,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_receive",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -762,7 +762,7 @@ local t =
 											{
 												
 											},
-											width = "90",
+											width = "141",
 											ZOrder = "1",
 										},
 									},
