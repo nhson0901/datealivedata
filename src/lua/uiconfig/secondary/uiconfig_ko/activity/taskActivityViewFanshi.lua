@@ -659,7 +659,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -296,
-										PositionY = -39,
+										PositionY = -29,
 									},
 									width = "103",
 									ZOrder = "1",
@@ -705,7 +705,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -51,
-										PositionY = -39,
+										PositionY = -47,
 									},
 									width = "74",
 									ZOrder = "1",

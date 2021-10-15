@@ -51,8 +51,7 @@ function LoginLayer:initUI(ui)
 	    	},
 	    }
 	TFDirector:toTween(tween)
-
-	if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectKoreaTwServer() then
+	if (TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectKoreaTwServer())and not FunctionDataMgr:isMoJingLoginUI() then
 		local logonImag = TFImage:create("ui/login/logo.png")
 		TFDirector:getChildByPath(ui , "logo"):addChild(logonImag)
 		logonImag:setPosition(380 , 120)
@@ -267,6 +266,9 @@ function LoginLayer:initUI(ui)
     	elseif TFGlobalUtils:isConnectKoreaTwServer() then	
     		self.serverListBgImg:setTexture("ui/login/new1/b7.png")
     	end
+    	if FunctionDataMgr:isMoJingLoginUI() then
+	        self.serverListBgImg:setTexture("ui/login/oneYear/2.png")
+	    end
     end
 
     self.gameServerList = TFDirector:getChildByPath(ui, "game_serverList")

@@ -960,7 +960,7 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "Aktuelle Belohnung",
+															text = "Current Reward",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
@@ -968,7 +968,7 @@ local t =
 																PositionX = 113,
 																PositionY = 103,
 															},
-															width = "184",
+															width = "152",
 															ZOrder = "1",
 														},
 														{
@@ -1108,7 +1108,7 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "Nächste Phase",
+															text = "Next Phase",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
@@ -1116,7 +1116,7 @@ local t =
 																PositionX = 3,
 																PositionY = 106,
 															},
-															width = "137",
+															width = "106",
 															ZOrder = "1",
 														},
 														{
@@ -1943,7 +1943,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Verbleibende Zeit",
+											text = "Remaining Time",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1951,7 +1951,7 @@ local t =
 												PositionX = -162,
 												PositionY = -35,
 											},
-											width = "185",
+											width = "174",
 											ZOrder = "1",
 										},
 										{
@@ -2179,7 +2179,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -159,
-												PositionY = -35,
+												PositionY = -34,
 											},
 											width = "155",
 											ZOrder = "1",

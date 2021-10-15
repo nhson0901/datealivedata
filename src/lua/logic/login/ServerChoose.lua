@@ -30,6 +30,10 @@ function ServerChoose:initUI(ui)
         self.Button_serverListItem:setTextureNormal("ui/login/7.png")
         self.Button_serverListItem:setTexturePressed("ui/login/7.png")
     end
+    if FunctionDataMgr:isMoJingLoginUI() then
+        self.Button_serverListItem:setTextureNormal("ui/login/oneYear/2.png")
+        self.Button_serverListItem:setTexturePressed("ui/login/oneYear/2.png")
+    end
 
     self:refreshView()
 end

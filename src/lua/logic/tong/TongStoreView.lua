@@ -40,9 +40,9 @@ function TongStoreView:initUILogic()
         return
     end
 
-    local st_year, st_month, st_day = Utils:getDate(self.activityInfo.startTime)
-    local en_year, en_month, en_day = Utils:getDate(self.activityInfo.showEndTime)
-    self.Label_time:setTextById(63887, st_month, st_day, en_month, en_day)
+    local st_year, st_month, st_day = Utils:getUTCDateYMD(self.activityInfo.startTime ,false, GV_UTC_TIME_ZONE)
+    local en_year, en_month, en_day = Utils:getUTCDateYMD(self.activityInfo.showEndTime,false, GV_UTC_TIME_ZONE)
+    self.Label_time:setText(TextDataMgr:getText(63887, st_month, st_day, en_month, en_day)..GV_UTC_TIME_STRING)
 
     self:updateStore()
 end

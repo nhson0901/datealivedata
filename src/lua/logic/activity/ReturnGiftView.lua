@@ -242,7 +242,7 @@ function ReturnGiftView:updateProgressItems()
             progressItem.img_canGet:setVisible(status == EC_TaskStatus.GET)
             progressItem.img_ing:setVisible(status == EC_TaskStatus.ING)
             local targetNum = itemInfo.target
-            targetNum = targetNum >= 10000 and (targetNum / 10000).."w" or targetNum
+            targetNum = targetNum >= 1000 and (targetNum / 1000).."k" or targetNum
             progressItem.lab_needNum:setText(targetNum)
 
             progressItem.root:setTouchEnabled(true)

@@ -17540,7 +17540,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 323,
+										PositionX = 314,
 										PositionY = 49,
 									},
 									visible = "False",
@@ -17739,7 +17739,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 119,
+										PositionX = 110,
 										PositionY = -264,
 									},
 									uipanelviewmodel = 

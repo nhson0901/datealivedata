@@ -622,7 +622,7 @@ local t =
 									controlID = "Label_progress_title_Panel_taskItem_Panel_prefab_Panel-taskActivityViewFanshi_fanshiAssist_activity_Game",
 									UUID = "12d392d4_0a98_4b1b_956c_b7c3a03e1792",
 									anchorPoint = "False",
-									anchorPointX = "1",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -658,8 +658,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -117,
-										PositionY = -29,
+										PositionX = -353,
+										PositionY = -30,
 									},
 									width = "130",
 									ZOrder = "1",
@@ -668,7 +668,7 @@ local t =
 									controlID = "Label_progress_Panel_taskItem_Panel_prefab_Panel-taskActivityViewFanshi_fanshiAssist_activity_Game",
 									UUID = "e947e5c3_b62c_4bb5_96ab_b485ffa6e66b",
 									anchorPoint = "False",
-									anchorPointX = "0",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -704,8 +704,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -108,
-										PositionY = -29,
+										PositionX = -23,
+										PositionY = -47,
 									},
 									width = "74",
 									ZOrder = "1",

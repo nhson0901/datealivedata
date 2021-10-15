@@ -6577,9 +6577,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -50,
-										PositionY = 606,
-										TopPosition = 103,
+										PositionY = 458,
+										TopPosition = 126,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 6,
@@ -6604,7 +6603,7 @@ local t =
 											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "44",
+											height = "68",
 											ignoreSize = "False",
 											name = "Image_back",
 											sizepercentx = "0",
@@ -6676,8 +6675,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "0",
-											ignoreSize = "False",
+											height = "17",
+											ignoreSize = "True",
 											name = "Label_tip1",
 											nTextAlign = "1",
 											nTextHAlign = "0",
@@ -6691,9 +6690,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 395,
-												PositionY = 28,
+												PositionY = 43,
 											},
-											width = "326",
+											width = "80",
 											ZOrder = "1",
 										},
 										{
@@ -6736,8 +6735,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 732,
-												PositionY = 28,
+												PositionX = 395,
+												PositionY = 15,
 											},
 											width = "86",
 											ZOrder = "1",

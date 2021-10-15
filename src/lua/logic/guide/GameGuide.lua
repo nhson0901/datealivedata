@@ -18,7 +18,9 @@ function GameGuide:checkGuide(ui)
 		return false
 	end
 
-	if GuideDataMgr:checkHasGuideInfo(ui) then
+	local haveGuide = GuideDataMgr:checkHasGuideInfo(ui)
+	print("haveGuide",haveGuide)
+	if haveGuide then
 		local guideInfo = GuideDataMgr:getCurGuideInfo()
 		local function callBack()
 			self.ui = ui
@@ -84,7 +86,7 @@ function GameGuide:showGuideLayer(ui, guideInfo, _widget, adjustPos)
 		end
 	end
 
-	local _GuideMain = require("lua.logic.guide.GuideMain"):new({cfg = guideInfo, ui = ui, widget = widget, pos = adjustPos})
+	local _GuideMain = requireNew("lua.logic.guide.GuideMain"):new({cfg = guideInfo, ui = ui, widget = widget, pos = adjustPos})
 	if GuideDataMgr:checkEnableControl(guideInfo) then
 		ui._GuideMain = _GuideMain
 		if ui.__cname ~= "MainLayer" and  ui.__cname ~= "NewCityInfoView" then
@@ -156,7 +158,7 @@ function GameGuide:guideFuncDown(uiNameId)
 end
 
 function GameGuide:excuteGuide(cfg)
-	dump(cfg)
+	dump(cfg,"excuteGuide")
 	if cfg.id == 7 then
 		Utils:sendHttpLog("beginer_guide_R")
 	end
