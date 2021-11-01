@@ -1599,7 +1599,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 236,
+										PositionX = 214,
 										PositionY = 508,
 									},
 									width = "61",
@@ -1645,7 +1645,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 349,
+										PositionX = 384,
 										PositionY = 508,
 									},
 									width = "34",
@@ -1661,7 +1661,7 @@ local t =
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "88",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "img_choose",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -1674,7 +1674,7 @@ local t =
 										PositionX = 297,
 										PositionY = 508,
 									},
-									width = "306",
+									width = "409",
 									ZOrder = "1",
 								},
 								{
@@ -1972,7 +1972,7 @@ local t =
 												PositionX = 59,
 												PositionY = 17,
 											},
-											width = "33",
+											width = "32",
 											ZOrder = "1",
 										},
 									},
@@ -2114,7 +2114,7 @@ local t =
 												PositionX = 59,
 												PositionY = 17,
 											},
-											width = "33",
+											width = "32",
 											ZOrder = "1",
 										},
 									},

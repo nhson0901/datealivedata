@@ -853,14 +853,14 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEButton",
 							ClickHighLightEnabled = "True",
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
 							height = "46",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "Button_hard",
 							normal = "ui/fuben/diff_switch.png",
 							sizepercentx = "0",
@@ -877,7 +877,7 @@ local t =
 								relativeToName = "Panel_root",
 							},
 							UItype = "Button",
-							width = "152",
+							width = "201",
 							ZOrder = "1",
 							components = 
 							{
@@ -947,7 +947,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -51,
+										PositionX = -80,
 									},
 									width = "30",
 									ZOrder = "1",
@@ -3748,7 +3748,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "17",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -3769,7 +3769,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -55,
+										PositionX = -16,
+										PositionY = 11,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -3796,7 +3797,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -18,
+										PositionX = -34,
+										PositionY = -9,
 									},
 									width = "28",
 									ZOrder = "1",
@@ -3852,7 +3854,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 6,
+										PositionX = -10,
+										PositionY = -9,
 									},
 									width = "28",
 									ZOrder = "1",
@@ -3908,7 +3911,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 29,
+										PositionX = 13,
+										PositionY = -9,
 									},
 									width = "28",
 									ZOrder = "1",
@@ -4030,7 +4034,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "17",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -4051,7 +4055,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -55,
+										PositionX = -16,
+										PositionY = 11,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4078,7 +4083,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 6,
+										PositionX = -10,
+										PositionY = -9,
 									},
 									width = "28",
 									ZOrder = "1",
@@ -4178,7 +4184,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										
+										PositionX = -1,
 									},
 									uipanelviewmodel = 
 									{
@@ -5828,14 +5834,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "17",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "19",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -5849,9 +5855,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -55,
+										PositionX = -16,
+										PositionY = 11,
 									},
-									width = "28",
+									width = "24",
 									ZOrder = "1",
 								},
 								{
@@ -5876,7 +5883,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -22,
+										PositionX = -38,
+										PositionY = -9,
 									},
 									width = "28",
 									ZOrder = "1",
@@ -5932,7 +5940,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 2,
+										PositionX = -14,
+										PositionY = -9,
 									},
 									width = "28",
 									ZOrder = "1",
@@ -5988,7 +5997,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 25,
+										PositionX = 9,
+										PositionY = -9,
 									},
 									width = "28",
 									ZOrder = "1",
@@ -6110,14 +6120,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "17",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "19",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -6131,9 +6141,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -55,
+										PositionX = -16,
+										PositionY = 11,
 									},
-									width = "28",
+									width = "24",
 									ZOrder = "1",
 								},
 								{
@@ -6158,7 +6169,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 3,
+										PositionX = -13,
+										PositionY = -9,
 									},
 									width = "28",
 									ZOrder = "1",

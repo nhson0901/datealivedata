@@ -123,7 +123,7 @@ local t =
 									controlID = "Label_tittle_Image_bg_Panel_root_Panel-worldBossMoraleView_Layer1_league_Game",
 									UUID = "786a9030_14ba_4f56_917b_229b968e82fd",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -154,15 +154,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "社团士气",
+									text = "Club morale",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -295,
+										PositionX = -346,
 										PositionY = 169,
 									},
-									width = "98",
+									width = "153",
 									ZOrder = "1",
 								},
 								{
@@ -209,7 +209,7 @@ local t =
 										PositionY = 165,
 									},
 									visible = "False",
-									width = "47",
+									width = "45",
 									ZOrder = "1",
 								},
 								{
@@ -365,15 +365,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Jumlah Tantangan",
+											text = "Challenges",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 473,
-												PositionY = 30,
+												PositionX = 489,
+												PositionY = 28,
 											},
-											width = "146",
+											width = "81",
 											ZOrder = "1",
 										},
 										{
@@ -411,7 +411,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "挑战结果",
+											text = "Challenge result",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -419,7 +419,7 @@ local t =
 												PositionX = 618,
 												PositionY = 28,
 											},
-											width = "75",
+											width = "121",
 											ZOrder = "1",
 										},
 										{
@@ -483,7 +483,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "或守鞠奈LV    :",
+											text = "Or Shou Ju Nai LV :",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -491,7 +491,7 @@ local t =
 												PositionX = 9,
 												PositionY = 25,
 											},
-											width = "137",
+											width = "210",
 											ZOrder = "1",
 										},
 										{
@@ -534,10 +534,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 132,
+												PositionX = 237,
 												PositionY = 25,
 											},
-											width = "14",
+											width = "13",
 											ZOrder = "1",
 										},
 										{
@@ -560,7 +560,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 390,
+												PositionX = 432,
 												PositionY = 28,
 											},
 											width = "2",
@@ -768,10 +768,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -202,
+										PositionX = -241,
 										PositionY = -170,
 									},
-									width = "57",
+									width = "56",
 									ZOrder = "1",
 									components = 
 									{
@@ -795,14 +795,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_worldBossHurtRankView",
 											nTextAlign = "1",
@@ -811,15 +811,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "挑战成功人数：",
+											text = "Challengers",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -72,
-												PositionY = 2,
+												PositionX = -54,
 											},
-											width = "143",
+											width = "88",
 											ZOrder = "1",
 										},
 									},
@@ -864,10 +863,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 94,
-										PositionY = -168,
+										PositionX = 10,
+										PositionY = -171,
 									},
-									width = "27",
+									width = "26",
 									ZOrder = "1",
 									components = 
 									{
@@ -891,14 +890,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_worldBossHurtRankView",
 											nTextAlign = "1",
@@ -907,14 +906,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "累计士气：",
+											text = "Cumulative morale",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -53,
+												PositionX = -74,
 											},
-											width = "99",
+											width = "141",
 											ZOrder = "1",
 										},
 									},
@@ -962,7 +961,7 @@ local t =
 										PositionX = 300,
 										PositionY = -170,
 									},
-									width = "43",
+									width = "41",
 									ZOrder = "1",
 									components = 
 									{
@@ -986,14 +985,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_worldBossHurtRankView",
 											nTextAlign = "1",
@@ -1002,15 +1001,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "累计攻击力加成：",
+											text = "Cumulative attack power bonus",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -84,
+												PositionX = -120,
 												PositionY = 1,
 											},
-											width = "165",
+											width = "231",
 											ZOrder = "1",
 										},
 									},
@@ -1246,7 +1245,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -1262,7 +1261,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Nama maks 7 karakter",
+									text = "Name 7 Chars",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1270,7 +1269,7 @@ local t =
 										PositionX = 148,
 										PositionY = 57,
 									},
-									width = "194",
+									width = "116",
 									ZOrder = "1",
 								},
 								{
@@ -1316,7 +1315,7 @@ local t =
 										PositionX = 388,
 										PositionY = 56,
 									},
-									width = "39",
+									width = "43",
 									ZOrder = "1",
 								},
 								{
@@ -1354,7 +1353,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "1天前",
+									text = "1 day ago",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1362,7 +1361,7 @@ local t =
 										PositionX = 388,
 										PositionY = 21,
 									},
-									width = "45",
+									width = "73",
 									ZOrder = "1",
 								},
 								{
@@ -1504,7 +1503,7 @@ local t =
 										PositionX = 491,
 										PositionY = 35,
 									},
-									width = "28",
+									width = "31",
 									ZOrder = "1",
 								},
 								{
@@ -1542,7 +1541,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "成功",
+									text = "success",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1550,7 +1549,7 @@ local t =
 										PositionX = 621,
 										PositionY = 37,
 									},
-									width = "50",
+									width = "71",
 									ZOrder = "1",
 								},
 								{
@@ -1588,7 +1587,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "未成功",
+									text = "Unsuccessful",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1596,7 +1595,7 @@ local t =
 										PositionX = 621,
 										PositionY = 37,
 									},
-									width = "74",
+									width = "126",
 									ZOrder = "1",
 								},
 							},

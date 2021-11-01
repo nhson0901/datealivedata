@@ -278,10 +278,7 @@ function PlayerSetting:initInfo()
 
     --TODO CLOSE
     local touziPanel = TFDirector:getChildByPath(self.Panel_player_info,"Panel_touzi")
-    touziPanel:hide()
-    if TFGlobalUtils:isConnectKoreaTwServer() then
-        touziPanel:show()
-    end
+    touziPanel:show()
 end
 
 function PlayerSetting:refreshInfo()

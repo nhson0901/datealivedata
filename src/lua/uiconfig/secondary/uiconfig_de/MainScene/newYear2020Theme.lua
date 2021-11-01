@@ -3701,7 +3701,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "112",
+											height = "128",
 											ignoreSize = "True",
 											name = "Button_Activity5",
 											normal = "ui/mainLayer/new_ui/a4.png",
@@ -3720,7 +3720,7 @@ local t =
 											},
 											UItype = "Button",
 											visible = "False",
-											width = "196",
+											width = "226",
 											ZOrder = "1",
 											components = 
 											{
@@ -4883,7 +4883,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -49,
-										PositionY = 45,
+										PositionY = 57,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4909,7 +4909,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 53,
-										PositionY = 45,
+										PositionY = 57,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4935,7 +4935,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 160,
-										PositionY = 48,
+										PositionY = 57,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4961,7 +4961,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 264,
-										PositionY = 45,
+										PositionY = 57,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4987,7 +4987,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 366,
-										PositionY = 45,
+										PositionY = 57,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -5013,7 +5013,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 472,
-										PositionY = 45,
+										PositionY = 57,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -5050,7 +5050,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -49,
-										PositionY = 46,
+										PositionY = 57,
 									},
 									UItype = "Button",
 									width = "60",
@@ -5205,7 +5205,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -3,
-												PositionY = -18,
+												PositionY = -27,
 											},
 											width = "50",
 											ZOrder = "1",
@@ -5271,7 +5271,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 55,
-										PositionY = 47,
+										PositionY = 57,
 									},
 									UItype = "Button",
 									width = "60",
@@ -5319,7 +5319,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = -20,
+												PositionY = -27,
 											},
 											width = "58",
 											ZOrder = "1",
@@ -5493,7 +5493,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 263,
-										PositionY = 47,
+										PositionY = 57,
 									},
 									UItype = "Button",
 									width = "60",
@@ -5622,8 +5622,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 1,
-												PositionY = -19,
+												PositionY = -27,
 											},
 											width = "100",
 											ZOrder = "1",
@@ -6007,7 +6006,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 367,
-										PositionY = 48,
+										PositionY = 57,
 									},
 									UItype = "Button",
 									width = "60",
@@ -6052,8 +6051,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 4,
-												PositionY = -21,
+												PositionY = -27,
 											},
 											vAlignment = "1",
 											width = "44",
@@ -6120,7 +6118,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 473,
-										PositionY = 48,
+										PositionY = 57,
 									},
 									UItype = "Button",
 									width = "60",
@@ -6165,7 +6163,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = -20,
+												PositionY = -27,
 											},
 											vAlignment = "1",
 											width = "74",
@@ -6231,7 +6229,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 160,
-										PositionY = 47,
+										PositionY = 57,
 									},
 									UItype = "Button",
 									width = "60",
@@ -6335,7 +6333,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = -20,
+												PositionY = -27,
 											},
 											width = "41",
 											ZOrder = "1",

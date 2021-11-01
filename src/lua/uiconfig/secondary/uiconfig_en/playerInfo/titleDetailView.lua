@@ -102,7 +102,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "260",
+							height = "311",
 							ignoreSize = "False",
 							name = "Panel_backgrund",
 							sizepercentx = "0",
@@ -134,7 +134,7 @@ local t =
 									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "275",
+									height = "331",
 									ignoreSize = "False",
 									name = "Image_evaluationViewEx_1",
 									sizepercentx = "0",
@@ -147,7 +147,7 @@ local t =
 									{
 										PositionY = -1,
 									},
-									width = "538",
+									width = "596",
 									ZOrder = "1",
 								},
 								{
@@ -159,7 +159,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "221",
+									height = "261",
 									ignoreSize = "False",
 									name = "Image_evaluationViewEx_2",
 									sizepercentx = "0",
@@ -172,7 +172,7 @@ local t =
 									{
 										PositionY = -14,
 									},
-									width = "514",
+									width = "575",
 									ZOrder = "1",
 								},
 							},
@@ -203,7 +203,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "31",
+							height = "30",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -217,10 +217,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 312,
-								PositionY = 414,
+								PositionX = 287,
+								PositionY = 440,
 							},
-							width = "133",
+							width = "127",
 							ZOrder = "1",
 						},
 						{
@@ -294,7 +294,7 @@ local t =
 								PositionY = 411,
 							},
 							visible = "False",
-							width = "95",
+							width = "100",
 							ZOrder = "1",
 						},
 						{
@@ -321,8 +321,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 808,
-								PositionY = 416,
+								PositionX = 826,
+								PositionY = 441,
 							},
 							UItype = "Button",
 							width = "60",
@@ -347,14 +347,14 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "15",
+							fontSize = "18",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "17",
+							height = "21",
 							ignoreSize = "True",
 							name = "Label_percent_title",
 							nTextAlign = "0",
@@ -368,10 +368,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 330,
-								PositionY = 387,
+								PositionX = 298,
+								PositionY = 415,
 							},
-							width = "59",
+							width = "64",
 							ZOrder = "1",
 							components = 
 							{
@@ -423,7 +423,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "15",
+							fontSize = "18",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -444,8 +444,8 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 440,
-								PositionY = 387,
+								PositionX = 408,
+								PositionY = 415,
 							},
 							width = "372",
 							ZOrder = "1",
@@ -469,14 +469,14 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "15",
+							fontSize = "18",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "17",
+							height = "21",
 							ignoreSize = "True",
 							name = "Label_get_desc_title",
 							nTextAlign = "0",
@@ -490,10 +490,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 330,
-								PositionY = 342,
+								PositionX = 298,
+								PositionY = 370,
 							},
-							width = "100",
+							width = "117",
 							ZOrder = "1",
 							components = 
 							{
@@ -545,7 +545,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "15",
+							fontSize = "18",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -566,8 +566,8 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 493,
-								PositionY = 342,
+								PositionX = 461,
+								PositionY = 370,
 							},
 							width = "300",
 							ZOrder = "1",
@@ -591,7 +591,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "15",
+							fontSize = "18",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -612,8 +612,8 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 330,
-								PositionY = 252,
+								PositionX = 298,
+								PositionY = 280,
 							},
 							width = "480",
 							ZOrder = "1",

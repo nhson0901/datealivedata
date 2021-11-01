@@ -615,6 +615,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "old_star1",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -624,7 +625,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 436,
-										PositionY = 499,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -641,6 +642,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "old_star2",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -650,7 +652,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 460,
-										PositionY = 499,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -667,6 +669,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "old_star3",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -676,7 +679,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 484,
-										PositionY = 499,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -693,6 +696,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "old_star4",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -702,7 +706,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 508,
-										PositionY = 499,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -719,6 +723,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "old_star5",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -728,7 +733,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 531,
-										PositionY = 499,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -875,6 +880,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "new_star1",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -884,7 +890,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 606,
-										PositionY = 499,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -901,6 +907,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "new_star2",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -910,7 +917,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 630,
-										PositionY = 499,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -927,6 +934,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "new_star3",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -936,7 +944,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 654,
-										PositionY = 499,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -953,6 +961,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "new_star4",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -962,7 +971,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 678,
-										PositionY = 499,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -979,6 +988,7 @@ local t =
 									height = "20",
 									ignoreSize = "True",
 									name = "new_star5",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -987,8 +997,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 702,
-										PositionY = 499,
+										PositionX = 703,
+										PositionY = 498,
 									},
 									width = "19",
 									ZOrder = "1",
@@ -1423,7 +1433,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_lvNew",
 									nTextAlign = "1",
@@ -1469,7 +1479,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_lvOld",
 									nTextAlign = "1",
@@ -1515,7 +1525,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_slotOld",
 									nTextAlign = "1",
@@ -1561,7 +1571,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_slotNew",
 									nTextAlign = "1",

@@ -420,7 +420,7 @@ local t =
 												PositionX = 50,
 												PositionY = 45,
 											},
-											width = "34",
+											width = "33",
 											ZOrder = "1",
 										},
 										{
@@ -466,7 +466,7 @@ local t =
 												PositionX = 184,
 												PositionY = 66,
 											},
-											width = "129",
+											width = "146",
 											ZOrder = "1",
 										},
 										{
@@ -575,7 +575,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "83",
+													width = "86",
 													ZOrder = "1",
 												},
 											},
@@ -720,7 +720,7 @@ local t =
 												PositionX = 50,
 												PositionY = 45,
 											},
-											width = "34",
+											width = "33",
 											ZOrder = "1",
 										},
 										{
@@ -766,7 +766,7 @@ local t =
 												PositionX = 184,
 												PositionY = 66,
 											},
-											width = "129",
+											width = "146",
 											ZOrder = "1",
 										},
 										{
@@ -875,7 +875,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "83",
+													width = "86",
 													ZOrder = "1",
 												},
 											},
@@ -910,7 +910,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "32",
+							height = "30",
 							ignoreSize = "True",
 							name = "Label_angle_title",
 							nTextAlign = "1",
@@ -927,7 +927,7 @@ local t =
 								PositionX = 246,
 								PositionY = 490,
 							},
-							width = "107",
+							width = "188",
 							ZOrder = "1",
 						},
 						{
@@ -953,6 +953,7 @@ local t =
 								PositionX = 361,
 								PositionY = 492,
 							},
+							visible = "False",
 							width = "2",
 							ZOrder = "1",
 						},
@@ -999,7 +1000,8 @@ local t =
 								PositionX = 364,
 								PositionY = 485,
 							},
-							width = "84",
+							visible = "False",
+							width = "86",
 							ZOrder = "1",
 						},
 						{

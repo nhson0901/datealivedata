@@ -6,7 +6,7 @@ local t = {
 			y=0,
 			speed=0,
 			layer="battle",
-			canLoad=true,
+			canLoad=false,
 			logic="",
 		},
 		{

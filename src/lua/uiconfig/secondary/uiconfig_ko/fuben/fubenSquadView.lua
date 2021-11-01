@@ -19437,11 +19437,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "72",
-									ignoreSize = "True",
+									height = "90",
+									ignoreSize = "False",
 									name = "Image_buffInfo",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -19452,9 +19452,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -100,
-										PositionY = 93,
+										PositionY = 102,
 									},
-									width = "236",
+									width = "285",
 									ZOrder = "1",
 									components = 
 									{
@@ -19485,7 +19485,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "51",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_buffDesc",
 											nTextAlign = "1",
@@ -19501,7 +19501,7 @@ local t =
 											{
 												PositionY = 4,
 											},
-											width = "220",
+											width = "278",
 											ZOrder = "1",
 										},
 									},

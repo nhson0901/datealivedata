@@ -208,7 +208,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "37",
+							height = "34",
 							ignoreSize = "True",
 							name = "lab_TopTxt",
 							nTextAlign = "1",
@@ -217,7 +217,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "我要收徒",
+							text = "I want to accept disciples",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -225,7 +225,7 @@ local t =
 								PositionX = 85,
 								PositionY = 556,
 							},
-							width = "123",
+							width = "390",
 							ZOrder = "1",
 						},
 						{
@@ -271,7 +271,8 @@ local t =
 								PositionX = 222,
 								PositionY = 549,
 							},
-							width = "56",
+							visible = "False",
+							width = "55",
 							ZOrder = "1",
 						},
 						{
@@ -297,6 +298,7 @@ local t =
 								PositionX = 216,
 								PositionY = 557,
 							},
+							visible = "False",
 							width = "3",
 							ZOrder = "1",
 						},
@@ -497,7 +499,7 @@ local t =
 									outlineColor = "#FF000000",
 									outlineSize = "1",
 									passwordEnable = "False",
-									placeHolder = "输入玩家ID",
+									placeHolder = "Enter player ID",
 									shadowColor = "#FF000000",
 									shadowHeight = "0",
 									shadowWidth = "0",
@@ -656,14 +658,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "รีเฟรช",
+									text = "Refresh",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "52",
+									width = "75",
 									ZOrder = "1",
 								},
 							},
@@ -722,7 +724,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "lab_masterTxt",
 									nTextAlign = "1",
@@ -731,14 +733,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "暂无申请",
+									text = "No application yet",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "107",
+									width = "249",
 									ZOrder = "1",
 								},
 							},
@@ -1028,7 +1030,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "ชื่อ",
+											text = "Name",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1036,7 +1038,7 @@ local t =
 												PositionX = -328,
 												PositionY = 7,
 											},
-											width = "46",
+											width = "55",
 											ZOrder = "1",
 										},
 										{
@@ -1082,7 +1084,7 @@ local t =
 												PositionX = -328,
 												PositionY = -38,
 											},
-											width = "68",
+											width = "28",
 											ZOrder = "1",
 										},
 										{
@@ -1120,7 +1122,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "ชื่อมีสูงสุดได้ 7 ตัวอักษร",
+											text = "Name 7 Chars",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1128,7 +1130,7 @@ local t =
 												PositionX = -260,
 												PositionY = 7,
 											},
-											width = "179",
+											width = "129",
 											ZOrder = "1",
 										},
 										{
@@ -1203,7 +1205,7 @@ local t =
 												StrokeColor = "#FF4C68CA",
 												StrokeSize = 2,
 											},
-											height = "29",
+											height = "27",
 											ignoreSize = "True",
 											name = "Label_level",
 											nTextAlign = "1",
@@ -1212,7 +1214,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "ป้ายข้อความ",
+											text = "[Lv.20]",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1220,7 +1222,7 @@ local t =
 												PositionX = 38,
 												PositionY = 7,
 											},
-											width = "85",
+											width = "76",
 											ZOrder = "1",
 										},
 										{
@@ -1273,10 +1275,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 29,
+												PositionX = 28,
 												PositionY = -36,
 											},
-											width = "110",
+											width = "140",
 											ZOrder = "1",
 										},
 										{
@@ -1314,7 +1316,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "ออนไลน์ล่าสุด",
+											text = "Last Online",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1322,7 +1324,7 @@ local t =
 												PositionX = -142,
 												PositionY = -38,
 											},
-											width = "171",
+											width = "85",
 											ZOrder = "1",
 										},
 										{
@@ -1470,7 +1472,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "เห็นด้วย",
+													text = "Agree",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -1478,7 +1480,7 @@ local t =
 														
 													},
 													visible = "False",
-													width = "43",
+													width = "48",
 													ZOrder = "1",
 												},
 												{
@@ -1575,7 +1577,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "ปฏิเสธ",
+													text = "Reject",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -1583,7 +1585,7 @@ local t =
 														
 													},
 													visible = "False",
-													width = "43",
+													width = "50",
 													ZOrder = "1",
 												},
 												{
@@ -1681,7 +1683,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "สมัคร",
+													text = "Apply",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -1689,7 +1691,7 @@ local t =
 														
 													},
 													visible = "False",
-													width = "44",
+													width = "50",
 													ZOrder = "1",
 												},
 												{
@@ -1814,7 +1816,7 @@ local t =
 												PositionX = 450,
 												PositionY = 42,
 											},
-											width = "13",
+											width = "12",
 											ZOrder = "1",
 											components = 
 											{
@@ -1823,7 +1825,7 @@ local t =
 													controlID = "lab_masterLv1_lab_masterLv_Image_diban_Panel_masterItem_Panel_prefab_Panel-masterList_Layer1_friend_Game",
 													UUID = "dd213a4e_21c3_4717_8cb0_ab8f48cafcc5",
 													anchorPoint = "False",
-													anchorPointX = "0.5",
+													anchorPointX = "1",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -1854,15 +1856,15 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "名师等级：",
+													text = "Master level",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -54,
+														PositionX = -35,
 														PositionY = 1,
 													},
-													width = "90",
+													width = "98",
 													ZOrder = "1",
 												},
 											},

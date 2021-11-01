@@ -309,7 +309,7 @@ local t =
 												PositionX = 69,
 												PositionY = 10,
 											},
-											width = "59",
+											width = "56",
 											ZOrder = "1",
 											components = 
 											{
@@ -385,7 +385,7 @@ local t =
 												PositionY = -13,
 											},
 											visible = "False",
-											width = "91",
+											width = "101",
 											ZOrder = "1",
 										},
 										{
@@ -432,7 +432,7 @@ local t =
 												PositionY = -13,
 											},
 											visible = "False",
-											width = "132",
+											width = "147",
 											ZOrder = "1",
 										},
 										{
@@ -478,7 +478,7 @@ local t =
 												PositionX = 52,
 												PositionY = -16,
 											},
-											width = "33",
+											width = "27",
 											ZOrder = "1",
 											components = 
 											{
@@ -525,7 +525,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "34",
+													width = "36",
 													ZOrder = "1",
 												},
 											},
@@ -549,7 +549,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -764,7 +764,7 @@ local t =
 												PositionY = -49,
 											},
 											visible = "False",
-											width = "190",
+											width = "179",
 											ZOrder = "1",
 										},
 										{
@@ -810,7 +810,7 @@ local t =
 											{
 												PositionX = 1,
 											},
-											width = "68",
+											width = "64",
 											ZOrder = "1",
 										},
 									},
@@ -899,7 +899,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "15",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -993,7 +993,7 @@ local t =
 													{
 														PositionX = -12,
 													},
-													width = "48",
+													width = "52",
 													ZOrder = "1",
 												},
 											},
@@ -1067,7 +1067,7 @@ local t =
 													{
 														PositionX = -44,
 													},
-													width = "69",
+													width = "73",
 													ZOrder = "1",
 												},
 											},
@@ -1104,7 +1104,7 @@ local t =
 									controlID = "lab_lastDays_img_di_panel_cell_Panel-fundNewView_Layer1_supplyNew_Game",
 									UUID = "e8decc75_38e5_49f4_b68e_08a99245b807",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -1129,7 +1129,7 @@ local t =
 									height = "21",
 									ignoreSize = "True",
 									name = "lab_lastDays",
-									nTextAlign = "1",
+									nTextAlign = "0",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -1140,10 +1140,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 85,
+										PositionX = 92,
 										PositionY = 44,
 									},
-									width = "38",
+									width = "36",
 									ZOrder = "1",
 									components = 
 									{
@@ -1188,9 +1188,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -121,
+												PositionX = -128,
 											},
-											width = "149",
+											width = "128",
 											ZOrder = "1",
 										},
 									},
@@ -1303,7 +1303,7 @@ local t =
 												PositionX = -42,
 												PositionY = -38,
 											},
-											width = "41",
+											width = "44",
 											ZOrder = "1",
 										},
 									},
@@ -1348,10 +1348,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 9,
+										PositionX = 21,
 										PositionY = 69,
 									},
-									width = "29",
+									width = "28",
 									ZOrder = "1",
 									components = 
 									{
@@ -1375,14 +1375,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "17",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_fundView_1",
 											nTextAlign = "1",
@@ -1391,14 +1391,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Sous    jours consécutifs",
+											text = "Sous          jours consécutifs",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -39,
+												PositionX = -51,
 											},
-											width = "155",
+											width = "202",
 											ZOrder = "1",
 										},
 									},
@@ -1422,7 +1422,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,

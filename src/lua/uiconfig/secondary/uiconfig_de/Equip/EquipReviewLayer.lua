@@ -143,31 +143,6 @@ local t =
 									width = "1386",
 									ZOrder = "1",
 								},
-								{
-									controlID = "Image_EquipReviewLayer_1_background_Panel_base_Panel-EquipReviewLayer_Layer1_Equip_Game",
-									UUID = "78ff7d54_3a90_4c92_8144_f38879128555",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									classname = "MEImage",
-									dstBlendFunc = "771",
-									height = "640",
-									ignoreSize = "True",
-									name = "Image_EquipReviewLayer_1",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "770",
-									texturePath = "ui/Equipment/new_ui/shaixuan/0保存跳转界面效果重命名.png",
-									touchAble = "False",
-									UILayoutViewModel = 
-									{
-										
-									},
-									width = "1386",
-									ZOrder = "1",
-								},
 							},
 						},
 						{
@@ -309,8 +284,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_save",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -325,7 +300,7 @@ local t =
 											{
 												
 											},
-											width = "101",
+											width = "129",
 											ZOrder = "1",
 										},
 									},
@@ -393,8 +368,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_use",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -409,7 +384,7 @@ local t =
 											{
 												
 											},
-											width = "95",
+											width = "129",
 											ZOrder = "1",
 										},
 									},
@@ -476,8 +451,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_rename",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -492,7 +467,7 @@ local t =
 											{
 												
 											},
-											width = "139",
+											width = "129",
 											ZOrder = "1",
 										},
 									},
@@ -657,7 +632,7 @@ local t =
 										PositionX = -25,
 										PositionY = 77,
 									},
-									width = "20",
+									width = "22",
 									ZOrder = "1",
 									components = 
 									{
@@ -1067,7 +1042,7 @@ local t =
 										PositionX = 189,
 										PositionY = 116,
 									},
-									width = "184",
+									width = "208",
 									ZOrder = "1",
 								},
 								{
@@ -1151,7 +1126,7 @@ local t =
 												PositionX = 170,
 												PositionY = 187,
 											},
-											width = "158",
+											width = "172",
 											ZOrder = "1",
 										},
 										{
@@ -1251,7 +1226,6 @@ local t =
 		{
 			"scene/bg/bg_common.png",
 			"ui/fairy/new_ui/new_bg_04.png",
-			"ui/Equipment/new_ui/shaixuan/0保存跳转界面效果重命名.png",
 			"ui/fairy/new_ui/new_12.png",
 			"ui/common/button_big_blue_n.png",
 			"ui/Equipment/new_ui/bg_blue.png",

@@ -123,7 +123,7 @@ local t =
 									controlID = "Label_tittle_Image_bg_Panel_root_Panel-worldBossHurtRankView_Layer1_league_Game",
 									UUID = "3b0451e6_95ed_4687_a9f8_090b81090cc7",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -154,15 +154,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "伤害排名 l",
+									text = "Damage ranking ",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -298,
+										PositionX = -355,
 										PositionY = 192,
 									},
-									width = "112",
+									width = "209",
 									ZOrder = "1",
 								},
 								{
@@ -208,7 +208,8 @@ local t =
 										PositionX = -237,
 										PositionY = 189,
 									},
-									width = "80",
+									visible = "False",
+									width = "75",
 									ZOrder = "1",
 								},
 								{
@@ -364,7 +365,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Rangliste",
+											text = "Ranking",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -372,7 +373,7 @@ local t =
 												PositionX = 81,
 												PositionY = 26,
 											},
-											width = "72",
+											width = "63",
 											ZOrder = "1",
 										},
 										{
@@ -410,7 +411,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "社团名",
+											text = "Club Name",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -418,7 +419,7 @@ local t =
 												PositionX = 322,
 												PositionY = 26,
 											},
-											width = "57",
+											width = "86",
 											ZOrder = "1",
 										},
 										{
@@ -456,7 +457,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "累计伤害",
+											text = "Total damage",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -464,7 +465,7 @@ local t =
 												PositionX = 607,
 												PositionY = 26,
 											},
-											width = "76",
+											width = "100",
 											ZOrder = "1",
 										},
 										{
@@ -556,7 +557,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "暂无数据",
+									text = "No data",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -564,7 +565,7 @@ local t =
 										PositionX = -4,
 										PositionY = 34,
 									},
-									width = "107",
+									width = "86",
 									ZOrder = "1",
 								},
 								{
@@ -816,7 +817,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Mein Club",
+											text = "My Club",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -824,7 +825,7 @@ local t =
 												PositionX = 358,
 												PositionY = 76,
 											},
-											width = "81",
+											width = "67",
 											ZOrder = "1",
 										},
 										{
@@ -908,7 +909,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "社团社团",
+											text = "Club Club",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -916,7 +917,7 @@ local t =
 												PositionX = 323,
 												PositionY = 30,
 											},
-											width = "98",
+											width = "100",
 											ZOrder = "1",
 										},
 										{
@@ -1002,15 +1003,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "我贡献的伤害：",
+									text = "The harm I contributed",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -281,
+										PositionX = -254,
 										PositionY = -193,
 									},
-									width = "143",
+									width = "207",
 									ZOrder = "1",
 								},
 								{
@@ -1053,10 +1054,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -205,
+										PositionX = -136,
 										PositionY = -194,
 									},
-									width = "40",
+									width = "43",
 									ZOrder = "1",
 								},
 								{
@@ -1110,15 +1111,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_worldBossHurtRankView_1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -1126,14 +1127,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Ranglistenbelohnung",
+											text = "Ranking Reward",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "213",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -1316,7 +1317,7 @@ local t =
 										PositionX = 69,
 										PositionY = 25,
 									},
-									width = "16",
+									width = "15",
 									ZOrder = "1",
 								},
 								{
@@ -1354,7 +1355,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "社团名字社团名字",
+									text = "Club Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1362,7 +1363,7 @@ local t =
 										PositionX = 321,
 										PositionY = 27,
 									},
-									width = "195",
+									width = "111",
 									ZOrder = "1",
 								},
 								{
@@ -1408,7 +1409,7 @@ local t =
 										PositionX = 597,
 										PositionY = 28,
 									},
-									width = "128",
+									width = "131",
 									ZOrder = "1",
 								},
 							},

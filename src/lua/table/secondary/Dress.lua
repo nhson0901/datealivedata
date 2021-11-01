@@ -1079,7 +1079,6 @@ return {
         roleModel = 210220,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 129,
         },
         icon = "icon/role/dress_kanban/10222.png",
     },
@@ -1414,7 +1413,6 @@ return {
         roleModel = 210606,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 315,
         },
         icon = "icon/role/dress_kanban/10606.png",
     },
@@ -1503,7 +1501,6 @@ return {
         roleModel = 210417,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 315,
         },
         icon = "icon/role/dress_kanban/10415.png",
     },
@@ -1678,7 +1675,6 @@ return {
         roleModel = 210606,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 316,
         },
         icon = "icon/role/dress_kanban/10607.png",
     },
@@ -2019,7 +2015,6 @@ return {
         roleModel = 210417,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 316,
         },
         icon = "icon/role/dress_kanban/10417.png",
     },
@@ -5415,7 +5410,7 @@ return {
         masterId = 0,
         background = "scene/bg/bg_black.png",
         smallType = 0,
-        quality = 3,
+        quality = 5,
         roleUnlock = 101,
         skinSettingIcon = "",
         speVoiceSuffix = "",
@@ -5431,9 +5426,9 @@ return {
         skinSettingDesc = 0,
         belongTo = 0,
         convertMax = {
-            [570004] = 30,
+            [570004] = 120,
         },
-        kanbanBgm = "sound/bgm/kanban/main_shixiang_10116.mp3",
+        kanbanBgm = "sound/bgm/kanban/main_shixiang_10117.mp3",
         kanbanEffect = {
         },
         favorUpOffset = {
@@ -5471,19 +5466,21 @@ return {
         id = 410117,
         notTurnPlay = false,
         totalMax = 1,
-        kanbanBgmId = 0,
+        kanbanBgmId = 11067,
         backgroundEffect = {
             [1] = 410117,
         },
-        dressImg = "icon/role/dress_kanban/10115m.png",
+        dressImg = "icon/role/dress_kanban/10117m.png",
         offSet = {
+            y = 70,
+            x = -3,
         },
         nameTextId = 20279,
         roleModel = 210118,
         skinSettingTitle = 0,
         accessId = {
         },
-        icon = "icon/role/dress_kanban/10115.png",
+        icon = "icon/role/dress_kanban/10117.png",
     },
     [411201] = {
         superType = 4,
@@ -5649,7 +5646,6 @@ return {
         roleModel = 211011,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 316,
         },
         icon = "icon/role/dress_kanban/11010.png",
     },
@@ -5752,7 +5748,7 @@ return {
         masterId = 0,
         background = "",
         smallType = 0,
-        quality = 5,
+        quality = 4,
         roleUnlock = 101,
         skinSettingIcon = "",
         speVoiceSuffix = "",
@@ -5768,7 +5764,7 @@ return {
         skinSettingDesc = 0,
         belongTo = 0,
         convertMax = {
-            [570004] = 120,
+            [570004] = 30,
         },
         kanbanBgm = "",
         kanbanEffect = {
@@ -5791,10 +5787,10 @@ return {
         playAction = {
             [1] = 2060,
             [2] = 2061,
-            [3] = 2063,
-            [4] = 2065,
-            [5] = 2067,
-            [6] = 2072,
+            [3] = 2062,
+            [4] = 2064,
+            [5] = 2066,
+            [6] = 2071,
         },
         star = 0,
         roleName = 30101,
@@ -5808,10 +5804,10 @@ return {
         id = 410118,
         notTurnPlay = false,
         totalMax = 1,
-        kanbanBgmId = 11067,
+        kanbanBgmId = 0,
         backgroundEffect = {
         },
-        dressImg = "icon/role/dress_kanban/10115m.png",
+        dressImg = "icon/role/dress_kanban/10118m.png",
         offSet = {
         },
         nameTextId = 20281,
@@ -5819,7 +5815,7 @@ return {
         skinSettingTitle = 0,
         accessId = {
         },
-        icon = "icon/role/dress_kanban/10115.png",
+        icon = "icon/role/dress_kanban/10118.png",
     },
     [411011] = {
         superType = 4,
@@ -5900,7 +5896,6 @@ return {
         roleModel = 211011,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 315,
         },
         icon = "icon/role/dress_kanban/11011.png",
     },
@@ -8340,7 +8335,6 @@ return {
         roleModel = 211213,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 315,
         },
         icon = "icon/role/dress_kanban/11213.png",
     },
@@ -8423,7 +8417,6 @@ return {
         roleModel = 210512,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 4,
         },
         icon = "icon/role/dress_kanban/10512.png",
     },
@@ -8511,7 +8504,6 @@ return {
         roleModel = 211213,
         skinSettingTitle = 0,
         accessId = {
-            [1] = 316,
         },
         icon = "icon/role/dress_kanban/11214.png",
     },

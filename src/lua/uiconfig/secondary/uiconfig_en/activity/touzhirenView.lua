@@ -56,7 +56,7 @@ local t =
 					classname = "MEImage",
 					dstBlendFunc = "771",
 					height = "70",
-					ignoreSize = "True",
+					ignoreSize = "False",
 					name = "border",
 					sizepercentx = "0",
 					sizepercenty = "0",
@@ -66,10 +66,10 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 84,
+						PositionX = 175,
 						PositionY = 201,
 					},
-					width = "912",
+					width = "1088",
 					ZOrder = "1",
 					components = 
 					{
@@ -93,14 +93,14 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "20",
+							fontSize = "16",
 							fontStroke = 
 							{
 								IsStroke = true,
 								StrokeColor = "#FF808080",
 								StrokeSize = 1,
 							},
-							height = "79",
+							height = "0",
 							ignoreSize = "False",
 							name = "label1",
 							nTextAlign = "1",
@@ -114,7 +114,7 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -424,
+								PositionX = -504,
 								PositionY = -2,
 							},
 							width = "58",
@@ -146,7 +146,7 @@ local t =
 								StrokeColor = "#FF808080",
 								StrokeSize = 1,
 							},
-							height = "27",
+							height = "25",
 							ignoreSize = "True",
 							name = "label_process",
 							nTextAlign = "1",
@@ -163,7 +163,7 @@ local t =
 								PositionX = -12,
 								PositionY = 14,
 							},
-							width = "198",
+							width = "131",
 							ZOrder = "1",
 						},
 						{
@@ -275,7 +275,7 @@ local t =
 								StrokeColor = "#FF800080",
 								StrokeSize = 1,
 							},
-							height = "27",
+							height = "25",
 							ignoreSize = "True",
 							name = "label_lv",
 							nTextAlign = "1",
@@ -292,7 +292,7 @@ local t =
 								PositionX = -340,
 								PositionY = 12,
 							},
-							width = "15",
+							width = "14",
 							ZOrder = "1",
 						},
 						{
@@ -315,7 +315,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -501,
+								PositionX = -592,
 								PositionY = 2,
 							},
 							width = "90",
@@ -475,7 +475,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "30",
+							height = "28",
 							ignoreSize = "True",
 							name = "Label_1",
 							nTextAlign = "1",
@@ -491,7 +491,7 @@ local t =
 							{
 								PositionY = 169,
 							},
-							width = "98",
+							width = "171",
 							ZOrder = "1",
 						},
 						{
@@ -534,17 +534,16 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 17,
 								PositionY = 141,
 							},
-							width = "103",
+							width = "154",
 							ZOrder = "1",
 						},
 						{
 							controlID = "Label_score_img_di_Panel-touzhirenView_Layer1_activity_Game",
 							UUID = "615486d6_8412_430a_9578_b40c5b850a40",
 							anchorPoint = "False",
-							anchorPointX = "1",
+							anchorPointX = "0.5",
 							anchorPointY = "0.5",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
@@ -580,10 +579,9 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -36,
-								PositionY = 140,
+								PositionY = 117,
 							},
-							width = "58",
+							width = "57",
 							ZOrder = "1",
 						},
 						{
@@ -680,8 +678,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_get",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -696,7 +694,7 @@ local t =
 									{
 										
 									},
-									width = "84",
+									width = "120",
 									ZOrder = "1",
 								},
 							},
@@ -727,8 +725,8 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "30",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "Label_geted",
 							nTextAlign = "1",
 							nTextHAlign = "1",
@@ -743,7 +741,7 @@ local t =
 							{
 								PositionY = -146,
 							},
-							width = "77",
+							width = "200",
 							ZOrder = "1",
 						},
 					},

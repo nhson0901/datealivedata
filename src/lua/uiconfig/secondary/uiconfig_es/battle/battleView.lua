@@ -6843,8 +6843,8 @@ local t =
 														StrokeColor = "#FF22343F",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "20",
+													ignoreSize = "True",
 													name = "Label_title",
 													nTextAlign = "1",
 													nTextHAlign = "0",
@@ -6864,7 +6864,7 @@ local t =
 														nGravity = 3,
 														nAlign = 3
 													},
-													width = "170",
+													width = "162",
 													ZOrder = "1",
 												},
 												{
@@ -6907,8 +6907,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 89,
-														PositionY = 1,
+														PositionX = 94,
 														RightPosition = -200,
 														TopPosition = -23,
 														relativeToName = "Panel_victory",
@@ -9200,7 +9199,7 @@ local t =
 										nType = "0"
 									},
 									visible = "False",
-									width = "220",
+									width = "275",
 									ZOrder = "1",
 									components = 
 									{
@@ -9376,10 +9375,10 @@ local t =
 											colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 											direction = "1",
 											dstBlendFunc = "771",
-											height = "290",
+											height = "330",
 											ignoreSize = "False",
-											innerHeight = "290",
-											innerWidth = "240",
+											innerHeight = "330",
+											innerWidth = "275",
 											name = "ScrollView_endlessBuff",
 											showScrollbar = "False",
 											sizepercentx = "0",
@@ -9390,14 +9389,14 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 13,
-												PositionY = -198,
+												PositionY = -219,
 											},
 											uipanelviewmodel = 
 											{
 												Layout="Absolute",
 												nType = "0"
 											},
-											width = "240",
+											width = "275",
 											ZOrder = "1",
 										},
 									},
@@ -17393,7 +17392,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "65",
+							height = "80",
 							ignoreSize = "False",
 							name = "Panel_endlessBuffItem",
 							sizepercentx = "0",
@@ -17411,7 +17410,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "240",
+							width = "275",
 							ZOrder = "1",
 							components = 
 							{
@@ -17425,8 +17424,8 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "62",
-									ignoreSize = "True",
+									height = "80",
+									ignoreSize = "False",
 									name = "Image_battleView_1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -17438,7 +17437,7 @@ local t =
 									{
 										
 									},
-									width = "234",
+									width = "275",
 									ZOrder = "1",
 								},
 								{
@@ -17461,7 +17460,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -88,
+										PositionX = -108,
 										PositionY = 1,
 									},
 									width = "50",
@@ -17493,7 +17492,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "46",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_buffDesc",
 									nTextAlign = "1",
@@ -17507,9 +17506,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 34,
+										PositionX = 42,
 									},
-									width = "154",
+									width = "189",
 									ZOrder = "1",
 								},
 							},

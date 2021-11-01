@@ -141,31 +141,6 @@ local t =
 									width = "1386",
 									ZOrder = "1",
 								},
-								{
-									controlID = "Image_fairyStrategy_1_background_Panel_base_Panel-fairyStrategy_Layer1_fairyNew_Game",
-									UUID = "e1da1005_a081_4012_9c11_59b6e9f8f156",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									classname = "MEImage",
-									dstBlendFunc = "771",
-									height = "640",
-									ignoreSize = "True",
-									name = "Image_fairyStrategy_1",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "770",
-									texturePath = "ui/Equipment/new_ui/shaixuan/0角色推荐质点效果图.png",
-									touchAble = "False",
-									UILayoutViewModel = 
-									{
-										
-									},
-									width = "1386",
-									ZOrder = "1",
-								},
 							},
 						},
 						{
@@ -1314,7 +1289,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "360",
+							height = "388",
 							ignoreSize = "False",
 							name = "Panel_fairy_skill",
 							sizepercentx = "0",
@@ -1358,7 +1333,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 151,
-										PositionY = 320,
+										PositionY = 362,
 									},
 									width = "278",
 									ZOrder = "1",
@@ -1469,7 +1444,7 @@ local t =
 									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "130",
+									height = "215",
 									ignoreSize = "False",
 									name = "Image_mainskill",
 									sizepercentx = "0",
@@ -1481,7 +1456,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 4,
-										PositionY = 214,
+										PositionY = 225,
 									},
 									width = "490",
 									ZOrder = "1",
@@ -1513,7 +1488,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = 32,
+												PositionX = 6,
+												PositionY = 67,
 											},
 											uipanelviewmodel = 
 											{
@@ -1598,14 +1574,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "17",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "19",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_skill_name",
 													nTextAlign = "1",
@@ -1622,7 +1598,7 @@ local t =
 														PositionX = 74,
 														PositionY = 15,
 													},
-													width = "149",
+													width = "157",
 													ZOrder = "1",
 												},
 												{
@@ -1644,14 +1620,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "15",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "17",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_skill_effect",
 													nTextAlign = "1",
@@ -1668,7 +1644,7 @@ local t =
 														PositionX = 75,
 														PositionY = -15,
 													},
-													width = "132",
+													width = "157",
 													ZOrder = "1",
 												},
 											},
@@ -1698,8 +1674,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -1,
-												PositionY = -34,
+												PositionX = 5,
+												PositionY = 1,
 											},
 											uipanelviewmodel = 
 											{
@@ -1784,14 +1760,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "17",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "19",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_skill_name",
 													nTextAlign = "1",
@@ -1805,10 +1781,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 75,
+														PositionX = 74,
 														PositionY = 15,
 													},
-													width = "149",
+													width = "157",
 													ZOrder = "1",
 												},
 												{
@@ -1830,14 +1806,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "15",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "17",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_skill_effect",
 													nTextAlign = "1",
@@ -1854,7 +1830,7 @@ local t =
 														PositionX = 75,
 														PositionY = -15,
 													},
-													width = "132",
+													width = "157",
 													ZOrder = "1",
 												},
 											},
@@ -1884,8 +1860,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 247,
-												PositionY = 31,
+												PositionX = 4,
+												PositionY = -65,
 											},
 											uipanelviewmodel = 
 											{
@@ -1970,18 +1946,18 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "17",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "19",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_skill_name",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -1994,7 +1970,7 @@ local t =
 														PositionX = 75,
 														PositionY = 15,
 													},
-													width = "149",
+													width = "157",
 													ZOrder = "1",
 												},
 												{
@@ -2016,14 +1992,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "15",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "17",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_skill_effect",
 													nTextAlign = "1",
@@ -2040,7 +2016,7 @@ local t =
 														PositionX = 76,
 														PositionY = -15,
 													},
-													width = "132",
+													width = "157",
 													ZOrder = "1",
 												},
 											},
@@ -5138,7 +5114,6 @@ local t =
 		textures = 
 		{
 			"ui/fairy/new_ui/new_bg_01.png",
-			"ui/Equipment/new_ui/shaixuan/0角色推荐质点效果图.png",
 			"ui/fairy/new_ui/new_06.png",
 			"ui/fairy/new_ui/new_08.png",
 			"ui/fairy/new_ui/new_05.png",

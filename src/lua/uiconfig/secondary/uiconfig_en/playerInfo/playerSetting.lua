@@ -7256,7 +7256,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 568,
-								PositionY = 322,
+								PositionY = 321,
 								IsPercent = true,
 								PercentX = 50,
 								PercentY = 50.31,
@@ -7710,7 +7710,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -8086,7 +8086,7 @@ local t =
 											UUID = "f537a386_d958_47ff_bbd1_67b347542b20",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
-											anchorPointY = "0.5",
+											anchorPointY = "0",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
@@ -8100,7 +8100,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -8110,7 +8110,7 @@ local t =
 											height = "0",
 											ignoreSize = "False",
 											name = "Label_medal_name",
-											nTextAlign = "1",
+											nTextAlign = "2",
 											nTextHAlign = "1",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -8121,7 +8121,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = -105,
+												PositionY = -113,
 											},
 											width = "154",
 											ZOrder = "1",

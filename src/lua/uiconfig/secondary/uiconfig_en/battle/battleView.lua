@@ -6866,11 +6866,11 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "40",
-											ignoreSize = "False",
+											height = "28",
+											ignoreSize = "True",
 											name = "Image_common_victory",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -6914,8 +6914,8 @@ local t =
 														StrokeColor = "#FF22343F",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "19",
+													ignoreSize = "True",
 													name = "Label_title",
 													nTextAlign = "1",
 													nTextHAlign = "0",
@@ -6935,7 +6935,7 @@ local t =
 														nGravity = 3,
 														nAlign = 3
 													},
-													width = "173",
+													width = "296",
 													ZOrder = "1",
 												},
 												{
@@ -6978,7 +6978,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 105,
+														PositionX = 233,
 														RightPosition = -200,
 														TopPosition = -23,
 														relativeToName = "Panel_victory",

@@ -1108,7 +1108,7 @@ return {
         executeDes = "额外伤害-",
         eventParameter = 0,
         iconResource = "",
-        transformScale = 1000,
+        transformScale = -1000,
         isDefense = 0,
         atrId = 231,
         icon = 0,

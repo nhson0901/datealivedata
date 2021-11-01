@@ -6,7 +6,7 @@ local t =
 		
 		{
 			controlID = "Panel-touzhirenTip_Layer1_activity_Game",
-			UUID = "22f4b323_e842_46b8_b820_46439b3da30c",
+			UUID = "42a8e069_0d13_4706_827d_50d45557b1c3",
 			anchorPoint = "False",
 			anchorPointX = "0",
 			anchorPointY = "0",
@@ -137,7 +137,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "22",
+							height = "21",
 							ignoreSize = "True",
 							name = "label_content",
 							nTextAlign = "1",
@@ -154,7 +154,7 @@ local t =
 								PositionX = 481,
 								PositionY = 155,
 							},
-							width = "117",
+							width = "94",
 							ZOrder = "1",
 						},
 						{
@@ -208,14 +208,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_sure",
 									nTextAlign = "1",
@@ -229,16 +229,16 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										
+										PositionX = 2,
 									},
-									width = "51",
+									width = "111",
 									ZOrder = "1",
 								},
 							},
 						},
 						{
 							controlID = "Button_close_Panel_base_Panel-touzhirenTip_Layer1_activity_Game",
-							UUID = "7abbb10a_9bfb_4365_a6c4_1686ba243715",
+							UUID = "f92a779f_6b69_4eee_ad22_cca212eff70b",
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",

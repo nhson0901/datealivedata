@@ -303,4 +303,13 @@ function SaveManager:getCurrentToken()
     return CCUserDefault:sharedUserDefault():getStringForKey("token");
 end
 
+function SaveManager:setPlayerName( token, playerName )
+    CCUserDefault:sharedUserDefault():setStringForKey("GAME_SERVER_PLAYER_NAME_" ..token, playerName)
+    CCUserDefault:sharedUserDefault():flush()
+end
+
+function SaveManager:getPlayerName( token )
+   return CCUserDefault:sharedUserDefault():getStringForKey("GAME_SERVER_PLAYER_NAME_" ..token)
+end
+
 return SaveManager:new()

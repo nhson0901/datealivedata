@@ -147,7 +147,7 @@ local t =
 									{
 										PositionY = -1,
 									},
-									width = "538",
+									width = "677",
 									ZOrder = "1",
 								},
 								{
@@ -172,7 +172,7 @@ local t =
 									{
 										PositionY = -17,
 									},
-									width = "514",
+									width = "649",
 									ZOrder = "1",
 								},
 							},
@@ -217,7 +217,7 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 309,
+								PositionX = 241,
 								PositionY = 465,
 							},
 							width = "232",
@@ -321,7 +321,7 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 806,
+								PositionX = 865,
 								PositionY = 465,
 							},
 							UItype = "Button",
@@ -368,8 +368,8 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 329,
-								PositionY = 436,
+								PositionX = 266,
+								PositionY = 441,
 							},
 							width = "69",
 							ZOrder = "1",
@@ -444,8 +444,8 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 523,
-								PositionY = 436,
+								PositionX = 460,
+								PositionY = 441,
 							},
 							width = "294",
 							ZOrder = "1",
@@ -490,8 +490,8 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 329,
-								PositionY = 391,
+								PositionX = 266,
+								PositionY = 396,
 							},
 							width = "98",
 							ZOrder = "1",
@@ -566,8 +566,8 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 439,
-								PositionY = 391,
+								PositionX = 376,
+								PositionY = 396,
 							},
 							width = "343",
 							ZOrder = "1",
@@ -612,8 +612,8 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 329,
-								PositionY = 301,
+								PositionX = 266,
+								PositionY = 306,
 							},
 							width = "348",
 							ZOrder = "1",

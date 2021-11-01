@@ -20,21 +20,6 @@ function ServerChoose:initUI(ui)
     self.ListView_groupList:setItemsMargin(6)
     self.Button_serverListItem = TFDirector:getChildByPath(self.Panel_prefab, "Button_serverListItem")
 
-    if TFGlobalUtils:isConnectEnServer() then
-        self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
-    elseif TFGlobalUtils:isConnectKoreaTwServer() then
-        self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
-    else
-        self.Button_serverListItem:setTextureNormal("ui/login/7.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/7.png")
-    end
-    if FunctionDataMgr:isMoJingLoginUI() then
-        self.Button_serverListItem:setTextureNormal("ui/login/oneYear/2.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/oneYear/2.png")
-    end
-
     self:refreshView()
 end
 
@@ -47,14 +32,19 @@ function ServerChoose:showServerGroup()
         local item = self.Button_serverListItem:clone()
         self.ListView_groupList:pushBackCustomItem(item)
         local Label_name = TFDirector:getChildByPath(item, "Label_name")
-        Label_name:setText(serverData.groupName)
+        local playerName = SaveManager:getPlayerName(serverData.token)
+        if playerName == nil or playerName == "" then
+            Label_name:setTextById(190001094, _serverIndex)
+        else
+            Label_name:setTextById(190001094, playerName)
+        end
 
         item:onClick(function()
 
                 local function callback()
                     ServerDataMgr:setCurrentServerIndex(_serverIndex)
                     self:getParent():removeLayer(self,true)
-                    EventMgr:dispatchEvent(EV_LOGIN_UPDATESERVERNAME, serverData.group_id, serverData.serverId)
+                    EventMgr:dispatchEvent(EV_LOGIN_UPDATESERVERNAME, groupName)
                 end
 
                 if not ServerDataMgr:getCurrentServerHasRole(_serverIndex) and ServerDataMgr:getServerGroupID(_serverIndex) == 8 then

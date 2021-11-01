@@ -610,7 +610,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "教官称号：",
+													text = "Title of instructor：",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -621,7 +621,7 @@ local t =
 														PercentX = 7.98,
 														PercentY = 56.57,
 													},
-													width = "99",
+													width = "168",
 													ZOrder = "1",
 												},
 												{
@@ -665,10 +665,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 152,
+														PositionX = 215,
 														PositionY = 20,
 														IsPercent = true,
-														PercentX = 29.03,
+														PercentX = 41.03,
 														PercentY = 53.29,
 													},
 													width = "91",

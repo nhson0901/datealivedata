@@ -529,15 +529,8 @@ function BagView:updateBtnView(index)
     end
 
     self.Button_choose:setVisible(btnConfig.category == EC_BagCategory.EQUIPMENT)
+    self.Button_choose:getChildByName("Label_choose"):setTextById(13410018)
 
-    if TFGlobalUtils:isConnectEnServer() then  --英文版打开质筛选按钮
-        self.Button_choose:getChildByName("Label_choose"):setTextById(13410018)
-    else
-        -- TODO CLOSE
-        -- 屏蔽质点筛选
-        self.Button_choose:setVisible(false)
-    end
-    
 
     -- TODO CLOSE
     -- 屏蔽宝石排序
@@ -740,10 +733,8 @@ end
 
 function BagView:updateCapacity()
     local maxNum = 999
-    if TFGlobalUtils:isConnectKoreaTwServer() then
-        if self.curCategory and self.curCategory == EC_BagCategory.EQUIPMENT then
-            maxNum = 9999
-        end
+    if self.curCategory and self.curCategory == EC_BagCategory.EQUIPMENT then
+        maxNum = 9999
     end
     local capacity = self:getCurCapacity(self.selectIndex_)
     self.Label_capacity:setTextById(800005, capacity, maxNum)

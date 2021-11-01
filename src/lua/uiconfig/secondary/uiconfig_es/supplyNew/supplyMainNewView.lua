@@ -408,8 +408,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 47,
-										PositionY = 6,
+										PositionX = 48,
+										PositionY = 16,
 									},
 									width = "80",
 									ZOrder = "1",
@@ -457,7 +457,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 46,
-										PositionY = -27,
+										PositionY = -24,
 									},
 									width = "121",
 									ZOrder = "1",
@@ -508,8 +508,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 68,
-										PositionY = 24,
+										PositionX = 69,
+										PositionY = 34,
 									},
 									width = "30",
 									ZOrder = "1",

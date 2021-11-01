@@ -1720,41 +1720,16 @@ function Utils:sendHttpLog(flagStr, isClick)
     local osname = "WINDOWS"
 
     local url = ""
-    if TFGlobalUtils:isConnectEnServer() then
-        if CC_TARGET_PLATFORM == CC_PLATFORM_IOS then
-            url = "https://sdk-daac-en.datealive.com:9999/data?type=event_client_event_log"
-            if isClick then
-                url = "https://sdk-daac-en.datealive.com:9999/data?type=event_client_click_log"
-            end
-        else
-            url = "http://sdk-daac-en.datealive.com:9998/data?type=event_client_event_log"
-            if isClick then
-                url = "http://sdk-daac-en.datealive.com:9998/data?type=event_client_click_log"
-            end
-        end
-    elseif TFGlobalUtils:isConnectMiniServer() then
-        if CC_TARGET_PLATFORM == CC_PLATFORM_IOS then
-            url = "https://sdk-daac-ml.datealive.com:9999/data?type=event_client_event_log"
-            if isClick then
-                url = "https://sdk-daac-ml.datealive.com:9999/data?type=event_client_click_log"
-            end
-        else
-            url = "http://sdk-daac-ml.datealive.com:9998/data?type=event_client_event_log"
-            if isClick then
-                url = "http://sdk-daac-ml.datealive.com:9998/data?type=event_client_click_log"
-            end
+
+    if CC_TARGET_PLATFORM == CC_PLATFORM_IOS then
+        url = "https://sdk-daac-en.datealive.com:9999/data?type=event_client_event_log"
+        if isClick then
+            url = "https://sdk-daac-en.datealive.com:9999/data?type=event_client_click_log"
         end
     else
-        if CC_TARGET_PLATFORM == CC_PLATFORM_IOS then
-            url = "https://sdk-daac-kt.datealive.com:9999/data?type=event_client_event_log"
-            if isClick then
-                url = "https://sdk-daac-kt.datealive.com:9999/data?type=event_client_click_log"
-            end
-        else
-            url = "http://sdk-daac-kt.datealive.com:9998/data?type=event_client_event_log"
-            if isClick then
-                url = "http://sdk-daac-kt.datealive.com:9998/data?type=event_client_click_log"
-            end
+        url = "http://sdk-daac-en.datealive.com:9998/data?type=event_client_event_log"
+        if isClick then
+            url = "http://sdk-daac-en.datealive.com:9998/data?type=event_client_click_log"
         end
     end
 

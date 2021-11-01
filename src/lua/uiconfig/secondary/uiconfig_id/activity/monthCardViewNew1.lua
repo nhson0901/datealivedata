@@ -174,7 +174,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 70,
+										PositionX = 60,
 										PositionY = -1,
 									},
 									width = "28",
@@ -246,7 +246,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 110,
+										PositionX = 102,
 										PositionY = -1,
 									},
 									width = "46",
@@ -3101,7 +3101,7 @@ local t =
 															controlID = "lab_indexNum_lab_index_img_welfare_Panel_tab1_Image_content_Panel_root_Panel-monthCardViewNew1_Layer1_activity_Game",
 															UUID = "deb7f006_3929_4ee7_97c9_2b3f7bb6bc53",
 															anchorPoint = "False",
-															anchorPointX = "0",
+															anchorPointX = "0.5",
 															anchorPointY = "0.5",
 															classname = "MELabel",
 															compPath = "luacomponents.common.MEIconLabel",
@@ -3137,7 +3137,7 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 45,
+																PositionX = 29,
 																PositionY = -26,
 															},
 															width = "13",
@@ -4859,14 +4859,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "22",
+													fontSize = "20",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "25",
+													height = "23",
 													ignoreSize = "True",
 													name = "Label_buy",
 													nTextAlign = "1",
@@ -4883,7 +4883,7 @@ local t =
 														PositionX = -2,
 														PositionY = 19,
 													},
-													width = "115",
+													width = "102",
 													ZOrder = "1",
 												},
 												{
@@ -5439,14 +5439,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "22",
+													fontSize = "20",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "25",
+													height = "23",
 													ignoreSize = "True",
 													name = "Label_buy",
 													nTextAlign = "1",
@@ -5462,7 +5462,7 @@ local t =
 													{
 														PositionY = 17,
 													},
-													width = "115",
+													width = "102",
 													ZOrder = "1",
 												},
 												{

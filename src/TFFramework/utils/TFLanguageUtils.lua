@@ -35,23 +35,11 @@ cc.MALAYSIA = MALAYSIA
 ]]
 function TFLanguageMgr:getLanguages( )
 	--英语(en)，法语(fr)，德语(de)，西班牙语(es)，泰语(th)，印尼语(id)，韩语(ko)，简体中文(zn)，繁体中文(zh)
-	if TFGlobalUtils:isConnectEnServer() then
-		return {cc.ENGLISH, cc.SIMPLIFIED_CHINESE}
-	end
-	if TFGlobalUtils:isConnectKoreaTwServer() then
-		return {cc.TRADITIONAL_CHINESE, cc.KOREAN}
-	end
 	return {cc.ENGLISH, cc.FRENCH, cc.GERMAN, cc.SPANISH, cc.THAI, cc.INDONESIAN, cc.KOREAN, cc.TRADITIONAL_CHINESE, cc.SIMPLIFIED_CHINESE} 
 end
 
 function TFLanguageMgr:getLanguageTextId( language )
 	local textList = {190012001,190012002,190012003,190012004,190012005,190012006,190012007,190012008,190012009}
-	if TFGlobalUtils:isConnectEnServer() then
-		textList = {190012001, 190012009}
-	elseif TFGlobalUtils:isConnectKoreaTwServer() then
-		textList = {190012008, 190012007}
-	end
-	
 	local list = self:getLanguages()
 	local idx = table.find(list, language)
 	if idx ~= -1 then

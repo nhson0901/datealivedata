@@ -1100,7 +1100,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1033",
 							ZOrder = "1",
 							components = 
@@ -1220,7 +1219,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -1607,14 +1606,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "16",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "18",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_theater_tips_1",
 											nTextAlign = "1",
@@ -1631,7 +1630,7 @@ local t =
 												PositionX = -4,
 												PositionY = -66,
 											},
-											width = "145",
+											width = "196",
 											ZOrder = "1",
 										},
 										{
@@ -1653,7 +1652,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "16",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -1944,7 +1943,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "18",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -1966,7 +1965,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -1,
-												PositionY = -74,
+												PositionY = -80,
 											},
 											width = "210",
 											ZOrder = "1",
@@ -4861,6 +4860,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1033",
 							ZOrder = "1",
 							components = 

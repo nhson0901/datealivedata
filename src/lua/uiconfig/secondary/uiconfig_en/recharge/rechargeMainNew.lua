@@ -70,8 +70,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = -58,
-						PositionY = 35,
+						PositionX = -134,
+						PositionY = 54,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -191,7 +191,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -667,6 +666,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -678,11 +678,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "64",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "img_topBg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -692,11 +692,11 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 337,
+										PositionX = 445,
 										PositionY = 527,
 										relativeToName = "Panel",
 									},
-									width = "420",
+									width = "635",
 									ZOrder = "1",
 								},
 								{
@@ -757,14 +757,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "26",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "30",
 									ignoreSize = "True",
 									name = "label_tip1",
 									nTextAlign = "1",
@@ -778,10 +778,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 216,
+										PositionX = 222,
 										PositionY = 543,
 									},
-									width = "180",
+									width = "237",
 									ZOrder = "1",
 								},
 								{
@@ -804,15 +804,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "21",
+									ignoreSize = "True",
 									name = "label_tip2",
 									nTextAlign = "1",
 									nTextHAlign = "0",
@@ -825,10 +825,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 215,
+										PositionX = 222,
 										PositionY = 515,
 									},
-									width = "240",
+									width = "284",
 									ZOrder = "1",
 								},
 								{
@@ -871,8 +871,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 494,
-										PositionY = 525,
+										PositionX = 713,
+										PositionY = 527,
 										LeftPositon = 164,
 										TopPosition = 397,
 										relativeToName = "panel_totalCell",
@@ -2132,7 +2132,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = -497,
-						PositionY = -493,
+						PositionY = -454,
 						LeftPositon = -497,
 						TopPosition = 718,
 						relativeToName = "Panel",
@@ -2634,7 +2634,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = -725,
-						PositionY = -208,
+						PositionY = -169,
 						LeftPositon = -725,
 						TopPosition = 730,
 						relativeToName = "Panel",
@@ -2909,7 +2909,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = 130,
-						PositionY = -258,
+						PositionY = -219,
 						LeftPositon = 5,
 						TopPosition = 765,
 						relativeToName = "Panel",
@@ -3265,7 +3265,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -3277,6 +3277,8 @@ local t =
 											name = "Label_desc",
 											nTextAlign = "0",
 											nTextHAlign = "0",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -3286,9 +3288,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = -49,
+												PositionY = -40,
 											},
-											width = "210",
+											width = "273",
 											ZOrder = "1",
 										},
 										{
@@ -5087,7 +5089,7 @@ local t =
 											controlID = "label_totalDiamond_cell_total_img_di_panel_cell_Panel-rechargeMainNew_Layer1_recharge_Game",
 											UUID = "c3401001_f3a8_4e49_8ec1_78c8f7d7cd4c",
 											anchorPoint = "False",
-											anchorPointX = "0",
+											anchorPointX = "0.5",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -5102,14 +5104,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "16",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "18",
+											height = "21",
 											ignoreSize = "True",
 											name = "label_totalDiamond",
 											nTextAlign = "1",
@@ -5123,13 +5125,13 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -76,
+												PositionX = -21,
 												PositionY = 146,
 												LeftPositon = 130,
 												TopPosition = 61,
 												relativeToName = "panel_totalCell",
 											},
-											width = "65",
+											width = "72",
 											ZOrder = "1",
 										},
 										{
@@ -5172,7 +5174,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -99,
+												PositionX = -69,
 												PositionY = 146,
 												LeftPositon = 169,
 												TopPosition = 65,
@@ -5337,7 +5339,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "50",
+											height = "61",
 											ignoreSize = "False",
 											name = "btn_reward",
 											normal = "ui/common/button_big_n.png",
@@ -5354,7 +5356,7 @@ local t =
 												relativeToName = "panel_totalCell",
 											},
 											UItype = "Button",
-											width = "122",
+											width = "135",
 											ZOrder = "1",
 											components = 
 											{
@@ -5378,7 +5380,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "16",
+													fontSize = "22",
 													fontStroke = 
 													{
 														IsStroke = true,

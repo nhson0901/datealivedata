@@ -950,15 +950,15 @@ local t =
 																OffsetX = 0,
 																OffsetY = 0,
 															},
-															fontSize = "19",
+															fontSize = "22",
 															fontStroke = 
 															{
 																IsStroke = false,
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "22",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_btn",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -974,7 +974,7 @@ local t =
 																PositionX = -27,
 																PositionY = 1,
 															},
-															width = "150",
+															width = "170",
 															ZOrder = "1",
 														},
 														{

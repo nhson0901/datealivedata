@@ -1514,6 +1514,121 @@ local t =
 							},
 						},
 						{
+							controlID = "panel_roleList_Panel_base_Panel-oneYearloginLayer_Layer2_loginScene_Game",
+							UUID = "b7bac793_c232_47d3_87fb_2fa1a6c1195f",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "False",
+							bgColorOpacity = "50",
+							bIsOpenClipping = "False",
+							classname = "MEPanel",
+							colorType = "0;SingleColor:#FFFF6347;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+							DesignHeight = "640",
+							DesignType = "0",
+							DesignWidth = "960",
+							dstBlendFunc = "771",
+							height = "60",
+							ignoreSize = "False",
+							name = "panel_roleList",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = 140,
+								PositionY = 30,
+							},
+							uipanelviewmodel = 
+							{
+								Layout="Absolute",
+								nType = "0"
+							},
+							visible = "False",
+							width = "258",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "img_roleListBg_panel_roleList_Panel_base_Panel-oneYearloginLayer_Layer2_loginScene_Game",
+									UUID = "d5facb49_2973_4dc9_bdde_719ae45e6055",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+									classname = "MEImage",
+									dstBlendFunc = "771",
+									height = "60",
+									ignoreSize = "False",
+									name = "img_roleListBg",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									texturePath = "ui/login/7.png",
+									touchAble = "False",
+									UILayoutViewModel = 
+									{
+										
+									},
+									width = "258",
+									ZOrder = "1",
+									components = 
+									{
+										
+										{
+											controlID = "label_roleName_img_roleListBg_panel_roleList_Panel_base_Panel-oneYearloginLayer_Layer2_loginScene_Game",
+											UUID = "e7607a49_9f69_456e_9933_78dc8980bc68",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FF92D8F4",
+											fontName = "font/MFLiHei_Noncommercial.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "20",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "23",
+											ignoreSize = "True",
+											name = "label_roleName",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "Liste de serveurs iOS",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "218",
+											ZOrder = "1",
+										},
+									},
+								},
+							},
+						},
+						{
 							controlID = "Panel_logo_Panel_base_Panel-oneYearloginLayer_Layer2_loginScene_Game",
 							UUID = "cf987499_80f1_4820_8a94_41cbbed04bdc",
 							anchorPoint = "False",
@@ -2147,6 +2262,7 @@ local t =
 			"ui/login/oneYear/5.png",
 			"ui/login/oneYear/2.png",
 			"ui/login/oneYear/2_2.png",
+			"ui/login/7.png",
 			"ui/login/oneYear/3.png",
 			"ui/login/004.png",
 			"ui/login/003.png",

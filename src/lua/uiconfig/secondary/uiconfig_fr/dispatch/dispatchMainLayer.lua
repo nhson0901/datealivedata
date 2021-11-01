@@ -639,8 +639,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 47,
-										PositionY = 159,
+										PositionX = 29,
+										PositionY = 149,
 									},
 									width = "30",
 									ZOrder = "1",
@@ -1447,8 +1447,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 58,
-										PositionY = 195,
+										PositionX = 83,
+										PositionY = 175,
 									},
 									width = "87",
 									ZOrder = "1",
@@ -1460,7 +1460,7 @@ local t =
 											UUID = "3746e337_7ae8_46a4_b9c5_5fe1747b6c57",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
-											anchorPointY = "0.5",
+											anchorPointY = "0",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
@@ -1481,10 +1481,10 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_dispatch_tips",
-											nTextAlign = "1",
+											nTextAlign = "2",
 											nTextHAlign = "1",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -1495,10 +1495,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 1,
-												PositionY = 15,
+												PositionX = 2,
+												PositionY = 4,
 											},
-											width = "90",
+											width = "134",
 											ZOrder = "1",
 										},
 									},

@@ -46,7 +46,7 @@ local t = {
 			y=0,
 			speed=0,
 			layer="fuben",
-			canLoad=true,
+			canLoad=false,
 			logic="",
 		},
 		{
@@ -176,7 +176,7 @@ local t = {
 			y=0,
 			speed=0,
 			layer="fuben",
-			canLoad=true,
+			canLoad=false,
 			logic="",
 		},
 		{

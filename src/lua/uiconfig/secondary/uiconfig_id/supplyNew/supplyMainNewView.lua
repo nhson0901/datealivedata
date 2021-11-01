@@ -408,8 +408,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 47,
-										PositionY = 6,
+										PositionX = 49,
+										PositionY = 18,
 									},
 									width = "80",
 									ZOrder = "1",
@@ -419,7 +419,7 @@ local t =
 									UUID = "92a91576_fc50_40a3_86bd_f9744c9b6446",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -433,7 +433,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -443,7 +443,7 @@ local t =
 									height = "0",
 									ignoreSize = "False",
 									name = "Label_name",
-									nTextAlign = "1",
+									nTextAlign = "2",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -455,9 +455,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 46,
-										PositionY = -27,
+										PositionY = -46,
 									},
-									width = "100",
+									width = "93",
 									ZOrder = "1",
 								},
 								{
@@ -506,8 +506,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 68,
-										PositionY = 24,
+										PositionX = 70,
+										PositionY = 36,
 									},
 									width = "30",
 									ZOrder = "1",

@@ -133,13 +133,14 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "64",
+							height = "50",
 							ignoreSize = "True",
 							name = "logo",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
+							texturePath = "ui/login/66.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -149,7 +150,7 @@ local t =
 								PercentX = 50.23,
 								PercentY = 4.23,
 							},
-							width = "64",
+							width = "1386",
 							ZOrder = "1",
 							components = 
 							{
@@ -1508,6 +1509,121 @@ local t =
 							},
 						},
 						{
+							controlID = "panel_roleList_Panel_base_Panel-loginLayer_Layer1_loginScene_Game",
+							UUID = "c2453626_6079_4dfd_a271_107b67e41506",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "False",
+							bgColorOpacity = "50",
+							bIsOpenClipping = "False",
+							classname = "MEPanel",
+							colorType = "0;SingleColor:#FFFF6347;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+							DesignHeight = "640",
+							DesignType = "0",
+							DesignWidth = "960",
+							dstBlendFunc = "771",
+							height = "60",
+							ignoreSize = "False",
+							name = "panel_roleList",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = 140,
+								PositionY = 30,
+							},
+							uipanelviewmodel = 
+							{
+								Layout="Absolute",
+								nType = "0"
+							},
+							visible = "False",
+							width = "258",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "img_roleListBg_panel_roleList_Panel_base_Panel-loginLayer_Layer1_loginScene_Game",
+									UUID = "f50cda17_db9b_4681_92be_3aaf6b4ebe36",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+									classname = "MEImage",
+									dstBlendFunc = "771",
+									height = "60",
+									ignoreSize = "False",
+									name = "img_roleListBg",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									texturePath = "ui/login/7.png",
+									touchAble = "False",
+									UILayoutViewModel = 
+									{
+										
+									},
+									width = "258",
+									ZOrder = "1",
+									components = 
+									{
+										
+										{
+											controlID = "label_roleName_img_roleListBg_panel_roleList_Panel_base_Panel-loginLayer_Layer1_loginScene_Game",
+											UUID = "9207f9cc_de9f_4646_8c93_11099c1e50de",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FF92D8F4",
+											fontName = "font/MFLiHei_Noncommercial.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "24",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "28",
+											ignoreSize = "True",
+											name = "label_roleName",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "iOS-Serverliste",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "191",
+											ZOrder = "1",
+										},
+									},
+								},
+							},
+						},
+						{
 							controlID = "Panel_logo_Panel_base_Panel-loginLayer_Layer1_loginScene_Game",
 							UUID = "5dfb6fb6_37bb_431c_8698_84155cc40557",
 							anchorPoint = "False",
@@ -1637,7 +1753,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "70",
 							ignoreSize = "True",
 							name = "Button_User_proto",
 							normal = "ui/login/004.png",
@@ -1654,7 +1770,7 @@ local t =
 								relativeToName = "Panel",
 							},
 							UItype = "Button",
-							width = "63",
+							width = "70",
 							ZOrder = "1",
 							components = 
 							{
@@ -1718,7 +1834,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "70",
 							ignoreSize = "True",
 							name = "Button_Conceal_proto",
 							normal = "ui/login/003.png",
@@ -1735,7 +1851,7 @@ local t =
 								relativeToName = "Panel",
 							},
 							UItype = "Button",
-							width = "63",
+							width = "70",
 							ZOrder = "1",
 							components = 
 							{
@@ -1799,7 +1915,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "70",
 							ignoreSize = "True",
 							name = "Button_notice",
 							normal = "ui/login/002.png",
@@ -1816,7 +1932,7 @@ local t =
 								relativeToName = "Panel",
 							},
 							UItype = "Button",
-							width = "63",
+							width = "70",
 							ZOrder = "1",
 							components = 
 							{
@@ -2126,6 +2242,7 @@ local t =
 	{
 		textures = 
 		{
+			"ui/login/66.png",
 			"ui/login/1.png",
 			"ui/common/pop_ui/pop_ui_01.png",
 			"ui/login/2.png",

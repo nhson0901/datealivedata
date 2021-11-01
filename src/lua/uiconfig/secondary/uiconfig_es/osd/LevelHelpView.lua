@@ -564,18 +564,20 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "28",
+											fontSize = "30",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "title1",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -586,9 +588,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 60,
-												PositionY = 434,
+												PositionY = 446,
 											},
-											width = "1182",
+											width = "649",
 											ZOrder = "1",
 										},
 										{
@@ -685,7 +687,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -256,
+														PositionX = -277,
 													},
 													width = "30",
 													ZOrder = "1",
@@ -716,8 +718,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "27",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "title",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -730,10 +732,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -190,
+														PositionX = -187,
 														PositionY = -1,
 													},
-													width = "301",
+													width = "154",
 													ZOrder = "1",
 												},
 												{
@@ -1072,8 +1074,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "27",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "title",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -1089,7 +1091,7 @@ local t =
 														PositionX = -210,
 														PositionY = -1,
 													},
-													width = "239",
+													width = "150",
 													ZOrder = "1",
 												},
 												{

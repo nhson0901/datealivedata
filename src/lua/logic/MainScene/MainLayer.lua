@@ -174,7 +174,7 @@ function MainLayer:initUI(ui)
 	end	
     self.Button_activity2 = TFDirector:getChildByPath(self.Panel_right, "Button_Activity2"):show()
     self.Image_activityTip = TFDirector:getChildByPath(self.Button_activity, "Image_activityTip")
-    self.Button_rankNotice = TFDirector:getChildByPath(self.Panel_left , "Button_rankNotice")
+    self.Button_rankNotice = TFDirector:getChildByPath(self.Panel_left , "Button_rankNotice"):hide()
     self.Image_activityTip2 = TFDirector:getChildByPath(self.Button_activity2, "Image_activityTip")
     self.Button_assistance = TFDirector:getChildByPath(self.Panel_left, "Button_assistance")
     self.Image_assistanceTip = TFDirector:getChildByPath(self.Button_assistance, "Image_assistanceTip"):hide()
@@ -395,7 +395,7 @@ function MainLayer:initUI(ui)
     self.image_dot = {}
     for i=1,9 do
         self.image_dot[i] = TFDirector:getChildByPath(self.Panel_activity,"Image_dot"..i)
-        self.image_dot[i]:setPosition(self.image_dot[i]:getPosition() + ccp(-80 , 0))
+        --self.image_dot[i]:setPosition(self.image_dot[i]:getPosition() + ccp(-80 , 0))
     end
     self.btn_ad = TFDirector:getChildByPath(self.Panel_activity, "btn_ad")
     if self.btn_ad then
@@ -449,14 +449,6 @@ function MainLayer:initUI(ui)
     self.ui:runAnimation("Action4",1)
 
     self.button_Caociyuan = TFDirector:getChildByPath(ui,"button_Caociyuan")
-
-    if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectMiniServer()  then
-        self.button_Caociyuan:setTextureNormal("ui/mainLayer3/c12.png")  --英文版设置活动按钮ui路径统一为地错
-        self.button_Caociyuan:setTexturePressed("ui/mainLayer3/c12.png")  --英文版设置活动按钮ui路径统一为地错
-    else
-        self.button_Caociyuan:setTextureNormal("ui/mainLayer3/c999.png")
-        self.button_Caociyuan:setTexturePressed("ui/mainLayer3/c999.png")
-    end
     
     self.Image_CaociyuanClip = TFDirector:getChildByPath(ui,"Image_CaociyuanClip")
     self.button_OneYear   = TFDirector:getChildByPath(ui,"button_OneYear")
@@ -586,11 +578,8 @@ function MainLayer:addIPText()
     if serverInfo then
         local ip = serverInfo.gameServerIp
         local port = serverInfo.gameServerPort
-        local groupCfgId = LogonHelper:getGroupCfgId()
-        local groupId = LogonHelper:getGroupId()
-        local groupName = ServerDataMgr:getGroupNameById(groupCfgId, groupId)
-        local serverId = LogonHelper:getServerId()
-        local serverName = ServerDataMgr:getServerNameById(groupCfgId, serverId)
+        local groupName = LogonHelper:getGroupName()
+        local serverName = LogonHelper:getServerName()
         local innerStr = "(" .. groupName .. ")"
         if serverName then
             innerStr = serverName ..innerStr
@@ -826,38 +815,16 @@ function MainLayer:showLeftBtnAnim()
 
      local threeActivity = {}
 
-     if TFGlobalUtils:isConnectMiniServer( ) then   --如果是小语种服
-        if self.button_OneYear:isVisible() then
-            table.insert(threeActivity , self.button_OneYear)
-        end
-        if self.Button_Activity6:isVisible() then
-            table.insert(threeActivity , self.Button_Activity6)
-        end
-        if self.button_Caociyuan:isVisible() then
-            table.insert(threeActivity , self.button_Caociyuan)
-        end
-    elseif TFGlobalUtils:isConnectKoreaTwServer() then
-        if self.Button_Activity5:isVisible() then
-            table.insert(threeActivity , self.Button_Activity5)
-        end
-        if self.Button_Activity6:isVisible() then
-            table.insert(threeActivity , self.Button_Activity6)
-        end
-        if self.button_Caociyuan:isVisible() then
-            table.insert(threeActivity , self.button_Caociyuan)
-        end
-    else
-        if self.button_OneYear:isVisible() then
-            table.insert(threeActivity , self.button_OneYear)
-        end
-        if self.button_Caociyuan:isVisible() then
-            table.insert(threeActivity , self.button_Caociyuan)
-        end
-        if self.Button_Activity5:isVisible() then
-            table.insert(threeActivity , self.Button_Activity5)
-        end
-     end
-    
+
+     if self.button_OneYear:isVisible() then
+        table.insert(threeActivity , self.button_OneYear)
+    end
+    if self.Button_Activity6:isVisible() then
+        table.insert(threeActivity , self.Button_Activity6)
+    end
+    if self.button_Caociyuan:isVisible() then
+        table.insert(threeActivity , self.button_Caociyuan)
+    end
 
     if self.Button_newPlayer:isVisible()  and #threeActivity<=1 then
         self.Button_newPlayer:setScale(0.85)
@@ -1187,8 +1154,6 @@ function MainLayer:addActivity(info)
     local layer = TFPanel:create()
     local activityImg = self.activityItem:clone()
     activityImg:setTexture(info.adicon)
-    
-    activityImg:setContentSize(CCSize(360, 88))
     activityImg:setVisible(true)
     layer:addChild(activityImg)
 
@@ -1338,9 +1303,10 @@ end
 function MainLayer:AdBoardIsOpen(id)
     --萌新
     if id == 5 then
-        local cnt =  RechargeDataMgr:getBuyCount(100)
+        local cnt =  GoodsDataMgr:getItemCount(1101013)--RechargeDataMgr:getBuyCount(100)   --海外换成道具数量拥有判断
+        local buyCnt = RechargeDataMgr:getBuyCount(100)
         local isOpen = FunctionDataMgr:isOpenByServer(59)
-        if cnt == 0 and isOpen then
+        if cnt == 0 and isOpen and buyCnt == 0 then
             return true
         end
     --七日活动
@@ -3486,45 +3452,18 @@ function MainLayer:updateOneYearBtns()
 
         
         local threeActivity = {}
-        if TFGlobalUtils:isConnectMiniServer( ) then   --如果是小语种服
-            if self.button_OneYear:isVisible() then
-                table.insert(threeActivity , self.button_OneYear)
-            end
-            if self.Button_Activity6:isVisible() then
-                table.insert(threeActivity , self.Button_Activity6)
-            end
-            if self.button_Caociyuan:isVisible() then
-                table.insert(threeActivity , self.button_Caociyuan)
-            end
-        elseif TFGlobalUtils:isConnectKoreaTwServer() then
-            if self.Button_Activity5:isVisible() then
-                table.insert(threeActivity , self.Button_Activity5)
-            end
-            if self.Button_Activity6:isVisible() then
-                table.insert(threeActivity , self.Button_Activity6)
-            end
-            if self.button_Caociyuan:isVisible() then
-                table.insert(threeActivity , self.button_Caociyuan)
-            end
-        else
-            if self.button_OneYear:isVisible() then
-                table.insert(threeActivity , self.button_OneYear)
-            end
-            if self.button_Caociyuan:isVisible() then
-                table.insert(threeActivity , self.button_Caociyuan)
-            end
-            if self.Button_Activity5:isVisible() then
-                table.insert(threeActivity , self.Button_Activity5)
-            end
-         end
-            
-
+        if self.button_OneYear:isVisible() then
+            table.insert(threeActivity , self.button_OneYear)
+        end
+        if self.Button_Activity6:isVisible() then
+            table.insert(threeActivity , self.Button_Activity6)
+        end
+        if self.button_Caociyuan:isVisible() then
+            table.insert(threeActivity , self.button_Caociyuan)
+        end
 		
 		--按钮移动位置
 		if not self:isOneCelebrationMainLayer() then
-
-            
-
 			if  (self.Button_Activity5 and self.Button_Activity5:isVisible()) 
                 or (self.Button_Activity6 and self.Button_Activity6:isVisible()) 
                 or (self.Button_Activity90 and self.Button_Activity90:isVisible()) 
@@ -3555,7 +3494,6 @@ function MainLayer:updateOneYearBtns()
 				
 				self.Panel_activity:setPosition(ccp(457,448))
 			end
-            self.Panel_activity:setPosition(ccp(520,460))
 		end
 
         local activityPos_left = TFDirector:getChildByPath(self.ui,"activityPos_left")
@@ -3805,7 +3743,7 @@ function MainLayer:checkShowNewGuyGift()
     if not GlobalFuncDataMgr:isOpen(10) then
         return false 
     end
-    local cnt =  RechargeDataMgr:getBuyCount(100)
+    local cnt =  GoodsDataMgr:getItemCount(1101013)--RechargeDataMgr:getBuyCount(100)   --海外换成道具数量拥有判断
     local isOpen = FunctionDataMgr:isOpenByServer(59)
     local show = (cnt == 0 and isOpen)
     if not show then

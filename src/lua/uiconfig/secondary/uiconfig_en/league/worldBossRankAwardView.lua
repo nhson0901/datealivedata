@@ -123,7 +123,7 @@ local t =
 									controlID = "Label_tittle_Image_bg_Panel_root_Panel-worldBossRankAwardView_Layer1_league_Game",
 									UUID = "fa9661e5_ffc3_4193_b40b_9f1325569c56",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -145,7 +145,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_tittle",
 									nTextAlign = "1",
@@ -154,15 +154,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Combat reward l",
+									text = "Combat reward",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -297,
+										PositionX = -357,
 										PositionY = 178,
 									},
-									width = "112",
+									width = "195",
 									ZOrder = "1",
 								},
 								{
@@ -208,7 +208,8 @@ local t =
 										PositionX = -238,
 										PositionY = 175,
 									},
-									width = "58",
+									visible = "False",
+									width = "54",
 									ZOrder = "1",
 								},
 								{
@@ -380,7 +381,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -392,6 +393,7 @@ local t =
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													rotation = "-90",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -403,7 +405,7 @@ local t =
 													{
 														PositionY = -3,
 													},
-													width = "40",
+													width = "150",
 													ZOrder = "1",
 												},
 											},
@@ -484,7 +486,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -496,6 +498,7 @@ local t =
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													rotation = "-90",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -507,7 +510,7 @@ local t =
 													{
 														PositionY = -3,
 													},
-													width = "40",
+													width = "150",
 													ZOrder = "1",
 												},
 											},
@@ -689,10 +692,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 131,
-												PositionY = -220,
+												PositionX = 316,
+												PositionY = -217,
 											},
-											width = "40",
+											width = "43",
 											ZOrder = "1",
 											components = 
 											{
@@ -737,10 +740,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -188,
+														PositionX = -356,
 														PositionY = 3,
 													},
-													width = "187",
+													width = "344",
 													ZOrder = "1",
 												},
 												{
@@ -783,10 +786,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -205,
+														PositionX = -391,
 														PositionY = 3,
 													},
-													width = "36",
+													width = "40",
 													ZOrder = "1",
 												},
 											},
@@ -875,14 +878,14 @@ local t =
 												PositionX = -97,
 												PositionY = -64,
 											},
-											width = "143",
+											width = "209",
 											ZOrder = "1",
 										},
 										{
 											controlID = "Label_worldBossRankAwardView_1_Panel_2_Image_bg_Panel_root_Panel-worldBossRankAwardView_Layer1_league_Game",
 											UUID = "59ba8b49_cd54_4776_b67a_d3ab2d6e53dc",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "0",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -918,17 +921,17 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 95,
+												PositionX = 120,
 												PositionY = -64,
 											},
-											width = "92",
+											width = "112",
 											ZOrder = "1",
 										},
 										{
 											controlID = "Label_worldBossLeagueAwardView_1-Copy1_Panel_2_Image_bg_Panel_root_Panel-worldBossRankAwardView_Layer1_league_Game",
 											UUID = "2c5c7b87_81b6_40bf_921f_bf96da513719",
 											anchorPoint = "False",
-											anchorPointX = "0",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -964,10 +967,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 432,
-												PositionY = -64,
+												PositionX = 613,
+												PositionY = -62,
 											},
-											width = "179",
+											width = "189",
 											ZOrder = "1",
 										},
 										{
@@ -1099,7 +1102,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = 5,
-						PositionY = -691,
+						PositionY = -664,
 						LeftPositon = 5,
 						TopPosition = 691,
 						relativeToName = "Panel",
@@ -1303,9 +1306,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -324,
-										PositionY = 42,
+										PositionY = 45,
 									},
-									width = "135",
+									width = "220",
 									ZOrder = "1",
 								},
 								{
@@ -1334,7 +1337,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "23",
 									ignoreSize = "True",
 									name = "lab_num",
 									nTextAlign = "1",
@@ -1351,7 +1354,7 @@ local t =
 										PositionX = -271,
 										PositionY = -2,
 									},
-									width = "56",
+									width = "43",
 									ZOrder = "1",
 								},
 								{
@@ -1467,7 +1470,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "60",
 											ZOrder = "1",
 										},
 									},
@@ -1516,7 +1519,7 @@ local t =
 										PositionY = 1,
 									},
 									visible = "False",
-									width = "75",
+									width = "132",
 									ZOrder = "1",
 								},
 								{
@@ -1562,7 +1565,7 @@ local t =
 										PositionX = 248,
 										PositionY = 1,
 									},
-									width = "75",
+									width = "81",
 									ZOrder = "1",
 								},
 							},
@@ -1682,7 +1685,7 @@ local t =
 										StrokeColor = "#FF000000",
 										StrokeSize = 1,
 									},
-									height = "29",
+									height = "27",
 									ignoreSize = "True",
 									name = "Label_rank",
 									nTextAlign = "1",
@@ -1722,15 +1725,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_worldBossRankAwardView_1",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -1746,7 +1749,7 @@ local t =
 										PositionX = -89,
 										PositionY = -17,
 									},
-									width = "83",
+									width = "100",
 									ZOrder = "1",
 								},
 								{

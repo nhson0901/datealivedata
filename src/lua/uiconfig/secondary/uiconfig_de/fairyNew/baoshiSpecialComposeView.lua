@@ -1049,18 +1049,20 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "27",
+											fontSize = "26",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "31",
+											height = "30",
 											ignoreSize = "True",
 											name = "label_compose",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											scaleX = "0.5",
+											scaleY = "0.5",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1073,7 +1075,7 @@ local t =
 												PositionX = -1,
 												PositionY = -3,
 											},
-											width = "144",
+											width = "152",
 											ZOrder = "1",
 										},
 										{
@@ -1507,7 +1509,7 @@ local t =
 												PositionX = 7,
 												PositionY = -2,
 											},
-											width = "146",
+											width = "159",
 											ZOrder = "1",
 										},
 									},
@@ -1555,7 +1557,7 @@ local t =
 										PositionX = 297,
 										PositionY = 508,
 									},
-									width = "59",
+									width = "64",
 									ZOrder = "1",
 								},
 								{
@@ -1598,10 +1600,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 257,
+										PositionX = 226,
 										PositionY = 508,
 									},
-									width = "80",
+									width = "87",
 									ZOrder = "1",
 								},
 								{
@@ -1644,10 +1646,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 340,
+										PositionX = 371,
 										PositionY = 508,
 									},
-									width = "90",
+									width = "100",
 									ZOrder = "1",
 								},
 								{
@@ -1660,7 +1662,7 @@ local t =
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "88",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "img_choose",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -1673,7 +1675,7 @@ local t =
 										PositionX = 297,
 										PositionY = 508,
 									},
-									width = "306",
+									width = "461",
 									ZOrder = "1",
 								},
 								{
@@ -1750,7 +1752,7 @@ local t =
 											{
 												PositionX = -29,
 											},
-											width = "263",
+											width = "256",
 											ZOrder = "1",
 										},
 									},
@@ -1829,7 +1831,7 @@ local t =
 											{
 												
 											},
-											width = "70",
+											width = "69",
 											ZOrder = "1",
 										},
 									},
@@ -1971,7 +1973,7 @@ local t =
 												PositionX = 59,
 												PositionY = 17,
 											},
-											width = "33",
+											width = "32",
 											ZOrder = "1",
 										},
 									},
@@ -2113,7 +2115,7 @@ local t =
 												PositionX = 59,
 												PositionY = 17,
 											},
-											width = "33",
+											width = "32",
 											ZOrder = "1",
 										},
 									},

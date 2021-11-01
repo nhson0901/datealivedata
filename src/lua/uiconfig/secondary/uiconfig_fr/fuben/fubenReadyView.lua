@@ -268,6 +268,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "740",
 									ZOrder = "1",
 									components = 
@@ -2442,7 +2443,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "740",
 									ZOrder = "1",
 									components = 
@@ -2783,7 +2783,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -2881,7 +2881,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "22",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -3274,14 +3274,14 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEButton",
 									ClickHighLightEnabled = "True",
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
 									height = "50",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Button_cost",
 									normal = "ui/fuben/cost_diban.png",
 									sizepercentx = "0",
@@ -3291,11 +3291,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 175,
+										PositionX = 160,
 										PositionY = -175,
 									},
 									UItype = "Button",
-									width = "104",
+									width = "124",
 									ZOrder = "1",
 									components = 
 									{
@@ -3341,7 +3341,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -22,
-												PositionY = 7,
+												PositionY = 2,
 											},
 											width = "45",
 											ZOrder = "1",
@@ -3368,7 +3368,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 21,
+												PositionX = 37,
 												PositionY = 10,
 											},
 											width = "100",
@@ -3414,7 +3414,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 18,
+												PositionX = 32,
 												PositionY = -13,
 											},
 											width = "42",
@@ -3447,7 +3447,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 96,
+										PositionX = 79,
 										PositionY = -174,
 									},
 									uipanelviewmodel = 

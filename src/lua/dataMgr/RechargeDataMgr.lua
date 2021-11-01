@@ -116,10 +116,8 @@ function RechargeDataMgr:onLogin()
 	TFDirector:send(c2s.RECHARGE_GET_MONTH_CARD_INFO, {})
 	TFDirector:send(c2s.RECHARGE_REQ_RECEIVE_SYS_FUN_INFO, {})
 	TFDirector:send(c2s.RECHARGE_REQ_GIFT_LOGIN_CHECK, {})
-
-	if not TFGlobalUtils:isConnectKoreaTwServer() then   --除韩台服外
-		TFDirector:send(c2s.RECHARGE_REQ_GET_DIAMOND_EXCHANGE_ITEM, {})  --海外版新增统计退款扣除钻石代币协议
-	end
+	TFDirector:send(c2s.RECHARGE_REQ_GET_DIAMOND_EXCHANGE_ITEM, {})  --海外版新增统计退款扣除钻石代币协议
+	
 	
 
 	self:sendGetTotalPayRewardInfo()

@@ -1,17 +1,13 @@
 
 local ServerListView = class("ServerListView", BaseLayer)
 
-function ServerListView:initData(param)
-    self.groupList = ServerDataMgr:getGroupList()
-
-    self.usingGroupCfgId = param.groupCfgId
-    self.usingGroupId = param.group_id
-    self.usingServerId = param.serverId
+function ServerListView:initData()
+    self.server_ = ServerDataMgr:getServerList()
 end
 
-function ServerListView:ctor( param )
+function ServerListView:ctor(...)
     self.super.ctor(self)
-    self:initData(param)
+    self:initData(...)
     self:init("lua.uiconfig.test.serverListView")
 end
 
@@ -28,19 +24,6 @@ function ServerListView:initUI(ui)
     self.ListView_groupList:setItemsMargin(6)
 
     self.Button_serverListItem = TFDirector:getChildByPath(self.Panel_prefab, "Button_serverListItem")
-    if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
-        self.Button_serverListItem:setTextureNormal("ui/login/oneYear/2.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/oneYear/2.png")
-    elseif TFGlobalUtils:isConnectEnServer() then
-        self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
-    elseif TFGlobalUtils:isConnectKoreaTwServer() then
-        self.Button_serverListItem:setTextureNormal("ui/login/new1/b7.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/new1/b7.png")
-    else
-        self.Button_serverListItem:setTextureNormal("ui/login/7.png")
-        self.Button_serverListItem:setTexturePressed("ui/login/7.png")
-    end
 
     self:refreshView()
 end
@@ -50,110 +33,56 @@ function ServerListView:refreshView()
 end
 
 function ServerListView:showServerGroup()
-    for _, _group in ipairs(self.groupList) do
+    local sortServer = {}
+    for k, v in pairs(self.server_) do
+        sortServer[#sortServer + 1] = {groupName = k, server = v}
+    end
+    table.sort(sortServer, function(a,b)
+        return a.server.sort < b.server.sort
+    end)
+
+    for i, v in ipairs(sortServer) do
+        local groupName = v.groupName
+        local serverList = v.server.list
         local item = self.Button_serverListItem:clone()
         self.ListView_groupList:pushBackCustomItem(item)
         local Label_name = TFDirector:getChildByPath(item, "Label_name")
-        if TFGlobalUtils:isConnectKoreaTwServer( ) then
-            Label_name:setFontColor(ccc3(255 , 255 , 255))
-        elseif TFGlobalUtils:isConnectMiniServer() then
-            if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
-                Label_name:setFontColor(ccc3(254 , 200 , 253))
-            else
-                Label_name:setFontColor(ccc3(255 , 255 , 255))
-            end
-        elseif TFGlobalUtils:isConnectEnServer() then
-            if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
-                Label_name:setFontColor(ccc3(254 , 200 , 253))
-            else
-                Label_name:setFontColor(ccc3(255 , 255 , 255))
-            end
+        local realName = groupName
+        if v.server.name then
+            realName = v.server.name
         end
-
-        -- if (_group.groupType == GLOBAL_SERVER_LIST.SERVER_NIMILANGUAGE) or (_group.groupType == GLOBAL_SERVER_LIST.SERVER_KOREA_TW) then
-        --     local imgNew = TFImage:create("ui/recharge/new.png")
-        --     imgNew:setPosition(80 , 20)
-        --     item:addChild(imgNew)
-        -- end
-        Label_name:setText(_group.groupName)
+        Label_name:setText(realName)
 
         item:onClick(function()
-            if _group.list and #_group.list > 1 then
-                self.ListView_serverList:s():show()
-                self:showServerList(_group)
-                return
-            end
-
-            local serverId = nil
-            if _group.list then
-                serverId = _group.list[1].serverId
-            end
-            local function callback( )
-                TFGlobalUtils:setCacheServer(_group.groupType)
-                LogonHelper:switchLogin(_group.group_id, serverId, _group.id)
-                --AlertManager:close()
-                self:getParent():removeLayer(self,true)
-                EventMgr:dispatchEvent(EV_LOGIN_UPDATESERVERNAME, _group.group_id, serverId, _group.id)
-            end
-            self:checkChangeLanaguage(_group, serverId, callback)
+                if serverList and #serverList > 0 then
+                    self.ListView_serverList:s():show()
+                    self:showServerList(groupName)
+                else
+                    LogonHelper:switchLogin(groupName)
+                    --AlertManager:close()
+                    self:getParent():removeLayer(self,true)
+                    EventMgr:dispatchEvent(EV_LOGIN_UPDATESERVERNAME, groupName)
+                end
         end)
     end
 end
 
-function ServerListView:showServerList( group )
+function ServerListView:showServerList(groupName)
+    local serverList = self.server_[groupName].list
     self.ListView_serverList:removeAllItems()
-    for _, _server in ipairs(group.list) do
+    for _, serverName in ipairs(serverList) do
         local item = self.Button_serverListItem:clone()
         self.ListView_serverList:pushBackCustomItem(item)
         local Label_name = TFDirector:getChildByPath(item, "Label_name")
-        if TFGlobalUtils:isConnectEnServer() then
-            Label_name:setFontColor(ccc3(252 , 245 , 216))
-        end
-        Label_name:setText(_server.serverName)
+        Label_name:setText(serverName)
 
         item:onClick(function()
-                local function callback( )
-                    TFGlobalUtils:setCacheServer(group.groupType)
-                    LogonHelper:switchLogin(group.group_id, _server.serverId, group.id)
-                    --AlertManager:close()
-                    self:getParent():removeLayer(self,true)
-                    EventMgr:dispatchEvent(EV_LOGIN_UPDATESERVERNAME, group.group_id, _server.serverId, group.id)
-                end
-                self:checkChangeLanaguage(group, _server.serverId, callback)
+                LogonHelper:switchLogin(groupName, serverName)
+                --AlertManager:close()
+                self:getParent():removeLayer(self,true)
+                EventMgr:dispatchEvent(EV_LOGIN_UPDATESERVERNAME, groupName, serverName)
         end)
     end
-end
-
-function ServerListView:checkChangeLanaguage( group, serverid, callback )
-    local usingGroup = nil
-    for _, _group in ipairs(self.groupList) do
-        if _group.id == self.usingGroupCfgId then
-            usingGroup = _group
-            break
-        end
-    end
-    if usingGroup and usingGroup.groupType ~= group.groupType then
-        local alertparams = clone(EC_GameAlertParams)
-        alertparams.msg = 190012010
-        alertparams.comfirmCallback = function()
-            if HeitaoSdk then
-                HeitaoSdk.loginOut()
-            end
-            LogonHelper:setCacheGroupCfgId(group.id)
-            LogonHelper:setCacheServerId(serverid)
-            LogonHelper:setCacheGroupId(group.group_id)
-            TFGlobalUtils:setCacheServer(group.groupType)
-            local migrationServerId = TFGlobalUtils:getMigrationServerIdByGameServerId(group.groupType)
-            TFGlobalUtils:setMigrationServerId(migrationServerId)
-            -- 重启客户端
-            TFDirector:dispatchGlobalEventWith("Engine_Will_Restart", {})
-            restartLuaEngine("")
-        end
-        showGameAlert(alertparams)
-        return
-    end
-
-    callback()
 end
 
 function ServerListView:registerEvents()

@@ -250,10 +250,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 195,
+								PositionX = 208,
 								PositionY = 611,
 							},
-							width = "225",
+							width = "250",
 							ZOrder = "1",
 						},
 						{
@@ -327,7 +327,7 @@ local t =
 								PositionY = 606,
 							},
 							visible = "False",
-							width = "116",
+							width = "114",
 							ZOrder = "1",
 						},
 						{
@@ -405,7 +405,7 @@ local t =
 									{
 										
 									},
-									width = "111",
+									width = "113",
 									ZOrder = "1",
 								},
 							},
@@ -484,7 +484,7 @@ local t =
 									{
 										
 									},
-									width = "93",
+									width = "97",
 									ZOrder = "1",
 								},
 							},
@@ -704,7 +704,7 @@ local t =
 															{
 																PositionY = 5,
 															},
-															width = "78",
+															width = "84",
 															ZOrder = "1",
 														},
 														{
@@ -749,7 +749,8 @@ local t =
 															{
 																PositionY = -20,
 															},
-															width = "38",
+															visible = "False",
+															width = "33",
 															ZOrder = "1",
 														},
 													},
@@ -831,7 +832,7 @@ local t =
 															{
 																PositionY = 5,
 															},
-															width = "60",
+															width = "67",
 															ZOrder = "1",
 														},
 														{
@@ -876,7 +877,8 @@ local t =
 															{
 																PositionY = -20,
 															},
-															width = "55",
+															visible = "False",
+															width = "50",
 															ZOrder = "1",
 														},
 													},
@@ -902,7 +904,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "50",
+							height = "61",
 							ignoreSize = "False",
 							name = "Panel_item",
 							sizepercentx = "0",
@@ -934,8 +936,8 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "50",
-									ignoreSize = "True",
+									height = "61",
+									ignoreSize = "False",
 									name = "Image_bg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -997,18 +999,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "22",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_item_name",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1021,7 +1023,7 @@ local t =
 										PositionX = 108,
 										PositionY = 25,
 									},
-									width = "92",
+									width = "286",
 									ZOrder = "1",
 								},
 							},
@@ -1163,7 +1165,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Color",
+											text = "Options",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1171,7 +1173,7 @@ local t =
 												PositionX = 23,
 												PositionY = 20,
 											},
-											width = "69",
+											width = "108",
 											ZOrder = "1",
 										},
 									},
@@ -1280,10 +1282,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 112,
+												PositionX = 123,
 												PositionY = 20,
 											},
-											width = "197",
+											width = "220",
 											ZOrder = "1",
 										},
 									},
@@ -1395,7 +1397,7 @@ local t =
 												PositionX = 53,
 												PositionY = 20,
 											},
-											width = "80",
+											width = "88",
 											ZOrder = "1",
 										},
 									},
@@ -1654,15 +1656,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Color",
+											text = "Options",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 53,
+												PositionX = 64,
 												PositionY = 20,
 											},
-											width = "69",
+											width = "79",
 											ZOrder = "1",
 										},
 									},
@@ -1771,10 +1773,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 53,
-												PositionY = 20,
+												PositionX = 89,
+												PositionY = 17,
 											},
-											width = "157",
+											width = "162",
 											ZOrder = "1",
 										},
 									},

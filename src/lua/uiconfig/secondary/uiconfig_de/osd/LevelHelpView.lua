@@ -731,8 +731,8 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -291,
-														PositionY = -37,
+														PositionX = -295,
+														PositionY = -25,
 													},
 													width = "214",
 													ZOrder = "1",
@@ -757,7 +757,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -109,
+														PositionX = -69,
 													},
 													width = "2",
 													ZOrder = "1",
@@ -813,7 +813,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -91,
+														PositionX = -59,
 														PositionY = -45,
 													},
 													uipanelviewmodel = 
@@ -821,7 +821,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "367",
+													width = "338",
 													ZOrder = "1",
 													components = 
 													{
@@ -843,7 +843,7 @@ local t =
 															height = "91",
 															ignoreSize = "False",
 															innerHeight = "91",
-															innerWidth = "367",
+															innerWidth = "338",
 															name = "ScrollView_reward",
 															showScrollbar = "False",
 															sizepercentx = "0",
@@ -860,7 +860,7 @@ local t =
 																Layout="Absolute",
 																nType = "0"
 															},
-															width = "367",
+															width = "338",
 															ZOrder = "1",
 														},
 														{
@@ -1087,8 +1087,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -292,
-														PositionY = -32,
+														PositionX = -296,
 													},
 													width = "223",
 													ZOrder = "1",
@@ -1113,7 +1112,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -109,
+														PositionX = -69,
 													},
 													width = "2",
 													ZOrder = "1",
@@ -1169,7 +1168,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -91,
+														PositionX = -59,
 														PositionY = -45,
 													},
 													uipanelviewmodel = 
@@ -1177,7 +1176,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "367",
+													width = "338",
 													ZOrder = "1",
 													components = 
 													{
@@ -1216,7 +1215,7 @@ local t =
 																Layout="Absolute",
 																nType = "0"
 															},
-															width = "367",
+															width = "338",
 															ZOrder = "1",
 														},
 														{

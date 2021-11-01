@@ -284,8 +284,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_save",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -300,7 +300,7 @@ local t =
 											{
 												
 											},
-											width = "53",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -368,8 +368,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_use",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -384,7 +384,7 @@ local t =
 											{
 												
 											},
-											width = "56",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -451,8 +451,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_rename",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -467,7 +467,7 @@ local t =
 											{
 												
 											},
-											width = "83",
+											width = "120",
 											ZOrder = "1",
 										},
 									},
@@ -632,7 +632,7 @@ local t =
 										PositionX = -25,
 										PositionY = 77,
 									},
-									width = "17",
+									width = "19",
 									ZOrder = "1",
 									components = 
 									{
@@ -1126,7 +1126,7 @@ local t =
 												PositionX = 170,
 												PositionY = 187,
 											},
-											width = "63",
+											width = "64",
 											ZOrder = "1",
 										},
 										{

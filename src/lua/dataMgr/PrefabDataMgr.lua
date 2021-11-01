@@ -394,5 +394,12 @@ function PrefabDataMgr:set_Panel_element(item , elementId , isUp , isTouch)
 
 end
 
+function PrefabDataMgr:changeGameLanguage()  --海外版新增
+    if self.prefabView_ then   --切换语言清理prefabdataMgrui
+        self.prefabView_:release()
+        self.prefabView_ = nil
+        self:init()
+    end
+end
 
 return PrefabDataMgr:new()

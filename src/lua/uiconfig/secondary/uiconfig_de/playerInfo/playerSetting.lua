@@ -2234,7 +2234,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "应援等级",
+													text = "Support level",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -2242,7 +2242,7 @@ local t =
 														PositionX = 14,
 														PositionY = 14,
 													},
-													width = "83",
+													width = "107",
 													ZOrder = "1",
 												},
 												{

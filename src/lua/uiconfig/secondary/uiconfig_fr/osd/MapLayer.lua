@@ -2499,8 +2499,8 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "42",
-									ignoreSize = "True",
+									height = "57",
+									ignoreSize = "False",
 									name = "Image_MapLayer_1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -2513,7 +2513,7 @@ local t =
 										PositionX = 360,
 										PositionY = 30,
 									},
-									width = "174",
+									width = "172",
 									ZOrder = "1",
 									components = 
 									{

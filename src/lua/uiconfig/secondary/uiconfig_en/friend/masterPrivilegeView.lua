@@ -176,7 +176,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "lab_TopTxt",
 							nTextAlign = "1",
@@ -193,7 +193,7 @@ local t =
 								PositionX = 197,
 								PositionY = 485,
 							},
-							width = "115",
+							width = "384",
 							ZOrder = "1",
 						},
 						{
@@ -242,7 +242,8 @@ local t =
 								TopPosition = 82,
 								relativeToName = "Panel",
 							},
-							width = "56",
+							visible = "False",
+							width = "55",
 							ZOrder = "1",
 						},
 						{
@@ -268,6 +269,7 @@ local t =
 								PositionX = 320,
 								PositionY = 486,
 							},
+							visible = "False",
 							width = "3",
 							ZOrder = "1",
 						},
@@ -509,7 +511,7 @@ local t =
 											{
 												PositionX = 137,
 											},
-											width = "108",
+											width = "205",
 											ZOrder = "1",
 										},
 										{
@@ -554,7 +556,7 @@ local t =
 											{
 												PositionX = 191,
 											},
-											width = "9",
+											width = "12",
 											ZOrder = "1",
 										},
 									},
@@ -820,7 +822,7 @@ local t =
 									{
 										
 									},
-									width = "55",
+									width = "65",
 									ZOrder = "1",
 								},
 							},
@@ -851,11 +853,11 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "23",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "lab_lvDesc",
 							nTextAlign = "1",
-							nTextHAlign = "1",
+							nTextHAlign = "0",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -868,7 +870,7 @@ local t =
 								PositionX = 202,
 								PositionY = 161,
 							},
-							width = "83",
+							width = "500",
 							ZOrder = "1",
 						},
 					},
@@ -1033,7 +1035,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "74",
+											height = "69",
 											ignoreSize = "True",
 											name = "lab_lv",
 											nTextAlign = "1",
@@ -1049,7 +1051,7 @@ local t =
 											{
 												PositionY = -6,
 											},
-											width = "33",
+											width = "32",
 											ZOrder = "1",
 										},
 									},
@@ -1101,15 +1103,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "lab_expTxt",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -1125,7 +1127,7 @@ local t =
 												PositionX = -167,
 												PositionY = 23,
 											},
-											width = "99",
+											width = "120",
 											ZOrder = "1",
 										},
 										{
@@ -1168,10 +1170,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -116,
+												PositionX = -55,
 												PositionY = -26,
 											},
-											width = "91",
+											width = "113",
 											ZOrder = "1",
 											components = 
 											{
@@ -1216,9 +1218,9 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -51,
+														PositionX = -86,
 													},
-													width = "99",
+													width = "160",
 													ZOrder = "1",
 												},
 											},
@@ -1323,7 +1325,7 @@ local t =
 												PositionX = 242,
 												PositionY = 37,
 											},
-											width = "84",
+											width = "87",
 											ZOrder = "1",
 										},
 									},
@@ -1413,14 +1415,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "22",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "25",
+													height = "21",
 													ignoreSize = "True",
 													name = "lab_rewardDisc",
 													nTextAlign = "1",
@@ -1434,10 +1436,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -52,
+														PositionX = -68,
 														PositionY = -1,
 													},
-													width = "108",
+													width = "172",
 													ZOrder = "1",
 												},
 												{
@@ -1484,7 +1486,7 @@ local t =
 														PositionY = -1,
 													},
 													visible = "False",
-													width = "9",
+													width = "12",
 													ZOrder = "1",
 												},
 											},

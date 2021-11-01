@@ -374,8 +374,8 @@ local t =
 							height = "60",
 							ignoreSize = "False",
 							name = "Button_serverListItem",
-							normal = "ui/login/new1/b7.png",
-							pressed = "ui/login/new1/b7.png",
+							normal = "ui/login/7.png",
+							pressed = "ui/login/7.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -401,7 +401,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFFEC8FD",
+									FontColor = "#FFFCF5D8",
 									fontName = "font/MFLiHei_Noncommercial.ttf",
 									fontShadow = 
 									{
@@ -454,7 +454,6 @@ local t =
 		{
 			"ui/login/88.png",
 			"ui/login/7.png",
-			"ui/login/new1/b7.png",
 		},
 		armatures = 
 		{

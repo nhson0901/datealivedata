@@ -309,7 +309,7 @@ local t =
 												PositionX = 69,
 												PositionY = 10,
 											},
-											width = "34",
+											width = "33",
 											ZOrder = "1",
 											components = 
 											{
@@ -385,7 +385,7 @@ local t =
 												PositionY = -13,
 											},
 											visible = "False",
-											width = "45",
+											width = "52",
 											ZOrder = "1",
 										},
 										{
@@ -432,7 +432,7 @@ local t =
 												PositionY = -13,
 											},
 											visible = "False",
-											width = "202",
+											width = "221",
 											ZOrder = "1",
 										},
 										{
@@ -478,7 +478,7 @@ local t =
 												PositionX = 52,
 												PositionY = -16,
 											},
-											width = "33",
+											width = "27",
 											ZOrder = "1",
 											components = 
 											{
@@ -525,7 +525,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "18",
+													width = "22",
 													ZOrder = "1",
 												},
 											},
@@ -556,8 +556,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "21",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "lab_limitTimes",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -570,9 +570,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -98,
+												PositionX = -113,
 											},
-											width = "111",
+											width = "89",
 											ZOrder = "1",
 										},
 									},
@@ -764,7 +764,7 @@ local t =
 												PositionY = -49,
 											},
 											visible = "False",
-											width = "124",
+											width = "123",
 											ZOrder = "1",
 										},
 										{
@@ -793,7 +793,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "58",
+											height = "25",
 											ignoreSize = "True",
 											name = "lab_txt",
 											nTextAlign = "1",
@@ -810,7 +810,7 @@ local t =
 											{
 												
 											},
-											width = "43",
+											width = "55",
 											ZOrder = "1",
 										},
 									},
@@ -899,18 +899,20 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "22",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "23",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_fundView_2",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													scaleX = "0.8",
+													scaleY = "0.8",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -921,9 +923,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = -1,
-														PositionY = 30,
+														PositionY = 26,
 													},
-													width = "83",
+													width = "176",
 													ZOrder = "1",
 												},
 												{
@@ -947,6 +949,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = -25,
+														PositionY = -12,
 													},
 													width = "30",
 													ZOrder = "1",
@@ -992,8 +995,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = -12,
+														PositionY = -12,
 													},
-													width = "48",
+													width = "52",
 													ZOrder = "1",
 												},
 											},
@@ -1051,7 +1055,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "21",
+													height = "18",
 													ignoreSize = "True",
 													name = "lab_lastTime",
 													nTextAlign = "1",
@@ -1067,7 +1071,7 @@ local t =
 													{
 														PositionX = -44,
 													},
-													width = "122",
+													width = "119",
 													ZOrder = "1",
 												},
 											},
@@ -1104,7 +1108,7 @@ local t =
 									controlID = "lab_lastDays_img_di_panel_cell_Panel-fundNewView_Layer1_supplyNew_Game",
 									UUID = "e8decc75_38e5_49f4_b68e_08a99245b807",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -1140,10 +1144,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 85,
-										PositionY = 44,
+										PositionX = 87,
+										PositionY = 45,
 									},
-									width = "23",
+									width = "22",
 									ZOrder = "1",
 									components = 
 									{
@@ -1179,6 +1183,8 @@ local t =
 											name = "Label_fundView_1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1190,7 +1196,7 @@ local t =
 											{
 												PositionX = -121,
 											},
-											width = "149",
+											width = "146",
 											ZOrder = "1",
 										},
 									},
@@ -1303,7 +1309,7 @@ local t =
 												PositionX = -42,
 												PositionY = -38,
 											},
-											width = "41",
+											width = "44",
 											ZOrder = "1",
 										},
 									},
@@ -1348,8 +1354,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -28,
-										PositionY = 66,
+										PositionX = -29,
+										PositionY = 67,
 									},
 									width = "13",
 									ZOrder = "1",
@@ -1398,7 +1404,7 @@ local t =
 											{
 												PositionX = 14,
 											},
-											width = "123",
+											width = "122",
 											ZOrder = "1",
 										},
 									},
@@ -1434,6 +1440,8 @@ local t =
 									name = "lab_name",
 									nTextAlign = "1",
 									nTextHAlign = "1",
+									scaleX = "0.8",
+									scaleY = "0.8",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1446,7 +1454,7 @@ local t =
 										PositionX = -38,
 										PositionY = 99,
 									},
-									width = "130",
+									width = "144",
 									ZOrder = "1",
 								},
 							},

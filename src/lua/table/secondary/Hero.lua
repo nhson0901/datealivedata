@@ -2072,7 +2072,7 @@ return {
         money = 0,
         attribute2 = 1243,
         callLimit = 20,
-        isOpen = 0,
+        isOpen = 1,
         color2 = {
             [1] = 69,
             [2] = 91,
@@ -4118,6 +4118,7 @@ return {
         optionalSkin = {
             [1] = 1102101,
             [2] = 1102102,
+            [3] = 1102104,
         },
         attrType = 8,
         floorTime = 0,
@@ -5328,7 +5329,7 @@ return {
         money = 0,
         attribute2 = 1242,
         callLimit = 3,
-        isOpen = 0,
+        isOpen = 1,
         color2 = {
             [1] = 69,
             [2] = 91,

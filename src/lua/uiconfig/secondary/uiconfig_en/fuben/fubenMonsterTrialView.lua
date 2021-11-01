@@ -754,11 +754,11 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 205,
+										PositionX = 182,
 										PositionY = -53,
 										relativeToName = "Panel",
 									},
-									width = "120",
+									width = "164",
 									ZOrder = "1",
 									components = 
 									{
@@ -786,14 +786,14 @@ local t =
 											{
 												
 											},
-											width = "120",
+											width = "159",
 											ZOrder = "1",
 										},
 										{
 											controlID = "Label_beatNum_beatNum_Panel_right_Panel_root_Panel-fubenMonsterTrialView_Layer1_fuben_Game",
 											UUID = "a8e93561_3c6a_4162_9940_e6bf1e129250",
 											anchorPoint = "False",
-											anchorPointX = "1",
+											anchorPointX = "0.5",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -808,14 +808,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "17",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_beatNum",
 											nTextAlign = "1",
@@ -829,10 +829,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 51,
 												PositionY = -15,
 											},
-											width = "107",
+											width = "128",
 											ZOrder = "1",
 										},
 										{

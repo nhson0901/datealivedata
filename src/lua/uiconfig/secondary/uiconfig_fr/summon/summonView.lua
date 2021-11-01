@@ -2197,11 +2197,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "30",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_hotCount",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -2211,10 +2211,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 264,
-										PositionY = 192,
+										PositionX = 221,
+										PositionY = 185,
 									},
-									width = "348",
+									width = "419",
 									ZOrder = "1",
 									components = 
 									{
@@ -2238,14 +2238,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "16",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "18",
 											ignoreSize = "True",
 											name = "Label_hotCount_1",
 											nTextAlign = "1",
@@ -2259,10 +2259,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -104,
+												PositionX = -160,
 											},
 											visible = "False",
-											width = "47",
+											width = "34",
 											ZOrder = "1",
 										},
 										{
@@ -2305,8 +2305,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -135,
-												PositionY = 1,
+												PositionX = -118,
 											},
 											width = "252",
 											ZOrder = "1",
@@ -2315,7 +2314,7 @@ local t =
 											controlID = "Label_hotCount_Image_hotCount_Panel_hotSPot_Panel_root_Panel-summonView_Layer1_summon_Game",
 											UUID = "644cc9ea_9774_49af_bc7e_7de52423656c",
 											anchorPoint = "False",
-											anchorPointX = "1",
+											anchorPointX = "0.5",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -2330,14 +2329,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "16",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "17",
+											height = "18",
 											ignoreSize = "True",
 											name = "Label_hotCount",
 											nTextAlign = "1",
@@ -2351,10 +2350,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -137,
-												PositionY = -1,
+												PositionX = -139,
 											},
-											width = "30",
+											width = "32",
 											ZOrder = "1",
 										},
 									},

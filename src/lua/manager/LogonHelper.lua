@@ -14,9 +14,8 @@ function LogonHelper:ctor(data)
     self.isAuto_ = false
     self.isLogined = false;
 
-    self.serverId_ = self:getCacheServerId()
-    self.group_id = self:getCacheGroupId()
-    self.groupCfgId = self:getCacheGroupCfgId()
+    self.serverName_ = self:getCacheServerName()
+    self.serverGroup_ = self:getCacheGroupName()
 
     if HeitaoSdk then
         HeitaoSdk.setLoginOutCallBack(function()
@@ -60,7 +59,7 @@ end
 
 local TFClientUpdate =  TFClientResourceUpdate:GetClientResourceUpdate()
 function LogonHelper:loginTest(account,password,code,isAuto)
-    if (self.groupCfgId == nil) or self.groupCfgId <= 0 then
+    if not self.serverGroup_ then
         Utils:showTips(800090)
         return
     end
@@ -74,7 +73,6 @@ function LogonHelper:loginTest(account,password,code,isAuto)
     self.path = ""
 
     self.loginCallback = function (type,ret,data)
-        TFGlobalUtils:setCacheServer(TFGlobalUtils:getPlayerServerIdx())
         data = json.decode(data);
         dump(data);
         if not data then
@@ -153,15 +151,6 @@ function LogonHelper:loginTest(account,password,code,isAuto)
         osname = "ANDROID"
     end
 
-    local localLoginUrl = nil
-    local serverGroupConfig = ServerDataMgr:getGroupById(self.groupCfgId, self.group_id)
-    if serverGroupConfig and serverGroupConfig.list then
-        for i = 1, #serverGroupConfig.list do
-            local cfg = serverGroupConfig.list[i]
-            if (cfg.url) then localLoginUrl = cfg.url end
-        end
-    end
-
     local path = ""
     path = path.."?accountId="..string.url_encode(account);
     path = path.."&password="..password;
@@ -178,14 +167,14 @@ function LogonHelper:loginTest(account,password,code,isAuto)
         path = path.."&mimi="..FileCheckMgr:getIsSuccess();
     end
 
-    if self.serverId_ and self.serverId_ > 0 then
-        local serverName = ServerDataMgr:getServerNameById(self.groupCfgId, self.serverId_);
-        serverName = serverName or ""
-        path = path.."&serverName="..serverName
+    if self.serverName_ then
+        path = path.."&serverName="..self.serverName_;
     end
-    if serverGroupConfig and serverGroupConfig.serverGroup then
-        path = path.."&serverGroup=" .. serverGroupConfig.serverGroup;
+
+    if self.serverGroup_ then
+        path = path.."&serverGroup=" .. self.serverGroup_;
     end
+
     path = path.."&channelAppId="..1;
     path = path.."&channelId=".."LOCAL_TEST";
     if code and code ~= "" then
@@ -198,6 +187,11 @@ function LogonHelper:loginTest(account,password,code,isAuto)
     --print(path);
     self.path = path
 
+    local localLoginUrl = nil
+    local serverGroupConfig = ServerDataMgr:getServerList(self.serverGroup_)
+    if serverGroupConfig and serverGroupConfig.url then
+        localLoginUrl = serverGroupConfig.url
+    end
     self.localLoginUrl = localLoginUrl
     self:tryLoginUcCenter(localLoginUrl)
 
@@ -216,7 +210,6 @@ function LogonHelper:loginVerification()
     self.path = ""
 
     self.loginCallback = function (type,ret,data)
-        TFGlobalUtils:setCacheServer(TFGlobalUtils:getPlayerServerIdx())
         data = json.decode(data);
         if not data then
             self.isLogined = false;
@@ -420,76 +413,53 @@ function LogonHelper:setVerification(Verification)
     self._isVerification = Verification;
 end
 
-
-function LogonHelper:switchLogin(group_id, serverId, id)
-    self.groupCfgId = id
-    self.group_id = group_id
-    self.serverId_ = serverId
+function LogonHelper:switchLogin(groupName, serverName)
+    self.serverGroup_ = groupName
+    self.serverName_ = serverName
     self:setIsLogin(false);
     -- if self.account_ and self.password_ then
     --     self:loginTest(self.account_, self.password_, self.code_, self.isAuto_)
     -- end
 end
 
-local KEY_CACHE_GROUPCFG_ID = "key_cache_groupCfg_id"
-local KEY_CACHE_GROUP_ID = "key_cache_group_id"
-local KEY_CACHE_SERVER_ID = "key_cache_server_id"
+local KEY_CACHE_GROUP_NAME = "key_cache_group_name_newkey_global"
+local KEY_CACHE_SERVER_NAME = "key_cache_server_name_newkey_global"
 
-function LogonHelper:getCacheGroupCfgId()
-    local groupCfgId = CCUserDefault:sharedUserDefault():getIntegerForKey(KEY_CACHE_GROUPCFG_ID, ServerDataMgr:getDefaultServerGroupCfgId(TFGlobalUtils:getPlayerServerIdx()))
-    return groupCfgId
-end
-
-function LogonHelper:getCacheServerId()
-    return CCUserDefault:sharedUserDefault():getIntegerForKey(KEY_CACHE_SERVER_ID)
-end
-
-function LogonHelper:getCacheGroupId()
-    local groupId = CCUserDefault:sharedUserDefault():getIntegerForKey(KEY_CACHE_GROUP_ID, ServerDataMgr:getDefaultServerGroupId(TFGlobalUtils:getPlayerServerIdx()))
-    return groupId
-end
-
-function LogonHelper:setCacheGroupCfgId( groupCfgId )
-    groupCfgId = groupCfgId or self.groupCfgId
-    if groupCfgId then
-        CCUserDefault:sharedUserDefault():setIntegerForKey(KEY_CACHE_GROUPCFG_ID, groupCfgId)
+function LogonHelper:getCacheServerName()
+    local serverName = CCUserDefault:sharedUserDefault():getStringForKey(KEY_CACHE_SERVER_NAME)
+    if #serverName > 0 then
+        return serverName
     end
 end
 
-function LogonHelper:setCacheServerId( serverId )
-    serverId = serverId or self.serverId_
-    if serverId then
-        CCUserDefault:sharedUserDefault():setIntegerForKey(KEY_CACHE_SERVER_ID, serverId)
-    end
-end
-
-function LogonHelper:setCacheGroupId( group_id )
-    group_id = group_id or self.group_id
-    if group_id then
-        CCUserDefault:sharedUserDefault():setIntegerForKey(KEY_CACHE_GROUP_ID, group_id)
+function LogonHelper:getCacheGroupName()
+    local groupName = CCUserDefault:sharedUserDefault():getStringForKey(KEY_CACHE_GROUP_NAME)
+    if #groupName > 0 then
+        return groupName
     end
 end
 
 function LogonHelper:cacheLoginInfo()
-    self:setCacheGroupCfgId()
-    self:setCacheServerId()
-    self:setCacheGroupId()
+    if self.serverGroup_ then
+        CCUserDefault:sharedUserDefault():setStringForKey(KEY_CACHE_GROUP_NAME, self.serverGroup_)
+    end
+    if self.serverName_ then
+        CCUserDefault:sharedUserDefault():setStringForKey(KEY_CACHE_SERVER_NAME, self.serverName_)
+    else
+        CCUserDefault:sharedUserDefault():setStringForKey(KEY_CACHE_SERVER_NAME, "")
+    end
 end
 
-function LogonHelper:getGroupCfgId()
-    return self.groupCfgId
+function LogonHelper:getServerName()
+    return self.serverName_
 end
 
-function LogonHelper:getGroupId()
-    return self.group_id
-end
-
-function LogonHelper:getServerId()
-    return self.serverId_
+function LogonHelper:getGroupName()
+    return self.serverGroup_
 end
 
 function LogonHelper:LoginUcCenterFailHandler( localUrl )
-    local urlList = self:getServerUrlList()
+    local urlList = URL_LOGIN
     if localUrl then
         urlList = localUrl
     end
@@ -505,7 +475,7 @@ function LogonHelper:LoginUcCenterFailHandler( localUrl )
 end
 
 function LogonHelper:tryLoginUcCenter( localUrl )
-    local urlList = self:getServerUrlList()
+    local urlList = URL_LOGIN
     if localUrl then
         urlList = localUrl
     end
@@ -536,10 +506,6 @@ function LogonHelper:tryLoginUcCenter( localUrl )
     --         HeitaoSdk.reportNetworkData(parsed_url.host)
     --     end
     -- end
-end
-
-function LogonHelper:getServerUrlList( )
-    return TFGlobalUtils:getServerUrlList()
 end
 
 return LogonHelper:new()

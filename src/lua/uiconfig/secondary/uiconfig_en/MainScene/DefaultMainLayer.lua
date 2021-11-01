@@ -4844,8 +4844,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -49,
-										PositionY = 45,
+										PositionX = -69,
+										PositionY = 46,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4870,8 +4870,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 53,
-										PositionY = 45,
+										PositionX = 35,
+										PositionY = 46,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4896,8 +4896,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 160,
-										PositionY = 48,
+										PositionX = 140,
+										PositionY = 46,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4922,8 +4922,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 252,
-										PositionY = 45,
+										PositionX = 231,
+										PositionY = 46,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4948,8 +4948,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 371,
-										PositionY = 45,
+										PositionX = 351,
+										PositionY = 46,
 									},
 									width = "60",
 									ZOrder = "1",
@@ -4974,8 +4974,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
-										PositionY = 45,
+										PositionX = 457,
+										PositionY = 46,
 									},
 									width = "60",
 									ZOrder = "1",

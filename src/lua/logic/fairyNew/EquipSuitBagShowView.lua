@@ -171,10 +171,8 @@ function EquipSuitBagShowView:updateEquipItem(item, cfg)
     Image_level_bg:setTexture(EC_ItemLevelIcon[cfg.quality])
     Image_icon:setTexture(cfg.icon)
 
-    local equipInfo = EquipmentDataMgr:getNewEquipInfoByCid(cfg.id)
-    if TFGlobalUtils:isConnectKoreaTwServer() then
-        equipInfo = EquipmentDataMgr:getMaxLevelStarNewEquipInfoByCid(cfg.id)
-    end
+    --local equipInfo = EquipmentDataMgr:getNewEquipInfoByCid(cfg.id)
+    local equipInfo = EquipmentDataMgr:getMaxLevelStarNewEquipInfoByCid(cfg.id)
 
     local maxStar = cfg.endStar
     for i = 1, 5 do

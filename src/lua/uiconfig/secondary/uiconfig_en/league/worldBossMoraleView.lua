@@ -123,7 +123,7 @@ local t =
 									controlID = "Label_tittle_Image_bg_Panel_root_Panel-worldBossMoraleView_Layer1_league_Game",
 									UUID = "786a9030_14ba_4f56_917b_229b968e82fd",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -145,7 +145,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_tittle",
 									nTextAlign = "1",
@@ -154,15 +154,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Club morale l",
+									text = "Club morale",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -295,
+										PositionX = -346,
 										PositionY = 169,
 									},
-									width = "111",
+									width = "153",
 									ZOrder = "1",
 								},
 								{
@@ -208,7 +208,8 @@ local t =
 										PositionX = -234,
 										PositionY = 165,
 									},
-									width = "47",
+									visible = "False",
+									width = "45",
 									ZOrder = "1",
 								},
 								{
@@ -372,7 +373,7 @@ local t =
 												PositionX = 489,
 												PositionY = 28,
 											},
-											width = "75",
+											width = "81",
 											ZOrder = "1",
 										},
 										{
@@ -418,7 +419,7 @@ local t =
 												PositionX = 618,
 												PositionY = 28,
 											},
-											width = "75",
+											width = "121",
 											ZOrder = "1",
 										},
 										{
@@ -473,7 +474,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "23",
 											ignoreSize = "True",
 											name = "lab_bossName",
 											nTextAlign = "1",
@@ -490,7 +491,7 @@ local t =
 												PositionX = 9,
 												PositionY = 25,
 											},
-											width = "141",
+											width = "210",
 											ZOrder = "1",
 										},
 										{
@@ -519,7 +520,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "23",
 											ignoreSize = "True",
 											name = "lab_bossLv",
 											nTextAlign = "1",
@@ -533,10 +534,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 132,
+												PositionX = 237,
 												PositionY = 25,
 											},
-											width = "18",
+											width = "13",
 											ZOrder = "1",
 										},
 										{
@@ -767,10 +768,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -202,
+										PositionX = -241,
 										PositionY = -170,
 									},
-									width = "57",
+									width = "56",
 									ZOrder = "1",
 									components = 
 									{
@@ -794,14 +795,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_worldBossHurtRankView",
 											nTextAlign = "1",
@@ -815,10 +816,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -72,
-												PositionY = 2,
+												PositionX = -54,
 											},
-											width = "143",
+											width = "88",
 											ZOrder = "1",
 										},
 									},
@@ -863,10 +863,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 94,
-										PositionY = -168,
+										PositionX = 10,
+										PositionY = -171,
 									},
-									width = "27",
+									width = "26",
 									ZOrder = "1",
 									components = 
 									{
@@ -890,14 +890,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_worldBossHurtRankView",
 											nTextAlign = "1",
@@ -911,9 +911,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -53,
+												PositionX = -74,
 											},
-											width = "99",
+											width = "141",
 											ZOrder = "1",
 										},
 									},
@@ -961,7 +961,7 @@ local t =
 										PositionX = 300,
 										PositionY = -170,
 									},
-									width = "43",
+									width = "41",
 									ZOrder = "1",
 									components = 
 									{
@@ -985,14 +985,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_worldBossHurtRankView",
 											nTextAlign = "1",
@@ -1006,10 +1006,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -84,
+												PositionX = -120,
 												PositionY = 1,
 											},
-											width = "165",
+											width = "231",
 											ZOrder = "1",
 										},
 									},
@@ -1149,7 +1149,7 @@ local t =
 										StrokeColor = "#FF000000",
 										StrokeSize = 1,
 									},
-									height = "29",
+									height = "27",
 									ignoreSize = "True",
 									name = "lab_rankNum",
 									nTextAlign = "1",
@@ -1167,7 +1167,7 @@ local t =
 										PositionX = 13,
 										PositionY = 34,
 									},
-									width = "33",
+									width = "28",
 									ZOrder = "1",
 								},
 								{
@@ -1269,7 +1269,7 @@ local t =
 										PositionX = 148,
 										PositionY = 57,
 									},
-									width = "163",
+									width = "116",
 									ZOrder = "1",
 								},
 								{
@@ -1315,7 +1315,7 @@ local t =
 										PositionX = 388,
 										PositionY = 56,
 									},
-									width = "39",
+									width = "43",
 									ZOrder = "1",
 								},
 								{
@@ -1361,7 +1361,7 @@ local t =
 										PositionX = 388,
 										PositionY = 21,
 									},
-									width = "45",
+									width = "73",
 									ZOrder = "1",
 								},
 								{
@@ -1455,7 +1455,7 @@ local t =
 												PositionX = -37,
 												PositionY = 1,
 											},
-											width = "63",
+											width = "23",
 											ZOrder = "1",
 										},
 									},
@@ -1503,7 +1503,7 @@ local t =
 										PositionX = 491,
 										PositionY = 35,
 									},
-									width = "28",
+									width = "31",
 									ZOrder = "1",
 								},
 								{
@@ -1549,7 +1549,7 @@ local t =
 										PositionX = 621,
 										PositionY = 37,
 									},
-									width = "50",
+									width = "71",
 									ZOrder = "1",
 								},
 								{
@@ -1595,7 +1595,7 @@ local t =
 										PositionX = 621,
 										PositionY = 37,
 									},
-									width = "74",
+									width = "126",
 									ZOrder = "1",
 								},
 							},
@@ -1624,7 +1624,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = 510,
-						PositionY = 354,
+						PositionY = 334,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,

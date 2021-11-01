@@ -923,6 +923,20 @@ return {
                         [2] = 6,
                     },
                 },
+                [60] = {
+                    [1] = {
+                        [1] = 100000,
+                        [2] = 4,
+                    },
+                    [2] = {
+                        [1] = 200000,
+                        [2] = 5,
+                    },
+                    [3] = {
+                        [1] = 300000,
+                        [2] = 6,
+                    },
+                },
                 [9] = {
                     [1] = {
                         [1] = 100000,
@@ -1450,6 +1464,7 @@ return {
             lowActive = 30,
             redPacketItemId = 500035,
             impeachPeriodTime = 10080,
+            maxUnionLevel = 10,
             dayLimitExp = 30000,
             dayLimitKick = 5,
             impeachLimitNewbee = 14400,
@@ -3090,7 +3105,7 @@ return {
     [46011] = {
         id = 46011,
         data = {
-            eVersion = 9,
+            eVersion = 10,
         },
     },
     [46027] = {
@@ -3518,8 +3533,9 @@ return {
                 [2] = 2,
                 [3] = 3,
                 [4] = 4,
+                [5] = 5,
             },
-            defaultSelect = 3,
+            defaultSelect = 5,
         },
     },
     [46029] = {
@@ -4953,7 +4969,7 @@ return {
             periodTime = 15,
             openinglevel = 10,
             lineTime = 3,
-            open = 0,
+            open = 1,
             apprenticeLevel = {
                 [1] = 61,
                 [2] = 999,
@@ -5310,7 +5326,7 @@ return {
         data = {
             qualityAngelMaterial = {
                 superType = 6,
-                name = "天使精华",
+                name = "Angel Essence",
                 amount = 5,
                 smallType = 2,
                 subType = 3,
@@ -5321,7 +5337,7 @@ return {
             qualityGem = {
                 amount = 1,
                 superType = 43,
-                name = "宝石",
+                name = "Gem",
                 quality = {
                     [1] = 1,
                     [2] = 2,
@@ -5330,7 +5346,7 @@ return {
             },
             qualityBreakthroughMaterial = {
                 superType = 6,
-                name = "突破材料",
+                name = "Transcend Material",
                 amount = 3,
                 smallType = 3,
                 subType = 2,
@@ -6101,7 +6117,7 @@ return {
         id = 3002,
         data = {
             [1] = 0,
-            [2] = 999,
+            [2] = 9999,
             [3] = 999,
             [4] = 0,
             [5] = 0,

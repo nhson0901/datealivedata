@@ -284,8 +284,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_save",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -300,7 +300,7 @@ local t =
 											{
 												
 											},
-											width = "82",
+											width = "129",
 											ZOrder = "1",
 										},
 									},
@@ -368,8 +368,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_use",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -382,9 +382,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												
+												PositionX = 1,
+												PositionY = -1,
 											},
-											width = "48",
+											width = "129",
 											ZOrder = "1",
 										},
 									},
@@ -451,8 +452,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_rename",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -467,7 +468,7 @@ local t =
 											{
 												
 											},
-											width = "110",
+											width = "129",
 											ZOrder = "1",
 										},
 									},

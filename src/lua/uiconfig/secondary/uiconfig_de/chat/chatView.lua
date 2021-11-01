@@ -923,7 +923,7 @@ local t =
 															controlID = "txt_btn_SEmotion_panel_selectBtn_panel_send_Panel_chat_Panel_base_Panel-chatView_Layer1_chat_Game",
 															UUID = "2342ca39_0274_4ebe_8e75_6232ff92ed22",
 															anchorPoint = "False",
-															anchorPointX = "0.5",
+															anchorPointX = "0",
 															anchorPointY = "0.5",
 															classname = "MELabel",
 															compPath = "luacomponents.common.MEIconLabel",
@@ -959,7 +959,7 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 13,
+																PositionX = -42,
 																PositionY = -2,
 															},
 															width = "155",
@@ -4784,7 +4784,7 @@ local t =
 											UUID = "6d2f1c7b_681e_4363_a994_b05a4e3b34e9",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
-											anchorPointY = "0.5",
+											anchorPointY = "0",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
@@ -4805,8 +4805,8 @@ local t =
 												StrokeColor = "#FF434865",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_online",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -4820,9 +4820,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 39,
-												PositionY = 100,
+												PositionY = 88,
 											},
-											width = "111",
+											width = "62",
 											ZOrder = "1",
 										},
 										{
@@ -4866,7 +4866,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 39,
-												PositionY = 80,
+												PositionY = 77,
 											},
 											width = "47",
 											ZOrder = "1",

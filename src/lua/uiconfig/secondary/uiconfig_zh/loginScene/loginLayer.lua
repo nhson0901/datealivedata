@@ -133,13 +133,14 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "64",
+							height = "50",
 							ignoreSize = "True",
 							name = "logo",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
+							texturePath = "ui/login/66.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -149,7 +150,7 @@ local t =
 								PercentX = 50.23,
 								PercentY = 4.23,
 							},
-							width = "64",
+							width = "1386",
 							ZOrder = "1",
 							components = 
 							{
@@ -163,19 +164,20 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "64",
+									height = "30",
 									ignoreSize = "True",
 									name = "Image_go",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
+									texturePath = "ui/login/m7.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "64",
+									width = "269",
 									ZOrder = "1",
 									components = 
 									{
@@ -189,7 +191,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
+											FontColor = "#FFCEF1FF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -234,7 +236,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
+											FontColor = "#FFCEF1FF",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -1305,7 +1307,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
+											FontColor = "#FF92D8F4",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -1505,6 +1507,121 @@ local t =
 												PositionY = 2,
 											},
 											width = "30",
+											ZOrder = "1",
+										},
+									},
+								},
+							},
+						},
+						{
+							controlID = "panel_roleList_Panel_base_Panel-loginLayer_Layer1_loginScene_Game",
+							UUID = "70e8512a_9498_4433_9c9d_cd0bd0eba9d7",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "False",
+							bgColorOpacity = "50",
+							bIsOpenClipping = "False",
+							classname = "MEPanel",
+							colorType = "0;SingleColor:#FFFF6347;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+							DesignHeight = "640",
+							DesignType = "0",
+							DesignWidth = "960",
+							dstBlendFunc = "771",
+							height = "60",
+							ignoreSize = "False",
+							name = "panel_roleList",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = 140,
+								PositionY = 30,
+							},
+							uipanelviewmodel = 
+							{
+								Layout="Absolute",
+								nType = "0"
+							},
+							visible = "False",
+							width = "258",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "img_roleListBg_panel_roleList_Panel_base_Panel-loginLayer_Layer1_loginScene_Game",
+									UUID = "ce56353d_8559_4088_82a6_36419c2f8b63",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+									classname = "MEImage",
+									dstBlendFunc = "771",
+									height = "60",
+									ignoreSize = "False",
+									name = "img_roleListBg",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									texturePath = "ui/login/7.png",
+									touchAble = "False",
+									UILayoutViewModel = 
+									{
+										
+									},
+									width = "258",
+									ZOrder = "1",
+									components = 
+									{
+										
+										{
+											controlID = "label_roleName_img_roleListBg_panel_roleList_Panel_base_Panel-loginLayer_Layer1_loginScene_Game",
+											UUID = "67ec38ec_ab2a_42e9_ba0f_6470ceac6326",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FFFFFFFF",
+											fontName = "font/MFLiHei_Noncommercial.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "24",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "28",
+											ignoreSize = "True",
+											name = "label_roleName",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "IOS伺服器列表",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "169",
 											ZOrder = "1",
 										},
 									},
@@ -2130,6 +2247,8 @@ local t =
 	{
 		textures = 
 		{
+			"ui/login/66.png",
+			"ui/login/m7.png",
 			"ui/login/1.png",
 			"ui/common/pop_ui/pop_ui_01.png",
 			"ui/login/2.png",

@@ -28,7 +28,7 @@ return {
         combatPower = 60,
         desTextId = 231034,
         herosequip = 332015,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 334001,
         },
@@ -47,7 +47,7 @@ return {
         combatPower = 60,
         desTextId = 231033,
         herosequip = 332014,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 333001,
             [2] = 333002,
@@ -67,7 +67,7 @@ return {
         combatPower = 60,
         desTextId = 231032,
         herosequip = 332013,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 332001,
             [2] = 332002,
@@ -531,7 +531,7 @@ return {
         combatPower = 60,
         desTextId = 231024,
         herosequip = 332005,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 324001,
         },
@@ -549,7 +549,7 @@ return {
         combatPower = 60,
         desTextId = 231023,
         herosequip = 332004,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 323001,
         },
@@ -569,7 +569,7 @@ return {
         combatPower = 40,
         desTextId = 231022,
         herosequip = 332003,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 322001,
         },
@@ -661,7 +661,7 @@ return {
         combatPower = 60,
         desTextId = 231021,
         herosequip = 332002,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 321001,
         },
@@ -679,7 +679,7 @@ return {
         combatPower = 60,
         desTextId = 231020,
         herosequip = 332001,
-        display = false,
+        display = true,
         suitarmsID = {
             [1] = 320001,
         },

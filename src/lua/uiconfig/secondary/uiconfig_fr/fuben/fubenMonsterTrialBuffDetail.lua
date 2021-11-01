@@ -327,7 +327,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Détails",
+									text = "Details",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -335,7 +335,7 @@ local t =
 										PositionX = 393,
 										PositionY = 520,
 									},
-									width = "97",
+									width = "104",
 									ZOrder = "1",
 								},
 								{
@@ -373,7 +373,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "TextLable",
+									text = "Yoshino's first meeting with Shido Itsuka was on a rainy day while she was playing in the pouring rain without an umbrella. Seeing her fall on the ground...",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 

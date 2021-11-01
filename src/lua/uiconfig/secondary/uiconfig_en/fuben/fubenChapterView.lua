@@ -1965,7 +1965,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -1,
-												PositionY = -74,
+												PositionY = -79,
 											},
 											width = "210",
 											ZOrder = "1",
@@ -2508,6 +2508,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1033",
 							ZOrder = "1",
 							components = 

@@ -1421,7 +1421,7 @@ local t =
 													{
 														PositionX = -6,
 													},
-													width = "191",
+													width = "186",
 													ZOrder = "1",
 												},
 												{
@@ -5301,7 +5301,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "本次得分",
+													text = "Score this time",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -5309,7 +5309,7 @@ local t =
 														PositionX = 70,
 														PositionY = 3,
 													},
-													width = "99",
+													width = "143",
 													ZOrder = "1",
 												},
 											},
@@ -5377,14 +5377,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "历史最佳",
+													text = "Best in history",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionX = 65,
 													},
-													width = "99",
+													width = "140",
 													ZOrder = "1",
 												},
 											},
@@ -5452,14 +5452,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "最高积分",
+													text = "Highest points",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionX = 69,
 													},
-													width = "99",
+													width = "138",
 													ZOrder = "1",
 												},
 											},

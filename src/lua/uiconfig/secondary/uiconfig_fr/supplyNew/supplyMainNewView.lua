@@ -409,7 +409,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 47,
-										PositionY = 6,
+										PositionY = 17,
 									},
 									width = "80",
 									ZOrder = "1",
@@ -433,7 +433,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "21",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -445,6 +445,8 @@ local t =
 									name = "Label_name",
 									nTextAlign = "1",
 									nTextHAlign = "1",
+									scaleX = "0.8",
+									scaleY = "0.8",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -455,9 +457,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 46,
-										PositionY = -27,
+										PositionY = -24,
 									},
-									width = "92",
+									width = "119",
 									ZOrder = "1",
 								},
 								{
@@ -507,7 +509,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 68,
-										PositionY = 24,
+										PositionY = 36,
 									},
 									width = "30",
 									ZOrder = "1",
@@ -547,7 +549,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "202",
+							width = "274",
 							ZOrder = "1",
 							components = 
 							{
@@ -572,10 +574,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 100,
+										PositionX = 137,
 										PositionY = -11,
 									},
-									width = "216",
+									width = "290",
 									ZOrder = "1",
 								},
 								{
@@ -622,15 +624,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "23",
+									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -643,9 +645,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 117,
+										PositionX = 155,
 									},
-									width = "145",
+									width = "146",
 									ZOrder = "1",
 								},
 								{
@@ -668,7 +670,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 191,
+										PositionX = 260,
 										PositionY = 11,
 									},
 									visible = "False",
@@ -695,7 +697,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 201,
+										PositionX = 270,
 										PositionY = -4,
 									},
 									width = "2",

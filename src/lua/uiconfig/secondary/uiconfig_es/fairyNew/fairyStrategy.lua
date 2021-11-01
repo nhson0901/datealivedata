@@ -1291,7 +1291,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "235",
+							height = "394",
 							ignoreSize = "False",
 							name = "Panel_fairy_skill",
 							sizepercentx = "0",
@@ -1335,7 +1335,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 160,
-										PositionY = 221,
+										PositionY = 367,
 									},
 									width = "278",
 									ZOrder = "1",
@@ -1445,7 +1445,7 @@ local t =
 									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "100",
+									height = "220",
 									ignoreSize = "False",
 									name = "Image_mainskill",
 									sizepercentx = "0",
@@ -1456,7 +1456,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 159,
+										PositionY = 224,
 									},
 									width = "490",
 									ZOrder = "1",
@@ -1488,7 +1488,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 9,
+												PositionX = 7,
+												PositionY = 66,
 											},
 											uipanelviewmodel = 
 											{
@@ -1573,15 +1574,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "17",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "21",
+													ignoreSize = "True",
 													name = "Label_skill_name",
 													nTextAlign = "0",
 													nTextHAlign = "0",
@@ -1595,9 +1596,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 74,
-														PositionY = 22,
+														PositionY = 13,
 													},
-													width = "95",
+													width = "148",
 													ZOrder = "1",
 												},
 												{
@@ -1619,15 +1620,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "16",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "21",
+													ignoreSize = "True",
 													name = "Label_skill_effect",
 													nTextAlign = "0",
 													nTextHAlign = "0",
@@ -1640,10 +1641,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 75,
-														PositionY = -26,
+														PositionX = 74,
+														PositionY = -15,
 													},
-													width = "95",
+													width = "148",
 													ZOrder = "1",
 												},
 											},
@@ -1673,7 +1674,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 170,
+												PositionX = 7,
+												PositionY = -3,
 											},
 											uipanelviewmodel = 
 											{
@@ -1758,15 +1760,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "17",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "21",
+													ignoreSize = "True",
 													name = "Label_skill_name",
 													nTextAlign = "0",
 													nTextHAlign = "0",
@@ -1780,9 +1782,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 74,
-														PositionY = 22,
+														PositionY = 12,
 													},
-													width = "95",
+													width = "148",
 													ZOrder = "1",
 												},
 												{
@@ -1804,15 +1806,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "16",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "21",
+													ignoreSize = "True",
 													name = "Label_skill_effect",
 													nTextAlign = "0",
 													nTextHAlign = "0",
@@ -1826,9 +1828,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 75,
-														PositionY = -26,
+														PositionY = -14,
 													},
-													width = "95",
+													width = "148",
 													ZOrder = "1",
 												},
 											},
@@ -1858,7 +1860,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 326,
+												PositionX = 7,
+												PositionY = -72,
 											},
 											uipanelviewmodel = 
 											{
@@ -1943,15 +1946,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "17",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "21",
+													ignoreSize = "True",
 													name = "Label_skill_name",
 													nTextAlign = "0",
 													nTextHAlign = "0",
@@ -1965,9 +1968,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 74,
-														PositionY = 22,
+														PositionY = 14,
 													},
-													width = "92",
+													width = "148",
 													ZOrder = "1",
 												},
 												{
@@ -1989,15 +1992,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "16",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "21",
+													ignoreSize = "True",
 													name = "Label_skill_effect",
 													nTextAlign = "0",
 													nTextHAlign = "0",
@@ -2010,10 +2013,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 75,
-														PositionY = -26,
+														PositionX = 76,
+														PositionY = -12,
 													},
-													width = "80",
+													width = "148",
 													ZOrder = "1",
 												},
 											},

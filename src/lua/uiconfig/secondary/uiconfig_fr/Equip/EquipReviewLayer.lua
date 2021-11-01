@@ -228,7 +228,7 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEButton",
 									ClickHighLightEnabled = "True",
 									dstBlendFunc = "771",
@@ -239,7 +239,7 @@ local t =
 									{
 										nHitType = 3,
 									},
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Button_save",
 									normal = "ui/fairy/new_ui/new_12.png",
 									pressed = "ui/fairy/new_ui/new_12.png",
@@ -250,11 +250,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 434,
+										PositionX = 447,
 										PositionY = 40,
 									},
 									UItype = "Button",
-									width = "134",
+									width = "156",
 									ZOrder = "1",
 									components = 
 									{
@@ -285,8 +285,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_save",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -301,7 +301,7 @@ local t =
 											{
 												
 											},
-											width = "110",
+											width = "150",
 											ZOrder = "1",
 										},
 									},
@@ -385,7 +385,7 @@ local t =
 											{
 												
 											},
-											width = "110",
+											width = "129",
 											ZOrder = "1",
 										},
 									},
@@ -468,7 +468,7 @@ local t =
 											{
 												
 											},
-											width = "110",
+											width = "129",
 											ZOrder = "1",
 										},
 									},
@@ -633,7 +633,7 @@ local t =
 										PositionX = -25,
 										PositionY = 77,
 									},
-									width = "13",
+									width = "15",
 									ZOrder = "1",
 									components = 
 									{
@@ -680,7 +680,7 @@ local t =
 											{
 												PositionX = 27,
 											},
-											width = "38",
+											width = "39",
 											ZOrder = "1",
 										},
 									},
@@ -728,7 +728,7 @@ local t =
 										PositionX = 54,
 										PositionY = -80,
 									},
-									width = "34",
+									width = "35",
 									ZOrder = "1",
 								},
 								{
@@ -774,7 +774,7 @@ local t =
 										PositionX = 54,
 										PositionY = -94,
 									},
-									width = "26",
+									width = "27",
 									ZOrder = "1",
 								},
 								{
@@ -1043,7 +1043,7 @@ local t =
 										PositionX = 189,
 										PositionY = 116,
 									},
-									width = "120",
+									width = "134",
 									ZOrder = "1",
 								},
 								{

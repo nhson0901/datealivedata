@@ -250,7 +250,7 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 145,
+								PositionX = 155,
 								PositionY = 611,
 							},
 							width = "141",
@@ -749,6 +749,7 @@ local t =
 															{
 																PositionY = -20,
 															},
+															visible = "False",
 															width = "37",
 															ZOrder = "1",
 														},
@@ -876,6 +877,7 @@ local t =
 															{
 																PositionY = -20,
 															},
+															visible = "False",
 															width = "15",
 															ZOrder = "1",
 														},
@@ -1163,15 +1165,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "选择方式",
+											text = "Options",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 23,
+												PositionX = 24,
 												PositionY = 20,
 											},
-											width = "106",
+											width = "108",
 											ZOrder = "1",
 										},
 									},

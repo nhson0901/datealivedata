@@ -319,7 +319,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "캐릭터 강화",
+											text = "Enhance the character",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -327,7 +327,7 @@ local t =
 												PositionX = 13,
 												PositionY = 33,
 											},
-											width = "110",
+											width = "261",
 											ZOrder = "1",
 										},
 										{
@@ -401,6 +401,7 @@ local t =
 												PositionX = 49,
 												PositionY = 11,
 											},
+											visible = "False",
 											width = "60",
 											ZOrder = "1",
 										},
@@ -439,7 +440,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "하급 조",
+											text = "Low-level group",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -447,7 +448,7 @@ local t =
 												PositionX = 397,
 												PositionY = 33,
 											},
-											width = "63",
+											width = "170",
 											ZOrder = "1",
 										},
 										{
@@ -565,14 +566,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "보상",
+											text = "Reward",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "44",
+											width = "76",
 											ZOrder = "1",
 										},
 										{
@@ -753,11 +754,11 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 205,
+										PositionX = 182,
 										PositionY = -53,
 										relativeToName = "Panel",
 									},
-									width = "120",
+									width = "164",
 									ZOrder = "1",
 									components = 
 									{
@@ -785,7 +786,7 @@ local t =
 											{
 												
 											},
-											width = "120",
+											width = "159",
 											ZOrder = "1",
 										},
 										{
@@ -823,15 +824,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "처치된 적",
+											text = "Enemies defeated",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 4,
 												PositionY = -15,
 											},
-											width = "71",
+											width = "128",
 											ZOrder = "1",
 										},
 										{
@@ -1068,7 +1068,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
+									height = "60",
 									ignoreSize = "False",
 									name = "label_buff",
 									nTextAlign = "1",
@@ -1077,7 +1077,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "피해피해피해피해피해피해피해피해",
+									text = "Damage bonus damage bonus damage bonus damage bonus",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1149,7 +1149,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "버프 명칭",
+									text = "Buff Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1157,7 +1157,7 @@ local t =
 										PositionX = 122,
 										PositionY = 80,
 									},
-									width = "88",
+									width = "124",
 									ZOrder = "1",
 								},
 							},
@@ -1677,14 +1677,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -2224,14 +2224,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -2772,14 +2772,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -3323,14 +3323,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -3867,14 +3867,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -4412,14 +4412,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -4958,14 +4958,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -5503,14 +5503,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -6049,14 +6049,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -6593,14 +6593,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "스테이지 이름 ",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "115",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -6809,7 +6809,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "종일 개방",
+									text = "Always Open",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -6817,7 +6817,7 @@ local t =
 										PositionX = -111,
 										PositionY = -7,
 									},
-									width = "86",
+									width = "118",
 									ZOrder = "1",
 								},
 							},
@@ -6922,7 +6922,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "스테이지 포인트:",
+									text = "Level Points:",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -6930,7 +6930,7 @@ local t =
 										PositionX = 29,
 										PositionY = 42,
 									},
-									width = "160",
+									width = "122",
 									ZOrder = "1",
 								},
 							},
@@ -7002,7 +7002,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "상점",
+									text = "Store",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -7010,7 +7010,7 @@ local t =
 										PositionX = -1,
 										PositionY = -38,
 									},
-									width = "38",
+									width = "45",
 									ZOrder = "1",
 								},
 							},

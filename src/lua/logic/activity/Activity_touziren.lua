@@ -41,6 +41,8 @@ function TouzirenView:initUI( ui )
 	self.Button_help = TFDirector:getChildByPath(ui,"Button_help")
 	self.img_di = TFDirector:getChildByPath(ui,"img_di")
 
+	TFDirector:getChildByPath(ui,"Label_1"):setTextById(1430019)
+
 	local ScrollView_task = TFDirector:getChildByPath(ui,"ScrollView_task")
 
 	self.Grid_task = UIGridView:create(ScrollView_task)

@@ -5386,7 +5386,7 @@ local t =
 														TopPosition = 331,
 														relativeToName = "Panel",
 													},
-													width = "108",
+													width = "120",
 													ZOrder = "1",
 												},
 												{
@@ -5416,7 +5416,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "150",
+													height = "0",
 													ignoreSize = "False",
 													name = "Label_skill_1_desc",
 													nTextAlign = "0",
@@ -5431,7 +5431,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 92,
-														PositionY = 208,
+														PositionY = 201,
 														LeftPositon = 149,
 														TopPosition = 368,
 														relativeToName = "Panel",
@@ -5516,7 +5516,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "150",
+													height = "0",
 													ignoreSize = "False",
 													name = "Label_skill_2_desc",
 													nTextAlign = "0",
@@ -5531,7 +5531,7 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 418,
-														PositionY = 210,
+														PositionY = 204,
 														LeftPositon = 373,
 														TopPosition = 365,
 														relativeToName = "Panel",
@@ -5616,7 +5616,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "100",
+													height = "0",
 													ignoreSize = "False",
 													name = "Label_skill_3_desc",
 													nTextAlign = "0",
@@ -6103,7 +6103,7 @@ local t =
 									anchorPointY = "0",
 									backGroundScale9Enable = "False",
 									bgColorOpacity = "50",
-									bIsOpenClipping = "True",
+									bIsOpenClipping = "False",
 									classname = "MEPanel",
 									colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 									DesignHeight = "640",
@@ -7909,6 +7909,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "750",
 									ZOrder = "1",
 									components = 

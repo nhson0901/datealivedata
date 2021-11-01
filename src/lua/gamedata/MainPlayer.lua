@@ -376,6 +376,7 @@ function MainPlayer:updateShortcut()
 
     EventMgr:dispatchEvent(EV_UPDATE_PLAYERINFO)
     initItemCoolDownTimes(self.playerInfo.recoverTimeList)
+    SaveManager:setPlayerName(ServerDataMgr:getServerRoleToken(ServerDataMgr:getCurrentServerIndex()), self.playername)
 end
 
 function MainPlayer:updateStringByServer()

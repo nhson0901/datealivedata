@@ -1732,14 +1732,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "[아루스 마리나LV  ]",
+											text = "[아루스 마리나 LV    ]",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = 148,
 											},
-											width = "175",
+											width = "193",
 											ZOrder = "1",
 										},
 										{

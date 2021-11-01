@@ -3894,7 +3894,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -3915,7 +3915,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 46,
+										PositionX = 45,
 										PositionY = 18,
 									},
 									width = "90",

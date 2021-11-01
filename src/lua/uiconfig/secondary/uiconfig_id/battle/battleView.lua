@@ -1373,7 +1373,7 @@ local t =
 													classname = "MELoadingBar",
 													direction = "0",
 													dstBlendFunc = "771",
-													height = "2",
+													height = "22",
 													ignoreSize = "True",
 													name = "LoadingBar",
 													percent = "100",
@@ -1387,7 +1387,7 @@ local t =
 													{
 														
 													},
-													width = "2",
+													width = "114",
 													ZOrder = "1",
 												},
 											},
@@ -6798,8 +6798,8 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "40",
-											ignoreSize = "False",
+											height = "28",
+											ignoreSize = "True",
 											name = "Image_common_victory",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -6858,7 +6858,6 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = -80,
-														PositionY = 8,
 														RightPosition = -200,
 														TopPosition = -23,
 														relativeToName = "Panel_victory",
@@ -6908,8 +6907,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -75,
-														PositionY = -7,
+														PositionX = 23,
 														RightPosition = -200,
 														TopPosition = -23,
 														relativeToName = "Panel_victory",

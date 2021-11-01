@@ -4287,7 +4287,7 @@ local t =
 											UUID = "cee69618_f94a_45ce_a439_39f03d621654",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
-											anchorPointY = "0.5",
+											anchorPointY = "0",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
@@ -4308,10 +4308,10 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_name",
-											nTextAlign = "1",
+											nTextAlign = "2",
 											nTextHAlign = "1",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -4322,10 +4322,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 29,
-												PositionY = 40,
+												PositionX = 39,
+												PositionY = 30,
 											},
-											width = "180",
+											width = "170",
 											ZOrder = "1",
 										},
 										{
@@ -4333,7 +4333,7 @@ local t =
 											UUID = "b996dfaf_c14b_476b_aace_1b7d6b20808f",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
-											anchorPointY = "0.5",
+											anchorPointY = "1",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
@@ -4354,8 +4354,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_state",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -4369,9 +4369,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 24,
-												PositionY = 13,
+												PositionY = 24,
 											},
-											width = "174",
+											width = "130",
 											ZOrder = "1",
 										},
 										{
@@ -4430,7 +4430,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 95,
+												PositionX = 106,
 												PositionY = 14,
 											},
 											width = "19",
@@ -4476,8 +4476,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -42,
-												PositionY = -30,
+												PositionX = -35,
+												PositionY = -42,
 											},
 											width = "58",
 											ZOrder = "1",
@@ -4502,8 +4502,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -59,
-												PositionY = -30,
+												PositionX = -58,
+												PositionY = -43,
 											},
 											width = "50",
 											ZOrder = "1",

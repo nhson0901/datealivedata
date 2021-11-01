@@ -309,7 +309,7 @@ local t =
 												PositionX = 69,
 												PositionY = 10,
 											},
-											width = "34",
+											width = "33",
 											ZOrder = "1",
 											components = 
 											{
@@ -385,7 +385,7 @@ local t =
 												PositionY = -13,
 											},
 											visible = "False",
-											width = "82",
+											width = "93",
 											ZOrder = "1",
 										},
 										{
@@ -432,7 +432,7 @@ local t =
 												PositionY = -13,
 											},
 											visible = "False",
-											width = "106",
+											width = "122",
 											ZOrder = "1",
 										},
 										{
@@ -478,7 +478,7 @@ local t =
 												PositionX = 52,
 												PositionY = -16,
 											},
-											width = "33",
+											width = "27",
 											ZOrder = "1",
 											components = 
 											{
@@ -525,7 +525,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "18",
+													width = "22",
 													ZOrder = "1",
 												},
 											},
@@ -572,7 +572,7 @@ local t =
 											{
 												PositionX = -111,
 											},
-											width = "92",
+											width = "88",
 											ZOrder = "1",
 										},
 									},
@@ -764,7 +764,7 @@ local t =
 												PositionY = -49,
 											},
 											visible = "False",
-											width = "159",
+											width = "153",
 											ZOrder = "1",
 										},
 										{
@@ -810,7 +810,7 @@ local t =
 											{
 												
 											},
-											width = "66",
+											width = "64",
 											ZOrder = "1",
 										},
 									},
@@ -899,7 +899,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "15",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -911,6 +911,8 @@ local t =
 													name = "Label_fundView_2",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													scaleX = "0.8",
+													scaleY = "0.8",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -923,7 +925,7 @@ local t =
 														PositionX = -1,
 														PositionY = 30,
 													},
-													width = "134",
+													width = "128",
 													ZOrder = "1",
 												},
 												{
@@ -993,7 +995,7 @@ local t =
 													{
 														PositionX = -12,
 													},
-													width = "48",
+													width = "52",
 													ZOrder = "1",
 												},
 											},
@@ -1067,7 +1069,7 @@ local t =
 													{
 														PositionX = -44,
 													},
-													width = "108",
+													width = "112",
 													ZOrder = "1",
 												},
 											},
@@ -1143,7 +1145,7 @@ local t =
 										PositionX = 98,
 										PositionY = 44,
 									},
-									width = "23",
+									width = "22",
 									ZOrder = "1",
 									components = 
 									{
@@ -1167,18 +1169,20 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "12",
+											fontSize = "16",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "14",
+											height = "18",
 											ignoreSize = "True",
 											name = "Label_fundView_1",
 											nTextAlign = "1",
 											nTextHAlign = "0",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1190,7 +1194,7 @@ local t =
 											{
 												PositionX = -134,
 											},
-											width = "115",
+											width = "148",
 											ZOrder = "1",
 										},
 									},
@@ -1303,7 +1307,7 @@ local t =
 												PositionX = -42,
 												PositionY = -38,
 											},
-											width = "41",
+											width = "44",
 											ZOrder = "1",
 										},
 									},
@@ -1375,18 +1379,20 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "13",
+											fontSize = "17",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "15",
+											height = "19",
 											ignoreSize = "True",
 											name = "Label_fundView_1",
 											nTextAlign = "1",
 											nTextHAlign = "0",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1396,9 +1402,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -85,
+												PositionX = -83,
 											},
-											width = "241",
+											width = "294",
 											ZOrder = "1",
 										},
 									},

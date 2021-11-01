@@ -250,7 +250,7 @@ function MasterTaskView:refreshLittleTask()
 
         if taskInfo then
             lab_itemDesc:setTextById(taskCfg.des)
-            btn_go:setVisible(taskInfo.status == EC_TaskStatus.ING and not self.isMaster)
+            btn_go:setVisible(taskInfo.status == EC_TaskStatus.ING and not self.isMaster and taskCfg.id ~= 800001)
             lab_complete:setVisible(taskInfo.status ~= EC_TaskStatus.ING)
             lab_progress:setText(math.min(taskInfo.progress,taskCfg.progress).."/"..taskCfg.progress)
             btn_go:onClick(function()

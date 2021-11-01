@@ -95,16 +95,12 @@ function MigrationServerLayer:initPullDown()
     self.pulldown_btnlist:setScrollBar(self.UIListViewBar)
 
     local list = {}
-    local gameServer = TFGlobalUtils:getPlayerServerIdx()
-    if gameServer < GLOBAL_SERVER_LIST.SERVER_KOREA_TW then
-        table.insert(list, MIGRATION_SERVER_LIST.Other)
-    else
-        for _,_migrationServerId in pairs(MIGRATION_SERVER_LIST) do
-            if (_migrationServerId > MIGRATION_SERVER_LIST.UNKNOW) and ( _migrationServerId > MIGRATION_SERVER_LIST.Other) then
-                table.insert(list, _migrationServerId)
-            end
+    for _,_migrationServerId in pairs(MIGRATION_SERVER_LIST) do
+        if (_migrationServerId > MIGRATION_SERVER_LIST.UNKNOW) then
+            table.insert(list, _migrationServerId)
         end
     end
+    
 
     table.sort(list, function( a, b )
         return a > b

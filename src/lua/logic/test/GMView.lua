@@ -154,13 +154,7 @@ end
 
 function GMView:initLanguagePanel( )
     -- body
-    if TFGlobalUtils:isConnectEnServer() then
-        self.Panel_language = TFDirector:getChildByPath(self.Panel_root, "Panel_language_server1"):hide()
-    elseif TFGlobalUtils:isConnectMiniServer() then
-        self.Panel_language = TFDirector:getChildByPath(self.Panel_root, "Panel_language_server2"):hide()
-    else
-        self.Panel_language = TFDirector:getChildByPath(self.Panel_root, "Panel_language_server3"):hide()
-    end
+    self.Panel_language = TFDirector:getChildByPath(self.Panel_root, "Panel_language_server2"):hide()
 
     self.languageCheckBox = {}
     self.languaeCheckBoxIdx = TFLanguageMgr:getLanguages()

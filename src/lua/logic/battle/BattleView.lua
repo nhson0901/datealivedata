@@ -1343,6 +1343,8 @@ function BattleView:refreshCommonVictoryState()
 			self.Panel_MonsterTrialTime:Hide()
 		end
 	end
+
+    self.textVictorycontent:setPositionX(self.textVictoryTitle:getPositionX() + self.textVictoryTitle:getContentSize().width + self.textVictorycontent:getContentSize().width + 10)
 end
 
 --组队通关条件
@@ -1431,6 +1433,7 @@ function BattleView:refreshTeamFightVictoryState()
 
     --积分模式
     --守护模式
+    self.textVictorycontent:setPositionX(self.textVictoryTitle:getPositionX() + self.textVictoryTitle:getContentSize().width + self.textVictorycontent:getContentSize().width + 10)
 end
 
 function BattleView:showLadderBuffInfo()

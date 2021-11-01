@@ -367,7 +367,7 @@ local t =
 							anchorPointY = "0.5",
 							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEButton",
-							ClickHighLightEnabled = "True",
+							ClickHighLightEnabled = "False",
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
@@ -401,7 +401,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFFEC8FD",
+									FontColor = "#FFFCF5D8",
 									fontName = "font/MFLiHei_Noncommercial.ttf",
 									fontShadow = 
 									{

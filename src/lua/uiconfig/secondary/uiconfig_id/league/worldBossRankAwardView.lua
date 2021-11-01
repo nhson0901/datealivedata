@@ -154,15 +154,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "作战奖励",
+									text = "Combat reward",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -351,
-										PositionY = 179,
+										PositionX = -357,
+										PositionY = 178,
 									},
-									width = "98",
+									width = "195",
 									ZOrder = "1",
 								},
 								{
@@ -209,7 +209,7 @@ local t =
 										PositionY = 175,
 									},
 									visible = "False",
-									width = "58",
+									width = "54",
 									ZOrder = "1",
 								},
 								{
@@ -381,7 +381,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -393,18 +393,19 @@ local t =
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													rotation = "-90",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "个人伤害奖励",
+													text = "Personal damage reward",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -3,
 													},
-													width = "40",
+													width = "150",
 													ZOrder = "1",
 												},
 											},
@@ -485,7 +486,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -497,18 +498,19 @@ local t =
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													rotation = "-90",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "社团伤害奖励",
+													text = "Club injury reward",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -3,
 													},
-													width = "40",
+													width = "150",
 													ZOrder = "1",
 												},
 											},
@@ -690,10 +692,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 131,
-												PositionY = -220,
+												PositionX = 316,
+												PositionY = -217,
 											},
-											width = "40",
+											width = "43",
 											ZOrder = "1",
 											components = 
 											{
@@ -733,15 +735,15 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "单次挑战最高伤害：",
+													text = "Maximum damage in a single challenge",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -188,
+														PositionX = -356,
 														PositionY = 3,
 													},
-													width = "187",
+													width = "344",
 													ZOrder = "1",
 												},
 												{
@@ -779,15 +781,15 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "LV4",
+													text = "Lv.4",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -205,
+														PositionX = -391,
 														PositionY = 3,
 													},
-													width = "36",
+													width = "40",
 													ZOrder = "1",
 												},
 											},
@@ -868,7 +870,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "奖励结算时间：",
+											text = "Reward settlement time",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -876,14 +878,14 @@ local t =
 												PositionX = -97,
 												PositionY = -64,
 											},
-											width = "143",
+											width = "209",
 											ZOrder = "1",
 										},
 										{
 											controlID = "Label_worldBossRankAwardView_1_Panel_2_Image_bg_Panel_root_Panel-worldBossRankAwardView_Layer1_league_Game",
 											UUID = "59ba8b49_cd54_4776_b67a_d3ab2d6e53dc",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "0",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -914,22 +916,22 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "周日24:00",
+											text = "Sunday 24:00",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 95,
+												PositionX = 120,
 												PositionY = -64,
 											},
-											width = "92",
+											width = "112",
 											ZOrder = "1",
 										},
 										{
 											controlID = "Label_worldBossLeagueAwardView_1-Copy1_Panel_2_Image_bg_Panel_root_Panel-worldBossRankAwardView_Layer1_league_Game",
 											UUID = "2c5c7b87_81b6_40bf_921f_bf96da513719",
 											anchorPoint = "False",
-											anchorPointX = "0",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -960,15 +962,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "奖励通过邮件发送",
+											text = "Reward sent by email",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 432,
-												PositionY = -64,
+												PositionX = 613,
+												PositionY = -62,
 											},
-											width = "179",
+											width = "189",
 											ZOrder = "1",
 										},
 										{
@@ -1100,7 +1102,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = 5,
-						PositionY = -691,
+						PositionY = -664,
 						LeftPositon = 5,
 						TopPosition = 691,
 						relativeToName = "Panel",
@@ -1298,15 +1300,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "个人伤害达到",
+									text = "Personal damage reached",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = -324,
-										PositionY = 42,
+										PositionY = 45,
 									},
-									width = "135",
+									width = "220",
 									ZOrder = "1",
 								},
 								{
@@ -1461,14 +1463,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Klaim",
+											text = "Claim",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "59",
+											width = "60",
 											ZOrder = "1",
 										},
 									},
@@ -1508,7 +1510,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Belum tercapai",
+									text = "Not Achieved",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1517,7 +1519,7 @@ local t =
 										PositionY = 1,
 									},
 									visible = "False",
-									width = "152",
+									width = "132",
 									ZOrder = "1",
 								},
 								{
@@ -1555,7 +1557,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Sudah diklaim",
+									text = "Claimed",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1563,7 +1565,7 @@ local t =
 										PositionX = 248,
 										PositionY = 1,
 									},
-									width = "144",
+									width = "81",
 									ZOrder = "1",
 								},
 							},
@@ -1701,7 +1703,7 @@ local t =
 										PositionX = -263,
 										PositionY = -4,
 									},
-									width = "14",
+									width = "15",
 									ZOrder = "1",
 								},
 								{
@@ -1723,15 +1725,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_worldBossRankAwardView_1",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -1739,7 +1741,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "名次奖励",
+									text = "Ranking reward",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1747,7 +1749,7 @@ local t =
 										PositionX = -89,
 										PositionY = -17,
 									},
-									width = "82",
+									width = "100",
 									ZOrder = "1",
 								},
 								{

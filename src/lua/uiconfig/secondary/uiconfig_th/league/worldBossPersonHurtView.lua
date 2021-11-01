@@ -123,7 +123,7 @@ local t =
 									controlID = "Label_tittle_Image_bg_Panel_root_Panel-worldBossPersonHurtView_Layer1_league_Game",
 									UUID = "48d99987_2e06_480c_ad4f_89c3411636bc",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -154,15 +154,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "成员伤害 l",
+									text = "Member injury",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -292,
+										PositionX = -346,
 										PositionY = 186,
 									},
-									width = "112",
+									width = "191",
 									ZOrder = "1",
 								},
 								{
@@ -208,7 +208,8 @@ local t =
 										PositionX = -231,
 										PositionY = 183,
 									},
-									width = "87",
+									visible = "False",
+									width = "84",
 									ZOrder = "1",
 								},
 								{
@@ -364,7 +365,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "ความท้าทาย",
+											text = "Challenges",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -372,7 +373,7 @@ local t =
 												PositionX = 464,
 												PositionY = 23,
 											},
-											width = "82",
+											width = "81",
 											ZOrder = "1",
 										},
 										{
@@ -410,7 +411,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "贡献伤害",
+											text = "Your Damage",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -418,7 +419,7 @@ local t =
 												PositionX = 602,
 												PositionY = 24,
 											},
-											width = "76",
+											width = "101",
 											ZOrder = "1",
 										},
 										{
@@ -510,14 +511,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "暂无数据",
+									text = "No data",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = -10,
 									},
-									width = "107",
+									width = "86",
 									ZOrder = "1",
 								},
 								{
@@ -694,10 +695,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -194,
+										PositionX = -137,
 										PositionY = -191,
 									},
-									width = "57",
+									width = "56",
 									ZOrder = "1",
 									components = 
 									{
@@ -737,15 +738,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "参与挑战人数：",
+											text = "Number of participants",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -78,
+												PositionX = -105,
 												PositionY = 1,
 											},
-											width = "143",
+											width = "208",
 											ZOrder = "1",
 										},
 									},
@@ -790,10 +791,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 177,
+										PositionX = 201,
 										PositionY = -192,
 									},
-									width = "122",
+									width = "117",
 									ZOrder = "1",
 									components = 
 									{
@@ -833,15 +834,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "所有成员总伤害：",
+											text = "Total damage of all members",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -86,
+												PositionX = -131,
 												PositionY = 2,
 											},
-											width = "165",
+											width = "256",
 											ZOrder = "1",
 										},
 									},
@@ -1139,7 +1140,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "ชื่อมีสูงสุดได้ 7 ตัวอักษร",
+									text = "Name 7 Chars",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1147,7 +1148,7 @@ local t =
 										PositionX = 153,
 										PositionY = 57,
 									},
-									width = "167",
+									width = "116",
 									ZOrder = "1",
 								},
 								{
@@ -1193,7 +1194,7 @@ local t =
 										PositionX = 362,
 										PositionY = 56,
 									},
-									width = "39",
+									width = "43",
 									ZOrder = "1",
 								},
 								{
@@ -1231,7 +1232,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "1天前",
+									text = "1 day ago",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1239,7 +1240,7 @@ local t =
 										PositionX = 363,
 										PositionY = 21,
 									},
-									width = "45",
+									width = "73",
 									ZOrder = "1",
 								},
 								{
@@ -1381,7 +1382,7 @@ local t =
 										PositionX = 461,
 										PositionY = 35,
 									},
-									width = "28",
+									width = "31",
 									ZOrder = "1",
 								},
 							},

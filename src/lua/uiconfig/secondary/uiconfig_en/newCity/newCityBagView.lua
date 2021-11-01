@@ -144,7 +144,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_tittle",
 									nTextAlign = "1",
@@ -161,7 +161,7 @@ local t =
 										PositionX = -317,
 										PositionY = 148,
 									},
-									width = "135",
+									width = "111",
 									ZOrder = "1",
 									components = 
 									{
@@ -186,7 +186,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 142,
+												PositionX = 117,
 												IsPercent = true,
 												PercentX = 105,
 											},
@@ -234,14 +234,14 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 146,
+												PositionX = 120,
 												PositionY = -5,
 												IsPercent = true,
 												PercentX = 108,
 												PercentY = -15,
 											},
 											visible = "False",
-											width = "100",
+											width = "79",
 											ZOrder = "1",
 										},
 									},
@@ -406,7 +406,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_none",
 									nTextAlign = "1",
@@ -422,7 +422,7 @@ local t =
 									{
 										
 									},
-									width = "135",
+									width = "105",
 									ZOrder = "1",
 								},
 								{
@@ -483,7 +483,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "26",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_tittle",
 											nTextAlign = "1",
@@ -500,7 +500,7 @@ local t =
 											{
 												
 											},
-											width = "45",
+											width = "38",
 											ZOrder = "1",
 										},
 									},
@@ -556,14 +556,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "18",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_tittle",
 											nTextAlign = "1",
@@ -580,7 +580,7 @@ local t =
 											{
 												
 											},
-											width = "76",
+											width = "85",
 											ZOrder = "1",
 										},
 									},

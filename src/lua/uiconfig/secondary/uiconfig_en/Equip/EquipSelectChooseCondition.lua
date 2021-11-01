@@ -144,35 +144,6 @@ local t =
 							ZOrder = "1",
 						},
 						{
-							controlID = "Image_EquipSelectChooseCondition_1_Panel_base_Panel-EquipSelectChooseCondition_Layer1_Equip_Game",
-							UUID = "a73877c3_ade3_43ac_b6dc_c145e726a4ec",
-							anchorPoint = "False",
-							anchorPointX = "0.5",
-							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
-							classname = "MEImage",
-							dstBlendFunc = "771",
-							height = "640",
-							ignoreSize = "True",
-							name = "Image_EquipSelectChooseCondition_1",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "770",
-							texturePath = "ui/Equipment/new_ui/shaixuan/0质点效果图.png",
-							touchAble = "False",
-							UILayoutViewModel = 
-							{
-								PositionX = 568,
-								PositionY = 320,
-								IsPercent = true,
-								PercentX = 50,
-								PercentY = 50,
-							},
-							width = "1386",
-							ZOrder = "1",
-						},
-						{
 							controlID = "ScrollView_suit_Panel_base_Panel-EquipSelectChooseCondition_Layer1_Equip_Game",
 							UUID = "2aa7b418_286d_40bb_96af_f3d0e3ad424d",
 							anchorPoint = "False",
@@ -322,7 +293,7 @@ local t =
 											{
 												
 											},
-											width = "87",
+											width = "92",
 											ZOrder = "1",
 										},
 									},
@@ -401,7 +372,7 @@ local t =
 											{
 												
 											},
-											width = "62",
+											width = "58",
 											ZOrder = "1",
 										},
 									},
@@ -462,7 +433,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "31",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_single",
 									nTextAlign = "1",
@@ -479,7 +450,7 @@ local t =
 										PositionX = 107,
 										PositionY = 47,
 									},
-									width = "71",
+									width = "74",
 									ZOrder = "1",
 								},
 							},
@@ -591,7 +562,7 @@ local t =
 										PositionX = 170,
 										PositionY = 132,
 									},
-									width = "38",
+									width = "44",
 									ZOrder = "1",
 								},
 								{
@@ -828,7 +799,7 @@ local t =
 																PositionX = -38,
 																PositionY = -3,
 															},
-															width = "18",
+															width = "19",
 															ZOrder = "1",
 															components = 
 															{
@@ -859,7 +830,7 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "22",
+																	height = "21",
 																	ignoreSize = "True",
 																	name = "Label_lv",
 																	nTextAlign = "1",
@@ -873,13 +844,13 @@ local t =
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
-																		PositionX = 19,
+																		PositionX = 20,
 																		PositionY = 2,
 																		IsPercent = true,
 																		PercentX = 103,
 																		PercentY = 17,
 																	},
-																	width = "25",
+																	width = "23",
 																	ZOrder = "1",
 																},
 															},
@@ -1256,7 +1227,7 @@ local t =
 																PositionX = -38,
 																PositionY = -3,
 															},
-															width = "18",
+															width = "19",
 															ZOrder = "1",
 															components = 
 															{
@@ -1287,7 +1258,7 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "22",
+																	height = "21",
 																	ignoreSize = "True",
 																	name = "Label_lv",
 																	nTextAlign = "1",
@@ -1301,13 +1272,13 @@ local t =
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
-																		PositionX = 19,
+																		PositionX = 20,
 																		PositionY = 2,
 																		IsPercent = true,
 																		PercentX = 103,
 																		PercentY = 17,
 																	},
-																	width = "25",
+																	width = "23",
 																	ZOrder = "1",
 																},
 															},
@@ -1684,7 +1655,7 @@ local t =
 																PositionX = -38,
 																PositionY = -3,
 															},
-															width = "18",
+															width = "19",
 															ZOrder = "1",
 															components = 
 															{
@@ -1715,7 +1686,7 @@ local t =
 																		StrokeColor = "#FFE6E6E6",
 																		StrokeSize = 1,
 																	},
-																	height = "22",
+																	height = "21",
 																	ignoreSize = "True",
 																	name = "Label_lv",
 																	nTextAlign = "1",
@@ -1729,13 +1700,13 @@ local t =
 																	touchScaleEnable = "False",
 																	UILayoutViewModel = 
 																	{
-																		PositionX = 19,
+																		PositionX = 20,
 																		PositionY = 2,
 																		IsPercent = true,
 																		PercentX = 103,
 																		PercentY = 17,
 																	},
-																	width = "25",
+																	width = "23",
 																	ZOrder = "1",
 																},
 															},
@@ -1961,7 +1932,6 @@ local t =
 		{
 			"ui/fairy/new_ui/new_bg_04.png",
 			"ui/fairy/new_ui/strengthen/bg_cover.png",
-			"ui/Equipment/new_ui/shaixuan/0质点效果图.png",
 			"ui/fairy/new_ui/new_12.png",
 			"ui/common/button_big_blue_n.png",
 			"ui/league/ui_58.png",

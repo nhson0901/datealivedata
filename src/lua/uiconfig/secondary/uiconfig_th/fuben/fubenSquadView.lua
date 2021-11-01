@@ -14357,7 +14357,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "强化角色",
+											text = "Enhance Character",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -14365,7 +14365,7 @@ local t =
 												PositionX = 13,
 												PositionY = 33,
 											},
-											width = "82",
+											width = "202",
 											ZOrder = "1",
 										},
 										{
@@ -14439,6 +14439,7 @@ local t =
 												PositionX = 14,
 												PositionY = 13,
 											},
+											visible = "False",
 											width = "56",
 											ZOrder = "1",
 										},
@@ -15362,6 +15363,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -16357,7 +16359,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -16426,7 +16427,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "或守鞠奈",
+											text = "Marina Arusu",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -16434,7 +16435,7 @@ local t =
 												PositionX = -80,
 												PositionY = -2,
 											},
-											width = "106",
+											width = "192",
 											ZOrder = "1",
 										},
 										{
@@ -16477,7 +16478,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 40,
+												PositionX = 121,
 												PositionY = -2,
 											},
 											width = "54",
@@ -16599,10 +16600,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -407,
+										PositionX = -346,
 										PositionY = -284,
 									},
-									width = "258",
+									width = "376",
 									ZOrder = "1",
 								},
 								{
@@ -16645,7 +16646,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -315,
+										PositionX = -224,
 										PositionY = -285,
 									},
 									width = "24",
@@ -16688,15 +16689,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "士气提供的攻击力加成：",
+											text = "ATK bonus provided by morale：",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -212,
+												PositionX = -261,
 												PositionY = 1,
 											},
-											width = "210",
+											width = "257",
 											ZOrder = "1",
 										},
 									},
@@ -17041,6 +17042,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -17432,6 +17434,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -19448,11 +19451,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "72",
-									ignoreSize = "True",
+									height = "90",
+									ignoreSize = "False",
 									name = "Image_buffInfo",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -19463,9 +19466,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -100,
-										PositionY = 93,
+										PositionY = 104,
 									},
-									width = "236",
+									width = "270",
 									ZOrder = "1",
 									components = 
 									{
@@ -19496,7 +19499,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "51",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_buffDesc",
 											nTextAlign = "1",
@@ -19512,7 +19515,7 @@ local t =
 											{
 												PositionY = 4,
 											},
-											width = "220",
+											width = "263",
 											ZOrder = "1",
 										},
 									},
@@ -19818,7 +19821,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "84",
+							height = "95",
 							ignoreSize = "False",
 							name = "Prefab_monster_world",
 							sizepercentx = "0",
@@ -19846,12 +19849,12 @@ local t =
 									UUID = "9301f128_d450_4ddf_a3f4_0861497f384a",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "84",
-									ignoreSize = "True",
+									height = "95",
+									ignoreSize = "False",
 									name = "bg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -19862,7 +19865,6 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 199,
-										PositionY = 42,
 									},
 									width = "396",
 									ZOrder = "1",
@@ -19888,7 +19890,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 1,
-										PositionY = 5,
+										PositionY = 11,
 									},
 									width = "82",
 									ZOrder = "1",
@@ -19914,7 +19916,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 42,
-										PositionY = 42,
+										PositionY = 48,
 									},
 									width = "52",
 									ZOrder = "1",
@@ -19938,14 +19940,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "15",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "52",
+									height = "0",
 									ignoreSize = "False",
 									name = "label_buff",
 									nTextAlign = "1",
@@ -19960,7 +19962,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 244,
-										PositionY = 28,
+										PositionY = 35,
 									},
 									width = "296",
 									ZOrder = "1",
@@ -20005,8 +20007,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 392,
-										PositionY = 69,
+										PositionX = 390,
+										PositionY = 79,
 									},
 									width = "76",
 									ZOrder = "1",

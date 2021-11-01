@@ -205,11 +205,12 @@ local t =
 												StrokeColor = "#FF457278",
 												StrokeSize = 1,
 											},
-											height = "0",
-											ignoreSize = "False",
+											height = "30",
+											ignoreSize = "True",
 											name = "Label_helpView_1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											rotation = "90",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -222,7 +223,7 @@ local t =
 												PositionX = 4,
 												PositionY = -1,
 											},
-											width = "26",
+											width = "48",
 											ZOrder = "1",
 										},
 									},
@@ -570,11 +571,11 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "title1",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -585,9 +586,9 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 60,
-												PositionY = 434,
+												PositionY = 444,
 											},
-											width = "629",
+											width = "500",
 											ZOrder = "1",
 										},
 										{
@@ -630,7 +631,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 122,
+												PositionX = 152,
 												PositionY = 140,
 											},
 											width = "197",
@@ -684,7 +685,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -256,
+														PositionX = -276,
 													},
 													width = "30",
 													ZOrder = "1",

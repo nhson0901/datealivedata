@@ -48,7 +48,6 @@ rawset(TFImage, "setTexture", function ( self ,texturePath, ... )
 
 	local code = TFLanguageMgr:getUsingLanguageCode("_")
 	if code ~= "" and texturePath ~= "" then
-		texturePath = TFGlobalUtils:replaceTexturePath(texturePath)
 		local engCode = TFLanguageMgr:getCodeByLanguage(cc.ENGLISH, "_")
 		local engTexturePath = string.gsub(texturePath , "%." ,engCode..".")
 		if LanguageResMgr ~= nil then

@@ -491,14 +491,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "17",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_collector_rank_title",
 									nTextAlign = "1",
@@ -515,7 +515,7 @@ local t =
 										PositionX = -122,
 										PositionY = 106,
 									},
-									width = "125",
+									width = "163",
 									ZOrder = "1",
 								},
 								{

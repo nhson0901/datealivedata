@@ -6103,7 +6103,7 @@ local t =
 									anchorPointY = "0",
 									backGroundScale9Enable = "False",
 									bgColorOpacity = "50",
-									bIsOpenClipping = "True",
+									bIsOpenClipping = "False",
 									classname = "MEPanel",
 									colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 									DesignHeight = "640",
@@ -17963,8 +17963,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 70,
-										PositionY = 18,
+										PositionX = 35,
+										PositionY = 17,
 									},
 									width = "34",
 									ZOrder = "1",
@@ -17988,14 +17988,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "18",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_att_name",
 									nTextAlign = "1",
@@ -18009,10 +18009,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 97,
-										PositionY = 15,
+										PositionX = 62,
+										PositionY = 17,
 									},
-									width = "76",
+									width = "84",
 									ZOrder = "1",
 								},
 								{
@@ -18034,14 +18034,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "18",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_att_value",
 									nTextAlign = "1",
@@ -18055,10 +18055,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 334,
-										PositionY = 16,
+										PositionX = 349,
+										PositionY = 17,
 									},
-									width = "29",
+									width = "32",
 									ZOrder = "1",
 								},
 							},
@@ -19659,7 +19659,7 @@ local t =
 									UUID = "f0f724f2_77c4_4969_a39b_53728aa713a0",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -19673,7 +19673,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "17",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -19683,7 +19683,7 @@ local t =
 									height = "0",
 									ignoreSize = "False",
 									name = "Label_label_name",
-									nTextAlign = "1",
+									nTextAlign = "2",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -19695,7 +19695,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 45,
-										PositionY = 18,
+										PositionY = 1,
 									},
 									width = "85",
 									ZOrder = "1",

@@ -155,7 +155,6 @@ return {
     },
     [9] = {
         ext = {
-            day = 5,
             month = 2,
         },
         buyEndTime = "",
@@ -176,7 +175,6 @@ return {
     },
     [10] = {
         ext = {
-            day = 5,
             month = 3,
         },
         buyEndTime = "",
@@ -197,7 +195,6 @@ return {
     },
     [11] = {
         ext = {
-            day = 5,
             month = 4,
         },
         buyEndTime = "",
@@ -218,7 +215,6 @@ return {
     },
     [12] = {
         ext = {
-            day = 5,
             month = 5,
         },
         buyEndTime = "",
@@ -239,7 +235,6 @@ return {
     },
     [13] = {
         ext = {
-            day = 5,
             month = 6,
         },
         buyEndTime = "",
@@ -260,7 +255,6 @@ return {
     },
     [14] = {
         ext = {
-            day = 5,
             month = 8,
         },
         buyEndTime = "",
@@ -281,7 +275,6 @@ return {
     },
     [15] = {
         ext = {
-            day = 5,
             month = 9,
         },
         buyEndTime = "",
@@ -302,7 +295,6 @@ return {
     },
     [16] = {
         ext = {
-            day = 5,
             month = 10,
         },
         buyEndTime = "",
@@ -323,7 +315,6 @@ return {
     },
     [17] = {
         ext = {
-            day = 5,
             month = 11,
         },
         buyEndTime = "",
@@ -344,7 +335,6 @@ return {
     },
     [18] = {
         ext = {
-            day = 5,
             month = 12,
         },
         buyEndTime = "",
@@ -365,7 +355,6 @@ return {
     },
     [19] = {
         ext = {
-            day = 5,
             month = 1,
         },
         buyEndTime = "",
@@ -444,7 +433,6 @@ return {
     },
     [24] = {
         ext = {
-            day = 5,
             month = 7,
         },
         buyEndTime = "",
@@ -462,5 +450,43 @@ return {
         order = 24,
         color = 1,
         limitDes = "100000165",
+    },
+    [25] = {
+        ext = {
+        },
+        buyEndTime = "",
+        id = 25,
+        price = {
+            [580019] = 1500,
+        },
+        items = {
+            [599607] = 1,
+        },
+        buyBeginTime = "",
+        name = "13500028",
+        limitVal = 1,
+        limitType = 8,
+        order = 25,
+        color = 2,
+        limitDes = "100000170",
+    },
+    [26] = {
+        ext = {
+        },
+        buyEndTime = "",
+        id = 26,
+        price = {
+            [500002] = 1500,
+        },
+        items = {
+            [599607] = 1,
+        },
+        buyBeginTime = "",
+        name = "13500028",
+        limitVal = 1,
+        limitType = 1,
+        order = 26,
+        color = 2,
+        limitDes = "100000169",
     },
 }

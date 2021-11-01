@@ -2,7 +2,7 @@ local t = {
 		{
 			name="chatView",
 			ui ="chatView.lua",
-			x=0,
+			x=1,
 			y=0,
 			speed=0,
 			layer="chat",

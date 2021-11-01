@@ -251,16 +251,14 @@ function BaseScene:initLanguageLabel( )
             text = text .." (" ..account ..")"
 
             if LogonHelper then
-                local group_id = LogonHelper:getGroupId()
-                local serverId = LogonHelper:getServerId()
-                local groupCfgId = LogonHelper:getGroupCfgId()
-                if group_id and groupCfgId then
-                    local groupName = ServerDataMgr:getGroupNameById(groupCfgId, group_id)
-                    local serverName = ServerDataMgr:getServerNameById(groupCfgId, serverId)
+                local groupName = LogonHelper:getGroupName()
+                if groupName and groupName ~= "" then
                     text = text ..groupName
-                    if serverName and serverName ~= "" then
-                        text = text .."_" ..serverName
-                    end
+                end
+
+                local serverName = LogonHelper:getServerName()
+                if serverName and serverName ~= "" then
+                    text = text .."_" ..serverName
                 end
             end
         end
@@ -278,16 +276,14 @@ function BaseScene:changeGameLanguage()
                 text = text .." (" ..account ..")"
 
                 if LogonHelper then
-                    local group_id = LogonHelper:getGroupId()
-                    local serverId = LogonHelper:getServerId()
-                    local groupCfgId = LogonHelper:getGroupCfgId()
-                    if group_id and groupCfgId then
-                        local groupName = ServerDataMgr:getGroupNameById(groupCfgId, group_id)
-                        local serverName = ServerDataMgr:getServerNameById(groupCfgId, serverId)
+                    local groupName = LogonHelper:getGroupName()
+                    if groupName and groupName ~= "" then
                         text = text ..groupName
-                        if serverName and serverName ~= "" then
-                            text = text .."_" ..serverName
-                        end
+                    end
+
+                    local serverName = LogonHelper:getServerName()
+                    if serverName and serverName ~= "" then
+                        text = text .."_" ..serverName
                     end
                 end
             end

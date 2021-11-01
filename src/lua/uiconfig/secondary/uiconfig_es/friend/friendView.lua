@@ -2333,6 +2333,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -3419,7 +3420,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "1136",
 							ZOrder = "1",
 							components = 
@@ -3530,14 +3530,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "我的同门",
+													text = "My fellow",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -1,
 													},
-													width = "98",
+													width = "124",
 													ZOrder = "1",
 												},
 											},
@@ -3609,14 +3609,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "我的学员",
+													text = "My students",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "98",
+													width = "155",
 													ZOrder = "1",
 												},
 											},
@@ -3804,15 +3804,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "22",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -3820,14 +3820,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "师徒特权",
+													text = "Mentorship privilege",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "107",
+													width = "120",
 													ZOrder = "1",
 												},
 												{
@@ -3925,14 +3925,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "师徒任务",
+													text = "Mentorship",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "107",
+													width = "123",
 													ZOrder = "1",
 												},
 												{
@@ -4014,15 +4014,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "22",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -4030,14 +4030,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "申请列表",
+													text = "Application list",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "107",
+													width = "120",
 													ZOrder = "1",
 												},
 												{
@@ -4119,15 +4119,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "20",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -4142,7 +4142,7 @@ local t =
 													{
 														
 													},
-													width = "55",
+													width = "120",
 													ZOrder = "1",
 												},
 											},
@@ -4198,15 +4198,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "22",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -4214,14 +4214,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "收徒",
+													text = "Accept disciples",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "56",
+													width = "120",
 													ZOrder = "1",
 												},
 											},
@@ -4291,14 +4291,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "暂无数据",
+											text = "No data",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "82",
+											width = "84",
 											ZOrder = "1",
 										},
 									},

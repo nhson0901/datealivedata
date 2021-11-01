@@ -2288,13 +2288,7 @@ function LeagueDataMgr:send_JU_NAI_INVASION_REQ_GET_UNION_RANK(tag)
     tag = tag or 1
     TFDirector:send(c2s.JU_NAI_INVASION_REQ_GET_UNION_RANK, {tag})
 end
--- 
-function LeagueDataMgr:onRecvWorldBossInfo(event)
-    local data = event.data
-    dump(data)
-    self.worldBossInfo = data
-    EventMgr:dispatchEvent(EV_LEAGUE_WORLDBOSS_INFO)
-end
+--
 
 function LeagueDataMgr:onRecvMoraleNum(event)
     local data = event.data

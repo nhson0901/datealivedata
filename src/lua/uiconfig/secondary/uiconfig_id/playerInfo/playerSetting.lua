@@ -2234,7 +2234,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "应援等级",
+													text = "Support level",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -2242,7 +2242,7 @@ local t =
 														PositionX = 14,
 														PositionY = 14,
 													},
-													width = "83",
+													width = "107",
 													ZOrder = "1",
 												},
 												{
@@ -7509,7 +7509,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "98",
+							height = "121",
 							ignoreSize = "False",
 							name = "Panel_spr_item",
 							sizepercentx = "0",
@@ -7541,11 +7541,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "98",
-									ignoreSize = "True",
+									height = "120",
+									ignoreSize = "False",
 									name = "Image_di",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -7556,7 +7556,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 202,
-										PositionY = 49,
+										PositionY = 61,
 									},
 									width = "404",
 									ZOrder = "1",
@@ -7582,7 +7582,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 400,
-										PositionY = 49,
+										PositionY = 62,
 									},
 									width = "156",
 									ZOrder = "1",
@@ -7628,7 +7628,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 20,
-										PositionY = 76,
+										PositionY = 96,
 									},
 									width = "126",
 									ZOrder = "1",
@@ -7655,7 +7655,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 227,
-										PositionY = 78,
+										PositionY = 91,
 									},
 									width = "64",
 									ZOrder = "1",
@@ -7681,7 +7681,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 288,
-										PositionY = 79,
+										PositionY = 92,
 									},
 									width = "30",
 									ZOrder = "1",
@@ -7712,11 +7712,11 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "18",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_suit_name",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -7726,10 +7726,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 15,
-										PositionY = 45,
+										PositionX = 16,
+										PositionY = 58,
 									},
-									width = "154",
+									width = "234",
 									ZOrder = "1",
 								},
 								{
@@ -7772,8 +7772,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 20,
-										PositionY = 18,
+										PositionX = 17,
+										PositionY = 25,
 									},
 									width = "24",
 									ZOrder = "1",
@@ -7818,8 +7818,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 290,
-										PositionY = 45,
+										PositionX = 303,
+										PositionY = 56,
 									},
 									width = "45",
 									ZOrder = "1",
@@ -7864,8 +7864,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 290,
-										PositionY = 18,
+										PositionX = 299,
+										PositionY = 24,
 									},
 									width = "49",
 									ZOrder = "1",
@@ -7890,11 +7890,11 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 186,
-										PositionY = 39,
+										PositionX = 187,
+										PositionY = 61,
 										IsPercent = true,
-										PercentX = 46,
-										PercentY = 40,
+										PercentX = 46.19,
+										PercentY = 50.44,
 									},
 									visible = "False",
 									width = "146",

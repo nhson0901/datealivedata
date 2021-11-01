@@ -1368,15 +1368,8 @@ local lightLinkTexture = {
 
 function FairyDetailsLayer:updateEquipLayer()
 	if self.fristUpdateLeftBar then return end   --增加首次打开优化
-	--TODO CLOSE
-	--self.Button_use_suit:setVisible(not self.isfriend)
-	--self.Button_save_suit:setVisible(not self.isfriend)
-	if TFGlobalUtils:isConnectEnServer() then  --英文版打开质点预设
-
-	else
-		self.Button_use_suit:hide()
-		self.Button_save_suit:hide()
-	end
+	self.Button_use_suit:setVisible(not self.isfriend)
+	self.Button_save_suit:setVisible(not self.isfriend)
 	
 	local equipedState = HeroDataMgr:checkEquipmentUnLockState(self.showHeroId)
 	self.Button_save_suit:setGrayEnabled(not equipedState)

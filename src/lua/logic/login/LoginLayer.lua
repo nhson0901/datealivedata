@@ -13,13 +13,7 @@ function LoginLayer:ctor(data)
 	if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
 		self:init("lua.uiconfig.loginScene.oneYearloginLayer")
 	else
-		if TFGlobalUtils:isConnectEnServer() then
-			self:init("lua.uiconfig.loginScene.loginLayerNew1")
-		elseif TFGlobalUtils:isConnectKoreaTwServer() then
-			self:init("lua.uiconfig.loginScene.loginLayerNew1")
-		else
-			self:init("lua.uiconfig.loginScene.loginLayer")
-		end
+		self:init("lua.uiconfig.loginScene.loginLayer")
 	end
 end
 
@@ -31,11 +25,6 @@ function LoginLayer:initUI(ui)
 
 	self.continue = TFDirector:getChildByPath(ui,"continue");
 	self.continue:setTextById(800086)
-
-	--if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectKoreaTwServer() then
-    	self.continue:setFontColor(ccc3(255 , 255 , 255))
-    --end
-	--self.continue:setFontColor(ccc3(255 , 255 , 255))
 	local tween =
 	    {
 	        target = self.continue,
@@ -51,11 +40,6 @@ function LoginLayer:initUI(ui)
 	    	},
 	    }
 	TFDirector:toTween(tween)
-	if (TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectKoreaTwServer())and not FunctionDataMgr:isMoJingLoginUI() then
-		local logonImag = TFImage:create("ui/login/logo.png")
-		TFDirector:getChildByPath(ui , "logo"):addChild(logonImag)
-		logonImag:setPosition(380 , 120)
-	end
 
 	self.loginBoard = TFDirector:getChildByPath(ui,"loginBoard");
 	self.loginBoard:setVisible(false);
@@ -67,10 +51,6 @@ function LoginLayer:initUI(ui)
 		local updateZipVersion = TFClientUpdate:getCurVersion()
 		versionTex = "version:" ..apkVersion .."_" ..updateZipVersion
 	end
-
-	if TFGlobalUtils:isConnectEnServer() then
-    	self.versionLabel:setFontColor(ccc3(252 , 245 , 216))
-    end
 	self.versionLabel:setText(versionTex)
 
 	self.apkVersionLabel = TFDirector:getChildByPath(ui,"label_apkVersion"):hide()
@@ -235,41 +215,17 @@ function LoginLayer:initUI(ui)
 	 	end, true)
 	end));
 	self.Button_migrationServer:setPosition(self.Button_Conceal_proto:getPosition())
-	    self.Button_migrationServer:setVisible(NEW_APP_VERSION and (not TFGlobalUtils:InVarificationStatus()))
+	self.Button_migrationServer:setVisible(NEW_APP_VERSION)
 	TFDirector:getChildByPath(self.Button_migrationServer,"Label_migrationServer"):setTextById(190000816)
 	
     self.Panel_serverList = TFDirector:getChildByPath(ui, "Panel_serverList")
-    -- self.Panel_serverList:setVisible(GameConfig.Debug)
+    self.Panel_serverList:setVisible(GameConfig.Debug)
     self.Label_serverName = TFDirector:getChildByPath(self.Panel_serverList, "Label_serverName")
     self.Label_serverName:setTextById(800090)
 
-    if TFGlobalUtils:isConnectEnServer() or TFGlobalUtils:isConnectKoreaTwServer() then
-    	if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
-    		self.Label_serverName:setFontColor(ccc3(254 , 200 , 253))
-    	else
-    		self.Label_serverName:setFontColor(ccc3(255 , 255 , 255))
-    	end
-    elseif TFGlobalUtils:isConnectMiniServer() then
-    	if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
-    		self.Label_serverName:setFontColor(ccc3(254 , 200 , 253))
-    	else
-    		self.Label_serverName:setFontColor(ccc3(255 , 255 , 255))
-    	end
-    end
-
-    self.serverListBgImg = TFDirector:getChildByPath(self.Panel_serverList, "Image_severlistbg")
-    if self.serverListBgImg then
-    	if TFGlobalUtils:isConnectMiniServer() then
-    		self.serverListBgImg:setTexture("ui/login/7.png")
-    	elseif TFGlobalUtils:isConnectEnServer() then
-    		self.serverListBgImg:setTexture("ui/login/new1/b7.png")
-    	elseif TFGlobalUtils:isConnectKoreaTwServer() then	
-    		self.serverListBgImg:setTexture("ui/login/new1/b7.png")
-    	end
-    	if FunctionDataMgr:isMoJingLoginUI() then
-	        self.serverListBgImg:setTexture("ui/login/oneYear/2.png")
-	    end
-    end
+    self.roleListPanel = TFDirector:getChildByPath(ui, "panel_roleList")
+    self.roleListPanel:setVisible(not GameConfig.Debug)
+    self.curRoleNameLabel = TFDirector:getChildByPath(self.roleListPanel, "label_roleName")
 
     self.gameServerList = TFDirector:getChildByPath(ui, "game_serverList")
     self.gameServerList:setVisible(false)
@@ -292,22 +248,12 @@ function LoginLayer:initUI(ui)
     self:refreshView()
 
     self:login();
-
-
-    if (TFGlobalUtils:getCacheServer( ) == GLOBAL_SERVER_LIST.SERVER_UNKNOW) then   --默认打开选服
-    	local group_id = LogonHelper:getGroupId()
-        local serverId = LogonHelper:getServerId()
-        local groupCfgId = LogonHelper:getGroupCfgId()
-        local view = requireNew("lua.logic.test.ServerListView"):new({group_id = group_id, serverId = serverId, groupCfgId = groupCfgId})
-        self:addLayer(view, AlertManager.BLOCK)
-    end
-
 end
 
 function LoginLayer:showMigrationServerView( callBack, force )
 	-- body
 	local isExitCache, _ = TFGlobalUtils:getMigrationServerId(true)
-	if (not TFGlobalUtils:InVarificationStatus()) and (((not isExitCache) and NEW_APP_VERSION) or force) then
+	if (((not isExitCache) and NEW_APP_VERSION) or force) then
 		local fullModuleName = string.format("lua.logic.%s", "login.MigrationServerLayer")
 	    local view = requireNew(fullModuleName):new(callBack)
 	    self:addLayer(view,998)
@@ -349,16 +295,6 @@ end
 
 function LoginLayer:refreshView()
     self:updateServerName()
-
-    -- if CC_TARGET_PLATFORM == CC_PLATFORM_WIN32 then
-    -- 	if (TFGlobalUtils:getCacheServer( ) == GLOBAL_SERVER_LIST.SERVER_UNKNOW)  and (not (TFGlobalUtils:getPlayerServerIdx() == GLOBAL_SERVER_LIST.SERVER_ENGLISH)) then
-	   --  	TFGlobalUtils:setCacheServer(GLOBAL_SERVER_LIST.SERVER_ENGLISH)
-	   --      -- 重启客户端
-	   --      TFDirector:dispatchGlobalEventWith("Engine_Will_Restart", {})
-	   --      restartLuaEngine("")
-	   --      return
-	   --  end
-    -- end
 end
 
 function LoginLayer:autoLogin()
@@ -381,21 +317,6 @@ function LoginLayer:loginAccountSuccess()
     if HeitaoSdk then
         newPlayer = (tonumber(HeitaoSdk.isNewPlayer()) <= 0)
     end
-
-    --TODO CLOSE 屏蔽切服提醒
-    -- if (TFGlobalUtils:getCacheServer() == GLOBAL_SERVER_LIST.SERVER_UNKNOW) and newPlayer and (not (TFGlobalUtils:getPlayerServerIdx() == GLOBAL_SERVER_LIST.SERVER_ENGLISH)) then
-    -- 	local alertparams = clone(EC_GameAlertParams)
-	   --  alertparams.msg = 190012011
-	   --  alertparams.showtype = EC_GameAlertType.comfirm
-	   --  alertparams.comfirmCallback = function()
-	   --      TFGlobalUtils:setCacheServer(GLOBAL_SERVER_LIST.SERVER_ENGLISH)
-	   --      -- 重启客户端
-	   --      TFDirector:dispatchGlobalEventWith("Engine_Will_Restart", {})
-	   --      restartLuaEngine("")
-	   --  end
-	   -- showGameAlert(alertparams)
-    --     return
-    -- end
 
     if CC_TARGET_PLATFORM == CC_PLATFORM_WIN32 then
     	local curScene = Public:currentScene()
@@ -561,10 +482,7 @@ function LoginLayer:registerEvents()
 
     self.Panel_serverList:onClick(function()
         --Utils:openView("test.ServerListView")
-        local group_id = LogonHelper:getGroupId()
-        local serverId = LogonHelper:getServerId()
-        local groupCfgId = LogonHelper:getGroupCfgId()
-        local view = requireNew("lua.logic.test.ServerListView"):new({group_id = group_id, serverId = serverId, groupCfgId = groupCfgId})
+        local view = requireNew("lua.logic.test.ServerListView"):new()
         self:addLayer(view, AlertManager.BLOCK)
         --AlertManager:show()
     end)
@@ -573,6 +491,11 @@ function LoginLayer:registerEvents()
         local view = requireNew("lua.logic.login.ServerChoose"):new()
         self:addLayer(view, AlertManager.BLOCK)
         --AlertManager:show()
+    end)
+
+    self.roleListPanel:onClick(function()
+        local view = requireNew("lua.logic.login.RoleChoose"):new()
+        self:addLayer(view, AlertManager.BLOCK)
     end)
 
     --与返回键功能冲突 屏蔽 2020-09-21
@@ -706,53 +629,48 @@ function LoginLayer.enterNextPage(sender)
 		    return;
 		end
 	end
-
-	if (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32) or (HeitaoSdk and HeitaoSdk.isLogined()) then
-		if not TFGlobalUtils:canMigrationServerEnterGameServer() then
-			Utils:showError(TextDataMgr:getText(190000830))
-			local self = sender.logic
-			self.migrationServerLayerDisplay = true
-			self.Button_migrationServer:setTouchEnabled(false)
-			TimeOut(function()
-				local self = sender.logic
-				self.Button_migrationServer:setTouchEnabled(true)
-				self.migrationServerLayerDisplay = false
-		        self:showMigrationServerView(function(isUpdate)
-					self.enterNextPage(sender)
-				end, true)
-		    end, 1.5)
-			return 
-		end
-	end
 	connectToGameServer(sender)
 end
 
 
-function LoginLayer:updateServerName(group_id, serverId, groupCfgId)
-    if not group_id then
-        group_id = LogonHelper:getGroupId()
-        serverId = LogonHelper:getServerId()
-        groupCfgId = LogonHelper:getGroupCfgId()
+function LoginLayer:updateServerName( groupName, serverName )
+    if not groupName then
+        groupName = LogonHelper:getGroupName()
+        serverName = LogonHelper:getServerName()
     end
 
-	if group_id and groupCfgId then
-		local groupName = ServerDataMgr:getGroupNameById(groupCfgId, group_id)
-		local serverName = ServerDataMgr:getServerNameById(groupCfgId, serverId)
-		local text = groupName
-		if serverName and serverName ~= "" then
-			text = text .."_" ..serverName
-		end
-        self.Label_serverName:setText(text)
+	if groupName then
+        serverName = serverName or "*"
+        local serverGroupConfig = ServerDataMgr:getServerList(groupName)
+        local realName = groupName
+	    if serverGroupConfig and serverGroupConfig.name then
+	        realName = serverGroupConfig.name
+	    end
+        self.Label_serverName:setText(string.format("%s:%s", realName, serverName))
     else
         self.Label_serverName:setTextById(800090)
     end
-
-    local serverList = ServerDataMgr:getGameServerList();
+    
+    local serverList = ServerDataMgr:getGameServerList()
     self.gameServerList:setVisible(GameConfig.Debug and (serverList and table.count(serverList) > 0))
     local isShow = self.gameServerList:isVisible()
     if isShow then
-    	local name = ServerDataMgr:getCurrentServerName();
-    	self.gameServerName:setString(name);
+    	local playerName = SaveManager:getPlayerName(ServerDataMgr:getServerRoleToken(ServerDataMgr:getCurrentServerIndex()))
+	    if playerName == nil or playerName == "" then
+	        self.gameServerName:setTextById(190001094, ServerDataMgr:getCurrentServerIndex())
+	    else
+	        self.gameServerName:setTextById(190001094, playerName)
+	    end
+    end
+
+    self.roleListPanel:setVisible((not GameConfig.Debug) and (serverList and table.count(serverList) > 1))
+    if self.roleListPanel:isVisible() then
+    	local playerName = SaveManager:getPlayerName(ServerDataMgr:getServerRoleToken(ServerDataMgr:getCurrentServerIndex()))
+        if playerName == nil or playerName == "" then
+            self.curRoleNameLabel:setTextById(190001094, ServerDataMgr:getCurrentServerIndex())
+        else
+            self.curRoleNameLabel:setTextById(190001094, playerName)
+        end
     end
 end
 

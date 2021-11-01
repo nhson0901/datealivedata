@@ -547,6 +547,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "100",
 									ZOrder = "1",
 									components = 
@@ -826,7 +827,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "100",
 									ZOrder = "1",
 									components = 
@@ -867,7 +867,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "奖励结算时间：",
+											text = "獎勵結算時間：",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -959,7 +959,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "奖励通过邮件发送",
+											text = "獎勵通過郵件發送",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1746,7 +1746,7 @@ local t =
 										PositionX = -89,
 										PositionY = -17,
 									},
-									width = "82",
+									width = "83",
 									ZOrder = "1",
 								},
 								{

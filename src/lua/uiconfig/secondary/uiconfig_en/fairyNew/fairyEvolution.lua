@@ -415,7 +415,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "29",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_name",
 											nTextAlign = "1",
@@ -432,7 +432,7 @@ local t =
 												PositionX = 65,
 												PositionY = 16,
 											},
-											width = "225",
+											width = "227",
 											ZOrder = "1",
 										},
 										{
@@ -992,7 +992,7 @@ local t =
 										PositionX = 268,
 										PositionY = 116,
 									},
-									width = "89",
+									width = "92",
 									ZOrder = "1",
 								},
 								{
@@ -1057,7 +1057,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "29",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_fairyEvolution_1-Copy2",
 									nTextAlign = "1",
@@ -1074,7 +1074,7 @@ local t =
 										PositionX = 179,
 										PositionY = 501,
 									},
-									width = "223",
+									width = "232",
 									ZOrder = "1",
 								},
 								{
@@ -1190,7 +1190,7 @@ local t =
 											{
 												
 											},
-											width = "93",
+											width = "92",
 											ZOrder = "1",
 										},
 									},
@@ -1345,7 +1345,7 @@ local t =
 											{
 												PositionX = -35,
 											},
-											width = "109",
+											width = "106",
 											ZOrder = "1",
 										},
 										{
@@ -1541,7 +1541,7 @@ local t =
 										PositionX = 264,
 										PositionY = 174,
 									},
-									width = "220",
+									width = "214",
 									ZOrder = "1",
 								},
 								{
@@ -2040,7 +2040,7 @@ local t =
 												PositionX = 277,
 												PositionY = 23,
 											},
-											width = "24",
+											width = "27",
 											ZOrder = "1",
 										},
 										{
@@ -2086,7 +2086,7 @@ local t =
 												PositionX = 252,
 												PositionY = 23,
 											},
-											width = "16",
+											width = "19",
 											ZOrder = "1",
 										},
 										{
@@ -2379,12 +2379,12 @@ local t =
 									UUID = "e10f8b57_da5a_4f2b_bf6d_e3cac8b690ef",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
 									FontColor = "#FF000000",
-									fontName = "phanta.ttf",
+									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
 										IsShadow = false,
@@ -2393,15 +2393,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "13",
+									fontSize = "16",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "15",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_material_name",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -2415,9 +2415,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 65,
-										PositionY = 152,
+										PositionY = 137,
 									},
-									width = "54",
+									width = "79",
 									ZOrder = "1",
 								},
 							},
@@ -2551,7 +2551,7 @@ local t =
 									{
 										PositionY = -34,
 									},
-									width = "73",
+									width = "70",
 									ZOrder = "1",
 								},
 							},

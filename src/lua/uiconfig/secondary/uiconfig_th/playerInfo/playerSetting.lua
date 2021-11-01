@@ -2233,7 +2233,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "应援等级",
+													text = "Support level",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -2241,7 +2241,7 @@ local t =
 														PositionX = 14,
 														PositionY = 14,
 													},
-													width = "83",
+													width = "107",
 													ZOrder = "1",
 												},
 												{
@@ -7815,8 +7815,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 290,
-										PositionY = 45,
+										PositionX = 321,
+										PositionY = 44,
 									},
 									width = "83",
 									ZOrder = "1",
@@ -7861,8 +7861,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 290,
-										PositionY = 18,
+										PositionX = 321,
+										PositionY = 17,
 									},
 									width = "49",
 									ZOrder = "1",

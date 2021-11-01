@@ -319,7 +319,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "强化角色",
+											text = "Enhance the character",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -327,7 +327,7 @@ local t =
 												PositionX = 13,
 												PositionY = 33,
 											},
-											width = "90",
+											width = "261",
 											ZOrder = "1",
 										},
 										{
@@ -401,7 +401,8 @@ local t =
 												PositionX = 49,
 												PositionY = 11,
 											},
-											width = "69",
+											visible = "False",
+											width = "60",
 											ZOrder = "1",
 										},
 										{
@@ -439,7 +440,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "低级组",
+											text = "Low-level group",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -447,7 +448,7 @@ local t =
 												PositionX = 397,
 												PositionY = 33,
 											},
-											width = "62",
+											width = "170",
 											ZOrder = "1",
 										},
 										{
@@ -493,7 +494,7 @@ local t =
 												PositionX = 397,
 												PositionY = 11,
 											},
-											width = "25",
+											width = "24",
 											ZOrder = "1",
 										},
 									},
@@ -565,14 +566,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "รางวัล",
+											text = "Reward",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "55",
+											width = "76",
 											ZOrder = "1",
 										},
 										{
@@ -753,11 +754,11 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 205,
+										PositionX = 182,
 										PositionY = -53,
 										relativeToName = "Panel",
 									},
-									width = "120",
+									width = "164",
 									ZOrder = "1",
 									components = 
 									{
@@ -785,14 +786,14 @@ local t =
 											{
 												
 											},
-											width = "120",
+											width = "159",
 											ZOrder = "1",
 										},
 										{
 											controlID = "Label_beatNum_beatNum_Panel_right_Panel_root_Panel-fubenMonsterTrialView_Layer1_fuben_Game",
 											UUID = "a8e93561_3c6a_4162_9940_e6bf1e129250",
 											anchorPoint = "False",
-											anchorPointX = "1",
+											anchorPointX = "0.5",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -823,15 +824,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "已战胜敌人",
+											text = "Enemies defeated",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 47,
 												PositionY = -15,
 											},
-											width = "93",
+											width = "128",
 											ZOrder = "1",
 										},
 										{
@@ -876,7 +876,7 @@ local t =
 											{
 												PositionY = 9,
 											},
-											width = "25",
+											width = "24",
 											ZOrder = "1",
 										},
 									},
@@ -1077,7 +1077,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "伤害加成伤害加成伤害加成伤害加成",
+									text = "Damage bonus damage bonus damage bonus damage bonus",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1149,7 +1149,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "buff名称",
+									text = "Buff Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1157,7 +1157,7 @@ local t =
 										PositionX = 122,
 										PositionY = 80,
 									},
-									width = "86",
+									width = "124",
 									ZOrder = "1",
 								},
 							},
@@ -1677,14 +1677,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -2224,14 +2224,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -2772,14 +2772,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -3323,14 +3323,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -3867,14 +3867,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -4412,14 +4412,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -4958,14 +4958,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -5503,14 +5503,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -6049,14 +6049,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -6593,14 +6593,14 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "ชื่อด่าน",
+															text = "Stage Name",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
 																
 															},
-															width = "51",
+															width = "95",
 															ZOrder = "1",
 														},
 													},
@@ -6763,7 +6763,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "เวลา",
+									text = "Time",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -6771,7 +6771,7 @@ local t =
 										PositionX = -205,
 										PositionY = -5,
 									},
-									width = "56",
+									width = "73",
 									ZOrder = "1",
 								},
 								{
@@ -6809,7 +6809,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "เปิดเสมอ",
+									text = "Always Open",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -6817,7 +6817,7 @@ local t =
 										PositionX = -111,
 										PositionY = -7,
 									},
-									width = "71",
+									width = "118",
 									ZOrder = "1",
 								},
 							},
@@ -6922,7 +6922,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "关卡积分:",
+									text = "Level Points:",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -6930,7 +6930,7 @@ local t =
 										PositionX = 29,
 										PositionY = 42,
 									},
-									width = "104",
+									width = "122",
 									ZOrder = "1",
 								},
 							},
@@ -7002,7 +7002,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "ร้านค้า",
+									text = "Store",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -7010,7 +7010,7 @@ local t =
 										PositionX = -1,
 										PositionY = -38,
 									},
-									width = "47",
+									width = "45",
 									ZOrder = "1",
 								},
 							},

@@ -1073,7 +1073,7 @@ local t =
 												PositionX = -1,
 												PositionY = -3,
 											},
-											width = "75",
+											width = "83",
 											ZOrder = "1",
 										},
 										{
@@ -1508,7 +1508,7 @@ local t =
 												PositionX = 7,
 												PositionY = -2,
 											},
-											width = "179",
+											width = "195",
 											ZOrder = "1",
 										},
 									},
@@ -1556,7 +1556,7 @@ local t =
 										PositionX = 297,
 										PositionY = 508,
 									},
-									width = "46",
+									width = "53",
 									ZOrder = "1",
 								},
 								{
@@ -1599,10 +1599,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 262,
+										PositionX = 242,
 										PositionY = 508,
 									},
-									width = "55",
+									width = "59",
 									ZOrder = "1",
 								},
 								{
@@ -1645,10 +1645,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 321,
+										PositionX = 346,
 										PositionY = 508,
 									},
-									width = "93",
+									width = "100",
 									ZOrder = "1",
 								},
 								{
@@ -1661,7 +1661,7 @@ local t =
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "88",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "img_choose",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -1674,7 +1674,7 @@ local t =
 										PositionX = 297,
 										PositionY = 508,
 									},
-									width = "306",
+									width = "400",
 									ZOrder = "1",
 								},
 								{
@@ -1751,7 +1751,7 @@ local t =
 											{
 												PositionX = -29,
 											},
-											width = "221",
+											width = "194",
 											ZOrder = "1",
 										},
 									},
@@ -1972,7 +1972,7 @@ local t =
 												PositionX = 59,
 												PositionY = 17,
 											},
-											width = "48",
+											width = "46",
 											ZOrder = "1",
 										},
 									},
@@ -2114,7 +2114,7 @@ local t =
 												PositionX = 59,
 												PositionY = 17,
 											},
-											width = "48",
+											width = "46",
 											ZOrder = "1",
 										},
 									},

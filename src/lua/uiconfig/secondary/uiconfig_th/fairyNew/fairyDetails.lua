@@ -6104,7 +6104,7 @@ local t =
 									anchorPointY = "0",
 									backGroundScale9Enable = "False",
 									bgColorOpacity = "50",
-									bIsOpenClipping = "True",
+									bIsOpenClipping = "False",
 									classname = "MEPanel",
 									colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 									DesignHeight = "640",
@@ -6128,7 +6128,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "520",
 									ZOrder = "1",
 									components = 
@@ -7910,6 +7909,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "750",
 									ZOrder = "1",
 									components = 

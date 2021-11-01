@@ -841,8 +841,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "37",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_collect_title",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -856,10 +856,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -142,
-										PositionY = 6,
+										PositionX = -121,
+										PositionY = 49,
 									},
-									width = "230",
+									width = "143",
 									ZOrder = "1",
 								},
 								{
@@ -902,8 +902,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -73,
-										PositionY = -30,
+										PositionX = -76,
+										PositionY = -63,
 									},
 									width = "18",
 									ZOrder = "1",
@@ -976,8 +976,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -85,
-										PositionY = -30,
+										PositionX = -88,
+										PositionY = -63,
 									},
 									width = "55",
 									ZOrder = "1",
@@ -1022,7 +1022,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -95,
+										PositionX = -94,
 										PositionY = -100,
 									},
 									width = "40",

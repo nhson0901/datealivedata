@@ -19454,11 +19454,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "72",
-									ignoreSize = "True",
+									height = "81",
+									ignoreSize = "False",
 									name = "Image_buffInfo",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -19469,9 +19469,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -100,
-										PositionY = 93,
+										PositionY = 98,
 									},
-									width = "236",
+									width = "288",
 									ZOrder = "1",
 									components = 
 									{
@@ -19495,14 +19495,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "51",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_buffDesc",
 											nTextAlign = "1",
@@ -19518,7 +19518,7 @@ local t =
 											{
 												PositionY = 4,
 											},
-											width = "220",
+											width = "279",
 											ZOrder = "1",
 										},
 									},
@@ -19824,7 +19824,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "84",
+							height = "95",
 							ignoreSize = "False",
 							name = "Prefab_monster_world",
 							sizepercentx = "0",
@@ -19852,12 +19852,12 @@ local t =
 									UUID = "9301f128_d450_4ddf_a3f4_0861497f384a",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "84",
-									ignoreSize = "True",
+									height = "95",
+									ignoreSize = "False",
 									name = "bg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -19868,7 +19868,6 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 199,
-										PositionY = 42,
 									},
 									width = "396",
 									ZOrder = "1",
@@ -19894,7 +19893,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 1,
-										PositionY = 5,
+										PositionY = 10,
 									},
 									width = "82",
 									ZOrder = "1",
@@ -19920,7 +19919,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 42,
-										PositionY = 42,
+										PositionY = 47,
 									},
 									width = "52",
 									ZOrder = "1",
@@ -19951,7 +19950,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "52",
+									height = "0",
 									ignoreSize = "False",
 									name = "label_buff",
 									nTextAlign = "1",
@@ -19960,13 +19959,13 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Damage bonus damage bonus damage bonus damage bonus",
+									text = "Damage bonus damage bonus damage bonusDamage bonus damage bonus damage bonus damage bonusDamage bonus damage bonus damage nus damage bonus",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = 244,
-										PositionY = 28,
+										PositionY = 33,
 									},
 									width = "296",
 									ZOrder = "1",
@@ -20012,7 +20011,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 392,
-										PositionY = 69,
+										PositionY = 76,
 									},
 									width = "86",
 									ZOrder = "1",

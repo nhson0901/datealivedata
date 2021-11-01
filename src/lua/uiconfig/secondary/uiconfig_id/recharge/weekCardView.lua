@@ -174,10 +174,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 70,
+										PositionX = 58,
 										PositionY = -1,
 									},
-									width = "29",
+									width = "28",
 									ZOrder = "1",
 								},
 								{
@@ -246,10 +246,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 110,
+										PositionX = 99,
 										PositionY = -1,
 									},
-									width = "37",
+									width = "46",
 									ZOrder = "1",
 								},
 								{
@@ -295,7 +295,7 @@ local t =
 										PositionX = 85,
 										PositionY = -31,
 									},
-									width = "78",
+									width = "89",
 									ZOrder = "1",
 								},
 							},
@@ -381,7 +381,7 @@ local t =
 										PositionX = -5,
 										PositionY = 209,
 									},
-									width = "96",
+									width = "111",
 									ZOrder = "1",
 								},
 								{
@@ -469,7 +469,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "16",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -480,7 +480,9 @@ local t =
 													ignoreSize = "False",
 													name = "Label_weekCardView_1",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
+													scaleX = "0.8",
+													scaleY = "0.8",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -491,7 +493,6 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = -200,
-														PositionY = -1,
 													},
 													width = "300",
 													ZOrder = "1",
@@ -2786,7 +2787,7 @@ local t =
 														PositionX = -193,
 														PositionY = 14,
 													},
-													width = "71",
+													width = "77",
 													ZOrder = "1",
 													components = 
 													{
@@ -2795,7 +2796,7 @@ local t =
 															controlID = "lab_indexNum_lab_index_img_welfare_Panel_tab_Image_content_Panel_root_Panel-weekCardView_Layer1_recharge_Game",
 															UUID = "e6bbc928_e60d_446a_abd8_64076edc4be3",
 															anchorPoint = "False",
-															anchorPointX = "0",
+															anchorPointX = "0.5",
 															anchorPointY = "0.5",
 															classname = "MELabel",
 															compPath = "luacomponents.common.MEIconLabel",
@@ -2831,10 +2832,10 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 42,
-																PositionY = -22,
+																PositionX = 29,
+																PositionY = -26,
 															},
-															width = "12",
+															width = "13",
 															ZOrder = "1",
 														},
 													},
@@ -2858,7 +2859,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "16",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -2993,7 +2994,7 @@ local t =
 										PositionY = -29,
 									},
 									visible = "False",
-									width = "53",
+									width = "60",
 									ZOrder = "1",
 								},
 							},
@@ -3142,7 +3143,7 @@ local t =
 												PositionX = -89,
 												PositionY = 26,
 											},
-											width = "168",
+											width = "159",
 											ZOrder = "1",
 										},
 										{

@@ -161,8 +161,17 @@ function BattleResultShareView:refreshView()
             if not dungeonCfg then
                 dungeonCfg = TabDataMgr:getData("DungeonLevel")[self.levelCid_]
             end
-            local realName = dungeonCfg.name or dungeonCfg.levelName
-            local levelName = TextDataMgr:getText(realName)
+
+            local realName = 0
+            if tonumber(dungeonCfg.name) and tonumber(dungeonCfg.name) > 0 then
+                realName = tonumber(dungeonCfg.name)
+            elseif tonumber(dungeonCfg.levelName) and tonumber(dungeonCfg.levelName) > 0 then
+                realName = tonumber(dungeonCfg.levelName)
+            end
+            local levelName = ""
+            if realName and realName > 0 then
+                levelName = TextDataMgr:getText(realName)
+            end
             self.Label_title:setTextById(300883, chapterName.." "..levelName)
         end
     end

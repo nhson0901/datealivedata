@@ -22,8 +22,16 @@ function DepotView:initUI(ui)
     self.super.initUI(self,ui)
 
     self.scroll_listSupply = UIGridView:create(self._ui.scroll_listSupply)
-    self.scroll_listSupply:setItemModel(self._ui.panel_cell)
-    self.scroll_listSupply:setColumn(3)
+    if TFLanguageMgr:getUsingLanguage() == cc.GERMAN or TFLanguageMgr:getUsingLanguage() == cc.FRENCH
+    or TFLanguageMgr:getUsingLanguage() == cc.SPANISH or TFLanguageMgr:getUsingLanguage() == cc.INDONESIAN
+    or TFLanguageMgr:getUsingLanguage() == cc.ENGLISH then
+        self.scroll_listSupply:setItemModel(self._ui.panel_cell_global)
+        self.scroll_listSupply:setColumn(2)
+    else
+        self.scroll_listSupply:setItemModel(self._ui.panel_cell)
+        self.scroll_listSupply:setColumn(3)
+    end
+    
     self.scroll_listSupply:setColumnMargin(6)
     self.scroll_listSupply:setRowMargin(5)
 

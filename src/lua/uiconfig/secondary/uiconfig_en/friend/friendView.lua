@@ -3806,15 +3806,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "22",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -3829,7 +3829,7 @@ local t =
 													{
 														
 													},
-													width = "220",
+													width = "120",
 													ZOrder = "1",
 												},
 												{
@@ -3911,15 +3911,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "22",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -3934,7 +3934,7 @@ local t =
 													{
 														
 													},
-													width = "123",
+													width = "120",
 													ZOrder = "1",
 												},
 												{
@@ -4016,15 +4016,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "22",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -4039,7 +4039,7 @@ local t =
 													{
 														
 													},
-													width = "161",
+													width = "120",
 													ZOrder = "1",
 												},
 												{
@@ -4121,15 +4121,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "20",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -4144,7 +4144,7 @@ local t =
 													{
 														
 													},
-													width = "116",
+													width = "120",
 													ZOrder = "1",
 												},
 											},
@@ -4200,15 +4200,15 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "22",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -4223,7 +4223,7 @@ local t =
 													{
 														
 													},
-													width = "167",
+													width = "120",
 													ZOrder = "1",
 												},
 											},

@@ -23,13 +23,8 @@ function TeamRoomSelectView:initData()
 	self.matchingStat = Stat.NONE 
 
 	self.maxWaitingTime = Utils:getKVP(17001,"time")
-	--TODO CLOSE
-    if TFGlobalUtils:isConnectMiniServer()  then  --英文版打开质点预设
-    	self.iconRes = {"D.png","C.png","B.png","A.png","S.png"}
-    else
-        self.iconRes = {"D.png","C.png","B.png","A.png","S.png","blackwhite.png"}
-    end 
-	
+    self.iconRes = {"D.png","C.png","B.png","A.png","S.png","blackwhite.png"}
+    
 	self.difficultyItems = {}
 	self.curChoice = nil
 

@@ -2248,7 +2248,7 @@ return {
     },
     [1309005] = {
         unlockHint = 1713501,
-        sortForMainScene = 0,
+        sortForMainScene = 4,
         id = 1309005,
         backgroundEffect = {
         },
@@ -2647,7 +2647,7 @@ return {
     },
     [1314010] = {
         unlockHint = 1705453,
-        sortForMainScene = 0,
+        sortForMainScene = 5,
         id = 1314010,
         backgroundEffect = {
         },
@@ -2668,7 +2668,7 @@ return {
     },
     [1314009] = {
         unlockHint = 1705448,
-        sortForMainScene = 0,
+        sortForMainScene = 4,
         id = 1314009,
         backgroundEffect = {
         },

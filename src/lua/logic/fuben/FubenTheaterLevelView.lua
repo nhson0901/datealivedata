@@ -1397,6 +1397,7 @@ function FubenTheaterLevelView:updateTheaterInfo()
 
     local theaterBossInfo = FubenDataMgr:getTheaterBossInfo()
     local levelCid = theaterBossInfo.bossDungeonId
+    print(theaterBossInfo)
     self.Label_theater_noOpen:hide()
     if theaterBossInfo.odeumType == EC_TheaterBossType.LINGBO  then
         local canChallenge = levelCid ~= 0

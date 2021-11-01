@@ -333,8 +333,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 998,
-										PositionY = 759,
+										PositionX = 1098,
+										PositionY = 634,
 										RightPosition = 38,
 										TopPosition = 6,
 										relativeToName = "Panel",
@@ -560,7 +560,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 13,
-										PositionY = 759,
+										PositionY = 634,
 										LeftPositon = 13,
 										TopPosition = 6,
 										relativeToName = "Panel_ui",
@@ -2037,8 +2037,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 431,
-										PositionY = 695,
+										PositionX = 531,
+										PositionY = 570,
 										RightPosition = 311,
 										TopPosition = 2,
 										relativeToName = "Panel_top",
@@ -2755,8 +2755,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 894,
-										PositionY = 528,
+										PositionX = 994,
+										PositionY = 403,
 										RightPosition = 50,
 										TopPosition = 53,
 										relativeToName = "Panel_ui",
@@ -3431,7 +3431,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 695,
+										PositionY = 570,
 										TopPosition = 70,
 										relativeToName = "Panel_ui",
 										nType = 3,
@@ -3541,8 +3541,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 1036,
-										PositionY = 765,
+										PositionX = 1136,
+										PositionY = 640,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 3,
@@ -4021,8 +4021,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 1036,
-										PositionY = 765,
+										PositionX = 1136,
+										PositionY = 640,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 3,
@@ -6769,10 +6769,10 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 68,
-										PositionY = 621,
+										PositionY = 496,
 										IsPercent = true,
-										PercentX = 6.56,
-										PercentY = 81.18,
+										PercentX = 5.99,
+										PercentY = 77.5,
 										LeftPositon = 68,
 										TopPosition = 116,
 										relativeToName = "Panel_top",
@@ -6843,8 +6843,8 @@ local t =
 														StrokeColor = "#FF22343F",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "20",
+													ignoreSize = "True",
 													name = "Label_title",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -6864,7 +6864,7 @@ local t =
 														nGravity = 3,
 														nAlign = 3
 													},
-													width = "160",
+													width = "171",
 													ZOrder = "1",
 												},
 												{
@@ -6907,7 +6907,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 89,
+														PositionX = 101,
 														RightPosition = -200,
 														TopPosition = -23,
 														relativeToName = "Panel_victory",
@@ -8254,8 +8254,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 720,
-										PositionY = 600,
+										PositionX = 820,
+										PositionY = 475,
 										RightPosition = -114,
 										TopPosition = 75,
 										relativeToName = "Panel_top",
@@ -8472,8 +8472,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
-										PositionY = 459,
+										PositionX = 568,
+										PositionY = 334,
 										TopPosition = 240,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -8664,8 +8664,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
-										PositionY = 446,
+										PositionX = 568,
+										PositionY = 321,
 										TopPosition = 253,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -8806,8 +8806,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
-										PositionY = 445,
+										PositionX = 568,
+										PositionY = 320,
 										TopPosition = 199,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9024,8 +9024,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
-										PositionY = 474,
+										PositionX = 568,
+										PositionY = 349,
 										TopPosition = 241,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9175,7 +9175,7 @@ local t =
 									DesignType = "0",
 									DesignWidth = "960",
 									dstBlendFunc = "771",
-									height = "356",
+									height = "430",
 									ignoreSize = "False",
 									name = "Panel_endlessBuff",
 									sizepercentx = "0",
@@ -9185,10 +9185,9 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 176,
-										PositionY = 660,
-										LeftPositon = 66,
-										TopPosition = 105,
+										PositionX = 158,
+										PositionY = 542,
+										TopPosition = 98,
 										relativeToName = "Panel_top",
 										nType = 3,
 									},
@@ -9198,7 +9197,7 @@ local t =
 										nType = "0"
 									},
 									visible = "False",
-									width = "220",
+									width = "316",
 									ZOrder = "1",
 									components = 
 									{
@@ -9373,10 +9372,10 @@ local t =
 											colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 											direction = "1",
 											dstBlendFunc = "771",
-											height = "290",
+											height = "330",
 											ignoreSize = "False",
-											innerHeight = "290",
-											innerWidth = "240",
+											innerHeight = "330",
+											innerWidth = "316",
 											name = "ScrollView_endlessBuff",
 											showScrollbar = "False",
 											sizepercentx = "0",
@@ -9386,15 +9385,15 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 25,
-												PositionY = -198,
+												PositionX = 46,
+												PositionY = -216,
 											},
 											uipanelviewmodel = 
 											{
 												Layout="Absolute",
 												nType = "0"
 											},
-											width = "240",
+											width = "316",
 											ZOrder = "1",
 										},
 									},
@@ -9424,8 +9423,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
-										PositionY = 445,
+										PositionX = 568,
+										PositionY = 320,
 										TopPosition = 260,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9604,8 +9603,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
-										PositionY = 619,
+										PositionX = 568,
+										PositionY = 494,
 										TopPosition = 86,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9721,8 +9720,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
-										PositionY = 382,
+										PositionX = 568,
+										PositionY = 320,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 6,
@@ -11477,7 +11476,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 176,
-										PositionY = 660,
+										PositionY = 535,
 										LeftPositon = 66,
 										TopPosition = 105,
 										relativeToName = "Panel_top",
@@ -11717,8 +11716,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 337,
-										PositionY = 745,
+										PositionX = 437,
+										PositionY = 620,
 										RightPosition = 269,
 										TopPosition = 20,
 										relativeToName = "Panel_top",
@@ -12345,7 +12344,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 44,
-										PositionY = 596,
+										PositionY = 471,
 										LeftPositon = 44,
 										TopPosition = 129,
 										relativeToName = "Panel_top",
@@ -12509,8 +12508,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
-										PositionY = 382,
+										PositionX = 568,
+										PositionY = 320,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 6,
@@ -14272,7 +14271,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 82,
-										PositionY = 593,
+										PositionY = 468,
 										LeftPositon = 82,
 										TopPosition = 132,
 										relativeToName = "Panel_top",
@@ -14489,7 +14488,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 518,
+										PositionX = 568,
 										PositionY = 180,
 										BottomPosition = 130,
 										relativeToName = "Panel_top",
@@ -17390,7 +17389,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "65",
+							height = "80",
 							ignoreSize = "False",
 							name = "Panel_endlessBuffItem",
 							sizepercentx = "0",
@@ -17408,7 +17407,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "240",
+							width = "316",
 							ZOrder = "1",
 							components = 
 							{
@@ -17422,8 +17421,8 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "62",
-									ignoreSize = "True",
+									height = "80",
+									ignoreSize = "False",
 									name = "Image_battleView_1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -17435,7 +17434,7 @@ local t =
 									{
 										
 									},
-									width = "234",
+									width = "316",
 									ZOrder = "1",
 								},
 								{
@@ -17458,7 +17457,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -88,
+										PositionX = -116,
 										PositionY = 1,
 									},
 									width = "50",
@@ -17483,7 +17482,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "14",
+									fontSize = "16",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -17504,9 +17503,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 34,
+										PositionX = 46,
 									},
-									width = "154",
+									width = "218",
 									ZOrder = "1",
 								},
 							},

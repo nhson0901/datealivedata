@@ -52,14 +52,6 @@ function EquipmentSelect:initUI(ui)
     self.Image_buttons  = TFDirector:getChildByPath(ui,"Image_buttons");
     self.Label_title    = TFDirector:getChildByName(self.Button_open,"Label_title");
     self.Label_title:setTextById(490022);
-
-
-    --TODO CLOSE
-    -- if TFGlobalUtils:isConnectEnServer() then  --英文版打开质点预设
-    --     self.Button_choose = TFDirector:getChildByPath(ui,"Button_choose")
-    -- else
-    --     self.Button_choose = TFDirector:getChildByPath(ui,"Button_choose"):hide()
-    -- end  --暂时屏蔽修改
     
     self.Button_choose = TFDirector:getChildByPath(ui,"Button_choose"):hide()
 

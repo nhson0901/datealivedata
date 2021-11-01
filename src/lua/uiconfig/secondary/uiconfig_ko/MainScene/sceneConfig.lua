@@ -130,16 +130,6 @@ local t = {
 			logic="",
 		},
 		{
-			name="RankNoticeView",
-			ui ="RankNoticeView.lua",
-			x=0,
-			y=0,
-			speed=0,
-			layer="MainScene",
-			canLoad=true,
-			logic="",
-		},
-		{
 			name="newYear2021Theme",
 			ui ="newYear2021Theme.lua",
 			x=0,

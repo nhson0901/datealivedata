@@ -1289,7 +1289,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "300",
+							height = "398",
 							ignoreSize = "False",
 							name = "Panel_fairy_skill",
 							sizepercentx = "0",
@@ -1333,7 +1333,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 143,
-										PositionY = 283,
+										PositionY = 377,
 									},
 									width = "278",
 									ZOrder = "1",
@@ -1441,10 +1441,10 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "120",
+									height = "233",
 									ignoreSize = "False",
 									name = "Image_mainskill",
 									sizepercentx = "0",
@@ -1456,7 +1456,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 2,
-										PositionY = 200,
+										PositionY = 232,
 									},
 									width = "490",
 									ZOrder = "1",
@@ -1488,8 +1488,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 5,
-												PositionY = 28,
+												PositionX = 7,
+												PositionY = 74,
 											},
 											uipanelviewmodel = 
 											{
@@ -1585,7 +1585,7 @@ local t =
 													ignoreSize = "True",
 													name = "Label_skill_name",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -1674,8 +1674,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 249,
-												PositionY = 27,
+												PositionX = 7,
+												PositionY = -1,
 											},
 											uipanelviewmodel = 
 											{
@@ -1771,7 +1771,7 @@ local t =
 													ignoreSize = "True",
 													name = "Label_skill_name",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -1861,7 +1861,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 7,
-												PositionY = -32,
+												PositionY = -76,
 											},
 											uipanelviewmodel = 
 											{
@@ -1957,7 +1957,7 @@ local t =
 													ignoreSize = "True",
 													name = "Label_skill_name",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",

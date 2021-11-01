@@ -8,7 +8,7 @@ function GoogleAssetPackLayer:ctor( )
 end
 
 function GoogleAssetPackLayer:initData( )
-    self.assetPacks = {{packName = "FastFollowPack"}}
+    self.assetPacks = {{packName = "FastFollowPackOne"},{packName = "FastFollowPackTwo"},{packName = "FastFollowPackThree"},{packName = "FastFollowPackFour"}}
     self.readyAssetPacks = {}
 
     self.timeDelay = 0

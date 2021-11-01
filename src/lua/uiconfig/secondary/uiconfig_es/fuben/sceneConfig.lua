@@ -172,7 +172,7 @@ local t = {
 		{
 			name="fubenTheaterLevelView",
 			ui ="fubenTheaterLevelView.lua",
-			x=0,
+			x=1,
 			y=0,
 			speed=0,
 			layer="fuben",

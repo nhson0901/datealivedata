@@ -268,6 +268,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "740",
 									ZOrder = "1",
 									components = 
@@ -2441,7 +2442,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "740",
 									ZOrder = "1",
 									components = 
@@ -2782,18 +2782,18 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "23",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_datingTarget",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -2806,7 +2806,7 @@ local t =
 														PositionX = -152,
 														PositionY = -49,
 													},
-													width = "76",
+													width = "390",
 													ZOrder = "1",
 												},
 												{
@@ -2880,18 +2880,18 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "22",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "25",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_datingTarget_gray",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -2904,7 +2904,7 @@ local t =
 														PositionX = -152,
 														PositionY = -49,
 													},
-													width = "85",
+													width = "390",
 													ZOrder = "1",
 												},
 											},
@@ -3273,14 +3273,14 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEButton",
 									ClickHighLightEnabled = "True",
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
 									height = "50",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Button_cost",
 									normal = "ui/fuben/cost_diban.png",
 									sizepercentx = "0",
@@ -3290,11 +3290,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 175,
+										PositionX = 156,
 										PositionY = -175,
 									},
 									UItype = "Button",
-									width = "104",
+									width = "128",
 									ZOrder = "1",
 									components = 
 									{
@@ -3334,15 +3334,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "6",
+											text = "60",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -25,
-												PositionY = 7,
 											},
-											width = "21",
+											width = "43",
 											ZOrder = "1",
 										},
 										{
@@ -3367,7 +3366,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 21,
+												PositionX = 42,
 												PositionY = 10,
 											},
 											width = "100",
@@ -3413,7 +3412,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 18,
+												PositionX = 32,
 												PositionY = -13,
 											},
 											width = "58",
@@ -3446,7 +3445,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 96,
+										PositionX = 74,
 										PositionY = -174,
 									},
 									uipanelviewmodel = 

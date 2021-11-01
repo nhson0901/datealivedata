@@ -247,7 +247,7 @@ local t =
 										PositionX = -495,
 										PositionY = 225,
 									},
-									width = "404",
+									width = "443",
 									ZOrder = "1",
 								},
 								{
@@ -321,7 +321,7 @@ local t =
 											{
 												PositionX = 10,
 											},
-											width = "63",
+											width = "58",
 											ZOrder = "1",
 										},
 									},
@@ -593,7 +593,7 @@ local t =
 														PositionY = -20,
 													},
 													visible = "False",
-													width = "71",
+													width = "68",
 													ZOrder = "1",
 												},
 											},
@@ -828,7 +828,7 @@ local t =
 													{
 														PositionX = 288,
 													},
-													width = "111",
+													width = "102",
 													ZOrder = "1",
 												},
 											},
@@ -917,8 +917,8 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "27",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_btn",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -933,7 +933,7 @@ local t =
 															{
 																PositionX = -9,
 															},
-															width = "227",
+															width = "170",
 															ZOrder = "1",
 														},
 														{
@@ -1111,7 +1111,7 @@ local t =
 															{
 																PositionX = -9,
 															},
-															width = "215",
+															width = "201",
 															ZOrder = "1",
 														},
 														{
@@ -1185,7 +1185,7 @@ local t =
 											{
 												PositionX = -335,
 											},
-											width = "164",
+											width = "158",
 											ZOrder = "1",
 										},
 										{
@@ -1230,7 +1230,7 @@ local t =
 											{
 												PositionX = -164,
 											},
-											width = "254",
+											width = "242",
 											ZOrder = "1",
 										},
 									},

@@ -384,11 +384,11 @@ return {
         type = 0,
     },
     [510117] = {
-        rolePath = "modle/bust_kanban/bust_10116_superKanban",
+        rolePath = "modle/bust_kanban/bust_10117_superKanban",
         name = "十香礼服高级",
         id = 510117,
         isCloseTouchFollow = false,
-        roleName = "bust_10116_new.model3.json",
+        roleName = "bust_10117_new.model3.json",
         type = 1,
     },
     [11003] = {
@@ -1208,11 +1208,11 @@ return {
         type = 1,
     },
     [210118] = {
-        rolePath = "modle/bust_kanban/bust_10115_kanban",
+        rolePath = "modle/bust_kanban/bust_10118_kanban",
         name = "十香礼服普通",
         id = 210118,
         isCloseTouchFollow = false,
-        roleName = "bust_10115_new.model3.json",
+        roleName = "bust_10118_new.model3.json",
         type = 1,
     },
     [212801] = {

@@ -150,6 +150,16 @@ local t = {
 			logic="",
 		},
 		{
+			name="roleChoose",
+			ui ="roleChoose.lua",
+			x=0,
+			y=0,
+			speed=0,
+			layer="loginScene",
+			canLoad=true,
+			logic="",
+		},
+		{
 			name="oneYearloginLayer",
 			ui ="oneYearloginLayer.lua",
 			x=0,
