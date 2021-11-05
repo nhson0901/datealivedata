@@ -12,7 +12,8 @@ if not TFUIBase.__index then TFUIBase.__index = TFUIBase end
 TFUI_VERSION_COCOSTUDIO = "1.0.0.0"
 TFUI_VERSION_ALPHA 		= 0
 TFUI_VERSION_MEEDITOR		= 1
-TFUI_VERSION_NEWMEEDITOR	= 2
+TFUI_VERSION_MEEDITOR_GLOBAL_END	= 20
+TFUI_VERSION_NEWMEEDITOR	= 40
 
 TFUIBase.version 		= nil
 
@@ -312,7 +313,7 @@ function TFUIBase:adaptVersion(version)
 		version = TFUI_VERSION_COCOSTUDIO 
 	elseif version == nil then
 		version = TFUI_VERSION_ALPHA
-	elseif version == 1 then
+	elseif (version >= 1 and version <= TFUI_VERSION_MEEDITOR_GLOBAL_END) then
 		version = TFUI_VERSION_MEEDITOR
 	elseif version == 2 then
 		version = TFUI_VERSION_NEWMEEDITOR

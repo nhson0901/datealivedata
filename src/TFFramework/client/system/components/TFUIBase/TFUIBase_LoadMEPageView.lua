@@ -2,6 +2,7 @@ local TFUIBase 					= TFUIBase
 local TFUIBase_setFuncs 		= TFUIBase_setFuncs
 local TFUIBase_setFuncs_new 	= TFUIBase_setFuncs_new
 local TFUI_VERSION_MEEDITOR 	= TFUI_VERSION_MEEDITOR
+local TFUI_VERSION_MEEDITOR_GLOBAL_END = TFUI_VERSION_MEEDITOR_GLOBAL_END
 local TFUI_VERSION_NEWMEEDITOR 	= TFUI_VERSION_NEWMEEDITOR
 local TFUI_VERSION_ALPHA 		= TFUI_VERSION_ALPHA
 local TF_TEX_TYPE_LOCAL 		= TF_TEX_TYPE_LOCAL
@@ -15,7 +16,7 @@ local CCRectMake 				= CCRectMake
 local string 					= string
 
 function TFUIBase:initMEPageView(pval, parent)
-	if TFUIBase.version == TFUI_VERSION_MEEDITOR then
+	if (TFUIBase.version >= TFUI_VERSION_MEEDITOR and TFUIBase.version <= TFUI_VERSION_MEEDITOR_GLOBAL_END) then
 		self:initMEPageView_MEEDITOR(pval, parent)
 	elseif TFUIBase.version == TFUI_VERSION_NEWMEEDITOR then
 		self:initMEPageView_NEWMEEDITOR(pval, parent)

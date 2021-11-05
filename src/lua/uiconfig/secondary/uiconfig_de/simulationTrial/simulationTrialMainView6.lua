@@ -1,4 +1,4 @@
-local t = 
+version = 2 t = 
 {
 	version = 1,
 	components = 

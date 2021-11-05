@@ -1,5 +1,6 @@
 local TFUIBase 					= TFUIBase
 local TFUI_VERSION_MEEDITOR 	= TFUI_VERSION_MEEDITOR
+local TFUI_VERSION_MEEDITOR_GLOBAL_END = TFUI_VERSION_MEEDITOR_GLOBAL_END
 local TFUI_VERSION_NEWMEEDITOR 	= TFUI_VERSION_NEWMEEDITOR
 local TFUI_VERSION_ALPHA 		= TFUI_VERSION_ALPHA
 local TF_TEX_TYPE_LOCAL 		= TF_TEX_TYPE_LOCAL
@@ -9,7 +10,7 @@ local CCSizeMake 				= CCSizeMake
 local string 					= string
 
 function TFUIBase:initMEButtonGroup(pval, parent)
-	if TFUIBase.version == TFUI_VERSION_MEEDITOR then
+	if (TFUIBase.version >= TFUI_VERSION_MEEDITOR and TFUIBase.version <= TFUI_VERSION_MEEDITOR_GLOBAL_END) then
 		self:initMEButtonGroup_MEEDITOR(pval, parent)
 	elseif TFUIBase.version == TFUI_VERSION_NEWMEEDITOR then
 		self:initMEButtonGroup_NEWMEEDITOR(pval, parent)

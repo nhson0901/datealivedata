@@ -1,5 +1,6 @@
 local TFUIBase 					= TFUIBase
 local TFUI_VERSION_MEEDITOR 	= TFUI_VERSION_MEEDITOR
+local TFUI_VERSION_MEEDITOR_GLOBAL_END = TFUI_VERSION_MEEDITOR_GLOBAL_END
 local TFUI_VERSION_NEWMEEDITOR 	= TFUI_VERSION_NEWMEEDITOR
 local TFUI_VERSION_ALPHA 		= TFUI_VERSION_ALPHA
 local TF_TEX_TYPE_LOCAL 		= TF_TEX_TYPE_LOCAL
@@ -12,7 +13,7 @@ function TFUIBase:initMEButton(pval, parent)
 		self:initMEButton_COCOSTUDIO(pval, parent)
 	elseif TFUIBase.version == TFUI_VERSION_ALPHA then
 		self:initMEButton_ALPHA(pval, parent)
-	elseif TFUIBase.version == TFUI_VERSION_MEEDITOR then
+	elseif (TFUIBase.version >= TFUI_VERSION_MEEDITOR and TFUIBase.version <= TFUI_VERSION_MEEDITOR_GLOBAL_END) then
 		self:initMEButton_MEEDITOR(pval, parent)
 	elseif TFUIBase.version == TFUI_VERSION_NEWMEEDITOR then
 		self:initMEButton_NEWMEEDITOR(pval, parent)

@@ -2,6 +2,7 @@ local TFUIBase 					= TFUIBase
 local TFUIBase_setFuncs 		= TFUIBase_setFuncs
 local TFUIBase_setFuncs_new 	= TFUIBase_setFuncs_new
 local TFUI_VERSION_MEEDITOR 	= TFUI_VERSION_MEEDITOR
+local TFUI_VERSION_MEEDITOR_GLOBAL_END = TFUI_VERSION_MEEDITOR_GLOBAL_END
 local TFUI_VERSION_NEWMEEDITOR 	= TFUI_VERSION_NEWMEEDITOR
 local TFUI_VERSION_ALPHA 		= TFUI_VERSION_ALPHA
 local TF_TEX_TYPE_LOCAL 		= TF_TEX_TYPE_LOCAL
@@ -19,7 +20,7 @@ function TFUIBase:initMETextArea(pval, parent)
 		self:initMETextArea_COCOSTUDIO(pval, parent)
 	elseif TFUIBase.version == TFUI_VERSION_ALPHA then
 		self:initMETextArea_ALPHA(pval, parent)
-	elseif TFUIBase.version == TFUI_VERSION_MEEDITOR then
+	elseif (TFUIBase.version >= TFUI_VERSION_MEEDITOR and TFUIBase.version <= TFUI_VERSION_MEEDITOR_GLOBAL_END) then
 		self:initMETextArea_MEEDITOR(pval, parent)
 	elseif TFUIBase.version == TFUI_VERSION_NEWMEEDITOR then
 		self:initMETextArea_NEWMEEDITOR(pval, parent)
