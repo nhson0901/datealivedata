@@ -8,7 +8,7 @@
 CCLog_setDebugFileEnabled(0)
 
 
---谷歌obb 1， iOS 2， 官网3， 亚马逊4，谷歌小包5，华为6
+--谷歌obb 1， iOS 2， 官网3， 亚马逊4，谷歌小包5，华为6，投放小包7
 EX_ASSETS_ENABLE = false
 if (CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID  and HeitaoSdk and tonumber(HeitaoSdk.getplatformId()) >= 3) then
     EX_ASSETS_ENABLE = true

@@ -4320,7 +4320,7 @@ return {
             },
         },
         accessdes = 266819,
-        titleType = 102,
+        titleType = 101,
         theirdialog = "",
         icon = "icon/chatBubble/018.png",
         checkType = 0,

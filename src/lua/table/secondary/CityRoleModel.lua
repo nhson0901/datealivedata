@@ -1405,10 +1405,10 @@ return {
     },
     [410117] = {
         modeHead = "icon/role/mood/101/3.png",
-        flip = true,
+        flip = false,
         id = 410117,
         modelId = 101,
-        isPlyaerControlled = false,
+        isPlyaerControlled = true,
         iconPos = {
             y = 230,
             x = 70,
@@ -1421,7 +1421,7 @@ return {
             [1] = 410117,
             [2] = 410118,
         },
-        showPic = "",
+        showPic = "icon/role/SD_modelIcon/410117.png",
         moveSpeedMultiplier = 1,
     },
     [411201] = {
@@ -1487,7 +1487,7 @@ return {
     },
     [410118] = {
         modeHead = "icon/role/mood/101/3.png",
-        flip = true,
+        flip = false,
         id = 410118,
         modelId = 101,
         isPlyaerControlled = false,

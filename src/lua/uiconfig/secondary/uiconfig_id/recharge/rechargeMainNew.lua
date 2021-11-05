@@ -430,7 +430,7 @@ local t =
 												StrokeColor = "#FF5C7196",
 												StrokeSize = 1,
 											},
-											height = "58",
+											height = "0",
 											ignoreSize = "False",
 											name = "label_totalPayTip",
 											nTextAlign = "1",
@@ -439,14 +439,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Akumulasi saat ini",
+											text = "Total",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -13,
 											},
-											width = "63",
+											width = "108",
 											ZOrder = "1",
 										},
 										{

@@ -987,9 +987,10 @@ function TFAssetsManager:canUnzipAwb( )
 	end
 
 	if CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID then
-		if GOOGLE_ASSERT_PACK then
+		if TFClientGameAssetManager then
 			return true
 		end
+
 		local systemVersionText = TFDeviceInfo:getSystemVersion() or "1.0.0"
 	    local versionSplit = string.split(systemVersionText, ".")
 	    if #versionSplit > 0 and (not(tonumber(versionSplit[1] == nil))) then

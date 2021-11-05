@@ -783,7 +783,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 3,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -933,7 +933,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 5,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -1327,7 +1327,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 25,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -1459,7 +1459,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 3,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -13426,7 +13426,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 3,
         type = 36,
         name = "",
         acceptCondId = 0,
@@ -13871,7 +13871,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 200,
         type = 36,
         name = "",
         acceptCondId = 0,
@@ -14635,7 +14635,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 25,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -15210,7 +15210,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 20,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -16094,7 +16094,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 15,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -16282,7 +16282,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 50,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -16678,7 +16678,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 5,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -16862,7 +16862,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 40,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -17005,7 +17005,7 @@ return {
         subType = 2,
         endDate = {
         },
-        progress = 1,
+        progress = 50,
         type = 36,
         name = "",
         acceptCondId = 10001,
@@ -23676,7 +23676,7 @@ return {
     },
     [800347] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 14001,
         order = 16,
@@ -23704,7 +23704,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800347,
         extendsTaskId = 0,
         subType = 2,
@@ -23772,7 +23772,7 @@ return {
     },
     [800346] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 14001,
         order = 15,
@@ -23796,7 +23796,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800346,
         extendsTaskId = 0,
         subType = 2,
@@ -23864,7 +23864,7 @@ return {
     },
     [800345] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 14001,
         order = 14,
@@ -23888,7 +23888,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800345,
         extendsTaskId = 0,
         subType = 2,
@@ -23966,7 +23966,7 @@ return {
     },
     [800344] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 14001,
         order = 13,
@@ -23990,7 +23990,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800344,
         extendsTaskId = 0,
         subType = 2,
@@ -24262,7 +24262,7 @@ return {
     },
     [800342] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 13001,
         order = 11,
@@ -24290,7 +24290,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800342,
         extendsTaskId = 0,
         subType = 2,
@@ -24454,7 +24454,7 @@ return {
     },
     [800341] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 13001,
         order = 10,
@@ -24482,7 +24482,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800341,
         extendsTaskId = 0,
         subType = 2,
@@ -24642,7 +24642,7 @@ return {
     },
     [800339] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 8009,
         order = 8,
@@ -24674,7 +24674,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800339,
         extendsTaskId = 0,
         subType = 2,
@@ -24736,7 +24736,7 @@ return {
     },
     [800338] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 8008,
         order = 7,
@@ -24768,7 +24768,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800338,
         extendsTaskId = 0,
         subType = 2,
@@ -24942,7 +24942,7 @@ return {
     },
     [800337] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 8008,
         order = 6,
@@ -24974,7 +24974,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800337,
         extendsTaskId = 0,
         subType = 2,
@@ -25046,7 +25046,7 @@ return {
     },
     [800336] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 8008,
         order = 5,
@@ -25074,7 +25074,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800336,
         extendsTaskId = 0,
         subType = 2,
@@ -25428,7 +25428,7 @@ return {
     },
     [800333] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 13005,
         order = 2,
@@ -25452,7 +25452,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800333,
         extendsTaskId = 0,
         subType = 2,
@@ -25473,7 +25473,7 @@ return {
     },
     [800332] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 2001,
         order = 1,
@@ -25497,7 +25497,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800332,
         extendsTaskId = 0,
         subType = 2,
@@ -25517,7 +25517,7 @@ return {
     },
     [800331] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 14001,
         order = 16,
@@ -25545,7 +25545,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800331,
         extendsTaskId = 0,
         subType = 2,
@@ -25565,7 +25565,7 @@ return {
     },
     [800330] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 14001,
         order = 15,
@@ -25589,7 +25589,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800330,
         extendsTaskId = 0,
         subType = 2,
@@ -25705,7 +25705,7 @@ return {
     },
     [800329] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 14001,
         order = 14,
@@ -25729,7 +25729,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800329,
         extendsTaskId = 0,
         subType = 2,
@@ -25797,7 +25797,7 @@ return {
     },
     [800328] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 14001,
         order = 13,
@@ -25821,7 +25821,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800328,
         extendsTaskId = 0,
         subType = 2,
@@ -25985,7 +25985,7 @@ return {
     },
     [800327] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 13001,
         order = 12,
@@ -26013,7 +26013,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800327,
         extendsTaskId = 0,
         subType = 2,
@@ -26081,7 +26081,7 @@ return {
     },
     [800326] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 13001,
         order = 11,
@@ -26109,7 +26109,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800326,
         extendsTaskId = 0,
         subType = 2,
@@ -26235,7 +26235,7 @@ return {
     },
     [800325] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 13001,
         order = 10,
@@ -26263,7 +26263,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800325,
         extendsTaskId = 0,
         subType = 2,
@@ -26328,7 +26328,7 @@ return {
     },
     [800324] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 13001,
         order = 9,
@@ -26352,7 +26352,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800324,
         extendsTaskId = 0,
         subType = 2,
@@ -27503,7 +27503,7 @@ return {
     },
     [800323] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 8009,
         order = 8,
@@ -27535,7 +27535,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800323,
         extendsTaskId = 0,
         subType = 2,
@@ -27603,7 +27603,7 @@ return {
     },
     [800322] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 8008,
         order = 7,
@@ -27635,7 +27635,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800322,
         extendsTaskId = 0,
         subType = 2,
@@ -27707,7 +27707,7 @@ return {
     },
     [800321] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 8008,
         order = 6,
@@ -27739,7 +27739,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800321,
         extendsTaskId = 0,
         subType = 2,
@@ -27806,7 +27806,7 @@ return {
     },
     [800320] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 8008,
         order = 5,
@@ -27834,7 +27834,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800320,
         extendsTaskId = 0,
         subType = 2,
@@ -28287,7 +28287,7 @@ return {
     },
     [800317] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 13005,
         order = 2,
@@ -28311,7 +28311,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800317,
         extendsTaskId = 0,
         subType = 2,
@@ -28375,7 +28375,7 @@ return {
     },
     [800316] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 2001,
         order = 1,
@@ -28399,7 +28399,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800316,
         extendsTaskId = 0,
         subType = 2,
@@ -28521,7 +28521,7 @@ return {
     },
     [800318] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 13005,
         order = 3,
@@ -28545,7 +28545,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800318,
         extendsTaskId = 0,
         subType = 2,
@@ -28610,7 +28610,7 @@ return {
     },
     [800319] = {
         ext = {
-            actId = 11175,
+            actId = 181,
         },
         finishCondId = 2021,
         order = 4,
@@ -28634,7 +28634,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800319,
         extendsTaskId = 0,
         subType = 2,
@@ -30074,7 +30074,7 @@ return {
     },
     [800334] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 13005,
         order = 3,
@@ -30098,7 +30098,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800334,
         extendsTaskId = 0,
         subType = 2,
@@ -30163,7 +30163,7 @@ return {
     },
     [800335] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 2021,
         order = 4,
@@ -30187,7 +30187,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800335,
         extendsTaskId = 0,
         subType = 2,
@@ -30654,7 +30654,7 @@ return {
     },
     [800340] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 13001,
         order = 9,
@@ -30678,7 +30678,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800340,
         extendsTaskId = 0,
         subType = 2,
@@ -30939,7 +30939,7 @@ return {
     },
     [800343] = {
         ext = {
-            actId = 11176,
+            actId = 182,
         },
         finishCondId = 13001,
         order = 12,
@@ -30967,7 +30967,7 @@ return {
         colour2 = {
         },
         typeDes = "",
-        open = false,
+        open = true,
         id = 800343,
         extendsTaskId = 0,
         subType = 2,

@@ -566,7 +566,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 440,
+												PositionX = 513,
 											},
 											width = "164",
 											ZOrder = "1",
@@ -611,7 +611,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 107,
+												PositionX = 84,
 											},
 											width = "178",
 											ZOrder = "1",
@@ -755,7 +755,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 440,
+												PositionX = 513,
 											},
 											width = "164",
 											ZOrder = "1",
@@ -800,7 +800,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 107,
+												PositionX = 84,
 											},
 											width = "178",
 											ZOrder = "1",
@@ -944,7 +944,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 440,
+												PositionX = 513,
 											},
 											width = "164",
 											ZOrder = "1",
@@ -989,7 +989,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 107,
+												PositionX = 84,
 											},
 											width = "178",
 											ZOrder = "1",
@@ -1613,7 +1613,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "48",
+							height = "2",
 							ignoreSize = "True",
 							name = "Button_reopen",
 							normal = "ui/battle/n215.png",
@@ -1631,7 +1631,7 @@ local t =
 							},
 							UItype = "Button",
 							visible = "False",
-							width = "55",
+							width = "2",
 							ZOrder = "1",
 						},
 						{
@@ -1646,7 +1646,7 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "48",
+							height = "2",
 							ignoreSize = "True",
 							name = "Button_leave",
 							normal = "ui/battle/n214.png",
@@ -1664,7 +1664,7 @@ local t =
 							},
 							UItype = "Button",
 							visible = "False",
-							width = "54",
+							width = "2",
 							ZOrder = "1",
 						},
 					},
@@ -1784,7 +1784,7 @@ local t =
 								PositionX = 83,
 								PositionY = 17,
 							},
-							width = "21",
+							width = "20",
 							ZOrder = "1",
 						},
 						{

@@ -231,7 +231,7 @@ local t =
 										LeftPositon = 15,
 										TopPosition = 224,
 									},
-									width = "309",
+									width = "329",
 									ZOrder = "1",
 									components = 
 									{
@@ -280,7 +280,7 @@ local t =
 												PositionY = -4,
 											},
 											visible = "False",
-											width = "119",
+											width = "110",
 											ZOrder = "1",
 										},
 									},
@@ -632,7 +632,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "TextLable",
+											text = "Confirmer",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 

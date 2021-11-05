@@ -311,6 +311,7 @@ function FubenDataMgr:reset()
     ---阵容排序默认排序ID
     self.formationSortRuleId = 5
     self.enterNianshouChanllenge = nil -- 特殊标记重置
+    self.isNeedCheckAllPassWin = false
 end
 
 function FubenDataMgr:setFormationSortRuleId(ruleId)
@@ -3231,7 +3232,7 @@ function FubenDataMgr:getMojinLevelInfo(dungenLevel)
 end
 
 function FubenDataMgr:checkIsAllChapterPassWin()
-    if not self.isNeedCheckAllPassWin then  return end
+    if not self.isNeedCheckAllPassWin then  return false end
     local data = TabDataMgr:getData("DiscreteData",1100008).data
     for k , v in pairs(data.levelId) do
         if not self:isPassPlotLevel(v) then

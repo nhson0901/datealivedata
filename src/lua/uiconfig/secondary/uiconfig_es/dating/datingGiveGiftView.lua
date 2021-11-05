@@ -1478,7 +1478,7 @@ local t =
 										PositionX = 375,
 										PositionY = 35,
 									},
-									width = "274",
+									width = "383",
 									ZOrder = "1",
 									components = 
 									{
@@ -4778,7 +4778,7 @@ local t =
 						},
 						position = 
 						{
-							x=400,
+							x=300,
 							y=790,
 						},
 						rotate = 0,
@@ -4810,7 +4810,7 @@ local t =
 						},
 						position = 
 						{
-							x=400,
+							x=300,
 							y=490,
 						},
 						rotate = 0,
@@ -5002,7 +5002,7 @@ local t =
 						},
 						position = 
 						{
-							x=400,
+							x=300,
 							y=490,
 						},
 						rotate = 0,
@@ -5034,7 +5034,7 @@ local t =
 						},
 						position = 
 						{
-							x=400,
+							x=300,
 							y=790,
 						},
 						rotate = 0,

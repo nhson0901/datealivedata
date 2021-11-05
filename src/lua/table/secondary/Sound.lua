@@ -506,7 +506,7 @@ return {
         type1 = 1,
     },
     [11070] = {
-        sortForMainBgm = 70,
+        sortForMainBgm = 0,
         soundName = 0,
         bgm = "sound/bgm/kanban/main_xixian_10811.mp3",
         id = 11070,
@@ -3652,7 +3652,7 @@ return {
         type1 = 1,
     },
     [11073] = {
-        sortForMainBgm = 73,
+        sortForMainBgm = 0,
         soundName = 0,
         bgm = "sound/bgm/kanban/main_yejushi_10711.mp3",
         id = 11073,
@@ -5049,7 +5049,7 @@ return {
         type1 = 1,
     },
     [11066] = {
-        sortForMainBgm = 66,
+        sortForMainBgm = 0,
         soundName = 0,
         bgm = "sound/bgm/kanban/main_linmi_13303.mp3",
         id = 11066,
@@ -5060,7 +5060,7 @@ return {
         type1 = 1,
     },
     [11074] = {
-        sortForMainBgm = 74,
+        sortForMainBgm = 0,
         soundName = 0,
         bgm = "sound/bgm/main_3rd.mp3",
         id = 11074,
@@ -8690,7 +8690,7 @@ return {
         type1 = 1,
     },
     [11052] = {
-        sortForMainBgm = 52,
+        sortForMainBgm = 0,
         soundName = 0,
         bgm = "sound/bgm/main_TwoYear.mp3",
         id = 11052,
@@ -9273,7 +9273,7 @@ return {
         type1 = 1,
     },
     [11069] = {
-        sortForMainBgm = 69,
+        sortForMainBgm = 0,
         soundName = 0,
         bgm = "sound/bgm/kanban/main_13202.mp3",
         id = 11069,

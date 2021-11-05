@@ -240,7 +240,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 201,
         },
         level = 1,
     },
@@ -322,7 +321,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 117,
         },
         level = 1,
     },
@@ -487,7 +485,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 221,
         },
         level = 1,
     },
@@ -570,7 +567,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 128,
         },
         level = 1,
     },
@@ -653,7 +649,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 128,
         },
         level = 1,
     },
@@ -764,7 +759,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 128,
         },
         level = 1,
     },
@@ -820,7 +814,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 255,
         },
         level = 1,
     },
@@ -931,7 +924,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 143,
         },
         level = 1,
     },
@@ -1485,7 +1477,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 178,
         },
         level = 1,
     },
@@ -2002,7 +1993,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 173,
         },
         level = 1,
     },
@@ -2219,7 +2209,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 303,
         },
         level = 1,
     },
@@ -2274,7 +2263,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 143,
         },
         level = 1,
     },
@@ -2495,7 +2483,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 148,
         },
         level = 1,
     },
@@ -2691,7 +2678,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 159,
         },
         level = 1,
     },
@@ -2936,7 +2922,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 214,
         },
         level = 1,
     },
@@ -2991,7 +2976,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 117,
         },
         level = 1,
     },
@@ -3101,7 +3085,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 221,
         },
         level = 1,
     },
@@ -3184,7 +3167,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 186,
         },
         level = 1,
     },
@@ -3240,7 +3222,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 186,
         },
         level = 1,
     },
@@ -3324,7 +3305,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 186,
         },
         level = 1,
     },
@@ -3462,7 +3442,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 148,
         },
         level = 1,
     },
@@ -4295,7 +4274,6 @@ return {
         display = true,
         star = 1,
         accessId = {
-            [1] = 180,
         },
         level = 1,
     },

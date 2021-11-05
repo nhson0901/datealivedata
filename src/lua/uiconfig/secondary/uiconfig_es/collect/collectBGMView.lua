@@ -497,7 +497,7 @@ local t =
 												PositionX = 270,
 												PositionY = -23,
 											},
-											width = "88",
+											width = "89",
 											ZOrder = "1",
 										},
 										{
@@ -544,7 +544,7 @@ local t =
 												PositionY = 20,
 											},
 											visible = "False",
-											width = "88",
+											width = "89",
 											ZOrder = "1",
 										},
 									},
@@ -566,7 +566,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "22",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -574,7 +574,7 @@ local t =
 										StrokeSize = 1,
 									},
 									hAlignment = "0",
-									height = "73",
+									height = "0",
 									ignoreSize = "False",
 									name = "TextArea_desc",
 									sizepercentx = "0",
@@ -637,7 +637,7 @@ local t =
 										PositionY = 47,
 									},
 									visible = "False",
-									width = "88",
+									width = "89",
 									ZOrder = "1",
 								},
 								{
@@ -684,7 +684,7 @@ local t =
 										PositionY = 48,
 									},
 									visible = "False",
-									width = "88",
+									width = "89",
 									ZOrder = "1",
 								},
 								{
