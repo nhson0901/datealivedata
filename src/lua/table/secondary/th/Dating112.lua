@@ -60,6 +60,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าคุณต้องรู้ว่าทำไม อาจเป็นเพราะมันไม่เกี่ยวข้องกับคุณ",
         game = 0,
         video = {
@@ -153,6 +154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่มี ฉันไม่มีอาหารหรือสีที่ชอบ",
         game = 0,
         video = {
@@ -246,6 +248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จากนั้นเราจะนำอัญมณีที่ร้อนออกมาและลดอุณหภูมิลงอย่างรวดเร็ว ก็แค่นี้",
         game = 0,
         video = {
@@ -339,6 +342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรนะ? เธอสามารถรับรู้สิ่งที่ไม่เกี่ยวข้องกับฉันได้!",
         game = 0,
         video = {
@@ -432,6 +436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นไปได้ยังไง?",
         game = 0,
         video = {
@@ -525,6 +530,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอธิบายขณะหยิบอัญมณีออกมาด้วยที่หนีบและวางในน้ำเย็น",
         game = 0,
         video = {
@@ -618,6 +624,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันไม่มีความหมายถ้าไม่มีอะไรเกี่ยวข้องกับคุณ",
         game = 0,
         video = {
@@ -711,6 +718,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันมาเพื่อคุณ ดังนั้นฉันจึงไม่มีอดีตและอนาคต",
         game = 0,
         video = {
@@ -804,6 +812,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืมม!",
         game = 0,
         video = {
@@ -897,6 +906,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริมองมาที่ฉันอย่างจริงจัง ฉันก็อดหน้าแดงไม่ได้",
         game = 0,
         video = {
@@ -990,6 +1000,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ถ้าเธอหายไป อย่างน้อยฉันก็สังเกตเห็น!",
         game = 0,
         video = {
@@ -1083,6 +1094,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่ออัญมณีเย็นตัวลงอย่างรวดเร็ว ร่องรอยแตกก็เริ่มปรากฏขึ้น และสีสันก็จางลง หินไพลินกลายเป็นสีหม่น",
         game = 0,
         video = {
@@ -1176,6 +1188,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะฮ่าฮ่า...เอาล่ะ ทำไมเราไม่ทำโปรเจค DIY?",
         game = 0,
         video = {
@@ -1269,6 +1282,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะ-จริงเหรอ...?",
         game = 0,
         video = {
@@ -1362,6 +1376,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ มันเปลี่ยนไป! น่าทึ่งมาก!",
         game = 0,
         video = {
@@ -1455,6 +1470,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "DIY...คืออะไร?",
         game = 0,
         video = {
@@ -1548,6 +1564,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน! ฉันจะไม่สนใจคนที่ยืนอยู่ตรงหน้าได้ยังไง?",
         game = 0,
         video = {
@@ -1641,6 +1658,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเดาว่า...นั่นคือความล้มเหลว",
         game = 0,
         video = {
@@ -1734,6 +1752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอสามารถสร้างสร้อยคอของเธอเองได้ที่นี่ เธออยากลองทำสร้อยคอของเธอเองมั้ย?",
         game = 0,
         video = {
@@ -1827,6 +1846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันคิดว่า...%s คงไม่สนใจฉัน",
         game = 0,
         video = {
@@ -1920,6 +1940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้ยังไง? คุณเยี่ยมมาก %s ดูเหมือนว่าคุณจะรู้ทุกอย่าง ฉันต้องเรียนรู้จากคุณ",
         game = 0,
         video = {
@@ -2013,6 +2034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "กับ %s?",
         game = 0,
         video = {
@@ -2106,6 +2128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วเธอจะยืนเฉยและสังเกตการณ์ทุกอย่างเกี่ยวกับตัวฉันจริงๆเหรอ?",
         game = 0,
         video = {
@@ -2199,6 +2222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่! เราจะทำมันด้วยกัน! แล้วมันจะมีอะไรเกี่ยวข้องกับฉัน ใช่มั้ย?",
         game = 0,
         video = {
@@ -2292,6 +2316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม ฉันไม่รู้สิ",
         game = 0,
         video = {
@@ -2385,6 +2410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันตื่นเต้น",
         game = 0,
         video = {
@@ -2478,6 +2504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉัน-ฉันไม่อยากเห็นเธอยืนอยู่ตรงนั้นคนเดียว",
         game = 0,
         video = {
@@ -2571,6 +2598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอพยักหน้า และฉันได้ชุดอุปกรณ์จากพนักงานร้าน",
         game = 0,
         video = {
@@ -2664,6 +2692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม? การยืนข้างๆ ก็ไม่ได้ผิดปกติอะไร อย่างน้อยฉันก็ได้เห็นคุณ",
         game = 0,
         video = {
@@ -2757,6 +2786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มองดูดีๆ ใส่อัญมณีลงในเครื่องแล้วให้ความร้อนสม่ำเสมอ...",
         game = 0,
         video = {
@@ -2850,6 +2880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะว่า! ถ้ามีคนอยากเล่น แต่กลัวเกินไปเพราะคิดว่าตัวเองไม่มีความสำคัญ ฉันก็จะเป็นคนไปถามเอง!",
         game = 0,
         video = {
@@ -2943,6 +2974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เอ่อ-เอิ่ม แล้วยังไงต่อ?",
         game = 0,
         video = {
@@ -3037,6 +3069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... คนบ้า!!",
         game = 0,
         video = {
@@ -3130,6 +3163,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -3222,6 +3256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และตอนนี้คนบ้านี้อยากจะขอให้เธอใช้เวลาร่วมกัน เธอจะตอบตกลงมั้ย?",
         game = 0,
         video = {
@@ -3315,6 +3350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม ถ้าเป็นคำเชิญจาก %s ฉันจะตอบตกลง",
         game = 0,
         video = {
@@ -3409,6 +3445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "การชื่นชมกันสำคัญที่สุด",
         game = 0,
         video = {
@@ -3502,6 +3539,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้ว่าเธออยากเล่น แต่จะไม่คิดอย่างนั้นจากมุมมองของเธอเอง",
         game = 0,
         video = {
@@ -3595,6 +3633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว...",
         game = 0,
         video = {
@@ -3688,6 +3727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มุมมองของตัวเอง? แต่คนที่ไม่มีอดีตจะมีมุมมองของตัวเองได้ยังไง?",
         game = 0,
         video = {
@@ -3782,6 +3822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้นเธอก็รู้ทุกอย่าง...",
         game = 0,
         video = {
@@ -3875,6 +3916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เดี๋ยวก่อน เธอไม่จำเป็นต้องจดมัน...",
         game = 0,
         video = {
@@ -3968,6 +4010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหมายความว่า บางครั้งเธอควรมีความคิดเป็นของตัวเอง!",
         game = 0,
         video = {
@@ -4061,6 +4104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้สึกผิดอย่างไม่มีเหตุผล...",
         game = 0,
         video = {
@@ -4154,6 +4198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โชคดีที่เธอไม่ได้ถามอะไรอีก และรถไฟก็ถึงจุดหมายสุดท้าย",
         game = 0,
         video = {
@@ -4247,6 +4292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค ฉันจะทำให้ดีที่สุดเพื่อคุณ %s",
         game = 0,
         video = {
@@ -4341,6 +4387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณไม่ต้องการให้ฉันเห็น?",
         game = 0,
         video = {
@@ -4434,6 +4481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ยังไงก็ตาม คุณรู้สึกยังไงกับฉัน %s",
         game = 0,
         video = {
@@ -4527,6 +4575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รู้สึกแปลกๆ ที่รู้ว่าเดทของฉันถูกตรวจสอบโดยหญิงสาว",
         game = 0,
         video = {
@@ -4620,6 +4669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ความรู้สึก?",
         game = 0,
         video = {
@@ -4713,6 +4763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร ฉันเกิดมาเพื่อการนี้",
         game = 0,
         video = {
@@ -4806,6 +4857,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันอยากรู้ว่าคุณคิดยังไงกับฉัน %s",
         game = 0,
         video = {
@@ -4900,6 +4952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หือ?",
         game = 0,
         video = {
@@ -4993,6 +5046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สังเกตการณ์ %s เพื่อประเมินว่าคุณมีคุณสมบัติเป็นภาชนะมั้ย",
         game = 0,
         video = {
@@ -5086,6 +5140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ้อ เข้าใจแล้ว...",
         game = 0,
         video = {
@@ -5179,6 +5234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "บทสนทนาค่อนข้างจริงจัง",
         game = 0,
         video = {
@@ -5276,6 +5332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -5369,6 +5426,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริดูเหมือนจะเหม่อลอยตลอดการเดท ซึ่งที่เหลือซึ่งจบลงด้วยความรู้สึกแปลกๆ",
         game = 0,
         video = {
@@ -5461,6 +5519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในที่สุดก็ถึงวันหยุดสุดสัปดาห์ แต่ฉันถูกส่งตัวไปทำธุระ ...",
         game = 0,
         video = {
@@ -5554,6 +5613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอฉันตรวจสอบก่อน...อมยิ้ม ขนมปังคินาโกะ ครีมพัฟ เกลืออาบน้ำ - ครบแล้ว!",
         game = 0,
         video = {
@@ -5647,6 +5707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะว่าไป สิ่งพวกนี้ดูเหมือนจะไม่จำเป็น โอ้...ครั้งหน้า จะเอาพวกมันไปด้วย",
         game = 0,
         video = {
@@ -5740,6 +5801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในขณะที่ฉันกำลังจะกลับ ฉันรู้สึกได้ถึงสายตาที่จับจ้องมาที่ฉัน",
         game = 0,
         video = {
@@ -5833,6 +5895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหมุนตัวไปรอบๆ และเด็กผู้หญิงคนนั้นก็อยู่ใต้ต้นไม้ไม่ไกลจากที่นี่",
         game = 0,
         video = {
@@ -5929,6 +5992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอชอบโลกนี้มั้ย?",
         game = 0,
         video = {
@@ -6022,6 +6086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะว่าไป เธอชอบโลกใบนี้มั้ย มายูริ?",
         game = 0,
         video = {
@@ -6116,6 +6181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โปรดเชื่อฉัน",
         game = 0,
         video = {
@@ -6209,6 +6275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โลกใบนี้?",
         game = 0,
         video = {
@@ -6302,6 +6369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร ฉันไม่รู้",
         game = 0,
         video = {
@@ -6395,6 +6463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ โลกที่ฉันอยู่ - โลกมนุษย์",
         game = 0,
         video = {
@@ -6488,6 +6557,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะงั้นฉันขอให้เธอโปรดเชื่อฉัน! ฉันชอบเธอจริงๆ!",
         game = 0,
         video = {
@@ -6581,6 +6651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว สถานที่ที่ %s อาศัยอยู่...ใช่! ฉันชอบ",
         game = 0,
         video = {
@@ -6674,6 +6745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ทำไมฉันถึงไม่รู้สึกอะไรจากคำพูดของคุณ?",
         game = 0,
         video = {
@@ -6767,6 +6839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้สึกปั่นป่วนเล็กน้อยเมื่อเธอพูดแบบนั้น...",
         game = 0,
         video = {
@@ -6863,6 +6936,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจะสอนเธอเอง",
         game = 0,
         video = {
@@ -6956,6 +7030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเดาว่าฉันยังไม่สามารถแสดงความรู้สึกกับเธอได้",
         game = 0,
         video = {
@@ -7049,6 +7124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ทำไมคุณเอาแต่ถามเกี่ยวกับฉัน?",
         game = 0,
         video = {
@@ -7142,6 +7218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เฮ้อ",
         game = 0,
         video = {
@@ -7235,6 +7312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หรือบางทีคุณอาจพยายามมากขึ้นในการออกเดทกับสปิริตอื่นๆ",
         game = 0,
         video = {
@@ -7328,6 +7406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตอนนี้ถือมันต่ำลงเล็กน้อย...แบบนี้",
         game = 0,
         video = {
@@ -7421,6 +7500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อพูดอย่างนั้น เธอก็หันกลับมาและหายไปต่อหน้าฉัน",
         game = 0,
         video = {
@@ -7514,6 +7594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพิ่มแรงที่ข้อมือของเธอ",
         game = 0,
         video = {
@@ -7607,6 +7688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -7706,6 +7788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ๊ากก!",
         game = 0,
         video = {
@@ -7800,6 +7883,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -7893,6 +7977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จู่ๆ มีดก็หล่นลงพื้น",
         game = 0,
         video = {
@@ -7986,6 +8071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ! มายูริ! กลับมา! ขอฉันอธิบายก่อน!",
         game = 0,
         video = {
@@ -8080,6 +8166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าเธอไม่มี ก็ไม่จำเป็นต้องใช้",
         game = 0,
         video = {
@@ -8173,6 +8260,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเรียกชื่อเธอ แต่เธอก็ไม่โผล่มาอีกแม้จะมืดแล้ว",
         game = 0,
         video = {
@@ -8267,6 +8355,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -8360,6 +8449,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าเธอไม่มี ก็ไม่จำเป็นต้องใช้",
         game = 0,
         video = {
@@ -8453,6 +8543,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หมดไอเดีย ฉันแกล้งทำเป็นโกรธและตะโกนออกมา",
         game = 0,
         video = {
@@ -8546,6 +8637,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ชิงช้าสวรรค์สนุกมั้ย?",
         game = 0,
         video = {
@@ -8640,6 +8732,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ชวนมายูริให้อาหารนกพิราบ",
         game = 0,
         video = {
@@ -8733,6 +8826,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จริงเหรอ? ก็ไม่จำเป็นต้องใช้?",
         game = 0,
         video = {
@@ -8826,6 +8920,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ! ถ้าเธอไม่ออกมาฉันจะไม่คุยกับเธออีกแล้ว!",
         game = 0,
         video = {
@@ -8919,6 +9014,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่! เรามาเล่นอีกครั้งในครั้งหน้า ได้มั้ย?",
         game = 0,
         video = {
@@ -9012,6 +9108,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รู้แล้ว! เธออยากให้อาหารนกพิราบมั้ย มายูริ?",
         game = 0,
         video = {
@@ -9105,6 +9202,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เพราะความทรงจำของเราตอนนี้จะกลายเป็นอดีตของเธอ",
         game = 0,
         video = {
@@ -9198,6 +9296,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...",
         game = 0,
         video = {
@@ -9291,6 +9390,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้ เราทำได้ แต่ตารางจะได้ด้วยนะ...หือ?",
         game = 0,
         video = {
@@ -9384,6 +9484,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉัน? แต่ฉันไม่รู้ว่าต้องทำยังไง",
         game = 0,
         video = {
@@ -9477,6 +9578,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ อดีตที่เป็นของ %s และฉัน",
         game = 0,
         video = {
@@ -9570,6 +9672,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้! มายูริ เธออยู่นี่เอง!",
         game = 0,
         video = {
@@ -9663,6 +9766,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณกำลังดูอะไรอยู่ %s?",
         game = 0,
         video = {
@@ -9756,6 +9860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็น ฉันจะสอนเธอข้างๆ ลองดูสิ มันสนุกมาก!",
         game = 0,
         video = {
@@ -9849,6 +9954,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รอยยิ้มที่อ่อนโยนของเธอทำให้หัวใจของฉันเต้นแรง",
         game = 0,
         video = {
@@ -9942,6 +10048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s ฉันจะทำอะไรให้คุณได้บ้าง?",
         game = 0,
         video = {
@@ -10035,6 +10142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันทำเป็นไม่สังเกตเห็นเธอและเดินผ่านเธอไป",
         game = 0,
         video = {
@@ -10128,6 +10236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค ถ้าคุณพูดอย่างนั้น",
         game = 0,
         video = {
@@ -10221,6 +10330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ เธอควรยิ้มให้มากขึ้น เธอดูสวยมากเมื่อเธอยิ้ม",
         game = 0,
         video = {
@@ -10314,6 +10424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉัน...แค่อยากจะขอโทษ",
         game = 0,
         video = {
@@ -10407,6 +10518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่เมื่อฉันเดินผ่านเธอและทิ้งเธอไว้ข้างหลัง เธอไม่เคยละสายตาจากฉันเลย",
         game = 0,
         video = {
@@ -10500,6 +10612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -10593,6 +10706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะ-จริงเหรอ...",
         game = 0,
         video = {
@@ -10686,6 +10800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอโทษ?",
         game = 0,
         video = {
@@ -10779,6 +10894,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "กล้าคิดฟุ้งซ่านระหว่างคุยกับโยชิโนะได้ยังไง?",
         game = 0,
         video = {
@@ -10873,6 +10989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -10966,6 +11083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ โดยเฉพาะเมื่อเธอยิ้มฉันรู้สึกว่าเธอมีตัวตนจริงๆ",
         game = 0,
         video = {
@@ -11059,6 +11177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ สำหรับคำพูดที่ไม่ระมัดระวังที่ฉันพูดไป ฉันแค่อยากให้เธอมีความสุข",
         game = 0,
         video = {
@@ -11152,6 +11271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอโทษ ฉันเผลอไป แล้วมาเดทกันครั้งหน้า!",
         game = 0,
         video = {
@@ -11245,6 +11365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ระวัง มายูริ เราแค่เอื้อมมือออกไปเบาๆ...",
         game = 0,
         video = {
@@ -11338,6 +11459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "บางทีฉันอาจจะเป็นรูปธรรมมากขึ้นเพราะคุณ",
         game = 0,
         video = {
@@ -11432,6 +11554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คนบ้า...ฉันไม่ต้องการให้คุณทำแบบนั้น",
         game = 0,
         video = {
@@ -11525,6 +11648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตกลง เกี่ยวก้อยสัญญา?",
         game = 0,
         video = {
@@ -11618,6 +11742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเทอาหารลงในฝ่ามืออ้าออกมาของเธอ",
         game = 0,
         video = {
@@ -11711,6 +11836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ฉันไม่ได้เห็นเธอยิ้มเลยทั้งวัน!",
         game = 0,
         video = {
@@ -11804,6 +11930,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เกี่ยวก้อยสัญญา!",
         game = 0,
         video = {
@@ -11897,6 +12024,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค ตอนนี้ยื่นมือออกไป",
         game = 0,
         video = {
@@ -11990,6 +12118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ คุณเสียพลังไปตั้งเยอะเพราะเหตุผลนี้หรือ?",
         game = 0,
         video = {
@@ -12083,6 +12212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ซิลิกา",
         game = 0,
         video = {
@@ -12176,6 +12306,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s แล้วถ้าพวกมันไม่มาล่ะ? อ่า!",
         game = 0,
         video = {
@@ -12269,6 +12400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เดี๋ยวนะ! เธอยิ้ม? วิเศษมาก!",
         game = 0,
         video = {
@@ -12362,6 +12494,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...มายูริ...",
         game = 0,
         video = {
@@ -12455,6 +12588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ก่อนที่เธอจะพูดจบ นกพิราบก็เริ่มแห่เข้ามา",
         game = 0,
         video = {
@@ -12549,6 +12683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อเมริกาเหนือ",
         game = 0,
         video = {
@@ -12642,6 +12777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เห็นได้ชัดว่าเธอไม่คาดคิดมาก่อนว่าฉันจะทำอย่างนั้น เธอก้าวถอยหลังโดยเอามือไขว้หลัง แก้มของเธอแดงเล็กน้อย",
         game = 0,
         video = {
@@ -12737,6 +12873,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -12830,6 +12967,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันขยับไม่ได้ %s",
         game = 0,
         video = {
@@ -12923,6 +13061,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ ดูเหมือนว่าพวกมันจะชอบเธอนะ มายูริ",
         game = 0,
         video = {
@@ -13016,6 +13155,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ตอนนี้ฉันควรทำยังไง?",
         game = 0,
         video = {
@@ -13112,6 +13252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอไม่จำเป็นต้องไล่ตาม",
         game = 0,
         video = {
@@ -13205,6 +13346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอมองฉันด้วยความกังวลเล็กน้อย",
         game = 0,
         video = {
@@ -13298,6 +13440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หือ?",
         game = 0,
         video = {
@@ -13391,6 +13534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูเหมือนพวกมันจะชอบกินอาหารจากมือเธอ พวกมันจะบินออกไปหลังจากกินเสร็จ",
         game = 0,
         video = {
@@ -13484,6 +13628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราอาจจะไม่ได้สนิทกันมากนัก แต่ฉันจะไม่ทิ้งเธอไว้ข้างหลังเพื่อที่เธอจะตามไม่ทัน",
         game = 0,
         video = {
@@ -13577,6 +13722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ คุณพูดถูก! คุณยังมีอีกเยอะในมือ",
         game = 0,
         video = {
@@ -13670,6 +13816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจะพาไปตามหาเธอ มายูริ",
         game = 0,
         video = {
@@ -13763,6 +13910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังจากพูดอย่างนั้น เธอหันไปหานกพิราบตัวหนึ่งและค่อยร้องเสียงนก",
         game = 0,
         video = {
@@ -13856,6 +14004,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูสิ ตอนนี้ฉันอยู่ใกล้เธอแล้ว",
         game = 0,
         video = {
@@ -13949,6 +14098,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เก่งมาก กินเสร็จแล้วก็รีบกลับบ้าน",
         game = 0,
         video = {
@@ -14042,6 +14192,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s อาจจะนั่งข้างๆ ฉัน...",
         game = 0,
         video = {
@@ -14135,6 +14286,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ภาพของหญิงสาวและนกพิราบสีขาวนั้นดูบริสุทธิ์และเงียบสงบ",
         game = 0,
         video = {
@@ -14228,6 +14380,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ใช่เฉพาะวันนี้",
         game = 0,
         video = {
@@ -14322,6 +14475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สิ่งที่น่าตื่นเต้น!",
         game = 0,
         video = {
@@ -14415,6 +14569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ เธอควรยิ้มให้มากขึ้น เธอดูสวยมากเมื่อเธอยิ้ม",
         game = 0,
         video = {
@@ -14508,6 +14663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ว่าอะไรจะเปลี่ยนไป ไม่ว่าม้าหมุนจะหมุนไปยังไง ฉันจะอยู่เคียงข้างเธอ",
         game = 0,
         video = {
@@ -14601,6 +14757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไปกระตุ้นอะดรีนาลีนกันเถอะ!",
         game = 0,
         video = {
@@ -14694,6 +14851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "กู่ๆ กู่ๆ กู่ๆ...",
         game = 0,
         video = {
@@ -14787,6 +14945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -14880,6 +15039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ ฉันไม่ได้ตั้งใจจะตำหนิเธอ แต่ทำไมเธอถึงทำแบบนี้?",
         game = 0,
         video = {
@@ -14979,6 +15139,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอโทษนะ ช่วยขยับหน่อยได้มั้ย?",
         game = 0,
         video = {
@@ -15073,6 +15234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -15166,6 +15328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รีบไป จะได้จุดดีๆ!",
         game = 0,
         video = {
@@ -15259,6 +15422,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะ-จริงเหรอ...",
         game = 0,
         video = {
@@ -15352,6 +15516,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เกิดอะไรขึ้น? จู่ๆ ก็มีคนมากมาย",
         game = 0,
         video = {
@@ -15446,6 +15611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันกำลังดูการตกแต่งพิเศษของสวนสาธารณะ",
         game = 0,
         video = {
@@ -15539,6 +15705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แก้มของเธอมีสีแดงเล็กน้อย และเธอหลบสายตา",
         game = 0,
         video = {
@@ -15632,6 +15799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s พวกเขามาทำอะไรที่นั่น",
         game = 0,
         video = {
@@ -15725,6 +15893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ ใช่ ทำไมถึงมีฟักทองและหน้ากากอยู่ทุกที่?",
         game = 0,
         video = {
@@ -15818,6 +15987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร ฉันรู้ว่าเธอยังไม่ชินกับการเข้ากับมนุษย์ เรามีเวลามากมายในอนาคต",
         game = 0,
         video = {
@@ -15912,6 +16082,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้นให้ฉันเข้าใกล้เธอ",
         game = 0,
         video = {
@@ -16005,6 +16176,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีงานธีมฮาโลวีนจัดที่สวนสาธารณะ! นั่นเป็นเหตุผลว่าทำไมวันนี้มีเด็กตัวมากมาย",
         game = 0,
         video = {
@@ -16098,6 +16270,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เวลา...ฉันหวังว่าอย่างนั้น",
         game = 0,
         video = {
@@ -16191,6 +16364,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ?",
         game = 0,
         video = {
@@ -16284,6 +16458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ๋อ นั่นคืออมยิ้มไม่ใช่หรือ?",
         game = 0,
         video = {
@@ -16377,6 +16552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หากตารางเวลาชนกัน เราก็จัดการได้ ฉันว่างทุกเวลา",
         game = 0,
         video = {
@@ -16470,6 +16646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าอย่างนั้น โปรดให้ฉันเข้าใกล้เธอ",
         game = 0,
         video = {
@@ -16563,6 +16740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ และขนมอื่นๆ อีกมากมายเช่นกัน คืนนี้อาจจะมีงาน",
         game = 0,
         video = {
@@ -16656,6 +16834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม แน่-นอน เรามีเวลามากมาย",
         game = 0,
         video = {
@@ -16749,6 +16928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเป็นเพียงผู้สังเกตการณ์ ฉันต้องรักษาระยะห่างจาก %s!",
         game = 0,
         video = {
@@ -16842,6 +17022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันสามารถไปได้มั้ย?",
         game = 0,
         video = {
@@ -16935,6 +17116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้! สายแล้ว วันนี้พอแค่นี้ก่อน โอเคมั้ย?",
         game = 0,
         video = {
@@ -17028,6 +17210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นคือเรื่องจริง แต่ฉันกำลังเดทกับเธอ ดังนั้นขอให้ฉันได้ใกล้ชิดกับเธอ!",
         game = 0,
         video = {
@@ -17121,6 +17304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้! งานจะเริ่มเร็วๆ นี้ มามีเข้าร่วมด้วยกันเถอะ!",
         game = 0,
         video = {
@@ -17214,6 +17398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอบคุณ %s วันนี้ฉันสนุกมาก",
         game = 0,
         video = {
@@ -17307,6 +17492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -17400,6 +17586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -17493,6 +17680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ด้วยความยินดี ครั้งหน้า-",
         game = 0,
         video = {
@@ -17586,6 +17774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอขมวดคิ้ว มองอย่างงงๆ",
         game = 0,
         video = {
@@ -17679,6 +17868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โดยไม่รอให้ฉันพูดจบ มายูริก็หายตัวไป",
         game = 0,
         video = {
@@ -17772,6 +17962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอแนะนำสถานที่ท่องเที่ยวของสวนสาธารณะ!",
         game = 0,
         video = {
@@ -17865,6 +18056,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ โอเค เจอกันครั้งหน้า มายูริ!",
         game = 0,
         video = {
@@ -17957,6 +18149,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พวกเราเข้าใกล้กันมากขึ้นและมองดูสวนสนุกจากด้านหลังหน้าต่างชิงช้าสวรรค์",
         game = 0,
         video = {
@@ -18050,6 +18243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มองไปที่นั่น ของพวกนี้เป็นของตกแต่งฮาโลวีน งานฮาโลวีนกำลังจัดขึ้น เพราะงั้นการตกแต่งจึงมีความพิเศษ",
         game = 0,
         video = {
@@ -18143,6 +18337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันแนะนำมุมต่างๆ ของสวนสนุกเพื่อให้เธอได้รับรู้ถึงความสนุกของโลกมนุษย์...",
         game = 0,
         video = {
@@ -18236,6 +18431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม %s...",
         game = 0,
         video = {
@@ -18329,6 +18525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และนั่นคือรถไฟเหาะที่เป็นสัญลักษณ์ของที่นี่! เร็วเป็นบ้า! และอันนั้น...",
         game = 0,
         video = {
@@ -18422,6 +18619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s!",
         game = 0,
         video = {
@@ -18515,6 +18713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หือ?",
         game = 0,
         video = {
@@ -18608,6 +18807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณ...ใกล้เกินไป!",
         game = 0,
         video = {
@@ -18702,6 +18902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่คือจุดเริ่มต้นของเธอ",
         game = 0,
         video = {
@@ -18795,6 +18996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใบหน้าของเธอแดงระเรื่อในขณะที่เธอพยายามกระซิบ",
         game = 0,
         video = {
@@ -18888,6 +19090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่คือจุดเริ่มต้นของเธอ - เป็นของเธอเท่านั้น",
         game = 0,
         video = {
@@ -18981,6 +19184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ๊ะ ขอโทษ...",
         game = 0,
         video = {
@@ -19074,6 +19278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นของฉัน...เท่านั้น?",
         game = 0,
         video = {
@@ -19167,6 +19372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่รู้ตัว แต่แทบไม่มีระยะห่างระหว่างแก้มของเราเลย",
         game = 0,
         video = {
@@ -19260,6 +19466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เธอจะทำอะไรก็ได้ที่อยากทำ หรือจะมาเที่ยวกับฉันก็ได้",
         game = 0,
         video = {
@@ -19353,6 +19560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันคาดหวังคำขอโทษอย่างจริงใจ!",
         game = 0,
         video = {
@@ -19446,6 +19654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ฉันอยู่เพื่อสังเกตการณ์คุณเท่านั้น...",
         game = 0,
         video = {
@@ -19539,6 +19748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจะเลี้ยงไอศกรีมเธอ!",
         game = 0,
         video = {
@@ -19638,6 +19848,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธออยากไปที่ไหน?",
         game = 0,
         video = {
@@ -19731,6 +19942,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เรื่องแบบนั้นไม่สำคัญจริงๆ... \nนอกจากนี้ฉันไม่สามารถปล่อยให้หญิงสาวไม่ทำอะไรได้นอกจากเดินตามฉันไป มันคงแปลก ใช่มั้ยล่ะ?",
         game = 0,
         video = {
@@ -19824,6 +20036,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...ฮิฮิ ได้เลย!",
         game = 0,
         video = {
@@ -19917,6 +20130,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ มีที่ไหนที่เธออยากไปมั้ย? ฉันไปกับเธอได้",
         game = 0,
         video = {
@@ -20010,6 +20224,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่...",
         game = 0,
         video = {
@@ -20103,6 +20318,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ยังไงก็ตามการสนทนาของฉันกับมายูริทำให้เราสนิทกันมากขึ้น",
         game = 0,
         video = {
@@ -20195,6 +20411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม.... ไม่นะ",
         game = 0,
         video = {
@@ -20288,6 +20505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ แต่! จากนี้ไปเธอสามารถติดตามหรือสังเกตการณ์ฉันได้ตามต้องการ \nแต่เธอต้องสัญญาว่าจะทำในสิ่งที่เธอต้องการทำ",
         game = 0,
         video = {
@@ -20381,6 +20599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตกลง ฉันสัญญา!",
         game = 0,
         video = {
@@ -20474,6 +20693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แบบนี้ถึงจะถูก! เอาล่ะ เริ่มด้วยการแนะนำตัวกันก่อน!",
         game = 0,
         video = {
@@ -20568,6 +20788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ลองดูสิ",
         game = 0,
         video = {
@@ -20661,6 +20882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ? ทำไม?",
         game = 0,
         video = {
@@ -20754,6 +20976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ ทำไมเธอไม่สนใจเรื่องราวที่เร้าอารมณ์แบบนี้",
         game = 0,
         video = {
@@ -20847,6 +21070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะเราไม่เคยทำมาก่อนในฐานะเพื่อน",
         game = 0,
         video = {
@@ -20941,6 +21165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำให้เย็นลงอย่างช้าๆ หลังจากใช้ความร้อน",
         game = 0,
         video = {
@@ -21034,6 +21259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าคุณต้องรู้ว่าทำไม อาจเป็นเพราะมันไม่เกี่ยวข้องกับคุณ",
         game = 0,
         video = {
@@ -21127,6 +21353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม แต่เราจะทำยังไง?",
         game = 0,
         video = {
@@ -21220,6 +21447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จากนั้นเราจะนำอัญมณีที่ร้อนแล้วลดอุณหภูมิลงอย่างช้าๆ ก็แค่นี้",
         game = 0,
         video = {
@@ -21313,6 +21541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรนะ? เธอสามารถรับรู้สิ่งที่ไม่เกี่ยวข้องกับฉันได้!",
         game = 0,
         video = {
@@ -21406,6 +21635,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเริ่มก่อน! \nฉันชื่อ %s เป็นนักเรียนมัธยมปลายทั่วไป แล้วเธอล่ะ?",
         game = 0,
         video = {
@@ -21499,6 +21729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอธิบายขณะหยิบอัญมณีออกมาด้วยที่หนีบและวางไว้ในน้ำอุ่น",
         game = 0,
         video = {
@@ -21592,6 +21823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันไม่มีความหมายถ้าไม่มีอะไรเกี่ยวข้องกับคุณ",
         game = 0,
         video = {
@@ -21685,6 +21917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สะ-สวัสดี! ฉันมายูริ ยินดีที่ได้รู้จัก",
         game = 0,
         video = {
@@ -21778,6 +22011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืมม!",
         game = 0,
         video = {
@@ -21871,6 +22105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริมองมาที่ฉันอย่างจริงจัง ฉันก็อดหน้าแดงไม่ได้",
         game = 0,
         video = {
@@ -21964,6 +22199,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค มายูริ เธออยากเป็นเพื่อนฉันมั้ย?",
         game = 0,
         video = {
@@ -22057,6 +22293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่ออัญมณีค่อยๆ เย็นลง สีสันก็ดูเข้มขึ้น หินไพลินก็ยิ่งระยิบระยับ",
         game = 0,
         video = {
@@ -22150,6 +22387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดีละ ถ้าอย่างนั้น เธอต้องการทำสร้อยคอด้วยตัวเธอเองมั้ย?",
         game = 0,
         video = {
@@ -22249,6 +22487,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "กล้าหาญไว้",
         game = 0,
         video = {
@@ -22342,6 +22581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ มันเปลี่ยนไป! น่าทึ่งมาก!",
         game = 0,
         video = {
@@ -22435,6 +22675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ ฉันไม่สนใจอะไรที่ไม่เกี่ยวข้องกับ %s",
         game = 0,
         video = {
@@ -22528,6 +22769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "กล้าหาญไว้! มายูริ!",
         game = 0,
         video = {
@@ -22621,6 +22863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูเหมือนว่าเราจะประสบความสำเร็จ!",
         game = 0,
         video = {
@@ -22714,6 +22957,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "กล้าหาญ?",
         game = 0,
         video = {
@@ -22807,6 +23051,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันสวย...",
         game = 0,
         video = {
@@ -22900,6 +23145,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เราไม่สามารถมีชีวิตอยู่เพื่อจุดประสงค์เดียว แค่คิดว่าวันนี้เป็นวันหยุด!",
         game = 0,
         video = {
@@ -22993,6 +23239,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอตื่นตาตื่นใจกับหินไพลินที่ส่องประกาย",
         game = 0,
         video = {
@@ -23087,6 +23334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้น ไม่?",
         game = 0,
         video = {
@@ -23180,6 +23428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หน้าที่ของฉันคือสังเกตทุกสิ่งที่คุณทำ ดังนั้นฉันต้องไม่เข้าใกล้เกินไป",
         game = 0,
         video = {
@@ -23273,6 +23522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คือ ไม่ใช่ว่าทำไม่ได้ แต่...",
         game = 0,
         video = {
@@ -23366,6 +23616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คอรันดัม",
         game = 0,
         video = {
@@ -23459,6 +23710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แม้เธอจะพูดแบบนั้น แต่เธอก็ดูลังเล",
         game = 0,
         video = {
@@ -23552,6 +23804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ยอดเยี่ยม! ฉันจะรอเดทของเรา",
         game = 0,
         video = {
@@ -23645,6 +23898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถูกต้อง คุณเตรียมตัวมาดีแน่นอน",
         game = 0,
         video = {
@@ -23738,6 +23992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอสามารถสังเกตได้ทุกเมื่อที่เธอต้องการ แต่เธอต้องหยุดพักบ้าง ไม่ใช่หรือ?",
         game = 0,
         video = {
@@ -23832,6 +24087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เอเชีย",
         game = 0,
         video = {
@@ -23925,6 +24181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ แค่นิดหน่อย",
         game = 0,
         video = {
@@ -24018,6 +24275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ต้อง",
         game = 0,
         video = {
@@ -24111,6 +24369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม.... ไม่นะ",
         game = 0,
         video = {
@@ -24204,6 +24463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หินทับทิมเป็นอัญมณีสีแดง เป็นคอรันดัมประเภทหนึ่ง",
         game = 0,
         video = {
@@ -24298,6 +24558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ่อมตัว",
         game = 0,
         video = {
@@ -24391,6 +24652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ พ่อแม่ของฉันมักจะเดินทางไปทำธุรกิจไปยังสถานที่ต่างๆ ดังนั้นความสนใจของฉันจึงค่อนข้างหลากหลาย",
         game = 0,
         video = {
@@ -24484,6 +24746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คำถามต่อไป หินทับทิมมีต้นกำเนิดมาจากไหน?",
         game = 0,
         video = {
@@ -24580,6 +24843,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s คุณเยี่ยมมาก! ฉันต้องเรียนรู้จากคุณ",
         game = 0,
         video = {
@@ -24673,6 +24937,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หินทับทิมธรรมชาติส่วนใหญ่มาจากเอเชีย แม้ว่าบางส่วนสามารถพบได้ในแอฟริกา โอเชียเนียและอเมริกา",
         game = 0,
         video = {
@@ -24767,6 +25032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้~ ไม่มีอะไรเลย ฉันพูดเกินจริง ที่จริงฉันไม่รู้มากขนาดนั้น",
         game = 0,
         video = {
@@ -24860,6 +25126,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โดยไม่รอให้ฉันพูดจบ มายูริก็หายไป",
         game = 0,
         video = {
@@ -24953,6 +25220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณช่วยสอนฉันได้มั้ย? ฉันต้องการเรียนรู้เพิ่มเติมเกี่ยวกับโลกนี้",
         game = 0,
         video = {
@@ -25046,6 +25314,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ก็เพียงพอแล้วที่เธอสัญญาว่าจะทำในสิ่งที่เธอต้องการ",
         game = 0,
         video = {
@@ -25138,6 +25407,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สอนเธอ? ตัวฉันเองก็ไม่ได้รู้จักทั้งหมด",
         game = 0,
         video = {
@@ -25231,6 +25501,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เรารู้จักกันใช่มั้ย มายูริ?",
         game = 0,
         video = {
@@ -25324,6 +25595,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้น...ไม่?",
         game = 0,
         video = {
@@ -25417,6 +25689,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่...ฉันรู้จักเธอมาตั้งแต่เกิด",
         game = 0,
         video = {
@@ -25510,6 +25783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริดูผิดหวังเล็กน้อย",
         game = 0,
         video = {
@@ -25603,6 +25877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่ได้ยินส่วนที่สองของประโยคของเธอ แต่สิ่งที่สำคัญที่สุดคือการทำให้เธอลืมหน้าที่ของเธอฃ",
         game = 0,
         video = {
@@ -25696,6 +25971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน! ฉันจะสอนทุกอย่างที่เธออยากเรียน!",
         game = 0,
         video = {
@@ -25789,6 +26065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นหมายความว่าเราเป็นเพื่อนสนิทกัน! การพักผ่อนกับเพื่อนไม่เคยเป็นเรื่องรบกวน!",
         game = 0,
         video = {
@@ -25882,6 +26159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เย้! ขอขอบคุณ วันนี้ฉันสนุกมาก",
         game = 0,
         video = {
@@ -25975,6 +26253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพื่อน...?",
         game = 0,
         video = {
@@ -26069,6 +26348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าเลือกยาก...",
         game = 0,
         video = {
@@ -26162,6 +26442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ต้องขอบคุณฉันก็ได้ ฉันยินดีมาก",
         game = 0,
         video = {
@@ -26255,6 +26536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เราเป็นเพื่อนกัน ไปกันเถอะ! ฉันจะพาเธอไปพักผ่อน",
         game = 0,
         video = {
@@ -26348,6 +26630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าเลือกยาก ก็ไปที่นั่นกัน!",
         game = 0,
         video = {
@@ -26441,6 +26724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอยากเรียนรู้เกี่ยวกับโลกใบนี้กับคุณต่อไป แต่...ฉันต้องไปแล้ว",
         game = 0,
         video = {
@@ -26534,6 +26818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "การพักผ่อนหมายถึง...การเดท?",
         game = 0,
         video = {
@@ -26627,6 +26912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รถไฟ?",
         game = 0,
         video = {
@@ -26720,6 +27006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังคำพูดพวกนี้ เธอก็เดินออกจากร้านเครื่องประดับ",
         game = 0,
         video = {
@@ -26813,6 +27100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -26906,6 +27194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ มันเป็นรถไฟที่พาเธอไปรอบๆ สวนสาธารณะและจอดแวะที่สถานที่ท่องเที่ยวแต่ละแห่ง วิธีที่ดีในการดูว่าเธอสนใจอะไรมากที่สุด",
         game = 0,
         video = {
@@ -27005,6 +27294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -27098,6 +27388,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่?",
         game = 0,
         video = {
@@ -27191,6 +27482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เอาตามที่คุณว่า %s",
         game = 0,
         video = {
@@ -27284,6 +27576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เดี๋ยว มายูริ!",
         game = 0,
         video = {
@@ -27377,6 +27670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่แน่ใจว่าจะอธิบายยังไงหลังจากเห็นเธอผิดหวัง แต่ฉันคิดว่าสิ่งที่ดีที่สุดที่ควรทำคือยืนยันความคิดของเธอ",
         game = 0,
         video = {
@@ -27470,6 +27764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ผมอยากขึ้นรถไฟ!",
         game = 0,
         video = {
@@ -27563,6 +27858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคืออะไร %s?",
         game = 0,
         video = {
@@ -27656,6 +27952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม ใช่แล้ว! มายูริ เธออยากไปเดทกับฉันมั้ย?",
         game = 0,
         video = {
@@ -27749,6 +28046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้! หนูอยากนั่งแถวแรก!",
         game = 0,
         video = {
@@ -27842,6 +28140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราจะได้พบกันอีกมั้ย? ฉันต้องการเรียนรู้เกี่ยวกับโลกของเธอ",
         game = 0,
         video = {
@@ -27936,6 +28235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอหมายถึงอะไร?",
         game = 0,
         video = {
@@ -28029,6 +28329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีเด็กเยอะแยะเลย...",
         game = 0,
         video = {
@@ -28122,6 +28423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้เลย แน่นอน เมื่อไหร่ก็ได้",
         game = 0,
         video = {
@@ -28215,6 +28517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้นมาเริ่มกันเลย! เธอมีสถานที่ที่เธออยากไปมั้ย",
         game = 0,
         video = {
@@ -28308,6 +28611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ มันเป็นวันหยุดสุดสัปดาห์หลังจากทั้งหมด นอกจากนี้ ยังมีกิจกรรมพิเศษเกิดขึ้น",
         game = 0,
         video = {
@@ -28401,6 +28705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ด้วยเหตุผลบางอย่าง คำตอบของเธอมาพร้อมกับการแสดงออกที่เศร้าโศก",
         game = 0,
         video = {
@@ -28494,6 +28799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ แต่ฉันจะไปทุกที่ที่คุณอยากไป %s",
         game = 0,
         video = {
@@ -28587,6 +28893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราจะนั่งที่ไหน?",
         game = 0,
         video = {
@@ -28682,6 +28989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เยี่ยมมาก! ฉันหวังว่าจะได้พบเธออีกครั้ง!",
         game = 0,
         video = {
@@ -28775,6 +29083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม ฉันรู้แล้ว! ต่างหูของเธอสวยมาก เธอต้องชอบของที่แวววาว",
         game = 0,
         video = {
@@ -28868,6 +29177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ?",
         game = 0,
         video = {
@@ -28961,6 +29271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้เลย แน่นอน...",
         game = 0,
         video = {
@@ -29054,6 +29365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ของที่แวววาว? ใช่...ฉันชอบ",
         game = 0,
         video = {
@@ -29148,6 +29460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้ากันได้เหมือนมนุษย์",
         game = 0,
         video = {
@@ -29241,6 +29554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไปเดทกันเถอะมายูริ!",
         game = 0,
         video = {
@@ -29334,6 +29648,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอพูดอย่างนั้นขณะที่เธอหายไปต่อหน้าฉัน แต่ฉันเชื่อว่าเราจะได้พบกันอีก",
         game = 0,
         video = {
@@ -29426,6 +29741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้นฉันคิดว่าฉันพอมีไอเดียแล้ว ไปกันเถอะ!",
         game = 0,
         video = {
@@ -29519,6 +29835,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้ากันได้เหมือนมนุษย์ มายูริ",
         game = 0,
         video = {
@@ -29612,6 +29929,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มะ-ไม่ ฉันทำอย่างนั้นไม่ได้",
         game = 0,
         video = {
@@ -29705,6 +30023,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค",
         game = 0,
         video = {
@@ -29798,6 +30117,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พวกเขาเข้ากันได้ยังไง?",
         game = 0,
         video = {
@@ -29891,6 +30211,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม?",
         game = 0,
         video = {
@@ -29984,6 +30305,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30077,6 +30399,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราสามารถเป็นเพื่อนหรืออาจจะเป็นคนรัก",
         game = 0,
         video = {
@@ -30170,6 +30493,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเป็นเพียงผู้สังเกตการณ์ การเปิดใช้งานระบบนั้นขึ้นอยู่กับคุณภาพของภาชนะ",
         game = 0,
         video = {
@@ -30264,6 +30588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30357,6 +30682,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว ความสัมพันธ์ที่คล้ายกันพวกนี้มั้ย? 'เพื่อน' และ 'คนรัก'",
         game = 0,
         video = {
@@ -30450,6 +30776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะไม่ไปเดทกับฉันจะดีไปกว่านี้สำหรับการสังเกตการณ์ของเธอมั้ย?",
         game = 0,
         video = {
@@ -30543,6 +30870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันพามายูริไปที่ร้านเครื่องประดับที่คิดว่าหญิงสาวน่าจะชอบมากที่สุด",
         game = 0,
         video = {
@@ -30636,6 +30964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ใช่ เราต้องเป็นเพื่อนกันก่อน แล้วเราอาจจะกลายเป็นคนรักกันในภายหลัง",
         game = 0,
         video = {
@@ -30729,6 +31058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -30822,6 +31152,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สวัสดี ยินดีต้อนรับสู่ร้านของเรา! เรามีเครื่องประดับให้เลือกมากมาย",
         game = 0,
         video = {
@@ -30915,6 +31246,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คนรักมีความสำคัญต่อกันมากใช่มั้ย?",
         game = 0,
         video = {
@@ -31008,6 +31340,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันถูกต้องไม่ใช่หรือ?",
         game = 0,
         video = {
@@ -31101,6 +31434,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่ไง มายูริ!",
         game = 0,
         video = {
@@ -31194,6 +31528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เธอเข้าใจง่ายอย่างน่าประหลาดใจเมื่อพูดถึงเรื่องนี้",
         game = 0,
         video = {
@@ -31287,6 +31622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม...",
         game = 0,
         video = {
@@ -31380,6 +31716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s นี่คืออะไร",
         game = 0,
         video = {
@@ -31473,6 +31810,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันตัดสินใจแล้ว ฉันอยากเป็นคนรักของ %s!",
         game = 0,
         video = {
@@ -31566,6 +31904,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอเหมือนมีอะไรจะพูดอีก แต่ฉันจับมือเธอแล้วเริ่มเดิน",
         game = 0,
         video = {
@@ -31659,6 +31998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันแค่อยากจะทำให้เธอสมหวัง...",
         game = 0,
         video = {
@@ -31752,6 +32092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่คือสิ่งที่มนุษย์เรียกว่าร้านขายเครื่องประดับ หญิงสาวมักชอบซื้อของที่นี่",
         game = 0,
         video = {
@@ -31845,6 +32186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไร? คะ-คนรัก?",
         game = 0,
         video = {
@@ -31938,6 +32280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไปสวนสนุกกันเถอะ! วันนี้คือวันที่ดี!",
         game = 0,
         video = {
@@ -32031,6 +32374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32124,6 +32468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริมองทั้งร้านด้วยความอยากรู้อยากเห็น แต่ฉันไม่พบสิ่งที่สนใจ",
         game = 0,
         video = {
@@ -32218,6 +32563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่? ฉันเป็นคนรักกับคุณไม่ได้หรือ %s?",
         game = 0,
         video = {
@@ -32311,6 +32657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -32405,6 +32752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32498,6 +32846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คะ-คือ ไม่ใช่ว่าเธอทำไม่ได้ แต่เราขาดสิ่งที่สำคัญอย่างหนึ่งไป",
         game = 0,
         video = {
@@ -32591,6 +32940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32685,6 +33035,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่คือการเริ่มต้นใหม่",
         game = 0,
         video = {
@@ -32778,6 +33129,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สิ่งที่สำคัญมาก? มันคืออะไร?",
         game = 0,
         video = {
@@ -32872,6 +33224,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32965,6 +33318,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่จึงเป็นการเริ่มต้นใหม่สำหรับเราทั้งคู่",
         game = 0,
         video = {
@@ -33058,6 +33412,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม บางสิ่งที่เรียกว่าความรัก",
         game = 0,
         video = {
@@ -33151,6 +33506,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไมเธอถึงยืนอยู่ไกล มายูริ?",
         game = 0,
         video = {
@@ -33244,6 +33600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่! ฉันต้องการความทรงจำเกี่ยวกับเรามากขึ้น โอเคมั้ย?",
         game = 0,
         video = {
@@ -33337,6 +33694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ความรักคืออะไร?",
         game = 0,
         video = {
@@ -33430,6 +33788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้? นิสัยเก่าตายยาก...",
         game = 0,
         video = {
@@ -33523,6 +33882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -33616,6 +33976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ความรักคือความรักใคร่ที่มีให้กัน...จริงๆแล้ว ฉันเองก็ไม่แน่ใจนัก",
         game = 0,
         video = {
@@ -33709,6 +34070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มาเลย!",
         game = 0,
         video = {
@@ -33802,6 +34164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วเราควรเริ่มจากตรงไหน?",
         game = 0,
         video = {
@@ -33901,6 +34264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีที่ไหนที่เธออยากไปมั้ย?",
         game = 0,
         video = {
@@ -33994,6 +34358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตกลง...",
         game = 0,
         video = {
@@ -34087,6 +34452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -34180,6 +34546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ มีที่ไหนที่เธออยากไปมั้ย? ฉันไปกับเธอได้",
         game = 0,
         video = {
@@ -34273,6 +34640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เลือกสถานที่ที่เธออยากไป!",
         game = 0,
         video = {
@@ -34366,6 +34734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่แน่ใจว่าจะพาเธอไปที่ไหน แต่สายตาของฉันหยุดที่ต่างหูของเธอ",
         game = 0,
         video = {
@@ -34459,6 +34828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม.... ไม่นะ",
         game = 0,
         video = {
@@ -34552,6 +34922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่...",
         game = 0,
         video = {
@@ -34645,6 +35016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ต่างหูของเธอสวยมาก เธอชอบสิ่งที่แวววาวมั้ย?",
         game = 0,
         video = {
@@ -34738,6 +35110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรนะ? ไม่มีซักที่เลย?",
         game = 0,
         video = {
@@ -34831,6 +35204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริยืนตะลึงอยู่หน้าแผนที่สวนสาธารณะ ไม่แน่ใจว่าจะทำยังไงต่อไป",
         game = 0,
         video = {
@@ -34926,6 +35300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ของที่แวววาว? ใช่...ฉันชอบ",
         game = 0,
         video = {
@@ -35019,6 +35394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉัน...ฉันไม่เคยคิดเรื่องอื่นนอกจากสังเกตการณ์คุณ",
         game = 0,
         video = {
@@ -35112,6 +35488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -35205,6 +35582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอพูดอย่างกระตือรือร้น แต่ฉันไม่สามารถทำตามเธอได้เพราะเธออาจเข้าใจผิดว่าความรักหมายถึงอะไร",
         game = 0,
         video = {
@@ -35299,6 +35677,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -35392,6 +35771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ เธออาจจะมาเพื่อฉัน แต่นั่นไม่ใช่ความรัก",
         game = 0,
         video = {
@@ -35485,6 +35865,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันพามายูริไปที่ร้านเครื่องประดับที่คิดว่าหญิงสาวน่าจะชอบมากที่สุด",
         game = 0,
         video = {
@@ -35579,6 +35960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หมดเวลา",
         game = 0,
         video = {
@@ -35672,6 +36054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สวัสดี ยินดีต้อนรับสู่ร้านของเรา! เรามีเครื่องประดับให้เลือกมากมาย",
         game = 0,
         video = {
@@ -35765,6 +36148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่ไง มายูริ!",
         game = 0,
         video = {
@@ -35859,6 +36243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ชื่นชมมายูริ",
         game = 0,
         video = {
@@ -35952,6 +36337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s นี่คืออะไร",
         game = 0,
         video = {
@@ -36045,6 +36431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอบคุณสำหรับความช่วยเหลือของเธอ มายูริ! มิฉะนั้นเราคงไม่ได้อัญมณีที่สวยงามแบบนี้",
         game = 0,
         video = {
@@ -36138,6 +36525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่คือสิ่งที่มนุษย์เรียกว่าร้านขายเครื่องประดับ หญิงสาวมักชอบซื้อของที่นี่",
         game = 0,
         video = {
@@ -36231,6 +36619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันแค่ช่วย เราทำเพียงเพราะคุณมีความรู้มากเท่านั้น",
         game = 0,
         video = {
@@ -36324,6 +36713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริมองทั้งร้านด้วยความอยากรู้อยากเห็น แต่ฉันไม่พบสิ่งที่สนใจ",
         game = 0,
         video = {
@@ -36417,6 +36807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าฮ่า แต่เธอเคยได้ยินสำนวนที่ว่า \"เบื้องหลังผู้ที่ประสบความสำเร็จทุกคนคือผู้ช่วยที่ยอดเยี่ยม\"?",
         game = 0,
         video = {
@@ -36513,6 +36904,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป่ามัน",
         game = 0,
         video = {
@@ -36606,6 +36998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม.... ไม่นะ",
         game = 0,
         video = {
@@ -36699,6 +37092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจับมือเธอแล้วเป่าเบาๆ ที่นิ้วของเธอ",
         game = 0,
         video = {
@@ -36792,6 +37186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้น ตอนนี้้เธอเคยแล้ว! นั่นหมายความว่าฉันประสบความสำเร็จเพราะผู้ช่วยที่ยอดเยี่ยมของฉัน มายูริ",
         game = 0,
         video = {
@@ -36885,6 +37280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดีขึ้น...มั้ย?",
         game = 0,
         video = {
@@ -36978,6 +37374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จริงเหรอ? เพราะฉัน?",
         game = 0,
         video = {
@@ -37071,6 +37468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริมองฉันด้วยความแปลกใจ ใบหน้าของเธอดูแดงกว่าปกติ",
         game = 0,
         video = {
@@ -37164,6 +37562,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ แน่นอน! เธอช่วยได้มากเลย!",
         game = 0,
         video = {
@@ -37257,6 +37656,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่นะ ฉันก้าวข้ามขอบเขต",
         game = 0,
         video = {
@@ -37350,6 +37750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว! ฉันดีใจมากที่สามารถช่วยได้",
         game = 0,
         video = {
@@ -37443,6 +37844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม ฉันขอโทษ",
         game = 0,
         video = {
@@ -37536,6 +37938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ต่อไป เราต้องนำมาทำเป็นเครื่องประดับ เธอช่วยฉันด้วยได้มั้ย?",
         game = 0,
         video = {
@@ -37629,6 +38032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรีบปล่อยมือ",
         game = 0,
         video = {
@@ -37722,6 +38126,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน ให้เป็นหน้าที่ฉันเอง",
         game = 0,
         video = {
@@ -37815,6 +38220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หึ นั่นคือสิ่งที่คุณทำเพื่อเกลี้ยกล่อมเด็ก",
         game = 0,
         video = {
@@ -37909,6 +38315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38002,6 +38409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ?",
         game = 0,
         video = {
@@ -38095,6 +38503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ด้วยความช่วยเหลือของมายูริ เราสามารถที่จะทำสร้อยคอและต่างหูด้วยหินไพลิน",
         game = 0,
         video = {
@@ -38188,6 +38597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร ไม่เจ็บแล้ว ขอบคุณ %s",
         game = 0,
         video = {
@@ -38284,6 +38694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38377,6 +38788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันดีใจ...",
         game = 0,
         video = {
@@ -38470,6 +38882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เรียบร้อยแล้ว!",
         game = 0,
         video = {
@@ -38563,6 +38976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แค่อยู่ดีๆ หัวใจของฉันเต้นเร็วขึ้น คุณต้องรักษาฉันเรื่องนี้ %s",
         game = 0,
         video = {
@@ -38656,6 +39070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เฮ้อ ไม่ใช่เรื่องง่ายที่จะทำเครื่องประดับพวกนี้ ใช่มั้ย?",
         game = 0,
         video = {
@@ -38750,6 +39165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเข้าใจแล้ว มายูริเป็นสปิริตที่ไม่เหมือนใคร",
         game = 0,
         video = {
@@ -38843,6 +39259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอพูดด้วยน้ำเสียงซุกซน",
         game = 0,
         video = {
@@ -38936,6 +39353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ ตอนนี้เราทำมันขึ้นมาแล้ว ทำไมเธอไม่ใส่มันดูล่ะ?",
         game = 0,
         video = {
@@ -39029,6 +39447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอยิ้มอย่างอดไม่ได้",
         game = 0,
         video = {
@@ -39122,6 +39541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮึ...",
         game = 0,
         video = {
@@ -39215,6 +39635,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้? ฉันเหรอ?",
         game = 0,
         video = {
@@ -39308,6 +39729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันสงสัยมาตลอดว่าเธอจะดูดีเมื่อสวมใส่พวกมันมั้ย",
         game = 0,
         video = {
@@ -39401,6 +39823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะงั้น...%s ต้องการเห็นฉันสวมพวกมัน?",
         game = 0,
         video = {
@@ -39494,6 +39917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่แล้ว! พวกเขาน่าจะ - ไม่สิ - ต้องสวย",
         game = 0,
         video = {
@@ -39587,6 +40011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "น-แน่นอน ช่วยใส่ให้หน่อยได้มั้ย %s?",
         game = 0,
         video = {
@@ -39680,6 +40105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน ด้วยความยินดี",
         game = 0,
         video = {
@@ -39773,6 +40199,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเก็บผลแห่งแรงงานของเรามาใส่มายูริ",
         game = 0,
         video = {
@@ -39866,6 +40293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -39959,6 +40387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s เป็นยังไงบ้าง?",
         game = 0,
         video = {
@@ -40052,6 +40481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รอก่อน ต่างหูมันเบี้ยวนิดหน่อย",
         game = 0,
         video = {
@@ -40145,6 +40575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันพูดขณะที่ฉันปรับต่างหู",
         game = 0,
         video = {
@@ -40238,6 +40669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค ลองดูสิ...น่ารักมาก!",
         game = 0,
         video = {
@@ -40331,6 +40763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอขอบคุณ ฉันมีความสุขมากที่ได้สวมสร้อยคอจากฝีมือของ %s",
         game = 0,
         video = {
@@ -40425,6 +40858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -40518,6 +40952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s! ดูสิ! นั่นคือสิงโต?",
         game = 0,
         video = {
@@ -40611,6 +41046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ด้วยการประดับหินไพลิน ทำให้มายูริดูเป็นประกายกว่าปกติ",
         game = 0,
         video = {
@@ -40704,6 +41140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สิงโตตัวนั้นมาแล้ว!",
         game = 0,
         video = {
@@ -40797,6 +41234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ว้าย! น่ากลัวมาก...",
         game = 0,
         video = {
@@ -40890,6 +41328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าฮ่า ~ ฮ่าฮ่าฮ่าฮ่า",
         game = 0,
         video = {
@@ -40984,6 +41423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ความรักไม่จำเป็นต้องมีเหตุผล",
         game = 0,
         video = {
@@ -41077,6 +41517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ่า ชัดแจ๋วเลย",
         game = 0,
         video = {
@@ -41170,6 +41611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตั้งใจฟัง ขณะนี้ทุกคนมีความเครียดน้อยลงมาก แต่ถ้าเราใช้ประโยชน์จากวันหยุดยาวนี้ สิ่งต่างๆ จะง่ายขึ้นมากในอนาคต",
         game = 0,
         video = {
@@ -41263,6 +41705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันน่าจะเป็ณ แต่...เฮ้ โทวกะ เดี๋ยวก่อน! ระวัง!",
         game = 0,
         video = {
@@ -41356,6 +41799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร ฉันไม่รู้",
         game = 0,
         video = {
@@ -41449,6 +41893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ๊ยย... ขอโทษ ขอโทษ ฉันขอโทษ...อ่า โทรศัพท์ของคุณตก... หือ?",
         game = 0,
         video = {
@@ -41542,6 +41987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้? %s ช่างเป็นเรื่องบังเอิญ",
         game = 0,
         video = {
@@ -41635,6 +42081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ คือโทโนมาชิ ขอโทษที่ชนนาย",
         game = 0,
         video = {
@@ -41728,6 +42175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่แล้ว เธอไม่สามารถอธิบายความรักของเธอได้!",
         game = 0,
         video = {
@@ -41821,6 +42269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อาฮ่ะ โอ้ ใช่ โทรศัพท์ของนาย——",
         game = 0,
         video = {
@@ -41914,6 +42363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เช่นกัน...ฉันก็ชอบพี่ที่สุดเหมือนกัน พี่ชาย! มากกว่าใครในโลกนี้!",
         game = 0,
         video = {
@@ -42007,6 +42457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หือ? โคโทริ? เมื่อกี๊เธอพูดอะไร?",
         game = 0,
         video = {
@@ -42100,6 +42551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริยังมีอะไรให้เรียนรู้อีกมากเกี่ยวกับอารมณ์ของมนุษย์ ฉันเป็นแค่ผู้ชายที่มีความรู้สึกซับซ้อน",
         game = 0,
         video = {
@@ -42193,6 +42645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "กะ-เกิดอะไรขึ้น โคโทริ?",
         game = 0,
         video = {
@@ -42286,6 +42739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่ได้พูดอะไร!",
         game = 0,
         video = {
@@ -42379,6 +42833,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้น——",
         game = 0,
         video = {
@@ -42472,6 +42927,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่เข้าใจจริงๆ แต่ฉันรู้สึกว่าคุณไม่ค่อยน่าไว้วางใจ",
         game = 0,
         video = {
@@ -42565,6 +43021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อุปกรณ์? อา...โทโนมาชิ เดี๋ยวก่อน เสียงนั้น มาจากโทรศัพท์ของนายรึเปล่า? นั่นคือเสียงของน้องสาวของฉะ——คนที่ฉันรู้จัก",
         game = 0,
         video = {
@@ -42658,6 +43115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และฉันขอบอกนายนะ ฉันแน่ใจว่ามันเพิ่งเล่นคลิปเสียงของ [มิคุ โทวกะ โทบิอิจิ] และคนนั้น [น้องสาวของนาย]!",
         game = 0,
         video = {
@@ -42757,6 +43215,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไร...ประโยคนั้นต้องมาจาก...!",
         game = 0,
         video = {
@@ -42850,6 +43309,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไมเธอถึงไม่เชื่อใจฉัน? ฉันคิดว่าตอนนี้เราคงเชื่อกันได้แล้วใช่มั้ย",
         game = 0,
         video = {
@@ -42943,6 +43403,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โคโทริ...",
         game = 0,
         video = {
@@ -43036,6 +43497,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจะส่งคนไปตรวจสอบ ขอให้สนุกกับโทวกะ เราจะพบกันที่บ้านในอีก 2 ชั่วโมง",
         game = 0,
         video = {
@@ -43130,6 +43592,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -43223,6 +43686,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอไม่ตอบสนองต่อคำถามของฉัน",
         game = 0,
         video = {
@@ -43316,6 +43780,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค ทุกคน?",
         game = 0,
         video = {
@@ -43409,6 +43874,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ค-คุรุมิ? เธอคืออะไร...",
         game = 0,
         video = {
@@ -43502,6 +43968,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันสังเกตเห็นแอปประกวดความนิยมที่คุณกำลังตรวจสอบเมื่อสองสามวันก่อน ฉันถามหลายๆ คน แต่——",
         game = 0,
         video = {
@@ -43595,6 +44062,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่จริงจัง...",
         game = 0,
         video = {
@@ -43688,6 +44156,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะดูเหมือนว่าจะสามารถเข้าได้เพียงครั้งเดียว",
         game = 0,
         video = {
@@ -43781,6 +44250,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โชคดี ที่เราตรวจสอบอุปกรณ์ที่ฮิโรโตะ โทโนมาชิหยิบมา ตอนนี้เราพบอุปกรณ์จำนวนมากที่ติดตั้งแอป",
         game = 0,
         video = {
@@ -43874,6 +44344,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้แก่...",
         game = 0,
         video = {
@@ -43967,6 +44438,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ้าา! มายูริ ฉันไม่ได้พูดถึงตัวเอง ฉันถามว่าเธอชอบเครื่องประดับชุดนี้มั้ย",
         game = 0,
         video = {
@@ -44060,6 +44532,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่ชอบความรู้สึกนี้",
         game = 0,
         video = {
@@ -44153,6 +44626,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s ช่วยพาทุกคนไปที่ <เฟราซินาส> อย่างปลอดภัยและช่วยสอบสวนได้มั้ย?",
         game = 0,
         video = {
@@ -44246,6 +44720,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเข้าใจละ",
         game = 0,
         video = {
@@ -44339,6 +44814,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอคงได้ยินฉันผิด",
         game = 0,
         video = {
@@ -44432,6 +44908,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คิคิคิ กลิ่นเหมือนการสมรู้ร่วมคิด",
         game = 0,
         video = {
@@ -44525,6 +45002,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีทุกคนที่นี่ ฉันไม่กังวลแล้ว",
         game = 0,
         video = {
@@ -44618,6 +45096,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฟังดูเหมือนเป็นปัญหา...เอ่อ ไม่ต้องนับฉันนะ ฉันช่วยไม่ได้มาก...",
         game = 0,
         video = {
@@ -44711,6 +45190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้!",
         game = 0,
         video = {
@@ -44811,6 +45291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตกลง!",
         game = 0,
         video = {
@@ -44903,6 +45384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใบหน้าของเธอแดงระเรื่อเป็นสีแดงเข้มกว่าเดิม เธอยังคงดูน่ารัก ถึงแม้ว่า",
         game = 0,
         video = {
@@ -44997,6 +45479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มาให้อาหารนกพิราบด้วยกัน",
         game = 0,
         video = {
@@ -45090,6 +45573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ่า ง-งั้นวันนี้พอแค่นี้แล้วกัน แล้วพบกันใหม่ บาย!",
         game = 0,
         video = {
@@ -45183,6 +45667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รู้แล้ว! มาให้อาหารนกพิราบด้วยกัน!",
         game = 0,
         video = {
@@ -45276,6 +45761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เดี๋ยวก่อน!",
         game = 0,
         video = {
@@ -45369,6 +45855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน ตราบเท่าที่ยังอยู่กับคุณ",
         game = 0,
         video = {
@@ -45462,6 +45949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โดยไม่รอให้ฉันพูดจบ มายูริก็หายไป",
         game = 0,
         video = {
@@ -45559,6 +46047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แกล้งทำเป็นคุ้นเคย",
         game = 0,
         video = {
@@ -45652,6 +46141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ่า! ฉันลืมเตือนเธอให้เอาเครื่องประดับไป โอ้ งั้น ฉันจะให้เธอในครั้งต่อไป",
         game = 0,
         video = {
@@ -45745,6 +46235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทางเลือกเดียวของฉันคือเข้าหาอย่างกระตือรือร้นและแกล้งทำเป็นคุ้นเคยกับเธอ",
         game = 0,
         video = {
@@ -45838,6 +46329,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ด้วยเหตุนี้ ฉันจึงห่อเครื่องประดับและทิ้งไว้กับพวกเขา",
         game = 0,
         video = {
@@ -45936,6 +46428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำตามหัวใจของเธอ",
         game = 0,
         video = {
@@ -46035,6 +46528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -46128,6 +46622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำตามหัวใจของเธอ มายูริ!",
         game = 0,
         video = {
@@ -46221,6 +46716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สวัสดี สาวสวย มายูริ เธอมาทำอะไรที่นี่?",
         game = 0,
         video = {
@@ -46315,6 +46811,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธออยากไปที่อื่นมั้ย?",
         game = 0,
         video = {
@@ -46408,6 +46905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หัวใจของฉัน?",
         game = 0,
         video = {
@@ -46501,6 +46999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "............",
         game = 0,
         video = {
@@ -46594,6 +47093,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูเหมือนเธอจะไม่สนใจที่นี่ มายูริ",
         game = 0,
         video = {
@@ -46687,6 +47187,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถูกตัอง ทำตามความต้องการของเธอ การสังเกตฉันคืองานของเธอใช่มั้ย?",
         game = 0,
         video = {
@@ -46780,6 +47281,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ ฉันแค่ล้อเล่นกับเธอ ทำไมเธอไม่พูด?",
         game = 0,
         video = {
@@ -46873,6 +47375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ใชแบบนั้น เป็นเพราะว่า...ฉันไม่มีความสนใจ",
         game = 0,
         video = {
@@ -46966,6 +47469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ คุณจะว่าแบบนั้นก็ได้",
         game = 0,
         video = {
@@ -47059,6 +47563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอไม่ตอบกลับ แต่เธอต้องการที่จะหันหลังกลับและจากไป",
         game = 0,
         video = {
@@ -47152,6 +47657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใบหน้าของเธอดูเต็มไปด้วยด้วยความหดหู่ขณะที่เธอพูดคำพูดพวกนี้",
         game = 0,
         video = {
@@ -47245,6 +47751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้นเธอต้องมีงานอดิเรกที่ไม่ใช่งาน",
         game = 0,
         video = {
@@ -47338,6 +47845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เดี๋ยวก่อน! มายูริทำไมถึงหนีไปทุกครั้งที่เห็นฉัน?",
         game = 0,
         video = {
@@ -47431,6 +47939,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร เธอสามารถพัฒนาความสนใจได้ ดังนั้นอย่ากังวลไป เราสามารถกลับมาในอนาคต",
         game = 0,
         video = {
@@ -47524,6 +48033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โดยที่คุณหมายถึง...?",
         game = 0,
         video = {
@@ -47617,6 +48127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันเป็นหน้าที่ของฉัน ฉันเกิดมาจากพลังสปิริตและมีอยู่เพื่อสังเกตการณ์คุณเท่านั้น",
         game = 0,
         video = {
@@ -47710,6 +48221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในอนาคต? แต่อาจเหลือเวลาไม่มาก",
         game = 0,
         video = {
@@ -47804,6 +48316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ยุโรป",
         game = 0,
         video = {
@@ -47897,6 +48410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตัวอย่างเช่น กินขนมปังคินาโกะ ดูรายการทีวีหรือเล่นกีฬา",
         game = 0,
         video = {
@@ -47990,6 +48504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถึงอย่างนั้น เธอก็ไม่จำเป็นต้องอยู่ห่างกันเลย ถูกมั้ย?",
         game = 0,
         video = {
@@ -48083,6 +48598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรนะ? มายูริ เธอพูดว่าไงนะ?",
         game = 0,
         video = {
@@ -48176,6 +48692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ถูกต้อง คุณยังต้องเรียนรู้อีกมาก",
         game = 0,
         video = {
@@ -48269,6 +48786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉัน...ฉันไม่เคยคิดเรื่องอื่นนอกจากสังเกตการณ์คุณ",
         game = 0,
         video = {
@@ -48362,6 +48880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ คุณพูดถูก! คุณยังมีอีกเยอะในมือ",
         game = 0,
         video = {
@@ -48455,6 +48974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่ได้ยินส่วนที่สองของประโยคของเธอ เพราะมันเบาเกินไป",
         game = 0,
         video = {
@@ -48548,6 +49068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หินทับทิมธรรมชาติส่วนใหญ่มาจากเอเชีย แม้ว่าบางส่วนสามารถพบได้ในแอฟริกา โอเชียเนียและอเมริกา",
         game = 0,
         video = {
@@ -48641,6 +49162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ เธอควรยิ้มให้มากขึ้น",
         game = 0,
         video = {
@@ -48734,6 +49256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่มีอะไร ไปที่ที่คุณต้องการก็ได้ %s",
         game = 0,
         video = {
@@ -48827,6 +49350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันคิดว่าฉันรู้สึกประหม่าเกินไปที่จะนึกออก...",
         game = 0,
         video = {
@@ -48920,6 +49444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้?",
         game = 0,
         video = {
@@ -49013,6 +49538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังคำพูดพวกนี้ มายูริออกจากร้านเครื่องประดับ",
         game = 0,
         video = {
@@ -49106,6 +49632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร คุณดูเป็นเด็กสดใสที่สามารถเรียนรู้อะไรๆ ได้อย่างรวดเร็ว",
         game = 0,
         video = {
@@ -49200,6 +49727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อเธอยิ้มทุกสิ่งรอบตัวเธอจะเปล่งประกาย มันสวยมาก",
         game = 0,
         video = {
@@ -49293,6 +49821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -49386,6 +49915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะ-จริงเหรอ...",
         game = 0,
         video = {
@@ -49485,6 +50015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -49578,6 +50109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แก้มของเธอมีสีแดงเล็กน้อย และเธอหลบสายตา",
         game = 0,
         video = {
@@ -49671,6 +50203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีที่ไหนที่คุณอยากไปมั้ย %s?",
         game = 0,
         video = {
@@ -49764,6 +50297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "น่าแปลก...นั่นเสียงกระดิ่งดัง?",
         game = 0,
         video = {
@@ -49857,6 +50391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังคำพูดพวกนี้ มายูริออกจากร้านเครื่องประดับ",
         game = 0,
         video = {
@@ -49950,6 +50485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใกล้จะถึงเวลาแล้ว ฉันควรรีบไป",
         game = 0,
         video = {
@@ -50049,6 +50585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -50142,6 +50679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม?",
         game = 0,
         video = {
@@ -50235,6 +50773,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -50329,6 +50868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สิ่งที่โรแมนติก!",
         game = 0,
         video = {
@@ -50422,6 +50962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอบคุณ %s วันนี้ฉันมีความสุขมาก",
         game = 0,
         video = {
@@ -50515,6 +51056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เดี๋ยวก่อน มายูริ!",
         game = 0,
         video = {
@@ -50608,6 +51150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วที่นี่ล่ะ?",
         game = 0,
         video = {
@@ -50701,6 +51244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ มายูริ เราไปเที่ยวแบบนี้อีกในอนาคตได้มั้ย?",
         game = 0,
         video = {
@@ -50794,6 +51338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคืออะไร %s?",
         game = 0,
         video = {
@@ -50888,6 +51433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตรงกลาง",
         game = 0,
         video = {
@@ -50981,6 +51527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันชี้ไปที่พื้นที่บนแผนที่และเสนอขึ้น",
         game = 0,
         video = {
@@ -51074,6 +51621,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ท่ามกลางเสียงกระดิ่งจากระยะไกล เธอยิ้มและจากไปโดยไม่ตอบคำถามของฉัน",
         game = 0,
         video = {
@@ -51166,6 +51714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอกำลังจะไปที่ไหน?",
         game = 0,
         video = {
@@ -51259,6 +51808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คน...เยอะมาก",
         game = 0,
         video = {
@@ -51352,6 +51902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "การเดินทางแสนโรแมนติก? นั่นคืออะไร?",
         game = 0,
         video = {
@@ -51445,6 +51996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขบวนพาเหรดได้เริ่มขึ้น พนักงานที่สวมหน้ากากปลอมตัวและผู้เยี่ยมชมที่เต็มใจเดินตามพาเหรดรถม้าแจ็คโอแลนเทิร์น",
         game = 0,
         video = {
@@ -51538,6 +52090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันควรจะไป หรือบางที...ตั้งแต่แรกฉันไม่ควรตกลงที่จะใช้เวลากับคุณ",
         game = 0,
         video = {
@@ -51631,6 +52184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อเราไปถึงพวกเราถูกล้อมรอบไปด้วยเด็กๆ ที่มาเล่นที่นี่",
         game = 0,
         video = {
@@ -51724,6 +52278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สถานที่ท่องเที่ยวไม่เร่งร้อน เหมาะสำหรับเด็กและ...คู่รัก อืม นั่นคือสิ่งที่บอกไว้ในคำแนะนำ",
         game = 0,
         video = {
@@ -51817,6 +52372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูน่าขนลุกสุดๆ จากระยะไกล",
         game = 0,
         video = {
@@ -51910,6 +52466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม? หากฉันทำอะไรผิดพลาด ฉันขอโทษ!",
         game = 0,
         video = {
@@ -52003,6 +52560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งานฮาโลวีนจะต้องดึงดูดเด็กจำนวนมาก...",
         game = 0,
         video = {
@@ -52096,6 +52654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คู่รัก...",
         game = 0,
         video = {
@@ -52189,6 +52748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไปนั่งรถม้าแจ็คโอแลนเทิร์นกันเถอะ",
         game = 0,
         video = {
@@ -52282,6 +52842,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันเป็นความผิดของฉันเอง การมีอยู่ของฉันทำให้คุณหยุดชะงักและอาจส่งผลต่อการประเมินคุณ...",
         game = 0,
         video = {
@@ -52375,6 +52936,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พวกคุณเป็นคู่รัก?",
         game = 0,
         video = {
@@ -52468,6 +53030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ...อืม มันเป็นตัวเลือกที่อ่อนโยนกว่า",
         game = 0,
         video = {
@@ -52561,6 +53124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -52654,6 +53218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วการประเมินนี้คืออะไร? ฉันควรจะมีคุณสมบัติยังไง?",
         game = 0,
         video = {
@@ -52747,6 +53312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เด็กที่นั่งข้างหลังเราถามอย่างไร้เดียงสา",
         game = 0,
         video = {
@@ -52840,6 +53406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันพยายามไม่พูดถึง",
         game = 0,
         video = {
@@ -52933,6 +53500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -53026,6 +53594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉัน...ไม่รู้",
         game = 0,
         video = {
@@ -53119,6 +53688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรนะ? คู่-คู่รัก?",
         game = 0,
         video = {
@@ -53212,6 +53782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แม้ว่าคุณจะพูดอย่างนั้น ฉันก็ยังไม่เข้าใจ",
         game = 0,
         video = {
@@ -53308,6 +53879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -53401,6 +53973,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอไม่รู้เหรอ? เป็นไปได้ยังไง?",
         game = 0,
         video = {
@@ -53494,6 +54067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใบหน้าของเธอดูแดงกว่าปกติ",
         game = 0,
         video = {
@@ -53587,6 +54161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -53680,6 +54255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังจากที่เราได้ที่นั่งบนรถม้า ฉันเผลอมองแก้มของมายูริที่เป็นสีชมพูจากความตื่นเต้น",
         game = 0,
         video = {
@@ -53773,6 +54349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอโทษด้วย ฉันเป็นแค่ผู้สังเกตการณ์ สำหรับเกณฑ์นั้น คุณต้องรู้สึกและค้นพบด้วยตัวคุณเอง",
         game = 0,
         video = {
@@ -53866,6 +54443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พวกเขาจะต้อง พวกเขากำลังออกเดท!",
         game = 0,
         video = {
@@ -53959,6 +54537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณแนะนำอะไรดี %s?",
         game = 0,
         video = {
@@ -54054,6 +54633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีอะไรบางอย่างบนใบหน้าของฉัน?",
         game = 0,
         video = {
@@ -54147,6 +54727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ฉันไม่รู้ว่าเกณฑ์คืออะไร...",
         game = 0,
         video = {
@@ -54240,6 +54821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เดทก็คือคู่รักงั้นเหรอ?",
         game = 0,
         video = {
@@ -54333,6 +54915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ่อ...ขอโทษนะ",
         game = 0,
         video = {
@@ -54426,6 +55009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อย่าหงุดหงิด ฉันมั่นใจว่าคุณจะผ่านเกณฑ์ %s",
         game = 0,
         video = {
@@ -54519,6 +55103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริพยักหน้าและหยิบสมุดบันทึกออกมา เพื่อจดอะไรบางอย่าง",
         game = 0,
         video = {
@@ -54612,6 +55197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วค่าตอบแทนล่ะ?",
         game = 0,
         video = {
@@ -54705,6 +55291,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอพูดอย่างนั้นขณะที่เธอหายไปต่อหน้าฉัน",
         game = 0,
         video = {
@@ -54797,6 +55384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม งั้น...",
         game = 0,
         video = {
@@ -54891,6 +55479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีของที่เธอต้องการซื้อมั้ย?",
         game = 0,
         video = {
@@ -54984,6 +55573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ สิ่งนั้น",
         game = 0,
         video = {
@@ -55077,6 +55667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หน้ากาก?",
         game = 0,
         video = {
@@ -55170,6 +55761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีให้เลือกมากมาย",
         game = 0,
         video = {
@@ -55263,6 +55855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน ส่วนใหญ่จะเกี่ยวกับผีหรือสัตว์ประหลาด",
         game = 0,
         video = {
@@ -55359,6 +55952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เลือกสุนัขจิ้งจอกสีขาว",
         game = 0,
         video = {
@@ -55452,6 +56046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อันนี้เหมาะกับเธอที่สุด",
         game = 0,
         video = {
@@ -55545,6 +56140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สุนัขจิ้งจอก? ดูธรรมดา",
         game = 0,
         video = {
@@ -55644,6 +56240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้นตามฉันมา",
         game = 0,
         video = {
@@ -55737,6 +56334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอลึกลับและน่าฉงนเหมือนจิ้งจอก มายูริ",
         game = 0,
         video = {
@@ -55830,6 +56428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ มีที่ไหนที่เธออยากไปมั้ย? ฉันไปกับเธอได้",
         game = 0,
         video = {
@@ -55923,6 +56522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นเป็นคำชมรึเปล่า %s?",
         game = 0,
         video = {
@@ -56022,6 +56622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไมเราไม่ไปสวนสาธารณะ?",
         game = 0,
         video = {
@@ -56115,6 +56716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม.... ไม่นะ",
         game = 0,
         video = {
@@ -56208,6 +56810,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ แน่นอน",
         game = 0,
         video = {
@@ -56301,6 +56904,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าอย่างนั้น ทำไมเราไม่ไปสวนสาธารณะล่ะ?",
         game = 0,
         video = {
@@ -56394,6 +56998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าเป็นอย่างนั้น งั้นตามฉันมา",
         game = 0,
         video = {
@@ -56487,6 +57092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันนึกว่า %s จะบอกว่าฉันกลับกลอกเหมือนสุนัขจิ้งจอก",
         game = 0,
         video = {
@@ -56580,6 +57186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นสถานที่ที่คุณชอบมั้ย %s",
         game = 0,
         video = {
@@ -56673,6 +57280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม ฉันก็ติดตามมาตลอด",
         game = 0,
         video = {
@@ -56766,6 +57374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ? จริงเหรอ? มีด้านที่น่าอายสำหรับเธอที่ฉันไม่เคยเห็นมั้ย?",
         game = 0,
         video = {
@@ -56859,6 +57468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ก็ไม่เชิง แต่เป็นสถานที่ที่มนุษย์มักจะไป",
         game = 0,
         video = {
@@ -56952,6 +57562,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค...ฉันไม่ได้หมายถึงแบบนั้น",
         game = 0,
         video = {
@@ -57045,6 +57656,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม.... ไม่นะ",
         game = 0,
         video = {
@@ -57138,6 +57750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เยี่ยมมาก เป็นสถานที่ที่หลายๆ คนมักจะไป แต่ฉันยังไม่เคยไป...",
         game = 0,
         video = {
@@ -57231,6 +57844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรระ? ฉันไม่เข้าใจจริงๆ %s",
         game = 0,
         video = {
@@ -57324,6 +57938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันตั้งตารอคอยมาก",
         game = 0,
         video = {
@@ -57417,6 +58032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เริ่มจากสถานที่ทั่วไป เรามีในรายการมากมาย!",
         game = 0,
         video = {
@@ -57510,6 +58126,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เธอติดตามฉันทางร่างกาย แต่สิ่งที่ฉันหมายถึงคือเราสามารถไปด้วยกันในฐานะเพื่อน",
         game = 0,
         video = {
@@ -57603,6 +58220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ?",
         game = 0,
         video = {
@@ -57696,6 +58314,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เราจะเริ่มเลย...",
         game = 0,
         video = {
@@ -57789,6 +58408,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ด้วยกัน?",
         game = 0,
         video = {
@@ -57882,6 +58502,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "วันที่เธอเปิดใจให้ฉัน",
         game = 0,
         video = {
@@ -57975,6 +58596,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไปเถอะ มายูริ เธอต้องการให้ฉันจับมือเธอมั้ย? โยชิโนะหรือโทวกะมักจะทำ",
         game = 0,
         video = {
@@ -58068,6 +58690,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เหมือนกับสิ่งที่เรากำลังทำอยู่ตอนนี้ คุยกัน ออกไปเที่ยวหรือเดินเคียงข้างกัน",
         game = 0,
         video = {
@@ -58161,6 +58784,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม...",
         game = 0,
         video = {
@@ -58254,6 +58878,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในกรณีนี้ ใช่",
         game = 0,
         video = {
@@ -58347,6 +58972,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขณะพูด ฉันก็ก้าวขยับไปข้างๆ เธอแล้วมองไปที่เธอ",
         game = 0,
         video = {
@@ -58440,6 +59066,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "วันนี้เป็นวันพิเศษ",
         game = 0,
         video = {
@@ -58533,6 +59160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เอาล่ะ! ไปกันเถอะ!",
         game = 0,
         video = {
@@ -58626,6 +59254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้...ฉันไม่ค่อยชินกับเรื่องนี้เลย แต่ฉันจะพยายาม",
         game = 0,
         video = {
@@ -58719,6 +59348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในแง่มุมใด %s?",
         game = 0,
         video = {
@@ -58814,6 +59444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -58907,6 +59538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริดูลุกลี้ลุกลนเล็กน้อยเพราะฉันอยู่ใกล้มาก",
         game = 0,
         video = {
@@ -59001,6 +59633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เรามาถึงสวนสาธารณะโดยจับมือกัน แสงแดดยามบ่ายส่องกระทบพื้นอย่างเฉื่อยชา",
         game = 0,
         video = {
@@ -59094,6 +59727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทา-ด๊า! นี่คือสวนสาธารณะ มายูริ",
         game = 0,
         video = {
@@ -59187,6 +59821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว นี่เป็นครั้งแรกที่ฉันมาที่นี่กับคุณ %s",
         game = 0,
         video = {
@@ -59280,6 +59915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้? เธอเคยมาที่นี่มาก่อนมั้ย?",
         game = 0,
         video = {
@@ -59373,6 +60009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันผ่านมาที่นี่สองสามครั้งในขณะที่ติดตามคุณ",
         game = 0,
         video = {
@@ -59466,6 +60103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ แล้วเธอจะมีโอกาสได้สนุกสนานแล้ว",
         game = 0,
         video = {
@@ -59559,6 +60197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร ขอบคุณ ฉันขอแค่ดูคุณจากข้างๆ %s",
         game = 0,
         video = {
@@ -59652,6 +60291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังจากพูดแบบนั้น เธอก็ยืนอยู่ข้างๆ และมองดูฉันด้วยสีหน้าว่างเปล่า",
         game = 0,
         video = {
@@ -59746,6 +60386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เรายังไม่ใช่คู่รัก...",
         game = 0,
         video = {
@@ -59839,6 +60480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริไม่รู้ว่าจะเข้ากับโลกนี้ได้ยังไง",
         game = 0,
         video = {
@@ -59933,6 +60575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่เราออกเดทกันแล้วไม่ใช่เหรอ?",
         game = 0,
         video = {
@@ -60026,6 +60669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สัญลักษณ์...พาฉันไปดูหน่อย!",
         game = 0,
         video = {
@@ -60119,6 +60763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะเป็นเดทได้ คุณจะต้องเล่นม้าหมุน ใช่มั้ย?",
         game = 0,
         video = {
@@ -60212,6 +60857,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -60305,6 +60951,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รู้ได้ยังไง?",
         game = 0,
         video = {
@@ -60401,6 +61048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -60494,6 +61142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พี่สาวบอก!",
         game = 0,
         video = {
@@ -60587,6 +61236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คนเยอะมาก",
         game = 0,
         video = {
@@ -60680,6 +61330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าทุกคนเห็นด้วย มาเริ่มกันเลย",
         game = 0,
         video = {
@@ -60773,6 +61424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ม้าหมุนคืออะไร?",
         game = 0,
         video = {
@@ -60866,6 +61518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอบคุณทุกคน!",
         game = 0,
         video = {
@@ -60959,6 +61612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน เป็นที่นิยมสำหรับเด็กๆ",
         game = 0,
         video = {
@@ -61052,6 +61706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นัตสึมิจัง...มาทำให้ดีที่สุด",
         game = 0,
         video = {
@@ -61145,6 +61800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันเป็นสถานที่ท่องเที่ยวที่นี่ เธอนั่งบนม้าไม้ที่ตกแต่งอย่างสวยงามและหมุนไปรอบๆ ในขณะที่ดนตรีบรรเลง",
         game = 0,
         video = {
@@ -61238,6 +61894,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นของที่ระลึกครั้งแรกที่สวนสนุก เก็บไว้ให้ดี โอเค้?",
         game = 0,
         video = {
@@ -61331,6 +61988,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ มีวัยรุ่นมากมายเช่นกัน",
         game = 0,
         video = {
@@ -61424,6 +62082,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แรงบันดาลใจ คางุยะและยูซุรุจะทำทุกอย่างเพื่อที่จะช่วย",
         game = 0,
         video = {
@@ -61517,6 +62176,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พี่สาวผมนบอกว่าถ้าคนสองคนรักกันก็จะอยู่ด้วยกันตลอดไป!",
         game = 0,
         video = {
@@ -61610,6 +62270,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณสามารถวางใจฉัน",
         game = 0,
         video = {
@@ -61703,6 +62364,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอพูดถูก...",
         game = 0,
         video = {
@@ -61796,6 +62458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน ปล่อยให้เป็นหน้าที่ฉัน!",
         game = 0,
         video = {
@@ -61889,6 +62552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เฮ้ รู้เยอะเกินอายุไปรึเปล่า?",
         game = 0,
         video = {
@@ -61982,6 +62646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทุกคน ฉันมีความรู้สึกไม่ดีกับเหตุการณ์นี้ ดังนั้น...",
         game = 0,
         video = {
@@ -62075,6 +62740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฝูงชนที่อยู่รอบๆ สถานที่ท่องเที่ยวนั้นประกอบด้วยคู่รักส่วนใหญ่จับมือกันหรือกอดกัน มายูริและฉันดูไม่เหมาะกับที่...",
         game = 0,
         video = {
@@ -62168,6 +62834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อยู่กับฉันและผ่อนคลายกับฉันเป็นคนละเรื่องกัน! เชื่อฉันสิ",
         game = 0,
         video = {
@@ -62261,6 +62928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตลอดไป? ฉันไม่คิดว่าฉันจะมีเวลามากขนาดนั้น",
         game = 0,
         video = {
@@ -62354,6 +63022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพื่อให้อยู่ในฝั่งที่ปลอดภัย",
         game = 0,
         video = {
@@ -62447,6 +63116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่น่าแปลกใจที่ที่นี่เป็นจุดเดทสำหรับคู่รัก",
         game = 0,
         video = {
@@ -62540,6 +63210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... ดูเหมือนไม่ใช่การรั่วไหลของข้อมูลแต่ละคน",
         game = 0,
         video = {
@@ -62633,6 +63304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรนะ?",
         game = 0,
         video = {
@@ -62726,6 +63398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทุกคนนั่งที่นี่",
         game = 0,
         video = {
@@ -62819,6 +63492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอชี้ไปที่สโลแกนและอุทาน",
         game = 0,
         video = {
@@ -62912,6 +63586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "1",
         game = 0,
         video = {
@@ -63005,6 +63680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เด็กๆ เริ่มเถียงกัน ฉันจึงจับไม่ได้ว่าเธอพูดอะไร",
         game = 0,
         video = {
@@ -63098,6 +63774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังจากที่โยชิโนะเข้าไปข้างใน แล้วฉันก็หายใจเข้าลึกๆ และเข้าไปใกล้ๆ",
         game = 0,
         video = {
@@ -63191,6 +63868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้น เราควรต่อแถว!",
         game = 0,
         video = {
@@ -63284,6 +63962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -63377,6 +64056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่มีอะไร เราไปดูม้าหมุนหน่อยได้มั้ย %s ?",
         game = 0,
         video = {
@@ -63470,6 +64150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s ให้เธอพูดเสร็จก่อน",
         game = 0,
         video = {
@@ -63563,6 +64244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -63656,6 +64338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ่า ไม่ต้องกังวล ตอนนี้ฉันกำลังลดน้ำหนักอยู่",
         game = 0,
         video = {
@@ -63749,6 +64432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้น ไม่?",
         game = 0,
         video = {
@@ -63842,6 +64526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "[ถาม]? เธอไม่ได้...",
         game = 0,
         video = {
@@ -63935,6 +64620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64034,6 +64720,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64127,6 +64814,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้สึกว่ามีอะไรมากกว่านั้นกับคำพูดของเธอ...",
         game = 0,
         video = {
@@ -64220,6 +64908,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64316,6 +65005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64409,6 +65099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พี่กลับมาแล้ว รีบเข้า ทุกคนอยู่ที่นี่",
         game = 0,
         video = {
@@ -64502,6 +65193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน ฉันสามารถพาเธอไปที่นั่นได้",
         game = 0,
         video = {
@@ -64595,6 +65287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...โทวกะ...",
         game = 0,
         video = {
@@ -64688,6 +65381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เรานั่งลงบนม้าที่อยู่ติดกัน เมื่อดนตรีเริ่มขึ้น ม้าก็เริ่มเคลื่อนไหว",
         game = 0,
         video = {
@@ -64781,6 +65475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันกลับมาแล้ว",
         game = 0,
         video = {
@@ -64874,6 +65569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64967,6 +65663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตำนานกล่าวว่ากระเช้าของชิงช้าสวรรค์มีพลังพิเศษ นั่นเป็นเหตุผลที่เธอรู้สึกไม่สบายใจ",
         game = 0,
         video = {
@@ -65060,6 +65757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ว้าว ช่างรู้สึกสดชื่น",
         game = 0,
         video = {
@@ -65153,6 +65851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันเข้าใจแล้ว",
         game = 0,
         video = {
@@ -65246,6 +65945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้...โอ้...บาย...",
         game = 0,
         video = {
@@ -65339,6 +66039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตกลง %s ฉันจะไปสถานีตำรวจ แล้วเจอกัน",
         game = 0,
         video = {
@@ -65432,6 +66133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันคิดว่ามันเป็นละอองน้ำ",
         game = 0,
         video = {
@@ -65525,6 +66227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ่า...ฉันหวังว่าฉันจะรู้ว่าแอปนี้คืออะไร...มีการประกวดความนิยมแบบลับๆ หรือ?",
         game = 0,
         video = {
@@ -65618,6 +66321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดวงตาของเธอบ่งบอกถึงความเศร้าและความอิจฉา",
         game = 0,
         video = {
@@ -65711,6 +66415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ้า นั่น ฉันเพิ่งหยิบขึ้นมา มันมีเสียงหลายประเภท ต้องเป็นการแจ้งเตือนจากบางแอป",
         game = 0,
         video = {
@@ -65804,6 +66509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ละอองน้ำพ่นออกมาจากด้านบนของม้า ปกคลุมสถานที่ท่องเที่ยวทั้งหมดด้วยหมอกควันที่เหมือนฝัน",
         game = 0,
         video = {
@@ -65897,6 +66603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ่า! มีอุปกรณ์ใกล้ตัวมั้ย? รีบ ค้นหา!",
         game = 0,
         video = {
@@ -66003,6 +66710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉะ-ฉันไม่ได้พูดอะไร!",
         game = 0,
         video = {
@@ -66096,6 +66804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันสบายดี ไม่ต้องขอโทษหรอก เพื่อน",
         game = 0,
         video = {
@@ -66189,6 +66898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "น่ามหัศจรรย์!",
         game = 0,
         video = {
@@ -66290,6 +67000,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ปัง——",
         game = 0,
         video = {
@@ -66383,6 +67094,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s พี่ได้ยินฉันมั้ย?",
         game = 0,
         video = {
@@ -66476,6 +67188,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โทวกะ! ช้าลงหน่อย! อย่าลากสิ!",
         game = 0,
         video = {
@@ -66569,6 +67282,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -66661,6 +67375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สวนสนุกก็น่าตกตะลึงยามพระอาทิตย์ตก...",
         game = 0,
         video = {
@@ -66754,6 +67469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันเหมือนกับว่าสวนสาธารณะถูกปกคลุมไปด้วยทองคำ",
         game = 0,
         video = {
@@ -66850,6 +67566,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไปที่มุมหนึ่งของสวนสาธารณะ",
         game = 0,
         video = {
@@ -66943,6 +67660,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตกลง ฉันเชื่อว่าคุณหมายถึงสิ่งที่คุณพูด %s!",
         game = 0,
         video = {
@@ -67037,6 +67755,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67130,6 +67849,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไมถึงเก็บเอาไว้?",
         game = 0,
         video = {
@@ -67223,6 +67943,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เรือโจรสลัดน่าจะอยู่ที่นั่น...",
         game = 0,
         video = {
@@ -67316,6 +68037,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริดูเหมือนจะเข้าใจผิด แต่ฉันเดาว่าเธอคงอยากเดทกับฉันเหมือนที่สปิริตอื่นๆ",
         game = 0,
         video = {
@@ -67409,6 +68131,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน! มายูริ รอดูนะว่าฉันจะทำได้ดีขนาดไหน!",
         game = 0,
         video = {
@@ -67502,6 +68225,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สิ่งต่อไปที่ฉันรู้ เธอกระโดดลงไปในตะกร้าหวายที่ห้อยอยู่ใต้บอลลูนสำหรับผู้โดยสารแล้ว",
         game = 0,
         video = {
@@ -67595,6 +68319,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเดินต่อไป",
         game = 0,
         video = {
@@ -67688,6 +68413,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67787,6 +68513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เฮ้! รอฉันก่อน มายูริ!",
         game = 0,
         video = {
@@ -67880,6 +68607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67973,6 +68701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มัน...ร้าง.",
         game = 0,
         video = {
@@ -68066,6 +68795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอยากจะลอง! ขึ้นบอลลูน!",
         game = 0,
         video = {
@@ -68159,6 +68889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พระเจ้าช่วย! ฉันลืมว่าเรายังอยู่ในที่สาธารณะ!",
         game = 0,
         video = {
@@ -68252,6 +68983,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน! เกี่ยวก้อยสาบาน!",
         game = 0,
         video = {
@@ -68345,6 +69077,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันคิดว่ามันอยู่ที่นี่ ไปกันเถอะ %s",
         game = 0,
         video = {
@@ -68438,6 +69171,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอขมวดคิ้วและเอ่ยคำสุดท้ายนี้ก่อนที่เธอจะหายไป",
         game = 0,
         video = {
@@ -68530,6 +69264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พื้นที่ปิดล้อมให้ความรู้สึก...",
         game = 0,
         video = {
@@ -68623,6 +69358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เคยมีใครบอกแบบนี้",
         game = 0,
         video = {
@@ -68716,6 +69452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอยังคงตื่นเต้นและดึงฉันไปข้างหน้า",
         game = 0,
         video = {
@@ -68810,6 +69547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ยังไงซะ ฉันก็ชอบมายูริมาก",
         game = 0,
         video = {
@@ -68903,6 +69641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณพาฉันไปที่สวนสนุกและทั้งหมด...",
         game = 0,
         video = {
@@ -68996,6 +69735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "การสังเกตการณ์อย่างใกล้ชิดจะไม่ดีไปกว่าเหรอ?",
         game = 0,
         video = {
@@ -69090,6 +69830,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นวิธีที่ทำให้รู้จักกันเร็วขึ้น",
         game = 0,
         video = {
@@ -69184,6 +69925,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันต้องรู้จักเธอให้ดีกว่านี้",
         game = 0,
         video = {
@@ -69277,6 +70019,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะว่าไป เธอตัดสินใจหรือยังว่าจะทำอะไรก่อน?",
         game = 0,
         video = {
@@ -69370,6 +70113,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -69463,6 +70207,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันขอร้องด้วยความจริงใจ %s แต่ดูเหมือนว่าคุณกำลังล้อเล่น",
         game = 0,
         video = {
@@ -69556,6 +70301,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "การหายใจของเธอเร็วขึ้น หรือเธอจะ...กลัวความสูง?!",
         game = 0,
         video = {
@@ -69651,6 +70397,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูสิ แม่มด ผี ค้างคาวและนกฮูก!",
         game = 0,
         video = {
@@ -69744,6 +70491,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คนเยอะมาก",
         game = 0,
         video = {
@@ -69837,6 +70585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ มันเป็นงานฮาโลวีน!",
         game = 0,
         video = {
@@ -69931,6 +70680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เลือกแม่มด",
         game = 0,
         video = {
@@ -70027,6 +70777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอดูอย่างอื่นก่อน",
         game = 0,
         video = {
@@ -70121,6 +70872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -70214,6 +70966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -70307,6 +71060,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้",
         game = 0,
         video = {
@@ -70400,6 +71154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เริ่มมืดแล้ว ถ้าเราไม่รีบกลับ เราจะไม่ทันเวลาสำหรับกิจกรรมอื่นๆ",
         game = 0,
         video = {
@@ -70493,6 +71248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่...",
         game = 0,
         video = {
@@ -70586,6 +71342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ แถวนี้ไม่มีใคร เรือโจรสลัดควรจะแน่นขนัดกว่านี้",
         game = 0,
         video = {
@@ -70679,6 +71436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันผิดมั้ย?",
         game = 0,
         video = {
@@ -70775,6 +71533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่คิดว่ามันเป็นทางที่ถูกต้อง วนกลับเถอะ",
         game = 0,
         video = {
@@ -70868,6 +71627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นไรมั้ย? เฮ้! รอก่อน!",
         game = 0,
         video = {
@@ -70961,6 +71721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -71054,6 +71815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไปกันเถอะ!",
         game = 0,
         video = {
@@ -71150,6 +71912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีปลาประเภทอื่นๆ อยู่ข้างหน้า!",
         game = 0,
         video = {
@@ -71243,6 +72006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ป้ายขนาดใหญ่ \"พิพิธภัณฑ์สัตว์น้ำ\" อยู่ตรงหน้าเรา",
         game = 0,
         video = {
@@ -71336,6 +72100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเอื้อมมือไปแตะผมของเธอเบาๆ",
         game = 0,
         video = {
@@ -71429,6 +72194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในที่สุดมายูริก็ยิ้มออกมา ฉันเลยถือโอกาสพูดคุยต่อ",
         game = 0,
         video = {
@@ -71522,6 +72288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันลากมายูริไปข้างหน้า",
         game = 0,
         video = {
@@ -71615,6 +72382,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูเหมือนว่าคุณก็ไม่ระวังเหมือนกันนะ %s",
         game = 0,
         video = {
@@ -71708,6 +72476,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะมีเรือโจรสลัดมั้ย?",
         game = 0,
         video = {
@@ -71801,6 +72570,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูสิผู้คนจำนวนมากกำลังไปทางนั้น ตามไปกันเลย!",
         game = 0,
         video = {
@@ -71894,6 +72664,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -71990,6 +72761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตามฝูงชน",
         game = 0,
         video = {
@@ -72083,6 +72855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอพึมพำอย่างไม่ได้ยินพร้อมกับก้มหน้าลง",
         game = 0,
         video = {
@@ -72182,6 +72955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ต้องกลัว",
         game = 0,
         video = {
@@ -72275,6 +73049,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วแต่คุณเลย",
         game = 0,
         video = {
@@ -72371,6 +73146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -72464,6 +73240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ผู้หญิงที่นี่บอกว่าฉันช่วยให้อาหารมันได้",
         game = 0,
         video = {
@@ -72557,6 +73334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อย่ากลัว มายูริ ฟังเสียงหัวใจของเธอ.",
         game = 0,
         video = {
@@ -72650,6 +73428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -72743,6 +73522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคือปลาอะไร? สีสดใสมาก",
         game = 0,
         video = {
@@ -72837,6 +73617,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หยิบสร้อยข้อมือ",
         game = 0,
         video = {
@@ -72930,6 +73711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หัวใจของฉัน...?",
         game = 0,
         video = {
@@ -73023,6 +73805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังจากที่ฉันร่างตา มายูริก็เริ่มขูดด้วยมีด",
         game = 0,
         video = {
@@ -73117,6 +73900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคือปลาการ์ตูน",
         game = 0,
         video = {
@@ -73210,6 +73994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูสิ มายูริ! สร้อยข้อมือนี้สวย",
         game = 0,
         video = {
@@ -73303,6 +74088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันรู้ว่าสำหรับเธอมีบางอย่างมากกว่าการสังเกตฉัน",
         game = 0,
         video = {
@@ -73397,6 +74183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "วางลงเงียบๆ",
         game = 0,
         video = {
@@ -73490,6 +74277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ คุณน่าจะเข้าใจผิด %s",
         game = 0,
         video = {
@@ -73583,6 +74371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหยิบสร้อยข้อมือถักขึ้นมาและโบกไปมาตรงหน้าเธอ",
         game = 0,
         video = {
@@ -73676,6 +74465,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม...ฉันไม่คิดอย่างนั้น",
         game = 0,
         video = {
@@ -73769,6 +74559,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริดูไม่สนใจ ฉันเลยวางมันลง",
         game = 0,
         video = {
@@ -73862,6 +74653,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม?",
         game = 0,
         video = {
@@ -73955,6 +74747,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ มันสวย",
         game = 0,
         video = {
@@ -74048,6 +74841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่มีทาง ทุกคนมีแนวคิดของตัวเองทั้งนั้น เธอคิดยังไงกับ มายูริ?",
         game = 0,
         video = {
@@ -74141,6 +74935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอโอเคมั้ย? บาดโดนตัวเองมั้ย?",
         game = 0,
         video = {
@@ -74234,6 +75029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันสวยมาก ทำไมถึงเรียกว่าปลาการ์ตูน?",
         game = 0,
         video = {
@@ -74327,6 +75123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอตอบด้วยความจริงใจ แต่ฉันก็ยังไม่เห็นการเปลี่ยนแปลงใดๆ ในการแสดงออกของเธอ",
         game = 0,
         video = {
@@ -74420,6 +75217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่มีอดีต สิ่งเดียวที่ฉันรู้คือคุณ %s",
         game = 0,
         video = {
@@ -74513,6 +75311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอชูนิ้วมาทางฉันและมองฉันด้วยความคาดหวัง",
         game = 0,
         video = {
@@ -74606,6 +75405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คือ มันเป็นแค่ชื่อ",
         game = 0,
         video = {
@@ -74699,6 +75499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเจ็บ %s",
         game = 0,
         video = {
@@ -74792,6 +75593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่ควรลืมความจริงที่ว่าเธอมีอยู่จริงเพราะฉัน! \nเธอคงไม่มีความทรงจำอื่นใดนอกจากฉัน",
         game = 0,
         video = {
@@ -74886,6 +75688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอพูดถูก",
         game = 0,
         video = {
@@ -74979,6 +75782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันชี้ไปที่ป้ายที่อยู่ติดกัน",
         game = 0,
         video = {
@@ -75075,6 +75879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มองหาผ้าพันแผลในกระเป๋า",
         game = 0,
         video = {
@@ -75168,6 +75973,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันขอโทษที่พูดเรื่องซับซ้อนแบบนี้",
         game = 0,
         video = {
@@ -75261,6 +76067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไปเล่นเครื่องเล่นอื่นกัน! ฉันจะพาเธอไปเล่นอันที่น่าตื่นเต้น!",
         game = 0,
         video = {
@@ -75355,6 +76162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ชื่นชมอัญมณี",
         game = 0,
         video = {
@@ -75448,6 +76256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ว้าว น่าสนใจ...",
         game = 0,
         video = {
@@ -75541,6 +76350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร ฉันพยายามจะเข้าใจ",
         game = 0,
         video = {
@@ -75634,6 +76444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตกลง",
         game = 0,
         video = {
@@ -75727,6 +76538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันได้ยินมาว่าอัญมณีค่อนข้างเปราะภายใต้อุณหภูมิสูง แต่ถ้าเราทำสำเร็จ ราคาของมันจะเพิ่มขึ้นเป็นทวีคูณ",
         game = 0,
         video = {
@@ -75820,6 +76632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริยื่นหน้าไปที่ผ้าพันแผลอย่างอยากรู้อยากเห็นขณะที่มือของเธอยังคงค้างและระวังตัวตลอด",
         game = 0,
         video = {
@@ -75913,6 +76726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริเงียบไป บางทีเพื่อค้นหาความคิดของเธอเอง",
         game = 0,
         video = {
@@ -76006,6 +76820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -76099,6 +76914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นหมายความว่า %s ทำสิ่งที่ไม่ธรรมดา! เราประสบความสำเร็จ!",
         game = 0,
         video = {
@@ -76192,6 +77008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันทำเอง เธอช่วยลงสี",
         game = 0,
         video = {
@@ -76285,6 +77102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าเป็นอย่างนั้น เรามาเริ่มสร้างความทรงจำใหม่ในโลกนี้เพื่อที่เธอจะได้มีอดีตของตัวเอง!",
         game = 0,
         video = {
@@ -76379,6 +77197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -76472,6 +77291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆๆ แค่โชคดีนะ",
         game = 0,
         video = {
@@ -76565,6 +77385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอบคุณ %s",
         game = 0,
         video = {
@@ -76658,6 +77479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มัน...เป็นไปได้? คุณหมายความว่า กระทั่งฉันก็จะสร้างความทรงจำร่วมกับคุณได้ %s?",
         game = 0,
         video = {
@@ -76751,6 +77573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แถวยาวมาก!",
         game = 0,
         video = {
@@ -76844,6 +77667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ใช่เลย! คุณเยี่ยมมาก ดูเหมือนว่าคุณจะรู้ทุกอย่าง ฉันต้องเรียนรู้จากคุณ",
         game = 0,
         video = {
@@ -76937,6 +77761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันแกะฟักทองออกตามคำแนะนำของเจ้าหน้าที่",
         game = 0,
         video = {
@@ -77030,6 +77855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เธอสามารถสร้างได้มากเท่าที่เธอต้องการ! โลกของเธอไม่ควรมีเพียงการเฝ้าสังเกตฉัน ถูกมั้ย?",
         game = 0,
         video = {
@@ -77123,6 +77949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันมองไม่เห็นด้วยซ้ำว่ามันเริ่มต้นที่ไหน",
         game = 0,
         video = {
@@ -77216,6 +78043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เสร็จแล้ว!",
         game = 0,
         video = {
@@ -77309,6 +78137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ มันเข้ากับธีมวันนี้!",
         game = 0,
         video = {
@@ -77402,6 +78231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่...",
         game = 0,
         video = {
@@ -77495,6 +78325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราต้องเล่นอันนี้มั้ย?",
         game = 0,
         video = {
@@ -77588,6 +78419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตามไปร่วมพาเหรดกันเลย!",
         game = 0,
         video = {
@@ -77681,6 +78513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราใส่หน้ากากและเอาแจ็คโอแลนเทิร์นไปที่สวนสาธารณะซึ่งมีคนพลุกพล่านในตอนกลางคืน",
         game = 0,
         video = {
@@ -77774,6 +78607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่มีแต่ ไปกันเถอะ เราจะเริ่มต้นด้วยการช้อปปิ้งง่ายๆ",
         game = 0,
         video = {
@@ -77867,6 +78701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคือหอคอยทิ้งดิ่งที่มีชื่อเสียง!",
         game = 0,
         video = {
@@ -77960,6 +78795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอโทษ %s มันสายแล้ว ฉันรู้สึกติดพันมาก ไม่งั้น%s อาจได้ไปเยี่ยมชมสถานที่ท่องเที่ยวอื่นๆ...",
         game = 0,
         video = {
@@ -78053,6 +78889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ใช่เรื่องใหญ่อะไร เรามาใหม่ได้!",
         game = 0,
         video = {
@@ -78146,6 +78983,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันดึงเธอไปด้วยทันที ไม่ปล่อยให้เธอมีโอกาสลังเล",
         game = 0,
         video = {
@@ -78239,6 +79077,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หล่นจากหอคอย? คุณทำแบบนั้นทำไม %s?",
         game = 0,
         video = {
@@ -78332,6 +79171,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราจะกลับไปมั้ย?",
         game = 0,
         video = {
@@ -78426,6 +79266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -78519,6 +79360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -78612,6 +79454,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ มันเป็นเครื่องเล่นแบบนึง มันพาเธอขึ้นไปสูงจากนั้นก็ทิ้งเธอลงมา",
         game = 0,
         video = {
@@ -78705,6 +79548,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -78798,6 +79642,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -78892,6 +79737,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -78985,6 +79831,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว ถ้า %s สนใจ ฉันจะทำให้มันเป็นจริง",
         game = 0,
         video = {
@@ -79078,6 +79925,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สุดยอด!",
         game = 0,
         video = {
@@ -79172,6 +80020,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แถวสุดท้าย",
         game = 0,
         video = {
@@ -79265,6 +80114,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันพามายูริไปที่ร้านเครื่องประดับที่คิดว่าหญิงสาวน่าจะชอบมากที่สุด",
         game = 0,
         video = {
@@ -79358,6 +80208,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ?",
         game = 0,
         video = {
@@ -79451,6 +80302,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ว้าว เก่งมาก %s! มันคือแจ็คโอแลนเทิร์นผีดิบหรือ?",
         game = 0,
         video = {
@@ -79544,6 +80396,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันให้มายูริอยู่ข้างหลังเพื่อหลีกเลี่ยงฝูงชน",
         game = 0,
         video = {
@@ -79637,6 +80490,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สวัสดี ยินดีต้อนรับสู่ร้านของเรา! เรามีเครื่องประดับให้เลือกมากมาย",
         game = 0,
         video = {
@@ -79730,6 +80584,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันสามารถเปิดใช้งานชุดสปิริตของฉัน พาคุณไปที่นั่นแล้วทิ้งดิ่ง-",
         game = 0,
         video = {
@@ -79824,6 +80679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เปลี่ยนหัวข้อใหม่",
         game = 0,
         video = {
@@ -79917,6 +80773,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราไปกันเถอะ!",
         game = 0,
         video = {
@@ -80010,6 +80867,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่ไง มายูริ!",
         game = 0,
         video = {
@@ -80103,6 +80961,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดะ-เดี๋ยว ไม่ ไม่ ฉันไม่ต้องการอีกแล้ว",
         game = 0,
         video = {
@@ -80196,6 +81055,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มองลงไปสิ! มันงดงาม!",
         game = 0,
         video = {
@@ -80289,6 +81149,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดวงตาของเธอเป็นประกายด้วยความอยากรู้อยากเห็น",
         game = 0,
         video = {
@@ -80382,6 +81243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s นี่คืออะไร",
         game = 0,
         video = {
@@ -80475,6 +81337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไมล่ะ? ฉันจะรับ %s แน่นอน",
         game = 0,
         video = {
@@ -80568,6 +81431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จริงเหรอ?",
         game = 0,
         video = {
@@ -80661,6 +81525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นคืออะไร %s?",
         game = 0,
         video = {
@@ -80754,6 +81619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่คือสิ่งที่มนุษย์เรียกว่าร้านขายเครื่องประดับ หญิงสาวมักชอบซื้อของที่นี่",
         game = 0,
         video = {
@@ -80847,6 +81713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ เลือกอย่างอื่นเถอะ!",
         game = 0,
         video = {
@@ -80940,6 +81807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่! กระเช้าของเรากำลังจะถึงจุดสูงสุดของกระเช้าเร็วๆ นี้!",
         game = 0,
         video = {
@@ -81033,6 +81901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคือม้าหมุน สถานที่ท่องเที่ยวที่โรแมนติกมาก",
         game = 0,
         video = {
@@ -81126,6 +81995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริมองทั้งร้านด้วยความอยากรู้อยากเห็น แต่ฉันไม่พบสิ่งที่สนใจ",
         game = 0,
         video = {
@@ -81220,6 +82090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเกือบจะลืมไปแล้วว่าเธอคือสปิริต และเราอยู่ในสวนสนุกที่มีคนมากมาย คงจะแย่มากถ้าเธอถูกเปิดเผย",
         game = 0,
         video = {
@@ -81313,6 +82184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จากความตื่นเต้นของฉัน มายูริเอนตัวไปข้างหน้าต่างเพื่อดู",
         game = 0,
         video = {
@@ -81406,6 +82278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วอันนั้นล่ะ?",
         game = 0,
         video = {
@@ -81499,6 +82372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันแค่ผ้าพันแผลธรรมดา",
         game = 0,
         video = {
@@ -81592,6 +82466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณแน่ใจมั้ย?",
         game = 0,
         video = {
@@ -81685,6 +82560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันสูงมากจริงๆ",
         game = 0,
         video = {
@@ -81778,6 +82654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "บ้านผีสิง",
         game = 0,
         video = {
@@ -81871,6 +82748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่ ติดมันไว้",
         game = 0,
         video = {
@@ -81964,6 +82842,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่! ทำไมเราไม่ลองดูเรือโจรสลัด!",
         game = 0,
         video = {
@@ -82057,6 +82936,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่...",
         game = 0,
         video = {
@@ -82150,6 +83030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีผีสิงมั้ย?",
         game = 0,
         video = {
@@ -82243,6 +83124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เอ่อ ใช่ ฉันรู้ เธอไม่จำเป็นต้องเข้าใกล้อีก...",
         game = 0,
         video = {
@@ -82337,6 +83219,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตามที่คุณต้องการ%s แต่ข้อเสนอสำหรับ \"หอคอยทิ้งดิ่ง\" ยังอยู่เสมอ",
         game = 0,
         video = {
@@ -82430,6 +83313,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณกำลังดูอะไรอยู่ %s?",
         game = 0,
         video = {
@@ -82524,6 +83408,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่แน่นอน เจ้าหน้าที่สวนสาธารณะเล่นบทผี แต่ก็หลอนมาก",
         game = 0,
         video = {
@@ -82617,6 +83502,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดู...บวม แต่น่าจะไม่เป็นไร",
         game = 0,
         video = {
@@ -82710,6 +83596,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...แน่นอน ไปมองหาเรือโจรสลัด...",
         game = 0,
         video = {
@@ -82803,6 +83690,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โชคดีจัง...โอ้?",
         game = 0,
         video = {
@@ -82896,6 +83784,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม งั้น...",
         game = 0,
         video = {
@@ -82989,6 +83878,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่...",
         game = 0,
         video = {
@@ -83082,6 +83972,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันพามายูริเข้าไปในสวนสาธารณะลึกขึ้น",
         game = 0,
         video = {
@@ -83175,6 +84066,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันทำเอง เธอช่วยลงสี",
         game = 0,
         video = {
@@ -83268,6 +84160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคือรถไฟเหาะที่เธอจะได้สัมผัสกับการทะยานขึ้นไปในอากาศ เช่นเดียวกันกับหอคอยทิ้งดิ่งที่อยู่ข้างๆ",
         game = 0,
         video = {
@@ -83364,6 +84257,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ให้ฉันทำ",
         game = 0,
         video = {
@@ -83457,6 +84351,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -83550,6 +84445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -83643,6 +84539,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -83739,6 +84636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -83835,6 +84733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -83928,6 +84827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถูกต้อง ไปซื้อฟักทองกันเถอะ!",
         game = 0,
         video = {
@@ -84022,6 +84922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -84115,6 +85016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูสิ %s!",
         game = 0,
         video = {
@@ -84208,6 +85110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราหลงทาง?",
         game = 0,
         video = {
@@ -84301,6 +85204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ ฉันจำได้แล้ว มีงานฮาโลวีน ทำไมเราไม่ลองไปดูล่ะ",
         game = 0,
         video = {
@@ -84397,6 +85301,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -84490,6 +85395,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราสามารถไปเล่นได้ตลอดเวลา",
         game = 0,
         video = {
@@ -84583,6 +85489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...ฉันคิดว่า...ฉันลืมถ่ายรูปแผนที่",
         game = 0,
         video = {
@@ -84676,6 +85583,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มาให้อาหารกัน!",
         game = 0,
         video = {
@@ -84769,6 +85677,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังจากนั่งรถไฟรอบสวนหนึ่งครั้ง...",
         game = 0,
         video = {
@@ -84862,6 +85771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -84956,6 +85866,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่คิดว่าสวนสนุกจะใหญ่ขนาดนี้...",
         game = 0,
         video = {
@@ -85050,6 +85961,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันจึงรู้สึกได้ถึงการมีอยู่ของฉันอย่างแท้จริง",
         game = 0,
         video = {
@@ -85143,6 +86055,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอตัดสินใจแล้วหรือยัง?",
         game = 0,
         video = {
@@ -85236,6 +86149,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รู้สึกถึงการเต้นของหัวใจ?",
         game = 0,
         video = {
@@ -85329,6 +86243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณยอมให้ฉันรู้สึกถึงการเต้นของหัวใจ",
         game = 0,
         video = {
@@ -85422,6 +86337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอหมายถึงอะไร?",
         game = 0,
         video = {
@@ -85515,6 +86431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตอนนี้เลือกยากกว่าเดิม",
         game = 0,
         video = {
@@ -85608,6 +86525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณก็เหมือนกันกับฉัน %s",
         game = 0,
         video = {
@@ -85701,6 +86619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอวางมือลงบนหน้าอกของเธอ",
         game = 0,
         video = {
@@ -85794,6 +86713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เอาจริงเหรอ?",
         game = 0,
         video = {
@@ -85887,6 +86807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ งั้นไปหาของฝากกันก่อนดีกว่า!",
         game = 0,
         video = {
@@ -85980,6 +86901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่ได้ล้อเล่นเรื่องการเรียนอัญมณี! ถ้าเธอไม่เชื่อฉัน เธอสามารถทดสอบฉันได้",
         game = 0,
         video = {
@@ -86073,6 +86995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -86166,6 +87089,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หินไพลินที่เปล่งประกายระยิบระยับช่างเหมาะกับมายูริ!",
         game = 0,
         video = {
@@ -86259,6 +87183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เจ้าหน้าที่รออยู่ใกล้ๆ รถไฟพร้อมตะกร้าของที่ระลึก",
         game = 0,
         video = {
@@ -86352,6 +87277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอไตร่ตรองอย่างเงียบๆ ดูเหมือนติดอยู่ในสถานการณ์ที่กลืนไม่เข้าคายไม่ออก",
         game = 0,
         video = {
@@ -86447,6 +87373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -86540,6 +87467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอลึกลับและน่าฉงนเหมือนสุนัขจิ้งจอก",
         game = 0,
         video = {
@@ -86633,6 +87561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ช่วยเลือกให้หน่อยได้มั้ย %s?",
         game = 0,
         video = {
@@ -86728,6 +87657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม?",
         game = 0,
         video = {
@@ -86821,6 +87751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอพูดขณะที่เธอนั่งลง",
         game = 0,
         video = {
@@ -86914,6 +87845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ไกลจากที่นี่ เจ้าหน้าที่ในชุดดำน้ำกำลังเล่นกับปลา",
         game = 0,
         video = {
@@ -87007,6 +87939,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อถึงเวลาที่เรากลับไปที่ใจกลางสวนสาธารณะก็มืดสนิท",
         game = 0,
         video = {
@@ -87100,6 +88033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่วันฮาโลวีนไม่ใช่เทศกาลตามประเพณี",
         game = 0,
         video = {
@@ -87193,6 +88127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อันนี้เหมาะกับเทศกาลมากกว่า มันเป็นวันฮาโลวีน",
         game = 0,
         video = {
@@ -87286,6 +88221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้โฮ! ไฟฟักทองสว่างขึ้น!",
         game = 0,
         video = {
@@ -87379,6 +88315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s ดูสิ! ไฟถูกเปิดแล้ว!",
         game = 0,
         video = {
@@ -87472,6 +88409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -87565,6 +88503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอกำลังพูดถึงหน้ากาก?",
         game = 0,
         video = {
@@ -87658,6 +88597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แม่มด ผี ค้างคาวและนกฮูก!",
         game = 0,
         video = {
@@ -87752,6 +88692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เลือกฟักทอง",
         game = 0,
         video = {
@@ -87845,6 +88786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ท้องฟ้ามืดมิด",
         game = 0,
         video = {
@@ -87939,6 +88881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -88032,6 +88975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -88125,6 +89069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อันนี้เหมาะกับเทศกาลมากกว่า มันเป็นวันฮาโลวีน",
         game = 0,
         video = {
@@ -88218,6 +89163,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มาดูจุดดีๆ ของงานกันเถอะ!",
         game = 0,
         video = {
@@ -88312,6 +89258,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สวนสาธารณะดูแตกต่างกันในเวลากลางคืน",
         game = 0,
         video = {
@@ -88405,6 +89352,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อไหร่ก็ได้...ฉัน...ทำอย่างนั้นไม่ได้",
         game = 0,
         video = {
@@ -88498,6 +89446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ถ้าเป็นฟักทอง...",
         game = 0,
         video = {
@@ -88592,6 +89541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รองานตอนเย็น",
         game = 0,
         video = {
@@ -88685,6 +89635,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สวนสาธารณะกลางวันเป็นยังไง?",
         game = 0,
         video = {
@@ -88778,6 +89729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่เราไม่ไดเล่นอะไรเลยนะ",
         game = 0,
         video = {
@@ -88871,6 +89823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอจ้องไปที่แผงขายของใกล้ๆ",
         game = 0,
         video = {
@@ -88964,6 +89917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเดินตามนิ้วของเธอและเห็นการประดับโคมไฟรูปแจ็คโอแลนเทิร์นขนาดมหึมากลางสวนสาธารณะ",
         game = 0,
         video = {
@@ -89057,6 +90011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ครั้งหน้าฉันจะพาเธอมาที่นี่ตอนกลางวัน!",
         game = 0,
         video = {
@@ -89150,6 +90105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ปลาโลมายังคงจ้องมองปลาแห้งในมือของมายูริ",
         game = 0,
         video = {
@@ -89243,6 +90199,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอต้องการแกะสลักฟักทองมั้ย?",
         game = 0,
         video = {
@@ -89342,6 +90299,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "วันนี้อากาศดีจัง!",
         game = 0,
         video = {
@@ -89435,6 +90393,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะว่าไป ทำไมเธอถึงมาที่นี่?",
         game = 0,
         video = {
@@ -89528,6 +90487,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูเหมือนว่าปลาโลมาจะชอบเธอจริงๆ!",
         game = 0,
         video = {
@@ -89621,6 +90581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าได้ทำด้วยตัวเองก็จะมีความหมายมากกว่า ใช่มั้ย?",
         game = 0,
         video = {
@@ -89714,6 +90675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะว่าไป วันนี้อากาศดีจริงๆ!",
         game = 0,
         video = {
@@ -89807,6 +90769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ว้าว...",
         game = 0,
         video = {
@@ -89900,6 +90863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ปลาโลมาตัวหนึ่งกระโดดขึ้นจากน้ำและใช้จมูกปัดมือของเธเบาๆ",
         game = 0,
         video = {
@@ -89994,6 +90958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริไม่เคยพูดถึงตัวเอง",
         game = 0,
         video = {
@@ -90087,6 +91052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอใช้เวลาสักครู่เพื่อรู้สึกถึงดวงอาทิตย์และพยักหน้า",
         game = 0,
         video = {
@@ -90180,6 +91146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และในขณะนั้น -",
         game = 0,
         video = {
@@ -90273,6 +91240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "การแสดงปลาโลมายังไม่เริ่มขึ้นและมายูริก็ยื่นมือออกไปข้างสระว่ายน้ำ",
         game = 0,
         video = {
@@ -90366,6 +91334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ เธอไม่เคยพูดถึงตัวเอง",
         game = 0,
         video = {
@@ -90459,6 +91428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อากาศ? ใช่ มันค่อนข้างอบอุ่นและสบาย",
         game = 0,
         video = {
@@ -90552,6 +91522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "น่ารัก!",
         game = 0,
         video = {
@@ -90645,6 +91616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -90738,6 +91710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่มีอะไรที่ต้องพูดถึง",
         game = 0,
         video = {
@@ -90831,6 +91804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โดยปกติแล้วฉันมีเพียง %s ในหัว ดังนั้นฉันจึงไม่ได้ใช้เวลาสังเกตสิ่งเหล่านี้รอบตัว",
         game = 0,
         video = {
@@ -90924,6 +91898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในที่สุดฉันก็รีบออกจากอุโมงค์...",
         game = 0,
         video = {
@@ -91017,6 +91992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ...เหรอ?",
         game = 0,
         video = {
@@ -91110,6 +92086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วเธอจะยืนเฉยและสังเกตการณ์ทุกอย่างเกี่ยวกับตัวฉันจริงๆเหรอ?",
         game = 0,
         video = {
@@ -91203,6 +92180,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อากาศดีมากวันนี้ ไปสวนสาธารณะกัน",
         game = 0,
         video = {
@@ -91296,6 +92274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -91389,6 +92368,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่. นั่นคือภารกิจของฉันในฐานะผู้สังเกตการณ์ ไม่ใช่เหรอ?",
         game = 0,
         video = {
@@ -91481,6 +92461,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม ฉันไม่รู้สิ",
         game = 0,
         video = {
@@ -91574,6 +92555,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้",
         game = 0,
         video = {
@@ -91667,6 +92649,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ความหนาวเย็นในมือ ทำให้ฉันไม่รู้สึกอะไร",
         game = 0,
         video = {
@@ -91760,6 +92743,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อมยิ้มในมือ...นั่นมาจากโคโทริรึเปล่า?",
         game = 0,
         video = {
@@ -91853,6 +92837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉัน-ฉันไม่อยากเห็นเธอยืนอยู่ตรงนั้นคนเดียว",
         game = 0,
         video = {
@@ -91946,6 +92931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -92042,6 +93028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รู้สึกเหมือนเวลาได้หยุดลง",
         game = 0,
         video = {
@@ -92135,6 +93122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ฉันรัก %s มาตั้งแต่เกิด",
         game = 0,
         video = {
@@ -92228,6 +93216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม? การยืนข้างๆ ก็ไม่ได้ผิดปกติอะไร อย่างน้อยฉันก็ได้เห็นคุณ",
         game = 0,
         video = {
@@ -92322,6 +93311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -92415,6 +93405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พวกเขากล่าวว่าเมื่อเธอนั่งอยู่บนม้าหมุน เวลาข้างในจะช้าลงและเวลาข้างนอกเร่งรีบขึ้น",
         game = 0,
         video = {
@@ -92509,6 +93500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถามเกี่ยวกับสร้อยคอของเธอ",
         game = 0,
         video = {
@@ -92602,6 +93594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะว่า! ถ้ามีคนอยากเล่น แต่กลัวเกินไปเพราะคิดว่าตัวเองไม่มีความสำคัญ ฉันก็จะเป็นคนไปถามเอง!",
         game = 0,
         video = {
@@ -92695,6 +93688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เรามาถึงสวนสาธารณะ มีนักท่องเที่ยวคนอื่นๆ อยู่ที่นั่นเนื่องจากอากาศดีมาก",
         game = 0,
         video = {
@@ -92788,6 +93782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไร จริงเหรอ?",
         game = 0,
         video = {
@@ -92881,6 +93876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะงั้น ในที่สุดฉันก็จะหายไป",
         game = 0,
         video = {
@@ -92974,6 +93970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... คนบ้า!!",
         game = 0,
         video = {
@@ -93067,6 +94064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ครั้งต่อไปที่เราจะพบกัน เราควรเริ่มต้นด้วยการพูดคุยเรื่องสภาพอากาศ",
         game = 0,
         video = {
@@ -93160,6 +94158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ มีตำนานแบบนั้น เธอไม่รู้สึกเหรอ?",
         game = 0,
         video = {
@@ -93253,6 +94252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ แล้วฉันจะใช้เวลามากมายกับ %s",
         game = 0,
         video = {
@@ -93346,6 +94346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และตอนนี้คนบ้านี้อยากจะขอให้เธอใช้เวลาร่วมกัน เธอจะตอบตกลงมั้ย?",
         game = 0,
         video = {
@@ -93439,6 +94440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พูดคุยเรื่องสภาพอากาศ? ทำไม?",
         game = 0,
         video = {
@@ -93533,6 +94535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันคิดว่าเธอคงสนุกกับเรื่องราวเด็กๆ แบบนี้-",
         game = 0,
         video = {
@@ -93627,6 +94630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจะเลือกที่นึงให้เธอ",
         game = 0,
         video = {
@@ -93720,6 +94724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม ถ้าเป็นคำเชิญจาก %s ฉันจะตอบตกลง",
         game = 0,
         video = {
@@ -93813,6 +94818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้นฉันขออยู่บนม้าตลอดไป...",
         game = 0,
         video = {
@@ -93906,6 +94912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอกุมมือตัวเองและมองมาที่ฉันอย่างตั้งใจ",
         game = 0,
         video = {
@@ -93999,6 +95006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจะเลือกที่นึงให้เธอ มายูริ ดูสิ มีเครื่องประดับสวยๆ เพียบ!",
         game = 0,
         video = {
@@ -94092,6 +95100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้ว่าเธออยากเล่น แต่จะไม่คิดอย่างนั้นจากมุมมองของเธอเอง",
         game = 0,
         video = {
@@ -94185,6 +95194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สิ่งที่เธอพูดคือ...เธอไม่เคยให้ตัวเองหยุดเลยสักวัน?",
         game = 0,
         video = {
@@ -94279,6 +95289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หินทับทิม",
         game = 0,
         video = {
@@ -94372,6 +95383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขณะที่ฉันพูดคำพวกนี้ ฉันเอื้อมมือไปจับมือเธอ แต่เธอก็หลบมัน",
         game = 0,
         video = {
@@ -94465,6 +95477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มุมมองของตัวเอง? แต่คนที่ไม่มีอดีตจะมีมุมมองของตัวเองได้ยังไง?",
         game = 0,
         video = {
@@ -94561,6 +95574,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราจะใช้เวลาร่วมกันมากมาย",
         game = 0,
         video = {
@@ -94654,6 +95668,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหยิบหินทับทิมและวางไว้ในมือของเธอ",
         game = 0,
         video = {
@@ -94747,6 +95762,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขะ-ขอโทษ %s ฉันไม่ได้ตั้งใจ",
         game = 0,
         video = {
@@ -94840,6 +95856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหมายความว่า บางครั้งเธอควรมีความคิดเป็นของตัวเอง!",
         game = 0,
         video = {
@@ -94933,6 +95950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจ้องเข้าไปในดวงตาของมายูริ",
         game = 0,
         video = {
@@ -95026,6 +96044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันสวยมาก",
         game = 0,
         video = {
@@ -95119,6 +96138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไรเลย มันเป็นความผิดของฉันเอง โอ้ ใช่ เธอชอบอัญมณีมั้ย?",
         game = 0,
         video = {
@@ -95212,6 +96232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันมาเพื่อคุณ ดังนั้นความคิดของฉันจึงไม่สำคัญ",
         game = 0,
         video = {
@@ -95305,6 +96326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอบคุณ... %s!",
         game = 0,
         video = {
@@ -95398,6 +96420,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่มั้ยล่ะ? เธอคงดูไม่ออกจากรูปลักษณ์ของฉันแต่ฉันได้ศึกษาอัญมณีมาระยะหนึ่งแล้ว",
         game = 0,
         video = {
@@ -95491,6 +96514,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อัญมณี...คืออะไร?",
         game = 0,
         video = {
@@ -95584,6 +96608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่...ทำไมคุณถึงเป็นห่วงฉันมาก %s?",
         game = 0,
         video = {
@@ -95679,6 +96704,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พิพิธภัณฑ์สัตว์น้ำ",
         game = 0,
         video = {
@@ -95772,6 +96798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณมีงานอดิเรกมากมาย %s งานบ้าน ซ่อมแซมชั้นดาดฟ้า ปิดเสียงเตือนชั่วคราวระหว่างเรียนและอัญมณี...",
         game = 0,
         video = {
@@ -95865,6 +96892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อัญมณีของโลกนี้สวยงามและมีหลากหลายสี! เดี๋ยวเธอก็รู้ มาสิ!",
         game = 0,
         video = {
@@ -95958,6 +96986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อเธอยิ้ม เธอดูเหมือนนางฟ้า",
         game = 0,
         video = {
@@ -96051,6 +97080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เหมืองหิน? แร่ธาตุ?",
         game = 0,
         video = {
@@ -96144,6 +97174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เฮ้ ไม่จำเป็นต้องลงรายการทีละรายการ!",
         game = 0,
         video = {
@@ -96237,6 +97268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม",
         game = 0,
         video = {
@@ -96333,6 +97365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เลือกแจ็คโอแลนเทิร์น",
         game = 0,
         video = {
@@ -96426,6 +97459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ พิพิธภัณฑ์สัตว์น้ำ ที่ๆ มีสิ่งมีชีวิตใต้ท้องทะเลมากมาย!",
         game = 0,
         video = {
@@ -96519,6 +97553,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าฮ่าฮ่า คุณสองคนมีความสัมพันธ์ที่ดี",
         game = 0,
         video = {
@@ -96612,6 +97647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันก้าวไปที่เคาน์เตอร์ที่เต็มไปด้วยอัญมณีมากมาย แต่ฉันควรจะโชว์อันไหนให้มายูริดีนะ?",
         game = 0,
         video = {
@@ -96706,6 +97742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้ากันได้ดีกับการตกแต่งในสวนสาธารณะ",
         game = 0,
         video = {
@@ -96799,6 +97836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีสัตว์ทะเลอยู่ในสวนสนุกมั้ย?",
         game = 0,
         video = {
@@ -96893,6 +97931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอควรเข้าใจและจริงใจต่อกัน",
         game = 0,
         video = {
@@ -96986,6 +98025,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -97078,6 +98118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไมถึงมีฟักทอง...มากมายในสวนสาธารณะ?",
         game = 0,
         video = {
@@ -97171,6 +98212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน! ไปดูกันเลย!",
         game = 0,
         video = {
@@ -97264,6 +98306,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่รู้จัก %s ดีขนาดนั้น...",
         game = 0,
         video = {
@@ -97357,6 +98400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ระวัง มายูริ เราแค่เอื้อมมือออกไปเบาๆ...",
         game = 0,
         video = {
@@ -97450,6 +98494,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เนื่องจากวันนี้มีการจัดงานฮาโลวีน",
         game = 0,
         video = {
@@ -97543,6 +98588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -97636,6 +98682,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ความรู้สึกเป็นสิ่งที่ต้องมีร่วมกัน เพราะงั้นเราควรทำความรู้จักกันมากขึ้น",
         game = 0,
         video = {
@@ -97729,6 +98776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ ใช่มั้ย? ฉันรู้มากกว่านี้อีก",
         game = 0,
         video = {
@@ -97822,6 +98870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สนุกมั้ย?",
         game = 0,
         video = {
@@ -97918,6 +98967,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -98011,6 +99061,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วนี่คือความสัมพันธ์แบบไหน %s?",
         game = 0,
         video = {
@@ -98104,6 +99155,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันสามารถเล่นกับพวกเขาได้มั้ย?",
         game = 0,
         video = {
@@ -98197,6 +99249,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม น่าจะมีขบวนพาเหรดชุดเซตเร็วๆ นี้ ทำไมเราไม่เข้าร่วม? มันจะสนุกมาก!",
         game = 0,
         video = {
@@ -98290,6 +99343,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ราวกับว่าเราอยู่ที่ก้นมหาสมุทร",
         game = 0,
         video = {
@@ -98383,6 +99437,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มิตรภาพ",
         game = 0,
         video = {
@@ -98476,6 +99531,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "กังวลว่าเธออาจทำตัวไม่เหมาะสม ฉันจึงลากเธอออกไปอย่างทุลักทุเล",
         game = 0,
         video = {
@@ -98569,6 +99625,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -98662,6 +99719,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นอุโมงค์ชมวิว",
         game = 0,
         video = {
@@ -98755,6 +99813,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มิตรภาพ?",
         game = 0,
         video = {
@@ -98848,6 +99907,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s คุณเยี่ยมมาก! ฉันต้องเรียนรู้จากคุณ",
         game = 0,
         video = {
@@ -98941,6 +100001,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -99034,6 +100095,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฝูงปลาขนาดใหญ่แหวกว่ายไปมา ละอองของแสงแดดหักเหผ่านน้ำ",
         game = 0,
         video = {
@@ -99127,6 +100189,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันอยากเป็นเพื่อนซี้ของเธอ",
         game = 0,
         video = {
@@ -99220,6 +100283,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริจ้องมองสิ่งมีชีวิตหลังกระจกด้วยความอยากรู้อยากเห็นและหลงใหล",
         game = 0,
         video = {
@@ -99314,6 +100378,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้! และอันนั้น...",
         game = 0,
         video = {
@@ -99407,6 +100472,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ช่างเป็นสีที่ถูกใจ โอ้! เต่า?",
         game = 0,
         video = {
@@ -99500,6 +100566,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และเราจะเป็นแบบนั้นได้ยังไง?",
         game = 0,
         video = {
@@ -99593,6 +100660,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคือแมงกะพรุน!",
         game = 0,
         video = {
@@ -99686,6 +100754,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไร...คือสิ่งที่โปร่งใส?",
         game = 0,
         video = {
@@ -99779,6 +100848,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคือเต่าทะเล",
         game = 0,
         video = {
@@ -99872,6 +100942,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช้เวลาร่วมกันให้มากๆ หยุดมองฉันจากระยะไกลแล้วมาหาฉัน!",
         game = 0,
         video = {
@@ -99966,6 +101037,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แถวแรก",
         game = 0,
         video = {
@@ -100059,6 +101131,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ คุณพูดถูก",
         game = 0,
         video = {
@@ -100152,6 +101225,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s อะไรที่มีหนาม?",
         game = 0,
         video = {
@@ -100245,6 +101319,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะงั้นเพื่อที่จะเป็นเพื่อนสนิทที่สุด คุณควรเข้าใจและจริงใจต่อกัน",
         game = 0,
         video = {
@@ -100338,6 +101413,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "วิวข้างหน้าดีกว่า มานั่งแถวแรกกัน!",
         game = 0,
         video = {
@@ -100431,6 +101507,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันควรทำยังไงดี? หัวใจของฉันก็เต้นเร็วขึ้นเหมือนกัน",
         game = 0,
         video = {
@@ -100523,6 +101600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืมมมมั นคือหอยเม่น",
         game = 0,
         video = {
@@ -100616,6 +101694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -100709,6 +101788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รถไฟออกเดินทางด้วยความเร็วที่ช้าและเริ่มออกเดินทางรอบสถานที่ท่องเที่ยว",
         game = 0,
         video = {
@@ -100802,6 +101882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอมองตรงมาที่ฉันในขณะที่วางมือบนหน้าอกของเธอ",
         game = 0,
         video = {
@@ -100895,6 +101976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และสิ่งที่น่าตื่นเต้น?",
         game = 0,
         video = {
@@ -100988,6 +102070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฟังดูเหมือนคู่รัก...",
         game = 0,
         video = {
@@ -101081,6 +102164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -101175,6 +102259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันกำลังมองไปที่ต่างหูของเธอ",
         game = 0,
         video = {
@@ -101268,6 +102353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ปลิงทะเล",
         game = 0,
         video = {
@@ -101361,6 +102447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...คือ...มันมีความแตกต่าง...",
         game = 0,
         video = {
@@ -101455,6 +102542,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -101548,6 +102636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ต่างหู?",
         game = 0,
         video = {
@@ -101641,6 +102730,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูเหนียว...",
         game = 0,
         video = {
@@ -101734,6 +102824,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูซับซ้อน",
         game = 0,
         video = {
@@ -101827,6 +102918,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ %s นั่นอะไร?",
         game = 0,
         video = {
@@ -101920,6 +103012,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ มันแวววาว และดูเหมือนว่าสีจะเปลี่ยนไปเรื่อยๆ",
         game = 0,
         video = {
@@ -102013,6 +103106,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าฮ่า นี่เป็นครั้งแรกที่เธอได้เห็นสิ่งมีชีวิตในทะเลหรือ?",
         game = 0,
         video = {
@@ -102106,6 +103200,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอโทษ ฉันอธิบายไม่เก่ง",
         game = 0,
         video = {
@@ -102199,6 +103294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคือรถไฟเหาะ",
         game = 0,
         video = {
@@ -102292,6 +103388,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอจับต่างหูแล้วถอดออก",
         game = 0,
         video = {
@@ -102385,6 +103482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่แล้ว ฉันไม่เคยเห็นพวกมันมาก่อน",
         game = 0,
         video = {
@@ -102478,6 +103576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร ฉันจะทำให้ดีที่สุด.",
         game = 0,
         video = {
@@ -102571,6 +103670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วอันนั้นล่ะ?",
         game = 0,
         video = {
@@ -102664,6 +103764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่ได้สังเกตเลย สีเปลี่ยนไปมั้ย?",
         game = 0,
         video = {
@@ -102757,6 +103858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อุโมงค์ชมวิวนั้นค่อนข้างยาว แต่มายูริค้างอยู่ในจุด โดนสะกกโดยปลิงทะเล",
         game = 0,
         video = {
@@ -102851,6 +103953,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ?",
         game = 0,
         video = {
@@ -102944,6 +104047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นคือบ้านผีสิง ข้างๆ นั่นคือพิพิธภัณฑ์สัตว์น้ำแล้วก็หอคอยทิ้งดิ่งแล้วก็...",
         game = 0,
         video = {
@@ -103037,6 +104141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ลูกปัดห้อยเป็นทรงกลมเหมือนไข่มุก ฉันสงสัยว่ามันทำมาจากอะไร",
         game = 0,
         video = {
@@ -103130,6 +104235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่รู้ทำไม...",
         game = 0,
         video = {
@@ -103223,6 +104329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพื่อเป็นเพื่อนที่ดีที่สุดของ %s",
         game = 0,
         video = {
@@ -103316,6 +104423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดวงตาของเธอเป็นประกายด้วยความอยากรู้อยากเห็น",
         game = 0,
         video = {
@@ -103409,6 +104517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สีดูเหมือนวัตถุทรงกลมของคลื่นสปิริตที่อ่อนแอ",
         game = 0,
         video = {
@@ -103502,6 +104611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หือ?",
         game = 0,
         video = {
@@ -103595,6 +104705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตกลง! ไปสนุกกันเถอะ!",
         game = 0,
         video = {
@@ -103688,6 +104799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้! ดู! สิ่งนั้นสูงมาก! ใช่มั้ย...",
         game = 0,
         video = {
@@ -103781,6 +104893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคืออะไร?",
         game = 0,
         video = {
@@ -103874,6 +104987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่",
         game = 0,
         video = {
@@ -103967,6 +105081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอโชว์รอยยิ้มที่สดใส \nแม้ว่าคำตอบของฉันจะคลุมเครือมาก",
         game = 0,
         video = {
@@ -104060,6 +105175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันคือชิงช้าสวรรค์ เธอสามารถเห็นเมืองเทนกุ ทั้งหมดจากที่นั่น",
         game = 0,
         video = {
@@ -104153,6 +105269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ ไม่มีอะไร บางทีมันอาจจะเป็นแค่ภาพหลอนของฉัน",
         game = 0,
         video = {
@@ -104246,6 +105363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เธอต้องกลัวฉลามแน่ๆ",
         game = 0,
         video = {
@@ -104339,6 +105457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตำนานกล่าวว่าเมื่อเธอเข้าไปในกระเช้าเธอจะถูกรายล้อมไปด้วยความสุข อะไรแบบนั้น.",
         game = 0,
         video = {
@@ -104432,6 +105551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณหมายความว่าคุณสามารถขึ้นไปบนนั้น? ว้าว!",
         game = 0,
         video = {
@@ -104525,6 +105645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้า %s ชอบ ก็เอามันไป",
         game = 0,
         video = {
@@ -104618,6 +105739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หัวใจเต้นเร็วจัง...",
         game = 0,
         video = {
@@ -104711,6 +105833,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันพยายามนึกถึงตำนานใหม่เกี่ยวกับชิงช้าสวรรค์และให้คำอธิบายที่คลุมเครือ",
         game = 0,
         video = {
@@ -104804,6 +105927,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ด้านหลังจากชิงช้าสวรรค์ก็มีรถไฟเหาะ แล้วก็...",
         game = 0,
         video = {
@@ -104897,6 +106021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ ไม่นะ ฉันทำได้ยังไง?",
         game = 0,
         video = {
@@ -104990,6 +106115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อถึงเวลาที่เราออกจากพิพิธภัณฑ์สัตว์น้ำ ก็เป็นเวลากลางคืนแล้ว",
         game = 0,
         video = {
@@ -105083,6 +106209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตอนนี้เราอยู่ในกระเช้า เพราะงั้น %s และฉันจึงถูกล้อมรอบด้วยความสุข?",
         game = 0,
         video = {
@@ -105176,6 +106303,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ผสานมือเข้าด้วยกัน มายูริไม่ละสายตาจากชิงช้าสวรรค์ ดูเหมือนว่าเธอไม่สนใจที่จะได้ยินเกี่ยวกับสถานที่ท่องเที่ยวอื่นๆ",
         game = 0,
         video = {
@@ -105269,6 +106397,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "บางทีเธออาจเข้าใจฉันผิดเพราะฉันคิดมานานเกินไป",
         game = 0,
         video = {
@@ -105363,6 +106492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -105456,6 +106586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอสามารถจะว่าแบบนั้นก็ได้",
         game = 0,
         video = {
@@ -105549,6 +106680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธออยากจะขึ้นชิงช้าสวรรค์มั้ย?",
         game = 0,
         video = {
@@ -105642,6 +106774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร คิดว่ามันเป็นของที่ระลึก",
         game = 0,
         video = {
@@ -105735,6 +106868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -105828,6 +106962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ความสุขรู้สึกแบบนี้",
         game = 0,
         video = {
@@ -105921,6 +107056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ เราไปได้มั้ย?",
         game = 0,
         video = {
@@ -106014,6 +107150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ที่ระลึก?",
         game = 0,
         video = {
@@ -106107,6 +107244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ต้องห่วง...",
         game = 0,
         video = {
@@ -106200,6 +107338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอวางมือบนหน้าอก แก้มของเธอสีชมพูเล็กน้อย",
         game = 0,
         video = {
@@ -106293,6 +107432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจะพาเธอไปที่นั่นถ้าเธอสนใจ!",
         game = 0,
         video = {
@@ -106386,6 +107526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังจากที่ฉันหายตัวไป อย่างน้อย %s สามารถมีบางอย่างให้ฉันจดจำได้",
         game = 0,
         video = {
@@ -106480,6 +107621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ อืม ขอโทษด้วย",
         game = 0,
         video = {
@@ -106573,6 +107715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จังหวะที่เต้นเร็วบ่งบอกถึงความสุขมั้ย? ชิงช้าสวรรค์มีมนต์ขลังแน่นอน",
         game = 0,
         video = {
@@ -106666,6 +107809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อถึงเวลาที่ฉันรู้ตัว มายูริก็แทบจะถูกโอบล้อมไว้ในอ้อมแขนของฉัน",
         game = 0,
         video = {
@@ -106759,6 +107903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...!",
         game = 0,
         video = {
@@ -106852,6 +107997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่น่าแปลกใจที่พวกเขาบอกว่านี่คือสถานที่ท่องเที่ยวที่เป็นสัญลักษณ์",
         game = 0,
         video = {
@@ -106945,6 +108091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "การเต้นของหัวใจ...",
         game = 0,
         video = {
@@ -107039,6 +108186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอยากรู้จักเธอให้มากขึ้น",
         game = 0,
         video = {
@@ -107132,6 +108280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พวกมันเร็วมาก! หมดแล้ว!",
         game = 0,
         video = {
@@ -107225,6 +108374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้! เกิดอะไรขึ้น มายูริ?",
         game = 0,
         video = {
@@ -107318,6 +108468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คำพูดของเธอทำให้หัวใจของฉันเต้นเร็วขึ้น แปลกจัง ฉันไม่ได้กลัวความสูง",
         game = 0,
         video = {
@@ -107411,6 +108562,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นเพราะฉันอยากรู้จักเธอมากขึ้น",
         game = 0,
         video = {
@@ -107504,6 +108656,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ก่อนที่เธอจะพูดจบ นกพิราบก็เริ่มแห่เข้ามา",
         game = 0,
         video = {
@@ -107603,6 +108756,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โว้ว!",
         game = 0,
         video = {
@@ -107696,6 +108850,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นอะไรไป %s?",
         game = 0,
         video = {
@@ -107789,6 +108944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำความรู้จักฉัน? ทำไม?",
         game = 0,
         video = {
@@ -107882,6 +109038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทันใดนั้น-",
         game = 0,
         video = {
@@ -107975,6 +109132,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พวกมันกินมนุษย์?!",
         game = 0,
         video = {
@@ -108068,6 +109226,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ?",
         game = 0,
         video = {
@@ -108161,6 +109320,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะตอนนี้ฉันไม่รู้อะไรเกี่ยวกับเธอมากนัก ฉันไม่รู้ด้วยซ้ำว่าจะทำให้เธอมีความสุขได้ยังไง",
         game = 0,
         video = {
@@ -108254,6 +109414,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอจะรู้เมื่อพวกเขาออกมา พวกมันมีขนาดใหญ่และฟันแหลมและเธอมักจะพบรายงานเกี่ยวกับการโจมตีของฉลามต่อมนุษย์",
         game = 0,
         video = {
@@ -108347,6 +109508,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ คุณทำไม่ได้",
         game = 0,
         video = {
@@ -108440,6 +109602,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณจ้องมองฉันเพื่ออะไร? ฉันพูดอะไรผิดรึเปล่า?",
         game = 0,
         video = {
@@ -108533,6 +109696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณไม่จำเป็นต้องใช้ความพยายามมากกับฉัน ไปเดทกับสปิริตอื่นๆ",
         game = 0,
         video = {
@@ -108626,6 +109790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ งั้นในอนาคตไปเดทกัน \"เพื่อพัฒนาการสังเกตการณ์!\"",
         game = 0,
         video = {
@@ -108719,6 +109884,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -108812,6 +109978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ยย ฉันหยาบคายที่จ้องเธอแบบนั้น...",
         game = 0,
         video = {
@@ -108906,6 +110073,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ ฉันไม่ควร ฉันแค่อยากรู้จักเธอให้ดีขึ้น!",
         game = 0,
         video = {
@@ -108999,6 +110167,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และเมื่อพูดถึงของที่ระลึก ฉันควรจะเป็นคนให้เธอ",
         game = 0,
         video = {
@@ -109092,6 +110261,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เกี่ยวก้อยสาบาน? เหมือนที่คุณทำกับโยชิโนะใช่มั้ย?",
         game = 0,
         video = {
@@ -109188,6 +110358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีกิจกรรมสนุกๆ อีกมากมายให้เธอได้เรียนรู้",
         game = 0,
         video = {
@@ -109281,6 +110452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ไม่มีอะไรต้องรู้จัก ฉันไม่มีอดีตและอนาคต",
         game = 0,
         video = {
@@ -109374,6 +110546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โชคดีที่เธอถูกปลาชนิดอื่นดึงดูดทันที",
         game = 0,
         video = {
@@ -109467,6 +110640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -109560,6 +110734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว ขอบคุณ %s!",
         game = 0,
         video = {
@@ -109653,6 +110828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอไม่ผิด...",
         game = 0,
         video = {
@@ -109746,6 +110922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรคือความแตกต่าง? ฉันไปไม่ได้?",
         game = 0,
         video = {
@@ -109840,6 +111017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ว้าว! แต่มีฉลามอยู่ในนั้น!",
         game = 0,
         video = {
@@ -109933,6 +111111,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -110026,6 +111205,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วอันนี้ละ?",
         game = 0,
         video = {
@@ -110120,6 +111300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หยิบกระเป๋าเงิน",
         game = 0,
         video = {
@@ -110213,6 +111394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค ตอนนี้ยื่นมือออกไป",
         game = 0,
         video = {
@@ -110309,6 +111491,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -110402,6 +111585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จิ้งจอกขาว? มันเหมาะกับเธอ",
         game = 0,
         video = {
@@ -110495,6 +111679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูสิ มายูริ! กระเป๋าใบนี้สวย",
         game = 0,
         video = {
@@ -110589,6 +111774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ลูบหัวของเธอ",
         game = 0,
         video = {
@@ -110682,6 +111868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อถึงเวลาที่เราออกจากพิพิธภัณฑ์สัตว์น้ำ ก็เป็นเวลากลางคืนแล้ว",
         game = 0,
         video = {
@@ -110776,6 +111963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จ่ายแบบไม่ต้องคิด",
         game = 0,
         video = {
@@ -110869,6 +112057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหยิบกระเป๋าสีเขียวขึ้นมาและโบกไปมาตรงหน้าเธอ",
         game = 0,
         video = {
@@ -110962,6 +112151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอรู้ว่าเธอไม่จำเป็นต้องอยู่ไกลๆ ถ้าเธอต้องการ เราสามารถเดินไปด้วยกัน",
         game = 0,
         video = {
@@ -111055,6 +112245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นยังไง? สวยใช่มั้ย?",
         game = 0,
         video = {
@@ -111148,6 +112339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม ฉันอาจจะรีบเกินไป แต่เธอชอบกระเป๋าใบนี้มั้ย?",
         game = 0,
         video = {
@@ -111241,6 +112433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ มันสวย",
         game = 0,
         video = {
@@ -111334,6 +112527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หมดเวลา",
         game = 0,
         video = {
@@ -111427,6 +112621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันขอโทษ",
         game = 0,
         video = {
@@ -111520,6 +112715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่รู้สินะ...",
         game = 0,
         video = {
@@ -111613,6 +112809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอตอบด้วยความจริงใจ แต่ฉันก็ยังไม่เห็นการเปลี่ยนแปลงใดๆ ในการแสดงออกของเธอ",
         game = 0,
         video = {
@@ -111706,6 +112903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอาจจะคิดไปเอง แต่ตาของเธอดูบวมและฉันเห็นรอยยิ้มที่ฉันไม่เคยเห็นมาก่อน",
         game = 0,
         video = {
@@ -111799,6 +112997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะขอโทษทำไม",
         game = 0,
         video = {
@@ -111892,6 +113091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอมองฉันเงียบๆ หลังจากให้คำตอบ",
         game = 0,
         video = {
@@ -111985,6 +113185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อยากถือดูมั้ย?",
         game = 0,
         video = {
@@ -112078,6 +113279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่รู้ว่าทำไมเธอถึงพูดแบบนั้น แต่ฉันสัญญาได้ว่าเราจะใช้เวลาร่วมกันอย่างเต็มที่",
         game = 0,
         video = {
@@ -112171,6 +113373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเผลอดูปลาตลอดเวลา ไม่งั้น %s อาจได้ไปเยี่ยมชมสถานที่ท่องเที่ยวอื่นๆ...",
         game = 0,
         video = {
@@ -112264,6 +113467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วฉันจะตัดสินใจให้เธอ เราจะซื้อมัน!",
         game = 0,
         video = {
@@ -112357,6 +113561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มะ-ไม่...",
         game = 0,
         video = {
@@ -112450,6 +113655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -112543,6 +113749,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ใช่เรื่องใหญ่อะไร เรามาใหม่ได้!",
         game = 0,
         video = {
@@ -112636,6 +113843,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อพูดอย่างนั้น ฉันจึงนำกระเป๋าไปที่แคชเชียร์เพื่อจ่ายเงิน",
         game = 0,
         video = {
@@ -112729,6 +113937,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันยัดกระเป๋าใส่มือเธอ และเธอก็ไม่รู้จะทำยังไง",
         game = 0,
         video = {
@@ -112825,6 +114034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รู้สึกเหมือนอยู่ในก้อนเมฆ",
         game = 0,
         video = {
@@ -112918,6 +114128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อีกแล้วเหรอ ฉันอาจจะไม่มีเวลา...",
         game = 0,
         video = {
@@ -113011,6 +114222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นี่ มายูริ สำหรับเธอ!",
         game = 0,
         video = {
@@ -113104,6 +114316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณไม่ได้ทำตัวเป็นสุภาพบุรุษ %s",
         game = 0,
         video = {
@@ -113198,6 +114411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไมต้องฉีดละอองน้ำ?",
         game = 0,
         video = {
@@ -113291,6 +114505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่เป็นไร ฉันสามารถมาตามตารางเวลาของเธอได้! งั้นก็ตามนี้นะ!",
         game = 0,
         video = {
@@ -113384,6 +114599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอหยิบกระเป๋าและออกจากร้านโดยไม่พูดอะไร",
         game = 0,
         video = {
@@ -113480,6 +114696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "วันนี้ฉันเป็นของเธอ!",
         game = 0,
         video = {
@@ -113573,6 +114790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเดาว่าพวกเขาต้องการสร้างความรู้สึกของไอน้ำขึ้นมาใหม่",
         game = 0,
         video = {
@@ -113666,6 +114884,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...ตกลง",
         game = 0,
         video = {
@@ -113758,6 +114977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -113851,6 +115071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เรามีเวลาเหลืออีกมากในวันนี้",
         game = 0,
         video = {
@@ -113944,6 +115165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไอน้ำ?",
         game = 0,
         video = {
@@ -114037,6 +115259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่...ฉันมีเวลาไม่มาก...",
         game = 0,
         video = {
@@ -114135,6 +115358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -114228,6 +115452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่...",
         game = 0,
         video = {
@@ -114321,6 +115546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สิ่งนี้เกี่ยวข้องกับต้นกำเนิดของมัน ม้าหมุนเคยวิ่งด้วยกำลังคนหรือม้าจริง",
         game = 0,
         video = {
@@ -114414,6 +115640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราสามารถทำที่อื่นได้ เธอรู้มั้ย",
         game = 0,
         video = {
@@ -114507,6 +115734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรีบตามเธอไปเพื่อขอคำอธิบาย",
         game = 0,
         video = {
@@ -114600,6 +115828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอตกใจเล็กน้อย และยิ้มอย่างเครียดๆ",
         game = 0,
         video = {
@@ -114693,6 +115922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้? ฟังดูมีเสน่ห์...",
         game = 0,
         video = {
@@ -114786,6 +116016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตลอดไป?",
         game = 0,
         video = {
@@ -114879,6 +116110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รอฉันก่อน มายูริ! เธอเป็นอะไร?",
         game = 0,
         video = {
@@ -114972,6 +116204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจะพาเธอไปยังสถานที่ท่องเที่ยวอื่นๆ! ฉันสัญญาว่าเวลาจะผ่านไปเร็วสุดๆ และเธอจะต้องกลับไปอีก!",
         game = 0,
         video = {
@@ -115065,6 +116298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หลังจากการประดิษฐ์รถจักรไอน้ำ มันสามารถหมุนได้แบบนี้และกลายเป็นเครื่องเล่นแสนโรแมนติก มันเหลือเชื่อมากเมื่อเธอคิดถึงมัน",
         game = 0,
         video = {
@@ -115162,6 +116396,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เชิญเธอเข้าร่วม",
         game = 0,
         video = {
@@ -115255,6 +116490,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "............",
         game = 0,
         video = {
@@ -115348,6 +116584,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -115441,6 +116678,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "น่าทึ่งจัง...เพราะงั้นความโรแมนติกจึงถูกสร้างขึ้นด้วยเครื่องจักรไอน้ำ?",
         game = 0,
         video = {
@@ -115534,6 +116772,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันมองลงไปที่ฝ่ามือของตัวเอง และอาหารส่วนใหญ่ยังคงอยู่",
         game = 0,
         video = {
@@ -115627,6 +116866,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอไม่ตอบคำถามของฉัน แต่กลับขมวดคิ้วอย่างเงียบๆ",
         game = 0,
         video = {
@@ -115720,6 +116960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จริงเหรอ? จะรบกวนคุณรึเปล่า?",
         game = 0,
         video = {
@@ -115813,6 +117054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ นึกภาพออกมั้ย มายูริ?",
         game = 0,
         video = {
@@ -115906,6 +117148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอยิ้มอย่างยินดีขณะที่เธอสัมผัสพวกเขา",
         game = 0,
         video = {
@@ -115999,6 +117242,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ยังไม่ผ่าน",
         game = 0,
         video = {
@@ -116092,6 +117336,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นเพราะฉันชอบเธอ มายูริ!",
         game = 0,
         video = {
@@ -116185,6 +117430,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน...เหมือนเที่ยวท่ามกลางหมู่เมฆ",
         game = 0,
         video = {
@@ -116278,6 +117524,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไร? เธอไม่ต้องการพักผ่อน?",
         game = 0,
         video = {
@@ -116371,6 +117618,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ? อะไรนะ?",
         game = 0,
         video = {
@@ -116464,6 +117712,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอไม่จำเป็นต้องรู้สึกอย่างนั้น",
         game = 0,
         video = {
@@ -116557,6 +117806,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริมองขึ้นไปบนเพดาน ดูเหมือนว่าม้าหลากสีกำลังพาเราไปสู่เมฆ",
         game = 0,
         video = {
@@ -116650,6 +117900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริหน้าแดงเป็นสีแดงสด",
         game = 0,
         video = {
@@ -116743,6 +117994,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริหายไปก่อนที่ฉันจะถาม",
         game = 0,
         video = {
@@ -116836,6 +118088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอยากจะพาเธอไปด้วย",
         game = 0,
         video = {
@@ -116929,6 +118182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่น่าแปลกใจที่เรื่องราวความรักมากมายเริ่มต้นด้วยม้าหมุน",
         game = 0,
         video = {
@@ -117022,6 +118276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันตื่นเต้น",
         game = 0,
         video = {
@@ -117116,6 +118371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธออาจไม่ใช่คู่รักถ้าเธอไปเดท",
         game = 0,
         video = {
@@ -117209,6 +118465,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ เวลานี้มันคือระหว่าง%s กับฉัน",
         game = 0,
         video = {
@@ -117302,6 +118559,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รอยยิ้มของมายูริหายไปด้วยเหตุผลบางอย่าง",
         game = 0,
         video = {
@@ -117395,6 +118653,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -117488,6 +118747,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีเงื่อนไขมากมายที่จะทำให้กลายเป็นคู่รักใช่มั้ย?",
         game = 0,
         video = {
@@ -117581,6 +118841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "บางคนบอกว่าสวนสนุกจะไม่สมบูรณ์แบบหากไม่มีม้าหมุนซึ่งหมายความว่าเป็นสัญลักษณ์ของสวนสนุก",
         game = 0,
         video = {
@@ -117674,6 +118935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เกิดอะไรขึ้น? เธอโอเคมั้ย?",
         game = 0,
         video = {
@@ -117768,6 +119030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันกำลังชมวิวของเมืองเทนกุ",
         game = 0,
         video = {
@@ -117861,6 +119124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ประมาณนั้น แน่นอนว่าจะต้องตัดสินใจโดยการเดทมากกว่าหนึ่งครั้ง",
         game = 0,
         video = {
@@ -117954,6 +119218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีอะไรพิเศษอีกมั้ย?",
         game = 0,
         video = {
@@ -118047,6 +119312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเคยได้ยินเรื่องราวความรักที่เกี่ยวข้องกับม้าหมุน",
         game = 0,
         video = {
@@ -118140,6 +119406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมืองเทนกุ? ทั้งเมือง?",
         game = 0,
         video = {
@@ -118233,6 +119500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นหมายความว่า คุณเป็นคู่รัก...กับยาโทกามิ โทวกะ โยชิโนะ โคโทริ และคนอื่นๆ",
         game = 0,
         video = {
@@ -118326,6 +119594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เยี่ยมมาก! ไปกันเถอะ!",
         game = 0,
         video = {
@@ -118419,6 +119688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วพวกเขาล่ะ?",
         game = 0,
         video = {
@@ -118512,6 +119782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราอยู่บนชิงช้าสวรรค์ที่ใหญ่ที่สุดในเมือง เราสามารถมองเห็นเมืองทั้งเมืองได้ที่นี่",
         game = 0,
         video = {
@@ -118605,6 +119876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พูดว่าอะไรนะ? ไม่แน่นอน นั่นจะเรียกว่านอกใจ ใช่มั้ย?",
         game = 0,
         video = {
@@ -118698,6 +119970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้? มันจะไม่ซ้ำซากเกินไปหรือ?",
         game = 0,
         video = {
@@ -118791,6 +120064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ความรักที่คุณสามารถเฝ้าดูแต่ไม่สามารถเป็นเจ้าของ ต้องตามหา แต่ไม่เคยตามทัน",
         game = 0,
         video = {
@@ -118885,6 +120159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ ฟังดูน่าเหลือเชื่อ",
         game = 0,
         video = {
@@ -118978,6 +120253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่คุณได้ไปเดทกับพวกเขาหลายครั้ง...",
         game = 0,
         video = {
@@ -119071,6 +120347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันลืมไปเลยว่าเธอเฝ้าสังเกตการณ์ฉันมาตลอด เธออยากไปอีกมั้ย?",
         game = 0,
         video = {
@@ -119164,6 +120441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ขอโทษ ฉันคิดว่าเธอรู้แล้ว",
         game = 0,
         video = {
@@ -119257,6 +120535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นคือร้านอาหารริมทางชื่อดังที่ฉันไปบ่อยๆ",
         game = 0,
         video = {
@@ -119350,6 +120629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหมายถึงว่ามันไม่เพียงพอที่จะไปเดท",
         game = 0,
         video = {
@@ -119443,6 +120723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อันนี้ที่ %s ไปกับโยชิโนะ?",
         game = 0,
         video = {
@@ -119536,6 +120817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ชิงช้าสวรรค์นี้สร้างขึ้นเมื่อไม่นานมานี้ แต่มันได้กลายเป็นสถานที่สำคัญของเมืองเทนกุไปแล้ว",
         game = 0,
         video = {
@@ -119629,6 +120911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้ว่าคุณมักจะไปที่นั่นกับโทวกะ",
         game = 0,
         video = {
@@ -119722,6 +121005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้วเงื่อนไขใดบ้างที่มีคุณสมบัติเป็นคู่รัก?",
         game = 0,
         video = {
@@ -119817,6 +121101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ม้าหมุน",
         game = 0,
         video = {
@@ -119911,6 +121196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ชิงช้าสวรรค์",
         game = 0,
         video = {
@@ -120004,6 +121290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...โอ้ และศูนย์การค้าเป็นที่นิยมในหมู่วัยรุ่นจริงๆ มีร้านเครื่องประดับ ร้านตุ๊กตา โรงหนัง...",
         game = 0,
         video = {
@@ -120097,6 +121384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -120190,6 +121478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค ฉันจะไปกับเธอ!",
         game = 0,
         video = {
@@ -120283,6 +121572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้นไปลองเล่นกันเถอะ!",
         game = 0,
         video = {
@@ -120376,6 +121666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้ว่าคุณเคยไปที่นั่นกับยูซุรุและโยชิโนะ",
         game = 0,
         video = {
@@ -120469,6 +121760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ มันหมุนไปมาในมุมกว้างราวกับว่ามันกำลังเดินทางอยู่ในมหาสมุทร เป็นสถานที่ท่องเที่ยวที่มีชื่อเสียงมากที่นี่!",
         game = 0,
         video = {
@@ -120562,6 +121854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณสามารถนั่งเรือที่นี่?",
         game = 0,
         video = {
@@ -120655,6 +121948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธออยากไปนั่งมั้ย?",
         game = 0,
         video = {
@@ -120748,6 +122042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เอ่อ...มายูริ...เธอรู้ตำแหน่งของฉันดีจริงๆ",
         game = 0,
         video = {
@@ -120841,6 +122136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ลุคนี้เท่มาก!",
         game = 0,
         video = {
@@ -120937,6 +122233,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เลือกเรือโจรสลัด",
         game = 0,
         video = {
@@ -121030,6 +122327,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่รู้...แต่ฉันอยากลอง!",
         game = 0,
         video = {
@@ -121123,6 +122421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันสังเกตการณ์คุณทุกเดท",
         game = 0,
         video = {
@@ -121216,6 +122515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอยากจะรู้สึกว่าเดทรู้สึกยังไง...",
         game = 0,
         video = {
@@ -121310,6 +122610,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันชอบเธอ",
         game = 0,
         video = {
@@ -121406,6 +122707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ให้เธอจับมือฉัน",
         game = 0,
         video = {
@@ -121499,6 +122801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทะ-ทุกเดท?!",
         game = 0,
         video = {
@@ -121592,6 +122895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไชโย! คุณเก่งนะเนี่ย",
         game = 0,
         video = {
@@ -121701,6 +123005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หินทับทิมทำมาจากอะไร?",
         game = 0,
         video = {
@@ -121797,6 +123102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ...",
         game = 0,
         video = {
@@ -121890,6 +123196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ทุกคน มีอะไรหรือ?",
         game = 0,
         video = {
@@ -121984,6 +123291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค เริ่มเลย",
         game = 0,
         video = {
@@ -122077,6 +123385,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันลองสถานที่ท่องเที่ยวหลายแห่งร่วมกับเธอและใช้ช่วงเวลาที่ยอดเยี่ยม",
         game = 0,
         video = {
@@ -122169,6 +123478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้สึกว่ามีอะไรสนุกๆ รออยู่ข้างหน้า",
         game = 0,
         video = {
@@ -122262,6 +123572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้เลย ไปลองกันเถอะ!",
         game = 0,
         video = {
@@ -122355,6 +123666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าเป็นชิงช้าสวรรค์ล่ะ? สำหรับฉันแล้วดูเหมือนว่า...โยชิโนะชอบมันมาก",
         game = 0,
         video = {
@@ -122448,6 +123760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในขณะที่เรากำลังคุยกัน รถไฟได้เลี้ยวและหยุดที่ปลายทาง",
         game = 0,
         video = {
@@ -122541,6 +123854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม ชะ-ใช่...",
         game = 0,
         video = {
@@ -122634,6 +123948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช้เวลาร่วมกัน...",
         game = 0,
         video = {
@@ -122727,6 +124042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นสิ่งที่จะค้นพบเมื่อเราใช้เวลาร่วมกันมากขึ้น",
         game = 0,
         video = {
@@ -122820,6 +124136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s คุณอยากรู้อะไรเกี่ยวกับฉัน? ฉันจะบอก %s ทั้งหมด",
         game = 0,
         video = {
@@ -122913,6 +124230,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รีบกลับกันเถอะ ฉันคิดว่าเราคงหลงทางแล้ว มันเริ่มมืดแล้ว แต่ฉันไม่ได้พูดออกไป",
         game = 0,
         video = {
@@ -123006,6 +124324,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉ-ฉันทำได้จริงเหรอ?",
         game = 0,
         video = {
@@ -123099,6 +124418,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอต้องไปที่ร้านอาหารริมทางงั้นเหรอ? หรือโรงหนังหรือบ้านตุ๊กตา? โอ้! หรือเที่ยวบ่อน้ำพุร้อนล่ะ?",
         game = 0,
         video = {
@@ -123192,6 +124512,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ปฏิเสธไม่ได้จริงๆ...",
         game = 0,
         video = {
@@ -123285,6 +124606,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอยาก...ทำดีที่สุดเพื่อให้เธอสมหวัง",
         game = 0,
         video = {
@@ -123378,6 +124700,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นอาจจะไม่เกิดขึ้น ฉันเป็นแค่ผู้สังเกตการณ์",
         game = 0,
         video = {
@@ -123471,6 +124794,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คราวหน้าจะพาไปที่อื่น เธออยากไปที่ไหนอีกมั้ย? เราสามารถตัดสินใจล่วงหน้า",
         game = 0,
         video = {
@@ -123565,6 +124889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ เธอชอบมนุษย์มั้ย?",
         game = 0,
         video = {
@@ -123661,6 +124986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -123754,6 +125080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ?",
         game = 0,
         video = {
@@ -123847,6 +125174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันคิดว่า %s ก็ไม่เลว เช่นกัน",
         game = 0,
         video = {
@@ -123940,6 +125268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จะว่าไป เธอชอบมนุษย์มั้ย?",
         game = 0,
         video = {
@@ -124033,6 +125362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โว้ว! บอลลูน!",
         game = 0,
         video = {
@@ -124126,6 +125456,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใบหน้าของเธอแดงยิ่งกว่ามะเขือเทศ",
         game = 0,
         video = {
@@ -124219,6 +125550,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทุกคนที่ได้เห็นเธอจะต้องเห็นด้วยกับฉัน",
         game = 0,
         video = {
@@ -124312,6 +125644,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มนุษย์?",
         game = 0,
         video = {
@@ -124405,6 +125738,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คำอุทานของเธอทำให้ฉันกลับมาสู่ความเป็นจริง",
         game = 0,
         video = {
@@ -124498,6 +125832,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูเหมือนพวกมันจะชอบกินจากมือเธอ",
         game = 0,
         video = {
@@ -124591,6 +125926,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สวัสดี %s",
         game = 0,
         video = {
@@ -124684,6 +126020,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ มนุษย์อย่างฉัน",
         game = 0,
         video = {
@@ -124777,6 +126114,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นคือ...บอลลูนอากาศร้อน?",
         game = 0,
         video = {
@@ -124870,6 +126208,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันต้องสังเกตทุกสิ่งที่คุณทำ ดังนั้นฉันต้องไม่เข้าใกล้เกินไป",
         game = 0,
         video = {
@@ -124963,6 +126302,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูสิ แม้แต่นกพิราบก็เห็นด้วยกับฉัน",
         game = 0,
         video = {
@@ -125056,6 +126396,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว ถ้าเป็นมนุษย์แบบ %s ล่ะก็...ใช่! ฉันชอบ",
         game = 0,
         video = {
@@ -125149,6 +126490,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ห่างไปไม่ไกลบนสนามหญ้าโล่ง มีผู้คนจำนวนหนึ่งเข้าแถว...บอลลูนอากาศร้อน?",
         game = 0,
         video = {
@@ -125243,6 +126585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อวดดี",
         game = 0,
         video = {
@@ -125336,6 +126679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอสามารถสังเกตตามที่เธอต้องการได้ แต่ถ้าเธอรักษาระยะห่าง เธอควรจะเรียนรู้เกี่ยวกับตัวจริงของฉันได้ยังไง?",
         game = 0,
         video = {
@@ -125429,6 +126773,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้สึกปั่นป่วนเล็กน้อยเมื่อเธอพูดแบบนั้น...",
         game = 0,
         video = {
@@ -125522,6 +126867,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "บอลลูนอากาศร้อน? เราเล่นได้มั้ย",
         game = 0,
         video = {
@@ -125615,6 +126961,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าจริง คุณต้องบอกเหตุผลกับฉัน",
         game = 0,
         video = {
@@ -125709,6 +127056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรู้สึกว่ามีบางอย่างที่เปลี่ยนไประหว่างเรา",
         game = 0,
         video = {
@@ -125802,6 +127150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม? ฉันไม่ได้รับอนุญาตให้ชอบมนุษย์เช่น %s หรือ?",
         game = 0,
         video = {
@@ -125895,6 +127244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ได้! ฉันไม่เคยรู้เลยว่ามีของแบบนี้ที่สวนสนุก",
         game = 0,
         video = {
@@ -125988,6 +127338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันจะปลิดชีวิตของเธอ!",
         game = 0,
         video = {
@@ -126081,6 +127432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ระหว่างเรา?",
         game = 0,
         video = {
@@ -126174,6 +127526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อาจจะ? แต่มันต้องน่าสนใจ ไม่งั้นคนพวกนี้จะไม่แห่กันไปที่นั่น!",
         game = 0,
         video = {
@@ -126267,6 +127620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอทำได้ แต่อาจจะใช้วิธีที่แตกต่างกันเล็กน้อย แต่นั่นไม่ใช่เรื่องเร่งด่วนในตอนนี้ ฉันจะสอนเธอในอนาคต",
         game = 0,
         video = {
@@ -126360,6 +127714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...ตกลง",
         game = 0,
         video = {
@@ -126453,6 +127808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่. ไปเดทกับเธอ ขี่แจ็คโอแลนเทิร์น ดูงานเต้นรำสวมหน้ากาก...มันให้ความรู้สึกที่แตกต่าง",
         game = 0,
         video = {
@@ -126546,6 +127902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้? เราอยู่ที่พิพิธภัณฑ์สัตว์น้ำ?",
         game = 0,
         video = {
@@ -126639,6 +127996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในอนาคต? อีกนานแค่ไหน?",
         game = 0,
         video = {
@@ -126732,6 +128090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ่า คุณไม่ต้อนรับฉันเหรอ? ฉันได้นำข้อมูลที่เป็นประโยชน์มาให้ คุณก็รู้",
         game = 0,
         video = {
@@ -126825,6 +128184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณกำลังเปรียบเทียบฉันกับสปิริตอื่นๆ รึเปล่า %s?",
         game = 0,
         video = {
@@ -126918,6 +128278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ่า ดูเหมือนแบบนั้น",
         game = 0,
         video = {
@@ -127011,6 +128372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหมายถึงจากนี้ไป เวลาที่เราใช้ร่วมกันแบบนี้",
         game = 0,
         video = {
@@ -127104,6 +128466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และอีกส่วนของข่าวที่น่าปวดหัว...ในระหว่างการตรวจสอบเราได้บันทึกเสียงหลายเสียงที่เล่นโดยแอป",
         game = 0,
         video = {
@@ -127197,6 +128560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ เธอเป็นสิ่งมีชีวิตที่ไม่เหมือนใคร",
         game = 0,
         video = {
@@ -127291,6 +128655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันเป็นรูปแบบการสื่อสารแบบหนึ่ง",
         game = 0,
         video = {
@@ -127384,6 +128749,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดี ฉันกังวลว่าจะไม่มีเวลาเพียงพอ",
         game = 0,
         video = {
@@ -127477,6 +128843,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -127570,6 +128937,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ เข้าใจแล้ว...",
         game = 0,
         video = {
@@ -127663,6 +129031,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพราะนี่คือวิธีการสื่อสารระหว่างเพื่อน",
         game = 0,
         video = {
@@ -127756,6 +129125,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอมองฉันด้วยความหดหู่ในสายตาของเธอ ฉันควรพูดอะไรบางอย่างเพื่อเป็นกำลังใจให้เธอ",
         game = 0,
         video = {
@@ -127850,6 +129220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นหมายความว่าเราทุกคนสามารถอยู่ด้วยกันได้? เยี่ยมมาก",
         game = 0,
         video = {
@@ -127944,6 +129315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หากเป็นอย่างนั้น เราจะเริ่มทันที",
         game = 0,
         video = {
@@ -128037,6 +129409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "รูปแบบการสื่อสาร คืออะไร?",
         game = 0,
         video = {
@@ -128130,6 +129503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เร็วเข้า!",
         game = 0,
         video = {
@@ -128223,6 +129597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -128316,6 +129691,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หากเป็นอย่างนั้น เราจะเริ่มทันที!",
         game = 0,
         video = {
@@ -128409,6 +129785,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นวิธีที่ทำให้รู้จักกันได้เร็วขึ้น ตัวอย่างเช่นการพูดคุยเกี่ยวกับสภาพอากาศสามารถนำไปสู่หัวข้อถัดไปแบบธรรมชาติ",
         game = 0,
         video = {
@@ -128502,6 +129879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มาแล้ว...ฟิ้ว เธอรวดเร็วจริงๆ",
         game = 0,
         video = {
@@ -128595,6 +129973,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ยิน-ยินดีต้อนรับ",
         game = 0,
         video = {
@@ -128688,6 +130067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณหมายถึงการออกไปเที่ยวกับคุณ?",
         game = 0,
         video = {
@@ -128781,6 +130161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -128874,6 +130255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เราจะออกเดินทางในเวลาไม่นาน",
         game = 0,
         video = {
@@ -128967,6 +130349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตอนนี้ฉันต้องไม่ยอมแพ้...",
         game = 0,
         video = {
@@ -129060,6 +130443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่! เพื่อที่เธอจะได้มีความทรงจำของตัวเองมากขึ้น",
         game = 0,
         video = {
@@ -129153,6 +130537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอน่ารักเมื่อเธอคิดหนัก",
         game = 0,
         video = {
@@ -129246,6 +130631,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พวกคุณโชคดีมาก อากาศนิ่งมากที่สุดคือสองชั่วโมงก่อนพระอาทิตย์ตก",
         game = 0,
         video = {
@@ -129342,6 +130728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดูต่อไปได้เลย!",
         game = 0,
         video = {
@@ -129435,6 +130822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันยินดีที่จะใช้เวลาร่วมกับคุณ แต่เราควรไปที่ไหนดี?",
         game = 0,
         video = {
@@ -129528,6 +130916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว เราไม่ควรดูถูกความฉลาดของมนุษย์",
         game = 0,
         video = {
@@ -129622,6 +131011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อบอลลูนลอยขึ้น มายูริกับฉันก็ชมวิวสวนสาธารณะ",
         game = 0,
         video = {
@@ -129715,6 +131105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -129808,6 +131199,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...",
         game = 0,
         video = {
@@ -129901,6 +131293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จี้สีชมพูบนคอของเธอดูคุ้นเคยมาก",
         game = 0,
         video = {
@@ -129997,6 +131390,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันค่อนข้างอันตรายสำหรับเธอ",
         game = 0,
         video = {
@@ -130090,6 +131484,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอชะโงกหน้าไปที่หน้าต่างและจ้องมองไปที่เต่าซึ่งว่ายผ่านน้ำอย่างนุ่มนวล",
         game = 0,
         video = {
@@ -130183,6 +131578,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันมองไปรอบๆ เป็นเวลาเกือบพระอาทิตย์ตกจึงไม่ค่อยมีคนเท่าไหร่",
         game = 0,
         video = {
@@ -130276,6 +131672,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จริงๆ แล้ว เธอไม่ควรไปแตะต้องผู้หญิงโดยไม่บอกก่อน",
         game = 0,
         video = {
@@ -130369,6 +131766,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อันตรายมั้ย?",
         game = 0,
         video = {
@@ -130462,6 +131860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ดู! ว่ายน้ำกับฉลาม!",
         game = 0,
         video = {
@@ -130555,6 +131954,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s ดูสิ ตรงข้างหน้า...",
         game = 0,
         video = {
@@ -130648,6 +132048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเทอาหารลงในฝ่ามืออ้าออกมาของเธอ",
         game = 0,
         video = {
@@ -130741,6 +132142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉลามเป็นอันตราย เธออาจได้รับบาดเจ็บและอื่นๆ ...",
         game = 0,
         video = {
@@ -130834,6 +132236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉลาม?",
         game = 0,
         video = {
@@ -130927,6 +132330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันมองตามเธอไปเพื่อดูฝูงนกพิราบและพ่อค้าที่ขายอาหารเพื่อเลี้ยงนกพิราบ",
         game = 0,
         video = {
@@ -131021,6 +132425,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอหน้าแดงทันทีและหดตัวไปข้างหลัง",
         game = 0,
         video = {
@@ -131114,6 +132519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่ค่อยเข้าใจ แต่ฉันไม่ควรได้รับบาดเจ็บ",
         game = 0,
         video = {
@@ -131207,6 +132613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เป็นการแสดงพื้นฐานในพิพิธภัณฑ์สัตว์น้ำ!",
         game = 0,
         video = {
@@ -131300,6 +132707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มัน...หลีกเลี่ยงไม่ได้?",
         game = 0,
         video = {
@@ -131393,6 +132801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณช่วยสอนฉันได้มั้ย? ฉันต้องการเรียนรู้เพิ่มเติมเกี่ยวกับโลกนี้",
         game = 0,
         video = {
@@ -131486,6 +132895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอไม่รู้เรื่องฉลาม ใช่มั้ย?",
         game = 0,
         video = {
@@ -131580,6 +132990,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หินไพลิน",
         game = 0,
         video = {
@@ -131673,6 +133084,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณบอกว่าเพื่อความสะดวกในการสังเกตการณ์",
         game = 0,
         video = {
@@ -131766,6 +133178,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไร? แต่วันนี้เราไม่ได้เดทกันเหรอ?",
         game = 0,
         video = {
@@ -131859,6 +133272,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉลาม? ต่างจากปลาอื่นๆ มั้ย?",
         game = 0,
         video = {
@@ -131952,6 +133366,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหยิบหินไพลินขึ้นมาวางไว้ในมือของเธอ",
         game = 0,
         video = {
@@ -132045,6 +133460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ชิงช้าสวรรค์เริ่มหมุน...",
         game = 0,
         video = {
@@ -132139,6 +133555,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่รู้สึกถึงตัวตนของเธอ",
         game = 0,
         video = {
@@ -132232,6 +133649,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ควอตซ์",
         game = 0,
         video = {
@@ -132325,6 +133743,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันงดงามมาก ~",
         game = 0,
         video = {
@@ -132418,6 +133837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ ไม่มีอะไร...",
         game = 0,
         video = {
@@ -132511,6 +133931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าคุณยืนยัน งั้นก็โอเค ฉันจะทดสอบคุณโดยใช้หินทับทิมที่คุณถืออยู่",
         game = 0,
         video = {
@@ -132604,6 +134025,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ถูกต้อง ดูเหมือนว่าคุณยังไม่ได้เรียนรู้ขั้นพื้นฐาน",
         game = 0,
         video = {
@@ -132697,6 +134119,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอจ้องมองไปที่อัญมณีอย่างตั้งอกตั้งใจ",
         game = 0,
         video = {
@@ -132790,6 +134213,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s แล้วถ้าพวกมันไม่มาล่ะ? อ่า!",
         game = 0,
         video = {
@@ -132883,6 +134307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันด้วย ตราบเท่าที่เธอต้องการ ฉันจะให้เวลากับเธอ",
         game = 0,
         video = {
@@ -132976,6 +134401,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หินทับทิมเป็นอัญมณีสีแดง เป็นคอรันดัมประเภทหนึ่ง",
         game = 0,
         video = {
@@ -133069,6 +134495,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่มั้ยล่ะ? เธอคงดูไม่ออกจากรูปลักษณ์ของฉันแต่ฉันได้ศึกษาอัญมณีมาระยะหนึ่งแล้ว",
         game = 0,
         video = {
@@ -133162,6 +134589,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน ไม่มีอะไรยากเกินไปสำหรับฉัน",
         game = 0,
         video = {
@@ -133255,6 +134683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันสูงขึ้นเรื่อยๆ ฉันรู้สึก...",
         game = 0,
         video = {
@@ -133364,6 +134793,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คำถามต่อไป หินทับทิมมีต้นกำเนิดมาจากไหน?",
         game = 0,
         video = {
@@ -133460,6 +134890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณมีงานอดิเรกมากมาย %s งานบ้าน ซ่อมแซมชั้นดาดฟ้า ปิดเสียงเตือนชั่วคราวระหว่างเรียนและอัญมณี...",
         game = 0,
         video = {
@@ -133553,6 +134984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ควรใส่ยังไง? เธอไม่เคยใกล้ชิดกับฉันมาก่อน",
         game = 0,
         video = {
@@ -133649,6 +135081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เลือกปลาโลมา",
         game = 0,
         video = {
@@ -133742,6 +135175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "กระจกสั่นเล็กน้อยและเธอก้าวถอยหลัง หลังจากกลัวการปรากฏตัวของฉลามอย่างกะทันหัน",
         game = 0,
         video = {
@@ -133835,6 +135269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เฮ้ ไม่จำเป็นต้องลงรายการทีละรายการ! ว่าแต่ว่าเธอเคยได้ยินเกี่ยวกับหัวใจของทะเลมั้ย?",
         game = 0,
         video = {
@@ -133928,6 +135363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โลกนี้มีสิ่งมหัศจรรย์มากมาย? ฉันชอบโลกนี้!",
         game = 0,
         video = {
@@ -134021,6 +135457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "น่ารักมาก!",
         game = 0,
         video = {
@@ -134114,6 +135551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ต้องกลัว ไม่เป็นไร...",
         game = 0,
         video = {
@@ -134207,6 +135645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ ฉันไม่อยากรู้อะไรที่ไม่เกี่ยวข้องกับคุณ",
         game = 0,
         video = {
@@ -134303,6 +135742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเดาว่าเธอพูดถูก...",
         game = 0,
         video = {
@@ -134396,6 +135836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อิอิ ถ้าเธอชอบมาก ทำไมเราไม่ไปพิพิธภัณฑ์สัตว์น้ำล่ะ?",
         game = 0,
         video = {
@@ -134489,6 +135930,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉลามบิดตัวไปมาและเล่นกับเจ้าหน้าที่อย่างพร้อมเพรียง",
         game = 0,
         video = {
@@ -134582,6 +136024,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พระเจ้า เธอพูดอะไรที่ไร้สาระแบบนี้ได้ยังไง?",
         game = 0,
         video = {
@@ -134675,6 +136118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เหมือนกับฉันและคุณ %s",
         game = 0,
         video = {
@@ -134768,6 +136212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มีของพวกนี้ในพิพิธภัณฑ์สัตว์น้ำมั้ย?",
         game = 0,
         video = {
@@ -134862,6 +136307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "น่ารักมาก",
         game = 0,
         video = {
@@ -134955,6 +136401,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หัวใจของทะเลคืออะไร?",
         game = 0,
         video = {
@@ -135048,6 +136495,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ความรัก...เราไม่ได้อยู่ในความสัมพันธ์แบบนั้น",
         game = 0,
         video = {
@@ -135141,6 +136589,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ใช่ของเล่น แต่เป็นปลาโลมาจริงๆ! และสัตว์ทะเลอื่นๆ อีกด้วย!",
         game = 0,
         video = {
@@ -135234,6 +136683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s คุณชอบฉันมั้ย?",
         game = 0,
         video = {
@@ -135327,6 +136777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นสร้อยคอหินไพลินที่บอกเล่าเรื่องราวของคู่รักที่ต้องแยกจากกัน",
         game = 0,
         video = {
@@ -135420,6 +136871,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ใช่รัก...ขอโทษ ฉันไม่ควรพูดแบบนั้น",
         game = 0,
         video = {
@@ -135513,6 +136965,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เอาล่ะ ไปพิพิธภัณฑ์สัตว์น้ำกันเถอะ!",
         game = 0,
         video = {
@@ -135606,6 +137059,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ จะว่าอย่างงั้นก็ได้ เธอน่ารักมาก",
         game = 0,
         video = {
@@ -135699,6 +137153,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่น่าสนใจ",
         game = 0,
         video = {
@@ -135792,6 +137247,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ ฉันไม่ควรพูดแบบนั้น...",
         game = 0,
         video = {
@@ -135885,6 +137341,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -135979,6 +137436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถามเกี่ยวกับใบปลิวในกระเป๋าเป้",
         game = 0,
         video = {
@@ -136072,6 +137530,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮ่าๆ ฉันสามารถบอกได้ด้วยการแสดงออกของเธอ",
         game = 0,
         video = {
@@ -136165,6 +137624,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม สิ่งที่ฉันหมายถึงคือ...เรายังสนิทกันได้อีก!",
         game = 0,
         video = {
@@ -136258,6 +137718,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันพามายูริไปที่พิพิธภัณฑ์สัตว์น้ำที่แน่นขนัด",
         game = 0,
         video = {
@@ -136351,6 +137812,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...ใบปลิวสวนสนุกเหรอ?",
         game = 0,
         video = {
@@ -136444,6 +137906,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่ถ้าเป็นโยชิโนะ เธอคงอยู่ในโหมดจินตนาการเต็มรูปแบบ",
         game = 0,
         video = {
@@ -136538,6 +138001,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอดูโกรธ ฉันจะทำยังไงดี?",
         game = 0,
         video = {
@@ -136635,6 +138099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่สนใจเมื่อเธอเดินผ่าน",
         game = 0,
         video = {
@@ -136728,6 +138193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มุมหนึ่งของใบปลิวดึงดูดสายตาของฉัน",
         game = 0,
         video = {
@@ -136821,6 +138287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม และแม้ว่าฉันจะได้พักผ่อน ฉันก็แค่อยู่เฉยๆ คนเดียว",
         game = 0,
         video = {
@@ -136914,6 +138381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าเราไปเดท ระยะห่างก็จะเปลี่ยนไป! มาทำกัน!",
         game = 0,
         video = {
@@ -137007,6 +138475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้านั่นคือสิ่งที่เราต้องการ ฉันก็มีความรักใคร่ต่อ %s!",
         game = 0,
         video = {
@@ -137100,6 +138569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเพิ่งหยิบมันขึ้นมา",
         game = 0,
         video = {
@@ -137193,6 +138663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรนะ?",
         game = 0,
         video = {
@@ -137286,6 +138757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้ หืม...",
         game = 0,
         video = {
@@ -137379,6 +138851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไร! มายูริ เธอไม่สามารถพูดเรื่องแบบนี้ง่ายๆ ได้!",
         game = 0,
         video = {
@@ -137472,6 +138945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แค่? เธออยู่ที่นั่นตอนโยชิโนะกับฉันอยู่ที่สวนสนุก?",
         game = 0,
         video = {
@@ -137565,6 +139039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...เอิ่ม...",
         game = 0,
         video = {
@@ -137658,6 +139133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -137751,6 +139227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม...",
         game = 0,
         video = {
@@ -137844,6 +139321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอยู่ตรงนี้เสมอ",
         game = 0,
         video = {
@@ -137938,6 +139416,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ลูบหลังเธอ",
         game = 0,
         video = {
@@ -138031,6 +139510,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นของฝากจากเดทแรกของฉันกับคุณ %s...",
         game = 0,
         video = {
@@ -138123,6 +139603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม...สวัสดี มายูริ",
         game = 0,
         video = {
@@ -138216,6 +139697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม?",
         game = 0,
         video = {
@@ -138309,6 +139791,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันตบไหล่มายูริเบาๆ",
         game = 0,
         video = {
@@ -138402,6 +139885,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "วันหยุด? หมายความว่าพักผ่อน? แต่ฉันไม่คิดว่าฉันต้องการพักผ่อน",
         game = 0,
         video = {
@@ -138495,6 +139979,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเข้าหาเธอ และน่าแปลกใจที่เธอไม่หายตัวไป",
         game = 0,
         video = {
@@ -138588,6 +140073,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันกำลังสังเกตการณ์",
         game = 0,
         video = {
@@ -138681,6 +140167,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค แค่สูงนิดหน่อย แต่ก็ปลอดภัยมาก",
         game = 0,
         video = {
@@ -138774,6 +140261,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอต้องการมั้ย?",
         game = 0,
         video = {
@@ -138868,6 +140356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ปล่อยให้เป็นหน้าที่ฉัน! เป็นวันหยุดของฉันด้วย เราจะหยุดพักผ่อนวันนี้ให้เต็มที่!",
         game = 0,
         video = {
@@ -138961,6 +140450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหมายความว่าทำไมเธอถึงเก็บใบปลิวไว้?",
         game = 0,
         video = {
@@ -139054,6 +140544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอมองฉันอย่างสงสัย",
         game = 0,
         video = {
@@ -139148,6 +140639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่มีทาง!",
         game = 0,
         video = {
@@ -139241,6 +140733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "จำเป็นด้วยเหรอ? ฉันรู้สึกผ่อนคลายเมื่ออยู่กับคุณ %s",
         game = 0,
         video = {
@@ -139334,6 +140827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ก็แน่นอนอยู่แล้ว",
         game = 0,
         video = {
@@ -139427,6 +140921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณกำลังพยายามปลอบใจฉัน %s?",
         game = 0,
         video = {
@@ -139520,6 +141015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หายไป...นั่นมันเรื่องตลกอะไรกัน?",
         game = 0,
         video = {
@@ -139613,6 +141109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พาฉันไป?",
         game = 0,
         video = {
@@ -139706,6 +141203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม?",
         game = 0,
         video = {
@@ -139799,6 +141297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เธอรู้สึกดีขึ้นมั้ย?",
         game = 0,
         video = {
@@ -139892,6 +141391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s อาจยากที่จะรับได้ แต่นั่นคือภารกิจของฉันในฐานะผู้สังเกตการณ์",
         game = 0,
         video = {
@@ -139986,6 +141486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -140079,6 +141580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ในฐานะผู้สังเกตการณ์ ฉันต้องรักษาระยะห่างจาก %s",
         game = 0,
         video = {
@@ -140172,6 +141674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ตกลง...",
         game = 0,
         video = {
@@ -140265,6 +141768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หากภาชนะ %s ไม่ต้องการการเปิดใช้งานระบบ ภารกิจของฉันก็จะเสร็จสมบูรณ์ และฉันจะค่อยๆ สลายตัว",
         game = 0,
         video = {
@@ -140358,6 +141862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เมืองเทนกุใหญ่มาก ฉันไม่ต้องการให้เธอเพียงแค่ดู ฉันสามารถพาเธอไปยังสถานที่เหล่านั้นทั้งหมดด้วย!",
         game = 0,
         video = {
@@ -140451,6 +141956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ผู้สังเกตการณ์...",
         game = 0,
         video = {
@@ -140544,6 +142050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอยกมือขึ้นแล้วตบเบาๆ ต่อ",
         game = 0,
         video = {
@@ -140637,6 +142144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "และเธอเต็มใจที่จะหายไปอย่างนั้นหรือ?",
         game = 0,
         video = {
@@ -140731,6 +142239,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มาอยู่ร่วมกันเหมือนเพื่อนเถอะ",
         game = 0,
         video = {
@@ -140824,6 +142333,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันต้องทำการสังเกตการณ์อย่างเหมาะสม ดังนั้นการรักษาระยะห่างจาก %s จึงเป็นวิธีที่ดีที่สุด แต่สำหรับการปรากฏตัวของฉัน...",
         game = 0,
         video = {
@@ -140917,6 +142427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อย่ากลัวไป %s",
         game = 0,
         video = {
@@ -141010,6 +142521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่มีอะไรที่ฉันสามารถทำได้ในตอนนี้ เป็นเพียงการคาดเดาของฉัน แต่ %s ควรมีคุณสมบัติเป็นภาชนะ",
         game = 0,
         video = {
@@ -141103,6 +142615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มาอยู่ร่วมกันเหมือนเพื่อนเถอะ มายูริ",
         game = 0,
         video = {
@@ -141196,6 +142709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอาจหายไปเมื่อใดก็ได้ ดังนั้น การปรากฏตัวของฉันจึงไม่แน่นอนต่อโลกนี้และใครก็ตามที่อยู่ในนั้น",
         game = 0,
         video = {
@@ -141290,6 +142804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -141383,6 +142898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่ได้พูดถึงเรื่องนั้น",
         game = 0,
         video = {
@@ -141476,6 +142992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพื่อนจะอยู่ร่วมกันได้ยังไง?",
         game = 0,
         video = {
@@ -141569,6 +143086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว...",
         game = 0,
         video = {
@@ -141662,6 +143180,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไมคุณจ้องมองมาที่ฉัน? ฉันทำอะไรผิดรึเปล่า?",
         game = 0,
         video = {
@@ -141755,6 +143274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หา?",
         game = 0,
         video = {
@@ -141848,6 +143368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เพื่อน...คือ เหมือนที่เราเป็นตอนนี้ไง ออกไปเที่ยวและคุยกัน",
         game = 0,
         video = {
@@ -141941,6 +143462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอเค แค่สูงนิดหน่อย แต่ก็ปลอดภัยมาก",
         game = 0,
         video = {
@@ -142034,6 +143556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณโง่รึเปล่า? นั่นไม่ใช่สิ่งที่คุณสามารถพูดออกมาง่ายๆ แบบนี้นะ!",
         game = 0,
         video = {
@@ -142127,6 +143650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันหมายความว่าเธอโอเคมั้ยที่หายไปแบบนั้น?",
         game = 0,
         video = {
@@ -142220,6 +143744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เข้าใจแล้ว งั้นเราเป็นเพื่อนกันแล้ว?",
         game = 0,
         video = {
@@ -142313,6 +143838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอกอดจี้ด้วยความรัก",
         game = 0,
         video = {
@@ -142406,6 +143932,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำไม?",
         game = 0,
         video = {
@@ -142499,6 +144026,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แม้ว่าฉันจะไม่ใช่ แต่ก็ไม่มีอะไรที่ฉันทำได้ ฉันถูกออกแบบมาอย่างนั้น...",
         game = 0,
         video = {
@@ -142592,6 +144120,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน! เราเป็นเพื่อนกัน และเราจะเป็นเพื่อนที่ดียิ่งขึ้น!",
         game = 0,
         video = {
@@ -142685,6 +144214,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หญิงสาวในชุดเครื่องแบบสีขาวปรากฏตัวต่อหน้าฉัน...มายูริ?",
         game = 0,
         video = {
@@ -142778,6 +144308,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อมยิ้มเป็นรสไอศกรีม รสใหม่ของโคโทริ",
         game = 0,
         video = {
@@ -142871,6 +144402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันขอเข้าใจว่า เธอไม่อยากหายไปใช่มั้ย?",
         game = 0,
         video = {
@@ -142964,6 +144496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แล้ว...หลังจากเราเป็นเพื่อนที่ดีขึ้นแล้ว เราจะไปเดทกันได้มั้ย?",
         game = 0,
         video = {
@@ -143057,6 +144590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันสามารถเชื่อใจคุณได้มั้ย",
         game = 0,
         video = {
@@ -143150,6 +144684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "งั้น...ถือว่าเป็นวันหยุดของเธอ!",
         game = 0,
         video = {
@@ -143243,6 +144778,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -143336,6 +144872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไรนะ? เดท?",
         game = 0,
         video = {
@@ -143429,6 +144966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เฮ้อ...จะเมินเธอแบบนี้ได้ยังไง?",
         game = 0,
         video = {
@@ -143522,6 +145060,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "วันหยุด? หืม มันเป็นศัพท์ที่แปลกสำหรับฉัน",
         game = 0,
         video = {
@@ -143615,6 +145154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ เธออยู่ได้ด้วยพลังสปิริตของทุกคน เธอจะไม่หายไป",
         game = 0,
         video = {
@@ -143708,6 +145248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ เช่นเดียวกับที่ %s ทำกับสปิริตอื่นๆ",
         game = 0,
         video = {
@@ -143801,6 +145342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "พลังพิเศษ? มันคืออะไร?",
         game = 0,
         video = {
@@ -143894,6 +145436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธออยู่ระหว่างการไตร่ตรองอย่างเงียบๆ ราวกับว่ามันเป็นแนวคิดที่ลึกลับ",
         game = 0,
         video = {
@@ -143987,6 +145530,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...",
         game = 0,
         video = {
@@ -144080,6 +145624,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอต้องการไปเดทด้วยมั้ย?",
         game = 0,
         video = {
@@ -144173,6 +145718,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อ๊ะ ขอโทษ...",
         game = 0,
         video = {
@@ -144266,6 +145812,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่. เมื่อเธอเกี่ยวก้อยสาบานแล้ว มันคือคำสัญญาและเธอต้องทำตาม!",
         game = 0,
         video = {
@@ -144359,6 +145906,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ต้องกังวล ฉันจะไม่ปล่อยให้เธอหายไป เพราะงั้นอย่าพูดถึงของที่ระลึกอีกต่อไป",
         game = 0,
         video = {
@@ -144452,6 +146000,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันไม่รู้ แต่เดทจะต้องทำให้มีความสุขแน่",
         game = 0,
         video = {
@@ -144545,6 +146094,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันเห็นว่ามายูริต้องการคำแนะนำจากฉัน",
         game = 0,
         video = {
@@ -144640,6 +146190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่นะ ฉันชอบเธอจริงๆ",
         game = 0,
         video = {
@@ -144733,6 +146284,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน!",
         game = 0,
         video = {
@@ -144826,6 +146378,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถ้าเธอคิดอย่างนั้น ฉันก็อยากไปเดทกับเธอ",
         game = 0,
         video = {
@@ -144919,6 +146472,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธอชูนิ้วก้อยของเธอและสอดประสานกับของฉันอย่างแนบแน่น",
         game = 0,
         video = {
@@ -145012,6 +146566,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เหตุผล? อืม เธอไม่จำเป็นต้องมีเหตุผลในการชอบใครสักคน!",
         game = 0,
         video = {
@@ -145105,6 +146660,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หายไป? เธอหมายถึงอะไร? จะหายไปทำไม? ",
         game = 0,
         video = {
@@ -145198,6 +146754,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แน่นอน! มาเป็นเพื่อนที่ดีขึ้นกัน!",
         game = 0,
         video = {
@@ -145291,6 +146848,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันยังรอคอยวันที่จะได้ไปเดทกับ %s โดยไม่ต้องจองล่วงหน้า",
         game = 0,
         video = {
@@ -145383,6 +146941,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "คุณไม่ต้องการ?",
         game = 0,
         video = {
@@ -145476,6 +147035,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เมื่อพลังสปิริตสะสม ฉันเกิดมาเพื่อเป็นผู้สังเกตการณ์เพื่อประเมินภาชนะ",
         game = 0,
         video = {
@@ -145569,6 +147129,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฮะ? ทำไม?",
         game = 0,
         video = {
@@ -145662,6 +147223,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันคือ...ภาชนะเหรอ?",
         game = 0,
         video = {
@@ -145755,6 +147317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ชะ-ใช่ ฉันอยาก",
         game = 0,
         video = {
@@ -145848,6 +147411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ จนถึงตอนนี้ดูเหมือนว่า %s จะมีคุณสมบัติตามที่คุณทำได้ดีในการรักษาอารมณ์ของสปิริต",
         game = 0,
         video = {
@@ -145941,6 +147505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ครั้งแรกของเธอที่สวนสนุกควรจะควรค่าแก่การจดจำ ใช่มั้ย?",
         game = 0,
         video = {
@@ -146034,6 +147599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "การได้ยินเธอเล่าเรื่องทั้งหมดที่ฉันทำกับสปิริตคนอื่น ทำให้ฉันรู้สึกแย่",
         game = 0,
         video = {
@@ -146127,6 +147693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันเล่นเกมบนบันได จับตุ๊กตาในตู้คีบตุ๊กตา ซื้อสร้อยคอ ชิมอมยิ้มรสไอศกรีมและทั้งหมดนั้น...",
         game = 0,
         video = {
@@ -146220,6 +147787,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "นั่นคือ...ความเธอรู้สึกของเธอ?",
         game = 0,
         video = {
@@ -146313,6 +147881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "แต่...",
         game = 0,
         video = {
@@ -146406,6 +147975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม ฉันด้วย! ตอนนี้เราเป็นเพื่อนกันแล้วนะ มายูริ",
         game = 0,
         video = {
@@ -146502,6 +148072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทุกคนกำลังไปทางนั้น...",
         game = 0,
         video = {
@@ -146595,6 +148166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มันเป็นของฉัน ฉันซื้อมันในร้านหลังจากที่คุณจากไป",
         game = 0,
         video = {
@@ -146688,6 +148260,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อย่าบอกว่าไม่ เดี๋ยวมาเลือกกัน!",
         game = 0,
         video = {
@@ -146781,6 +148354,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "สร้อยเส้นนั้นดูเหมือน...ของยูซุรุ",
         game = 0,
         video = {
@@ -146874,6 +148448,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่ ฉันได้ยินเด็กคนหนึ่งพูดว่ามีงานที่นี่ งานแสดงหรืออะไร...",
         game = 0,
         video = {
@@ -146967,6 +148542,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ใช่! ตอนนี้ฉันไปเดทกับ %s เแล้วใช่มั้ย?",
         game = 0,
         video = {
@@ -147060,6 +148636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -147153,6 +148730,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "หืม คนบ้า!",
         game = 0,
         video = {
@@ -147252,6 +148830,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ช้าก่อน มายูริ!",
         game = 0,
         video = {
@@ -147345,6 +148924,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอโทษ ดูน่ากินจังเลย ฉัน...",
         game = 0,
         video = {
@@ -147441,6 +149021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -147534,6 +149115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เป็นเรื่องธรรมชาติ เมื่อถึงเวลา ฉันจะจางหายไปในความว่างเปล่า",
         game = 0,
         video = {
@@ -147627,6 +149209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "เธออยู่ไหน มายูริ?",
         game = 0,
         video = {
@@ -147721,6 +149304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ถามว่ามีอะไรอยู่ในมือของเธอ",
         game = 0,
         video = {
@@ -147814,6 +149398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ต่างหูพวกนี้เป็นยังไง?",
         game = 0,
         video = {
@@ -147907,6 +149492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันรับต่างหูของเธอด้วยสีหน้าตกตะลึง",
         game = 0,
         video = {
@@ -148000,6 +149586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อุโมงค์ดูก็ยิ่งแน่นขนัดขึ้นไปอีก ทันใดนั้นฉันก็มองไม่เห็นมายูริ",
         game = 0,
         video = {
@@ -148094,6 +149681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันอยากรู้ว่าเธอคิดยังไง",
         game = 0,
         video = {
@@ -148187,6 +149775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "น่ารัก...",
         game = 0,
         video = {
@@ -148280,6 +149869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ไม่ทำไม เธอรักฉันได้ยังไง? เรารู้จักกันในช่วงเวลาสั้นๆ เท่านั้น",
         game = 0,
         video = {
@@ -148373,6 +149963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ออกไปจากที่นี่แล้วดูกัน",
         game = 0,
         video = {
@@ -148466,6 +150057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันแค่อยากรู้ว่าเธอคิดยังไง",
         game = 0,
         video = {
@@ -148559,6 +150151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันชอบของพวกนี้ด้วย ขอโทษนะ เธอช่วยห่อให้ฉันได้มั้ย?",
         game = 0,
         video = {
@@ -148652,6 +150245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อืม! ขอบคุณที่ใช้เวลาร่วมกับฉัน %s!",
         game = 0,
         video = {
@@ -148746,6 +150340,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มา DIY กันเถอะ",
         game = 0,
         video = {
@@ -148839,6 +150434,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันมาเพื่อคุณ ดังนั้นความคิดของฉันจึงไม่สำคัญ",
         game = 0,
         video = {
@@ -148932,6 +150528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ขอบคุณ ฉันจะรักษาของขวัญของคุณ",
         game = 0,
         video = {
@@ -149025,6 +150622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ ชอบมั้ย?",
         game = 0,
         video = {
@@ -149118,6 +150716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "มายูริ ทำไมเธอไม่สนใจเรื่องราวที่เร้าอารมณ์แบบนี้",
         game = 0,
         video = {
@@ -149211,6 +150810,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "อะไร? ฉันหมายถึง อะไรก็ได้ ชอบกินอะไร ชอบสีไหน...",
         game = 0,
         video = {
@@ -149305,6 +150905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ทำให้เย็นลงอย่างรวดเร็วหลังจากใช้ความร้อน",
         game = 0,
         video = {
@@ -149398,6 +150999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "โอ้? เธอไม่ชอบ?",
         game = 0,
         video = {
@@ -149491,6 +151093,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "ฉันชอบ! ฉันรัก %s ที่สุด!",
         game = 0,
         video = {

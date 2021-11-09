@@ -60,6 +60,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, 그럼 %s, 부탁할게요.",
         game = 0,
         video = {
@@ -153,6 +154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맞아요. 오늘은 유즈루와 %s의 데이트 날이에요. 그래서 %s에게 이곳으로 와달라고 한 거예요. 불편하게 생각하는 건 아니겠죠?",
         game = 0,
         video = {
@@ -253,6 +255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "야옹—!",
         game = 0,
         video = {
@@ -347,6 +350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "위아래로 막대기를 흔든다",
         game = 0,
         video = {
@@ -440,6 +444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 더 빨개진 거지...? 병원에 가야되는 거 아냐!?",
         game = 0,
         video = {
@@ -533,6 +538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그거 정말 기대되는걸.",
         game = 0,
         video = {
@@ -627,6 +633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아르바이트를 하는 유즈루",
         game = 0,
         video = {
@@ -720,6 +727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 부자연스럽게 치맛자락을 붙잡았다.",
         game = 0,
         video = {
@@ -813,6 +821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 구급상자를 가지고 와서 연고를 꺼냈다.",
         game = 0,
         video = {
@@ -906,6 +915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좋아! 이것도 인연인데 내가 잘 데리고 놀아줘야겠네.",
         game = 0,
         video = {
@@ -1000,6 +1010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루에게 조심하라고 한다",
         game = 0,
         video = {
@@ -1093,6 +1104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 카구야가 라떼아트를 잘한다고?",
         game = 0,
         video = {
@@ -1186,6 +1198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "확인, 다른 고양이들도 필요할 것 같아요. 하지만 수가 너무 많으니까, 다른 점원들의 도움이 필요할 것 같아요.",
         game = 0,
         video = {
@@ -1279,6 +1292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무슨 방법인데?",
         game = 0,
         video = {
@@ -1372,6 +1386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나. 꾸륵아, 간식 먹자~",
         game = 0,
         video = {
@@ -1465,6 +1480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "걱정, 커피에 데인 것 같아요. 긴급 치료가 필요하겠어요.",
         game = 0,
         video = {
@@ -1560,6 +1576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "역시 무척 실용적인 기술이네. 유즈루가 이 일을 맡은 이유가 있었구나.",
         game = 0,
         video = {
@@ -1653,6 +1670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이어지는 시간 동안, 우리는 커피에 대한 것도 잊어버리고 고양이들을 돌봐 주었다.",
         game = 0,
         video = {
@@ -1746,6 +1764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 곁에 있던 메인쿤 한 마리가 갑자기 기운을 차렸다.",
         game = 0,
         video = {
@@ -1839,6 +1858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "복슬복슬한 깃털이 고양이의 머리 위를 스치자, 꾸륵이는 마침내 발톱을 드러냈다.",
         game = 0,
         video = {
@@ -1932,6 +1952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "탄식, %s, 너무 긴장을 했군요.",
         game = 0,
         video = {
@@ -2025,6 +2046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "요청, %s, 우선 앉아서 기다리고 계세요. 유즈루는 준비 작업을 해야 하니까요.",
         game = 0,
         video = {
@@ -2118,6 +2140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 유즈루의 뜨거운 시선을 피했고, 서둘러 아르바이트에 대한 이야기를 꺼냈다.",
         game = 0,
         video = {
@@ -2211,6 +2234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "보충, 만약 복잡한 초상화 같은 거라면 유즈루는 할 수 없어요. 유즈루는 그저 대리 근무 메이드일 뿐이니까요.",
         game = 0,
         video = {
@@ -2304,6 +2328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 직접 하면 돼...",
         game = 0,
         video = {
@@ -2397,6 +2422,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 손을 떨며 살며시 유즈루의 배를 쓰다듬어 주었고, 유즈루는 편안하게 기지개를 폈다.",
         game = 0,
         video = {
@@ -2490,6 +2516,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건 다음에... 다시 생각해 볼게.",
         game = 0,
         video = {
@@ -2588,6 +2615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "조심해!",
         game = 0,
         video = {
@@ -2681,6 +2709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 전에 카페에서 대결을 할 때면 항상 카구야가 이기곤 했어요.",
         game = 0,
         video = {
@@ -2774,6 +2803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 도와줄까?",
         game = 0,
         video = {
@@ -2867,6 +2897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "요청, 다음에는 유즈루의 고양이 메이드 서비스를 거절하지 말아주세요.",
         game = 0,
         video = {
@@ -2960,6 +2991,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "겁주지 마. 심장도 견딜 수가 없단 말이야...",
         game = 0,
         video = {
@@ -3053,6 +3085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "실책, 역시 %s의 성격상 부끄러움이 많군요.",
         game = 0,
         video = {
@@ -3146,6 +3179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루, 얼른 일어나...! 누가 오고 있는 것 같아...",
         game = 0,
         video = {
@@ -3240,6 +3274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "움직이면 안 돼",
         game = 0,
         video = {
@@ -3333,6 +3368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 내 손을 자신의 입술에 가져다댔고, 따뜻한 기운이 내 손가락에 느껴졌다...",
         game = 0,
         video = {
@@ -3426,6 +3462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 몸을 뒤집어 나를 바라봤고, 나는 귀가 빨개지고 말았다.",
         game = 0,
         video = {
@@ -3519,6 +3556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응...",
         game = 0,
         video = {
@@ -3612,6 +3650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 손에 쥔 간식을 흔들었지만, 꾸륵이는 그저 눈만 동그랗게 뜰 뿐이었다.",
         game = 0,
         video = {
@@ -3705,6 +3744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "진지, 고양이에게 이건 신뢰의 표현이라구요.",
         game = 0,
         video = {
@@ -3798,6 +3838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "의문, 어떤 걸 가르쳐 줬나요?",
         game = 0,
         video = {
@@ -3891,6 +3932,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그나저나 고양이가 배를 드러낸다는 건, 널 무척 신뢰한다는 거잖아? 나한테도 한번 보여줄 수 있을까?",
         game = 0,
         video = {
@@ -3984,6 +4026,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오늘은 정말 특별한 데이트였고, 나는 무척이나 마음이 편안했다.",
         game = 0,
         video = {
@@ -4077,6 +4120,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -4170,6 +4214,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "배? 그...그건 좀 그렇지 않을까.",
         game = 0,
         video = {
@@ -4263,6 +4308,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양아, 너도 커피 마시고 싶은 거야?",
         game = 0,
         video = {
@@ -4356,6 +4402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어서 봐! 에? 잠깐만... 왜 안 노는 건데?",
         game = 0,
         video = {
@@ -4449,6 +4496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그...그래? 하지만 조금 부어오른 것 같은데...",
         game = 0,
         video = {
@@ -4542,6 +4590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기대, 이제 유즈루는 고양이예요. %s, 그럼 고양이의 배를 쓰다듬어 줘야죠.",
         game = 0,
         video = {
@@ -4635,6 +4684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "조...좋아.",
         game = 0,
         video = {
@@ -4728,6 +4778,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응……",
         game = 0,
         video = {
@@ -4821,6 +4872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루도 여기서 아르바이트를 할 줄은 몰랐어... 그냥 평범한 데이트일 거라고 생각했는데 말이야.",
         game = 0,
         video = {
@@ -4914,6 +4966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 이미 충분히 대단하니까. 그럼 내가 골라볼게.",
         game = 0,
         video = {
@@ -5009,6 +5062,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 유즈루는 내 말을 듣지 않고, 곧바로 내 손에 연고를 바르기 시작했다.",
         game = 0,
         video = {
@@ -5102,6 +5156,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이 메이드의 서비스... 정말 대단해!",
         game = 0,
         video = {
@@ -5194,6 +5249,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "신기, %s, 역시 이런 고양이를 좋아하는 건가요?",
         game = 0,
         video = {
@@ -5288,6 +5344,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럴 리가. 유즈루의 그런 모습은 더 좋은데...",
         game = 0,
         video = {
@@ -5381,6 +5438,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 손길에 유즈루는 더욱 긴장을 풀었고, 내 무릎 위에 누웠다.",
         game = 0,
         video = {
@@ -5475,6 +5533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "배가 부른 걸까...",
         game = 0,
         video = {
@@ -5568,6 +5627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "?",
         game = 0,
         video = {
@@ -5662,6 +5722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루가 불어주면 돼",
         game = 0,
         video = {
@@ -5755,6 +5816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "경탄, 비록 유즈루를 도와주겠다는 건 기쁘지만, 이건 유즈루의 일이니까, %s에게 폐를 끼칠 순 없어요.",
         game = 0,
         video = {
@@ -5848,6 +5910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "야옹~",
         game = 0,
         video = {
@@ -5942,6 +6005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -6036,6 +6100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루의 머리를 쓰다듬는다",
         game = 0,
         video = {
@@ -6130,6 +6195,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루의 턱을 쓰다듬는다",
         game = 0,
         video = {
@@ -6223,6 +6289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "쓰다듬어 달라는 걸까? 내가 잘못 이해한 게 아니겠지?",
         game = 0,
         video = {
@@ -6318,6 +6385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잠깐만... 너무 가까워...",
         game = 0,
         video = {
@@ -6411,6 +6479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그게... 설마 유즈루의 말은...",
         game = 0,
         video = {
@@ -6504,6 +6573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "질문, 달라붙는 고양이가 왔는데 어째서 %s의 반응이 없는 건가요?",
         game = 0,
         video = {
@@ -6597,6 +6667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 이래서는 체면이 서지 않는걸...",
         game = 0,
         video = {
@@ -6690,6 +6761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 당황하며 말했고, 몸이 굳어져 함부로 움직일 수 없었다.",
         game = 0,
         video = {
@@ -6783,6 +6855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이와 놀 때는 야생에서 고양이가 먹이를 잡을 때와 같은 상황을 만들어주는 게 좋다고 했거든.",
         game = 0,
         video = {
@@ -6876,6 +6949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안심, 그럼 %s에게 보여줄 테니, 잘 보고 배워 보세요.",
         game = 0,
         video = {
@@ -6969,6 +7043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잠깐만... 자꾸 그러면... 나...",
         game = 0,
         video = {
@@ -7062,6 +7137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오늘은 유즈루와 데이트를 하기로 약속한 날이다. 하지만 이제 곧 약속한 시간을 넘기려 하고 있다!",
         game = 0,
         video = {
@@ -7155,6 +7231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 고양이 점원의 [특별 서비스]예요. %s만을 위한 붙임성 있는 고양이를 받아주세요.",
         game = 0,
         video = {
@@ -7248,6 +7325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "냥~!",
         game = 0,
         video = {
@@ -7341,6 +7419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "탄식, %s, 막대기를 휘두르는 방법이 틀렸어요.",
         game = 0,
         video = {
@@ -7434,6 +7513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "제안, 반창고를 붙여 주세요. 조금 부었을 뿐이니, 건드리지 않게 해 두면 될 거예요.",
         game = 0,
         video = {
@@ -7527,6 +7607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -7620,6 +7701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "야옹~ 야옹~ 이렇게 말인가요?",
         game = 0,
         video = {
@@ -7713,6 +7795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 주변을 둘러봤고, 지금은 손님이 별로 없어서 무척 조용했다. 귀여운 고양이들은 잠을 자거나, 생기발랄한 모습으로 손님들을 바라보고 있었다.",
         game = 0,
         video = {
@@ -7806,6 +7889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사과, 유즈루는 지금 조금 바빠서 %s 곁에 계속 있어 줄 수가 없어요.",
         game = 0,
         video = {
@@ -7899,6 +7983,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사...사실...",
         game = 0,
         video = {
@@ -7992,6 +8077,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "후... 후우...",
         game = 0,
         video = {
@@ -8085,6 +8171,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 갑자기 내 어깨에 가까이 붙었고, 나는 순식간에 몸이 굳어버렸다.",
         game = 0,
         video = {
@@ -8178,6 +8265,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맡겨달라고? 무슨 뜻이야?",
         game = 0,
         video = {
@@ -8271,6 +8359,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "짙은 색의 원피스와 흰색 꽃무늬 앞치마, 전형적인 메이드 복장과 유즈루의 무표정한 얼굴은 대비를 이루고 있었다.",
         game = 0,
         video = {
@@ -8364,6 +8453,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안심, %s, 걱정하지 말고 유즈루에게 맡겨주세요.",
         game = 0,
         video = {
@@ -8457,6 +8547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "붙임성이 전혀 느껴지질 않아...",
         game = 0,
         video = {
@@ -8550,6 +8641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 깜짝 놀라 발걸음을 멈추었고, 메인쿤은 그녀의 앞을 빠르게 달려갔다.",
         game = 0,
         video = {
@@ -8643,6 +8735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "카구야는 바람의 아이답게 라떼아트도 정말 멋있거든요.",
         game = 0,
         video = {
@@ -8736,6 +8829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아. 실력이 좋은 유즈루와 함께 고양이 빗질을 하면 나도 즐거울 테니까!",
         game = 0,
         video = {
@@ -8830,6 +8924,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에, 저기... 그럼 커피 한잔?",
         game = 0,
         video = {
@@ -8923,6 +9018,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, 하지만 고양이는 개성이 있어서, 완전히 달라붙는 그런 고양이는 찾기 힘들어요.",
         game = 0,
         video = {
@@ -9016,6 +9112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그래? 저기... 붙임성 있는 고양이는 다들 좋아하지 않아?",
         game = 0,
         video = {
@@ -9109,6 +9206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 내 눈을 지긋이 바라봤고, 나는 무슨 일이 일어난 건지 알 수 없었다.",
         game = 0,
         video = {
@@ -9202,6 +9300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "예를 들면 내 다리에 얼굴을 비비거나, 내 품에 뛰어오르거나 말이야.",
         game = 0,
         video = {
@@ -9295,6 +9394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "촉촉한 느낌이 손가락을 스치고 지나갔고, 내 심장은 순식간에 뛰는 것을 멈춘 것만 같았다.",
         game = 0,
         video = {
@@ -9388,6 +9488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아... 그래, 자~ 이리 와~",
         game = 0,
         video = {
@@ -9481,6 +9582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 수납장에서 방울이 달린 막대기를 꺼냈다.",
         game = 0,
         video = {
@@ -9574,6 +9676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "적극, %s, 간식을 더 가까이 가지고 가 보세요.",
         game = 0,
         video = {
@@ -9667,6 +9770,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "제안, %s도 해볼 건가요? 같이 놀아주세요.",
         game = 0,
         video = {
@@ -9760,6 +9864,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "예를 들면 막대기에 달린 깃털은 곤충이나 새 같으니까, 낮게 잡고 닿을 수 있는 곳에서 좌우로 흔들면 돼.",
         game = 0,
         video = {
@@ -9853,6 +9958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 유즈루는 애완동물용 빗을 꺼냈고, 지나가던 흰 고양이를 안아들었다.",
         game = 0,
         video = {
@@ -9946,6 +10052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "보충, 꾸륵이는 이 가게에서 가장 인기 있는 고양이예요.",
         game = 0,
         video = {
@@ -10039,6 +10146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 상가까지 전력으로 뛰어갔고, 마침내 약속한 고양이 카페의 입구에 도착했다.",
         game = 0,
         video = {
@@ -10132,6 +10240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 재미있는 이름이네.",
         game = 0,
         video = {
@@ -10225,6 +10334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도... 고양이는 유즈루의 옷에 달린 나비 리본에 시선이 간 모양이다!",
         game = 0,
         video = {
@@ -10318,6 +10428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 이것도 방법이 있단 말이야?",
         game = 0,
         video = {
@@ -10411,6 +10522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "반창고만 붙이면... 될까?",
         game = 0,
         video = {
@@ -10504,6 +10616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대답, 꾸륵이라고 해요. 사람들을 좋아하고, 자주 꾸륵 꾸륵 하는 소리를 내거든요.",
         game = 0,
         video = {
@@ -10597,6 +10710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 기운이 넘쳐 보이네~ 이름이 뭐야?",
         game = 0,
         video = {
@@ -10690,6 +10804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 바쁘게 뭔가를 준비하고 있었고, 메이드복을 입은 유즈루는 너무나도 귀여웠다...",
         game = 0,
         video = {
@@ -10783,6 +10898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아. 탓하려던 건 아니야... 내가 도와줄까?",
         game = 0,
         video = {
@@ -10876,6 +10992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사실 뭐? 이래서는 전혀 부정할 수가 없잖아...",
         game = 0,
         video = {
@@ -10969,6 +11086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시원한 느낌이 손끝을 스치고 지나가자, 내 얼굴은 오히려 뜨거워지기 시작했다...",
         game = 0,
         video = {
@@ -11062,6 +11180,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고개를 돌린 나는 한 삼색 고양이가 생기 넘치는 눈빛으로 날 쳐다보는 것을 발견했다.",
         game = 0,
         video = {
@@ -11155,6 +11274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 내 뒤에?",
         game = 0,
         video = {
@@ -11248,6 +11368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사실 이런 모습의 유즈루도 참 좋은걸...",
         game = 0,
         video = {
@@ -11341,6 +11462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, 그러고 보니 이 고양이 카페에서 가장 활발한 고양이가 지금 %s 뒤에 있네요.",
         game = 0,
         video = {
@@ -11434,6 +11556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "제안, %s, 꾸륵이와 같이 운동을 해 보세요.",
         game = 0,
         video = {
@@ -11527,6 +11650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 유즈루가 들고 있던 쟁반이 흔들리더니, 잔에 있던 커피가 엎어졌다.",
         game = 0,
         video = {
@@ -11620,6 +11744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "카구야 이야기가 나오자 유즈루의 얼굴에는 온화한 미소가 번졌다.",
         game = 0,
         video = {
@@ -11715,6 +11840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, 그럼 %s, 부탁할게요.",
         game = 0,
         video = {
@@ -11808,6 +11934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이들이 활기찬 모습으로 사방을 다니는 걸 보면 기분이 좋아져.",
         game = 0,
         video = {
@@ -11902,6 +12029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "커피 한잔 부탁해.",
         game = 0,
         video = {
@@ -11995,6 +12123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알겠어. 자, 여기 맛있는 게 있어~",
         game = 0,
         video = {
@@ -12089,6 +12218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루를 붙잡는다",
         game = 0,
         video = {
@@ -12182,6 +12312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 주머니에서 고양이 간식을 꺼냈다.",
         game = 0,
         video = {
@@ -12275,6 +12406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루가... 내 손가락을 핥은 것이었다!",
         game = 0,
         video = {
@@ -12368,6 +12500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "긍정, 한번 해볼래요? 간식을 줘보세요.",
         game = 0,
         video = {
@@ -12461,6 +12594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이 고양이... 이름이 시로야?",
         game = 0,
         video = {
@@ -12554,6 +12688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알겠어! 자, 맛있는 간식이야~",
         game = 0,
         video = {
@@ -12647,6 +12782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "흰색 고양이가 내 발 근처에 누워서 무료하다는 듯이 꼬리를 흔들고 있었다.",
         game = 0,
         video = {
@@ -12740,6 +12876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "경탄, 꾸륵이가 정말로 %s의 막대기를 따라 달리고 있어요. 무척 흥분한 것 같네요.",
         game = 0,
         video = {
@@ -12833,6 +12970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "착하지...",
         game = 0,
         video = {
@@ -12926,6 +13064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 이 고양이, 언제 여기 온 거지...",
         game = 0,
         video = {
@@ -13020,6 +13159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -13113,6 +13253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, 마침 %s 곁에 있는 시로도 무척 온순해요.",
         game = 0,
         video = {
@@ -13208,6 +13349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "역시나 고양이는 맹렬하게 유즈루를 향해 달려들었다—",
         game = 0,
         video = {
@@ -13304,6 +13446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 고양이는 사냥의 본능이 있어요. 이 막대기는 고양이가 야생에서 사냥감을 잡을 때의 모습을 고려해 만든 거예요.",
         game = 0,
         video = {
@@ -13397,6 +13540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네, 유즈루 대신 골라주세요.",
         game = 0,
         video = {
@@ -13490,6 +13634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "온순하게 곁에 누워 있는 모습을 보면 치유되는 기분이라니까.",
         game = 0,
         video = {
@@ -13584,6 +13729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "붙임성 있는 고양이",
         game = 0,
         video = {
@@ -13677,6 +13823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "질문, 주인님, 뭔가 필요하신가요?",
         game = 0,
         video = {
@@ -13770,6 +13917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "진지, 이건 유즈루가 해야할 일이에요. 다른 사람에게 폐를 끼칠 순 없어요.",
         game = 0,
         video = {
@@ -13863,6 +14011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무방, %s, 오늘은 유즈루의 주인님이니까, 무엇이든 괜찮은걸요.",
         game = 0,
         video = {
@@ -13956,6 +14105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기... 고마워.",
         game = 0,
         video = {
@@ -14050,6 +14200,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "활발한 고양이",
         game = 0,
         video = {
@@ -14144,6 +14295,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "온순한 고양이",
         game = 0,
         video = {
@@ -14237,6 +14389,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 중얼거렸고, 유즈루에게서 눈을 뗄 수가 없었다.",
         game = 0,
         video = {
@@ -14330,6 +14483,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 본심에 따라 솔직하게 말하기로 했다.",
         game = 0,
         video = {
@@ -14423,6 +14577,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아아... 막대 장난감 말이야?",
         game = 0,
         video = {
@@ -14516,6 +14671,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고민, 그럼 노력해 볼게요.",
         game = 0,
         video = {
@@ -14609,6 +14765,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루, 그 말은...?",
         game = 0,
         video = {
@@ -14702,6 +14859,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이어지는 시간 동안, 나와 유즈루는 함께 고양이들을 돌보았고, 나도 많은 전문 지식을 배울 수 있었다.",
         game = 0,
         video = {
@@ -14795,6 +14953,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "차단, 해명할 필요는 없어요. 유즈루는 이해하니까요.",
         game = 0,
         video = {
@@ -14888,6 +15047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, 잠시만 기다려 주세요. 주인님.",
         game = 0,
         video = {
@@ -14981,6 +15141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, %s 혼자 심심할까 걱정이 돼서요. 그래서 고양이 간식을 좀 가져왔어요.",
         game = 0,
         video = {
@@ -15074,6 +15235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "분노, %s에게는 메이드 점원보다 고양이가 더 신경이 쓰이는 모양이군요.",
         game = 0,
         video = {
@@ -15167,6 +15329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이때 바 근처에 있던 아메리칸 쇼트헤어가 울기 시작했고, 내 거짓말에 불만이 있는 것처럼 보였다.",
         game = 0,
         video = {
@@ -15266,6 +15429,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이, 이게 바로 네가 말한... 방법이었어!?",
         game = 0,
         video = {
@@ -15359,6 +15523,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "냥~!",
         game = 0,
         video = {
@@ -15452,6 +15617,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루, 왜 꾸륵이가 반응을 보이지 않는 걸까?",
         game = 0,
         video = {
@@ -15545,6 +15711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 발꿈치를 들고 손을 꾸륵이의 앞에 펼쳐 보았지만, 꾸륵이는 캣타워에서 뛰어내렸다.",
         game = 0,
         video = {
@@ -15638,6 +15805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이는 말랑말랑하고 부드러워서 기분이 좋아지는 것 같았다.",
         game = 0,
         video = {
@@ -15731,6 +15899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자, 뛰어올라!",
         game = 0,
         video = {
@@ -15824,6 +15993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루가 손으로 고양이의 턱을 긁어주자, 고양이는 꾸룩꾸룩 소리를 내더니 유즈루의 손에 얼굴을 비볐고, 마침내 배를 드러내고 바닥에 누웠다.",
         game = 0,
         video = {
@@ -15917,6 +16087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "신기, %s도 해볼 건가요?",
         game = 0,
         video = {
@@ -16010,6 +16181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "딸랑~",
         game = 0,
         video = {
@@ -16103,6 +16275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나... 그럼 유즈루도 할일은 끝난 거야?",
         game = 0,
         video = {
@@ -16196,6 +16369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -16289,6 +16463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "예시, 깃털은 곤충이나 새를 모방한 거니까, 고양이의 주변에서 좌우로 천천히 흔들어야 해요.",
         game = 0,
         video = {
@@ -16382,6 +16557,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알았어.",
         game = 0,
         video = {
@@ -16475,6 +16651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응? 이건...",
         game = 0,
         video = {
@@ -16568,6 +16745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그런가요? 그럼 이걸 줄게요.",
         game = 0,
         video = {
@@ -16661,6 +16839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이런, 몰래 쳐다보던 걸 들켜버렸다...",
         game = 0,
         video = {
@@ -16754,6 +16933,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기대, 준비 작업을 마치고 유즈루가 다시 주인님을 모실게요.",
         game = 0,
         video = {
@@ -16848,6 +17028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이를 보고 있어",
         game = 0,
         video = {
@@ -16941,6 +17122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 이건 '꾸륵이'라는 이름의 고양이 전용 그림이에요. 우리 가게의 마스코트예요.",
         game = 0,
         video = {
@@ -17034,6 +17216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이런, 실수로 솔직하게 말해버렸다...",
         game = 0,
         video = {
@@ -17128,6 +17311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루를 보고 있어",
         game = 0,
         video = {
@@ -17221,6 +17405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "신기, %s, 뭐가 좋다는 거죠?",
         game = 0,
         video = {
@@ -17315,6 +17500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무것도 안 봤어",
         game = 0,
         video = {
@@ -17408,6 +17594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정답, 배가 부르면 운동이 필요해요. 고양이도 예외는 아니에요.",
         game = 0,
         video = {
@@ -17501,6 +17688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "커피가 유즈루의 손가락에 닿았고, 나는 다급히 쟁반을 받았다.",
         game = 0,
         video = {
@@ -17595,6 +17783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루에게 알려달라고 한다",
         game = 0,
         video = {
@@ -17688,6 +17877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이 카페의 점원은 정말 쉽지 않은 일이구나...",
         game = 0,
         video = {
@@ -17781,6 +17971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "야옹~ 야옹~",
         game = 0,
         video = {
@@ -17874,6 +18065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마음속으로 한숨을 돌렸다. 유즈루는 능숙하게 기계를 조작했고, 조금도 대신 일하러 온 메이드처럼 보이지 않았다.",
         game = 0,
         video = {
@@ -17968,6 +18160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "날 좋아하지 않는 것 같아",
         game = 0,
         video = {
@@ -18061,6 +18254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루, 내가 자상하다고 칭찬하는 거야?",
         game = 0,
         video = {
@@ -18155,6 +18349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루가 도와줘!",
         game = 0,
         video = {
@@ -18248,6 +18443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "진지, 오래된 방법이에요. 아주 효과적이라구요.",
         game = 0,
         video = {
@@ -18341,6 +18537,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "햇살이 유리 너머로 들어왔고, 자상한 소녀와 귀여운 고양이... 이런 아름다운 모습을 나는 차마 방해할 수 없었다.",
         game = 0,
         video = {
@@ -18433,6 +18630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유혹, 사실 오늘은 특별한 메이드의 서비스도 있어요.",
         game = 0,
         video = {
@@ -18526,6 +18724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어째서...",
         game = 0,
         video = {
@@ -18619,6 +18818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그냥 메이드복이라면 흔히 볼 수 있잖아. 만약 유즈루가 고양이 분장을 해준다면 더욱 귀여울 것 같아.",
         game = 0,
         video = {
@@ -18713,6 +18913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가볍게 유즈루의 손을 불어준다",
         game = 0,
         video = {
@@ -18806,6 +19007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "야옹~ 야옹~",
         game = 0,
         video = {
@@ -18899,6 +19101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유감, 비록 고양이 귀는 없지만, 고양이 메이드 서비스는 있거든요.",
         game = 0,
         video = {
@@ -18992,6 +19195,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "후우... 안 늦었겠지?",
         game = 0,
         video = {
@@ -19085,6 +19289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -19178,6 +19383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 유즈루가 질투를 하는 것 같지? 내 착각이겠지.",
         game = 0,
         video = {
@@ -19271,6 +19477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 쪼그려 앉아 시범을 보여주기 시작했다.",
         game = 0,
         video = {
@@ -19364,6 +19571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 즉시 고양이 그림이 있는 반창고를 골라서 유즈루의 손가락에 붙여 주었다.",
         game = 0,
         video = {
@@ -19457,6 +19665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "농담이야. 유즈루, 화내지 마. 사실 그냥 고양이와 메이드복을 보고 멋대로 떠올려봤을 뿐이야...",
         game = 0,
         video = {
@@ -19550,6 +19759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "경탄, %s, 그런 제안을 할 줄은 몰랐네요.",
         game = 0,
         video = {
@@ -19643,6 +19853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기...",
         game = 0,
         video = {
@@ -19737,6 +19948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 그럼 기다릴게.",
         game = 0,
         video = {
@@ -19830,6 +20042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 눈을 감고 더 지나친 요구를 했고, 유즈루는 잠깐 동안 얼어붙었다.",
         game = 0,
         video = {
@@ -19923,6 +20136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그래?",
         game = 0,
         video = {
@@ -20017,6 +20231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "혹시 고양이 메이드도 있어?",
         game = 0,
         video = {
@@ -20110,6 +20325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "커피는 금방 완성됐지만, 유즈루는 우유 주전자를 들고 망설이고 있었다.",
         game = 0,
         video = {
@@ -20203,6 +20419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에... 내 말은 그러니까... 이런 모습의 유즈루를 보는 것도 쉽지 않다는 거지.",
         game = 0,
         video = {
@@ -20296,6 +20513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -20389,6 +20607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 복슬복슬한 털이 달린 막대기를 내 손에 건넸다.",
         game = 0,
         video = {
@@ -20482,6 +20701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "방금 전의 자연스럽던 모습과 달리, 지금 유즈루는 마치 강적을 만난 듯한 모습이었다.",
         game = 0,
         video = {
@@ -20575,6 +20795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "경탄, 아무래도 시로가 %s에게 호감이 있는 모양이네요. 안마를 해달라고 하고 있어요.",
         game = 0,
         video = {
@@ -20671,6 +20892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -20764,6 +20986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 내게 가볍게 인사를 하고는 평소의 표정으로 자리를 떠났다.",
         game = 0,
         video = {
@@ -20857,6 +21080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "커피는 금방 완성됐지만, 유즈루는 우유 주전자를 들고 망설이고 있었다.",
         game = 0,
         video = {
@@ -20950,6 +21174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "봐, 날 전혀 신경 쓰지 않는걸...",
         game = 0,
         video = {
@@ -21043,6 +21268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무방, 그럼 유즈루가 주인님을 위해 커피를 준비할게요.",
         game = 0,
         video = {
@@ -21136,6 +21362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, %s, 안심하고 유즈루에게 맡겨주세요.",
         game = 0,
         video = {
@@ -21235,6 +21462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "누가 가르쳐준 거야!",
         game = 0,
         video = {
@@ -21328,6 +21556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마음이라니 무슨... 이상한 말하지 마.",
         game = 0,
         video = {
@@ -21422,6 +21651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이 간식을 좀 살게.",
         game = 0,
         video = {
@@ -21515,6 +21745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "의아, 평소의 꾸륵이이는 활발하고 붙임성이 좋은데 말이에요...",
         game = 0,
         video = {
@@ -21610,6 +21841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 손가락을 뻗어 나의 가슴을 콕콕 찔렀다.",
         game = 0,
         video = {
@@ -21703,6 +21935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루의 시선에 나는 체념하는 수밖에 없었다.",
         game = 0,
         video = {
@@ -21796,6 +22029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 귀여워! 정말 누웠잖아!",
         game = 0,
         video = {
@@ -21889,6 +22123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, 역시 부끄러운 모양이군요, %s. 하지만 유즈루는 %s의 마음을 이해해요...",
         game = 0,
         video = {
@@ -21982,6 +22217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기쁨, 드디어 왔군요.",
         game = 0,
         video = {
@@ -22075,6 +22311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 주춤하며 뒤로 물러났다.",
         game = 0,
         video = {
@@ -22168,6 +22405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "평정, 그것도 그래요. 고양이 카페에 오는 가장 큰 이유는 역시 고양이와 놀기 위해서니까요.",
         game = 0,
         video = {
@@ -22262,6 +22500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -22355,6 +22594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기쁨, 정말 귀여워 보이네요.",
         game = 0,
         video = {
@@ -22448,6 +22688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 갑자기 가까이 다가왔고, 팔에 부드러운 감촉이 느껴졌다...",
         game = 0,
         video = {
@@ -22542,6 +22783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "허가, 유즈루는 이제 %s의 전용 메이드예요. 주인님, 분부하실 일이 있으신가요?",
         game = 0,
         video = {
@@ -22635,6 +22877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 특별한 서비스라니...?",
         game = 0,
         video = {
@@ -22728,6 +22971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 자리에 앉아서 지나가는 고양이들에게 장난을 쳤지만, 내 시선은 여전히 유즈루에게서 뗄 수 없었다.",
         game = 0,
         video = {
@@ -22821,6 +23065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하, 숨길 것도 없잖아. 유즈루의 이런 모습은 정말 매력적이니까...",
         game = 0,
         video = {
@@ -22914,6 +23159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "탐색, 아... 저 위에서 자고 있네요.",
         game = 0,
         video = {
@@ -23007,6 +23253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "의외, %s, 이렇게 솔직할 줄은 몰랐네요.",
         game = 0,
         video = {
@@ -23100,6 +23347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 꺼낸 이상, 솔직하게 인정하자.",
         game = 0,
         video = {
@@ -23193,6 +23441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "구체, 어떤 게 보기 쉽지 않다는 건가요?",
         game = 0,
         video = {
@@ -23287,6 +23536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오리가미의 말은 듣지 마!",
         game = 0,
         video = {
@@ -23380,6 +23630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기대, %s, 과연 꾸륵이를 유인할 수 있을까요?",
         game = 0,
         video = {
@@ -23473,6 +23724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고통, 아파요...",
         game = 0,
         video = {
@@ -23566,6 +23818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안마? 그런 거야?",
         game = 0,
         video = {
@@ -23660,6 +23913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 두근거렸어.",
         game = 0,
         video = {
@@ -23753,6 +24007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자신, 오늘 유즈루가 %s의 마음을 두근거리게 만들었나요?",
         game = 0,
         video = {
@@ -23847,6 +24102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그래?",
         game = 0,
         video = {
@@ -23940,6 +24196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 실망하며 한숨을 쉬었다. 설마 정말 고양이가 나를 좋아하지 않는 걸까?",
         game = 0,
         video = {
@@ -24034,6 +24291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "꽃잎",
         game = 0,
         video = {
@@ -24127,6 +24385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 부탁할게.",
         game = 0,
         video = {
@@ -24220,6 +24479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "의문, 그럼 %s, 느낌이 어떤데요?",
         game = 0,
         video = {
@@ -24313,6 +24573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에엣!?",
         game = 0,
         video = {
@@ -24406,6 +24667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, 이건 고양이 건조 간식과 츄르예요. 주인님.",
         game = 0,
         video = {
@@ -24499,6 +24761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "감탄, 고양이와 메이드복이면 %s에 대한 살상력이 두 배가 될 거라고 했거든요.역시 마스터 오리가미예요.",
         game = 0,
         video = {
@@ -24593,6 +24856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이를 붙잡는다",
         game = 0,
         video = {
@@ -24686,6 +24950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아...알겠어.",
         game = 0,
         video = {
@@ -24779,6 +25044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기쁨, 시로는 빗질을 정말 좋아하거든요. 마치 안마를 받는 것처럼 말이에요.",
         game = 0,
         video = {
@@ -24878,6 +25144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오리가미? 오리가미가 뭐라고 했는데?",
         game = 0,
         video = {
@@ -24971,6 +25238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 메이드 복장을 입고 입구에서 나를 맞이했다!",
         game = 0,
         video = {
@@ -25064,6 +25332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "역시 마스터 오리가미의 말이 맞았어요.",
         game = 0,
         video = {
@@ -25157,6 +25426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "질문, %s, 어떤 고양이를 가장 좋아하나요?",
         game = 0,
         video = {
@@ -25252,6 +25522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "확인, 몸을 낮게 숙이고 천천히 흔들면 금방 흥미를 보일 거예요.",
         game = 0,
         video = {
@@ -25345,6 +25616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에....?",
         game = 0,
         video = {
@@ -25439,6 +25711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "메이드 복장의 유즈루",
         game = 0,
         video = {
@@ -25532,6 +25805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어쩔 수 없네... 그럼 넌 먹고싶니?",
         game = 0,
         video = {
@@ -25625,6 +25899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "당연, 고양이 카페의 고양이들은 모두 똑똑하거든요.",
         game = 0,
         video = {
@@ -25718,6 +25993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 해야 할 일이 많은 모양이네...",
         game = 0,
         video = {
@@ -25812,6 +26088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좌우로 막대기를 흔든다",
         game = 0,
         video = {
@@ -25905,6 +26182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -25998,6 +26276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 보호?",
         game = 0,
         video = {
@@ -26091,6 +26370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 막대기를 멈추자, 꾸륵이는 마침내 발로 막대기 끝의 깃털을 붙잡았고, 무척이나 기쁜 듯 유즈루의 품에 얼굴을 비볐다.",
         game = 0,
         video = {
@@ -26184,6 +26464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "보충, 방금 유즈루를 쳐다보는 %s의 시선을 느꼈어요.",
         game = 0,
         video = {
@@ -26277,6 +26558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응? 이건... 무슨 뜻이야?",
         game = 0,
         video = {
@@ -26370,6 +26652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자... 같이 놀자~",
         game = 0,
         video = {
@@ -26463,6 +26746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 무고한 눈빛으로 나를 바라봤고, 내 마음속은 미안함과 자책감으로 가득 찼다.",
         game = 0,
         video = {
@@ -26556,6 +26840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 고양이의 턱을 긁어주었고, 고양이는 꾸룩꾸룩 소리를 냈다.",
         game = 0,
         video = {
@@ -26650,6 +26935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하트",
         game = 0,
         video = {
@@ -26743,6 +27029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 그게 뭔데?",
         game = 0,
         video = {
@@ -26836,6 +27123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "질문, 라떼아트는 어떤 모양을 원하시나요? 주인님.",
         game = 0,
         video = {
@@ -26929,6 +27217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "추측, 어쩌면 지금은 너무 배가 불러서 그럴지도 몰라요. 오늘 아침에 꾸륵이는 통조림 한 캔을 다 먹었거든요.",
         game = 0,
         video = {
@@ -27022,6 +27311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "더욱 뛰어나다고? 설마 고양이랑 관계가 있는 건가?",
         game = 0,
         video = {
@@ -27115,6 +27405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "후... 후우...",
         game = 0,
         video = {
@@ -27208,6 +27499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왠지... 안 아픈 것 같아.",
         game = 0,
         video = {
@@ -27301,6 +27593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "으음... 알겠어.",
         game = 0,
         video = {
@@ -27394,6 +27687,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 좋아, 내가 고양이한테 줘 볼게.",
         game = 0,
         video = {
@@ -27488,6 +27782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아직 잠이 덜 깬 것 같아",
         game = 0,
         video = {
@@ -27581,6 +27876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 무의식적으로 손을 뻗어 저지했지만, 고양이의 꼬리에만 손이 닿았을 뿐이었다.",
         game = 0,
         video = {
@@ -27674,6 +27970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 유즈루의 손을 잡고 가볍게 불어주었다.",
         game = 0,
         video = {
@@ -27767,6 +28064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 빗으로 흰 고양이를 머리부터 꼬리까지 빗겨 주었고, 얼마 후 빗에는 고양이털이 가득 걸려 있었다.",
         game = 0,
         video = {
@@ -27861,6 +28159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 다른 고양이에게 가자",
         game = 0,
         video = {
@@ -27954,6 +28253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유...즈루? 왜 그걸 입고 있는 거야?",
         game = 0,
         video = {
@@ -28048,6 +28348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루가 골라줘",
         game = 0,
         video = {
@@ -28141,6 +28442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 배는 고양이의 가장 연약한 부분이거든요. 아무래도 시로가 %s에게 신뢰감을 느끼는 것 같네요.",
         game = 0,
         video = {
@@ -28235,6 +28537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "구급상자를 가지러 간다",
         game = 0,
         video = {
@@ -28328,6 +28631,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이때 사고의 원흉이었던 메인쿤이 다가와 유즈루의 손에 몸을 비볐다.",
         game = 0,
         video = {
@@ -28421,6 +28725,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 유즈루의 붉어진 얼굴을 살펴봤고, 더는 그녀를 놀리지 않았다.",
         game = 0,
         video = {
@@ -28514,6 +28819,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 그게 다였던 건가...",
         game = 0,
         video = {
@@ -28607,6 +28913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "보충, 유즈루는 %s의 고양이 안마를 칭찬하는 거예요.",
         game = 0,
         video = {
@@ -28700,6 +29007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잠깐... 유즈루가 왜 이쪽으로 오는 거지? 내가 쳐다보는 걸 알아챘나?",
         game = 0,
         video = {
@@ -28793,6 +29101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안심, 분명히 %s의 자상한 마음씨를 느껴서일 거예요.",
         game = 0,
         video = {
@@ -28887,6 +29196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -28980,6 +29290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래요. 반창고로 보호해서 건드리지 않게 해야 돼요.",
         game = 0,
         video = {
@@ -29073,6 +29384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 꾸륵꾸륵 소리도 내고 있어, 정말 편안해 보이네...",
         game = 0,
         video = {
@@ -29166,6 +29478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 연이어 추궁했고, 내 얼굴은 뜨거워지기 시작했다.",
         game = 0,
         video = {
@@ -29259,6 +29572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아마 간식 때문이겠지? 정말 똑똑하네.",
         game = 0,
         video = {
@@ -29352,6 +29666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "막대기 위의 방울이 소리를 내자, 꾸륵이는 구석에서 생기발랄한 눈빛으로 나를 보았지만, 여전히 움직임은 보이지 않았다.",
         game = 0,
         video = {
@@ -29453,6 +29768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말? 가게에 구급상자가 있을 거야. 내가 치료해 줄게!",
         game = 0,
         video = {
@@ -29546,6 +29862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 편안해 보이네...",
         game = 0,
         video = {
@@ -29639,6 +29956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응? 자주 있는 일이 아니야?",
         game = 0,
         video = {
@@ -29732,6 +30050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "감탄, 시로가 %s에게 배를 드러냈어요.",
         game = 0,
         video = {
@@ -29825,6 +30144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "라떼아트라... 그것도 지정할 수 있는 거야?",
         game = 0,
         video = {
@@ -29918,6 +30238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 이 녀석 먹보였구나.",
         game = 0,
         video = {
@@ -30012,6 +30333,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이의 배를 만져본다",
         game = 0,
         video = {
@@ -30105,6 +30427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 손가락을 불어주면서, 수건으로 얼음찜질을 해 주었다.",
         game = 0,
         video = {
@@ -30198,6 +30521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루의 '처리'를 받은 후, 내 손은 이미 흔적도 없이 나아 있었다.",
         game = 0,
         video = {
@@ -30291,6 +30615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시로는 간식을 먹은 후 발을 몇 번 핥더니 바닥에 누워 다시는 일어나지 않았다.",
         game = 0,
         video = {
@@ -30386,6 +30711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -30479,6 +30805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "비록 방금 전까지 자고 있었지만, 아직 잠이 덜 깬 것 같았다.",
         game = 0,
         video = {
@@ -30572,6 +30899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "!",
         game = 0,
         video = {
@@ -30666,6 +30994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "각자 잘하는 분야가 있는 법이니까.",
         game = 0,
         video = {
@@ -30759,6 +31088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 전문적이네...!",
         game = 0,
         video = {
@@ -30852,6 +31182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 간식을 손에 놓았고, 시로는 순식간에 꿀꺽 삼켜버렸다.",
         game = 0,
         video = {
@@ -30945,6 +31276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "환영, 오늘은 유즈루가 대신 근무하는 메이드예요.",
         game = 0,
         video = {
@@ -31038,6 +31370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루가 만들어주는 거라면 뭐든 괜찮을 것 같은데?",
         game = 0,
         video = {
@@ -31131,6 +31464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알았어, 알았어, 얼른 먹어.",
         game = 0,
         video = {
@@ -31224,6 +31558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여...역시 빨리 치료하는 게 좋을 것 같아!",
         game = 0,
         video = {
@@ -31317,6 +31652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "인정, %s의 선택이 옳았어요.",
         game = 0,
         video = {
@@ -31410,6 +31746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시로는 계속해서 내 손에 얼굴을 비볐고, 무척이나 붙임성이 좋아 보였다.",
         game = 0,
         video = {
@@ -31503,6 +31840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "감탄, 시로는 %s에게 호감이 있는 모양이네요.",
         game = 0,
         video = {
@@ -31596,6 +31934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 이름이 시로였구나...",
         game = 0,
         video = {
@@ -31689,6 +32028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "질문, %s, 신경 쓰이는 게 있나요? %s의 시선이 계속 이쪽을 향하는 것 같아서요.",
         game = 0,
         video = {
@@ -31784,6 +32124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유혹, 시로는 먹고 싶니?",
         game = 0,
         video = {
@@ -31877,6 +32218,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도 가게에서 데이트를 하는 건 역시 힘든 일이었던 것 같다.",
         game = 0,
         video = {
@@ -31969,6 +32311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 하며 유즈루는 내게 고양이 그림이 있는 반창고를 붙여 주었다.",
         game = 0,
         video = {
@@ -32062,6 +32405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "흰색 고양이 한 마리가 마침 내 곁을 지나갔고, 나는 손을 뻗어보았다.",
         game = 0,
         video = {
@@ -32155,6 +32499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "솔직하게 대답해야 할까... 유즈루가 날 그런 사람으로 보진 않겠지?",
         game = 0,
         video = {
@@ -32250,6 +32595,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루에게 이유를 묻는다",
         game = 0,
         video = {
@@ -32343,6 +32689,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "확인, 거의 다 됐어요. 그래서 %s에게 온 거예요. 간식은 무료예요. %s 혼자 시간을 보내게 한 보상이라고 생각하세요.",
         game = 0,
         video = {
@@ -32436,6 +32783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "실망, 아무래도... 실패한 것 같네요.",
         game = 0,
         video = {
@@ -32529,6 +32877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "제안, 이제 시로에게 빗질을 해 보세요.",
         game = 0,
         video = {
@@ -32622,6 +32971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "앗, 정말 귀여운 고양이네! 줄무늬까지 그렸잖아...",
         game = 0,
         video = {
@@ -32715,6 +33065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 자연스럽게 고양이의 모양을 만든 후 커피를 내게 주었다.",
         game = 0,
         video = {
@@ -32808,6 +33159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "확인, %s의 마음에 드는 모양을 말해주면 돼요.",
         game = 0,
         video = {
@@ -32902,6 +33254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "매력, 아침에 꾸륵이가 줄곧 유즈루에게 애교를 부려서, 유즈루는 참지 못하고 간식을 준 거예요.",
         game = 0,
         video = {
@@ -32995,6 +33348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "엄숙, %s의 손가락이 부었으니, 반드시 잘 보호해야 해요.",
         game = 0,
         video = {
@@ -33088,6 +33442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시원한 느낌이 손끝을 스치고 지나가자, 내 얼굴은 오히려 뜨거워지기 시작했다...",
         game = 0,
         video = {
@@ -33181,6 +33536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "생각, 역시 오래된 방법이 가장 유용하군요.",
         game = 0,
         video = {
@@ -33274,6 +33630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "해보라고?",
         game = 0,
         video = {
@@ -33367,6 +33724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고개를 돌린 나는 캣타워 꼭대기에 있는 삼색 고양이를 발견했다.",
         game = 0,
         video = {
@@ -33460,6 +33818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "관찰, 확실히 피곤한 듯한 모습이네요. 아무래도 손님들과 너무 많이 놀아서 그런 것 같네요. 무척이나 졸린 것 같아요.",
         game = 0,
         video = {
@@ -33553,6 +33912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 부딪혀서 휘청거렸고, 쟁반이 흔들리며 엎질러질 것 같았다—",
         game = 0,
         video = {
@@ -33646,6 +34006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "경탄, %s의 숨결이 멈출 때마다 아파요. 아무래도 계속 불어줘야 할 것 같아요.",
         game = 0,
         video = {
@@ -33739,6 +34100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 고양이 카페의 점원으로서 고양이들에게 빗질을 해주는 건 유즈루의 의무예요.",
         game = 0,
         video = {
@@ -33832,6 +34194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이는 만족스럽게 유즈루의 품 안에 누웠고, 발을 계속해서 움직였다.",
         game = 0,
         video = {
@@ -33925,6 +34288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대신 근무? 오늘은 나랑 유즈루가 데이트하기로 한 날 아니었어?",
         game = 0,
         video = {
@@ -34018,6 +34382,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 한숨을 돌린 것 같았다.",
         game = 0,
         video = {
@@ -34112,6 +34477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시간 초과",
         game = 0,
         video = {
@@ -34205,6 +34571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 유즈루의 눈길을 피해 구급상자를 가지러 갔다.",
         game = 0,
         video = {
@@ -34298,6 +34665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... 고양이와 고양이 반창고라...",
         game = 0,
         video = {
@@ -34391,6 +34759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자신, 자격 있는 고양이 카페 점원이라면 당연한 일이죠.",
         game = 0,
         video = {
@@ -34484,6 +34853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 귀여워...! 유즈루, 대단해!",
         game = 0,
         video = {
@@ -34577,6 +34947,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "비록 막대기의 깃털을 붙잡지는 못했지만, 꾸륵이는 유즈루의 품 안으로 뛰어들었다.",
         game = 0,
         video = {
@@ -34670,6 +35041,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "꾸륵이는 유즈루의 손에 들린 막대기를 노려보더니 몸을 날렸다—",
         game = 0,
         video = {
@@ -34763,6 +35135,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "미묘, 좌우로 흔들다가... 적당히 멈춰 줘야 해요. 이렇게요.",
         game = 0,
         video = {
@@ -34856,6 +35229,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "역시나 내 잔에 있는 고양이와 무늬가 같았다...",
         game = 0,
         video = {
@@ -34949,6 +35323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이때 사고의 원흉이었던 메인쿤이 다가와 내 손에 몸을 비볐다.",
         game = 0,
         video = {
@@ -35042,6 +35417,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 정말이네... 방금 내가 너무 높게 서 있었던 건가?",
         game = 0,
         video = {
@@ -35135,6 +35511,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 좌우로 막대기를 흔들었고, 고양이는 어느새 머리를 움직이기 시작하더니 발톱을 드러냈다.",
         game = 0,
         video = {
@@ -35228,6 +35605,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇게 나와 유즈루는 고양이 카페에서 계속 고양이와 놀며 즐거운 시간을 보냈다.",
         game = 0,
         video = {
@@ -35320,6 +35698,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나. 고마워. 그럼 같이 고양이들한테 간식을 주자.",
         game = 0,
         video = {
@@ -35413,6 +35792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 무슨 방법인데?",
         game = 0,
         video = {
@@ -35506,6 +35886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "빗질? 털도 그리 길지 않은데?",
         game = 0,
         video = {
@@ -35599,6 +35980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 꾸륵이를 내게 넘겨 주었다.",
         game = 0,
         video = {
@@ -35692,6 +36074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에....?",
         game = 0,
         video = {
@@ -35785,6 +36168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 안아 보세요.",
         game = 0,
         video = {
@@ -35878,6 +36262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇게 똑똑하단 말이야? 사람한테 애교까지 부린다니.",
         game = 0,
         video = {
@@ -35972,6 +36357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 음식 대신 놀아줄래",
         game = 0,
         video = {
@@ -36065,6 +36451,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "차가워라... 얼음을 넣은 거야?",
         game = 0,
         video = {
@@ -36158,6 +36545,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니, 그런 이유가 아닌 것 같은데...",
         game = 0,
         video = {
@@ -36251,6 +36639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 귀엽네... 역시 유즈루 말대로 정말 활발하구나.",
         game = 0,
         video = {
@@ -36344,6 +36733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 귀엽네... 얘는 이름이 뭐야?",
         game = 0,
         video = {
@@ -36437,6 +36827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 내가 다른 고양이에게 간식을 줄게.",
         game = 0,
         video = {
@@ -36530,6 +36921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 빠르게 유즈루를 붙잡았지만, 커피는 쏟아지고 말았다.",
         game = 0,
         video = {
@@ -36623,6 +37015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만... 분명히 유즈루의 손은 이미 괜찮아진 것 같았다...",
         game = 0,
         video = {
@@ -36716,6 +37109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 도와줄게!",
         game = 0,
         video = {
@@ -36809,6 +37203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무방, 이런 것도 정말 즐겁네요.",
         game = 0,
         video = {
@@ -36902,6 +37297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "해명, 마스터 오리가미가 이곳에서 아르바이트를 하는데, 오늘 갑자기 일이 생겨서 유즈루에게 부탁했어요.",
         game = 0,
         video = {
@@ -36995,6 +37391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "감사, 저에 대한 %s의 신뢰, 정말 기뻐요. 그럼 잠시만 기다려주세요.",
         game = 0,
         video = {
@@ -37088,6 +37485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고의는 아니었어...",
         game = 0,
         video = {
@@ -37181,6 +37579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "조금 아플 거야. 우선은 참아 줘.",
         game = 0,
         video = {
@@ -37274,6 +37673,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "확실히 귀엽긴 하네.",
         game = 0,
         video = {
@@ -37367,6 +37767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 고양이를 안고 조금도 움직이지 않았고, 마치 깜짝 놀란 것 같았다.",
         game = 0,
         video = {
@@ -37460,6 +37861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "야옹~",
         game = 0,
         video = {
@@ -37553,6 +37955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "비록 막대기의 깃털을 붙잡지는 못했지만, 꾸륵이는 유즈루의 품 안으로 뛰어들었다.",
         game = 0,
         video = {
@@ -37646,6 +38049,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 막대기를 크게 휘둘렀고, 꾸륵이는 몸을 날려 도약했다—",
         game = 0,
         video = {
@@ -37739,6 +38143,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맞아, 전에 고양이 카페에 왔을 때 점원이 가르쳐 준 적이 있어.",
         game = 0,
         video = {
@@ -37832,6 +38237,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이제 막 잠에 든 모양이네...",
         game = 0,
         video = {
@@ -37925,6 +38331,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "경탄, 왠지 고양이도 이 반창고가 마음에 드는 모양이네요.",
         game = 0,
         video = {
@@ -38018,6 +38425,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "감탄, %s, 꽤 전문적으로 보이네요.",
         game = 0,
         video = {
@@ -38111,6 +38519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 서서히 쪼그려 앉아서 좌우로 막대기를 흔들었고, 고양이는 어느새 머리를 움직이기 시작했다.",
         game = 0,
         video = {
@@ -38204,6 +38613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알았다!",
         game = 0,
         video = {
@@ -38297,6 +38707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -38390,6 +38801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아! 그래도 맛있으니까!",
         game = 0,
         video = {
@@ -38483,6 +38895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 털갈이를 할 시기에는 빗질을 자주 해줘야 해요. 고양이가 너무 많은 털을 삼키면 헤어볼이 생기거든요.",
         game = 0,
         video = {
@@ -38576,6 +38989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "회상, 하지만 카구야가 고양이에게 빗질을 할 때면, 마치 세계대전이 일어난 것처럼 엉망이 되거든요.",
         game = 0,
         video = {
@@ -38669,6 +39083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "후우... 후우... 이제... 좀 괜찮아졌어?",
         game = 0,
         video = {
@@ -38762,6 +39177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "......",
         game = 0,
         video = {
@@ -38855,6 +39271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "인정, 꾸륵이는 무척 똑똑하거든요.",
         game = 0,
         video = {
@@ -38948,6 +39365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "인정, 너무 많이 먹으면 게을러지니까, 이걸 가지고 같이 놀아주세요.",
         game = 0,
         video = {
@@ -39041,6 +39459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 수건으로 얼음을 감싸서 %s에게 얼음찜질을 해 주면 금방 나을 거예요.",
         game = 0,
         video = {
@@ -39134,6 +39553,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "작은 해프닝이 있긴 했지만, 나는 유즈루가 직접 만든 커피를 마실 수 있었다.",
         game = 0,
         video = {
@@ -39232,6 +39652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뜨거워요...",
         game = 0,
         video = {
@@ -39325,6 +39746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대답, 그 애는 '꾸륵이'예요. 아주 활발한 아가씨랍니다.",
         game = 0,
         video = {
@@ -39418,6 +39840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "야옹~ 야옹~ 먹고 싶어?",
         game = 0,
         video = {
@@ -39511,6 +39934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뜨거워라...",
         game = 0,
         video = {
@@ -39604,6 +40028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "휴... 조금 괜찮아졌어?",
         game = 0,
         video = {
@@ -39697,6 +40122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "경탄, 비록 유즈루를 도와주겠다는 건 기쁘지만, 이건 유즈루의 일이니까, %s에게 폐를 끼칠 순 없어요.",
         game = 0,
         video = {
@@ -39790,6 +40216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 뭔가 말실수를 한 걸까...",
         game = 0,
         video = {
@@ -39883,6 +40310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오리가미를 도와주는 거였구나...",
         game = 0,
         video = {
@@ -39976,6 +40404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -40070,6 +40499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고양이",
         game = 0,
         video = {
@@ -40163,6 +40593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안심, 유즈루는 괜찮을 거예요.",
         game = 0,
         video = {
@@ -40256,6 +40687,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇게 우리는 다시 커피를 만들고 함께 오후의 시간을 보냈다.",
         game = 0,
         video = {
@@ -40348,6 +40780,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루, 조금 긴장한 것 같은데...",
         game = 0,
         video = {
@@ -40442,6 +40875,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "물론이야. 마침 나도 고양이를 좋아하거든.",
         game = 0,
         video = {
@@ -40536,6 +40970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너희는 정말 사이가 좋구나",
         game = 0,
         video = {
@@ -40630,6 +41065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 어떤 모양이든 만들 수 있는 거야?",
         game = 0,
         video = {
@@ -40724,6 +41160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "찬물로 식히면 될 거야",
         game = 0,
         video = {
@@ -40817,6 +41254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "꾸륵이는 눈을 깜빡이며 우리 둘을 쳐다봤다.",
         game = 0,
         video = {
@@ -40910,6 +41348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "득의, 유즈루도 카구야가 하지 못하는 것들을 할 수 있어요. 그래서 지금 가게에서 일하고 있는 것도 유즈루고 말이에요.",
         game = 0,
         video = {
@@ -41003,6 +41442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자만, 유즈루는 고양이들이 얌전하게 빗질을 받도록 만들 수 있어요. 심지어 누워서 배를 드러내기까지 한다구요.",
         game = 0,
         video = {
@@ -41096,6 +41536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "당연, 비록 카구야의 라떼아트가 대단하긴 하지만, 유즈루도 다른 분야에서는 더욱 뛰어나다구요. 그래서 지금 가게에서 일하고 있는 것도 유즈루고 말이에요.",
         game = 0,
         video = {
@@ -41189,6 +41630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루의 얼굴에는 자신만만한 표정이 드러났고, 무척 귀여웠다.",
         game = 0,
         video = {
@@ -41282,6 +41724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "드세요, 주인님.",
         game = 0,
         video = {
@@ -41375,6 +41818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 손을 서서히 내 입가로 가져왔고, 나는 그녀의 손가락에 희미하게 붉어진 자국을 보았다.",
         game = 0,
         video = {
@@ -41468,6 +41912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 흰 고양이의 턱을 긁어 주었고, 빗으로 머리부터 끝까지 빗겨 주었다.",
         game = 0,
         video = {
@@ -41561,6 +42006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 오늘 가게는 확실히 바쁜 모습이었고, 오후 내내 유즈루와 말을 하지 못했다.",
         game = 0,
         video = {
@@ -41654,6 +42100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 능숙하네!",
         game = 0,
         video = {
@@ -41747,6 +42194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "미안해, 깜작 놀랐지... 괜찮아?",
         game = 0,
         video = {
@@ -41840,6 +42288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 지금은 내 손의 음식에 관심조차 없는걸...",
         game = 0,
         video = {
@@ -41934,6 +42383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "역시 이런 쪽은 카구야가 더 잘하는 거구나",
         game = 0,
         video = {
@@ -42027,6 +42477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나. 유즈루, 솜씨가 정말 좋네!",
         game = 0,
         video = {
@@ -42120,6 +42571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이해, 역시 카구야가 더 적합한 거겠죠...",
         game = 0,
         video = {
@@ -42213,6 +42665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좋아, 좋아, 나도 무척 보고싶네.",
         game = 0,
         video = {
@@ -42306,6 +42759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "독특한 이름이네...",
         game = 0,
         video = {
@@ -42399,6 +42853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응...",
         game = 0,
         video = {
@@ -42492,6 +42947,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사과, 괜찮은가요?",
         game = 0,
         video = {
@@ -42585,6 +43041,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "편안, 봄바람이 불어오는 느낌이에요. 이제 하나도 아프지 않아요. 역시 %s, 정말 대단하네요.",
         game = 0,
         video = {
@@ -42678,6 +43135,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아. 실력이 좋은 유즈루와 함께 고양이 빗질을 하면 나도 즐거울 테니까!",
         game = 0,
         video = {
@@ -42771,6 +43229,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그냥 라떼아트일 뿐인걸, 어떻게 그리든 다 좋아.",
         game = 0,
         video = {
@@ -42864,6 +43323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "메이드 복장을 입은 점원은 이 고양이 카페의 특징 중 하나로, 오리가미가 이곳에서 아르바이트를 한다는 것은 나도 들은 적이 있었다.",
         game = 0,
         video = {
@@ -42957,6 +43417,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "얼마 후, 유즈루는 완성한 커피를 가지고 다가왔다.",
         game = 0,
         video = {
@@ -43050,6 +43511,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아요. 금방 좋아질 수 있는 방법이 하나 있으니까요.",
         game = 0,
         video = {
@@ -43143,6 +43605,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 서둘러 뚜껑을 열고 약을 유즈루의 손가락에 뿌렸다. 하지만 그녀의 손가락은 여전히 붉은 상태였다.",
         game = 0,
         video = {
@@ -43236,6 +43699,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어색, %s도 알고 있는 방법이에요...",
         game = 0,
         video = {
@@ -43329,6 +43793,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가... 뭘 아는데...?",
         game = 0,
         video = {
@@ -43423,6 +43888,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안심, 그럼 %s도 오늘 데이트를 마음껏 즐겨주세요.",
         game = 0,
         video = {
@@ -43516,6 +43982,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정답, 유즈루는 고양이들이 얌전하게 빗질을 받도록 만들 수 있어요. 심지어 누워서 배를 드러내기까지 한다구요.",
         game = 0,
         video = {
@@ -43609,6 +44076,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "생각, 주인님의 요구는 모두 만족시켜줄 수 있어요.",
         game = 0,
         video = {
@@ -43702,6 +44170,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "부정, 그것만으로는 부족해요. 가게에 구급상자가 있으니 치료할 수 있을 거예요.",
         game = 0,
         video = {
@@ -43795,6 +44264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "제안, %s, 고양이 간식을 사서 주는 건 어떤가요?",
         game = 0,
         video = {
@@ -43888,6 +44358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유감, 메이드의 업무는 아직도 많이 남아 있어요. %s, 잠깐 혼자 시간을 보내 주세요.",
         game = 0,
         video = {
@@ -43981,6 +44452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너희의 대결 종목은 정말 한계가 없구나...",
         game = 0,
         video = {
@@ -44074,6 +44546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루는 입술을 꽉 물고 눈썹을 찌푸렸고, 조심스럽게 커피잔 위에 모양을 내기 시작했다...",
         game = 0,
         video = {
@@ -44167,6 +44640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 황급히 커피를 한입 마시고는 계속해서 칭찬했다.",
         game = 0,
         video = {
@@ -44260,6 +44734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "역시나, 커피잔에는 하트도 아니고 꽃도 아닌 그림이 있었다...",
         game = 0,
         video = {
@@ -44353,6 +44828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "인정, 라떼아트라면 확실히 카구야가 더 잘하는 것 같네요.",
         game = 0,
         video = {
@@ -44446,6 +44922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나. 그럼 다른 고양이들도 해줘야 하는 거지?",
         game = 0,
         video = {
@@ -44539,6 +45016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자신, 고양이 모양이라면 유즈루는 자신 있어요.",
         game = 0,
         video = {
@@ -44632,6 +45110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좌우를 둘러보던 유즈루는 캣타워 꼭대기에서 '꾸륵이'라는 고양이를 찾아냈다.",
         game = 0,
         video = {
@@ -44725,6 +45204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "꾸륵이라... 지금 어디 있는데?",
         game = 0,
         video = {
@@ -44818,6 +45298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "제안, %s, 다른 고양이에게 가 보는 건 어때요? 꾸륵이는 지금 먹고싶지 않은 모양이에요.",
         game = 0,
         video = {
@@ -44912,6 +45393,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 모두 유즈루가 카구야에게 봐주었을 뿐이에요. 유즈루는 어른이고 카구야는 어린아이니까요.",
         game = 0,
         video = {
@@ -45005,6 +45487,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "겸연, 그리고 방법이 하나 더 있는데, 바로 통증을 없애줄 거예요. 한번 해볼까요?",
         game = 0,
         video = {
@@ -45098,6 +45581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "회상, 하지만 카구야가 고양이에게 빗질을 할 때면, 마치 세계대전이 일어난 것처럼 엉망이 되거든요.",
         game = 0,
         video = {
@@ -45191,6 +45675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "제안, 다음에는 카구야한테 %s에게 라떼아트를 보여달라고 하는 것도 좋겠어요.",
         game = 0,
         video = {
@@ -45284,6 +45769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "설명, 자주 꾸륵 꾸륵 하는 소리를 내고, 사람들을 좋아하거든요.",
         game = 0,
         video = {
@@ -45377,6 +45863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자주 연습한다면 괜찮아질 거야.",
         game = 0,
         video = {
@@ -45470,6 +45957,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괘...괜찮아.",
         game = 0,
         video = {
@@ -45563,6 +46051,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유즈루의 생각을 이해한 나는 더는 말을 꺼내지 않았다.",
         game = 0,
         video = {
@@ -45655,6 +46144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "걱정, 만약 잘 그리지 못한다면 %s도 실망하겠죠.",
         game = 0,
         video = {

@@ -60,6 +60,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白。那麼就拜託%s了。",
         game = 0,
         video = {
@@ -153,6 +154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的。夕弦又和%s有約會，所以就把%s約到這裡了。你不會介意吧？",
         game = 0,
         video = {
@@ -253,6 +255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喵喵——！",
         game = 0,
         video = {
@@ -347,6 +350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "上下晃動逗貓棒",
         game = 0,
         video = {
@@ -440,6 +444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼更紅了……？要不要去醫院！？",
         game = 0,
         video = {
@@ -533,6 +538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那還真是期待啊。",
         game = 0,
         video = {
@@ -627,6 +633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "打工的夕弦很少見",
         game = 0,
         video = {
@@ -720,6 +727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦不自然的捏了捏裙擺。",
         game = 0,
         video = {
@@ -813,6 +821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦拿出了醫藥箱，從裡面挑了一隻軟膏。",
         game = 0,
         video = {
@@ -906,6 +915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好！這麼有緣，就讓我來好好陪它玩玩吧。",
         game = 0,
         video = {
@@ -1000,6 +1010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "提醒夕弦小心",
         game = 0,
         video = {
@@ -1093,6 +1104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？耶俱矢很擅長拉花嗎？",
         game = 0,
         video = {
@@ -1186,6 +1198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確認。其他貓咪也確實需要梳毛。不過數量很多，需要等其他店員一起來幫忙。",
         game = 0,
         video = {
@@ -1279,6 +1292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什麼方法？",
         game = 0,
         video = {
@@ -1372,6 +1386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來如此。咕嚕，來吃好吃的~",
         game = 0,
         video = {
@@ -1465,6 +1480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "擔憂。好像被燙傷了，需要緊急處理。",
         game = 0,
         video = {
@@ -1560,6 +1576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然是非常實用的技能，難怪夕弦可以勝任這份工作。",
         game = 0,
         video = {
@@ -1653,6 +1670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "接下來的時間，我們忘卻了咖啡的事情，專心照顧店裡的貓咪。",
         game = 0,
         video = {
@@ -1746,6 +1764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我身邊的一隻緬因貓突然變得很有精神。",
         game = 0,
         video = {
@@ -1839,6 +1858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "毛茸茸的羽毛在貓咪的頭上拂動了兩下，咕嚕終於伸出了爪子。",
         game = 0,
         video = {
@@ -1932,6 +1952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "歎氣。%s，你太緊張了。",
         game = 0,
         video = {
@@ -2025,6 +2046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "邀請。%s請先坐一會兒，夕弦要先做一下準備工作。",
         game = 0,
         video = {
@@ -2118,6 +2140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我回避著夕弦炙熱的眼神，不著痕跡的聊起了打工的事情。",
         game = 0,
         video = {
@@ -2211,6 +2234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "補充。如果是特別複雜的肖像畫，夕弦是不會的。畢竟夕弦只是代班女僕而已。",
         game = 0,
         video = {
@@ -2304,6 +2328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我自己來就好了……",
         game = 0,
         video = {
@@ -2397,6 +2422,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我顫抖著手輕輕撫摸了一下夕弦的小腹，夕弦舒服的伸了個懶腰。",
         game = 0,
         video = {
@@ -2490,6 +2516,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "下一次……再說吧。",
         game = 0,
         video = {
@@ -2588,6 +2615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小心——！",
         game = 0,
         video = {
@@ -2681,6 +2709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。之前在咖啡店比賽的時候，耶俱矢每次都會勝出。",
         game = 0,
         video = {
@@ -2774,6 +2803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我來幫妳吧？",
         game = 0,
         video = {
@@ -2867,6 +2897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "請求。下一次，請不要拒絕夕弦的貓咪女僕服務。",
         game = 0,
         video = {
@@ -2960,6 +2991,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你別嚇我了，我的心臟都受不了了。",
         game = 0,
         video = {
@@ -3053,6 +3085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "失策。果然%s還是那麼容易害羞。",
         game = 0,
         video = {
@@ -3146,6 +3179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦妳快起來……！好像有其他人過來了……",
         game = 0,
         video = {
@@ -3240,6 +3274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要亂動",
         game = 0,
         video = {
@@ -3333,6 +3368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦將我的手緩緩靠近自己的嘴唇，溫熱的氣息噴灑在我的手指上……",
         game = 0,
         video = {
@@ -3426,6 +3462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦翻了個身，仰面與我對視，我不禁紅了耳朵。",
         game = 0,
         video = {
@@ -3519,6 +3556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦……",
         game = 0,
         video = {
@@ -3612,6 +3650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我揮舞著手上的凍乾，咕嚕卻只是瞪圓了眼睛。",
         game = 0,
         video = {
@@ -3705,6 +3744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "認真。對貓咪來說，這是信任的表現。",
         game = 0,
         video = {
@@ -3798,6 +3838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "疑問。教你什麼？",
         game = 0,
         video = {
@@ -3891,6 +3932,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "話說露出肚皮代表貓咪很信任妳吧？可以給我演示一下嗎？",
         game = 0,
         video = {
@@ -3984,6 +4026,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天這樣有些特別的約會，卻讓我格外舒心。",
         game = 0,
         video = {
@@ -4077,6 +4120,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -4170,6 +4214,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "肚皮？這……這樣不太好吧。",
         game = 0,
         video = {
@@ -4263,6 +4308,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "貓貓妳也想要咖啡嗎？",
         game = 0,
         video = {
@@ -4356,6 +4402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳快看！誒？等等……怎麼不玩了……？",
         game = 0,
         video = {
@@ -4449,6 +4496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……是嗎？可是好像有點起水泡了……",
         game = 0,
         video = {
@@ -4542,6 +4590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "期待。現在夕弦是貓咪，%s應該撫摸貓咪的肚皮。",
         game = 0,
         video = {
@@ -4635,6 +4684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喜……喜歡。",
         game = 0,
         video = {
@@ -4728,6 +4778,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……",
         game = 0,
         video = {
@@ -4821,6 +4872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒想到夕弦也會在這裡打工啊……原本還以為是普通的約會來著。",
         game = 0,
         video = {
@@ -4914,6 +4966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係，感覺已經很厲害了。那我來選一個吧。",
         game = 0,
         video = {
@@ -5009,6 +5062,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦卻沒有理會我，直接在我手上慢慢塗抹著藥膏。",
         game = 0,
         video = {
@@ -5102,6 +5156,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "貓咪女僕的服務……還真是棒啊！",
         game = 0,
         video = {
@@ -5194,6 +5249,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好奇。這樣的貓咪，%s果然喜歡吧？",
         game = 0,
         video = {
@@ -5288,6 +5344,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "何止不介意，這樣的夕弦更好……",
         game = 0,
         video = {
@@ -5381,6 +5438,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在我的撫摸下，夕弦更加放鬆下來，躺在了我的膝蓋上。",
         game = 0,
         video = {
@@ -5475,6 +5533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像吃飽了呢……",
         game = 0,
         video = {
@@ -5568,6 +5627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "？",
         game = 0,
         video = {
@@ -5662,6 +5722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "要夕弦吹吹才能好",
         game = 0,
         video = {
@@ -5755,6 +5816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚訝。雖然夕弦非常高興能有人幫忙，可是這是夕弦的工作，不應該麻煩%s。",
         game = 0,
         video = {
@@ -5848,6 +5910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喵~",
         game = 0,
         video = {
@@ -5942,6 +6005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -6036,6 +6100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "撫摸夕弦的頭",
         game = 0,
         video = {
@@ -6130,6 +6195,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "撫摸夕弦的下巴",
         game = 0,
         video = {
@@ -6223,6 +6289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "要我摸摸她嗎？我沒理解錯吧？",
         game = 0,
         video = {
@@ -6318,6 +6385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等……太近了……",
         game = 0,
         video = {
@@ -6411,6 +6479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個……難道夕弦的意思是……",
         game = 0,
         video = {
@@ -6504,6 +6573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "疑問。面對黏人的貓咪，%s毫無反應嗎？",
         game = 0,
         video = {
@@ -6597,6 +6667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，真是不給面子啊……",
         game = 0,
         video = {
@@ -6690,6 +6761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我慌張的說著，身體卻僵硬住不敢亂動。",
         game = 0,
         video = {
@@ -6783,6 +6855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "和貓咪玩耍需要像是在野外時貓咪捕食的情景。",
         game = 0,
         video = {
@@ -6876,6 +6949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "欣慰。請%s仔細看好，認真學習。",
         game = 0,
         video = {
@@ -6969,6 +7043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等……不要再蹭了……我……",
         game = 0,
         video = {
@@ -7062,6 +7137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天是我和夕弦約定好要約會的日子，然而現在馬上就要超過約定時間了！",
         game = 0,
         video = {
@@ -7155,6 +7231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。貓咪店員[特殊服務]，請%s查收黏人的貓咪。",
         game = 0,
         video = {
@@ -7248,6 +7325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喵~！",
         game = 0,
         video = {
@@ -7341,6 +7419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "歎氣。%s揮動逗貓棒的方式不對。",
         game = 0,
         video = {
@@ -7434,6 +7513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "提案。幫我選一個OK繃好了。只是起水泡而已，保護它不要被弄破就好了。",
         game = 0,
         video = {
@@ -7527,6 +7607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -7620,6 +7701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喵~喵~這樣嗎？",
         game = 0,
         video = {
@@ -7713,6 +7795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我環顧著四周坐下。現在沒什麼客人，十分安靜。可愛的貓咪有的在睡覺，而有的炯炯有神的看著客人們。",
         game = 0,
         video = {
@@ -7806,6 +7889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱歉。夕弦現在比較忙碌，沒有辦法時時刻刻陪伴%s。",
         game = 0,
         video = {
@@ -7899,6 +7983,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "其實……其實……",
         game = 0,
         video = {
@@ -7992,6 +8077,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……呼……",
         game = 0,
         video = {
@@ -8085,6 +8171,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦突然靠著我的肩膀，我的身體突然一僵。",
         game = 0,
         video = {
@@ -8178,6 +8265,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "交給妳？什麼意思？",
         game = 0,
         video = {
@@ -8271,6 +8359,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "深色的連衣裙加上帶有花邊的白色圍裙，標準的女僕裝打扮，和夕弦無表情的臉形成了反差。",
         game = 0,
         video = {
@@ -8364,6 +8453,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "安心。%s請放心交給夕弦好了。",
         game = 0,
         video = {
@@ -8457,6 +8547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "完全感受不到黏人啊……",
         game = 0,
         video = {
@@ -8550,6 +8641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦被嚇了一跳，停下了腳步，緬因貓從她的面前飛快的跑了過去。",
         game = 0,
         video = {
@@ -8643,6 +8735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯。耶俱矢更加適合，不愧是風之子，耶俱矢拉花的樣子非常帥氣哦。",
         game = 0,
         video = {
@@ -8736,6 +8829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係，能和專業的夕弦在一起給貓咪梳毛，我也很開心哦！",
         game = 0,
         video = {
@@ -8830,6 +8924,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個……來杯咖啡？",
         game = 0,
         video = {
@@ -8923,6 +9018,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解。但是貓咪是很有個性的，完全黏人的貓咪很難找到。",
         game = 0,
         video = {
@@ -9016,6 +9112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了？那個……黏人的貓咪大家都會喜歡的吧？",
         game = 0,
         video = {
@@ -9109,6 +9206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦一直盯著我的眼睛看，我有點不確定發生了什麼。",
         game = 0,
         video = {
@@ -9202,6 +9300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "比如蹭蹭我的腿啊，然後躺在我懷裡的那種。",
         game = 0,
         video = {
@@ -9295,6 +9394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "濕潤的感覺在手指上劃過，我的心臟仿佛在一瞬間停止了跳動。",
         game = 0,
         video = {
@@ -9388,6 +9488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦……好。來來~快過來~",
         game = 0,
         video = {
@@ -9481,6 +9582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦從櫃子裡拿出了一隻掛著鈴鐺的逗貓棒。",
         game = 0,
         video = {
@@ -9574,6 +9676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "積極。%s把零食放近一點試試。",
         game = 0,
         video = {
@@ -9667,6 +9770,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "提議。%s要試試嗎？陪它玩玩。",
         game = 0,
         video = {
@@ -9760,6 +9864,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "比如逗貓棒上面的羽毛很像昆蟲和飛鳥，就要低下來，在它的周圍左右揮舞。",
         game = 0,
         video = {
@@ -9853,6 +9958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "說著，夕弦拿出了一把寵物梳子，然後一把抱起路過的一隻小白貓。",
         game = 0,
         video = {
@@ -9946,6 +10052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "補充。它可是店裡的明星貓咪呢。",
         game = 0,
         video = {
@@ -10039,6 +10146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我全力在商業街奔跑著，終於來到了指定貓咖啡門前。",
         game = 0,
         video = {
@@ -10132,6 +10240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是有趣的名字。",
         game = 0,
         video = {
@@ -10225,6 +10334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像……貓咪看中了夕弦衣服上垂下來的蝴蝶結！",
         game = 0,
         video = {
@@ -10318,6 +10428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咦？這個也有方式方法？",
         game = 0,
         video = {
@@ -10411,6 +10522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要OK繃……就好了嗎？",
         game = 0,
         video = {
@@ -10504,6 +10616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "回答。叫咕嚕，因為很親人，經常發出咕嚕咕嚕的聲音。",
         game = 0,
         video = {
@@ -10597,6 +10710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，看起來就很精神啊~它叫什麼名字？",
         game = 0,
         video = {
@@ -10690,6 +10804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦正在吧檯忙碌著什麼。話說穿女僕裝的夕弦真是太可愛了……",
         game = 0,
         video = {
@@ -10783,6 +10898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係的，我沒有責怪的意思……要我幫忙嗎？",
         game = 0,
         video = {
@@ -10876,6 +10992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "其實什麼呢？我這個樣子完全無法否認啊。",
         game = 0,
         video = {
@@ -10969,6 +11086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "涼涼的感覺從指尖劃過，我的臉卻燥熱起來……",
         game = 0,
         video = {
@@ -11062,6 +11180,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我轉頭一看，一隻三色貓正炯炯有神的看著我。",
         game = 0,
         video = {
@@ -11155,6 +11274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？我身後？",
         game = 0,
         video = {
@@ -11248,6 +11368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "其實這樣的夕弦更好……",
         game = 0,
         video = {
@@ -11341,6 +11462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解。話說這個貓咖最活潑的貓咪就在%s的身後哦。",
         game = 0,
         video = {
@@ -11434,6 +11556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "提案。%s陪它運動一下好了。",
         game = 0,
         video = {
@@ -11527,6 +11650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "然而夕弦手中的托盤搖搖晃晃，杯中的咖啡灑了出來。",
         game = 0,
         video = {
@@ -11620,6 +11744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一提到耶俱矢，夕弦的臉上露出了柔和的笑意。",
         game = 0,
         video = {
@@ -11715,6 +11840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白。那麼就拜託%s了。",
         game = 0,
         video = {
@@ -11808,6 +11934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看著它們很有活力的樣子四處追逐，心情也會變得很好。",
         game = 0,
         video = {
@@ -11902,6 +12029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "給我來一杯咖啡吧。",
         game = 0,
         video = {
@@ -11995,6 +12123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白了。來，這裡有好吃的哦~",
         game = 0,
         video = {
@@ -12089,6 +12218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "攔住夕弦",
         game = 0,
         video = {
@@ -12182,6 +12312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦從口袋裡拿出一袋貓零食。",
         game = 0,
         video = {
@@ -12275,6 +12406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦居然……舔了我的手指！",
         game = 0,
         video = {
@@ -12368,6 +12500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "肯定。要試試嗎？餵它點好吃的吧。",
         game = 0,
         video = {
@@ -12461,6 +12594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "它的名字……就是小白嗎？",
         game = 0,
         video = {
@@ -12554,6 +12688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解！來吧，這個很好吃哦~",
         game = 0,
         video = {
@@ -12647,6 +12782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一直白色的貓正趴在我的腳邊，無聊的甩著尾巴。",
         game = 0,
         video = {
@@ -12740,6 +12876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚歎。咕嚕果然追著%s的逗貓棒跑了。好像還很興奮。",
         game = 0,
         video = {
@@ -12833,6 +12970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "乖……",
         game = 0,
         video = {
@@ -12926,6 +13064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？這隻貓什麼時候來的……",
         game = 0,
         video = {
@@ -13020,6 +13159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -13113,6 +13253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解。話說在%s腳邊的小白就非常溫順呢。",
         game = 0,
         video = {
@@ -13208,6 +13349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果不其然，貓咪興奮的撲向夕弦——",
         game = 0,
         video = {
@@ -13304,6 +13446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。捕獵是貓咪的天性，逗貓棒的設計都是模仿野外的捕獵物件。",
         game = 0,
         video = {
@@ -13397,6 +13540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的。幫夕弦選一個吧。",
         game = 0,
         video = {
@@ -13490,6 +13634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看著它們溫柔的躺在身邊，感覺一下子就被治癒了呢。",
         game = 0,
         video = {
@@ -13584,6 +13729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "更喜歡黏人的貓咪",
         game = 0,
         video = {
@@ -13677,6 +13823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "疑問。主人要點一些什麼嗎？",
         game = 0,
         video = {
@@ -13770,6 +13917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "認真。這是夕弦該做的工作，不能麻煩別人。",
         game = 0,
         video = {
@@ -13863,6 +14011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "無妨。今天夕弦的主人是%s，主人想怎麼樣都可以的哦~",
         game = 0,
         video = {
@@ -13956,6 +14105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個……多謝。",
         game = 0,
         video = {
@@ -14050,6 +14200,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "更喜歡活潑的貓咪",
         game = 0,
         video = {
@@ -14144,6 +14295,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "更喜歡溫順的貓咪",
         game = 0,
         video = {
@@ -14237,6 +14389,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我自言自語著，目光無法從夕弦的身上移開。",
         game = 0,
         video = {
@@ -14330,6 +14483,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我遵從本心，說了實話。",
         game = 0,
         video = {
@@ -14423,6 +14577,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊……妳是說逗貓棒啊……",
         game = 0,
         video = {
@@ -14516,6 +14671,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "猶豫。我會好好努力的。",
         game = 0,
         video = {
@@ -14609,6 +14765,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦的意思是……？",
         game = 0,
         video = {
@@ -14702,6 +14859,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "接下來的時間，我和夕弦一起照顧著貓咪。我也學習到了不少的專業知識。",
         game = 0,
         video = {
@@ -14795,6 +14953,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "打斷。請不要解釋，夕弦明白的。",
         game = 0,
         video = {
@@ -14888,6 +15047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解。請稍等一下，主人。",
         game = 0,
         video = {
@@ -14981,6 +15141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。害怕%s太無聊，所以拿來了一點貓零食。",
         game = 0,
         video = {
@@ -15074,6 +15235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "生氣。原來比起女僕店員，%s居然更在意貓咪嗎？",
         game = 0,
         video = {
@@ -15167,6 +15329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "此時吧檯旁邊的一隻美國短毛貓叫了起來，似乎在不滿我的謊言。",
         game = 0,
         video = {
@@ -15266,6 +15429,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這、這就是妳說的……很管用的方法！？",
         game = 0,
         video = {
@@ -15359,6 +15523,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喵~！",
         game = 0,
         video = {
@@ -15452,6 +15617,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦有什麼看法？怎麼它都不來玩？",
         game = 0,
         video = {
@@ -15545,6 +15711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我踮起腳尖，將手攤開在咕嚕的面前，咕嚕竟然起身跳下了貓爬架。",
         game = 0,
         video = {
@@ -15638,6 +15805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "貓咪軟軟的，毛茸茸的……感覺心情都明亮了起來。",
         game = 0,
         video = {
@@ -15731,6 +15899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "來，跳起來吧！",
         game = 0,
         video = {
@@ -15824,6 +15993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦用手撓了撓白貓的下巴，白貓發出呼嚕呼嚕的聲音之後，不停的蹭著夕弦的手，然後肚皮一翻躺在了的上。",
         game = 0,
         video = {
@@ -15917,6 +16087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好奇。%s要試試嗎？",
         game = 0,
         video = {
@@ -16010,6 +16181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "叮鈴鈴~",
         game = 0,
         video = {
@@ -16103,6 +16275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這樣啊……現在夕弦忙完了嗎？",
         game = 0,
         video = {
@@ -16196,6 +16369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -16289,6 +16463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "舉例。羽毛模仿的是昆蟲和鳥類，因此需要在貓咪的周圍左右慢慢揮舞。",
         game = 0,
         video = {
@@ -16382,6 +16557,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白了。",
         game = 0,
         video = {
@@ -16475,6 +16651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？這是……",
         game = 0,
         video = {
@@ -16568,6 +16745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是嗎？這個給你。",
         game = 0,
         video = {
@@ -16661,6 +16839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "糟糕，偷看被發現了……",
         game = 0,
         video = {
@@ -16754,6 +16933,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "期待。準備工作做好之後，夕弦再來陪伴主人。",
         game = 0,
         video = {
@@ -16848,6 +17028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在看貓咪",
         game = 0,
         video = {
@@ -16941,6 +17122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。這是店裡面名叫“咕嚕”的貓咪的專屬圖案。它是我們店的明星店員哦。",
         game = 0,
         video = {
@@ -17034,6 +17216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "糟糕，還是不小心把實話說出來了……",
         game = 0,
         video = {
@@ -17128,6 +17311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在看夕弦",
         game = 0,
         video = {
@@ -17221,6 +17405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好奇。%s口中的更好指的是……？",
         game = 0,
         video = {
@@ -17315,6 +17500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒有在看什麼啦",
         game = 0,
         video = {
@@ -17408,6 +17594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "正確。吃飽了飯需要運動才行，貓咪也不例外。",
         game = 0,
         video = {
@@ -17501,6 +17688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咖啡灑到了夕弦的手指上，我連忙接下了托盤。",
         game = 0,
         video = {
@@ -17595,6 +17783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "請教夕弦怎麼做",
         game = 0,
         video = {
@@ -17688,6 +17877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "貓咖的店員還真不是一個簡單的工作啊……",
         game = 0,
         video = {
@@ -17781,6 +17971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喵~喵~",
         game = 0,
         video = {
@@ -17874,6 +18065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我心裡鬆了一口氣。夕弦熟練的操作著機器，完全看不出來是代班女僕。",
         game = 0,
         video = {
@@ -17968,6 +18160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "它好像不喜歡我吧",
         game = 0,
         video = {
@@ -18061,6 +18254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦是在誇獎我溫柔嗎？",
         game = 0,
         video = {
@@ -18155,6 +18349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦妳幫幫我！",
         game = 0,
         video = {
@@ -18248,6 +18443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "認真。一個老方法，聽說很管用。",
         game = 0,
         video = {
@@ -18341,6 +18537,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "陽光從玻璃照射進來，溫柔的少女和可愛的貓咪……這樣一副美麗的畫卷，我完全不敢打擾。",
         game = 0,
         video = {
@@ -18433,6 +18630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誘惑。其實今天可以有特殊的女僕服務。",
         game = 0,
         video = {
@@ -18526,6 +18724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼會這樣……",
         game = 0,
         video = {
@@ -18619,6 +18818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只是女僕裝的話好像也經常見到。如果夕弦可以打扮成貓咪一樣，一定更加可愛吧。",
         game = 0,
         video = {
@@ -18713,6 +18913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "輕輕吹夕弦的手",
         game = 0,
         video = {
@@ -18806,6 +19007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喵~喵~",
         game = 0,
         video = {
@@ -18899,6 +19101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "遺憾。雖然沒有貓耳，但是貓咪女僕服務是有的。",
         game = 0,
         video = {
@@ -18992,6 +19195,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼呼……我應該沒有遲到吧？",
         game = 0,
         video = {
@@ -19085,6 +19289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -19178,6 +19383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼感覺夕弦在吃醋？是我的錯覺吧。",
         game = 0,
         video = {
@@ -19271,6 +19477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦坐了下來，開始專業的示範。",
         game = 0,
         video = {
@@ -19364,6 +19571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我想也沒想，直接選了一個貓咪圖案的OK繃，給夕弦好好的貼上。",
         game = 0,
         video = {
@@ -19457,6 +19665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "開玩笑的，夕弦妳不要生氣。其實只是看到貓咪和女僕裝的突發奇想而已……",
         game = 0,
         video = {
@@ -19550,6 +19759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚訝。%s居然有這樣的提議。",
         game = 0,
         video = {
@@ -19643,6 +19853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個……",
         game = 0,
         video = {
@@ -19737,6 +19948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好，那我等妳。",
         game = 0,
         video = {
@@ -19830,6 +20042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我閉著眼說出了更過分的要求，夕弦頓時動作愣住了。",
         game = 0,
         video = {
@@ -19923,6 +20136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了？",
         game = 0,
         video = {
@@ -20017,6 +20231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有沒有貓咪女僕？",
         game = 0,
         video = {
@@ -20110,6 +20325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很快做好了咖啡，然而夕弦端著奶泡壺的時候卻遲疑了起來。",
         game = 0,
         video = {
@@ -20203,6 +20419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……我的意思是這樣夕弦很少見啦。",
         game = 0,
         video = {
@@ -20296,6 +20513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -20389,6 +20607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦掏出一隻毛茸茸的逗貓棒放到我的手中。",
         game = 0,
         video = {
@@ -20482,6 +20701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦似乎如臨大敵，和剛剛自如的樣子完全不同。",
         game = 0,
         video = {
@@ -20575,6 +20795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚歎。看來小白非常喜歡%s，正在請求按摩呢。",
         game = 0,
         video = {
@@ -20671,6 +20892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -20764,6 +20986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦對我微微行禮，神色如常的離開了。",
         game = 0,
         video = {
@@ -20857,6 +21080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很快做好了咖啡，然而夕弦端著奶泡壺的時候卻遲疑了起來。",
         game = 0,
         video = {
@@ -20950,6 +21174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳看，完全就不理我嘛……",
         game = 0,
         video = {
@@ -21043,6 +21268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "無妨。那麼夕弦為主人去做咖啡了。",
         game = 0,
         video = {
@@ -21136,6 +21362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解。%s請放心交給夕弦好了。",
         game = 0,
         video = {
@@ -21235,6 +21462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳聽誰說的啦！！",
         game = 0,
         video = {
@@ -21328,6 +21556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什麼心思啊……妳不要亂說。",
         game = 0,
         video = {
@@ -21422,6 +21651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "買一點貓零食好了。",
         game = 0,
         video = {
@@ -21515,6 +21745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚訝。平常咕嚕非常活潑和黏人的……",
         game = 0,
         video = {
@@ -21610,6 +21841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦伸出食指，戳了戳我的心口處。",
         game = 0,
         video = {
@@ -21703,6 +21935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在夕弦的眼神下我終於敗了下來。",
         game = 0,
         video = {
@@ -21796,6 +22029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好可愛！它真的躺下了！",
         game = 0,
         video = {
@@ -21889,6 +22123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "理解。%s還是那麼的害羞。不過夕弦都明白的，%s的心思……",
         game = 0,
         video = {
@@ -21982,6 +22217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "歡喜。你終於來了。",
         game = 0,
         video = {
@@ -22075,6 +22311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不著痕跡的往後縮了縮。",
         game = 0,
         video = {
@@ -22168,6 +22405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "平靜。也對，來貓咖啡最重要的事情就是和貓咪互動吧。",
         game = 0,
         video = {
@@ -22262,6 +22500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -22355,6 +22594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "歡喜。感覺很可愛的樣子。",
         game = 0,
         video = {
@@ -22448,6 +22688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦突然貼了過來，手臂上柔軟的觸感是……",
         game = 0,
         video = {
@@ -22542,6 +22783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "承認。作為%s的專屬女僕，主人有什麼吩咐嗎？",
         game = 0,
         video = {
@@ -22635,6 +22877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？特殊的服務……？",
         game = 0,
         video = {
@@ -22728,6 +22971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我隨意坐下，不時逗著路過的貓咪，眼睛卻還是不由自主的看向夕弦。",
         game = 0,
         video = {
@@ -22821,6 +23065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，也沒什麼好掩飾的。夕弦這樣穿真的很有魅力……",
         game = 0,
         video = {
@@ -22914,6 +23159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "尋找。……啊，正在架子上面睡覺呢。",
         game = 0,
         video = {
@@ -23007,6 +23253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "意外。沒想到%s居然如此誠實。",
         game = 0,
         video = {
@@ -23100,6 +23347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一不做二不休，我乾脆承認了。",
         game = 0,
         video = {
@@ -23193,6 +23441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "具體。什麼很少見？",
         game = 0,
         video = {
@@ -23287,6 +23536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳不要聽折紙瞎說！",
         game = 0,
         video = {
@@ -23380,6 +23630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "期待。%s會不會吸引它呢？",
         game = 0,
         video = {
@@ -23473,6 +23724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "難受。很痛……",
         game = 0,
         video = {
@@ -23566,6 +23818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "按摩？這樣嗎？",
         game = 0,
         video = {
@@ -23660,6 +23913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有，心動了。",
         game = 0,
         video = {
@@ -23753,6 +24007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "自信。今天的夕弦有沒有打動%s的心呢？",
         game = 0,
         video = {
@@ -23847,6 +24102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了嗎？",
         game = 0,
         video = {
@@ -23940,6 +24196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我失望的歎了口氣。難道我真的不受貓咪喜歡嗎？",
         game = 0,
         video = {
@@ -24034,6 +24291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "花瓣",
         game = 0,
         video = {
@@ -24127,6 +24385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就拜託了。",
         game = 0,
         video = {
@@ -24220,6 +24479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "疑問。那%s感覺好點了嗎？",
         game = 0,
         video = {
@@ -24313,6 +24573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒！？",
         game = 0,
         video = {
@@ -24406,6 +24667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解。這是貓凍乾和貓肉條，主人。",
         game = 0,
         video = {
@@ -24499,6 +24761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "讚歎。貓咪和女僕裝，加起來對%s的殺傷力翻倍。不愧是折紙大師。",
         game = 0,
         video = {
@@ -24593,6 +24856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "捉住貓咪",
         game = 0,
         video = {
@@ -24686,6 +24950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……我知道了。",
         game = 0,
         video = {
@@ -24779,6 +25044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "開心。小白真的很喜歡梳毛，就像在按摩一樣。",
         game = 0,
         video = {
@@ -24878,6 +25144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "折紙？她對妳說什麼了？",
         game = 0,
         video = {
@@ -24971,6 +25238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦竟然穿著女僕裝站在門口迎接我！",
         game = 0,
         video = {
@@ -25064,6 +25332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然。折紙大師說得沒錯。",
         game = 0,
         video = {
@@ -25157,6 +25426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "提問。%s喜歡什麼樣的貓咪？",
         game = 0,
         video = {
@@ -25252,6 +25522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確認。放低身段，慢慢揮舞，這樣它很快就感興趣了。",
         game = 0,
         video = {
@@ -25345,6 +25616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒……？",
         game = 0,
         video = {
@@ -25439,6 +25711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "女僕裝的夕弦很少見",
         game = 0,
         video = {
@@ -25532,6 +25805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是沒辦法啊……那妳想吃嗎？",
         game = 0,
         video = {
@@ -25625,6 +25899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "自然。貓咖的貓咪都非常聰明。",
         game = 0,
         video = {
@@ -25718,6 +25993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像真的有很多事情要忙啊……",
         game = 0,
         video = {
@@ -25812,6 +26088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "左右晃動逗貓棒",
         game = 0,
         video = {
@@ -25905,6 +26182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -25998,6 +26276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？保護？",
         game = 0,
         video = {
@@ -26091,6 +26370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "由於我我停止了揮舞，咕嚕終於伸爪子抓著逗貓棒頂端的羽毛，十分開心的在夕弦懷裡蹭著。",
         game = 0,
         video = {
@@ -26184,6 +26464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "補充。剛剛%s一直緊盯着的盯著夕弦，夕弦都注意到了。",
         game = 0,
         video = {
@@ -26277,6 +26558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？它這是……什麼意思？",
         game = 0,
         video = {
@@ -26370,6 +26652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個……快來玩~",
         game = 0,
         video = {
@@ -26463,6 +26746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦瞪著無辜的雙眼的看著我，我的內心充滿了愧疚和自責。",
         game = 0,
         video = {
@@ -26556,6 +26840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我撫摸著白貓的下巴，白貓發出了“呼嚕呼嚕”的聲音。",
         game = 0,
         video = {
@@ -26650,6 +26935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "愛心",
         game = 0,
         video = {
@@ -26743,6 +27029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦？是什麼？",
         game = 0,
         video = {
@@ -26836,6 +27123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "疑問。拉花有想要的形狀嗎？主人。",
         game = 0,
         video = {
@@ -26929,6 +27217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "猜測。也許是現在吃得太飽了。今天早上咕嚕吃了整整一個罐頭呢。",
         game = 0,
         video = {
@@ -27022,6 +27311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "更勝一籌？難道和貓咪有關嗎？",
         game = 0,
         video = {
@@ -27115,6 +27405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……呼……",
         game = 0,
         video = {
@@ -27208,6 +27499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像……不疼了。",
         game = 0,
         video = {
@@ -27301,6 +27593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦……好。",
         game = 0,
         video = {
@@ -27394,6 +27687,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦，好。讓我來逗逗貓好了。",
         game = 0,
         video = {
@@ -27488,6 +27782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "它好像沒睡醒",
         game = 0,
         video = {
@@ -27581,6 +27876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我下意識的抬手想要阻止，然而只摸到了貓咪的尾巴毛。",
         game = 0,
         video = {
@@ -27674,6 +27970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我捧著夕弦的手，輕輕吹著。",
         game = 0,
         video = {
@@ -27767,6 +28064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦用梳子將白貓從頭梳到尾，不一會兒，梳子上就沾滿了掉下來的貓毛。",
         game = 0,
         video = {
@@ -27861,6 +28159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就換一隻貓咪餵食",
         game = 0,
         video = {
@@ -27954,6 +28253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕……弦？妳怎麼今天穿成這樣？",
         game = 0,
         video = {
@@ -28048,6 +28348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦隨便做就好",
         game = 0,
         video = {
@@ -28141,6 +28442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。肚皮是貓咪最脆弱的部分，看來小白非常信任%s。",
         game = 0,
         video = {
@@ -28235,6 +28537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "拿醫藥箱",
         game = 0,
         video = {
@@ -28328,6 +28631,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那隻闖了禍的緬因貓這時湊了過來，蹭了蹭夕弦的手指。",
         game = 0,
         video = {
@@ -28421,6 +28725,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我觀察到夕弦臉上的紅暈，調侃就適可而止。",
         game = 0,
         video = {
@@ -28514,6 +28819,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？居然只是這樣而已嗎……",
         game = 0,
         video = {
@@ -28607,6 +28913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "補充。夕弦是在誇獎%s很會給貓咪按摩。",
         game = 0,
         video = {
@@ -28700,6 +29007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等……夕弦怎麼走過來了？她發現我了？",
         game = 0,
         video = {
@@ -28793,6 +29101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "安心。一定是感受到了%s的溫柔吧。",
         game = 0,
         video = {
@@ -28887,6 +29196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -28980,6 +29290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的。用OK繃保護起來，不能弄破它。",
         game = 0,
         video = {
@@ -29073,6 +29384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，開始發出“呼嚕呼嚕”的聲音了，真是自在啊……",
         game = 0,
         video = {
@@ -29166,6 +29478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦連連逼問，我的臉頰也熱了起來。",
         game = 0,
         video = {
@@ -29259,6 +29572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我看完全是為了零食吧？真是聰明啊。",
         game = 0,
         video = {
@@ -29352,6 +29666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "逗貓棒上的鈴鐺響起了聲音，咕嚕躲在角落炯炯有神的望著我，卻並沒有行動。",
         game = 0,
         video = {
@@ -29453,6 +29768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的嗎？店裡應該有藥箱，我給妳處理一下！",
         game = 0,
         video = {
@@ -29546,6 +29862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是自在啊……",
         game = 0,
         video = {
@@ -29639,6 +29956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？很少見嗎？",
         game = 0,
         video = {
@@ -29732,6 +30050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚歎。小白居然把肚皮露給%s了。",
         game = 0,
         video = {
@@ -29825,6 +30144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咖啡拉花啊……原來這個也可以指定的嗎？",
         game = 0,
         video = {
@@ -29918,6 +30238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？原來還是一隻吃貨貓啊。",
         game = 0,
         video = {
@@ -30012,6 +30333,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "撫摸貓咪的肚皮",
         game = 0,
         video = {
@@ -30105,6 +30427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦一邊吹著氣，一邊用毛巾給我冰敷。",
         game = 0,
         video = {
@@ -30198,6 +30521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "經歷了夕弦的一系列的“處理”，我的手指已經完全看不出痕跡了。",
         game = 0,
         video = {
@@ -30291,6 +30615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小白吃完零食後，舔了舔爪子，然後往的上一躺，再也不起來了。",
         game = 0,
         video = {
@@ -30386,6 +30711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -30479,6 +30805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然剛剛就在睡覺，但是好像沒睡醒的樣子。",
         game = 0,
         video = {
@@ -30572,6 +30899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "！",
         game = 0,
         video = {
@@ -30666,6 +30994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳們各自都有擅長的的方呢。",
         game = 0,
         video = {
@@ -30759,6 +31088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好專業的樣子……！",
         game = 0,
         video = {
@@ -30852,6 +31182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我把零食放在手上，小白狼吞虎嚥的吃了起來。",
         game = 0,
         video = {
@@ -30945,6 +31276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "歡迎。今天夕弦是代班女僕。",
         game = 0,
         video = {
@@ -31038,6 +31370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要是夕弦做的應該都不錯吧？",
         game = 0,
         video = {
@@ -31131,6 +31464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "知道了知道了，快吃吧。",
         game = 0,
         video = {
@@ -31224,6 +31558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還……還是快點處理一下比較好！",
         game = 0,
         video = {
@@ -31317,6 +31652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "認可。%s選的不錯。",
         game = 0,
         video = {
@@ -31410,6 +31746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小白不停的蹭著我的手，看上去也十分黏人。",
         game = 0,
         video = {
@@ -31503,6 +31840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚喜。小白好像很喜歡%s。",
         game = 0,
         video = {
@@ -31596,6 +31934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，原來這隻白貓就叫小白啊……",
         game = 0,
         video = {
@@ -31689,6 +32028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "疑問。有什麼讓%s在意的東西嗎？感覺%s一直在朝這邊看。",
         game = 0,
         video = {
@@ -31784,6 +32124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誘惑。小白想要來吃嗎？",
         game = 0,
         video = {
@@ -31877,6 +32218,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看來在店裡約會果然不太實際啊。",
         game = 0,
         video = {
@@ -31969,6 +32311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "突然間，夕弦已經為我貼上了一個貓咪圖案的OK繃。",
         game = 0,
         video = {
@@ -32062,6 +32405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一隻小白貓剛好從我身邊經過，我攤著手。",
         game = 0,
         video = {
@@ -32155,6 +32499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "要不要如實回答呢……夕弦不會把我當成那種人吧。",
         game = 0,
         video = {
@@ -32250,6 +32595,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "向夕弦請教緣由",
         game = 0,
         video = {
@@ -32343,6 +32689,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確認。已經差不多了，所以來找%s了。零食是免費的，就當是剛剛冷落%s的補償。",
         game = 0,
         video = {
@@ -32436,6 +32783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "失望。好像……失敗了。",
         game = 0,
         video = {
@@ -32529,6 +32877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "提議。趁著現在，給小白梳毛吧。",
         game = 0,
         video = {
@@ -32622,6 +32971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，好可愛好精緻的貓咪！連花紋妳都畫了啊……",
         game = 0,
         video = {
@@ -32715,6 +33065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦自如的拉出貓咪的形狀，然後將咖啡遞給我。",
         game = 0,
         video = {
@@ -32808,6 +33159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確認。%s想要的說出來就好。",
         game = 0,
         video = {
@@ -32902,6 +33254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可愛。因為早上咕嚕一直對夕弦撒嬌，夕弦沒忍住就給它餵食了。",
         game = 0,
         video = {
@@ -32995,6 +33348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嚴肅。%s的手指起水泡了，必須保護起來。",
         game = 0,
         video = {
@@ -33088,6 +33442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "涼涼的感覺從指尖劃過，我的臉卻燥熱起來……",
         game = 0,
         video = {
@@ -33181,6 +33536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "思考。果然最後的老方法非常好用。",
         game = 0,
         video = {
@@ -33274,6 +33630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "試試？",
         game = 0,
         video = {
@@ -33367,6 +33724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我轉頭看見一隻趴在貓爬架頂上的三色貓。",
         game = 0,
         video = {
@@ -33460,6 +33818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "觀察。確實很睏的樣子，應該是陪伴客人的時候玩瘋了吧。現在特別想睡覺。",
         game = 0,
         video = {
@@ -33553,6 +33912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦被撞得失去平衡，手上的托盤不穩，眼看就要摔倒——",
         game = 0,
         video = {
@@ -33646,6 +34006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚訝。%s只要一停下來就又疼痛起來。看來需要一直呼呼才行。",
         game = 0,
         video = {
@@ -33739,6 +34100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。作為貓咖店的店員，為每隻貓梳毛是夕弦的責任。",
         game = 0,
         video = {
@@ -33832,6 +34194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "貓咪心滿意足的躺在夕弦的懷裡，爪子還不停的揮著。",
         game = 0,
         video = {
@@ -33925,6 +34288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "代班？今天不是我和夕弦的約會時間嗎？",
         game = 0,
         video = {
@@ -34018,6 +34382,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦似乎鬆了一口氣。",
         game = 0,
         video = {
@@ -34112,6 +34477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "超時",
         game = 0,
         video = {
@@ -34205,6 +34571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我躲避著夕弦的眼神，去拿了醫藥箱來。",
         game = 0,
         video = {
@@ -34298,6 +34665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……貓咪和貓咪OK繃嗎……",
         game = 0,
         video = {
@@ -34391,6 +34759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "自信。合格的貓咖店員都是如此。",
         game = 0,
         video = {
@@ -34484,6 +34853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真可愛啊……！夕弦好厲害！",
         game = 0,
         video = {
@@ -34577,6 +34947,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然沒有抓到逗貓棒的羽毛，咕嚕卻跳進了夕弦的懷裡。",
         game = 0,
         video = {
@@ -34670,6 +35041,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咕嚕此時緊緊盯著夕弦手中的逗貓棒，一個飛躍——",
         game = 0,
         video = {
@@ -34763,6 +35135,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美妙。左右揮舞之後……適時的停留一下，就像這樣。",
         game = 0,
         video = {
@@ -34856,6 +35229,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然花紋和我杯中的貓咪一樣呢……",
         game = 0,
         video = {
@@ -34949,6 +35323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那隻闖了禍的緬因貓這時湊了過來，蹭了蹭我的手指。",
         game = 0,
         video = {
@@ -35042,6 +35417,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，真的……原來我剛剛站太高了嗎？",
         game = 0,
         video = {
@@ -35135,6 +35511,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦左右晃動著逗貓棒。貓咪不由主的擺動著頭，然後伸出了爪子。",
         game = 0,
         video = {
@@ -35228,6 +35605,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣，我和夕弦在貓咖一直和貓咪玩著，度過了愉快的時光。",
         game = 0,
         video = {
@@ -35320,6 +35698,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來如此，謝謝妳。那我們一起餵給貓咪好了。",
         game = 0,
         video = {
@@ -35413,6 +35792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？什麼辦法？",
         game = 0,
         video = {
@@ -35506,6 +35886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "梳毛？它的毛也不長呀。",
         game = 0,
         video = {
@@ -35599,6 +35980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦不由分說的將咕嚕抱在胸前，然後塞給了我。",
         game = 0,
         video = {
@@ -35692,6 +36074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒……？",
         game = 0,
         video = {
@@ -35785,6 +36168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。試試抱著它。",
         game = 0,
         video = {
@@ -35878,6 +36262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這麼聰明的嗎？還會對著人不停撒嬌。",
         game = 0,
         video = {
@@ -35972,6 +36357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就不吃了，我陪它玩玩",
         game = 0,
         video = {
@@ -36065,6 +36451,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好冰……是用了冰塊？",
         game = 0,
         video = {
@@ -36158,6 +36545,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不，我覺得不是那個的原因……",
         game = 0,
         video = {
@@ -36251,6 +36639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真可愛啊……果然和夕弦說的一樣，非常活潑啊。",
         game = 0,
         video = {
@@ -36344,6 +36733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好可愛啊……它叫什麼名字？",
         game = 0,
         video = {
@@ -36437,6 +36827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那我來餵其他貓貓好了。",
         game = 0,
         video = {
@@ -36530,6 +36921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我眼疾手快的扶住了夕弦，然而咖啡還是灑了出來。",
         game = 0,
         video = {
@@ -36623,6 +37015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……我明明看見夕弦的手指已經不紅了……",
         game = 0,
         video = {
@@ -36716,6 +37109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我也來幫妳吧！",
         game = 0,
         video = {
@@ -36809,6 +37203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "無妨。這種巧合真是令人歡喜。",
         game = 0,
         video = {
@@ -36902,6 +37297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。折紙大師在這裡打工，今天臨時有事，所以拜託夕弦代她的班。",
         game = 0,
         video = {
@@ -36995,6 +37391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "感謝。%s對我的信任，我很高興。那麼，請稍等片刻。",
         game = 0,
         video = {
@@ -37088,6 +37485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不是故意的……",
         game = 0,
         video = {
@@ -37181,6 +37579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可能會有點疼，先忍耐一下。",
         game = 0,
         video = {
@@ -37274,6 +37673,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確實挺可愛的。",
         game = 0,
         video = {
@@ -37367,6 +37767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦抱著貓一動不動，似乎被驚到了。",
         game = 0,
         video = {
@@ -37460,6 +37861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喵~",
         game = 0,
         video = {
@@ -37553,6 +37955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然沒有夠到逗貓棒的羽毛，咕嚕卻跳進了夕弦的懷裡。",
         game = 0,
         video = {
@@ -37646,6 +38049,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我大幅度揮舞著逗貓棒，咕嚕果然縱身一躍——",
         game = 0,
         video = {
@@ -37739,6 +38143,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒錯，我之前來貓咖的時候，店員有教過我。",
         game = 0,
         video = {
@@ -37832,6 +38237,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "它好像才睡醒的樣子啊……",
         game = 0,
         video = {
@@ -37925,6 +38331,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚訝。看來貓咪也很喜歡這個可愛的OK繃。",
         game = 0,
         video = {
@@ -38018,6 +38425,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "感歎。%s好像很專業的樣子。",
         game = 0,
         video = {
@@ -38111,6 +38519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我緩緩蹲了下來，左右晃動著逗貓棒。貓咪不由自主的擺動著頭。",
         game = 0,
         video = {
@@ -38204,6 +38613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我知道了！",
         game = 0,
         video = {
@@ -38297,6 +38707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -38390,6 +38801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係！還是一樣好喝哦！",
         game = 0,
         video = {
@@ -38483,6 +38895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。在掉毛季節需要經常給貓咪梳毛，避免過多的毛髮被貓咪舔進肚子裡，形成毛球。",
         game = 0,
         video = {
@@ -38576,6 +38989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "回憶。但是耶俱矢給貓咪梳毛的話，往往都像世界大戰一樣狼狽呢。",
         game = 0,
         video = {
@@ -38669,6 +39083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……呼……這樣……好點了嗎？",
         game = 0,
         video = {
@@ -38762,6 +39177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -38855,6 +39271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "認可。咕嚕是非常聰明的貓。",
         game = 0,
         video = {
@@ -38948,6 +39365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "認可。吃太多的話貓咪就會犯懶，用這個陪它玩玩吧。",
         game = 0,
         video = {
@@ -39041,6 +39459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。用毛巾包裹冰塊給%s冰敷，能好得更快。",
         game = 0,
         video = {
@@ -39134,6 +39553,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然經歷了小小的意外，但最終我還是喝到了夕弦親手做的咖啡。",
         game = 0,
         video = {
@@ -39232,6 +39652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "燙……",
         game = 0,
         video = {
@@ -39325,6 +39746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "回答。她叫“咕嚕”，是一個很活潑的小姑娘哦。",
         game = 0,
         video = {
@@ -39418,6 +39840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喵~喵~妳想吃嗎？",
         game = 0,
         video = {
@@ -39511,6 +39934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好燙……",
         game = 0,
         video = {
@@ -39604,6 +40028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……好點了嗎？",
         game = 0,
         video = {
@@ -39697,6 +40122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驚訝。雖然夕弦非常高興能有人幫忙，可是這是夕弦的工作，不應該麻煩%s。",
         game = 0,
         video = {
@@ -39790,6 +40216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我是不是說錯什麼了……",
         game = 0,
         video = {
@@ -39883,6 +40310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來是幫折紙啊……",
         game = 0,
         video = {
@@ -39976,6 +40404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -40070,6 +40499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "貓咪",
         game = 0,
         video = {
@@ -40163,6 +40593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "放心。夕弦沒事的。",
         game = 0,
         video = {
@@ -40256,6 +40687,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣，我們小心翼翼的重新做了咖啡，一起度過了下午的時光。",
         game = 0,
         video = {
@@ -40348,6 +40780,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦妳看起來有點緊張的樣子……",
         game = 0,
         video = {
@@ -40442,6 +40875,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不介意，剛好我也很喜歡貓咪",
         game = 0,
         video = {
@@ -40536,6 +40970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳們的感情真好啊",
         game = 0,
         video = {
@@ -40630,6 +41065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦什麼圖案都能做嗎？",
         game = 0,
         video = {
@@ -40724,6 +41160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沖一下水就行了",
         game = 0,
         video = {
@@ -40817,6 +41254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咕嚕眯著眼睛看著我們倆。",
         game = 0,
         video = {
@@ -40910,6 +41348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "得意。夕弦也有耶俱矢做不到的的方呢，因此現在站在店裡的是夕弦。",
         game = 0,
         video = {
@@ -41003,6 +41442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "驕傲。夕弦可以讓貓咪乖乖配合梳毛工作，甚至可以躺下來露出肚皮哦~",
         game = 0,
         video = {
@@ -41096,6 +41536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然。雖然耶俱矢拉花很厲害，但是夕弦在別的方面更勝一籌，因此現在站在店裡的是夕弦。",
         game = 0,
         video = {
@@ -41189,6 +41630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦的臉上浮現出自豪的神情，非常可愛。",
         game = 0,
         video = {
@@ -41282,6 +41724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "請用。主人。",
         game = 0,
         video = {
@@ -41375,6 +41818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦將手緩緩抬到我的唇邊，我低頭看見手指上有淡淡的紅印……",
         game = 0,
         video = {
@@ -41468,6 +41912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦用手撓了撓白貓的下巴，然後用梳子從頭梳到尾。",
         game = 0,
         video = {
@@ -41561,6 +42006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不過今天店裡似乎真的很忙的樣子，我一下午都沒怎麼和夕弦說上話。",
         game = 0,
         video = {
@@ -41654,6 +42100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好熟練啊！",
         game = 0,
         video = {
@@ -41747,6 +42194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不好意思，嚇到妳了……妳沒事吧？",
         game = 0,
         video = {
@@ -41840,6 +42288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "但是現在卻對我手上的食物沒興趣了……",
         game = 0,
         video = {
@@ -41934,6 +42383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看來這方面妳不如耶俱矢啊",
         game = 0,
         video = {
@@ -42027,6 +42477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來如此。夕弦的辦法真不錯！",
         game = 0,
         video = {
@@ -42120,6 +42571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白。果然耶俱矢更加適合啊……",
         game = 0,
         video = {
@@ -42213,6 +42665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好啊好啊，我也想看看。",
         game = 0,
         video = {
@@ -42306,6 +42759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好獨特的名字……",
         game = 0,
         video = {
@@ -42399,6 +42853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦……",
         game = 0,
         video = {
@@ -42492,6 +42947,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱歉。你沒事吧？",
         game = 0,
         video = {
@@ -42585,6 +43041,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "舒服。感覺如沐春風，已經完全不疼了。%s真厲害。",
         game = 0,
         video = {
@@ -42678,6 +43135,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係，能和專業的夕弦在一起給貓咪梳毛，我也很開心哦！",
         game = 0,
         video = {
@@ -42771,6 +43229,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只是一個拉花而已，隨便怎樣都好吧。",
         game = 0,
         video = {
@@ -42864,6 +43323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "穿女僕裝的店員也是這家貓咖的一大特色，折紙在這裡打工，我也是略有耳聞。",
         game = 0,
         video = {
@@ -42957,6 +43417,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不久之後，夕弦端著已經做好了的咖啡向我走來。",
         game = 0,
         video = {
@@ -43050,6 +43511,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用。有一個辦法可以馬上就好。",
         game = 0,
         video = {
@@ -43143,6 +43605,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我快速按了兩下噴頭，藥水噴灑在夕弦的手指上，然而看上去還是紅紅的。",
         game = 0,
         video = {
@@ -43236,6 +43699,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "害羞。%s知道的辦法……",
         game = 0,
         video = {
@@ -43329,6 +43793,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我知道……什麼……",
         game = 0,
         video = {
@@ -43423,6 +43888,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "安心。那麼%s一定會很享受今天的約會的。",
         game = 0,
         video = {
@@ -43516,6 +43982,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "正確。夕弦可以讓貓咪乖乖配合梳毛工作，甚至可以躺下來露出肚皮哦~",
         game = 0,
         video = {
@@ -43609,6 +44076,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "思考。按理說主人的要求都能滿足的。",
         game = 0,
         video = {
@@ -43702,6 +44170,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "否認。那樣太草率了，店裡有醫藥箱，應該可以處理。",
         game = 0,
         video = {
@@ -43795,6 +44264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "提議。%s買點貓零食給它怎麼樣？",
         game = 0,
         video = {
@@ -43888,6 +44358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "歉意。還有很多工作需要代班女僕做，所以請%s獨自坐一會兒吧。",
         game = 0,
         video = {
@@ -43981,6 +44452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳們的比賽項目還真是豐富啊……",
         game = 0,
         video = {
@@ -44074,6 +44546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦咬著嘴唇，皺著眉頭，小心的在咖啡杯上畫出了形狀……",
         game = 0,
         video = {
@@ -44167,6 +44640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我急忙端起來喝了一口，不停的誇讚。",
         game = 0,
         video = {
@@ -44260,6 +44734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然，咖啡杯上是一團既不像愛心又不像花瓣的圖案……",
         game = 0,
         video = {
@@ -44353,6 +44828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "認可。在拉花上面，確實是耶俱矢比較擅長。",
         game = 0,
         video = {
@@ -44446,6 +44922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來如此。那其他的貓咪也需要吧？",
         game = 0,
         video = {
@@ -44539,6 +45016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "自信。貓咪形狀夕弦很擅長。",
         game = 0,
         video = {
@@ -44632,6 +45110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦左顧右盼，在一個貓爬架的頂端找到了名叫“咕嚕”的貓咪。",
         game = 0,
         video = {
@@ -44725,6 +45204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咕嚕……那隻貓在哪？",
         game = 0,
         video = {
@@ -44818,6 +45298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "提案。%s要換一隻貓咪試試嗎？它現在好像不太想吃呢。",
         game = 0,
         video = {
@@ -44912,6 +45393,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。都是夕弦讓著耶俱矢她才能贏的。因為夕弦是大人，耶俱矢是小孩子。",
         game = 0,
         video = {
@@ -45005,6 +45487,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "羞澀。還有一個方法，可以馬上讓疼痛消失。要試試嗎？",
         game = 0,
         video = {
@@ -45098,6 +45581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "回憶。但是耶俱矢給貓咪梳毛的話，往往都像世界大戰一樣狼狽呢。",
         game = 0,
         video = {
@@ -45191,6 +45675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "提議。下次讓耶俱矢來給%s展示拉花技巧好了。",
         game = 0,
         video = {
@@ -45284,6 +45769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "解釋。因為它經常發出咕嚕咕嚕的聲音，和人非常親近。",
         game = 0,
         video = {
@@ -45377,6 +45863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果能經常練習的話就好了。",
         game = 0,
         video = {
@@ -45470,6 +45957,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒……沒事。",
         game = 0,
         video = {
@@ -45563,6 +46051,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "夕弦的這點小心思，我看穿了卻也不願意說出來。",
         game = 0,
         video = {
@@ -45655,6 +46144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "擔憂。如果沒有畫好的話，%s會失望吧。",
         game = 0,
         video = {

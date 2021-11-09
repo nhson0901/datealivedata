@@ -60,6 +60,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -153,6 +154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没问题的，我们一起去吧。",
         game = 0,
         video = {
@@ -246,6 +248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "稍微等一会哦，早餐很快就好。",
         game = 0,
         video = {
@@ -339,6 +342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "感谢七罪",
         game = 0,
         video = {
@@ -435,6 +439,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -528,6 +533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -621,6 +627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……嗯！",
         game = 0,
         video = {
@@ -714,6 +721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "虽然我很想答应你……但是现在伤得很重，所以谢谢了……",
         game = 0,
         video = {
@@ -807,6 +815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早餐过后，琴里前往Fraxinus，我来到超市，采购一周的食材。",
         game = 0,
         video = {
@@ -901,6 +910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "作为补偿我们去郊游吧",
         game = 0,
         video = {
@@ -994,6 +1004,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "变回本体的七罪，也回到了小心翼翼的，尽量缩小自身存在感的性格。",
         game = 0,
         video = {
@@ -1087,6 +1098,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "酸奶好像喝完了吧，可以多买一些……",
         game = 0,
         video = {
@@ -1180,6 +1192,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇……好多花！",
         game = 0,
         video = {
@@ -1273,6 +1286,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -1366,6 +1380,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喂？%s你在听吧？",
         game = 0,
         video = {
@@ -1459,6 +1474,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对啊，什么品种的鲜花都有，还有一些干花制品。",
         game = 0,
         video = {
@@ -1553,6 +1569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -1646,6 +1663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……我在听呢。发生了什么事吗？",
         game = 0,
         video = {
@@ -1739,6 +1757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "也有……种子吗？",
         game = 0,
         video = {
@@ -1832,6 +1851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "二十分钟后，我和七罪坐在餐桌上，吃着刚刚烹制好的早餐。",
         game = 0,
         video = {
@@ -1925,6 +1945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不过，条件是七罪必须用自己原来的样子和我约会！",
         game = 0,
         video = {
@@ -2018,6 +2039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "味道怎么样呢？",
         game = 0,
         video = {
@@ -2111,6 +2133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？难道说，%s不喜欢我现在的样子吗？",
         game = 0,
         video = {
@@ -2204,6 +2227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看着七罪咬了一口吐司，喝了一口牛奶后，我询问道。",
         game = 0,
         video = {
@@ -2297,6 +2321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不、不是啦，比起你的变身，我更喜欢你原来的样子！",
         game = 0,
         video = {
@@ -2390,6 +2415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好、好吃！",
         game = 0,
         video = {
@@ -2483,6 +2509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呵呵，好的哦……这个条件我可以答应你~",
         game = 0,
         video = {
@@ -2576,6 +2603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "多……多谢款待！",
         game = 0,
         video = {
@@ -2669,6 +2697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -2762,6 +2791,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要客气哦。",
         game = 0,
         video = {
@@ -2857,6 +2887,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……可以……约会了吗？",
         game = 0,
         video = {
@@ -2950,6 +2981,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "或许……七罪可以邀请十香试试看？",
         game = 0,
         video = {
@@ -3044,6 +3076,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是琴里想的那样",
         game = 0,
         video = {
@@ -3137,6 +3170,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？十香……吗？",
         game = 0,
         video = {
@@ -3230,6 +3264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊，不是琴里想的那样啦！",
         game = 0,
         video = {
@@ -3323,6 +3358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，七罪有信心吗？",
         game = 0,
         video = {
@@ -3417,6 +3453,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "连忙追上琴里",
         game = 0,
         video = {
@@ -3510,6 +3547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "闭嘴，让七罪说完。",
         game = 0,
         video = {
@@ -3603,6 +3641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "虽然没有……但是我会努力的……",
         game = 0,
         video = {
@@ -3696,6 +3735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我连忙追上琴里，想解释一下刚才的事情。",
         game = 0,
         video = {
@@ -3789,6 +3829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "琴里的表情有点不妙，周围的气氛也开始严肃起来。",
         game = 0,
         video = {
@@ -3882,6 +3923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，有努力的劲头就足够了。",
         game = 0,
         video = {
@@ -3976,6 +4018,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -4069,6 +4112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可能……%s太喜欢大姐姐体型的我了吧，害羞的样子也很可爱……",
         game = 0,
         video = {
@@ -4162,6 +4206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说着，我鼓励般地摸了摸七罪的头。",
         game = 0,
         video = {
@@ -4255,6 +4300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "琴里，你听我说啊！事情不是你想的那样的。",
         game = 0,
         video = {
@@ -4348,6 +4394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，不要说这种让人误会的话啊！",
         game = 0,
         video = {
@@ -4441,6 +4488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -4534,6 +4582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "笨、笨蛋，你怎么追过来了啊？",
         game = 0,
         video = {
@@ -4627,6 +4676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s，大清早的就做出这种事来。真让人火大啊！",
         game = 0,
         video = {
@@ -4721,6 +4771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -4814,6 +4865,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然是想给你解释清楚啊。",
         game = 0,
         video = {
@@ -4908,6 +4960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "应该就是我",
         game = 0,
         video = {
@@ -5001,6 +5054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "根本什么都没做啊！七罪，你快解释清楚啊！",
         game = 0,
         video = {
@@ -5094,6 +5148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……我回来了。不过……十香没有来……",
         game = 0,
         video = {
@@ -5187,6 +5242,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我这边怎么样的不要紧吧？重点是把七罪追回来啊！",
         game = 0,
         video = {
@@ -5280,6 +5336,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "应该就是我吧，啊哈哈~",
         game = 0,
         video = {
@@ -5373,6 +5430,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……你那么凶，果然是因为讨厌现在的我吗……",
         game = 0,
         video = {
@@ -5466,6 +5524,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？怎么是琴里？",
         game = 0,
         video = {
@@ -5559,6 +5618,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？",
         game = 0,
         video = {
@@ -5652,6 +5712,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我叉着腰，假装非常胸有成竹的样子。",
         game = 0,
         video = {
@@ -5745,6 +5806,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是这个意思，只是想让你解除误会而已啦。",
         game = 0,
         video = {
@@ -5838,6 +5900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "笨蛋哥哥，你也知道这么早十香是不会起床的吧？",
         game = 0,
         video = {
@@ -5931,6 +5994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你也知道，七罪的心理承受能力超弱的……",
         game = 0,
         video = {
@@ -6024,6 +6088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……笨、笨蛋，才不是……",
         game = 0,
         video = {
@@ -6117,6 +6182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……我说的都是真的啊……",
         game = 0,
         video = {
@@ -6210,6 +6276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以，就那样放任不管的话，会出事的吧？",
         game = 0,
         video = {
@@ -6303,6 +6370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪慌忙地否认，脸红地低着头。",
         game = 0,
         video = {
@@ -6396,6 +6464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我没有太喜欢大姐姐体型而害羞，你也只是普通地叫我起床对吧？",
         game = 0,
         video = {
@@ -6489,6 +6558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说的也是……",
         game = 0,
         video = {
@@ -6582,6 +6652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我可是很有这个自信哦，七罪难道没有和我共度一生的自信吗？",
         game = 0,
         video = {
@@ -6675,6 +6746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜……原来%s连大姐姐体型也不喜欢……根本就是讨厌全部的我！",
         game = 0,
         video = {
@@ -6768,6 +6840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不自然地挠了挠头，有点后悔没有追上七罪。",
         game = 0,
         video = {
@@ -6861,6 +6934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不知道……应该没人想和我共度一生……",
         game = 0,
         video = {
@@ -6954,6 +7028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪说着，已经哭着跑出去了。",
         game = 0,
         video = {
@@ -7047,6 +7122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我这边没关系，时间紧迫，你快去找七罪吧！",
         game = 0,
         video = {
@@ -7140,6 +7216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼！我还是去Fraxinus吧。",
         game = 0,
         video = {
@@ -7233,6 +7310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊，我立刻去找！",
         game = 0,
         video = {
@@ -7326,6 +7404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -7420,6 +7499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -7514,6 +7594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -7607,6 +7688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪——你在哪啊？七罪……",
         game = 0,
         video = {
@@ -7700,6 +7782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我把七罪可能去的地方都找了一遍，还是没有看到她的身影。",
         game = 0,
         video = {
@@ -7793,6 +7876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜……",
         game = 0,
         video = {
@@ -7886,6 +7970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "草丛后发出了类似抽泣的声音，听起来很像七罪。",
         game = 0,
         video = {
@@ -7979,6 +8064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪！是你吗？",
         game = 0,
         video = {
@@ -8072,6 +8158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我立刻跑过去一探究竟。",
         game = 0,
         video = {
@@ -8165,6 +8252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……",
         game = 0,
         video = {
@@ -8258,6 +8346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，你没事太好了！",
         game = 0,
         video = {
@@ -8351,6 +8440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "担心的心情让我忍不住紧紧地拥抱着七罪。",
         game = 0,
         video = {
@@ -8444,6 +8534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你、你干什么……",
         game = 0,
         video = {
@@ -8537,6 +8628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吃饱了吗？",
         game = 0,
         video = {
@@ -8630,6 +8722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊……抱歉，我太担心你了。",
         game = 0,
         video = {
@@ -8723,6 +8816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "还想要吃点别的东西吗？",
         game = 0,
         video = {
@@ -8816,6 +8910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜呜……还以为，%s不要我了……",
         game = 0,
         video = {
@@ -8910,6 +9005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "买一些种子",
         game = 0,
         video = {
@@ -9003,6 +9099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不……不用了，我已经吃饱了。",
         game = 0,
         video = {
@@ -9096,6 +9193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "花……花的种子吗？",
         game = 0,
         video = {
@@ -9189,6 +9287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样啊，那我去刷碗了，你能帮忙收拾一下桌子吗？",
         game = 0,
         video = {
@@ -9282,6 +9381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！买一些种子，我们一起来栽种怎么样？",
         game = 0,
         video = {
@@ -9375,6 +9475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……好的！",
         game = 0,
         video = {
@@ -9468,6 +9569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这……这样吗？和%s一起种花……",
         game = 0,
         video = {
@@ -9561,6 +9663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "或许……七罪可以邀请四糸乃试试看？",
         game = 0,
         video = {
@@ -9654,6 +9757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -9747,6 +9851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……我不会种花。",
         game = 0,
         video = {
@@ -9840,6 +9945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃……吗？",
         game = 0,
         video = {
@@ -9934,6 +10040,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -10027,6 +10134,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪不安地低下头，将眉毛皱得更紧。",
         game = 0,
         video = {
@@ -10120,6 +10228,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，七罪有信心吗？",
         game = 0,
         video = {
@@ -10214,6 +10323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "连忙道歉",
         game = 0,
         video = {
@@ -10307,6 +10417,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "种花不是一件难事，而是一件需要耐心的事哦。",
         game = 0,
         video = {
@@ -10400,6 +10511,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有……不过……试一试……应该还是可以？",
         game = 0,
         video = {
@@ -10493,6 +10605,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……你来干什么……",
         game = 0,
         video = {
@@ -10586,6 +10699,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耐……耐心？",
         game = 0,
         video = {
@@ -10679,6 +10793,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，有努力的劲头就足够了。",
         game = 0,
         video = {
@@ -10772,6 +10887,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我连忙90度鞠躬，大声地说道。",
         game = 0,
         video = {
@@ -10865,6 +10981,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "即使可能会失败，但是只要不灰心，最后一定会成功的。",
         game = 0,
         video = {
@@ -10958,6 +11075,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说着，我鼓励般地摸了摸七罪的头。",
         game = 0,
         video = {
@@ -11051,6 +11169,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对不起，刚才是我错了，真的十分抱歉！",
         game = 0,
         video = {
@@ -11144,6 +11263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！我相信我们一定可以的！",
         game = 0,
         video = {
@@ -11237,6 +11357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -11330,6 +11451,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜——！",
         game = 0,
         video = {
@@ -11423,6 +11545,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "将种子埋进泥土之后，施肥、浇水，等待它长大，是一个漫长而幸福的过程呢。",
         game = 0,
         video = {
@@ -11517,6 +11640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -11610,6 +11734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊，不好意思，是不是声音太大吓着你了？",
         game = 0,
         video = {
@@ -11703,6 +11828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "幸、幸福……",
         game = 0,
         video = {
@@ -11796,6 +11922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……我回来了……",
         game = 0,
         video = {
@@ -11889,6 +12016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……%s是个笨蛋……",
         game = 0,
         video = {
@@ -11983,6 +12111,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪轻轻地拉了一下我的袖子，像是突然想起什么似的。",
         game = 0,
         video = {
@@ -12076,6 +12205,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "琴里……你该不会是知道些什么吧？",
         game = 0,
         video = {
@@ -12169,6 +12299,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……！",
         game = 0,
         video = {
@@ -12262,6 +12393,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……为什么……不买那些呢？",
         game = 0,
         video = {
@@ -12355,6 +12487,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我什么都不知道！",
         game = 0,
         video = {
@@ -12448,6 +12581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s是认真的吗？",
         game = 0,
         video = {
@@ -12541,6 +12675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说话的同时，七罪用手指着旁边盛开着的鲜花。",
         game = 0,
         video = {
@@ -12634,6 +12769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喂喂，你的表情明明就是知道啊。",
         game = 0,
         video = {
@@ -12727,6 +12863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然了，可以邀请七罪和我一起插花吗？",
         game = 0,
         video = {
@@ -12820,6 +12957,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……咦？七罪更想要买鲜花吗？",
         game = 0,
         video = {
@@ -12913,6 +13051,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天Ratatoskr有很多事情要处理，我先走啦！",
         game = 0,
         video = {
@@ -13007,6 +13146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "起身吓唬七罪",
         game = 0,
         video = {
@@ -13100,6 +13240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "它们正在美丽地盛开着不是吗？",
         game = 0,
         video = {
@@ -13193,6 +13334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等……你还没吃早餐吧。",
         game = 0,
         video = {
@@ -13286,6 +13428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我立马起身，一声怪叫吓唬着七罪。",
         game = 0,
         video = {
@@ -13379,6 +13522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香喜欢吗？",
         game = 0,
         video = {
@@ -13472,6 +13616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "其实我更想和七罪体验种花的过程呢。",
         game = 0,
         video = {
@@ -13566,6 +13711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "连忙让七罪说明",
         game = 0,
         video = {
@@ -13659,6 +13805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么可以……这种低级玩笑一点都不好笑哦。",
         game = 0,
         video = {
@@ -13752,6 +13899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "超喜欢~",
         game = 0,
         video = {
@@ -13845,6 +13993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这……这样吗？",
         game = 0,
         video = {
@@ -13938,6 +14087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "根本什么都没做啊！七罪，你说明一下啊！",
         game = 0,
         video = {
@@ -14031,6 +14181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪表情不太自然的转身就走。",
         game = 0,
         video = {
@@ -14124,6 +14275,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是太好了呢。",
         game = 0,
         video = {
@@ -14216,6 +14368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！而且七罪不是也觉得鲜花太容易凋零了吗？",
         game = 0,
         video = {
@@ -14309,6 +14462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……果然讨厌我吗？",
         game = 0,
         video = {
@@ -14402,6 +14556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看来七罪是真的生气了啊……得赶紧道歉才行。",
         game = 0,
         video = {
@@ -14495,6 +14650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果买种子的话，它会陪伴我们更长时间。",
         game = 0,
         video = {
@@ -14588,6 +14744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是这个意思，只是想让你解除误会而已啦。",
         game = 0,
         video = {
@@ -14684,6 +14841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -14777,6 +14935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……可是……我一定会搞砸吧。",
         game = 0,
         video = {
@@ -14870,6 +15029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……我说的都是真的啊……",
         game = 0,
         video = {
@@ -14963,6 +15123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "焦急地来到精灵公寓，我忐忑地东张西望。",
         game = 0,
         video = {
@@ -15057,6 +15218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么会呢？不管成功还是失败，都会留下我和七罪的美好回忆。",
         game = 0,
         video = {
@@ -15150,6 +15312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我没有太喜欢大姐姐体型而害羞，你也只是普通的叫我起床对吧？",
         game = 0,
         video = {
@@ -15243,6 +15406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对不起、对不起！",
         game = 0,
         video = {
@@ -15336,6 +15500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美……美好的回忆。",
         game = 0,
         video = {
@@ -15429,6 +15594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜……原来%s连大姐姐体型也不喜欢……根本就是讨厌全部的我！",
         game = 0,
         video = {
@@ -15522,6 +15688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明明不可以说出来……又被我搞砸了。",
         game = 0,
         video = {
@@ -15615,6 +15782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……嗯！",
         game = 0,
         video = {
@@ -15708,6 +15876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "来不及解释，七罪已经跑走了。",
         game = 0,
         video = {
@@ -15801,6 +15970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪将本来低着的头埋得更低。",
         game = 0,
         video = {
@@ -15894,6 +16064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "虽然脸上依然挂着无聊的表情，但是突然整个人散发出迷人的光彩。",
         game = 0,
         video = {
@@ -15987,6 +16158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊，我还是去Fraxinus吧。",
         game = 0,
         video = {
@@ -16080,6 +16252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有关系，即使知道了这件事，我依然很感谢七罪打扫了房间。",
         game = 0,
         video = {
@@ -16173,6 +16346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那么，七罪想要种什么花呢？",
         game = 0,
         video = {
@@ -16266,6 +16440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……是吗？",
         game = 0,
         video = {
@@ -16359,6 +16534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个花……很好看，我们可以种它吗？",
         game = 0,
         video = {
@@ -16452,6 +16628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，而且你做得很棒哦！",
         game = 0,
         video = {
@@ -16545,6 +16722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……咦？是紫色的郁金香吗？",
         game = 0,
         video = {
@@ -16638,6 +16816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……你不会是在开玩笑的吧？",
         game = 0,
         video = {
@@ -16732,6 +16911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "去约会吧",
         game = 0,
         video = {
@@ -16825,6 +17005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！我们可以种出那样的花吗？",
         game = 0,
         video = {
@@ -16918,6 +17099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有一丁点开玩笑的意思，七罪真的做得很棒。",
         game = 0,
         video = {
@@ -17011,6 +17193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……今天……那个……",
         game = 0,
         video = {
@@ -17104,6 +17287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们买一些花种回去试试吧，其实我也不确定第一次能不能成功……",
         game = 0,
         video = {
@@ -17197,6 +17381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以我们来试试看吧！一起来插花！",
         game = 0,
         video = {
@@ -17290,6 +17475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "天气那么好，不如我们一起去约会吧？",
         game = 0,
         video = {
@@ -17383,6 +17569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "郁金香是用球茎来种哦，栽种并不是很难。你们看，这就是郁金香的球茎。",
         game = 0,
         video = {
@@ -17476,6 +17663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……嗯！",
         game = 0,
         video = {
@@ -17569,6 +17757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶……？约会……？",
         game = 0,
         video = {
@@ -17662,6 +17851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "花店老板把一个小小的圆球递到七罪的手上。",
         game = 0,
         video = {
@@ -17755,6 +17945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "首先，需要确定色系，入门的插花是从确认色系开始的哦。",
         game = 0,
         video = {
@@ -17848,6 +18039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，七罪不愿意吗？",
         game = 0,
         video = {
@@ -17941,6 +18133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这就是……郁金香球茎，可以开出那样美丽花朵的东西吗？",
         game = 0,
         video = {
@@ -18034,6 +18227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……色系……什么的。",
         game = 0,
         video = {
@@ -18127,6 +18321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不……不……是……",
         game = 0,
         video = {
@@ -18220,6 +18415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的，只要方法得当，在两位的悉心照料下，就会开出像那样紫色的郁金香花朵呢。",
         game = 0,
         video = {
@@ -18313,6 +18509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哎诶？色系？",
         game = 0,
         video = {
@@ -18406,6 +18603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，既然这样，等我做一份双人便当就出发吧？",
         game = 0,
         video = {
@@ -18499,6 +18697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……多谢款待~",
         game = 0,
         video = {
@@ -18592,6 +18791,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就像……画画一样，需要确认基本的色系。",
         game = 0,
         video = {
@@ -18685,6 +18885,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，约会~",
         game = 0,
         video = {
@@ -18778,6 +18979,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，你们喜欢就好。",
         game = 0,
         video = {
@@ -18871,6 +19073,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈……七罪对绘画的事情很了解嘛。",
         game = 0,
         video = {
@@ -18964,6 +19167,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -19057,6 +19261,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对了，你们之后有什么安排吗？",
         game = 0,
         video = {
@@ -19150,6 +19355,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s喜欢什么色系呢？",
         game = 0,
         video = {
@@ -19246,6 +19452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -19339,6 +19546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……没有……",
         game = 0,
         video = {
@@ -19432,6 +19640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "微风吹拂着，空气中弥漫着草木的清香，我牵着七罪来到了公园的天台。",
         game = 0,
         video = {
@@ -19525,6 +19734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "午间剧场……所以……",
         game = 0,
         video = {
@@ -19618,6 +19828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼~外面的空气好新鲜啊。",
         game = 0,
         video = {
@@ -19711,6 +19922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "时间快到了！四糸乃，我们得赶回去了。",
         game = 0,
         video = {
@@ -19804,6 +20016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……好多人类……",
         game = 0,
         video = {
@@ -19897,6 +20110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯……%s，再见。",
         game = 0,
         video = {
@@ -19990,6 +20204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可能是因为今天的天气适合出门吧。",
         game = 0,
         video = {
@@ -20083,6 +20298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这里有花盆和铲子，我先铲出一个小坑，然后你把球茎放进去可以吗？",
         game = 0,
         video = {
@@ -20176,6 +20392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好讨厌的感觉 ……",
         game = 0,
         video = {
@@ -20269,6 +20486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好的。",
         game = 0,
         video = {
@@ -20362,6 +20580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？是因为人多的缘故吗？",
         game = 0,
         video = {
@@ -20455,6 +20674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我在花盆中挖出一个小坑，七罪把球茎放进去，然后我再铲土将它埋起来。",
         game = 0,
         video = {
@@ -20548,6 +20768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "培根吐司配牛奶",
         game = 0,
         video = {
@@ -20641,6 +20862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……感觉大家都在看着我……",
         game = 0,
         video = {
@@ -20734,6 +20956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "完……完成了。",
         game = 0,
         video = {
@@ -20827,6 +21050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的，我了解了！",
         game = 0,
         video = {
@@ -20920,6 +21144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我环视了一下四周，并没有人在看着我们。",
         game = 0,
         video = {
@@ -21013,6 +21238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "还没有哦，还缺少一个重要的步骤。",
         game = 0,
         video = {
@@ -21106,6 +21332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那么……需要我帮忙吗？",
         game = 0,
         video = {
@@ -21199,6 +21426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有啊，应该是七罪的错觉吧。",
         game = 0,
         video = {
@@ -21292,6 +21520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……咦？是什么？",
         game = 0,
         video = {
@@ -21385,6 +21614,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果可以的话，请帮我把培根拿出来吧。",
         game = 0,
         video = {
@@ -21478,6 +21708,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜……感觉……要被视线包围了……",
         game = 0,
         video = {
@@ -21572,6 +21803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是浇水啦，还需要给它浇水。",
         game = 0,
         video = {
@@ -21665,6 +21897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "给你，需要我来煎培根吗？",
         game = 0,
         video = {
@@ -21758,6 +21991,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，是要培根吐司配牛奶，还是要米饭火腿配酱汤呢？",
         game = 0,
         video = {
@@ -21851,6 +22085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦……哦！浇水！",
         game = 0,
         video = {
@@ -21944,6 +22179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用帮忙也没关系，我自己可以的。",
         game = 0,
         video = {
@@ -22037,6 +22273,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？竟然是两种风格完全不同的早餐吗？",
         game = 0,
         video = {
@@ -22136,6 +22373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……！糟糕了！",
         game = 0,
         video = {
@@ -22229,6 +22467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -22322,6 +22561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……不要抱有太高的期待哦，大概最多只能做到能吃的程度而已。",
         game = 0,
         video = {
@@ -22415,6 +22655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么了？",
         game = 0,
         video = {
@@ -22509,6 +22750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -22602,6 +22844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈……这样啊。",
         game = 0,
         video = {
@@ -22695,6 +22938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "挠了挠头，我感到十分难为情，因为有些激动，我在浇水的时候手抖了一下。",
         game = 0,
         video = {
@@ -22788,6 +23032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没过多久，七罪将做好的早餐端上来。",
         game = 0,
         video = {
@@ -22881,6 +23126,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们去买面包吧",
         game = 0,
         video = {
@@ -22974,6 +23220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "做出选择吧，%s钟意的早餐。",
         game = 0,
         video = {
@@ -23067,6 +23314,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不小心水浇多了。",
         game = 0,
         video = {
@@ -23162,6 +23410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果不想吃的话……不用勉强也没关系。",
         game = 0,
         video = {
@@ -23255,6 +23504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……可以……不去吗？",
         game = 0,
         video = {
@@ -23348,6 +23598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊哈，那么我选……",
         game = 0,
         video = {
@@ -23442,6 +23693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "再来一杯牛奶吗？",
         game = 0,
         video = {
@@ -23535,6 +23787,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？七罪不想吃面包吗？",
         game = 0,
         video = {
@@ -23628,6 +23881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用了！",
         game = 0,
         video = {
@@ -23721,6 +23975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……如果可以的话，我可以尝试给%s做早餐吃吗？",
         game = 0,
         video = {
@@ -23814,6 +24069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪想试试插花吗？",
         game = 0,
         video = {
@@ -23907,6 +24163,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？",
         game = 0,
         video = {
@@ -24000,6 +24257,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七、七罪想要做早餐吗？",
         game = 0,
         video = {
@@ -24093,6 +24351,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "花店的桌子边围坐了一些客人，专注地插花。",
         game = 0,
         video = {
@@ -24186,6 +24445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "虽然七罪还是一脸无聊的表情，但显然浑身散发着怒气。",
         game = 0,
         video = {
@@ -24279,6 +24539,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……因为一直以来承蒙%s的照顾，所以我也想努力看看。",
         game = 0,
         video = {
@@ -24372,6 +24633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "为什么会有这么多人在插花呢？",
         game = 0,
         video = {
@@ -24465,6 +24727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你果然……是讨厌我吧！",
         game = 0,
         video = {
@@ -24558,6 +24821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天是本店的插花体验日，两位要不要也试试看呢？",
         game = 0,
         video = {
@@ -24651,6 +24915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？怎么会这么想？",
         game = 0,
         video = {
@@ -24744,6 +25009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我向七罪投去询问的眼神。",
         game = 0,
         video = {
@@ -24837,6 +25103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s可以直说啊，讨厌我矮小的身材什么的！",
         game = 0,
         video = {
@@ -24930,6 +25197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……这个……",
         game = 0,
         video = {
@@ -25023,6 +25291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊？我有说过这种话吗？",
         game = 0,
         video = {
@@ -25117,6 +25386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "拜托四糸乃帮忙",
         game = 0,
         video = {
@@ -25210,6 +25480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪想去试试插花吗？",
         game = 0,
         video = {
@@ -25303,6 +25574,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……所以才让我多喝牛奶的吧！你就是嫌弃我了吧！",
         game = 0,
         video = {
@@ -25396,6 +25668,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "打扰了，请问七罪在吗？",
         game = 0,
         video = {
@@ -25489,6 +25762,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不管七罪说什么都答应",
         game = 0,
         video = {
@@ -25582,6 +25856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s，日安~",
         game = 0,
         video = {
@@ -25675,6 +25950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "总之都是我的错，作为赔罪，不管七罪说什么我都答应！",
         game = 0,
         video = {
@@ -25768,6 +26044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小哥，你找七罪做什么呐？",
         game = 0,
         video = {
@@ -25861,6 +26138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？……真的么？",
         game = 0,
         video = {
@@ -25954,6 +26232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃，拜托了，请一定要帮帮我！",
         game = 0,
         video = {
@@ -26047,6 +26326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？怎么了……？",
         game = 0,
         video = {
@@ -26140,6 +26420,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我只好把前因后果告诉了四糸乃。",
         game = 0,
         video = {
@@ -26233,6 +26514,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真过分啊，小哥居然吓唬七罪。",
         game = 0,
         video = {
@@ -26326,6 +26608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我明白了……交给我吧！",
         game = 0,
         video = {
@@ -26419,6 +26702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说着，四糸乃转身走进了七罪的房间。",
         game = 0,
         video = {
@@ -26513,6 +26797,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是七罪说的那样",
         game = 0,
         video = {
@@ -26606,6 +26891,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们回来啦！~",
         game = 0,
         video = {
@@ -26699,6 +26985,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊，不是七罪说的那样啦！",
         game = 0,
         video = {
@@ -26792,6 +27079,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……呜……",
         game = 0,
         video = {
@@ -26886,6 +27174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "连忙追上七罪",
         game = 0,
         video = {
@@ -26979,6 +27268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "闭嘴，让七罪说完。",
         game = 0,
         video = {
@@ -27072,6 +27362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我连忙追上七罪，想解释一下刚才的事情。",
         game = 0,
         video = {
@@ -27165,6 +27456,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "琴里的表情有点不妙，周围的气氛也开始严肃起来。",
         game = 0,
         video = {
@@ -27259,6 +27551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样是不会带来快乐的",
         game = 0,
         video = {
@@ -27353,6 +27646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -27446,6 +27740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可能……%s太喜欢大姐姐体型的我了吧，害羞的样子也很可爱……",
         game = 0,
         video = {
@@ -27539,6 +27834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我摸了摸七罪的头表示安慰。",
         game = 0,
         video = {
@@ -27632,6 +27928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "焦急地来到精灵公寓，我忐忑地东张西望。",
         game = 0,
         video = {
@@ -27725,6 +28022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，不要说这种让人误会的话啊！",
         game = 0,
         video = {
@@ -27818,6 +28116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，这样是不会带来快乐的。",
         game = 0,
         video = {
@@ -27911,6 +28210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s，大清早的就做出这种事来。真让人火大啊！",
         game = 0,
         video = {
@@ -28005,6 +28305,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？什么……意思？",
         game = 0,
         video = {
@@ -28098,6 +28399,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "像这样因为胡思乱想而伤心，那每天都不会快乐哦。",
         game = 0,
         video = {
@@ -28191,6 +28493,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯……可是像我这样的人，会有人喜欢吗？",
         game = 0,
         video = {
@@ -28284,6 +28587,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那当然啦！只要你能够用积极的心态对待事情就行。",
         game = 0,
         video = {
@@ -28377,6 +28681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就像……四糸乃那样吗？",
         game = 0,
         video = {
@@ -28470,6 +28775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没错，要以四糸乃为榜样做一个温柔的小天使哦！",
         game = 0,
         video = {
@@ -28563,6 +28869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……！四糸乃是我的……天使。",
         game = 0,
         video = {
@@ -28656,6 +28963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以，以后也要加油打败那些负面情绪哦！",
         game = 0,
         video = {
@@ -28749,6 +29057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好、好的……",
         game = 0,
         video = {
@@ -28842,6 +29151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我笑着摸了摸七罪的头。",
         game = 0,
         video = {
@@ -28935,6 +29245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "时间不早了，我们回去吧？",
         game = 0,
         video = {
@@ -29028,6 +29339,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……！",
         game = 0,
         video = {
@@ -29120,6 +29432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "还是我来做吧",
         game = 0,
         video = {
@@ -29213,6 +29526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……不可以吗？",
         game = 0,
         video = {
@@ -29306,6 +29620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "买一些鲜花",
         game = 0,
         video = {
@@ -29399,6 +29714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这次就让我来做早餐吧，就当做是对七罪打扫了房间的答谢。",
         game = 0,
         video = {
@@ -29492,6 +29808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "鲜花吗？",
         game = 0,
         video = {
@@ -29585,6 +29902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……好吧，麻烦%s了。",
         game = 0,
         video = {
@@ -29678,6 +29996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为……我喜欢七罪认真的样子",
         game = 0,
         video = {
@@ -29771,6 +30090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！七罪很喜欢鲜花扎成的花束吧。",
         game = 0,
         video = {
@@ -29864,6 +30184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -29957,6 +30278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……！",
         game = 0,
         video = {
@@ -30050,6 +30372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……！比起塑料花，果然还是鲜花的色泽更加鲜艳，香味也更加自然。",
         game = 0,
         video = {
@@ -30144,6 +30467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -30237,6 +30561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪！",
         game = 0,
         video = {
@@ -30330,6 +30655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然这样的话……",
         game = 0,
         video = {
@@ -30424,6 +30750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "二十分钟后，我将热腾腾的早餐端上餐桌。",
         game = 0,
         video = {
@@ -30517,6 +30844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -30610,6 +30938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "为什么突然跑出去了，难道是我说错什么话了吗？",
         game = 0,
         video = {
@@ -30704,6 +31033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -30797,6 +31127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我拉住七罪，如果任由她跑走的话就糟糕了。",
         game = 0,
         video = {
@@ -30890,6 +31221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "放……放开。",
         game = 0,
         video = {
@@ -30983,6 +31315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你怎么了？是我说错了什么吗？",
         game = 0,
         video = {
@@ -31076,6 +31409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吃过饭就去找她！",
         game = 0,
         video = {
@@ -31169,6 +31503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -31262,6 +31597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不错，悟性很高嘛。",
         game = 0,
         video = {
@@ -31355,6 +31691,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看看别人插花吧",
         game = 0,
         video = {
@@ -31448,6 +31785,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -31541,6 +31879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……嗯！",
         game = 0,
         video = {
@@ -31635,6 +31974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -31728,6 +32068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我比较喜欢冷色系的插花",
         game = 0,
         video = {
@@ -31821,6 +32162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -31920,6 +32262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……！",
         game = 0,
         video = {
@@ -32013,6 +32356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "蓝玫瑰、紫绣球、桔梗……这些冷色系的花。",
         game = 0,
         video = {
@@ -32106,6 +32450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "每个人……都不一样。",
         game = 0,
         video = {
@@ -32199,6 +32544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪怎么会在这里？！",
         game = 0,
         video = {
@@ -32292,6 +32638,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……我也喜欢。",
         game = 0,
         video = {
@@ -32385,6 +32732,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在躲在我身后，观察了小孩子、情侣和老奶奶的插花后，七罪偷偷对我这样说。",
         game = 0,
         video = {
@@ -32478,6 +32826,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早……早上好。",
         game = 0,
         video = {
@@ -32571,6 +32920,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？七罪也喜欢冷色系的花吗？",
         game = 0,
         video = {
@@ -32664,6 +33014,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，因为有不同的心境，喜好也不同，所以插花风格完全不同。",
         game = 0,
         video = {
@@ -32757,6 +33108,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早上好啊……我正要去找你呢。",
         game = 0,
         video = {
@@ -32851,6 +33203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "作为补偿我们去约会吧",
         game = 0,
         video = {
@@ -32944,6 +33297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s最喜欢谁的插花？",
         game = 0,
         video = {
@@ -33037,6 +33391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可、可以的……",
         game = 0,
         video = {
@@ -33130,6 +33485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然这样，作为补偿我们去约会吧！",
         game = 0,
         video = {
@@ -33223,6 +33579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我最喜欢的插花嘛……",
         game = 0,
         video = {
@@ -33319,6 +33676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "邀请两人出去玩",
         game = 0,
         video = {
@@ -33412,6 +33770,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像很有趣，可以哦~",
         game = 0,
         video = {
@@ -33505,6 +33864,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "“只要她认真做别的事情，我就可以不和她说话，也不用对她微笑了”，你是这么想的吧？",
         game = 0,
         video = {
@@ -33598,6 +33958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "刚才十分抱歉，作为赔礼不如我带你们一起出去玩吧？",
         game = 0,
         video = {
@@ -33691,6 +34052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪笑着看着我，回答地十分干脆。",
         game = 0,
         video = {
@@ -33784,6 +34146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……啊？完全没有这样想！",
         game = 0,
         video = {
@@ -33877,6 +34240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼……如果四糸乃去的话……我就去。",
         game = 0,
         video = {
@@ -33970,6 +34334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不过，条件是七罪必须用自己原来的样子和我约会！",
         game = 0,
         video = {
@@ -34063,6 +34428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "“她平时一定做什么都没有认真吧”，你也会这么想吧……",
         game = 0,
         video = {
@@ -34156,6 +34522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然……这样，我们一起去吧？",
         game = 0,
         video = {
@@ -34249,6 +34616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？难道说，%s不喜欢我现在的样子吗？",
         game = 0,
         video = {
@@ -34342,6 +34710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有哦，我不会这样想七罪的，其实……",
         game = 0,
         video = {
@@ -34435,6 +34804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "能原谅我真是太好啦，那么我们出发吧~",
         game = 0,
         video = {
@@ -34528,6 +34898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不、不是啦，比起你的变身，我更喜欢你原来的样子！",
         game = 0,
         video = {
@@ -34621,6 +34992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "挠了挠头，我不知道如何对七罪解释。",
         game = 0,
         video = {
@@ -34714,6 +35086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……！",
         game = 0,
         video = {
@@ -34807,6 +35180,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呵呵，好的哦……这个条件的答应你~",
         game = 0,
         video = {
@@ -34900,6 +35274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱……抱歉，给%s带来那么多困扰。",
         game = 0,
         video = {
@@ -34993,6 +35368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好、好的……！",
         game = 0,
         video = {
@@ -35086,6 +35462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -35179,6 +35556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不知不觉就这样想了……",
         game = 0,
         video = {
@@ -35272,6 +35650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -35365,6 +35744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……可以……约会了吗？",
         game = 0,
         video = {
@@ -35458,6 +35838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没关系，我知道你也不想这样的。",
         game = 0,
         video = {
@@ -35552,6 +35933,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -35645,6 +36027,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，这样才对嘛！走吧，我们出发。",
         game = 0,
         video = {
@@ -35738,6 +36121,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我很没用吧……",
         game = 0,
         video = {
@@ -35831,6 +36215,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "达成共识后，我带着七罪和四糸乃来到了公园。",
         game = 0,
         video = {
@@ -35925,6 +36310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "去郊游吧",
         game = 0,
         video = {
@@ -36018,6 +36404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……我们可以一起玩秋千吗？",
         game = 0,
         video = {
@@ -36111,6 +36498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……今天……那个……",
         game = 0,
         video = {
@@ -36204,6 +36592,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃指着一边的秋千，期待地看着七罪。",
         game = 0,
         video = {
@@ -36298,6 +36687,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要怕，你是最棒的",
         game = 0,
         video = {
@@ -36391,6 +36781,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "天气那么好，不如我们一起去郊游吧？",
         game = 0,
         video = {
@@ -36484,6 +36875,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？可以吗……？",
         game = 0,
         video = {
@@ -36577,6 +36969,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，不要怕，你是最棒的！",
         game = 0,
         video = {
@@ -36670,6 +37063,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶……？郊游……？！",
         game = 0,
         video = {
@@ -36763,6 +37157,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "经过花店的时候，七罪被各种鲜花和绿植吸引了。",
         game = 0,
         video = {
@@ -36856,6 +37251,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我摸了摸七罪的头表示安慰。",
         game = 0,
         video = {
@@ -36949,6 +37345,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，七罪不愿意吗？",
         game = 0,
         video = {
@@ -37042,6 +37439,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "想进去看看吗？",
         game = 0,
         video = {
@@ -37135,6 +37533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的……吗？",
         game = 0,
         video = {
@@ -37228,6 +37627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不……不……是……",
         game = 0,
         video = {
@@ -37321,6 +37721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……可以进去吗？",
         game = 0,
         video = {
@@ -37414,6 +37815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，所以不用担心周围的视线也可以哦。",
         game = 0,
         video = {
@@ -37507,6 +37909,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，既然这样，等我做一份双人便当就出发吧？",
         game = 0,
         video = {
@@ -37600,6 +38003,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然了，今天当然要满足七罪的愿望。",
         game = 0,
         video = {
@@ -37693,6 +38097,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不行……我做不到……",
         game = 0,
         video = {
@@ -37786,6 +38191,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，一起~",
         game = 0,
         video = {
@@ -37880,6 +38286,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -37973,6 +38380,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没关系，我们慢慢习惯它就好。",
         game = 0,
         video = {
@@ -38066,6 +38474,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -38159,6 +38568,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天的花店，客人不少呢。",
         game = 0,
         video = {
@@ -38252,6 +38662,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……我知道了……",
         game = 0,
         video = {
@@ -38346,6 +38757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -38439,6 +38851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "花店的桌子边围坐了一些客人，正在专注地做手里的事情。",
         game = 0,
         video = {
@@ -38532,6 +38945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那么，接下来，我们去观光台看风景吧？",
         game = 0,
         video = {
@@ -38625,6 +39039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "微风吹拂着，空气中弥漫着草木的清香，我牵着七罪来到了公园。",
         game = 0,
         video = {
@@ -38718,6 +39133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好多人……他们在做什么？",
         game = 0,
         video = {
@@ -38811,6 +39227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好，一起……",
         game = 0,
         video = {
@@ -38904,6 +39321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "客人是在插花哦，今天是本店的插花体验日。",
         game = 0,
         video = {
@@ -38997,6 +39415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -39090,6 +39509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原来是插花体验日啊，难怪这么热闹。",
         game = 0,
         video = {
@@ -39184,6 +39604,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -39277,6 +39698,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "他们做的那个……可以……带回去吗？",
         game = 0,
         video = {
@@ -39370,6 +39792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不知不觉，天色渐渐暗了下来，我和七罪已经逛了一天。",
         game = 0,
         video = {
@@ -39463,6 +39886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喜欢的话，付很少的钱就可以带回去。",
         game = 0,
         video = {
@@ -39556,6 +39980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "黄昏的街道被镀上了一层金色，远处的枫树落下片片红叶。",
         game = 0,
         video = {
@@ -39649,6 +40074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……知道了。",
         game = 0,
         video = {
@@ -39742,6 +40168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好、好漂亮啊……",
         game = 0,
         video = {
@@ -39835,6 +40262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪好像很感兴趣的样子……",
         game = 0,
         video = {
@@ -39930,6 +40358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，难得能看见这样的景象。",
         game = 0,
         video = {
@@ -40023,6 +40452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……快看……",
         game = 0,
         video = {
@@ -40116,6 +40546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪正目不转睛地盯着一片缓慢落下的枫叶。",
         game = 0,
         video = {
@@ -40209,6 +40640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "再来一个煎蛋吗？",
         game = 0,
         video = {
@@ -40302,6 +40734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "才不要呢！",
         game = 0,
         video = {
@@ -40395,6 +40828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们买一些花吗？",
         game = 0,
         video = {
@@ -40488,6 +40922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……可以吗？",
         game = 0,
         video = {
@@ -40581,6 +41016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "情侣的插花",
         game = 0,
         video = {
@@ -40674,6 +41110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，花店里有很多种选择，可以直接购买鲜花、干花，也可以购买花的种子回去种。",
         game = 0,
         video = {
@@ -40767,6 +41204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……令人羡慕的情侣。",
         game = 0,
         video = {
@@ -40860,6 +41298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……是啊，他们看起来感情很好呢。",
         game = 0,
         video = {
@@ -40953,6 +41392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "依偎在一起，男生握着女生的手一起插花，时不时地相视一笑。",
         game = 0,
         video = {
@@ -41046,6 +41486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……为什么更喜欢他们的插花呢？",
         game = 0,
         video = {
@@ -41139,6 +41580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这个啊……大概是因为爱意吧。",
         game = 0,
         video = {
@@ -41232,6 +41674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "爱意？",
         game = 0,
         video = {
@@ -41325,6 +41768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！因为互相喜欢着，爱意会在插花中流露出来。",
         game = 0,
         video = {
@@ -41418,6 +41862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "会……会吗？",
         game = 0,
         video = {
@@ -41511,6 +41956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然会了，你看他们的插花，做成了爱心的形状呢。",
         game = 0,
         video = {
@@ -41604,6 +42050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是、是的！是用红色玫瑰做成的爱心。",
         game = 0,
         video = {
@@ -41697,6 +42144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "无论是选择用玫瑰作为插花，还是花束扎成爱心的形状，都流露出爱意呢。",
         game = 0,
         video = {
@@ -41790,6 +42238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……嗯！我……也喜欢。",
         game = 0,
         video = {
@@ -41883,6 +42332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪的眼睛里散发着别样的光彩。",
         game = 0,
         video = {
@@ -41977,6 +42427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "连忙让七罪解释",
         game = 0,
         video = {
@@ -42070,6 +42521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "根本什么都没做啊！七罪，你快解释清楚啊！",
         game = 0,
         video = {
@@ -42164,6 +42616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们玩阶梯游戏吧？",
         game = 0,
         video = {
@@ -42257,6 +42710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……果然讨厌我吗？",
         game = 0,
         video = {
@@ -42350,6 +42804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……不如我们玩阶梯游戏吧？",
         game = 0,
         video = {
@@ -42443,6 +42898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是这个意思，只是想让你解除误会而已啦。",
         game = 0,
         video = {
@@ -42537,6 +42993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "假装找不到七罪",
         game = 0,
         video = {
@@ -42630,6 +43087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……那是……什么？",
         game = 0,
         video = {
@@ -42723,6 +43181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……我说的都是真的啊……",
         game = 0,
         video = {
@@ -42816,6 +43275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "到底在哪呢？好难找啊……",
         game = 0,
         video = {
@@ -42909,6 +43369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪没有玩过吗？",
         game = 0,
         video = {
@@ -43002,6 +43463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我没有太喜欢大姐姐体型而害羞，你也只是普通的叫我起床对吧？",
         game = 0,
         video = {
@@ -43095,6 +43557,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "假装没有看见躲在草丛后面的七罪，我继续寻找了一会儿。",
         game = 0,
         video = {
@@ -43188,6 +43651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有……怎么办……？",
         game = 0,
         video = {
@@ -43281,6 +43745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜……原来%s连大姐姐体型也不喜欢……根本就是讨厌全部的我！",
         game = 0,
         video = {
@@ -43374,6 +43839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看来七罪的确是捉迷藏的高手呢……",
         game = 0,
         video = {
@@ -43467,6 +43933,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我可以教你哦，这是个很有趣的游戏~",
         game = 0,
         video = {
@@ -43560,6 +44027,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "来不及解释，七罪已经跑走了。",
         game = 0,
         video = {
@@ -43656,6 +44124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -43749,6 +44218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "简单地告诉完七罪游戏规则后，我们开始了正式的比赛。",
         game = 0,
         video = {
@@ -43842,6 +44312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊，我还是去Fraxinus吧。",
         game = 0,
         video = {
@@ -43935,6 +44406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我一边找一边自然而然地走到了草丛附近。",
         game = 0,
         video = {
@@ -44028,6 +44500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "开始了哦，主题是水果，我的是ju~zi~，桔子，走四步。",
         game = 0,
         video = {
@@ -44121,6 +44594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "面对空无一人的客厅，我一时不知如何是好。",
         game = 0,
         video = {
@@ -44214,6 +44688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就在我正打算揭穿七罪的时候，一阵风吹过。",
         game = 0,
         video = {
@@ -44307,6 +44782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……我是……cao~mei~，草莓……",
         game = 0,
         video = {
@@ -44400,6 +44876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对了！得赶紧找到七罪才行，她的情绪很容易失控的……",
         game = 0,
         video = {
@@ -44494,6 +44971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -44587,6 +45065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不错嘛，七罪第一次玩已经很厉害了！该我了……",
         game = 0,
         video = {
@@ -44682,6 +45161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -44775,6 +45255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊~起风了呢~",
         game = 0,
         video = {
@@ -44868,6 +45349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "奇怪……记得是往这边跑了的，人呢？",
         game = 0,
         video = {
@@ -44961,6 +45443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只见七罪变成了大人的样子站在草丛后面。",
         game = 0,
         video = {
@@ -45054,6 +45537,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "街道上已经没有了七罪的身影，但是得赶快找到她才行。",
         game = 0,
         video = {
@@ -45146,6 +45630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜哇——七罪，你怎么又……",
         game = 0,
         video = {
@@ -45239,6 +45724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "后半句被风声堵在了喉咙里。",
         game = 0,
         video = {
@@ -45332,6 +45818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嘘……我现在听不见%s的声音哦~请靠近一点吧？",
         game = 0,
         video = {
@@ -45425,6 +45912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪一手按住帽子，另一只手对我比了一个手势。",
         game = 0,
         video = {
@@ -45518,6 +46006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "被你找到了呢~",
         game = 0,
         video = {
@@ -45611,6 +46100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪有什么办法吗",
         game = 0,
         video = {
@@ -45704,6 +46194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "大姐姐形态的七罪轻笑着看着我，让我的脸瞬间升温。",
         game = 0,
         video = {
@@ -45797,6 +46288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你在……问我吗？",
         game = 0,
         video = {
@@ -45890,6 +46382,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我也是碰运气才找到的啦。",
         game = 0,
         video = {
@@ -45983,6 +46476,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然了，这里也没有别人不是吗？",
         game = 0,
         video = {
@@ -46076,6 +46570,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呵呵，我可以答应你一个愿望哦，任何~愿望~",
         game = 0,
         video = {
@@ -46168,6 +46663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……为什么要问我呢？",
         game = 0,
         video = {
@@ -46261,6 +46757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我也想和七罪约会呢",
         game = 0,
         video = {
@@ -46354,6 +46851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？",
         game = 0,
         video = {
@@ -46447,6 +46945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早餐吃点什么好呢……",
         game = 0,
         video = {
@@ -46540,6 +47039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "也不用走得这么急吧，真是的……",
         game = 0,
         video = {
@@ -46633,6 +47133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -46726,6 +47227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我的意思是……我总是搞砸事情，这样的我……还能提供什么帮助呢？",
         game = 0,
         video = {
@@ -46819,6 +47321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "笨、笨蛋，不可能吧。",
         game = 0,
         video = {
@@ -46912,6 +47415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，不管是感受到爱意，还是付出爱意，都是很幸福的事吧。",
         game = 0,
         video = {
@@ -47005,6 +47509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……爱意真是一种奇妙的东西。",
         game = 0,
         video = {
@@ -47098,6 +47603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是这样的哦，在我看来，七罪常常会有一些不错的主意。",
         game = 0,
         video = {
@@ -47191,6 +47697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊啊！七罪，你靠得太近了！",
         game = 0,
         video = {
@@ -47285,6 +47792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -47378,6 +47886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要和%s一起，做什么事都可以哦~",
         game = 0,
         video = {
@@ -47471,6 +47980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真……真的吗？",
         game = 0,
         video = {
@@ -47564,6 +48074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们明天再去一趟花店吧。",
         game = 0,
         video = {
@@ -47657,6 +48168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "总之……我会努力的！",
         game = 0,
         video = {
@@ -47751,6 +48263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -47844,6 +48357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，的确是这样，所以，七罪可以帮忙想办法吗？",
         game = 0,
         video = {
@@ -47937,6 +48451,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？还有多种选项吗？",
         game = 0,
         video = {
@@ -48030,6 +48545,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "煎糊的培根、烤焦的吐司还有不知道为什么分量只剩下一半的牛奶……",
         game = 0,
         video = {
@@ -48123,6 +48639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咦……？",
         game = 0,
         video = {
@@ -48216,6 +48733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……我们可以把球茎拿出来，用吹风机吹干。",
         game = 0,
         video = {
@@ -48309,6 +48827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好难吃！",
         game = 0,
         video = {
@@ -48402,6 +48921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……是吗？",
         game = 0,
         video = {
@@ -48495,6 +49015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "买一些干花",
         game = 0,
         video = {
@@ -48588,6 +49109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "然后等泥土里的水分挥发掉，就可以重新种下去了。",
         game = 0,
         video = {
@@ -48681,6 +49203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪其实很棒了",
         game = 0,
         video = {
@@ -48774,6 +49297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要多加练习就可以了",
         game = 0,
         video = {
@@ -48867,6 +49391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "为什么要选干花呢？",
         game = 0,
         video = {
@@ -48960,6 +49485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈……不愧是七罪想出的主意啊。",
         game = 0,
         video = {
@@ -49053,6 +49579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "才不是这样呢！",
         game = 0,
         video = {
@@ -49147,6 +49674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "想要我一起吗？",
         game = 0,
         video = {
@@ -49241,6 +49769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -49334,6 +49863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的，那么我们就这样做试试看吧。",
         game = 0,
         video = {
@@ -49427,6 +49957,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔，原来是这样，我果然还是太笨了……什么都做不好。",
         game = 0,
         video = {
@@ -49520,6 +50051,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……想和%s一起。",
         game = 0,
         video = {
@@ -49613,6 +50145,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s，起床了哦~",
         game = 0,
         video = {
@@ -49706,6 +50239,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这么说着，我将球茎从花盆里取出，然后用吹风机吹去表面的水分。",
         game = 0,
         video = {
@@ -49799,6 +50333,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样全部倒进去，热汤可能又会溅出来哦，应该借助一个大汤勺，你看……",
         game = 0,
         video = {
@@ -49892,6 +50427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……其实我，实际上不太擅长插花，不过，如果七罪希望的话，我们一起努力看看。",
         game = 0,
         video = {
@@ -49985,6 +50521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耳边仿佛有人在说话，我从沉睡中渐渐醒来。",
         game = 0,
         video = {
@@ -50078,6 +50615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果……这样不可行的话怎么办呢？",
         game = 0,
         video = {
@@ -50171,6 +50709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我急忙叫住七罪，因为她急切想将海带全部倒进去。",
         game = 0,
         video = {
@@ -50264,6 +50803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！再把海带倒进去就可以了，等等——",
         game = 0,
         video = {
@@ -50360,6 +50900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -50453,6 +50994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那也没有关系，如果不行的话，去再买一个就好。",
         game = 0,
         video = {
@@ -50546,6 +51088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真……真的吗？",
         game = 0,
         video = {
@@ -50639,6 +51182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没……没关系吧？只是豆腐煮得碎了一些而已。",
         game = 0,
         video = {
@@ -50732,6 +51276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……再睡一会儿……",
         game = 0,
         video = {
@@ -50825,6 +51370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……嗯。",
         game = 0,
         video = {
@@ -50918,6 +51464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呀……！酱汤！",
         game = 0,
         video = {
@@ -51011,6 +51558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有点红……应该没什么大碍。",
         game = 0,
         video = {
@@ -51104,6 +51652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s，赖床可不是好习惯哦~还是说……需要姐姐用特殊的方式唤醒你？",
         game = 0,
         video = {
@@ -51197,6 +51746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "总之明天我们再种进去，观察一段时间看看吧。",
         game = 0,
         video = {
@@ -51290,6 +51840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的没什么呀……",
         game = 0,
         video = {
@@ -51383,6 +51934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "快给我看看！",
         game = 0,
         video = {
@@ -51476,6 +52028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……原来是七罪……等等！七罪？！",
         game = 0,
         video = {
@@ -51569,6 +52122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……嗯。",
         game = 0,
         video = {
@@ -51662,6 +52216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "难道是……被溅出来的热水烫到了吗？",
         game = 0,
         video = {
@@ -51755,6 +52310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪将手藏到身后，羞愧地移开视线。",
         game = 0,
         video = {
@@ -51848,6 +52404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呵呵，早啊~",
         game = 0,
         video = {
@@ -51941,6 +52498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "谢谢你，想到了挽救的办法。",
         game = 0,
         video = {
@@ -52034,6 +52592,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没……没什么！",
         game = 0,
         video = {
@@ -52127,6 +52686,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么了！",
         game = 0,
         video = {
@@ -52226,6 +52786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜哇！！你怎么会在……",
         game = 0,
         video = {
@@ -52319,6 +52880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……那个……不算什么的，比起我添的麻烦来说……",
         game = 0,
         video = {
@@ -52412,6 +52974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "她……她是在嘲讽我吧。",
         game = 0,
         video = {
@@ -52505,6 +53068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有这回事，老板只是觉得你的插花很好看，这么美的插花，会想要带回家也不奇怪啊。",
         game = 0,
         video = {
@@ -52598,6 +53162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "此时的七罪正俯着上半身，近距离地看着我。",
         game = 0,
         video = {
@@ -52691,6 +53256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要这样说哦，七罪才没有添很多麻烦呢。",
         game = 0,
         video = {
@@ -52784,6 +53350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪去试试吧",
         game = 0,
         video = {
@@ -52877,6 +53444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……我总是……控制不住负面的想法。",
         game = 0,
         video = {
@@ -52970,6 +53538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "太、太近了！",
         game = 0,
         video = {
@@ -53063,6 +53632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天，七罪就把房间打扫得很干净不是吗？而且还想出了解决办法。",
         game = 0,
         video = {
@@ -53156,6 +53726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……！",
         game = 0,
         video = {
@@ -53249,6 +53820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然这样，作为补偿我们去郊游吧！",
         game = 0,
         video = {
@@ -53342,6 +53914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我顿时睡意全无，立马起身和七罪保持距离。",
         game = 0,
         video = {
@@ -53435,6 +54008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -53528,6 +54102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……我不会。",
         game = 0,
         video = {
@@ -53622,6 +54197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -53715,6 +54291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -53808,6 +54385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以，七罪也是能带来快乐的精灵。",
         game = 0,
         video = {
@@ -53901,6 +54479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有关系，只要跟随自己的心意做就好了。",
         game = 0,
         video = {
@@ -53994,6 +54573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "象征爱意的桔梗",
         game = 0,
         video = {
@@ -54090,6 +54670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -54183,6 +54764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "带来……快乐？",
         game = 0,
         video = {
@@ -54276,6 +54858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不可以……",
         game = 0,
         video = {
@@ -54369,6 +54952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？为什么选桔梗花呢？",
         game = 0,
         video = {
@@ -54462,6 +55046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那当然是来叫某个小朋友起床啦~",
         game = 0,
         video = {
@@ -54555,6 +55140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "为了制造惊喜啊，难道说……%s不希望看到我吗？",
         game = 0,
         video = {
@@ -54648,6 +55234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "为什么……要让我去呢？",
         game = 0,
         video = {
@@ -54743,6 +55330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为我喜欢桔梗呀，而且桔梗的花语，是爱意。",
         game = 0,
         video = {
@@ -54836,6 +55424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不是说这个啊……",
         game = 0,
         video = {
@@ -54929,6 +55518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪一边这么说着，一边伸出一只手指挑起我的下巴。",
         game = 0,
         video = {
@@ -55022,6 +55612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -55115,6 +55706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "爱……爱意？",
         game = 0,
         video = {
@@ -55208,6 +55800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是吗？那是什么？",
         game = 0,
         video = {
@@ -55303,6 +55896,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……啊！不要做出这么轻佻的举动啊喂！",
         game = 0,
         video = {
@@ -55396,6 +55990,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……没问题的……",
         game = 0,
         video = {
@@ -55490,6 +56085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "邀请七罪出去玩",
         game = 0,
         video = {
@@ -55583,6 +56179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不、不用谢。",
         game = 0,
         video = {
@@ -55676,6 +56273,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "直到今日，我依然不能从容应对变身成熟大姐姐形态的七罪。",
         game = 0,
         video = {
@@ -55769,6 +56367,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！因为很久没有吃到了，具有传统风格的早餐。",
         game = 0,
         video = {
@@ -55862,6 +56461,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，刚才十分抱歉，作为赔礼不如我带你一起出去玩吧？",
         game = 0,
         video = {
@@ -55955,6 +56555,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……七罪。",
         game = 0,
         video = {
@@ -56048,6 +56649,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因此在七罪的步步紧逼下，我只好一步步后退。",
         game = 0,
         video = {
@@ -56142,6 +56744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "教导七罪",
         game = 0,
         video = {
@@ -56235,6 +56838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……我这个样子……",
         game = 0,
         video = {
@@ -56328,6 +56932,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -56421,6 +57026,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "再往后退，就是墙壁了哦，难道说……",
         game = 0,
         video = {
@@ -56514,6 +57120,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有这回事哦！应该只是你单纯地想多了而已啦。",
         game = 0,
         video = {
@@ -56607,6 +57214,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪低着头，紧张地攥紧了裙摆。",
         game = 0,
         video = {
@@ -56701,6 +57309,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -56794,6 +57403,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s想要被壁咚吗？",
         game = 0,
         video = {
@@ -56887,6 +57497,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……我感觉到了很多视线……",
         game = 0,
         video = {
@@ -56980,6 +57591,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，请自信一点……！",
         game = 0,
         video = {
@@ -57073,6 +57685,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……咦？",
         game = 0,
         video = {
@@ -57169,6 +57782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "惊慌失措地跑出去",
         game = 0,
         video = {
@@ -57262,6 +57876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我教导式地清了清嗓子。",
         game = 0,
         video = {
@@ -57355,6 +57970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的是的！得让%s好好补偿你才行哦~",
         game = 0,
         video = {
@@ -57448,6 +58064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪疑惑地转过头看着我，我则顺手将花环戴在她头上。",
         game = 0,
         video = {
@@ -57541,6 +58158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "连呼吸都忘记了，我满头大汗，心脏也砰砰直跳。",
         game = 0,
         video = {
@@ -57634,6 +58252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所谓的人啊，要想开心得活着，是绝对不可以在乎别人的眼光的。",
         game = 0,
         video = {
@@ -57727,6 +58346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然这样……那好吧……",
         game = 0,
         video = {
@@ -57820,6 +58440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很适合呢。",
         game = 0,
         video = {
@@ -57913,6 +58534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为我在认真观察%s的表情哦~",
         game = 0,
         video = {
@@ -58006,6 +58628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么可以不在乎呢……那应该是不可能的事情……",
         game = 0,
         video = {
@@ -58099,6 +58722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -58192,6 +58816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……什么？",
         game = 0,
         video = {
@@ -58285,6 +58910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "为什么要观察我的表情？",
         game = 0,
         video = {
@@ -58378,6 +59004,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看来我的话并没有起到好的作用，反而让七罪更加失落了。",
         game = 0,
         video = {
@@ -58472,6 +59099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -58565,6 +59193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "棉花花环，是我刚刚编的，送给你。",
         game = 0,
         video = {
@@ -58658,6 +59287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呵呵，当然是因为你脸红的样子非常的可~爱~",
         game = 0,
         video = {
@@ -58751,6 +59381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……",
         game = 0,
         video = {
@@ -58844,6 +59475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在外面玩了一天后，我牵着七罪走在回去的路上。",
         game = 0,
         video = {
@@ -58937,6 +59569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "送……送给我吗？第、第一次收到这样的礼物，谢……谢谢。",
         game = 0,
         video = {
@@ -59036,6 +59669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这都是拜谁所赐啊……不、不要靠过来了！",
         game = 0,
         video = {
@@ -59129,6 +59763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……我们回去吧……",
         game = 0,
         video = {
@@ -59222,6 +59857,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，今天玩得开心吗？",
         game = 0,
         video = {
@@ -59315,6 +59951,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用谢啦~七罪戴上花环很可爱哦。",
         game = 0,
         video = {
@@ -59408,6 +60045,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不行哦~我看得还不够仔细，还要再看一会儿~",
         game = 0,
         video = {
@@ -59501,6 +60139,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说着，七罪已经自顾自地往前走去。",
         game = 0,
         video = {
@@ -59593,6 +60232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天的人稍微……有点多呢……",
         game = 0,
         video = {
@@ -59686,6 +60326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可……可爱，我吗？",
         game = 0,
         video = {
@@ -59780,6 +60421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样的相处是不对的哦",
         game = 0,
         video = {
@@ -59873,6 +60515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "米饭火腿配酱汤对吗？",
         game = 0,
         video = {
@@ -59966,6 +60609,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？人多怎么了？",
         game = 0,
         video = {
@@ -60059,6 +60703,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……今天的七罪很可爱。",
         game = 0,
         video = {
@@ -60152,6 +60797,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我深吸了一口气，语重心长地说道。",
         game = 0,
         video = {
@@ -60245,6 +60891,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吃过早餐之后，我决定整理一下杂物。",
         game = 0,
         video = {
@@ -60338,6 +60985,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "感觉大家都在看我，是不是因为……讨厌我？",
         game = 0,
         video = {
@@ -60433,6 +61081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "认真赢过七罪",
         game = 0,
         video = {
@@ -60527,6 +61176,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -60621,6 +61271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -60714,6 +61365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -60807,6 +61459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "xiang~jiao~，香蕉，走九步！",
         game = 0,
         video = {
@@ -60906,6 +61559,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唉，为什么一大早就发生这种……呜哇！！！",
         game = 0,
         video = {
@@ -60999,6 +61653,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……嗯！",
         game = 0,
         video = {
@@ -61092,6 +61747,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的啦，你看，我全都吃完了哦！",
         game = 0,
         video = {
@@ -61185,6 +61841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好、好厉害……",
         game = 0,
         video = {
@@ -61278,6 +61935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "低下头，一个身材瘦小，脸上挂着无聊的表情的七罪出现在我面前。",
         game = 0,
         video = {
@@ -61371,6 +62029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我慌忙地从卧室里跑出来，却不小心摔了一跤。",
         game = 0,
         video = {
@@ -61464,6 +62123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真……真的吗？",
         game = 0,
         video = {
@@ -61557,6 +62217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈哈，怎么样，你还有一样的词吗？",
         game = 0,
         video = {
@@ -61650,6 +62311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用怀疑，眼前这个七罪，和刚刚消失的成熟女性其实是同一个人。",
         game = 0,
         video = {
@@ -61743,6 +62405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "别这么激动啊，%s，你没事吧？",
         game = 0,
         video = {
@@ -61838,6 +62501,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……没关系，只是稍微有一点糊而已，这样也是可以吃的。",
         game = 0,
         video = {
@@ -61931,6 +62595,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯……我输了……",
         game = 0,
         video = {
@@ -62024,6 +62689,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "灵力……果然不能维持太久吗？",
         game = 0,
         video = {
@@ -62117,6 +62783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是哦，我刚开始做的时候，那简直是难以下咽的味道。",
         game = 0,
         video = {
@@ -62210,6 +62877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吞掉第一口培根之后，七罪的眉毛纠结地皱起。",
         game = 0,
         video = {
@@ -62303,6 +62971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -62396,6 +63065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "变回本体的七罪嘟嘟囔囔地自言自语。",
         game = 0,
         video = {
@@ -62489,6 +63159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的吗？%s也有出丑的时候吗？",
         game = 0,
         video = {
@@ -62582,6 +63253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "放心，我会全部吃掉的！那么……我就开动了哦！",
         game = 0,
         video = {
@@ -62675,6 +63347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是的！小哥怎么能这么欺负七罪呢？！",
         game = 0,
         video = {
@@ -62768,6 +63441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……",
         game = 0,
         video = {
@@ -62861,6 +63535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "倒谈不上出丑吧，因为只有琴里尝到而已。",
         game = 0,
         video = {
@@ -62954,6 +63629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "米饭火腿配酱汤",
         game = 0,
         video = {
@@ -63047,6 +63723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜哇——你们怎么突然出现了？",
         game = 0,
         video = {
@@ -63140,6 +63817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "总算是躲过了一劫。",
         game = 0,
         video = {
@@ -63233,6 +63911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "竟然是……这样。",
         game = 0,
         video = {
@@ -63326,6 +64005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s想吃什么呢？",
         game = 0,
         video = {
@@ -63419,6 +64099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "打扰了，我们在这里很久了……",
         game = 0,
         video = {
@@ -63512,6 +64193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……给%s添麻烦了吗？",
         game = 0,
         video = {
@@ -63605,6 +64287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，后来经过反反复复的练习，才达到现在的水平。",
         game = 0,
         video = {
@@ -63698,6 +64381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -63791,6 +64475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃……日安……",
         game = 0,
         video = {
@@ -63884,6 +64569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？",
         game = 0,
         video = {
@@ -63977,6 +64663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……我也要多加练习才行。",
         game = 0,
         video = {
@@ -64070,6 +64757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -64163,6 +64851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嘁！小哥居然欺负第一次玩阶梯游戏的七罪，太不可靠了！",
         game = 0,
         video = {
@@ -64256,6 +64945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有经过同意，打扫房间的事情……",
         game = 0,
         video = {
@@ -64349,6 +65039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！",
         game = 0,
         video = {
@@ -64442,6 +65133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪越靠越近，我惊慌失措地跑出了房间。",
         game = 0,
         video = {
@@ -64535,6 +65227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊哈哈，稍微认真了点就……",
         game = 0,
         video = {
@@ -64628,6 +65321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有没有，正好相反，你帮了我很多忙。",
         game = 0,
         video = {
@@ -64721,6 +65415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -64814,6 +65509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "还是想要把自己打包成礼物来回报我呢？",
         game = 0,
         video = {
@@ -64907,6 +65603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……我们可以一起玩秋千吗？",
         game = 0,
         video = {
@@ -65000,6 +65697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "而且房间打扫得很干净啦。",
         game = 0,
         video = {
@@ -65094,6 +65792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -65187,6 +65886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……！好的~",
         game = 0,
         video = {
@@ -65280,6 +65980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？可以吗……？",
         game = 0,
         video = {
@@ -65373,6 +66074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "即使碰倒了垃圾桶、刮花了墙壁、磨破了沙发……这些都不重要啦。",
         game = 0,
         video = {
@@ -65466,6 +66168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早餐过后，我决定整理一下房间。",
         game = 0,
         video = {
@@ -65559,6 +66262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对了，从刚才开始，我就注意到，那边几个人，是在插花吗？",
         game = 0,
         video = {
@@ -65652,6 +66356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看来只好重新种了",
         game = 0,
         video = {
@@ -65745,6 +66450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的吗……太好了。",
         game = 0,
         video = {
@@ -65838,6 +66544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很期待七罪做的早餐呢",
         game = 0,
         video = {
@@ -65932,6 +66639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等待七罪关心",
         game = 0,
         video = {
@@ -66025,6 +66733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "正想着找些话题的我，立马加入。",
         game = 0,
         video = {
@@ -66118,6 +66827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对了，你吃过早餐了吗？",
         game = 0,
         video = {
@@ -66211,6 +66921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "成年七罪侧着头靠近我，一副“我在认真听哦”的表情。",
         game = 0,
         video = {
@@ -66304,6 +67015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，至少今天给我带来了快乐哦。",
         game = 0,
         video = {
@@ -66397,6 +67109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然这样，那我负责在后面推你们吧！",
         game = 0,
         video = {
@@ -66490,6 +67203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "还……还没有。",
         game = 0,
         video = {
@@ -66583,6 +67297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "谢、谢谢你，和%s在一起的时光……我也……很开心。",
         game = 0,
         video = {
@@ -66676,6 +67391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看来我和七罪的餐厅约会要泡汤了……",
         game = 0,
         video = {
@@ -66769,6 +67485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为泡了很多水的关系，估计不能发芽长大了。",
         game = 0,
         video = {
@@ -66862,6 +67579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "还没有吃饭就来了吗？还真是让人心疼呢。",
         game = 0,
         video = {
@@ -66957,6 +67675,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯！",
         game = 0,
         video = {
@@ -67049,6 +67768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哎？~竟然不理我吗？",
         game = 0,
         video = {
@@ -67142,6 +67862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "谢谢%s……四糸乃，我们过去吧？",
         game = 0,
         video = {
@@ -67235,6 +67956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "米饭已经焖好了，下面就是煎火腿和做大酱汤了。",
         game = 0,
         video = {
@@ -67328,6 +68050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，差不多要准备早餐了吧……",
         game = 0,
         video = {
@@ -67421,6 +68144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没关系，我知道你也不想这样的。",
         game = 0,
         video = {
@@ -67514,6 +68238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有关系哦，失败是很常有的事，不需要这么灰心，要打起精神来啊。",
         game = 0,
         video = {
@@ -67607,6 +68332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我来煎火腿好了，七罪专心地制作大酱汤吧。",
         game = 0,
         video = {
@@ -67700,6 +68426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是这样啦，七罪不要胡思乱想哦。",
         game = 0,
         video = {
@@ -67793,6 +68520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这……这样吗？",
         game = 0,
         video = {
@@ -67886,6 +68614,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "虽……虽然知道是这样，还是难免……这么低落。",
         game = 0,
         video = {
@@ -67979,6 +68708,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只听见“咚咚咚”的声音，七罪将豆腐直接倒进汤里。",
         game = 0,
         video = {
@@ -68072,6 +68802,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "“这样丑陋的东西不要留在我的店里面”，她其实是想这么说吧。",
         game = 0,
         video = {
@@ -68165,6 +68896,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？",
         game = 0,
         video = {
@@ -68258,6 +68990,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那么，为了让七罪打起精神来，我们出去吃大餐吧。",
         game = 0,
         video = {
@@ -68357,6 +69090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊……！",
         game = 0,
         video = {
@@ -68450,6 +69184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你怎么了，七罪？",
         game = 0,
         video = {
@@ -68546,6 +69281,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -68639,6 +69375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……可以更高一点吗……",
         game = 0,
         video = {
@@ -68732,6 +69469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -68825,6 +69563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪突然攥紧拳头，向花店外跑去。",
         game = 0,
         video = {
@@ -68918,6 +69657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……！",
         game = 0,
         video = {
@@ -69011,6 +69751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对呀，只有我和七罪哦。",
         game = 0,
         video = {
@@ -69104,6 +69845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇哦~你的插花很漂亮呢，要不要带回家呢？",
         game = 0,
         video = {
@@ -69197,6 +69939,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我知道了。",
         game = 0,
         video = {
@@ -69290,6 +70033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "薰衣草吗？",
         game = 0,
         video = {
@@ -69383,6 +70127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？简直就像……约会一样。",
         game = 0,
         video = {
@@ -69476,6 +70221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，我们下次再去吧。",
         game = 0,
         video = {
@@ -69569,6 +70315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "微风拂过，街道里弥漫着花香，我牵着七罪来到了公园。",
         game = 0,
         video = {
@@ -69662,6 +70409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……琴里……需要叫醒吗？",
         game = 0,
         video = {
@@ -69755,6 +70503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咳……也可以那么说啦，我和七罪两个人的约会。",
         game = 0,
         video = {
@@ -69848,6 +70597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样的行为，让我有点忍不住脸红起来。",
         game = 0,
         video = {
@@ -69942,6 +70692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "老奶奶的插花",
         game = 0,
         video = {
@@ -70035,6 +70786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是橱窗啦，橱窗！",
         game = 0,
         video = {
@@ -70128,6 +70880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "约……约会！",
         game = 0,
         video = {
@@ -70221,6 +70974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦！原来如此啊，因为在橱窗里看到，所以觉得很好看吗？",
         game = 0,
         video = {
@@ -70314,6 +71068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……看上去很普通嘛。",
         game = 0,
         video = {
@@ -70407,6 +71162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯~",
         game = 0,
         video = {
@@ -70500,6 +71256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -70593,6 +71350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的哦，每一种鲜花的花种都有售卖，这里很棒吧？",
         game = 0,
         video = {
@@ -70686,6 +71444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "第一眼看上去可能会觉得不起眼，然后慢慢觉得耐看。",
         game = 0,
         video = {
@@ -70779,6 +71538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "像这样胡思乱想，并且把它当真这种行为是不对的！",
         game = 0,
         video = {
@@ -70872,6 +71632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪的脸迅速被染红，然后滑到椅子下面去了。",
         game = 0,
         video = {
@@ -70965,6 +71726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……紫色的郁金香！",
         game = 0,
         video = {
@@ -71058,6 +71820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？还不错的样子……",
         game = 0,
         video = {
@@ -71151,6 +71914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "大家的偶像四糸奈驾到~",
         game = 0,
         video = {
@@ -71244,6 +72008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶诶诶？七罪？难道是太害羞了吗？",
         game = 0,
         video = {
@@ -71337,6 +72102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说着，七罪慢慢向我靠了过来。",
         game = 0,
         video = {
@@ -71430,6 +72196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是沉稳而内敛的风格……",
         game = 0,
         video = {
@@ -71523,6 +72290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……房间……是你打扫的吗？",
         game = 0,
         video = {
@@ -71616,6 +72384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s，上午好！",
         game = 0,
         video = {
@@ -71709,6 +72478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "话说十香的手上为什么抱着花束呢？",
         game = 0,
         video = {
@@ -71802,6 +72572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的，我们也来试试吧？",
         game = 0,
         video = {
@@ -71895,6 +72666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪笑着看着我，回答地十分干脆。",
         game = 0,
         video = {
@@ -71988,6 +72760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "昨晚我没有打扫房间啊……",
         game = 0,
         video = {
@@ -72083,6 +72856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "配上薰衣草会更好",
         game = 0,
         video = {
@@ -72176,6 +72950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，先不说你随便变成大人的样子，还不经同意跑到我房间……",
         game = 0,
         video = {
@@ -72269,6 +73044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……怎么样……很普通吧？",
         game = 0,
         video = {
@@ -72362,6 +73138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "总之都是我的错，作为赔罪，不管七罪说什么我都答应！",
         game = 0,
         video = {
@@ -72455,6 +73232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "才不普通呢，简直是……太美了吧！",
         game = 0,
         video = {
@@ -72548,6 +73326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真……真的吗？",
         game = 0,
         video = {
@@ -72641,6 +73420,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们可以一直在一起",
         game = 0,
         video = {
@@ -72734,6 +73514,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？……真的么？",
         game = 0,
         video = {
@@ -72827,6 +73608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然是真的，七罪很有艺术天分呢。",
         game = 0,
         video = {
@@ -72920,6 +73702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们……我们回去吧。",
         game = 0,
         video = {
@@ -73013,6 +73796,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们可以一直在一起玩哦~",
         game = 0,
         video = {
@@ -73106,6 +73890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，七罪有想要的吗？",
         game = 0,
         video = {
@@ -73199,6 +73984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小孩子的插花",
         game = 0,
         video = {
@@ -73292,6 +74078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！我最喜欢他的插花哦。",
         game = 0,
         video = {
@@ -73385,6 +74172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……在外面玩，有点不舒服……",
         game = 0,
         video = {
@@ -73478,6 +74266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "出去玩……也可以吗……？",
         game = 0,
         video = {
@@ -73571,6 +74360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……即使如此，也很可爱不是吗？",
         game = 0,
         video = {
@@ -73664,6 +74454,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "虽然造型和色彩搭配都很随意，不过刚好符合小孩子的眼光。",
         game = 0,
         video = {
@@ -73757,6 +74548,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？为什么？",
         game = 0,
         video = {
@@ -73850,6 +74642,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然没问题，我们现在就出发！",
         game = 0,
         video = {
@@ -73943,6 +74736,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，在小孩子的眼中，世界就是这样五颜六色，无拘无束的吧。",
         game = 0,
         video = {
@@ -74036,6 +74830,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很天真，对吧？而且……七罪注意到花的选择了吗？",
         game = 0,
         video = {
@@ -74129,6 +74924,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "感觉自己的样子……被周围的人看着……",
         game = 0,
         video = {
@@ -74222,6 +75018,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好、好的……",
         game = 0,
         video = {
@@ -74315,6 +75112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "假装受伤倒地不起",
         game = 0,
         video = {
@@ -74408,6 +75206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？共同的花语……是什么？",
         game = 0,
         video = {
@@ -74501,6 +75300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看来七罪做得很顺利啊~",
         game = 0,
         video = {
@@ -74594,6 +75394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -74687,6 +75488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "疼疼疼……",
         game = 0,
         video = {
@@ -74780,6 +75582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，七罪知道希望是什么吗？",
         game = 0,
         video = {
@@ -74873,6 +75676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……其实……正好是四糸乃刚起床……所以……",
         game = 0,
         video = {
@@ -74967,6 +75771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -75060,6 +75865,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我假装摔伤了，扶着腰倒在地上不起来。",
         game = 0,
         video = {
@@ -75153,6 +75959,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那一天，%s出现在我眼前……帮助这样的我。",
         game = 0,
         video = {
@@ -75246,6 +76053,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早起……因为有早间剧场……电视里……",
         game = 0,
         video = {
@@ -75339,6 +76147,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，刚才的阶梯游戏好玩吗？",
         game = 0,
         video = {
@@ -75432,6 +76241,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，所以我们来用桔梗插花吧！",
         game = 0,
         video = {
@@ -75525,6 +76335,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "之后，我和七罪抱着新买的花束，离开了花店。",
         game = 0,
         video = {
@@ -75617,6 +76428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是呐！那可是不能错过的电视节目！",
         game = 0,
         video = {
@@ -75710,6 +76522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯……！",
         game = 0,
         video = {
@@ -75804,6 +76617,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪点点头，下定决心似的地看着我。",
         game = 0,
         video = {
@@ -75896,6 +76710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！我会尽力克服的！",
         game = 0,
         video = {
@@ -75989,6 +76804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃还是一如既往的喜欢看电视啊~",
         game = 0,
         video = {
@@ -76082,6 +76898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……大概……是这样。",
         game = 0,
         video = {
@@ -76175,6 +76992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的，就算偶尔会产生负面的想法，慢慢克服就好了。",
         game = 0,
         video = {
@@ -76269,6 +77087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们玩捉迷藏吧？",
         game = 0,
         video = {
@@ -76362,6 +77181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……早餐……我还能……",
         game = 0,
         video = {
@@ -76455,6 +77275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以我就买来了！",
         game = 0,
         video = {
@@ -76548,6 +77369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……这样吗？",
         game = 0,
         video = {
@@ -76641,6 +77463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……不如我们玩捉迷藏吧？",
         game = 0,
         video = {
@@ -76734,6 +77557,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，我正好准备好了。",
         game = 0,
         video = {
@@ -76827,6 +77651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "谢……谢谢！",
         game = 0,
         video = {
@@ -76920,6 +77745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "直接走过去",
         game = 0,
         video = {
@@ -77013,6 +77839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼~哼……别看我这样，我可是捉迷藏高手哦……",
         game = 0,
         video = {
@@ -77106,6 +77933,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦呀？快说出来听听，我们帮你参考一下！",
         game = 0,
         video = {
@@ -77199,6 +78027,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪抱着花束，露出了幸福的表情。",
         game = 0,
         video = {
@@ -77292,6 +78121,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我朝着七罪跑走的方向直接走了过去，但是已经不见了她的踪影。",
         game = 0,
         video = {
@@ -77385,6 +78215,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "难得看到七罪自信的一面，我笑着摸了摸她的头。",
         game = 0,
         video = {
@@ -77478,6 +78309,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯……",
         game = 0,
         video = {
@@ -77571,6 +78403,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看来，不需要吃大餐，七罪也打起精神了。",
         game = 0,
         video = {
@@ -77663,6 +78496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "才不是呢，七罪已经有很大进步了，我也一直有看到七罪的努力哦。",
         game = 0,
         video = {
@@ -77756,6 +78590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那我们赶紧开始吧，我当鬼，准备开始倒数了哦~",
         game = 0,
         video = {
@@ -77849,6 +78684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s的早饭……做了什么？",
         game = 0,
         video = {
@@ -77943,6 +78779,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是它们没错，我来用剪刀修剪花枝，你来把它们插在花篮上如何？",
         game = 0,
         video = {
@@ -78039,6 +78876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "故作冷静地质问",
         game = 0,
         video = {
@@ -78132,6 +78970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯~",
         game = 0,
         video = {
@@ -78225,6 +79064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是我说的没错，这句话有什么问题吗？",
         game = 0,
         video = {
@@ -78318,6 +79158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好的！",
         game = 0,
         video = {
@@ -78411,6 +79252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我故作冷静地质问起七罪。",
         game = 0,
         video = {
@@ -78504,6 +79346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我背对着七罪，蒙住眼睛开始倒数。",
         game = 0,
         video = {
@@ -78600,6 +79443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "邀请四糸乃",
         game = 0,
         video = {
@@ -78693,6 +79537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -78786,6 +79631,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以说……重点是为什么你大清早会出现在我床边这件事吧！",
         game = 0,
         video = {
@@ -78879,6 +79725,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "已经好了吗？",
         game = 0,
         video = {
@@ -78972,6 +79819,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "“喜欢七罪认真的样子”……不是你说的吗？",
         game = 0,
         video = {
@@ -79066,6 +79914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -79159,6 +80008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？有什么不对吗？",
         game = 0,
         video = {
@@ -79252,6 +80102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "已经好了哦……",
         game = 0,
         video = {
@@ -79346,6 +80197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么会？！我怎么会讨厌你呢？",
         game = 0,
         video = {
@@ -79440,6 +80292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "半小时后，我们完成了插花。",
         game = 0,
         video = {
@@ -79533,6 +80386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "而且还是变成大人的样子出现的……",
         game = 0,
         video = {
@@ -79626,6 +80480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你果然是讨厌我吧！",
         game = 0,
         video = {
@@ -79719,6 +80574,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然女生的心思真是难猜啊，不管是人类女生还是精灵。",
         game = 0,
         video = {
@@ -79812,6 +80668,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "完成啦！",
         game = 0,
         video = {
@@ -79905,6 +80762,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呵呵~难道说%s是怕自己做什么奇怪的坏事吗？",
         game = 0,
         video = {
@@ -79998,6 +80856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……什么？",
         game = 0,
         video = {
@@ -80091,6 +80950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……%s……",
         game = 0,
         video = {
@@ -80184,6 +81044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "色调均匀的搭配，高低有序的组合，具有田园风格的编织篮，和谐而美丽。",
         game = 0,
         video = {
@@ -80277,6 +81138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "才、才不是！你这样随时会变身的习惯还是改一改吧！",
         game = 0,
         video = {
@@ -80370,6 +81232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "至少说点什么吧，为什么会突然跑出来？",
         game = 0,
         video = {
@@ -80463,6 +81326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……我看看，你可以先把蔬菜洗一下吗？",
         game = 0,
         video = {
@@ -80557,6 +81421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要担心，有我保护你",
         game = 0,
         video = {
@@ -80650,6 +81515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说着，我连忙穿好衣服从床上下来。",
         game = 0,
         video = {
@@ -80743,6 +81609,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就去试试看吧。",
         game = 0,
         video = {
@@ -80836,6 +81703,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……想、想去。",
         game = 0,
         video = {
@@ -80929,6 +81797,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，不要担心，有我保护你！",
         game = 0,
         video = {
@@ -81022,6 +81891,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "为什么？难道说，%s不喜欢姐姐形态的我了？",
         game = 0,
         video = {
@@ -81115,6 +81985,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很多花都喜欢。",
         game = 0,
         video = {
@@ -81210,6 +82081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对着枫叶许愿吧",
         game = 0,
         video = {
@@ -81303,6 +82175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我摸了摸七罪的头表示安慰。",
         game = 0,
         video = {
@@ -81396,6 +82269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你这样随时变身是很难融入人类社会的啊！",
         game = 0,
         video = {
@@ -81489,6 +82363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你喜欢什么花呢？",
         game = 0,
         video = {
@@ -81582,6 +82457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "趁现在！七罪，快对着枫叶许愿吧~",
         game = 0,
         video = {
@@ -81675,6 +82551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的……吗？",
         game = 0,
         video = {
@@ -81769,6 +82646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "告诉七罪我的愿望",
         game = 0,
         video = {
@@ -81862,6 +82740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……这么美丽的花束，没有人会不喜欢的吧。",
         game = 0,
         video = {
@@ -81955,6 +82834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？为什么……？",
         game = 0,
         video = {
@@ -82048,6 +82928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，以后都不用担心被视线包围了，你可以躲在我身后~",
         game = 0,
         video = {
@@ -82141,6 +83022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，你的愿望许好了吗？",
         game = 0,
         video = {
@@ -82234,6 +83116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你对这些花很感兴趣吗？",
         game = 0,
         video = {
@@ -82327,6 +83210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "传说，目睹过成千成百的枫叶落下的人，她在心底许的愿望会悄悄实现哦~",
         game = 0,
         video = {
@@ -82420,6 +83304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……太好了……",
         game = 0,
         video = {
@@ -82513,6 +83398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……！%s呢……？",
         game = 0,
         video = {
@@ -82606,6 +83492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪接过酸奶，目光仍然停留在花束上。",
         game = 0,
         video = {
@@ -82699,6 +83586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的……吗！",
         game = 0,
         video = {
@@ -82792,6 +83680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪长舒一口气，似乎没那么害怕了。",
         game = 0,
         video = {
@@ -82885,6 +83774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，我也许好了，是和七罪有关的愿望哦~",
         game = 0,
         video = {
@@ -82978,6 +83868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……谢、谢谢。",
         game = 0,
         video = {
@@ -83071,6 +83962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪攥紧了手里的枫叶，一脸不可思议地看着我。",
         game = 0,
         video = {
@@ -83164,6 +84056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那么，接下来，我们去观光台看风景吧？",
         game = 0,
         video = {
@@ -83257,6 +84150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的吗……？是……什么？",
         game = 0,
         video = {
@@ -83350,6 +84244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……喝酸奶吗？",
         game = 0,
         video = {
@@ -83443,6 +84338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，真要诚心许愿，愿望就会实现哦！",
         game = 0,
         video = {
@@ -83536,6 +84432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，一起……",
         game = 0,
         video = {
@@ -83629,6 +84526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我的愿望就是——希望七罪以后变成一个超级自信的人！",
         game = 0,
         video = {
@@ -83722,6 +84620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "再回去结账的话，完全不知道怎么向售货员解释……",
         game = 0,
         video = {
@@ -83815,6 +84714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那……我们一起许愿吧……？",
         game = 0,
         video = {
@@ -83908,6 +84808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -84001,6 +84902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……谢谢……可是，我恐怕做不到……",
         game = 0,
         video = {
@@ -84094,6 +84996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为还没有结账便被传送过来，我保持着手里拿着一盒酸奶的尴尬姿势。",
         game = 0,
         video = {
@@ -84187,6 +85090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好啊，我们一起在心底默念吧。",
         game = 0,
         video = {
@@ -84281,6 +85185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -84374,6 +85279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就算做不到也没关系哦！我会一直陪着七罪直到你自信为止。",
         game = 0,
         video = {
@@ -84473,6 +85379,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……！%s！",
         game = 0,
         video = {
@@ -84566,6 +85473,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说着，我双手合十闭着眼也开始许起愿来。",
         game = 0,
         video = {
@@ -84660,6 +85568,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不知不觉，天色渐渐暗了下来，我和七罪已经逛了一天。",
         game = 0,
         video = {
@@ -84753,6 +85662,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的么……？就算需要很久，%s也会陪着我吗？",
         game = 0,
         video = {
@@ -84846,6 +85756,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七、七罪。",
         game = 0,
         video = {
@@ -84939,6 +85850,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "被传送到花店的时候，七罪躲在花店的角落里，安静地观察着花束。",
         game = 0,
         video = {
@@ -85032,6 +85944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "黄昏的街道被镀上了一层金色，远处的枫树落下片片红叶。",
         game = 0,
         video = {
@@ -85125,6 +86038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，不管多久都陪着你！",
         game = 0,
         video = {
@@ -85219,6 +86133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -85312,6 +86227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……等等啊……",
         game = 0,
         video = {
@@ -85405,6 +86321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好、好漂亮啊……",
         game = 0,
         video = {
@@ -85498,6 +86415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……好开心……",
         game = 0,
         video = {
@@ -85591,6 +86509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪的情绪目前不太安定，总之，我立刻将你传送过去。",
         game = 0,
         video = {
@@ -85684,6 +86603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？为什么？",
         game = 0,
         video = {
@@ -85777,6 +86697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，难得能看见这样的景象。",
         game = 0,
         video = {
@@ -85870,6 +86791,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很好，就像现在这样，笑容会给人带来自信的。",
         game = 0,
         video = {
@@ -85963,6 +86885,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "现在立刻去花店，和七罪约会！",
         game = 0,
         video = {
@@ -86056,6 +86979,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说着，我示范了一遍洗菜的方式。",
         game = 0,
         video = {
@@ -86149,6 +87073,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……快看……",
         game = 0,
         video = {
@@ -86242,6 +87167,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……！",
         game = 0,
         video = {
@@ -86335,6 +87261,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……四糸乃，可以把手给我吗？",
         game = 0,
         video = {
@@ -86428,6 +87355,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不擅长这种事情……",
         game = 0,
         video = {
@@ -86521,6 +87449,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一阵风吹过，树上的枫叶成千成百地落下。",
         game = 0,
         video = {
@@ -86614,6 +87543,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对了，还有一件事可以给七罪带来自信哦。",
         game = 0,
         video = {
@@ -86707,6 +87637,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，七罪，你来得正好，可以帮我一下吗？",
         game = 0,
         video = {
@@ -86800,6 +87731,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以如果我参与的话，可能反而会帮倒忙呢。",
         game = 0,
         video = {
@@ -86893,6 +87825,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "随后，一片火红的枫叶缓缓落在了七罪的手上。",
         game = 0,
         video = {
@@ -86987,6 +87920,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……那是什么？",
         game = 0,
         video = {
@@ -87080,6 +88014,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不好意思地挠了挠头。",
         game = 0,
         video = {
@@ -87173,6 +88108,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "才不会呢……没有比我更糟糕的了吧。",
         game = 0,
         video = {
@@ -87266,6 +88202,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好的。",
         game = 0,
         video = {
@@ -87359,6 +88296,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "跟我来！",
         game = 0,
         video = {
@@ -87452,6 +88390,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在之后的时间里，我们一起度过了愉快的插花时光。",
         game = 0,
         video = {
@@ -87544,6 +88483,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是这样的，七罪才不糟糕呢。",
         game = 0,
         video = {
@@ -87637,6 +88577,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？是什么呢？",
         game = 0,
         video = {
@@ -87730,6 +88671,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -87823,6 +88765,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……大概是……那种感觉。",
         game = 0,
         video = {
@@ -87916,6 +88859,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这……这样吗？",
         game = 0,
         video = {
@@ -88009,6 +88953,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "希望……吗？",
         game = 0,
         video = {
@@ -88105,6 +89050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -88198,6 +89144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是希望哦。",
         game = 0,
         video = {
@@ -88291,6 +89238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然不糟糕啊，尤其是今天的七罪，帮我打扫了房间的七罪……",
         game = 0,
         video = {
@@ -88384,6 +89332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没错，大概是无心的选择，不过这两种花恰好有一个共同的花语呢。",
         game = 0,
         video = {
@@ -88477,6 +89426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我牵着稍微有些自信了的七罪，来到了秋千旁边。",
         game = 0,
         video = {
@@ -88570,6 +89520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……绣球花与雏菊。",
         game = 0,
         video = {
@@ -88663,6 +89614,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "总之，试试看好吗？",
         game = 0,
         video = {
@@ -88756,6 +89708,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小孩子眼中的世界吗？",
         game = 0,
         video = {
@@ -88849,6 +89802,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那么，这里就交给你了，我先去把脏衣服放进洗衣机。",
         game = 0,
         video = {
@@ -88942,6 +89896,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看！能给七罪来带自信的幸运秋千！",
         game = 0,
         video = {
@@ -89035,6 +89990,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……好吧，我会努力试试。",
         game = 0,
         video = {
@@ -89128,6 +90084,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小孩子的眼光……",
         game = 0,
         video = {
@@ -89221,6 +90178,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊、啊……没问题……",
         game = 0,
         video = {
@@ -89314,6 +90272,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？……秋千为什么会带来幸运？",
         game = 0,
         video = {
@@ -89407,6 +90366,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -89500,6 +90460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……？",
         game = 0,
         video = {
@@ -89593,6 +90554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -89686,6 +90648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为它是被能带来幸运的枫叶所包围的秋千啊，已经赋予了非常多的幸运。",
         game = 0,
         video = {
@@ -89782,6 +90745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -89875,6 +90839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……明明是很凌乱，也没有什么美感。",
         game = 0,
         video = {
@@ -89969,6 +90934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -90062,6 +91028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……原来如此……",
         game = 0,
         video = {
@@ -90155,6 +91122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我坐在七罪旁边，在她需要的时候，去取那种花过来。",
         game = 0,
         video = {
@@ -90248,6 +91216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……咦？小孩子的吗？",
         game = 0,
         video = {
@@ -90341,6 +91310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我整理好所有脏衣服，依次放进了洗衣机里。",
         game = 0,
         video = {
@@ -90434,6 +91404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "快上去试试看吧？",
         game = 0,
         video = {
@@ -90527,6 +91498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪今天用的全是冷色系的花吗？",
         game = 0,
         video = {
@@ -90620,6 +91592,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不习惯被陌生人夸奖，七罪看起来局促不安，我带着她离开了花店。",
         game = 0,
         video = {
@@ -90712,6 +91685,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，大功告成！接下来就是去准备热牛奶了……",
         game = 0,
         video = {
@@ -90805,6 +91779,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……但是……",
         game = 0,
         video = {
@@ -90898,6 +91873,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有特别在意用哪个色系，只是选了一些喜欢的花。",
         game = 0,
         video = {
@@ -90991,6 +91967,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "其他客人在七罪身后小声地赞叹，七罪放下手中的蓝玫瑰，向我跑来。",
         game = 0,
         video = {
@@ -91090,6 +92067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……！！",
         game = 0,
         video = {
@@ -91183,6 +92161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有什么问题吗？",
         game = 0,
         video = {
@@ -91276,6 +92255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦，原来是巧合啊。",
         game = 0,
         video = {
@@ -91369,6 +92349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "象征纯洁薰衣草",
         game = 0,
         video = {
@@ -91462,6 +92443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这声音……是七罪！",
         game = 0,
         video = {
@@ -91555,6 +92537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可能会……麻烦到%s……",
         game = 0,
         video = {
@@ -91648,6 +92631,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……我开始了。",
         game = 0,
         video = {
@@ -91741,6 +92725,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "还没有想好选什么……",
         game = 0,
         video = {
@@ -91835,6 +92820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -91928,6 +92914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你指的是在后面帮忙推你的事吗？",
         game = 0,
         video = {
@@ -92021,6 +93008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么了吗？",
         game = 0,
         video = {
@@ -92114,6 +93102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "薰衣草怎么样呢？最近的年轻人很喜欢呢。",
         game = 0,
         video = {
@@ -92207,6 +93196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪！你没事吧？！",
         game = 0,
         video = {
@@ -92300,6 +93290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……",
         game = 0,
         video = {
@@ -92393,6 +93384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像……差了点什么。",
         game = 0,
         video = {
@@ -92487,6 +93479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "薰衣草吗？也不错的样子。",
         game = 0,
         video = {
@@ -92580,6 +93573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜呜……%s……对、对不起……",
         game = 0,
         video = {
@@ -92673,6 +93667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "完全没问题啦，不过七罪可以信任的把后背交给我吗？",
         game = 0,
         video = {
@@ -92766,6 +93761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪面露红晕地站在蓝玫瑰的旁边，精心打理后的绿色发丝垂在双肩。",
         game = 0,
         video = {
@@ -92859,6 +93855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s喜欢薰衣草吗？",
         game = 0,
         video = {
@@ -92952,6 +93949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "水池里的水源源不断溢出来，我连忙跑过去拧紧开关。",
         game = 0,
         video = {
@@ -93045,6 +94043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果是%s的话……我相信你……",
         game = 0,
         video = {
@@ -93138,6 +94137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "以蓝色的玫瑰为主要元素的插花，梦幻而美丽。",
         game = 0,
         video = {
@@ -93231,6 +94231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，一整束薰衣草，也很美呢。",
         game = 0,
         video = {
@@ -93324,6 +94325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "奇怪……水龙头没坏啊，七罪，到底怎么回事？",
         game = 0,
         video = {
@@ -93417,6 +94419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我可以一直陪你玩",
         game = 0,
         video = {
@@ -93510,6 +94513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇~这真的是七罪做的吗？",
         game = 0,
         video = {
@@ -93603,6 +94607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们来插花吧。",
         game = 0,
         video = {
@@ -93696,6 +94701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱、抱歉……太认真洗菜，忘记关掉了……",
         game = 0,
         video = {
@@ -93789,6 +94795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我可以一直陪你玩这个游戏哦！",
         game = 0,
         video = {
@@ -93883,6 +94890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -93976,6 +94984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -94069,6 +95078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没关系，你没事就好。",
         game = 0,
         video = {
@@ -94162,6 +95172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "太好了……",
         game = 0,
         video = {
@@ -94255,6 +95266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -94351,6 +95363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -94444,6 +95457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我接过七罪手上已经破烂不成样子的菜叶子。",
         game = 0,
         video = {
@@ -94537,6 +95551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真没想到，七罪是第一次玩呢……那么轻松就赢了。",
         game = 0,
         video = {
@@ -94630,6 +95645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……完……完成了。",
         game = 0,
         video = {
@@ -94723,6 +95739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "完成了，薰衣草插花。",
         game = 0,
         video = {
@@ -94816,6 +95833,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……我是不是……又搞砸了？",
         game = 0,
         video = {
@@ -94910,6 +95928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -95003,6 +96022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "准备好材料之后，我选择在一旁协助七罪，七罪按照自己的想法来插花。",
         game = 0,
         video = {
@@ -95097,6 +96117,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "躺在地上装死",
         game = 0,
         video = {
@@ -95190,6 +96211,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……看来我得拜托七罪别的工作呢。",
         game = 0,
         video = {
@@ -95283,6 +96305,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "准备起飞啦！",
         game = 0,
         video = {
@@ -95376,6 +96399,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果用蓝玫瑰来插花，应该很美吧，那么我先去拿一些花过来。",
         game = 0,
         video = {
@@ -95469,6 +96493,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我躺在地上一动不动，假装晕过去了。",
         game = 0,
         video = {
@@ -95562,6 +96587,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？就算……我搞砸了……还可以帮忙吗？",
         game = 0,
         video = {
@@ -95655,6 +96681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇啊……！",
         game = 0,
         video = {
@@ -95748,6 +96775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……那样的蓝色，很少见呢。",
         game = 0,
         video = {
@@ -95841,6 +96869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "莫非……真的晕过了吗？真是不得了啊~",
         game = 0,
         video = {
@@ -95935,6 +96964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没错，并且是我觉得只有七罪才能帮忙的事哦！",
         game = 0,
         video = {
@@ -96028,6 +97058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "随着秋千一起一伏，周围还有落叶也跟着飞舞起来。",
         game = 0,
         video = {
@@ -96121,6 +97152,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "蓝玫瑰吗？",
         game = 0,
         video = {
@@ -96214,6 +97246,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……是吗？",
         game = 0,
         video = {
@@ -96307,6 +97340,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是什么？这次我一定认真帮忙……！",
         game = 0,
         video = {
@@ -96400,6 +97434,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，需要再高一点吗？",
         game = 0,
         video = {
@@ -96493,6 +97528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我喜欢……那种花。",
         game = 0,
         video = {
@@ -96586,6 +97622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然了，和七罪合作很愉快。",
         game = 0,
         video = {
@@ -96679,6 +97716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，我想拜托七罪去叫醒别的人，并且邀请她来吃早餐，可以做到吗？",
         game = 0,
         video = {
@@ -96772,6 +97810,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好厉害……！请……再高一点……",
         game = 0,
         video = {
@@ -96865,6 +97904,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "和七罪的独处时光，难得的插花体验……我一辈子也不会忘记。",
         game = 0,
         video = {
@@ -96957,6 +97997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……嗯！",
         game = 0,
         video = {
@@ -97050,6 +98091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……邀请别人吗……？",
         game = 0,
         video = {
@@ -97143,6 +98185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我用力地推动着秋千，让它达到了最高点。",
         game = 0,
         video = {
@@ -97236,6 +98279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！很好看，七罪做得很棒！",
         game = 0,
         video = {
@@ -97329,6 +98373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "谢……谢谢%s，这是一次难忘的体验。",
         game = 0,
         video = {
@@ -97422,6 +98467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，不管怎么说，就我们两个吃饭也太寂寞了吧？\n而且，七罪不想和大家一起共享早餐吗？",
         game = 0,
         video = {
@@ -97515,6 +98561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好棒……感觉要飞起来了……",
         game = 0,
         video = {
@@ -97608,6 +98655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "望着我俩亲手完成的插花，七罪发出了这样的疑问。",
         game = 0,
         video = {
@@ -97702,6 +98750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "故意输给七罪",
         game = 0,
         video = {
@@ -97795,6 +98844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我明白了……不过，要邀请谁呢？",
         game = 0,
         video = {
@@ -97890,6 +98940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，要保持笑容哦~",
         game = 0,
         video = {
@@ -97983,6 +99034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好看吗？",
         game = 0,
         video = {
@@ -98076,6 +99128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "you~zi~，柚子……啊，才五步，我输了……",
         game = 0,
         video = {
@@ -98169,6 +99222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这……这样啊。",
         game = 0,
         video = {
@@ -98263,6 +99317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……！",
         game = 0,
         video = {
@@ -98357,6 +99412,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "应该另有其人",
         game = 0,
         video = {
@@ -98450,6 +99506,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇啊~我……赢了吗？",
         game = 0,
         video = {
@@ -98543,6 +99600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那样的心情……和希望有关吗？",
         game = 0,
         video = {
@@ -98636,6 +99694,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在枫叶色的黄昏的照耀下，七罪的微笑更有感染力了。",
         game = 0,
         video = {
@@ -98728,6 +99787,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "应该另有其人吧，不过一定会出现的哦~",
         game = 0,
         video = {
@@ -98821,6 +99881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，七罪很厉害呢，第一次玩就赢了哦~",
         game = 0,
         video = {
@@ -98914,6 +99975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "大……大概吧。",
         game = 0,
         video = {
@@ -99007,6 +100069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……不是很失败吗？熬出一锅不知道是什么样子的酱汤，而且还让热汤溅出来……",
         game = 0,
         video = {
@@ -99100,6 +100163,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我轻轻地摸了摸七罪的头，安慰地说道。",
         game = 0,
         video = {
@@ -99193,6 +100257,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……总觉得……很不真实呢……",
         game = 0,
         video = {
@@ -99286,6 +100351,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可以分给十香一些",
         game = 0,
         video = {
@@ -99379,6 +100445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "才不是呢！",
         game = 0,
         video = {
@@ -99472,6 +100539,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……就算是我这样的人，也会有人想共度一生吗？",
         game = 0,
         video = {
@@ -99565,6 +100633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，你知道你为什么会赢吗？",
         game = 0,
         video = {
@@ -99658,6 +100727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样啊……确实可以分给她一些呢。",
         game = 0,
         video = {
@@ -99751,6 +100821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我从锅里舀出一勺汤，吹了吹之后送进嘴里，然后露出夸张的幸福的表情。",
         game = 0,
         video = {
@@ -99844,6 +100915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那当然啦！只要你用正确的方式和人相处的话。",
         game = 0,
         video = {
@@ -99937,6 +101009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯……不知道……",
         game = 0,
         video = {
@@ -100030,6 +101103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是我的错觉吗，感觉七罪有点小失落的样子……",
         game = 0,
         video = {
@@ -100123,6 +101197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇~味道非常不错呢，这么好喝的酱汤，是由七罪做出来的！",
         game = 0,
         video = {
@@ -100216,6 +101291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "正确的方式……那是什么？",
         game = 0,
         video = {
@@ -100309,6 +101385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那是因为，七罪在玩阶梯游戏的时候的那种自信让你赢了哦。",
         game = 0,
         video = {
@@ -100402,6 +101479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，我选好了。",
         game = 0,
         video = {
@@ -100495,6 +101573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真……真的吗？我来尝尝看……",
         game = 0,
         video = {
@@ -100588,6 +101667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "首先，就要禁止你刚才的那种消极思想！",
         game = 0,
         video = {
@@ -100681,6 +101761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……自信？这种感觉……不错呢~",
         game = 0,
         video = {
@@ -100774,6 +101855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "噢~那我们回家吧！",
         game = 0,
         video = {
@@ -100867,6 +101949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……勉强能喝吧。",
         game = 0,
         video = {
@@ -100960,6 +102043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜……不行的……我总会忍不住去那样想……",
         game = 0,
         video = {
@@ -101053,6 +102137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我会教更多让你变得自信的事，所以请继续努力！",
         game = 0,
         video = {
@@ -101146,6 +102231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -101239,6 +102325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很棒哦，如果多加练习的话，味道会变得更好的。",
         game = 0,
         video = {
@@ -101332,6 +102419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就算其实大家都很喜欢你，你也要那样想去让喜欢的人伤心吗？",
         game = 0,
         video = {
@@ -101425,6 +102513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯……！拜托了……",
         game = 0,
         video = {
@@ -101519,6 +102608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -101612,6 +102702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "买点什么好呢……",
         game = 0,
         video = {
@@ -101707,6 +102798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？我那样想……会让人伤心吗？",
         game = 0,
         video = {
@@ -101800,6 +102892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪诚恳地看着我，让我不禁有些脸红。",
         game = 0,
         video = {
@@ -101893,6 +102986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "刚回到家，就听到厨房传来厨具碰撞的声音，空气中传来烤糊的味道。",
         game = 0,
         video = {
@@ -101986,6 +103080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "为什么……%s会喜欢绣球花呢？",
         game = 0,
         video = {
@@ -102079,6 +103174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，我现在就因为你的想法伤心得要死哦。",
         game = 0,
         video = {
@@ -102172,6 +103268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "以后也一起玩各种游戏吧~",
         game = 0,
         video = {
@@ -102265,6 +103362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s，七罪，你们回来了！",
         game = 0,
         video = {
@@ -102358,6 +103456,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，用紫色的绣球花来做为主角吧。",
         game = 0,
         video = {
@@ -102451,6 +103550,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对、对不起……我不是故意的……",
         game = 0,
         video = {
@@ -102544,6 +103644,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……我会加油的！",
         game = 0,
         video = {
@@ -102636,6 +103737,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？十香在做饭吗？",
         game = 0,
         video = {
@@ -102729,6 +103831,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s选了紫绣球吗？",
         game = 0,
         video = {
@@ -102822,6 +103925,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "并没有怪罪你的意思啦，只是，喜欢的人那么消极，总会被她感染……",
         game = 0,
         video = {
@@ -102915,6 +104019,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "糟了，怎么办呢",
         game = 0,
         video = {
@@ -103008,6 +104113,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为想给%s一个惊喜……所以擅自使用了厨房，对不起！",
         game = 0,
         video = {
@@ -103101,6 +104207,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那太好了，我去拿一些蓝玫瑰过来。",
         game = 0,
         video = {
@@ -103194,6 +104301,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……你也喜欢我吗？",
         game = 0,
         video = {
@@ -103287,6 +104395,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看样子只能再去一次花店，买一个球茎了。",
         game = 0,
         video = {
@@ -103380,6 +104489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用道歉了，不过话说，你有烤焦什么东西吗？",
         game = 0,
         video = {
@@ -103473,6 +104583,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……嗯。",
         game = 0,
         video = {
@@ -103566,6 +104677,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我从来没说不喜欢七罪吧？难道说……七罪其实很讨厌我吗？",
         game = 0,
         video = {
@@ -103659,6 +104771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "或许……不需要这样做。",
         game = 0,
         video = {
@@ -103758,6 +104871,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呀——烤蛋挞！",
         game = 0,
         video = {
@@ -103851,6 +104965,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？七罪也喜欢蓝玫瑰吗？",
         game = 0,
         video = {
@@ -103944,6 +105059,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我捂住胸口，表现出很伤心的样子。",
         game = 0,
         video = {
@@ -104037,6 +105153,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？难道说七罪还有什么办法吗？",
         game = 0,
         video = {
@@ -104130,6 +105247,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -104223,6 +105341,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "蓝玫瑰……喜欢。",
         game = 0,
         video = {
@@ -104316,6 +105435,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不、不是的……！",
         game = 0,
         video = {
@@ -104409,6 +105529,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可以把球茎拿出来，用吹风机吹干。",
         game = 0,
         video = {
@@ -104502,6 +105623,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香露出了慌张的神色，匆忙地跑进厨房里。",
         game = 0,
         video = {
@@ -104595,6 +105717,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "象征希望的紫绣球",
         game = 0,
         video = {
@@ -104688,6 +105811,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那……七罪喜欢我吗？",
         game = 0,
         video = {
@@ -104781,6 +105905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "象征珍贵的蓝玫瑰",
         game = 0,
         video = {
@@ -104874,6 +105999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱……抱歉，我搞砸了。",
         game = 0,
         video = {
@@ -104983,6 +106109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "选哪一种呢？",
         game = 0,
         video = {
@@ -105079,6 +106206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……喜欢……",
         game = 0,
         video = {
@@ -105172,6 +106300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，先选一种花作为主角吧。",
         game = 0,
         video = {
@@ -105265,6 +106394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没关系哦，我们待会出去吃就可以了。",
         game = 0,
         video = {
@@ -105358,6 +106488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以……我们要做冷色系的插花吗？",
         game = 0,
         video = {
@@ -105451,6 +106582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那不就是啦，只要七罪喜欢别人，别人就会喜欢七罪哦！\n这就叫正确的相处方式。",
         game = 0,
         video = {
@@ -105544,6 +106676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……大概吧。",
         game = 0,
         video = {
@@ -105637,6 +106770,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，所以打起精神来哦。",
         game = 0,
         video = {
@@ -105730,6 +106864,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪望着热烈绽放着的向日葵，绿宝石般的眼睛闪动着明亮的光彩。",
         game = 0,
         video = {
@@ -105823,6 +106958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯……我知道了。",
         game = 0,
         video = {
@@ -105916,6 +107052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这就是……希望的力量吗？",
         game = 0,
         video = {
@@ -106009,6 +107146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……鲜花的事……",
         game = 0,
         video = {
@@ -106102,6 +107240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……即使像花朵一样脆弱，因为有了阳光，也会努力地生长呢。",
         game = 0,
         video = {
@@ -106195,6 +107334,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪点了点头，像是下了很大的决心似的握紧了拳头。",
         game = 0,
         video = {
@@ -106287,6 +107427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "希望吗？",
         game = 0,
         video = {
@@ -106380,6 +107521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦，差点忘了。",
         game = 0,
         video = {
@@ -106473,6 +107615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，是希望哦，向日葵是希望之花呢。",
         game = 0,
         video = {
@@ -106566,6 +107709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……寓意？",
         game = 0,
         video = {
@@ -106659,6 +107803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看起来很温暖，而且有美好的寓意。",
         game = 0,
         video = {
@@ -106752,6 +107897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我将准备好的花束双手奉给十香。",
         game = 0,
         video = {
@@ -106845,6 +107991,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪情不自禁地赞美，并且露出了少见的开朗神情。",
         game = 0,
         video = {
@@ -106938,6 +108085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真美。",
         game = 0,
         video = {
@@ -107031,6 +108179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是这些吗？",
         game = 0,
         video = {
@@ -107124,6 +108273,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇啊~",
         game = 0,
         video = {
@@ -107218,6 +108368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪走到摆放鲜花的地方，拿取了鲜花之后折返回来。",
         game = 0,
         video = {
@@ -107311,6 +108462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "以向日葵为主角，用橙色的月季、紫色的洋菊作为配角，再搭配一些绿叶。",
         game = 0,
         video = {
@@ -107404,6 +108556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那……我们需要哪些花呢？",
         game = 0,
         video = {
@@ -107497,6 +108650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我只是举例说下，插花的话，需要考虑的不仅仅是色系，还有作为主角的花和配角的搭配吧。",
         game = 0,
         video = {
@@ -107590,6 +108744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……？",
         game = 0,
         video = {
@@ -107683,6 +108838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哎……等等……不是都拿啦。",
         game = 0,
         video = {
@@ -107776,6 +108932,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我去拿这些花过来……稍等一下。",
         game = 0,
         video = {
@@ -107869,6 +109026,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "向日葵、红色的玫瑰、樱花……我都很喜欢。",
         game = 0,
         video = {
@@ -107962,6 +109120,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪喜欢哪种呢？",
         game = 0,
         video = {
@@ -108055,6 +109214,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我比较喜欢暖色系的插花",
         game = 0,
         video = {
@@ -108148,6 +109308,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什、什么？琴里果然都知道啊。",
         game = 0,
         video = {
@@ -108241,6 +109402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "“如果搞砸的话，我会说屋子是我弄乱的，这样没有人会知道你来过家里”，琴里这样对我说。",
         game = 0,
         video = {
@@ -108334,6 +109496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？",
         game = 0,
         video = {
@@ -108427,6 +109590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那是因为……琴里……",
         game = 0,
         video = {
@@ -108520,6 +109684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不试试怎么知道呢，七罪也把屋子打扫得很干净不是吗？",
         game = 0,
         video = {
@@ -108613,6 +109778,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然是这样啊，习惯性地否定自己，常常会过于担心结果的七罪。",
         game = 0,
         video = {
@@ -108706,6 +109872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……我做不好……一定会搞砸的。",
         game = 0,
         video = {
@@ -108799,6 +109966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们一起来插花吧",
         game = 0,
         video = {
@@ -108893,6 +110061,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -108986,6 +110155,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "该不会是琴里打扫的吧",
         game = 0,
         video = {
@@ -109079,6 +110249,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -109172,6 +110343,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……可以。",
         game = 0,
         video = {
@@ -109265,6 +110437,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样啊，那我们先随便逛逛怎么样。",
         game = 0,
         video = {
@@ -109358,6 +110531,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这时，琴里揉揉眼睛，从卧室走了出来。",
         game = 0,
         video = {
@@ -109451,6 +110625,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没、没有……怎样都好。",
         game = 0,
         video = {
@@ -109544,6 +110719,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "要好好感谢七罪才行啊",
         game = 0,
         video = {
@@ -109637,6 +110813,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪有想要去的地方吗？",
         game = 0,
         video = {
@@ -109730,6 +110907,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早上好啊琴里！",
         game = 0,
         video = {
@@ -109823,6 +111001,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "打扫完之后并没有离开，而是藏起来看我的反应，果然很符合七罪的风格呢。",
         game = 0,
         video = {
@@ -109916,6 +111095,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的，应该好好感谢她哦。",
         game = 0,
         video = {
@@ -110009,6 +111189,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然是这样啊。",
         game = 0,
         video = {
@@ -110102,6 +111283,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早上好啊，哥哥！",
         game = 0,
         video = {
@@ -110195,6 +111377,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……唔。",
         game = 0,
         video = {
@@ -110288,6 +111471,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "话说……今天的早餐吃什么呢？",
         game = 0,
         video = {
@@ -110381,6 +111565,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "难道说……刚才你就在旁边？",
         game = 0,
         video = {
@@ -110474,6 +111659,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "琴里的头发有些凌乱，是刚睡醒的样子没错。",
         game = 0,
         video = {
@@ -110567,6 +111753,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咦？你怎么知道我要说什么？",
         game = 0,
         video = {
@@ -110660,6 +111847,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用想那么多，就像平时那样就好。",
         game = 0,
         video = {
@@ -110753,6 +111941,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我说可以，和%s约会。",
         game = 0,
         video = {
@@ -110846,6 +112035,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "为什么这样看着我？",
         game = 0,
         video = {
@@ -110939,6 +112129,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？",
         game = 0,
         video = {
@@ -111032,6 +112223,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吐司、煎蛋和牛奶吗？稍等……很快就好。",
         game = 0,
         video = {
@@ -111125,6 +112317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吃过早饭之后，我决定去公寓里找七罪。",
         game = 0,
         video = {
@@ -111218,6 +112411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……琴里，房间是你打扫的吗？",
         game = 0,
         video = {
@@ -111312,6 +112506,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -111405,6 +112600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "话说回来，哥哥打算怎么感谢七罪呢？",
         game = 0,
         video = {
@@ -111498,6 +112694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -111591,6 +112788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……咦？她真的这么做了啊……",
         game = 0,
         video = {
@@ -111684,6 +112882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样啊……那我吃过饭就去找她。",
         game = 0,
         video = {
@@ -111777,6 +112976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……还没有想好，送礼物怎么样？点心或是饰品什么的。",
         game = 0,
         video = {
@@ -111870,6 +113070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没错，就是今天，趁热打铁知道吗？",
         game = 0,
         video = {
@@ -111963,6 +113164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "琴里睁大橡子般圆圆的眼睛，吃惊地四处张望。",
         game = 0,
         video = {
@@ -112056,6 +113258,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……诶？今天吗？",
         game = 0,
         video = {
@@ -112149,6 +113352,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然是笨蛋啊，根本就不懂女孩子的心思。",
         game = 0,
         video = {
@@ -112242,6 +113446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "婉拒七罪",
         game = 0,
         video = {
@@ -112335,6 +113540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你在说什么啊？",
         game = 0,
         video = {
@@ -112428,6 +113634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然这样的话，就是今天吧。",
         game = 0,
         video = {
@@ -112521,6 +113728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……咦？",
         game = 0,
         video = {
@@ -112614,6 +113822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱歉……今天我已经有安排了。",
         game = 0,
         video = {
@@ -112707,6 +113916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没、没什么啦！不是我打扫的！",
         game = 0,
         video = {
@@ -112800,6 +114010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "都是七罪挑选的呢",
         game = 0,
         video = {
@@ -112893,6 +114104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然是约会啊！",
         game = 0,
         video = {
@@ -112986,6 +114198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什么安排？该不会是想拒绝姐姐故意编出来的吧？",
         game = 0,
         video = {
@@ -113079,6 +114292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……果然不是你吗。",
         game = 0,
         video = {
@@ -113172,6 +114386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶诶诶？",
         game = 0,
         video = {
@@ -113265,6 +114480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "想要感谢七罪的话，就和她约会吧！",
         game = 0,
         video = {
@@ -113360,6 +114576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪表情不太自然地转身就走。",
         game = 0,
         video = {
@@ -113453,6 +114670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "琴里挑了挑眉毛。",
         game = 0,
         video = {
@@ -113546,6 +114764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "谢谢你，七罪，我好喜欢哦！",
         game = 0,
         video = {
@@ -113639,6 +114858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为绣球花的花语是希望，我喜欢这个寓意。",
         game = 0,
         video = {
@@ -113732,6 +114952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看来七罪是真的生气了啊……得赶紧道歉才行。",
         game = 0,
         video = {
@@ -113825,6 +115046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什么嘛，难道一点都没有想过是可爱的妹妹做的吗？",
         game = 0,
         video = {
@@ -113918,6 +115140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……也没什么的……你不嫌弃就好。",
         game = 0,
         video = {
@@ -114011,6 +115234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "希望？",
         game = 0,
         video = {
@@ -114105,6 +115329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -114198,6 +115423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……当然有想过啊，不过显而易见不是你做的吧。",
         game = 0,
         video = {
@@ -114291,6 +115517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喜欢七罪！",
         game = 0,
         video = {
@@ -114384,6 +115611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，听说在绣球花的故乡，它们总是在寒冷的冬天开放。当人们看到绣球花的时候，就会感受到希望。",
         game = 0,
         video = {
@@ -114477,6 +115705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "焦急地来到精灵公寓，我忐忑地东张西望。",
         game = 0,
         video = {
@@ -114570,6 +115799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我的目光扫过琴里没有来得及梳理的头发。",
         game = 0,
         video = {
@@ -114663,6 +115893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香突然扑过来，给了七罪一个大大的拥抱。",
         game = 0,
         video = {
@@ -114756,6 +115987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为绣球花开放了，春天都不远了吗？",
         game = 0,
         video = {
@@ -114849,6 +116081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说完，琴里飞快地出门了。",
         game = 0,
         video = {
@@ -114942,6 +116175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哥哥的智商原来有超过草履虫嘛。",
         game = 0,
         video = {
@@ -115035,6 +116269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……！",
         game = 0,
         video = {
@@ -115128,6 +116363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，即使只是一点点的希望，人类也会为之振奋不是吗？",
         game = 0,
         video = {
@@ -115221,6 +116457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用担心，我会去便利店买早点的。",
         game = 0,
         video = {
@@ -115317,6 +116554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "心态平稳地无视",
         game = 0,
         video = {
@@ -115410,6 +116648,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪手足无措地站着，双颊也染上了红晕。",
         game = 0,
         video = {
@@ -115502,6 +116741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……代表春天和希望的绣球花，七罪也喜欢。",
         game = 0,
         video = {
@@ -115595,6 +116835,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪还在房间里吗？",
         game = 0,
         video = {
@@ -115688,6 +116929,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我心态平稳地无视了七罪的话。",
         game = 0,
         video = {
@@ -115781,6 +117023,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "桌上似乎还有残留的水迹，肯定是擦拭过没有多久，难道说……",
         game = 0,
         video = {
@@ -115874,6 +117117,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪该不会还没有离开吧？",
         game = 0,
         video = {
@@ -115968,6 +117212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "邀请琴里",
         game = 0,
         video = {
@@ -116061,6 +117306,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有倒是有，虽然仅仅凭直觉猜测，但确实有怀疑的人，不对，有怀疑的“精灵”。",
         game = 0,
         video = {
@@ -116154,6 +117400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "刷过碗后，我决定来整理一下房间。",
         game = 0,
         video = {
@@ -116247,6 +117494,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "戴着花环的七罪低下头，露出了略显羞涩的表情。",
         game = 0,
         video = {
@@ -116339,6 +117587,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "或许……七罪可以邀请琴里试试看？",
         game = 0,
         video = {
@@ -116432,6 +117681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦？那么，哥哥觉得最大嫌疑人是谁呢？",
         game = 0,
         video = {
@@ -116526,6 +117776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "培根煎蛋",
         game = 0,
         video = {
@@ -116619,6 +117870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "多谢光顾！",
         game = 0,
         video = {
@@ -116712,6 +117964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？琴里……吗？",
         game = 0,
         video = {
@@ -116805,6 +118058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "会偷偷做下这样的事情的人，十香、折纸、四糸乃……应该都不是，她们昨晚在这里待到很晚才回去。",
         game = 0,
         video = {
@@ -116898,6 +118152,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼哼，早饭是……香喷喷的培根煎蛋哦~",
         game = 0,
         video = {
@@ -116992,6 +118247,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -117085,6 +118341,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，七罪有信心吗？",
         game = 0,
         video = {
@@ -117178,6 +118435,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是七罪吧，她应该有最大的嫌疑。",
         game = 0,
         video = {
@@ -117271,6 +118529,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "超期待呐！培根煎蛋，培根煎蛋！",
         game = 0,
         video = {
@@ -117364,6 +118623,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -117457,6 +118717,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "虽然没有……但是我会努力的……",
         game = 0,
         video = {
@@ -117550,6 +118811,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼~还不错嘛。",
         game = 0,
         video = {
@@ -117643,6 +118905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我端出两份培根煎蛋。",
         game = 0,
         video = {
@@ -117736,6 +118999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！",
         game = 0,
         video = {
@@ -117829,6 +119093,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，有努力的劲头就足够了。",
         game = 0,
         video = {
@@ -117922,6 +119187,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？我说对了吗？",
         game = 0,
         video = {
@@ -118015,6 +119281,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "快尝尝看吧！",
         game = 0,
         video = {
@@ -118108,6 +119375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们买一些回去吧。",
         game = 0,
         video = {
@@ -118201,6 +119469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说着，我鼓励般地摸了摸七罪的头。",
         game = 0,
         video = {
@@ -118294,6 +119563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "脱口而出她的名字什么的，她知道的话会觉得很开心吧。",
         game = 0,
         video = {
@@ -118387,6 +119657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真、真好吃……",
         game = 0,
         video = {
@@ -118481,6 +119752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "讲述枫叶的传说",
         game = 0,
         video = {
@@ -118574,6 +119846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -118667,6 +119940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是、这样啊，她会为这种事情感到开心……",
         game = 0,
         video = {
@@ -118760,6 +120034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈，好厉害……",
         game = 0,
         video = {
@@ -118853,6 +120128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对了，你知道关于枫叶的传说吗？",
         game = 0,
         video = {
@@ -118949,6 +120225,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -119042,6 +120319,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不过，为什么琴里看起来……好像已经知道了真相？",
         game = 0,
         video = {
@@ -119136,6 +120414,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，你们喜欢就好。",
         game = 0,
         video = {
@@ -119229,6 +120508,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不知道……%s可以告诉我吗？",
         game = 0,
         video = {
@@ -119322,6 +120602,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……我回来了……",
         game = 0,
         video = {
@@ -119415,6 +120696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "用来装饰房间很不错吧？",
         game = 0,
         video = {
@@ -119508,6 +120790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃，我们得赶回去了哦！午间剧场要开始了呐！",
         game = 0,
         video = {
@@ -119601,6 +120884,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪摇了摇头，茫然地看着我。",
         game = 0,
         video = {
@@ -119694,6 +120978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "笨蛋哥哥，我不是说了今天休息，所以睡懒觉吗？",
         game = 0,
         video = {
@@ -119787,6 +121072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "像雪一样的白色，像花朵一般地绽放着。",
         game = 0,
         video = {
@@ -119880,6 +121166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯……%s，再见。",
         game = 0,
         video = {
@@ -119973,6 +121260,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果你在不知不觉的时候，摘下一片枫叶或捡起一片枫叶的话……",
         game = 0,
         video = {
@@ -120066,6 +121354,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，我忘记了！",
         game = 0,
         video = {
@@ -120159,6 +121448,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……有趣，也是很可爱。",
         game = 0,
         video = {
@@ -120252,6 +121542,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃把最后一口培根煎蛋放进嘴里，然后连忙离开了。",
         game = 0,
         video = {
@@ -120345,6 +121636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯……会怎么样？",
         game = 0,
         video = {
@@ -120438,6 +121730,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是的，为什么连这种事情都会忘记啊？",
         game = 0,
         video = {
@@ -120531,6 +121824,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，棉花会被加工成纺织品，用来制造人类的衣物，如今却作为装饰品流行起来，很有趣吧？",
         game = 0,
         video = {
@@ -120624,6 +121918,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等……走得真快啊。",
         game = 0,
         video = {
@@ -120717,6 +122012,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没想到七罪手里已经握着一片枫叶了，看来她已经达到要求了。",
         game = 0,
         video = {
@@ -120810,6 +122106,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……是我的错……",
         game = 0,
         video = {
@@ -120903,6 +122200,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "纺织品……",
         game = 0,
         video = {
@@ -120996,6 +122294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？可以吗？",
         game = 0,
         video = {
@@ -121089,6 +122388,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那未来与你度过一生的人就会在捡起枫叶的一周内出现哦~",
         game = 0,
         video = {
@@ -121182,6 +122482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是你的错，你只是%s派来叫我起床的而已。",
         game = 0,
         video = {
@@ -121275,6 +122576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "棉花是棉铃成熟之后裂开所形成的，一直以来都被采集起来做纺织品呢。",
         game = 0,
         video = {
@@ -121368,6 +122670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，差点忘了！琴里还在睡吗？",
         game = 0,
         video = {
@@ -121461,6 +122764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇啊……！真的吗？",
         game = 0,
         video = {
@@ -121554,6 +122858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是的……都怪我早上，做了多余的事……",
         game = 0,
         video = {
@@ -121647,6 +122952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？",
         game = 0,
         video = {
@@ -121740,6 +123046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……也是我去吗？",
         game = 0,
         video = {
@@ -121833,6 +123140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，你已经达到要求了哦~",
         game = 0,
         video = {
@@ -121926,6 +123234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七、七罪，那个事情都已经过去了，快别说了！",
         game = 0,
         video = {
@@ -122019,6 +123328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这是棉花哦，并不是严格意义上的花朵。",
         game = 0,
         video = {
@@ -122112,6 +123422,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，那么拜托了。",
         game = 0,
         video = {
@@ -122205,6 +123516,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我指了指七罪手里的枫叶。",
         game = 0,
         video = {
@@ -122298,6 +123610,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "都怪我用大姐姐的方式叫%s起床……他一时不太适应，就忘记琴里的事了。",
         game = 0,
         video = {
@@ -122391,6 +123704,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这是……花吗？",
         game = 0,
         video = {
@@ -122484,6 +123798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，看我看我。哈！哈！哈！",
         game = 0,
         video = {
@@ -122577,6 +123892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯……会是谁呢？",
         game = 0,
         video = {
@@ -122670,6 +123986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……大姐姐的方式？",
         game = 0,
         video = {
@@ -122764,6 +124081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "最近似乎很流行棉花呢。",
         game = 0,
         video = {
@@ -122857,6 +124175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我对着七罪尽可能地露出了一个最灿烂的笑容。",
         game = 0,
         video = {
@@ -122950,6 +124269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪眼神柔和地看着手里的枫叶。",
         game = 0,
         video = {
@@ -123044,6 +124364,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我随手拿起一束棉花花束。",
         game = 0,
         video = {
@@ -123137,6 +124458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "干花的保存时间更长，只需要放在干燥的瓶子里就能长时间保存。",
         game = 0,
         video = {
@@ -123230,6 +124552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……你为什么……假笑？",
         game = 0,
         video = {
@@ -123323,6 +124646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜哇，真好吃，这是什么……谢，谢谢……",
         game = 0,
         video = {
@@ -123416,6 +124740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "现……现在就种，怎……怎么做？",
         game = 0,
         video = {
@@ -123509,6 +124834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊……既然是%s拜托的话，那姐姐当然要答应啦~",
         game = 0,
         video = {
@@ -123602,6 +124928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呃……不是假笑啦！",
         game = 0,
         video = {
@@ -123695,6 +125022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯……好吧……",
         game = 0,
         video = {
@@ -123788,6 +125116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嘎哈！也有四糸奈的名字！",
         game = 0,
         video = {
@@ -123881,6 +125210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要怕，你只要看着我一个人，就会忽略掉他们了~",
         game = 0,
         video = {
@@ -123974,6 +125304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嘿……我是骗你的……",
         game = 0,
         video = {
@@ -124067,6 +125398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "快尝尝看吧！",
         game = 0,
         video = {
@@ -124160,6 +125492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……我感觉到了很多视线……",
         game = 0,
         video = {
@@ -124253,6 +125586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我端出两碗写着各自名字的蛋包饭。",
         game = 0,
         video = {
@@ -124346,6 +125680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我有些尴尬地挠了挠头。",
         game = 0,
         video = {
@@ -124439,6 +125774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……虽然确实这样有些多了，但是也可以都买下的。",
         game = 0,
         video = {
@@ -124533,6 +125869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？可以……全都买下来吗？",
         game = 0,
         video = {
@@ -124626,6 +125963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就都买下来好了。",
         game = 0,
         video = {
@@ -124719,6 +126057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "本来想鼓励七罪的，没想到被你捉弄了……",
         game = 0,
         video = {
@@ -124812,6 +126151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这种浅紫色的玫瑰……还有那种，都很好看。",
         game = 0,
         video = {
@@ -124905,6 +126245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么了？还没有办法做决定吗？",
         game = 0,
         video = {
@@ -124998,6 +126339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪左瞧右看，犹豫不决。",
         game = 0,
         video = {
@@ -125091,6 +126433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……！对不起……我不是故意的……",
         game = 0,
         video = {
@@ -125184,6 +126527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，帮我挑选一些鲜花回去，插在花瓶里吧。",
         game = 0,
         video = {
@@ -125277,6 +126621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……我来挑选吗？",
         game = 0,
         video = {
@@ -125370,6 +126715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪的视线在鲜花和插花之间游移。",
         game = 0,
         video = {
@@ -125463,6 +126809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然这样，七罪你得补偿我才行！",
         game = 0,
         video = {
@@ -125556,6 +126903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "会展示在店里面，来往的客人都可以欣赏到。",
         game = 0,
         video = {
@@ -125649,6 +126997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？如果不买走的话会怎么样处置呢？",
         game = 0,
         video = {
@@ -125742,6 +127091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然，如果不想要带走成品的，就是完全免费的。",
         game = 0,
         video = {
@@ -125835,6 +127185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我故作严肃地抱着手，假装生气的样子。",
         game = 0,
         video = {
@@ -125928,6 +127279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……那个……我们……也可以吗？",
         game = 0,
         video = {
@@ -126021,6 +127373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是的，今天是本店的插花体验日，来店里的客人可以参与插花体验。",
         game = 0,
         video = {
@@ -126114,6 +127467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不知道吃什么好呢",
         game = 0,
         video = {
@@ -126207,6 +127561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？怎么……补偿？",
         game = 0,
         video = {
@@ -126300,6 +127655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……也可以这么说。",
         game = 0,
         video = {
@@ -126393,6 +127749,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，今天的天气真的很不错啊~",
         game = 0,
         video = {
@@ -126486,6 +127843,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "还真是伤脑筋啊，不知道给七罪做点什么吃比较好……",
         game = 0,
         video = {
@@ -126579,6 +127937,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就……就补偿我一个同样灿烂的微笑好了！",
         game = 0,
         video = {
@@ -126672,6 +128031,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪挑选一些鲜花吧",
         game = 0,
         video = {
@@ -126765,6 +128125,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "两位请问需要些什么呢？",
         game = 0,
         video = {
@@ -126858,6 +128219,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……如果为难的话，我可以做早餐吗？",
         game = 0,
         video = {
@@ -126951,6 +128313,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈啊……？……像这样吗？",
         game = 0,
         video = {
@@ -127044,6 +128407,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……房间……打扫……",
         game = 0,
         video = {
@@ -127137,6 +128501,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香，上午好！",
         game = 0,
         video = {
@@ -127230,6 +128595,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？七罪已经想好吃什么了吗？",
         game = 0,
         video = {
@@ -127323,6 +128689,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说完，七罪也露出了一个灿烂的笑容。",
         game = 0,
         video = {
@@ -127416,6 +128783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？生气了吗？",
         game = 0,
         video = {
@@ -127509,6 +128877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像很有趣，可以哦~",
         game = 0,
         video = {
@@ -127602,6 +128971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用亲自去做啦，只要告诉我就可以了。",
         game = 0,
         video = {
@@ -127695,6 +129065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就是这样。别忘了这个感觉哦，这是个有自信力量的微笑！",
         game = 0,
         video = {
@@ -127788,6 +129159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "讨厌我就直说啊！",
         game = 0,
         video = {
@@ -127881,6 +129253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这么小声的话，我只好把耳朵贴上来了哦~",
         game = 0,
         video = {
@@ -127974,6 +129347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是的……是我想要做早餐给%s吃，可以吗？",
         game = 0,
         video = {
@@ -128067,6 +129441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的吗……！微笑就会自信这种事……",
         game = 0,
         video = {
@@ -128160,6 +129535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……？你到底在说什么啊，我怎么会讨厌你呢？",
         game = 0,
         video = {
@@ -128253,6 +129629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈哈……那我们一起期待球茎依然会发芽吧。",
         game = 0,
         video = {
@@ -128346,6 +129723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一直以来……承蒙%s照顾，我也想要努力看看。",
         game = 0,
         video = {
@@ -128439,6 +129817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，如果七罪自信起来，那么所有人也会对你微笑哦。",
         game = 0,
         video = {
@@ -128532,6 +129911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s让我吃煎蛋的意思……是讨厌我瘦弱的身体吧！",
         game = 0,
         video = {
@@ -128627,6 +130007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "配上向日葵会更好",
         game = 0,
         video = {
@@ -128720,6 +130101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你已经做了很多了，帮我打扫了房间什么的。",
         game = 0,
         video = {
@@ -128813,6 +130195,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的……吗？",
         game = 0,
         video = {
@@ -128906,6 +130289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我也不想这副样子的……",
         game = 0,
         video = {
@@ -128999,6 +130383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "向日葵吗？",
         game = 0,
         video = {
@@ -129092,6 +130477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……可是还想做更多事情。",
         game = 0,
         video = {
@@ -129187,6 +130573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，七罪试试看？笑起来~",
         game = 0,
         video = {
@@ -129280,6 +130667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "冷静，七罪！",
         game = 0,
         video = {
@@ -129373,6 +130761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的，我知道了。",
         game = 0,
         video = {
@@ -129466,6 +130855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美丽的大姐姐亲自叫你起床，不开心吗？",
         game = 0,
         video = {
@@ -129559,6 +130949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……！",
         game = 0,
         video = {
@@ -129652,6 +131043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我握住七罪的肩膀，制止她产生压力更大的联想。",
         game = 0,
         video = {
@@ -129745,6 +131137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪拿起一支向日葵，插在花座里。",
         game = 0,
         video = {
@@ -129838,6 +131231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这个嘛，是我买来送给七罪的！",
         game = 0,
         video = {
@@ -129931,6 +131325,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪微笑着看着我，让我的心跳有些加速，这大概就是自信的力量吧……",
         game = 0,
         video = {
@@ -130023,6 +131418,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "虽然牛奶和鸡蛋确实有长高的功效，不过不是那个意思啊！",
         game = 0,
         video = {
@@ -130116,6 +131512,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样可能不是很合适呢，把暖色系的向日葵插在冷色系的花束上。",
         game = 0,
         video = {
@@ -130209,6 +131606,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那个……早上好。",
         game = 0,
         video = {
@@ -130302,6 +131700,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶？……给我的？",
         game = 0,
         video = {
@@ -130395,6 +131794,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么说呢……我只是希望你吃得更加满足而已。",
         game = 0,
         video = {
@@ -130488,6 +131888,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……是吗？我果然什么都做不好吧。",
         game = 0,
         video = {
@@ -130581,6 +131982,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔姆！因为在公寓没有找到你，所以才带到了这里来。",
         game = 0,
         video = {
@@ -130674,6 +132076,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，这样的相处是不对的哦。",
         game = 0,
         video = {
@@ -130767,6 +132170,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……真的吗？",
         game = 0,
         video = {
@@ -130860,6 +132264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……是我的错，抱歉，七罪。",
         game = 0,
         video = {
@@ -130953,6 +132358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……诶？什么……意思？",
         game = 0,
         video = {
@@ -131046,6 +132452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔姆！因为上次经过某个透明的柜子时候，看到你对它露出了痴迷的神色。",
         game = 0,
         video = {
@@ -131139,6 +132546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，至于你说的瘦小什么的，我怎么讨厌呢，明明只会更心疼啊。",
         game = 0,
         video = {
@@ -131232,6 +132640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没关系的……仔细一看，这样也不错。",
         game = 0,
         video = {
@@ -131325,6 +132734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "柜……柜子？",
         game = 0,
         video = {
@@ -131418,6 +132828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯……可是像我这样的人，会有人喜欢吗？",
         game = 0,
         video = {
@@ -131511,6 +132922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "心……心疼？",
         game = 0,
         video = {
@@ -131604,6 +133016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈……说得也是，只要自己喜欢就可以了嘛。",
         game = 0,
         video = {
@@ -131697,6 +133110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，这样才对嘛！走吧，我们出发。",
         game = 0,
         video = {
@@ -131790,6 +133204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "听完花店老板嘱咐了注意事项之后，我和七罪离开了花店。",
         game = 0,
         video = {
@@ -131883,6 +133298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，因为心疼，所以想好好照顾你。",
         game = 0,
         video = {
@@ -131976,6 +133392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -132069,6 +133486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -132162,6 +133580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……好呀。",
         game = 0,
         video = {
@@ -132255,6 +133674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不会讨厌我吗？这样单薄的身体，和糟糕的性格……",
         game = 0,
         video = {
@@ -132351,6 +133771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -132444,6 +133865,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "缓慢扶着腰起身",
         game = 0,
         video = {
@@ -132538,6 +133960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "爱心蛋包饭",
         game = 0,
         video = {
@@ -132631,6 +134054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然不会啊，我喜欢七罪现在的样子。",
         game = 0,
         video = {
@@ -132724,6 +134148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "离开花店后，我和七罪漫无目的地走在街道上。",
         game = 0,
         video = {
@@ -132817,6 +134242,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "疼疼疼……",
         game = 0,
         video = {
@@ -132911,6 +134337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -133004,6 +134431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪睁大绿宝石一样的眼睛，愣愣地望着我。",
         game = 0,
         video = {
@@ -133097,6 +134525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "谢谢%s，今天和我一起插花。",
         game = 0,
         video = {
@@ -133190,6 +134619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我缓慢扶着腰起身，刚才那一摔伤害有些大。",
         game = 0,
         video = {
@@ -133283,6 +134713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，那么我们开始吧！",
         game = 0,
         video = {
@@ -133376,6 +134807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喜……喜欢……%s喜欢我。",
         game = 0,
         video = {
@@ -133469,6 +134901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没什么啦，我也玩得很开心啊。",
         game = 0,
         video = {
@@ -133562,6 +134995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "诶~%s怎么这么不小心，伤得重吗？",
         game = 0,
         video = {
@@ -133655,6 +135089,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼哼，早饭是……香喷喷的爱心蛋包饭哦~",
         game = 0,
         video = {
@@ -133748,6 +135183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没办法了……看来姐姐只有给%s做人工呼吸了~",
         game = 0,
         video = {
@@ -133841,6 +135277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是很不错的体验呢。",
         game = 0,
         video = {
@@ -133934,6 +135371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪靠过来，把手放在我的腰上温柔地询问。",
         game = 0,
         video = {
@@ -134028,6 +135466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "安慰七罪",
         game = 0,
         video = {
@@ -134121,6 +135560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对不起……不自觉地就……以为你讨厌我了。",
         game = 0,
         video = {
@@ -134214,6 +135654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我感觉到七罪正慢慢向我靠近。",
         game = 0,
         video = {
@@ -134307,6 +135748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜哇——我，我没事！",
         game = 0,
         video = {
@@ -134400,6 +135842,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯……我想变得更加自信……",
         game = 0,
         video = {
@@ -134493,6 +135936,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有关系，解释清楚就好了。",
         game = 0,
         video = {
@@ -134586,6 +136030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呜哇——七罪，我、我没事！",
         game = 0,
         video = {
@@ -134679,6 +136124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……没事就好~不过，你今天有什么安排吗？",
         game = 0,
         video = {
@@ -134772,6 +136218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……谢、谢谢……",
         game = 0,
         video = {
@@ -134865,6 +136312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……不会讨厌我吗？",
         game = 0,
         video = {
@@ -134958,6 +136406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呵呵，好可惜……",
         game = 0,
         video = {
@@ -135051,6 +136500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有什么事吗？",
         game = 0,
         video = {
@@ -135144,6 +136594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "超期待呐！蛋包饭，蛋包饭！",
         game = 0,
         video = {
@@ -135237,6 +136688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然不会，我永远不会讨厌七罪的！",
         game = 0,
         video = {
@@ -135330,6 +136782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪的笑里尽是戏谑，看来是早就知道我在装死了。",
         game = 0,
         video = {
@@ -135423,6 +136876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯~因为今天我想和你约会哦~",
         game = 0,
         video = {
@@ -135517,6 +136971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只……只有我们两个人？",
         game = 0,
         video = {
@@ -135610,6 +137065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……嗯！",
         game = 0,
         video = {
@@ -135703,6 +137159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " 难道说……你早就知道了？",
         game = 0,
         video = {
@@ -135796,6 +137253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有这回事哦！大家只是单纯地路过我们而已啦。",
         game = 0,
         video = {
@@ -135889,6 +137347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原来如此，一定能实现的！",
         game = 0,
         video = {
@@ -135982,6 +137441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "听了我的话，七罪心情平复下来。",
         game = 0,
         video = {
@@ -136075,6 +137535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唉……%s真是不可爱啊，害得我那么担心，原来是假的吗？",
         game = 0,
         video = {
@@ -136168,6 +137629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪小心翼翼地坐上秋千，我在后面伸出双手准备就绪。",
         game = 0,
         video = {
@@ -136261,6 +137723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦呀？小哥表现的还不赖嘛~",
         game = 0,
         video = {
@@ -136354,6 +137817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -136447,6 +137911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "对、对不起，只是临时起兴就……",
         game = 0,
         video = {
@@ -136540,6 +138005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪也拿一些吧",
         game = 0,
         video = {
@@ -136633,6 +138099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是、是的……但是，好多人类……",
         game = 0,
         video = {
@@ -136727,6 +138194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -136820,6 +138288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果你有诚意的话，现在该补偿了姐姐一下了吧？",
         game = 0,
         video = {
@@ -136914,6 +138383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "给……给我吗？真的可以吗？",
         game = 0,
         video = {
@@ -137007,6 +138477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这……这样啊。",
         game = 0,
         video = {
@@ -137100,6 +138571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早餐过后，我决定来整理一下房间。",
         game = 0,
         video = {
@@ -137193,6 +138665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -137286,6 +138759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！七罪也可以带一些回去。",
         game = 0,
         video = {
@@ -137379,6 +138853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "周围的行人来来往往，七罪慌张地低着头。",
         game = 0,
         video = {
@@ -137472,6 +138947,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……我可以来帮忙吗？",
         game = 0,
         video = {
@@ -137565,6 +139041,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……诶？上面有我的名字……",
         game = 0,
         video = {
@@ -137658,6 +139135,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "谢……谢谢。",
         game = 0,
         video = {
@@ -137751,6 +139229,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……好、好的……",
         game = 0,
         video = {
@@ -137844,6 +139323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用休息吗？",
         game = 0,
         video = {
@@ -137938,6 +139418,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "询问七罪的愿望",
         game = 0,
         video = {
@@ -138031,6 +139512,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "话说回来，干花也不错呢，七罪想要一些干花吗？",
         game = 0,
         video = {
@@ -138124,6 +139606,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -138217,6 +139700,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不想休息，想要……帮忙。",
         game = 0,
         video = {
@@ -138311,6 +139795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -138404,6 +139889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "干花？",
         game = 0,
         video = {
@@ -138497,6 +139983,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……会是谁呢？",
         game = 0,
         video = {
@@ -138590,6 +140077,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……这样的话，可以帮我把窗户打开吗？",
         game = 0,
         video = {
@@ -138683,6 +140171,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "星期天的早晨，离开了温暖的床铺，我睡眼惺忪地起床去做早餐。",
         game = 0,
         video = {
@@ -138776,6 +140265,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪歪着头，显然对我的提议感到疑惑。",
         game = 0,
         video = {
@@ -138869,6 +140359,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，你的愿望许好了吗？",
         game = 0,
         video = {
@@ -138962,6 +140453,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "保持通风的话，就能呼吸到新鲜的空气了。",
         game = 0,
         video = {
@@ -139055,6 +140547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……咦？",
         game = 0,
         video = {
@@ -139148,6 +140641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因为最近比较流行在家里摆放干花做装饰。",
         game = 0,
         video = {
@@ -139241,6 +140735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪，我们来把它种进花盆里吧。",
         game = 0,
         video = {
@@ -139334,6 +140829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！我这就去！",
         game = 0,
         video = {
@@ -139427,6 +140923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我揉了揉眼睛，为了将熟悉的房间看得更加清晰。",
         game = 0,
         video = {
@@ -139520,6 +141017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "用干花做装饰吗？",
         game = 0,
         video = {
@@ -139614,6 +141112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -139707,6 +141206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -139801,6 +141301,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -139894,6 +141395,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪认真地盯着我，让我的视线无法关注到其他的事。",
         game = 0,
         video = {
@@ -139987,6 +141489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "正好家里有空置的花盆，我们回去种上就可以了。",
         game = 0,
         video = {
@@ -140086,6 +141589,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "砰——",
         game = 0,
         video = {
@@ -140179,6 +141683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "出现在我眼前的，是明亮的窗户，光洁的桌面和地面。",
         game = 0,
         video = {
@@ -140272,6 +141777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯……！",
         game = 0,
         video = {
@@ -140365,6 +141871,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……我们就买它吧。",
         game = 0,
         video = {
@@ -140458,6 +141965,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一声清脆的撞击声传来，七罪撞到窗户上了。",
         game = 0,
         video = {
@@ -140551,6 +142059,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不过，倒下的垃圾桶、被刮花的墙壁、被磨破的沙发……看来清扫过程并不顺利。",
         game = 0,
         video = {
@@ -140644,6 +142153,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那太好啦，希望七罪能够实现这个愿望。",
         game = 0,
         video = {
@@ -140737,6 +142247,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果%s想知道的话……可以告诉你……",
         game = 0,
         video = {
@@ -140830,6 +142341,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没、没事吧？！",
         game = 0,
         video = {
@@ -140923,6 +142435,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我没有看错吧……",
         game = 0,
         video = {
@@ -141018,6 +142531,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……这跟智商没有关系吧，不过话说回来，会是谁呢？",
         game = 0,
         video = {
@@ -141111,6 +142625,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔嗯！",
         game = 0,
         video = {
@@ -141204,6 +142719,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我赶紧跑过去扶起七罪。因为疼痛的原因，她的眼角已经溢出了泪花。",
         game = 0,
         video = {
@@ -141298,6 +142814,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -141391,6 +142908,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好好好，你们抓紧了啊！",
         game = 0,
         video = {
@@ -141484,6 +143002,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的吗……？我担心自己做不到……",
         game = 0,
         video = {
@@ -141577,6 +143096,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有关系……这种程度，还伤不到我……啊呜……",
         game = 0,
         video = {
@@ -141670,6 +143190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那这个球茎怎么办？要扔掉吗？",
         game = 0,
         video = {
@@ -141766,6 +143287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -141859,6 +143381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不过，现在这个时间……也不知道大家醒了没有。",
         game = 0,
         video = {
@@ -141952,6 +143475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这种时候就不要逞强了吧，快让我看看！",
         game = 0,
         video = {
@@ -142045,6 +143569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "但、但是……我是第一次洗菜……",
         game = 0,
         video = {
@@ -142138,6 +143663,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪开心地拉着四糸乃的手，脸上是难得的笑容。",
         game = 0,
         video = {
@@ -142230,6 +143756,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要怕。很简单的哦，就像这样~",
         game = 0,
         video = {
@@ -142323,6 +143850,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "还好还好，不是很严重。",
         game = 0,
         video = {
@@ -142416,6 +143944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……咳咳……",
         game = 0,
         video = {
@@ -142509,6 +144038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃把最后一口蛋包饭放进嘴里，然后连忙离开了。",
         game = 0,
         video = {
@@ -142603,6 +144133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……很感动，但是把自己打包成礼物什么的……",
         game = 0,
         video = {
@@ -142696,6 +144227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不是说过了吗？没有关系的。",
         game = 0,
         video = {
@@ -142789,6 +144321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不管七罪要什么都给你",
         game = 0,
         video = {
@@ -142882,6 +144415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小哥，拜托了哟！",
         game = 0,
         video = {
@@ -142976,6 +144510,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "邀请十香",
         game = 0,
         video = {
@@ -143069,6 +144604,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "而且……连开窗户这种小事都要出状况，你会觉得我很无能吧。",
         game = 0,
         video = {
@@ -143162,6 +144698,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "太感谢了",
         game = 0,
         video = {
@@ -143255,6 +144792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我们挑选一些鲜花吧",
         game = 0,
         video = {
@@ -143348,6 +144886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我继续一动不动，等待七罪的关心。",
         game = 0,
         video = {
@@ -143441,6 +144980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么会？这只是一个意外，并非是因为无能什么的啊。",
         game = 0,
         video = {
@@ -143534,6 +145074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用一直道谢啦。",
         game = 0,
         video = {
@@ -143627,6 +145168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪牵过四糸乃的手，拉着她往秋千的地方走去。",
         game = 0,
         video = {
@@ -143720,6 +145262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s……",
         game = 0,
         video = {
@@ -143813,6 +145356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……是吗……只是意外。",
         game = 0,
         video = {
@@ -143906,6 +145450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "而且……和大家相比，我做得太少了不是吗？",
         game = 0,
         video = {
@@ -143999,6 +145544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在我完全没有注意到的情况下，打扫房间的人……",
         game = 0,
         video = {
@@ -144092,6 +145638,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "会有人不喜欢这具完美的身躯吗？",
         game = 0,
         video = {
@@ -144185,6 +145732,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱歉……让%s担心了。",
         game = 0,
         video = {
@@ -144278,6 +145826,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是的，七罪也做了很多。",
         game = 0,
         video = {
@@ -144371,6 +145920,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是不是很感动呢？",
         game = 0,
         video = {
@@ -144464,6 +146014,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "总之，你还是恢复本体比较好。",
         game = 0,
         video = {
@@ -144557,6 +146108,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没关系，这种事情不需要道歉。",
         game = 0,
         video = {
@@ -144650,6 +146202,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……我还想要做更多呢，总之，我会尽力而为的。",
         game = 0,
         video = {
@@ -144743,6 +146296,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -144836,6 +146390,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "“砰”地一声，我眼前的成熟女性消失了。",
         game = 0,
         video = {
@@ -144929,6 +146484,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……还可以帮你吗？",
         game = 0,
         video = {
@@ -145022,6 +146578,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "说完，七罪扭转头走去了厨房。",
         game = 0,
         video = {
@@ -145115,6 +146672,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯嗯，这样才对。对了，我们一起去准备早餐吧？",
         game = 0,
         video = {
@@ -145208,6 +146766,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "经过一番洗漱后，我准备在厨房里大显身手。",
         game = 0,
         video = {
@@ -145301,6 +146860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "当然可以啊，不用这么小心翼翼地说话吧，不过，真的不需要休息一下吗？",
         game = 0,
         video = {
@@ -145394,6 +146954,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -145487,6 +147048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一定是什么人打扫了吧",
         game = 0,
         video = {
@@ -145580,6 +147142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咳……你到底为什么会在窗帘后面啊？",
         game = 0,
         video = {
@@ -145673,6 +147236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有问题，已经不疼了。",
         game = 0,
         video = {
@@ -145767,6 +147331,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -145860,6 +147425,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "请不要说这样让人误会的话啊！",
         game = 0,
         video = {
@@ -145953,6 +147519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我可以……帮忙吗……？",
         game = 0,
         video = {
@@ -146046,6 +147613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪踮起脚推开窗户，让风吹进来。",
         game = 0,
         video = {
@@ -146139,6 +147707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "围裙……七罪，把围裙系上哦。",
         game = 0,
         video = {
@@ -146232,6 +147801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是七罪打扫的吧",
         game = 0,
         video = {
@@ -146325,6 +147895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -146418,6 +147989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小小的状况之后，我们继续整理房间。",
         game = 0,
         video = {
@@ -146511,6 +148083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没问题，总之系上就可以吧。",
         game = 0,
         video = {
@@ -146604,6 +148177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香、折纸、四糸乃昨晚在这里待到很晚才回去，美九不会特意来做这样的事情。",
         game = 0,
         video = {
@@ -146697,6 +148271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -146790,6 +148365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……这些花，都已经枯萎了。",
         game = 0,
         video = {
@@ -146883,6 +148459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我去做早餐吧",
         game = 0,
         video = {
@@ -146976,6 +148553,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "无论怎么想，七罪的嫌疑都最大的样子。",
         game = 0,
         video = {
@@ -147069,6 +148647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哥哥心里，难道没有“怀疑名单”吗？",
         game = 0,
         video = {
@@ -147162,6 +148741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么办呢？要丢掉吗？",
         game = 0,
         video = {
@@ -147255,6 +148835,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪想要吃什么呢？",
         game = 0,
         video = {
@@ -147348,6 +148929,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等……为什么窗帘在动？",
         game = 0,
         video = {
@@ -147441,6 +149023,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "和……七罪约会？",
         game = 0,
         video = {
@@ -147534,6 +149117,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……只好丢掉再买新的回来了。",
         game = 0,
         video = {
@@ -147627,6 +149211,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s要做早餐吗？",
         game = 0,
         video = {
@@ -147720,6 +149305,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……该不会是……",
         game = 0,
         video = {
@@ -147813,6 +149399,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎么，哥哥好像不愿意的样子？",
         game = 0,
         video = {
@@ -147906,6 +149493,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真可惜……凋零之后就变得毫无价值，只能被丢弃了，这就是鲜花的命运啊。",
         game = 0,
         video = {
@@ -147999,6 +149587,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，我也没有吃早餐，刚好一起吃。",
         game = 0,
         video = {
@@ -148092,6 +149681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "掀开窗帘，出现在眼前的，是一名外貌二十五岁的成熟女性。",
         game = 0,
         video = {
@@ -148185,6 +149775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "没有不愿意啦，只是觉得有点突然什么的。",
         game = 0,
         video = {
@@ -148278,6 +149869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "或许可以买种子回来种，不过就算是种在花盆里，也可能等不到开花的时候就凋零了。",
         game = 0,
         video = {
@@ -148371,6 +149963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要是%s做的……什、什么都好。",
         game = 0,
         video = {
@@ -148464,6 +150057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "早上好啊，%s。",
         game = 0,
         video = {
@@ -148557,6 +150151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你这样……可是会伤女孩子的心的啊。",
         game = 0,
         video = {
@@ -148650,6 +150245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……%s打算怎么办？",
         game = 0,
         video = {
@@ -148743,6 +150339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这样啊……就吃煎蛋吐司，配牛奶怎么样？",
         game = 0,
         video = {
@@ -148836,6 +150433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七、七……七罪！",
         game = 0,
         video = {
@@ -148929,6 +150527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "琴里貌似不经意地向墙角处投去一瞥，我顺着琴里的视线看过去，那里什么都没有。",
         game = 0,
         video = {
@@ -149022,6 +150621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪可以陪我一起去花店吗？",
         game = 0,
         video = {
@@ -149115,6 +150715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可……可以。",
         game = 0,
         video = {
@@ -149208,6 +150809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "这么惊讶吗？",
         game = 0,
         video = {
@@ -149301,6 +150903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "七罪睁大了眼睛，大概是在认真地学习着。",
         game = 0,
         video = {

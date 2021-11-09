@@ -60,6 +60,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "굳이 그 이유를 묻는다면, 아마 그게 너와는 관계가 없는 거라서겠지...",
         game = 0,
         video = {
@@ -153,6 +154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "없어, 난 먹고 싶은 것도 없고, 좋아하는 색깔도 없어.",
         game = 0,
         video = {
@@ -246,6 +248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러고 가열을 마친 보석을 꺼내서, 빠르게 냉각시키면 돼. 이렇게 말이야.",
         game = 0,
         video = {
@@ -339,6 +342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 나와 관계없는 일이라도 마유리는 알아갈 필요가 있어!",
         game = 0,
         video = {
@@ -432,6 +436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...어떻게 그럴 수가 있는데?",
         game = 0,
         video = {
@@ -525,6 +530,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 말을 마치고 핀셋으로 보석을 집어 냉수에 담갔다.",
         game = 0,
         video = {
@@ -618,6 +624,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너와 관계가 없다면 아무런 의미도 없는걸.",
         game = 0,
         video = {
@@ -711,6 +718,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 그저 너를 위해 왔을 뿐이야... 그러니까, 내겐 과거도 없고 미래도 없어.",
         game = 0,
         video = {
@@ -804,6 +812,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응.",
         game = 0,
         video = {
@@ -897,6 +906,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 진지하게 나를 바라봤고, 나는 자신도 모르게 얼굴이 붉어졌다.",
         game = 0,
         video = {
@@ -990,6 +1000,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만... 마유리가 사라져도 난 그걸 알게 될 거잖아!",
         game = 0,
         video = {
@@ -1083,6 +1094,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "보석이 빠르게 냉각되면서 균열이 생기기 시작하더니, 그 안의 반짝임도 조금씩 사라졌고, 사파이어는 금세 무광색으로 변했다.",
         game = 0,
         video = {
@@ -1176,6 +1188,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아하하... 그럼 우리 같이 DIY를 해볼래?",
         game = 0,
         video = {
@@ -1269,6 +1282,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...정말이야?",
         game = 0,
         video = {
@@ -1362,6 +1376,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우와, 모양이 변했어, 신기해!",
         game = 0,
         video = {
@@ -1455,6 +1470,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "DIY가 뭐야?",
         game = 0,
         video = {
@@ -1548,6 +1564,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "당연하지! 네가 내 앞에 이렇게 존재하는데, 어떻게 널 신경 쓰지 않을 수 있겠어?",
         game = 0,
         video = {
@@ -1641,6 +1658,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도... 만드는 데 실패한 것 같아...",
         game = 0,
         video = {
@@ -1734,6 +1752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "완제품이 아니라 직접 만들어 보는 걸 뜻해. 마유리는 직접 목걸이를 만들어보고 싶지 않아?",
         game = 0,
         video = {
@@ -1827,6 +1846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난... %s 네가 날 신경 쓰지 않을 거라 생각했어.",
         game = 0,
         video = {
@@ -1920,6 +1940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럴 리가! %s 넌 정말 대단해. 뭐든 할 줄 아는 것 같아. 나도 널 보고 배워야겠어.",
         game = 0,
         video = {
@@ -2013,6 +2034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 너랑 같이?",
         game = 0,
         video = {
@@ -2106,6 +2128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래서 정말 그렇게 옆에 서서 냉담하게 날 관찰하기만 할 거야?",
         game = 0,
         video = {
@@ -2199,6 +2222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 우리 같이 만드는 거야! 그럼 나랑 관계가 있는 일인 거지?",
         game = 0,
         video = {
@@ -2292,6 +2316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음...모르겠어.",
         game = 0,
         video = {
@@ -2385,6 +2410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 기대되네.",
         game = 0,
         video = {
@@ -2478,6 +2504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 마유리가 혼자서 외롭게 서 있게 만들고 싶지 않아.",
         game = 0,
         video = {
@@ -2571,6 +2598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 고개를 끄덕였고, 나는 점원에게 팔찌 제작 재료를 달라고 했다.",
         game = 0,
         video = {
@@ -2664,6 +2692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어째서? 옆에 서 있는 것도 나쁠 건 없잖아. 적어도 너를 계속 볼 수 있는걸.",
         game = 0,
         video = {
@@ -2757,6 +2786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잘 봐, 보석을 천천히 장치에 넣고, 일정한 고온으로 가열하면...",
         game = 0,
         video = {
@@ -2850,6 +2880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건... 그러니까... 만약 누군가 나와 놀고 싶어 하면서도, 자기 자신이 중요하지 않다고 생각하고, 내게 다가오지도 못하고 있다면, 난 반드시 먼저 손을 내밀 거야!",
         game = 0,
         video = {
@@ -2943,6 +2974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 그리고?",
         game = 0,
         video = {
@@ -3037,6 +3069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...넌 정말 바보구나!",
         game = 0,
         video = {
@@ -3130,6 +3163,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -3222,6 +3256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까, 바보가 지금 같이 놀자고 부탁하는 거야. 들어주겠어?",
         game = 0,
         video = {
@@ -3315,6 +3350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... %s의 부탁이라면, 들어줄게.",
         game = 0,
         video = {
@@ -3409,6 +3445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가장 중요한 건 서로 사랑하는 거야.",
         game = 0,
         video = {
@@ -3502,6 +3539,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "거봐, 마유리도 같이 놀고 싶었으면서, 자기 입장에서는 조금도 생각하지 않은 거잖아.",
         game = 0,
         video = {
@@ -3595,6 +3633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알겠어...",
         game = 0,
         video = {
@@ -3688,6 +3727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자기 입장...? 하지만 과거가 없는 사람이 어떻게 입장이 있을까?",
         game = 0,
         video = {
@@ -3782,6 +3822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "전부 다 알고 있었구나...",
         game = 0,
         video = {
@@ -3875,6 +3916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잠깐, 그런 걸 적을 건 없는데...",
         game = 0,
         video = {
@@ -3968,6 +4010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까 내 말은 가끔이라도 자기 생각이 있어야 한다는 거야!",
         game = 0,
         video = {
@@ -4061,6 +4104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뭔가 잘못한 것 같은 기분이잖아...",
         game = 0,
         video = {
@@ -4154,6 +4198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다행히 마유리는 내게 더는 질문을 하지 않았고, 그렇게 꼬마열차는 종점에 도착했다.",
         game = 0,
         video = {
@@ -4247,6 +4292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, %s 널 위해서 노력할게.",
         game = 0,
         video = {
@@ -4341,6 +4387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나한테 보이고 싶지 않은 거야?",
         game = 0,
         video = {
@@ -4434,6 +4481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 %s 넌 내게서 어떤 인상을 받았어?",
         game = 0,
         video = {
@@ -4527,6 +4575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다른 여자한테 데이트하는 모습을 보이는 건 조금 이상하잖아...",
         game = 0,
         video = {
@@ -4620,6 +4669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "인상?",
         game = 0,
         video = {
@@ -4713,6 +4763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 난 그러기 위해 태어난 거니까.",
         game = 0,
         video = {
@@ -4806,6 +4857,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, %s 네가 날 어떻게 생각하는지 알고 싶어.",
         game = 0,
         video = {
@@ -4900,6 +4952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -4993,6 +5046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 너를 관측해서 그릇으로서의 자격이 있는지 판단하는 거야.",
         game = 0,
         video = {
@@ -5086,6 +5140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나...",
         game = 0,
         video = {
@@ -5179,6 +5234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이야기가 무거운 쪽으로 흘러가는 것 같다...",
         game = 0,
         video = {
@@ -5276,6 +5332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -5369,6 +5426,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "남은 시간 동안 마유리는 다른 생각을 하고 있는 것 같았고, 데이트는 그렇게 흐지부지 끝나 버리고 말았다.",
         game = 0,
         video = {
@@ -5461,6 +5519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어렵게 돌아온 주말이었지만, 나는 생활용품을 사 오라는 '명령'을 받고 밖으로 나갔다...",
         game = 0,
         video = {
@@ -5554,6 +5613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어디 보자... 츄파춥스, 콩고물 빵, 슈크림, 입욕제... 필요한 건 다 산 것 같네!",
         game = 0,
         video = {
@@ -5647,6 +5707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 그러고 보면 이것들은 누가 봐도 생활용품이 아니다... 녀석들, 다음에는 전부 같이 데리고 나와서 사든지 해야겠다.",
         game = 0,
         video = {
@@ -5740,6 +5801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 물건을 모두 사고 돌아가려던 순간, 누군가가 나를 바라보는 것이 느껴졌다.",
         game = 0,
         video = {
@@ -5833,6 +5895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 고개를 돌아봤고, 역시나... 그녀는 근처의 나무 아래에 서 있었다.",
         game = 0,
         video = {
@@ -5929,6 +5992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 이 세계가 좋아?",
         game = 0,
         video = {
@@ -6022,6 +6086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그나저나, 마유리는 이 세계가 좋아?",
         game = 0,
         video = {
@@ -6116,6 +6181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "부디 날 믿어 줘",
         game = 0,
         video = {
@@ -6209,6 +6275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이 세계...?",
         game = 0,
         video = {
@@ -6302,6 +6369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...됐어, 나도 모르겠으니까.",
         game = 0,
         video = {
@@ -6395,6 +6463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래, 내가 살고 있는 이 세계, 지구 말이야.",
         game = 0,
         video = {
@@ -6488,6 +6557,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까, 부디 날 믿어 줘! 난 정말 마유리를 좋아한단 말이야!",
         game = 0,
         video = {
@@ -6581,6 +6651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나, %s 네가 있는 곳이라면... 응! 좋아.",
         game = 0,
         video = {
@@ -6674,6 +6745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 난 네 말에서 그런 느낌을 전혀 느낄 수 없는걸...",
         game = 0,
         video = {
@@ -6767,6 +6839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네가 그렇게 말해주니까, 조금 부끄러운데...",
         game = 0,
         video = {
@@ -6863,6 +6936,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 가르쳐 줄게",
         game = 0,
         video = {
@@ -6956,6 +7030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도 내 마음이 아직 네게 전해지지 않는 것 같아.",
         game = 0,
         video = {
@@ -7049,6 +7124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 어째서 계속 그런 걸 물어보는 거야?",
         game = 0,
         video = {
@@ -7142,6 +7218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "휴——",
         game = 0,
         video = {
@@ -7235,6 +7312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니면 네 마음을 좀 더 정령들과의 데이트에 쓰는 게 좋을 것 같아.",
         game = 0,
         video = {
@@ -7328,6 +7406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자, 이렇게... 아래로 쥐고...",
         game = 0,
         video = {
@@ -7421,6 +7500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 사라져 버렸다.",
         game = 0,
         video = {
@@ -7514,6 +7594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "손에 힘을 주면 돼.",
         game = 0,
         video = {
@@ -7607,6 +7688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -7706,6 +7788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아——",
         game = 0,
         video = {
@@ -7800,6 +7883,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -7893,6 +7977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "칼이 갑자기 땅에 떨어졌다.",
         game = 0,
         video = {
@@ -7986,6 +8071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 마유리... 나와 봐, 내 말을 좀 들어 줘!",
         game = 0,
         video = {
@@ -8080,6 +8166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "만약 없다면, 과거도 필요하지 않아!",
         game = 0,
         video = {
@@ -8173,6 +8260,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리를 불러 보았지만, 날은 이미 어두워졌고, 그녀는 나타나지 않았다.",
         game = 0,
         video = {
@@ -8267,6 +8355,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -8360,6 +8449,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "만약 없다면, 과거도 필요하지 않아!",
         game = 0,
         video = {
@@ -8453,6 +8543,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어쩔 수 없었던 나는 화가 난 척 소리를 질렀다.",
         game = 0,
         video = {
@@ -8546,6 +8637,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대관람차는 재밌었니?",
         game = 0,
         video = {
@@ -8640,6 +8732,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 비둘기한테 먹이를 줘 봐",
         game = 0,
         video = {
@@ -8733,6 +8826,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 필요하지 않은 거야...?",
         game = 0,
         video = {
@@ -8826,6 +8920,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리! 계속 안 나오면 앞으로는 너랑 안 놀 거야!",
         game = 0,
         video = {
@@ -8919,6 +9014,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네! 다음에 또 가도... 될까요?",
         game = 0,
         video = {
@@ -9012,6 +9108,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저거야! 마유리, 비둘기한테 먹이 주지 않을래?",
         game = 0,
         video = {
@@ -9105,6 +9202,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 우리가 지금 이렇게 같이 있는 추억이 바로 네 과거가 될 수 있으니까 말이야.",
         game = 0,
         video = {
@@ -9198,6 +9296,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...",
         game = 0,
         video = {
@@ -9291,6 +9390,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뭐, 안 되는 건 아니지만 데이트 시간이라면... 음?",
         game = 0,
         video = {
@@ -9384,6 +9484,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나...? 어떻게 주는지 모르는데...",
         game = 0,
         video = {
@@ -9477,6 +9578,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나, 나와 %s의 과거...",
         game = 0,
         video = {
@@ -9570,6 +9672,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아! 마유리, 드디어 왔구나!",
         game = 0,
         video = {
@@ -9663,6 +9766,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 오빠, 뭘 보고 있나요...?",
         game = 0,
         video = {
@@ -9756,6 +9860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 내가 곁에서 가르쳐 줄게. 가 봐, 아주 재밌거든!",
         game = 0,
         video = {
@@ -9849,6 +9954,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 상냥하게 웃었고, 나는 심장이 빠르게 뛰는 것을 느꼈다.",
         game = 0,
         video = {
@@ -9942,6 +10048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 왜 날 찾는 건데?",
         game = 0,
         video = {
@@ -10035,6 +10142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 그녀를 못 본 척하며, 아무 일도 없었다는 듯 계속 걸어갔다.",
         game = 0,
         video = {
@@ -10128,6 +10236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알겠어. 네가 그렇게 말한다면 해볼게.",
         game = 0,
         video = {
@@ -10221,6 +10330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 앞으로도 그렇게 자주 웃어줘. 웃으면 정말 예쁘거든~",
         game = 0,
         video = {
@@ -10314,6 +10424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너한테... 사과하고 싶어서.",
         game = 0,
         video = {
@@ -10407,6 +10518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만... 내가 그녀를 지나서 멀어질 때까지, 그녀의 눈빛은 내게서 조금도 떠나지 않았다.",
         game = 0,
         video = {
@@ -10500,6 +10612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -10593,6 +10706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그, 그렇구나...",
         game = 0,
         video = {
@@ -10686,6 +10800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사과?",
         game = 0,
         video = {
@@ -10779,6 +10894,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "요시노와 이야기를 하는 중에 딴생각을 하다니!",
         game = 0,
         video = {
@@ -10873,6 +10989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -10966,6 +11083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 네가 웃을 때마다 난 네가 정말로 존재한다는 걸 실감할 수 있거든.",
         game = 0,
         video = {
@@ -11059,6 +11177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 내가 멋대로 했던 말들을 사과하고 싶어. 그땐 그저 널 기쁘게 하려던 것뿐이었어.",
         game = 0,
         video = {
@@ -11152,6 +11271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "미안해, 잠깐 멍해졌어. 그럼 다음에 또 데이트하자!",
         game = 0,
         video = {
@@ -11245,6 +11365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 조심해, 손을 천천히 뻗어야 해...",
         game = 0,
         video = {
@@ -11338,6 +11459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어쩌면 네가 있기 때문에 내가 더 실감 나게 존재할 수 있는 거겠지~",
         game = 0,
         video = {
@@ -11432,6 +11554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 바보네... 그럴 필요 없어.",
         game = 0,
         video = {
@@ -11525,6 +11648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 그럼 약속한 거예요~ 손가락 약속~",
         game = 0,
         video = {
@@ -11618,6 +11742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 먹이를 마유리의 손에 조금 덜어 주었고, 그녀는 진지하게 손에 받았다.",
         game = 0,
         video = {
@@ -11711,6 +11836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 오늘 네가 웃는 걸 한 번도 본 적이 없어!",
         game = 0,
         video = {
@@ -11804,6 +11930,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자, 손가락 약속!",
         game = 0,
         video = {
@@ -11897,6 +12024,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좋아, 이제 손을 뻗어.",
         game = 0,
         video = {
@@ -11990,6 +12118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아하하... 겨우 그런 이유 때문에 그렇게 기운을 쓰는 거야?",
         game = 0,
         video = {
@@ -12083,6 +12212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "규석",
         game = 0,
         video = {
@@ -12176,6 +12306,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... 다들 왜 안 오는 거야? 에——!",
         game = 0,
         video = {
@@ -12269,6 +12400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맞아... 아, 잠깐! 방금 웃었지? 다행이다!",
         game = 0,
         video = {
@@ -12362,6 +12494,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기... 마유리...",
         game = 0,
         video = {
@@ -12455,6 +12588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리가 말을 마치기도 전에 비둘기들이 하나둘씩 날아오기 시작했다.",
         game = 0,
         video = {
@@ -12549,6 +12683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "북아메리카",
         game = 0,
         video = {
@@ -12642,6 +12777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 내가 다가올 거라는 생각을 못 했던 것인지, 뒷짐을 지고 물러났고, 얼굴이 살짝 붉어져 있었다.",
         game = 0,
         video = {
@@ -12737,6 +12873,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -12830,6 +12967,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... 움직일 수가 없어.",
         game = 0,
         video = {
@@ -12923,6 +13061,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하, 비둘기들이 널 좋아하는 모양이야. 마유리.",
         game = 0,
         video = {
@@ -13016,6 +13155,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 이제 어떻게 해야 좋지?",
         game = 0,
         video = {
@@ -13112,6 +13252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "쫓을 필요 없어",
         game = 0,
         video = {
@@ -13205,6 +13346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 조금 당황한 듯이 나를 바라봤다.",
         game = 0,
         video = {
@@ -13298,6 +13440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -13391,6 +13534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다들 네가 들고 있는 먹이가 마음에 들었나 봐... 다 먹고 나면 날아갈 거야~",
         game = 0,
         video = {
@@ -13484,6 +13628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "비록 지금은 나와 마유리가 서로 잘 모르는 사이지만, 난 절대 네가 나에게 다가올 수 없게 되거나, 우리 사이가 멀어지게 두진 않을 거야.",
         game = 0,
         video = {
@@ -13577,6 +13722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하~ 정말이네, 네 건 아직도 남아 있어~",
         game = 0,
         video = {
@@ -13670,6 +13816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 먼저 마유리에게 다가갈 거니까.",
         game = 0,
         video = {
@@ -13763,6 +13910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 비둘기 중의 한 녀석을 바라보더니 상냥하게 말했다.",
         game = 0,
         video = {
@@ -13856,6 +14004,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오늘은 내가 네 곁에 있잖아?",
         game = 0,
         video = {
@@ -13949,6 +14098,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자, 착하지, 다 먹으면 일찍 집에 가렴.",
         game = 0,
         video = {
@@ -14042,6 +14192,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s의 자리가 내 옆이긴 하지만...",
         game = 0,
         video = {
@@ -14135,6 +14286,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "눈에 들어온 소녀와 비둘기의 모습은 정말 순결하고 평온한 기분이 들게 했다.",
         game = 0,
         video = {
@@ -14228,6 +14380,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오늘뿐만이 아냐.",
         game = 0,
         video = {
@@ -14322,6 +14475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 스릴 있는 곳으로 가자",
         game = 0,
         video = {
@@ -14415,6 +14569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 앞으로도 그렇게 자주 웃어줘. 웃으면 정말 예쁘거든~",
         game = 0,
         video = {
@@ -14508,6 +14663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시간이 어떻게 변하든, 회전목마가 어떻게 돌아가든, 난 네 곁에 있어.",
         game = 0,
         video = {
@@ -14601,6 +14757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 스릴 넘치는 놀이공원 투어를 시작해 보자!",
         game = 0,
         video = {
@@ -14694,6 +14851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "구구구...",
         game = 0,
         video = {
@@ -14787,6 +14945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -14880,6 +15039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 너를 탓하려던 건 아니야... 근데 왜 그걸 가지고 있는 건데?",
         game = 0,
         video = {
@@ -14979,6 +15139,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "죄송합니다~ 지나갈게요!",
         game = 0,
         video = {
@@ -15073,6 +15234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -15166,6 +15328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "서둘러. 자리를 잡아야 해!",
         game = 0,
         video = {
@@ -15259,6 +15422,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그, 그렇구나...",
         game = 0,
         video = {
@@ -15352,6 +15516,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무슨 일이지? 왜 갑자기 사람이 많아진 거야?",
         game = 0,
         video = {
@@ -15446,6 +15611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이공원 장식, 정말 독특해 보여.",
         game = 0,
         video = {
@@ -15539,6 +15705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 내 말을 듣고 얼굴이 조금 붉어졌고, 내게서 시선을 피했다.",
         game = 0,
         video = {
@@ -15632,6 +15799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 저기서 뭘 하는 건데?",
         game = 0,
         video = {
@@ -15725,6 +15893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말이네... 전부 호박이랑 가면들이야...",
         game = 0,
         video = {
@@ -15818,6 +15987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 네가 아직 사람들을 대하는 게 익숙하지 않은 건 알아. 그래도 앞으로도 시간은 많으니까~",
         game = 0,
         video = {
@@ -15912,6 +16082,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 내가 마유리에게 다가갈게.",
         game = 0,
         video = {
@@ -16005,6 +16176,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이공원은 요즘 할로윈 테마 기간이거든. 오늘 어린애들이 많이 온 것도 그래서야.",
         game = 0,
         video = {
@@ -16098,6 +16270,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시간이라... 그랬으면 좋겠네.",
         game = 0,
         video = {
@@ -16191,6 +16364,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -16284,6 +16458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 저건 츄파춥스야?",
         game = 0,
         video = {
@@ -16377,6 +16552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "만약 시간이 곤란하면, 네가 원하는 대로 맞출게. 난 언제든지 시간이 있으니까~",
         game = 0,
         video = {
@@ -16470,6 +16646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네가 나한테 다가올 수 없다면, 내가 마유리에게 다가가면 되잖아!",
         game = 0,
         video = {
@@ -16563,6 +16740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 그리고 다른 사탕도 많아... 아마 저녁에 행사를 하는 것 같아.",
         game = 0,
         video = {
@@ -16656,6 +16834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 괘, 괜찮아, 앞으로도 시간은 많으니까...",
         game = 0,
         video = {
@@ -16749,6 +16928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 그저 관측자일 뿐이야... %s 너와 가까워져선 안 돼!",
         game = 0,
         video = {
@@ -16842,6 +17022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 참가할 수 있는 거야?",
         game = 0,
         video = {
@@ -16935,6 +17116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아! 날이 조금 어두워졌네. 오늘은 여기까지 할까?",
         game = 0,
         video = {
@@ -17028,6 +17210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맞아. 하지만 난 마유리와 데이트가 하고 싶어. 그러니까 마유리에게 다가갈 거야!",
         game = 0,
         video = {
@@ -17121,6 +17304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 곧 시작할 테니까, 같이 가 보자!",
         game = 0,
         video = {
@@ -17214,6 +17398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 오늘 정말 고마워. 아주 즐거웠어.",
         game = 0,
         video = {
@@ -17307,6 +17492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건...",
         game = 0,
         video = {
@@ -17400,6 +17586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -17493,6 +17680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아. 다음엔...",
         game = 0,
         video = {
@@ -17586,6 +17774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 눈썹을 찌푸리며 당황한 모습이었다.",
         game = 0,
         video = {
@@ -17679,6 +17868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 말이 끝나기도 전에, 마유리는 이미 내 앞에서 사라져 있었다.",
         game = 0,
         video = {
@@ -17772,6 +17962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 내가 놀이공원 이곳저곳을 설명해 줄게!",
         game = 0,
         video = {
@@ -17865,6 +18056,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에~ 어쩔 수 없지, 다음에 또 봐, 마유리~",
         game = 0,
         video = {
@@ -17957,6 +18149,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리 곁에 다가갔고, 대관람차의 유리창 너머로 놀이공원을 내려다보았다.",
         game = 0,
         video = {
@@ -18050,6 +18243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기 봐, 할로윈 행사 장식이야. 요즘은 할로윈 테마 기간이거든. 그래서 저렇게 특별한 장식을 하는 거야.",
         game = 0,
         video = {
@@ -18143,6 +18337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 계속해서 놀이공원에 대해 소개했고, 마유리가 인간 생활의 즐거움을 이해할 수 있길 원했다...",
         game = 0,
         video = {
@@ -18236,6 +18431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기, %s...",
         game = 0,
         video = {
@@ -18329,6 +18525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그리고 저기는 놀이공원에서 가장 유명한 롤러코스터야! 속도가 엄청 빨라! 그리고 저건...",
         game = 0,
         video = {
@@ -18422,6 +18619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s!",
         game = 0,
         video = {
@@ -18515,6 +18713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -18608,6 +18807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너...너무... 가까워!",
         game = 0,
         video = {
@@ -18702,6 +18902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 네 시작이야",
         game = 0,
         video = {
@@ -18795,6 +18996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "볼이 새빨개진 마유리가 작은 소리로 말했다.",
         game = 0,
         video = {
@@ -18888,6 +19090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까, 이건 네 시작이야. 오직 너만의 것이라고.",
         game = 0,
         video = {
@@ -18981,6 +19184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 미안...",
         game = 0,
         video = {
@@ -19074,6 +19278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오직... 나만의?",
         game = 0,
         video = {
@@ -19167,6 +19372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어느새 나와 마유리와 거리는 점자 가까워졌고, 금방이라도 그녀의 볼에 닿을 것만 같았다.",
         game = 0,
         video = {
@@ -19260,6 +19466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 너도 자신이 하고 싶은 일을 마음껏 할 수 있어. 아니면 나랑 노는 것도 좋고~",
         game = 0,
         video = {
@@ -19353,6 +19560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사과할 거면 진지하게 해!",
         game = 0,
         video = {
@@ -19446,6 +19654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만... 내 존재는 단지 널 관찰하기 위한 것에 불과해...",
         game = 0,
         video = {
@@ -19539,6 +19748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 사과의 뜻으로 아이스크림 사줄게!",
         game = 0,
         video = {
@@ -19638,6 +19848,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어딜 가고 싶어?",
         game = 0,
         video = {
@@ -19731,6 +19942,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그런 건 어떻게 해도 상관없잖아!\n게다가, 여자애가 아무것도 하지 않고 나만 따라다니는 것도 이상하잖아?",
         game = 0,
         video = {
@@ -19824,6 +20036,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음...헤헤, 알겠어!",
         game = 0,
         video = {
@@ -19917,6 +20130,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 어디 가고 싶어? 내가 같이 가 줄게!",
         game = 0,
         video = {
@@ -20010,6 +20224,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만...",
         game = 0,
         video = {
@@ -20103,6 +20318,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼에도 불구하고... 오늘 마유리와의 대화는 우리의 거리를 부쩍 가깝게 만들어 주었다...",
         game = 0,
         video = {
@@ -20195,6 +20411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... 나는 갈 곳이 없는걸.",
         game = 0,
         video = {
@@ -20288,6 +20505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "망설일 거 없어! 지금부터 시작해 보자. 나를 따라다니거나 관찰하는 건 상관없어.\n하지만 나랑 약속해 줘. 너 자신이 원하는 일도 마음껏 하겠다고 말이야.",
         game = 0,
         video = {
@@ -20381,6 +20599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래... 약속할게!",
         game = 0,
         video = {
@@ -20474,6 +20693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래야지~ 그럼 이제부터 정식으로 서로 알아가 보자~",
         game = 0,
         video = {
@@ -20568,6 +20788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리도 해봐",
         game = 0,
         video = {
@@ -20661,6 +20882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 어째서?",
         game = 0,
         video = {
@@ -20754,6 +20976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 이런 감동적인 이야기에도 아무 느낌이 없는 거야?",
         game = 0,
         video = {
@@ -20847,6 +21070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리가 친구로서 아직 정식으로 인사를 한 적도 없잖아.",
         game = 0,
         video = {
@@ -20941,6 +21165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가열한 후에 천천히 냉각시켜",
         game = 0,
         video = {
@@ -21034,6 +21259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "굳이 그 이유를 묻는다면, 아마 그게 너와는 관계가 없는 거라서겠지...",
         game = 0,
         video = {
@@ -21127,6 +21353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 하지만... 어떻게 해야 하는 건데?",
         game = 0,
         video = {
@@ -21220,6 +21447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러고 가열을 마친 보석을 꺼내서, 천천히 냉각시키면 돼. 이렇게 말이야.",
         game = 0,
         video = {
@@ -21313,6 +21541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 나와 관계없는 일이라도 마유리는 알아갈 필요가 있어!",
         game = 0,
         video = {
@@ -21406,6 +21635,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 내가 먼저 할게!\n난 %s라고 해. 평범한 고등학생이고. 너는?",
         game = 0,
         video = {
@@ -21499,6 +21729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 말을 마치고 핀셋으로 보석을 집어 온수에 담갔다.",
         game = 0,
         video = {
@@ -21592,6 +21823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너와 관계가 없다면 아무런 의미도 없는걸.",
         game = 0,
         video = {
@@ -21685,6 +21917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 안녕! 나는 마유리, 앞으로 잘 부탁해!",
         game = 0,
         video = {
@@ -21778,6 +22011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응.",
         game = 0,
         video = {
@@ -21871,6 +22105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 진지하게 나를 바라봤고, 나는 자신도 모르게 얼굴이 붉어졌다.",
         game = 0,
         video = {
@@ -21964,6 +22199,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응~ 마유리, 그럼 나와 정식으로 친구가 되어 줄래?",
         game = 0,
         video = {
@@ -22057,6 +22293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "보석이 서서히 냉각되면서 그 안의 반짝임이 더욱 강해지기 시작했고, 사파이어는 더욱 반짝이는 모습으로 변했다.",
         game = 0,
         video = {
@@ -22150,6 +22387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 보석 목걸이를 한번 만들어 보지 않을래?",
         game = 0,
         video = {
@@ -22249,6 +22487,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "용감해져야 해",
         game = 0,
         video = {
@@ -22342,6 +22581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우와, 모양이 변했어, 신기해!",
         game = 0,
         video = {
@@ -22435,6 +22675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "싫어, %s 너와 관계 없는 일은 관심이 없어.",
         game = 0,
         video = {
@@ -22528,6 +22769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "용감해져야 해! 마유리!",
         game = 0,
         video = {
@@ -22621,6 +22863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도 성공한 것 같아!",
         game = 0,
         video = {
@@ -22714,6 +22957,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "용감...?",
         game = 0,
         video = {
@@ -22807,6 +23051,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 예뻐...",
         game = 0,
         video = {
@@ -22900,6 +23145,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 그 누구도 오직 한 가지 일을 위해 살지는 않아. 그러니까 오늘은 스스로에게 휴가를 준다고 생각해 봐!",
         game = 0,
         video = {
@@ -22993,6 +23239,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 빛나는 사파이어를 바라보며 놀란 표정을 지었다.",
         game = 0,
         video = {
@@ -23087,6 +23334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안 돼?",
         game = 0,
         video = {
@@ -23180,6 +23428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 임무는 객관적인 시선으로 네 모든 것을 관측하는 거야. 너와 너무 가까워져선 안 돼...",
         game = 0,
         video = {
@@ -23273,6 +23522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안 되는 건 아니지만...",
         game = 0,
         video = {
@@ -23366,6 +23616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "강옥",
         game = 0,
         video = {
@@ -23459,6 +23710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "비록 마유리는 그렇게 말하긴 했지만, 말투는 조금 머뭇거리는 듯했다.",
         game = 0,
         video = {
@@ -23552,6 +23804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 잘됐다! 너와의 데이트가 정말 기대돼~",
         game = 0,
         video = {
@@ -23645,6 +23898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정답이에요. 확실히 공부를 하신 것 같네요.",
         game = 0,
         video = {
@@ -23738,6 +23992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "관측 같은 건 아무 때나 해도 괜찮잖아. 하지만 너도 가끔은 조금 쉬어야 하지 않을까?",
         game = 0,
         video = {
@@ -23832,6 +24087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아시아",
         game = 0,
         video = {
@@ -23925,6 +24181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하, 조금 아는 정도예요.",
         game = 0,
         video = {
@@ -24018,6 +24275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 쉴 필요가 없어.",
         game = 0,
         video = {
@@ -24111,6 +24369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... 없어.",
         game = 0,
         video = {
@@ -24204,6 +24463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "루비는 빨간색 강옥을 가공해서 만드는 거예요.",
         game = 0,
         video = {
@@ -24298,6 +24558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "겸손하게 말한다",
         game = 0,
         video = {
@@ -24391,6 +24652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하, 부모님이 어릴 때 이곳저곳 출장을 다니셔서, 다양한 흥미를 가지게 됐지 뭐예요.",
         game = 0,
         video = {
@@ -24484,6 +24746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 다음 문제를 드릴게요. 루비의 원산지는 어디일까요?",
         game = 0,
         video = {
@@ -24580,6 +24843,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 정말 대단하네, 나도 널 보고 배워야겠어.",
         game = 0,
         video = {
@@ -24673,6 +24937,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "천연 루비는 대부분 아시아에서 생산되고, 아프리카, 오세아니아, 아메리카에도 조금 있어요.",
         game = 0,
         video = {
@@ -24767,6 +25032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아~ 아니야, 방금 너무 큰소리를 친 것 같은데, 사실 정말 조금밖에 몰라.",
         game = 0,
         video = {
@@ -24860,6 +25126,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 말을 마치기도 전에 마유리는 사라져 버렸다.",
         game = 0,
         video = {
@@ -24953,6 +25220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나한테도 가르쳐줄래? 이 세계에 대해 더 많이 배우고 싶어.",
         game = 0,
         video = {
@@ -25046,6 +25314,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 마유리가 자신이 원하는 일을 하겠다고 약속한 것만으로도 지금은 충분했다.",
         game = 0,
         video = {
@@ -25138,6 +25407,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가르친다고 해도... 사실 나도 아는 게 그리 많지 않은걸...",
         game = 0,
         video = {
@@ -25231,6 +25501,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 우리도 이제 아는 사이라고 할 수 있잖아?",
         game = 0,
         video = {
@@ -25324,6 +25595,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...안 되는 거야?",
         game = 0,
         video = {
@@ -25417,6 +25689,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응... 난 태어날 때부터 널 알고 있었어.",
         game = 0,
         video = {
@@ -25510,6 +25783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 표정이 조금 풀이 죽은 듯했다.",
         game = 0,
         video = {
@@ -25603,6 +25877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리가 말한 뒷마디는 잘 듣지 못했지만, 지금 급한 건 그녀를 편하게 쉬도록 해주는 것이었다.",
         game = 0,
         video = {
@@ -25696,6 +25971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "당연히 되지! 마유리가 알고 싶은 거라면 뭐든지 가르쳐 줄게!",
         game = 0,
         video = {
@@ -25789,6 +26065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까, 우린 이미 좋은 친구라는 거야! 친구랑 같이 노는데 귀찮을 게 뭐가 있어!",
         game = 0,
         video = {
@@ -25882,6 +26159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 고마워. 오늘은 정말 기뻐.",
         game = 0,
         video = {
@@ -25975,6 +26253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "친구...라고?",
         game = 0,
         video = {
@@ -26069,6 +26348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "선택하기 어렵다면...",
         game = 0,
         video = {
@@ -26162,6 +26442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고마워할 거 없어. 당연히 해야 할 일이니까.",
         game = 0,
         video = {
@@ -26255,6 +26536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 우린 친구야. 그러니까 가자! 내가 같이 놀아줄게.",
         game = 0,
         video = {
@@ -26348,6 +26630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "선택하기 어렵다면 저걸 타러 가자!",
         game = 0,
         video = {
@@ -26441,6 +26724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너와 계속 이 세계를 알아가고 싶지만... 난 이제 갈 때가 됐어.",
         game = 0,
         video = {
@@ -26534,6 +26818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "같이 놀아준다는 건... 데이트인 거지?",
         game = 0,
         video = {
@@ -26627,6 +26912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "꼬마열차?",
         game = 0,
         video = {
@@ -26720,6 +27006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 액세서리샵을 나섰다.",
         game = 0,
         video = {
@@ -26813,6 +27100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건...",
         game = 0,
         video = {
@@ -26906,6 +27194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 놀이공원을 한 바퀴 돌아주는 관람열차야. 놀이기구마다 세워주니까, 마음에 드는 게 있으면 내리면 돼.",
         game = 0,
         video = {
@@ -27005,6 +27294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -27098,6 +27388,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니야?",
         game = 0,
         video = {
@@ -27191,6 +27482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 네 말대로 할게.",
         game = 0,
         video = {
@@ -27284,6 +27576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 기다려!",
         game = 0,
         video = {
@@ -27377,6 +27670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 실망한 듯한 표정을 본 나는 어떻게 해명을 해야 할지 알 수 없었다... 하지만 지금은 우선 그녀의 말에 동의하는 게 좋을 것 같았다.",
         game = 0,
         video = {
@@ -27470,6 +27764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 꼬마열차 탈거야!",
         game = 0,
         video = {
@@ -27563,6 +27858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 무슨 일이 남았어?",
         game = 0,
         video = {
@@ -27656,6 +27952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 맞아, 데이트! 마유리, 나와 데이트해주지 않을래?",
         game = 0,
         video = {
@@ -27749,6 +28046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우와—— 난 맨 앞에 앉을래!",
         game = 0,
         video = {
@@ -27842,6 +28140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다시 만날 수 있을까? 나도 네가 있는 세계를 더 알아가고 싶어.",
         game = 0,
         video = {
@@ -27936,6 +28235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무슨 뜻이야?",
         game = 0,
         video = {
@@ -28029,6 +28329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어린애들이 많네...",
         game = 0,
         video = {
@@ -28122,6 +28423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 물론이지, 언제든지.",
         game = 0,
         video = {
@@ -28215,6 +28517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 데이트를 시작하자~ 아, 맞다! 어디 가고 싶은 곳 있어?",
         game = 0,
         video = {
@@ -28308,6 +28611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도 주말이니까, 게다가 놀이공원에서도 행사를 하고 있어서...",
         game = 0,
         video = {
@@ -28401,6 +28705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 내 부탁을 들어주었지만, 왠지 모르게 표정은 조금 슬퍼 보였다.",
         game = 0,
         video = {
@@ -28494,6 +28799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니, 하지만 %s 네가 데려가 주는 곳이라면 어디든 좋아.",
         game = 0,
         video = {
@@ -28587,6 +28893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 우리는 어디 앉지?",
         game = 0,
         video = {
@@ -28682,6 +28989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다행이다! 그럼 다음번 만남도 기대하고 있을게!",
         game = 0,
         video = {
@@ -28775,6 +29083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에... 좋아! 마유리, 네가 차고 있는 그 귀걸이, 참 예쁜 것 같아. 그럼 넌 아마 반짝거리는 물건을 좋아하겠지?",
         game = 0,
         video = {
@@ -28868,6 +29177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -28961,6 +29271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럴 거야, 분명히 다시 만날 거야...",
         game = 0,
         video = {
@@ -29054,6 +29365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "반짝거리는 물건이라면... 응, 좋아해.",
         game = 0,
         video = {
@@ -29148,6 +29460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리도 사람들처럼 서로를 대하자",
         game = 0,
         video = {
@@ -29241,6 +29554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 데이트하자, 마유리!",
         game = 0,
         video = {
@@ -29334,6 +29648,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 이미 내 앞에서 사라져 있었다. 하지만 우린 다시 만나게 될 거라고 나는 확신했다.",
         game = 0,
         video = {
@@ -29426,6 +29741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 어디로 갈지 떠올랐어. 가자!",
         game = 0,
         video = {
@@ -29519,6 +29835,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 그럼 앞으로 우리도 사람들처럼 서로를 대하자!",
         game = 0,
         video = {
@@ -29612,6 +29929,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그...그건 안 돼.",
         game = 0,
         video = {
@@ -29705,6 +30023,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래.",
         game = 0,
         video = {
@@ -29798,6 +30117,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사람들은 어떻게 서로를 대하는데?",
         game = 0,
         video = {
@@ -29891,6 +30211,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜?",
         game = 0,
         video = {
@@ -29984,6 +30305,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30077,6 +30399,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "친구가 될 수도 있고, 연인이 될 수도 있지~",
         game = 0,
         video = {
@@ -30170,6 +30493,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 그저 관측자일 뿐이야. 그릇의 자격이 있는지에 따라 내가 시스템을 가동할지를 결정해...",
         game = 0,
         video = {
@@ -30264,6 +30588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30357,6 +30682,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나, 친구와 연인은 별 차이가 없는 거야?",
         game = 0,
         video = {
@@ -30450,6 +30776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 나랑 데이트를 하면 날 더욱 잘 관측할 수 있는 거 아냐?",
         game = 0,
         video = {
@@ -30543,6 +30870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리를 데리고 액세서리샵으로 향했고, 이곳이라면 아마 여자애들은 모두 좋아할 것이다.",
         game = 0,
         video = {
@@ -30636,6 +30964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아냐, 우린 먼저 친구가 되어야 해. 그렇게 서로를 알아가다 보면 연인이 될 수 있겠지.",
         game = 0,
         video = {
@@ -30729,6 +31058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건...",
         game = 0,
         video = {
@@ -30822,6 +31152,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어서 오세요. 다양한 액세서리가 있으니 한번 둘러보세요~",
         game = 0,
         video = {
@@ -30915,6 +31246,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼... 연인 사이는 서로에게 아주 중요한 관계인 거지?",
         game = 0,
         video = {
@@ -31008,6 +31340,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇지 않아?",
         game = 0,
         video = {
@@ -31101,6 +31434,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 여기야~",
         game = 0,
         video = {
@@ -31194,6 +31528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맞아, 마유리가 이런 건 이해력이 좋을 줄은 몰랐네~",
         game = 0,
         video = {
@@ -31287,6 +31622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음...",
         game = 0,
         video = {
@@ -31380,6 +31716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 여긴...?",
         game = 0,
         video = {
@@ -31473,6 +31810,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "결정했어. 난 %s 너와 연인 사이가 되겠어!",
         game = 0,
         video = {
@@ -31566,6 +31904,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 무언가 말을 하고 싶어 하는 것 같았지만, 나는 먼저 그녀를 끌고 출발했다.",
         game = 0,
         video = {
@@ -31659,6 +31998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리가 바라는 것을 들어주고 싶었다...",
         game = 0,
         video = {
@@ -31752,6 +32092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여긴 인간 세계의 액세서리샵이라는 곳이야. 여자애들은 다들 여기서 물건을 사는 걸 좋아해.",
         game = 0,
         video = {
@@ -31845,6 +32186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 여, 연인...?",
         game = 0,
         video = {
@@ -31938,6 +32280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "같이 놀이공원 가자! 오늘은 마침 놀이공원 가기 좋은 날이야!",
         game = 0,
         video = {
@@ -32031,6 +32374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32124,6 +32468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 신기하다는 듯이 주변을 둘러봤지만, 특별히 무언가에 흥미를 보이거나 하는 반응은 없는 듯했다.",
         game = 0,
         video = {
@@ -32218,6 +32563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안 돼? 난 %s 너의 연인이 될 수 없는 거야?",
         game = 0,
         video = {
@@ -32311,6 +32657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에...",
         game = 0,
         video = {
@@ -32405,6 +32752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32498,6 +32846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그, 그건 아니지만... 지금은 우리가 연인이 되기 위해 필요한 아주 중요한 게 없어.",
         game = 0,
         video = {
@@ -32591,6 +32940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32685,6 +33035,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 새로운 출발점이야",
         game = 0,
         video = {
@@ -32778,6 +33129,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아주 중요한 게... 뭔데?",
         game = 0,
         video = {
@@ -32872,6 +33224,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32965,6 +33318,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까, 이건 새로운 출발점이야. 우리들의 출발점인 거지~",
         game = 0,
         video = {
@@ -33058,6 +33412,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... 아마 애정 같은 거겠지?",
         game = 0,
         video = {
@@ -33151,6 +33506,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 왜 그리 멀리 서 있는 거야?",
         game = 0,
         video = {
@@ -33244,6 +33600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 나도 우리들의 추억을 많이 만들고 싶어. 그래도 될까?",
         game = 0,
         video = {
@@ -33337,6 +33694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "애정이 뭔데?",
         game = 0,
         video = {
@@ -33430,6 +33788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응? 그냥 습관이 돼서...",
         game = 0,
         video = {
@@ -33523,6 +33882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "물론이지!",
         game = 0,
         video = {
@@ -33616,6 +33976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "애정은 서로를 사랑하는 거야... 사실 나도 잘은 몰라.",
         game = 0,
         video = {
@@ -33709,6 +34070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "얼른 이리 와!",
         game = 0,
         video = {
@@ -33802,6 +34164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼... 우리의 추억은 어디서부터 시작해야 할까?",
         game = 0,
         video = {
@@ -33901,6 +34264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어디 가고 싶은 곳 있어?",
         game = 0,
         video = {
@@ -33994,6 +34358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응...",
         game = 0,
         video = {
@@ -34087,6 +34452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건...",
         game = 0,
         video = {
@@ -34180,6 +34546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 어디 가고 싶은 곳 있어? 내가 같이 가 줄게!",
         game = 0,
         video = {
@@ -34273,6 +34640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 어서 가장 가고 싶은 곳을 골라 봐.",
         game = 0,
         video = {
@@ -34366,6 +34734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리를 어디로 데려가야 할지 생각이 떠오르지 않았다. 그러나 그 순간 그녀의 귀걸이가 눈에 들어왔다.",
         game = 0,
         video = {
@@ -34459,6 +34828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... 없어.",
         game = 0,
         video = {
@@ -34552,6 +34922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만...",
         game = 0,
         video = {
@@ -34645,6 +35016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 네가 차고 있는 그 귀걸이, 참 예쁜 것 같아. 혹시 반짝거리는 물건 좋아해?",
         game = 0,
         video = {
@@ -34738,6 +35110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 하나도 없어?",
         game = 0,
         video = {
@@ -34831,6 +35204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 구역에 대한 안내 지도 앞에서 어찌해야 할지를 모르고 있었다.",
         game = 0,
         video = {
@@ -34926,6 +35300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "반짝거리는 물건이라면... 응, 좋아해.",
         game = 0,
         video = {
@@ -35019,6 +35394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는... 너를 관측하는 일 외에는 아무것도 생각해본 적이 없어.",
         game = 0,
         video = {
@@ -35112,6 +35488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -35205,6 +35582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 말을 마치고 조급하게 나를 바라봤지만, 나는 그녀의 말에 답할 수 없었다. 분명 그녀는 애정에 대해 잘못 이해하고 있을 것 같았기 때문이었다.",
         game = 0,
         video = {
@@ -35299,6 +35677,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -35392,6 +35771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "비록 마유리는 나를 위해 왔다고 하지만, 그건 애정이 아냐.",
         game = 0,
         video = {
@@ -35485,6 +35865,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리를 데리고 액세서리샵으로 향했고, 이곳이라면 아마 여자애들은 모두 좋아할 것이다.",
         game = 0,
         video = {
@@ -35579,6 +35960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시간 초과",
         game = 0,
         video = {
@@ -35672,6 +36054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어서 오세요. 다양한 액세서리가 있으니 한번 둘러보세요~",
         game = 0,
         video = {
@@ -35765,6 +36148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 여기야~",
         game = 0,
         video = {
@@ -35859,6 +36243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리를 칭찬한다",
         game = 0,
         video = {
@@ -35952,6 +36337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 여긴...?",
         game = 0,
         video = {
@@ -36045,6 +36431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이게 다 마유리 덕분이야! 그렇지 않았으면 이런 예쁜 보석을 가공할 수 없었을 거라고~",
         game = 0,
         video = {
@@ -36138,6 +36525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여긴 인간 세계의 액세서리샵이라는 곳이야. 여자애들은 다들 여기서 물건을 사는 걸 좋아해.",
         game = 0,
         video = {
@@ -36231,6 +36619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 그저 조금 거들었을 뿐인걸. 전문적인 건 모두 네 덕분에 가능했던 거야.",
         game = 0,
         video = {
@@ -36324,6 +36713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 신기하다는 듯이 주변을 둘러봤지만, 특별히 무언가에 흥미를 보이거나 하는 반응은 없는 듯했다.",
         game = 0,
         video = {
@@ -36417,6 +36807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하핫, 이런 말이 있어. 모든 성공한 사람들의 뒤에는 유능한 조수가 있는 법이라고. 들어본 적 있어?",
         game = 0,
         video = {
@@ -36513,6 +36904,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "손을 불어준다",
         game = 0,
         video = {
@@ -36606,6 +36998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... 없어.",
         game = 0,
         video = {
@@ -36699,6 +37092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리의 손을 가볍게 잡고 손가락을 호호 불어주었다.",
         game = 0,
         video = {
@@ -36792,6 +37186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 이제 들어본 셈이네! 그러니까, 나는 마유리처럼 유능한 조수가 있었던 덕분에 보석 가공에 성공한 거라는 뜻이야~",
         game = 0,
         video = {
@@ -36885,6 +37280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이제... 좀 괜찮아졌어?",
         game = 0,
         video = {
@@ -36978,6 +37374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말? 정말 내가 도움이 된 거야?",
         game = 0,
         video = {
@@ -37071,6 +37468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 깜짝 놀라서 나를 바라봤고, 부끄러운지 얼굴이 붉어졌다.",
         game = 0,
         video = {
@@ -37164,6 +37562,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 당연하지! 마유리가 큰 도움을 줬어!",
         game = 0,
         video = {
@@ -37257,6 +37656,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이런, 이러면 너무 친밀한 느낌인가...",
         game = 0,
         video = {
@@ -37350,6 +37750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 도움이 되었다니 정말 다행이야~",
         game = 0,
         video = {
@@ -37443,6 +37844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기... 미안해...",
         game = 0,
         video = {
@@ -37536,6 +37938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이번에는 이걸 가지고 액세서리를 만들면 돼~ 계속 도와줄 거지?",
         game = 0,
         video = {
@@ -37629,6 +38032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 다급히 손을 뗐다.",
         game = 0,
         video = {
@@ -37722,6 +38126,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 맡겨만 줘.",
         game = 0,
         video = {
@@ -37815,6 +38220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "푸훗~ 정말 어린애들한테나 해 주는 방법이네~",
         game = 0,
         video = {
@@ -37909,6 +38315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38002,6 +38409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -38095,6 +38503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 도움 덕분에, 우리는 사파이어 목걸이와 귀걸이를 완성했다.",
         game = 0,
         video = {
@@ -38188,6 +38597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 이제 안 아파. 고마워, %s.",
         game = 0,
         video = {
@@ -38284,6 +38694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38377,6 +38788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 다행이고...",
         game = 0,
         video = {
@@ -38470,6 +38882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "드디어 완성했어!",
         game = 0,
         video = {
@@ -38563,6 +38976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 가슴이 갑자기 너무 빨리 뛰는 것 같아. 이것도 %s 네가 치료해 줘.",
         game = 0,
         video = {
@@ -38656,6 +39070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "휴~ 이런 작은 걸 만드는 것도 사실은 쉽지 않은 거였구나.",
         game = 0,
         video = {
@@ -38750,6 +39165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알겠어. 마유리는 다른 정령과 달라.",
         game = 0,
         video = {
@@ -38843,6 +39259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 조금 장난스러운 말투로 내게 말했다.",
         game = 0,
         video = {
@@ -38936,6 +39353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하, 그럼 이렇게 만들어냈으니까, 마유리가 한번 차보지 않을래?",
         game = 0,
         video = {
@@ -39029,6 +39447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 어쩔 수 없다는 듯이 미소를 지었다.",
         game = 0,
         video = {
@@ -39122,6 +39541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에...",
         game = 0,
         video = {
@@ -39215,6 +39635,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 내가?",
         game = 0,
         video = {
@@ -39308,6 +39729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 난 줄곧 [마유리가 이걸 차주면 예쁘겠지] 그런 생각을 하고 있었거든~",
         game = 0,
         video = {
@@ -39401,6 +39823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼... %s, 보고 싶어?",
         game = 0,
         video = {
@@ -39494,6 +39917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "물론이지! 아마, 아니, 분명히 예쁠 거야!",
         game = 0,
         video = {
@@ -39587,6 +40011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그, 그럼 알겠어... %s, 네가 달아줄 수 있을까?",
         game = 0,
         video = {
@@ -39680,6 +40105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "당연하지~ 얼마든지 맡겨줘!",
         game = 0,
         video = {
@@ -39773,6 +40199,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 액세서리를 집어 마유리에게 달아 주었다.",
         game = 0,
         video = {
@@ -39866,6 +40293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -39959,6 +40387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 어때?",
         game = 0,
         video = {
@@ -40052,6 +40481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잠깐만, 귀걸이가 살짝 비뚤어진 것 같아.",
         game = 0,
         video = {
@@ -40145,6 +40575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 꺼내며 나는 마유리의 귀걸이를 바로잡아 주었다.",
         game = 0,
         video = {
@@ -40238,6 +40669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자, 됐어, 어디 보자...정말 귀엽네!",
         game = 0,
         video = {
@@ -40331,6 +40763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고마워. %s 네가 만든 걸 차니까 정말 기뻐.",
         game = 0,
         video = {
@@ -40425,6 +40858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -40518,6 +40952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s! 봐봐! 저 게 사자야?",
         game = 0,
         video = {
@@ -40611,6 +41046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "보석 목걸이를 목에 찬 마유리는 더욱 눈부셔 보였다.",
         game = 0,
         video = {
@@ -40704,6 +41140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사자가 쫓아왔어!",
         game = 0,
         video = {
@@ -40797,6 +41234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "와아!......깜짝 놀랐어......",
         game = 0,
         video = {
@@ -40890,6 +41328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하하~ 하하하하~",
         game = 0,
         video = {
@@ -40984,6 +41423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사랑에는 이유가 없어",
         game = 0,
         video = {
@@ -41077,6 +41517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 잘 들려.",
         game = 0,
         video = {
@@ -41170,6 +41611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잘 들어. 비록 요즘 정령들의 스트레스가 완화됐지만 이번 긴 휴가를 잘 이용하면 차후 한동안 아주 편할 거야.",
         game = 0,
         video = {
@@ -41263,6 +41705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말이야 그렇다 하지만......아, 토카, 잠깐만! 조심해!",
         game = 0,
         video = {
@@ -41356,6 +41799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...됐어, 나도 모르겠으니까.",
         game = 0,
         video = {
@@ -41449,6 +41893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아퍼 아퍼......미안, 미안. 아, 핸드폰이 떨어졌어요......응?",
         game = 0,
         video = {
@@ -41542,6 +41987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? %s, 이런 우연이 있다니.",
         game = 0,
         video = {
@@ -41635,6 +42081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어, 토노마치. 부딪쳐서 미안해.",
         game = 0,
         video = {
@@ -41728,6 +42175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까, 사랑에는 이유가 필요 없는 거야!",
         game = 0,
         video = {
@@ -41821,6 +42269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아하하~ 맞다, 너의 핸드폰——",
         game = 0,
         video = {
@@ -41914,6 +42363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좋아해......나도 오빠가 제일 좋다구! 세상 누구보다도 오빠를 사랑해!",
         game = 0,
         video = {
@@ -42007,6 +42457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응? 코토리, 방금 뭐라 얘기했지?",
         game = 0,
         video = {
@@ -42100,6 +42551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에, 마유리 넌 아무래도 인간의 감정을 잘 모를 거야. 난 아주 복잡한 감정을 지닌 남자라고...",
         game = 0,
         video = {
@@ -42193,6 +42645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무, 무슨 일인데? 코토리?",
         game = 0,
         video = {
@@ -42286,6 +42739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "방금 난 아무 말도 안 했어!",
         game = 0,
         video = {
@@ -42379,6 +42833,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼——",
         game = 0,
         video = {
@@ -42472,6 +42927,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잘 이해하진 못하겠지만, 역시 넌 믿음이 가지 않는 것 같아.",
         game = 0,
         video = {
@@ -42565,6 +43021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "디바이스? 아......토노마치, 잠깐만, 방금의 소리는 너의 핸드폰에서 나의 여동생—— 내가 아는 사람의 목소리를 낸게 아니야?",
         game = 0,
         video = {
@@ -42658,6 +43115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그리고 내가 장담하는데, 방금 [미쿠, 토카, 토비이치] 그리고 저기 [너의 사촌 여동생]의 소리를 재생했어!",
         game = 0,
         video = {
@@ -42757,6 +43215,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뭐......이 말은 분명 그때......!",
         game = 0,
         video = {
@@ -42850,6 +43309,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어째서 날 믿을 수 없다는 거야? 설마 우린 아직 서로 신뢰할 수 없는 사이인 거야?",
         game = 0,
         video = {
@@ -42943,6 +43403,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "코토리......",
         game = 0,
         video = {
@@ -43036,6 +43497,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 우선 인원을 배치하여 이 일을 조사할게. 오빠는 토카와 함께 즐거운 시간을 보내. 두 시간 후에 집에 모이고.",
         game = 0,
         video = {
@@ -43130,6 +43592,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -43223,6 +43686,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 말에 마유리는 아무런 반응도 보이지 않았다.",
         game = 0,
         video = {
@@ -43316,6 +43780,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 다들?",
         game = 0,
         video = {
@@ -43409,6 +43874,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "쿠, 쿠루미? 너 어떻게......",
         game = 0,
         video = {
@@ -43502,6 +43968,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저는 몇일 전에 여러분이 조사 중인 이 인기 투표 어플을 발견했어요. 비록 많은 사람들한테 물었지만——",
         game = 0,
         video = {
@@ -43595,6 +44062,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "경박해...",
         game = 0,
         video = {
@@ -43688,6 +44156,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그것의 획득 경로는 오직 한번만 사용할 수 있는 것 같아요.",
         game = 0,
         video = {
@@ -43781,6 +44250,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다행인 건, 우리가 방금 토노마치 히로토가 주운 디바이스를 조사했고 이미 같은 어플을 설치한 많은 디바이스를 추적했어.",
         game = 0,
         video = {
@@ -43874,6 +44344,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그중에는......",
         game = 0,
         video = {
@@ -43967,6 +44438,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아앗! 마유리, 내 말은... 나 말고 이 액세서리가 마음에 드냐는 거였어...",
         game = 0,
         video = {
@@ -44060,6 +44532,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기분이 나쁘네요......",
         game = 0,
         video = {
@@ -44153,6 +44626,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 모든 이를 당분간 <프락시너스>로 피난 시키고 조사에 협조하게 할 수 있어?",
         game = 0,
         video = {
@@ -44246,6 +44720,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알았어.",
         game = 0,
         video = {
@@ -44339,6 +44814,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 아마 내 말을 잘못 들은 것 같았다.",
         game = 0,
         video = {
@@ -44432,6 +44908,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "쿠쿠쿠, 이건 분명 음모야.",
         game = 0,
         video = {
@@ -44525,6 +45002,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 함께 있으면 불안함을 없앨 수 있어.",
         game = 0,
         video = {
@@ -44618,6 +45096,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도 귀찮은 것 같아......어, 나의 도움을 크게 기대하지 마......",
         game = 0,
         video = {
@@ -44711,6 +45190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...아!",
         game = 0,
         video = {
@@ -44811,6 +45291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -44903,6 +45384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 말을 들은 마유리의 얼굴은 붉어졌지만, 여전히 귀여웠다.",
         game = 0,
         video = {
@@ -44997,6 +45479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 같이 비둘기한테 먹이 주자",
         game = 0,
         video = {
@@ -45090,6 +45573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아아아, 저기... 오늘은 여기까지 하자. 먼저 갈게, 안녕!",
         game = 0,
         video = {
@@ -45183,6 +45667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저거야! 마유리, 우리 같이 비둘기한테 먹이 주지 않을래?",
         game = 0,
         video = {
@@ -45276,6 +45761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잠깐 기다려...!",
         game = 0,
         video = {
@@ -45369,6 +45855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 너와 함께라면 뭘 해도 좋아.",
         game = 0,
         video = {
@@ -45462,6 +45949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 말을 마치기도 전에 마유리는 사라져 버렸다.",
         game = 0,
         video = {
@@ -45559,6 +46047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "친한 척한다",
         game = 0,
         video = {
@@ -45652,6 +46141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아아~ 액세서리 놔두고 갔다고 말하려 그랬는데... 어쩔 수 없지. 다음에 만나면 주는 수밖에.",
         game = 0,
         video = {
@@ -45745,6 +46235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어쩔 수 없다고 생각한 나는 그녀에게 친한 척 다가갔다.",
         game = 0,
         video = {
@@ -45838,6 +46329,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇게 생각하며 나는 포장한 액세서리를 가지고 가게를 떠났다.",
         game = 0,
         video = {
@@ -45936,6 +46428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "본심을 따르는 거야",
         game = 0,
         video = {
@@ -46035,6 +46528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -46128,6 +46622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "본심을 따르는 거야! 마유리!",
         game = 0,
         video = {
@@ -46221,6 +46716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안녕! 아름다운 마유리 양, 여기서 뭐하고 있어?",
         game = 0,
         video = {
@@ -46315,6 +46811,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어디 다른 곳 가고 싶어?",
         game = 0,
         video = {
@@ -46408,6 +46905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "본심...?",
         game = 0,
         video = {
@@ -46501,6 +46999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "......",
         game = 0,
         video = {
@@ -46594,6 +47093,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 여기엔 그다지 흥미가 없는 거야?",
         game = 0,
         video = {
@@ -46687,6 +47187,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래, 네 진짜 생각 말이야. 나를 관측하는 건 네가 맡은 일 같은 거지?",
         game = 0,
         video = {
@@ -46780,6 +47281,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아하하, 방금 그건 농담이었어~ 왜 말이 없어?",
         game = 0,
         video = {
@@ -46873,6 +47375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니, 사실... 난 어떤 것에도 흥미가 없어.",
         game = 0,
         video = {
@@ -46966,6 +47469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 그렇다고 할 수 있어.",
         game = 0,
         video = {
@@ -47059,6 +47563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 대답하지 않고, 몸을 돌려 떠나려고 했다.",
         game = 0,
         video = {
@@ -47152,6 +47657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 하며 마유리는 조금 풀이 죽은 듯했다.",
         game = 0,
         video = {
@@ -47245,6 +47751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 일 외에 개인적인 흥미도 있을 거잖아?",
         game = 0,
         video = {
@@ -47338,6 +47845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잠깐! 마유리, 왜 나를 볼 때마다 가버리는 거야?",
         game = 0,
         video = {
@@ -47431,6 +47939,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 조금씩 만들어나가면 되는 거니까. 급할 거 없어. 다음에 다시 와 보자.",
         game = 0,
         video = {
@@ -47524,6 +48033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "흥미라면...?",
         game = 0,
         video = {
@@ -47617,6 +48127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 영력에서 태어난 존재, 그저 널 관측하기 위해 존재하는 것, 그게 바로 내 임무야.",
         game = 0,
         video = {
@@ -47710,6 +48221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다음에... 말이야? 어쩌면 시간이 부족할 수도 있겠네.",
         game = 0,
         video = {
@@ -47804,6 +48316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유럽",
         game = 0,
         video = {
@@ -47897,6 +48410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "예를 들면 나는 콩고물 빵이 좋다... 라든지, 드라마를 보거나 운동을 하는 게 좋다... 그런 거 말이야.",
         game = 0,
         video = {
@@ -47990,6 +48504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇다고 해도, 꼭 나와 그렇게 거리를 유지해야 하는 거야?",
         game = 0,
         video = {
@@ -48083,6 +48598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 마유리, 무슨 말이야?",
         game = 0,
         video = {
@@ -48176,6 +48692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "틀렸어요. 아무래도 조금 더 공부하셔야겠는걸요~",
         game = 0,
         video = {
@@ -48269,6 +48786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는... 너를 관측하는 일 외에는 아무것도 생각해본 적이 없어.",
         game = 0,
         video = {
@@ -48362,6 +48880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하~ 정말이네, 네 건 아직도 남아 있어~",
         game = 0,
         video = {
@@ -48455,6 +48974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그녀가 말한 뒷마디는 소리가 너무 작아서 잘 듣지 못했다.",
         game = 0,
         video = {
@@ -48548,6 +49068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "천연 루비는 대부분 아시아에서 생산되고, 아프리카, 오세아니아, 아메리카에도 조금 있어요.",
         game = 0,
         video = {
@@ -48641,6 +49162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 앞으로도 그렇게 자주 웃어줘~",
         game = 0,
         video = {
@@ -48734,6 +49256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니, %s 네가 가자는 곳으로 갈게.",
         game = 0,
         video = {
@@ -48827,6 +49350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "조금 긴장해서 생각이 안 난 것 같아요...",
         game = 0,
         video = {
@@ -48920,6 +49444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응?",
         game = 0,
         video = {
@@ -49013,6 +49538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 액세서리샵을 나섰다.",
         game = 0,
         video = {
@@ -49106,6 +49632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아요. 그만큼 똑똑하시면 뭘 배워도 금방 배우실 거예요.",
         game = 0,
         video = {
@@ -49200,6 +49727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네가 웃을 땐 주변이 환해지는 것 같아서 보기 좋거든~",
         game = 0,
         video = {
@@ -49293,6 +49821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -49386,6 +49915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그, 그렇구나...",
         game = 0,
         video = {
@@ -49485,6 +50015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -49578,6 +50109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 내 말을 듣고 얼굴이 조금 붉어졌고, 내게서 시선을 피했다.",
         game = 0,
         video = {
@@ -49671,6 +50203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 가고 싶은 곳 있어?",
         game = 0,
         video = {
@@ -49764,6 +50297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이상하네... 어디서 종소리가 들리는 것 같은데?",
         game = 0,
         video = {
@@ -49857,6 +50391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 액세서리샵을 나섰다.",
         game = 0,
         video = {
@@ -49950,6 +50485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시간이 거의 다 됐어. 난 이제 가야 해.",
         game = 0,
         video = {
@@ -50049,6 +50585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -50142,6 +50679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -50235,6 +50773,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -50329,6 +50868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 로맨틱한 곳으로 가자",
         game = 0,
         video = {
@@ -50422,6 +50962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 오늘 정말 고마워. 아주 즐거웠어.",
         game = 0,
         video = {
@@ -50515,6 +51056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 기다려!",
         game = 0,
         video = {
@@ -50608,6 +51150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여기 가는 건 어때?",
         game = 0,
         video = {
@@ -50701,6 +51244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 마유리, 다음에도 이렇게 만날 수 있는 거지?",
         game = 0,
         video = {
@@ -50794,6 +51338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 무슨 일이 남았어?",
         game = 0,
         video = {
@@ -50888,6 +51433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "중간",
         game = 0,
         video = {
@@ -50981,6 +51527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 지도의 한 구역을 가리켰고, 마유리에게 제안했다.",
         game = 0,
         video = {
@@ -51074,6 +51621,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "종소리는 먼 곳에서 울렸고, 마유리는 내 질문에 답하지 않은 채 웃으며 떠나갔다.",
         game = 0,
         video = {
@@ -51166,6 +51714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어디 가는 거야?",
         game = 0,
         video = {
@@ -51259,6 +51808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사람이... 정말 많네.",
         game = 0,
         video = {
@@ -51352,6 +51902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "낭만의 여행? 무슨 뜻이야?",
         game = 0,
         video = {
@@ -51445,6 +51996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이공원에는 코스튬 행진이 시작됐고, 가면을 쓴 직원들과 자발적인 참가자들이 호박 마차의 대열을 따르고 있었다.",
         game = 0,
         video = {
@@ -51538,6 +52090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 이제 가야 해. 그리고 어쩌면... 사실 너와 같이 다니지 않았어야 했어.",
         game = 0,
         video = {
@@ -51631,6 +52184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리가 앉았을 때, 주변에는 이미 놀러 온 어린이들이 잔뜩 있었다.",
         game = 0,
         video = {
@@ -51724,6 +52278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "느린 템포의 놀이기구, 어린아이와 연인에게 적합' 에... 설명에는 이렇게 쓰여 있어.",
         game = 0,
         video = {
@@ -51817,6 +52372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "멀리서 보니 정말 으스스하네~",
         game = 0,
         video = {
@@ -51910,6 +52466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어째서? 내가 무슨 잘못을 한 거라면 먼저 사과할게!",
         game = 0,
         video = {
@@ -52003,6 +52560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아마 할로윈 이벤트 때문일 거야. 그래서 아이들이 많은 거겠지...",
         game = 0,
         video = {
@@ -52096,6 +52654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "연인...",
         game = 0,
         video = {
@@ -52189,6 +52748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리도 호박 마차를 타러 가자.",
         game = 0,
         video = {
@@ -52282,6 +52842,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나 자신의 문제일 뿐이야. 내 존재는 이미 과도하게 네게 개입하고 있어. 그렇게 되면 너에 대한 내 합격 조건에 영향을 끼칠지도 몰라...",
         game = 0,
         video = {
@@ -52375,6 +52936,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "형이랑 누나는 커플이에요?",
         game = 0,
         video = {
@@ -52468,6 +53030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하... 그게... 아무튼 조금 느긋한 놀이기구인 것 같네.",
         game = 0,
         video = {
@@ -52561,6 +53124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오~",
         game = 0,
         video = {
@@ -52654,6 +53218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까, 계속 합격이니 불합격이니 하는데, 대체 그 합격의 조건이 뭐야?",
         game = 0,
         video = {
@@ -52747,6 +53312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리가 이야기를 나누고 있을 때, 우리 뒷줄에 앉은 꼬마가 천진난만하게 물었다.",
         game = 0,
         video = {
@@ -52840,6 +53406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 에둘러 대답했다.",
         game = 0,
         video = {
@@ -52933,6 +53500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -53026,6 +53594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...난 몰라.",
         game = 0,
         video = {
@@ -53119,6 +53688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 커, 커플?",
         game = 0,
         video = {
@@ -53212,6 +53782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇게 말해도 난 잘 모르겠는걸...",
         game = 0,
         video = {
@@ -53308,6 +53879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -53401,6 +53973,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "모, 모른다고? 그럴 리가!",
         game = 0,
         video = {
@@ -53494,6 +54067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 부끄러운지 얼굴이 붉어졌다.",
         game = 0,
         video = {
@@ -53587,6 +54161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건...",
         game = 0,
         video = {
@@ -53680,6 +54255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "행진 마차에 타고 기뻐서 살짝 볼이 붉어진 마유리를 보며, 나는 시선을 뗄 수 없었다.",
         game = 0,
         video = {
@@ -53773,6 +54349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "미안, 난 그저 방관자일 뿐이야. 조건에 대해서는... 너 스스로가 느끼고 찾아내야 해.",
         game = 0,
         video = {
@@ -53866,6 +54443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇다니까. 오빠랑 언니랑 데이트하고 있잖아!",
         game = 0,
         video = {
@@ -53959,6 +54537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 넌 어떤 놀이기구를 추천하는데?",
         game = 0,
         video = {
@@ -54054,6 +54633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...얼굴에 뭐가 있어?",
         game = 0,
         video = {
@@ -54147,6 +54727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 난 그 조건이란 것에 대해선 하나도 감이 잡히지 않는걸...",
         game = 0,
         video = {
@@ -54240,6 +54821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "데이트...를 하면 커플인 건가?",
         game = 0,
         video = {
@@ -54333,6 +54915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아아... 미안, 실례를 했네...",
         game = 0,
         video = {
@@ -54426,6 +55009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "걱정하지 마. %s 너라면 분명히 합격할 테니까.",
         game = 0,
         video = {
@@ -54519,6 +55103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 고개를 끄덕이고는 노트를 꺼내 무언가를 적었다.",
         game = 0,
         video = {
@@ -54612,6 +55197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼... 사과의 선물은?",
         game = 0,
         video = {
@@ -54705,6 +55291,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 이미 내 앞에서 사라져 있었다.",
         game = 0,
         video = {
@@ -54797,6 +55384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 그게...",
         game = 0,
         video = {
@@ -54891,6 +55479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 뭐 사고 싶은 거 있어?",
         game = 0,
         video = {
@@ -54984,6 +55573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 저거.",
         game = 0,
         video = {
@@ -55077,6 +55667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가면?",
         game = 0,
         video = {
@@ -55170,6 +55761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "종류가 되게 많은 것 같네.",
         game = 0,
         video = {
@@ -55263,6 +55855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 대부분은 유령 같은 거야.",
         game = 0,
         video = {
@@ -55359,6 +55952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "흰여우 가면을 고른다",
         game = 0,
         video = {
@@ -55452,6 +56046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이거, 마유리한테 잘 어울려.",
         game = 0,
         video = {
@@ -55545,6 +56140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여우? 그냥 평범해 보이는데.",
         game = 0,
         video = {
@@ -55644,6 +56240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "날 따라다니면 돼",
         game = 0,
         video = {
@@ -55737,6 +56334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 여우처럼 신비롭고 영민하잖아.",
         game = 0,
         video = {
@@ -55830,6 +56428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 어디 가고 싶은 곳 있어? 내가 같이 가 줄게!",
         game = 0,
         video = {
@@ -55923,6 +56522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 날 칭찬해주는 거야?",
         game = 0,
         video = {
@@ -56022,6 +56622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 공원에 가서 좀 앉을래?",
         game = 0,
         video = {
@@ -56115,6 +56716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... 없어.",
         game = 0,
         video = {
@@ -56208,6 +56810,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 당연하지.",
         game = 0,
         video = {
@@ -56301,6 +56904,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 우리 공원에 가서 좀 앉을래?",
         game = 0,
         video = {
@@ -56394,6 +56998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나, 그럼 날 따라다니면 돼~",
         game = 0,
         video = {
@@ -56487,6 +57092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 %s 네가 여우처럼 교활하다고 하려는 줄 알았어.",
         game = 0,
         video = {
@@ -56580,6 +57186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "공원은 %s 네가 좋아하는 곳이야?",
         game = 0,
         video = {
@@ -56673,6 +57280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 난 계속 그래왔어.",
         game = 0,
         video = {
@@ -56766,6 +57374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 그래? 설마 마유리한테 내가 모르는 교활한 면이 있는 거야?",
         game = 0,
         video = {
@@ -56859,6 +57468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좋아하는 것까지는 아니지만, 거긴 사람들이 가장 많이 가는 곳이야.",
         game = 0,
         video = {
@@ -56952,6 +57562,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이...이번엔 그런 뜻이 아니야.",
         game = 0,
         video = {
@@ -57045,6 +57656,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... 없어.",
         game = 0,
         video = {
@@ -57138,6 +57750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 좋네, 하지만 다들 많이 가는 곳인데 나는 가본 적이 없어...",
         game = 0,
         video = {
@@ -57231,6 +57844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 그럼 역시 잘 모르겠어. %s.",
         game = 0,
         video = {
@@ -57324,6 +57938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 기대하고 있는걸~",
         game = 0,
         video = {
@@ -57417,6 +58032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까 우리도 가장 평범한 곳부터 시작해서, 더 많은 곳들을 함께 가보자!",
         game = 0,
         video = {
@@ -57510,6 +58126,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네가 줄곧 날 따라다닌 건 맞긴 한데... 내 말은 그러니까, 이번엔 친구처럼 같이 다니자는 뜻이야.",
         game = 0,
         video = {
@@ -57603,6 +58220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -57696,6 +58314,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 이제부터...",
         game = 0,
         video = {
@@ -57789,6 +58408,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "같이 다니자고...?",
         game = 0,
         video = {
@@ -57882,6 +58502,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리가 내게 마음을 열 날을 말이야.",
         game = 0,
         video = {
@@ -57975,6 +58596,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가자, 마유리, 손 잡아줄까? 요시노나 토카는 항상 손을 잡아달라고 하거든.",
         game = 0,
         video = {
@@ -58068,6 +58690,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래, 지금처럼 서로 대화도 하면서, 같이 놀거나 같이 걷기도 하는 거야.",
         game = 0,
         video = {
@@ -58161,6 +58784,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음...",
         game = 0,
         video = {
@@ -58254,6 +58878,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇다면 나도 잡을래.",
         game = 0,
         video = {
@@ -58347,6 +58972,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 건네며 나는 마유리의 곁에 다가가 고개를 기울이며 그녀를 바라봤다.",
         game = 0,
         video = {
@@ -58440,6 +59066,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오늘은 정말 특별한 날이야.",
         game = 0,
         video = {
@@ -58533,6 +59160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좋아, 출발!",
         game = 0,
         video = {
@@ -58626,6 +59254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아... 그다지 익숙하진 않지만, 한번 해보는 것도 괜찮을 것 같아.",
         game = 0,
         video = {
@@ -58719,6 +59348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 어떤 면에서?",
         game = 0,
         video = {
@@ -58814,6 +59444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -58907,6 +59538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 내가 너무 가까이 있어서인지 얼굴이 조금 붉어진 듯했다.",
         game = 0,
         video = {
@@ -59001,6 +59633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "쏟아지는 오후의 햇살을 받으며, 나는 마유리를 이끌고 공원에 도착했다.",
         game = 0,
         video = {
@@ -59094,6 +59727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 여기가 바로 공원이야!",
         game = 0,
         video = {
@@ -59187,6 +59821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, %s하고는 처음으로 같이 오게 됐네.",
         game = 0,
         video = {
@@ -59280,6 +59915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 여기 와본 적 있어?",
         game = 0,
         video = {
@@ -59373,6 +60009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "전에 너를 따라다닐 때, 몇 번 지나간 적이 있어.",
         game = 0,
         video = {
@@ -59466,6 +60103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아하하, 그럼 오늘은 여기서 한번 놀아보자.",
         game = 0,
         video = {
@@ -59559,6 +60197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 나는 여기 서서 %s 네가 노는 걸 볼게.",
         game = 0,
         video = {
@@ -59652,6 +60291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 정말로 근처에 서서 무표정으로 나를 지켜봤다.",
         game = 0,
         video = {
@@ -59746,6 +60386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우린 아직 커플은 아니야...",
         game = 0,
         video = {
@@ -59839,6 +60480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 정말 이 세계에 녹아드는 방법을 모르는 걸까...",
         game = 0,
         video = {
@@ -59933,6 +60575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 이미 데이트를 하고 있잖아?",
         game = 0,
         video = {
@@ -60026,6 +60669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "상징이라... 그럼 나도 데려가 줘!",
         game = 0,
         video = {
@@ -60119,6 +60763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "회전목마를 타야 데이트지!",
         game = 0,
         video = {
@@ -60212,6 +60857,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -60305,6 +60951,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그걸 어떻게 알아?",
         game = 0,
         video = {
@@ -60401,6 +61048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -60494,6 +61142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 누나가 그랬어!",
         game = 0,
         video = {
@@ -60587,6 +61236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사람이 정말 많네.",
         game = 0,
         video = {
@@ -60680,6 +61330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다들 동의했으니 바로 출발해.",
         game = 0,
         video = {
@@ -60773,6 +61424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "회전목마가 뭔데?",
         game = 0,
         video = {
@@ -60866,6 +61518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다들 감사해!",
         game = 0,
         video = {
@@ -60959,6 +61612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "당연하지, 아이들도 정말 좋아하거든.",
         game = 0,
         video = {
@@ -61052,6 +61706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나츠미 씨......함께 화이팅 해요~",
         game = 0,
         video = {
@@ -61145,6 +61800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이기구인데... 화려한 목마에 앉아서 노래와 함께 목마가 도는 거야...",
         game = 0,
         video = {
@@ -61238,6 +61894,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 처음 놀이공원에 온 걸 기념하는 거니까, 잘 간직해 줘.",
         game = 0,
         video = {
@@ -61331,6 +61988,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아냐, 젊은 사람들이 많아.",
         game = 0,
         video = {
@@ -61424,6 +62082,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "격려. 카구야와 유즈루는 최선을 다해 협조할 거예요.",
         game = 0,
         video = {
@@ -61517,6 +62176,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 누나가 그랬어. 정말로 사랑하는 두 사람이 회전목마를 같이 타면 영원히 같이 있을 수 있다고!",
         game = 0,
         video = {
@@ -61610,6 +62270,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나에게 마음껏 의지해도 좋아.",
         game = 0,
         video = {
@@ -61703,6 +62364,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말이네...",
         game = 0,
         video = {
@@ -61796,6 +62458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "문제 없어, 나에게 맡겨!",
         game = 0,
         video = {
@@ -61889,6 +62552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너희 아는 게 참 많구나...",
         game = 0,
         video = {
@@ -61982,6 +62646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다들 내 말 들어봐, 난 이번 사건 때문에 자꾸 불안한 예감이 들어. 그래서 말인데......",
         game = 0,
         video = {
@@ -62075,6 +62740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "회전목마 주변의 사람들은 모두 한 쌍을 이루고 있었고, 저마다 손을 잡는 등 다정한 모습이었다. 그에 비해 나와 마유리는 뭔가 동떨어진 느낌이었다...",
         game = 0,
         video = {
@@ -62168,6 +62834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 곁에 있는 거랑, 나랑 노는 거랑은 다른 문제야~ 날 믿어!",
         game = 0,
         video = {
@@ -62261,6 +62928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "영원히... 하지만 내겐 그렇게 많은 시간은 없어.",
         game = 0,
         video = {
@@ -62354,6 +63022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안전을 고려하여......",
         game = 0,
         video = {
@@ -62447,6 +63116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "역시 연인들의 데이트 장소로 가장 좋은 곳이라는 건가...",
         game = 0,
         video = {
@@ -62540,6 +63210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "......개인 정보 누설이 아닌 것 같아.",
         game = 0,
         video = {
@@ -62633,6 +63304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뭐라고?",
         game = 0,
         video = {
@@ -62726,6 +63398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여기 모든 사람들의 소리가 포함되어 있어요.",
         game = 0,
         video = {
@@ -62819,6 +63492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 회전목마 근처의 표지판을 보며 감탄했다.",
         game = 0,
         video = {
@@ -62912,6 +63586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "1",
         game = 0,
         video = {
@@ -63005,6 +63680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아이들이 떠드는 탓에 나는 마유리의 말을 잘 듣지 못했다.",
         game = 0,
         video = {
@@ -63098,6 +63774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "요시노가 집에 들어간 후, 나는 한숨을 쉰 후 나를 바라보는 소녀의 앞으로 다가갔다.",
         game = 0,
         video = {
@@ -63191,6 +63868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼... 이, 일단 먼저 줄을 서자!",
         game = 0,
         video = {
@@ -63284,6 +63962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -63377,6 +64056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무것도 아냐. %s, 같이 회전목마 보러 갈래?",
         game = 0,
         video = {
@@ -63470,6 +64150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 우선 그의 말을 들어 봐.",
         game = 0,
         video = {
@@ -63563,6 +64244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -63656,6 +64338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아라, 걱정 마세요. 저 요즘 다이어트 중이에요.",
         game = 0,
         video = {
@@ -63749,6 +64432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안 돼?",
         game = 0,
         video = {
@@ -63842,6 +64526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "[물어]? 설마 쿠루미 너......",
         game = 0,
         video = {
@@ -63935,6 +64620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64034,6 +64720,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64127,6 +64814,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리의 말에 뭔가 깊은 뜻이 있는 것 같았다...",
         game = 0,
         video = {
@@ -64220,6 +64908,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64316,6 +65005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64409,6 +65099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "빨리 들어와, 다들 기다리고 있어.",
         game = 0,
         video = {
@@ -64502,6 +65193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "당연히 되지. 내가 데리고 가줄게!",
         game = 0,
         video = {
@@ -64595,6 +65287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 씨......토카 씨......",
         game = 0,
         video = {
@@ -64688,6 +65381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리와 목마를 탔고, 음악 소리에 맞춰 목마가 서서히 움직이기 시작했다.",
         game = 0,
         video = {
@@ -64781,6 +65475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다녀왔습니다.",
         game = 0,
         video = {
@@ -64874,6 +65569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64967,6 +65663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대관람차에는 신비한 힘이 있다는 전설이 있어. 그래서 마유리도 평소와는 느낌이 다른 거야.",
         game = 0,
         video = {
@@ -65060,6 +65757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우와... 시원해.",
         game = 0,
         video = {
@@ -65153,6 +65851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 알았어.",
         game = 0,
         video = {
@@ -65246,6 +65945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어......어......안녕......",
         game = 0,
         video = {
@@ -65339,6 +66039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "됐어, %s, 나 먼저 경찰서에 갈게. 다음에 봐~",
         game = 0,
         video = {
@@ -65432,6 +66133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "물안개인가 봐~",
         game = 0,
         video = {
@@ -65525,6 +66227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에이......안에 무슨 어플을 설치했는지 너무 알고 싶어......설마 암암리에 진행되는 인기 투표인가?",
         game = 0,
         video = {
@@ -65618,6 +66321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 눈빛에서는 슬픔과 부러움이 느껴졌다.",
         game = 0,
         video = {
@@ -65711,6 +66415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 이거. 방금 주운 거야. 아까부터 각종 소리를 재생했어. 아마도 무슨 어플 푸시인가 봐.",
         game = 0,
         video = {
@@ -65804,6 +66509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "물안개는 회전목마 위에서 사람들을 향해 떨어졌고, 온 회전목마가 안개에 둘러싸여 마치 꿈속을 보는 듯한 모습이 되었다.",
         game = 0,
         video = {
@@ -65897,6 +66603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아! 주위에 무슨 디바이스가 있는게 아니야? 빨리 찾아 봐!",
         game = 0,
         video = {
@@ -66003,6 +66710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내, 내가 말한 게 아니야!",
         game = 0,
         video = {
@@ -66096,6 +66804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 사과할 필요 없어, 친구야.",
         game = 0,
         video = {
@@ -66189,6 +66898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 대단하네~",
         game = 0,
         video = {
@@ -66290,6 +67000,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뚱——",
         game = 0,
         video = {
@@ -66383,6 +67094,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 들려?",
         game = 0,
         video = {
@@ -66476,6 +67188,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "토카! 천천히! 천천히! 당기지 마!",
         game = 0,
         video = {
@@ -66569,6 +67282,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -66661,6 +67375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "해가 지는 놀이공원도 정말 예쁘구나...",
         game = 0,
         video = {
@@ -66754,6 +67469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "세상이 금빛으로 덮인 것 같아.",
         game = 0,
         video = {
@@ -66850,6 +67566,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이공원 구석으로 간다",
         game = 0,
         video = {
@@ -66943,6 +67660,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 난 %s 널 믿어.",
         game = 0,
         video = {
@@ -67037,6 +67755,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67130,6 +67849,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그런 걸 남겨둔 거야?",
         game = 0,
         video = {
@@ -67223,6 +67943,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "해적선은 아마 이쪽에 있을 거야...",
         game = 0,
         video = {
@@ -67316,6 +68037,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 뭔가 오해한 것 같다. 하지만 그녀도 아마 다른 정령들처럼 나와 데이트를 하고 싶을 것이다.",
         game = 0,
         video = {
@@ -67409,6 +68131,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네! 마유리, 잠깐 쉬면서 보고 있어 봐~",
         game = 0,
         video = {
@@ -67502,6 +68225,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "눈 깜짝할 사이에 마유리는 열기구 아래 손님들이 타는 곤돌라에 뛰어올랐다.",
         game = 0,
         video = {
@@ -67595,6 +68319,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 계속해서 걸어갔다.",
         game = 0,
         video = {
@@ -67688,6 +68413,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67787,6 +68513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어이—— 기다려, 마유리!",
         game = 0,
         video = {
@@ -67880,6 +68607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67973,6 +68701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사람이... 없어졌네.",
         game = 0,
         video = {
@@ -68066,6 +68795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "타고 싶어! 하늘을 나는 풍선!",
         game = 0,
         video = {
@@ -68159,6 +68889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우왓——! 사람이 있는 걸 잊어버릴 뻔했네...",
         game = 0,
         video = {
@@ -68252,6 +68983,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 손가락 걸고 약속해!",
         game = 0,
         video = {
@@ -68345,6 +69077,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 이쪽인 것 같아. 가자, %s.",
         game = 0,
         video = {
@@ -68438,6 +69171,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 눈썹을 찌푸리며 말을 하고는 사라져 버렸다.",
         game = 0,
         video = {
@@ -68530,6 +69264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "닫힌 공간은 뭔가 좀...",
         game = 0,
         video = {
@@ -68623,6 +69358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "누구도 나한테 그렇게 말해준 적이 없었어.",
         game = 0,
         video = {
@@ -68716,6 +69452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 여전히 흥미진진한 모습으로 내 손을 잡고 앞으로 향했다.",
         game = 0,
         video = {
@@ -68810,6 +69547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아... 아무튼, 난 마유리가 아주 좋아.",
         game = 0,
         video = {
@@ -68903,6 +69641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나랑 놀이공원도 같이 가 주고...",
         game = 0,
         video = {
@@ -68996,6 +69735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가까이에서 관측하면 더 좋지 않아?",
         game = 0,
         video = {
@@ -69090,6 +69830,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "서로를 더 빠르게 알아가는 방법이야",
         game = 0,
         video = {
@@ -69184,6 +69925,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "조금 더 알고 싶어",
         game = 0,
         video = {
@@ -69277,6 +70019,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 그나저나 마유리, 어디 가고 싶은지 정했어?",
         game = 0,
         video = {
@@ -69370,6 +70113,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -69463,6 +70207,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...%s, 난 진지하게 부탁하는 건데, 넌 농담을 하고 있는 것 같구나.",
         game = 0,
         video = {
@@ -69556,6 +70301,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 호흡이 갑자기 급해졌다. 설마... 고소공포증인가?",
         game = 0,
         video = {
@@ -69651,6 +70397,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기 봐, 마녀, 유령, 박쥐, 부엉이야!",
         game = 0,
         video = {
@@ -69744,6 +70491,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사람이 정말 많네...",
         game = 0,
         video = {
@@ -69837,6 +70585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 할로윈 이벤트야!",
         game = 0,
         video = {
@@ -69931,6 +70680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마녀 가면을 고른다",
         game = 0,
         video = {
@@ -70027,6 +70777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다른 거 먼저 보러 가자",
         game = 0,
         video = {
@@ -70121,6 +70872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -70214,6 +70966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -70307,6 +71060,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래.",
         game = 0,
         video = {
@@ -70400,6 +71154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "날도 어두워졌어. 얼른 돌아가지 않으면 다른 행사도 참가할 수 없을 거야.",
         game = 0,
         video = {
@@ -70493,6 +71248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만...",
         game = 0,
         video = {
@@ -70586,6 +71342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 이쪽엔 사람이 없어. 해적선엔 사람이 많아야 정상이거든.",
         game = 0,
         video = {
@@ -70679,6 +71436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "틀린 거야?",
         game = 0,
         video = {
@@ -70775,6 +71533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "길을 잘못 들은 것 같아. 얼른 돌아가자.",
         game = 0,
         video = {
@@ -70868,6 +71627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아? 에—— 기다려——",
         game = 0,
         video = {
@@ -70961,6 +71721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -71054,6 +71815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어서 가자!",
         game = 0,
         video = {
@@ -71150,6 +71912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "앞에 다른 물고기도 있어!",
         game = 0,
         video = {
@@ -71243,6 +72006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "커다란 수족관 간판이 눈에 들어왔다.",
         game = 0,
         video = {
@@ -71336,6 +72100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 손을 뻗어 가볍게 마유리의 머리를 쓰다듬어 주었다.",
         game = 0,
         video = {
@@ -71429,6 +72194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 희미한 미소를 지었고, 나는 기회를 잡아 말을 이어갔다.",
         game = 0,
         video = {
@@ -71522,6 +72288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리를 데리고 앞으로 걸어갔다.",
         game = 0,
         video = {
@@ -71615,6 +72382,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s도 덜렁대는 면이 있구나.",
         game = 0,
         video = {
@@ -71708,6 +72476,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저쪽에 해적선이 있을까?",
         game = 0,
         video = {
@@ -71801,6 +72570,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "봐, 다들 저쪽으로 가고 있어. 우리도 가 보자!",
         game = 0,
         video = {
@@ -71894,6 +72664,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -71990,6 +72761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사람들을 따라서 간다",
         game = 0,
         video = {
@@ -72083,6 +72855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 작은 소리로 무언가를 말했지만, 나는 들을 수 없었다.",
         game = 0,
         video = {
@@ -72182,6 +72955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무서워하지 마",
         game = 0,
         video = {
@@ -72275,6 +73049,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네 말대로 할게.",
         game = 0,
         video = {
@@ -72371,6 +73146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -72464,6 +73240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 저 언니가 먹이 주는 것을 좀 도와달라고 해서...",
         game = 0,
         video = {
@@ -72557,6 +73334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무서워할 거 없어. 마유리, 네 마음의 소리를 들어 봐.",
         game = 0,
         video = {
@@ -72650,6 +73428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -72743,6 +73522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 무슨 물고기야? 색이 정말 예쁘네.",
         game = 0,
         video = {
@@ -72837,6 +73617,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "팔찌를 집는다",
         game = 0,
         video = {
@@ -72930,6 +73711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마음의... 소리?",
         game = 0,
         video = {
@@ -73023,6 +73805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 바퀴의 윤곽을 그린 후, 마유리는 칼로 열심히 그었다.",
         game = 0,
         video = {
@@ -73117,6 +73900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "흰동가리야.",
         game = 0,
         video = {
@@ -73210,6 +73994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 이것 좀 봐! 이 팔찌 정말 예쁘지 않아?",
         game = 0,
         video = {
@@ -73303,6 +74088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 나를 관측하는 일 외에도 분명히 다른 소리가 마음속에서 들리지 않아?",
         game = 0,
         video = {
@@ -73397,6 +74183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "묵묵히 내려놓는다",
         game = 0,
         video = {
@@ -73490,6 +74277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아냐, %s, 틀린 것 같아.",
         game = 0,
         video = {
@@ -73583,6 +74371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 팔찌를 집어 마유리에게 보여 주었다.",
         game = 0,
         video = {
@@ -73676,6 +74465,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... 내 마음속에는 아무 소리도 나지 않는걸.",
         game = 0,
         video = {
@@ -73769,6 +74559,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 이런 것들에 그다지 관심이 없는 듯했고, 나는 하는 수없이 가방을 내려 놓았다.",
         game = 0,
         video = {
@@ -73862,6 +74653,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜?",
         game = 0,
         video = {
@@ -73955,6 +74747,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 정말 예쁘네.",
         game = 0,
         video = {
@@ -74048,6 +74841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럴 리가 없어. 누구나 자신의 생각을 가지고 있는 법이야. 마유리, 넌 어떤 생각을 하고 있어?",
         game = 0,
         video = {
@@ -74141,6 +74935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그래? 베였어?",
         game = 0,
         video = {
@@ -74234,6 +75029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "흰색도 아닌데 어떻게 흰동가리야?",
         game = 0,
         video = {
@@ -74327,6 +75123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 진지하게 내 말에 대답했지만, 표정은 그다지 변화를 보이지 않았다...",
         game = 0,
         video = {
@@ -74420,6 +75217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내게는 그 어떤 과거도 없어. 유일하게 생각해낼 수 있는 건 오직 너뿐이야, %s.",
         game = 0,
         video = {
@@ -74513,6 +75311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 손가락을 내 앞에 펴고는 기대하는 눈빛으로 나를 바라봤다.",
         game = 0,
         video = {
@@ -74606,6 +75405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "풉, 그건 그냥 이름일 뿐이야.",
         game = 0,
         video = {
@@ -74699,6 +75499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 나 다쳤어.",
         game = 0,
         video = {
@@ -74792,6 +75593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다른 사람들은 몰라도 나는 결코 잊을 수 없다. 이 소녀는 오직 나를 위해서 나타났다는 사실을 말이다.\n그녀는 나에 대한 것을 제외하면, 아마 어떤 기억도 가지고 있지 않을 것이다...",
         game = 0,
         video = {
@@ -74886,6 +75688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그것도 그렇네",
         game = 0,
         video = {
@@ -74979,6 +75782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 옆에 있는 안내판을 가리켰다.",
         game = 0,
         video = {
@@ -75075,6 +75879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가방 안의 반창고를 찾는다",
         game = 0,
         video = {
@@ -75168,6 +75973,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...미안해! 조금 이해하기 어려울 수도 있겠구나.",
         game = 0,
         video = {
@@ -75261,6 +76067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "먼저 놀이기구부터 타 보자! 스릴을 느끼게 해줄게!",
         game = 0,
         video = {
@@ -75355,6 +76162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "보석을 보고 감탄한다",
         game = 0,
         video = {
@@ -75448,6 +76256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "신기하네...",
         game = 0,
         video = {
@@ -75541,6 +76350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 이해하도록 노력해 볼게.",
         game = 0,
         video = {
@@ -75634,6 +76444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래.",
         game = 0,
         video = {
@@ -75727,6 +76538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "보석은 고온에 아주 약하다고 들었어. 그래서 이 과정에 성공하면 가격도 훨씬 비싸지는 거야.",
         game = 0,
         video = {
@@ -75820,6 +76632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 호기심 가득한 눈으로 손가락에 붙은 반창고를 바라봤지만, 뻣뻣해서 멋대로 움직일 수 없었다.",
         game = 0,
         video = {
@@ -75913,6 +76726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 침묵했고, 마치 자신의 생각이라는 것을 찾기 위해 노력하는 것 같았다.",
         game = 0,
         video = {
@@ -76006,6 +76820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -76099,6 +76914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 역시 %s 네가 대단한 거구나! 방금 이렇게 성공했잖아.",
         game = 0,
         video = {
@@ -76192,6 +77008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 할게, 마유리는 물감을 봐줘.",
         game = 0,
         video = {
@@ -76285,6 +77102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 이렇게 하자! 이제부터 같이 이 세계에 대한 추억을 만들어 보자. 너도 자신만의 과거를 가질 수 있게 말이야!",
         game = 0,
         video = {
@@ -76379,6 +77197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -76472,6 +77291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하하, 나도 그저 운이 좋았을 뿐이야~",
         game = 0,
         video = {
@@ -76565,6 +77385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 그럼 부탁할게.",
         game = 0,
         video = {
@@ -76658,6 +77479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말... 그래도 될까? 나도 %s 너와의 추억을 가질 수 있는 거야?",
         game = 0,
         video = {
@@ -76751,6 +77573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "줄이 정말 기네...",
         game = 0,
         video = {
@@ -76844,6 +77667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럴 리가! 넌 정말 대단해. 뭐든 할 줄 아는 것 같아. 나도 널 보고 배워야겠어.",
         game = 0,
         video = {
@@ -76937,6 +77761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 노점 주인의 제안에 따라 진지하게 호박을 조각했다...",
         game = 0,
         video = {
@@ -77030,6 +77855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 얼마나 많은 추억이든 네게 만들어줄 테니까. 마유리의 세계에 겨우 날 관측하는 일 하나만 존재하게 놔둘 수는 없어!",
         game = 0,
         video = {
@@ -77123,6 +77949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러게, 끝이 안 보여...",
         game = 0,
         video = {
@@ -77216,6 +78043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "됐다, 성공!",
         game = 0,
         video = {
@@ -77309,6 +78137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 오늘 주제와 잘 어울리지?",
         game = 0,
         video = {
@@ -77402,6 +78231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만...",
         game = 0,
         video = {
@@ -77495,6 +78325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "꼭 이걸 타야 하는 거야?",
         game = 0,
         video = {
@@ -77588,6 +78419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 이걸 가지고 행진에 참가하자!",
         game = 0,
         video = {
@@ -77681,6 +78513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리와 함께 가면을 쓰고 호박을 안은 채 어두운 밤의 놀이공원을 걸었다.",
         game = 0,
         video = {
@@ -77774,6 +78607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "망설일 거 없어~ 가자, 그럼 간단히 거리 구경부터 시작해 볼까!",
         game = 0,
         video = {
@@ -77867,6 +78701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 놀이공원에서 아주 유명한 자이로드롭이거든!",
         game = 0,
         video = {
@@ -77960,6 +78795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "미안해, %s, 시간이 너무 늦었네. 내가 정신없이 노느라 %s 너와 다른 것들을 하지 못했어...",
         game = 0,
         video = {
@@ -78053,6 +78889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 다음에 또 오자!",
         game = 0,
         video = {
@@ -78146,6 +78983,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "주저하는 마유리의 손을 잡고, 나는 걸음을 재촉했다.",
         game = 0,
         video = {
@@ -78239,6 +79077,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기서 뛰어 내리는 거야? %s... 무슨 고민이라도 있어?",
         game = 0,
         video = {
@@ -78332,6 +79171,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "돌아갈까?",
         game = 0,
         video = {
@@ -78426,6 +79266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -78519,6 +79360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -78612,6 +79454,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아냐... 그냥 놀이기구일 뿐이야. 먼저 저 높은 곳까지 올라갔다가, 갑자기 수직으로 떨어지는 거지.",
         game = 0,
         video = {
@@ -78705,6 +79548,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -78798,6 +79642,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -78892,6 +79737,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -78985,6 +79831,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알겠어. %s 네가 타고 싶다면, 나도 해줄 수 있어.",
         game = 0,
         video = {
@@ -79078,6 +79925,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "최고야~",
         game = 0,
         video = {
@@ -79172,6 +80020,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맨 뒤",
         game = 0,
         video = {
@@ -79265,6 +80114,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리를 데리고 액세서리샵으로 향했고, 이곳이라면 아마 여자애들은 모두 좋아할 것이다.",
         game = 0,
         video = {
@@ -79358,6 +80208,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -79451,6 +80302,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 대단해! 이건 좀비 테마 호박인 거야?",
         game = 0,
         video = {
@@ -79544,6 +80396,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사람이 많았기 때문에, 나는 마유리를 데리고 꼬마열차의 맨 뒤에 앉았다.",
         game = 0,
         video = {
@@ -79637,6 +80490,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어서 오세요. 다양한 액세서리가 있으니 한번 둘러보세요~",
         game = 0,
         video = {
@@ -79730,6 +80584,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 영장을 현현시킨 다음에 널 데리고 하늘로 올라갔다가 놓아 주면...",
         game = 0,
         video = {
@@ -79824,6 +80679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대화 주제를 찾는다",
         game = 0,
         video = {
@@ -79917,6 +80773,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "움직인다~",
         game = 0,
         video = {
@@ -80010,6 +80867,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 여기야~",
         game = 0,
         video = {
@@ -80103,6 +80961,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기, 기다려! 그럴 필요는 없을 것 같아.",
         game = 0,
         video = {
@@ -80196,6 +81055,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "얼른 아래를 좀 봐, 정말 예뻐!",
         game = 0,
         video = {
@@ -80289,6 +81149,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 호기심 가득한 눈빛으로 주변을 둘러봤다.",
         game = 0,
         video = {
@@ -80382,6 +81243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 여긴...?",
         game = 0,
         video = {
@@ -80475,6 +81337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그래? 내가 %s 널 잡아줄 거야.",
         game = 0,
         video = {
@@ -80568,6 +81431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말?",
         game = 0,
         video = {
@@ -80661,6 +81525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 저건 뭐야?",
         game = 0,
         video = {
@@ -80754,6 +81619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여긴 인간 세계의 액세서리샵이라는 곳이야. 여자애들은 다들 여기서 물건을 사는 걸 좋아해.",
         game = 0,
         video = {
@@ -80847,6 +81713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아... 우리 다른 거 타자!",
         game = 0,
         video = {
@@ -80940,6 +81807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 곧 우리가 대관람차의 가장 높은 곳을 지날 거야!",
         game = 0,
         video = {
@@ -81033,6 +81901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "회전목마야, 아주 로맨틱한 기구지.",
         game = 0,
         video = {
@@ -81126,6 +81995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 신기하다는 듯이 주변을 둘러봤지만, 특별히 무언가에 흥미를 보이거나 하는 반응은 없는 듯했다.",
         game = 0,
         video = {
@@ -81220,6 +82090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "순간 마유리가 정령이라는 사실을 잊어버릴 뻔했다... 이곳은 사람이 잔뜩 있는 놀이공원이니, 여기서 모습을 들키기라도 한다면 큰일일 것이다...",
         game = 0,
         video = {
@@ -81313,6 +82184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마치 내 기분에 동조된 것처럼, 마유리도 창가에 붙어 바깥의 경치를 감상하기 시작했다.",
         game = 0,
         video = {
@@ -81406,6 +82278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저건?",
         game = 0,
         video = {
@@ -81499,6 +82372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그냥 평범한 반창고일 뿐이야.",
         game = 0,
         video = {
@@ -81592,6 +82466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 괜찮아?",
         game = 0,
         video = {
@@ -81685,6 +82560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 높네.",
         game = 0,
         video = {
@@ -81778,6 +82654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저건 유령의 집이야.",
         game = 0,
         video = {
@@ -81871,6 +82748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이렇게 붙이면 될 거야.",
         game = 0,
         video = {
@@ -81964,6 +82842,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 우리 아니면 해적선을 보러 가자!",
         game = 0,
         video = {
@@ -82057,6 +82936,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러게...",
         game = 0,
         video = {
@@ -82150,6 +83030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안에 유령이 있어?",
         game = 0,
         video = {
@@ -82243,6 +83124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에에? 더 가까이 안 와도 괜찮아... 알겠어.",
         game = 0,
         video = {
@@ -82337,6 +83219,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 네 말대로 할게. 하지만 '자이로드롭'을 타고 싶어지면 언제든지 말해 줘.",
         game = 0,
         video = {
@@ -82430,6 +83313,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 뭐 보고 있어?",
         game = 0,
         video = {
@@ -82524,6 +83408,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "물론 없지. 직원들이 분장하는 거야. 하지만 그래도 무섭긴 해.",
         game = 0,
         video = {
@@ -82617,6 +83502,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그녀의 손은... 조금 붉게 부어오른 곳이 있었지만, 크게 다친 곳은 없었다.",
         game = 0,
         video = {
@@ -82710,6 +83596,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에... 알겠어. 얼른 해적선으로 가자...",
         game = 0,
         video = {
@@ -82803,6 +83690,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 다행이네... 에?",
         game = 0,
         video = {
@@ -82896,6 +83784,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 그게...",
         game = 0,
         video = {
@@ -82989,6 +83878,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니...",
         game = 0,
         video = {
@@ -83082,6 +83972,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리를 데리고 놀이공원의 안쪽으로 들어갔다.",
         game = 0,
         video = {
@@ -83175,6 +84066,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 할게, 마유리는 물감을 봐줘.",
         game = 0,
         video = {
@@ -83268,6 +84160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저건 롤러코스터야, 날아갈 것 같은 짜릿한 기분을 느끼게 해 줘. 옆에 있는 자이로드롭도 마찬가지고.",
         game = 0,
         video = {
@@ -83364,6 +84257,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 할게",
         game = 0,
         video = {
@@ -83457,6 +84351,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -83550,6 +84445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에...",
         game = 0,
         video = {
@@ -83643,6 +84539,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -83739,6 +84636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -83835,6 +84733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -83928,6 +84827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그것도 그래. 그럼 같이 가 보자!",
         game = 0,
         video = {
@@ -84022,6 +84922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -84115,6 +85016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s! 이거 봐!",
         game = 0,
         video = {
@@ -84208,6 +85110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "길을 잃은 거야?",
         game = 0,
         video = {
@@ -84301,6 +85204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 생각났다. 놀이공원에서 할로윈 행사를 하는 중일 거야. 한번 가서 볼까?",
         game = 0,
         video = {
@@ -84397,6 +85301,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -84490,6 +85395,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이기구는 언제든지 탈 수 있어~",
         game = 0,
         video = {
@@ -84583,6 +85489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응... 지도를 챙기는 걸 깜빡했네...",
         game = 0,
         video = {
@@ -84676,6 +85583,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "같이 먹이를 주자!",
         game = 0,
         video = {
@@ -84769,6 +85677,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇게 우리는 꼬마열차를 타고 놀이공원을 한 바퀴 돌았고...",
         game = 0,
         video = {
@@ -84862,6 +85771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에...",
         game = 0,
         video = {
@@ -84956,6 +85866,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이공원이 이렇게 넓을 줄은 몰랐다...",
         game = 0,
         video = {
@@ -85050,6 +85961,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 그러면 내가 정말로 존재한다는 게 느껴지거든.",
         game = 0,
         video = {
@@ -85143,6 +86055,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 어디부터 가 볼까?",
         game = 0,
         video = {
@@ -85236,6 +86149,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "심장이 뛰는 게 느껴져?",
         game = 0,
         video = {
@@ -85329,6 +86243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 심장을 뛰게 하는 존재.",
         game = 0,
         video = {
@@ -85422,6 +86337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어떤... 존재?",
         game = 0,
         video = {
@@ -85515,6 +86431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "선택하기 어려운 것 같아.",
         game = 0,
         video = {
@@ -85608,6 +86525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 너도 내게 그런 존재야.",
         game = 0,
         video = {
@@ -85701,6 +86619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 두 손을 가슴 앞에 모았다.",
         game = 0,
         video = {
@@ -85794,6 +86713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말인가요?",
         game = 0,
         video = {
@@ -85887,6 +86807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하, 그럼 먼저 기념품을 받으러 가자!",
         game = 0,
         video = {
@@ -85980,6 +86901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "바, 방금 보석 공부를 했다는 건 정말이야! 못 믿겠으면 점원분한테 시험해 보라고 해도 좋아!",
         game = 0,
         video = {
@@ -86073,6 +86995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에...",
         game = 0,
         video = {
@@ -86166,6 +87089,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사파이어의 빛깔이 마유리와 정말 잘 어울리는 것 같아!",
         game = 0,
         video = {
@@ -86259,6 +87183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기념품이 들어 있는 바구니를 든 직원이 꼬마열차 옆에서 기다리고 있었다.",
         game = 0,
         video = {
@@ -86352,6 +87277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 침묵하며 생각에 잠겼고, 마치 고민하고 있는 듯했다.",
         game = 0,
         video = {
@@ -86447,6 +87373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에...",
         game = 0,
         video = {
@@ -86540,6 +87467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여우처럼 신비롭고 영민하니까?",
         game = 0,
         video = {
@@ -86633,6 +87561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 나 대신 골라 주지 않을래?",
         game = 0,
         video = {
@@ -86728,6 +87657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜?",
         game = 0,
         video = {
@@ -86821,6 +87751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 근처에 앉았다.",
         game = 0,
         video = {
@@ -86914,6 +87845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "멀지 않은 곳에 조련사가 잠수복을 입고 물속에서 물고기들과 함께 움직이고 있었다.",
         game = 0,
         video = {
@@ -87007,6 +87939,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나와 마유리가 놀이공원의 중앙으로 돌아왔을 땐, 날이 완전히 저문 뒤였다.",
         game = 0,
         video = {
@@ -87100,6 +88033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 할로윈은 전통 기념일도 아니잖아.",
         game = 0,
         video = {
@@ -87193,6 +88127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이제 할로윈에 잘 어울릴 것 같아.",
         game = 0,
         video = {
@@ -87286,6 +88221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우와—— 호박등이 모두 켜졌어——",
         game = 0,
         video = {
@@ -87379,6 +88315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 저기 좀 봐! 조명이 전부 켜졌어!",
         game = 0,
         video = {
@@ -87472,6 +88409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -87565,6 +88503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하, 마유리, 가면 얘기야?",
         game = 0,
         video = {
@@ -87658,6 +88597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마녀, 유령, 박쥐, 부엉이!",
         game = 0,
         video = {
@@ -87752,6 +88692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "호박 가면을 고른다",
         game = 0,
         video = {
@@ -87845,6 +88786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "날은 금세 어두워졌다.",
         game = 0,
         video = {
@@ -87939,6 +88881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -88032,6 +88975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -88125,6 +89069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이제 할로윈에 잘 어울릴 것 같아.",
         game = 0,
         video = {
@@ -88218,6 +89163,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오늘 마침 행사도 있으니까, 우리도 좋은 자리를 잡자!",
         game = 0,
         video = {
@@ -88312,6 +89258,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "낮의 놀이공원과는 다른 느낌이네.",
         game = 0,
         video = {
@@ -88405,6 +89352,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 어쩌면... 안 될지도 몰라...",
         game = 0,
         video = {
@@ -88498,6 +89446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 호박은...",
         game = 0,
         video = {
@@ -88592,6 +89541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저녁의 이벤트를 기다린다",
         game = 0,
         video = {
@@ -88685,6 +89635,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "낮의 놀이공원은 어떤 느낌인데?",
         game = 0,
         video = {
@@ -88778,6 +89729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 아직 놀이기구를 못 탔는걸...",
         game = 0,
         video = {
@@ -88871,6 +89823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 먼 곳의 노점을 바라봤다.",
         game = 0,
         video = {
@@ -88964,6 +89917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리가 가리킨 방향을 바라보았고, 놀이공원 중앙에는 거대한 호박등 장식이 있었다.",
         game = 0,
         video = {
@@ -89057,6 +90011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 다음에는 마유리랑 낮에 와서 놀게!",
         game = 0,
         video = {
@@ -89150,6 +90105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "돌고래들은 호기심 가득한 눈으로 마유리가 손에 들고 있는 먹이를 바라봤다...",
         game = 0,
         video = {
@@ -89243,6 +90199,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 호박 조각을 해보고 싶어?",
         game = 0,
         video = {
@@ -89342,6 +90299,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오늘 날씨가 참 좋네",
         game = 0,
         video = {
@@ -89435,6 +90393,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그나저나 왜 여기 있었어?",
         game = 0,
         video = {
@@ -89528,6 +90487,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 돌고래도 마유리가 좋은가 봐!",
         game = 0,
         video = {
@@ -89621,6 +90581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "직접 만드는 게 조금 더 의미가 있으니까.",
         game = 0,
         video = {
@@ -89714,6 +90675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그나저나, 오늘 날씨가 참 좋네~",
         game = 0,
         video = {
@@ -89807,6 +90769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우와...",
         game = 0,
         video = {
@@ -89900,6 +90863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "수영장 안에 있던 돌고래 한 마리가 뛰어올라 가볍게 마유리의 손바닥에 코를 대고 내려갔다.",
         game = 0,
         video = {
@@ -89994,6 +90958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 자기 이야기는 안 하는구나",
         game = 0,
         video = {
@@ -90087,6 +91052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 조용히 햇살을 느끼며 고개를 끄덕였다.",
         game = 0,
         video = {
@@ -90180,6 +91146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그리고 그 순간——",
         game = 0,
         video = {
@@ -90273,6 +91240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아직 공연이 시작되지 않은 돌고래 공연장에서 마유리는 수영장 근처에 앉아 손을 뻗고 있었다.",
         game = 0,
         video = {
@@ -90366,6 +91334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왠지 마유리는 한 번도 자기 이야기는 안 한 것 같아...",
         game = 0,
         video = {
@@ -90459,6 +91428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "날씨... 말이야? 그러고 보니 햇볕이 참 따스한 것 같아.",
         game = 0,
         video = {
@@ -90552,6 +91522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 착하네~",
         game = 0,
         video = {
@@ -90645,6 +91616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -90738,6 +91710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "딱히 할 말이 없거든.",
         game = 0,
         video = {
@@ -90831,6 +91804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜냐하면 평소에는 %s밖에 보고 있지 않으니까, 주변을 돌아볼 시간이 없었어.",
         game = 0,
         video = {
@@ -90924,6 +91898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 급히 터널을 나왔을 때...",
         game = 0,
         video = {
@@ -91017,6 +91992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리—— 에?",
         game = 0,
         video = {
@@ -91110,6 +92086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래서 정말 그렇게 옆에 서서 냉담하게 날 관찰하기만 할 거야?",
         game = 0,
         video = {
@@ -91203,6 +92180,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "날씨도 좋은데 우리 공원에 가서 좀 앉을래?",
         game = 0,
         video = {
@@ -91296,6 +92274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -91389,6 +92368,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래, 그게 바로 관측자의 사명이니까.",
         game = 0,
         video = {
@@ -91481,6 +92461,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음...모르겠어.",
         game = 0,
         video = {
@@ -91574,6 +92555,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응.",
         game = 0,
         video = {
@@ -91667,6 +92649,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "손안에는 차가운 느낌이 들었고, 나는 어쩔 줄 몰라 했다.",
         game = 0,
         video = {
@@ -91760,6 +92743,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "들고 있는 그 막대사탕... 설마 코토리 거야?",
         game = 0,
         video = {
@@ -91853,6 +92837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 마유리가 혼자서 외롭게 서 있게 만들고 싶지 않아.",
         game = 0,
         video = {
@@ -91946,6 +92931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -92042,6 +93028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시간이 느리게 가는 것 같아",
         game = 0,
         video = {
@@ -92135,6 +93122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 난 태어날 때부터 %s 널 사랑했어!",
         game = 0,
         video = {
@@ -92228,6 +93216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어째서? 옆에 서 있는 것도 나쁠 건 없잖아. 적어도 너를 계속 볼 수 있는걸.",
         game = 0,
         video = {
@@ -92322,6 +93311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -92415,6 +93405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "전설에 따르면 회전목마 위에서는 시간이 천천히 가고, 세계의 시간은 빠르게 간대~",
         game = 0,
         video = {
@@ -92509,6 +93500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 목걸이에 대해 묻는다",
         game = 0,
         video = {
@@ -92602,6 +93594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건... 그러니까... 만약 누군가 나와 놀고 싶어 하면서도, 자기 자신이 중요하지 않다고 생각하고, 내게 다가오지도 못하고 있다면, 난 반드시 먼저 손을 내밀 거야!",
         game = 0,
         video = {
@@ -92695,6 +93688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리와 공원에 도착했고, 날씨가 좋아서인지 사람들이 조금 있었다.",
         game = 0,
         video = {
@@ -92788,6 +93782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 그런 거야?",
         game = 0,
         video = {
@@ -92881,6 +93876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러면 나는 사라지게 될 거야.",
         game = 0,
         video = {
@@ -92974,6 +93970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...넌 정말 바보구나!",
         game = 0,
         video = {
@@ -93067,6 +94064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "앞으로 마유리와 만날 때마다 먼저 날씨 이야기를 하면 되겠다~",
         game = 0,
         video = {
@@ -93160,6 +94158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 그런 전설이 있어. 마유리는 그런 느낌이 들어?",
         game = 0,
         video = {
@@ -93253,6 +94252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇게 하면 %s 너와 오랫동안 함께할 수 있으니까.",
         game = 0,
         video = {
@@ -93346,6 +94346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까, 바보가 지금 같이 놀자고 부탁하는 거야. 들어주겠어?",
         game = 0,
         video = {
@@ -93439,6 +94440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "날씨 이야기? 그건 왜?",
         game = 0,
         video = {
@@ -93533,6 +94535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리가 이 유치한 전설을 비웃을 거라고 내가 생각한 순간——",
         game = 0,
         video = {
@@ -93627,6 +94630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 같이 골라줄게",
         game = 0,
         video = {
@@ -93720,6 +94724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음... %s의 부탁이라면, 들어줄게.",
         game = 0,
         video = {
@@ -93813,6 +94818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 난 계속, 계속해서 회전목마에 타고 싶어...",
         game = 0,
         video = {
@@ -93906,6 +94912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 두 손을 모아 기대하는 눈빛으로 나를 바라봤다.",
         game = 0,
         video = {
@@ -93999,6 +95006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 내가 같이 골라줄게. 여기 예쁜 액세서리가 잔뜩 있어!",
         game = 0,
         video = {
@@ -94092,6 +95100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "거봐, 마유리도 같이 놀고 싶었으면서, 자기 입장에서는 조금도 생각하지 않은 거잖아.",
         game = 0,
         video = {
@@ -94185,6 +95194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까... 한 번도 자신에게 휴가를 준 적이 없다는 거지?",
         game = 0,
         video = {
@@ -94279,6 +95289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "빨간 보석",
         game = 0,
         video = {
@@ -94372,6 +95383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 꺼내며 나는 마유리을 손을 잡고 데려가려 했지만, 그녀는 나를 피했다.",
         game = 0,
         video = {
@@ -94465,6 +95477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자기 입장...? 하지만 과거가 없는 사람이 어떻게 입장이 있을까?",
         game = 0,
         video = {
@@ -94561,6 +95574,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리는 아직 함께할 시간이 많아",
         game = 0,
         video = {
@@ -94654,6 +95668,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 빨간색의 보석을 집어 마유리의 손에 놓았다.",
         game = 0,
         video = {
@@ -94747,6 +95762,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "미안해, %s, 일부러 그런 건 아냐.",
         game = 0,
         video = {
@@ -94840,6 +95856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까 내 말은 가끔이라도 자기 생각이 있어야 한다는 거야!",
         game = 0,
         video = {
@@ -94933,6 +95950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리의 눈을 바라봤다.",
         game = 0,
         video = {
@@ -95026,6 +96044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 예쁘네~",
         game = 0,
         video = {
@@ -95119,6 +96138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괘, 괜찮아, 내가 너무 경솔했어... 참, 마유리는 보석 좋아해?",
         game = 0,
         video = {
@@ -95212,6 +96232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 그저 너를 위해 왔을 뿐이야... 그러니까, 내 생각은 중요치 않아.",
         game = 0,
         video = {
@@ -95305,6 +96326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... 고마워!",
         game = 0,
         video = {
@@ -95398,6 +96420,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇지? 이래 봬도 보석에 대해 공부를 좀 했거든~",
         game = 0,
         video = {
@@ -95491,6 +96514,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...보석?",
         game = 0,
         video = {
@@ -95584,6 +96608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만... %s 넌 어째서 나한테 그렇게 신경을 쓰는 거야?",
         game = 0,
         video = {
@@ -95679,6 +96704,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "수족관",
         game = 0,
         video = {
@@ -95772,6 +96798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "집안일도 하고, 지붕도 고치고, 수업 시간에 졸기도 하고, 보석까지 공부한다니, %s 넌 정말 취미가 많구나...",
         game = 0,
         video = {
@@ -95865,6 +96892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "인간 세계의 보석은 아주 예쁘거든. 색깔도 여러 종류가 있어! 이리 와서 봐봐~",
         game = 0,
         video = {
@@ -95958,6 +96986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리... 네가 웃는 모습은 꼭 천사 같아...",
         game = 0,
         video = {
@@ -96051,6 +97080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "수족? 하인들이 있는 곳이야?",
         game = 0,
         video = {
@@ -96144,6 +97174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어이, 그런 것까지 하나하나 말하지 말아줘!",
         game = 0,
         video = {
@@ -96237,6 +97268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응.",
         game = 0,
         video = {
@@ -96333,6 +97365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "호박 머리를 고른다",
         game = 0,
         video = {
@@ -96426,6 +97459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니... 수족관은 바다에 사는 생물들이 있는 곳이야!",
         game = 0,
         video = {
@@ -96519,6 +97553,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어머~ 사이가 정말 좋아 보이시네요~",
         game = 0,
         video = {
@@ -96612,6 +97647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 진열대로 향했고, 다양한 색깔의 보석들이 보였다. 어떤 게 마유리에게 잘 어울릴까?",
         game = 0,
         video = {
@@ -96706,6 +97742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이공원의 테마와 잘 어울리는 것 같아!",
         game = 0,
         video = {
@@ -96799,6 +97836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "바다 생물이 놀이공원에 나타날 수 있는 거야?",
         game = 0,
         video = {
@@ -96893,6 +97931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "서로를 이해하고 믿어야 해.",
         game = 0,
         video = {
@@ -96986,6 +98025,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -97078,6 +98118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어째서 놀이공원에 이렇게 많은... 호박이 있는 거야?",
         game = 0,
         video = {
@@ -97171,6 +98212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "당연하지! 가서 한번 보자!",
         game = 0,
         video = {
@@ -97264,6 +98306,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 %s에 대해 잘 모르는걸...",
         game = 0,
         video = {
@@ -97357,6 +98400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 조심해, 손을 천천히 뻗어야 해...",
         game = 0,
         video = {
@@ -97450,6 +98494,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜냐하면 지금은 할로윈 이벤트 기간이거든~",
         game = 0,
         video = {
@@ -97543,6 +98588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -97636,6 +98682,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 마유리에 대해 아직 모르는 게 많아. 그러니까 우린 서로를 더 알아야만 해.",
         game = 0,
         video = {
@@ -97729,6 +98776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하, 그렇지? 게다가 이뿐만이 아니라고~",
         game = 0,
         video = {
@@ -97822,6 +98870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "재미있는 거야?",
         game = 0,
         video = {
@@ -97918,6 +98967,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -98011,6 +99061,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 나는 %s 너와 무슨 사이야?",
         game = 0,
         video = {
@@ -98104,6 +99155,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 저렇게 할 수 있을까?",
         game = 0,
         video = {
@@ -98197,6 +99249,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음, 아마 코스튬 행진 같은 거겠지. 이제 곧 시작할 거야. 아니면 우리도 가서 참가해 보자! 할로윈 기간의 놀이공원은 정말 재미있대!",
         game = 0,
         video = {
@@ -98290,6 +99343,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마치 바닷속에 온 것만 같아.",
         game = 0,
         video = {
@@ -98383,6 +99437,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "친구야.",
         game = 0,
         video = {
@@ -98476,6 +99531,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리가 멋대로 움직일까 걱정이 돼서 그녀를 데리고 떠났다.",
         game = 0,
         video = {
@@ -98569,6 +99625,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -98662,6 +99719,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여긴 바다를 구경할 수 있는 터널이야~",
         game = 0,
         video = {
@@ -98755,6 +99813,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "친구?",
         game = 0,
         video = {
@@ -98848,6 +99907,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 정말 대단하네, 나도 널 보고 배워야겠어.",
         game = 0,
         video = {
@@ -98941,6 +100001,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -99034,6 +100095,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "위에는 수많은 물고기들이 헤엄치고 있었고, 햇살이 수면에 굴절되어 내려왔다.",
         game = 0,
         video = {
@@ -99127,6 +100189,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 나는 마유리와 사이 좋은 친구가 되고 싶어.",
         game = 0,
         video = {
@@ -99220,6 +100283,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "호기심에 찬 마유리는 유리 안의 생물들을 바라봤고, 그 눈빛은 동경으로 가득했다.",
         game = 0,
         video = {
@@ -99314,6 +100378,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그리고 그 앞에...",
         game = 0,
         video = {
@@ -99407,6 +100472,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 따뜻해 보이네~ 앗, 거북이?",
         game = 0,
         video = {
@@ -99500,6 +100566,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어떻게 해야 그렇게 될 수 있을까?",
         game = 0,
         video = {
@@ -99593,6 +100660,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저건 해파리야!",
         game = 0,
         video = {
@@ -99686,6 +100754,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그...그럼 저 투명한 건 뭐야?",
         game = 0,
         video = {
@@ -99779,6 +100848,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 바다거북이야.",
         game = 0,
         video = {
@@ -99872,6 +100942,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오랜 시간 서로와 지내야만 해. 그러니까 마유리도 앞으로는 멀리서 날 지켜보지만 말고 내게 다가와 줘!",
         game = 0,
         video = {
@@ -99966,6 +101037,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맨 앞",
         game = 0,
         video = {
@@ -100059,6 +101131,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말이네...",
         game = 0,
         video = {
@@ -100152,6 +101225,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 여기 가시가 잔뜩 있는 건 뭐야?",
         game = 0,
         video = {
@@ -100245,6 +101319,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까 다시 말해서, 좋은 친구는 서로를 이해하고 믿어야 되는 거네?",
         game = 0,
         video = {
@@ -100338,6 +101413,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맨 앞이 경치가 좋아, 그럼 맨 앞에 앉자.",
         game = 0,
         video = {
@@ -100431,6 +101507,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어떡하지, 나도 심장이 점점 빠르게 뛰는 것 같은데...",
         game = 0,
         video = {
@@ -100523,6 +101600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에... 그건 성게야.",
         game = 0,
         video = {
@@ -100616,6 +101694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -100709,6 +101788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "열차는 천천히 출발했고, 놀이공원의 놀이시설을 하나씩 지나쳤다.",
         game = 0,
         video = {
@@ -100802,6 +101882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 바라봤고, 손을 자신의 가슴 한 가운데 올렸다.",
         game = 0,
         video = {
@@ -100895,6 +101976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 저기 흐느적거리는 건...?",
         game = 0,
         video = {
@@ -100988,6 +102070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "연인이랑 별 차이가 없는 것 같은데...",
         game = 0,
         video = {
@@ -101081,6 +102164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -101175,6 +102259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "귀걸이를 보고 있었어",
         game = 0,
         video = {
@@ -101268,6 +102353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "해삼.",
         game = 0,
         video = {
@@ -101361,6 +102447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에, 그게... 그러니까... 차이가 없지는 않아.",
         game = 0,
         video = {
@@ -101455,6 +102542,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -101548,6 +102636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "귀걸이?",
         game = 0,
         video = {
@@ -101641,6 +102730,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "끈적끈적해 보이네...",
         game = 0,
         video = {
@@ -101734,6 +102824,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "되게 어려울 것 같아...",
         game = 0,
         video = {
@@ -101827,6 +102918,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "앗, %s, 저건 뭐야?",
         game = 0,
         video = {
@@ -101920,6 +103012,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 반짝거리고... 게다가 색이 계속 변하는 것 같아서...",
         game = 0,
         video = {
@@ -102013,6 +103106,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하하, 마유리는 전부 처음 보는 것들이지?",
         game = 0,
         video = {
@@ -102106,6 +103200,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "미안, 나도 뭐라 설명을 잘 못 하겠어...",
         game = 0,
         video = {
@@ -102199,6 +103294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "롤러코스터야.",
         game = 0,
         video = {
@@ -102292,6 +103388,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 귀걸이를 만져 보더니, 떼서 보았다.",
         game = 0,
         video = {
@@ -102385,6 +103482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 이런 건 한 번도 본 적이 없어!",
         game = 0,
         video = {
@@ -102478,6 +103576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 내가 노력할게.",
         game = 0,
         video = {
@@ -102571,6 +103670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저건?",
         game = 0,
         video = {
@@ -102664,6 +103764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 몰랐는데, 색이 변했어?",
         game = 0,
         video = {
@@ -102757,6 +103858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "터널은 매우 길었지만, 마유리는 말랑말랑한 해삼에 눈길을 빼앗겨서 조금도 움직일 생각이 없어 보였다.",
         game = 0,
         video = {
@@ -102851,6 +103953,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -102944,6 +104047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유령의 집이야. 그 옆에는 수족관이고, 뒤에는 자이로드롭, 그리고 그 뒤에는...",
         game = 0,
         video = {
@@ -103037,6 +104141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "손안의 귀걸이는 진주 같이 보였지만, 무슨 재질로 만든 것인지 알 수 없었다.",
         game = 0,
         video = {
@@ -103130,6 +104235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왠지 모르겠지만...",
         game = 0,
         video = {
@@ -103223,6 +104329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 %s 곁의 소중한 친구가 되기 위해 노력할 거야.",
         game = 0,
         video = {
@@ -103316,6 +104423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 호기심 가득한 눈빛으로 주변을 둘러봤다.",
         game = 0,
         video = {
@@ -103409,6 +104517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "색이... 마치... 하늘에 있는 희미한 영파 구체 같아...",
         game = 0,
         video = {
@@ -103502,6 +104611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -103595,6 +104705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 그럼 놀이기구를 타러 가볼까?",
         game = 0,
         video = {
@@ -103688,6 +104799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "앗! 저기 좀 봐! 정말 높은 건물이야! 저건...",
         game = 0,
         video = {
@@ -103781,6 +104893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뭐라고?",
         game = 0,
         video = {
@@ -103874,6 +104987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니야.",
         game = 0,
         video = {
@@ -103967,6 +105081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 내게 빛나는 미소를 지어 주었다.\n비록 잠시 문제가 무엇이었는지 잊고 말았지만...",
         game = 0,
         video = {
@@ -104060,6 +105175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저건 대관람차야. 텐구 시 전체의 풍경을 볼 수 있어.",
         game = 0,
         video = {
@@ -104153,6 +105269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 아니야. 색이 변했다는 건 내 착각일지도 몰라...",
         game = 0,
         video = {
@@ -104246,6 +105363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 아마 상어 때문에 놀라서 그런 거겠지.",
         game = 0,
         video = {
@@ -104339,6 +105457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이 안에 들어오면 행복에 둘러싸인다는... 그런 내용이었던 것 같아.",
         game = 0,
         video = {
@@ -104432,6 +105551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안에 탈 수 있는 거야? 정말 좋네...",
         game = 0,
         video = {
@@ -104525,6 +105645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 네가 마음에 든다면 네게 줄게.",
         game = 0,
         video = {
@@ -104618,6 +105739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가슴이 빠르게 뛰는 것 같아...",
         game = 0,
         video = {
@@ -104711,6 +105833,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 인터넷에 돌아다니는 대관람차의 전설을 떠올렸지만, 사실은 이도 저도 아닌 내용이었다.",
         game = 0,
         video = {
@@ -104804,6 +105927,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 대관람차 뒤엔 롤러코스터, 그 뒤에는...",
         game = 0,
         video = {
@@ -104897,6 +106021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 그럴 순 없지!",
         game = 0,
         video = {
@@ -104990,6 +106115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리가 수족관을 나섰을 땐 이미 밤이 된 후였다.",
         game = 0,
         video = {
@@ -105083,6 +106209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리도 지금 같은 공간에 있으니까, 나와 %s에게 행복이 찾아올까?",
         game = 0,
         video = {
@@ -105176,6 +106303,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 두 손을 모으고 대관람차에만 눈길을 보냈고, 다른 놀이기구는 전혀 관심이 없는 듯했다.",
         game = 0,
         video = {
@@ -105269,6 +106397,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도 내가 생각에 잠긴 것을 보고 마유리가 오해를 한 것 같았다.",
         game = 0,
         video = {
@@ -105363,6 +106492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -105456,6 +106586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇다고 할 수 있겠지...",
         game = 0,
         video = {
@@ -105549,6 +106680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 대관람차 타고 싶어?",
         game = 0,
         video = {
@@ -105642,6 +106774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 기념으로 주는 거라고 생각해.",
         game = 0,
         video = {
@@ -105735,6 +106868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -105828,6 +106962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나. 행복이란 이런 느낌이었구나.",
         game = 0,
         video = {
@@ -105921,6 +107056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 그래도 돼?",
         game = 0,
         video = {
@@ -106014,6 +107150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기념?",
         game = 0,
         video = {
@@ -106107,6 +107244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아...",
         game = 0,
         video = {
@@ -106200,6 +107338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 가슴에 손을 얹었고, 볼이 조금 붉어진 것 같았다.",
         game = 0,
         video = {
@@ -106293,6 +107432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가고 싶다면 내가 데리고 가줄게!",
         game = 0,
         video = {
@@ -106386,6 +107526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 사라지고 나면 적어도 %s 곁에 무언가가 남아 있는 게 좋잖아.",
         game = 0,
         video = {
@@ -106480,6 +107621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 저기... 미안해.",
         game = 0,
         video = {
@@ -106573,6 +107715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가슴이 빠르게 뛰는 느낌이 바로 행복인 거야? ...역시 대관람차는 신기하네.",
         game = 0,
         video = {
@@ -106666,6 +107809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 정신을 차렸을 땐 마유리는 이미 내 품에 거의 감싸진 후였다...",
         game = 0,
         video = {
@@ -106759,6 +107903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...!",
         game = 0,
         video = {
@@ -106852,6 +107997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "역시 보류한 프로그램답네...",
         game = 0,
         video = {
@@ -106945,6 +108091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가슴이 뛰는 거구나...",
         game = 0,
         video = {
@@ -107039,6 +108186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 마유리에 대해 더 알고 싶어",
         game = 0,
         video = {
@@ -107132,6 +108280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 빠르네~ 벌써 먹이를 다 먹었어.",
         game = 0,
         video = {
@@ -107225,6 +108374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 마유리, 왜 그래?",
         game = 0,
         video = {
@@ -107318,6 +108468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 말을 들은 나도 심장이 빠르게 뛰기 시작했다. 이상하다... 고소공포증도 없는데...",
         game = 0,
         video = {
@@ -107411,6 +108562,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건... 내가 마유리에 대해 더 알고 싶으니까!",
         game = 0,
         video = {
@@ -107504,6 +108656,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리가 말을 마치기도 전에 비둘기들이 하나둘씩 날아오기 시작했다.",
         game = 0,
         video = {
@@ -107603,6 +108756,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우와앗——",
         game = 0,
         video = {
@@ -107696,6 +108850,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그래? %s.",
         game = 0,
         video = {
@@ -107789,6 +108944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나를? 어째서?",
         game = 0,
         video = {
@@ -107882,6 +109038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마침 그 순간——",
         game = 0,
         video = {
@@ -107975,6 +109132,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사, 사람도 잡아 먹는 거야?",
         game = 0,
         video = {
@@ -108068,6 +109226,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -108161,6 +109320,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 지금 마유리에 대해 조금도 아는 게 없어. 그리고 어떻게 해야 널 기쁘게 해줄 수 있는지도 알지 못해.",
         game = 0,
         video = {
@@ -108254,6 +109414,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "조금 있으면 알게 될 거야. 상어는 크기도 크고 이빨도 날카로운 데다가, 인간을 습격했다는 말도 많아...",
         game = 0,
         video = {
@@ -108347,6 +109508,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건 안 돼.",
         game = 0,
         video = {
@@ -108440,6 +109602,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 계속 나를 보고 있어? 어디 이상한 거라도 있는 거야?",
         game = 0,
         video = {
@@ -108533,6 +109696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나한테 그렇게 많은 신경을 쓸 필요는 없어... 다른 정령들과 데이트를 더 많이 하는 게 좋아.",
         game = 0,
         video = {
@@ -108626,6 +109790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 그럼 앞으로도 '더욱 편한 관측'을 위해 데이트를 하면 되겠네!",
         game = 0,
         video = {
@@ -108719,6 +109884,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -108812,6 +109978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 이런, 나도 모르게 마유리를 계속 쳐다봤네... 이런 실례를...",
         game = 0,
         video = {
@@ -108906,6 +110073,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "싫어! 난 마유리에 대해 이해하고 싶을 뿐이야!",
         game = 0,
         video = {
@@ -108999,6 +110167,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "기념품 얘기가 나와서 하는 말인데, 그건 오히려 내가 마유리에게 줘야 하지 않을까?",
         game = 0,
         video = {
@@ -109092,6 +110261,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "손가락 걸고? 요시노처럼?",
         game = 0,
         video = {
@@ -109188,6 +110358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "앞으로도 재미있는 일이 잔뜩 있을 거야.",
         game = 0,
         video = {
@@ -109281,6 +110452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 난 그다지 이해할 만한 점도 없어. 내겐 과거도 없고 미래도 없는걸.",
         game = 0,
         video = {
@@ -109374,6 +110546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마침 그녀는 다른 물고기에게 시선을 빼앗겼다.",
         game = 0,
         video = {
@@ -109467,6 +110640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -109560,6 +110734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 고마워, %s.",
         game = 0,
         video = {
@@ -109653,6 +110828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그것도 그렇네...",
         game = 0,
         video = {
@@ -109746,6 +110922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뭐가 다른데? 가면 안 되는 거야?",
         game = 0,
         video = {
@@ -109840,6 +111017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에에? 하지만 안에는 상어가 있어!",
         game = 0,
         video = {
@@ -109933,6 +111111,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -110026,6 +111205,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 어때?",
         game = 0,
         video = {
@@ -110120,6 +111300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가방을 집는다",
         game = 0,
         video = {
@@ -110213,6 +111394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좋아, 이제 손을 뻗어.",
         game = 0,
         video = {
@@ -110309,6 +111491,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -110402,6 +111585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "흰여우? 음... 마유리한테 잘 어울릴 것 같긴 해.",
         game = 0,
         video = {
@@ -110495,6 +111679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 이것 좀 봐! 이 가방 정말 예쁘지 않아?",
         game = 0,
         video = {
@@ -110589,6 +111774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "머리를 쓰다듬어 달래준다",
         game = 0,
         video = {
@@ -110682,6 +111868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리가 수족관을 나섰을 땐 이미 밤이 된 후였다.",
         game = 0,
         video = {
@@ -110776,6 +111963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "과감하게 사버린다",
         game = 0,
         video = {
@@ -110869,6 +112057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 초록색 가방을 집어 마유리에게 보여 주었다.",
         game = 0,
         video = {
@@ -110962,6 +112151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "매번 그렇게 멀리 떨어져 있을 필요는 없어~ 네가 따라오고 싶다면 같이 가도 좋아.",
         game = 0,
         video = {
@@ -111055,6 +112245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어때? 예쁘지?",
         game = 0,
         video = {
@@ -111148,6 +112339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 미안해, 내가 너무 성급했네. 근데 이 가방은 어때?",
         game = 0,
         video = {
@@ -111241,6 +112433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 정말 예쁘네.",
         game = 0,
         video = {
@@ -111334,6 +112527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "시간 초과",
         game = 0,
         video = {
@@ -111427,6 +112621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "음, 미안해...",
         game = 0,
         video = {
@@ -111520,6 +112715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "모르겠어...",
         game = 0,
         video = {
@@ -111613,6 +112809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 진지하게 내 말에 대답했지만, 표정은 그다지 변화를 보이지 않았다...",
         game = 0,
         video = {
@@ -111706,6 +112903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "착각일까... 마유리의 눈시울이 약간 붉어진 것 같았고, 그녀는 내가 본 적이 없는 미소를 보여 주었다.",
         game = 0,
         video = {
@@ -111799,6 +112997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "갑자기 왜 미안한데?",
         game = 0,
         video = {
@@ -111892,6 +113091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 마친 마유리는 조용히 나를 바라봤다.",
         game = 0,
         video = {
@@ -111985,6 +113185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니면 한번 들어볼래?",
         game = 0,
         video = {
@@ -112078,6 +113279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어째서 마유리가 그런 말을 하는 지는 모르겠지만, 난 약속할 수 있어. 우리는 아직 함께할 시간이 많다는 걸.",
         game = 0,
         video = {
@@ -112171,6 +113373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 정신없이 물고기를 보느라 %s 너와 다른 것들을 하지 못했어...",
         game = 0,
         video = {
@@ -112264,6 +113467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 내가 대신 결정해 줄게, 사자!",
         game = 0,
         video = {
@@ -112357,6 +113561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괘, 괜찮아...",
         game = 0,
         video = {
@@ -112450,6 +113655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -112543,6 +113749,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 다음에 또 오자!",
         game = 0,
         video = {
@@ -112636,6 +113843,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 가방을 계산대에 가지고 가서 결제했다.",
         game = 0,
         video = {
@@ -112729,6 +113937,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 가방을 마유리의 손에 쥐여 주었고, 그녀는 어쩔 줄을 몰라했다.",
         game = 0,
         video = {
@@ -112825,6 +114034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "구름 속에 있는 것 같아",
         game = 0,
         video = {
@@ -112918,6 +114128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다음? 하지만 그럴 시간은 없을지도 몰라...",
         game = 0,
         video = {
@@ -113011,6 +114222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자, 마유리, 선물이야!",
         game = 0,
         video = {
@@ -113104,6 +114316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 이런 건 신사답지 않아.",
         game = 0,
         video = {
@@ -113198,6 +114411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어째서 물안개를 뿌리는 거야?",
         game = 0,
         video = {
@@ -113291,6 +114505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 내가 마유리의 시간에 맞출 테니까, 그럼 그렇게 약속한 거다!",
         game = 0,
         video = {
@@ -113384,6 +114599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 내가 사준 가방을 받고는 아무 말도 없이 액세서리샵을 나섰다.",
         game = 0,
         video = {
@@ -113480,6 +114696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오늘 내 시간은 전부 네 거야!",
         game = 0,
         video = {
@@ -113573,6 +114790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "증기 구름 속을 다니는 느낌을 주려는 거겠지!",
         game = 0,
         video = {
@@ -113666,6 +114884,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...응.",
         game = 0,
         video = {
@@ -113758,6 +114977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -113851,6 +115071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우린 오늘 데이트를 할 시간이 아주 많아~",
         game = 0,
         video = {
@@ -113944,6 +115165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "증기?",
         game = 0,
         video = {
@@ -114037,6 +115259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만... 난 시간이 부족해...",
         game = 0,
         video = {
@@ -114135,6 +115358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -114228,6 +115452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러게...",
         game = 0,
         video = {
@@ -114321,6 +115546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 회전목마의 유래랑 관계가 있는 건데, 예전에는 목마가 직접 돌아가지 못했거든. 그래서 사람이나 말이 직접 끌었어.",
         game = 0,
         video = {
@@ -114414,6 +115640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "회전목마 밖에서도 오랫동안 우린 함께 있을 수 있어.",
         game = 0,
         video = {
@@ -114507,6 +115734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 황급히 다가가 어떻게 된 일인지 물으려 했다.",
         game = 0,
         video = {
@@ -114600,6 +115828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 살짝 놀라더니, 어쩔 수 없다는 듯이 미소를 지었다.",
         game = 0,
         video = {
@@ -114693,6 +115922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 신기하네...",
         game = 0,
         video = {
@@ -114786,6 +116016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "계속?",
         game = 0,
         video = {
@@ -114879,6 +116110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 잠깐만! 왜 그래?",
         game = 0,
         video = {
@@ -114972,6 +116204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다른 놀이기구도 타러 가자! 분명히 시간이 빠르게 가는 것처럼 느껴질 거야!",
         game = 0,
         video = {
@@ -115065,6 +116298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그 후 증기 기관이 생기고 나서야 회전목마가 이렇게 움직일 수 있게 된 거야~ 그리고 낭만적인 놀이기구가 된 거지. 정말 누가 알았겠어!",
         game = 0,
         video = {
@@ -115162,6 +116396,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "함께 가자고 한다",
         game = 0,
         video = {
@@ -115255,6 +116490,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "......",
         game = 0,
         video = {
@@ -115348,6 +116584,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -115441,6 +116678,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대단해... 그러니까 증기가 있어서 이런 낭만이 생긴 거구나?",
         game = 0,
         video = {
@@ -115534,6 +116772,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 자신의 손에 들린 먹이가 반쯤 남은 것을 보며 어쩔 수 없다는 듯이 말했다.",
         game = 0,
         video = {
@@ -115627,6 +116866,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 말에 마유리는 아무런 반응도 보이지 않았고, 그녀는 눈썹을 찡그리고는 내게 말했다.",
         game = 0,
         video = {
@@ -115720,6 +116960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말? 그럼 네가 귀찮지는 않을까?",
         game = 0,
         video = {
@@ -115813,6 +117054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 마유리, 그 모습이 상상이 돼?",
         game = 0,
         video = {
@@ -115906,6 +117148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 귀걸이를 어루만지며 해맑은 미소를 지었다.",
         game = 0,
         video = {
@@ -115999,6 +117242,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "지금은 아직 불합격이야.",
         game = 0,
         video = {
@@ -116092,6 +117336,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건... 내가 마유리를 좋아하니까!",
         game = 0,
         video = {
@@ -116185,6 +117430,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "확실히... 구름 속을 지나는 것 같아.",
         game = 0,
         video = {
@@ -116278,6 +117524,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 쉴 필요가 없다고?",
         game = 0,
         video = {
@@ -116371,6 +117618,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에에? 뭐라고?",
         game = 0,
         video = {
@@ -116464,6 +117712,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇게 해서 느낄 필요 없어...",
         game = 0,
         video = {
@@ -116557,6 +117806,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 고개를 들었고, 회전목마의 위를 바라보자, 빛나는 목마가 정말로 우리를 구름 속으로 인도하는 것만 같았다.",
         game = 0,
         video = {
@@ -116650,6 +117900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 얼굴이 약간 붉어졌다.",
         game = 0,
         video = {
@@ -116743,6 +117994,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 뭐라 더 물어보기도 전에 마유리는 사라져 버렸다.",
         game = 0,
         video = {
@@ -116836,6 +118088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 마유리를 데리고 함께 가고 싶어",
         game = 0,
         video = {
@@ -116929,6 +118182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "여러 사랑 이야기에서 회전목마가 나오는 이유가 있었구나...",
         game = 0,
         video = {
@@ -117022,6 +118276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 기대되네.",
         game = 0,
         video = {
@@ -117116,6 +118371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "데이트를 한다고 꼭 커플은 아니야",
         game = 0,
         video = {
@@ -117209,6 +118465,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아냐, 이번에는 %s 너와 둘이서 처음 가는 거니까.",
         game = 0,
         video = {
@@ -117302,6 +118559,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 마유리는 갑자기 웃음기를 잃고 말았다.",
         game = 0,
         video = {
@@ -117395,6 +118653,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -117488,6 +118747,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "커플이 되려면 필요한 조건이 있는 거야?",
         game = 0,
         video = {
@@ -117581,6 +118841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "회전목마가 없는 놀이공원은 팥 없는 찐빵이야. 다시 말해 회전목마는 놀이공원의 상징 같은 거지!",
         game = 0,
         video = {
@@ -117674,6 +118935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그래? 어디 불편한 데라도 있어?",
         game = 0,
         video = {
@@ -117768,6 +119030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "텐구 시의 경치를 보고 있어.",
         game = 0,
         video = {
@@ -117861,6 +119124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇다고 할 수 있겠지. 아무튼 그냥 데이트를 했다고 해서 연인 사이가 되는 건 아니야.",
         game = 0,
         video = {
@@ -117954,6 +119218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뭔가 특별한 게 있어?",
         game = 0,
         video = {
@@ -118047,6 +119312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 회전목마에 대한 사랑 이야기를 들은 적이 있어.",
         game = 0,
         video = {
@@ -118140,6 +119406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "텐구 시? 전체를 말이야?",
         game = 0,
         video = {
@@ -118233,6 +119500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까 너와 야토가미 토카, 요시노, 코토리는 모두... 연인 사이인 거야?",
         game = 0,
         video = {
@@ -118326,6 +119594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 정말 다행이네! 가자!",
         game = 0,
         video = {
@@ -118419,6 +119688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어떤 이야기였는데?",
         game = 0,
         video = {
@@ -118512,6 +119782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리가 탄 대관람차는 텐구 시에서 가장 크거든. 그래서 온 도시를 한눈에 볼 수 있어!",
         game = 0,
         video = {
@@ -118605,6 +119876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에에? 당연히 아니지... 그럼 그건 엄청나게 바람둥이잖아...",
         game = 0,
         video = {
@@ -118698,6 +119970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 그래도 이미 봤던 곳인데 좀 그렇지 않아?",
         game = 0,
         video = {
@@ -118791,6 +120064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "바라볼 수는 있지만 다가갈 수는 없는 사랑, 영원히 거리를 유지하고, 영원히 노력해서 쫓으려 해도 쫓을 수 없는 그런...",
         game = 0,
         video = {
@@ -118885,6 +120159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "오—— 대단한 것 같네.",
         game = 0,
         video = {
@@ -118978,6 +120253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 너흰 자주 데이트를 했잖아...",
         game = 0,
         video = {
@@ -119071,6 +120347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리가 줄곧 날 관측하고 있던 걸 잊고 있었다... 그녀가 한 번 더 가고 싶어 할까?",
         game = 0,
         video = {
@@ -119164,6 +120441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 맞아, 미안, 마유리는 이미 알고 있었구나.",
         game = 0,
         video = {
@@ -119257,6 +120535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기는 미식 거리야. 내가 자주 가는 곳이기도 해.",
         game = 0,
         video = {
@@ -119350,6 +120629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까 내 말은... 데이트만 해서는 안 된다는 거야.",
         game = 0,
         video = {
@@ -119443,6 +120723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 너랑 요시노가 갔던 곳 말이야?",
         game = 0,
         video = {
@@ -119536,6 +120817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대관람차는 세워진 지 얼마 되지 않았지만, 이미 텐구 시의 랜드마크가 되었어!",
         game = 0,
         video = {
@@ -119629,6 +120911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알고 있어. 네가 야토가미 토카와 자주 가는 걸 봤어.",
         game = 0,
         video = {
@@ -119722,6 +121005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 어떤 조건이 맞아야만 연인 사이가 될 수 있는데?",
         game = 0,
         video = {
@@ -119817,6 +121101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "회전목마",
         game = 0,
         video = {
@@ -119911,6 +121196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대관람차",
         game = 0,
         video = {
@@ -120004,6 +121290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그게... 아, 참, 쇼핑 센터도 젊은 사람들이 좋아해. 액세서리샵도 있고, 인형 가게도 있고, 영화관도...",
         game = 0,
         video = {
@@ -120097,6 +121384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -120190,6 +121478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래, 내가 데리고 가줄게!",
         game = 0,
         video = {
@@ -120283,6 +121572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리 저거 타러 가자!",
         game = 0,
         video = {
@@ -120376,6 +121666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알고 있어. 네가 유즈루나 요시노랑 갔었지.",
         game = 0,
         video = {
@@ -120469,6 +121760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 흔들거리는 해적선에 탈 수 있는 거야. 마치 파도가 치는 배를 타는 것처럼 말이야. 놀이공원의 대표적인 놀이기구야.",
         game = 0,
         video = {
@@ -120562,6 +121854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이공원에서 배도 탈 수 있어?",
         game = 0,
         video = {
@@ -120655,6 +121948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 한번 타보고 싶어?",
         game = 0,
         video = {
@@ -120748,6 +122042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에... 마유리... 아주 잘 알고 있구나.",
         game = 0,
         video = {
@@ -120841,6 +122136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이거 조금 멋진 것 같아~",
         game = 0,
         video = {
@@ -120937,6 +122233,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "해적선을 고른다",
         game = 0,
         video = {
@@ -121030,6 +122327,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "잘 모르겠지만... 그래도 한번 해보고 싶어!",
         game = 0,
         video = {
@@ -121123,6 +122421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 네가 매번 데이트를 할 때마다, 내가 관측하니까.",
         game = 0,
         video = {
@@ -121216,6 +122515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 데이트가 뭔지 느껴보고 싶어서...",
         game = 0,
         video = {
@@ -121310,6 +122610,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리가 좋아",
         game = 0,
         video = {
@@ -121406,6 +122707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리에게 내 손을 맡긴다.",
         game = 0,
         video = {
@@ -121499,6 +122801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "매, 매번?",
         game = 0,
         video = {
@@ -121592,6 +122895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정답이에요. 대단하시네요!",
         game = 0,
         video = {
@@ -121701,6 +123005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "빨간 보석의 원재료는 무엇일까요?",
         game = 0,
         video = {
@@ -121797,6 +123102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리……",
         game = 0,
         video = {
@@ -121890,6 +123196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 매번, 왜 그래?",
         game = 0,
         video = {
@@ -121984,6 +123291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네, 좋아요!",
         game = 0,
         video = {
@@ -122077,6 +123385,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리를 데리고 여러 놀이기구를 탔고, 즐거운 데이트 시간을 보냈다.",
         game = 0,
         video = {
@@ -122169,6 +123478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저 앞에 재미있는 게 있는 것 같아.",
         game = 0,
         video = {
@@ -122262,6 +123572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알겠어. 그럼 같이 가 보자!",
         game = 0,
         video = {
@@ -122355,6 +123666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼... 대관람차를 타자. 요시노가... 아주 좋아했던 것 같아.",
         game = 0,
         video = {
@@ -122448,6 +123760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "말을 하는 동안, 꼬마열차는 어느새 놀이공원을 한 바퀴 돌아서 종점에 도착했다.",
         game = 0,
         video = {
@@ -122541,6 +123854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아... 응, 그래...",
         game = 0,
         video = {
@@ -122634,6 +123948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "같이 지내는...",
         game = 0,
         video = {
@@ -122727,6 +124042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건 같이 지내는 과정에서 알아가야 해.",
         game = 0,
         video = {
@@ -122820,6 +124136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 나에 대해 조금 더 알고 싶어? %s에겐 말해줄 수 있어.",
         game = 0,
         video = {
@@ -122913,6 +124230,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도 길을 잘못 든 것 같았고. 날도 어두워졌다... 나는 얼른 돌아가야겠다고 생각했지만, 차마 말을 꺼낼 수가 없었다.",
         game = 0,
         video = {
@@ -123006,6 +124324,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말... 그래도 돼...?",
         game = 0,
         video = {
@@ -123099,6 +124418,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 미식 거리에 가볼래? 아니면 영화관이나 인형의 집은? 아, 온천은 어때!",
         game = 0,
         video = {
@@ -123192,6 +124512,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "반박할 수 없긴 하지만...",
         game = 0,
         video = {
@@ -123285,6 +124606,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는... 마유리가 바라는 것을 들어주고 싶었다...",
         game = 0,
         video = {
@@ -123378,6 +124700,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이런 기회가 또 있지는 않을 거야. 난 그저 관측자일 뿐이니까...",
         game = 0,
         video = {
@@ -123471,6 +124794,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "앞으로는 다른 곳도 데리고 가 줄게. 마유리, 또 어디 가고 싶어? 미리 생각해 둬.",
         game = 0,
         video = {
@@ -123565,6 +124889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 인간이 좋아?",
         game = 0,
         video = {
@@ -123661,6 +124986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -123754,6 +125080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -123847,6 +125174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 %s 네가 괜찮다고 생각해.",
         game = 0,
         video = {
@@ -123940,6 +125268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그나저나, 마유리는 인간이 좋아?",
         game = 0,
         video = {
@@ -124033,6 +125362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우와—— 풍선이야!",
         game = 0,
         video = {
@@ -124126,6 +125456,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 얼굴이 갑자기 토마토처럼 붉어졌다.",
         game = 0,
         video = {
@@ -124219,6 +125550,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "누구라도 마유리를 보면 그렇게 생각할 거야.",
         game = 0,
         video = {
@@ -124312,6 +125644,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "인간...?",
         game = 0,
         video = {
@@ -124405,6 +125738,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "갑자기 신이 난 마유리의 목소리에 나는 다시 정신을 차렸다.",
         game = 0,
         video = {
@@ -124498,6 +125832,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "다들 네가 들고 있는 먹이가 마음에 들었나 봐...",
         game = 0,
         video = {
@@ -124591,6 +125926,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "안녕, %s.",
         game = 0,
         video = {
@@ -124684,6 +126020,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 인간, 나처럼 말이야.",
         game = 0,
         video = {
@@ -124777,6 +126114,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저건... 열기구잖아!?",
         game = 0,
         video = {
@@ -124870,6 +126208,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 객관적인 시선으로 네 모든 것을 관측해야 해. 너와 너무 가까워져선 안 돼...",
         game = 0,
         video = {
@@ -124963,6 +126302,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "봐, 비둘기도 내 말이 맞다고 하잖아.",
         game = 0,
         video = {
@@ -125056,6 +126396,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그랬구나. %s 너 같은 인간이라면... 응! 좋아.",
         game = 0,
         video = {
@@ -125149,6 +126490,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "눈앞에 있는 넓은 잔디밭에는 몇 명의 사람들이 줄을 서고 있었다. 저건... 열기구 체험?",
         game = 0,
         video = {
@@ -125243,6 +126585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "자랑한다",
         game = 0,
         video = {
@@ -125336,6 +126679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어떻게 관측하든 그건 네 맘이지만, 이렇게 나와 거리를 유지한다면, 나에 대해 정말로 이해할 수 있을까?",
         game = 0,
         video = {
@@ -125429,6 +126773,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "네가 그렇게 말해주니까, 조금 부끄러운데...",
         game = 0,
         video = {
@@ -125522,6 +126867,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "열기구? 탈 수 있는 풍선 같은 거야?",
         game = 0,
         video = {
@@ -125615,6 +126961,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그게 정말이라면, 그 이유를 말해줘.",
         game = 0,
         video = {
@@ -125709,6 +127056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리와 함께 있으면 뭔가 다른 느낌이 들어.",
         game = 0,
         video = {
@@ -125802,6 +127150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜? %s 같은 인간을 좋아하면 안 되는 거야?",
         game = 0,
         video = {
@@ -125895,6 +127244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맞아! 놀이공원 구석에 이런 게 있을 줄은 몰랐네.",
         game = 0,
         video = {
@@ -125988,6 +127338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너의 인생! 내가 종결짓는다!",
         game = 0,
         video = {
@@ -126081,6 +127432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나와?",
         game = 0,
         video = {
@@ -126174,6 +127526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아마도... 하지만 분명 재미있는 곳일 거야. 그러니까 사람들이 가는 거겠지?",
         game = 0,
         video = {
@@ -126267,6 +127620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아. 대신 조금 차이는 있어~ 하지만 이런 건 급하지 않아. 앞으로 천천히 가르쳐 줄게.",
         game = 0,
         video = {
@@ -126360,6 +127714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "......응.",
         game = 0,
         video = {
@@ -126453,6 +127808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 마유리와 함께 데이트도 하고, 호박 마차도 타고, 가면 무도회도 보고... 평소와는 느낌이 달랐어.",
         game = 0,
         video = {
@@ -126546,6 +127902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 여긴... 수족관?",
         game = 0,
         video = {
@@ -126639,6 +127996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "앞으로가 언제인데?",
         game = 0,
         video = {
@@ -126732,6 +128090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아라아라, 절 환영하지 않는 거예요? 저는 유용한 정보를 가져왔단 말이에요.",
         game = 0,
         video = {
@@ -126825,6 +128184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 다른 정령들과 비교하는 거야?",
         game = 0,
         video = {
@@ -126918,6 +128278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어라, 진짜네.",
         game = 0,
         video = {
@@ -127011,6 +128372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "앞으로의 시간 말이야. 내가 언제든지 너와 이렇게 지낼 수 있는 것처럼.",
         game = 0,
         video = {
@@ -127104,6 +128466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 사람을 불안하게 하는 다른 소식은......조사 과정 중에 우린 이미 어플이 재생한 소리를 많이 수록했어요.",
         game = 0,
         video = {
@@ -127197,6 +128560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아냐, 마유리는 둘도 없는 존재니까.",
         game = 0,
         video = {
@@ -127291,6 +128655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 교제 방식이야",
         game = 0,
         video = {
@@ -127384,6 +128749,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좋아. 하지만 난 시간이 부족할까 봐 걱정인데...",
         game = 0,
         video = {
@@ -127477,6 +128843,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -127570,6 +128937,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나...",
         game = 0,
         video = {
@@ -127663,6 +129031,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 친구 사이의 교제 방식이니까~",
         game = 0,
         video = {
@@ -127756,6 +129125,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 조금 풀이 죽은 것처럼 나를 바라봤다. 그녀를 어떻게 위로해야 할까.",
         game = 0,
         video = {
@@ -127850,6 +129220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "즉, 다 함께 지낸다는 거네요? 대박~",
         game = 0,
         video = {
@@ -127944,6 +129315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 이제부터 해보면 되잖아!",
         game = 0,
         video = {
@@ -128037,6 +129409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "교제 방식이란 건 또 뭔데?",
         game = 0,
         video = {
@@ -128130,6 +129503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "얼른 와~",
         game = 0,
         video = {
@@ -128223,6 +129597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -128316,6 +129691,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 이제부터 해보면 되잖아!",
         game = 0,
         video = {
@@ -128409,6 +129785,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우릴 더욱 빠르게 가까워질 수 있게 만드는 거야. 예를 들면 날씨 이야기를 마친 후에 자연스럽게 다음 대화 주제로 넘어가는 거지~",
         game = 0,
         video = {
@@ -128502,6 +129879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "갈게, 갈게... 휴, 너 달리기가 정말 빠르구나.",
         game = 0,
         video = {
@@ -128595,6 +129973,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고마워할 거...없어.",
         game = 0,
         video = {
@@ -128688,6 +130067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너와 같이 놀자는 이야기야?",
         game = 0,
         video = {
@@ -128781,6 +130161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에...",
         game = 0,
         video = {
@@ -128874,6 +130255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이제 곧 날아오를 거야.",
         game = 0,
         video = {
@@ -128967,6 +130349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이럴 때일수록 기세가 꺾이면 안 돼...",
         game = 0,
         video = {
@@ -129060,6 +130443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 네가 더 많은 추억을 가질 수 있게 하고 싶어.",
         game = 0,
         video = {
@@ -129153,6 +130537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "진지하게 생각하는 마유리의 모습은 정말 귀여웠다.",
         game = 0,
         video = {
@@ -129246,6 +130631,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "석양이 지기 두 시간 전에 타면 기류가 가장 안정적이랍니다. 두 분 운이 좋으시군요~",
         game = 0,
         video = {
@@ -129342,6 +130728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 많이 봐 둬!",
         game = 0,
         video = {
@@ -129435,6 +130822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너와 함께 놀 수 있어서 기쁘긴 한데, 그럼 어디로 가야 하지?",
         game = 0,
         video = {
@@ -129528,6 +130916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나, 인간의 지혜는 정말 무시할 수 없네.",
         game = 0,
         video = {
@@ -129622,6 +131011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "열기구가 서서히 올라가자, 나와 마유리는 놀이공원의 전경을 내려다 볼 수 있었다.",
         game = 0,
         video = {
@@ -129715,6 +131105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -129808,6 +131199,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건...",
         game = 0,
         video = {
@@ -129901,6 +131293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 목에 걸려 있는 붉은 목걸이를 본 나는 어디서 많이 본 것 같다는 느낌이 들었다.",
         game = 0,
         video = {
@@ -129997,6 +131390,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리에겐 조금 위험할 수도 있어",
         game = 0,
         video = {
@@ -130090,6 +131484,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 호기심 가득한 표정으로 유리 앞에 붙어서는 천천히 움직이는 바다거북을 관찰했다...",
         game = 0,
         video = {
@@ -130183,6 +131578,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 주변을 둘러봤고, 해가 곧 지려 하는 시간이었던 탓에 주변에는 사람들이 많지 않았다.",
         game = 0,
         video = {
@@ -130276,6 +131672,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말... 갑자기 여자애한테 손을 대다니, 좋지 않아...",
         game = 0,
         video = {
@@ -130369,6 +131766,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "위험?",
         game = 0,
         video = {
@@ -130462,6 +131860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기 봐~ 상어랑 춤을 춘다!",
         game = 0,
         video = {
@@ -130555,6 +131954,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 어서 봐, 저 앞에...",
         game = 0,
         video = {
@@ -130648,6 +132048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 먹이를 마유리의 손에 조금 덜어 주었고, 그녀는 진지하게 손에 받았다.",
         game = 0,
         video = {
@@ -130741,6 +132142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "상어는 위험한 동물이야... 다칠 수도 있거든...",
         game = 0,
         video = {
@@ -130834,6 +132236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "상어...?",
         game = 0,
         video = {
@@ -130927,6 +132330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 시선을 따라가 보니 비둘기 무리가 있었고, 근처에는 먹이를 파는 사람들이 있었다.",
         game = 0,
         video = {
@@ -131021,6 +132425,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 얼굴이 갑자기 붉어지더니, 뒤로 조금 물러섰다.",
         game = 0,
         video = {
@@ -131114,6 +132519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "비록 잘 이해가 되진 않지만, 그래도 난 아마 다치진 않을 거야.",
         game = 0,
         video = {
@@ -131207,6 +132613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 수족관의 대표적인 공연 프로그램이야!",
         game = 0,
         video = {
@@ -131300,6 +132707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말... 그래야 하는 거야?",
         game = 0,
         video = {
@@ -131393,6 +132801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나한테도 가르쳐줄래? 이 세계에 대해 더 많이 배우고 싶어.",
         game = 0,
         video = {
@@ -131486,6 +132895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 상어가 뭔지 모르는 거 아냐...?",
         game = 0,
         video = {
@@ -131580,6 +132990,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "파란 보석",
         game = 0,
         video = {
@@ -131673,6 +133084,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건... 네가 이렇게 하면 더 편하게 관측할 수 있을 거라고 해서 그런 거야.",
         game = 0,
         video = {
@@ -131766,6 +133178,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 하지만 오늘도 이렇게 데이트를 하고 있잖아?",
         game = 0,
         video = {
@@ -131859,6 +133272,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "상어? 다른 물고기와 뭐가 다른데?",
         game = 0,
         video = {
@@ -131952,6 +133366,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 파란색의 보석을 집어 마유리의 손에 놓았다.",
         game = 0,
         video = {
@@ -132045,6 +133460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "대관람차는 서서히 올라갔다...",
         game = 0,
         video = {
@@ -132139,6 +133555,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 존재가 실감이 나지 않아서...",
         game = 0,
         video = {
@@ -132232,6 +133649,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "수정",
         game = 0,
         video = {
@@ -132325,6 +133743,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "정말 예쁘네~",
         game = 0,
         video = {
@@ -132418,6 +133837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 아니야...",
         game = 0,
         video = {
@@ -132511,6 +133931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러시다면야... 그럼 우선 들고 계시는 빨간 보석부터 테스트해 볼게요.",
         game = 0,
         video = {
@@ -132604,6 +134025,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "틀렸어요. 아무래도 이 정도까지는 아직 공부를 안 하신 것 같네요...",
         game = 0,
         video = {
@@ -132697,6 +134119,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 손안의 보석을 응시했다.",
         game = 0,
         video = {
@@ -132790,6 +134213,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... 다들 왜 안 오는 거야? 에——!",
         game = 0,
         video = {
@@ -132883,6 +134307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 기대되는데? 마유리 네가 데이트를 하고 싶다면, 난 언제든지 좋아~",
         game = 0,
         video = {
@@ -132976,6 +134401,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "루비는 빨간색 강옥을 가공해서 만드는 거예요.",
         game = 0,
         video = {
@@ -133069,6 +134495,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇지? 이래 봬도 보석에 대해 공부를 좀 했거든~",
         game = 0,
         video = {
@@ -133162,6 +134589,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "당연하지, 어려울 거 없어~",
         game = 0,
         video = {
@@ -133255,6 +134683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "점점 높아지네... 조금...",
         game = 0,
         video = {
@@ -133364,6 +134793,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 다음 문제를 드릴게요. 루비의 원산지는 어디일까요?",
         game = 0,
         video = {
@@ -133460,6 +134890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "집안일도 하고, 지붕도 고치고, 수업 시간에 졸기도 하고, 보석까지 공부한다니, %s 넌 정말 취미가 많구나...",
         game = 0,
         video = {
@@ -133553,6 +134984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "뭐랄까... 마유리와 이렇게 가까이 있어본 적은 처음인 것 같아서...",
         game = 0,
         video = {
@@ -133649,6 +135081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "돌고래를 고른다",
         game = 0,
         video = {
@@ -133742,6 +135175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "유리벽이 살짝 흔들리더니, 마유리는 갑자기 나타난 상어를 보고 깜짝 놀라 물러섰다.",
         game = 0,
         video = {
@@ -133835,6 +135269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "어이, 그런 것까지 하나하나 말하지 말아줘! 그나저나, 혹시 바다의 심장에 대해 들어본 적 있어?",
         game = 0,
         video = {
@@ -133928,6 +135363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이 세상에는 정말 아름다운 것들이 많은 것 같아. 난 이 세계가 좋아!",
         game = 0,
         video = {
@@ -134021,6 +135457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이거 정말 귀엽네!",
         game = 0,
         video = {
@@ -134114,6 +135551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아. 무서워할 거 없어...",
         game = 0,
         video = {
@@ -134207,6 +135645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아니, 난 너와 관계없는 일에 대해서는 아무런 관심이 없거든.",
         game = 0,
         video = {
@@ -134303,6 +135742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇구나...",
         game = 0,
         video = {
@@ -134396,6 +135836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "헤헤, 마유리가 그게 마음에 든다면, 우리 수족관에 가 보는 건 어때?",
         game = 0,
         video = {
@@ -134489,6 +135930,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "상어는 몸을 돌려 조련사와 함께 헤엄쳤고, 사이가 매우 좋아 보였다.",
         game = 0,
         video = {
@@ -134582,6 +136024,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "너 말이야... 어떻게 그런 태연한 얼굴로 그런 부끄러운 말을 할 수가 있어?",
         game = 0,
         video = {
@@ -134675,6 +136118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, %s 너와 나처럼 말이야.",
         game = 0,
         video = {
@@ -134768,6 +136212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "수족관엔 저런 게 많이 있어?",
         game = 0,
         video = {
@@ -134862,6 +136307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "호감이 가게 만들어",
         game = 0,
         video = {
@@ -134955,6 +136401,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래서 바다의 심장이 뭔데?",
         game = 0,
         video = {
@@ -135048,6 +136495,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 사랑 같은 건... 나와 마유리도 그런 사이는 아니잖아.",
         game = 0,
         video = {
@@ -135141,6 +136589,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맞아, 하지만 인형은 아니고, 진짜 돌고래야! 그리고 다른 바다에 사는 동물들도 있어!",
         game = 0,
         video = {
@@ -135234,6 +136683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "호감이라... %s 넌 내가 좋아?",
         game = 0,
         video = {
@@ -135327,6 +136777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "바다의 심장은 사파이어로 만든 목걸이인데, 그 목걸이에는 영원한 이별을 맞은 연인에 대한 이야기가 전해지거든...",
         game = 0,
         video = {
@@ -135420,6 +136871,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사랑이 아닌 건가... 미안해, 그러게, 내가 멋대로 말했어...",
         game = 0,
         video = {
@@ -135513,6 +136965,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "좋아, 그럼 수족관에 가자!",
         game = 0,
         video = {
@@ -135606,6 +137059,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 그렇다고 할 수 있겠네. 마유리는 정말 귀엽거든.",
         game = 0,
         video = {
@@ -135699,6 +137153,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "전혀 흥미 없어.",
         game = 0,
         video = {
@@ -135792,6 +137247,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이런, 내가 말실수를 한 건가...",
         game = 0,
         video = {
@@ -135885,6 +137341,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -135979,6 +137436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가방 안의 전단지에 대해 묻는다",
         game = 0,
         video = {
@@ -136072,6 +137530,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아하하, 네 표정만 봐도 알 것 같아...",
         game = 0,
         video = {
@@ -136165,6 +137624,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 그러니까 내 말은... 우리는 가까워질 수 있다는 애기야!",
         game = 0,
         video = {
@@ -136258,6 +137718,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리를 데리고 사람이 잔뜩 있는 수족관에 도착했다.",
         game = 0,
         video = {
@@ -136351,6 +137812,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건... 놀이공원의 전단지야?",
         game = 0,
         video = {
@@ -136444,6 +137906,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만 요시노라면 이미 연상 상태에 들어갔을 것이다.",
         game = 0,
         video = {
@@ -136538,6 +138001,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도 마유리가 화가 난 것 같다. 어떻게 만회해야 할까...",
         game = 0,
         video = {
@@ -136635,6 +138099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "무시하고 간다",
         game = 0,
         video = {
@@ -136728,6 +138193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그녀의 가방에서 살짝 삐져나온 전단지가 내 시선을 끌었다.",
         game = 0,
         video = {
@@ -136821,6 +138287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 게다가... 쉬더라도 그저 혼자 멍하니 있을 뿐인걸.",
         game = 0,
         video = {
@@ -136914,6 +138381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기... 데이트를 하면 거리를 가깝게 만들 수 있어! 우리 그럼 계속 데이트를 하자!",
         game = 0,
         video = {
@@ -137007,6 +138475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그렇다면 난 %s 널 사랑할래!",
         game = 0,
         video = {
@@ -137100,6 +138569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "방금 주운 거야.",
         game = 0,
         video = {
@@ -137193,6 +138663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...에?",
         game = 0,
         video = {
@@ -137286,6 +138757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 음...",
         game = 0,
         video = {
@@ -137379,6 +138851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에——! 마유리, 그런 말은 막 하면 안 돼!",
         game = 0,
         video = {
@@ -137472,6 +138945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "방금... 설마 나랑 요시노가 놀이공원에 있을 때 계속 같이 있었던 거야?",
         game = 0,
         video = {
@@ -137565,6 +139039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에... 그건...",
         game = 0,
         video = {
@@ -137658,6 +139133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -137751,6 +139227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럴 수가...",
         game = 0,
         video = {
@@ -137844,6 +139321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 계속 있었어.",
         game = 0,
         video = {
@@ -137938,6 +139416,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "등을 토닥여 달래준다",
         game = 0,
         video = {
@@ -138031,6 +139510,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "처음 %s 너와 데이트를 하는 기념품...",
         game = 0,
         video = {
@@ -138123,6 +139603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "저기... 안녕, 마유리.",
         game = 0,
         video = {
@@ -138216,6 +139697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그러는 건데?",
         game = 0,
         video = {
@@ -138309,6 +139791,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리의 어깨는 가볍게 두드려 주었다.",
         game = 0,
         video = {
@@ -138402,6 +139885,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "휴가는 쉰다는 뜻이야? 하지만 난 쉴 필요가 없는 것 같은데.",
         game = 0,
         video = {
@@ -138495,6 +139979,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 그녀에게 다가갔고, 예상 외로 그녀는 사라지지 않았다.",
         game = 0,
         video = {
@@ -138588,6 +140073,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 관측하는 중이야.",
         game = 0,
         video = {
@@ -138681,6 +140167,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 조금 높을 뿐이지, 여긴 안전하니까.",
         game = 0,
         video = {
@@ -138774,6 +140261,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 필요해?",
         game = 0,
         video = {
@@ -138868,6 +140356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 나한테 맡겨! 난 오늘 쉬는 날이니까, 내가 너랑 놀아줄게~",
         game = 0,
         video = {
@@ -138961,6 +140450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 말은 왜 전단지를 간직하고 있냐는 거야.",
         game = 0,
         video = {
@@ -139054,6 +140544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 이상하다는 듯이 나를 바라봤다.",
         game = 0,
         video = {
@@ -139148,6 +140639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "웃기지 마!",
         game = 0,
         video = {
@@ -139241,6 +140733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럴 필요까지 있을까? 그저 %s의 곁에 멍하니 있기만 해도 나는 편안한걸.",
         game = 0,
         video = {
@@ -139334,6 +140827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그건 당연하지.",
         game = 0,
         video = {
@@ -139427,6 +140921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, 날 위로해 주는 거야?",
         game = 0,
         video = {
@@ -139520,6 +141015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사라진다니... 웃기지 마!",
         game = 0,
         video = {
@@ -139613,6 +141109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나를 데리고?",
         game = 0,
         video = {
@@ -139706,6 +141203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜?",
         game = 0,
         video = {
@@ -139799,6 +141297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "맞아, 조금 괜찮아졌어?",
         game = 0,
         video = {
@@ -139892,6 +141391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 넌 믿기 어렵겠지만, 그게 바로 관측자의 사명이야.",
         game = 0,
         video = {
@@ -139986,6 +141486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -140079,6 +141580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 관측자로서 %s 너와 거리를 유지해야 해.",
         game = 0,
         video = {
@@ -140172,6 +141674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응...",
         game = 0,
         video = {
@@ -140265,6 +141768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s 네가 그릇의 자격을 가지고 있고, 시스템을 실행할 필요가 없다면, 내 임무는 거기서 끝나는 거야. 그리고 서서히 분해되어 사라지는 거지.",
         game = 0,
         video = {
@@ -140358,6 +141862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 텐구 시는 이렇게 크잖아. 그러니까 그냥 보기만 할 게 아니라, 마유리를 데리고 이곳저곳을 다니며 노는 거야!",
         game = 0,
         video = {
@@ -140451,6 +141956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "관측자...",
         game = 0,
         video = {
@@ -140544,6 +142050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 손을 들어 내가 한 것과 그대로 어색하게 내 어깨를 두드려 주었다.",
         game = 0,
         video = {
@@ -140637,6 +142144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "넌 그렇게 사라지길 원해?",
         game = 0,
         video = {
@@ -140731,6 +142239,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "우리도 친구처럼 서로를 대하자",
         game = 0,
         video = {
@@ -140824,6 +142333,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 정당하지 않은 판단을 해선 안 돼. 그러니 %s 너와 거리를 유지하는 게 가장 올바른 방법이지.",
         game = 0,
         video = {
@@ -140917,6 +142427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s도 무서워할 거 없어.",
         game = 0,
         video = {
@@ -141010,6 +142521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "지금은 어쩔 수 없는 일이야. 비록 짧은 관측이었지만, %s 넌 그릇으로서의 자격이 있어...",
         game = 0,
         video = {
@@ -141103,6 +142615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 그럼 앞으로 우리도 친구처럼 서로를 대하자!",
         game = 0,
         video = {
@@ -141196,6 +142709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 존재가 느껴지지 않는 건 아마 내가 언제든지 사라질 수 있기 때문일 거야. 이 세계와 이곳 사람들에게는 역시 실감이 나지 않겠지...",
         game = 0,
         video = {
@@ -141290,6 +142804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -141383,6 +142898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 말하는 건 그게 아니야.",
         game = 0,
         video = {
@@ -141476,6 +142992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "친구는 어떻게 서로를 대하는데?",
         game = 0,
         video = {
@@ -141569,6 +143086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "알겠어...",
         game = 0,
         video = {
@@ -141662,6 +143180,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 계속 나를 보고 있어? 어디 이상한 거라도 있는 거야?",
         game = 0,
         video = {
@@ -141755,6 +143274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에?",
         game = 0,
         video = {
@@ -141848,6 +143368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "친구는... 지금 우리처럼 같이 놀고 같이 이야기도 나누는 거야~",
         game = 0,
         video = {
@@ -141941,6 +143462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "괜찮아, 조금 높을 뿐이지, 여긴 안전하니까.",
         game = 0,
         video = {
@@ -142034,6 +143556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...너 바보야? 좋아한다든가 그런 말을 막 해도 되는 거냐고!",
         game = 0,
         video = {
@@ -142127,6 +143650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 마유리 네가 정말 자신이 사라지는 것을 원하냐고 묻는 거야.",
         game = 0,
         video = {
@@ -142220,6 +143744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그랬구나, 그럼 우린 이미 친구인 거지?",
         game = 0,
         video = {
@@ -142313,6 +143838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 목걸이를 어루만졌고, 매우 소중해하는 것처럼 보였다.",
         game = 0,
         video = {
@@ -142406,6 +143932,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜?",
         game = 0,
         video = {
@@ -142499,6 +144026,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내가 원하지 않더라도 어쩔 수 없는 일이야. 난 그렇게 설계되었으니까...",
         game = 0,
         video = {
@@ -142592,6 +144120,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "물론이지. 우린 친구야. 그리고 앞으로는 더욱 친한 친구가 될 거야~",
         game = 0,
         video = {
@@ -142685,6 +144214,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "내 눈앞에 흰 옷을 입은 소녀는... 마유리?",
         game = 0,
         video = {
@@ -142778,6 +144308,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 익숙한 츄파춥스를 발견했고, 그것은 마침 얼마 전 코토리가 마음에 들어 했던 아이스크림 맛이었다.",
         game = 0,
         video = {
@@ -142871,6 +144402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그러니까 그 말은, 마유리는 사라지고 싶지 않다는 거잖아?",
         game = 0,
         video = {
@@ -142964,6 +144496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼... 더욱 친해지고 나면, 우리도 데이트를 할 수 있는 거야?",
         game = 0,
         video = {
@@ -143057,6 +144590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그거... 진심이야?",
         game = 0,
         video = {
@@ -143150,6 +144684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그...그럼 자기 자신에게 휴가를 준다고 생각해!",
         game = 0,
         video = {
@@ -143243,6 +144778,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -143336,6 +144872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 데이트?",
         game = 0,
         video = {
@@ -143429,6 +144966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에... 이렇게 무시해 버리는 건 도저히 못 하겠잖아!",
         game = 0,
         video = {
@@ -143522,6 +145060,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "휴가? 음... 그런 말은 내겐 왠지 상당히 신선한걸.",
         game = 0,
         video = {
@@ -143615,6 +145154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리, 넌 모두의 영력 안에 존재하니까, 사라지지 않을 거야.",
         game = 0,
         video = {
@@ -143708,6 +145248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, %s 너와 그녀들처럼 말이야.",
         game = 0,
         video = {
@@ -143801,6 +145342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "신비한 힘? 어떤 건데?",
         game = 0,
         video = {
@@ -143894,6 +145436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 침묵과 함께 생각에 잠겼고, 내가 한 이야기는 그녀로서는 상당히 이해가 어려운 것 같았다.",
         game = 0,
         video = {
@@ -143987,6 +145530,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...",
         game = 0,
         video = {
@@ -144080,6 +145624,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리도 데이트가 하고 싶어?",
         game = 0,
         video = {
@@ -144173,6 +145718,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아, 미안...",
         game = 0,
         video = {
@@ -144266,6 +145812,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래, 손가락을 걸고 약속을 하면 반드시 지켜야 하는 거야!",
         game = 0,
         video = {
@@ -144359,6 +145906,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "걱정하지 마, 난 절대 마유리가 사라지도록 두지 않을 거야. 그러니까 기념 같은 건 필요 없어.",
         game = 0,
         video = {
@@ -144452,6 +146000,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 잘 모르겠어. 하지만 데이트를 하면 즐거워지는 것 같아.",
         game = 0,
         video = {
@@ -144545,6 +146094,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "아무래도 내가 마유리를 데리고 가이드를 좀 해 줘야겠는걸~",
         game = 0,
         video = {
@@ -144640,6 +146190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그런 거 아냐, 난 정말 마유리가 좋아.",
         game = 0,
         video = {
@@ -144733,6 +146284,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응!",
         game = 0,
         video = {
@@ -144826,6 +146378,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리를 기쁘게 해줄 수 있다면, 데이트는 얼마든지 할 수 있어~",
         game = 0,
         video = {
@@ -144919,6 +146472,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 손가락을 뻗어 나의 손가락과 맞대고 걸었다.",
         game = 0,
         video = {
@@ -145012,6 +146566,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이유라... 그, 그건, 누군가를 좋아하는 데는 이유가 필요 없는 거야!",
         game = 0,
         video = {
@@ -145105,6 +146660,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "사라진다니? 무슨 뜻이야? 마유리가 어째서 사라지는데?",
         game = 0,
         video = {
@@ -145198,6 +146754,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 그럼 우리도 더욱 친한 친구가 되자~",
         game = 0,
         video = {
@@ -145291,6 +146848,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 %s 너와 마음껏 데이트할 수 있는 날이 왔으면 좋겠어.",
         game = 0,
         video = {
@@ -145383,6 +146941,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "필요하지 않은 거야?",
         game = 0,
         video = {
@@ -145476,6 +147035,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "영력이 결집되면 나는 관측자로서 태어나고, 대상이 그릇으로서의 자격이 있는지를 관측해...",
         game = 0,
         video = {
@@ -145569,6 +147129,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 어째서?",
         game = 0,
         video = {
@@ -145662,6 +147223,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그릇은... 나를 말하는 거야?",
         game = 0,
         video = {
@@ -145755,6 +147317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응... 좋아!",
         game = 0,
         video = {
@@ -145848,6 +147411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 지금 %s 넌 자격이 충분해. 정령들의 감정을 잘 조율할 수 있어...",
         game = 0,
         video = {
@@ -145941,6 +147505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "놀이공원에 처음 왔으니까, 기념할 필요가 있지 않겠어?",
         game = 0,
         video = {
@@ -146034,6 +147599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 계속해서 내가 다른 정령들과 데이트에서 했던 것들을 말했고, 나는 마음이 아파졌다.",
         game = 0,
         video = {
@@ -146127,6 +147693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 난 계단 오르기 놀이도 했었고, 오락실에 가서 인형뽑기도 했어. 목걸이도 사고 아이스크림 맛 막대사탕도 먹어 봤어...",
         game = 0,
         video = {
@@ -146220,6 +147787,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 그렇게 해서... 느끼는 거야?",
         game = 0,
         video = {
@@ -146313,6 +147881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "하지만...",
         game = 0,
         video = {
@@ -146406,6 +147975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그래, 나도 좋아~ 그럼 이제부터 우린 친구가 된 거야. 마유리.",
         game = 0,
         video = {
@@ -146502,6 +148072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "모두 앞으로 가고 있어...",
         game = 0,
         video = {
@@ -146595,6 +148166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 내 거야. 너희가 떠난 후에 가게에 가서 샀어.",
         game = 0,
         video = {
@@ -146688,6 +148260,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "거절하지 마, 이따가 가서 같이 고르자!",
         game = 0,
         video = {
@@ -146781,6 +148354,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그 목걸이는... 혹시 유즈루 거야?",
         game = 0,
         video = {
@@ -146874,6 +148448,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응, 방금 꼬마애가 하는 말을 들었는데, 앞에서 행사를 한다고 했어. 무슨 공연이라던가...",
         game = 0,
         video = {
@@ -146967,6 +148542,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 그럼 이제 나도 %s 너와 데이트할 수 있는 거야?",
         game = 0,
         video = {
@@ -147060,6 +148636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -147153,6 +148730,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "으... 바보!",
         game = 0,
         video = {
@@ -147252,6 +148830,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리! 천천히 가!",
         game = 0,
         video = {
@@ -147345,6 +148924,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "미안해. 나쁘지 않아 보여서...",
         game = 0,
         video = {
@@ -147441,6 +149021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -147534,6 +149115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이건 자연스러운 일이야. 그때가 되면 나는 무로 돌아가겠지.",
         game = 0,
         video = {
@@ -147627,6 +149209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리! 어디 있어?",
         game = 0,
         video = {
@@ -147721,6 +149304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리의 손안에 있는 물건에 대해 묻는다",
         game = 0,
         video = {
@@ -147814,6 +149398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "이 귀걸이 어때?",
         game = 0,
         video = {
@@ -147907,6 +149492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 어안이 벙벙한 채 마유리의 귀걸이를 받았다.",
         game = 0,
         video = {
@@ -148000,6 +149586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "터널에 사람들이 너무 많았던 탓에, 나는 마유리를 놓치고 말았다.",
         game = 0,
         video = {
@@ -148094,6 +149681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나는 마유리의 생각을 알고 싶어",
         game = 0,
         video = {
@@ -148187,6 +149775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "예뻐...",
         game = 0,
         video = {
@@ -148280,6 +149869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜냐니, 마유리가 어떻게 날 사랑할 수 있는데? 우린 만난지 얼마 되지 않았잖아.",
         game = 0,
         video = {
@@ -148373,6 +149963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나간 후에 다시 찾아보자...",
         game = 0,
         video = {
@@ -148466,6 +150057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 단지 마유리의 생각을 알고 싶을 뿐이야.",
         game = 0,
         video = {
@@ -148559,6 +150151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "나도 괜찮다고 생각해. 그럼 이걸로 살게!",
         game = 0,
         video = {
@@ -148652,6 +150245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "응! 오늘 같이 있어 줘서 고마워, %s.",
         game = 0,
         video = {
@@ -148746,6 +150340,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "같이 DIY를 해보자",
         game = 0,
         video = {
@@ -148839,6 +150434,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "난 그저 너를 위해 왔을 뿐이야... 그러니까, 내 생각은 중요치 않아.",
         game = 0,
         video = {
@@ -148932,6 +150528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "고마워, %s, 잘 간직할게.",
         game = 0,
         video = {
@@ -149025,6 +150622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "그럼 마유리는 마음에 들어?",
         game = 0,
         video = {
@@ -149118,6 +150716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "마유리는 이런 감동적인 이야기에도 아무 느낌이 없는 거야?",
         game = 0,
         video = {
@@ -149211,6 +150810,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "에? 그러니까... 네가 뭘 먹고 싶어 하는지, 어떤 색깔을 좋아하는지... 뭐든 상관없어!",
         game = 0,
         video = {
@@ -149305,6 +150905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "가열한 후에 빠르게 냉각시켜",
         game = 0,
         video = {
@@ -149398,6 +150999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "왜 그래? 마음에 안 들어?",
         game = 0,
         video = {
@@ -149491,6 +151093,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "조, 좋아, 난 %s 네가 가장 좋아!",
         game = 0,
         video = {

@@ -9,6 +9,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 2,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56,6 +57,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 2,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -103,6 +105,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 4,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -150,6 +153,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 4,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -197,6 +201,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 4,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -244,6 +249,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 3,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -294,6 +300,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 3,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -344,6 +351,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 6,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -392,6 +400,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 28,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -442,6 +451,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -483,6 +493,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -524,6 +535,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -565,6 +577,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -606,6 +619,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -655,6 +669,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -696,6 +711,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -737,6 +753,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -778,6 +795,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -819,6 +837,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -872,6 +891,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -913,6 +933,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -954,6 +975,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -997,6 +1019,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1038,6 +1061,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1081,6 +1105,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1122,6 +1147,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1165,6 +1191,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1206,6 +1233,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1248,6 +1276,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1289,6 +1318,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1331,6 +1361,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1372,6 +1403,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1414,6 +1446,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1455,6 +1488,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1496,6 +1530,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1538,6 +1573,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1584,6 +1620,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1633,6 +1670,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1676,6 +1714,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1717,6 +1756,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1756,6 +1796,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1797,6 +1838,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1837,6 +1879,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1878,6 +1921,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1918,6 +1962,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -1959,6 +2004,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2023,6 +2069,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2064,6 +2111,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2104,6 +2152,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2145,6 +2194,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2186,6 +2236,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2228,6 +2279,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2267,6 +2319,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2310,6 +2363,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2351,6 +2405,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2397,6 +2452,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2438,6 +2494,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2478,6 +2535,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2520,6 +2578,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2563,6 +2622,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2605,6 +2665,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 23,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2652,6 +2713,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2693,6 +2755,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2736,6 +2799,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2779,6 +2843,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2819,6 +2884,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2860,6 +2926,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2903,6 +2970,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -2966,6 +3034,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3007,6 +3076,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3070,6 +3140,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3112,6 +3183,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3162,6 +3234,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3203,6 +3276,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3253,6 +3327,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3294,6 +3369,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3341,6 +3417,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3394,6 +3471,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3436,6 +3514,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3478,6 +3557,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3519,6 +3599,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3560,6 +3641,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3602,6 +3684,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3644,6 +3727,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3686,6 +3770,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3728,6 +3813,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3769,6 +3855,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3811,6 +3898,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3856,6 +3944,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 9,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3903,6 +3992,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3945,6 +4035,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -3987,6 +4078,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4028,6 +4120,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4077,6 +4170,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4116,6 +4210,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4157,6 +4252,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4206,6 +4302,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4246,6 +4343,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4289,6 +4387,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4336,6 +4435,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4379,6 +4479,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4420,6 +4521,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4466,6 +4568,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4530,6 +4633,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4571,6 +4675,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4618,6 +4723,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4659,6 +4765,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4700,6 +4807,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4746,6 +4854,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4789,6 +4898,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4830,6 +4940,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4878,6 +4989,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4917,6 +5029,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -4958,6 +5071,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5008,6 +5122,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5050,6 +5165,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5091,6 +5207,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5133,6 +5250,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5175,6 +5293,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5217,6 +5336,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5261,6 +5381,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5302,6 +5423,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5344,6 +5466,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5390,6 +5513,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5431,6 +5555,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5474,6 +5599,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5520,6 +5646,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5566,6 +5693,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5608,6 +5736,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5653,6 +5782,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5694,6 +5824,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5737,6 +5868,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5783,6 +5915,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5825,6 +5958,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5867,6 +6001,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5913,6 +6048,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5955,6 +6091,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -5998,6 +6135,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6044,6 +6182,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6107,6 +6246,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6148,6 +6288,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6194,6 +6335,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6234,6 +6376,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6276,6 +6419,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6325,6 +6469,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6379,6 +6524,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6420,6 +6566,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6465,6 +6612,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6513,6 +6661,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6555,6 +6704,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6601,6 +6751,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6642,6 +6793,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6683,6 +6835,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6729,6 +6882,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6771,6 +6925,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6813,6 +6968,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6859,6 +7015,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6902,6 +7059,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6943,6 +7101,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -6990,6 +7149,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7031,6 +7191,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7073,6 +7234,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7122,6 +7284,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7163,6 +7326,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7205,6 +7369,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7251,6 +7416,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7292,6 +7458,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7339,6 +7506,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7380,6 +7548,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7426,6 +7595,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7468,6 +7638,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7511,6 +7682,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7552,6 +7724,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7598,6 +7771,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7647,6 +7821,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7686,6 +7861,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7728,6 +7904,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7774,6 +7951,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7820,6 +7998,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7861,6 +8040,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7902,6 +8082,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7943,6 +8124,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -7990,6 +8172,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8054,6 +8237,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8095,6 +8279,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8136,6 +8321,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8183,6 +8369,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8247,6 +8434,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8288,6 +8476,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8329,6 +8518,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8375,6 +8565,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8417,6 +8608,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8458,6 +8650,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8500,6 +8693,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8554,6 +8748,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8595,6 +8790,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8636,6 +8832,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8677,6 +8874,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8726,6 +8924,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8767,6 +8966,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8809,6 +9009,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8850,6 +9051,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8897,6 +9099,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8938,6 +9141,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -8979,6 +9183,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9021,6 +9226,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9067,6 +9273,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9109,6 +9316,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9149,6 +9357,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9190,6 +9399,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9237,6 +9447,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9290,6 +9501,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9333,6 +9545,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9375,6 +9588,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9424,6 +9638,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9465,6 +9680,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9505,6 +9721,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9548,6 +9765,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9593,6 +9811,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9635,6 +9854,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9678,6 +9898,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9718,6 +9939,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9764,6 +9986,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9805,6 +10028,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9845,6 +10069,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9885,6 +10110,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9931,6 +10157,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -9972,6 +10199,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10015,6 +10243,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10056,6 +10285,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10102,6 +10332,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10142,6 +10373,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10183,6 +10415,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10225,6 +10458,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10272,6 +10506,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10335,6 +10570,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10377,6 +10613,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 13,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10429,6 +10666,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10478,6 +10716,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10519,6 +10758,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10560,6 +10800,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10603,6 +10844,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10649,6 +10891,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10689,6 +10932,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10731,6 +10975,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10772,6 +11017,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10818,6 +11064,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10871,6 +11118,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10912,6 +11160,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -10966,6 +11215,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11012,6 +11262,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11053,6 +11304,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11094,6 +11346,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11135,6 +11388,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11181,6 +11435,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11224,6 +11479,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11266,6 +11522,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11313,6 +11570,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11360,6 +11618,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11403,6 +11662,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11444,6 +11704,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11493,6 +11754,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11539,6 +11801,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11581,6 +11844,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11622,6 +11886,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11663,6 +11928,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11709,6 +11975,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11750,6 +12017,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11796,6 +12064,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11837,6 +12106,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11882,6 +12152,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11923,6 +12194,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -11965,6 +12237,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12006,6 +12279,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12052,6 +12326,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12101,6 +12376,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12140,6 +12416,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12181,6 +12458,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12227,6 +12505,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12273,6 +12552,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12313,6 +12593,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12356,6 +12637,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12402,6 +12684,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12448,6 +12731,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12490,6 +12774,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12531,6 +12816,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12572,6 +12858,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12618,6 +12905,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12682,6 +12970,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12725,6 +13014,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12767,6 +13057,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12814,6 +13105,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12856,6 +13148,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12897,6 +13190,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12938,6 +13232,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -12985,6 +13280,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13025,6 +13321,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13068,6 +13365,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13110,6 +13408,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13157,6 +13456,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13197,6 +13497,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13240,6 +13541,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13282,6 +13584,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13332,6 +13635,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13374,6 +13678,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13437,6 +13742,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13478,6 +13784,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13521,6 +13828,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13562,6 +13870,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13604,6 +13913,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13646,6 +13956,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13693,6 +14004,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13735,6 +14047,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13778,6 +14091,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13820,6 +14134,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13866,6 +14181,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13907,6 +14223,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13950,6 +14267,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -13991,6 +14309,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14037,6 +14356,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14078,6 +14398,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14121,6 +14442,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14164,6 +14486,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14210,6 +14533,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14253,6 +14577,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14296,6 +14621,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14336,6 +14662,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14382,6 +14709,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14424,6 +14752,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14467,6 +14796,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14509,6 +14839,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14565,6 +14896,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14611,6 +14943,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14651,6 +14984,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14694,6 +15028,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14736,6 +15071,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14782,6 +15118,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14845,6 +15182,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14886,6 +15224,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14927,6 +15266,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -14973,6 +15313,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15014,6 +15355,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15056,6 +15398,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15098,6 +15441,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15144,6 +15488,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15186,6 +15531,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15227,6 +15573,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15270,6 +15617,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15315,6 +15663,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15355,6 +15704,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15397,6 +15747,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15443,6 +15794,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15489,6 +15841,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15531,6 +15884,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15572,6 +15926,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15618,6 +15973,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15664,6 +16020,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15704,6 +16061,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15746,6 +16104,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15785,6 +16144,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15831,6 +16191,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15872,6 +16233,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15914,6 +16276,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -15955,6 +16318,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16001,6 +16365,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16042,6 +16407,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16084,6 +16450,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16125,6 +16492,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16174,6 +16542,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16216,6 +16585,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16261,6 +16631,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16300,6 +16671,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16345,6 +16717,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16387,6 +16760,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16429,6 +16803,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16470,6 +16845,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16516,6 +16892,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16557,6 +16934,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16604,6 +16982,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16645,6 +17024,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16691,6 +17071,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16740,6 +17121,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16780,6 +17162,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16823,6 +17206,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16863,6 +17247,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16909,6 +17294,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16950,6 +17336,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -16991,6 +17378,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17032,6 +17420,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17079,6 +17468,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17143,6 +17533,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17184,6 +17575,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17227,6 +17619,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17268,6 +17661,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17315,6 +17709,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17356,6 +17751,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17397,6 +17793,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17440,6 +17837,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17482,6 +17880,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17528,6 +17927,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 3,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17578,6 +17978,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17619,6 +18020,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 3,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17669,6 +18071,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17710,6 +18113,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17761,6 +18165,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17800,6 +18205,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17842,6 +18248,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17883,6 +18290,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17936,6 +18344,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -17977,6 +18386,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18027,6 +18437,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18069,6 +18480,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18116,6 +18528,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18158,6 +18571,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18200,6 +18614,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18241,6 +18656,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18287,6 +18703,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18328,6 +18745,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18367,6 +18785,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18408,6 +18827,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18454,6 +18874,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18495,6 +18916,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18538,6 +18960,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18581,6 +19004,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18630,6 +19054,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18675,6 +19100,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18714,6 +19140,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18754,6 +19181,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18799,6 +19227,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18839,6 +19268,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18882,6 +19312,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18922,6 +19353,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -18968,6 +19400,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19009,6 +19442,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19048,6 +19482,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19089,6 +19524,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19135,6 +19571,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19178,6 +19615,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19221,6 +19659,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19261,6 +19700,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19302,6 +19742,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19348,6 +19789,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19411,6 +19853,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19452,6 +19895,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19495,6 +19939,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19542,6 +19987,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19605,6 +20051,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19647,6 +20094,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19688,6 +20136,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19737,6 +20186,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19782,6 +20232,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19823,6 +20274,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19864,6 +20316,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19909,6 +20362,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -19960,6 +20414,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20002,6 +20457,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20049,6 +20505,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20090,6 +20547,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20136,6 +20594,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20177,6 +20636,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20218,6 +20678,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20268,6 +20729,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20314,6 +20776,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20356,6 +20819,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20398,6 +20862,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20437,6 +20902,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20483,6 +20949,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20526,6 +20993,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20567,6 +21035,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20608,6 +21077,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20655,6 +21125,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 32,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20703,6 +21174,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20744,6 +21216,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20793,6 +21266,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20842,6 +21316,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20883,6 +21358,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20925,6 +21401,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -20964,6 +21441,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21010,6 +21488,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21051,6 +21530,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21098,6 +21578,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21139,6 +21620,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21178,6 +21660,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21224,6 +21707,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21266,6 +21750,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21309,6 +21794,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21358,6 +21844,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21410,6 +21897,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21456,6 +21944,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21505,6 +21994,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21544,6 +22034,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21600,6 +22091,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21659,6 +22151,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21702,6 +22195,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21748,6 +22242,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21788,6 +22283,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21837,6 +22333,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21889,6 +22386,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21930,6 +22428,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -21976,6 +22475,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22018,6 +22518,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22067,6 +22568,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22119,6 +22621,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22160,6 +22663,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22206,6 +22710,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22270,6 +22775,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22311,6 +22817,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22367,6 +22874,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22408,6 +22916,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22462,6 +22971,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22503,6 +23013,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22552,6 +23063,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22604,6 +23116,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22646,6 +23159,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22693,6 +23207,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22734,6 +23249,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22775,6 +23291,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22829,6 +23346,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22871,6 +23389,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22920,6 +23439,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -22960,6 +23480,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23016,6 +23537,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23075,6 +23597,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23116,6 +23639,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23163,6 +23687,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23204,6 +23729,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23245,6 +23771,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23294,6 +23821,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23336,6 +23864,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23385,6 +23914,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23427,6 +23957,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23467,6 +23998,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23508,6 +24040,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23550,6 +24083,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23597,6 +24131,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23639,6 +24174,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23682,6 +24218,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 24,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23730,6 +24267,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23771,6 +24309,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23820,6 +24359,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23863,6 +24403,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23903,6 +24444,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23950,6 +24492,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -23993,6 +24536,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24039,6 +24583,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24082,6 +24627,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24125,6 +24671,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24165,6 +24712,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24208,6 +24756,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24254,6 +24803,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24297,6 +24847,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24337,6 +24888,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 11,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24384,6 +24936,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24424,6 +24977,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24470,6 +25024,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24511,6 +25066,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24555,6 +25111,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24600,6 +25157,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24642,6 +25200,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24689,6 +25248,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24729,6 +25289,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24774,6 +25335,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24815,6 +25377,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24862,6 +25425,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24925,6 +25489,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -24967,6 +25532,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25009,6 +25575,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25051,6 +25618,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25093,6 +25661,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25143,6 +25712,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25187,6 +25757,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25230,6 +25801,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25276,6 +25848,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25317,6 +25890,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25358,6 +25932,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25401,6 +25976,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25443,6 +26019,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25486,6 +26063,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25539,6 +26117,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25584,6 +26163,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25631,6 +26211,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25678,6 +26259,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25719,6 +26301,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25760,6 +26343,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25804,6 +26388,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25845,6 +26430,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25890,6 +26476,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25932,6 +26519,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -25974,6 +26562,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26013,6 +26602,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26059,6 +26649,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26101,6 +26692,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26143,6 +26735,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26189,6 +26782,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26232,6 +26826,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26274,6 +26869,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26316,6 +26912,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26359,6 +26956,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26403,6 +27001,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26449,6 +27048,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26491,6 +27091,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26537,6 +27138,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26579,6 +27181,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26618,6 +27221,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26661,6 +27265,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26702,6 +27307,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26746,6 +27352,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26787,6 +27394,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26833,6 +27441,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26879,6 +27488,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26920,6 +27530,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -26959,6 +27570,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27009,6 +27621,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27061,6 +27674,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27105,6 +27719,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27151,6 +27766,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 6,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27199,6 +27815,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27241,6 +27858,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27285,6 +27903,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27331,6 +27950,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27377,6 +27997,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27417,6 +28038,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27472,6 +28094,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27525,6 +28148,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27572,6 +28196,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27614,6 +28239,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27656,6 +28282,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27699,6 +28326,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27739,6 +28367,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27781,6 +28410,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27828,6 +28458,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27870,6 +28501,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27911,6 +28543,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 10,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27958,6 +28591,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -27998,6 +28632,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28045,6 +28680,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28085,6 +28721,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28128,6 +28765,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28168,6 +28806,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28209,6 +28848,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28256,6 +28896,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28295,6 +28936,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28344,6 +28986,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28396,6 +29039,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28436,6 +29080,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28486,6 +29131,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28526,6 +29172,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28567,6 +29214,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28607,6 +29255,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28648,6 +29297,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28691,6 +29341,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28732,6 +29383,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28786,6 +29438,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28839,6 +29492,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28879,6 +29533,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28926,6 +29581,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -28966,6 +29622,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29008,6 +29665,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29048,6 +29706,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29090,6 +29749,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29136,6 +29796,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29177,6 +29838,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 6,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29225,6 +29887,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29265,6 +29928,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29313,6 +29977,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29359,6 +30024,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29408,6 +30074,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29450,6 +30117,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29502,6 +30170,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 1,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29550,6 +30219,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29595,6 +30265,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29637,6 +30308,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29685,6 +30357,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29728,6 +30401,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29776,6 +30450,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29822,6 +30497,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29871,6 +30547,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29913,6 +30590,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -29962,6 +30640,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30003,6 +30682,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30049,6 +30729,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30089,6 +30770,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30138,6 +30820,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox_eff",
         },
@@ -30179,6 +30862,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30225,6 +30909,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30272,6 +30957,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30313,6 +30999,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30359,6 +31046,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30400,6 +31088,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30446,6 +31135,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30489,6 +31179,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30531,6 +31222,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30572,6 +31264,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30621,6 +31314,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30670,6 +31364,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30711,6 +31406,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 32,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30759,6 +31455,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 30,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30808,6 +31505,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30853,6 +31551,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30893,6 +31592,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30935,6 +31635,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 28,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -30990,6 +31691,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31039,6 +31741,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31085,6 +31788,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31134,6 +31838,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31175,6 +31880,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31224,6 +31930,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31270,6 +31977,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31316,6 +32024,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31358,6 +32067,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31407,6 +32117,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 32,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31455,6 +32166,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31501,6 +32213,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31550,6 +32263,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31591,6 +32305,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31640,6 +32355,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31681,6 +32397,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31728,6 +32445,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31769,6 +32487,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31811,6 +32530,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31851,6 +32571,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31900,6 +32621,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31941,6 +32663,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -31986,6 +32709,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32026,6 +32750,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32071,6 +32796,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32113,6 +32839,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32160,6 +32887,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32211,6 +32939,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32257,6 +32986,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32298,6 +33028,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32341,6 +33072,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32397,6 +33129,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32456,6 +33189,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32502,6 +33236,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32551,6 +33286,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32593,6 +33329,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32635,6 +33372,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32681,6 +33419,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32723,6 +33462,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32764,6 +33504,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32818,6 +33559,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32870,6 +33612,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32911,6 +33654,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -32958,6 +33702,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33005,6 +33750,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33052,6 +33798,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33093,6 +33840,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33139,6 +33887,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33203,6 +33952,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33257,6 +34007,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33309,6 +34060,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33351,6 +34103,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33397,6 +34150,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33440,6 +34194,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33480,6 +34235,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33529,6 +34285,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33571,6 +34328,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33621,6 +34379,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 25,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33669,6 +34428,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33730,6 +34490,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33789,6 +34550,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33830,6 +34592,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33883,6 +34646,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33932,6 +34696,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -33984,6 +34749,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34026,6 +34792,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34073,6 +34840,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34123,6 +34891,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34175,6 +34944,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34217,6 +34987,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34264,6 +35035,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34306,6 +35078,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34348,6 +35121,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34391,6 +35165,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34432,6 +35207,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34478,6 +35254,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34519,6 +35296,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34576,6 +35354,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34619,6 +35398,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34668,6 +35448,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34710,6 +35491,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34758,6 +35540,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34801,6 +35584,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34846,6 +35630,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34888,6 +35673,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 5,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34935,6 +35721,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -34975,6 +35762,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35015,6 +35803,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35061,6 +35850,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35102,6 +35892,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35142,6 +35933,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35188,6 +35980,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35231,6 +36024,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35271,6 +36065,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35312,6 +36107,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35358,6 +36154,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35421,6 +36218,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35464,6 +36262,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35511,6 +36310,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35574,6 +36374,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35620,6 +36421,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35662,6 +36464,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35711,6 +36514,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35764,6 +36568,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35809,6 +36614,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35851,6 +36657,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35897,6 +36704,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35947,6 +36755,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -35988,6 +36797,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36034,6 +36844,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36075,6 +36886,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36118,6 +36930,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 15,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36167,6 +36980,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
         },
         modelSize = 1.3,
@@ -36205,6 +37019,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36244,6 +37059,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36283,6 +37099,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36322,6 +37139,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36368,6 +37186,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36411,6 +37230,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36452,6 +37272,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36499,6 +37320,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36542,6 +37364,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36591,6 +37414,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36637,6 +37461,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36678,6 +37503,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36717,6 +37543,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36763,6 +37590,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36804,6 +37632,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36843,6 +37672,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36889,6 +37719,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36938,6 +37769,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -36990,6 +37822,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37036,6 +37869,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37100,6 +37934,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37159,6 +37994,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37205,6 +38041,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37265,6 +38102,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37318,6 +38156,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37364,6 +38203,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37418,6 +38258,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37470,6 +38311,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37511,6 +38353,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37557,6 +38400,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37620,6 +38464,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37679,6 +38524,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37720,6 +38566,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37767,6 +38614,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37811,6 +38659,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37866,6 +38715,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37919,6 +38769,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -37960,6 +38811,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38015,6 +38867,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38067,6 +38920,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38109,6 +38963,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38170,6 +39025,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38229,6 +39085,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38270,6 +39127,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38347,6 +39205,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38400,6 +39259,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38441,6 +39301,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38484,6 +39345,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38524,6 +39386,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38566,6 +39429,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38613,6 +39477,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38652,6 +39517,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38692,6 +39558,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38741,6 +39608,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38793,6 +39661,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38835,6 +39704,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38881,6 +39751,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38938,6 +39809,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -38981,6 +39853,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39027,6 +39900,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 21,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39074,6 +39948,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39114,6 +39989,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39160,6 +40036,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39202,6 +40079,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39248,6 +40126,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39288,6 +40167,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39335,6 +40215,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39376,6 +40257,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39422,6 +40304,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39468,6 +40351,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39516,6 +40400,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39558,6 +40443,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39604,6 +40490,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39645,6 +40532,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39688,6 +40576,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39733,6 +40622,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39772,6 +40662,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39813,6 +40704,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39860,6 +40752,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39906,6 +40799,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39947,6 +40841,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -39993,6 +40888,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 6,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40041,6 +40937,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 6,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40089,6 +40986,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40135,6 +41033,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40176,6 +41075,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40222,6 +41122,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40262,6 +41163,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40311,6 +41213,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40364,6 +41267,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40404,6 +41308,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40449,6 +41354,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40495,6 +41401,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40548,6 +41455,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40594,6 +41502,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40648,6 +41557,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40700,6 +41610,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40760,6 +41671,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40813,6 +41725,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40861,6 +41774,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40907,6 +41821,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40949,6 +41864,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -40996,6 +41912,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 6,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41044,6 +41961,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41086,6 +42004,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41140,6 +42059,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41193,6 +42113,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41234,6 +42155,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41274,6 +42196,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41323,6 +42246,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41369,6 +42293,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41419,6 +42344,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41471,6 +42397,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41513,6 +42440,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 15,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41562,6 +42490,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 15,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41611,6 +42540,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
         },
         modelSize = 1.3,
@@ -41649,6 +42579,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41688,6 +42619,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41727,6 +42659,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41766,6 +42699,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41812,6 +42746,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41854,6 +42789,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41893,6 +42829,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41936,6 +42873,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -41988,6 +42926,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42046,6 +42985,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42087,6 +43027,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42129,6 +43070,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42169,6 +43111,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42210,6 +43153,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42253,6 +43197,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 1,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42306,6 +43251,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 1,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42354,6 +43300,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 14,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42405,6 +43352,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 14,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42456,6 +43404,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42499,6 +43448,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 14,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42550,6 +43500,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42591,6 +43542,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42631,6 +43583,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42672,6 +43625,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42712,6 +43666,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42753,6 +43708,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 8,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42800,6 +43756,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42843,6 +43800,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42886,6 +43844,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42932,6 +43891,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 11,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -42979,6 +43939,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43018,6 +43979,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 21,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43065,6 +44027,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43114,6 +44077,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 17,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43163,6 +44127,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox2",
         },
@@ -43203,6 +44168,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43257,6 +44223,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43325,6 +44292,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43392,6 +44360,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43458,6 +44427,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43511,6 +44481,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43570,6 +44541,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43629,6 +44601,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43669,6 +44642,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43717,6 +44691,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43769,6 +44744,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 24,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43809,6 +44785,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43862,6 +44839,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43930,6 +44908,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -43997,6 +44976,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44049,6 +45029,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44092,6 +45073,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 1,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44145,6 +45127,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 1,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44193,6 +45176,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44232,6 +45216,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44271,6 +45256,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44335,6 +45321,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44388,6 +45375,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44436,6 +45424,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 28,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44494,6 +45483,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44534,6 +45524,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44584,6 +45575,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44625,6 +45617,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44664,6 +45657,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44714,6 +45708,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44775,6 +45770,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44827,6 +45823,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 28,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44883,6 +45880,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44931,6 +45929,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -44976,6 +45975,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 16,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45025,6 +46025,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45069,6 +46070,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45125,6 +46127,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45178,6 +46181,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45227,6 +46231,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45268,6 +46273,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45331,6 +46337,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45384,6 +46391,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45424,6 +46432,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45465,6 +46474,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox_eff",
         },
@@ -45506,6 +46516,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox_eff",
         },
@@ -45555,6 +46566,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45622,6 +46634,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45681,6 +46694,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45721,6 +46735,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 16,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45771,6 +46786,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45824,6 +46840,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45872,6 +46889,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox_eff",
         },
@@ -45913,6 +46931,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45959,6 +46978,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -45999,6 +47019,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox_eff",
         },
@@ -46040,6 +47061,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46080,6 +47102,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46128,6 +47151,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46168,6 +47192,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46208,6 +47233,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 16,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46256,6 +47282,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46306,6 +47333,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46346,6 +47374,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46386,6 +47415,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46426,6 +47456,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46466,6 +47497,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 24,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46514,6 +47546,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 25,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46562,6 +47595,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46602,6 +47636,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46650,6 +47685,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46702,6 +47738,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46745,6 +47782,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46785,6 +47823,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46830,6 +47869,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46870,6 +47910,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46914,6 +47955,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46955,6 +47997,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -46998,6 +48041,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47041,6 +48085,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47089,6 +48134,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47141,6 +48187,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47181,6 +48228,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47222,6 +48270,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47265,6 +48314,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47308,6 +48358,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47351,6 +48402,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47394,6 +48446,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47440,6 +48493,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47490,6 +48544,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47533,6 +48588,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47575,6 +48631,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47632,6 +48689,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47672,6 +48730,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47711,6 +48770,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47769,6 +48829,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47822,6 +48883,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47879,6 +48941,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47918,6 +48981,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47957,6 +49021,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -47996,6 +49061,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48042,6 +49108,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48096,6 +49163,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48163,6 +49231,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48224,6 +49293,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48290,6 +49360,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48357,6 +49428,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48418,6 +49490,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48484,6 +49557,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48552,6 +49626,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48619,6 +49694,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48679,6 +49755,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48731,6 +49808,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48792,6 +49870,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48845,6 +49924,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48896,6 +49976,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -48957,6 +50038,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49010,6 +50092,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49050,6 +50133,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49105,6 +50189,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49178,6 +50263,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49239,6 +50325,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49306,6 +50393,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49365,6 +50453,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49405,6 +50494,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox_eff",
         },
@@ -49446,6 +50536,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49509,6 +50600,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49576,6 +50668,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49637,6 +50730,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49697,6 +50791,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49763,6 +50858,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49816,6 +50912,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 16,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49880,6 +50977,7 @@ return {
             [5] = 10000,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49947,6 +51045,7 @@ return {
             [5] = 30,
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -49999,6 +51098,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50045,6 +51145,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50096,6 +51197,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50147,6 +51249,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50198,6 +51301,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50237,6 +51341,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50277,6 +51382,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50316,6 +51422,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50356,6 +51463,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50397,6 +51505,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50446,6 +51555,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50487,6 +51597,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50528,6 +51639,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50576,6 +51688,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50618,6 +51731,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50660,6 +51774,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50702,6 +51817,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50744,6 +51860,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50786,6 +51903,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50827,6 +51945,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 22,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50875,6 +51994,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 18,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50923,6 +52043,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -50964,6 +52085,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 18,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51012,6 +52134,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51054,6 +52177,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51096,6 +52220,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51136,6 +52261,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 18,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51186,6 +52312,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 5,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51233,6 +52360,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51284,6 +52412,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51348,6 +52477,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51391,6 +52521,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51430,6 +52561,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51472,6 +52604,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51512,6 +52645,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51568,6 +52702,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51624,6 +52759,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51680,6 +52816,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51722,6 +52859,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51765,6 +52903,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51806,6 +52945,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51848,6 +52988,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51890,6 +53031,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51933,6 +53075,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -51974,6 +53117,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52037,6 +53181,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52077,6 +53222,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52119,6 +53265,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 34,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52170,6 +53317,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52209,6 +53357,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52249,6 +53398,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52292,6 +53442,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52333,6 +53484,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52376,6 +53528,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52418,6 +53571,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52464,6 +53618,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52503,6 +53658,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52550,6 +53706,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52597,6 +53754,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52644,6 +53802,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 31,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52695,6 +53854,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52741,6 +53901,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52781,6 +53942,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52824,6 +53986,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 27,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52875,6 +54038,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52921,6 +54085,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -52967,6 +54132,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53009,6 +54175,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53049,6 +54216,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53095,6 +54263,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 20,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53143,6 +54312,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53189,6 +54359,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53235,6 +54406,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53281,6 +54453,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53327,6 +54500,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 1,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53376,6 +54550,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 10,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53423,6 +54598,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53469,6 +54645,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53525,6 +54702,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53581,6 +54759,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53626,6 +54805,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53682,6 +54862,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53736,6 +54917,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53790,6 +54972,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53836,6 +55019,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53890,6 +55074,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53939,6 +55124,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -53993,6 +55179,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54034,6 +55221,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 26,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54088,6 +55276,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54128,6 +55317,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54175,6 +55365,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54215,6 +55406,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54255,6 +55447,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54297,6 +55490,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54337,6 +55531,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54377,6 +55572,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54424,6 +55620,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54469,6 +55666,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54510,6 +55708,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54556,6 +55755,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54602,6 +55802,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54642,6 +55843,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54684,6 +55886,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54726,6 +55929,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54770,6 +55974,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54810,6 +56015,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54854,6 +56060,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54896,6 +56103,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54941,6 +56149,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 12,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -54988,6 +56197,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55035,6 +56245,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55077,6 +56288,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55122,6 +56334,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55168,6 +56381,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55209,6 +56423,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 29,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55258,6 +56473,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55300,6 +56516,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55339,6 +56556,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55382,6 +56600,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55427,6 +56646,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55472,6 +56692,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55514,6 +56735,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55554,6 +56776,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 9,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55601,6 +56824,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55641,6 +56865,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55681,6 +56906,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55721,6 +56947,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55761,6 +56988,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55809,6 +57037,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55858,6 +57087,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55904,6 +57134,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55947,6 +57178,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 19,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -55995,6 +57227,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 32,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56043,6 +57276,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 32,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56091,6 +57325,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 7,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56140,6 +57375,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 32,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56188,6 +57424,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56229,6 +57466,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56278,6 +57516,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56325,6 +57564,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56364,6 +57604,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56428,6 +57669,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56467,6 +57709,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56508,6 +57751,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56556,6 +57800,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 30,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56605,6 +57850,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56652,6 +57898,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 15,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56701,6 +57948,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56740,6 +57988,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56786,6 +58035,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 33,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56843,6 +58093,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 0,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },
@@ -56884,6 +58135,7 @@ return {
         skillRoller2  = {
         },
         heroPower = 14,
+        minipack = 0,
         bodyArea = {
             [1] = "bdbox",
         },

@@ -61,6 +61,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -160,6 +161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "出來的歌曲是……難度等級SSS！？",
         game = 0,
         video = {
@@ -253,6 +255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我瞬間放開緊握著耶俱矢的手。",
         game = 0,
         video = {
@@ -346,6 +349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那麼，耶俱矢有想好去哪裡了嗎？",
         game = 0,
         video = {
@@ -440,6 +444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -533,6 +538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我和耶俱矢在商場隨意的逛著，不知不覺來到了二樓。",
         game = 0,
         video = {
@@ -626,6 +632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是的……這樣也太曖昧了吧……",
         game = 0,
         video = {
@@ -719,6 +726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嘿嘿，命運已經決定了吾等將要去的地方！噹噹噹——",
         game = 0,
         video = {
@@ -812,6 +820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我和耶俱矢來到機器前投幣，很快螢幕上進入了劇情。",
         game = 0,
         video = {
@@ -905,6 +914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？什麼聲音？",
         game = 0,
         video = {
@@ -998,6 +1008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是手指上還殘留著少女的氣息，剛剛溫暖的感覺……",
         game = 0,
         video = {
@@ -1091,6 +1102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢從包包裡拿出一張宣傳單。",
         game = 0,
         video = {
@@ -1184,6 +1196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "劇情是進入神秘森林深處的古堡，最後取得寶箱吧……",
         game = 0,
         video = {
@@ -1277,6 +1290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像是音樂聲呢……有人在唱歌嗎？",
         game = 0,
         video = {
@@ -1370,6 +1384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係的！",
         game = 0,
         video = {
@@ -1463,6 +1478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來是商場新開了一家電玩店啊。好像還有優惠活動！",
         game = 0,
         video = {
@@ -1556,6 +1572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "庫卡卡卡！雙人闖關模式嗎？吾之眷屬喲，緊緊跟在吾的身後吧！",
         game = 0,
         video = {
@@ -1649,6 +1666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不遠處的地方被人圍了起來，我拉著耶俱矢靠近才發現——",
         game = 0,
         video = {
@@ -1742,6 +1760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -1835,6 +1854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在全新的領域裡大戰一場吧！",
         game = 0,
         video = {
@@ -1928,6 +1948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢自信的舉起槍，隨時準備射擊。",
         game = 0,
         video = {
@@ -2021,6 +2042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -2114,6 +2136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在汝的指導下，吾的靈感之源被打通了！請……請繼續“指導教學”！",
         game = 0,
         video = {
@@ -2207,6 +2230,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，沒問題，現在就過去吧。",
         game = 0,
         video = {
@@ -2300,6 +2324,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈……那就拜託耶俱矢罩我了。",
         game = 0,
         video = {
@@ -2393,6 +2418,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -2486,6 +2512,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "才剛說完，耶俱矢的肚子就叫了起來。",
         game = 0,
         video = {
@@ -2579,6 +2606,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -2672,6 +2700,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "進入森林了，該不會有奇奇怪怪的東西鑽出來吧……",
         game = 0,
         video = {
@@ -2766,6 +2795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -2859,6 +2889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……說得也是！但是吾好不甘心！",
         game = 0,
         video = {
@@ -2953,6 +2984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -3046,6 +3078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "話音未落，螢幕上突然出現巨大的石頭，向著我們滾來。",
         game = 0,
         video = {
@@ -3139,6 +3172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是跳舞機啊！原來這裡新開了家電玩店！",
         game = 0,
         video = {
@@ -3232,6 +3266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係，下次再來挑戰也是一樣的哦。",
         game = 0,
         video = {
@@ -3325,6 +3360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好多人！設施也好齊全！",
         game = 0,
         video = {
@@ -3424,6 +3460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好大啊！怎麼辦？",
         game = 0,
         video = {
@@ -3517,6 +3554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "年輕的學生在跳舞機上盡情舞動著，引來其他人的圍觀。",
         game = 0,
         video = {
@@ -3610,6 +3648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "下次……還可以再來電玩店約會嗎？",
         game = 0,
         video = {
@@ -3703,6 +3742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，畢竟剛剛開業，還贈送了不少的遊戲幣呢。",
         game = 0,
         video = {
@@ -3798,6 +3838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "快躲開！",
         game = 0,
         video = {
@@ -3894,6 +3935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好有趣啊！我可以玩這個嗎？",
         game = 0,
         video = {
@@ -3987,6 +4029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "汝……汝難道想要拒絕吾嗎？",
         game = 0,
         video = {
@@ -4080,6 +4123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我在前臺兌換了遊戲幣，耶俱矢卻還站在原地。",
         game = 0,
         video = {
@@ -4173,6 +4217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然了！我去買點遊戲幣。",
         game = 0,
         video = {
@@ -4269,6 +4314,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "挑戰巨大玩偶機器",
         game = 0,
         video = {
@@ -4365,6 +4411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "再往前一點",
         game = 0,
         video = {
@@ -4458,6 +4505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然不是！我會好好教妳的……",
         game = 0,
         video = {
@@ -4551,6 +4599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "陌生的領域，為了勝利而來的勇士必須小心謹慎！",
         game = 0,
         video = {
@@ -4644,6 +4693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好了，現在可以站上去了！",
         game = 0,
         video = {
@@ -4738,6 +4788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -4831,6 +4882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等！",
         game = 0,
         video = {
@@ -4924,6 +4976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就開始吧！",
         game = 0,
         video = {
@@ -5017,6 +5070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個……耶俱矢想好要去玩哪一個了嗎？",
         game = 0,
         video = {
@@ -5110,6 +5164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這是一個玩具和機器同樣龐大的抓娃娃機，擺放在電玩店的門口。",
         game = 0,
         video = {
@@ -5203,6 +5258,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了，%s？",
         game = 0,
         video = {
@@ -5296,6 +5352,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然很不好意思，但是在耶俱矢的要求下，我再次握住了她的手。",
         game = 0,
         video = {
@@ -5389,6 +5446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……唔……",
         game = 0,
         video = {
@@ -5482,6 +5540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好大的玩偶！而且都是毛絨絨的誒！好想要！",
         game = 0,
         video = {
@@ -5575,6 +5634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我從側面看了一下，果然沒有瞄準。",
         game = 0,
         video = {
@@ -5668,6 +5728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣，時間過得飛快……",
         game = 0,
         video = {
@@ -5761,6 +5822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢憋紅了臉，好像十分急促。",
         game = 0,
         video = {
@@ -5855,6 +5917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就來試試吧？",
         game = 0,
         video = {
@@ -5949,6 +6012,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "向右躲",
         game = 0,
         video = {
@@ -6042,6 +6106,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢，向前一點點，然後按下按鈕！",
         game = 0,
         video = {
@@ -6135,6 +6200,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊……果然非常困難啊！",
         game = 0,
         video = {
@@ -6228,6 +6294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好想全部帶回家啊……",
         game = 0,
         video = {
@@ -6321,6 +6388,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我胡亂打了一下機器搖杆，走到了右邊的岔路。",
         game = 0,
         video = {
@@ -6414,6 +6482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解！",
         game = 0,
         video = {
@@ -6507,6 +6576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "連遊戲幣都花光了……",
         game = 0,
         video = {
@@ -6600,6 +6670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看來耶俱矢真的很喜歡啊。",
         game = 0,
         video = {
@@ -6693,6 +6764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢得到了我的回應，毫不猶豫的按下了按鈕。果然，海豚玩偶被牢牢抓住，然後掉進了出口。",
         game = 0,
         video = {
@@ -6786,6 +6858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "總覺得耶俱矢已經完全掌握了，難道是故意失敗的嗎……",
         game = 0,
         video = {
@@ -6879,6 +6952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！汝作為颶風之子的男人，請助吾一臂之力吧！",
         game = 0,
         video = {
@@ -6973,6 +7047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -7066,6 +7141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "但是感覺非常滿足呢！",
         game = 0,
         video = {
@@ -7159,6 +7235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個說法也太霸道了吧……",
         game = 0,
         video = {
@@ -7252,6 +7329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "海豚……是海豚！好可愛！",
         game = 0,
         video = {
@@ -7345,6 +7423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "滿足嗎？",
         game = 0,
         video = {
@@ -7438,6 +7517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不過，這也是耶俱矢的說話風格嘛。",
         game = 0,
         video = {
@@ -7531,6 +7611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好大的玩偶！軟綿綿的~！",
         game = 0,
         video = {
@@ -7624,6 +7705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……我的意思是……專注於秘技的學習非常滿足！",
         game = 0,
         video = {
@@ -7717,6 +7799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒問題。我來幫耶俱矢看準時機好了。",
         game = 0,
         video = {
@@ -7810,6 +7893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，多虧了耶俱矢操作得很好，一次就成功了呢！",
         game = 0,
         video = {
@@ -7903,6 +7987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吾正式任命汝為颶風之子的教學導師，請下次繼續努力吧!",
         game = 0,
         video = {
@@ -7996,6 +8081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣，我將遊戲幣投了進去，耶俱矢小心翼翼的操縱著搖杆……",
         game = 0,
         video = {
@@ -8095,6 +8181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗚啊——！！又miss了！",
         game = 0,
         video = {
@@ -8188,6 +8275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的！",
         game = 0,
         video = {
@@ -8281,6 +8369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s快幫忙看看，這樣……應該對準了吧？",
         game = 0,
         video = {
@@ -8374,6 +8463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "miss次數好多！這樣下去A都要拿不到了，怎麼辦……",
         game = 0,
         video = {
@@ -8468,6 +8558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "別慌，掌握竅門就好！",
         game = 0,
         video = {
@@ -8561,6 +8652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看上去是的……剛好可以抓到海豚呢。",
         game = 0,
         video = {
@@ -8654,6 +8746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看著耶俱矢慌張的眼神……",
         game = 0,
         video = {
@@ -8748,6 +8841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什麼？我完全不知道啊……？",
         game = 0,
         video = {
@@ -8841,6 +8935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是，總覺得哪裡不對勁……",
         game = 0,
         video = {
@@ -8934,6 +9029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢妳覺得開心嗎？",
         game = 0,
         video = {
@@ -9027,6 +9123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢，把重心放在左腳上，左腳的動作比較單一！",
         game = 0,
         video = {
@@ -9122,6 +9219,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可以按按鈕了嗎？",
         game = 0,
         video = {
@@ -9219,6 +9317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "去玩刺激的項目怎麼樣?",
         game = 0,
         video = {
@@ -9312,6 +9411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……雖然沒能得到SSS，但是吾有了挑戰的目標！盡情的揮灑汗水也很開心……",
         game = 0,
         video = {
@@ -9405,6 +9505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦……好……",
         game = 0,
         video = {
@@ -9499,6 +9600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "玩跳舞機",
         game = 0,
         video = {
@@ -9593,6 +9695,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "排行榜上的難度歌曲",
         game = 0,
         video = {
@@ -9686,6 +9789,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒錯，來電玩店就是要玩讓人心臟怦怦亂跳的項目才對嘛！%s有推薦的嗎？",
         game = 0,
         video = {
@@ -9779,6 +9883,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，開心就好，這才是約會的意義嘛！",
         game = 0,
         video = {
@@ -9872,6 +9977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "然後專注於右腳的動作，按照節奏踩踏板~",
         game = 0,
         video = {
@@ -9965,6 +10071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……果然是命運的選擇啊。",
         game = 0,
         video = {
@@ -10058,6 +10165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "人氣第一的歌曲，應該不會難到哪裡去吧……相信耶俱矢一定能完成的。",
         game = 0,
         video = {
@@ -10151,6 +10259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "像這樣……",
         game = 0,
         video = {
@@ -10244,6 +10353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "說得也是，一起來挑戰吧？",
         game = 0,
         video = {
@@ -10337,6 +10447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "噢！好像很有用！",
         game = 0,
         video = {
@@ -10430,6 +10541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了？不喜歡嗎？",
         game = 0,
         video = {
@@ -10529,6 +10641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "難度等級SSS!?",
         game = 0,
         video = {
@@ -10622,6 +10735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吾去哪裡都能遊刃有餘呢，還是讓汝來決定好了。",
         game = 0,
         video = {
@@ -10715,6 +10829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -10808,6 +10923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢的右腳飛快的來回踩著踏板，螢幕上Combo數量逐漸多了起來，分數也有回升。",
         game = 0,
         video = {
@@ -10901,6 +11017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒什麼。吾和夕弦曾經約定的項目，不過至今沒能開始比賽呢。沒想到今天先和%s來體驗了。",
         game = 0,
         video = {
@@ -10994,6 +11111,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那當然，我很帥氣吧？",
         game = 0,
         video = {
@@ -11087,6 +11205,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這麼自信的嗎？那麼我選擇……",
         game = 0,
         video = {
@@ -11181,6 +11300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼哼，難度top榜上的曲目等著，風之女王來了！",
         game = 0,
         video = {
@@ -11280,6 +11400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "勝利！耶——",
         game = 0,
         video = {
@@ -11373,6 +11494,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來如此，那耶俱矢好好體驗一下，下次帶著夕弦一起來吧！",
         game = 0,
         video = {
@@ -11466,6 +11588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然總覺得哪裡不對勁，但是耶俱矢獨自戰鬥的樣子……",
         game = 0,
         video = {
@@ -11559,6 +11682,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦……",
         game = 0,
         video = {
@@ -11652,6 +11776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -11745,6 +11870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "曲目結束了，耶俱矢興奮的跳了起來。然而走到我面前時卻跌了一跤。",
         game = 0,
         video = {
@@ -11838,6 +11964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！%s來做我的陪練吧。",
         game = 0,
         video = {
@@ -11931,6 +12058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢想要哪一個呢？",
         game = 0,
         video = {
@@ -12030,6 +12158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等……！",
         game = 0,
         video = {
@@ -12123,6 +12252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -12216,6 +12346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "掌握了秘技的話，吾一定能輕鬆K.O夕弦的，嘿嘿嘿……",
         game = 0,
         video = {
@@ -12309,6 +12440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就……最近的這隻吧……",
         game = 0,
         video = {
@@ -12402,6 +12534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢突然拉起我的手，興奮的再次回到了舞蹈機上。",
         game = 0,
         video = {
@@ -12501,6 +12634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小心——！",
         game = 0,
         video = {
@@ -12594,6 +12728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是可怕的勝負欲啊……沒問題，一起來跳吧。",
         game = 0,
         video = {
@@ -12687,6 +12822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒問題，像這樣……按下按鈕！",
         game = 0,
         video = {
@@ -12780,6 +12916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢就這樣靠在了我的懷裡。",
         game = 0,
         video = {
@@ -12873,6 +13010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我和耶俱矢一齊跳上了跳舞機。",
         game = 0,
         video = {
@@ -12966,6 +13104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我另一隻手伸了過去，按下了按鈕。",
         game = 0,
         video = {
@@ -13059,6 +13198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "右腿……好像抽筋了！好痛啊……",
         game = 0,
         video = {
@@ -13154,6 +13294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就要開始了嗎？快點選一首歌吧！",
         game = 0,
         video = {
@@ -13250,6 +13391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "快看，成功了哦~妳怎麼……不說話？",
         game = 0,
         video = {
@@ -13343,6 +13485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "剛剛耶俱矢太拼命了吧……",
         game = 0,
         video = {
@@ -13437,6 +13580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -13530,6 +13674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當我行雲流水的做完這一切後才發現，耶俱矢居然被我攬在了懷中！",
         game = 0,
         video = {
@@ -13626,6 +13771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "挑戰小掛飾機器",
         game = 0,
         video = {
@@ -13722,6 +13868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒錯，就是現在！",
         game = 0,
         video = {
@@ -13815,6 +13962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因為貼得近的緣故，我可以清晰的看見耶俱矢的耳朵都紅了……",
         game = 0,
         video = {
@@ -13909,6 +14057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -14002,6 +14151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "到吾的懷裡來吧，小海豚！",
         game = 0,
         video = {
@@ -14096,6 +14246,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -14189,6 +14340,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢得到了我的回應，毫不猶豫的按下了按鈕。",
         game = 0,
         video = {
@@ -14282,6 +14434,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這是一個玩具和機器都同樣迷你的抓娃娃機，因為玩具大多是可愛的掛飾之類，很多小朋友也圍在這裡。",
         game = 0,
         video = {
@@ -14375,6 +14528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只見機械的爪子從海豚玩偶的旁邊擦過，只是將海豚玩偶翻了個身。",
         game = 0,
         video = {
@@ -14468,6 +14622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很受小孩子歡迎的，想必難度不會太大吧。",
         game = 0,
         video = {
@@ -14561,6 +14716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？怎麼會這樣！？明明已經瞄準了啊！",
         game = 0,
         video = {
@@ -14655,6 +14811,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢的舞姿很漂亮",
         game = 0,
         video = {
@@ -14748,6 +14905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好可愛的掛飾！",
         game = 0,
         video = {
@@ -14841,6 +14999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像……爪子的角度稍微靠後了一點呢……",
         game = 0,
         video = {
@@ -14934,6 +15093,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的？漂亮……？",
         game = 0,
         video = {
@@ -15027,6 +15187,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢趴在玻璃上，瞪大了眼睛，似乎十分喜歡。",
         game = 0,
         video = {
@@ -15120,6 +15281,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "從正面看雖然是對準了，但從側面看的話，還差一點距離。",
         game = 0,
         video = {
@@ -15213,6 +15375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然了！又漂亮又帥氣，大家都被耶俱矢的身影吸引了……",
         game = 0,
         video = {
@@ -15306,6 +15469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我可以試試嗎？",
         game = 0,
         video = {
@@ -15399,6 +15563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還真是值得挑戰呢！風之女王是不會輕易服輸的！",
         game = 0,
         video = {
@@ -15492,6 +15657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然，吾之眷屬……汝也被吾輩的帥氣深深吸引了嗎？",
         game = 0,
         video = {
@@ -15585,6 +15751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然啦！",
         game = 0,
         video = {
@@ -15678,6 +15845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就再次挑戰吧！",
         game = 0,
         video = {
@@ -15771,6 +15939,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……這樣說也沒錯啦。",
         game = 0,
         video = {
@@ -15864,6 +16033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我將遊戲幣放進了機器，耶俱矢聚精會神的緊盯著機器小爪子。",
         game = 0,
         video = {
@@ -15957,6 +16127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "然而不知道為什麼，耶俱矢總是差一點才成功。就這樣我們花光了所有的遊戲幣。",
         game = 0,
         video = {
@@ -16050,6 +16221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那麼一起來跳吧！雙人模式開啟！",
         game = 0,
         video = {
@@ -16143,6 +16315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就是現在！",
         game = 0,
         video = {
@@ -16236,6 +16409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢……",
         game = 0,
         video = {
@@ -16330,6 +16504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -16423,6 +16598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -16516,6 +16692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢自信的按下了按鈕。",
         game = 0,
         video = {
@@ -16609,6 +16786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天真是失敗，居然沒能成功給耶俱矢抓到娃娃，她不會失望吧……",
         game = 0,
         video = {
@@ -16702,6 +16880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不好意思，久等了！",
         game = 0,
         video = {
@@ -16795,6 +16974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢突然拉住我的手，將我也拉到了跳舞機上。",
         game = 0,
         video = {
@@ -16888,6 +17068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "爪子精準的抓住了一個小熊掛飾，然後……搖搖晃晃的，終於成功來到了出口。",
         game = 0,
         video = {
@@ -16981,6 +17162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈！電玩店什麼的，果然是值得挑戰的戰場啊！",
         game = 0,
         video = {
@@ -17074,6 +17256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係，是我來得太早了……嗯？今天耶俱矢特意打扮過了嗎？",
         game = 0,
         video = {
@@ -17167,6 +17350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不用擔心，就讓舞蹈王者的吾輩來帶領汝獲得勝利吧！",
         game = 0,
         video = {
@@ -17260,6 +17444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "成功了！",
         game = 0,
         video = {
@@ -17353,6 +17538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -17447,6 +17633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我扶著你去坐坐吧",
         game = 0,
         video = {
@@ -17540,6 +17727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦……",
         game = 0,
         video = {
@@ -17633,6 +17821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢抓著掛飾，興奮的抓住了我的肩膀。",
         game = 0,
         video = {
@@ -17726,6 +17915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吾今天非常滿足哦，%s！下次再來挑戰吧！",
         game = 0,
         video = {
@@ -17825,6 +18015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呀……！",
         game = 0,
         video = {
@@ -17918,6 +18109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因為剛剛運動了的關係，耶俱矢的手心十分溫熱。我的心跳突然加速……",
         game = 0,
         video = {
@@ -18011,6 +18203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈，耶俱矢果然厲害啊！",
         game = 0,
         video = {
@@ -18105,6 +18298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "從簡單的遊戲入手怎麼樣？",
         game = 0,
         video = {
@@ -18198,6 +18392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "剛剛邁出一步，耶俱矢就倒在我的身上。",
         game = 0,
         video = {
@@ -18294,6 +18489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "畢竟爪子太鬆了啊……",
         game = 0,
         video = {
@@ -18388,6 +18584,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "系統推薦的舞曲",
         game = 0,
         video = {
@@ -18481,6 +18678,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "庫庫庫，汝就臣服于風之女王的腳下吧！",
         game = 0,
         video = {
@@ -18574,6 +18772,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "恩恩，沒錯！就是這樣，從簡單到困難，一步一腳印征服整個領地！",
         game = 0,
         video = {
@@ -18667,6 +18866,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個……抱歉，好像走不了了……",
         game = 0,
         video = {
@@ -18760,6 +18960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然是機器的問題！狡猾的商人！",
         game = 0,
         video = {
@@ -18856,6 +19057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要練習就好了，快試試吧。",
         game = 0,
         video = {
@@ -18949,6 +19151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼樣……是不是感覺挺簡單的？",
         game = 0,
         video = {
@@ -19042,6 +19245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個……",
         game = 0,
         video = {
@@ -19135,6 +19339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -19228,6 +19433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢漲紅了臉，十分不好意思。",
         game = 0,
         video = {
@@ -19321,6 +19527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就在耶俱矢痛駡的時候，一陣劇烈的歡呼聲傳來。",
         game = 0,
         video = {
@@ -19414,6 +19621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼哼！放馬過來吧！吾一定能成功掌握秘技的！",
         game = 0,
         video = {
@@ -19507,6 +19715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢自信的舞動起來，我也被她感染……",
         game = 0,
         video = {
@@ -19600,6 +19809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦，對了，給汝的禮物。",
         game = 0,
         video = {
@@ -19696,6 +19906,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -19789,6 +20000,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "難道是為了阻止我的勝利，魔王機器給吾下了詛咒？",
         game = 0,
         video = {
@@ -19882,6 +20094,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了？",
         game = 0,
         video = {
@@ -19975,6 +20188,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢氣勢洶洶的接過我手中的遊戲幣，不停的投入到機器中。",
         game = 0,
         video = {
@@ -20068,6 +20282,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一個個彩色的箭頭方塊在螢幕上劃過，耶俱矢有些生澀的摸索著。",
         game = 0,
         video = {
@@ -20161,6 +20376,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢將剛拿到的小熊掛飾放在了我的手心。",
         game = 0,
         video = {
@@ -20254,6 +20470,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我和耶俱矢來到抓娃娃機面前。",
         game = 0,
         video = {
@@ -20347,6 +20564,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "別瞎猜了，妳只是過度鍛煉肌肉緊繃了而已。交給我吧！",
         game = 0,
         video = {
@@ -20440,6 +20658,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……B區那邊不知道發生了什麼，大概是有人玩遊戲引起圍觀了吧。",
         game = 0,
         video = {
@@ -20533,6 +20752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在經歷了幾次失敗後，愈挫愈勇。",
         game = 0,
         video = {
@@ -20626,6 +20846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼回事？吾的身體好像被施展了詛咒！完全跟不上了！",
         game = 0,
         video = {
@@ -20719,6 +20940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？給我的？",
         game = 0,
         video = {
@@ -20812,6 +21034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "讓我先來給耶俱矢抓一個吧。",
         game = 0,
         video = {
@@ -20905,6 +21128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我蹲下身，抱起了耶俱矢。",
         game = 0,
         video = {
@@ -20998,6 +21222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "B區？為什麼會有人圍觀？",
         game = 0,
         video = {
@@ -21091,6 +21316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "來回搖擺……啊！吾好像突然頓悟了！",
         game = 0,
         video = {
@@ -21184,6 +21410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "其實只要踩到對應的按鍵上就算成功，注意聽節奏，節奏比音樂更重要！",
         game = 0,
         video = {
@@ -21277,6 +21504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！剛剛你不是很想要小熊玩偶嗎？但是遺憾，機器被詛咒了，只有送你小熊掛飾了。",
         game = 0,
         video = {
@@ -21370,6 +21598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "被命運選中的少年，請盡情展示你的技能吧！",
         game = 0,
         video = {
@@ -21463,6 +21692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -21556,6 +21786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "最受歡迎的格鬥遊戲和射擊遊戲都在B區呢，而且跳舞機也有可能引起圍觀吧……",
         game = 0,
         video = {
@@ -21649,6 +21880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是嗎？",
         game = 0,
         video = {
@@ -21742,6 +21974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白了！",
         game = 0,
         video = {
@@ -21835,6 +22068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來妳惦記著這個啊……",
         game = 0,
         video = {
@@ -21928,6 +22162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s，加油啊！",
         game = 0,
         video = {
@@ -22021,6 +22256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "汝……汝這樣沒有經過女王的允許！就算是吾之眷屬也不能這樣……",
         game = 0,
         video = {
@@ -22114,6 +22350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我分析了半天，乾脆決定帶耶俱矢去看看。",
         game = 0,
         video = {
@@ -22207,6 +22444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "命運的羅盤在此宣告，風之女王的力量將擊敗此地的魔咒！",
         game = 0,
         video = {
@@ -22300,6 +22538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢很快掌握了節奏，逐漸自如起來。",
         game = 0,
         video = {
@@ -22393,6 +22632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "剛剛我和耶俱矢幾次都失敗了，耶俱矢誤以為我很想要小熊玩偶吧。",
         game = 0,
         video = {
@@ -22486,6 +22726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……",
         game = 0,
         video = {
@@ -22579,6 +22820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是耶俱矢必須坐下休息啊。抱歉，我馬上放開！",
         game = 0,
         video = {
@@ -22672,6 +22914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "走吧！去看看！那邊可是最熱鬧的區域哦！~",
         game = 0,
         video = {
@@ -22765,6 +23008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢自信的按下了按鈕，一個垂耳兔玩偶穩穩的掉進了出口。",
         game = 0,
         video = {
@@ -22858,6 +23102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "圍觀的人越來越多，身形輕盈的少女隨著音樂自由舞動，螢幕上的perfect也越來越多。",
         game = 0,
         video = {
@@ -22951,6 +23196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "總之，汝喜歡的話，吾都可以拿到的哦！",
         game = 0,
         video = {
@@ -23044,6 +23290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在耶俱矢期盼的目光下，我有點緊張了……",
         game = 0,
         video = {
@@ -23137,6 +23384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢紅著臉想要指責我，最後卻還是埋下了頭。",
         game = 0,
         video = {
@@ -23230,6 +23478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -23323,6 +23572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抓到了！真厲害啊！",
         game = 0,
         video = {
@@ -23416,6 +23666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "最終評分是S哦！怎麼樣？",
         game = 0,
         video = {
@@ -23509,6 +23760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢臉紅通通的，自信的插著腰，似乎在等我的誇獎。",
         game = 0,
         video = {
@@ -23602,6 +23854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "3……2……1！",
         game = 0,
         video = {
@@ -23695,6 +23948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -23789,6 +24043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -23882,6 +24137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然，只要不停練習就會成功啊！",
         game = 0,
         video = {
@@ -23975,6 +24231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢的額頭有一些薄汗，但是心情非常好的樣子……",
         game = 0,
         video = {
@@ -24069,6 +24326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "謝謝妳，耶俱矢。不愧是颶風之子，果然厲害！",
         game = 0,
         video = {
@@ -24163,6 +24421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊……好可惜……",
         game = 0,
         video = {
@@ -24257,6 +24516,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -24350,6 +24610,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇……果然好多人啊！大家都很興奮的樣子，吾也躍躍欲試了呢。",
         game = 0,
         video = {
@@ -24443,6 +24704,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嘿嘿，垂耳兔玩偶，很可愛吧？",
         game = 0,
         video = {
@@ -24536,6 +24798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢有些為難的看著手裡剩下的遊戲幣。",
         game = 0,
         video = {
@@ -24629,6 +24892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小熊玩偶被爪子抓住，然而快到出口時卻掉了下來。",
         game = 0,
         video = {
@@ -24722,6 +24986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我快速走到椅子前，將耶俱矢放了下來。",
         game = 0,
         video = {
@@ -24815,6 +25080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那……跳舞機和射擊遊戲，耶俱矢想要玩哪個呢？",
         game = 0,
         video = {
@@ -24908,6 +25174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊……耶俱矢終於勝利了呢。",
         game = 0,
         video = {
@@ -25001,6 +25268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "下次在一起吧。",
         game = 0,
         video = {
@@ -25094,6 +25362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "差一點……好像有點難的樣子。耶俱矢要來試試嗎？",
         game = 0,
         video = {
@@ -25187,6 +25456,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "謝……謝了。",
         game = 0,
         video = {
@@ -25281,6 +25551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我會好好珍藏的，這是耶俱矢的心意啊",
         game = 0,
         video = {
@@ -25374,6 +25645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢撫摸著玩偶的耳朵，似乎在對兔子玩偶說話。",
         game = 0,
         video = {
@@ -25467,6 +25739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "下次……嗎？可以嗎？",
         game = 0,
         video = {
@@ -25561,6 +25834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我來救妳",
         game = 0,
         video = {
@@ -25654,6 +25928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼哼，放心交給吾吧！",
         game = 0,
         video = {
@@ -25747,6 +26022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係。就在這裡休息一下吧。",
         game = 0,
         video = {
@@ -25840,6 +26116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真是可惜，剛剛%s看中的小熊沒能抓起來。",
         game = 0,
         video = {
@@ -25933,6 +26210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就讓吾給汝多找一些小夥伴吧！說吧，汝想要拯救的是誰？",
         game = 0,
         video = {
@@ -26026,6 +26304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！下次再一起約會，一起來玩吧！",
         game = 0,
         video = {
@@ -26119,6 +26398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然寶藏近在眼前，但我依然衝進了怪獸群。",
         game = 0,
         video = {
@@ -26212,6 +26492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢接替了我，興奮的啟動了機器。",
         game = 0,
         video = {
@@ -26305,6 +26586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒想到跳舞機還真是值得挑戰的地方啊！",
         game = 0,
         video = {
@@ -26398,6 +26680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有這個我已經很滿足了。",
         game = 0,
         video = {
@@ -26491,6 +26774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "玩偶兔當然是不會說話的啦……",
         game = 0,
         video = {
@@ -26584,6 +26868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "下次的約會啊……一言為定！",
         game = 0,
         video = {
@@ -26677,6 +26962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢，妳快離開！去旁邊的房間就可以開啟最終寶箱了！",
         game = 0,
         video = {
@@ -26770,6 +27056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "失……失敗了？",
         game = 0,
         video = {
@@ -26863,6 +27150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吾今天非常滿足哦，%s！下次再來挑戰吧！",
         game = 0,
         video = {
@@ -26956,6 +27244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼，沒有颶風之子辦不到的事情！讓吾再次挑戰那被邪惡包圍的機器吧！",
         game = 0,
         video = {
@@ -27049,6 +27338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢的意思是還想要繼續挑戰嗎？",
         game = 0,
         video = {
@@ -27142,6 +27432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然還是要把夕弦叫來一起……！",
         game = 0,
         video = {
@@ -27235,6 +27526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什麼！？汝難道想要為了吾而犧牲自己嗎？",
         game = 0,
         video = {
@@ -27328,6 +27620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "也許……往左邊一點點就能成功了吧……",
         game = 0,
         video = {
@@ -27421,6 +27714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！一言為定！",
         game = 0,
         video = {
@@ -27514,6 +27808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？妳的意思是……？",
         game = 0,
         video = {
@@ -27607,6 +27902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吾感覺到身體裡流動著特別的能量，這個機器所有的娃娃，都將被吾拯救出來！",
         game = 0,
         video = {
@@ -27706,6 +28002,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是啦！我的意思是，雖然不習慣，但是我很期待呢。",
         game = 0,
         video = {
@@ -27799,6 +28096,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒辦法了，快去吧！我來斷後。",
         game = 0,
         video = {
@@ -27892,6 +28190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒錯，颶風之子怎麼可能被這一點困難打倒。",
         game = 0,
         video = {
@@ -27991,6 +28290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我胡亂打了一下機器搖杆，走到了左邊的岔路。",
         game = 0,
         video = {
@@ -28084,6 +28384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小熊玩偶，一定要把你抓起來！",
         game = 0,
         video = {
@@ -28177,6 +28478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "要……要專心才能學會秘技啊……",
         game = 0,
         video = {
@@ -28270,6 +28572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "期待？",
         game = 0,
         video = {
@@ -28363,6 +28666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可惡……要和%s一起通關，才叫真的通關！",
         game = 0,
         video = {
@@ -28456,6 +28760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢再次投幣，興奮的開始第二次挑戰。",
         game = 0,
         video = {
@@ -28549,6 +28854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還沒等我們鬆一口氣，螢幕上直接地動山搖起來。",
         game = 0,
         video = {
@@ -28642,6 +28948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像耶俱矢被激發了鬥志了啊……",
         game = 0,
         video = {
@@ -28735,6 +29042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢的眼睛閃閃發光，好像不是在開玩笑的樣子……",
         game = 0,
         video = {
@@ -28828,6 +29136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，單獨和耶俱矢約會的機會可不多呢。",
         game = 0,
         video = {
@@ -28921,6 +29230,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？可是……",
         game = 0,
         video = {
@@ -29014,6 +29324,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "左邊一點點……就是現在！",
         game = 0,
         video = {
@@ -29113,6 +29424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎、怎麼了？",
         game = 0,
         video = {
@@ -29206,6 +29518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣我們回到了最初的機器面前。",
         game = 0,
         video = {
@@ -29299,6 +29612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所有的話……恐怕會有難度吧……",
         game = 0,
         video = {
@@ -29392,6 +29706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這……這樣啊……",
         game = 0,
         video = {
@@ -29485,6 +29800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢返了回來，舉起槍對著怪獸一通射擊。",
         game = 0,
         video = {
@@ -29578,6 +29894,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……再次失敗！？怎麼回事？",
         game = 0,
         video = {
@@ -29677,6 +29994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……蜘蛛怪獸！快射擊！",
         game = 0,
         video = {
@@ -29770,6 +30088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不如我們合作吧？",
         game = 0,
         video = {
@@ -29863,6 +30182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊，身體裡抑制不住的力量即將覺醒！%s，請幫我投幣。",
         game = 0,
         video = {
@@ -29956,6 +30276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那麼，耶俱矢有想要去的地方嗎？",
         game = 0,
         video = {
@@ -30049,6 +30370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "令人驚訝的是，這次耶俱矢幾乎百發百中，超級神準。",
         game = 0,
         video = {
@@ -30142,6 +30464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還要再試試嗎？",
         game = 0,
         video = {
@@ -30235,6 +30558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一隻巨大的蜘蛛怪獸向我們衝過來。",
         game = 0,
         video = {
@@ -30328,6 +30652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還可以合作嗎？",
         game = 0,
         video = {
@@ -30421,6 +30746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦……好。",
         game = 0,
         video = {
@@ -30514,6 +30840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個……那個……今天沒有帶攻略書，我也不知道要去哪裡。",
         game = 0,
         video = {
@@ -30608,6 +30935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好厲害……",
         game = 0,
         video = {
@@ -30701,6 +31029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不可思議，一定是特別的魔咒在這個機器上！",
         game = 0,
         video = {
@@ -30794,6 +31123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗚啊！好多腿，噁心~接受風之子的制裁吧！",
         game = 0,
         video = {
@@ -30887,6 +31217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，我聽說如果稍微搖晃一下爪子，可以依靠慣性將娃娃甩到出口的地方哦！",
         game = 0,
         video = {
@@ -30980,6 +31311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我偷偷看著耶俱矢，她完全沒注意到我，已經再次重整旗鼓，對機器發起了攻擊。",
         game = 0,
         video = {
@@ -31073,6 +31405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "愣著乾什麼呀？一起衝出去吧！",
         game = 0,
         video = {
@@ -31166,6 +31499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "讓吾來小心破解吧——",
         game = 0,
         video = {
@@ -31259,6 +31593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我和耶俱矢舉起槍，不停的射出子彈。",
         game = 0,
         video = {
@@ -31352,6 +31687,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "像這樣……",
         game = 0,
         video = {
@@ -31445,6 +31781,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "命運的羅盤在此宣告，風之女王的力量將擊敗此地的魔咒！",
         game = 0,
         video = {
@@ -31538,6 +31875,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦！",
         game = 0,
         video = {
@@ -31631,6 +31969,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "結果依然是……",
         game = 0,
         video = {
@@ -31724,6 +32063,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可惡……好難瞄準……難道吾等要葬身於此了嗎？",
         game = 0,
         video = {
@@ -31817,6 +32157,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我一把握住耶俱矢的手，一起操縱著搖杆。",
         game = 0,
         video = {
@@ -31910,6 +32251,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "加油！",
         game = 0,
         video = {
@@ -32003,6 +32345,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣，我和耶俱矢一起衝出重圍，最後順利通關。",
         game = 0,
         video = {
@@ -32097,6 +32440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我幫妳揉揉腿吧",
         game = 0,
         video = {
@@ -32190,6 +32534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "隨著怪獸越走越近，耶俱矢有些慌亂了。",
         game = 0,
         video = {
@@ -32284,6 +32629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "稍微晃動一下就好了，不要太用力。",
         game = 0,
         video = {
@@ -32377,6 +32723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "終於，在掌握了技巧之後，一個垂耳兔玩偶穩穩的掉進了出口。",
         game = 0,
         video = {
@@ -32471,6 +32818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -32564,6 +32912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "麻煩你了。",
         game = 0,
         video = {
@@ -32657,6 +33006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦……",
         game = 0,
         video = {
@@ -32750,6 +33100,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "迅速成為“抓娃娃達人”的耶俱矢，真是不可思議啊……",
         game = 0,
         video = {
@@ -32842,6 +33193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "成功了！",
         game = 0,
         video = {
@@ -32935,6 +33287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我蹲下身，輕輕揉搓著耶俱矢的小腿。",
         game = 0,
         video = {
@@ -33031,6 +33384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "別著急，玩這個需要掌握方法",
         game = 0,
         video = {
@@ -33124,6 +33478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢想要哪一個呢？",
         game = 0,
         video = {
@@ -33217,6 +33572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "多虧了耶俱矢啊，突然變成了神槍手一樣。",
         game = 0,
         video = {
@@ -33313,6 +33669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "握住耶俱矢的手一起操作",
         game = 0,
         video = {
@@ -33406,6 +33763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "難道%s掌握了抓娃娃的秘技嗎！",
         game = 0,
         video = {
@@ -33502,6 +33860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "超時",
         game = 0,
         video = {
@@ -33595,6 +33954,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "讓%s犧牲什麼的，想都不要想！吾就感覺到身體裡突然充滿了力量呢！",
         game = 0,
         video = {
@@ -33688,6 +34048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這樣……舒服點了嗎？",
         game = 0,
         video = {
@@ -33781,6 +34142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "秘技倒是談不上啦……不過確實有些小技巧。",
         game = 0,
         video = {
@@ -33874,6 +34236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒問題，像這樣……按下按鈕！",
         game = 0,
         video = {
@@ -33967,6 +34330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢自信的舉了舉手中的槍，就像一個力挽狂瀾的英雄。",
         game = 0,
         video = {
@@ -34060,6 +34424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "痛……！",
         game = 0,
         video = {
@@ -34153,6 +34518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來%s還留了一手啊……馬上說出來的話，吾就赦免你的罪孽吧。",
         game = 0,
         video = {
@@ -34246,6 +34612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我另一隻手伸了過去，按下了按鈕。",
         game = 0,
         video = {
@@ -34339,6 +34706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "汝覺得吾的水準怎麼樣？",
         game = 0,
         video = {
@@ -34432,6 +34800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，抱歉！",
         game = 0,
         video = {
@@ -34525,6 +34894,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "據我所知，趴著的娃娃一般重心比較穩，相對容易抓起來哦！",
         game = 0,
         video = {
@@ -34618,6 +34988,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "快看，成功了哦~妳怎麼……不說話？",
         game = 0,
         video = {
@@ -34711,6 +35082,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢真是……太帥氣了~",
         game = 0,
         video = {
@@ -34803,6 +35175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我嚇了一跳，連忙鬆開手。",
         game = 0,
         video = {
@@ -34897,6 +35270,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "超時",
         game = 0,
         video = {
@@ -34990,6 +35364,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來如此！難怪剛剛抓不起來……",
         game = 0,
         video = {
@@ -35083,6 +35458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -35176,6 +35552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒？奇怪！完全不疼了！%s真厲害啊~",
         game = 0,
         video = {
@@ -35275,6 +35652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "發什麼呆啊！",
         game = 0,
         video = {
@@ -35368,6 +35746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "然後儘量選擇靠近出口的、外觀不要太光滑的娃娃，難度會大大降低。",
         game = 0,
         video = {
@@ -35461,6 +35840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當我行雲流水的做完這一切後才發現，耶俱矢居然被我攬在了懷中！",
         game = 0,
         video = {
@@ -35554,6 +35934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢說著還跳了兩下，欣喜的看著我。",
         game = 0,
         video = {
@@ -35647,6 +36028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢胡亂操縱了一下搖杆，總算躲過了一劫。",
         game = 0,
         video = {
@@ -35740,6 +36122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "最後在操作的時候，可以讓爪子來回搖擺，在擺回來時迅速按下，依靠慣性，娃娃就會掉進洞中了。",
         game = 0,
         video = {
@@ -35833,6 +36216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因為貼得近的緣故，我可以清晰的看見耶俱矢的耳朵都紅了……",
         game = 0,
         video = {
@@ -35926,6 +36310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以啊，不要太拼命了，否則肌肉太緊繃了就會這樣抽筋……",
         game = 0,
         video = {
@@ -36019,6 +36404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還沒等我們鬆一口氣，螢幕上的地面突然劇烈顫抖，從土裡冒出了許多可怕的怪獸。",
         game = 0,
         video = {
@@ -36112,6 +36498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "來回搖擺……",
         game = 0,
         video = {
@@ -36211,6 +36598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱歉……！我失禮了！",
         game = 0,
         video = {
@@ -36304,6 +36692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -36403,6 +36792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好多被感染的小蜘蛛怪！嗚啊——好噁心！",
         game = 0,
         video = {
@@ -36496,6 +36886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢的手握在操作搖杆上，嘗試了幾下後露出困惑的表情。",
         game = 0,
         video = {
@@ -36595,6 +36986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！？耶俱矢呢！！？",
         game = 0,
         video = {
@@ -36688,6 +37080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "快跑！數量太多了！",
         game = 0,
         video = {
@@ -36781,6 +37174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像有點奇怪呢……不太明白。",
         game = 0,
         video = {
@@ -36875,6 +37269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我一轉頭，只看見耶俱矢再次奔向了舞蹈機。",
         game = 0,
         video = {
@@ -36968,6 +37363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我操縱著搖杆回到正軌，然而身後的怪物窮追不捨，我的螢幕上不停的顯示出紅色。",
         game = 0,
         video = {
@@ -37062,6 +37458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -37155,6 +37552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這樣下去血量要見底了啊……",
         game = 0,
         video = {
@@ -37249,6 +37647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗚哦哦哦哦！接受風之子的挑戰吧！魔王機器！",
         game = 0,
         video = {
@@ -37343,6 +37742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我也送妳一個禮物吧",
         game = 0,
         video = {
@@ -37437,6 +37837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "掩護我，我馬上就好！",
         game = 0,
         video = {
@@ -37530,6 +37931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這一次，吾一定讓汝臣服在腳下！",
         game = 0,
         video = {
@@ -37623,6 +38025,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？回禮？",
         game = 0,
         video = {
@@ -37716,6 +38119,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒問題！",
         game = 0,
         video = {
@@ -37809,6 +38213,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看著耶俱矢興奮的表情，我也忍不住露出微笑。",
         game = 0,
         video = {
@@ -37902,6 +38307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我拉著耶俱矢來到了門口的巨型抓娃娃機面前。",
         game = 0,
         video = {
@@ -37996,6 +38402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "偶爾也要嘗試沒有對方的時候啊",
         game = 0,
         video = {
@@ -38089,6 +38496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢對我鄭重的點了點頭，舉起了槍示意。",
         game = 0,
         video = {
@@ -38183,6 +38591,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就跟著我好了。",
         game = 0,
         video = {
@@ -38276,6 +38685,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喂喂……注意別受傷了！",
         game = 0,
         video = {
@@ -38372,6 +38782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -38465,6 +38876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "比如現在，好好享受約會吧。",
         game = 0,
         video = {
@@ -38558,6 +38970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "前進吧！吾之眷屬喲！汝的後方就交給吾了！讓吾來斷後吧！",
         game = 0,
         video = {
@@ -38651,6 +39064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我拉著耶俱矢來到了電玩店。",
         game = 0,
         video = {
@@ -38744,6 +39158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "知道了！",
         game = 0,
         video = {
@@ -38837,6 +39252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s真的沒問題嗎？感覺是超級困難級別的抓娃娃機呢！",
         game = 0,
         video = {
@@ -38930,6 +39346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢的意思是……？",
         game = 0,
         video = {
@@ -39023,6 +39440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因為太長時間沒有選擇，系統自動跳轉了排行榜第一的歌曲。",
         game = 0,
         video = {
@@ -39116,6 +39534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "為了耶俱矢，我會努力的！請耶俱矢為我加油吧！",
         game = 0,
         video = {
@@ -39209,6 +39628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "光榮的犧牲，換來的是隊友的成功！一切為了寶藏，奮勇前進吧！",
         game = 0,
         video = {
@@ -39308,6 +39728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等……這個難度是……SSS！？",
         game = 0,
         video = {
@@ -39401,6 +39822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "為了吾嗎……明白了！",
         game = 0,
         video = {
@@ -39494,6 +39916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢帥氣的一揮手，抱著手中的槍戰鬥起來。",
         game = 0,
         video = {
@@ -39587,6 +40010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我慎重的將遊戲幣投了進去，小心翼翼的操控著搖杆，看準了之後按下了按鈕。",
         game = 0,
         video = {
@@ -39680,6 +40104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我也來不及猶豫，聽話的向著閃閃發光的道具走去……",
         game = 0,
         video = {
@@ -39773,6 +40198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "海豚！是大海豚啊！加油，%s！",
         game = 0,
         video = {
@@ -39867,6 +40293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我們分開打它的腿！",
         game = 0,
         video = {
@@ -39960,6 +40387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "通關了！歐耶——！",
         game = 0,
         video = {
@@ -40053,6 +40481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "機器爪子牢牢的抓住海豚玩偶，順利的來到了出口。",
         game = 0,
         video = {
@@ -40146,6 +40575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白了！這樣它就沒辦法動彈了吧！",
         game = 0,
         video = {
@@ -40239,6 +40669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱歉啊，最後只有我拿到了寶藏，耶俱矢的角色卻犧牲了。",
         game = 0,
         video = {
@@ -40332,6 +40763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "然而……海豚在掉落的時候，正好卡在了出口附近。",
         game = 0,
         video = {
@@ -40425,6 +40857,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我和耶俱矢不斷射擊著蜘蛛怪的八條腿，很快它就轟然倒下了。",
         game = 0,
         video = {
@@ -40518,6 +40951,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼哼，能夠得到最終勝利，多虧了我哦！",
         game = 0,
         video = {
@@ -40611,6 +41045,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -40704,6 +41139,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就差一點點……",
         game = 0,
         video = {
@@ -40797,6 +41233,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "遊戲幣已經用完了啦！而且現在很晚了，耶俱矢不餓嗎？",
         game = 0,
         video = {
@@ -40890,6 +41327,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好厲害啊……居然一次過關了。",
         game = 0,
         video = {
@@ -40983,6 +41421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是是是……",
         game = 0,
         video = {
@@ -41076,6 +41515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢卻全神貫注的注視著螢幕，熟練的射擊著。最後竟然真的獨自通關了……",
         game = 0,
         video = {
@@ -41169,6 +41609,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不是這個意思……",
         game = 0,
         video = {
@@ -41262,6 +41703,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？汝是看不起我的能力嗎？這就證明給汝看！",
         game = 0,
         video = {
@@ -41355,6 +41797,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係，我這裡的遊戲幣還有很多……",
         game = 0,
         video = {
@@ -41448,6 +41891,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "拜託了……",
         game = 0,
         video = {
@@ -41541,6 +41985,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我明白了，之後的一切都靠吾了對吧？放心吧，吾會化身孤狼，完美的通關完成任務！",
         game = 0,
         video = {
@@ -41634,6 +42079,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "跑得……還真快啊。",
         game = 0,
         video = {
@@ -41727,6 +42173,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不過……汝不愧是風之子看上的男人，關鍵時刻不賴嘛！",
         game = 0,
         video = {
@@ -41820,6 +42267,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什麼！？汝怎麼不早說啊？吾已經到達任務點了！",
         game = 0,
         video = {
@@ -41913,6 +42361,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我已經陷入包圍了，就讓我來斷後吧，耶俱矢加油！",
         game = 0,
         video = {
@@ -42006,6 +42455,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "謝謝妳，耶俱矢。",
         game = 0,
         video = {
@@ -42099,6 +42549,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在我的慘叫聲中，螢幕中的耶俱矢猶如天神從天而降，擊倒了無數怪獸。",
         game = 0,
         video = {
@@ -42192,6 +42643,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "仿佛有一陣風吹過似的，卡在出口處的海豚玩偶突然掉了下來。",
         game = 0,
         video = {
@@ -42285,6 +42737,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吾來了，汝等雜碎受死吧！",
         game = 0,
         video = {
@@ -42379,6 +42832,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢，妳好好加油！",
         game = 0,
         video = {
@@ -42472,6 +42926,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢大力拍了拍我的肩膀。",
         game = 0,
         video = {
@@ -42566,6 +43021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢，救命啊！！",
         game = 0,
         video = {
@@ -42659,6 +43115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你……願意和我一起嗎？",
         game = 0,
         video = {
@@ -42752,6 +43209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不愧是吾之眷屬喲~挺聰明的嘛！",
         game = 0,
         video = {
@@ -42845,6 +43303,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我找到了！那邊房間有個閃閃發光的東西，快來……",
         game = 0,
         video = {
@@ -42944,6 +43403,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "成……成功了！？",
         game = 0,
         video = {
@@ -43037,6 +43497,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "螢幕中的耶俱矢被怪獸團團包圍，眼看是不能過來了。",
         game = 0,
         video = {
@@ -43137,6 +43598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呀！我被包圍了！救命啊！",
         game = 0,
         video = {
@@ -43230,6 +43692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "為了通關而默契合作的體驗，既刺激又甜蜜。",
         game = 0,
         video = {
@@ -43323,6 +43786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解！",
         game = 0,
         video = {
@@ -43416,6 +43880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "注意找到寶藏就好，不要戀戰。",
         game = 0,
         video = {
@@ -43512,6 +43977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我們換一個機器試試？",
         game = 0,
         video = {
@@ -43605,6 +44071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "任務是在古堡拿到寶藏嗎？哼哼哼，藏在角落裡的可憐蟲喲，成為吾等的槍下亡靈吧！",
         game = 0,
         video = {
@@ -43698,6 +44165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢迫不及待的將海豚玩偶從出口處拿了出來。",
         game = 0,
         video = {
@@ -43791,6 +44259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "經歷了這一關後，後面我和耶俱矢完美的配合，終於進入了最後一關。",
         game = 0,
         video = {
@@ -43884,6 +44353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "之後依然按照這樣操作，我們一定能成功~",
         game = 0,
         video = {
@@ -43977,6 +44447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢保護我的樣子……",
         game = 0,
         video = {
@@ -44070,6 +44541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈！成功了！",
         game = 0,
         video = {
@@ -44166,6 +44638,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "親自示範",
         game = 0,
         video = {
@@ -44259,6 +44732,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "也是機器不太好的緣故吧，明明耶俱矢的操作那麼完美……",
         game = 0,
         video = {
@@ -44352,6 +44826,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "螢幕裡的怪獸轟然倒下，我和耶俱矢默契的擊掌慶賀。",
         game = 0,
         video = {
@@ -44446,6 +44921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -44539,6 +45015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白了！呀啊啊——！受死吧！",
         game = 0,
         video = {
@@ -44632,6 +45109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "跟著提示來準沒錯，頭上就是它的弱點！",
         game = 0,
         video = {
@@ -44725,6 +45203,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真像一個帥氣的王者啊。",
         game = 0,
         video = {
@@ -44817,6 +45296,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然。我陪妳一起！現在先去吃飯吧~",
         game = 0,
         video = {
@@ -44910,6 +45390,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我來給妳示範一下好了。",
         game = 0,
         video = {
@@ -45003,6 +45484,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有道理，在完美的操作下，我們一定能成功的！",
         game = 0,
         video = {
@@ -45096,6 +45578,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "多虧了%s一直在旁邊幫忙，吾今天真是太開心了！",
         game = 0,
         video = {
@@ -45189,6 +45672,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好大的玩偶！軟綿綿的~！",
         game = 0,
         video = {
@@ -45283,6 +45767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一起打頭上的大紅圈！",
         game = 0,
         video = {
@@ -45376,6 +45861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我和耶俱矢一股腦的對著石頭射擊起來。",
         game = 0,
         video = {
@@ -45469,6 +45955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "稍微晃動一下就好了，不要太用力。",
         game = 0,
         video = {
@@ -45563,6 +46050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "厲害了，要不要增加難度？",
         game = 0,
         video = {
@@ -45656,6 +46144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好，讓吾來好好觀察一下汝的秘技是否管用吧！",
         game = 0,
         video = {
@@ -45749,6 +46238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "然而……",
         game = 0,
         video = {
@@ -45842,6 +46332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！先填滿肚子吧！",
         game = 0,
         video = {
@@ -45935,6 +46426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天真是太開心了！",
         game = 0,
         video = {
@@ -46028,6 +46520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣跳了很多首曲子之後……",
         game = 0,
         video = {
@@ -46122,6 +46615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "今天是耶俱矢和我約會哦",
         game = 0,
         video = {
@@ -46215,6 +46709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！當然！一起挑戰吧！",
         game = 0,
         video = {
@@ -46308,6 +46803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "音樂響起，剛開始耶俱矢還能跟得上，但是沒過多久腳步就亂了。",
         game = 0,
         video = {
@@ -46401,6 +46897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒問題……那……我們還是選它吧！",
         game = 0,
         video = {
@@ -46494,6 +46991,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在換了幾台機器後，耶俱矢依舊失敗了。似乎受到了更大的打擊。",
         game = 0,
         video = {
@@ -46587,6 +47085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢紅著臉後退一步，退出了我的懷抱。",
         game = 0,
         video = {
@@ -46680,6 +47179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢抱著玩偶，將下巴深深的埋了進去，眼睛幾乎瞇成了一條縫。",
         game = 0,
         video = {
@@ -46773,6 +47273,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢抱著玩偶，將下巴深深的埋了進去，眼睛幾乎眯成了一條縫。",
         game = 0,
         video = {
@@ -46866,6 +47367,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在耶俱矢期待的目光下，我們約定了下一次的約會內容。",
         game = 0,
         video = {
@@ -46958,6 +47460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "失敗了！吾已經被特殊的詛咒纏上了嗎……",
         game = 0,
         video = {
@@ -47051,6 +47554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！可是電玩店我還沒有玩到其他項目啊……",
         game = 0,
         video = {
@@ -47144,6 +47648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我的手握上了搖杆，對準了剛剛幾次都掉了下來的小熊玩偶。",
         game = 0,
         video = {
@@ -47238,6 +47743,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對著石頭射擊",
         game = 0,
         video = {
@@ -47331,6 +47837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白了！呀啊啊——！粉碎吧，巨石怪！",
         game = 0,
         video = {
@@ -47424,6 +47931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢喜歡海豚玩偶嗎？",
         game = 0,
         video = {
@@ -47517,6 +48025,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一起達成SSS成就吧！",
         game = 0,
         video = {
@@ -47610,6 +48119,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "繼續，出現紅圈了，我們瞄準紅圈射擊！",
         game = 0,
         video = {
@@ -47703,6 +48213,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "馬上就要壓過來了啊！",
         game = 0,
         video = {
@@ -47796,6 +48307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這裡的機器長得都一樣！一定是邪惡的魔咒擴散到了每一台機器上！",
         game = 0,
         video = {
@@ -47889,6 +48401,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "在耶俱矢的努力下，小熊玩偶現在離出口很近了。",
         game = 0,
         video = {
@@ -47982,6 +48495,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s，有沒有其他型號的機器呢？這個型號的已經被邪惡勢力佔領了……",
         game = 0,
         video = {
@@ -48075,6 +48589,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要老是想著其他人了啊。",
         game = 0,
         video = {
@@ -48168,6 +48683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！更重要的是，這是%s的禮物啊！當然要好好珍藏了。",
         game = 0,
         video = {
@@ -48261,6 +48777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嘿嘿，一言為定！",
         game = 0,
         video = {
@@ -48354,6 +48871,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像身體被掏空……",
         game = 0,
         video = {
@@ -48453,6 +48971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不管了，打它！",
         game = 0,
         video = {
@@ -48546,6 +49065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢喜歡海豚玩偶嗎？",
         game = 0,
         video = {
@@ -48639,6 +49159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s好厲害！已經抓起來了！接下來要進行命運的決戰了！",
         game = 0,
         video = {
@@ -48732,6 +49253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢有些彆扭的捲緊了衣角，似乎有點尷尬。",
         game = 0,
         video = {
@@ -48825,6 +49347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "跳舞機真是個神奇的東西，讓人忘記了時間啊……",
         game = 0,
         video = {
@@ -48918,6 +49441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "謝謝你，%s，真的……很喜歡！",
         game = 0,
         video = {
@@ -49011,6 +49535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "糟糕，好像耶俱矢受到了不小的打擊啊……",
         game = 0,
         video = {
@@ -49107,6 +49632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "超時",
         game = 0,
         video = {
@@ -49200,6 +49726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，肚子餓了……",
         game = 0,
         video = {
@@ -49293,6 +49820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "說得也是啊……我和%s單獨的約會……",
         game = 0,
         video = {
@@ -49386,6 +49914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "能否突破娃娃機的厄運魔咒呢……？",
         game = 0,
         video = {
@@ -49479,6 +50008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "旁邊有小一點的機器，抓起來的娃娃都是掛飾之類的。應該比現在的要簡單吧。",
         game = 0,
         video = {
@@ -49572,6 +50102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，非常適合妳呢！",
         game = 0,
         video = {
@@ -49665,6 +50196,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢露出了害羞的笑容，如同冬日的陽光一樣溫暖了我。",
         game = 0,
         video = {
@@ -49757,6 +50289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "繼續指導的意思是……",
         game = 0,
         video = {
@@ -49850,6 +50383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！更重要的是，這是%s和吾共同努力得到的獎勵啊！",
         game = 0,
         video = {
@@ -49943,6 +50477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這樣啊……那就一起玩吧！",
         game = 0,
         video = {
@@ -50036,6 +50571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這麼有自信？",
         game = 0,
         video = {
@@ -50129,6 +50665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一定可以的！請看好我吧！",
         game = 0,
         video = {
@@ -50222,6 +50759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "店門口還有更大一點的娃娃，那裡的娃娃都很漂亮，是整個店的門面呢！",
         game = 0,
         video = {
@@ -50316,6 +50854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "向左躲",
         game = 0,
         video = {
@@ -50409,6 +50948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一起去吃飯吧！",
         game = 0,
         video = {
@@ -50502,6 +51042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這樣啊……",
         game = 0,
         video = {
@@ -50596,6 +51137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "玩得開心就好，不用在意輸贏",
         game = 0,
         video = {
@@ -50689,6 +51231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就……最近的這隻吧……",
         game = 0,
         video = {
@@ -50782,6 +51325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱歉……吾一定能掌握的！",
         game = 0,
         video = {
@@ -50875,6 +51419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "成……成功了！？",
         game = 0,
         video = {
@@ -50968,6 +51513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "聽上去都不錯呢！吾就讓汝來決定好了！",
         game = 0,
         video = {
@@ -51062,6 +51608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "再來一隻吧！",
         game = 0,
         video = {
@@ -51155,6 +51702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真厲害……！",
         game = 0,
         video = {
@@ -51248,6 +51796,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然今天耶俱矢沒能獲得SSS的評分，但是……",
         game = 0,
         video = {
@@ -51341,6 +51890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！",
         game = 0,
         video = {
@@ -51434,6 +51984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一次又一次的排隊站上跳舞機，耶俱矢仿佛不知疲倦一般。",
         game = 0,
         video = {
@@ -51527,6 +52078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "糟糕，怎麼聽起來像是在指責耶俱矢一樣啊……",
         game = 0,
         video = {
@@ -51620,6 +52172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "小熊玩偶落入了出口，耶俱矢興奮的抓住了我的肩膀。",
         game = 0,
         video = {
@@ -51713,6 +52266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "螢幕裡的巨石應聲粉碎，我和耶俱矢很有默契的擊掌慶賀。",
         game = 0,
         video = {
@@ -51806,6 +52360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然沒有抓到娃娃，但是……",
         game = 0,
         video = {
@@ -51902,6 +52457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -51995,6 +52551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個……沒有夕弦的吐槽，好像感覺有點不習慣呢……",
         game = 0,
         video = {
@@ -52090,6 +52647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我的心裡……怎麼感覺有點失落呢……",
         game = 0,
         video = {
@@ -52183,6 +52741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦！好像有點奇妙……",
         game = 0,
         video = {
@@ -52276,6 +52835,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼哼~對於dance女王來說，就算是超高難度也完全沒問題哦！",
         game = 0,
         video = {
@@ -52369,6 +52929,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哈哈哈！不愧是%s的獨家秘技啊！",
         game = 0,
         video = {
@@ -52462,6 +53023,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "看到耶俱矢興奮的笑容，我就放心了。",
         game = 0,
         video = {
@@ -52554,6 +53116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣，時間很快過去了……",
         game = 0,
         video = {
@@ -52653,6 +53216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？所有！？",
         game = 0,
         video = {
@@ -52746,6 +53310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這首歌好像人氣也很高……糟糕，難度SSS！",
         game = 0,
         video = {
@@ -52839,6 +53404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！為了今天的約會，吾可是專門挑選了衣服，還化了妝呢！",
         game = 0,
         video = {
@@ -52932,6 +53498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我投幣之後還沒有反應過來，耶俱矢已經再次抓出了小熊玩偶。",
         game = 0,
         video = {
@@ -53025,6 +53592,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "吾感覺到了困難的氣息……",
         game = 0,
         video = {
@@ -53118,6 +53686,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，這個小熊就送給妳吧。",
         game = 0,
         video = {
@@ -53211,6 +53780,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了？",
         game = 0,
         video = {
@@ -53304,6 +53874,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒問題！吾已經完全掌握了技巧，接下來是dance女王的時間了！",
         game = 0,
         video = {
@@ -53400,6 +53971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我來指導你就可以。",
         game = 0,
         video = {
@@ -53494,6 +54066,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢加油！給妳打節拍",
         game = 0,
         video = {
@@ -53587,6 +54160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "細膩的皮膚，溫熱的觸感，我有些害羞的不敢看耶俱矢。",
         game = 0,
         video = {
@@ -53680,6 +54254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像有點晚了，耶俱矢肚子餓了嗎？",
         game = 0,
         video = {
@@ -53773,6 +54348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不知不覺一下午的時間都過去了呢……",
         game = 0,
         video = {
@@ -53866,6 +54442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "謝謝！",
         game = 0,
         video = {
@@ -53959,6 +54536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼樣？合……合適嗎？",
         game = 0,
         video = {
@@ -54052,6 +54630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好累啊！",
         game = 0,
         video = {
@@ -54146,6 +54725,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要多加練習一定能成功的",
         game = 0,
         video = {
@@ -54239,6 +54819,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "瞭解！吾是不會認輸的！覺醒吧，dance女王之力！",
         game = 0,
         video = {
@@ -54332,6 +54913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -54425,6 +55007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢伸出手問我要硬幣，我卻攤開了雙手。",
         game = 0,
         video = {
@@ -54519,6 +55102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確實有點不習慣呢",
         game = 0,
         video = {
@@ -54612,6 +55196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s看上去很輕鬆的樣子，吾要什麼時候才能打破機器的魔咒呢……？",
         game = 0,
         video = {
@@ -54709,6 +55294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "再等一下！",
         game = 0,
         video = {
@@ -54802,6 +55388,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢不斷挑戰著曲目，越來越熟練……終於成為了電玩店最亮麗的風景線。",
         game = 0,
         video = {
@@ -54894,6 +55481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "說得也是！",
         game = 0,
         video = {
@@ -54987,6 +55575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢拼命加快步伐，然而還是漏掉了不少。",
         game = 0,
         video = {
@@ -55080,6 +55669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "總之，要近距離的指導，吾才能完全掌握秘技就是了！",
         game = 0,
         video = {
@@ -55174,6 +55764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就隨便逛逛吧",
         game = 0,
         video = {
@@ -55267,6 +55858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哼哼，果然颶風之子的魅力沒有人能夠抵擋呢！",
         game = 0,
         video = {
@@ -55360,6 +55952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "像剛剛那樣……握住手，然後貼在一起……",
         game = 0,
         video = {
@@ -55453,6 +56046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒錯，就是這樣，小熊也需要夥伴們！",
         game = 0,
         video = {
@@ -55546,6 +56140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咕嚕嚕……",
         game = 0,
         video = {
@@ -55639,6 +56234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢用力點了點頭，轉身再次挑戰。",
         game = 0,
         video = {
@@ -55732,6 +56328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……呼……最後的得分……只是B！？怎麼這樣！",
         game = 0,
         video = {
@@ -55826,6 +56423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "玩射擊遊戲",
         game = 0,
         video = {
@@ -55919,6 +56517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -56012,6 +56611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "耶俱矢的話仿佛一切都理所當然，只有泛紅的臉頰出賣了她。",
         game = 0,
         video = {
@@ -56106,6 +56706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "隨機一個吧",
         game = 0,
         video = {
@@ -56202,6 +56803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳……妳是不是分心了啊？",
         game = 0,
         video = {
@@ -56295,6 +56897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我想想……格鬥遊戲和射擊遊戲是最受歡迎的項目，但是跳舞機也是年輕人的新寵哦。",
         game = 0,
         video = {
@@ -56391,6 +56994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱歉！我失禮了！",
         game = 0,
         video = {
@@ -56484,6 +57088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明明吾已經釋放了所有的力量了才對！",
         game = 0,
         video = {
@@ -56578,6 +57183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -56671,6 +57277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我一把握住耶俱矢的手，一起操縱著搖杆。",
         game = 0,
         video = {

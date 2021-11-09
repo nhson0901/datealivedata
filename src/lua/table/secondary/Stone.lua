@@ -12,6 +12,7 @@ return {
         nameTextId = "1120417",
         icon = "icon/stone/113701/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -54,6 +55,7 @@ return {
         nameTextId = "1110762",
         icon = "icon/stone/112501/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -92,6 +94,7 @@ return {
         nameTextId = "1110993",
         icon = "icon/stone/113701/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -134,6 +137,7 @@ return {
         nameTextId = "1120366",
         icon = "icon/stone/112801/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -177,6 +181,7 @@ return {
         nameTextId = "1110639",
         icon = "icon/stone/111701/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -215,6 +220,7 @@ return {
         nameTextId = "1110878",
         icon = "icon/stone/112801/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -271,6 +277,7 @@ return {
         nameTextId = "1110109",
         icon = "icon/stone/110401/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -309,6 +316,7 @@ return {
         nameTextId = "1120418",
         icon = "icon/stone/113701/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -351,6 +359,7 @@ return {
         nameTextId = "1110763",
         icon = "icon/stone/112501/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -389,6 +398,7 @@ return {
         nameTextId = "1110994",
         icon = "icon/stone/113701/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -431,6 +441,7 @@ return {
         nameTextId = "1120367",
         icon = "icon/stone/112801/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -474,6 +485,7 @@ return {
         nameTextId = "1110640",
         icon = "icon/stone/111701/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -512,6 +524,7 @@ return {
         nameTextId = "1110879",
         icon = "icon/stone/112801/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -567,6 +580,7 @@ return {
         nameTextId = "1110110",
         icon = "icon/stone/110401/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -605,6 +619,7 @@ return {
         nameTextId = "1120419",
         icon = "icon/stone/113701/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -647,6 +662,7 @@ return {
         nameTextId = "1110764",
         icon = "icon/stone/112501/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -685,6 +701,7 @@ return {
         nameTextId = "1110995",
         icon = "icon/stone/113701/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -727,6 +744,7 @@ return {
         nameTextId = "1120368",
         icon = "icon/stone/112801/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -770,6 +788,7 @@ return {
         nameTextId = "1110880",
         icon = "icon/stone/112801/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -825,6 +844,7 @@ return {
         nameTextId = "1110111",
         icon = "icon/stone/110401/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -863,6 +883,7 @@ return {
         nameTextId = "1120420",
         icon = "icon/stone/113701/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -905,6 +926,7 @@ return {
         nameTextId = "1110565",
         icon = "icon/stone/111501/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -943,6 +965,7 @@ return {
         nameTextId = "1110996",
         icon = "icon/stone/113701/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -985,6 +1008,7 @@ return {
         nameTextId = "1120289",
         icon = "icon/stone/112201/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -1027,6 +1051,7 @@ return {
         nameTextId = "1110705",
         icon = "icon/stone/112201/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -1065,6 +1090,7 @@ return {
         nameTextId = "1120341",
         icon = "icon/stone/112701/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -1108,6 +1134,7 @@ return {
         nameTextId = "1110566",
         icon = "icon/stone/111501/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -1146,6 +1173,7 @@ return {
         nameTextId = "1110821",
         icon = "icon/stone/112701/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -1184,6 +1212,7 @@ return {
         nameTextId = "1120290",
         icon = "icon/stone/112201/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -1226,6 +1255,7 @@ return {
         nameTextId = "1120393",
         icon = "icon/stone/113201/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -1269,6 +1299,7 @@ return {
         nameTextId = "1110706",
         icon = "icon/stone/112201/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -1307,6 +1338,7 @@ return {
         nameTextId = "1110937",
         icon = "icon/stone/113201/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -1349,6 +1381,7 @@ return {
         nameTextId = "1120342",
         icon = "icon/stone/112701/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -1392,6 +1425,7 @@ return {
         nameTextId = "1110567",
         icon = "icon/stone/111501/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -1430,6 +1464,7 @@ return {
         nameTextId = "1110822",
         icon = "icon/stone/112701/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -1486,6 +1521,7 @@ return {
         nameTextId = "1110053",
         icon = "icon/stone/110201/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -1524,6 +1560,7 @@ return {
         nameTextId = "1120394",
         icon = "icon/stone/113201/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -1567,6 +1604,7 @@ return {
         nameTextId = "1110707",
         icon = "icon/stone/112201/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -1605,6 +1643,7 @@ return {
         nameTextId = "1110938",
         icon = "icon/stone/113201/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -1647,6 +1686,7 @@ return {
         nameTextId = "1120343",
         icon = "icon/stone/112701/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -1690,6 +1730,7 @@ return {
         nameTextId = "1110568",
         icon = "icon/stone/111501/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -1728,6 +1769,7 @@ return {
         nameTextId = "1110823",
         icon = "icon/stone/112701/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -1783,6 +1825,7 @@ return {
         nameTextId = "1110054",
         icon = "icon/stone/110201/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -1821,6 +1864,7 @@ return {
         nameTextId = "1120395",
         icon = "icon/stone/113201/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -1864,6 +1908,7 @@ return {
         nameTextId = "1110708",
         icon = "icon/stone/112201/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -1902,6 +1947,7 @@ return {
         nameTextId = "1110939",
         icon = "icon/stone/113201/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -1944,6 +1990,7 @@ return {
         nameTextId = "1120344",
         icon = "icon/stone/112701/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -1987,6 +2034,7 @@ return {
         nameTextId = "1110824",
         icon = "icon/stone/112701/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -2042,6 +2090,7 @@ return {
         nameTextId = "1110055",
         icon = "icon/stone/110201/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -2080,6 +2129,7 @@ return {
         nameTextId = "1120396",
         icon = "icon/stone/113201/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -2123,6 +2173,7 @@ return {
         nameTextId = "1110505",
         icon = "icon/stone/110210/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -2161,6 +2212,7 @@ return {
         nameTextId = "1110940",
         icon = "icon/stone/113201/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -2203,6 +2255,7 @@ return {
         nameTextId = "1120265",
         icon = "icon/stone/111701/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -2245,6 +2298,7 @@ return {
         nameTextId = "1110641",
         icon = "icon/stone/111701/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -2283,6 +2337,7 @@ return {
         nameTextId = "1120317",
         icon = "icon/stone/112501/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -2326,6 +2381,7 @@ return {
         nameTextId = "1110506",
         icon = "icon/stone/110210/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -2364,6 +2420,7 @@ return {
         nameTextId = "1110765",
         icon = "icon/stone/112501/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -2402,6 +2459,7 @@ return {
         nameTextId = "1120266",
         icon = "icon/stone/111701/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -2444,6 +2502,7 @@ return {
         nameTextId = "1120369",
         icon = "icon/stone/112801/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -2487,6 +2546,7 @@ return {
         nameTextId = "1110642",
         icon = "icon/stone/111701/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -2525,6 +2585,7 @@ return {
         nameTextId = "1110881",
         icon = "icon/stone/112801/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -2567,6 +2628,7 @@ return {
         nameTextId = "1120318",
         icon = "icon/stone/112501/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -2610,6 +2672,7 @@ return {
         nameTextId = "1110507",
         icon = "icon/stone/110210/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -2648,6 +2711,7 @@ return {
         nameTextId = "1110766",
         icon = "icon/stone/112501/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -2686,6 +2750,7 @@ return {
         nameTextId = "1120267",
         icon = "icon/stone/111701/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -2736,6 +2801,7 @@ return {
         nameTextId = "1110997",
         icon = "icon/stone/113701/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -2778,6 +2844,7 @@ return {
         nameTextId = "1120370",
         icon = "icon/stone/112801/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -2821,6 +2888,7 @@ return {
         nameTextId = "1110643",
         icon = "icon/stone/111701/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -2859,6 +2927,7 @@ return {
         nameTextId = "1110882",
         icon = "icon/stone/112801/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -2901,6 +2970,7 @@ return {
         nameTextId = "1120319",
         icon = "icon/stone/112501/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -2944,6 +3014,7 @@ return {
         nameTextId = "1110508",
         icon = "icon/stone/110210/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -2982,6 +3053,7 @@ return {
         nameTextId = "1110767",
         icon = "icon/stone/112501/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -3020,6 +3092,7 @@ return {
         nameTextId = "1120268",
         icon = "icon/stone/111701/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -3069,6 +3142,7 @@ return {
         nameTextId = "1110998",
         icon = "icon/stone/113701/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -3111,6 +3185,7 @@ return {
         nameTextId = "1120371",
         icon = "icon/stone/112801/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -3154,6 +3229,7 @@ return {
         nameTextId = "1110644",
         icon = "icon/stone/111701/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -3192,6 +3268,7 @@ return {
         nameTextId = "1110883",
         icon = "icon/stone/112801/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -3234,6 +3311,7 @@ return {
         nameTextId = "1120320",
         icon = "icon/stone/112501/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -3277,6 +3355,7 @@ return {
         nameTextId = "1110768",
         icon = "icon/stone/112501/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -3322,6 +3401,7 @@ return {
         nameTextId = "1110999",
         icon = "icon/stone/113701/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -3364,6 +3444,7 @@ return {
         nameTextId = "1120372",
         icon = "icon/stone/112801/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -3407,6 +3488,7 @@ return {
         nameTextId = "1110449",
         icon = "icon/stone/110208/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -3445,6 +3527,7 @@ return {
         nameTextId = "1110884",
         icon = "icon/stone/112801/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -3487,6 +3570,7 @@ return {
         nameTextId = "1120241",
         icon = "icon/stone/111501/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -3529,6 +3613,7 @@ return {
         nameTextId = "1110569",
         icon = "icon/stone/111501/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -3574,6 +3659,7 @@ return {
         nameTextId = "1111000",
         icon = "icon/stone/113701/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -3616,6 +3702,7 @@ return {
         nameTextId = "1120293",
         icon = "icon/stone/112201/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -3658,6 +3745,7 @@ return {
         nameTextId = "1110450",
         icon = "icon/stone/110208/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -3696,6 +3784,7 @@ return {
         nameTextId = "1110709",
         icon = "icon/stone/112201/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -3734,6 +3823,7 @@ return {
         nameTextId = "1120242",
         icon = "icon/stone/111501/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -3776,6 +3866,7 @@ return {
         nameTextId = "1120345",
         icon = "icon/stone/112701/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -3819,6 +3910,7 @@ return {
         nameTextId = "1110570",
         icon = "icon/stone/111501/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -3857,6 +3949,7 @@ return {
         nameTextId = "1110825",
         icon = "icon/stone/112701/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -3899,6 +3992,7 @@ return {
         nameTextId = "1120294",
         icon = "icon/stone/112201/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -3941,6 +4035,7 @@ return {
         nameTextId = "1110451",
         icon = "icon/stone/110208/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -3979,6 +4074,7 @@ return {
         nameTextId = "1110710",
         icon = "icon/stone/112201/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -4017,6 +4113,7 @@ return {
         nameTextId = "1120243",
         icon = "icon/stone/111501/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -4067,6 +4164,7 @@ return {
         nameTextId = "1110941",
         icon = "icon/stone/113201/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -4109,6 +4207,7 @@ return {
         nameTextId = "1120346",
         icon = "icon/stone/112701/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -4152,6 +4251,7 @@ return {
         nameTextId = "1110571",
         icon = "icon/stone/111501/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -4190,6 +4290,7 @@ return {
         nameTextId = "1110826",
         icon = "icon/stone/112701/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -4232,6 +4333,7 @@ return {
         nameTextId = "1120295",
         icon = "icon/stone/112201/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -4274,6 +4376,7 @@ return {
         nameTextId = "1110452",
         icon = "icon/stone/110208/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -4312,6 +4415,7 @@ return {
         nameTextId = "1110711",
         icon = "icon/stone/112201/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -4350,6 +4454,7 @@ return {
         nameTextId = "1120244",
         icon = "icon/stone/111501/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -4399,6 +4504,7 @@ return {
         nameTextId = "1110942",
         icon = "icon/stone/113201/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -4441,6 +4547,7 @@ return {
         nameTextId = "1120347",
         icon = "icon/stone/112701/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -4484,6 +4591,7 @@ return {
         nameTextId = "1110572",
         icon = "icon/stone/111501/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -4522,6 +4630,7 @@ return {
         nameTextId = "1110827",
         icon = "icon/stone/112701/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -4564,6 +4673,7 @@ return {
         nameTextId = "1120296",
         icon = "icon/stone/112201/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -4606,6 +4716,7 @@ return {
         nameTextId = "1110712",
         icon = "icon/stone/112201/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -4651,6 +4762,7 @@ return {
         nameTextId = "1110943",
         icon = "icon/stone/113201/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -4693,6 +4805,7 @@ return {
         nameTextId = "1120348",
         icon = "icon/stone/112701/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -4736,6 +4849,7 @@ return {
         nameTextId = "1110393",
         icon = "icon/stone/111301/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -4774,6 +4888,7 @@ return {
         nameTextId = "1110828",
         icon = "icon/stone/112701/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -4816,6 +4931,7 @@ return {
         nameTextId = "1120217",
         icon = "icon/stone/110210/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -4859,6 +4975,7 @@ return {
         nameTextId = "1110509",
         icon = "icon/stone/110210/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -4904,6 +5021,7 @@ return {
         nameTextId = "1110944",
         icon = "icon/stone/113201/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -4946,6 +5064,7 @@ return {
         nameTextId = "1120269",
         icon = "icon/stone/111701/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -4988,6 +5107,7 @@ return {
         nameTextId = "1110394",
         icon = "icon/stone/111301/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -5026,6 +5146,7 @@ return {
         nameTextId = "1110645",
         icon = "icon/stone/111701/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -5064,6 +5185,7 @@ return {
         nameTextId = "1120218",
         icon = "icon/stone/110210/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -5107,6 +5229,7 @@ return {
         nameTextId = "1120321",
         icon = "icon/stone/112501/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -5150,6 +5273,7 @@ return {
         nameTextId = "1110510",
         icon = "icon/stone/110210/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -5188,6 +5312,7 @@ return {
         nameTextId = "1110769",
         icon = "icon/stone/112501/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -5230,6 +5355,7 @@ return {
         nameTextId = "1120270",
         icon = "icon/stone/111701/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -5272,6 +5398,7 @@ return {
         nameTextId = "1110395",
         icon = "icon/stone/111301/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -5310,6 +5437,7 @@ return {
         nameTextId = "1110646",
         icon = "icon/stone/111701/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -5348,6 +5476,7 @@ return {
         nameTextId = "1120219",
         icon = "icon/stone/110210/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -5399,6 +5528,7 @@ return {
         nameTextId = "1110885",
         icon = "icon/stone/112801/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -5441,6 +5571,7 @@ return {
         nameTextId = "1120322",
         icon = "icon/stone/112501/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -5484,6 +5615,7 @@ return {
         nameTextId = "1110511",
         icon = "icon/stone/110210/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -5522,6 +5654,7 @@ return {
         nameTextId = "1110770",
         icon = "icon/stone/112501/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -5564,6 +5697,7 @@ return {
         nameTextId = "1120271",
         icon = "icon/stone/111701/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -5619,6 +5753,7 @@ return {
         nameTextId = "1111001",
         icon = "icon/stone/113701/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -5661,6 +5796,7 @@ return {
         nameTextId = "1110647",
         icon = "icon/stone/111701/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -5699,6 +5835,7 @@ return {
         nameTextId = "1120220",
         icon = "icon/stone/110210/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -5749,6 +5886,7 @@ return {
         nameTextId = "1110886",
         icon = "icon/stone/112801/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -5791,6 +5929,7 @@ return {
         nameTextId = "1120323",
         icon = "icon/stone/112501/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -5834,6 +5973,7 @@ return {
         nameTextId = "1110512",
         icon = "icon/stone/110210/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -5872,6 +6012,7 @@ return {
         nameTextId = "1110771",
         icon = "icon/stone/112501/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -5914,6 +6055,7 @@ return {
         nameTextId = "1120272",
         icon = "icon/stone/111701/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -5968,6 +6110,7 @@ return {
         nameTextId = "1111002",
         icon = "icon/stone/113701/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -6010,6 +6153,7 @@ return {
         nameTextId = "1110648",
         icon = "icon/stone/111701/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -6055,6 +6199,7 @@ return {
         nameTextId = "1110887",
         icon = "icon/stone/112801/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -6097,6 +6242,7 @@ return {
         nameTextId = "1120324",
         icon = "icon/stone/112501/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -6140,6 +6286,7 @@ return {
         nameTextId = "1110337",
         icon = "icon/stone/110102/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -6178,6 +6325,7 @@ return {
         nameTextId = "1110772",
         icon = "icon/stone/112501/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -6232,6 +6380,7 @@ return {
         nameTextId = "1111003",
         icon = "icon/stone/113701/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -6274,6 +6423,7 @@ return {
         nameTextId = "1110453",
         icon = "icon/stone/110208/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -6319,6 +6469,7 @@ return {
         nameTextId = "1110888",
         icon = "icon/stone/112801/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -6361,6 +6512,7 @@ return {
         nameTextId = "1120245",
         icon = "icon/stone/111501/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -6403,6 +6555,7 @@ return {
         nameTextId = "1110338",
         icon = "icon/stone/110102/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -6441,6 +6594,7 @@ return {
         nameTextId = "1110573",
         icon = "icon/stone/111501/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -6491,6 +6645,7 @@ return {
         nameTextId = "1111004",
         icon = "icon/stone/113701/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -6533,6 +6688,7 @@ return {
         nameTextId = "1120297",
         icon = "icon/stone/112201/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -6575,6 +6731,7 @@ return {
         nameTextId = "1110454",
         icon = "icon/stone/110208/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -6613,6 +6770,7 @@ return {
         nameTextId = "1110713",
         icon = "icon/stone/112201/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -6655,6 +6813,7 @@ return {
         nameTextId = "1120246",
         icon = "icon/stone/111501/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -6697,6 +6856,7 @@ return {
         nameTextId = "1110339",
         icon = "icon/stone/110102/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -6735,6 +6895,7 @@ return {
         nameTextId = "1110574",
         icon = "icon/stone/111501/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -6773,6 +6934,7 @@ return {
         nameTextId = "1120195",
         icon = "icon/stone/110208/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -6824,6 +6986,7 @@ return {
         nameTextId = "1110829",
         icon = "icon/stone/112701/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -6866,6 +7029,7 @@ return {
         nameTextId = "1120298",
         icon = "icon/stone/112201/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -6908,6 +7072,7 @@ return {
         nameTextId = "1110455",
         icon = "icon/stone/110208/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -6946,6 +7111,7 @@ return {
         nameTextId = "1110714",
         icon = "icon/stone/112201/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -6988,6 +7154,7 @@ return {
         nameTextId = "1120247",
         icon = "icon/stone/111501/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -7043,6 +7210,7 @@ return {
         nameTextId = "1110945",
         icon = "icon/stone/113201/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -7085,6 +7253,7 @@ return {
         nameTextId = "1110575",
         icon = "icon/stone/111501/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -7123,6 +7292,7 @@ return {
         nameTextId = "1120196",
         icon = "icon/stone/110208/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -7173,6 +7343,7 @@ return {
         nameTextId = "1110830",
         icon = "icon/stone/112701/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -7215,6 +7386,7 @@ return {
         nameTextId = "1120299",
         icon = "icon/stone/112201/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -7257,6 +7429,7 @@ return {
         nameTextId = "1110456",
         icon = "icon/stone/110208/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -7295,6 +7468,7 @@ return {
         nameTextId = "1110715",
         icon = "icon/stone/112201/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -7337,6 +7511,7 @@ return {
         nameTextId = "1120248",
         icon = "icon/stone/111501/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -7391,6 +7566,7 @@ return {
         nameTextId = "1110946",
         icon = "icon/stone/113201/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -7433,6 +7609,7 @@ return {
         nameTextId = "1110576",
         icon = "icon/stone/111501/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -7478,6 +7655,7 @@ return {
         nameTextId = "1110831",
         icon = "icon/stone/112701/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -7520,6 +7698,7 @@ return {
         nameTextId = "1120300",
         icon = "icon/stone/112201/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -7562,6 +7741,7 @@ return {
         nameTextId = "1110281",
         icon = "icon/stone/110103/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -7600,6 +7780,7 @@ return {
         nameTextId = "1110716",
         icon = "icon/stone/112201/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -7654,6 +7835,7 @@ return {
         nameTextId = "1110947",
         icon = "icon/stone/113201/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -7696,6 +7878,7 @@ return {
         nameTextId = "1110397",
         icon = "icon/stone/111301/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -7741,6 +7924,7 @@ return {
         nameTextId = "1110832",
         icon = "icon/stone/112701/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -7783,6 +7967,7 @@ return {
         nameTextId = "1120221",
         icon = "icon/stone/110210/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -7826,6 +8011,7 @@ return {
         nameTextId = "1110282",
         icon = "icon/stone/110103/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -7864,6 +8050,7 @@ return {
         nameTextId = "1110513",
         icon = "icon/stone/110210/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -7914,6 +8101,7 @@ return {
         nameTextId = "1110948",
         icon = "icon/stone/113201/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -7956,6 +8144,7 @@ return {
         nameTextId = "1120273",
         icon = "icon/stone/111701/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -7998,6 +8187,7 @@ return {
         nameTextId = "1110398",
         icon = "icon/stone/111301/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -8036,6 +8226,7 @@ return {
         nameTextId = "1110649",
         icon = "icon/stone/111701/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -8078,6 +8269,7 @@ return {
         nameTextId = "1120222",
         icon = "icon/stone/110210/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -8121,6 +8313,7 @@ return {
         nameTextId = "1110283",
         icon = "icon/stone/110103/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -8159,6 +8352,7 @@ return {
         nameTextId = "1110514",
         icon = "icon/stone/110210/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -8197,6 +8391,7 @@ return {
         nameTextId = "1120171",
         icon = "icon/stone/111301/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -8248,6 +8443,7 @@ return {
         nameTextId = "1110773",
         icon = "icon/stone/112501/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -8290,6 +8486,7 @@ return {
         nameTextId = "1120274",
         icon = "icon/stone/111701/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -8332,6 +8529,7 @@ return {
         nameTextId = "1110399",
         icon = "icon/stone/111301/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -8370,6 +8568,7 @@ return {
         nameTextId = "1110650",
         icon = "icon/stone/111701/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -8412,6 +8611,7 @@ return {
         nameTextId = "1120223",
         icon = "icon/stone/110210/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -8468,6 +8668,7 @@ return {
         nameTextId = "1110889",
         icon = "icon/stone/112801/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -8510,6 +8711,7 @@ return {
         nameTextId = "1110515",
         icon = "icon/stone/110210/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -8548,6 +8750,7 @@ return {
         nameTextId = "1120172",
         icon = "icon/stone/111301/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -8598,6 +8801,7 @@ return {
         nameTextId = "1110774",
         icon = "icon/stone/112501/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -8640,6 +8844,7 @@ return {
         nameTextId = "1120275",
         icon = "icon/stone/111701/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -8700,6 +8905,7 @@ return {
         nameTextId = "1111005",
         icon = "icon/stone/113701/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -8738,6 +8944,7 @@ return {
         nameTextId = "1110651",
         icon = "icon/stone/111701/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -8780,6 +8987,7 @@ return {
         nameTextId = "1120224",
         icon = "icon/stone/110210/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -8835,6 +9043,7 @@ return {
         nameTextId = "1110890",
         icon = "icon/stone/112801/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -8877,6 +9086,7 @@ return {
         nameTextId = "1110516",
         icon = "icon/stone/110210/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -8922,6 +9132,7 @@ return {
         nameTextId = "1110775",
         icon = "icon/stone/112501/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -8964,6 +9175,7 @@ return {
         nameTextId = "1120276",
         icon = "icon/stone/111701/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -9023,6 +9235,7 @@ return {
         nameTextId = "1111006",
         icon = "icon/stone/113701/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -9061,6 +9274,7 @@ return {
         nameTextId = "1110225",
         icon = "icon/stone/111001/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -9099,6 +9313,7 @@ return {
         nameTextId = "1110652",
         icon = "icon/stone/111701/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -9153,6 +9368,7 @@ return {
         nameTextId = "1110891",
         icon = "icon/stone/112801/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -9195,6 +9411,7 @@ return {
         nameTextId = "1110341",
         icon = "icon/stone/110102/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -9240,6 +9457,7 @@ return {
         nameTextId = "1110776",
         icon = "icon/stone/112501/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -9299,6 +9517,7 @@ return {
         nameTextId = "1111007",
         icon = "icon/stone/113701/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -9337,6 +9556,7 @@ return {
         nameTextId = "1110226",
         icon = "icon/stone/111001/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -9375,6 +9595,7 @@ return {
         nameTextId = "1110457",
         icon = "icon/stone/110208/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -9425,6 +9646,7 @@ return {
         nameTextId = "1110892",
         icon = "icon/stone/112801/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -9467,6 +9689,7 @@ return {
         nameTextId = "1120249",
         icon = "icon/stone/111501/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -9509,6 +9732,7 @@ return {
         nameTextId = "1110342",
         icon = "icon/stone/110102/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -9547,6 +9771,7 @@ return {
         nameTextId = "1110577",
         icon = "icon/stone/111501/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -9606,6 +9831,7 @@ return {
         nameTextId = "1111008",
         icon = "icon/stone/113701/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -9644,6 +9870,7 @@ return {
         nameTextId = "1110227",
         icon = "icon/stone/111001/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -9682,6 +9909,7 @@ return {
         nameTextId = "1110458",
         icon = "icon/stone/110208/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -9720,6 +9948,7 @@ return {
         nameTextId = "1120147",
         icon = "icon/stone/110102/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -9771,6 +10000,7 @@ return {
         nameTextId = "1110717",
         icon = "icon/stone/112201/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -9813,6 +10043,7 @@ return {
         nameTextId = "1120250",
         icon = "icon/stone/111501/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -9855,6 +10086,7 @@ return {
         nameTextId = "1110343",
         icon = "icon/stone/110102/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -9893,6 +10125,7 @@ return {
         nameTextId = "1110578",
         icon = "icon/stone/111501/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -9935,6 +10168,7 @@ return {
         nameTextId = "1120199",
         icon = "icon/stone/110208/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -9991,6 +10225,7 @@ return {
         nameTextId = "1110833",
         icon = "icon/stone/112701/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -10033,6 +10268,7 @@ return {
         nameTextId = "1110459",
         icon = "icon/stone/110208/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -10071,6 +10307,7 @@ return {
         nameTextId = "1120148",
         icon = "icon/stone/110102/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -10121,6 +10358,7 @@ return {
         nameTextId = "1110718",
         icon = "icon/stone/112201/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -10163,6 +10401,7 @@ return {
         nameTextId = "1120251",
         icon = "icon/stone/111501/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -10223,6 +10462,7 @@ return {
         nameTextId = "1110949",
         icon = "icon/stone/113201/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -10261,6 +10501,7 @@ return {
         nameTextId = "1110579",
         icon = "icon/stone/111501/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -10303,6 +10544,7 @@ return {
         nameTextId = "1120200",
         icon = "icon/stone/110208/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -10358,6 +10600,7 @@ return {
         nameTextId = "1110834",
         icon = "icon/stone/112701/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -10400,6 +10643,7 @@ return {
         nameTextId = "1110460",
         icon = "icon/stone/110208/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -10445,6 +10689,7 @@ return {
         nameTextId = "1110719",
         icon = "icon/stone/112201/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -10487,6 +10732,7 @@ return {
         nameTextId = "1120252",
         icon = "icon/stone/111501/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -10546,6 +10792,7 @@ return {
         nameTextId = "1110950",
         icon = "icon/stone/113201/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -10584,6 +10831,7 @@ return {
         nameTextId = "1110169",
         icon = "icon/stone/110701/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -10622,6 +10870,7 @@ return {
         nameTextId = "1110580",
         icon = "icon/stone/111501/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -10676,6 +10925,7 @@ return {
         nameTextId = "1110835",
         icon = "icon/stone/112701/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -10718,6 +10968,7 @@ return {
         nameTextId = "1110285",
         icon = "icon/stone/110103/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -10763,6 +11014,7 @@ return {
         nameTextId = "1110720",
         icon = "icon/stone/112201/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -10822,6 +11074,7 @@ return {
         nameTextId = "1110951",
         icon = "icon/stone/113201/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -10860,6 +11113,7 @@ return {
         nameTextId = "1110170",
         icon = "icon/stone/110701/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -10898,6 +11152,7 @@ return {
         nameTextId = "1110401",
         icon = "icon/stone/111301/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -10948,6 +11203,7 @@ return {
         nameTextId = "1110836",
         icon = "icon/stone/112701/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -10990,6 +11246,7 @@ return {
         nameTextId = "1120225",
         icon = "icon/stone/110210/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -11033,6 +11290,7 @@ return {
         nameTextId = "1110286",
         icon = "icon/stone/110103/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -11071,6 +11329,7 @@ return {
         nameTextId = "1110517",
         icon = "icon/stone/110210/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -11130,6 +11389,7 @@ return {
         nameTextId = "1110952",
         icon = "icon/stone/113201/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -11168,6 +11428,7 @@ return {
         nameTextId = "1110171",
         icon = "icon/stone/110701/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -11206,6 +11467,7 @@ return {
         nameTextId = "1110402",
         icon = "icon/stone/111301/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -11244,6 +11506,7 @@ return {
         nameTextId = "1120123",
         icon = "icon/stone/110103/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -11295,6 +11558,7 @@ return {
         nameTextId = "1110653",
         icon = "icon/stone/111701/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -11337,6 +11601,7 @@ return {
         nameTextId = "1120226",
         icon = "icon/stone/110210/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -11380,6 +11645,7 @@ return {
         nameTextId = "1110287",
         icon = "icon/stone/110103/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -11418,6 +11684,7 @@ return {
         nameTextId = "1110518",
         icon = "icon/stone/110210/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -11460,6 +11727,7 @@ return {
         nameTextId = "1120175",
         icon = "icon/stone/111301/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -11516,6 +11784,7 @@ return {
         nameTextId = "1110777",
         icon = "icon/stone/112501/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -11558,6 +11827,7 @@ return {
         nameTextId = "1110403",
         icon = "icon/stone/111301/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -11596,6 +11866,7 @@ return {
         nameTextId = "1120124",
         icon = "icon/stone/110103/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -11646,6 +11917,7 @@ return {
         nameTextId = "1110654",
         icon = "icon/stone/111701/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -11688,6 +11960,7 @@ return {
         nameTextId = "1120227",
         icon = "icon/stone/110210/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -11749,6 +12022,7 @@ return {
         nameTextId = "1110893",
         icon = "icon/stone/112801/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -11787,6 +12061,7 @@ return {
         nameTextId = "1110519",
         icon = "icon/stone/110210/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -11829,6 +12104,7 @@ return {
         nameTextId = "1120176",
         icon = "icon/stone/111301/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -11884,6 +12160,7 @@ return {
         nameTextId = "1110778",
         icon = "icon/stone/112501/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -11926,6 +12203,7 @@ return {
         nameTextId = "1110404",
         icon = "icon/stone/111301/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -11971,6 +12249,7 @@ return {
         nameTextId = "1110655",
         icon = "icon/stone/111701/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -12013,6 +12292,7 @@ return {
         nameTextId = "1120228",
         icon = "icon/stone/110210/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -12073,6 +12353,7 @@ return {
         nameTextId = "1110894",
         icon = "icon/stone/112801/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -12111,6 +12392,7 @@ return {
         nameTextId = "1110113",
         icon = "icon/stone/110501/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -12149,6 +12431,7 @@ return {
         nameTextId = "1110520",
         icon = "icon/stone/110210/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -12203,6 +12486,7 @@ return {
         nameTextId = "1110779",
         icon = "icon/stone/112501/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -12245,6 +12529,7 @@ return {
         nameTextId = "1110229",
         icon = "icon/stone/111001/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -12290,6 +12575,7 @@ return {
         nameTextId = "1110656",
         icon = "icon/stone/111701/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -12349,6 +12635,7 @@ return {
         nameTextId = "1110895",
         icon = "icon/stone/112801/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -12387,6 +12674,7 @@ return {
         nameTextId = "1110114",
         icon = "icon/stone/110501/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -12425,6 +12713,7 @@ return {
         nameTextId = "1110345",
         icon = "icon/stone/110102/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -12475,6 +12764,7 @@ return {
         nameTextId = "1110780",
         icon = "icon/stone/112501/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -12517,6 +12807,7 @@ return {
         nameTextId = "1120201",
         icon = "icon/stone/110208/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -12560,6 +12851,7 @@ return {
         nameTextId = "1110230",
         icon = "icon/stone/111001/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -12598,6 +12890,7 @@ return {
         nameTextId = "1110461",
         icon = "icon/stone/110208/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -12657,6 +12950,7 @@ return {
         nameTextId = "1110896",
         icon = "icon/stone/112801/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -12695,6 +12989,7 @@ return {
         nameTextId = "1110115",
         icon = "icon/stone/110501/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -12733,6 +13028,7 @@ return {
         nameTextId = "1110346",
         icon = "icon/stone/110102/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -12771,6 +13067,7 @@ return {
         nameTextId = "1120099",
         icon = "icon/stone/111001/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -12822,6 +13119,7 @@ return {
         nameTextId = "1110581",
         icon = "icon/stone/111501/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -12864,6 +13162,7 @@ return {
         nameTextId = "1120202",
         icon = "icon/stone/110208/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -12907,6 +13206,7 @@ return {
         nameTextId = "1110231",
         icon = "icon/stone/111001/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -12945,6 +13245,7 @@ return {
         nameTextId = "1110462",
         icon = "icon/stone/110208/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -12987,6 +13288,7 @@ return {
         nameTextId = "1120151",
         icon = "icon/stone/110102/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -13043,6 +13345,7 @@ return {
         nameTextId = "1110721",
         icon = "icon/stone/112201/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -13091,6 +13394,7 @@ return {
         nameTextId = "1110721",
         icon = "icon/stone/112201/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -13129,6 +13433,7 @@ return {
         nameTextId = "1110347",
         icon = "icon/stone/110102/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -13167,6 +13472,7 @@ return {
         nameTextId = "1120100",
         icon = "icon/stone/111001/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -13217,6 +13523,7 @@ return {
         nameTextId = "1110582",
         icon = "icon/stone/111501/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -13259,6 +13566,7 @@ return {
         nameTextId = "1120203",
         icon = "icon/stone/110208/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -13302,6 +13610,7 @@ return {
         nameTextId = "1110232",
         icon = "icon/stone/111001/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -13340,6 +13649,7 @@ return {
         nameTextId = "1110463",
         icon = "icon/stone/110208/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -13382,6 +13692,7 @@ return {
         nameTextId = "1120152",
         icon = "icon/stone/110102/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -13437,6 +13748,7 @@ return {
         nameTextId = "1110722",
         icon = "icon/stone/112201/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -13485,6 +13797,7 @@ return {
         nameTextId = "1110722",
         icon = "icon/stone/112201/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -13523,6 +13836,7 @@ return {
         nameTextId = "1110348",
         icon = "icon/stone/110102/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -13568,6 +13882,7 @@ return {
         nameTextId = "1110583",
         icon = "icon/stone/111501/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -13610,6 +13925,7 @@ return {
         nameTextId = "1120204",
         icon = "icon/stone/110208/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -13670,6 +13986,7 @@ return {
         nameTextId = "1110838",
         icon = "icon/stone/112701/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -13708,6 +14025,7 @@ return {
         nameTextId = "1110057",
         icon = "icon/stone/110301/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -13746,6 +14064,7 @@ return {
         nameTextId = "1110464",
         icon = "icon/stone/110208/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -13800,6 +14119,7 @@ return {
         nameTextId = "1110723",
         icon = "icon/stone/112201/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -13848,6 +14168,7 @@ return {
         nameTextId = "1110723",
         icon = "icon/stone/112201/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -13886,6 +14207,7 @@ return {
         nameTextId = "1110173",
         icon = "icon/stone/110701/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -13931,6 +14253,7 @@ return {
         nameTextId = "1110584",
         icon = "icon/stone/111501/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -13990,6 +14313,7 @@ return {
         nameTextId = "1110839",
         icon = "icon/stone/112701/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -14028,6 +14352,7 @@ return {
         nameTextId = "1110058",
         icon = "icon/stone/110301/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -14066,6 +14391,7 @@ return {
         nameTextId = "1110289",
         icon = "icon/stone/110103/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -14116,6 +14442,7 @@ return {
         nameTextId = "1110724",
         icon = "icon/stone/112201/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -14164,6 +14491,7 @@ return {
         nameTextId = "1110724",
         icon = "icon/stone/112201/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -14202,6 +14530,7 @@ return {
         nameTextId = "1120177",
         icon = "icon/stone/111301/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -14245,6 +14574,7 @@ return {
         nameTextId = "1110174",
         icon = "icon/stone/110701/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -14283,6 +14613,7 @@ return {
         nameTextId = "1110405",
         icon = "icon/stone/111301/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -14342,6 +14673,7 @@ return {
         nameTextId = "1110840",
         icon = "icon/stone/112701/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -14380,6 +14712,7 @@ return {
         nameTextId = "1110059",
         icon = "icon/stone/110301/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -14418,6 +14751,7 @@ return {
         nameTextId = "1110290",
         icon = "icon/stone/110103/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -14456,6 +14790,7 @@ return {
         nameTextId = "1120075",
         icon = "icon/stone/110701/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -14507,6 +14842,7 @@ return {
         nameTextId = "1110521",
         icon = "icon/stone/110210/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -14549,6 +14885,7 @@ return {
         nameTextId = "1120178",
         icon = "icon/stone/111301/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -14592,6 +14929,7 @@ return {
         nameTextId = "1110175",
         icon = "icon/stone/110701/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -14630,6 +14968,7 @@ return {
         nameTextId = "1110406",
         icon = "icon/stone/111301/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -14672,6 +15011,7 @@ return {
         nameTextId = "1120127",
         icon = "icon/stone/110103/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -14728,6 +15068,7 @@ return {
         nameTextId = "1110657",
         icon = "icon/stone/111701/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -14770,6 +15111,7 @@ return {
         nameTextId = "1110291",
         icon = "icon/stone/110103/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -14808,6 +15150,7 @@ return {
         nameTextId = "1120076",
         icon = "icon/stone/110701/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -14858,6 +15201,7 @@ return {
         nameTextId = "1110522",
         icon = "icon/stone/110210/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -14900,6 +15244,7 @@ return {
         nameTextId = "1120179",
         icon = "icon/stone/111301/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -14943,6 +15288,7 @@ return {
         nameTextId = "1110176",
         icon = "icon/stone/110701/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -14981,6 +15327,7 @@ return {
         nameTextId = "1110407",
         icon = "icon/stone/111301/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -15023,6 +15370,7 @@ return {
         nameTextId = "1120128",
         icon = "icon/stone/110103/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -15078,6 +15426,7 @@ return {
         nameTextId = "1110658",
         icon = "icon/stone/111701/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -15120,6 +15469,7 @@ return {
         nameTextId = "1110292",
         icon = "icon/stone/110103/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -15165,6 +15515,7 @@ return {
         nameTextId = "1110523",
         icon = "icon/stone/110210/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -15207,6 +15558,7 @@ return {
         nameTextId = "1120180",
         icon = "icon/stone/111301/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -15267,6 +15619,7 @@ return {
         nameTextId = "1110782",
         icon = "icon/stone/112501/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -15305,6 +15658,7 @@ return {
         nameTextId = "1110001",
         icon = "icon/stone/110101/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -15343,6 +15697,7 @@ return {
         nameTextId = "1110408",
         icon = "icon/stone/111301/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -15397,6 +15752,7 @@ return {
         nameTextId = "1110659",
         icon = "icon/stone/111701/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -15439,6 +15795,7 @@ return {
         nameTextId = "1110117",
         icon = "icon/stone/110501/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -15484,6 +15841,7 @@ return {
         nameTextId = "1110524",
         icon = "icon/stone/110210/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -15543,6 +15901,7 @@ return {
         nameTextId = "1110783",
         icon = "icon/stone/112501/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -15581,6 +15940,7 @@ return {
         nameTextId = "1110002",
         icon = "icon/stone/110101/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -15619,6 +15979,7 @@ return {
         nameTextId = "1110233",
         icon = "icon/stone/111001/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -15669,6 +16030,7 @@ return {
         nameTextId = "1110660",
         icon = "icon/stone/111701/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -15711,6 +16073,7 @@ return {
         nameTextId = "1120153",
         icon = "icon/stone/110102/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -15754,6 +16117,7 @@ return {
         nameTextId = "1110118",
         icon = "icon/stone/110501/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -15792,6 +16156,7 @@ return {
         nameTextId = "1110349",
         icon = "icon/stone/110102/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -15851,6 +16216,7 @@ return {
         nameTextId = "1110784",
         icon = "icon/stone/112501/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -15889,6 +16255,7 @@ return {
         nameTextId = "1110003",
         icon = "icon/stone/110101/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -15927,6 +16294,7 @@ return {
         nameTextId = "1110234",
         icon = "icon/stone/111001/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -15965,6 +16333,7 @@ return {
         nameTextId = "1120051",
         icon = "icon/stone/110501/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -16016,6 +16385,7 @@ return {
         nameTextId = "1110465",
         icon = "icon/stone/110208/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -16058,6 +16428,7 @@ return {
         nameTextId = "1120154",
         icon = "icon/stone/110102/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -16101,6 +16472,7 @@ return {
         nameTextId = "1110119",
         icon = "icon/stone/110501/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -16139,6 +16511,7 @@ return {
         nameTextId = "1110350",
         icon = "icon/stone/110102/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -16181,6 +16554,7 @@ return {
         nameTextId = "1120103",
         icon = "icon/stone/111001/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -16237,6 +16611,7 @@ return {
         nameTextId = "1110585",
         icon = "icon/stone/111501/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -16285,6 +16660,7 @@ return {
         nameTextId = "1110597",
         icon = "icon/stone/111501/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -16323,6 +16699,7 @@ return {
         nameTextId = "1110235",
         icon = "icon/stone/111001/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -16361,6 +16738,7 @@ return {
         nameTextId = "1120052",
         icon = "icon/stone/110501/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -16411,6 +16789,7 @@ return {
         nameTextId = "1110466",
         icon = "icon/stone/110208/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -16453,6 +16832,7 @@ return {
         nameTextId = "1120155",
         icon = "icon/stone/110102/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -16496,6 +16876,7 @@ return {
         nameTextId = "1110120",
         icon = "icon/stone/110501/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -16534,6 +16915,7 @@ return {
         nameTextId = "1110351",
         icon = "icon/stone/110102/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -16576,6 +16958,7 @@ return {
         nameTextId = "1120104",
         icon = "icon/stone/111001/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -16631,6 +17014,7 @@ return {
         nameTextId = "1110586",
         icon = "icon/stone/111501/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -16679,6 +17063,7 @@ return {
         nameTextId = "1110598",
         icon = "icon/stone/111501/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -16717,6 +17102,7 @@ return {
         nameTextId = "1110236",
         icon = "icon/stone/111001/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -16762,6 +17148,7 @@ return {
         nameTextId = "1110467",
         icon = "icon/stone/110208/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -16804,6 +17191,7 @@ return {
         nameTextId = "1120156",
         icon = "icon/stone/110102/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -16864,6 +17252,7 @@ return {
         nameTextId = "1110726",
         icon = "icon/stone/112201/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -16902,6 +17291,7 @@ return {
         nameTextId = "1110352",
         icon = "icon/stone/110102/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -16956,6 +17346,7 @@ return {
         nameTextId = "1110587",
         icon = "icon/stone/111501/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -17004,6 +17395,7 @@ return {
         nameTextId = "1110599",
         icon = "icon/stone/111501/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -17042,6 +17434,7 @@ return {
         nameTextId = "1110061",
         icon = "icon/stone/110301/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -17087,6 +17480,7 @@ return {
         nameTextId = "1110468",
         icon = "icon/stone/110208/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -17146,6 +17540,7 @@ return {
         nameTextId = "1110727",
         icon = "icon/stone/112201/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -17184,6 +17579,7 @@ return {
         nameTextId = "1110177",
         icon = "icon/stone/110701/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -17234,6 +17630,7 @@ return {
         nameTextId = "1110588",
         icon = "icon/stone/111501/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -17282,6 +17679,7 @@ return {
         nameTextId = "1110600",
         icon = "icon/stone/111501/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -17320,6 +17718,7 @@ return {
         nameTextId = "1120129",
         icon = "icon/stone/110103/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -17363,6 +17762,7 @@ return {
         nameTextId = "1110062",
         icon = "icon/stone/110301/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -17401,6 +17801,7 @@ return {
         nameTextId = "1110293",
         icon = "icon/stone/110103/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -17460,6 +17861,7 @@ return {
         nameTextId = "1110728",
         icon = "icon/stone/112201/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -17498,6 +17900,7 @@ return {
         nameTextId = "1110178",
         icon = "icon/stone/110701/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -17536,6 +17939,7 @@ return {
         nameTextId = "1120027",
         icon = "icon/stone/110301/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -17587,6 +17991,7 @@ return {
         nameTextId = "1110409",
         icon = "icon/stone/111301/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -17629,6 +18034,7 @@ return {
         nameTextId = "1120130",
         icon = "icon/stone/110103/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -17672,6 +18078,7 @@ return {
         nameTextId = "1110063",
         icon = "icon/stone/110301/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -17710,6 +18117,7 @@ return {
         nameTextId = "1110294",
         icon = "icon/stone/110103/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -17752,6 +18160,7 @@ return {
         nameTextId = "1120079",
         icon = "icon/stone/110701/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -17808,6 +18217,7 @@ return {
         nameTextId = "1110525",
         icon = "icon/stone/110210/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -17856,6 +18266,7 @@ return {
         nameTextId = "1110533",
         icon = "icon/stone/110210/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -17894,6 +18305,7 @@ return {
         nameTextId = "1110179",
         icon = "icon/stone/110701/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -17932,6 +18344,7 @@ return {
         nameTextId = "1120028",
         icon = "icon/stone/110301/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -17982,6 +18395,7 @@ return {
         nameTextId = "1110410",
         icon = "icon/stone/111301/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -18024,6 +18438,7 @@ return {
         nameTextId = "1120131",
         icon = "icon/stone/110103/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -18067,6 +18482,7 @@ return {
         nameTextId = "1110064",
         icon = "icon/stone/110301/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -18105,6 +18521,7 @@ return {
         nameTextId = "1110295",
         icon = "icon/stone/110103/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -18147,6 +18564,7 @@ return {
         nameTextId = "1120080",
         icon = "icon/stone/110701/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -18202,6 +18620,7 @@ return {
         nameTextId = "1110526",
         icon = "icon/stone/110210/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -18250,6 +18669,7 @@ return {
         nameTextId = "1110534",
         icon = "icon/stone/110210/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -18288,6 +18708,7 @@ return {
         nameTextId = "1110180",
         icon = "icon/stone/110701/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -18333,6 +18754,7 @@ return {
         nameTextId = "1110411",
         icon = "icon/stone/111301/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -18375,6 +18797,7 @@ return {
         nameTextId = "1120132",
         icon = "icon/stone/110103/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -18435,6 +18858,7 @@ return {
         nameTextId = "1110662",
         icon = "icon/stone/111701/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -18473,6 +18897,7 @@ return {
         nameTextId = "1110296",
         icon = "icon/stone/110103/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -18527,6 +18952,7 @@ return {
         nameTextId = "1110527",
         icon = "icon/stone/110210/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -18575,6 +19001,7 @@ return {
         nameTextId = "1110535",
         icon = "icon/stone/110210/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -18613,6 +19040,7 @@ return {
         nameTextId = "1110005",
         icon = "icon/stone/110101/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -18658,6 +19086,7 @@ return {
         nameTextId = "1110412",
         icon = "icon/stone/111301/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -18717,6 +19146,7 @@ return {
         nameTextId = "1110663",
         icon = "icon/stone/111701/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -18755,6 +19185,7 @@ return {
         nameTextId = "1110121",
         icon = "icon/stone/110501/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -18805,6 +19236,7 @@ return {
         nameTextId = "1110528",
         icon = "icon/stone/110210/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -18853,6 +19285,7 @@ return {
         nameTextId = "1110536",
         icon = "icon/stone/110210/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -18891,6 +19324,7 @@ return {
         nameTextId = "1120105",
         icon = "icon/stone/111001/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -18934,6 +19368,7 @@ return {
         nameTextId = "1110006",
         icon = "icon/stone/110101/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -18972,6 +19407,7 @@ return {
         nameTextId = "1110237",
         icon = "icon/stone/111001/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -19031,6 +19467,7 @@ return {
         nameTextId = "1110664",
         icon = "icon/stone/111701/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -19069,6 +19506,7 @@ return {
         nameTextId = "1110122",
         icon = "icon/stone/110501/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -19107,6 +19545,7 @@ return {
         nameTextId = "1120003",
         icon = "icon/stone/110101/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -19158,6 +19597,7 @@ return {
         nameTextId = "1110353",
         icon = "icon/stone/110102/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -19200,6 +19640,7 @@ return {
         nameTextId = "1120106",
         icon = "icon/stone/111001/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -19243,6 +19684,7 @@ return {
         nameTextId = "1110007",
         icon = "icon/stone/110101/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -19281,6 +19723,7 @@ return {
         nameTextId = "1110238",
         icon = "icon/stone/111001/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -19323,6 +19766,7 @@ return {
         nameTextId = "1120055",
         icon = "icon/stone/110501/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -19379,6 +19823,7 @@ return {
         nameTextId = "1110469",
         icon = "icon/stone/110208/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -19421,6 +19866,7 @@ return {
         nameTextId = "1110123",
         icon = "icon/stone/110501/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -19459,6 +19905,7 @@ return {
         nameTextId = "1120004",
         icon = "icon/stone/110101/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -19509,6 +19956,7 @@ return {
         nameTextId = "1110354",
         icon = "icon/stone/110102/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -19551,6 +19999,7 @@ return {
         nameTextId = "1120107",
         icon = "icon/stone/111001/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -19612,6 +20061,7 @@ return {
         nameTextId = "1110589",
         icon = "icon/stone/111501/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -19650,6 +20100,7 @@ return {
         nameTextId = "1110239",
         icon = "icon/stone/111001/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -19692,6 +20143,7 @@ return {
         nameTextId = "1120056",
         icon = "icon/stone/110501/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -19747,6 +20199,7 @@ return {
         nameTextId = "1110470",
         icon = "icon/stone/110208/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -19789,6 +20242,7 @@ return {
         nameTextId = "1110124",
         icon = "icon/stone/110501/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -19834,6 +20288,7 @@ return {
         nameTextId = "1110355",
         icon = "icon/stone/110102/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -19876,6 +20331,7 @@ return {
         nameTextId = "1120108",
         icon = "icon/stone/111001/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -19936,6 +20392,7 @@ return {
         nameTextId = "1110590",
         icon = "icon/stone/111501/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -19974,6 +20431,7 @@ return {
         nameTextId = "1110240",
         icon = "icon/stone/111001/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -20028,6 +20486,7 @@ return {
         nameTextId = "1110471",
         icon = "icon/stone/110208/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -20077,6 +20536,7 @@ return {
         nameTextId = "1110356",
         icon = "icon/stone/110102/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -20136,6 +20596,7 @@ return {
         nameTextId = "1110591",
         icon = "icon/stone/111501/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -20174,6 +20635,7 @@ return {
         nameTextId = "1110065",
         icon = "icon/stone/110301/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -20224,6 +20686,7 @@ return {
         nameTextId = "1110472",
         icon = "icon/stone/110208/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -20266,6 +20729,7 @@ return {
         nameTextId = "1120081",
         icon = "icon/stone/110701/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -20309,6 +20773,7 @@ return {
         nameTextId = "1110181",
         icon = "icon/stone/110701/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -20368,6 +20833,7 @@ return {
         nameTextId = "1110592",
         icon = "icon/stone/111501/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -20406,6 +20872,7 @@ return {
         nameTextId = "1110066",
         icon = "icon/stone/110301/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -20452,6 +20919,7 @@ return {
         nameTextId = "1110297",
         icon = "icon/stone/110103/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -20494,6 +20962,7 @@ return {
         nameTextId = "1120082",
         icon = "icon/stone/110701/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -20537,6 +21006,7 @@ return {
         nameTextId = "1110182",
         icon = "icon/stone/110701/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -20579,6 +21049,7 @@ return {
         nameTextId = "1120031",
         icon = "icon/stone/110301/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -20635,6 +21106,7 @@ return {
         nameTextId = "1110413",
         icon = "icon/stone/111301/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -20677,6 +21149,7 @@ return {
         nameTextId = "1110067",
         icon = "icon/stone/110301/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -20722,6 +21195,7 @@ return {
         nameTextId = "1110298",
         icon = "icon/stone/110103/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -20764,6 +21238,7 @@ return {
         nameTextId = "1120083",
         icon = "icon/stone/110701/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -20825,6 +21300,7 @@ return {
         nameTextId = "1110529",
         icon = "icon/stone/110210/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -20863,6 +21339,7 @@ return {
         nameTextId = "1110183",
         icon = "icon/stone/110701/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -20905,6 +21382,7 @@ return {
         nameTextId = "1120032",
         icon = "icon/stone/110301/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -20960,6 +21438,7 @@ return {
         nameTextId = "1110414",
         icon = "icon/stone/111301/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -21002,6 +21481,7 @@ return {
         nameTextId = "1110068",
         icon = "icon/stone/110301/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -21047,6 +21527,7 @@ return {
         nameTextId = "1110299",
         icon = "icon/stone/110103/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -21089,6 +21570,7 @@ return {
         nameTextId = "1120084",
         icon = "icon/stone/110701/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -21149,6 +21631,7 @@ return {
         nameTextId = "1110530",
         icon = "icon/stone/110210/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -21187,6 +21670,7 @@ return {
         nameTextId = "1110184",
         icon = "icon/stone/110701/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -21241,6 +21725,7 @@ return {
         nameTextId = "1110415",
         icon = "icon/stone/111301/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -21290,6 +21775,7 @@ return {
         nameTextId = "1110300",
         icon = "icon/stone/110103/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -21349,6 +21835,7 @@ return {
         nameTextId = "1110531",
         icon = "icon/stone/110210/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -21387,6 +21874,7 @@ return {
         nameTextId = "1110009",
         icon = "icon/stone/110101/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -21437,6 +21925,7 @@ return {
         nameTextId = "1110416",
         icon = "icon/stone/111301/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -21479,6 +21968,7 @@ return {
         nameTextId = "1120057",
         icon = "icon/stone/110501/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -21522,6 +22012,7 @@ return {
         nameTextId = "1110125",
         icon = "icon/stone/110501/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -21581,6 +22072,7 @@ return {
         nameTextId = "1110532",
         icon = "icon/stone/110210/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -21619,6 +22111,7 @@ return {
         nameTextId = "1110010",
         icon = "icon/stone/110101/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -21665,6 +22158,7 @@ return {
         nameTextId = "1110241",
         icon = "icon/stone/111001/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -21707,6 +22201,7 @@ return {
         nameTextId = "1120058",
         icon = "icon/stone/110501/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -21750,6 +22245,7 @@ return {
         nameTextId = "1110126",
         icon = "icon/stone/110501/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -21792,6 +22288,7 @@ return {
         nameTextId = "1120007",
         icon = "icon/stone/110101/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -21848,6 +22345,7 @@ return {
         nameTextId = "1110357",
         icon = "icon/stone/110102/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -21890,6 +22388,7 @@ return {
         nameTextId = "1110011",
         icon = "icon/stone/110101/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -21935,6 +22434,7 @@ return {
         nameTextId = "1110242",
         icon = "icon/stone/111001/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -21977,6 +22477,7 @@ return {
         nameTextId = "1120059",
         icon = "icon/stone/110501/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -22038,6 +22539,7 @@ return {
         nameTextId = "1110473",
         icon = "icon/stone/110208/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -22076,6 +22578,7 @@ return {
         nameTextId = "1110127",
         icon = "icon/stone/110501/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -22118,6 +22621,7 @@ return {
         nameTextId = "1120008",
         icon = "icon/stone/110101/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -22173,6 +22677,7 @@ return {
         nameTextId = "1110358",
         icon = "icon/stone/110102/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -22215,6 +22720,7 @@ return {
         nameTextId = "1110012",
         icon = "icon/stone/110101/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -22260,6 +22766,7 @@ return {
         nameTextId = "1110243",
         icon = "icon/stone/111001/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -22302,6 +22809,7 @@ return {
         nameTextId = "1120060",
         icon = "icon/stone/110501/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -22362,6 +22870,7 @@ return {
         nameTextId = "1110474",
         icon = "icon/stone/110208/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -22400,6 +22909,7 @@ return {
         nameTextId = "1110128",
         icon = "icon/stone/110501/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -22454,6 +22964,7 @@ return {
         nameTextId = "1110359",
         icon = "icon/stone/110102/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -22503,6 +23014,7 @@ return {
         nameTextId = "1110244",
         icon = "icon/stone/111001/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -22562,6 +23074,7 @@ return {
         nameTextId = "1110475",
         icon = "icon/stone/110208/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -22612,6 +23125,7 @@ return {
         nameTextId = "1110360",
         icon = "icon/stone/110102/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -22654,6 +23168,7 @@ return {
         nameTextId = "1120033",
         icon = "icon/stone/110301/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -22697,6 +23212,7 @@ return {
         nameTextId = "1110069",
         icon = "icon/stone/110301/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -22756,6 +23272,7 @@ return {
         nameTextId = "1110476",
         icon = "icon/stone/110208/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -22794,6 +23311,7 @@ return {
         nameTextId = "1110954",
         icon = "icon/stone/110313/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -22840,6 +23358,7 @@ return {
         nameTextId = "1110185",
         icon = "icon/stone/110701/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -22882,6 +23401,7 @@ return {
         nameTextId = "1120034",
         icon = "icon/stone/110301/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -22925,6 +23445,7 @@ return {
         nameTextId = "1110070",
         icon = "icon/stone/110301/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -22980,6 +23501,7 @@ return {
         nameTextId = "1110301",
         icon = "icon/stone/110103/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -23028,6 +23550,7 @@ return {
         nameTextId = "1110601",
         icon = "icon/stone/110103/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -23066,6 +23589,7 @@ return {
         nameTextId = "1110955",
         icon = "icon/stone/110313/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -23111,6 +23635,7 @@ return {
         nameTextId = "1110186",
         icon = "icon/stone/110701/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -23153,6 +23678,7 @@ return {
         nameTextId = "1120035",
         icon = "icon/stone/110301/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -23214,6 +23740,7 @@ return {
         nameTextId = "1110417",
         icon = "icon/stone/111301/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -23252,6 +23779,7 @@ return {
         nameTextId = "1110071",
         icon = "icon/stone/110301/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -23306,6 +23834,7 @@ return {
         nameTextId = "1110302",
         icon = "icon/stone/110103/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -23354,6 +23883,7 @@ return {
         nameTextId = "1110602",
         icon = "icon/stone/110103/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -23392,6 +23922,7 @@ return {
         nameTextId = "1110956",
         icon = "icon/stone/110313/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -23437,6 +23968,7 @@ return {
         nameTextId = "1110187",
         icon = "icon/stone/110701/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -23479,6 +24011,7 @@ return {
         nameTextId = "1120036",
         icon = "icon/stone/110301/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -23539,6 +24072,7 @@ return {
         nameTextId = "1110418",
         icon = "icon/stone/111301/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -23577,6 +24111,7 @@ return {
         nameTextId = "1110072",
         icon = "icon/stone/110301/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -23631,6 +24166,7 @@ return {
         nameTextId = "1110303",
         icon = "icon/stone/110103/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -23679,6 +24215,7 @@ return {
         nameTextId = "1110603",
         icon = "icon/stone/110103/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -23724,6 +24261,7 @@ return {
         nameTextId = "1110188",
         icon = "icon/stone/110701/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -23783,6 +24321,7 @@ return {
         nameTextId = "1110419",
         icon = "icon/stone/111301/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -23833,6 +24372,7 @@ return {
         nameTextId = "1110304",
         icon = "icon/stone/110103/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -23881,6 +24421,7 @@ return {
         nameTextId = "1110604",
         icon = "icon/stone/110103/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -23919,6 +24460,7 @@ return {
         nameTextId = "1120009",
         icon = "icon/stone/110101/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -23962,6 +24504,7 @@ return {
         nameTextId = "1110013",
         icon = "icon/stone/110101/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -24021,6 +24564,7 @@ return {
         nameTextId = "1110420",
         icon = "icon/stone/111301/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -24059,6 +24603,7 @@ return {
         nameTextId = "1110898",
         icon = "icon/stone/113301/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -24105,6 +24650,7 @@ return {
         nameTextId = "1110129",
         icon = "icon/stone/110501/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -24147,6 +24693,7 @@ return {
         nameTextId = "1120010",
         icon = "icon/stone/110101/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -24190,6 +24737,7 @@ return {
         nameTextId = "1110014",
         icon = "icon/stone/110101/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -24245,6 +24793,7 @@ return {
         nameTextId = "1110245",
         icon = "icon/stone/111001/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -24287,6 +24836,7 @@ return {
         nameTextId = "1110899",
         icon = "icon/stone/113301/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -24332,6 +24882,7 @@ return {
         nameTextId = "1110130",
         icon = "icon/stone/110501/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -24374,6 +24925,7 @@ return {
         nameTextId = "1120011",
         icon = "icon/stone/110101/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -24435,6 +24987,7 @@ return {
         nameTextId = "1110361",
         icon = "icon/stone/110102/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -24473,6 +25026,7 @@ return {
         nameTextId = "1110015",
         icon = "icon/stone/110101/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -24527,6 +25081,7 @@ return {
         nameTextId = "1110246",
         icon = "icon/stone/111001/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -24569,6 +25124,7 @@ return {
         nameTextId = "1110900",
         icon = "icon/stone/113301/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -24614,6 +25170,7 @@ return {
         nameTextId = "1110131",
         icon = "icon/stone/110501/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -24656,6 +25213,7 @@ return {
         nameTextId = "1120012",
         icon = "icon/stone/110101/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -24716,6 +25274,7 @@ return {
         nameTextId = "1110362",
         icon = "icon/stone/110102/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -24754,6 +25313,7 @@ return {
         nameTextId = "1110016",
         icon = "icon/stone/110101/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -24808,6 +25368,7 @@ return {
         nameTextId = "1110247",
         icon = "icon/stone/111001/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -24857,6 +25418,7 @@ return {
         nameTextId = "1110132",
         icon = "icon/stone/110501/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -24916,6 +25478,7 @@ return {
         nameTextId = "1110363",
         icon = "icon/stone/110102/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -24954,6 +25517,7 @@ return {
         nameTextId = "1110841",
         icon = "icon/stone/113101/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -24992,6 +25556,7 @@ return {
         nameTextId = "1120397",
         icon = "icon/stone/110313/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -25052,6 +25617,7 @@ return {
         nameTextId = "1110364",
         icon = "icon/stone/110102/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -25090,6 +25656,7 @@ return {
         nameTextId = "1110842",
         icon = "icon/stone/113101/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -25136,6 +25703,7 @@ return {
         nameTextId = "1110073",
         icon = "icon/stone/110301/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -25178,6 +25746,7 @@ return {
         nameTextId = "1120398",
         icon = "icon/stone/110313/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -25221,6 +25790,7 @@ return {
         nameTextId = "1110958",
         icon = "icon/stone/110313/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -25272,6 +25842,7 @@ return {
         nameTextId = "1110189",
         icon = "icon/stone/110701/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -25314,6 +25885,7 @@ return {
         nameTextId = "1110843",
         icon = "icon/stone/113101/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -25359,6 +25931,7 @@ return {
         nameTextId = "1110074",
         icon = "icon/stone/110301/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -25419,6 +25992,7 @@ return {
         nameTextId = "1110305",
         icon = "icon/stone/110103/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -25457,6 +26031,7 @@ return {
         nameTextId = "1110959",
         icon = "icon/stone/110313/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -25507,6 +26082,7 @@ return {
         nameTextId = "1110190",
         icon = "icon/stone/110701/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -25549,6 +26125,7 @@ return {
         nameTextId = "1110844",
         icon = "icon/stone/113101/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -25594,6 +26171,7 @@ return {
         nameTextId = "1110075",
         icon = "icon/stone/110301/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -25653,6 +26231,7 @@ return {
         nameTextId = "1110306",
         icon = "icon/stone/110103/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -25691,6 +26270,7 @@ return {
         nameTextId = "1110960",
         icon = "icon/stone/110313/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -25741,6 +26321,7 @@ return {
         nameTextId = "1110191",
         icon = "icon/stone/110701/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -25790,6 +26371,7 @@ return {
         nameTextId = "1110076",
         icon = "icon/stone/110301/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -25849,6 +26431,7 @@ return {
         nameTextId = "1110307",
         icon = "icon/stone/110103/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -25887,6 +26470,7 @@ return {
         nameTextId = "1110785",
         icon = "icon/stone/112401/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -25925,6 +26509,7 @@ return {
         nameTextId = "1120373",
         icon = "icon/stone/113301/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -25968,6 +26553,7 @@ return {
         nameTextId = "1110901",
         icon = "icon/stone/113301/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -26006,6 +26592,7 @@ return {
         nameTextId = "1110786",
         icon = "icon/stone/112401/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -26052,6 +26639,7 @@ return {
         nameTextId = "1110017",
         icon = "icon/stone/110101/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -26094,6 +26682,7 @@ return {
         nameTextId = "1120374",
         icon = "icon/stone/113301/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -26137,6 +26726,7 @@ return {
         nameTextId = "1110902",
         icon = "icon/stone/113301/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -26188,6 +26778,7 @@ return {
         nameTextId = "1110133",
         icon = "icon/stone/110501/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -26230,6 +26821,7 @@ return {
         nameTextId = "1110787",
         icon = "icon/stone/112401/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -26275,6 +26867,7 @@ return {
         nameTextId = "1110018",
         icon = "icon/stone/110101/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -26335,6 +26928,7 @@ return {
         nameTextId = "1110249",
         icon = "icon/stone/111001/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -26373,6 +26967,7 @@ return {
         nameTextId = "1110903",
         icon = "icon/stone/113301/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -26423,6 +27018,7 @@ return {
         nameTextId = "1110134",
         icon = "icon/stone/110501/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -26465,6 +27061,7 @@ return {
         nameTextId = "1110788",
         icon = "icon/stone/112401/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -26510,6 +27107,7 @@ return {
         nameTextId = "1110019",
         icon = "icon/stone/110101/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -26569,6 +27167,7 @@ return {
         nameTextId = "1110250",
         icon = "icon/stone/111001/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -26607,6 +27206,7 @@ return {
         nameTextId = "1110904",
         icon = "icon/stone/113301/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -26657,6 +27257,7 @@ return {
         nameTextId = "1110135",
         icon = "icon/stone/110501/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -26706,6 +27307,7 @@ return {
         nameTextId = "1110020",
         icon = "icon/stone/110101/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -26765,6 +27367,7 @@ return {
         nameTextId = "1110251",
         icon = "icon/stone/111001/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -26803,6 +27406,7 @@ return {
         nameTextId = "1110729",
         icon = "icon/stone/112301/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -26841,6 +27445,7 @@ return {
         nameTextId = "1120349",
         icon = "icon/stone/113101/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -26883,6 +27488,7 @@ return {
         nameTextId = "1110845",
         icon = "icon/stone/113101/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -26921,6 +27527,7 @@ return {
         nameTextId = "1120401",
         icon = "icon/stone/110313/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -26964,6 +27571,7 @@ return {
         nameTextId = "1110730",
         icon = "icon/stone/112301/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -27002,6 +27610,7 @@ return {
         nameTextId = "1110961",
         icon = "icon/stone/110313/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -27040,6 +27649,7 @@ return {
         nameTextId = "1120350",
         icon = "icon/stone/113101/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -27082,6 +27692,7 @@ return {
         nameTextId = "1110846",
         icon = "icon/stone/113101/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -27133,6 +27744,7 @@ return {
         nameTextId = "1110077",
         icon = "icon/stone/110301/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -27175,6 +27787,7 @@ return {
         nameTextId = "1120402",
         icon = "icon/stone/110313/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -27218,6 +27831,7 @@ return {
         nameTextId = "1110731",
         icon = "icon/stone/112301/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -27256,6 +27870,7 @@ return {
         nameTextId = "1110962",
         icon = "icon/stone/110313/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -27312,6 +27927,7 @@ return {
         nameTextId = "1110193",
         icon = "icon/stone/110701/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -27350,6 +27966,7 @@ return {
         nameTextId = "1110847",
         icon = "icon/stone/113101/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -27400,6 +28017,7 @@ return {
         nameTextId = "1110078",
         icon = "icon/stone/110301/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -27442,6 +28060,7 @@ return {
         nameTextId = "1120403",
         icon = "icon/stone/110313/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -27485,6 +28104,7 @@ return {
         nameTextId = "1110732",
         icon = "icon/stone/112301/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -27523,6 +28143,7 @@ return {
         nameTextId = "1110963",
         icon = "icon/stone/110313/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -27578,6 +28199,7 @@ return {
         nameTextId = "1110194",
         icon = "icon/stone/110701/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -27616,6 +28238,7 @@ return {
         nameTextId = "1110848",
         icon = "icon/stone/113101/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -27666,6 +28289,7 @@ return {
         nameTextId = "1110079",
         icon = "icon/stone/110301/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -27708,6 +28332,7 @@ return {
         nameTextId = "1120404",
         icon = "icon/stone/110313/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -27751,6 +28376,7 @@ return {
         nameTextId = "1110964",
         icon = "icon/stone/110313/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -27806,6 +28432,7 @@ return {
         nameTextId = "1110195",
         icon = "icon/stone/110701/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -27844,6 +28471,7 @@ return {
         nameTextId = "1110665",
         icon = "icon/stone/111601/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -27882,6 +28510,7 @@ return {
         nameTextId = "1120325",
         icon = "icon/stone/112401/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -27925,6 +28554,7 @@ return {
         nameTextId = "1110789",
         icon = "icon/stone/112401/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -27963,6 +28593,7 @@ return {
         nameTextId = "1120377",
         icon = "icon/stone/113301/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -28006,6 +28637,7 @@ return {
         nameTextId = "1110666",
         icon = "icon/stone/111601/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -28044,6 +28676,7 @@ return {
         nameTextId = "1110905",
         icon = "icon/stone/113301/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -28082,6 +28715,7 @@ return {
         nameTextId = "1120326",
         icon = "icon/stone/112401/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -28125,6 +28759,7 @@ return {
         nameTextId = "1110790",
         icon = "icon/stone/112401/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -28176,6 +28811,7 @@ return {
         nameTextId = "1110021",
         icon = "icon/stone/110101/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -28218,6 +28854,7 @@ return {
         nameTextId = "1120378",
         icon = "icon/stone/113301/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -28261,6 +28898,7 @@ return {
         nameTextId = "1110667",
         icon = "icon/stone/111601/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -28299,6 +28937,7 @@ return {
         nameTextId = "1110906",
         icon = "icon/stone/113301/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -28355,6 +28994,7 @@ return {
         nameTextId = "1110137",
         icon = "icon/stone/110501/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -28393,6 +29033,7 @@ return {
         nameTextId = "1110791",
         icon = "icon/stone/112401/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -28443,6 +29084,7 @@ return {
         nameTextId = "1110022",
         icon = "icon/stone/110101/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -28485,6 +29127,7 @@ return {
         nameTextId = "1120379",
         icon = "icon/stone/113301/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -28528,6 +29171,7 @@ return {
         nameTextId = "1110668",
         icon = "icon/stone/111601/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -28566,6 +29210,7 @@ return {
         nameTextId = "1110907",
         icon = "icon/stone/113301/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -28621,6 +29266,7 @@ return {
         nameTextId = "1110138",
         icon = "icon/stone/110501/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -28659,6 +29305,7 @@ return {
         nameTextId = "1110792",
         icon = "icon/stone/112401/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -28709,6 +29356,7 @@ return {
         nameTextId = "1110023",
         icon = "icon/stone/110101/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -28751,6 +29399,7 @@ return {
         nameTextId = "1120380",
         icon = "icon/stone/113301/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -28794,6 +29443,7 @@ return {
         nameTextId = "1110908",
         icon = "icon/stone/113301/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -28849,6 +29499,7 @@ return {
         nameTextId = "1110139",
         icon = "icon/stone/110501/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -28887,6 +29538,7 @@ return {
         nameTextId = "1110593",
         icon = "icon/stone/110413/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -28925,6 +29577,7 @@ return {
         nameTextId = "1120301",
         icon = "icon/stone/112301/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -28967,6 +29620,7 @@ return {
         nameTextId = "1110733",
         icon = "icon/stone/112301/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -29005,6 +29659,7 @@ return {
         nameTextId = "1120353",
         icon = "icon/stone/113101/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -29047,6 +29702,7 @@ return {
         nameTextId = "1110594",
         icon = "icon/stone/110413/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -29085,6 +29741,7 @@ return {
         nameTextId = "1110849",
         icon = "icon/stone/113101/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -29123,6 +29780,7 @@ return {
         nameTextId = "1120302",
         icon = "icon/stone/112301/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -29165,6 +29823,7 @@ return {
         nameTextId = "1120405",
         icon = "icon/stone/110313/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -29208,6 +29867,7 @@ return {
         nameTextId = "1110734",
         icon = "icon/stone/112301/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -29246,6 +29906,7 @@ return {
         nameTextId = "1110965",
         icon = "icon/stone/110313/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -29288,6 +29949,7 @@ return {
         nameTextId = "1120354",
         icon = "icon/stone/113101/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -29330,6 +29992,7 @@ return {
         nameTextId = "1110595",
         icon = "icon/stone/110413/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -29368,6 +30031,7 @@ return {
         nameTextId = "1110850",
         icon = "icon/stone/113101/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -29424,6 +30088,7 @@ return {
         nameTextId = "1110081",
         icon = "icon/stone/110301/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -29462,6 +30127,7 @@ return {
         nameTextId = "1120406",
         icon = "icon/stone/110313/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -29505,6 +30171,7 @@ return {
         nameTextId = "1110735",
         icon = "icon/stone/112301/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -29543,6 +30210,7 @@ return {
         nameTextId = "1110966",
         icon = "icon/stone/110313/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -29585,6 +30253,7 @@ return {
         nameTextId = "1120355",
         icon = "icon/stone/113101/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -29627,6 +30296,7 @@ return {
         nameTextId = "1110596",
         icon = "icon/stone/110413/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -29665,6 +30335,7 @@ return {
         nameTextId = "1110851",
         icon = "icon/stone/113101/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -29720,6 +30391,7 @@ return {
         nameTextId = "1110082",
         icon = "icon/stone/110301/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -29758,6 +30430,7 @@ return {
         nameTextId = "1120407",
         icon = "icon/stone/110313/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -29801,6 +30474,7 @@ return {
         nameTextId = "1110736",
         icon = "icon/stone/112301/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -29839,6 +30513,7 @@ return {
         nameTextId = "1110967",
         icon = "icon/stone/110313/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -29881,6 +30556,7 @@ return {
         nameTextId = "1120356",
         icon = "icon/stone/113101/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -29923,6 +30599,7 @@ return {
         nameTextId = "1110852",
         icon = "icon/stone/113101/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -29978,6 +30655,7 @@ return {
         nameTextId = "1110083",
         icon = "icon/stone/110301/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -30016,6 +30694,7 @@ return {
         nameTextId = "1120408",
         icon = "icon/stone/110313/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -30059,6 +30738,7 @@ return {
         nameTextId = "1110537",
         icon = "icon/stone/111401/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -30097,6 +30777,7 @@ return {
         nameTextId = "1110968",
         icon = "icon/stone/110313/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -30139,6 +30820,7 @@ return {
         nameTextId = "1120277",
         icon = "icon/stone/111601/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -30181,6 +30863,7 @@ return {
         nameTextId = "1110669",
         icon = "icon/stone/111601/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -30219,6 +30902,7 @@ return {
         nameTextId = "1120329",
         icon = "icon/stone/112401/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -30262,6 +30946,7 @@ return {
         nameTextId = "1110538",
         icon = "icon/stone/111401/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -30300,6 +30985,7 @@ return {
         nameTextId = "1110793",
         icon = "icon/stone/112401/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -30338,6 +31024,7 @@ return {
         nameTextId = "1120278",
         icon = "icon/stone/111601/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -30380,6 +31067,7 @@ return {
         nameTextId = "1120381",
         icon = "icon/stone/113301/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -30423,6 +31111,7 @@ return {
         nameTextId = "1110670",
         icon = "icon/stone/111601/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -30461,6 +31150,7 @@ return {
         nameTextId = "1110909",
         icon = "icon/stone/113301/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -30503,6 +31193,7 @@ return {
         nameTextId = "1120330",
         icon = "icon/stone/112401/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -30546,6 +31237,7 @@ return {
         nameTextId = "1110539",
         icon = "icon/stone/111401/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -30584,6 +31276,7 @@ return {
         nameTextId = "1110794",
         icon = "icon/stone/112401/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -30640,6 +31333,7 @@ return {
         nameTextId = "1110025",
         icon = "icon/stone/110101/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -30678,6 +31372,7 @@ return {
         nameTextId = "1120382",
         icon = "icon/stone/113301/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -30721,6 +31416,7 @@ return {
         nameTextId = "1110671",
         icon = "icon/stone/111601/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -30759,6 +31455,7 @@ return {
         nameTextId = "1110910",
         icon = "icon/stone/113301/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -30801,6 +31498,7 @@ return {
         nameTextId = "1120331",
         icon = "icon/stone/112401/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -30844,6 +31542,7 @@ return {
         nameTextId = "1110540",
         icon = "icon/stone/111401/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -30882,6 +31581,7 @@ return {
         nameTextId = "1110795",
         icon = "icon/stone/112401/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -30937,6 +31637,7 @@ return {
         nameTextId = "1110026",
         icon = "icon/stone/110101/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -30975,6 +31676,7 @@ return {
         nameTextId = "1120383",
         icon = "icon/stone/113301/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -31018,6 +31720,7 @@ return {
         nameTextId = "1110672",
         icon = "icon/stone/111601/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -31056,6 +31759,7 @@ return {
         nameTextId = "1110911",
         icon = "icon/stone/113301/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -31098,6 +31802,7 @@ return {
         nameTextId = "1120332",
         icon = "icon/stone/112401/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -31141,6 +31846,7 @@ return {
         nameTextId = "1110796",
         icon = "icon/stone/112401/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -31196,6 +31902,7 @@ return {
         nameTextId = "1110027",
         icon = "icon/stone/110101/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -31234,6 +31941,7 @@ return {
         nameTextId = "1120384",
         icon = "icon/stone/113301/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -31277,6 +31985,7 @@ return {
         nameTextId = "1110477",
         icon = "icon/stone/110209/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -31315,6 +32024,7 @@ return {
         nameTextId = "1110912",
         icon = "icon/stone/113301/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -31357,6 +32067,7 @@ return {
         nameTextId = "1120253",
         icon = "icon/stone/110413/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -31400,6 +32111,7 @@ return {
         nameTextId = "1110597",
         icon = "icon/stone/110413/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -31438,6 +32150,7 @@ return {
         nameTextId = "1120305",
         icon = "icon/stone/112301/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -31480,6 +32193,7 @@ return {
         nameTextId = "1110478",
         icon = "icon/stone/110209/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -31518,6 +32232,7 @@ return {
         nameTextId = "1110737",
         icon = "icon/stone/112301/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -31556,6 +32271,7 @@ return {
         nameTextId = "1120254",
         icon = "icon/stone/110413/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -31599,6 +32315,7 @@ return {
         nameTextId = "1120357",
         icon = "icon/stone/113101/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -31641,6 +32358,7 @@ return {
         nameTextId = "1110598",
         icon = "icon/stone/110413/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -31679,6 +32397,7 @@ return {
         nameTextId = "1110853",
         icon = "icon/stone/113101/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -31721,6 +32440,7 @@ return {
         nameTextId = "1120306",
         icon = "icon/stone/112301/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -31763,6 +32483,7 @@ return {
         nameTextId = "1110479",
         icon = "icon/stone/110209/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -31801,6 +32522,7 @@ return {
         nameTextId = "1110738",
         icon = "icon/stone/112301/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -31839,6 +32561,7 @@ return {
         nameTextId = "1120255",
         icon = "icon/stone/110413/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -31890,6 +32613,7 @@ return {
         nameTextId = "1110969",
         icon = "icon/stone/110313/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -31932,6 +32656,7 @@ return {
         nameTextId = "1120358",
         icon = "icon/stone/113101/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -31974,6 +32699,7 @@ return {
         nameTextId = "1110599",
         icon = "icon/stone/110413/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -32012,6 +32738,7 @@ return {
         nameTextId = "1110854",
         icon = "icon/stone/113101/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -32054,6 +32781,7 @@ return {
         nameTextId = "1120307",
         icon = "icon/stone/112301/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -32096,6 +32824,7 @@ return {
         nameTextId = "1110480",
         icon = "icon/stone/110209/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -32134,6 +32863,7 @@ return {
         nameTextId = "1110739",
         icon = "icon/stone/112301/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -32172,6 +32902,7 @@ return {
         nameTextId = "1120256",
         icon = "icon/stone/110413/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -32222,6 +32953,7 @@ return {
         nameTextId = "1110970",
         icon = "icon/stone/110313/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -32264,6 +32996,7 @@ return {
         nameTextId = "1120359",
         icon = "icon/stone/113101/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -32306,6 +33039,7 @@ return {
         nameTextId = "1110600",
         icon = "icon/stone/110413/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -32344,6 +33078,7 @@ return {
         nameTextId = "1110855",
         icon = "icon/stone/113101/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -32386,6 +33121,7 @@ return {
         nameTextId = "1120308",
         icon = "icon/stone/112301/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -32428,6 +33164,7 @@ return {
         nameTextId = "1110740",
         icon = "icon/stone/112301/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -32473,6 +33210,7 @@ return {
         nameTextId = "1110971",
         icon = "icon/stone/110313/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -32515,6 +33253,7 @@ return {
         nameTextId = "1120360",
         icon = "icon/stone/113101/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -32557,6 +33296,7 @@ return {
         nameTextId = "1110421",
         icon = "icon/stone/110302/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -32595,6 +33335,7 @@ return {
         nameTextId = "1110856",
         icon = "icon/stone/113101/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -32637,6 +33378,7 @@ return {
         nameTextId = "1120229",
         icon = "icon/stone/111401/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -32679,6 +33421,7 @@ return {
         nameTextId = "1110541",
         icon = "icon/stone/111401/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -32724,6 +33467,7 @@ return {
         nameTextId = "1110972",
         icon = "icon/stone/110313/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -32766,6 +33510,7 @@ return {
         nameTextId = "1120281",
         icon = "icon/stone/111601/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -32808,6 +33553,7 @@ return {
         nameTextId = "1110422",
         icon = "icon/stone/110302/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -32846,6 +33592,7 @@ return {
         nameTextId = "1110673",
         icon = "icon/stone/111601/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -32884,6 +33631,7 @@ return {
         nameTextId = "1120230",
         icon = "icon/stone/111401/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -32926,6 +33674,7 @@ return {
         nameTextId = "1120333",
         icon = "icon/stone/112401/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -32969,6 +33718,7 @@ return {
         nameTextId = "1110542",
         icon = "icon/stone/111401/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -33007,6 +33757,7 @@ return {
         nameTextId = "1110797",
         icon = "icon/stone/112401/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -33049,6 +33800,7 @@ return {
         nameTextId = "1120282",
         icon = "icon/stone/111601/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -33091,6 +33843,7 @@ return {
         nameTextId = "1110423",
         icon = "icon/stone/110302/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -33129,6 +33882,7 @@ return {
         nameTextId = "1110674",
         icon = "icon/stone/111601/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -33167,6 +33921,7 @@ return {
         nameTextId = "1120231",
         icon = "icon/stone/111401/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -33217,6 +33972,7 @@ return {
         nameTextId = "1110913",
         icon = "icon/stone/113301/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -33259,6 +34015,7 @@ return {
         nameTextId = "1120334",
         icon = "icon/stone/112401/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -33302,6 +34059,7 @@ return {
         nameTextId = "1110543",
         icon = "icon/stone/111401/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -33340,6 +34098,7 @@ return {
         nameTextId = "1110798",
         icon = "icon/stone/112401/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -33382,6 +34141,7 @@ return {
         nameTextId = "1120283",
         icon = "icon/stone/111601/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -33424,6 +34184,7 @@ return {
         nameTextId = "1110424",
         icon = "icon/stone/110302/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -33462,6 +34223,7 @@ return {
         nameTextId = "1110675",
         icon = "icon/stone/111601/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -33500,6 +34262,7 @@ return {
         nameTextId = "1120232",
         icon = "icon/stone/111401/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -33549,6 +34312,7 @@ return {
         nameTextId = "1110914",
         icon = "icon/stone/113301/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -33591,6 +34355,7 @@ return {
         nameTextId = "1120335",
         icon = "icon/stone/112401/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -33634,6 +34399,7 @@ return {
         nameTextId = "1110544",
         icon = "icon/stone/111401/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -33672,6 +34438,7 @@ return {
         nameTextId = "1110799",
         icon = "icon/stone/112401/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -33714,6 +34481,7 @@ return {
         nameTextId = "1120284",
         icon = "icon/stone/111601/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -33756,6 +34524,7 @@ return {
         nameTextId = "1110676",
         icon = "icon/stone/111601/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -33801,6 +34570,7 @@ return {
         nameTextId = "1110915",
         icon = "icon/stone/113301/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -33843,6 +34613,7 @@ return {
         nameTextId = "1120336",
         icon = "icon/stone/112401/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -33886,6 +34657,7 @@ return {
         nameTextId = "1110365",
         icon = "icon/stone/112001/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -33924,6 +34696,7 @@ return {
         nameTextId = "1110800",
         icon = "icon/stone/112401/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -33966,6 +34739,7 @@ return {
         nameTextId = "1120205",
         icon = "icon/stone/110209/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -34009,6 +34783,7 @@ return {
         nameTextId = "1110481",
         icon = "icon/stone/110209/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -34054,6 +34829,7 @@ return {
         nameTextId = "1110916",
         icon = "icon/stone/113301/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -34096,6 +34872,7 @@ return {
         nameTextId = "1120257",
         icon = "icon/stone/110413/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -34139,6 +34916,7 @@ return {
         nameTextId = "1110366",
         icon = "icon/stone/112001/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -34177,6 +34955,7 @@ return {
         nameTextId = "1110601",
         icon = "icon/stone/110413/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -34215,6 +34994,7 @@ return {
         nameTextId = "1120206",
         icon = "icon/stone/110209/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -34258,6 +35038,7 @@ return {
         nameTextId = "1120309",
         icon = "icon/stone/112301/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -34300,6 +35081,7 @@ return {
         nameTextId = "1110482",
         icon = "icon/stone/110209/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -34338,6 +35120,7 @@ return {
         nameTextId = "1110741",
         icon = "icon/stone/112301/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -34380,6 +35163,7 @@ return {
         nameTextId = "1120258",
         icon = "icon/stone/110413/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -34423,6 +35207,7 @@ return {
         nameTextId = "1110367",
         icon = "icon/stone/112001/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -34461,6 +35246,7 @@ return {
         nameTextId = "1110602",
         icon = "icon/stone/110413/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -34499,6 +35285,7 @@ return {
         nameTextId = "1120207",
         icon = "icon/stone/110209/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -34550,6 +35337,7 @@ return {
         nameTextId = "1110857",
         icon = "icon/stone/113101/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -34592,6 +35380,7 @@ return {
         nameTextId = "1120310",
         icon = "icon/stone/112301/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -34634,6 +35423,7 @@ return {
         nameTextId = "1110483",
         icon = "icon/stone/110209/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -34672,6 +35462,7 @@ return {
         nameTextId = "1110742",
         icon = "icon/stone/112301/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -34714,6 +35505,7 @@ return {
         nameTextId = "1120259",
         icon = "icon/stone/110413/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -34770,6 +35562,7 @@ return {
         nameTextId = "1110973",
         icon = "icon/stone/110313/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -34812,6 +35605,7 @@ return {
         nameTextId = "1110603",
         icon = "icon/stone/110413/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -34850,6 +35644,7 @@ return {
         nameTextId = "1120208",
         icon = "icon/stone/110209/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -34900,6 +35695,7 @@ return {
         nameTextId = "1110858",
         icon = "icon/stone/113101/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -34942,6 +35738,7 @@ return {
         nameTextId = "1120311",
         icon = "icon/stone/112301/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -34984,6 +35781,7 @@ return {
         nameTextId = "1110484",
         icon = "icon/stone/110209/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -35022,6 +35820,7 @@ return {
         nameTextId = "1110743",
         icon = "icon/stone/112301/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -35064,6 +35863,7 @@ return {
         nameTextId = "1120260",
         icon = "icon/stone/110413/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -35119,6 +35919,7 @@ return {
         nameTextId = "1110974",
         icon = "icon/stone/110313/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -35161,6 +35962,7 @@ return {
         nameTextId = "1110604",
         icon = "icon/stone/110413/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -35206,6 +36008,7 @@ return {
         nameTextId = "1110859",
         icon = "icon/stone/113101/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -35248,6 +36051,7 @@ return {
         nameTextId = "1120312",
         icon = "icon/stone/112301/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -35290,6 +36094,7 @@ return {
         nameTextId = "1110309",
         icon = "icon/stone/110602/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -35328,6 +36133,7 @@ return {
         nameTextId = "1110744",
         icon = "icon/stone/112301/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -35382,6 +36188,7 @@ return {
         nameTextId = "1110975",
         icon = "icon/stone/110313/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -35424,6 +36231,7 @@ return {
         nameTextId = "1110425",
         icon = "icon/stone/110302/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -35469,6 +36277,7 @@ return {
         nameTextId = "1110860",
         icon = "icon/stone/113101/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -35511,6 +36320,7 @@ return {
         nameTextId = "1120233",
         icon = "icon/stone/111401/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -35553,6 +36363,7 @@ return {
         nameTextId = "1110310",
         icon = "icon/stone/110602/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -35591,6 +36402,7 @@ return {
         nameTextId = "1110545",
         icon = "icon/stone/111401/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -35641,6 +36453,7 @@ return {
         nameTextId = "1110976",
         icon = "icon/stone/110313/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -35683,6 +36496,7 @@ return {
         nameTextId = "1120285",
         icon = "icon/stone/111601/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -35725,6 +36539,7 @@ return {
         nameTextId = "1110426",
         icon = "icon/stone/110302/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -35763,6 +36578,7 @@ return {
         nameTextId = "1110677",
         icon = "icon/stone/111601/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -35805,6 +36621,7 @@ return {
         nameTextId = "1120234",
         icon = "icon/stone/111401/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -35847,6 +36664,7 @@ return {
         nameTextId = "1110311",
         icon = "icon/stone/110602/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -35885,6 +36703,7 @@ return {
         nameTextId = "1110546",
         icon = "icon/stone/111401/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -35923,6 +36742,7 @@ return {
         nameTextId = "1120183",
         icon = "icon/stone/110302/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -35974,6 +36794,7 @@ return {
         nameTextId = "1110801",
         icon = "icon/stone/112401/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -36016,6 +36837,7 @@ return {
         nameTextId = "1120286",
         icon = "icon/stone/111601/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -36058,6 +36880,7 @@ return {
         nameTextId = "1110427",
         icon = "icon/stone/110302/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -36096,6 +36919,7 @@ return {
         nameTextId = "1110678",
         icon = "icon/stone/111601/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -36138,6 +36962,7 @@ return {
         nameTextId = "1120235",
         icon = "icon/stone/111401/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -36193,6 +37018,7 @@ return {
         nameTextId = "1110917",
         icon = "icon/stone/113301/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -36235,6 +37061,7 @@ return {
         nameTextId = "1110547",
         icon = "icon/stone/111401/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -36273,6 +37100,7 @@ return {
         nameTextId = "1120184",
         icon = "icon/stone/110302/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -36323,6 +37151,7 @@ return {
         nameTextId = "1110802",
         icon = "icon/stone/112401/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -36365,6 +37194,7 @@ return {
         nameTextId = "1120287",
         icon = "icon/stone/111601/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -36407,6 +37237,7 @@ return {
         nameTextId = "1110428",
         icon = "icon/stone/110302/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -36445,6 +37276,7 @@ return {
         nameTextId = "1110679",
         icon = "icon/stone/111601/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -36487,6 +37319,7 @@ return {
         nameTextId = "1120236",
         icon = "icon/stone/111401/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -36541,6 +37374,7 @@ return {
         nameTextId = "1110918",
         icon = "icon/stone/113301/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -36583,6 +37417,7 @@ return {
         nameTextId = "1110548",
         icon = "icon/stone/111401/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -36628,6 +37463,7 @@ return {
         nameTextId = "1110803",
         icon = "icon/stone/112401/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -36670,6 +37506,7 @@ return {
         nameTextId = "1120288",
         icon = "icon/stone/111601/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -36712,6 +37549,7 @@ return {
         nameTextId = "1110253",
         icon = "icon/stone/110901/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -36750,6 +37588,7 @@ return {
         nameTextId = "1110680",
         icon = "icon/stone/111601/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -36804,6 +37643,7 @@ return {
         nameTextId = "1110919",
         icon = "icon/stone/113301/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -36846,6 +37686,7 @@ return {
         nameTextId = "1110369",
         icon = "icon/stone/112001/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -36891,6 +37732,7 @@ return {
         nameTextId = "1110804",
         icon = "icon/stone/112401/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -36933,6 +37775,7 @@ return {
         nameTextId = "1120209",
         icon = "icon/stone/110209/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -36976,6 +37819,7 @@ return {
         nameTextId = "1110254",
         icon = "icon/stone/110901/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -37014,6 +37858,7 @@ return {
         nameTextId = "1110485",
         icon = "icon/stone/110209/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -37064,6 +37909,7 @@ return {
         nameTextId = "1110920",
         icon = "icon/stone/113301/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -37106,6 +37952,7 @@ return {
         nameTextId = "1120261",
         icon = "icon/stone/110413/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -37149,6 +37996,7 @@ return {
         nameTextId = "1110370",
         icon = "icon/stone/112001/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -37187,6 +38035,7 @@ return {
         nameTextId = "1110605",
         icon = "icon/stone/110413/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -37229,6 +38078,7 @@ return {
         nameTextId = "1120210",
         icon = "icon/stone/110209/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -37272,6 +38122,7 @@ return {
         nameTextId = "1110255",
         icon = "icon/stone/110901/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -37310,6 +38161,7 @@ return {
         nameTextId = "1110486",
         icon = "icon/stone/110209/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -37348,6 +38200,7 @@ return {
         nameTextId = "1120159",
         icon = "icon/stone/112001/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -37399,6 +38252,7 @@ return {
         nameTextId = "1110745",
         icon = "icon/stone/112301/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -37441,6 +38295,7 @@ return {
         nameTextId = "1120262",
         icon = "icon/stone/110413/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -37484,6 +38339,7 @@ return {
         nameTextId = "1110371",
         icon = "icon/stone/112001/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -37522,6 +38378,7 @@ return {
         nameTextId = "1110606",
         icon = "icon/stone/110413/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -37564,6 +38421,7 @@ return {
         nameTextId = "1120211",
         icon = "icon/stone/110209/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -37620,6 +38478,7 @@ return {
         nameTextId = "1110861",
         icon = "icon/stone/113101/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -37662,6 +38521,7 @@ return {
         nameTextId = "1110487",
         icon = "icon/stone/110209/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -37700,6 +38560,7 @@ return {
         nameTextId = "1120160",
         icon = "icon/stone/112001/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -37750,6 +38611,7 @@ return {
         nameTextId = "1110746",
         icon = "icon/stone/112301/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -37792,6 +38654,7 @@ return {
         nameTextId = "1120263",
         icon = "icon/stone/110413/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -37853,6 +38716,7 @@ return {
         nameTextId = "1110977",
         icon = "icon/stone/110313/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -37891,6 +38755,7 @@ return {
         nameTextId = "1110607",
         icon = "icon/stone/110413/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -37933,6 +38798,7 @@ return {
         nameTextId = "1120212",
         icon = "icon/stone/110209/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -37988,6 +38854,7 @@ return {
         nameTextId = "1110862",
         icon = "icon/stone/113101/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -38030,6 +38897,7 @@ return {
         nameTextId = "1110488",
         icon = "icon/stone/110209/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -38075,6 +38943,7 @@ return {
         nameTextId = "1110747",
         icon = "icon/stone/112301/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -38117,6 +38986,7 @@ return {
         nameTextId = "1120264",
         icon = "icon/stone/110413/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -38177,6 +39047,7 @@ return {
         nameTextId = "1110978",
         icon = "icon/stone/110313/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -38215,6 +39086,7 @@ return {
         nameTextId = "1110197",
         icon = "icon/stone/110801/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -38253,6 +39125,7 @@ return {
         nameTextId = "1110608",
         icon = "icon/stone/110413/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -38307,6 +39180,7 @@ return {
         nameTextId = "1110863",
         icon = "icon/stone/113101/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -38349,6 +39223,7 @@ return {
         nameTextId = "1110313",
         icon = "icon/stone/110602/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -38394,6 +39269,7 @@ return {
         nameTextId = "1110748",
         icon = "icon/stone/112301/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -38453,6 +39329,7 @@ return {
         nameTextId = "1110979",
         icon = "icon/stone/110313/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -38491,6 +39368,7 @@ return {
         nameTextId = "1110198",
         icon = "icon/stone/110801/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -38529,6 +39407,7 @@ return {
         nameTextId = "1110429",
         icon = "icon/stone/110302/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -38579,6 +39458,7 @@ return {
         nameTextId = "1110864",
         icon = "icon/stone/113101/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -38621,6 +39501,7 @@ return {
         nameTextId = "1120237",
         icon = "icon/stone/111401/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -38663,6 +39544,7 @@ return {
         nameTextId = "1110314",
         icon = "icon/stone/110602/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -38701,6 +39583,7 @@ return {
         nameTextId = "1110549",
         icon = "icon/stone/111401/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -38760,6 +39643,7 @@ return {
         nameTextId = "1110980",
         icon = "icon/stone/110313/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -38798,6 +39682,7 @@ return {
         nameTextId = "1110199",
         icon = "icon/stone/110801/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -38836,6 +39721,7 @@ return {
         nameTextId = "1110430",
         icon = "icon/stone/110302/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -38874,6 +39760,7 @@ return {
         nameTextId = "1120135",
         icon = "icon/stone/110602/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -38925,6 +39812,7 @@ return {
         nameTextId = "1110681",
         icon = "icon/stone/111601/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -38967,6 +39855,7 @@ return {
         nameTextId = "1120238",
         icon = "icon/stone/111401/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -39009,6 +39898,7 @@ return {
         nameTextId = "1110315",
         icon = "icon/stone/110602/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -39047,6 +39937,7 @@ return {
         nameTextId = "1110550",
         icon = "icon/stone/111401/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -39089,6 +39980,7 @@ return {
         nameTextId = "1120187",
         icon = "icon/stone/110302/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -39145,6 +40037,7 @@ return {
         nameTextId = "1110805",
         icon = "icon/stone/112401/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -39187,6 +40080,7 @@ return {
         nameTextId = "1110431",
         icon = "icon/stone/110302/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -39225,6 +40119,7 @@ return {
         nameTextId = "1120136",
         icon = "icon/stone/110602/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -39275,6 +40170,7 @@ return {
         nameTextId = "1110682",
         icon = "icon/stone/111601/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -39317,6 +40213,7 @@ return {
         nameTextId = "1120239",
         icon = "icon/stone/111401/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -39377,6 +40274,7 @@ return {
         nameTextId = "1110921",
         icon = "icon/stone/113301/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -39415,6 +40313,7 @@ return {
         nameTextId = "1110551",
         icon = "icon/stone/111401/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -39457,6 +40356,7 @@ return {
         nameTextId = "1120188",
         icon = "icon/stone/110302/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -39512,6 +40412,7 @@ return {
         nameTextId = "1110806",
         icon = "icon/stone/112401/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -39554,6 +40455,7 @@ return {
         nameTextId = "1110432",
         icon = "icon/stone/110302/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -39599,6 +40501,7 @@ return {
         nameTextId = "1110683",
         icon = "icon/stone/111601/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -39641,6 +40544,7 @@ return {
         nameTextId = "1120240",
         icon = "icon/stone/111401/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -39700,6 +40604,7 @@ return {
         nameTextId = "1110922",
         icon = "icon/stone/113301/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -39738,6 +40643,7 @@ return {
         nameTextId = "1110141",
         icon = "icon/stone/110601/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -39776,6 +40682,7 @@ return {
         nameTextId = "1110552",
         icon = "icon/stone/111401/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -39830,6 +40737,7 @@ return {
         nameTextId = "1110807",
         icon = "icon/stone/112401/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -39872,6 +40780,7 @@ return {
         nameTextId = "1110257",
         icon = "icon/stone/110901/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -39917,6 +40826,7 @@ return {
         nameTextId = "1110684",
         icon = "icon/stone/111601/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -39976,6 +40886,7 @@ return {
         nameTextId = "1110923",
         icon = "icon/stone/113301/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -40014,6 +40925,7 @@ return {
         nameTextId = "1110142",
         icon = "icon/stone/110601/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -40052,6 +40964,7 @@ return {
         nameTextId = "1110373",
         icon = "icon/stone/112001/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -40102,6 +41015,7 @@ return {
         nameTextId = "1110808",
         icon = "icon/stone/112401/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -40144,6 +41058,7 @@ return {
         nameTextId = "1120213",
         icon = "icon/stone/110209/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -40187,6 +41102,7 @@ return {
         nameTextId = "1110258",
         icon = "icon/stone/110901/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -40225,6 +41141,7 @@ return {
         nameTextId = "1110489",
         icon = "icon/stone/110209/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -40284,6 +41201,7 @@ return {
         nameTextId = "1110924",
         icon = "icon/stone/113301/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -40322,6 +41240,7 @@ return {
         nameTextId = "1110143",
         icon = "icon/stone/110601/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -40360,6 +41279,7 @@ return {
         nameTextId = "1110374",
         icon = "icon/stone/112001/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -40398,6 +41318,7 @@ return {
         nameTextId = "1120111",
         icon = "icon/stone/110901/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -40449,6 +41370,7 @@ return {
         nameTextId = "1110609",
         icon = "icon/stone/110413/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -40491,6 +41413,7 @@ return {
         nameTextId = "1120214",
         icon = "icon/stone/110209/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -40534,6 +41457,7 @@ return {
         nameTextId = "1110259",
         icon = "icon/stone/110901/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -40572,6 +41496,7 @@ return {
         nameTextId = "1110490",
         icon = "icon/stone/110209/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -40614,6 +41539,7 @@ return {
         nameTextId = "1120163",
         icon = "icon/stone/112001/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -40670,6 +41596,7 @@ return {
         nameTextId = "1110749",
         icon = "icon/stone/112301/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -40718,6 +41645,7 @@ return {
         nameTextId = "1110749",
         icon = "icon/stone/112301/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -40756,6 +41684,7 @@ return {
         nameTextId = "1110375",
         icon = "icon/stone/112001/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -40794,6 +41723,7 @@ return {
         nameTextId = "1120112",
         icon = "icon/stone/110901/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -40844,6 +41774,7 @@ return {
         nameTextId = "1110610",
         icon = "icon/stone/110413/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -40886,6 +41817,7 @@ return {
         nameTextId = "1120215",
         icon = "icon/stone/110209/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -40947,6 +41879,7 @@ return {
         nameTextId = "1110865",
         icon = "icon/stone/113101/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -40985,6 +41918,7 @@ return {
         nameTextId = "1110491",
         icon = "icon/stone/110209/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -41027,6 +41961,7 @@ return {
         nameTextId = "1120164",
         icon = "icon/stone/112001/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -41082,6 +42017,7 @@ return {
         nameTextId = "1110750",
         icon = "icon/stone/112301/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -41130,6 +42066,7 @@ return {
         nameTextId = "1110750",
         icon = "icon/stone/112301/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -41168,6 +42105,7 @@ return {
         nameTextId = "1110376",
         icon = "icon/stone/112001/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -41213,6 +42151,7 @@ return {
         nameTextId = "1110611",
         icon = "icon/stone/110413/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -41255,6 +42194,7 @@ return {
         nameTextId = "1120216",
         icon = "icon/stone/110209/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -41315,6 +42255,7 @@ return {
         nameTextId = "1110866",
         icon = "icon/stone/113101/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -41353,6 +42294,7 @@ return {
         nameTextId = "1110085",
         icon = "icon/stone/110401/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -41391,6 +42333,7 @@ return {
         nameTextId = "1110492",
         icon = "icon/stone/110209/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -41445,6 +42388,7 @@ return {
         nameTextId = "1110751",
         icon = "icon/stone/112301/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -41493,6 +42437,7 @@ return {
         nameTextId = "1110751",
         icon = "icon/stone/112301/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -41531,6 +42476,7 @@ return {
         nameTextId = "1110201",
         icon = "icon/stone/110801/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -41576,6 +42522,7 @@ return {
         nameTextId = "1110612",
         icon = "icon/stone/110413/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -41635,6 +42582,7 @@ return {
         nameTextId = "1110867",
         icon = "icon/stone/113101/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -41673,6 +42621,7 @@ return {
         nameTextId = "1110086",
         icon = "icon/stone/110401/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -41711,6 +42660,7 @@ return {
         nameTextId = "1110317",
         icon = "icon/stone/110602/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -41761,6 +42711,7 @@ return {
         nameTextId = "1110752",
         icon = "icon/stone/112301/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -41809,6 +42760,7 @@ return {
         nameTextId = "1110752",
         icon = "icon/stone/112301/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -41847,6 +42799,7 @@ return {
         nameTextId = "1120189",
         icon = "icon/stone/110302/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -41890,6 +42843,7 @@ return {
         nameTextId = "1110202",
         icon = "icon/stone/110801/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -41928,6 +42882,7 @@ return {
         nameTextId = "1110433",
         icon = "icon/stone/110302/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -41987,6 +42942,7 @@ return {
         nameTextId = "1110868",
         icon = "icon/stone/113101/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -42025,6 +42981,7 @@ return {
         nameTextId = "1110087",
         icon = "icon/stone/110401/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -42063,6 +43020,7 @@ return {
         nameTextId = "1110318",
         icon = "icon/stone/110602/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -42101,6 +43059,7 @@ return {
         nameTextId = "1120087",
         icon = "icon/stone/110801/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -42152,6 +43111,7 @@ return {
         nameTextId = "1110553",
         icon = "icon/stone/111401/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -42194,6 +43154,7 @@ return {
         nameTextId = "1120190",
         icon = "icon/stone/110302/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -42237,6 +43198,7 @@ return {
         nameTextId = "1110203",
         icon = "icon/stone/110801/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -42275,6 +43237,7 @@ return {
         nameTextId = "1110434",
         icon = "icon/stone/110302/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -42317,6 +43280,7 @@ return {
         nameTextId = "1120139",
         icon = "icon/stone/110602/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -42373,6 +43337,7 @@ return {
         nameTextId = "1110685",
         icon = "icon/stone/111601/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -42421,6 +43386,7 @@ return {
         nameTextId = "1110685",
         icon = "icon/stone/111601/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -42459,6 +43425,7 @@ return {
         nameTextId = "1110319",
         icon = "icon/stone/110602/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -42497,6 +43464,7 @@ return {
         nameTextId = "1120088",
         icon = "icon/stone/110801/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -42547,6 +43515,7 @@ return {
         nameTextId = "1110554",
         icon = "icon/stone/111401/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -42589,6 +43558,7 @@ return {
         nameTextId = "1120191",
         icon = "icon/stone/110302/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -42632,6 +43602,7 @@ return {
         nameTextId = "1110204",
         icon = "icon/stone/110801/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -42670,6 +43641,7 @@ return {
         nameTextId = "1110435",
         icon = "icon/stone/110302/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -42712,6 +43684,7 @@ return {
         nameTextId = "1120140",
         icon = "icon/stone/110602/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -42767,6 +43740,7 @@ return {
         nameTextId = "1110686",
         icon = "icon/stone/111601/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -42815,6 +43789,7 @@ return {
         nameTextId = "1110686",
         icon = "icon/stone/111601/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -42853,6 +43828,7 @@ return {
         nameTextId = "1110320",
         icon = "icon/stone/110602/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -42898,6 +43874,7 @@ return {
         nameTextId = "1110555",
         icon = "icon/stone/111401/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -42940,6 +43917,7 @@ return {
         nameTextId = "1120192",
         icon = "icon/stone/110302/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -43000,6 +43978,7 @@ return {
         nameTextId = "1110810",
         icon = "icon/stone/112401/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -43038,6 +44017,7 @@ return {
         nameTextId = "1110029",
         icon = "icon/stone/110201/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -43076,6 +44056,7 @@ return {
         nameTextId = "1110436",
         icon = "icon/stone/110302/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -43130,6 +44111,7 @@ return {
         nameTextId = "1110687",
         icon = "icon/stone/111601/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -43178,6 +44160,7 @@ return {
         nameTextId = "1110687",
         icon = "icon/stone/111601/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -43216,6 +44199,7 @@ return {
         nameTextId = "1110145",
         icon = "icon/stone/110601/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -43261,6 +44245,7 @@ return {
         nameTextId = "1110556",
         icon = "icon/stone/111401/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -43320,6 +44305,7 @@ return {
         nameTextId = "1110811",
         icon = "icon/stone/112401/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -43358,6 +44344,7 @@ return {
         nameTextId = "1110030",
         icon = "icon/stone/110201/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -43396,6 +44383,7 @@ return {
         nameTextId = "1110261",
         icon = "icon/stone/110901/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -43446,6 +44434,7 @@ return {
         nameTextId = "1110688",
         icon = "icon/stone/111601/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -43494,6 +44483,7 @@ return {
         nameTextId = "1110688",
         icon = "icon/stone/111601/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -43532,6 +44522,7 @@ return {
         nameTextId = "1120165",
         icon = "icon/stone/112001/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -43575,6 +44566,7 @@ return {
         nameTextId = "1110146",
         icon = "icon/stone/110601/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -43613,6 +44605,7 @@ return {
         nameTextId = "1110377",
         icon = "icon/stone/112001/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -43672,6 +44665,7 @@ return {
         nameTextId = "1110812",
         icon = "icon/stone/112401/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -43710,6 +44704,7 @@ return {
         nameTextId = "1110031",
         icon = "icon/stone/110201/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -43748,6 +44743,7 @@ return {
         nameTextId = "1110262",
         icon = "icon/stone/110901/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -43786,6 +44782,7 @@ return {
         nameTextId = "1120063",
         icon = "icon/stone/110601/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -43837,6 +44834,7 @@ return {
         nameTextId = "1110493",
         icon = "icon/stone/110209/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -43879,6 +44877,7 @@ return {
         nameTextId = "1120166",
         icon = "icon/stone/112001/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -43922,6 +44921,7 @@ return {
         nameTextId = "1110147",
         icon = "icon/stone/110601/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -43960,6 +44960,7 @@ return {
         nameTextId = "1110378",
         icon = "icon/stone/112001/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -44002,6 +45003,7 @@ return {
         nameTextId = "1120115",
         icon = "icon/stone/110901/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -44058,6 +45060,7 @@ return {
         nameTextId = "1110613",
         icon = "icon/stone/110413/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -44106,6 +45109,7 @@ return {
         nameTextId = "1110633",
         icon = "icon/stone/110413/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -44144,6 +45148,7 @@ return {
         nameTextId = "1110263",
         icon = "icon/stone/110901/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -44182,6 +45187,7 @@ return {
         nameTextId = "1120064",
         icon = "icon/stone/110601/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -44232,6 +45238,7 @@ return {
         nameTextId = "1110494",
         icon = "icon/stone/110209/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -44274,6 +45281,7 @@ return {
         nameTextId = "1120167",
         icon = "icon/stone/112001/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -44335,6 +45343,7 @@ return {
         nameTextId = "1110753",
         icon = "icon/stone/112301/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -44373,6 +45382,7 @@ return {
         nameTextId = "1110379",
         icon = "icon/stone/112001/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -44415,6 +45425,7 @@ return {
         nameTextId = "1120116",
         icon = "icon/stone/110901/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -44470,6 +45481,7 @@ return {
         nameTextId = "1110614",
         icon = "icon/stone/110413/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -44518,6 +45530,7 @@ return {
         nameTextId = "1110634",
         icon = "icon/stone/110413/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -44556,6 +45569,7 @@ return {
         nameTextId = "1110264",
         icon = "icon/stone/110901/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -44601,6 +45615,7 @@ return {
         nameTextId = "1110495",
         icon = "icon/stone/110209/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -44643,6 +45658,7 @@ return {
         nameTextId = "1120168",
         icon = "icon/stone/112001/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -44703,6 +45719,7 @@ return {
         nameTextId = "1110754",
         icon = "icon/stone/112301/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -44741,6 +45758,7 @@ return {
         nameTextId = "1110380",
         icon = "icon/stone/112001/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -44795,6 +45813,7 @@ return {
         nameTextId = "1110615",
         icon = "icon/stone/110413/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -44843,6 +45862,7 @@ return {
         nameTextId = "1110635",
         icon = "icon/stone/110413/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -44881,6 +45901,7 @@ return {
         nameTextId = "1110089",
         icon = "icon/stone/110401/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -44926,6 +45947,7 @@ return {
         nameTextId = "1110496",
         icon = "icon/stone/110209/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -44985,6 +46007,7 @@ return {
         nameTextId = "1110755",
         icon = "icon/stone/112301/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -45023,6 +46046,7 @@ return {
         nameTextId = "1110205",
         icon = "icon/stone/110801/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -45073,6 +46097,7 @@ return {
         nameTextId = "1110616",
         icon = "icon/stone/110413/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -45121,6 +46146,7 @@ return {
         nameTextId = "1110636",
         icon = "icon/stone/110413/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -45159,6 +46185,7 @@ return {
         nameTextId = "1120141",
         icon = "icon/stone/110602/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -45202,6 +46229,7 @@ return {
         nameTextId = "1110090",
         icon = "icon/stone/110401/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -45240,6 +46268,7 @@ return {
         nameTextId = "1110321",
         icon = "icon/stone/110602/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -45299,6 +46328,7 @@ return {
         nameTextId = "1110756",
         icon = "icon/stone/112301/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -45337,6 +46367,7 @@ return {
         nameTextId = "1110206",
         icon = "icon/stone/110801/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -45375,6 +46406,7 @@ return {
         nameTextId = "1120039",
         icon = "icon/stone/110401/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -45426,6 +46458,7 @@ return {
         nameTextId = "1110437",
         icon = "icon/stone/110302/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -45468,6 +46501,7 @@ return {
         nameTextId = "1120142",
         icon = "icon/stone/110602/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -45511,6 +46545,7 @@ return {
         nameTextId = "1110091",
         icon = "icon/stone/110401/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -45549,6 +46584,7 @@ return {
         nameTextId = "1110322",
         icon = "icon/stone/110602/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -45591,6 +46627,7 @@ return {
         nameTextId = "1120091",
         icon = "icon/stone/110801/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -45647,6 +46684,7 @@ return {
         nameTextId = "1110557",
         icon = "icon/stone/111401/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -45695,6 +46733,7 @@ return {
         nameTextId = "1110593",
         icon = "icon/stone/111401/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -45733,6 +46772,7 @@ return {
         nameTextId = "1110207",
         icon = "icon/stone/110801/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -45771,6 +46811,7 @@ return {
         nameTextId = "1120040",
         icon = "icon/stone/110401/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -45821,6 +46862,7 @@ return {
         nameTextId = "1110438",
         icon = "icon/stone/110302/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -45863,6 +46905,7 @@ return {
         nameTextId = "1120143",
         icon = "icon/stone/110602/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -45906,6 +46949,7 @@ return {
         nameTextId = "1110092",
         icon = "icon/stone/110401/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -45944,6 +46988,7 @@ return {
         nameTextId = "1110323",
         icon = "icon/stone/110602/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -45986,6 +47031,7 @@ return {
         nameTextId = "1120092",
         icon = "icon/stone/110801/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -46041,6 +47087,7 @@ return {
         nameTextId = "1110558",
         icon = "icon/stone/111401/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -46089,6 +47136,7 @@ return {
         nameTextId = "1110594",
         icon = "icon/stone/111401/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -46127,6 +47175,7 @@ return {
         nameTextId = "1110208",
         icon = "icon/stone/110801/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -46172,6 +47221,7 @@ return {
         nameTextId = "1110439",
         icon = "icon/stone/110302/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -46214,6 +47264,7 @@ return {
         nameTextId = "1120144",
         icon = "icon/stone/110602/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -46274,6 +47325,7 @@ return {
         nameTextId = "1110690",
         icon = "icon/stone/111601/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -46312,6 +47364,7 @@ return {
         nameTextId = "1110324",
         icon = "icon/stone/110602/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -46366,6 +47419,7 @@ return {
         nameTextId = "1110559",
         icon = "icon/stone/111401/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -46414,6 +47468,7 @@ return {
         nameTextId = "1110595",
         icon = "icon/stone/111401/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -46452,6 +47507,7 @@ return {
         nameTextId = "1110033",
         icon = "icon/stone/110201/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -46497,6 +47553,7 @@ return {
         nameTextId = "1110440",
         icon = "icon/stone/110302/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -46556,6 +47613,7 @@ return {
         nameTextId = "1110691",
         icon = "icon/stone/111601/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -46594,6 +47652,7 @@ return {
         nameTextId = "1110149",
         icon = "icon/stone/110601/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -46644,6 +47703,7 @@ return {
         nameTextId = "1110560",
         icon = "icon/stone/111401/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -46692,6 +47752,7 @@ return {
         nameTextId = "1110596",
         icon = "icon/stone/111401/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -46730,6 +47791,7 @@ return {
         nameTextId = "1120117",
         icon = "icon/stone/110901/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -46773,6 +47835,7 @@ return {
         nameTextId = "1110034",
         icon = "icon/stone/110201/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -46811,6 +47874,7 @@ return {
         nameTextId = "1110265",
         icon = "icon/stone/110901/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -46870,6 +47934,7 @@ return {
         nameTextId = "1110692",
         icon = "icon/stone/111601/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -46908,6 +47973,7 @@ return {
         nameTextId = "1110150",
         icon = "icon/stone/110601/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -46946,6 +48012,7 @@ return {
         nameTextId = "1120015",
         icon = "icon/stone/110201/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -46997,6 +48064,7 @@ return {
         nameTextId = "1110381",
         icon = "icon/stone/112001/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -47039,6 +48107,7 @@ return {
         nameTextId = "1120118",
         icon = "icon/stone/110901/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -47082,6 +48151,7 @@ return {
         nameTextId = "1110035",
         icon = "icon/stone/110201/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -47120,6 +48190,7 @@ return {
         nameTextId = "1110266",
         icon = "icon/stone/110901/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -47162,6 +48233,7 @@ return {
         nameTextId = "1120067",
         icon = "icon/stone/110601/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -47218,6 +48290,7 @@ return {
         nameTextId = "1110497",
         icon = "icon/stone/110209/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -47260,6 +48333,7 @@ return {
         nameTextId = "1110151",
         icon = "icon/stone/110601/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -47298,6 +48372,7 @@ return {
         nameTextId = "1120016",
         icon = "icon/stone/110201/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -47348,6 +48423,7 @@ return {
         nameTextId = "1110382",
         icon = "icon/stone/112001/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -47390,6 +48466,7 @@ return {
         nameTextId = "1120119",
         icon = "icon/stone/110901/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -47433,6 +48510,7 @@ return {
         nameTextId = "1110036",
         icon = "icon/stone/110201/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -47471,6 +48549,7 @@ return {
         nameTextId = "1110267",
         icon = "icon/stone/110901/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -47513,6 +48592,7 @@ return {
         nameTextId = "1120068",
         icon = "icon/stone/110601/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -47568,6 +48648,7 @@ return {
         nameTextId = "1110498",
         icon = "icon/stone/110209/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -47610,6 +48691,7 @@ return {
         nameTextId = "1110152",
         icon = "icon/stone/110601/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -47655,6 +48737,7 @@ return {
         nameTextId = "1110383",
         icon = "icon/stone/112001/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -47697,6 +48780,7 @@ return {
         nameTextId = "1120120",
         icon = "icon/stone/110901/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -47757,6 +48841,7 @@ return {
         nameTextId = "1110618",
         icon = "icon/stone/110413/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -47795,6 +48880,7 @@ return {
         nameTextId = "1110268",
         icon = "icon/stone/110901/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -47849,6 +48935,7 @@ return {
         nameTextId = "1110499",
         icon = "icon/stone/110209/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -47898,6 +48985,7 @@ return {
         nameTextId = "1110384",
         icon = "icon/stone/112001/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -47957,6 +49045,7 @@ return {
         nameTextId = "1110619",
         icon = "icon/stone/110413/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -47995,6 +49084,7 @@ return {
         nameTextId = "1110093",
         icon = "icon/stone/110401/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -48045,6 +49135,7 @@ return {
         nameTextId = "1110500",
         icon = "icon/stone/110209/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -48087,6 +49178,7 @@ return {
         nameTextId = "1120093",
         icon = "icon/stone/110801/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -48130,6 +49222,7 @@ return {
         nameTextId = "1110209",
         icon = "icon/stone/110801/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -48189,6 +49282,7 @@ return {
         nameTextId = "1110620",
         icon = "icon/stone/110413/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -48227,6 +49321,7 @@ return {
         nameTextId = "1110094",
         icon = "icon/stone/110401/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -48273,6 +49368,7 @@ return {
         nameTextId = "1110325",
         icon = "icon/stone/110602/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -48315,6 +49411,7 @@ return {
         nameTextId = "1120094",
         icon = "icon/stone/110801/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -48358,6 +49455,7 @@ return {
         nameTextId = "1110210",
         icon = "icon/stone/110801/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -48400,6 +49498,7 @@ return {
         nameTextId = "1120043",
         icon = "icon/stone/110401/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -48456,6 +49555,7 @@ return {
         nameTextId = "1110441",
         icon = "icon/stone/110302/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -48498,6 +49598,7 @@ return {
         nameTextId = "1110095",
         icon = "icon/stone/110401/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -48543,6 +49644,7 @@ return {
         nameTextId = "1110326",
         icon = "icon/stone/110602/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -48585,6 +49687,7 @@ return {
         nameTextId = "1120095",
         icon = "icon/stone/110801/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -48646,6 +49749,7 @@ return {
         nameTextId = "1110561",
         icon = "icon/stone/111401/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -48684,6 +49788,7 @@ return {
         nameTextId = "1110211",
         icon = "icon/stone/110801/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -48726,6 +49831,7 @@ return {
         nameTextId = "1120044",
         icon = "icon/stone/110401/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -48781,6 +49887,7 @@ return {
         nameTextId = "1110442",
         icon = "icon/stone/110302/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -48823,6 +49930,7 @@ return {
         nameTextId = "1110096",
         icon = "icon/stone/110401/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -48868,6 +49976,7 @@ return {
         nameTextId = "1110327",
         icon = "icon/stone/110602/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -48910,6 +50019,7 @@ return {
         nameTextId = "1120096",
         icon = "icon/stone/110801/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -48970,6 +50080,7 @@ return {
         nameTextId = "1110562",
         icon = "icon/stone/111401/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -49008,6 +50119,7 @@ return {
         nameTextId = "1110212",
         icon = "icon/stone/110801/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -49062,6 +50174,7 @@ return {
         nameTextId = "1110443",
         icon = "icon/stone/110302/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -49111,6 +50224,7 @@ return {
         nameTextId = "1110328",
         icon = "icon/stone/110602/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -49170,6 +50284,7 @@ return {
         nameTextId = "1110563",
         icon = "icon/stone/111401/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -49208,6 +50323,7 @@ return {
         nameTextId = "1110037",
         icon = "icon/stone/110201/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -49258,6 +50374,7 @@ return {
         nameTextId = "1110444",
         icon = "icon/stone/110302/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -49300,6 +50417,7 @@ return {
         nameTextId = "1120069",
         icon = "icon/stone/110601/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -49343,6 +50461,7 @@ return {
         nameTextId = "1110153",
         icon = "icon/stone/110601/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -49402,6 +50521,7 @@ return {
         nameTextId = "1110564",
         icon = "icon/stone/111401/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -49440,6 +50560,7 @@ return {
         nameTextId = "1110038",
         icon = "icon/stone/110201/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -49486,6 +50607,7 @@ return {
         nameTextId = "1110269",
         icon = "icon/stone/110901/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -49528,6 +50650,7 @@ return {
         nameTextId = "1120070",
         icon = "icon/stone/110601/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -49571,6 +50694,7 @@ return {
         nameTextId = "1110154",
         icon = "icon/stone/110601/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -49613,6 +50737,7 @@ return {
         nameTextId = "1120019",
         icon = "icon/stone/110201/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -49669,6 +50794,7 @@ return {
         nameTextId = "1110385",
         icon = "icon/stone/112001/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -49717,6 +50843,7 @@ return {
         nameTextId = "1110697",
         icon = "icon/stone/112001/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -49755,6 +50882,7 @@ return {
         nameTextId = "1110039",
         icon = "icon/stone/110201/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -49800,6 +50928,7 @@ return {
         nameTextId = "1110270",
         icon = "icon/stone/110901/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -49842,6 +50971,7 @@ return {
         nameTextId = "1120071",
         icon = "icon/stone/110601/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -49903,6 +51033,7 @@ return {
         nameTextId = "1110501",
         icon = "icon/stone/110209/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -49941,6 +51072,7 @@ return {
         nameTextId = "1110155",
         icon = "icon/stone/110601/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -49983,6 +51115,7 @@ return {
         nameTextId = "1120020",
         icon = "icon/stone/110201/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -50038,6 +51171,7 @@ return {
         nameTextId = "1110386",
         icon = "icon/stone/112001/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -50086,6 +51220,7 @@ return {
         nameTextId = "1110698",
         icon = "icon/stone/112001/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -50124,6 +51259,7 @@ return {
         nameTextId = "1110040",
         icon = "icon/stone/110201/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -50169,6 +51305,7 @@ return {
         nameTextId = "1110271",
         icon = "icon/stone/110901/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -50211,6 +51348,7 @@ return {
         nameTextId = "1120072",
         icon = "icon/stone/110601/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -50271,6 +51409,7 @@ return {
         nameTextId = "1110502",
         icon = "icon/stone/110209/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -50309,6 +51448,7 @@ return {
         nameTextId = "1110156",
         icon = "icon/stone/110601/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -50363,6 +51503,7 @@ return {
         nameTextId = "1110387",
         icon = "icon/stone/112001/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -50411,6 +51552,7 @@ return {
         nameTextId = "1110699",
         icon = "icon/stone/112001/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -50456,6 +51598,7 @@ return {
         nameTextId = "1110272",
         icon = "icon/stone/110901/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -50515,6 +51658,7 @@ return {
         nameTextId = "1110503",
         icon = "icon/stone/110209/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -50565,6 +51709,7 @@ return {
         nameTextId = "1110388",
         icon = "icon/stone/112001/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -50613,6 +51758,7 @@ return {
         nameTextId = "1110700",
         icon = "icon/stone/112001/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -50651,6 +51797,7 @@ return {
         nameTextId = "1120045",
         icon = "icon/stone/110401/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -50694,6 +51841,7 @@ return {
         nameTextId = "1110097",
         icon = "icon/stone/110401/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -50753,6 +51901,7 @@ return {
         nameTextId = "1110504",
         icon = "icon/stone/110209/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -50791,6 +51940,7 @@ return {
         nameTextId = "1110982",
         icon = "icon/stone/113701/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -50837,6 +51987,7 @@ return {
         nameTextId = "1110213",
         icon = "icon/stone/110801/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -50879,6 +52030,7 @@ return {
         nameTextId = "1120046",
         icon = "icon/stone/110401/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -50934,6 +52086,7 @@ return {
         nameTextId = "1110192",
         icon = "icon/stone/110701/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -50976,6 +52129,7 @@ return {
         nameTextId = "1110957",
         icon = "icon/stone/110313/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -51014,6 +52168,7 @@ return {
         nameTextId = "1110098",
         icon = "icon/stone/110401/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -51056,6 +52211,7 @@ return {
         nameTextId = "1110953",
         icon = "icon/stone/110313/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -51107,6 +52263,7 @@ return {
         nameTextId = "1110329",
         icon = "icon/stone/110602/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -51149,6 +52306,7 @@ return {
         nameTextId = "1110008",
         icon = "icon/stone/110101/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -51187,6 +52345,7 @@ return {
         nameTextId = "1120412",
         icon = "icon/stone/113701/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -51229,6 +52388,7 @@ return {
         nameTextId = "1110983",
         icon = "icon/stone/113701/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -51274,6 +52434,7 @@ return {
         nameTextId = "1110214",
         icon = "icon/stone/110801/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -51316,6 +52477,7 @@ return {
         nameTextId = "1120047",
         icon = "icon/stone/110401/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -51377,6 +52539,7 @@ return {
         nameTextId = "1110445",
         icon = "icon/stone/110302/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -51415,6 +52578,7 @@ return {
         nameTextId = "1120411",
         icon = "icon/stone/113701/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -51457,6 +52621,7 @@ return {
         nameTextId = "1110099",
         icon = "icon/stone/110401/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -51499,6 +52664,7 @@ return {
         nameTextId = "1120174",
         icon = "icon/stone/111301/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -51554,6 +52720,7 @@ return {
         nameTextId = "1110330",
         icon = "icon/stone/110602/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -51596,6 +52763,7 @@ return {
         nameTextId = "1120197",
         icon = "icon/stone/110208/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -51639,6 +52807,7 @@ return {
         nameTextId = "1120400",
         icon = "icon/stone/110313/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -51682,6 +52851,7 @@ return {
         nameTextId = "1110984",
         icon = "icon/stone/113701/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -51727,6 +52897,7 @@ return {
         nameTextId = "1110215",
         icon = "icon/stone/110801/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -51769,6 +52940,7 @@ return {
         nameTextId = "1120048",
         icon = "icon/stone/110401/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -51829,6 +53001,7 @@ return {
         nameTextId = "1110446",
         icon = "icon/stone/110302/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -51867,6 +53040,7 @@ return {
         nameTextId = "1120399",
         icon = "icon/stone/110313/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -51910,6 +53084,7 @@ return {
         nameTextId = "1110100",
         icon = "icon/stone/110401/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -51952,6 +53127,7 @@ return {
         nameTextId = "1110396",
         icon = "icon/stone/111301/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -52002,6 +53178,7 @@ return {
         nameTextId = "1110331",
         icon = "icon/stone/110602/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -52061,6 +53238,7 @@ return {
         nameTextId = "1110140",
         icon = "icon/stone/110501/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -52099,6 +53277,7 @@ return {
         nameTextId = "1110312",
         icon = "icon/stone/110602/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -52149,6 +53328,7 @@ return {
         nameTextId = "1110080",
         icon = "icon/stone/110301/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -52198,6 +53378,7 @@ return {
         nameTextId = "1110216",
         icon = "icon/stone/110801/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -52240,6 +53421,7 @@ return {
         nameTextId = "1120388",
         icon = "icon/stone/113201/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -52300,6 +53482,7 @@ return {
         nameTextId = "1110447",
         icon = "icon/stone/110302/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -52338,6 +53521,7 @@ return {
         nameTextId = "1120387",
         icon = "icon/stone/113201/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -52381,6 +53565,7 @@ return {
         nameTextId = "1120089",
         icon = "icon/stone/110801/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -52424,6 +53609,7 @@ return {
         nameTextId = "1120110",
         icon = "icon/stone/110901/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -52479,6 +53665,7 @@ return {
         nameTextId = "1110332",
         icon = "icon/stone/110602/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -52521,6 +53708,7 @@ return {
         nameTextId = "1120376",
         icon = "icon/stone/113301/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -52564,6 +53752,7 @@ return {
         nameTextId = "1120021",
         icon = "icon/stone/110201/s31.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -52607,6 +53796,7 @@ return {
         nameTextId = "1120375",
         icon = "icon/stone/113301/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -52650,6 +53840,7 @@ return {
         nameTextId = "1110116",
         icon = "icon/stone/110501/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -52688,6 +53879,7 @@ return {
         nameTextId = "1110041",
         icon = "icon/stone/110201/41.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -52747,6 +53939,7 @@ return {
         nameTextId = "1110448",
         icon = "icon/stone/110302/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -52785,6 +53978,7 @@ return {
         nameTextId = "1120364",
         icon = "icon/stone/112801/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -52828,6 +54022,7 @@ return {
         nameTextId = "1120363",
         icon = "icon/stone/112801/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -52871,6 +54066,7 @@ return {
         nameTextId = "1120005",
         icon = "icon/stone/110101/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -52914,6 +54110,7 @@ return {
         nameTextId = "1110926",
         icon = "icon/stone/113201/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -52960,6 +54157,7 @@ return {
         nameTextId = "1110157",
         icon = "icon/stone/110601/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -53002,6 +54200,7 @@ return {
         nameTextId = "1120022",
         icon = "icon/stone/110201/s32.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -53045,6 +54244,7 @@ return {
         nameTextId = "1120025",
         icon = "icon/stone/110301/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -53088,6 +54288,7 @@ return {
         nameTextId = "1120352",
         icon = "icon/stone/113101/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -53130,6 +54331,7 @@ return {
         nameTextId = "1110042",
         icon = "icon/stone/110201/42.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -53172,6 +54374,7 @@ return {
         nameTextId = "1120351",
         icon = "icon/stone/113101/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -53227,6 +54430,7 @@ return {
         nameTextId = "1110273",
         icon = "icon/stone/110901/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -53269,6 +54473,7 @@ return {
         nameTextId = "1120340",
         icon = "icon/stone/112701/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -53312,6 +54517,7 @@ return {
         nameTextId = "1120339",
         icon = "icon/stone/112701/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -53355,6 +54561,7 @@ return {
         nameTextId = "1110927",
         icon = "icon/stone/113201/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -53400,6 +54607,7 @@ return {
         nameTextId = "1110158",
         icon = "icon/stone/110601/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -53442,6 +54650,7 @@ return {
         nameTextId = "1120023",
         icon = "icon/stone/110201/s33.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -53503,6 +54712,7 @@ return {
         nameTextId = "1110389",
         icon = "icon/stone/112001/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -53553,6 +54763,7 @@ return {
         nameTextId = "1110052",
         icon = "icon/stone/110201/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -53595,6 +54806,7 @@ return {
         nameTextId = "1110043",
         icon = "icon/stone/110201/43.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -53654,6 +54866,7 @@ return {
         nameTextId = "1110252",
         icon = "icon/stone/111001/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -53704,6 +54917,7 @@ return {
         nameTextId = "1110274",
         icon = "icon/stone/110901/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -53746,6 +54960,7 @@ return {
         nameTextId = "1120328",
         icon = "icon/stone/112401/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -53789,6 +55004,7 @@ return {
         nameTextId = "1120327",
         icon = "icon/stone/112401/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -53832,6 +55048,7 @@ return {
         nameTextId = "1110928",
         icon = "icon/stone/113201/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -53877,6 +55094,7 @@ return {
         nameTextId = "1110159",
         icon = "icon/stone/110601/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -53919,6 +55137,7 @@ return {
         nameTextId = "1120024",
         icon = "icon/stone/110201/s34.png",
         quality = 7,
+        minipack = 0,
         type = 2,
         rarity = 7,
         accessId = {
@@ -53979,6 +55198,7 @@ return {
         nameTextId = "1110390",
         icon = "icon/stone/112001/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -54017,6 +55237,7 @@ return {
         nameTextId = "1120316",
         icon = "icon/stone/112501/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54060,6 +55281,7 @@ return {
         nameTextId = "1110044",
         icon = "icon/stone/110201/44.png",
         quality = 4,
+        minipack = 0,
         type = 1,
         rarity = 4,
         accessId = {
@@ -54102,6 +55324,7 @@ return {
         nameTextId = "1120315",
         icon = "icon/stone/112501/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54157,6 +55380,7 @@ return {
         nameTextId = "1110275",
         icon = "icon/stone/110901/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -54199,6 +55423,7 @@ return {
         nameTextId = "1110148",
         icon = "icon/stone/110601/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -54237,6 +55462,7 @@ return {
         nameTextId = "1110200",
         icon = "icon/stone/110801/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -54275,6 +55501,7 @@ return {
         nameTextId = "1120304",
         icon = "icon/stone/112301/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54324,6 +55551,7 @@ return {
         nameTextId = "1110160",
         icon = "icon/stone/110601/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -54366,6 +55594,7 @@ return {
         nameTextId = "1120303",
         icon = "icon/stone/112301/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54425,6 +55654,7 @@ return {
         nameTextId = "1110391",
         icon = "icon/stone/112001/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -54463,6 +55693,7 @@ return {
         nameTextId = "1120292",
         icon = "icon/stone/112201/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54505,6 +55736,7 @@ return {
         nameTextId = "1120291",
         icon = "icon/stone/112201/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54547,6 +55779,7 @@ return {
         nameTextId = "1120280",
         icon = "icon/stone/111601/s14.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54589,6 +55822,7 @@ return {
         nameTextId = "1110869",
         icon = "icon/stone/112801/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -54627,6 +55861,7 @@ return {
         nameTextId = "1120279",
         icon = "icon/stone/111601/s13.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54669,6 +55904,7 @@ return {
         nameTextId = "1120198",
         icon = "icon/stone/110208/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -54712,6 +55948,7 @@ return {
         nameTextId = "1120409",
         icon = "icon/stone/113701/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54754,6 +55991,7 @@ return {
         nameTextId = "1120194",
         icon = "icon/stone/110208/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54797,6 +56035,7 @@ return {
         nameTextId = "1120193",
         icon = "icon/stone/110208/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -54857,6 +56096,7 @@ return {
         nameTextId = "1110392",
         icon = "icon/stone/112001/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -54895,6 +56135,7 @@ return {
         nameTextId = "1120186",
         icon = "icon/stone/110302/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -54938,6 +56179,7 @@ return {
         nameTextId = "1120185",
         icon = "icon/stone/110302/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -54981,6 +56223,7 @@ return {
         nameTextId = "1120182",
         icon = "icon/stone/110302/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -55024,6 +56267,7 @@ return {
         nameTextId = "1110870",
         icon = "icon/stone/112801/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -55070,6 +56314,7 @@ return {
         nameTextId = "1110101",
         icon = "icon/stone/110401/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -55112,6 +56357,7 @@ return {
         nameTextId = "1120181",
         icon = "icon/stone/110302/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -55155,6 +56401,7 @@ return {
         nameTextId = "1120410",
         icon = "icon/stone/113701/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -55197,6 +56444,7 @@ return {
         nameTextId = "1120173",
         icon = "icon/stone/111301/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -55240,6 +56488,7 @@ return {
         nameTextId = "1120170",
         icon = "icon/stone/111301/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -55283,6 +56532,7 @@ return {
         nameTextId = "1110986",
         icon = "icon/stone/113701/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -55334,6 +56584,7 @@ return {
         nameTextId = "1110217",
         icon = "icon/stone/110801/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -55376,6 +56627,7 @@ return {
         nameTextId = "1120169",
         icon = "icon/stone/111301/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -55419,6 +56671,7 @@ return {
         nameTextId = "1120162",
         icon = "icon/stone/112001/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -55462,6 +56715,7 @@ return {
         nameTextId = "1110871",
         icon = "icon/stone/112801/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -55507,6 +56761,7 @@ return {
         nameTextId = "1110102",
         icon = "icon/stone/110401/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -55549,6 +56804,7 @@ return {
         nameTextId = "1120161",
         icon = "icon/stone/112001/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -55610,6 +56866,7 @@ return {
         nameTextId = "1110333",
         icon = "icon/stone/110602/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -55648,6 +56905,7 @@ return {
         nameTextId = "1120158",
         icon = "icon/stone/112001/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -55691,6 +56949,7 @@ return {
         nameTextId = "1120157",
         icon = "icon/stone/112001/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -55734,6 +56993,7 @@ return {
         nameTextId = "1110987",
         icon = "icon/stone/113701/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -55784,6 +57044,7 @@ return {
         nameTextId = "1110218",
         icon = "icon/stone/110801/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -55826,6 +57087,7 @@ return {
         nameTextId = "1120150",
         icon = "icon/stone/110102/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -55869,6 +57131,7 @@ return {
         nameTextId = "1120149",
         icon = "icon/stone/110102/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -55912,6 +57175,7 @@ return {
         nameTextId = "1110872",
         icon = "icon/stone/112801/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -55957,6 +57221,7 @@ return {
         nameTextId = "1110103",
         icon = "icon/stone/110401/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -55999,6 +57264,7 @@ return {
         nameTextId = "1120146",
         icon = "icon/stone/110102/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -56059,6 +57325,7 @@ return {
         nameTextId = "1110334",
         icon = "icon/stone/110602/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -56097,6 +57364,7 @@ return {
         nameTextId = "1120145",
         icon = "icon/stone/110102/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -56140,6 +57408,7 @@ return {
         nameTextId = "1120138",
         icon = "icon/stone/110602/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -56183,6 +57452,7 @@ return {
         nameTextId = "1110988",
         icon = "icon/stone/113701/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -56233,6 +57503,7 @@ return {
         nameTextId = "1110219",
         icon = "icon/stone/110801/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -56275,6 +57546,7 @@ return {
         nameTextId = "1120137",
         icon = "icon/stone/110602/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -56318,6 +57590,7 @@ return {
         nameTextId = "1120134",
         icon = "icon/stone/110602/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -56361,6 +57634,7 @@ return {
         nameTextId = "1120133",
         icon = "icon/stone/110602/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -56411,6 +57685,7 @@ return {
         nameTextId = "1110104",
         icon = "icon/stone/110401/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -56453,6 +57728,7 @@ return {
         nameTextId = "1120126",
         icon = "icon/stone/110103/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -56513,6 +57789,7 @@ return {
         nameTextId = "1110335",
         icon = "icon/stone/110602/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -56551,6 +57828,7 @@ return {
         nameTextId = "1120125",
         icon = "icon/stone/110103/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -56594,6 +57872,7 @@ return {
         nameTextId = "1120122",
         icon = "icon/stone/110103/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -56637,6 +57916,7 @@ return {
         nameTextId = "1120121",
         icon = "icon/stone/110103/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -56680,6 +57960,7 @@ return {
         nameTextId = "1110813",
         icon = "icon/stone/112701/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -56718,6 +57999,7 @@ return {
         nameTextId = "1120114",
         icon = "icon/stone/110901/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -56761,6 +58043,7 @@ return {
         nameTextId = "1120113",
         icon = "icon/stone/110901/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -56804,6 +58087,7 @@ return {
         nameTextId = "1120385",
         icon = "icon/stone/113201/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -56847,6 +58131,7 @@ return {
         nameTextId = "1120109",
         icon = "icon/stone/110901/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -56890,6 +58175,7 @@ return {
         nameTextId = "1120102",
         icon = "icon/stone/111001/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -56933,6 +58219,7 @@ return {
         nameTextId = "1110929",
         icon = "icon/stone/113201/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -56971,6 +58258,7 @@ return {
         nameTextId = "1120101",
         icon = "icon/stone/111001/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -57014,6 +58302,7 @@ return {
         nameTextId = "1120098",
         icon = "icon/stone/111001/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -57057,6 +58346,7 @@ return {
         nameTextId = "1120097",
         icon = "icon/stone/111001/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -57100,6 +58390,7 @@ return {
         nameTextId = "1110814",
         icon = "icon/stone/112701/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -57146,6 +58437,7 @@ return {
         nameTextId = "1110045",
         icon = "icon/stone/110201/51.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -57188,6 +58480,7 @@ return {
         nameTextId = "1120090",
         icon = "icon/stone/110801/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -57231,6 +58524,7 @@ return {
         nameTextId = "1120386",
         icon = "icon/stone/113201/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -57274,6 +58568,7 @@ return {
         nameTextId = "1120086",
         icon = "icon/stone/110801/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -57317,6 +58612,7 @@ return {
         nameTextId = "1120085",
         icon = "icon/stone/110801/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -57360,6 +58656,7 @@ return {
         nameTextId = "1110930",
         icon = "icon/stone/113201/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -57411,6 +58708,7 @@ return {
         nameTextId = "1110161",
         icon = "icon/stone/110601/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -57453,6 +58751,7 @@ return {
         nameTextId = "1120078",
         icon = "icon/stone/110701/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -57496,6 +58795,7 @@ return {
         nameTextId = "1120077",
         icon = "icon/stone/110701/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -57539,6 +58839,7 @@ return {
         nameTextId = "1110815",
         icon = "icon/stone/112701/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -57584,6 +58885,7 @@ return {
         nameTextId = "1110046",
         icon = "icon/stone/110201/52.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -57626,6 +58928,7 @@ return {
         nameTextId = "1120074",
         icon = "icon/stone/110701/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -57687,6 +58990,7 @@ return {
         nameTextId = "1110277",
         icon = "icon/stone/110901/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -57725,6 +59029,7 @@ return {
         nameTextId = "1120073",
         icon = "icon/stone/110701/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -57768,6 +59073,7 @@ return {
         nameTextId = "1120066",
         icon = "icon/stone/110601/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -57811,6 +59117,7 @@ return {
         nameTextId = "1110931",
         icon = "icon/stone/113201/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -57861,6 +59168,7 @@ return {
         nameTextId = "1110162",
         icon = "icon/stone/110601/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -57903,6 +59211,7 @@ return {
         nameTextId = "1120065",
         icon = "icon/stone/110601/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -57946,6 +59255,7 @@ return {
         nameTextId = "1120062",
         icon = "icon/stone/110601/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -57989,6 +59299,7 @@ return {
         nameTextId = "1110816",
         icon = "icon/stone/112701/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -58034,6 +59345,7 @@ return {
         nameTextId = "1110047",
         icon = "icon/stone/110201/53.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -58076,6 +59388,7 @@ return {
         nameTextId = "1120061",
         icon = "icon/stone/110601/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -58136,6 +59449,7 @@ return {
         nameTextId = "1110278",
         icon = "icon/stone/110901/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -58174,6 +59488,7 @@ return {
         nameTextId = "1120054",
         icon = "icon/stone/110501/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -58217,6 +59532,7 @@ return {
         nameTextId = "1120053",
         icon = "icon/stone/110501/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -58260,6 +59576,7 @@ return {
         nameTextId = "1110932",
         icon = "icon/stone/113201/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -58310,6 +59627,7 @@ return {
         nameTextId = "1110163",
         icon = "icon/stone/110601/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -58352,6 +59670,7 @@ return {
         nameTextId = "1120050",
         icon = "icon/stone/110501/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -58395,6 +59714,7 @@ return {
         nameTextId = "1120049",
         icon = "icon/stone/110501/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -58438,6 +59758,7 @@ return {
         nameTextId = "1120042",
         icon = "icon/stone/110401/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -58488,6 +59809,7 @@ return {
         nameTextId = "1110048",
         icon = "icon/stone/110201/54.png",
         quality = 5,
+        minipack = 0,
         type = 1,
         rarity = 5,
         accessId = {
@@ -58530,6 +59852,7 @@ return {
         nameTextId = "1120041",
         icon = "icon/stone/110401/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -58590,6 +59913,7 @@ return {
         nameTextId = "1110279",
         icon = "icon/stone/110901/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -58628,6 +59952,7 @@ return {
         nameTextId = "1120038",
         icon = "icon/stone/110401/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -58671,6 +59996,7 @@ return {
         nameTextId = "1120037",
         icon = "icon/stone/110401/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -58714,6 +60040,7 @@ return {
         nameTextId = "1120030",
         icon = "icon/stone/110301/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -58757,6 +60084,7 @@ return {
         nameTextId = "1110757",
         icon = "icon/stone/112501/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -58795,6 +60123,7 @@ return {
         nameTextId = "1120029",
         icon = "icon/stone/110301/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -58838,6 +60167,7 @@ return {
         nameTextId = "1120026",
         icon = "icon/stone/110301/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -58881,6 +60211,7 @@ return {
         nameTextId = "1120361",
         icon = "icon/stone/112801/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -58924,6 +60255,7 @@ return {
         nameTextId = "1120018",
         icon = "icon/stone/110201/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -58967,6 +60299,7 @@ return {
         nameTextId = "1120017",
         icon = "icon/stone/110201/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -59010,6 +60343,7 @@ return {
         nameTextId = "1110873",
         icon = "icon/stone/112801/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -59048,6 +60382,7 @@ return {
         nameTextId = "1120014",
         icon = "icon/stone/110201/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -59091,6 +60426,7 @@ return {
         nameTextId = "1120013",
         icon = "icon/stone/110201/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -59134,6 +60470,7 @@ return {
         nameTextId = "1120413",
         icon = "icon/stone/113701/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -59176,6 +60513,7 @@ return {
         nameTextId = "1110758",
         icon = "icon/stone/112501/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -59231,6 +60569,7 @@ return {
         nameTextId = "1110308",
         icon = "icon/stone/110103/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -59269,6 +60608,7 @@ return {
         nameTextId = "1110989",
         icon = "icon/stone/113701/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -59307,6 +60647,7 @@ return {
         nameTextId = "1120362",
         icon = "icon/stone/112801/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -59350,6 +60691,7 @@ return {
         nameTextId = "1120002",
         icon = "icon/stone/110101/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -59393,6 +60735,7 @@ return {
         nameTextId = "1120001",
         icon = "icon/stone/110101/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -59436,6 +60779,7 @@ return {
         nameTextId = "1110874",
         icon = "icon/stone/112801/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -59487,6 +60831,7 @@ return {
         nameTextId = "1110105",
         icon = "icon/stone/110401/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -59529,6 +60874,7 @@ return {
         nameTextId = "1110897",
         icon = "icon/stone/113301/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -59567,6 +60913,7 @@ return {
         nameTextId = "1120414",
         icon = "icon/stone/113701/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -59609,6 +60956,7 @@ return {
         nameTextId = "1110759",
         icon = "icon/stone/112501/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -59647,6 +60995,7 @@ return {
         nameTextId = "1110985",
         icon = "icon/stone/113701/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -59685,6 +61034,7 @@ return {
         nameTextId = "1110990",
         icon = "icon/stone/113701/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -59741,6 +61091,7 @@ return {
         nameTextId = "1110221",
         icon = "icon/stone/110801/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -59779,6 +61130,7 @@ return {
         nameTextId = "1120006",
         icon = "icon/stone/110101/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -59822,6 +61174,7 @@ return {
         nameTextId = "1110981",
         icon = "icon/stone/113701/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -59860,6 +61213,7 @@ return {
         nameTextId = "1110875",
         icon = "icon/stone/112801/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -59910,6 +61264,7 @@ return {
         nameTextId = "1110106",
         icon = "icon/stone/110401/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -59964,6 +61319,7 @@ return {
         nameTextId = "1110276",
         icon = "icon/stone/110901/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -60006,6 +61362,7 @@ return {
         nameTextId = "1120415",
         icon = "icon/stone/113701/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -60048,6 +61405,7 @@ return {
         nameTextId = "1110760",
         icon = "icon/stone/112501/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -60098,6 +61456,7 @@ return {
         nameTextId = "1110248",
         icon = "icon/stone/111001/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -60140,6 +61499,7 @@ return {
         nameTextId = "1110991",
         icon = "icon/stone/113701/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -60195,6 +61555,7 @@ return {
         nameTextId = "1110222",
         icon = "icon/stone/110801/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -60245,6 +61606,7 @@ return {
         nameTextId = "1110220",
         icon = "icon/stone/110801/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -60304,6 +61666,7 @@ return {
         nameTextId = "1110336",
         icon = "icon/stone/110602/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -60342,6 +61705,7 @@ return {
         nameTextId = "1110876",
         icon = "icon/stone/112801/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -60392,6 +61756,7 @@ return {
         nameTextId = "1110107",
         icon = "icon/stone/110401/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -60452,6 +61817,7 @@ return {
         nameTextId = "1110781",
         icon = "icon/stone/112501/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -60490,6 +61856,7 @@ return {
         nameTextId = "1120416",
         icon = "icon/stone/113701/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -60532,6 +61899,7 @@ return {
         nameTextId = "1110340",
         icon = "icon/stone/110102/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -60587,6 +61955,7 @@ return {
         nameTextId = "1110084",
         icon = "icon/stone/110301/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -60625,6 +61994,7 @@ return {
         nameTextId = "1110992",
         icon = "icon/stone/113701/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -60680,6 +62050,7 @@ return {
         nameTextId = "1110223",
         icon = "icon/stone/110801/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -60736,6 +62107,7 @@ return {
         nameTextId = "1110809",
         icon = "icon/stone/112401/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -60786,6 +62158,7 @@ return {
         nameTextId = "1110164",
         icon = "icon/stone/110601/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -60845,6 +62218,7 @@ return {
         nameTextId = "1110280",
         icon = "icon/stone/110901/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -60883,6 +62257,7 @@ return {
         nameTextId = "1110701",
         icon = "icon/stone/112201/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -60921,6 +62296,7 @@ return {
         nameTextId = "1110925",
         icon = "icon/stone/113201/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -60971,6 +62347,7 @@ return {
         nameTextId = "1110136",
         icon = "icon/stone/110501/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -61013,6 +62390,7 @@ return {
         nameTextId = "1120337",
         icon = "icon/stone/112701/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -61068,6 +62446,7 @@ return {
         nameTextId = "1110108",
         icon = "icon/stone/110401/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -61127,6 +62506,7 @@ return {
         nameTextId = "1110224",
         icon = "icon/stone/110801/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -61165,6 +62545,7 @@ return {
         nameTextId = "1110817",
         icon = "icon/stone/112701/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -61203,6 +62584,7 @@ return {
         nameTextId = "1110088",
         icon = "icon/stone/110401/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -61258,6 +62640,7 @@ return {
         nameTextId = "1110168",
         icon = "icon/stone/110601/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -61296,6 +62679,7 @@ return {
         nameTextId = "1120389",
         icon = "icon/stone/113201/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -61339,6 +62723,7 @@ return {
         nameTextId = "1110702",
         icon = "icon/stone/112201/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -61389,6 +62774,7 @@ return {
         nameTextId = "1110024",
         icon = "icon/stone/110101/64.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -61431,6 +62817,7 @@ return {
         nameTextId = "1110933",
         icon = "icon/stone/113201/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -61469,6 +62856,7 @@ return {
         nameTextId = "1120338",
         icon = "icon/stone/112701/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -61529,6 +62917,7 @@ return {
         nameTextId = "1110196",
         icon = "icon/stone/110701/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -61584,6 +62973,7 @@ return {
         nameTextId = "1110056",
         icon = "icon/stone/110201/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -61622,6 +63012,7 @@ return {
         nameTextId = "1110818",
         icon = "icon/stone/112701/22.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -61673,6 +63064,7 @@ return {
         nameTextId = "1110049",
         icon = "icon/stone/110201/61.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -61733,6 +63125,7 @@ return {
         nameTextId = "1110661",
         icon = "icon/stone/111701/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -61771,6 +63164,7 @@ return {
         nameTextId = "1120390",
         icon = "icon/stone/113201/s22.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -61814,6 +63208,7 @@ return {
         nameTextId = "1110703",
         icon = "icon/stone/112201/13.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -61869,6 +63264,7 @@ return {
         nameTextId = "1110028",
         icon = "icon/stone/110101/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -61907,6 +63303,7 @@ return {
         nameTextId = "1110934",
         icon = "icon/stone/113201/32.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -61963,6 +63360,7 @@ return {
         nameTextId = "1110165",
         icon = "icon/stone/110601/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -62001,6 +63399,7 @@ return {
         nameTextId = "1110372",
         icon = "icon/stone/112001/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -62039,6 +63438,7 @@ return {
         nameTextId = "1110288",
         icon = "icon/stone/110103/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -62077,6 +63477,7 @@ return {
         nameTextId = "1110819",
         icon = "icon/stone/112701/23.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -62127,6 +63528,7 @@ return {
         nameTextId = "1110050",
         icon = "icon/stone/110201/62.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -62169,6 +63571,7 @@ return {
         nameTextId = "1110032",
         icon = "icon/stone/110201/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -62207,6 +63610,7 @@ return {
         nameTextId = "1120391",
         icon = "icon/stone/113201/s23.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -62250,6 +63654,7 @@ return {
         nameTextId = "1110704",
         icon = "icon/stone/112201/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -62305,6 +63710,7 @@ return {
         nameTextId = "1110112",
         icon = "icon/stone/110401/74.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -62343,6 +63749,7 @@ return {
         nameTextId = "1110935",
         icon = "icon/stone/113201/33.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -62398,6 +63805,7 @@ return {
         nameTextId = "1110166",
         icon = "icon/stone/110601/72.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -62454,6 +63862,7 @@ return {
         nameTextId = "1110837",
         icon = "icon/stone/112701/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -62510,6 +63919,7 @@ return {
         nameTextId = "1110617",
         icon = "icon/stone/110413/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -62548,6 +63958,7 @@ return {
         nameTextId = "1110820",
         icon = "icon/stone/112701/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -62598,6 +64009,7 @@ return {
         nameTextId = "1110051",
         icon = "icon/stone/110201/63.png",
         quality = 6,
+        minipack = 0,
         type = 1,
         rarity = 6,
         accessId = {
@@ -62658,6 +64070,7 @@ return {
         nameTextId = "1110689",
         icon = "icon/stone/111601/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -62696,6 +64109,7 @@ return {
         nameTextId = "1120392",
         icon = "icon/stone/113201/s24.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -62739,6 +64153,7 @@ return {
         nameTextId = "1110368",
         icon = "icon/stone/112001/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -62795,6 +64210,7 @@ return {
         nameTextId = "1110725",
         icon = "icon/stone/112201/71.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -62833,6 +64249,7 @@ return {
         nameTextId = "1110936",
         icon = "icon/stone/113201/34.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -62888,6 +64305,7 @@ return {
         nameTextId = "1110167",
         icon = "icon/stone/110601/73.png",
         quality = 7,
+        minipack = 0,
         type = 1,
         rarity = 7,
         accessId = {
@@ -62926,6 +64344,7 @@ return {
         nameTextId = "1110284",
         icon = "icon/stone/110103/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -62964,6 +64383,7 @@ return {
         nameTextId = "1110400",
         icon = "icon/stone/111301/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -63002,6 +64422,7 @@ return {
         nameTextId = "1110256",
         icon = "icon/stone/110901/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -63040,6 +64461,7 @@ return {
         nameTextId = "1110637",
         icon = "icon/stone/111701/11.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -63078,6 +64500,7 @@ return {
         nameTextId = "1110228",
         icon = "icon/stone/111001/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -63116,6 +64539,7 @@ return {
         nameTextId = "1110344",
         icon = "icon/stone/110102/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -63154,6 +64578,7 @@ return {
         nameTextId = "1120313",
         icon = "icon/stone/112501/s11.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -63197,6 +64622,7 @@ return {
         nameTextId = "1110316",
         icon = "icon/stone/110602/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -63235,6 +64661,7 @@ return {
         nameTextId = "1110172",
         icon = "icon/stone/110701/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -63273,6 +64700,7 @@ return {
         nameTextId = "1110761",
         icon = "icon/stone/112501/21.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -63311,6 +64739,7 @@ return {
         nameTextId = "1110144",
         icon = "icon/stone/110601/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -63349,6 +64778,7 @@ return {
         nameTextId = "1110260",
         icon = "icon/stone/110901/24.png",
         quality = 2,
+        minipack = 0,
         type = 1,
         rarity = 2,
         accessId = {
@@ -63387,6 +64817,7 @@ return {
         nameTextId = "1120365",
         icon = "icon/stone/112801/s21.png",
         quality = 6,
+        minipack = 0,
         type = 2,
         rarity = 6,
         accessId = {
@@ -63430,6 +64861,7 @@ return {
         nameTextId = "1110638",
         icon = "icon/stone/111701/12.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -63468,6 +64900,7 @@ return {
         nameTextId = "1110060",
         icon = "icon/stone/110301/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {
@@ -63506,6 +64939,7 @@ return {
         nameTextId = "1110877",
         icon = "icon/stone/112801/31.png",
         quality = 3,
+        minipack = 0,
         type = 1,
         rarity = 3,
         accessId = {
@@ -63544,6 +64978,7 @@ return {
         nameTextId = "1120314",
         icon = "icon/stone/112501/s12.png",
         quality = 5,
+        minipack = 0,
         type = 2,
         rarity = 5,
         accessId = {
@@ -63587,6 +65022,7 @@ return {
         nameTextId = "1110004",
         icon = "icon/stone/110101/14.png",
         quality = 1,
+        minipack = 0,
         type = 1,
         rarity = 1,
         accessId = {

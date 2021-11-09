@@ -60,6 +60,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九卻反抗似地拉住了我的衣角。",
         game = 0,
         video = {
@@ -153,6 +154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "順著美九手指的方向，那裡赫然掛著一件……來禪高中的校服？",
         game = 0,
         video = {
@@ -246,6 +248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要darling聲張就沒事哦。",
         game = 0,
         video = {
@@ -339,6 +342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九的眼裡……似乎閃動著淚光。",
         game = 0,
         video = {
@@ -432,6 +436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，美九，妳看這件。",
         game = 0,
         video = {
@@ -525,6 +530,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呀！！",
         game = 0,
         video = {
@@ -621,6 +627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -714,6 +721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九……？",
         game = 0,
         video = {
@@ -807,6 +815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼會……",
         game = 0,
         video = {
@@ -900,6 +909,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -993,6 +1003,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我會在台下支持美九的。",
         game = 0,
         video = {
@@ -1086,6 +1097,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這是……darling親自選的嗎？",
         game = 0,
         video = {
@@ -1179,6 +1191,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九似乎是摔倒般跪坐在地，在看到我的瞬間臉變得通紅。然而重要的是……",
         game = 0,
         video = {
@@ -1272,6 +1285,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼樣怎麼樣？",
         game = 0,
         video = {
@@ -1368,6 +1382,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九在舞臺上確實非常有魅力",
         game = 0,
         video = {
@@ -1467,6 +1482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "噓！",
         game = 0,
         video = {
@@ -1560,6 +1576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "店門口好像寫了中古販售的字樣呢。",
         game = 0,
         video = {
@@ -1653,6 +1670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還是說，darling想要外面的人都知道你的真實身份嗎？",
         game = 0,
         video = {
@@ -1749,6 +1767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那種情況，我會鼓勵美九重新振作的",
         game = 0,
         video = {
@@ -1842,6 +1861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確實，我可是歌手誘宵美九啊。",
         game = 0,
         video = {
@@ -1935,6 +1955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，我覺得很好看。",
         game = 0,
         video = {
@@ -2028,6 +2049,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "正在換衣服的緣故，可以清晰的看見……",
         game = 0,
         video = {
@@ -2124,6 +2146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -2217,6 +2240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的……？",
         game = 0,
         video = {
@@ -2310,6 +2334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的，我剛剛看到士道了！",
         game = 0,
         video = {
@@ -2403,6 +2428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一定是來禪高中的畢業生賣到這裡的吧……",
         game = 0,
         video = {
@@ -2496,6 +2522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我好像確實看到士道了。",
         game = 0,
         video = {
@@ -2589,6 +2616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "曾經聽說過美九失聲的原因，當時的美九肯定非常無助吧……",
         game = 0,
         video = {
@@ -2682,6 +2710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling等等我。我去換上給你看。",
         game = 0,
         video = {
@@ -2775,6 +2804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來darling喜歡這種風格啊~那就不如試試吧。",
         game = 0,
         video = {
@@ -2874,6 +2904,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱歉！！！",
         game = 0,
         video = {
@@ -2967,6 +2998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "已經進來了……旁邊都是女孩子吧……",
         game = 0,
         video = {
@@ -3060,6 +3092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，就像是被施了魔法一樣，不由自主地被吸引了。",
         game = 0,
         video = {
@@ -3153,6 +3186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "都怪我跑得太快了嗎？",
         game = 0,
         video = {
@@ -3246,6 +3280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不如我也試試這個吧。",
         game = 0,
         video = {
@@ -3339,6 +3374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九被女子學院的學妹看到了，也無所謂嗎？",
         game = 0,
         video = {
@@ -3432,6 +3468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我絕對不會再讓美九一個人面對那種無助的情況了。",
         game = 0,
         video = {
@@ -3526,6 +3563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -3619,6 +3657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒問題。",
         game = 0,
         video = {
@@ -3712,6 +3751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我紅著臉正準備拉上簾子，美九卻突然抓住了我的手。",
         game = 0,
         video = {
@@ -3805,6 +3845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個在等她的男人是誰？",
         game = 0,
         video = {
@@ -3899,6 +3940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳說得很有道理的樣子……",
         game = 0,
         video = {
@@ -3992,6 +4034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九就是天生適合站在舞台上的人。",
         game = 0,
         video = {
@@ -4085,6 +4128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是怎麼辦，瘋狂的粉絲馬上就跟來了……",
         game = 0,
         video = {
@@ -4178,6 +4222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "來禪的校服嗎……",
         game = 0,
         video = {
@@ -4271,6 +4316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可能是我看花了吧……",
         game = 0,
         video = {
@@ -4364,6 +4410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling……",
         game = 0,
         video = {
@@ -4457,6 +4504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九帶著無比自信的笑容走出試衣間時——",
         game = 0,
         video = {
@@ -4550,6 +4598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……美九，妳這麼盯著我乾嘛？妳不是說要試試嗎？",
         game = 0,
         video = {
@@ -4643,6 +4692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling——！",
         game = 0,
         video = {
@@ -4736,6 +4786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗚啊，真讓人嫉妒！",
         game = 0,
         video = {
@@ -4830,6 +4881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "背過身假裝挑選衣服",
         game = 0,
         video = {
@@ -4923,6 +4975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然，darling也想和我逛街的對吧？",
         game = 0,
         video = {
@@ -5016,6 +5069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以……看到好看的衣服就不由自主地想到，美九如果在舞台穿會怎樣呢……",
         game = 0,
         video = {
@@ -5115,6 +5169,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香和四糸乃的聲音！她們進來了嗎？",
         game = 0,
         video = {
@@ -5208,6 +5263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "想要試試和%s穿情侶裝呢~",
         game = 0,
         video = {
@@ -5302,6 +5358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是十香還有四糸乃的聲音？她們過來了……！怎麼辦怎麼辦……",
         game = 0,
         video = {
@@ -5395,6 +5452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我會一直陪在美九身邊，讓美九振作起來，重新回到舞台，證明給所有人看——",
         game = 0,
         video = {
@@ -5488,6 +5546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -5581,6 +5640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？我是說darling去試試啊，畢竟這是darling親自挑選的呢！",
         game = 0,
         video = {
@@ -5674,6 +5734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗚啊——怎麼！突然把我拉進來啊！",
         game = 0,
         video = {
@@ -5767,6 +5828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……",
         game = 0,
         video = {
@@ -5860,6 +5922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -5953,6 +6016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確實想……和美九一起逛街。可是……",
         game = 0,
         video = {
@@ -6046,6 +6110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我明白了！下週的演唱會我會穿這條裙子哦！",
         game = 0,
         video = {
@@ -6139,6 +6204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -6232,6 +6298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "禮物嗎？我很期待。",
         game = 0,
         video = {
@@ -6325,6 +6392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔——美九——！？",
         game = 0,
         video = {
@@ -6418,6 +6486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九是天生就該站在舞台上的歌手！",
         game = 0,
         video = {
@@ -6511,6 +6580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "大家好，我是誘宵美九！歡迎來到我的演唱會~",
         game = 0,
         video = {
@@ -6610,6 +6680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒——！！我去試？？？",
         game = 0,
         video = {
@@ -6703,6 +6774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因為外面很危險啊。",
         game = 0,
         video = {
@@ -6796,6 +6868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling，真的好難選啊。",
         game = 0,
         video = {
@@ -6890,6 +6963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……她們好像沒發現我，真是太好了。",
         game = 0,
         video = {
@@ -6983,6 +7057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "放心，我會把darling打扮得很漂亮的！",
         game = 0,
         video = {
@@ -7076,6 +7151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，我會為美九加油的。",
         game = 0,
         video = {
@@ -7169,6 +7245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱我跑出去吧！還在猶豫什麼？",
         game = 0,
         video = {
@@ -7262,6 +7339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，darling也來為自己選一件好了。",
         game = 0,
         video = {
@@ -7355,6 +7433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九突然向我湊近，我後退著貼上牆壁，這動作就像是……被美九攬在懷中一般。",
         game = 0,
         video = {
@@ -7448,6 +7527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "過了許久，美九終於勾起嘴角了起來。",
         game = 0,
         video = {
@@ -7541,6 +7621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……！",
         game = 0,
         video = {
@@ -7634,6 +7715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然darling親自挑選了喜歡的款式，不如試試吧。",
         game = 0,
         video = {
@@ -7727,6 +7809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我覺得在裡面比較危險……",
         game = 0,
         video = {
@@ -7820,6 +7903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好看嗎？",
         game = 0,
         video = {
@@ -7913,6 +7997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling，你在選什麼？",
         game = 0,
         video = {
@@ -8012,6 +8097,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不是擔心這個啊！",
         game = 0,
         video = {
@@ -8105,6 +8191,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我會在臺上說，這是專門為%s穿的演出服哦~",
         game = 0,
         video = {
@@ -8198,6 +8285,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以，為了不讓darling為難，還是在這裡待一會兒好了。",
         game = 0,
         video = {
@@ -8291,6 +8379,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的……誒誒——？為自己？",
         game = 0,
         video = {
@@ -8384,6 +8473,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling分心了。",
         game = 0,
         video = {
@@ -8477,6 +8567,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊，我誘宵美九，毫無疑問是最適合舞台的。",
         game = 0,
         video = {
@@ -8570,6 +8661,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這一瞬間，我仿佛看到了美九站在台上閃閃發光的模樣。",
         game = 0,
         video = {
@@ -8663,6 +8755,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喂喂——！",
         game = 0,
         video = {
@@ -8756,6 +8849,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling現在出去可不行哦？",
         game = 0,
         video = {
@@ -8849,6 +8943,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不錯……",
         game = 0,
         video = {
@@ -8942,6 +9037,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……沒什麼，隨便看看……",
         game = 0,
         video = {
@@ -9035,6 +9131,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "等等……我再考慮一下！！！",
         game = 0,
         video = {
@@ -9128,6 +9225,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒——？！那樣的話……會引起轟動的吧！",
         game = 0,
         video = {
@@ -9221,6 +9319,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我咬咬牙，蹲下身抱起美九的肩膀和腿部，倉皇逃離了現場。",
         game = 0,
         video = {
@@ -9314,6 +9413,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊。",
         game = 0,
         video = {
@@ -9407,6 +9507,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "抱、抱歉！",
         game = 0,
         video = {
@@ -9500,6 +9601,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這就對了，快去試試這件衣服吧！",
         game = 0,
         video = {
@@ -9593,6 +9695,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼樣？",
         game = 0,
         video = {
@@ -9686,6 +9789,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不等我拒絕，美九笑盈盈地將我推進了試衣間。",
         game = 0,
         video = {
@@ -9779,6 +9883,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "為什麼？",
         game = 0,
         video = {
@@ -9872,6 +9977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling該不是在敷衍我吧？",
         game = 0,
         video = {
@@ -9965,6 +10071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來darling喜歡這種風格的裙子啊~",
         game = 0,
         video = {
@@ -10058,6 +10165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling不願意嗎？",
         game = 0,
         video = {
@@ -10151,6 +10259,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呀——darling好帥——",
         game = 0,
         video = {
@@ -10249,6 +10358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是這是女裝店啊！！！",
         game = 0,
         video = {
@@ -10342,6 +10452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明明是和美九的約會，我卻心不在焉……",
         game = 0,
         video = {
@@ -10435,6 +10546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，非常華麗的衣服，舞台效果一定很棒的……",
         game = 0,
         video = {
@@ -10528,6 +10640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -10621,6 +10734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？等、等等……！",
         game = 0,
         video = {
@@ -10714,6 +10828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -10807,6 +10922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然沒有！是真心的誇獎！",
         game = 0,
         video = {
@@ -10900,6 +11016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……很華麗哦……挺好看的。",
         game = 0,
         video = {
@@ -10993,6 +11110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不，只是擔心會影響美九的人氣吧。粉絲肯定會很在意的。",
         game = 0,
         video = {
@@ -11086,6 +11204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "都說了很容易被發現嘛，當然要幫darling擋住啊。",
         game = 0,
         video = {
@@ -11179,6 +11298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒錯就是這樣。",
         game = 0,
         video = {
@@ -11272,6 +11392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "眼看著美九的臉向我湊近，我不由得閉上了眼睛……",
         game = 0,
         video = {
@@ -11365,6 +11486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "說起來我和darling第一次見面就是在舞台上呢……",
         game = 0,
         video = {
@@ -11459,6 +11581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -11552,6 +11675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九怎麼突然靠過來了……",
         game = 0,
         video = {
@@ -11646,6 +11770,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -11739,6 +11864,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是感覺你都走神了，是累了嗎？",
         game = 0,
         video = {
@@ -11832,6 +11958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼，十香和四糸乃她們……應該看不見我了吧……",
         game = 0,
         video = {
@@ -11925,6 +12052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "現在的我，即使沒有人聽我唱歌也無所謂了。",
         game = 0,
         video = {
@@ -12018,6 +12146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "請不要把我堵在牆角啊！",
         game = 0,
         video = {
@@ -12111,6 +12240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "請、來、試、穿、吧~",
         game = 0,
         video = {
@@ -12204,6 +12334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九該不會是要……",
         game = 0,
         video = {
@@ -12297,6 +12428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，是啊……當時美九還對男生抱有偏見呢。",
         game = 0,
         video = {
@@ -12390,6 +12522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……這個蝴蝶結……好麻煩，到底該怎麼樣呢？",
         game = 0,
         video = {
@@ -12483,6 +12616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "眼看著美九的臉離我越來越近……",
         game = 0,
         video = {
@@ -12577,6 +12711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling穿這套衣服果然合適。",
         game = 0,
         video = {
@@ -12670,6 +12805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我揉了揉有些脹痛的腳踝，佩服地看著現在神采依舊的美九。",
         game = 0,
         video = {
@@ -12764,6 +12900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不如試試看吧~",
         game = 0,
         video = {
@@ -12857,6 +12994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -12950,6 +13088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九見狀卻再次向我靠近。",
         game = 0,
         video = {
@@ -13049,6 +13188,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要啊——",
         game = 0,
         video = {
@@ -13142,6 +13282,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "分心會穿不好這麼複雜的衣服哦。",
         game = 0,
         video = {
@@ -13238,6 +13379,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不如美九幫我選一個好了，相信美九的眼光",
         game = 0,
         video = {
@@ -13331,6 +13473,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "回憶起當時美九盛氣淩人的模樣，我不禁苦笑起來。",
         game = 0,
         video = {
@@ -13424,6 +13567,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……這個帶子……",
         game = 0,
         video = {
@@ -13517,6 +13661,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九，太近了啦！",
         game = 0,
         video = {
@@ -13610,6 +13755,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦。美九要試試嗎？確實挺適合美九……",
         game = 0,
         video = {
@@ -13703,6 +13849,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因為我已經有darling了。只要darling做我的粉絲，我就滿足了。",
         game = 0,
         video = {
@@ -13797,6 +13944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哎呀，要被看到了。",
         game = 0,
         video = {
@@ -13890,6 +14038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -13983,6 +14132,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒——？",
         game = 0,
         video = {
@@ -14076,6 +14226,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我只想快點結束這場酷刑啊……",
         game = 0,
         video = {
@@ -14169,6 +14320,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那時候我也沒想到，會和darling走到今天啊。",
         game = 0,
         video = {
@@ -14262,6 +14414,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就在我費力地穿衣服的時候——",
         game = 0,
         video = {
@@ -14355,6 +14508,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有什麼關係~[女孩子]一起逛街肯定會很親密的啊。",
         game = 0,
         video = {
@@ -14448,6 +14602,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然是darling試試看啊。",
         game = 0,
         video = {
@@ -14541,6 +14696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然是啊！美九可不像是這麼沒有自信的人。",
         game = 0,
         video = {
@@ -14634,6 +14790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "噓……",
         game = 0,
         video = {
@@ -14730,6 +14887,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -14823,6 +14981,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "待我睜開眼時，美九已經為我整理好了著裝。",
         game = 0,
         video = {
@@ -14916,6 +15075,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我明白了，那就這個好了~",
         game = 0,
         video = {
@@ -15009,6 +15169,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九無奈地撫了撫頭髮，無辜地望著我。",
         game = 0,
         video = {
@@ -15102,6 +15263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling，要我幫你嗎？",
         game = 0,
         video = {
@@ -15195,6 +15357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是妳的臉都快到我肩膀上了……",
         game = 0,
         video = {
@@ -15294,6 +15457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒——？？？？",
         game = 0,
         video = {
@@ -15387,6 +15551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果……我有一天不能唱歌了呢？",
         game = 0,
         video = {
@@ -15483,6 +15648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "選小裙子",
         game = 0,
         video = {
@@ -15576,6 +15742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九……",
         game = 0,
         video = {
@@ -15669,6 +15836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這樣……不好吧！",
         game = 0,
         video = {
@@ -15762,6 +15930,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來……美九真的只是幫我穿衣服而已啊。",
         game = 0,
         video = {
@@ -15855,6 +16024,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -15948,6 +16118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊……現在的美九已經在向我敞開心扉了……",
         game = 0,
         video = {
@@ -16047,6 +16218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗚啊——！！美九，妳怎麼進來了！",
         game = 0,
         video = {
@@ -16140,6 +16312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我和美九走在商場裡，引來眾人的圍觀。",
         game = 0,
         video = {
@@ -16236,6 +16409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "顏色可以襯托美九的肌膚",
         game = 0,
         video = {
@@ -16329,6 +16503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "請、來、試、穿、吧~",
         game = 0,
         video = {
@@ -16425,6 +16600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我會永遠支持美九",
         game = 0,
         video = {
@@ -16518,6 +16694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -16611,6 +16788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個小裙子……很漂亮。",
         game = 0,
         video = {
@@ -16704,6 +16882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣過了很久很久，仿佛一個世紀，我才終於離開了試衣間。",
         game = 0,
         video = {
@@ -16797,6 +16976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要客氣，darling就選一個最喜歡的試試吧。",
         game = 0,
         video = {
@@ -16890,6 +17070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哎呀？原來darling還在期待其它事情發生嗎？",
         game = 0,
         video = {
@@ -16983,6 +17164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九拿起旁邊一款異常華麗又繁複的裙子，將我推進了試衣間。",
         game = 0,
         video = {
@@ -17076,6 +17258,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "說起來美九的演出服應該也不少了吧？",
         game = 0,
         video = {
@@ -17169,6 +17352,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然是怕你不會穿嘛，考慮到不好讓店員進來，只好我親自來幫忙啦。",
         game = 0,
         video = {
@@ -17262,6 +17446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個女孩子好可愛啊。",
         game = 0,
         video = {
@@ -17355,6 +17540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "非常襯托美九的氣色呢！",
         game = 0,
         video = {
@@ -17448,6 +17634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這樣……不、不好吧！",
         game = 0,
         video = {
@@ -17541,6 +17728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！為了darling，我也會更加努力的！",
         game = 0,
         video = {
@@ -17634,6 +17822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就像以前那樣……被迫離開舞台再也無法唱歌，甚至失去聲音……",
         game = 0,
         video = {
@@ -17727,6 +17916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇——darling果然和我心有靈犀！",
         game = 0,
         video = {
@@ -17820,6 +18010,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling臉紅的樣子真是可愛啊。",
         game = 0,
         video = {
@@ -17912,6 +18103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不是客氣的意思……",
         game = 0,
         video = {
@@ -18005,6 +18197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當……當然沒有……！",
         game = 0,
         video = {
@@ -18098,6 +18291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，大概……有這麼多吧。",
         game = 0,
         video = {
@@ -18191,6 +18385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是，這裡是試衣間，我可能正在脫衣服啊……",
         game = 0,
         video = {
@@ -18284,6 +18479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "難道是……美九嗎？我是她的粉絲！",
         game = 0,
         video = {
@@ -18377,6 +18573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確實，這個顏色很顯白呢。",
         game = 0,
         video = {
@@ -18470,6 +18667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "為什麼？",
         game = 0,
         video = {
@@ -18563,6 +18761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "希望美九能夠站在更大的舞台上，到時候我也會做美九的粉絲哦。",
         game = 0,
         video = {
@@ -18657,6 +18856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -18750,6 +18950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊，美九也喜歡這條裙子嗎？",
         game = 0,
         video = {
@@ -18843,6 +19044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "而且太多了……果然還是美九來試穿……",
         game = 0,
         video = {
@@ -18936,6 +19138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "darling期待著的事情……我也可以哦~",
         game = 0,
         video = {
@@ -19029,6 +19232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九伸出三個手指。",
         game = 0,
         video = {
@@ -19122,6 +19326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊，都是女孩子，有什麼關係嘛。",
         game = 0,
         video = {
@@ -19215,6 +19420,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "旁邊的……女孩子是誰啊？",
         game = 0,
         video = {
@@ -19308,6 +19514,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九低著頭認真地考慮。",
         game = 0,
         video = {
@@ -19401,6 +19608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "太……太不合適了！",
         game = 0,
         video = {
@@ -19494,6 +19702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有darling的這句話，我再苦再累也不會怕的。",
         game = 0,
         video = {
@@ -19587,6 +19796,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！雖然看起來很普通，但有一種低調的華麗在裡面呢。",
         game = 0,
         video = {
@@ -19686,6 +19896,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "別、別再過來了，真的沒有啦！",
         game = 0,
         video = {
@@ -19778,6 +19989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "三……十件嗎？三、三百？",
         game = 0,
         video = {
@@ -19871,6 +20083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "女孩子……可是我……",
         game = 0,
         video = {
@@ -19964,6 +20177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然還是……太顯眼了嗎……",
         game = 0,
         video = {
@@ -20057,6 +20271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不過樣式的設計對身材的要求也非常高……",
         game = 0,
         video = {
@@ -20151,6 +20366,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼辦怎麼辦……",
         game = 0,
         video = {
@@ -20244,6 +20460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了美九？",
         game = 0,
         video = {
@@ -20337,6 +20554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然很適合美九呢。",
         game = 0,
         video = {
@@ -20431,6 +20649,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是美九非要拉我來的……",
         game = 0,
         video = {
@@ -20524,6 +20743,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "整整三個房間哦。",
         game = 0,
         video = {
@@ -20617,6 +20837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要darling聲張就沒事哦。",
         game = 0,
         video = {
@@ -20710,6 +20931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有什麼關係，讓他們看好了。",
         game = 0,
         video = {
@@ -20803,6 +21025,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還有這樣的說法嗎？我認為美九的皮膚已經很白皙了，而且身材已經很好了……",
         game = 0,
         video = {
@@ -20896,6 +21119,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "高個子女生……",
         game = 0,
         video = {
@@ -20989,6 +21213,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling有沒有覺得我最近皮膚變差，人也憔悴了？",
         game = 0,
         video = {
@@ -21082,6 +21307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？darling指的是哪方面呢？",
         game = 0,
         video = {
@@ -21177,6 +21403,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是我想要穿成這樣的！相信我！",
         game = 0,
         video = {
@@ -21276,6 +21503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "三個房間……！！！",
         game = 0,
         video = {
@@ -21369,6 +21597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九突然向我湊近，我的背緊貼著牆壁，就像是……我被美九攬在懷中一般。",
         game = 0,
         video = {
@@ -21462,6 +21691,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九緊緊貼著我的肩膀，觸碰著我的身體。",
         game = 0,
         video = {
@@ -21555,6 +21785,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還不夠，在舞台上，任何一個缺點都會被無限放大哦。",
         game = 0,
         video = {
@@ -21648,6 +21879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊，darling就選一件最喜歡的試試吧。",
         game = 0,
         video = {
@@ -21741,6 +21973,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就算美九累了，我也會是美九最堅強的後盾。",
         game = 0,
         video = {
@@ -21834,6 +22067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "和美九在一起的士道果然有另一個面貌，四糸乃都不知道呢。",
         game = 0,
         video = {
@@ -21927,6 +22161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不過，darling幫我挑選的衣服，我一定會穿上它的。",
         game = 0,
         video = {
@@ -22020,6 +22255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，那個，美九想看看衣服嗎？我們進去逛逛吧。",
         game = 0,
         video = {
@@ -22113,6 +22349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "每個表情、動作都必須得體，更何況身材和皮膚保養呢。",
         game = 0,
         video = {
@@ -22207,6 +22444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好，我來幫妳選吧",
         game = 0,
         video = {
@@ -22300,6 +22538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "太多了，我不擅長挑選啊……果然還是美九來試穿……",
         game = 0,
         video = {
@@ -22393,6 +22632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我又不是只喜歡歌手美九。我喜歡的是……美九啊。",
         game = 0,
         video = {
@@ -22486,6 +22726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "士道哥哥其實……很可愛……",
         game = 0,
         video = {
@@ -22579,6 +22820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊啊……",
         game = 0,
         video = {
@@ -22672,6 +22914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -22765,6 +23008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九不累嗎？",
         game = 0,
         video = {
@@ -22858,6 +23102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -22951,6 +23196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就每一件都試一遍吧~我可以幫%s好好參考的~",
         game = 0,
         video = {
@@ -23047,6 +23293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那邊的制服感覺更適合美九！",
         game = 0,
         video = {
@@ -23140,6 +23387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的嗎？",
         game = 0,
         video = {
@@ -23233,6 +23481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對吧對吧？我也覺得士道很可愛！",
         game = 0,
         video = {
@@ -23326,6 +23575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我還在剛剛的震撼中沒有回過神來。",
         game = 0,
         video = {
@@ -23419,6 +23669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "趁著大家還沒有圍上來，我趕緊將美九拉進了服裝店。",
         game = 0,
         video = {
@@ -23512,6 +23763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……雖然有時候確實覺得很累……也會偷懶和懈怠……",
         game = 0,
         video = {
@@ -23608,6 +23860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -23707,6 +23960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的……啊？？？每……每一件！？",
         game = 0,
         video = {
@@ -23800,6 +24054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我左顧右盼，指著旁邊不那麼誇張的衣服。",
         game = 0,
         video = {
@@ -23893,6 +24148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九向我這邊湊近，直直地看著我。",
         game = 0,
         video = {
@@ -23986,6 +24242,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳們……怎麼這樣……",
         game = 0,
         video = {
@@ -24079,6 +24336,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了？",
         game = 0,
         video = {
@@ -24173,6 +24431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -24266,6 +24525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "但是，只要能在台上唱歌，看到大家的支持我就有動力了。",
         game = 0,
         video = {
@@ -24359,6 +24619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個呢？怎麼樣怎麼樣？",
         game = 0,
         video = {
@@ -24452,6 +24713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒錯，就是這一整排好了。感覺都非常適合darling。",
         game = 0,
         video = {
@@ -24545,6 +24807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？darling喜歡學生制服嗎？",
         game = 0,
         video = {
@@ -24638,6 +24901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真……真的！我還能逛哦！",
         game = 0,
         video = {
@@ -24731,6 +24995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -24824,6 +25089,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……說起來，作為歌手存在的美九，確實很有魅力，我都不自覺地被感染了。",
         game = 0,
         video = {
@@ -24917,6 +25183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "非常適合十香呢~",
         game = 0,
         video = {
@@ -25010,6 +25277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這樣啊……",
         game = 0,
         video = {
@@ -25103,6 +25371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不錯……",
         game = 0,
         video = {
@@ -25196,6 +25465,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我被眼前整整一排的裙裝深深震撼了。",
         game = 0,
         video = {
@@ -25289,6 +25559,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……嗯。",
         game = 0,
         video = {
@@ -25382,6 +25653,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然和我想的一樣！那darling今天就陪我逛街吧！",
         game = 0,
         video = {
@@ -25475,6 +25747,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒錯，這麼可愛的士道一定要我幫忙選裙子，真是令人煩惱啊。",
         game = 0,
         video = {
@@ -25568,6 +25841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "所以，darling果然更喜歡舞台上的我嗎？",
         game = 0,
         video = {
@@ -25661,6 +25935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的嗎？四糸乃。",
         game = 0,
         video = {
@@ -25754,6 +26029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，而且現在的我和以前不一樣了！",
         game = 0,
         video = {
@@ -25847,6 +26123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個呢？",
         game = 0,
         video = {
@@ -25940,6 +26217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我！我還是自己選好了！",
         game = 0,
         video = {
@@ -26033,6 +26311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只要不是這種……[成熟]的……",
         game = 0,
         video = {
@@ -26126,6 +26405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "逛街……？美九不是要休息嗎？",
         game = 0,
         video = {
@@ -26219,6 +26499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒——？美九？明明不是這樣！",
         game = 0,
         video = {
@@ -26312,6 +26593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "說是“更喜歡”也不太準確的樣子。",
         game = 0,
         video = {
@@ -26410,6 +26692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我會做美九最忠實的聽眾",
         game = 0,
         video = {
@@ -26503,6 +26786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，穿上的話，士道小哥肯定也會喜歡的。",
         game = 0,
         video = {
@@ -26596,6 +26880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不一樣？",
         game = 0,
         video = {
@@ -26689,6 +26974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "也可以，感覺美九什麼服裝都能駕馭呢。",
         game = 0,
         video = {
@@ -26782,6 +27068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "全部都試穿什麼的……太誇張了！",
         game = 0,
         video = {
@@ -26875,6 +27162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然是darling喜歡，那就走吧！",
         game = 0,
         video = {
@@ -26968,6 +27256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！逛街對於女孩子來說，是最棒的放鬆方式！走吧~",
         game = 0,
         video = {
@@ -27061,6 +27350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香小姐和四糸乃小姐，不如一起來幫忙選一下裙子吧？",
         game = 0,
         video = {
@@ -27154,6 +27444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的嗎？",
         game = 0,
         video = {
@@ -27247,6 +27538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "居然是……十香和四糸乃！怎麼辦！",
         game = 0,
         video = {
@@ -27341,6 +27633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！因為我有darling了！",
         game = 0,
         video = {
@@ -27434,6 +27727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling該不是在敷衍我吧？",
         game = 0,
         video = {
@@ -27527,6 +27821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的darling~",
         game = 0,
         video = {
@@ -27620,6 +27915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -27713,6 +28009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九指著一望無際的衣服……",
         game = 0,
         video = {
@@ -27807,6 +28104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香就在前面，被看到了就不好了……",
         game = 0,
         video = {
@@ -27900,6 +28198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的可以嗎？",
         game = 0,
         video = {
@@ -27993,6 +28292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！我非常喜歡美九……唱歌的樣子。",
         game = 0,
         video = {
@@ -28086,6 +28386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "情侶裝！？",
         game = 0,
         video = {
@@ -28179,6 +28480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -28272,6 +28574,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然沒有！是真心的誇獎！",
         game = 0,
         video = {
@@ -28365,6 +28668,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九露出得逞的微笑。",
         game = 0,
         video = {
@@ -28463,6 +28767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -28556,6 +28861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了，darling？",
         game = 0,
         video = {
@@ -28649,6 +28955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？darling害怕被其他女生撞見嗎？",
         game = 0,
         video = {
@@ -28743,6 +29050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "躲起來再說",
         game = 0,
         video = {
@@ -28836,6 +29144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然啦！一起約會吧！",
         game = 0,
         video = {
@@ -28929,6 +29238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我會……為darling單獨唱歌的！",
         game = 0,
         video = {
@@ -29022,6 +29332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我仔細一看，確實和我身上的裙子……",
         game = 0,
         video = {
@@ -29115,6 +29426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling給了我更多在台上的勇氣。",
         game = 0,
         video = {
@@ -29209,6 +29521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是感覺你都走神了，是累了嗎？",
         game = 0,
         video = {
@@ -29302,6 +29615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……終於沒有人在意我們了……",
         game = 0,
         video = {
@@ -29395,6 +29709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒……沒什麼。妳儘管試好了。",
         game = 0,
         video = {
@@ -29488,6 +29803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這……",
         game = 0,
         video = {
@@ -29584,6 +29900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "推開美九",
         game = 0,
         video = {
@@ -29677,6 +29994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不行，這個樣子不能被看到啊……",
         game = 0,
         video = {
@@ -29770,6 +30088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一起！！？？",
         game = 0,
         video = {
@@ -29863,6 +30182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九的眼裡似乎閃動著淚光。",
         game = 0,
         video = {
@@ -29956,6 +30276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "情侶裝什麼的……還能這樣？",
         game = 0,
         video = {
@@ -30049,6 +30370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你好，請幫忙看一下剛剛進去的女孩子怎麼了嗎？好像遇到了什麼麻煩！",
         game = 0,
         video = {
@@ -30142,6 +30464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒有沒有，陪美九逛街是我的榮幸。",
         game = 0,
         video = {
@@ -30235,6 +30558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我看著挑選衣服的美九，鬆了一口氣。",
         game = 0,
         video = {
@@ -30328,6 +30652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30421,6 +30746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像說了不該說的話，美九該不會生氣了吧……？",
         game = 0,
         video = {
@@ -30520,6 +30846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不要啊——",
         game = 0,
         video = {
@@ -30613,6 +30940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "竟然會變成這樣子……！她們應該不會答應吧……",
         game = 0,
         video = {
@@ -30706,6 +31034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我會好好珍惜……這件衣服的。",
         game = 0,
         video = {
@@ -30799,6 +31128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎樣？",
         game = 0,
         video = {
@@ -30892,6 +31222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "女更衣室……還是不要隨便闖進去的好！",
         game = 0,
         video = {
@@ -30985,6 +31316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我覺得好像上一個更好……",
         game = 0,
         video = {
@@ -31078,6 +31410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……這個……",
         game = 0,
         video = {
@@ -31187,6 +31520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼辦，她們要走過來了……",
         game = 0,
         video = {
@@ -31286,6 +31620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -31379,6 +31714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -31472,6 +31808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊，和我一起約會吧，十香、四糸乃~",
         game = 0,
         video = {
@@ -31565,6 +31902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -31658,6 +31996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "也該是我穿男裝吧……",
         game = 0,
         video = {
@@ -31757,6 +32096,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呀——美九！！我是妳的粉絲啊！！！",
         game = 0,
         video = {
@@ -31850,6 +32190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這……好像都不錯。",
         game = 0,
         video = {
@@ -31943,6 +32284,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我覺得大家都在看美九。",
         game = 0,
         video = {
@@ -32036,6 +32378,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……",
         game = 0,
         video = {
@@ -32129,6 +32472,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我將美九輕輕推開，慌忙退出試衣間。",
         game = 0,
         video = {
@@ -32222,6 +32566,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一起不太好吧……這是士道哥哥和美九的約會啊……",
         game = 0,
         video = {
@@ -32318,6 +32663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32411,6 +32757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "darling臉紅的時候還真是可愛啊~",
         game = 0,
         video = {
@@ -32504,6 +32851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒？美九？哪裡哪裡？",
         game = 0,
         video = {
@@ -32597,6 +32945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然還是上一件更好看吧？",
         game = 0,
         video = {
@@ -32693,6 +33042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就算不唱歌，美九也很有魅力啊",
         game = 0,
         video = {
@@ -32786,6 +33136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九要是被人認出來的話，會引起騷動吧？……畢竟是偶像來著……",
         game = 0,
         video = {
@@ -32879,6 +33230,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一……一起？",
         game = 0,
         video = {
@@ -32975,6 +33327,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -33068,6 +33421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的嗎？可以一起嗎？",
         game = 0,
         video = {
@@ -33161,6 +33515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九，會不會……買得太多了？",
         game = 0,
         video = {
@@ -33254,6 +33609,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "決定了，下次就穿男裝開一場演唱會吧~",
         game = 0,
         video = {
@@ -33346,6 +33702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不好！",
         game = 0,
         video = {
@@ -33439,6 +33796,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……美九妳已經試了好幾十件了。",
         game = 0,
         video = {
@@ -33532,6 +33890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "無論美九是什麼樣子我都喜歡哦。",
         game = 0,
         video = {
@@ -33625,6 +33984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "有什麼關係，和darling在一起我才不在意其他人怎麼看呢。",
         game = 0,
         video = {
@@ -33718,6 +34078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是哦，一、起、約、會。",
         game = 0,
         video = {
@@ -33811,6 +34172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊！果然是士道！",
         game = 0,
         video = {
@@ -33904,6 +34266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊，我帶妳們一起去逛街怎麼樣？",
         game = 0,
         video = {
@@ -33997,6 +34360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔？我不覺得啊！只要是darling喜歡的不就好了嗎。",
         game = 0,
         video = {
@@ -34090,6 +34454,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不等我拒絕，美九笑盈盈地將我推進了試衣間。",
         game = 0,
         video = {
@@ -34186,6 +34551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -34279,6 +34645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然還是第一件最好看吧！",
         game = 0,
         video = {
@@ -34372,6 +34739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "……美九，妳這麼盯著我乾嘛？妳不是說要試試嗎？",
         game = 0,
         video = {
@@ -34465,6 +34833,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呃……",
         game = 0,
         video = {
@@ -34558,6 +34927,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "女孩子逛街都是這樣嗎……",
         game = 0,
         video = {
@@ -34651,6 +35021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喂喂——！",
         game = 0,
         video = {
@@ -34744,6 +35115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "士道哥哥怎麼會在這裡……？",
         game = 0,
         video = {
@@ -34837,6 +35209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然darling親自挑選了喜歡的款式，不如試試吧。",
         game = 0,
         video = {
@@ -34931,6 +35304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九畢竟是偶像啊！被狗仔拍到肯定影響不好吧？",
         game = 0,
         video = {
@@ -35024,6 +35398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒——！！我去試？？？",
         game = 0,
         video = {
@@ -35117,6 +35492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是……",
         game = 0,
         video = {
@@ -35210,6 +35586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？我是說darling去試試啊，畢竟這是darling親自挑選的呢！",
         game = 0,
         video = {
@@ -35304,6 +35681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -35397,6 +35775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個……",
         game = 0,
         video = {
@@ -35490,6 +35869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……",
         game = 0,
         video = {
@@ -35583,6 +35963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒問題。",
         game = 0,
         video = {
@@ -35676,6 +36057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來darling喜歡這種風格啊~那就不如試試吧。",
         game = 0,
         video = {
@@ -35769,6 +36151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，我覺得很好看。",
         game = 0,
         video = {
@@ -35862,6 +36245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這是……darling親自選的嗎？",
         game = 0,
         video = {
@@ -35955,6 +36339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "正徘徊不前的樣子，前面那個熟悉的身影難道是……十香？",
         game = 0,
         video = {
@@ -36054,6 +36439,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哇——！！",
         game = 0,
         video = {
@@ -36147,6 +36533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，美九，妳看這件。",
         game = 0,
         video = {
@@ -36240,6 +36627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "darling在和我約會哦~",
         game = 0,
         video = {
@@ -36333,6 +36721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling，你在乾什麼？",
         game = 0,
         video = {
@@ -36426,6 +36815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "說得也是……",
         game = 0,
         video = {
@@ -36519,6 +36909,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "終於熬了過去啊……",
         game = 0,
         video = {
@@ -36612,6 +37003,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九和我手上提著成堆的購物袋，幾乎再也塞不下了。",
         game = 0,
         video = {
@@ -36705,6 +37097,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我目送著兩人遠去後鬆了一口氣。",
         game = 0,
         video = {
@@ -36799,6 +37192,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "向美九求救",
         game = 0,
         video = {
@@ -36892,6 +37286,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我衝上前去，拉住美九的手。",
         game = 0,
         video = {
@@ -36985,6 +37380,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "拜託幫我看看哪個衣服更好看呢？",
         game = 0,
         video = {
@@ -37078,6 +37474,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -37171,6 +37568,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好的……",
         game = 0,
         video = {
@@ -37264,6 +37662,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那士道記得早點回家哦。",
         game = 0,
         video = {
@@ -37357,6 +37756,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我慌忙擺手。",
         game = 0,
         video = {
@@ -37450,6 +37850,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還有街邊熟悉的身影……應該是曾經見過的女子學校的學生吧……",
         game = 0,
         video = {
@@ -37543,6 +37944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？怎麼了？",
         game = 0,
         video = {
@@ -37636,6 +38038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "拿下什麼的……！！！",
         game = 0,
         video = {
@@ -37729,6 +38132,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "約……約會嗎？",
         game = 0,
         video = {
@@ -37822,6 +38226,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這樣拿下美九吧！",
         game = 0,
         video = {
@@ -37915,6 +38320,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九皺著眉，似乎在仔細思考我的話。",
         game = 0,
         video = {
@@ -38008,6 +38414,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "很清新的風格呢……",
         game = 0,
         video = {
@@ -38101,6 +38508,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "多虧了darling的眼光呢！那麼，接下來請到我家來吧！",
         game = 0,
         video = {
@@ -38194,6 +38602,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling……如果我有一天失去了聲音……",
         game = 0,
         video = {
@@ -38287,6 +38696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38380,6 +38790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然以前美九厭惡男生，將女生也只當做可愛玩偶……但是——",
         game = 0,
         video = {
@@ -38473,6 +38884,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "經過了層層篩選，美九拿在手裡的兩件衣服分別是……",
         game = 0,
         video = {
@@ -38566,6 +38978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我會作為美九最忠實的觀眾。",
         game = 0,
         video = {
@@ -38659,6 +39072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "但……但是……",
         game = 0,
         video = {
@@ -38752,6 +39166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來darling是第一次陪女孩子逛服裝店嗎？",
         game = 0,
         video = {
@@ -38848,6 +39263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就算其他人不理解美九，我也會支持美九的",
         game = 0,
         video = {
@@ -38941,6 +39357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "要是被發現了的話……",
         game = 0,
         video = {
@@ -39036,6 +39453,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九？",
         game = 0,
         video = {
@@ -39129,6 +39547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "難道是……最近工作壓力大了嗎？",
         game = 0,
         video = {
@@ -39222,6 +39641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "糟了，十香她們……該不會影響靈力波動吧……",
         game = 0,
         video = {
@@ -39315,6 +39735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "無論什麼樣子嗎……？",
         game = 0,
         video = {
@@ -39408,6 +39829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對吧？還是稍微注意一下。",
         game = 0,
         video = {
@@ -39501,6 +39923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那……我想試試那邊的可以嗎？",
         game = 0,
         video = {
@@ -39594,6 +40017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦哦，幫美九把這些都拿回家是吧？沒問題……",
         game = 0,
         video = {
@@ -39688,6 +40112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃選的清新款",
         game = 0,
         video = {
@@ -39781,6 +40206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個，美九……",
         game = 0,
         video = {
@@ -39874,6 +40300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯？怎麼那麼快就換下來了。",
         game = 0,
         video = {
@@ -39967,6 +40394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一件華美的蓬蓬裙，和一件可愛的制服。",
         game = 0,
         video = {
@@ -40061,6 +40489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香和四糸乃很快圍了過來。",
         game = 0,
         video = {
@@ -40155,6 +40584,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我覺得……這件很好看……",
         game = 0,
         video = {
@@ -40248,6 +40678,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "士道，這件超華麗！！！選這個給美九吧！",
         game = 0,
         video = {
@@ -40341,6 +40772,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不等我說話，兩人一陣風似的在店裡挑選起來。",
         game = 0,
         video = {
@@ -40434,6 +40866,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳們……",
         game = 0,
         video = {
@@ -40527,6 +40960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "該不會是……摔倒了吧？",
         game = 0,
         video = {
@@ -40621,6 +41055,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "請……交給我吧！",
         game = 0,
         video = {
@@ -40714,6 +41149,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "只是逛街而已！",
         game = 0,
         video = {
@@ -40807,6 +41243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒問題，包在我身上，一定選一件最漂亮的裙子！",
         game = 0,
         video = {
@@ -40900,6 +41337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是我想挽著darling的手逛街嘛~",
         game = 0,
         video = {
@@ -40993,6 +41431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "話是這麼說啦……",
         game = 0,
         video = {
@@ -41086,6 +41525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我的意思是……可以做那件[重要的事情]了。",
         game = 0,
         video = {
@@ -41179,6 +41619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊對啊，如果早點幫忙選好衣服，士道的任務就完成了對吧？",
         game = 0,
         video = {
@@ -41272,6 +41713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，darling，你來得正好。",
         game = 0,
         video = {
@@ -41365,6 +41807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "幫美九逛街選衣服什麼的，四糸乃可以幫忙嗎……",
         game = 0,
         video = {
@@ -41458,6 +41901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -41551,6 +41995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "士道哥哥需要幫忙嗎？",
         game = 0,
         video = {
@@ -41644,6 +42089,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好吧……",
         game = 0,
         video = {
@@ -41737,6 +42183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這是四糸奈對士道的誇獎哦！",
         game = 0,
         video = {
@@ -41830,6 +42277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "聽起來怪怪的……",
         game = 0,
         video = {
@@ -41923,6 +42371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來%s為了美九，還真是什麼都能承擔呢~",
         game = 0,
         video = {
@@ -42019,6 +42468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "衝進去",
         game = 0,
         video = {
@@ -42112,6 +42562,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "放心吧！我會掩護士道的！",
         game = 0,
         video = {
@@ -42205,6 +42656,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊，要不要一起呢？",
         game = 0,
         video = {
@@ -42298,6 +42750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "認出美九倒還好，要是被學校的同學認出我來，簡直不得了啊……",
         game = 0,
         video = {
@@ -42391,6 +42844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這也是沒有辦法的事情啊……",
         game = 0,
         video = {
@@ -42484,6 +42938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是啊……總之，請不要聲張。說不定周圍還有其他人會認出美九……",
         game = 0,
         video = {
@@ -42577,6 +43032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "重要的事情？",
         game = 0,
         video = {
@@ -42673,6 +43129,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "能夠顯示美九的身材",
         game = 0,
         video = {
@@ -42766,6 +43223,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了？",
         game = 0,
         video = {
@@ -42859,6 +43317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔姆，我明白了！因為這樣才要掩護美九的，對吧？",
         game = 0,
         video = {
@@ -42952,6 +43411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因為美九的身份太引人矚目了，所以只好這樣……",
         game = 0,
         video = {
@@ -43045,6 +43505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -43138,6 +43599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就讓我來幫你吧~",
         game = 0,
         video = {
@@ -43231,6 +43693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，說起來四糸乃正想選一個髮飾呢。",
         game = 0,
         video = {
@@ -43325,6 +43788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我在陪美九選衣服呢。",
         game = 0,
         video = {
@@ -43418,6 +43882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "穿成這樣被發現了，這……該怎麼解釋才好呢！",
         game = 0,
         video = {
@@ -43513,6 +43978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -43606,6 +44072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哦~我知道了！一定是%s又有什麼秘密活動了吧？放心我是不會說出去的！",
         game = 0,
         video = {
@@ -43705,6 +44172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒——？一、一起？",
         game = 0,
         video = {
@@ -43804,6 +44272,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "四糸乃！不是這樣子的！",
         game = 0,
         video = {
@@ -43897,6 +44366,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我知道了！",
         game = 0,
         video = {
@@ -43990,6 +44460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "士道小哥怎麼會穿成這樣？真是讓人意想不到啊……",
         game = 0,
         video = {
@@ -44083,6 +44554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！不如就在我的[臥室]進行吧！",
         game = 0,
         video = {
@@ -44176,6 +44648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原來如此！原來darling喜歡凸顯身材的衣服嗎？",
         game = 0,
         video = {
@@ -44269,6 +44742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這種風格的裙子怎麼樣？",
         game = 0,
         video = {
@@ -44362,6 +44836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "士道哥哥……你還好吧……",
         game = 0,
         video = {
@@ -44455,6 +44930,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊！是士道！果然是你！你怎麼穿成……這樣？",
         game = 0,
         video = {
@@ -44548,6 +45024,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "糟了，還是被發現了……！",
         game = 0,
         video = {
@@ -44641,6 +45118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是士道……吧？",
         game = 0,
         video = {
@@ -44734,6 +45212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我快速選了一個簡單的款式，想早點結束這荒唐的鬧劇。",
         game = 0,
         video = {
@@ -44827,6 +45306,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原因？",
         game = 0,
         video = {
@@ -44920,6 +45400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我冷汗涔涔地快速回應著。期望沒有人發現美九吧……",
         game = 0,
         video = {
@@ -45013,6 +45494,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼，好險……差點暴露了……",
         game = 0,
         video = {
@@ -45106,6 +45588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不會的。只要有我在，我來聽妳的故事，我來聽妳的歌。",
         game = 0,
         video = {
@@ -45199,6 +45682,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一起不太好吧……這是士道哥哥和美九的約會啊……",
         game = 0,
         video = {
@@ -45292,6 +45776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個……穿起來應該很麻煩吧……",
         game = 0,
         video = {
@@ -45385,6 +45870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -45478,6 +45964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎、怎麼了？說得不對嗎？",
         game = 0,
         video = {
@@ -45577,6 +46064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什麼——？？！！臥室什麼的——！！！",
         game = 0,
         video = {
@@ -45670,6 +46158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白了，跟我來。這邊的風格darling應該會喜歡。",
         game = 0,
         video = {
@@ -45763,6 +46252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……好像有點華麗……挺好看的。",
         game = 0,
         video = {
@@ -45857,6 +46347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -45950,6 +46441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呼……這個帶子……",
         game = 0,
         video = {
@@ -46043,6 +46535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "士道哥哥應該不會來女裝店吧……",
         game = 0,
         video = {
@@ -46136,6 +46629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "感覺很適合darling呢。",
         game = 0,
         video = {
@@ -46229,6 +46723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "確實對於男生來說，缺少樂趣呢……",
         game = 0,
         video = {
@@ -46322,6 +46817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊！我絕對不會認錯！",
         game = 0,
         video = {
@@ -46415,6 +46911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就一定是不願意穿我穿過的衣服了……",
         game = 0,
         video = {
@@ -46508,6 +47005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "歡迎光臨~！",
         game = 0,
         video = {
@@ -46601,6 +47099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "感覺……周圍的人都在盯著我們看……",
         game = 0,
         video = {
@@ -46694,6 +47193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "真的嗎？可以一起嗎？",
         game = 0,
         video = {
@@ -46787,6 +47287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling，要我幫你嗎？",
         game = 0,
         video = {
@@ -46880,6 +47381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "跟我來。",
         game = 0,
         video = {
@@ -46973,6 +47475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就在我費力地穿衣服的時候——",
         game = 0,
         video = {
@@ -47066,6 +47569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼了，darling？",
         game = 0,
         video = {
@@ -47159,6 +47663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的……誒——？！！",
         game = 0,
         video = {
@@ -47252,6 +47757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然darling喜歡嗎？",
         game = 0,
         video = {
@@ -47345,6 +47851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……這個蝴蝶結……好麻煩，到底該怎麼樣呢？",
         game = 0,
         video = {
@@ -47439,6 +47946,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -47532,6 +48040,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -47625,6 +48134,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我隨意拿起一件裙子，走進了更衣室。",
         game = 0,
         video = {
@@ -47718,6 +48228,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這個吧。",
         game = 0,
         video = {
@@ -47811,6 +48322,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我也覺得不錯~因為和darling剛好可以穿情侶裝嘛~",
         game = 0,
         video = {
@@ -47904,6 +48416,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好看……",
         game = 0,
         video = {
@@ -47997,6 +48510,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這家店我還沒有來過呢……",
         game = 0,
         video = {
@@ -48090,6 +48604,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼樣？darling？",
         game = 0,
         video = {
@@ -48183,6 +48698,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊，我帶妳們一起去逛街怎麼樣？",
         game = 0,
         video = {
@@ -48276,6 +48792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九將頭髮微微撩起，肩膀上搭著西裝外套，看起來格外英氣逼人。",
         game = 0,
         video = {
@@ -48369,6 +48886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -48462,6 +48980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美、美九？妳怎麼換上了男裝？",
         game = 0,
         video = {
@@ -48555,6 +49074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "到底是……什麼事……？",
         game = 0,
         video = {
@@ -48648,6 +49168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "順著美九的手指的方向，那一排衣服的布料可以說……非常精簡了。",
         game = 0,
         video = {
@@ -48741,6 +49262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，不如試試看吧！~",
         game = 0,
         video = {
@@ -48834,6 +49356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當我勉強換好衣服，走出試衣間時……",
         game = 0,
         video = {
@@ -48927,6 +49450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我無奈地走進試衣間。看來今天這一劫是難逃了……",
         game = 0,
         video = {
@@ -49020,6 +49544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -49114,6 +49639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "跑去遠方的更衣室",
         game = 0,
         video = {
@@ -49207,6 +49733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那就快換上看看吧！",
         game = 0,
         video = {
@@ -49300,6 +49827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊……那個……不是的！",
         game = 0,
         video = {
@@ -49393,6 +49921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "知道了知道了。darling找到了適合自己的風格，很不錯哦。",
         game = 0,
         video = {
@@ -49486,6 +50015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像是新開的……",
         game = 0,
         video = {
@@ -49579,6 +50109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不、不要誤會啊！",
         game = 0,
         video = {
@@ -49672,6 +50203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，說起來四糸乃正想選一個髮飾呢。",
         game = 0,
         video = {
@@ -49765,6 +50297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "雖然表面上比較抗拒，實際上私底下還是做了不少的研究嘛~",
         game = 0,
         video = {
@@ -49858,6 +50391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九……妳別摟得那麼緊，喘不過氣了……",
         game = 0,
         video = {
@@ -49951,6 +50485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling真的是……太棒了！！！",
         game = 0,
         video = {
@@ -50044,6 +50579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "單獨為darling唱歌啊？怎麼了？",
         game = 0,
         video = {
@@ -50137,6 +50673,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這件怎麼樣？",
         game = 0,
         video = {
@@ -50230,6 +50767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的。",
         game = 0,
         video = {
@@ -50323,6 +50861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒——",
         game = 0,
         video = {
@@ -50416,6 +50955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我的身高和氣質……應該更適合這款吧！",
         game = 0,
         video = {
@@ -50509,6 +51049,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯……因為這款的可愛元素非常多……如果美九穿倒是不錯，但是……",
         game = 0,
         video = {
@@ -50602,6 +51143,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還是保持距離比較好！",
         game = 0,
         video = {
@@ -50698,6 +51240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我選這個是有原因的！",
         game = 0,
         video = {
@@ -50791,6 +51334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我最終向美九妥協，認命地走進了試衣間。",
         game = 0,
         video = {
@@ -50884,6 +51428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -50977,6 +51522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "咦？美九妳帶我來妳這乾什麼……喂喂，等一下！！美九妳拿的衣服是……",
         game = 0,
         video = {
@@ -51070,6 +51616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "映入眼簾的是擺放成排的裙子和飾品，各種款式的衣裙琳琅滿目。",
         game = 0,
         video = {
@@ -51163,6 +51710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就讓我來幫你吧~",
         game = 0,
         video = {
@@ -51256,6 +51804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好吧。",
         game = 0,
         video = {
@@ -51352,6 +51901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "為了美九！還是妥協吧！",
         game = 0,
         video = {
@@ -51445,6 +51995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是我很想看darling穿嘛。",
         game = 0,
         video = {
@@ -51539,6 +52090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "原，原來是唱歌啊……呼……",
         game = 0,
         video = {
@@ -51632,6 +52184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一件少女風的衣服，但是……是一件設計非常大膽的露背裝！",
         game = 0,
         video = {
@@ -51725,6 +52278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九……妳在等什麼？",
         game = 0,
         video = {
@@ -51818,6 +52372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九拿起旁邊一款異常華麗又繁複的裙子。",
         game = 0,
         video = {
@@ -51911,6 +52466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不如試試這個？",
         game = 0,
         video = {
@@ -52004,6 +52560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？可是……感覺非常樸素，根本配不上darling啊。",
         game = 0,
         video = {
@@ -52097,6 +52654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我向著更衣室走去，可是——",
         game = 0,
         video = {
@@ -52190,6 +52748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就這個吧！",
         game = 0,
         video = {
@@ -52286,6 +52845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "選華麗蝴蝶結款",
         game = 0,
         video = {
@@ -52382,6 +52942,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "快速選一個樸素款",
         game = 0,
         video = {
@@ -52475,6 +53036,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒錯，是我的衣服哦。",
         game = 0,
         video = {
@@ -52568,6 +53130,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然來了……不如逛一下吧？",
         game = 0,
         video = {
@@ -52661,6 +53224,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -52754,6 +53318,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "非常適合[高個子]的[女孩子]穿呢。客人可以試穿哦。",
         game = 0,
         video = {
@@ -52847,6 +53412,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……好看！不……怎麼形容呢……總之，非常適合美九！",
         game = 0,
         video = {
@@ -52940,6 +53506,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "人越來越多了……",
         game = 0,
         video = {
@@ -53033,6 +53600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哎呀，darling想做別的也可以哦~",
         game = 0,
         video = {
@@ -53126,6 +53694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "感覺……現在穿這個肯定會有點冷吧……",
         game = 0,
         video = {
@@ -53219,6 +53788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然是等darling去試穿啊。",
         game = 0,
         video = {
@@ -53312,6 +53882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個，十香、四糸乃……真巧啊……",
         game = 0,
         video = {
@@ -53405,6 +53976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這是最好的方法，即使被人看到了，也會以為我在和女孩子一起逛街吧？",
         game = 0,
         video = {
@@ -53498,6 +54070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "躲避也不是辦法……",
         game = 0,
         video = {
@@ -53592,6 +54165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還是先打個招呼吧",
         game = 0,
         video = {
@@ -53685,6 +54259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "明白了吧？還是darling想和三個人同時逛街呢？雖然我倒是無所謂的啦……",
         game = 0,
         video = {
@@ -53778,6 +54353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "一起什麼的……不行的吧！",
         game = 0,
         video = {
@@ -53871,6 +54447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "最終，我還是沒能逃出美九的魔爪。",
         game = 0,
         video = {
@@ -53964,6 +54541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "要我穿……美九的衣服嗎！？",
         game = 0,
         video = {
@@ -54057,6 +54635,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……感覺都很漂亮的樣子。",
         game = 0,
         video = {
@@ -54150,6 +54729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "什麼……！！這……這樣也可以？？？",
         game = 0,
         video = {
@@ -54243,6 +54823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九掏出一張卡，仿佛在說一件非常輕鬆的事情。",
         game = 0,
         video = {
@@ -54342,6 +54923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九妳能不能稍微和我保持一下距離啊~！",
         game = 0,
         video = {
@@ -54435,6 +55017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不錯……",
         game = 0,
         video = {
@@ -54531,6 +55114,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還是試穿新的制服比較好……",
         game = 0,
         video = {
@@ -54624,6 +55208,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……原來如此，少女風格darling不喜歡，難道darling喜歡[更成熟點]的嗎？",
         game = 0,
         video = {
@@ -54723,6 +55308,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒——？我——？？",
         game = 0,
         video = {
@@ -54816,6 +55402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不能讓美九失望！",
         game = 0,
         video = {
@@ -54909,6 +55496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呃……沒有啊……",
         game = 0,
         video = {
@@ -55002,6 +55590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -55095,6 +55684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係哦~我的化妝技術絕對厲害。再幫你選幾個發飾好了。",
         game = 0,
         video = {
@@ -55188,6 +55778,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒關係，darling先休息一下就好。",
         game = 0,
         video = {
@@ -55281,6 +55872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -55374,6 +55966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九的肌膚吹彈可破、毫無瑕疵，看起來也非常有精神。",
         game = 0,
         video = {
@@ -55470,6 +56063,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "妳手上的就不錯，就買它吧！",
         game = 0,
         video = {
@@ -55563,6 +56157,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "請每個款式都來一件。",
         game = 0,
         video = {
@@ -55656,6 +56251,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我目瞪口呆地看著美九拉著十香和四糸乃走到了飾品區。",
         game = 0,
         video = {
@@ -55752,6 +56348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -55848,6 +56445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "選學生制服",
         game = 0,
         video = {
@@ -55942,6 +56540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "十香選的華麗款",
         game = 0,
         video = {
@@ -56035,6 +56634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "情侶什麼的……說出來太害羞了。",
         game = 0,
         video = {
@@ -56128,6 +56728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不是這個意思……",
         game = 0,
         video = {
@@ -56224,6 +56825,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "無論美九是什麼樣子，我都喜歡",
         game = 0,
         video = {
@@ -56317,6 +56919,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -56410,6 +57013,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "請來聽我的演唱會吧，darling~",
         game = 0,
         video = {
@@ -56503,6 +57107,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我的腳……好像扭到了……",
         game = 0,
         video = {
@@ -56596,6 +57201,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然，我有darling就足夠了！",
         game = 0,
         video = {
@@ -56689,6 +57295,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "但是……",
         game = 0,
         video = {
@@ -56782,6 +57389,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "darling可不要想跑哦~",
         game = 0,
         video = {
@@ -56875,6 +57483,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九，我們還是選一下吧，不用一下子買那麼多，太誇張了！",
         game = 0,
         video = {
@@ -56968,6 +57577,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然願意，可是……",
         game = 0,
         video = {
@@ -57067,6 +57677,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒誒——？！！！每個款式來一件？",
         game = 0,
         video = {
@@ -57163,6 +57774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -57256,6 +57868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這個呢？",
         game = 0,
         video = {
@@ -57349,6 +57962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喂喂——！",
         game = 0,
         video = {
@@ -57442,6 +58056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔姆！我就知道士道會喜歡這個的！放心吧，絕對很好看哦。",
         game = 0,
         video = {
@@ -57535,6 +58150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不如試試這件呢？",
         game = 0,
         video = {
@@ -57628,6 +58244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那darling一定喜歡這款吧？",
         game = 0,
         video = {
@@ -57721,6 +58338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喂，慢點啊~",
         game = 0,
         video = {
@@ -57820,6 +58438,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗚啊——救命——",
         game = 0,
         video = {
@@ -57913,6 +58532,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling抱我吧。",
         game = 0,
         video = {
@@ -58006,6 +58626,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九的臉上難得地出現了迷茫和遲疑。",
         game = 0,
         video = {
@@ -58099,6 +58720,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "作為補償，我會送darling一個禮物哦！",
         game = 0,
         video = {
@@ -58192,6 +58814,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "作為歌手的美九，果然……是舞台的王者啊。",
         game = 0,
         video = {
@@ -58284,6 +58907,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不知何時，店裡的人群多了起來。",
         game = 0,
         video = {
@@ -58377,6 +59001,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "感覺制服更適合美九呢。",
         game = 0,
         video = {
@@ -58470,6 +59095,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "總之，趕緊買下吧！",
         game = 0,
         video = {
@@ -58563,6 +59189,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "怎麼樣？好看嗎？",
         game = 0,
         video = {
@@ -58662,6 +59289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喂喂……妳們別不理我啊！！！",
         game = 0,
         video = {
@@ -58755,6 +59383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "趁著美九進試衣間的間隙，我終於喘了一口氣。",
         game = 0,
         video = {
@@ -58848,6 +59477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不等我拒絕，美九笑盈盈地將我推進了試衣間。",
         game = 0,
         video = {
@@ -58941,6 +59571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，謝謝十香。",
         game = 0,
         video = {
@@ -59034,6 +59665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我指著旁邊的一款制服，向美九推薦。",
         game = 0,
         video = {
@@ -59127,6 +59759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九扯著寥寥的布料，好奇地望著我。",
         game = 0,
         video = {
@@ -59220,6 +59853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對不起！",
         game = 0,
         video = {
@@ -59319,6 +59953,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我什麼都沒有想啊——",
         game = 0,
         video = {
@@ -59412,6 +60047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -59505,6 +60141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling在懷疑我挑衣服的眼光嗎？",
         game = 0,
         video = {
@@ -59598,6 +60235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九將我挽得更緊了。",
         game = 0,
         video = {
@@ -59691,6 +60329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "如果darling想幫我選的話……我會很開心。",
         game = 0,
         video = {
@@ -59786,6 +60425,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔，其實我也不太擅長……",
         game = 0,
         video = {
@@ -59879,6 +60519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "也可以，感覺美九什麼服裝都能駕馭呢。",
         game = 0,
         video = {
@@ -59972,6 +60613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好的darling！果然darling和我的眼光一樣，喜歡這一款嘛~",
         game = 0,
         video = {
@@ -60065,6 +60707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "非常合適！",
         game = 0,
         video = {
@@ -60158,6 +60801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "失敗了啊……看來關於約會，五道還需要學習很多啊……",
         game = 0,
         video = {
@@ -60257,6 +60901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔——！！！",
         game = 0,
         video = {
@@ -60353,6 +60998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "非常適合做演出服！",
         game = 0,
         video = {
@@ -60446,6 +61092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那士道記得早點回家哦。",
         game = 0,
         video = {
@@ -60539,6 +61186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？原來darling喜歡這個風格的嗎？",
         game = 0,
         video = {
@@ -60632,6 +61280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "還……還是剛剛那個好了！",
         game = 0,
         video = {
@@ -60726,6 +61375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -60819,6 +61469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊，抱歉。",
         game = 0,
         video = {
@@ -60912,6 +61563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "剛剛進試衣間的人……是美九嗎？",
         game = 0,
         video = {
@@ -61005,6 +61657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔！果然darling和我一樣有默契呢！",
         game = 0,
         video = {
@@ -61099,6 +61752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "但是我會被其他人認出來吧！",
         game = 0,
         video = {
@@ -61195,6 +61849,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我很期待哦。",
         game = 0,
         video = {
@@ -61288,6 +61943,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯，就算只是平常作為普通學生，也有很多人喜歡美九啊。",
         game = 0,
         video = {
@@ -61381,6 +62037,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "你還會……喜歡我、支持我嗎？",
         game = 0,
         video = {
@@ -61481,6 +62138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "喂喂，稍微小聲一點啊，小心被發現——",
         game = 0,
         video = {
@@ -61574,6 +62232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我也覺得不錯。",
         game = 0,
         video = {
@@ -61667,6 +62326,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "令音小姐居然這麼說……",
         game = 0,
         video = {
@@ -61759,6 +62419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -61855,6 +62516,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "舞台上的美九是屬於大家的",
         game = 0,
         video = {
@@ -61948,6 +62610,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好……好的……",
         game = 0,
         video = {
@@ -62041,6 +62704,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！很可愛啊。不如試試吧。",
         game = 0,
         video = {
@@ -62134,6 +62798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……我還以為darling會喜歡成熟點的呢~",
         game = 0,
         video = {
@@ -62230,6 +62895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "閉上眼睛",
         game = 0,
         video = {
@@ -62323,6 +62989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我僵硬著身子，任由美九的動作。",
         game = 0,
         video = {
@@ -62416,6 +63083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然不是懷疑眼光啦！",
         game = 0,
         video = {
@@ -62509,6 +63177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我……我們去這邊吧！",
         game = 0,
         video = {
@@ -62602,6 +63271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我明白了，那就請darling稍等片刻，我來試穿好了。",
         game = 0,
         video = {
@@ -62695,6 +63365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊！那邊的裙子！",
         game = 0,
         video = {
@@ -62788,6 +63459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？演出服嗎……我倒是沒有想過。",
         game = 0,
         video = {
@@ -62881,6 +63553,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對吧？darling一定也察覺到了！",
         game = 0,
         video = {
@@ -62974,6 +63647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "啊！是美九啊——",
         game = 0,
         video = {
@@ -63067,6 +63741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九轉了一圈，讓裙子飄揚起來。",
         game = 0,
         video = {
@@ -63166,6 +63841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗚啊——！！美九，妳怎麼進來了！",
         game = 0,
         video = {
@@ -63259,6 +63935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我硬著頭皮走上前去。",
         game = 0,
         video = {
@@ -63352,6 +64029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "作為偶像歌手的誘宵美九，是註定屬於舞台的。",
         game = 0,
         video = {
@@ -63445,6 +64123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "士道哥哥再見！",
         game = 0,
         video = {
@@ -63538,6 +64217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "說得也是呢……",
         game = 0,
         video = {
@@ -63631,6 +64311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "開……開玩笑的……",
         game = 0,
         video = {
@@ -63724,6 +64405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不會吧？我是她的粉絲誒！她在這裡買衣服嗎？",
         game = 0,
         video = {
@@ -63817,6 +64499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "和我穿一樣的校服嗎……",
         game = 0,
         video = {
@@ -63910,6 +64593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "是……嗎？",
         game = 0,
         video = {
@@ -64003,6 +64687,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "好像確實沒有誒……是我眼花了吧……",
         game = 0,
         video = {
@@ -64099,6 +64784,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64192,6 +64878,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -64291,6 +64978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔——！",
         game = 0,
         video = {
@@ -64384,6 +65072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "果然還是只有換上……",
         game = 0,
         video = {
@@ -64477,6 +65166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九？那個歌手美九嗎？",
         game = 0,
         video = {
@@ -64570,6 +65260,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "但是……",
         game = 0,
         video = {
@@ -64663,6 +65354,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然是怕你不會穿嘛，考慮到不好讓店員進來，只好我親自來幫忙啦。",
         game = 0,
         video = {
@@ -64756,6 +65448,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那個，我的意思是……其他人看到美九突然挽著男生，對美九影響不好吧……",
         game = 0,
         video = {
@@ -64849,6 +65542,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "屬於舞台……",
         game = 0,
         video = {
@@ -64942,6 +65636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -65035,6 +65730,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我來幫美九選嗎？沒問題。",
         game = 0,
         video = {
@@ -65128,6 +65824,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美……美九……妳這樣看著我乾嘛？",
         game = 0,
         video = {
@@ -65221,6 +65918,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -65320,6 +66018,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "三個一起？那……那不太好吧！",
         game = 0,
         video = {
@@ -65413,6 +66112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "士道哥哥應該不會在這裡吧……會不會是妳看錯了？",
         game = 0,
         video = {
@@ -65509,6 +66209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我不累！一點也不累！",
         game = 0,
         video = {
@@ -65602,6 +66303,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "這樣啊……那美九應該趁機好好休息……",
         game = 0,
         video = {
@@ -65695,6 +66397,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "因為darling很帥啊。",
         game = 0,
         video = {
@@ -65788,6 +66491,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "不久之後，沒有任何反應，我奇怪地睜開眼。",
         game = 0,
         video = {
@@ -65881,6 +66585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔……確實是少有的經歷……",
         game = 0,
         video = {
@@ -65974,6 +66679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "糟了，好像被發現了。",
         game = 0,
         video = {
@@ -66070,6 +66776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "第一次陪女孩子逛那麼久……確實有點累。",
         game = 0,
         video = {
@@ -66163,6 +66870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "可是，這裡是試衣間，我可能正在脫衣服啊！",
         game = 0,
         video = {
@@ -66256,6 +66964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我低頭看著自己身上的校服，嘴角忍不住地上揚。",
         game = 0,
         video = {
@@ -66349,6 +67058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗯！只給我一個人唱歌，豈不是太可惜了？美九的才能應該在舞台上綻放。",
         game = 0,
         video = {
@@ -66442,6 +67152,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我目送著兩人遠去後鬆了一口氣。",
         game = 0,
         video = {
@@ -66538,6 +67249,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九果然非常適合舞台啊",
         game = 0,
         video = {
@@ -66631,6 +67343,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九一件件挑選著衣服，不停地進入試衣間……",
         game = 0,
         video = {
@@ -66724,6 +67437,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "呃……",
         game = 0,
         video = {
@@ -66817,6 +67531,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "唔？那就讓她們一起來好啦，我可不是那種心胸狹隘的女孩子哦！",
         game = 0,
         video = {
@@ -66910,6 +67625,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "眼看即將被發現，我慌亂間將美九推進了就近的商家。",
         game = 0,
         video = {
@@ -67006,6 +67722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "叫店員進去",
         game = 0,
         video = {
@@ -67099,6 +67816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67195,6 +67913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67288,6 +68007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九還真是精力旺盛啊……",
         game = 0,
         video = {
@@ -67381,6 +68101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "嗚嗚……darling~",
         game = 0,
         video = {
@@ -67480,6 +68201,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我們走，美九！",
         game = 0,
         video = {
@@ -67573,6 +68295,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那件好像更不錯。",
         game = 0,
         video = {
@@ -67666,6 +68389,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊，都是女孩子，有什麼關係嘛。",
         game = 0,
         video = {
@@ -67759,6 +68483,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "總之，還是剛才那件好對吧？",
         game = 0,
         video = {
@@ -67852,6 +68577,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling真的……這樣認為？",
         game = 0,
         video = {
@@ -67945,6 +68671,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "終於熬了過去啊……",
         game = 0,
         video = {
@@ -68041,6 +68768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -68134,6 +68862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -68227,6 +68956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "就算所有人誤解妳、離開妳甚至污穢妳……那又怎樣？我會加倍地肯定妳！",
         game = 0,
         video = {
@@ -68320,6 +69050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling果然也更喜歡舞台上的我嗎？",
         game = 0,
         video = {
@@ -68413,6 +69144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "對啊，難道darling不想和我一起逛街嗎？",
         game = 0,
         video = {
@@ -68506,6 +69238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九轉過身去，似乎十分受傷。",
         game = 0,
         video = {
@@ -68600,6 +69333,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "總之，想點其他理由來拒絕……",
         game = 0,
         video = {
@@ -68693,6 +69427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "更何況旁邊還有個美九……",
         game = 0,
         video = {
@@ -68786,6 +69521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒？",
         game = 0,
         video = {
@@ -68879,6 +69615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "美九偶爾想要偷懶也沒關係哦。",
         game = 0,
         video = {
@@ -68972,6 +69709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "哎呀？",
         game = 0,
         video = {
@@ -69071,6 +69809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒——？",
         game = 0,
         video = {
@@ -69164,6 +69903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "女孩子……可是我……",
         game = 0,
         video = {
@@ -69257,6 +69997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "我只要陪著美九就好了。",
         game = 0,
         video = {
@@ -69350,6 +70091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "當然了！美九的歌聲那麼棒，一定要讓大家都聽到~",
         game = 0,
         video = {
@@ -69443,6 +70185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling，你在乾什麼？",
         game = 0,
         video = {
@@ -69536,6 +70279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "沒事吧？",
         game = 0,
         video = {
@@ -69629,6 +70373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "既然darling親自挑選了喜歡的款式，不如試試吧。",
         game = 0,
         video = {
@@ -69728,6 +70473,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "誒——！？我？？",
         game = 0,
         video = {
@@ -69821,6 +70567,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "那怎麼行？darling也來體驗逛街的樂趣吧！我可不是只顧自己的人哦。",
         game = 0,
         video = {

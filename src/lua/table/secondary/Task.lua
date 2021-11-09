@@ -9,6 +9,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -63,6 +64,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -117,6 +119,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -160,6 +163,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -208,6 +212,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -262,6 +267,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -310,6 +316,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -354,6 +361,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -412,6 +420,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -455,6 +464,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -509,6 +519,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -563,6 +574,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -611,6 +623,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -659,6 +672,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -713,6 +727,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -765,6 +780,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -806,6 +822,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -868,6 +885,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -915,6 +933,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -956,6 +975,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -999,6 +1019,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1053,6 +1074,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1107,6 +1129,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1155,6 +1178,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1203,6 +1227,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1257,6 +1282,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1309,6 +1335,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -1350,6 +1377,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -1393,6 +1421,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555011,
@@ -1441,6 +1470,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -1482,6 +1512,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -1525,6 +1556,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555011,
@@ -1569,6 +1601,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1623,6 +1656,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1677,6 +1711,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1725,6 +1760,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555011,
@@ -1769,6 +1805,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1817,6 +1854,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1871,6 +1909,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -1919,6 +1958,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555011,
@@ -1963,6 +2003,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -2011,6 +2052,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -2054,6 +2096,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555011,
@@ -2098,6 +2141,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501158,
@@ -2154,6 +2198,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -2200,6 +2245,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510308,
@@ -2243,6 +2289,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -2297,6 +2344,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -2351,6 +2399,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -2400,6 +2449,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -2448,6 +2498,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -2496,6 +2547,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -2550,6 +2602,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -2599,6 +2652,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 534154,
@@ -2648,6 +2702,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -2696,6 +2751,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -2748,6 +2804,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -2796,6 +2853,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -2840,6 +2898,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -2892,6 +2951,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -2946,6 +3006,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3000,6 +3061,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3048,6 +3110,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3096,6 +3159,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3150,6 +3214,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3198,6 +3263,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -3242,6 +3308,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3296,6 +3363,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3350,6 +3418,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3398,6 +3467,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3446,6 +3516,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3500,6 +3571,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3548,6 +3620,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3602,6 +3675,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3650,6 +3724,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3698,6 +3773,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3752,6 +3828,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3800,6 +3877,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -3843,6 +3921,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -3886,6 +3965,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3940,6 +4020,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -3988,6 +4069,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4042,6 +4124,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4090,6 +4173,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4144,6 +4228,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4192,6 +4277,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 529009,
@@ -4238,6 +4324,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -4281,6 +4368,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -4324,6 +4412,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4378,6 +4467,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4426,6 +4516,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4480,6 +4571,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4528,6 +4620,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4582,6 +4675,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4630,6 +4724,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -4676,6 +4771,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -4719,6 +4815,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -4763,6 +4860,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -4806,6 +4904,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4860,6 +4959,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4908,6 +5008,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -4962,6 +5063,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -5005,6 +5107,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -5059,6 +5162,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -5103,6 +5207,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -5152,6 +5257,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -5200,6 +5306,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -5244,6 +5351,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -5287,6 +5395,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -5330,6 +5439,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 566058,
@@ -5373,6 +5483,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -5416,6 +5527,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -5470,6 +5582,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -5518,6 +5631,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -5572,6 +5686,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -5615,6 +5730,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -5669,6 +5785,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -5713,6 +5830,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520023,
@@ -5761,6 +5879,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -5809,6 +5928,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570038,
@@ -5853,6 +5973,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -5897,6 +6018,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -5948,6 +6070,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -5991,6 +6114,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570038,
@@ -6035,6 +6159,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -6083,6 +6208,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -6130,6 +6256,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -6173,6 +6300,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -6227,6 +6355,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -6275,6 +6404,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -6329,6 +6459,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -6372,6 +6503,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -6426,6 +6558,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -6474,6 +6607,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -6518,6 +6652,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -6566,6 +6701,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -6622,6 +6758,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -6678,6 +6815,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -6734,6 +6872,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -6777,6 +6916,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -6835,6 +6975,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -6889,6 +7030,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 240009,
@@ -6941,6 +7083,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -6984,6 +7127,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7038,6 +7182,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7086,6 +7231,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7140,6 +7286,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -7183,6 +7330,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7241,6 +7389,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -7289,6 +7438,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -7334,6 +7484,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7381,6 +7532,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -7420,6 +7572,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 534064,
@@ -7467,6 +7620,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -7510,6 +7664,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -7552,6 +7707,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -7591,6 +7747,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7649,6 +7806,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -7693,6 +7851,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -7736,6 +7895,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7790,6 +7950,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7838,6 +7999,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7892,6 +8054,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -7939,6 +8102,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -7993,6 +8157,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510304,
@@ -8044,6 +8209,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -8087,6 +8253,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -8135,6 +8302,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520023,
@@ -8183,6 +8351,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -8231,6 +8400,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -8275,6 +8445,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -8322,6 +8493,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570050,
@@ -8366,6 +8538,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -8420,6 +8593,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -8464,6 +8638,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -8512,6 +8687,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -8566,6 +8742,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -8614,6 +8791,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -8668,6 +8846,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -8722,6 +8901,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -8776,6 +8956,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510304,
@@ -8828,6 +9009,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -8875,6 +9057,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -8923,6 +9106,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570050,
@@ -8967,6 +9151,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -9018,6 +9203,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510308,
@@ -9061,6 +9247,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -9105,6 +9292,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -9152,6 +9340,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -9207,6 +9396,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -9255,6 +9445,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -9299,6 +9490,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -9353,6 +9545,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -9401,6 +9594,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -9455,6 +9649,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -9509,6 +9704,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -9564,6 +9760,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520029,
@@ -9609,6 +9806,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -9656,6 +9854,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -9704,6 +9903,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -9753,6 +9953,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520253,
@@ -9797,6 +9998,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -9840,6 +10042,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -9884,6 +10087,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -9931,6 +10135,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -9985,6 +10190,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -10041,6 +10247,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -10085,6 +10292,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -10139,6 +10347,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -10187,6 +10396,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -10241,6 +10451,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -10295,6 +10506,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -10349,6 +10561,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520031,
@@ -10396,6 +10609,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -10452,6 +10666,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -10500,6 +10715,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -10547,6 +10763,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510304,
@@ -10600,6 +10817,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520063,
@@ -10643,6 +10861,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -10687,6 +10906,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 240009,
@@ -10739,6 +10959,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -10793,6 +11014,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 585001,
@@ -10836,6 +11058,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -10880,6 +11103,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -10934,6 +11158,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -10982,6 +11207,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -11036,6 +11262,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -11090,6 +11317,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -11144,6 +11372,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 230009,
@@ -11187,6 +11416,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570264,
@@ -11230,6 +11460,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -11277,6 +11508,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501049,
@@ -11320,6 +11552,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510154,
@@ -11363,6 +11596,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520256,
@@ -11406,6 +11640,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555010,
@@ -11453,6 +11688,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -11498,6 +11734,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -11552,6 +11789,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 585004,
@@ -11595,6 +11833,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -11638,6 +11877,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -11692,6 +11932,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555010,
@@ -11735,6 +11976,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -11789,6 +12031,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -11843,6 +12086,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -11898,6 +12142,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555010,
@@ -11941,6 +12186,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 331001,
@@ -11984,6 +12230,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -12031,6 +12278,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501049,
@@ -12075,6 +12323,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555010,
@@ -12124,6 +12373,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -12168,6 +12418,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520257,
@@ -12218,6 +12469,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -12258,6 +12510,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -12306,6 +12559,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -12360,6 +12614,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520257,
@@ -12403,6 +12658,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520023,
@@ -12451,6 +12707,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520251,
@@ -12494,6 +12751,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -12548,6 +12806,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -12602,6 +12861,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -12656,6 +12916,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -12700,6 +12961,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 554026,
@@ -12743,6 +13005,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -12791,6 +13054,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -12834,6 +13098,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 522003,
@@ -12878,6 +13143,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -12922,6 +13188,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599502,
@@ -12966,6 +13233,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -13009,6 +13277,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -13057,6 +13326,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -13112,6 +13382,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 110103,
@@ -13160,6 +13431,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -13203,6 +13475,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -13247,6 +13520,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -13301,6 +13575,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -13355,6 +13630,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -13408,6 +13684,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -13448,6 +13725,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570528,
@@ -13491,6 +13769,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -13539,6 +13818,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -13582,6 +13862,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -13626,6 +13907,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -13669,6 +13951,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -13713,6 +13996,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -13756,6 +14040,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -13800,6 +14085,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -13853,6 +14139,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -13894,6 +14181,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570227,
@@ -13937,6 +14225,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -13981,6 +14270,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -14035,6 +14325,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -14089,6 +14380,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -14143,6 +14435,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -14187,6 +14480,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -14234,6 +14528,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -14282,6 +14577,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -14329,6 +14625,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -14373,6 +14670,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -14420,6 +14718,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -14468,6 +14767,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -14515,6 +14815,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -14559,6 +14860,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -14617,6 +14919,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -14658,6 +14961,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -14701,6 +15005,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -14745,6 +15050,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -14799,6 +15105,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -14853,6 +15160,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -14907,6 +15215,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -14951,6 +15260,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -14994,6 +15304,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -15042,6 +15353,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -15093,6 +15405,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -15137,6 +15450,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -15192,6 +15506,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -15234,6 +15549,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -15285,6 +15601,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -15329,6 +15646,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -15383,6 +15701,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -15439,6 +15758,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -15486,6 +15806,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -15542,6 +15863,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -15596,6 +15918,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -15650,6 +15973,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -15704,6 +16028,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -15752,6 +16077,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -15799,6 +16125,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -15847,6 +16174,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -15894,6 +16222,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -15934,6 +16263,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -15977,6 +16307,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 240009,
@@ -16029,6 +16360,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -16076,6 +16408,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -16118,6 +16451,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -16172,6 +16506,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -16217,6 +16552,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -16264,6 +16600,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -16304,6 +16641,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -16358,6 +16696,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -16412,6 +16751,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -16466,6 +16806,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -16514,6 +16855,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -16561,6 +16903,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -16609,6 +16952,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -16660,6 +17004,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -16701,6 +17046,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -16748,6 +17094,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520023,
@@ -16796,6 +17143,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570028,
@@ -16844,6 +17192,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -16885,6 +17234,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -16939,6 +17289,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570028,
@@ -16987,6 +17338,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -17028,6 +17380,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -17079,6 +17432,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -17133,6 +17487,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -17187,6 +17542,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -17235,6 +17591,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -17283,6 +17640,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -17327,6 +17685,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -17375,6 +17734,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -17422,6 +17782,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -17473,6 +17834,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -17517,6 +17879,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -17573,6 +17936,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -17629,6 +17993,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -17681,6 +18046,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -17735,6 +18101,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -17789,6 +18156,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -17844,6 +18212,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -17883,6 +18252,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -17937,6 +18307,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -17991,6 +18362,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501158,
@@ -18047,6 +18419,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -18095,6 +18468,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -18139,6 +18513,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -18187,6 +18562,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 240009,
@@ -18238,6 +18614,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -18277,6 +18654,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -18321,6 +18699,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -18365,6 +18744,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501158,
@@ -18421,6 +18801,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -18474,6 +18855,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -18528,6 +18910,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -18572,6 +18955,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -18617,6 +19001,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -18662,6 +19047,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -18716,6 +19102,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -18764,6 +19151,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -18808,6 +19196,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -18856,6 +19245,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520023,
@@ -18904,6 +19294,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -18952,6 +19343,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -18996,6 +19388,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -19040,6 +19433,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -19084,6 +19478,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -19128,6 +19523,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -19176,6 +19572,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -19224,6 +19621,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -19278,6 +19676,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -19322,6 +19721,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -19370,6 +19770,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -19418,6 +19819,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -19472,6 +19874,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -19516,6 +19919,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -19567,6 +19971,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -19615,6 +20020,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -19659,6 +20065,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -19707,6 +20114,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -19758,6 +20166,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -19810,6 +20219,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -19866,6 +20276,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -19910,6 +20321,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -19962,6 +20374,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -20018,6 +20431,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20072,6 +20486,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20126,6 +20541,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20174,6 +20590,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 240009,
@@ -20230,6 +20647,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20284,6 +20702,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20337,6 +20756,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -20376,6 +20796,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20425,6 +20846,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -20477,6 +20899,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20525,6 +20948,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -20578,6 +21002,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -20623,6 +21048,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -20670,6 +21096,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20718,6 +21145,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -20769,6 +21197,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520023,
@@ -20817,6 +21246,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20871,6 +21301,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20925,6 +21356,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -20977,6 +21409,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -21021,6 +21454,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21075,6 +21509,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21127,6 +21562,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -21171,6 +21607,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21219,6 +21656,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21267,6 +21705,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21319,6 +21758,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -21363,6 +21803,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21412,6 +21853,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -21459,6 +21901,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21511,6 +21954,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -21559,6 +22003,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -21603,6 +22048,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21657,6 +22103,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21711,6 +22158,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21759,6 +22207,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21807,6 +22256,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21861,6 +22311,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -21909,6 +22360,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -21952,6 +22404,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22000,6 +22453,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22048,6 +22502,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22096,6 +22551,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -22139,6 +22595,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22186,6 +22643,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501049,
@@ -22229,6 +22687,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22277,6 +22736,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -22320,6 +22780,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510153,
@@ -22364,6 +22825,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22418,6 +22880,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22472,6 +22935,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22520,6 +22984,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22572,6 +23037,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -22624,6 +23090,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22682,6 +23149,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -22738,6 +23206,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22786,6 +23255,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22834,6 +23304,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22886,6 +23357,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -22942,6 +23414,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -22994,6 +23467,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 240009,
@@ -23050,6 +23524,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23099,6 +23574,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 323001,
@@ -23147,6 +23623,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -23192,6 +23669,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23246,6 +23724,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23300,6 +23779,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23348,6 +23828,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23397,6 +23878,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520032,
@@ -23444,6 +23926,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23492,6 +23975,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520032,
@@ -23540,6 +24024,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23588,6 +24073,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23636,6 +24122,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23684,6 +24171,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520023,
@@ -23732,6 +24220,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23780,6 +24269,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -23824,6 +24314,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -23872,6 +24363,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -23916,6 +24408,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -23974,6 +24467,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -24018,6 +24512,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24072,6 +24567,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24120,6 +24616,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24168,6 +24665,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555010,
@@ -24222,6 +24720,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24270,6 +24769,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -24318,6 +24818,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24366,6 +24867,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24414,6 +24916,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24462,6 +24965,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -24510,6 +25014,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24558,6 +25063,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510154,
@@ -24602,6 +25108,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24650,6 +25157,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -24705,6 +25213,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -24744,6 +25253,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -24800,6 +25310,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24854,6 +25365,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24902,6 +25414,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -24950,6 +25463,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -25006,6 +25520,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25054,6 +25569,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 240009,
@@ -25106,6 +25622,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25154,6 +25671,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25202,6 +25720,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25251,6 +25770,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555010,
@@ -25295,6 +25815,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25343,6 +25864,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -25388,6 +25910,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25436,6 +25959,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -25481,6 +26005,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -25525,6 +26050,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520023,
@@ -25573,6 +26099,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -25617,6 +26144,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25665,6 +26193,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25713,6 +26242,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -25757,6 +26287,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25805,6 +26336,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -25849,6 +26381,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25897,6 +26430,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25945,6 +26479,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -25993,6 +26528,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -26041,6 +26577,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26089,6 +26626,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -26137,6 +26675,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26185,6 +26724,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -26243,6 +26783,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -26291,6 +26832,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -26336,6 +26878,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -26380,6 +26923,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26428,6 +26972,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26476,6 +27021,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -26521,6 +27067,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26569,6 +27116,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -26620,6 +27168,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26668,6 +27217,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26716,6 +27266,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26763,6 +27314,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -26802,6 +27354,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26850,6 +27403,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -26895,6 +27449,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -26942,6 +27497,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -26981,6 +27537,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -27026,6 +27583,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -27071,6 +27629,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -27119,6 +27678,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -27167,6 +27727,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -27221,6 +27782,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -27266,6 +27828,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -27316,6 +27879,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -27367,6 +27931,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -27415,6 +27980,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -27463,6 +28029,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -27511,6 +28078,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -27567,6 +28135,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 529011,
@@ -27611,6 +28180,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -27667,6 +28237,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -27715,6 +28286,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -27771,6 +28343,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -27814,6 +28387,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 240009,
@@ -27866,6 +28440,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -27909,6 +28484,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -27957,6 +28533,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28011,6 +28588,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -28055,6 +28633,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28103,6 +28682,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520023,
@@ -28151,6 +28731,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28199,6 +28780,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28247,6 +28829,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28295,6 +28878,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -28340,6 +28924,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -28383,6 +28968,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -28427,6 +29013,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28475,6 +29062,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28529,6 +29117,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -28574,6 +29163,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -28618,6 +29208,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -28666,6 +29257,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28714,6 +29306,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28768,6 +29361,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -28812,6 +29406,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28860,6 +29455,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -28908,6 +29504,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -28956,6 +29553,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29004,6 +29602,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29052,6 +29651,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -29100,6 +29700,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580037,
@@ -29143,6 +29744,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -29191,6 +29793,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29239,6 +29842,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29293,6 +29897,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580037,
@@ -29336,6 +29941,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -29380,6 +29986,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580037,
@@ -29423,6 +30030,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29471,6 +30079,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29525,6 +30134,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -29581,6 +30191,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29629,6 +30240,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -29685,6 +30297,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29733,6 +30346,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29781,6 +30395,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -29829,6 +30444,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -29885,6 +30501,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580037,
@@ -29928,6 +30545,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 240009,
@@ -29980,6 +30598,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30028,6 +30647,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30082,6 +30702,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -30127,6 +30748,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -30171,6 +30793,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -30219,6 +30842,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30267,6 +30891,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30321,6 +30946,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30375,6 +31001,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30423,6 +31050,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599502,
@@ -30473,6 +31101,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -30523,6 +31152,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30571,6 +31201,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30619,6 +31250,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -30662,6 +31294,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -30707,6 +31340,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520257,
@@ -30750,6 +31384,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30798,6 +31433,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -30852,6 +31488,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -30903,6 +31540,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -30947,6 +31585,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -30995,6 +31634,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -31040,6 +31680,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -31094,6 +31735,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -31148,6 +31790,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -31196,6 +31839,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -31241,6 +31885,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -31291,6 +31936,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -31339,6 +31985,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -31387,6 +32034,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -31440,6 +32088,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -31485,6 +32134,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510154,
@@ -31533,6 +32183,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -31578,6 +32229,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -31632,6 +32284,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -31683,6 +32336,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -31734,6 +32388,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -31782,6 +32437,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -31827,6 +32483,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -31881,6 +32538,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -31935,6 +32593,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -31990,6 +32649,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520031,
@@ -32037,6 +32697,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -32087,6 +32748,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -32135,6 +32797,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -32183,6 +32846,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -32230,6 +32894,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -32274,6 +32939,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520030,
@@ -32326,6 +32992,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -32374,6 +33041,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -32428,6 +33096,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -32478,6 +33147,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520251,
@@ -32529,6 +33199,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -32578,6 +33249,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570008,
@@ -32631,6 +33303,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -32685,6 +33358,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -32739,6 +33413,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -32794,6 +33469,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -32842,6 +33518,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -32892,6 +33569,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -32940,6 +33618,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -32988,6 +33667,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520029,
@@ -33036,6 +33716,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -33080,6 +33761,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -33124,6 +33806,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -33169,6 +33852,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -33223,6 +33907,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -33267,6 +33952,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -33319,6 +34005,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -33368,6 +34055,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -33416,6 +34104,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -33470,6 +34159,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -33524,6 +34214,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -33575,6 +34266,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -33622,6 +34314,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -33670,6 +34363,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -33718,6 +34412,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -33766,6 +34461,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 534154,
@@ -33815,6 +34511,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300009,
@@ -33861,6 +34558,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -33909,6 +34607,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300011,
@@ -33955,6 +34654,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -34009,6 +34709,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -34053,6 +34754,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -34101,6 +34803,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 302002,
@@ -34147,6 +34850,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 230009,
@@ -34194,6 +34898,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -34248,6 +34953,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -34302,6 +35008,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300012,
@@ -34348,6 +35055,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -34395,6 +35103,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -34443,6 +35152,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -34491,6 +35201,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -34539,6 +35250,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 529045,
@@ -34595,6 +35307,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 305003,
@@ -34641,6 +35354,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501158,
@@ -34697,6 +35411,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300016,
@@ -34743,6 +35458,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -34797,6 +35513,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -34841,6 +35558,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501158,
@@ -34901,6 +35619,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -34949,6 +35668,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501158,
@@ -35005,6 +35725,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -35059,6 +35780,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -35113,6 +35835,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -35169,6 +35892,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501158,
@@ -35225,6 +35949,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -35273,6 +35998,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -35321,6 +36047,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -35368,6 +36095,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -35417,6 +36145,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -35461,6 +36190,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -35506,6 +36236,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -35553,6 +36284,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -35598,6 +36330,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -35652,6 +36385,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -35697,6 +36431,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -35744,6 +36479,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -35793,6 +36529,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -35847,6 +36584,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -35901,6 +36639,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570028,
@@ -35944,6 +36683,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -35989,6 +36729,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -36037,6 +36778,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -36085,6 +36827,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -36132,6 +36875,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -36181,6 +36925,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -36225,6 +36970,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -36270,6 +37016,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -36314,6 +37061,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -36359,6 +37107,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -36413,6 +37162,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -36462,6 +37212,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -36509,6 +37260,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -36554,6 +37306,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -36608,6 +37361,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -36662,6 +37416,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -36717,6 +37472,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -36762,6 +37518,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -36810,6 +37567,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -36858,6 +37616,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -36905,6 +37664,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -36950,6 +37710,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -36993,6 +37754,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -37042,6 +37804,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -37089,6 +37852,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -37134,6 +37898,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -37187,6 +37952,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -37232,6 +37998,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -37279,6 +38046,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -37324,6 +38092,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -37378,6 +38147,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -37432,6 +38202,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570007,
@@ -37476,6 +38247,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -37524,6 +38296,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -37572,6 +38345,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -37620,6 +38394,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -37667,6 +38442,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -37716,6 +38492,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -37759,6 +38536,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -37804,6 +38582,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -37848,6 +38627,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -37893,6 +38673,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -37946,6 +38727,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -37995,6 +38777,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -38042,6 +38825,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -38087,6 +38871,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -38141,6 +38926,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -38195,6 +38981,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -38251,6 +39038,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -38299,6 +39087,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -38347,6 +39136,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -38395,6 +39185,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -38442,6 +39233,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -38487,6 +39279,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -38530,6 +39323,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -38579,6 +39373,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -38626,6 +39421,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 529026,
@@ -38670,6 +39466,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -38723,6 +39520,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520033,
@@ -38766,6 +39564,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -38814,6 +39613,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -38865,6 +39665,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -38919,6 +39720,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -38973,6 +39775,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570050,
@@ -39017,6 +39820,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39065,6 +39869,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39113,6 +39918,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39161,6 +39967,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39209,6 +40016,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -39260,6 +40068,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -39306,6 +40115,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -39353,6 +40163,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -39396,6 +40207,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -39448,6 +40260,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39501,6 +40314,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -39548,6 +40362,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -39590,6 +40405,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -39629,6 +40445,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -39673,6 +40490,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39727,6 +40545,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -39777,6 +40596,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39825,6 +40645,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39873,6 +40694,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39921,6 +40743,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -39969,6 +40792,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -40014,6 +40838,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -40058,6 +40883,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -40101,6 +40927,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -40148,6 +40975,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -40193,6 +41021,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -40247,6 +41076,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -40298,6 +41128,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -40349,6 +41180,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -40394,6 +41226,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -40438,6 +41271,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -40492,6 +41326,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -40543,6 +41378,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -40591,6 +41427,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -40639,6 +41476,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -40687,6 +41525,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -40735,6 +41574,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -40780,6 +41620,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -40824,6 +41665,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -40867,6 +41709,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -40912,6 +41755,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -40957,6 +41801,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -41011,6 +41856,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -41054,6 +41900,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -41102,6 +41949,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -41145,6 +41993,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -41189,6 +42038,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -41243,6 +42093,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -41294,6 +42145,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -41342,6 +42194,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -41390,6 +42243,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -41438,6 +42292,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -41486,6 +42341,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -41533,6 +42389,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -41577,6 +42434,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -41624,6 +42482,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -41677,6 +42536,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -41724,6 +42584,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -41772,6 +42633,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570003,
@@ -41819,6 +42681,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -41867,6 +42730,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -41918,6 +42782,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -41962,6 +42827,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42016,6 +42882,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570038,
@@ -42060,6 +42927,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42108,6 +42976,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42156,6 +43025,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42204,6 +43074,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42252,6 +43123,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 501032,
@@ -42303,6 +43175,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -42346,6 +43219,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599607,
@@ -42393,6 +43267,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599502,
@@ -42436,6 +43311,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599607,
@@ -42483,6 +43359,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599502,
@@ -42526,6 +43403,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -42573,6 +43451,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42620,6 +43499,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599605,
@@ -42667,6 +43547,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -42711,6 +43592,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42764,6 +43646,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570029,
@@ -42811,6 +43694,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42859,6 +43743,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42907,6 +43792,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -42955,6 +43841,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -43002,6 +43889,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 529032,
@@ -43049,6 +43937,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -43092,6 +43981,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -43138,6 +44028,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -43182,6 +44073,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -43227,6 +44119,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -43284,6 +44177,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -43329,6 +44223,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -43376,6 +44271,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -43421,6 +44317,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -43465,6 +44362,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -43518,6 +44416,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -43563,6 +44462,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -43611,6 +44511,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -43659,6 +44560,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -43707,6 +44609,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -43754,6 +44657,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -43799,6 +44703,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -43842,6 +44747,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -43886,6 +44792,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -43930,6 +44837,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -43974,6 +44882,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -44012,6 +44921,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -44057,6 +44967,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -44104,6 +45015,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -44149,6 +45061,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -44193,6 +45106,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -44246,6 +45160,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -44291,6 +45206,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -44339,6 +45255,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -44387,6 +45304,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -44435,6 +45353,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -44482,6 +45401,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -44527,6 +45447,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -44571,6 +45492,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -44615,6 +45537,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -44660,6 +45583,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599502,
@@ -44704,6 +45628,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599502,
@@ -44748,6 +45673,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -44793,6 +45719,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -44841,6 +45768,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599502,
@@ -44885,6 +45813,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 599502,
@@ -44929,6 +45858,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -44983,6 +45913,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -45034,6 +45965,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -45082,6 +46014,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -45130,6 +46063,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -45178,6 +46112,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -45226,6 +46161,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -45275,6 +46211,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -45326,6 +46263,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -45371,6 +46309,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -45418,6 +46357,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -45475,6 +46415,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -45514,6 +46455,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -45565,6 +46507,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -45613,6 +46556,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -45665,6 +46609,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -45712,6 +46657,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -45766,6 +46712,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -45816,6 +46763,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -45864,6 +46812,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -45912,6 +46861,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -45960,6 +46910,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -46007,6 +46958,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -46047,6 +46999,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -46091,6 +47044,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -46135,6 +47089,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -46185,6 +47140,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -46224,6 +47180,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -46273,6 +47230,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -46317,6 +47275,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -46365,6 +47324,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -46419,6 +47379,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -46466,6 +47427,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -46520,6 +47482,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -46569,6 +47532,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -46617,6 +47581,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -46665,6 +47630,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -46713,6 +47679,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -46761,6 +47728,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -46809,6 +47777,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -46856,6 +47825,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -46904,6 +47874,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -46952,6 +47923,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -46999,6 +47971,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -47048,6 +48021,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -47096,6 +48070,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -47144,6 +48119,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -47198,6 +48174,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -47245,6 +48222,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -47299,6 +48277,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -47347,6 +48326,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -47395,6 +48375,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -47443,6 +48424,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -47491,6 +48473,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -47539,6 +48522,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -47584,6 +48568,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -47632,6 +48617,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580038,
@@ -47677,6 +48663,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -47726,6 +48713,7 @@ return {
         },
         taskCollection = false,
         resetType = 4,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580043,
@@ -47779,6 +48767,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -47826,6 +48815,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -47874,6 +48864,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -47922,6 +48913,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -47976,6 +48968,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -48024,6 +49017,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48078,6 +49072,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -48125,6 +49120,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48173,6 +49169,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48221,6 +49218,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48269,6 +49267,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48317,6 +49316,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -48366,6 +49366,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -48414,6 +49415,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -48462,6 +49464,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -48506,6 +49509,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -48551,6 +49555,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -48598,6 +49603,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -48642,6 +49648,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48690,6 +49697,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48744,6 +49752,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -48792,6 +49801,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48846,6 +49856,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -48897,6 +49908,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48945,6 +49957,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -48993,6 +50006,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -49041,6 +50055,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -49089,6 +50104,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510102,
@@ -49133,6 +50149,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -49181,6 +50198,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -49232,6 +50250,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300027,
@@ -49278,6 +50297,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510103,
@@ -49322,6 +50342,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -49366,6 +50387,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -49410,6 +50432,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -49458,6 +50481,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -49512,6 +50536,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -49559,6 +50584,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -49613,6 +50639,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -49661,6 +50688,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -49709,6 +50737,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -49757,6 +50786,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -49805,6 +50835,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -49853,6 +50884,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -49897,6 +50929,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -49940,6 +50973,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -49987,6 +51021,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -50041,6 +51076,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -50085,6 +51121,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -50134,6 +51171,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50182,6 +51220,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50229,6 +51268,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -50283,6 +51323,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50331,6 +51372,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -50385,6 +51427,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50433,6 +51476,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -50481,6 +51525,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -50529,6 +51574,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -50577,6 +51623,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -50625,6 +51672,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50672,6 +51720,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50721,6 +51770,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50769,6 +51819,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -50823,6 +51874,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50870,6 +51922,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50918,6 +51971,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -50965,6 +52019,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -51004,6 +52059,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51058,6 +52114,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -51107,6 +52164,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51160,6 +52218,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -51199,6 +52258,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51247,6 +52307,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51295,6 +52356,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51343,6 +52405,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51391,6 +52454,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -51438,6 +52502,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -51486,6 +52551,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 304001,
@@ -51538,6 +52604,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51592,6 +52659,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -51639,6 +52707,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -51688,6 +52757,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -51737,6 +52807,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -51777,6 +52848,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51831,6 +52903,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51885,6 +52958,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -51939,6 +53013,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -51987,6 +53062,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52035,6 +53111,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52083,6 +53160,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52131,6 +53209,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52180,6 +53259,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -52220,6 +53300,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -52267,6 +53348,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -52316,6 +53398,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52370,6 +53453,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -52413,6 +53497,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -52463,6 +53548,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -52506,6 +53592,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -52554,6 +53641,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52608,6 +53696,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52662,6 +53751,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -52712,6 +53802,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -52759,6 +53850,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52807,6 +53899,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52855,6 +53948,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -52903,6 +53997,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -52955,6 +54050,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -53003,6 +54099,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -53053,6 +54150,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -53100,6 +54198,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -53154,6 +54253,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -53202,6 +54302,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -53251,6 +54352,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -53290,6 +54392,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -53337,6 +54440,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -53391,6 +54495,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -53445,6 +54550,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -53492,6 +54598,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -53531,6 +54638,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -53579,6 +54687,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -53627,6 +54736,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -53675,6 +54785,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -53724,6 +54835,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -53768,6 +54880,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -53818,6 +54931,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -53861,6 +54975,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -53915,6 +55030,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -53963,6 +55079,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -54013,6 +55130,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -54057,6 +55175,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -54101,6 +55220,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -54155,6 +55275,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -54209,6 +55330,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -54257,6 +55379,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -54304,6 +55427,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -54352,6 +55476,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -54400,6 +55525,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -54448,6 +55574,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -54497,6 +55624,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -54545,6 +55673,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -54596,6 +55725,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -54639,6 +55769,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -54686,6 +55817,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -54729,6 +55861,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -54777,6 +55910,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -54820,6 +55954,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -54867,6 +56002,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -54921,6 +56057,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -54975,6 +56112,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -55023,6 +56161,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -55072,6 +56211,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -55120,6 +56260,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -55168,6 +56309,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -55211,6 +56353,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -55259,6 +56402,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -55306,6 +56450,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -55354,6 +56499,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -55397,6 +56543,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -55445,6 +56592,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -55492,6 +56640,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -55537,6 +56686,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -55580,6 +56730,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500004,
@@ -55625,6 +56776,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -55679,6 +56831,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -55733,6 +56886,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -55781,6 +56935,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -55826,6 +56981,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -55874,6 +57030,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -55922,6 +57079,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -55965,6 +57123,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -56023,6 +57182,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520257,
@@ -56066,6 +57226,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -56109,6 +57270,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -56152,6 +57314,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -56200,6 +57363,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597003,
@@ -56244,6 +57408,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -56292,6 +57457,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -56335,6 +57501,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -56393,6 +57560,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -56447,6 +57615,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -56501,6 +57670,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -56549,6 +57719,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300001,
@@ -56602,6 +57773,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -56650,6 +57822,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -56698,6 +57871,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -56741,6 +57915,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -56798,6 +57973,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597003,
@@ -56842,6 +58018,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300004,
@@ -56897,6 +58074,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -56940,6 +58118,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -56983,6 +58162,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -57027,6 +58207,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 303001,
@@ -57082,6 +58263,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -57125,6 +58307,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -57182,6 +58365,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -57236,6 +58420,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -57290,6 +58475,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -57338,6 +58524,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -57381,6 +58568,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -57429,6 +58617,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -57477,6 +58666,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597003,
@@ -57521,6 +58711,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -57564,6 +58755,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -57608,6 +58800,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300006,
@@ -57659,6 +58852,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597003,
@@ -57703,6 +58897,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -57746,6 +58941,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597003,
@@ -57790,6 +58986,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300018,
@@ -57842,6 +59039,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -57886,6 +59084,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -57943,6 +59142,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -57997,6 +59197,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58051,6 +59252,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58099,6 +59301,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -58142,6 +59345,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58190,6 +59394,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58238,6 +59443,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -58282,6 +59488,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58339,6 +59546,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -58383,6 +59591,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300035,
@@ -58435,6 +59644,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -58479,6 +59689,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -58522,6 +59733,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -58566,6 +59778,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597003,
@@ -58610,6 +59823,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -58654,6 +59868,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58711,6 +59926,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58765,6 +59981,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58819,6 +60036,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58867,6 +60085,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58915,6 +60134,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -58963,6 +60183,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -59011,6 +60232,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597003,
@@ -59055,6 +60277,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -59099,6 +60322,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -59143,6 +60367,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -59187,6 +60412,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597003,
@@ -59231,6 +60457,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -59275,6 +60502,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -59329,6 +60557,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -59373,6 +60602,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597003,
@@ -59417,6 +60647,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -59470,6 +60701,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -59524,6 +60756,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -59578,6 +60811,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -59626,6 +60860,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -59674,6 +60909,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -59722,6 +60958,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -59769,6 +61006,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -59808,6 +61046,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -59866,6 +61105,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -59909,6 +61149,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -59949,6 +61190,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -59993,6 +61235,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -60046,6 +61289,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -60091,6 +61335,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -60136,6 +61381,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -60180,6 +61426,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -60238,6 +61485,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -60292,6 +61540,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -60346,6 +61595,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -60394,6 +61644,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -60441,6 +61692,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -60480,6 +61732,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -60529,6 +61782,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -60569,6 +61823,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -60627,6 +61882,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -60678,6 +61934,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -60726,6 +61983,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -60777,6 +62035,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -60831,6 +62090,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -60871,6 +62131,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -60919,6 +62180,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -60959,6 +62221,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61017,6 +62280,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61071,6 +62335,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61125,6 +62390,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61173,6 +62439,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61221,6 +62488,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -61272,6 +62540,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61319,6 +62588,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -61358,6 +62628,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61416,6 +62687,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -61467,6 +62739,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -61510,6 +62783,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -61563,6 +62837,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -61615,6 +62890,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -61659,6 +62935,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -61703,6 +62980,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 535174,
@@ -61752,6 +63030,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61810,6 +63089,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -61854,6 +63134,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61908,6 +63189,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -61956,6 +63238,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -62004,6 +63287,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570503,
@@ -62048,6 +63332,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -62096,6 +63381,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 585008,
@@ -62139,6 +63425,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -62196,6 +63483,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -62247,6 +63535,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -62290,6 +63579,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -62342,6 +63632,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -62381,6 +63672,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -62432,6 +63724,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -62475,6 +63768,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -62519,6 +63813,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -62577,6 +63872,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -62621,6 +63917,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -62675,6 +63972,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -62719,6 +64017,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -62767,6 +64066,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -62819,6 +64119,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -62867,6 +64168,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -62911,6 +64213,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -62969,6 +64272,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -63017,6 +64321,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -63060,6 +64365,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -63104,6 +64410,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -63155,6 +64462,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -63202,6 +64510,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -63245,6 +64554,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -63289,6 +64599,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -63347,6 +64658,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -63396,6 +64708,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -63450,6 +64763,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -63498,6 +64812,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -63546,6 +64861,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -63594,6 +64910,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -63642,6 +64959,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -63686,6 +65004,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -63743,6 +65062,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -63791,6 +65111,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -63839,6 +65160,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -63888,6 +65210,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -63932,6 +65255,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -63982,6 +65306,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -64026,6 +65351,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -64087,6 +65413,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510308,
@@ -64131,6 +65458,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -64179,6 +65507,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -64233,6 +65562,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -64281,6 +65611,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -64329,6 +65660,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -64377,6 +65709,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -64425,6 +65758,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -64483,6 +65817,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -64526,6 +65861,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -64577,6 +65913,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -64622,6 +65959,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -64667,6 +66005,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -64712,6 +66051,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -64770,6 +66110,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -64815,6 +66156,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -64863,6 +66205,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -64908,6 +66251,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -64960,6 +66304,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65014,6 +66359,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65062,6 +66408,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65110,6 +66457,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65158,6 +66506,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65206,6 +66555,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65263,6 +66613,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -65310,6 +66661,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -65349,6 +66701,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -65397,6 +66750,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -65442,6 +66796,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -65488,6 +66843,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -65527,6 +66883,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -65575,6 +66932,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65633,6 +66991,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -65681,6 +67040,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -65720,6 +67080,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65774,6 +67135,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65822,6 +67184,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65870,6 +67233,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65918,6 +67282,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -65966,6 +67331,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -66023,6 +67389,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -66066,6 +67433,7 @@ return {
         },
         taskCollection = false,
         resetType = 4,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580043,
@@ -66119,6 +67487,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -66167,6 +67536,7 @@ return {
         },
         taskCollection = false,
         resetType = 4,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580043,
@@ -66220,6 +67590,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -66263,6 +67634,7 @@ return {
         },
         taskCollection = false,
         resetType = 4,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580043,
@@ -66316,6 +67688,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -66363,6 +67736,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -66420,6 +67794,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -66463,6 +67838,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580037,
@@ -66506,6 +67882,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -66560,6 +67937,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -66608,6 +67986,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -66656,6 +68035,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -66704,6 +68084,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -66752,6 +68133,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -66816,6 +68198,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -66859,6 +68242,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580037,
@@ -66902,6 +68286,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580037,
@@ -66945,6 +68330,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580037,
@@ -66988,6 +68374,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -67031,6 +68418,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -67075,6 +68463,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580037,
@@ -67118,6 +68507,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -67176,6 +68566,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -67219,6 +68610,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -67263,6 +68655,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -67317,6 +68710,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -67360,6 +68754,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -67408,6 +68803,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -67452,6 +68848,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -67500,6 +68897,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -67558,6 +68956,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -67601,6 +69000,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -67645,6 +69045,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -67688,6 +69089,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -67731,6 +69133,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -67774,6 +69177,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -67818,6 +69222,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -67861,6 +69266,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -67919,6 +69325,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -67973,6 +69380,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -68017,6 +69425,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -68071,6 +69480,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -68119,6 +69529,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -68167,6 +69578,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -68211,6 +69623,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -68259,6 +69672,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -68316,6 +69730,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -68359,6 +69774,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -68407,6 +69823,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -68451,6 +69868,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -68500,6 +69918,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 580039,
@@ -68544,6 +69963,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -68591,6 +70011,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 305002,
@@ -68637,6 +70058,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -68695,6 +70117,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -68749,6 +70172,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 301002,
@@ -68795,6 +70219,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 534011,
@@ -68838,6 +70263,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300010,
@@ -68884,6 +70310,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -68932,6 +70359,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -68980,6 +70408,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -69028,6 +70457,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -69086,6 +70516,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300008,
@@ -69132,6 +70563,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300036,
@@ -69184,6 +70616,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300030,
@@ -69236,6 +70669,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570505,
@@ -69296,6 +70730,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300029,
@@ -69348,6 +70783,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300026,
@@ -69400,6 +70836,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300017,
@@ -69452,6 +70889,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -69510,6 +70948,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -69564,6 +71003,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300007,
@@ -69618,6 +71058,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 304003,
@@ -69670,6 +71111,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 305001,
@@ -69723,6 +71165,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -69771,6 +71214,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -69819,6 +71263,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -69867,6 +71312,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -69925,6 +71371,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 301001,
@@ -69980,6 +71427,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300005,
@@ -70032,6 +71480,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 304002,
@@ -70084,6 +71533,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570502,
@@ -70128,6 +71578,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 303002,
@@ -70180,6 +71631,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300002,
@@ -70232,6 +71684,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 300003,
@@ -70287,6 +71740,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -70344,6 +71798,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -70398,6 +71853,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 302001,
@@ -70449,6 +71905,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -70497,6 +71954,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570504,
@@ -70541,6 +71999,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -70589,6 +72048,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -70637,6 +72097,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -70685,6 +72146,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -70743,6 +72205,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -70791,6 +72254,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -70842,6 +72306,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -70885,6 +72350,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -70938,6 +72404,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -70984,6 +72451,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -71023,6 +72491,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -71066,6 +72535,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -71124,6 +72594,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -71177,6 +72648,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -71216,6 +72688,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -71259,6 +72732,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -71311,6 +72785,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -71359,6 +72834,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -71407,6 +72883,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -71455,6 +72932,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -71506,6 +72984,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -71557,6 +73036,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -71608,6 +73088,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -71651,6 +73132,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -71696,6 +73178,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -71744,6 +73227,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -71789,6 +73273,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -71832,6 +73317,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -71876,6 +73362,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -71929,6 +73416,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -71968,6 +73456,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -72011,6 +73500,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -72055,6 +73545,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -72103,6 +73594,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -72151,6 +73643,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -72199,6 +73692,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -72242,6 +73736,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -72281,6 +73776,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -72332,6 +73828,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -72375,6 +73872,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -72418,6 +73916,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -72457,6 +73956,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -72508,6 +74008,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -72559,6 +74060,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -72603,6 +74105,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -72657,6 +74160,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -72704,6 +74208,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -72743,6 +74248,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -72787,6 +74293,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -72835,6 +74342,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -72883,6 +74391,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -72931,6 +74440,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570508,
@@ -72975,6 +74485,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -73014,6 +74525,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -73063,6 +74575,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -73114,6 +74627,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570509,
@@ -73159,6 +74673,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -73210,6 +74725,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -73258,6 +74774,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -73311,6 +74828,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -73359,6 +74877,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -73413,6 +74932,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -73466,6 +74986,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -73505,6 +75026,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -73553,6 +75075,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -73601,6 +75124,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -73648,6 +75172,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -73687,6 +75212,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -73735,6 +75261,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -73778,6 +75305,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -73818,6 +75346,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -73862,6 +75391,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -73914,6 +75444,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -73958,6 +75489,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 585010,
@@ -74002,6 +75534,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -74046,6 +75579,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -74097,6 +75631,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -74151,6 +75686,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -74206,6 +75742,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -74250,6 +75787,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -74301,6 +75839,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -74349,6 +75888,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -74398,6 +75938,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -74442,6 +75983,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -74494,6 +76036,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -74538,6 +76081,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -74590,6 +76134,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -74633,6 +76178,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -74673,6 +76219,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -74712,6 +76259,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -74752,6 +76300,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -74792,6 +76341,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -74844,6 +76394,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -74898,6 +76449,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -74952,6 +76504,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -75000,6 +76553,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -75058,6 +76612,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -75106,6 +76661,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -75155,6 +76711,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -75194,6 +76751,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -75233,6 +76791,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -75275,6 +76834,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -75315,6 +76875,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -75355,6 +76916,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -75407,6 +76969,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -75450,6 +77013,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -75502,6 +77066,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -75541,6 +77106,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -75580,6 +77146,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -75634,6 +77201,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -75688,6 +77256,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -75736,6 +77305,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -75787,6 +77357,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -75835,6 +77406,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -75884,6 +77456,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -75929,6 +77502,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -75973,6 +77547,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -76016,6 +77591,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -76060,6 +77636,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -76105,6 +77682,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -76149,6 +77727,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -76192,6 +77771,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -76236,6 +77816,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -76281,6 +77862,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -76325,6 +77907,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -76379,6 +77962,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -76433,6 +78017,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -76482,6 +78067,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -76526,6 +78112,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -76574,6 +78161,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -76622,6 +78210,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -76681,6 +78270,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -76725,6 +78315,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -76769,6 +78360,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -76813,6 +78405,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -76856,6 +78449,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -76899,6 +78493,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -76950,6 +78545,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77002,6 +78598,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77045,6 +78642,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77096,6 +78694,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -77150,6 +78749,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -77204,6 +78804,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -77252,6 +78853,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77303,6 +78905,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -77351,6 +78954,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -77399,6 +79003,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77449,6 +79054,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -77488,6 +79094,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77539,6 +79146,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77590,6 +79198,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77642,6 +79251,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -77689,6 +79299,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -77728,6 +79339,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77780,6 +79392,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -77832,6 +79445,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -77879,6 +79493,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -77933,6 +79548,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -77987,6 +79603,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -78035,6 +79652,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597002,
@@ -78084,6 +79702,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -78132,6 +79751,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -78181,6 +79801,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -78225,6 +79846,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -78271,6 +79893,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -78314,6 +79937,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -78354,6 +79978,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -78399,6 +80024,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -78448,6 +80074,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -78492,6 +80119,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -78546,6 +80174,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -78590,6 +80219,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -78633,6 +80263,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -78687,6 +80318,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -78741,6 +80373,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -78789,6 +80422,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -78843,6 +80477,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -78891,6 +80526,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -78940,6 +80576,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -78984,6 +80621,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -79033,6 +80671,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -79077,6 +80716,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -79120,6 +80760,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -79168,6 +80809,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -79223,6 +80865,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -79272,6 +80915,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -79320,6 +80964,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -79368,6 +81013,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -79422,6 +81068,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -79473,6 +81120,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -79527,6 +81175,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -79576,6 +81225,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -79624,6 +81274,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -79672,6 +81323,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -79720,6 +81372,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -79764,6 +81417,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 534064,
@@ -79813,6 +81467,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -79864,6 +81519,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570507,
@@ -79907,6 +81563,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -79950,6 +81607,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570506,
@@ -80016,6 +81674,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -80055,6 +81714,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 585009,
@@ -80098,6 +81758,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -80141,6 +81802,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520258,
@@ -80184,6 +81846,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -80237,6 +81900,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -80291,6 +81955,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -80339,6 +82004,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -80387,6 +82053,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -80435,6 +82102,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -80483,6 +82151,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -80526,6 +82195,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -80569,6 +82239,7 @@ return {
         },
         taskCollection = true,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 551111,
@@ -80612,6 +82283,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -80657,6 +82329,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -80700,6 +82373,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -80743,6 +82417,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -80786,6 +82461,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -80831,6 +82507,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -80874,6 +82551,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -80917,6 +82595,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -80960,6 +82639,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -81014,6 +82694,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -81062,6 +82743,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -81110,6 +82792,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -81158,6 +82841,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -81206,6 +82890,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -81249,6 +82934,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81292,6 +82978,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81335,6 +83022,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81378,6 +83066,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81421,6 +83110,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81464,6 +83154,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81507,6 +83198,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81550,6 +83242,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81593,6 +83286,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81636,6 +83330,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81679,6 +83374,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -81733,6 +83429,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -81781,6 +83478,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -81829,6 +83527,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81879,6 +83578,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -81927,6 +83627,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -81977,6 +83678,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82020,6 +83722,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82070,6 +83773,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -82118,6 +83822,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82168,6 +83873,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82211,6 +83917,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82254,6 +83961,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -82301,6 +84009,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82344,6 +84053,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -82392,6 +84102,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82435,6 +84146,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -82489,6 +84201,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -82537,6 +84250,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -82585,6 +84299,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82628,6 +84343,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -82676,6 +84392,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82719,6 +84436,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82762,6 +84480,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82805,6 +84524,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82848,6 +84568,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82891,6 +84612,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82934,6 +84656,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -82978,6 +84701,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -83041,6 +84765,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -83099,6 +84824,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -83160,6 +84886,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -83217,6 +84944,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -83271,6 +84999,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -83319,6 +85048,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -83367,6 +85097,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -83415,6 +85146,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -83463,6 +85195,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -83511,6 +85244,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -83568,6 +85302,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -83625,6 +85360,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -83673,6 +85409,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -83717,6 +85454,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -83770,6 +85508,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -83813,6 +85552,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -83871,6 +85611,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -83919,6 +85660,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -83962,6 +85704,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555014,
@@ -84006,6 +85749,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -84060,6 +85804,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -84108,6 +85853,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -84156,6 +85902,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555014,
@@ -84200,6 +85947,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -84248,6 +85996,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -84291,6 +86040,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -84334,6 +86084,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555014,
@@ -84377,6 +86128,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -84416,6 +86168,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 597001,
@@ -84464,6 +86217,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570004,
@@ -84507,6 +86261,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555014,
@@ -84550,6 +86305,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -84589,6 +86345,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -84637,6 +86394,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555013,
@@ -84681,6 +86439,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555014,
@@ -84725,6 +86484,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -84779,6 +86539,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -84827,6 +86588,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -84878,6 +86640,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -84921,6 +86684,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -84969,6 +86733,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -85017,6 +86782,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555013,
@@ -85062,6 +86828,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -85110,6 +86877,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -85153,6 +86921,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -85201,6 +86970,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555012,
@@ -85246,6 +87016,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -85293,6 +87064,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -85336,6 +87108,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -85384,6 +87157,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -85429,6 +87203,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -85477,6 +87252,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -85531,6 +87307,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -85579,6 +87356,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -85627,6 +87405,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -85681,6 +87460,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -85729,6 +87509,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -85772,6 +87553,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -85816,6 +87598,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -85860,6 +87643,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -85903,6 +87687,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -85947,6 +87732,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -85991,6 +87777,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -86049,6 +87836,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -86092,6 +87880,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -86140,6 +87929,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -86185,6 +87975,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500037,
@@ -86237,6 +88028,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -86291,6 +88083,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -86339,6 +88132,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -86387,6 +88181,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -86441,6 +88236,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -86489,6 +88285,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -86534,6 +88331,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -86578,6 +88376,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -86617,6 +88416,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -86660,6 +88460,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -86705,6 +88506,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -86749,6 +88551,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -86788,6 +88591,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570001,
@@ -86833,6 +88637,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -86881,6 +88686,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510105,
@@ -86924,6 +88730,7 @@ return {
         },
         taskCollection = false,
         resetType = 3,
+        minipack = 0,
         reward = {
         },
         startDate = {
@@ -86963,6 +88770,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87017,6 +88825,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87065,6 +88874,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87113,6 +88923,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87167,6 +88978,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87215,6 +89027,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510104,
@@ -87259,6 +89072,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510101,
@@ -87303,6 +89117,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500004,
@@ -87356,6 +89171,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87404,6 +89220,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87458,6 +89275,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87512,6 +89330,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -87555,6 +89374,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87603,6 +89423,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87651,6 +89472,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87705,6 +89527,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -87748,6 +89571,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87802,6 +89626,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87850,6 +89675,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87898,6 +89724,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -87952,6 +89779,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88000,6 +89828,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88054,6 +89883,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -88098,6 +89928,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -88142,6 +89973,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88190,6 +90022,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -88234,6 +90067,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88282,6 +90116,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88336,6 +90171,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88384,6 +90220,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88432,6 +90269,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88486,6 +90324,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88534,6 +90373,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88588,6 +90428,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555013,
@@ -88632,6 +90473,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88680,6 +90522,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88734,6 +90577,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88782,6 +90626,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555013,
@@ -88826,6 +90671,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88880,6 +90726,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -88923,6 +90770,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -88971,6 +90819,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555013,
@@ -89015,6 +90864,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -89058,6 +90908,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89112,6 +90963,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89160,6 +91012,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89208,6 +91061,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89262,6 +91116,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -89305,6 +91160,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -89351,6 +91207,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 510308,
@@ -89394,6 +91251,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89442,6 +91300,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89496,6 +91355,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89545,6 +91405,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 520006,
@@ -89593,6 +91454,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -89636,6 +91498,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -89679,6 +91542,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89734,6 +91598,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 230009,
@@ -89781,6 +91646,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -89824,6 +91690,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89872,6 +91739,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -89915,6 +91783,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -89963,6 +91832,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90017,6 +91887,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -90060,6 +91931,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90114,6 +91986,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90162,6 +92035,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90210,6 +92084,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90264,6 +92139,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90312,6 +92188,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -90355,6 +92232,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -90398,6 +92276,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90446,6 +92325,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -90489,6 +92369,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -90532,6 +92413,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -90575,6 +92457,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90629,6 +92512,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -90672,6 +92556,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90720,6 +92605,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90774,6 +92660,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -90817,6 +92704,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -90860,6 +92748,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -90903,6 +92792,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -90951,6 +92841,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91005,6 +92896,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91053,6 +92945,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91107,6 +93000,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -91150,6 +93044,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91204,6 +93099,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -91247,6 +93143,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -91290,6 +93187,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91344,6 +93242,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -91387,6 +93286,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91435,6 +93335,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91489,6 +93390,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91543,6 +93445,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -91586,6 +93489,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91640,6 +93544,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -91683,6 +93588,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91731,6 +93637,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91785,6 +93692,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91833,6 +93741,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -91876,6 +93785,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -91930,6 +93840,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -91973,6 +93884,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -92027,6 +93939,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -92074,6 +93987,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -92122,6 +94036,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -92165,6 +94080,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -92213,6 +94129,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -92267,6 +94184,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -92321,6 +94239,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -92364,6 +94283,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -92408,6 +94328,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -92451,6 +94372,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -92499,6 +94421,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -92553,6 +94476,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -92601,6 +94525,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -92645,6 +94570,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -92689,6 +94615,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -92733,6 +94660,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -92777,6 +94705,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -92821,6 +94750,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -92865,6 +94795,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555012,
@@ -92909,6 +94840,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -92953,6 +94885,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -92997,6 +94930,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93051,6 +94985,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555012,
@@ -93095,6 +95030,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -93139,6 +95075,7 @@ return {
         },
         taskCollection = false,
         resetType = 2,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -93189,6 +95126,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93237,6 +95175,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93291,6 +95230,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93339,6 +95279,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93387,6 +95328,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500001,
@@ -93431,6 +95373,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555012,
@@ -93475,6 +95418,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93523,6 +95467,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93571,6 +95516,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93619,6 +95565,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 555012,
@@ -93663,6 +95610,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -93707,6 +95655,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93755,6 +95704,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93812,6 +95762,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -93855,6 +95806,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -93898,6 +95850,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -93942,6 +95895,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -93990,6 +95944,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94044,6 +95999,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94092,6 +96048,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94146,6 +96103,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -94190,6 +96148,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -94243,6 +96202,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -94286,6 +96246,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -94329,6 +96290,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -94372,6 +96334,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570029,
@@ -94429,6 +96392,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -94472,6 +96436,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94526,6 +96491,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94580,6 +96546,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94634,6 +96601,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -94677,6 +96645,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -94720,6 +96689,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94768,6 +96738,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94822,6 +96793,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94870,6 +96842,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500005,
@@ -94918,6 +96891,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570002,
@@ -94961,6 +96935,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 500002,
@@ -95018,6 +96993,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -95061,6 +97037,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -95105,6 +97082,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570032,
@@ -95149,6 +97127,7 @@ return {
         },
         taskCollection = false,
         resetType = 0,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570029,
@@ -95206,6 +97185,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570031,
@@ -95249,6 +97229,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,
@@ -95293,6 +97274,7 @@ return {
         },
         taskCollection = false,
         resetType = 1,
+        minipack = 0,
         reward = {
             [1] = {
                 [1] = 570033,

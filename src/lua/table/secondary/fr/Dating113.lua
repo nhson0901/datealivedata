@@ -60,6 +60,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -153,6 +154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pas de problème, allons-y ensemble.",
         game = 0,
         video = {
@@ -246,6 +248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Attends un peu, le petit-déjeuner sera bientôt prêt.",
         game = 0,
         video = {
@@ -339,6 +342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Remercie Natsumi d'avoir demandé",
         game = 0,
         video = {
@@ -435,6 +439,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -528,6 +533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -621,6 +627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord !",
         game = 0,
         video = {
@@ -714,6 +721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'aimerais y aller avec toi... mais je suis gravement blessé, alors merci de me le demander...",
         game = 0,
         video = {
@@ -807,6 +815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après le petit déjeuner, Kotori se dirigea vers Fraxinus pendant que je visitais le supermarché pour acheter les ingrédients de la semaine.",
         game = 0,
         video = {
@@ -901,6 +910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "En compensation, sortons",
         game = 0,
         video = {
@@ -994,6 +1004,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après s'être retransformée, Natsumi avait également retrouvé son tempérament prudent et refoulé.",
         game = 0,
         video = {
@@ -1087,6 +1098,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il n'y avait plus de yaourt à la maison, alors j'ai décidé d'en acheter d'autres...",
         game = 0,
         video = {
@@ -1180,6 +1192,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow... tant de fleurs !",
         game = 0,
         video = {
@@ -1273,6 +1286,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -1366,6 +1380,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hé ? Tu m'écoutes, %s ?",
         game = 0,
         video = {
@@ -1459,6 +1474,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, toutes sortes de fleurs fraîches, et aussi quelques fleurs séchées.",
         game = 0,
         video = {
@@ -1553,6 +1569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -1646,6 +1663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... je t'écoute. Qu'est-ce qu'il y a ?",
         game = 0,
         video = {
@@ -1739,6 +1757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Y a-t-il... des graines ?",
         game = 0,
         video = {
@@ -1832,6 +1851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vingt minutes plus tard, Natsumi et moi nous sommes assis à table et avons mangé le petit déjeuner fraîchement préparé.",
         game = 0,
         video = {
@@ -1925,6 +1945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais tu dois me fréquenter dans ta forme originale, Natsumi !",
         game = 0,
         video = {
@@ -2018,6 +2039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quel goût a-t-elle ?",
         game = 0,
         video = {
@@ -2111,6 +2133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Se pourrait-il que %s n'aime pas mon look actuel ?",
         game = 0,
         video = {
@@ -2204,6 +2227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "demandai-je après que Natsumi ait mangé le toast et bu le lait.",
         game = 0,
         video = {
@@ -2297,6 +2321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non, pas comme ça, mais je préfère ton look original !",
         game = 0,
         video = {
@@ -2390,6 +2415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est délicieux !",
         game = 0,
         video = {
@@ -2483,6 +2509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, d'accord... Je peux accepter cette condition ~",
         game = 0,
         video = {
@@ -2576,6 +2603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Merci... pour la nourriture !",
         game = 0,
         video = {
@@ -2669,6 +2697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -2762,6 +2791,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De rien.",
         game = 0,
         video = {
@@ -2857,6 +2887,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... maintenant... pouvons-nous sortir ensemble ?",
         game = 0,
         video = {
@@ -2950,6 +2981,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peut-être... Natsumi peut inviter Tohka ?",
         game = 0,
         video = {
@@ -3044,6 +3076,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas ce que tu crois, Kotori",
         game = 0,
         video = {
@@ -3137,6 +3170,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ? Tohka... ?",
         game = 0,
         video = {
@@ -3230,6 +3264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, ce n'est pas ce que tu crois, Kotori !",
         game = 0,
         video = {
@@ -3323,6 +3358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, es-tu confiant, Natsumi ?",
         game = 0,
         video = {
@@ -3417,6 +3453,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Rattraper Kotori",
         game = 0,
         video = {
@@ -3510,6 +3547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tais-toi, laisse Natsumi finir.",
         game = 0,
         video = {
@@ -3603,6 +3641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... mais je vais faire de mon mieux...",
         game = 0,
         video = {
@@ -3696,6 +3735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai vite rattrapé Kotori et j'ai voulu lui expliquer ce qui venait de se passer.",
         game = 0,
         video = {
@@ -3789,6 +3829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'expression de Kotori n'était pas si belle, l'ambiance dans l'air a pris un sérieux tournant.",
         game = 0,
         video = {
@@ -3882,6 +3923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, c'est tout ce que j'ai demandé.",
         game = 0,
         video = {
@@ -3976,6 +4018,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -4069,6 +4112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peut-être... que %s aimaient trop le corps de ma grande sœur, son visage timide était aussi mignon...",
         game = 0,
         video = {
@@ -4162,6 +4206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je caressais la tête de Natsumi avec des encouragements pendant que je parlais.",
         game = 0,
         video = {
@@ -4255,6 +4300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kotori, écoute-moi ! Ce n'est pas ce que tu penses.",
         game = 0,
         video = {
@@ -4348,6 +4394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, ne dis pas des choses aussi trompeuses !",
         game = 0,
         video = {
@@ -4441,6 +4488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -4534,6 +4582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ba..baka, pourquoi me poursuis-tu ?",
         game = 0,
         video = {
@@ -4627,6 +4676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, comment as-tu pu faire de telles choses tôt le matin. C'est tellement ennuyeux !",
         game = 0,
         video = {
@@ -4721,6 +4771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -4814,6 +4865,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Parce que je veux dissiper le malentendu.",
         game = 0,
         video = {
@@ -4908,6 +4960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ça devrait être moi",
         game = 0,
         video = {
@@ -5001,6 +5054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'ai rien fait ! Natsumi, explique-lui !",
         game = 0,
         video = {
@@ -5094,6 +5148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... Je suis de retour. Mais... Tohka n'est pas venue...",
         game = 0,
         video = {
@@ -5187,6 +5242,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas important la façon dont je pense, n'est-ce pas ? L'important, c'est de retrouver Natsumi !",
         game = 0,
         video = {
@@ -5280,6 +5336,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ça devrait être moi, haha ~",
         game = 0,
         video = {
@@ -5373,6 +5430,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... tu es si dure, tu ne dois pas aimer ma façon d'être...",
         game = 0,
         video = {
@@ -5466,6 +5524,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Pourquoi Kotori est-elle avec toi ?",
         game = 0,
         video = {
@@ -5559,6 +5618,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?",
         game = 0,
         video = {
@@ -5652,6 +5712,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai mis mes bras sur mes hanches et j'ai fait semblant d'être confiant.",
         game = 0,
         video = {
@@ -5745,6 +5806,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas ce que je voulais dire, je veux juste que tu clarifies le malentendu.",
         game = 0,
         video = {
@@ -5838,6 +5900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Baka Grand Frère, tu savais que Tohka ne se lèverait pas aussi tôt, n'est-ce pas ?",
         game = 0,
         video = {
@@ -5931,6 +5994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu savais que Natsumi ne pouvait pas en supporter trop mentalement...",
         game = 0,
         video = {
@@ -6024,6 +6088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Stupide, ça ne peut pas être vrai...",
         game = 0,
         video = {
@@ -6117,6 +6182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... tout ce que j'ai dit est vrai...",
         game = 0,
         video = {
@@ -6210,6 +6276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Donc si elle était laissée à elle-même, il pourrait y avoir des problèmes.",
         game = 0,
         video = {
@@ -6303,6 +6370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi nia en hâte et abaissa son visage rougi.",
         game = 0,
         video = {
@@ -6396,6 +6464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'étais pas timide parce que j'aimais le corps de la grande sœur, et tu es juste venu me réveiller, n'est-ce pas ?",
         game = 0,
         video = {
@@ -6489,6 +6558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu as raison...",
         game = 0,
         video = {
@@ -6582,6 +6652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai cette confiance, n'as-tu pas la confiance nécessaire pour passer ta vie avec moi, Natsumi ?",
         game = 0,
         video = {
@@ -6675,6 +6746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "*Sob*... donc %s n'aiment pas non plus mon corps de grande sœur... tu me détestes de bout en bout !",
         game = 0,
         video = {
@@ -6768,6 +6840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis gratté la tête par honte, en regrettant de ne pas avoir choisi de rattraper Natsumi.",
         game = 0,
         video = {
@@ -6861,6 +6934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne sais pas... pourquoi quelqu'un voudrait-il passer sa vie avec moi...",
         game = 0,
         video = {
@@ -6954,6 +7028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela dit, Natsumi a pleuré et s'est enfuie.",
         game = 0,
         video = {
@@ -7047,6 +7122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis bien ici. Le temps presse. Va trouver Natsumi !",
         game = 0,
         video = {
@@ -7140,6 +7216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hum ! Je devrais aller voir Fraxinus.",
         game = 0,
         video = {
@@ -7233,6 +7310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, je vais aller la chercher immédiatement !",
         game = 0,
         video = {
@@ -7326,6 +7404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -7420,6 +7499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -7514,6 +7594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -7607,6 +7688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, où es-tu ? Natsumi...",
         game = 0,
         video = {
@@ -7700,6 +7782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai cherché partout où Natsumi pouvait aller, mais je ne l'ai pas trouvée.",
         game = 0,
         video = {
@@ -7793,6 +7876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sob*...",
         game = 0,
         video = {
@@ -7886,6 +7970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai entendu un bruit de sanglots derrière l'herbe, ça ressemblait beaucoup à Natsumi.",
         game = 0,
         video = {
@@ -7979,6 +8064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi ! Est-ce que c'est toi ?",
         game = 0,
         video = {
@@ -8072,6 +8158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai immédiatement couru pour vérifier l'endroit.",
         game = 0,
         video = {
@@ -8165,6 +8252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...",
         game = 0,
         video = {
@@ -8258,6 +8346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, je suis si contente que tu ailles bien !",
         game = 0,
         video = {
@@ -8351,6 +8440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'étais si inquiète que je n'ai pas pu m'empêcher de serrer Natsumi dans mes bras.",
         game = 0,
         video = {
@@ -8444,6 +8534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hé, qu'est-ce que tu fais...",
         game = 0,
         video = {
@@ -8537,6 +8628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu es rassasié ?",
         game = 0,
         video = {
@@ -8630,6 +8722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... désolé, j'étais si inquiet pour toi.",
         game = 0,
         video = {
@@ -8723,6 +8816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu veux manger autre chose ?",
         game = 0,
         video = {
@@ -8816,6 +8910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "*sniff*... Je pensais que tu ne voulais plus de moi, %s...",
         game = 0,
         video = {
@@ -8910,6 +9005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Acheter des graines",
         game = 0,
         video = {
@@ -9003,6 +9099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... ce n'est pas nécessaire, je suis rassasiée.",
         game = 0,
         video = {
@@ -9096,6 +9193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Des fleurs... des graines ?",
         game = 0,
         video = {
@@ -9189,6 +9287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vois. Alors je vais faire la vaisselle. Peux-tu m'aider à débarrasser la table ?",
         game = 0,
         video = {
@@ -9282,6 +9381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Achetons des graines et plantons-les ensemble ?",
         game = 0,
         video = {
@@ -9375,6 +9475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... D'accord !",
         game = 0,
         video = {
@@ -9468,6 +9569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est comme ça ? Planter des fleurs avec %s...",
         game = 0,
         video = {
@@ -9561,6 +9663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peut-être... Natsumi peut inviter Yoshino ?",
         game = 0,
         video = {
@@ -9654,6 +9757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -9747,6 +9851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... Je ne connais rien à la culture des fleurs.",
         game = 0,
         video = {
@@ -9840,6 +9945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yoshino... ?",
         game = 0,
         video = {
@@ -9934,6 +10040,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -10027,6 +10134,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi baissa la tête nerveusement et fronça les sourcils.",
         game = 0,
         video = {
@@ -10120,6 +10228,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, es-tu confiant, Natsumi ?",
         game = 0,
         video = {
@@ -10214,6 +10323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Excuse-toi vite",
         game = 0,
         video = {
@@ -10307,6 +10417,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Planter des fleurs n'est pas difficile, mais cela demande de la patience.",
         game = 0,
         video = {
@@ -10400,6 +10511,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... mais... Je peux essayer ?",
         game = 0,
         video = {
@@ -10493,6 +10605,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... pourquoi es-tu ici...",
         game = 0,
         video = {
@@ -10586,6 +10699,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De la patience ?",
         game = 0,
         video = {
@@ -10679,6 +10793,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, c'est tout ce que j'ai demandé.",
         game = 0,
         video = {
@@ -10772,6 +10887,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je lui ai donné un arc de 90 degrés de profondeur et j'ai dit à haute voix.",
         game = 0,
         video = {
@@ -10865,6 +10981,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Même si nous pouvons échouer, tant que tu ne te décourages pas, tu finiras par réussir.",
         game = 0,
         video = {
@@ -10958,6 +11075,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je caressais la tête de Natsumi avec des encouragements pendant que je parlais.",
         game = 0,
         video = {
@@ -11051,6 +11169,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Désolé, je me suis trompé à l'époque, je suis vraiment désolé !",
         game = 0,
         video = {
@@ -11144,6 +11263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Je crois que nous pouvons le faire !",
         game = 0,
         video = {
@@ -11237,6 +11357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -11330,6 +11451,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Aïe... !",
         game = 0,
         video = {
@@ -11423,6 +11545,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Enterrer les graines dans le sol, les fertiliser, les arroser et attendre qu'elles poussent est un processus long et heureux.",
         game = 0,
         video = {
@@ -11517,6 +11640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -11610,6 +11734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, désolé, tu as peur parce que j'ai fait trop de bruit ?",
         game = 0,
         video = {
@@ -11703,6 +11828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Heureux...",
         game = 0,
         video = {
@@ -11796,6 +11922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... Je suis de retour...",
         game = 0,
         video = {
@@ -11889,6 +12016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... %s est un imbécile...",
         game = 0,
         video = {
@@ -11983,6 +12111,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi tira doucement sur ma manche comme si elle se souvenait soudainement de quelque chose.",
         game = 0,
         video = {
@@ -12076,6 +12205,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kotori... tu sais quelque chose à ce sujet ?",
         game = 0,
         video = {
@@ -12169,6 +12299,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... !",
         game = 0,
         video = {
@@ -12262,6 +12393,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...pourquoi... on n'achète pas ça ?",
         game = 0,
         video = {
@@ -12355,6 +12487,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne sais rien du tout !",
         game = 0,
         video = {
@@ -12448,6 +12581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu es sérieux, %s ?",
         game = 0,
         video = {
@@ -12541,6 +12675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tout en parlant, Natsumi montra du doigt les fleurs fraîches qui fleurissaient à proximité.",
         game = 0,
         video = {
@@ -12634,6 +12769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hé, ton expression disait le contraire.",
         game = 0,
         video = {
@@ -12727,6 +12863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, je peux inviter Natsumi à faire de l'ikebana avec moi ?",
         game = 0,
         video = {
@@ -12820,6 +12957,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hmm ? Est-ce que Natsumi préfère acheter des fleurs fraîches ?",
         game = 0,
         video = {
@@ -12913,6 +13051,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai beaucoup de travail à faire à Ratatoskr aujourd'hui, à plus tard !",
         game = 0,
         video = {
@@ -13007,6 +13146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Lève-toi pour faire peur à Natsumi",
         game = 0,
         video = {
@@ -13100,6 +13240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Elles fleurissent magnifiquement, n'est-ce pas ?",
         game = 0,
         video = {
@@ -13193,6 +13334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Attends... tu n'as pas encore pris ton petit-déjeuner.",
         game = 0,
         video = {
@@ -13286,6 +13428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis levé immédiatement et j'ai fait un bruit étrange pour effrayer Natsumi.",
         game = 0,
         video = {
@@ -13379,6 +13522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu aimes ça, Tohka ?",
         game = 0,
         video = {
@@ -13472,6 +13616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "En fait, je préfère expérimenter le processus de plantation de fleurs avec Natsumi.",
         game = 0,
         video = {
@@ -13566,6 +13711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Demande à Natsumi de clarifier",
         game = 0,
         video = {
@@ -13659,6 +13805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comment as-tu pu faire ça... c'est bas et pas drôle du tout.",
         game = 0,
         video = {
@@ -13752,6 +13899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je l'aime beaucoup ~",
         game = 0,
         video = {
@@ -13845,6 +13993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que c'est... ainsi ?",
         game = 0,
         video = {
@@ -13938,6 +14087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'ai rien fait ! Natsumi, explique-lui !",
         game = 0,
         video = {
@@ -14031,6 +14181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se retourna et partit avec une expression rigide.",
         game = 0,
         video = {
@@ -14124,6 +14275,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est très bien.",
         game = 0,
         video = {
@@ -14216,6 +14368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Et Natsumi ne pense-t-elle pas aussi que les fleurs fraîches sont trop faciles à faner ?",
         game = 0,
         video = {
@@ -14309,6 +14462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... tu me détestes vraiment à ce point ?",
         game = 0,
         video = {
@@ -14402,6 +14556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi semblait vraiment en colère... Je dois m'excuser rapidement.",
         game = 0,
         video = {
@@ -14495,6 +14650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Si nous achetons des graines, elles resteront avec nous plus longtemps.",
         game = 0,
         video = {
@@ -14588,6 +14744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas ce que je voulais dire, je veux juste que tu clarifies le malentendu.",
         game = 0,
         video = {
@@ -14684,6 +14841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -14777,6 +14935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... mais... Je vais forcément tout gâcher.",
         game = 0,
         video = {
@@ -14870,6 +15029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... tout ce que j'ai dit est vrai...",
         game = 0,
         video = {
@@ -14963,6 +15123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis arrivé à l'appartement des esprits et j'ai regardé autour de moi avec anxiété.",
         game = 0,
         video = {
@@ -15057,6 +15218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comment cela se fait-il ? Que nous réussissions ou non, cela laissera de bons souvenirs à Natsumi et à moi.",
         game = 0,
         video = {
@@ -15150,6 +15312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'étais pas timide parce que j'aimais le corps de la grande sœur, et tu es juste venu me réveiller, n'est-ce pas ?",
         game = 0,
         video = {
@@ -15243,6 +15406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis désolé. Je suis vraiment désolé !",
         game = 0,
         video = {
@@ -15336,6 +15500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De bons... souvenirs.",
         game = 0,
         video = {
@@ -15429,6 +15594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "*Sob*... donc %s n'aiment pas non plus mon corps de grande sœur... tu me détestes de bout en bout !",
         game = 0,
         video = {
@@ -15522,6 +15688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne devrais pas te le dire... J'ai encore tout gâché.",
         game = 0,
         video = {
@@ -15615,6 +15782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord !",
         game = 0,
         video = {
@@ -15708,6 +15876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi s'est enfuie avant que je puisse lui expliquer.",
         game = 0,
         video = {
@@ -15801,6 +15970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La tête de Natsumi s'est encore abaissée.",
         game = 0,
         video = {
@@ -15894,6 +16064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cette expression d'ennui était toujours là, mais elle semblait briller d'un éclat tout à coup.",
         game = 0,
         video = {
@@ -15987,6 +16158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bon, je devrais aller voir Fraxinus.",
         game = 0,
         video = {
@@ -16080,6 +16252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, mais j'apprécie quand même que Natsumi ait nettoyé la pièce.",
         game = 0,
         video = {
@@ -16173,6 +16346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors, quelle fleur Natsumi veut-elle faire pousser ?",
         game = 0,
         video = {
@@ -16266,6 +16440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment ?",
         game = 0,
         video = {
@@ -16359,6 +16534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cette fleur... elle a l'air bien, peut-on la planter ?",
         game = 0,
         video = {
@@ -16452,6 +16628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, et tu as fait du bon travail !",
         game = 0,
         video = {
@@ -16545,6 +16722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Oh ? la tulipe violette ?",
         game = 0,
         video = {
@@ -16638,6 +16816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... c'est une blague ?",
         game = 0,
         video = {
@@ -16732,6 +16911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Allons à un rendez-vous",
         game = 0,
         video = {
@@ -16825,6 +17005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Pouvons-nous faire pousser ce genre de fleur ?",
         game = 0,
         video = {
@@ -16918,6 +17099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne plaisante pas, Natsumi a vraiment fait du bon travail.",
         game = 0,
         video = {
@@ -17011,6 +17193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... aujourd'hui... bien...",
         game = 0,
         video = {
@@ -17104,6 +17287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Achetons des graines et essayons, en fait je ne suis pas sûr moi-même que nous puissions réussir du premier coup...",
         game = 0,
         video = {
@@ -17197,6 +17381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors, essayons ! Ensemble !",
         game = 0,
         video = {
@@ -17290,6 +17475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il fait assez beau, pourquoi n'allons-nous pas sortir ensemble ?",
         game = 0,
         video = {
@@ -17383,6 +17569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les tulipes sont plantées avec des bulbes. Ce n'est pas difficile. Tu vois, c'est un bulbe de tulipe.",
         game = 0,
         video = {
@@ -17476,6 +17663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord !",
         game = 0,
         video = {
@@ -17569,6 +17757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... ? Un rendez-vous... ?",
         game = 0,
         video = {
@@ -17662,6 +17851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le propriétaire du magasin de fleurs a mis une petite boule dans les mains de Natsumi.",
         game = 0,
         video = {
@@ -17755,6 +17945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "D'abord, tu dois déterminer le schéma de couleurs, c'est la première étape de l'ikebana élémentaire.",
         game = 0,
         video = {
@@ -17848,6 +18039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, tu ne veux pas ça, Natsumi ?",
         game = 0,
         video = {
@@ -17941,6 +18133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est... un bulbe de tulipe, peut-il se transformer en une si belle fleur ?",
         game = 0,
         video = {
@@ -18034,6 +18227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Le schéma... des couleurs.",
         game = 0,
         video = {
@@ -18127,6 +18321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... pas... du tout...",
         game = 0,
         video = {
@@ -18220,6 +18415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, tant que tu utilises la bonne méthode, sous tes soins, il se transformera en une fleur de tulipe violette juste comme ça.",
         game = 0,
         video = {
@@ -18313,6 +18509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Le schéma de couleurs ?",
         game = 0,
         video = {
@@ -18406,6 +18603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, dans ce cas, attends que je prépare un bento pour deux, d'accord ?",
         game = 0,
         video = {
@@ -18499,6 +18697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... Merci pour la nourriture ~",
         game = 0,
         video = {
@@ -18592,6 +18791,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comme ... la peinture, doit déterminer le schéma de couleurs de base.",
         game = 0,
         video = {
@@ -18685,6 +18885,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, les rendez-vous ~",
         game = 0,
         video = {
@@ -18778,6 +18979,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, je suis content que ça te plaise.",
         game = 0,
         video = {
@@ -18871,6 +19073,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha... Natsumi en sait beaucoup sur la peinture.",
         game = 0,
         video = {
@@ -18964,6 +19167,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -19057,6 +19261,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah oui, tu as des projets après le petit déjeuner ?",
         game = 0,
         video = {
@@ -19150,6 +19355,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quelle palette de couleurs aimes-tu, %s ?",
         game = 0,
         video = {
@@ -19246,6 +19452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -19339,6 +19546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... non...",
         game = 0,
         video = {
@@ -19432,6 +19640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai emmené Natsumi sur le toit du parc rempli d'une brise fraîche et du parfum des plantes et des arbres.",
         game = 0,
         video = {
@@ -19525,6 +19734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Théâtre de midi... Alors...",
         game = 0,
         video = {
@@ -19618,6 +19828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouf ~ l'air extérieur est si frais.",
         game = 0,
         video = {
@@ -19711,6 +19922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est presque l'heure ! Yoshino, rentrons.",
         game = 0,
         video = {
@@ -19804,6 +20016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... tant d'humains...",
         game = 0,
         video = {
@@ -19897,6 +20110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Au revoir, %s.",
         game = 0,
         video = {
@@ -19990,6 +20204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je pense que le temps d'aujourd'hui est propice aux sorties.",
         game = 0,
         video = {
@@ -20083,6 +20298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le pot de fleurs et la pelle sont tous les deux là. Je vais d'abord creuser un petit trou, puis tu mettras le bulbe à l'intérieur ?",
         game = 0,
         video = {
@@ -20176,6 +20392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je déteste ça...",
         game = 0,
         video = {
@@ -20269,6 +20486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord.",
         game = 0,
         video = {
@@ -20362,6 +20580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Parce qu'il y a tant de gens autour ?",
         game = 0,
         video = {
@@ -20455,6 +20674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi a mis le bulbe à l'intérieur après que j'ai creusé un petit trou, puis je l'ai enterré avec de la terre.",
         game = 0,
         video = {
@@ -20548,6 +20768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Toast au bacon avec du lait",
         game = 0,
         video = {
@@ -20641,6 +20862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... j'ai l'impression que tout le monde me regarde...",
         game = 0,
         video = {
@@ -20734,6 +20956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est... fait.",
         game = 0,
         video = {
@@ -20827,6 +21050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ok, je l'ai !",
         game = 0,
         video = {
@@ -20920,6 +21144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai regardé autour de moi et personne ne nous regardait.",
         game = 0,
         video = {
@@ -21013,6 +21238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pas encore, il y a encore une étape importante.",
         game = 0,
         video = {
@@ -21106,6 +21332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... tu as besoin de mon aide ?",
         game = 0,
         video = {
@@ -21199,6 +21426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne pense pas, ça doit être l'imagination de Natsumi.",
         game = 0,
         video = {
@@ -21292,6 +21520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Oh ? qu'est-ce que c'est ?",
         game = 0,
         video = {
@@ -21385,6 +21614,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Aide-moi à sortir le bacon si tu peux.",
         game = 0,
         video = {
@@ -21478,6 +21708,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... j'ai l'impression que... Je suis entouré de regards...",
         game = 0,
         video = {
@@ -21572,6 +21803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'arrosage. Nous devons l'arroser.",
         game = 0,
         video = {
@@ -21665,6 +21897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tiens, tu as besoin de moi pour faire frire le bacon ?",
         game = 0,
         video = {
@@ -21758,6 +21991,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu veux des toasts au bacon avec du lait ou du jambon de riz avec une soupe au miso ?",
         game = 0,
         video = {
@@ -21851,6 +22085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Oh ! L'arrosage !",
         game = 0,
         video = {
@@ -21944,6 +22179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave si tu ne m'aides pas, je peux le faire moi-même.",
         game = 0,
         video = {
@@ -22037,6 +22273,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? Et deux styles totalement différents en plus ?",
         game = 0,
         video = {
@@ -22136,6 +22373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... ! Oh non !",
         game = 0,
         video = {
@@ -22229,6 +22467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -22322,6 +22561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... ne sois pas trop enceinte, probablement seulement comestible au mieux.",
         game = 0,
         video = {
@@ -22415,6 +22655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce qui ne va pas ?",
         game = 0,
         video = {
@@ -22509,6 +22750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -22602,6 +22844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha... Je vois.",
         game = 0,
         video = {
@@ -22695,6 +22938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis gratté la tête et je me suis senti gêné, j'étais un peu excité que ma main tremble en arrosant.",
         game = 0,
         video = {
@@ -22788,6 +23032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peu après, Natsumi apporta le petit déjeuner préparé à la table.",
         game = 0,
         video = {
@@ -22881,6 +23126,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Allons acheter du pain",
         game = 0,
         video = {
@@ -22974,6 +23220,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fais ton choix, c'est le petit-déjeuner préféré de %s.",
         game = 0,
         video = {
@@ -23067,6 +23314,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai accidentellement versé trop d'eau.",
         game = 0,
         video = {
@@ -23162,6 +23410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave si tu ne veux pas manger... ne te force pas.",
         game = 0,
         video = {
@@ -23255,6 +23504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que... nous... ne pouvons pas y aller ?",
         game = 0,
         video = {
@@ -23348,6 +23598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Aha, alors je choisis...",
         game = 0,
         video = {
@@ -23442,6 +23693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Que dirais-tu d'un autre verre de lait ?",
         game = 0,
         video = {
@@ -23535,6 +23787,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Tu ne veux pas manger de pain, Natsumi ?",
         game = 0,
         video = {
@@ -23628,6 +23881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas nécessaire !",
         game = 0,
         video = {
@@ -23721,6 +23975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Si je peux, je peux essayer de faire le petit déjeuner pour %s ?",
         game = 0,
         video = {
@@ -23814,6 +24069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Veux-tu essayer l'ikebana, Natsumi ?",
         game = 0,
         video = {
@@ -23907,6 +24163,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quoi ?",
         game = 0,
         video = {
@@ -24000,6 +24257,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu veux faire le petit déjeuner, Natsumi ?",
         game = 0,
         video = {
@@ -24093,6 +24351,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quelques clients se sont réunis autour d'une table dans le magasin de fleurs et ont fait de l'ikebana avec intensité.",
         game = 0,
         video = {
@@ -24186,6 +24445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi avait toujours cette expression d'ennui, mais elle était clairement en colère.",
         game = 0,
         video = {
@@ -24279,6 +24539,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... %s s'est occupé de moi, je veux aussi faire de mon mieux.",
         game = 0,
         video = {
@@ -24372,6 +24633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi tant de gens font-ils de l'ikebana ?",
         game = 0,
         video = {
@@ -24465,6 +24727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je le vois maintenant... tu ne m'aimes pas !",
         game = 0,
         video = {
@@ -24558,6 +24821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Aujourd'hui, c'est la journée de l'ikebana dans notre magasin. Voulez-vous l'essayer ?",
         game = 0,
         video = {
@@ -24651,6 +24915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Qu'est-ce qui te fait penser cela ?",
         game = 0,
         video = {
@@ -24744,6 +25009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai donné à Natsumi un coup d'œil d'investigation.",
         game = 0,
         video = {
@@ -24837,6 +25103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sois honnête et dis que tu n'aimes pas ma petite taille, %s !",
         game = 0,
         video = {
@@ -24930,6 +25197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Euh...",
         game = 0,
         video = {
@@ -25023,6 +25291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Est-ce que j'ai dit quelque chose comme ça ?",
         game = 0,
         video = {
@@ -25117,6 +25386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Demande de l'aide à Yoshino",
         game = 0,
         video = {
@@ -25210,6 +25480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Veux-tu essayer l'ikebana, Natsumi ?",
         game = 0,
         video = {
@@ -25303,6 +25574,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... C'est pour ça que tu me demandes de boire plus de lait ! Tu ne m'aimes pas !",
         game = 0,
         video = {
@@ -25396,6 +25668,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Excuse-moi, Natsumi est-elle ici ?",
         game = 0,
         video = {
@@ -25489,6 +25762,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Promets à Natsumi tout ce que tu veux",
         game = 0,
         video = {
@@ -25582,6 +25856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, bonne journée ~",
         game = 0,
         video = {
@@ -25675,6 +25950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tout est de ma faute, en guise d'excuse, je promettrai à Natsumi n'importe quoi !",
         game = 0,
         video = {
@@ -25768,6 +26044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi cherches-tu Natsumi, nii-chan ?",
         game = 0,
         video = {
@@ -25861,6 +26138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?... Vraiment ?",
         game = 0,
         video = {
@@ -25954,6 +26232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yoshino, s'il te plaît, tu dois m'aider !",
         game = 0,
         video = {
@@ -26047,6 +26326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Qu'est-ce qu'il y a ?",
         game = 0,
         video = {
@@ -26140,6 +26420,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'avais pas d'autre choix que de tout dire à Yoshino.",
         game = 0,
         video = {
@@ -26233,6 +26514,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'était grossier, comment as-tu pu faire peur à Natsumi, nii-chan.",
         game = 0,
         video = {
@@ -26326,6 +26608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vois... Laisse-moi faire !",
         game = 0,
         video = {
@@ -26419,6 +26702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela dit, Yoshino se retourna et entra dans la chambre de Natsumi.",
         game = 0,
         video = {
@@ -26513,6 +26797,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas comme ce que Natsumi a dit",
         game = 0,
         video = {
@@ -26606,6 +26891,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Nous sommes de retour ~",
         game = 0,
         video = {
@@ -26699,6 +26985,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, ce n'est pas comme ce que Natsumi a dit !",
         game = 0,
         video = {
@@ -26792,6 +27079,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... *sniff*...",
         game = 0,
         video = {
@@ -26886,6 +27174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Rattraper le temps perdu avec Natsumi",
         game = 0,
         video = {
@@ -26979,6 +27268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tais-toi, laisse Natsumi finir.",
         game = 0,
         video = {
@@ -27072,6 +27362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai vite rattrapé Natsumi et j'ai voulu lui expliquer ce qui venait de se passer.",
         game = 0,
         video = {
@@ -27165,6 +27456,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'expression de Kotori n'était pas si belle, l'ambiance dans l'air a pris un sérieux tournant.",
         game = 0,
         video = {
@@ -27259,6 +27551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela ne t'apportera pas le bonheur",
         game = 0,
         video = {
@@ -27353,6 +27646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -27446,6 +27740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peut-être... que %s aimaient trop le corps de ma grande sœur, son visage timide était aussi mignon...",
         game = 0,
         video = {
@@ -27539,6 +27834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je caressais la tête de Natsumi pour la réconforter.",
         game = 0,
         video = {
@@ -27632,6 +27928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis arrivé à l'appartement des esprits et j'ai regardé autour de moi avec anxiété.",
         game = 0,
         video = {
@@ -27725,6 +28022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, ne dis pas des choses aussi trompeuses !",
         game = 0,
         video = {
@@ -27818,6 +28116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, cela ne t'apportera pas le bonheur.",
         game = 0,
         video = {
@@ -27911,6 +28210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, comment as-tu pu faire de telles choses tôt le matin. C'est tellement ennuyeux !",
         game = 0,
         video = {
@@ -28005,6 +28305,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? Que... veux-tu dire ?",
         game = 0,
         video = {
@@ -28098,6 +28399,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Penser comme ça te rend triste, et ton quotidien se terminera dans la tristesse.",
         game = 0,
         video = {
@@ -28191,6 +28493,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... mais est-ce que quelqu'un aimerait vraiment quelqu'un comme moi ?",
         game = 0,
         video = {
@@ -28284,6 +28587,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr ! Si tu gardes une attitude positive.",
         game = 0,
         video = {
@@ -28377,6 +28681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comme... Yoshino ?",
         game = 0,
         video = {
@@ -28470,6 +28775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est vrai, tu devrais suivre l'exemple de Yoshino et être un gentil petit ange !",
         game = 0,
         video = {
@@ -28563,6 +28869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... ! Yoshino est mon... ange.",
         game = 0,
         video = {
@@ -28656,6 +28963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est pourquoi tu dois travailler dur pour vaincre ces sentiments négatifs à l'avenir !",
         game = 0,
         video = {
@@ -28749,6 +29057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "D'accord...",
         game = 0,
         video = {
@@ -28842,6 +29151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je souris et je caresse la tête de Natsumi.",
         game = 0,
         video = {
@@ -28935,6 +29245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il se fait tard. On rentre ?",
         game = 0,
         video = {
@@ -29028,6 +29339,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr !",
         game = 0,
         video = {
@@ -29120,6 +29432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Laisse-moi le faire",
         game = 0,
         video = {
@@ -29213,6 +29526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Je ne peux pas ?",
         game = 0,
         video = {
@@ -29306,6 +29620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Acheter des fleurs fraîches",
         game = 0,
         video = {
@@ -29399,6 +29714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Laisse-moi préparer le petit déjeuner cette fois-ci pour remercier Natsumi d'avoir nettoyé la chambre.",
         game = 0,
         video = {
@@ -29492,6 +29808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Des fleurs fraîches ?",
         game = 0,
         video = {
@@ -29585,6 +29902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... ok, désolé de t'avoir dérangé, %s.",
         game = 0,
         video = {
@@ -29678,6 +29996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Parce que... J'aime quand Natsumi devient sérieuse",
         game = 0,
         video = {
@@ -29771,6 +30090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Natsumi doit vraiment aimer un bouquet de fleurs fraîches.",
         game = 0,
         video = {
@@ -29864,6 +30184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -29957,6 +30278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... !",
         game = 0,
         video = {
@@ -30050,6 +30372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... ! Comparées aux fleurs en plastique, les fleurs fraîches ont une couleur plus vive et un parfum plus naturel.",
         game = 0,
         video = {
@@ -30144,6 +30467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30237,6 +30561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi !",
         game = 0,
         video = {
@@ -30330,6 +30655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dans ce cas...",
         game = 0,
         video = {
@@ -30424,6 +30750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vingt minutes plus tard, j'ai apporté le petit déjeuner chaud à la table.",
         game = 0,
         video = {
@@ -30517,6 +30844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30610,6 +30938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi s'est-elle enfuie soudainement ? Ai-je dit quelque chose de mal ?",
         game = 0,
         video = {
@@ -30704,6 +31033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30797,6 +31127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai saisi Natsumi avec précipitation avant qu'elle ne puisse s'enfuir.",
         game = 0,
         video = {
@@ -30890,6 +31221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Laisse-moi... partir.",
         game = 0,
         video = {
@@ -30983,6 +31315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce qui ne va pas chez toi ? Est-ce que j'ai dit quelque chose de mal ?",
         game = 0,
         video = {
@@ -31076,6 +31409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vais la retrouver après le petit déjeuner",
         game = 0,
         video = {
@@ -31169,6 +31503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -31262,6 +31597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est bien, tu as une bonne perception.",
         game = 0,
         video = {
@@ -31355,6 +31691,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Regardons les autres le faire",
         game = 0,
         video = {
@@ -31448,6 +31785,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -31541,6 +31879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord !",
         game = 0,
         video = {
@@ -31635,6 +31974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -31728,6 +32068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je préfère l'ikebana de couleurs fraîches",
         game = 0,
         video = {
@@ -31821,6 +32162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -31920,6 +32262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... !",
         game = 0,
         video = {
@@ -32013,6 +32356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Des roses bleues, des hortensias violets, des fleurs en forme de ballon... des fleurs de couleur fraîche comme celles-ci.",
         game = 0,
         video = {
@@ -32106,6 +32450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tout le monde... a une idée différente.",
         game = 0,
         video = {
@@ -32199,6 +32544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi Natsumi est-elle ici ?!",
         game = 0,
         video = {
@@ -32292,6 +32638,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je... les aime aussi.",
         game = 0,
         video = {
@@ -32385,6 +32732,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi me chuchota après s'être cachée derrière pour observer l'ikebana fait par un enfant, un couple et une vieille dame.",
         game = 0,
         video = {
@@ -32478,6 +32826,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien... bonjour.",
         game = 0,
         video = {
@@ -32571,6 +32920,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et alors ? Tu aimes aussi les fleurs de couleur fraîche, Natsumi ?",
         game = 0,
         video = {
@@ -32664,6 +33014,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, comme tout le monde a des humeurs et des goûts différents, leur ikebana varie aussi en termes de style.",
         game = 0,
         video = {
@@ -32757,6 +33108,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bonjour... J'étais sur le point d'aller te trouver.",
         game = 0,
         video = {
@@ -32851,6 +33203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "En guise de compensation, allons à un rendez-vous",
         game = 0,
         video = {
@@ -32944,6 +33297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quel est l'ikebana que %s préfèrent ?",
         game = 0,
         video = {
@@ -33037,6 +33391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, nous pouvons...",
         game = 0,
         video = {
@@ -33130,6 +33485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dans ce cas, en guise de compensation, allons à un rendez-vous !",
         game = 0,
         video = {
@@ -33223,6 +33579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mon ikebana préféré est...",
         game = 0,
         video = {
@@ -33319,6 +33676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Invite les deux à traîner",
         game = 0,
         video = {
@@ -33412,6 +33770,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ça a l'air intéressant, ça fera l'affaire ~",
         game = 0,
         video = {
@@ -33505,6 +33864,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu t'es dit : \"si elle devient sérieuse pour faire d'autres choses, alors je n'ai pas besoin de lui parler ou de lui sourire\", n'est-ce pas ?",
         game = 0,
         video = {
@@ -33598,6 +33958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Désolé pour ce que j'ai fait. En compensation, si je traînais avec vous deux ?",
         game = 0,
         video = {
@@ -33691,6 +34052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi sourit et accepta sans hésiter.",
         game = 0,
         video = {
@@ -33784,6 +34146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? Je ne penserais pas comme ça !",
         game = 0,
         video = {
@@ -33877,6 +34240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hum... J'irai si Yoshino est d'accord.",
         game = 0,
         video = {
@@ -33970,6 +34334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais tu dois me fréquenter dans ta forme originale, Natsumi !",
         game = 0,
         video = {
@@ -34063,6 +34428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et tu as aussi pensé : \"elle ne devient jamais sérieuse pour faire quelque chose\"...",
         game = 0,
         video = {
@@ -34156,6 +34522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dans ce cas... alors, allons-y ensemble ?",
         game = 0,
         video = {
@@ -34249,6 +34616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Se pourrait-il que %s n'aime pas mon look actuel ?",
         game = 0,
         video = {
@@ -34342,6 +34710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non, je ne penserais pas à Natsumi comme ça, en fait...",
         game = 0,
         video = {
@@ -34435,6 +34804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ton pardon signifie beaucoup pour moi, allons-y ~",
         game = 0,
         video = {
@@ -34528,6 +34898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non, pas comme ça, mais je préfère ton look original !",
         game = 0,
         video = {
@@ -34621,6 +34992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis gratté la tête et je ne savais pas comment expliquer à Natsumi.",
         game = 0,
         video = {
@@ -34714,6 +35086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr !",
         game = 0,
         video = {
@@ -34807,6 +35180,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, d'accord... Je peux accepter cette condition ~",
         game = 0,
         video = {
@@ -34900,6 +35274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Désolé... d'avoir causé tant de problèmes à %s.",
         game = 0,
         video = {
@@ -34993,6 +35368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh, d'accord... !",
         game = 0,
         video = {
@@ -35086,6 +35462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -35179,6 +35556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai pensé comme ça avant de m'en rendre compte...",
         game = 0,
         video = {
@@ -35272,6 +35650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -35365,6 +35744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... maintenant... pouvons-nous sortir ensemble ?",
         game = 0,
         video = {
@@ -35458,6 +35838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, je sais que tu ne le pensais pas.",
         game = 0,
         video = {
@@ -35552,6 +35933,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -35645,6 +36027,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, c'est mieux ! Allons-y.",
         game = 0,
         video = {
@@ -35738,6 +36121,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis inutile, c'est vrai...",
         game = 0,
         video = {
@@ -35831,6 +36215,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comme nous en avions convenu, j'ai emmené Natsumi et Yoshino au parc.",
         game = 0,
         video = {
@@ -35925,6 +36310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Allons faire une sortie",
         game = 0,
         video = {
@@ -36018,6 +36404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... jouons au swing ensemble ?",
         game = 0,
         video = {
@@ -36111,6 +36498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... aujourd'hui... bien...",
         game = 0,
         video = {
@@ -36204,6 +36592,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yoshino pointa la balançoire et regarda Natsumi avec impatience.",
         game = 0,
         video = {
@@ -36298,6 +36687,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "N'aie pas peur, tu es le meilleur",
         game = 0,
         video = {
@@ -36391,6 +36781,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il fait assez beau, pourquoi ne pas sortir ensemble ?",
         game = 0,
         video = {
@@ -36484,6 +36875,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Est-ce qu'on peut... ?",
         game = 0,
         video = {
@@ -36577,6 +36969,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, n'aie pas peur, tu es la meilleure !",
         game = 0,
         video = {
@@ -36670,6 +37063,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein... ? Sortir... ?!",
         game = 0,
         video = {
@@ -36763,6 +37157,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi a été attirée par diverses fleurs et plantes fraîches lorsque nous sommes passés devant le fleuriste.",
         game = 0,
         video = {
@@ -36856,6 +37251,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je caressais la tête de Natsumi pour la réconforter.",
         game = 0,
         video = {
@@ -36949,6 +37345,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, tu ne veux pas ça, Natsumi ?",
         game = 0,
         video = {
@@ -37042,6 +37439,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Devrions-nous entrer et jeter un coup d'œil ?",
         game = 0,
         video = {
@@ -37135,6 +37533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... ?",
         game = 0,
         video = {
@@ -37228,6 +37627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... pas... du tout...",
         game = 0,
         video = {
@@ -37321,6 +37721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Est-ce qu'on peut ?",
         game = 0,
         video = {
@@ -37414,6 +37815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, alors ne t'inquiète pas du regard des autres.",
         game = 0,
         video = {
@@ -37507,6 +37909,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, dans ce cas, attends que je prépare un bento pour deux, d'accord ?",
         game = 0,
         video = {
@@ -37600,6 +38003,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, je vais faire de mon mieux pour satisfaire Natsumi aujourd'hui.",
         game = 0,
         video = {
@@ -37693,6 +38097,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... je ne peux pas...",
         game = 0,
         video = {
@@ -37786,6 +38191,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, allons-y ensemble ~",
         game = 0,
         video = {
@@ -37880,6 +38286,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -37973,6 +38380,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est bon, habituons-nous lentement.",
         game = 0,
         video = {
@@ -38066,6 +38474,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38159,6 +38568,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il y a beaucoup de clients dans le magasin de fleurs aujourd'hui.",
         game = 0,
         video = {
@@ -38252,6 +38662,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Je comprends...",
         game = 0,
         video = {
@@ -38346,6 +38757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38439,6 +38851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quelques clients se sont réunis autour d'une table dans le magasin de fleurs et ont fait quelque chose d'intense.",
         game = 0,
         video = {
@@ -38532,6 +38945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ensuite, allons voir le paysage sur la terrasse d'observation ?",
         game = 0,
         video = {
@@ -38625,6 +39039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai emmené Natsumi dans le parc rempli d'une brise fraîche et du parfum des plantes et des arbres.",
         game = 0,
         video = {
@@ -38718,6 +39133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tant de gens... que font-ils ?",
         game = 0,
         video = {
@@ -38811,6 +39227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ok, allons-y ensemble...",
         game = 0,
         video = {
@@ -38904,6 +39321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ces clients font de l'ikebana, aujourd'hui c'est le jour de l'expérience ikebana de notre magasin.",
         game = 0,
         video = {
@@ -38997,6 +39415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -39090,6 +39509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Une journée d'ikebana, pas étonnant qu'il y ait eu tant de monde.",
         game = 0,
         video = {
@@ -39184,6 +39604,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -39277,6 +39698,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que... ils... peuvent ramener leur travail à la maison ?",
         game = 0,
         video = {
@@ -39370,6 +39792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il se faisait tard, Natsumi et moi avions passé toute une journée à nous promener.",
         game = 0,
         video = {
@@ -39463,6 +39886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ils peuvent le reprendre pour un petit prix s'ils le souhaitent.",
         game = 0,
         video = {
@@ -39556,6 +39980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les rues au crépuscule étaient recouvertes d'une couche d'or, tandis que des feuilles rouges tombaient des érables au loin.",
         game = 0,
         video = {
@@ -39649,6 +40074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Je vois.",
         game = 0,
         video = {
@@ -39742,6 +40168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est si joli...",
         game = 0,
         video = {
@@ -39835,6 +40262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi semblait intéressée...",
         game = 0,
         video = {
@@ -39930,6 +40358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, une telle vue est assez rare.",
         game = 0,
         video = {
@@ -40023,6 +40452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... regarde...",
         game = 0,
         video = {
@@ -40116,6 +40546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi regarda attentivement une feuille d'érable qui tombait lentement.",
         game = 0,
         video = {
@@ -40209,6 +40640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et un autre œuf au plat ?",
         game = 0,
         video = {
@@ -40302,6 +40734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non !",
         game = 0,
         video = {
@@ -40395,6 +40828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "On achète des fleurs ?",
         game = 0,
         video = {
@@ -40488,6 +40922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Est-ce que je peux ?",
         game = 0,
         video = {
@@ -40581,6 +41016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'ikebana du couple",
         game = 0,
         video = {
@@ -40674,6 +41110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, il y a beaucoup de choix dans le magasin de fleurs, en plus des fleurs fraîches et des fleurs séchées, tu peux aussi acheter des graines de fleurs pour les planter chez toi.",
         game = 0,
         video = {
@@ -40767,6 +41204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh... un couple enviable.",
         game = 0,
         video = {
@@ -40860,6 +41298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... oui, ils semblent très proches.",
         game = 0,
         video = {
@@ -40953,6 +41392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le garçon a tenu la main de la fille pour faire l'ikebana ensemble tout en se serrant et en se souriant de temps en temps.",
         game = 0,
         video = {
@@ -41046,6 +41486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... pourquoi préfères-tu leur ikebana ?",
         game = 0,
         video = {
@@ -41139,6 +41580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Eh bien... probablement à cause de leur amour.",
         game = 0,
         video = {
@@ -41232,6 +41674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Leur amour ?",
         game = 0,
         video = {
@@ -41325,6 +41768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Ils s'aiment bien, c'est pour cela que leur ikebana révèle leur amour.",
         game = 0,
         video = {
@@ -41418,6 +41862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que c'est... ainsi ?",
         game = 0,
         video = {
@@ -41511,6 +41956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, bien sûr. Tu vois, la forme de leur ikebana est celle d'un cœur aimant.",
         game = 0,
         video = {
@@ -41604,6 +42050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui ! Un cœur aimant fait de roses rouges.",
         game = 0,
         video = {
@@ -41697,6 +42144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le choix des roses et la forme d'un cœur aimant sont l'expression de l'amour.",
         game = 0,
         video = {
@@ -41790,6 +42238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... Hmm ! Je... l'aime aussi.",
         game = 0,
         video = {
@@ -41883,6 +42332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les yeux de Natsumi brillaient d'une lumière différente.",
         game = 0,
         video = {
@@ -41977,6 +42427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Demande à Natsumi de t'expliquer",
         game = 0,
         video = {
@@ -42070,6 +42521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'ai rien fait ! Natsumi, explique-lui !",
         game = 0,
         video = {
@@ -42164,6 +42616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Jouons au jeu de l'escalier ?",
         game = 0,
         video = {
@@ -42257,6 +42710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... tu me détestes vraiment à ce point ?",
         game = 0,
         video = {
@@ -42350,6 +42804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... tu veux jouer au jeu des escaliers ?",
         game = 0,
         video = {
@@ -42443,6 +42898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas ce que je voulais dire, je veux juste que tu clarifies le malentendu.",
         game = 0,
         video = {
@@ -42537,6 +42993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fais semblant de ne pas avoir trouvé Natsumi",
         game = 0,
         video = {
@@ -42630,6 +43087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... qu'est-ce que c'est que ça ?",
         game = 0,
         video = {
@@ -42723,6 +43181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... tout ce que j'ai dit est vrai...",
         game = 0,
         video = {
@@ -42816,6 +43275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Où es-tu ? Si difficile à trouver...",
         game = 0,
         video = {
@@ -42909,6 +43369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu n'as jamais joué avant, Natsumi ?",
         game = 0,
         video = {
@@ -43002,6 +43463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'étais pas timide parce que j'aimais le corps de la grande sœur, et tu es juste venu me réveiller, n'est-ce pas ?",
         game = 0,
         video = {
@@ -43095,6 +43557,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Faisant semblant de ne pas avoir vu Natsumi se cacher derrière l'herbe, j'ai continué ma recherche pendant un moment.",
         game = 0,
         video = {
@@ -43188,6 +43651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... que devrions-nous faire... ?",
         game = 0,
         video = {
@@ -43281,6 +43745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "*Sob*... donc %s n'aiment pas non plus mon corps de grande sœur... tu me détestes de bout en bout !",
         game = 0,
         video = {
@@ -43374,6 +43839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi est en effet une experte en cache-cache...",
         game = 0,
         video = {
@@ -43467,6 +43933,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je peux t'apprendre, c'est très intéressant...",
         game = 0,
         video = {
@@ -43560,6 +44027,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi s'est enfuie avant que je puisse lui expliquer.",
         game = 0,
         video = {
@@ -43656,6 +44124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -43749,6 +44218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après avoir expliqué à Natsumi les règles de base, nous avons commencé notre jeu.",
         game = 0,
         video = {
@@ -43842,6 +44312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bon, je devrais aller voir Fraxinus.",
         game = 0,
         video = {
@@ -43935,6 +44406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je marchais naturellement vers l'herbe pendant ma recherche.",
         game = 0,
         video = {
@@ -44028,6 +44500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Commençons, le thème est le fruit, je suis poire, faites quatre pas.",
         game = 0,
         video = {
@@ -44121,6 +44594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai regardé autour du salon vide et je ne savais pas quoi faire.",
         game = 0,
         video = {
@@ -44214,6 +44688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Au moment où j'allais révéler Natsumi, il y eut un coup de vent.",
         game = 0,
         video = {
@@ -44307,6 +44782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... je suis banane...",
         game = 0,
         video = {
@@ -44400,6 +44876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est vrai ! Je dois trouver Natsumi rapidement, elle a tendance à perdre facilement le contrôle de ses émotions...",
         game = 0,
         video = {
@@ -44494,6 +44971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -44587,6 +45065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est vrai, Natsumi est assez bon pour un joueur débutant ! Maintenant, c'est mon tour...",
         game = 0,
         video = {
@@ -44682,6 +45161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -44775,6 +45255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... le vent se lève ~",
         game = 0,
         video = {
@@ -44868,6 +45349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est étrange... Je pensais qu'elle était partie par là, où est-elle ?",
         game = 0,
         video = {
@@ -44961,6 +45443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se tenait derrière l'herbe dans sa forme adulte.",
         game = 0,
         video = {
@@ -45054,6 +45537,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi n'était plus dans la rue, mais il fallait que je la trouve rapidement.",
         game = 0,
         video = {
@@ -45146,6 +45630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouah... Natsumi, pourquoi as-tu...",
         game = 0,
         video = {
@@ -45239,6 +45724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La deuxième moitié de ma phrase était bloquée dans ma gorge par le bruit du vent.",
         game = 0,
         video = {
@@ -45332,6 +45818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Chut... Je n'entends plus %s maintenant ~ Approche-toi un peu plus près ?",
         game = 0,
         video = {
@@ -45425,6 +45912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi tint son chapeau d'une main et me fit signe de m'approcher.",
         game = 0,
         video = {
@@ -45518,6 +46006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu m'as trouvé...",
         game = 0,
         video = {
@@ -45611,6 +46100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi peut-elle faire quelque chose à ce sujet",
         game = 0,
         video = {
@@ -45704,6 +46194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi me regarda avec un léger sourire dans sa forme mature, me faisant rougir instantanément.",
         game = 0,
         video = {
@@ -45797,6 +46288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que tu me le demandes ?",
         game = 0,
         video = {
@@ -45890,6 +46382,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je t'ai trouvé par chance.",
         game = 0,
         video = {
@@ -45983,6 +46476,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, il n'y a personne d'autre ici, n'est-ce pas ?",
         game = 0,
         video = {
@@ -46076,6 +46570,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, je peux t'accorder un souhait, n'importe lequel",
         game = 0,
         video = {
@@ -46168,6 +46663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... pourquoi tu me demandes ?",
         game = 0,
         video = {
@@ -46261,6 +46757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je veux aussi sortir avec Natsumi",
         game = 0,
         video = {
@@ -46354,6 +46851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quoi ?",
         game = 0,
         video = {
@@ -46447,6 +46945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Que dois-je prendre pour le petit-déjeuner...",
         game = 0,
         video = {
@@ -46540,6 +47039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu n'as pas besoin de te précipiter, sérieusement...",
         game = 0,
         video = {
@@ -46633,6 +47133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -46726,6 +47227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je veux dire... Je fais toujours des bêtises, comment quelqu'un comme moi... peut-il m'aider ?",
         game = 0,
         video = {
@@ -46819,6 +47321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Stupide, c'est impossible.",
         game = 0,
         video = {
@@ -46912,6 +47415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, se sentir aimé et donner de l'amour, les deux te rendent heureux.",
         game = 0,
         video = {
@@ -47005,6 +47509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... L'amour est une chose merveilleuse.",
         game = 0,
         video = {
@@ -47098,6 +47603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas vrai. Je pense que Natsumi a souvent de bonnes idées.",
         game = 0,
         video = {
@@ -47191,6 +47697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah ! Natsumi, tu t'approches trop près !",
         game = 0,
         video = {
@@ -47285,6 +47792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -47378,6 +47886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je peux tout faire avec %s ~",
         game = 0,
         video = {
@@ -47471,6 +47980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Vraiment ?",
         game = 0,
         video = {
@@ -47564,6 +48074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Revenons demain à la boutique de fleurs.",
         game = 0,
         video = {
@@ -47657,6 +48168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De toute façon... Je vais faire de mon mieux !",
         game = 0,
         video = {
@@ -47751,6 +48263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -47844,6 +48357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, en effet, alors Natsumi peut-elle m'aider à trouver une solution ?",
         game = 0,
         video = {
@@ -47937,6 +48451,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hmm ? J'ai des options ?",
         game = 0,
         video = {
@@ -48030,6 +48545,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Du bacon frit, des toasts brûlés et du lait qui a été réduit à moitié...",
         game = 0,
         video = {
@@ -48123,6 +48639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein... ?",
         game = 0,
         video = {
@@ -48216,6 +48733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... on peut sortir l'ampoule et la sécher avec un sèche-cheveux.",
         game = 0,
         video = {
@@ -48309,6 +48827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est mauvais... au goût !",
         game = 0,
         video = {
@@ -48402,6 +48921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment ?",
         game = 0,
         video = {
@@ -48495,6 +49015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Acheter des fleurs séchées",
         game = 0,
         video = {
@@ -48588,6 +49109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ensuite, on le replante après que l'eau du sol se soit évaporée.",
         game = 0,
         video = {
@@ -48681,6 +49203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi est déjà assez bonne",
         game = 0,
         video = {
@@ -48774,6 +49297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu as juste besoin de plus de pratique",
         game = 0,
         video = {
@@ -48867,6 +49391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi choisir des fleurs séchées ?",
         game = 0,
         video = {
@@ -48960,6 +49485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha... une idée que seul Natsumi pourrait trouver.",
         game = 0,
         video = {
@@ -49053,6 +49579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas vrai !",
         game = 0,
         video = {
@@ -49147,6 +49674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Veux-tu le faire avec moi ?",
         game = 0,
         video = {
@@ -49241,6 +49769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -49334,6 +49863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "D'accord, essayons.",
         game = 0,
         video = {
@@ -49427,6 +49957,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh, je vois, je suis trop maladroit... je ne peux rien faire de bien.",
         game = 0,
         video = {
@@ -49520,6 +50051,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Je veux le faire avec %s.",
         game = 0,
         video = {
@@ -49613,6 +50145,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, il est l'heure de se réveiller ~",
         game = 0,
         video = {
@@ -49706,6 +50239,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela dit, j'ai retiré le bulbe du pot de fleurs et j'ai enlevé l'humidité de sa surface avec un sèche-cheveux.",
         game = 0,
         video = {
@@ -49799,6 +50333,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "En versant comme ça, tu pourrais encore renverser la soupe chaude, tu devrais utiliser une grande cuillère, tu vois...",
         game = 0,
         video = {
@@ -49892,6 +50427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "En fait... Je ne suis pas doué pour l'ikebana, mais si Natsumi le souhaite, nous pouvons essayer ensemble.",
         game = 0,
         video = {
@@ -49985,6 +50521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai entendu quelqu'un parler dans mon oreille et je me suis peu à peu réveillé d'un profond sommeil.",
         game = 0,
         video = {
@@ -50078,6 +50615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et si... ça ne marche pas ?",
         game = 0,
         video = {
@@ -50171,6 +50709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis empressé d'arrêter Natsumi alors qu'elle allait verser tout le varech en une seule fois.",
         game = 0,
         video = {
@@ -50264,6 +50803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Il suffit de verser le varech à l'intérieur... Attends !",
         game = 0,
         video = {
@@ -50360,6 +50900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -50453,6 +50994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, on peut aller en acheter un autre.",
         game = 0,
         video = {
@@ -50546,6 +51088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Vraiment ?",
         game = 0,
         video = {
@@ -50639,6 +51182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est... bien ? Le tofu est un peu écrasé cependant.",
         game = 0,
         video = {
@@ -50732,6 +51276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... laisse-moi dormir un peu plus longtemps...",
         game = 0,
         video = {
@@ -50825,6 +51370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...OK.",
         game = 0,
         video = {
@@ -50918,6 +51464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... ! La soupe au miso !",
         game = 0,
         video = {
@@ -51011,6 +51558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un peu de rouge... rien de grave.",
         game = 0,
         video = {
@@ -51104,6 +51652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, rester au lit n'est pas une bonne habitude ~ Ou as-tu besoin que je te réveille d'une manière spéciale ?",
         game = 0,
         video = {
@@ -51197,6 +51746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De toute façon, on le replante demain et on l'observe un peu.",
         game = 0,
         video = {
@@ -51290,6 +51840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est vraiment rien...",
         game = 0,
         video = {
@@ -51383,6 +51934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vite, laisse-moi regarder.",
         game = 0,
         video = {
@@ -51476,6 +52028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... Natsumi... Attends ! Natsumi ?!",
         game = 0,
         video = {
@@ -51569,6 +52122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... hmm.",
         game = 0,
         video = {
@@ -51662,6 +52216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As-tu... été brûlé par les éclaboussures d'eau chaude ?",
         game = 0,
         video = {
@@ -51755,6 +52310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se cacha les mains derrière et détourna le regard de honte.",
         game = 0,
         video = {
@@ -51848,6 +52404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, bonjour ~",
         game = 0,
         video = {
@@ -51941,6 +52498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Merci d'avoir trouvé un remède.",
         game = 0,
         video = {
@@ -52034,6 +52592,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... rien !",
         game = 0,
         video = {
@@ -52127,6 +52686,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce qui ne va pas ?",
         game = 0,
         video = {
@@ -52226,6 +52786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouah ! Pourquoi es-tu ici...",
         game = 0,
         video = {
@@ -52319,6 +52880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... ce n'est rien, comparé aux ennuis que j'ai causés...",
         game = 0,
         video = {
@@ -52412,6 +52974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Elle... doit se moquer de moi.",
         game = 0,
         video = {
@@ -52505,6 +53068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas ça, elle a juste trouvé ton ikebana magnifique. C'est naturel pour elle de penser que tu veux le ramener à la maison.",
         game = 0,
         video = {
@@ -52598,6 +53162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se penchait et me regardait de près.",
         game = 0,
         video = {
@@ -52691,6 +53256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ne dis pas ça, Natsumi n'a pas causé beaucoup de problèmes.",
         game = 0,
         video = {
@@ -52784,6 +53350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi devrait essayer",
         game = 0,
         video = {
@@ -52877,6 +53444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... Je ne peux pas toujours... contrôler les pensées négatives.",
         game = 0,
         video = {
@@ -52970,6 +53538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Trop, trop près !",
         game = 0,
         video = {
@@ -53063,6 +53632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi a nettoyé la chambre aujourd'hui, n'est-ce pas ? Et tu as aussi trouvé un remède.",
         game = 0,
         video = {
@@ -53156,6 +53726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... !",
         game = 0,
         video = {
@@ -53249,6 +53820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dans ce cas, en guise de compensation, sortons !",
         game = 0,
         video = {
@@ -53342,6 +53914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis immédiatement réveillé et je me suis levé pour garder une distance avec Natsumi.",
         game = 0,
         video = {
@@ -53435,6 +54008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -53528,6 +54102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je... ne sais pas comment faire.",
         game = 0,
         video = {
@@ -53622,6 +54197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -53715,6 +54291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -53808,6 +54385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Donc, Natsumi est aussi un Esprit qui apporte le bonheur.",
         game = 0,
         video = {
@@ -53901,6 +54479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, il suffit de suivre ton cœur.",
         game = 0,
         video = {
@@ -53994,6 +54573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fleur de ballon, symbole de l'amour",
         game = 0,
         video = {
@@ -54090,6 +54670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -54183,6 +54764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Apporte... le bonheur ?",
         game = 0,
         video = {
@@ -54276,6 +54858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne peux pas...",
         game = 0,
         video = {
@@ -54369,6 +54952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? Pourquoi choisis-tu des fleurs en forme de ballon ?",
         game = 0,
         video = {
@@ -54462,6 +55046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr que je suis là pour réveiller un petit copain ~",
         game = 0,
         video = {
@@ -54555,6 +55140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pour te surprendre, se pourrait-il que... %s ne veuille pas me voir ?",
         game = 0,
         video = {
@@ -54648,6 +55234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi... veux-tu que je le fasse ?",
         game = 0,
         video = {
@@ -54743,6 +55330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Parce que j'aime les fleurs en ballon, c'est un symbole d'amour.",
         game = 0,
         video = {
@@ -54836,6 +55424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne parle pas de ça...",
         game = 0,
         video = {
@@ -54929,6 +55518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pendant qu'elle parlait, Natsumi a levé mon menton avec un doigt.",
         game = 0,
         video = {
@@ -55022,6 +55612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -55115,6 +55706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... De l'amour ?",
         game = 0,
         video = {
@@ -55208,6 +55800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ? Qu'est-ce que c'est alors ?",
         game = 0,
         video = {
@@ -55303,6 +55896,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Ah ! Ne fais pas un geste aussi frivole !",
         game = 0,
         video = {
@@ -55396,6 +55990,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je... peux le faire...",
         game = 0,
         video = {
@@ -55490,6 +56085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Invite Natsumi à venir traîner",
         game = 0,
         video = {
@@ -55583,6 +56179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Tu es le bienvenu.",
         game = 0,
         video = {
@@ -55676,6 +56273,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Jusqu'à ce jour, je ne pouvais toujours pas affronter avec sérénité la grande sœur mature de Natsumi.",
         game = 0,
         video = {
@@ -55769,6 +56367,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Je n'ai pas mangé de petit déjeuner traditionnel depuis longtemps.",
         game = 0,
         video = {
@@ -55862,6 +56461,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Désolé pour ce que j'ai fait. En compensation, si je traînais avec toi ?",
         game = 0,
         video = {
@@ -55955,6 +56555,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bon... Natsumi.",
         game = 0,
         video = {
@@ -56048,6 +56649,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai donc été forcé de reculer par l'avance de Natsumi.",
         game = 0,
         video = {
@@ -56142,6 +56744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Apprends à Natsumi",
         game = 0,
         video = {
@@ -56235,6 +56838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... quelqu'un comme moi...",
         game = 0,
         video = {
@@ -56328,6 +56932,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -56421,6 +57026,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le mur est juste derrière ton dos, se pourrait-il que...",
         game = 0,
         video = {
@@ -56514,6 +57120,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Rien de tel ! Tu as trop réfléchi.",
         game = 0,
         video = {
@@ -56607,6 +57214,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi baissa la tête et tripota nerveusement sa jupe.",
         game = 0,
         video = {
@@ -56701,6 +57309,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -56794,6 +57403,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s veuille être coincé par le mur ?",
         game = 0,
         video = {
@@ -56887,6 +57497,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... J'ai senti leur regard...",
         game = 0,
         video = {
@@ -56980,6 +57591,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, sois plus confiante... !",
         game = 0,
         video = {
@@ -57073,6 +57685,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hmm ?",
         game = 0,
         video = {
@@ -57169,6 +57782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "S'enfuir en panique",
         game = 0,
         video = {
@@ -57262,6 +57876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis éclairci la gorge comme un professeur.",
         game = 0,
         video = {
@@ -57355,6 +57970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est ça ! Laisse %s te compenser ~",
         game = 0,
         video = {
@@ -57448,6 +58064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors que Natsumi se tournait vers moi dans la confusion, j'ai pris le risque de lui mettre la couronne sur la tête.",
         game = 0,
         video = {
@@ -57541,6 +58158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La transpiration et le cœur qui bat, j'ai presque oublié de respirer.",
         game = 0,
         video = {
@@ -57634,6 +58252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Si tu veux vivre heureux, tu dois apprendre à ignorer la façon dont les autres te voient.",
         game = 0,
         video = {
@@ -57727,6 +58346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dans ce cas... ok...",
         game = 0,
         video = {
@@ -57820,6 +58440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Elle te va bien.",
         game = 0,
         video = {
@@ -57913,6 +58534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Parce que j'observe attentivement l'expression de %s ~",
         game = 0,
         video = {
@@ -58006,6 +58628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comment pourrais-je ignorer cela... C'est impossible...",
         game = 0,
         video = {
@@ -58099,6 +58722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -58192,6 +58816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Quoi ?",
         game = 0,
         video = {
@@ -58285,6 +58910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi observes-tu mon expression ?",
         game = 0,
         video = {
@@ -58378,6 +59004,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il semblait que mon discours ne fonctionnait pas et Natsumi était encore plus déprimée.",
         game = 0,
         video = {
@@ -58472,6 +59099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -58565,6 +59193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La couronne en coton, je viens de la faire pour toi.",
         game = 0,
         video = {
@@ -58658,6 +59287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, bien sûr, c'est parce que tu es mignon quand tu rougis ~",
         game = 0,
         video = {
@@ -58751,6 +59381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Eh bien...",
         game = 0,
         video = {
@@ -58844,6 +59475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après avoir passé une journée, j'ai pris la main de Natsumi et je suis rentré.",
         game = 0,
         video = {
@@ -58937,6 +59569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Pour moi ? C'est la première fois que je reçois un tel cadeau... merci.",
         game = 0,
         video = {
@@ -59036,6 +59669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et à qui la faute... Non, n'approche pas !",
         game = 0,
         video = {
@@ -59129,6 +59763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... revenons en arrière...",
         game = 0,
         video = {
@@ -59222,6 +59857,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, tu t'amuses bien aujourd'hui ?",
         game = 0,
         video = {
@@ -59315,6 +59951,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De rien ~ Natsumi est si mignonne avec une couronne.",
         game = 0,
         video = {
@@ -59408,6 +60045,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non ~ Je n'ai pas assez regardé, je dois en regarder d'autres ~",
         game = 0,
         video = {
@@ -59501,6 +60139,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela dit, Natsumi s'en alla d'elle-même.",
         game = 0,
         video = {
@@ -59593,6 +60232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il y a... beaucoup de monde aujourd'hui...",
         game = 0,
         video = {
@@ -59686,6 +60326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Mignon, moi ?",
         game = 0,
         video = {
@@ -59780,6 +60421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas la bonne façon de s'entendre",
         game = 0,
         video = {
@@ -59873,6 +60515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Riz, jambon et soupe au miso, c'est ça ?",
         game = 0,
         video = {
@@ -59966,6 +60609,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Qu'est-ce qu'il y a de mal à ça ?",
         game = 0,
         video = {
@@ -60059,6 +60703,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Natsumi est très mignonne aujourd'hui.",
         game = 0,
         video = {
@@ -60152,6 +60797,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je pris une grande respiration et parlai patiemment.",
         game = 0,
         video = {
@@ -60245,6 +60891,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après le petit déjeuner, j'ai décidé d'organiser les articles divers.",
         game = 0,
         video = {
@@ -60338,6 +60985,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai l'impression que tout le monde me regarde. C'est parce que... ils ne m'aiment pas ?",
         game = 0,
         video = {
@@ -60433,6 +61081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sois sérieux et bat Natsumi",
         game = 0,
         video = {
@@ -60527,6 +61176,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -60621,6 +61271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -60714,6 +61365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -60807,6 +61459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fraise, fais dix pas !",
         game = 0,
         video = {
@@ -60906,6 +61559,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh, pourquoi est-ce arrivé si tôt le matin... Ouah !",
         game = 0,
         video = {
@@ -60999,6 +61653,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord !",
         game = 0,
         video = {
@@ -61092,6 +61747,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment, tu vois, je les ai tous mangés !",
         game = 0,
         video = {
@@ -61185,6 +61841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est tellement incroyable...",
         game = 0,
         video = {
@@ -61278,6 +61935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Une petite Natsumi à l'expression ennuyante est apparue devant moi.",
         game = 0,
         video = {
@@ -61371,6 +62029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis tombé accidentellement en me dépêchant de sortir de la chambre.",
         game = 0,
         video = {
@@ -61464,6 +62123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Vraiment ?",
         game = 0,
         video = {
@@ -61557,6 +62217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, qu'est-ce que tu en dis, tu peux trouver un mot plus long ?",
         game = 0,
         video = {
@@ -61650,6 +62311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et c'était en fait la même personne que la femme mûre qui venait de disparaître.",
         game = 0,
         video = {
@@ -61743,6 +62405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ne sois pas si excité, %s, tu vas bien ?",
         game = 0,
         video = {
@@ -61838,6 +62501,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... c'est bon, juste un peu trop frit, encore comestible.",
         game = 0,
         video = {
@@ -61931,6 +62595,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... j'ai perdu...",
         game = 0,
         video = {
@@ -62024,6 +62689,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le pouvoir de l'esprit... tu ne peux donc pas le maintenir longtemps ?",
         game = 0,
         video = {
@@ -62117,6 +62783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, quand j'ai commencé à cuisiner, c'était difficile à avaler.",
         game = 0,
         video = {
@@ -62210,6 +62877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les sourcils de Natsumi se sont plissés après avoir pris une première bouchée de lard.",
         game = 0,
         video = {
@@ -62303,6 +62971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -62396,6 +63065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se mit à grogner en revenant à sa forme originelle.",
         game = 0,
         video = {
@@ -62489,6 +63159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment ? %s était aussi maladroits avant ?",
         game = 0,
         video = {
@@ -62582,6 +63253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Rassure-toi, je les mangerai tous ! D'accord... c'est parti !",
         game = 0,
         video = {
@@ -62675,6 +63347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est vrai ! Comment as-tu pu intimider Natsumi, nii-chan ?!",
         game = 0,
         video = {
@@ -62768,6 +63441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouf...",
         game = 0,
         video = {
@@ -62861,6 +63535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Seule Kotori le savait parce qu'elle l'avait goûté.",
         game = 0,
         video = {
@@ -62954,6 +63629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Riz, jambon et soupe au miso",
         game = 0,
         video = {
@@ -63047,6 +63723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow... pourquoi es-tu soudainement ici ?",
         game = 0,
         video = {
@@ -63140,6 +63817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il me semblait que j'avais réussi à m'échapper de justesse.",
         game = 0,
         video = {
@@ -63233,6 +63911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est... inattendu.",
         game = 0,
         video = {
@@ -63326,6 +64005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Que veux-tu manger, %s ?",
         game = 0,
         video = {
@@ -63419,6 +64099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Excusez-nous, nous sommes ici depuis un moment...",
         game = 0,
         video = {
@@ -63512,6 +64193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... t'ai-je causé des ennuis, %s ?",
         game = 0,
         video = {
@@ -63605,6 +64287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, ce n'est qu'après un entraînement répété que j'ai atteint le niveau actuel.",
         game = 0,
         video = {
@@ -63698,6 +64381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -63791,6 +64475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yoshino... bonne journée...",
         game = 0,
         video = {
@@ -63884,6 +64569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?",
         game = 0,
         video = {
@@ -63977,6 +64663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... J'ai aussi besoin de m'entraîner davantage.",
         game = 0,
         video = {
@@ -64070,6 +64757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64163,6 +64851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hé ! Nii-chan, tu ne devrais pas profiter d'un noob du jeu de l'escalier !",
         game = 0,
         video = {
@@ -64256,6 +64945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Nettoyer la chambre sans consentement...",
         game = 0,
         video = {
@@ -64349,6 +65039,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr !",
         game = 0,
         video = {
@@ -64442,6 +65133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors que Natsumi se rapprochait, j'ai paniqué et je me suis enfui de la pièce.",
         game = 0,
         video = {
@@ -64535,6 +65227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, je l'ai pris un peu au sérieux par hasard...",
         game = 0,
         video = {
@@ -64628,6 +65321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non, au contraire, tu m'as beaucoup aidé.",
         game = 0,
         video = {
@@ -64721,6 +65415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64814,6 +65509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ou tu veux te faire un cadeau pour me récompenser ?",
         game = 0,
         video = {
@@ -64907,6 +65603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... jouons au swing ensemble ?",
         game = 0,
         video = {
@@ -65000,6 +65697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et la chambre a été très bien nettoyée.",
         game = 0,
         video = {
@@ -65094,6 +65792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -65187,6 +65886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... ! Ok ~",
         game = 0,
         video = {
@@ -65280,6 +65980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Est-ce qu'on peut... ?",
         game = 0,
         video = {
@@ -65373,6 +66074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu as bien renversé la poubelle, rayé le mur, effleuré le canapé... mais ce n'est pas important.",
         game = 0,
         video = {
@@ -65466,6 +66168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après le petit-déjeuner, je décidai de ranger la chambre.",
         game = 0,
         video = {
@@ -65559,6 +66262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Au fait, est-ce que ces gens là-bas font de l'ikebana ?",
         game = 0,
         video = {
@@ -65652,6 +66356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il semble qu'il faille le replanter",
         game = 0,
         video = {
@@ -65745,6 +66450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... C'est très bien.",
         game = 0,
         video = {
@@ -65838,6 +66544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'attends avec impatience le petit déjeuner préparé par Natsumi",
         game = 0,
         video = {
@@ -65932,6 +66639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Attends que Natsumi s'occupe de moi",
         game = 0,
         video = {
@@ -66025,6 +66733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je saisis le changement et me joins à leur conversation.",
         game = 0,
         video = {
@@ -66118,6 +66827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors, tu as pris ton petit-déjeuner ?",
         game = 0,
         video = {
@@ -66211,6 +66921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'adulte Natsumi pencha la tête près de moi et me montra une expression de \"j'écoute attentivement\".",
         game = 0,
         video = {
@@ -66304,6 +67015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, au moins tu m'as apporté le bonheur aujourd'hui.",
         game = 0,
         video = {
@@ -66397,6 +67109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dans ce cas, laisse-moi te pousser par derrière !",
         game = 0,
         video = {
@@ -66490,6 +67203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... pas encore.",
         game = 0,
         video = {
@@ -66583,6 +67297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Merci, passer du temps avec %s... m'apporte aussi... de la joie.",
         game = 0,
         video = {
@@ -66676,6 +67391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mon rendez-vous avec Natsumi au restaurant semblait gâché...",
         game = 0,
         video = {
@@ -66769,6 +67485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je pense qu'une graine trempée comme ça ne germera plus.",
         game = 0,
         video = {
@@ -66862,6 +67579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu es venu sans rien manger ? Pauvre petite chose.",
         game = 0,
         video = {
@@ -66957,6 +67675,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm !",
         game = 0,
         video = {
@@ -67049,6 +67768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh ~ Tu viens de m'ignorer ?",
         game = 0,
         video = {
@@ -67142,6 +67862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Merci %s... Yoshino, on y va ?",
         game = 0,
         video = {
@@ -67235,6 +67956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le riz a été cuit, ensuite, le jambon frit et la soupe miso.",
         game = 0,
         video = {
@@ -67328,6 +68050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, il est temps de préparer le petit déjeuner...",
         game = 0,
         video = {
@@ -67421,6 +68144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, je sais que tu ne le pensais pas.",
         game = 0,
         video = {
@@ -67514,6 +68238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, l'échec arrive souvent. Ne te décourage pas, courage.",
         game = 0,
         video = {
@@ -67607,6 +68332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Laisse-moi faire frire le jambon pendant que Natsumi se concentre sur la préparation de la soupe au miso.",
         game = 0,
         video = {
@@ -67700,6 +68426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, ne le prends pas mal, Natsumi.",
         game = 0,
         video = {
@@ -67793,6 +68520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que c'est... ainsi ?",
         game = 0,
         video = {
@@ -67886,6 +68614,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quand même... Je me sens toujours... abattu.",
         game = 0,
         video = {
@@ -67979,6 +68708,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Au son de la musique, Natsumi avait versé du tofu directement dans la soupe.",
         game = 0,
         video = {
@@ -68072,6 +68802,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce qu'elle voulait vraiment dire, c'était probablement : \"ne laisse pas de choses aussi laides dans mon magasin\".",
         game = 0,
         video = {
@@ -68165,6 +68896,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?",
         game = 0,
         video = {
@@ -68258,6 +68990,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors, allons manger un grand repas pour te remonter le moral, Natsumi.",
         game = 0,
         video = {
@@ -68357,6 +69090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... !",
         game = 0,
         video = {
@@ -68450,6 +69184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce qui ne va pas, Natsumi ?",
         game = 0,
         video = {
@@ -68546,6 +69281,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -68639,6 +69375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... peut-elle aller plus haut...",
         game = 0,
         video = {
@@ -68732,6 +69469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -68825,6 +69563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi a soudain serré le poing et s'est enfuie de la boutique de fleurs.",
         game = 0,
         video = {
@@ -68918,6 +69657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... !",
         game = 0,
         video = {
@@ -69011,6 +69751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, juste moi et Natsumi.",
         game = 0,
         video = {
@@ -69104,6 +69845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow ~ ton ikebana est très beau, tu veux le ramener à la maison ?",
         game = 0,
         video = {
@@ -69197,6 +69939,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vois.",
         game = 0,
         video = {
@@ -69290,6 +70033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De la lavande ?",
         game = 0,
         video = {
@@ -69383,6 +70127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? On dirait presque... un rendez-vous.",
         game = 0,
         video = {
@@ -69476,6 +70221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, essayons encore une fois la prochaine fois.",
         game = 0,
         video = {
@@ -69569,6 +70315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai emmené Natsumi au parc, où la brise soufflait et où les rues étaient remplies du parfum des fleurs.",
         game = 0,
         video = {
@@ -69662,6 +70409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... veux-tu réveiller Kotori ?",
         game = 0,
         video = {
@@ -69755,6 +70503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ahem... on peut dire ça, un rendez-vous entre moi et Natsumi.",
         game = 0,
         video = {
@@ -69848,6 +70597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un tel comportement m'a fait rougir un peu.",
         game = 0,
         video = {
@@ -69942,6 +70692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'ikebana de la vieille dame",
         game = 0,
         video = {
@@ -70035,6 +70786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est une vitrine ! Une vitrine !",
         game = 0,
         video = {
@@ -70128,6 +70880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un... rendez-vous !",
         game = 0,
         video = {
@@ -70221,6 +70974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ! je vois, tu as trouvé ça joli quand tu l'as vu dans une vitrine ?",
         game = 0,
         video = {
@@ -70314,6 +71068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... ça semble commun.",
         game = 0,
         video = {
@@ -70407,6 +71162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ~",
         game = 0,
         video = {
@@ -70500,6 +71256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -70593,6 +71350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, on vend ici des graines de chaque sorte de fleurs fraîches, n'est-ce pas formidable ?",
         game = 0,
         video = {
@@ -70686,6 +71444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela peut sembler insignifiant à première vue, mais ça pousse sur toi.",
         game = 0,
         video = {
@@ -70779,6 +71538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas bien de faire des bêtises et de les prendre au sérieux !",
         game = 0,
         video = {
@@ -70872,6 +71632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi rougit rapidement et se glissa sous la chaise.",
         game = 0,
         video = {
@@ -70965,6 +71726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est... des tulipes violettes !",
         game = 0,
         video = {
@@ -71058,6 +71820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? Pas si mal...",
         game = 0,
         video = {
@@ -71151,6 +71914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'idole de tout le monde, Yoshinon, est arrivée ~",
         game = 0,
         video = {
@@ -71244,6 +72008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Natsumi ? Tu es timide ?",
         game = 0,
         video = {
@@ -71337,6 +72102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se rapprocha lentement en parlant...",
         game = 0,
         video = {
@@ -71430,6 +72196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un style calme et sobre...",
         game = 0,
         video = {
@@ -71523,6 +72290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... la chambre... tu l'as nettoyée ?",
         game = 0,
         video = {
@@ -71616,6 +72384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, bonjour !",
         game = 0,
         video = {
@@ -71709,6 +72478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi tiens-tu un bouquet, Tohka ?",
         game = 0,
         video = {
@@ -71802,6 +72572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, on va essayer ?",
         game = 0,
         video = {
@@ -71895,6 +72666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi sourit et accepta sans hésiter.",
         game = 0,
         video = {
@@ -71988,6 +72760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'ai pas nettoyé la chambre hier soir...",
         game = 0,
         video = {
@@ -72083,6 +72856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Une lavande semble appropriée",
         game = 0,
         video = {
@@ -72176,6 +72950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, tu es devenu un adulte de ton propre chef et tu es entré dans ma chambre sans consentement...",
         game = 0,
         video = {
@@ -72269,6 +73044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... qu'en pensez-vous... c'est assez courant, non ?",
         game = 0,
         video = {
@@ -72362,6 +73138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tout est de ma faute, en guise d'excuse, je promettrai à Natsumi n'importe quoi !",
         game = 0,
         video = {
@@ -72455,6 +73232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas commun. C'est... très beau !",
         game = 0,
         video = {
@@ -72548,6 +73326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Vraiment ?",
         game = 0,
         video = {
@@ -72641,6 +73420,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Nous pouvons toujours être ensemble",
         game = 0,
         video = {
@@ -72734,6 +73514,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?... Vraiment ?",
         game = 0,
         video = {
@@ -72827,6 +73608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, Natsumi est assez artistique.",
         game = 0,
         video = {
@@ -72920,6 +73702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Retournons en arrière.",
         game = 0,
         video = {
@@ -73013,6 +73796,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Nous pouvons toujours être ensemble et jouer à des jeux ~",
         game = 0,
         video = {
@@ -73106,6 +73890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, tu veux quelque chose, Natsumi ?",
         game = 0,
         video = {
@@ -73199,6 +73984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'ikebana de l'enfant",
         game = 0,
         video = {
@@ -73292,6 +74078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! J'aime son ikebana.",
         game = 0,
         video = {
@@ -73385,6 +74172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... Je ne me sens pas à l'aise pour jouer dehors...",
         game = 0,
         video = {
@@ -73478,6 +74266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce qu'on peut... traîner ensemble... ?",
         game = 0,
         video = {
@@ -73571,6 +74360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Eh bien... même ainsi, il est toujours mignon, n'est-ce pas ?",
         game = 0,
         video = {
@@ -73664,6 +74454,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le style et la couleur semblent décontractés, mais il convient aux yeux d'un enfant.",
         game = 0,
         video = {
@@ -73757,6 +74548,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Pourquoi ?",
         game = 0,
         video = {
@@ -73850,6 +74642,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, pas de problème, allons-y !",
         game = 0,
         video = {
@@ -73943,6 +74736,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, le monde est aussi coloré et sans entraves aux yeux d'un enfant.",
         game = 0,
         video = {
@@ -74036,6 +74830,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Naïf, n'est-ce pas ? Et... as-tu remarqué son choix de fleurs, Natsumi ?",
         game = 0,
         video = {
@@ -74129,6 +74924,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je sens que... Je suis surveillé par les gens qui nous entourent...",
         game = 0,
         video = {
@@ -74222,6 +75018,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "D'accord...",
         game = 0,
         video = {
@@ -74315,6 +75112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Faire semblant d'être blessé et rester au sol",
         game = 0,
         video = {
@@ -74408,6 +75206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? C'est quoi... ça ?",
         game = 0,
         video = {
@@ -74501,6 +75300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il semble que Natsumi ait bien fait ~",
         game = 0,
         video = {
@@ -74594,6 +75394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -74687,6 +75488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ça fait mal...",
         game = 0,
         video = {
@@ -74780,6 +75582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, est-ce que Natsumi sait ce qu'est l'espoir ?",
         game = 0,
         video = {
@@ -74873,6 +75676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... en fait... Yoshino s'est levée toute seule... alors...",
         game = 0,
         video = {
@@ -74967,6 +75771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -75060,6 +75865,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Faisant semblant d'être blessé, je suis resté au sol et j'ai mis ma main sur ma taille.",
         game = 0,
         video = {
@@ -75153,6 +75959,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce jour-là, %s sont apparus devant moi... pour aider quelqu'un comme moi.",
         game = 0,
         video = {
@@ -75246,6 +76053,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis levé tôt... pour voir Morning Theater... à la télé...",
         game = 0,
         video = {
@@ -75339,6 +76147,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, tu aimes ce jeu ?",
         game = 0,
         video = {
@@ -75432,6 +76241,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, alors utilisons des fleurs en ballons pour faire l'ikebana !",
         game = 0,
         video = {
@@ -75525,6 +76335,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après cela, Natsumi et moi avons quitté le magasin de fleurs avec un bouquet nouvellement acheté.",
         game = 0,
         video = {
@@ -75617,6 +76428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouais ! Je ne peux pas rater cette émission de télévision !",
         game = 0,
         video = {
@@ -75710,6 +76522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... !",
         game = 0,
         video = {
@@ -75804,6 +76617,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi fit un signe de tête et me regarda avec détermination.",
         game = 0,
         video = {
@@ -75896,6 +76710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Je vais faire de mon mieux pour les surmonter !",
         game = 0,
         video = {
@@ -75989,6 +76804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yoshino aime toujours regarder la télé hein ~",
         game = 0,
         video = {
@@ -76082,6 +76898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... plus ou moins... donc.",
         game = 0,
         video = {
@@ -76175,6 +76992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, même si des pensées négatives émergent de temps en temps, tu peux les surmonter lentement.",
         game = 0,
         video = {
@@ -76269,6 +77087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Jouons à cache-cache ?",
         game = 0,
         video = {
@@ -76362,6 +77181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... le petit déjeuner... quoi d'autre...",
         game = 0,
         video = {
@@ -76455,6 +77275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors je l'ai acheté !",
         game = 0,
         video = {
@@ -76548,6 +77369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que c'est... ainsi ?",
         game = 0,
         video = {
@@ -76641,6 +77463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... tu veux jouer à cache-cache ?",
         game = 0,
         video = {
@@ -76734,6 +77557,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, j'ai fini la préparation.",
         game = 0,
         video = {
@@ -76827,6 +77651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Merci !",
         game = 0,
         video = {
@@ -76920,6 +77745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Marcher directement vers elle",
         game = 0,
         video = {
@@ -77013,6 +77839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Humph~ Ça n'y ressemble peut-être pas, mais je suis un expert en cache-cache...",
         game = 0,
         video = {
@@ -77106,6 +77933,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ? dis-nous, nous pouvons te donner des suggestions !",
         game = 0,
         video = {
@@ -77199,6 +78027,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi a repris le bouquet et a montré une expression heureuse.",
         game = 0,
         video = {
@@ -77292,6 +78121,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me dirigeai vers Natsumi, mais elle n'était pas visible.",
         game = 0,
         video = {
@@ -77385,6 +78215,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'était rare de voir Natsumi si confiante, je lui ai souri et lui ai caressé la tête.",
         game = 0,
         video = {
@@ -77478,6 +78309,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm...",
         game = 0,
         video = {
@@ -77571,6 +78403,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il semblait que d'autres choses qu'un repas copieux pouvaient aussi remonter le moral de Natsumi.",
         game = 0,
         video = {
@@ -77663,6 +78496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non, Natsumi a fait de grands progrès, j'ai vu Natsumi travailler dur.",
         game = 0,
         video = {
@@ -77756,6 +78590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Commençons, tu vas te cacher, je vais lancer le compte à rebours.",
         game = 0,
         video = {
@@ -77849,6 +78684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'as-tu préparé... pour le petit-déjeuner, %s ?",
         game = 0,
         video = {
@@ -77943,6 +78779,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est bien cela. Je vais couper les branches des fleurs avec des ciseaux pendant que tu les mets dans le panier, c'est d'accord ?",
         game = 0,
         video = {
@@ -78039,6 +78876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Demande avec une prétendue sérénité",
         game = 0,
         video = {
@@ -78132,6 +78970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ~",
         game = 0,
         video = {
@@ -78225,6 +79064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je l'ai dit, est-ce qu'il y a quelque chose de mal à cela ?",
         game = 0,
         video = {
@@ -78318,6 +79158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord !",
         game = 0,
         video = {
@@ -78411,6 +79252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je demandai à Natsumi avec un calme feint.",
         game = 0,
         video = {
@@ -78504,6 +79346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je tournai le dos à Natsumi, me couvris les yeux et commençai le compte à rebours.",
         game = 0,
         video = {
@@ -78600,6 +79443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Invite Yoshino",
         game = 0,
         video = {
@@ -78693,6 +79537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -78786,6 +79631,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... pourquoi es-tu apparue près de mon lit tôt le matin !",
         game = 0,
         video = {
@@ -78879,6 +79725,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu es prêt ?",
         game = 0,
         video = {
@@ -78972,6 +79819,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'aime quand Natsumi devient sérieuse... tu n'as pas dit ça ?",
         game = 0,
         video = {
@@ -79066,6 +79914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -79159,6 +80008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ? il y a quelque chose qui ne va pas ?",
         game = 0,
         video = {
@@ -79252,6 +80102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis prêt...",
         game = 0,
         video = {
@@ -79346,6 +80197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et pourquoi ça ? Comment pourrais-je te détester ?",
         game = 0,
         video = {
@@ -79440,6 +80292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Nous avons terminé notre ikebana au bout d'une demi-heure.",
         game = 0,
         video = {
@@ -79533,6 +80386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et en plus, tu es devenu un adulte...",
         game = 0,
         video = {
@@ -79626,6 +80480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est vrai que tu ne m'aimes pas !",
         game = 0,
         video = {
@@ -79719,6 +80574,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'était vraiment difficile de deviner les pensées des filles, si elle était un humain ou un Esprit.",
         game = 0,
         video = {
@@ -79812,6 +80668,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il est terminé !",
         game = 0,
         video = {
@@ -79905,6 +80762,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha ~ Se pourrait-il que %s ait eu peur de faire quelque chose de bizarre et de mauvais ?",
         game = 0,
         video = {
@@ -79998,6 +80856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Quoi ?",
         game = 0,
         video = {
@@ -80091,6 +80950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... %s...",
         game = 0,
         video = {
@@ -80184,6 +81044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un ton de couleur uniforme, une proportion combinée ordonnée, un panier tissé de style rural, harmonieux et beau.",
         game = 0,
         video = {
@@ -80277,6 +81138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non, bien sûr que non ! Tu devrais changer cette habitude, en te transformant tout le temps !",
         game = 0,
         video = {
@@ -80370,6 +81232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dis au moins quelque chose, pourquoi t'es-tu soudainement enfui ?",
         game = 0,
         video = {
@@ -80463,6 +81326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... laisse-moi voir, peux-tu d'abord laver les légumes ?",
         game = 0,
         video = {
@@ -80557,6 +81421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ne t'inquiète pas, je te protégerai",
         game = 0,
         video = {
@@ -80650,6 +81515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela dit, je me suis vite habillé et j'ai quitté le lit.",
         game = 0,
         video = {
@@ -80743,6 +81609,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors vas-y et essaie.",
         game = 0,
         video = {
@@ -80836,6 +81703,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... J'aimerais bien.",
         game = 0,
         video = {
@@ -80929,6 +81797,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, ne t'inquiète pas, je te protégerai !",
         game = 0,
         video = {
@@ -81022,6 +81891,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi ? Serait-ce parce que %s n'aime pas ma forme mature ?",
         game = 0,
         video = {
@@ -81115,6 +81985,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'aime beaucoup de types de fleurs.",
         game = 0,
         video = {
@@ -81210,6 +82081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fais un vœu sur la feuille d'érable",
         game = 0,
         video = {
@@ -81303,6 +82175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je caressais la tête de Natsumi pour la réconforter.",
         game = 0,
         video = {
@@ -81396,6 +82269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Une transformation qui te rendra souvent difficile l'intégration dans la société humaine !",
         game = 0,
         video = {
@@ -81489,6 +82363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quelles sont les fleurs que tu aimes ?",
         game = 0,
         video = {
@@ -81582,6 +82457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le moment est venu ! Natsumi, fais un vœu sur la feuille d'érable ~",
         game = 0,
         video = {
@@ -81675,6 +82551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... ?",
         game = 0,
         video = {
@@ -81769,6 +82646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dis à Natsumi mon souhait",
         game = 0,
         video = {
@@ -81862,6 +82740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... personne ne détesterait un si beau bouquet.",
         game = 0,
         video = {
@@ -81955,6 +82834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ? Pourquoi ?",
         game = 0,
         video = {
@@ -82048,6 +82928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, ne t'inquiète pas des regards, tu peux te cacher derrière moi ~",
         game = 0,
         video = {
@@ -82141,6 +83022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, as-tu fait ton vœu ?",
         game = 0,
         video = {
@@ -82234,6 +83116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ces fleurs t'intéressent-elles ?",
         game = 0,
         video = {
@@ -82327,6 +83210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "On dit que le souhait fait par quelqu'un qui a assisté à la chute de milliers de feuilles d'érable se réalisera tranquillement ~",
         game = 0,
         video = {
@@ -82420,6 +83304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouf... c'est génial...",
         game = 0,
         video = {
@@ -82513,6 +83398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... ! Et toi, %s... ?",
         game = 0,
         video = {
@@ -82606,6 +83492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi a repris le yaourt, mais elle a continué à regarder le bouquet.",
         game = 0,
         video = {
@@ -82699,6 +83586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... ?",
         game = 0,
         video = {
@@ -82792,6 +83680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi poussa un soupir de soulagement et sembla moins effrayée.",
         game = 0,
         video = {
@@ -82885,6 +83774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, moi aussi, c'est un vœu lié à Natsumi ~",
         game = 0,
         video = {
@@ -82978,6 +83868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Merci.",
         game = 0,
         video = {
@@ -83071,6 +83962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi serra la feuille d'érable dans sa main et me regarda avec émerveillement.",
         game = 0,
         video = {
@@ -83164,6 +84056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ensuite, allons voir le paysage sur la terrasse d'observation ?",
         game = 0,
         video = {
@@ -83257,6 +84150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... ? Qu'est-ce que... c'est ?",
         game = 0,
         video = {
@@ -83350,6 +84244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bon... tu veux du yogourt ?",
         game = 0,
         video = {
@@ -83443,6 +84338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, si tu fais un souhait sincère, il se réalisera !",
         game = 0,
         video = {
@@ -83536,6 +84432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... allons-y ensemble.",
         game = 0,
         video = {
@@ -83629,6 +84526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mon souhait est que Natsumi devienne super confiante à l'avenir !",
         game = 0,
         video = {
@@ -83722,6 +84620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comment expliquer au commis quand je suis retourné payer...",
         game = 0,
         video = {
@@ -83815,6 +84714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... faisons un vœu ensemble... ?",
         game = 0,
         video = {
@@ -83908,6 +84808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -84001,6 +84902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Merci... mais je ne pense pas que je puisse faire ça...",
         game = 0,
         video = {
@@ -84094,6 +84996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Téléportée tout d'un coup dans la gêne, j'avais encore cette boîte de yaourt impayée dans la main.",
         game = 0,
         video = {
@@ -84187,6 +85090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "D'accord, faisons un vœu dans nos cœurs ensemble.",
         game = 0,
         video = {
@@ -84281,6 +85185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -84374,6 +85279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave ! Je te soutiendrai jusqu'à ce que tu sois confiant, Natsumi.",
         game = 0,
         video = {
@@ -84473,6 +85379,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... ! %s !",
         game = 0,
         video = {
@@ -84566,6 +85473,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela dit, j'ai plié les mains, fermé les yeux et commencé à faire un vœu.",
         game = 0,
         video = {
@@ -84660,6 +85568,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il se faisait tard, Natsumi et moi avions passé toute une journée à nous promener.",
         game = 0,
         video = {
@@ -84753,6 +85662,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... ? %s me soutiendra même si cela prend du temps ?",
         game = 0,
         video = {
@@ -84846,6 +85756,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi.",
         game = 0,
         video = {
@@ -84939,6 +85850,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se cachait dans un coin et regardait tranquillement le bouquet quand je me suis téléporté chez le fleuriste.",
         game = 0,
         video = {
@@ -85032,6 +85944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les rues au crépuscule étaient recouvertes d'une couche d'or, tandis que des feuilles rouges tombaient des érables au loin.",
         game = 0,
         video = {
@@ -85125,6 +86038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, peu importe le temps que cela prendra !",
         game = 0,
         video = {
@@ -85219,6 +86133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -85312,6 +86227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... attends...",
         game = 0,
         video = {
@@ -85405,6 +86321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est si joli...",
         game = 0,
         video = {
@@ -85498,6 +86415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mhm... Je suis si heureuse.",
         game = 0,
         video = {
@@ -85591,6 +86509,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'humeur de Natsumi n'est pas stable en ce moment, de toute façon, je vais te téléporter maintenant.",
         game = 0,
         video = {
@@ -85684,6 +86603,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? Pourquoi ?",
         game = 0,
         video = {
@@ -85777,6 +86697,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, une telle vue est assez rare.",
         game = 0,
         video = {
@@ -85870,6 +86791,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien, juste comme ça, le sourire peut te donner confiance.",
         game = 0,
         video = {
@@ -85963,6 +86885,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Va à la boutique de fleurs maintenant et sors avec Natsumi !",
         game = 0,
         video = {
@@ -86056,6 +86979,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai montré comment laver les légumes.",
         game = 0,
         video = {
@@ -86149,6 +87073,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... regarde...",
         game = 0,
         video = {
@@ -86242,6 +87167,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr !",
         game = 0,
         video = {
@@ -86335,6 +87261,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Yoshino, peux-tu me donner ta main ?",
         game = 0,
         video = {
@@ -86428,6 +87355,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne suis pas doué pour ce genre de choses...",
         game = 0,
         video = {
@@ -86521,6 +87449,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Des milliers de feuilles d'érable sont tombées de l'arbre alors qu'un coup de vent passait.",
         game = 0,
         video = {
@@ -86614,6 +87543,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh oui, il y a encore une chose qui peut te donner confiance en toi, Natsumi.",
         game = 0,
         video = {
@@ -86707,6 +87637,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, Natsumi, le timing est parfait, peux-tu m'aider ?",
         game = 0,
         video = {
@@ -86800,6 +87731,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ma participation pourrait entraver ton effort.",
         game = 0,
         video = {
@@ -86893,6 +87825,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Puis, une feuille d'érable flamboyante est lentement tombée dans les mains de Natsumi.",
         game = 0,
         video = {
@@ -86987,6 +87920,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce que... cela veut dire ?",
         game = 0,
         video = {
@@ -87080,6 +88014,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis gratté la tête par gêne.",
         game = 0,
         video = {
@@ -87173,6 +88108,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... personne ne peut être pire que moi.",
         game = 0,
         video = {
@@ -87266,6 +88202,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord.",
         game = 0,
         video = {
@@ -87359,6 +88296,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Suis-moi !",
         game = 0,
         video = {
@@ -87452,6 +88390,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après cela, nous avons passé un moment agréable à faire de l'ikebana ensemble.",
         game = 0,
         video = {
@@ -87544,6 +88483,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas vrai, Natsumi n'est pas mauvais.",
         game = 0,
         video = {
@@ -87637,6 +88577,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Qu'est-ce que tu dis ?",
         game = 0,
         video = {
@@ -87730,6 +88671,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -87823,6 +88765,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... probablement... ce genre de sentiment.",
         game = 0,
         video = {
@@ -87916,6 +88859,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que c'est... ainsi ?",
         game = 0,
         video = {
@@ -88009,6 +88953,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De l'espoir... ?",
         game = 0,
         video = {
@@ -88105,6 +89050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -88198,6 +89144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est l'espoir.",
         game = 0,
         video = {
@@ -88291,6 +89238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, surtout la Natsumi d'aujourd'hui, celle qui m'a aidé à nettoyer la chambre...",
         game = 0,
         video = {
@@ -88384,6 +89332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est vrai, probablement un choix involontaire, mais il se trouve que ces deux-là symbolisent la même chose.",
         game = 0,
         video = {
@@ -88477,6 +89426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai emmené Natsumi, qui était un peu plus confiante, à la balançoire.",
         game = 0,
         video = {
@@ -88570,6 +89520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui... des hortensias et des marguerites.",
         game = 0,
         video = {
@@ -88663,6 +89614,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De toute façon, il faut essayer ?",
         game = 0,
         video = {
@@ -88756,6 +89708,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le monde vu par un enfant ?",
         game = 0,
         video = {
@@ -88849,6 +89802,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors je te laisse faire. Je vais aller mettre le linge sale dans la machine à laver.",
         game = 0,
         video = {
@@ -88942,6 +89896,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Regarde ! Une balançoire porte-bonheur qui peut donner confiance à Natsumi !",
         game = 0,
         video = {
@@ -89035,6 +89990,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... D'accord, je vais faire de mon mieux.",
         game = 0,
         video = {
@@ -89128,6 +90084,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les yeux d'un enfant...",
         game = 0,
         video = {
@@ -89221,6 +90178,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... pas de problème...",
         game = 0,
         video = {
@@ -89314,6 +90272,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ?... Pourquoi ce swing porte-t-il chance ?",
         game = 0,
         video = {
@@ -89407,6 +90366,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -89500,6 +90460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... ?",
         game = 0,
         video = {
@@ -89593,6 +90554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -89686,6 +90648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Parce que c'est une balançoire entourée de feuilles d'érable qui peut porter chance, elle a déjà adsorbé beaucoup de chance.",
         game = 0,
         video = {
@@ -89782,6 +90745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -89875,6 +90839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... il semble désordonné et n'a aucun sens de la beauté.",
         game = 0,
         video = {
@@ -89969,6 +90934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -90062,6 +91028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Je vois...",
         game = 0,
         video = {
@@ -90155,6 +91122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis assis à côté de Natsumi et je suis allé chercher des fleurs quand elle en avait besoin.",
         game = 0,
         video = {
@@ -90248,6 +91216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hmm ? Cet enfant ?",
         game = 0,
         video = {
@@ -90341,6 +91310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai trié tous les vêtements sales et je les ai mis à tour de rôle dans la machine à laver.",
         game = 0,
         video = {
@@ -90434,6 +91404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dépêche-toi d'essayer ?",
         game = 0,
         video = {
@@ -90527,6 +91498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi n'utilisera que des fleurs de couleur fraîche aujourd'hui ?",
         game = 0,
         video = {
@@ -90620,6 +91592,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peu habituée aux louanges des étrangers, Natsumi semblait mal à l'aise, alors je l'ai emmenée loin du magasin de fleurs.",
         game = 0,
         video = {
@@ -90712,6 +91685,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, c'est fait ! L'étape suivante est de faire chauffer le lait...",
         game = 0,
         video = {
@@ -90805,6 +91779,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... mais...",
         game = 0,
         video = {
@@ -90898,6 +91873,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai juste choisi les fleurs que j'aime, sans tenir compte de l'agencement des couleurs.",
         game = 0,
         video = {
@@ -90991,6 +91967,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quand les autres clients ont commencé à se rassembler et à admirer, Natsumi a posé la rose bleue et s'est précipitée vers moi.",
         game = 0,
         video = {
@@ -91090,6 +92067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... !!",
         game = 0,
         video = {
@@ -91183,6 +92161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il y a un problème ?",
         game = 0,
         video = {
@@ -91276,6 +92255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est donc une coïncidence.",
         game = 0,
         video = {
@@ -91369,6 +92349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La lavande, symbole de l'innocence",
         game = 0,
         video = {
@@ -91462,6 +92443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cette voix... Natsumi !",
         game = 0,
         video = {
@@ -91555,6 +92537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela pourrait causer des problèmes à %s...",
         game = 0,
         video = {
@@ -91648,6 +92631,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je... vais commencer maintenant.",
         game = 0,
         video = {
@@ -91741,6 +92725,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'ai pas encore décidé...",
         game = 0,
         video = {
@@ -91835,6 +92820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -91928,6 +92914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu veux dire que tu auras besoin de moi pour te pousser par derrière ?",
         game = 0,
         video = {
@@ -92021,6 +93008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce qui ne va pas ?",
         game = 0,
         video = {
@@ -92114,6 +93102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et pourquoi pas de la lavande ? Ces derniers temps, elle est très populaire chez les jeunes.",
         game = 0,
         video = {
@@ -92207,6 +93196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi ! Tu vas bien ?!",
         game = 0,
         video = {
@@ -92300,6 +93290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hm...",
         game = 0,
         video = {
@@ -92393,6 +93384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je sens que... il manque quelque chose.",
         game = 0,
         video = {
@@ -92487,6 +93479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La lavande ? Ça a l'air bien.",
         game = 0,
         video = {
@@ -92580,6 +93573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "*sniff*... %s... Je suis désolé...",
         game = 0,
         video = {
@@ -92673,6 +93667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pas de problème, mais peux-tu me faire confiance, Natsumi ?",
         game = 0,
         video = {
@@ -92766,6 +93761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se tenait rougissante à côté des roses bleues, avec ses cheveux verts soigneusement peignés, drapés sur ses épaules.",
         game = 0,
         video = {
@@ -92859,6 +93855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Aimes-tu la lavande, %s ?",
         game = 0,
         video = {
@@ -92952,6 +93949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Voyant que l'eau de l'évier continuait à sortir, je me suis dépêché d'aller sur place et j'ai serré l'interrupteur.",
         game = 0,
         video = {
@@ -93045,6 +94043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je te ferai confiance si c'est toi, %s...",
         game = 0,
         video = {
@@ -93138,6 +94137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'ikebana avec des roses bleues comme élément principal était rêveur et magnifique.",
         game = 0,
         video = {
@@ -93231,6 +94231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, un bouquet entier de lavande est aussi très beau.",
         game = 0,
         video = {
@@ -93324,6 +94325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Étrange... le robinet fonctionne, Natsumi, que se passe-t-il ?",
         game = 0,
         video = {
@@ -93417,6 +94419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je peux jouer avec toi tout le temps",
         game = 0,
         video = {
@@ -93510,6 +94513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow ~ Je ne peux pas imaginer que ce soit fait par Natsumi !",
         game = 0,
         video = {
@@ -93603,6 +94607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Faisons l'ikebana ensemble.",
         game = 0,
         video = {
@@ -93696,6 +94701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis désolé... J'étais occupé à laver des légumes que j'ai oublié d'éteindre...",
         game = 0,
         video = {
@@ -93789,6 +94795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je peux jouer à ce jeu avec toi tout le temps !",
         game = 0,
         video = {
@@ -93883,6 +94890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -93976,6 +94984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -94069,6 +95078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, je suis juste content que tu ailles bien.",
         game = 0,
         video = {
@@ -94162,6 +95172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est super...",
         game = 0,
         video = {
@@ -94255,6 +95266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -94351,6 +95363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -94444,6 +95457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai pris les légumes en lambeaux des mains de Natsumi.",
         game = 0,
         video = {
@@ -94537,6 +95551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne m'attendais pas à ce qu'un joueur débutant comme Natsumi... gagne aussi facilement.",
         game = 0,
         video = {
@@ -94630,6 +95645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouf... C'est... terminé.",
         game = 0,
         video = {
@@ -94723,6 +95739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est fini, l'ikebana à la lavande.",
         game = 0,
         video = {
@@ -94816,6 +95833,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s est-ce que... j'ai encore tout gâché ?",
         game = 0,
         video = {
@@ -94910,6 +95928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -95003,6 +96022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après avoir préparé le matériel, j'ai choisi d'aider Natsumi à arranger les fleurs selon ses propres goûts.",
         game = 0,
         video = {
@@ -95097,6 +96117,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Allonge-toi et fais le mort",
         game = 0,
         video = {
@@ -95190,6 +96211,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... on dirait que je dois demander à Natsumi de faire un autre travail.",
         game = 0,
         video = {
@@ -95283,6 +96305,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Prêt à décoller !",
         game = 0,
         video = {
@@ -95376,6 +96399,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'ikebana rose bleue devrait être magnifique, je vais d'abord prendre quelques fleurs.",
         game = 0,
         video = {
@@ -95469,6 +96493,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis couché par terre et j'ai fait semblant de m'évanouir.",
         game = 0,
         video = {
@@ -95562,6 +96587,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Même si... j'ai foiré... Je peux toujours aider ?",
         game = 0,
         video = {
@@ -95655,6 +96681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouah... !",
         game = 0,
         video = {
@@ -95748,6 +96775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... une sorte de bleu rare.",
         game = 0,
         video = {
@@ -95841,6 +96869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu... t'es vraiment évanouie ? C'est mauvais ~",
         game = 0,
         video = {
@@ -95935,6 +96964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, c'est quelque chose que seule Natsumi peut aider !",
         game = 0,
         video = {
@@ -96028,6 +97058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors que la balançoire se déplaçait de haut en bas, les feuilles tombées à proximité se mirent aussi à voler.",
         game = 0,
         video = {
@@ -96121,6 +97152,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Une rose bleue ?",
         game = 0,
         video = {
@@ -96214,6 +97246,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment ?",
         game = 0,
         video = {
@@ -96307,6 +97340,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce que c'est cette fois, je vais faire de mon mieux pour aider... !",
         game = 0,
         video = {
@@ -96400,6 +97434,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, tu veux aller un peu plus haut ?",
         game = 0,
         video = {
@@ -96493,6 +97528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'aime... ce genre de fleurs.",
         game = 0,
         video = {
@@ -96586,6 +97622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, travailler avec Natsumi est un plaisir.",
         game = 0,
         video = {
@@ -96679,6 +97716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai besoin que Natsumi réveille quelqu'un d'autre et l'invite à prendre son petit déjeuner. Est-ce que tu peux faire cela ?",
         game = 0,
         video = {
@@ -96772,6 +97810,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est tellement incroyable... ! S'il te plaît... un peu plus haut...",
         game = 0,
         video = {
@@ -96865,6 +97904,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Du temps seul avec Natsumi, une expérience ikebana rare... Je n'oublierais jamais cela de toute ma vie.",
         game = 0,
         video = {
@@ -96957,6 +97997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord !",
         game = 0,
         video = {
@@ -97050,6 +98091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... inviter quelqu'un d'autre... ?",
         game = 0,
         video = {
@@ -97143,6 +98185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai poussé la balançoire à fond pour l'amener au point le plus haut.",
         game = 0,
         video = {
@@ -97236,6 +98279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! C'est joli, Natsumi a fait du bon travail !",
         game = 0,
         video = {
@@ -97329,6 +98373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Merci, %s, c'est une expérience mémorable.",
         game = 0,
         video = {
@@ -97422,6 +98467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, c'est trop solitaire pour qu'on ne mange qu'à deux, n'est-ce pas ?\nAussi, tu ne veux pas prendre le petit déjeuner avec tout le monde, Natsumi ?",
         game = 0,
         video = {
@@ -97515,6 +98561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est tellement génial... J'ai envie de voler...",
         game = 0,
         video = {
@@ -97608,6 +98655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "me demanda Natsumi en regardant l'ikebana que nous avons fini ensemble.",
         game = 0,
         video = {
@@ -97702,6 +98750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Perdre à Natsumi délibérément",
         game = 0,
         video = {
@@ -97795,6 +98844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vois... mais qui devrais-je inviter ?",
         game = 0,
         video = {
@@ -97890,6 +98940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, garde le sourire ~",
         game = 0,
         video = {
@@ -97983,6 +99034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que ça a l'air... bien ?",
         game = 0,
         video = {
@@ -98076,6 +99128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le raisin... Ah, seulement cinq pas, j'ai perdu...",
         game = 0,
         video = {
@@ -98169,6 +99222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je... vois.",
         game = 0,
         video = {
@@ -98263,6 +99317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr !",
         game = 0,
         video = {
@@ -98357,6 +99412,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela devrait être quelqu'un d'autre",
         game = 0,
         video = {
@@ -98450,6 +99506,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow ~ J'ai... gagné ?",
         game = 0,
         video = {
@@ -98543,6 +99600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que ce sentiment... est lié à l'espoir ?",
         game = 0,
         video = {
@@ -98636,6 +99694,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le sourire de Natsumi était encore plus séduisant dans la couleur de la feuille d'érable.",
         game = 0,
         video = {
@@ -98728,6 +99787,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce devrait être quelqu'un d'autre, mais il apparaîtra certainement ~",
         game = 0,
         video = {
@@ -98821,6 +99881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, Natsumi est vraiment incroyable. Tu as gagné la première fois ~",
         game = 0,
         video = {
@@ -98914,6 +99975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui... probablement.",
         game = 0,
         video = {
@@ -99007,6 +100069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... ce n'est pas un échec ? J'ai fait une casserole de soupe au miso suspecte et j'ai renversé la soupe chaude...",
         game = 0,
         video = {
@@ -99100,6 +100163,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je caressais doucement la tête de Natsumi pour la réconforter.",
         game = 0,
         video = {
@@ -99193,6 +100257,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... ça semble... tellement irréel...",
         game = 0,
         video = {
@@ -99286,6 +100351,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Nous pouvons en donner à Tohka",
         game = 0,
         video = {
@@ -99379,6 +100445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pas du tout !",
         game = 0,
         video = {
@@ -99472,6 +100539,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Quelqu'un voudrait-il passer sa vie avec quelqu'un comme moi ?",
         game = 0,
         video = {
@@ -99565,6 +100633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, tu sais pourquoi tu as gagné ?",
         game = 0,
         video = {
@@ -99658,6 +100727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vois... c'est vrai qu'on peut lui en donner.",
         game = 0,
         video = {
@@ -99751,6 +100821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai pris une cuillerée de soupe dans le pot, je l'ai soufflée un peu et je l'ai mise dans ma bouche, puis j'ai montré une expression de joie exagérée.",
         game = 0,
         video = {
@@ -99844,6 +100915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr ! Si tu utilises la bonne façon de t'entendre avec les gens.",
         game = 0,
         video = {
@@ -99937,6 +101009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... je ne sais pas...",
         game = 0,
         video = {
@@ -100030,6 +101103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Était-ce mon imagination ? Natsumi semblait un peu contrariée...",
         game = 0,
         video = {
@@ -100123,6 +101197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow ~ C'est très bon, une telle soupe au miso, faite par Natsumi !",
         game = 0,
         video = {
@@ -100216,6 +101291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La bonne façon... qu'est-ce que c'est ?",
         game = 0,
         video = {
@@ -100309,6 +101385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu as gagné parce que tu as joué le jeu avec confiance, Natsumi.",
         game = 0,
         video = {
@@ -100402,6 +101479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, j'ai fait mon choix.",
         game = 0,
         video = {
@@ -100495,6 +101573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment ? Laisse-moi goûter...",
         game = 0,
         video = {
@@ -100588,6 +101667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "D'abord, arrête ces pensées négatives !",
         game = 0,
         video = {
@@ -100681,6 +101761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Confiance ? Ça fait du bien...",
         game = 0,
         video = {
@@ -100774,6 +101855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ~ Rentrons à la maison !",
         game = 0,
         video = {
@@ -100867,6 +101949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... C'est à peine comestible.",
         game = 0,
         video = {
@@ -100960,6 +102043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sanglots*... non... Je ne peux pas m'empêcher d'y penser...",
         game = 0,
         video = {
@@ -101053,6 +102137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je t'apprendrai d'autres choses qui te donneront confiance en toi, alors continue comme ça !",
         game = 0,
         video = {
@@ -101146,6 +102231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -101239,6 +102325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est déjà très bon, et si tu t'entraînes plus, le goût deviendra encore meilleur.",
         game = 0,
         video = {
@@ -101332,6 +102419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Malgré l'appréciation de tout le monde, tu agiras toujours de cette façon et tu rendras tristes ceux qui t'aiment ?",
         game = 0,
         video = {
@@ -101425,6 +102513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... ! Je compte sur toi...",
         game = 0,
         video = {
@@ -101519,6 +102608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -101612,6 +102702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Que devrions-nous acheter...",
         game = 0,
         video = {
@@ -101707,6 +102798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Mes pensées... rendent les autres tristes ?",
         game = 0,
         video = {
@@ -101800,6 +102892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le regard sincère que Natsumi m'a lancé m'a fait rougir.",
         game = 0,
         video = {
@@ -101893,6 +102986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dès que nous sommes rentrés à la maison, j'ai entendu le bruit de collision des outils de cuisine et j'ai senti une odeur de trop cuit.",
         game = 0,
         video = {
@@ -101986,6 +103080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi... aimerais-tu des hortensias, %s ?",
         game = 0,
         video = {
@@ -102079,6 +103174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, je suis tellement triste maintenant à cause de tes pensées.",
         game = 0,
         video = {
@@ -102172,6 +103268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Jouons à toutes sortes de jeux ensemble à l'avenir~",
         game = 0,
         video = {
@@ -102265,6 +103362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, Natsumi, vous êtes de retour tous les deux !",
         game = 0,
         video = {
@@ -102358,6 +103456,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, utilisons des hortensias violets comme fleurs principales.",
         game = 0,
         video = {
@@ -102451,6 +103550,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis vraiment désolé... Je ne le pensais pas...",
         game = 0,
         video = {
@@ -102544,6 +103644,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bon... Je vais faire de mon mieux !",
         game = 0,
         video = {
@@ -102636,6 +103737,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Est-ce que Tohka fait la cuisine ?",
         game = 0,
         video = {
@@ -102729,6 +103831,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s a choisi des hortensias violets ?",
         game = 0,
         video = {
@@ -102822,6 +103925,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne te blâme pas, c'est juste que cette personne sera infectée par les pensées négatives de ceux qu'elle aime...",
         game = 0,
         video = {
@@ -102915,6 +104019,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est mauvais, que devrions-nous faire",
         game = 0,
         video = {
@@ -103008,6 +104113,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je voulais faire une surprise à %s... alors j'ai utilisé la cuisine sans permission, désolé !",
         game = 0,
         video = {
@@ -103101,6 +104207,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est très bien. Je vais aller chercher des roses bleues.",
         game = 0,
         video = {
@@ -103194,6 +104301,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... tu m'aimes bien aussi ?",
         game = 0,
         video = {
@@ -103287,6 +104395,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il semble que nous devions retourner au magasin de fleurs pour acheter un autre bulbe.",
         game = 0,
         video = {
@@ -103380,6 +104489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pas besoin de t'excuser, mais y a-t-il quelque chose de trop cuit ?",
         game = 0,
         video = {
@@ -103473,6 +104583,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... hmm.",
         game = 0,
         video = {
@@ -103566,6 +104677,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'ai jamais dit que je n'aimais pas Natsumi, n'est-ce pas ? Attends... est-ce que tu m'aimes vraiment pas, Natsumi ?",
         game = 0,
         video = {
@@ -103659,6 +104771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peut-être... que nous n'avons pas besoin de faire cela.",
         game = 0,
         video = {
@@ -103758,6 +104871,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh, des tartes aux œufs cuites !",
         game = 0,
         video = {
@@ -103851,6 +104965,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Natsumi aime aussi la rose bleue ?",
         game = 0,
         video = {
@@ -103944,6 +105059,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je lui ai couvert la poitrine et j'ai fait semblant d'avoir le cœur brisé.",
         game = 0,
         video = {
@@ -104037,6 +105153,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Y a-t-il une autre solution, Natsumi ?",
         game = 0,
         video = {
@@ -104130,6 +105247,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -104223,6 +105341,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Rose bleue... Je l'aime bien.",
         game = 0,
         video = {
@@ -104316,6 +105435,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non, pas du tout... !",
         game = 0,
         video = {
@@ -104409,6 +105529,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Nous pouvons sortir l'ampoule et la sécher avec un sèche-cheveux.",
         game = 0,
         video = {
@@ -104502,6 +105623,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tohka a paniqué et s'est dépêchée de retourner dans la cuisine.",
         game = 0,
         video = {
@@ -104595,6 +105717,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'hortensia violet, symbole d'espoir",
         game = 0,
         video = {
@@ -104688,6 +105811,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... tu m'aimes bien, Natsumi ?",
         game = 0,
         video = {
@@ -104781,6 +105905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La rose bleue, symbole de chérir",
         game = 0,
         video = {
@@ -104874,6 +105999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Désolé, j'ai tout gâché.",
         game = 0,
         video = {
@@ -104983,6 +106109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Laquelle devrions-nous choisir ?",
         game = 0,
         video = {
@@ -105079,6 +106206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Je t'aime bien...",
         game = 0,
         video = {
@@ -105172,6 +106300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, choisissons d'abord une fleur principale.",
         game = 0,
         video = {
@@ -105265,6 +106394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, on peut manger dehors plus tard.",
         game = 0,
         video = {
@@ -105358,6 +106488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... est-ce qu'on fait un ikebana avec des fleurs de couleur fraîche ?",
         game = 0,
         video = {
@@ -105451,6 +106582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu vois, si Natsumi aime les autres, les autres aimeront Natsumi en retour !\nC'est la bonne façon de s'entendre.",
         game = 0,
         video = {
@@ -105544,6 +106676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... probablement.",
         game = 0,
         video = {
@@ -105637,6 +106770,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors, s'il te plaît, courage.",
         game = 0,
         video = {
@@ -105730,6 +106864,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi fixa les tournesols en fleurs avec ses yeux brillants comme des émeraudes.",
         game = 0,
         video = {
@@ -105823,6 +106958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Je comprends.",
         game = 0,
         video = {
@@ -105916,6 +107052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce cela... le pouvoir de l'espoir ?",
         game = 0,
         video = {
@@ -106009,6 +107146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les... fleurs fraîches...",
         game = 0,
         video = {
@@ -106102,6 +107240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui... même une chose fragile comme une fleur peut s'efforcer de pousser sous la lumière du soleil.",
         game = 0,
         video = {
@@ -106195,6 +107334,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi hocha la tête et serra les poings, comme si elle avait pris sa décision avec une grande détermination.",
         game = 0,
         video = {
@@ -106287,6 +107427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'espoir ?",
         game = 0,
         video = {
@@ -106380,6 +107521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh, j'ai failli oublier.",
         game = 0,
         video = {
@@ -106473,6 +107615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, c'est l'espoir. Le tournesol est la fleur de l'espoir.",
         game = 0,
         video = {
@@ -106566,6 +107709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Un sens implicite ?",
         game = 0,
         video = {
@@ -106659,6 +107803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il a l'air chaud et a un bon sens implicite.",
         game = 0,
         video = {
@@ -106752,6 +107897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai remis le bouquet préparé à Tohka.",
         game = 0,
         video = {
@@ -106845,6 +107991,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi n'a pas pu s'empêcher de l'admirer et a montré une expression de gaieté rare.",
         game = 0,
         video = {
@@ -106938,6 +108085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est tellement joli.",
         game = 0,
         video = {
@@ -107031,6 +108179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce sont celles-là ?",
         game = 0,
         video = {
@@ -107124,6 +108273,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow ~",
         game = 0,
         video = {
@@ -107218,6 +108368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi s'éloigna et ramena quelques fleurs fraîches.",
         game = 0,
         video = {
@@ -107311,6 +108462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Utilisons des tournesols comme fleurs principales et utilisons des roses chinoises oranges et des camomilles violettes comme fleurs secondaires, plus quelques feuilles vertes.",
         game = 0,
         video = {
@@ -107404,6 +108556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... de quelles fleurs avons-nous besoin ?",
         game = 0,
         video = {
@@ -107497,6 +108650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je donnais des exemples. Quand on fait de l'ikebana, on ne considère pas seulement le schéma de couleurs, mais aussi la combinaison des fleurs principales et des fleurs de soutien.",
         game = 0,
         video = {
@@ -107590,6 +108744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... ?",
         game = 0,
         video = {
@@ -107683,6 +108838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh... attends... pas toutes.",
         game = 0,
         video = {
@@ -107776,6 +108932,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vais aller chercher ces fleurs... s'il te plaît, attends.",
         game = 0,
         video = {
@@ -107869,6 +109026,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les tournesols, les roses rouges, les fleurs de cerisier... Je les aime tous.",
         game = 0,
         video = {
@@ -107962,6 +109120,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Laquelle te plaît, Natsumi ?",
         game = 0,
         video = {
@@ -108055,6 +109214,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je préfère l'ikebana de couleurs chaudes",
         game = 0,
         video = {
@@ -108148,6 +109308,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quoi ? Alors Kotori l'a fait.",
         game = 0,
         video = {
@@ -108241,6 +109402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kotori m'a dit : \"Si tu fais une bêtise, je dirai que je l'ai fait pour que personne ne sache que tu es là\".",
         game = 0,
         video = {
@@ -108334,6 +109496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?",
         game = 0,
         video = {
@@ -108427,6 +109590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est parce que... Kotori...",
         game = 0,
         video = {
@@ -108520,6 +109684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comment le sauras-tu si tu n'essaies pas, Natsumi a bien nettoyé la pièce, n'est-ce pas ?",
         game = 0,
         video = {
@@ -108613,6 +109778,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comme je le pensais, Natsumi s'est privée d'habitude et s'est trop inquiétée des résultats.",
         game = 0,
         video = {
@@ -108706,6 +109872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I... Je suis maladroit... Je vais tout gâcher.",
         game = 0,
         video = {
@@ -108799,6 +109966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Faisons l'ikebana ensemble",
         game = 0,
         video = {
@@ -108893,6 +110061,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -108986,6 +110155,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est peut-être l'œuvre de Kotori",
         game = 0,
         video = {
@@ -109079,6 +110249,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -109172,6 +110343,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord.",
         game = 0,
         video = {
@@ -109265,6 +110437,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vois, alors promenons-nous.",
         game = 0,
         video = {
@@ -109358,6 +110531,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A ce moment-là, Kotori est sortie de la chambre en se frottant les yeux.",
         game = 0,
         video = {
@@ -109451,6 +110625,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... n'importe où c'est bien.",
         game = 0,
         video = {
@@ -109544,6 +110719,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je dois remercier Natsumi comme il se doit",
         game = 0,
         video = {
@@ -109637,6 +110813,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Y a-t-il un endroit où tu aimerais aller, Natsumi ?",
         game = 0,
         video = {
@@ -109730,6 +110907,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bonjour, Kotori !",
         game = 0,
         video = {
@@ -109823,6 +111001,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ça ressemblait tellement à Natsumi de se cacher et de voir ma réaction au lieu de partir après le nettoyage.",
         game = 0,
         video = {
@@ -109916,6 +111095,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, tu devrais la remercier correctement.",
         game = 0,
         video = {
@@ -110009,6 +111189,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comme je le pensais.",
         game = 0,
         video = {
@@ -110102,6 +111283,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bonjour, Grand Frère !",
         game = 0,
         video = {
@@ -110195,6 +111377,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hmm.",
         game = 0,
         video = {
@@ -110288,6 +111471,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... que devrions-nous prendre pour le petit-déjeuner ?",
         game = 0,
         video = {
@@ -110381,6 +111565,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Serait-ce que... tu es là depuis le début ?",
         game = 0,
         video = {
@@ -110474,6 +111659,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les cheveux de Kotori étaient un peu en désordre, on aurait dit qu'elle venait de se réveiller.",
         game = 0,
         video = {
@@ -110567,6 +111753,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Comment as-tu su ce que j'allais dire ?",
         game = 0,
         video = {
@@ -110660,6 +111847,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "N'y pense pas trop, la routine est très bien.",
         game = 0,
         video = {
@@ -110753,6 +111941,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je veux dire que je peux aller à un rendez-vous avec %s.",
         game = 0,
         video = {
@@ -110846,6 +112035,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi me regardes-tu comme ça ?",
         game = 0,
         video = {
@@ -110939,6 +112129,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?",
         game = 0,
         video = {
@@ -111032,6 +112223,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Des toasts, des œufs au plat et du lait ? Attends... ce sera bientôt prêt.",
         game = 0,
         video = {
@@ -111125,6 +112317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après le petit-déjeuner, j'ai décidé d'aller trouver Natsumi dans l'appartement.",
         game = 0,
         video = {
@@ -111218,6 +112411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... Kotori, tu as nettoyé la chambre ?",
         game = 0,
         video = {
@@ -111312,6 +112506,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -111405,6 +112600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Au fait, comment comptes-tu remercier Natsumi ?",
         game = 0,
         video = {
@@ -111498,6 +112694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -111591,6 +112788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hmm ? Elle l'a vraiment fait...",
         game = 0,
         video = {
@@ -111684,6 +112882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vois... Je vais aller la chercher après le petit déjeuner.",
         game = 0,
         video = {
@@ -111777,6 +112976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Eh bien... Je n'ai pas encore trouvé la solution, que dirais-tu d'offrir un cadeau ? Quelque chose comme un goûter ou un accessoire.",
         game = 0,
         video = {
@@ -111870,6 +113070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est ça, aujourd'hui. Frappez tant que le fer est chaud.",
         game = 0,
         video = {
@@ -111963,6 +113164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kotori ouvrit grand ses yeux ronds en forme de gland et regarda autour d'elle avec surprise.",
         game = 0,
         video = {
@@ -112056,6 +113258,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... hein ? Aujourd'hui ?",
         game = 0,
         video = {
@@ -112149,6 +113352,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un idiot comme toi ne sait rien des pensées des filles.",
         game = 0,
         video = {
@@ -112242,6 +113446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Refuser poliment Natsumi",
         game = 0,
         video = {
@@ -112335,6 +113540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce que tu racontes ?",
         game = 0,
         video = {
@@ -112428,6 +113634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dans ce cas, que ce soit aujourd'hui.",
         game = 0,
         video = {
@@ -112521,6 +113728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hmm ?",
         game = 0,
         video = {
@@ -112614,6 +113822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Désolé... J'ai d'autres projets pour aujourd'hui.",
         game = 0,
         video = {
@@ -112707,6 +113916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est rien ! Je n'ai pas nettoyé la chambre !",
         game = 0,
         video = {
@@ -112800,6 +114010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il a été sélectionné par Natsumi",
         game = 0,
         video = {
@@ -112893,6 +114104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un rendez-vous, très certainement !",
         game = 0,
         video = {
@@ -112986,6 +114198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quels projets ? Est-ce que tu inventes des choses pour me repousser ?",
         game = 0,
         video = {
@@ -113079,6 +114292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh... alors ce n'était vraiment pas toi.",
         game = 0,
         video = {
@@ -113172,6 +114386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?",
         game = 0,
         video = {
@@ -113265,6 +114480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Si tu veux remercier Natsumi, alors sors avec elle !",
         game = 0,
         video = {
@@ -113360,6 +114576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se retourna et partit avec une expression rigide.",
         game = 0,
         video = {
@@ -113453,6 +114670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kotori leva les sourcils.",
         game = 0,
         video = {
@@ -113546,6 +114764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Merci, Natsumi, j'aime beaucoup !",
         game = 0,
         video = {
@@ -113639,6 +114858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Parce que c'est un symbole d'espoir, j'aime ce sens implicite.",
         game = 0,
         video = {
@@ -113732,6 +114952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi semblait vraiment en colère... Je dois m'excuser rapidement.",
         game = 0,
         video = {
@@ -113825,6 +115046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quoi, tu es si sûre que ta petite sœur ne l'a pas fait ?",
         game = 0,
         video = {
@@ -113918,6 +115140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... ce n'est rien... Je suis content que tu ne l'aimes pas.",
         game = 0,
         video = {
@@ -114011,6 +115234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "L'espoir ?",
         game = 0,
         video = {
@@ -114105,6 +115329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -114198,6 +115423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... J'y ai pensé, mais de toute évidence, ce n'est pas toi qui l'a fait.",
         game = 0,
         video = {
@@ -114291,6 +115517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Merci Natsumi !",
         game = 0,
         video = {
@@ -114384,6 +115611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, j'ai entendu dire que dans leur ville natale, les hortensias fleurissent en hiver, donnant de l'espoir à ceux qui les voient.",
         game = 0,
         video = {
@@ -114477,6 +115705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis arrivé à l'appartement des esprits et j'ai regardé autour de moi avec anxiété.",
         game = 0,
         video = {
@@ -114570,6 +115799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai jeté un coup d'œil sur les cheveux en désordre de Kotori.",
         game = 0,
         video = {
@@ -114663,6 +115893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tohka se précipita soudain sur Natsumi et lui fit un gros câlin.",
         game = 0,
         video = {
@@ -114756,6 +115987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Parce qu'un hortensia en fleur signifie que le printemps est proche ?",
         game = 0,
         video = {
@@ -114849,6 +116081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela dit, Kotori est vite sortie.",
         game = 0,
         video = {
@@ -114942,6 +116175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Donc ton QI est en fait plus élevé que celui d'une amibe.",
         game = 0,
         video = {
@@ -115035,6 +116269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... !",
         game = 0,
         video = {
@@ -115128,6 +116363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, même si ce n'est qu'un peu d'espoir, les gens en seraient ravis, non ?",
         game = 0,
         video = {
@@ -115221,6 +116457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ne t'inquiète pas, j'achèterai mon petit-déjeuner au dépanneur.",
         game = 0,
         video = {
@@ -115317,6 +116554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ignorer avec calme",
         game = 0,
         video = {
@@ -115410,6 +116648,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se tenait impuissante, le visage rougi.",
         game = 0,
         video = {
@@ -115502,6 +116741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... symbole du printemps et de l'espoir, Natsumi aime aussi les hortensias.",
         game = 0,
         video = {
@@ -115595,6 +116835,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi est toujours dans la chambre ?",
         game = 0,
         video = {
@@ -115688,6 +116929,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai calmement ignoré les paroles de Natsumi.",
         game = 0,
         video = {
@@ -115781,6 +117023,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La table semblait encore un peu humide, le nettoyage était assez récent, se pourrait-il...",
         game = 0,
         video = {
@@ -115874,6 +117117,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Se pourrait-il que Natsumi soit encore là ?",
         game = 0,
         video = {
@@ -115968,6 +117212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Invite Kotori",
         game = 0,
         video = {
@@ -116061,6 +117306,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Par intuition, j'ai soupçonné une certaine personne, ou devrais-je dire, un certain \"Esprit\".",
         game = 0,
         video = {
@@ -116154,6 +117400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après avoir fait la vaisselle, j'ai décidé de ranger la pièce.",
         game = 0,
         video = {
@@ -116247,6 +117494,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, portant une couronne, a baissé la tête et a montré une expression un peu timide.",
         game = 0,
         video = {
@@ -116339,6 +117587,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peut-être... Natsumi peut inviter Kotori ?",
         game = 0,
         video = {
@@ -116432,6 +117681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ? alors, qui est le plus grand suspect, à ton avis ?",
         game = 0,
         video = {
@@ -116526,6 +117776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bacon et œufs",
         game = 0,
         video = {
@@ -116619,6 +117870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Merci pour ton patronage !",
         game = 0,
         video = {
@@ -116712,6 +117964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ? Kotori... ?",
         game = 0,
         video = {
@@ -116805,6 +118058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ça ne devrait pas être Tohka, Origami ou Yoshino... ils sont restés ici tard hier soir avant de rentrer.",
         game = 0,
         video = {
@@ -116898,6 +118152,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hum, le petit déjeuner d'aujourd'hui est... délicieux Bacon et œufs ~",
         game = 0,
         video = {
@@ -116992,6 +118247,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -117085,6 +118341,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, es-tu confiant, Natsumi ?",
         game = 0,
         video = {
@@ -117178,6 +118435,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est Natsumi, elle devrait être le plus grand suspect.",
         game = 0,
         video = {
@@ -117271,6 +118529,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis tellement excitée ! Du bacon et des œufs ! Du bacon et des œufs !",
         game = 0,
         video = {
@@ -117364,6 +118623,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -117457,6 +118717,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... mais je vais faire de mon mieux...",
         game = 0,
         video = {
@@ -117550,6 +118811,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Humph~ Pas mal.",
         game = 0,
         video = {
@@ -117643,6 +118905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai sorti deux assiettes de Bacon et œufs.",
         game = 0,
         video = {
@@ -117736,6 +118999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr !",
         game = 0,
         video = {
@@ -117829,6 +119093,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, c'est tout ce que j'ai demandé.",
         game = 0,
         video = {
@@ -117922,6 +119187,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? J'avais raison ?",
         game = 0,
         video = {
@@ -118015,6 +119281,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Goûte !",
         game = 0,
         video = {
@@ -118108,6 +119375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Achetons-en et ramenons-en à la maison.",
         game = 0,
         video = {
@@ -118201,6 +119469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je caressais la tête de Natsumi avec des encouragements pendant que je parlais.",
         game = 0,
         video = {
@@ -118294,6 +119563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Elle serait heureuse si elle savait que tu l'as choisie par intuition.",
         game = 0,
         video = {
@@ -118387,6 +119657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est tellement délicieux...",
         game = 0,
         video = {
@@ -118481,6 +119752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Raconte la légende de la feuille d'érable",
         game = 0,
         video = {
@@ -118574,6 +119846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -118667,6 +119940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est vrai ? Elle serait heureuse de ce genre de choses...",
         game = 0,
         video = {
@@ -118760,6 +120034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ha, c'est incroyable...",
         game = 0,
         video = {
@@ -118853,6 +120128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Au fait, connais-tu la légende de la feuille d'érable ?",
         game = 0,
         video = {
@@ -118949,6 +120225,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -119042,6 +120319,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais pourquoi semblait-il que... Kotori connaissait déjà la vérité ?",
         game = 0,
         video = {
@@ -119136,6 +120414,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, je suis content que ça te plaise.",
         game = 0,
         video = {
@@ -119229,6 +120508,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne la connais pas... Peux-tu me le dire, %s ?",
         game = 0,
         video = {
@@ -119322,6 +120602,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... Je suis de retour...",
         game = 0,
         video = {
@@ -119415,6 +120696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce serait bien de décorer la chambre avec, non ?",
         game = 0,
         video = {
@@ -119508,6 +120790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yoshino, on rentre ! C'est presque l'heure du théâtre de midi.",
         game = 0,
         video = {
@@ -119601,6 +120884,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi secoua la tête et me regarda avec perplexité.",
         game = 0,
         video = {
@@ -119694,6 +120978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Baka Grand Frère, ne t'ai-je pas dit que je suis en congé aujourd'hui, alors je vais faire la grasse matinée ?",
         game = 0,
         video = {
@@ -119787,6 +121072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Blanc comme la neige, qui s'épanouit comme une fleur.",
         game = 0,
         video = {
@@ -119880,6 +121166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Au revoir, %s.",
         game = 0,
         video = {
@@ -119973,6 +121260,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Si, sans le savoir, tu enlèves ou ramasses une feuille d'érable...",
         game = 0,
         video = {
@@ -120066,6 +121354,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, j'ai oublié !",
         game = 0,
         video = {
@@ -120159,6 +121448,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... intéressant, et mignon.",
         game = 0,
         video = {
@@ -120252,6 +121542,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yoshino a mangé la dernière bouchée de bacon et d'œufs et s'est dépêché de partir.",
         game = 0,
         video = {
@@ -120345,6 +121636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... que se passera-t-il ?",
         game = 0,
         video = {
@@ -120438,6 +121730,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sérieusement, comment peux-tu oublier des choses comme ça ?",
         game = 0,
         video = {
@@ -120531,6 +121824,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, le coton peut être transformé en textiles et en vêtements humains, mais maintenant il est populaire comme ornement. N'est-ce pas intéressant ?",
         game = 0,
         video = {
@@ -120624,6 +121918,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Attends... elle est vraiment rapide.",
         game = 0,
         video = {
@@ -120717,6 +122012,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De manière inattendue, Natsumi tenait déjà une feuille d'érable dans sa main, il semblait qu'elle avait rempli les conditions requises.",
         game = 0,
         video = {
@@ -120810,6 +122106,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... c'était ma faute...",
         game = 0,
         video = {
@@ -120903,6 +122200,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les textiles...",
         game = 0,
         video = {
@@ -120996,6 +122294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ? Tu peux faire ça ?",
         game = 0,
         video = {
@@ -121089,6 +122388,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors celle avec laquelle tu passeras ta vie dans le futur apparaîtra dans la semaine qui suivra le moment où tu auras ramassé la feuille d'érable ~",
         game = 0,
         video = {
@@ -121182,6 +122482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas ta faute, tu es juste envoyé pour me réveiller par %s.",
         game = 0,
         video = {
@@ -121275,6 +122576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le coton est formé après que les capsules de coton aient mûri et se soient fissurées, il est généralement récolté pour fabriquer des textiles.",
         game = 0,
         video = {
@@ -121368,6 +122670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, j'ai failli oublier ! Est-ce que Kotori dort encore ?",
         game = 0,
         video = {
@@ -121461,6 +122764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow... ! Vraiment ?",
         game = 0,
         video = {
@@ -121554,6 +122858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... Je n'aurais pas dû faire des choses excessives ce matin...",
         game = 0,
         video = {
@@ -121647,6 +122952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?",
         game = 0,
         video = {
@@ -121740,6 +123046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... tu veux que je la réveille ?",
         game = 0,
         video = {
@@ -121833,6 +123140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, et tu as déjà rempli les conditions ~",
         game = 0,
         video = {
@@ -121926,6 +123234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, cette chose est du passé maintenant, ne le dis pas !",
         game = 0,
         video = {
@@ -122019,6 +123328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est du coton, pas une fleur au sens strict du terme.",
         game = 0,
         video = {
@@ -122112,6 +123422,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, s'il te plaît.",
         game = 0,
         video = {
@@ -122205,6 +123516,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je montrai la feuille d'érable dans la main de Natsumi.",
         game = 0,
         video = {
@@ -122298,6 +123610,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je n'aurais pas dû réveiller %s à la manière d'une grande sœur... Il n'avait pas l'habitude, alors il a tout oublié de Kotori.",
         game = 0,
         video = {
@@ -122391,6 +123704,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que c'est... une fleur ?",
         game = 0,
         video = {
@@ -122484,6 +123798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, regarde-moi. Ha ! Ha ! Ha !",
         game = 0,
         video = {
@@ -122577,6 +123892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... qui est-ce que ce sera ?",
         game = 0,
         video = {
@@ -122670,6 +123986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... A la manière d'une grande sœur ?",
         game = 0,
         video = {
@@ -122764,6 +124081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le coton semble populaire de nos jours.",
         game = 0,
         video = {
@@ -122857,6 +124175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai donné à Natsumi un sourire aussi lumineux que possible.",
         game = 0,
         video = {
@@ -122950,6 +124269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi regarda tendrement la feuille d'érable dans sa main.",
         game = 0,
         video = {
@@ -123044,6 +124364,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai pris un bouquet en coton.",
         game = 0,
         video = {
@@ -123137,6 +124458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les fleurs séchées se conservent plus longtemps, il suffit de les mettre dans un flacon sec.",
         game = 0,
         video = {
@@ -123230,6 +124552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... pourquoi... souris-tu ?",
         game = 0,
         video = {
@@ -123323,6 +124646,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow, c'est tellement délicieux, qu'est-ce que c'est... merci...",
         game = 0,
         video = {
@@ -123416,6 +124740,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Faisons le, comment... devrions-nous le planter ?",
         game = 0,
         video = {
@@ -123509,6 +124834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... Comme c'est une demande de %s, je suis tout à fait d'accord ~",
         game = 0,
         video = {
@@ -123602,6 +124928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... ce n'est pas un sourire !",
         game = 0,
         video = {
@@ -123695,6 +125022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... ok...",
         game = 0,
         video = {
@@ -123788,6 +125116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha ! Il y a aussi le nom de Yoshinon !",
         game = 0,
         video = {
@@ -123881,6 +125210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "N'aie pas peur, tu peux tous les ignorer si tu continues à me regarder ~",
         game = 0,
         video = {
@@ -123974,6 +125304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hé... Je plaisantais...",
         game = 0,
         video = {
@@ -124067,6 +125398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Goûte !",
         game = 0,
         video = {
@@ -124160,6 +125492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais... J'ai senti leur regard...",
         game = 0,
         video = {
@@ -124253,6 +125586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai sorti deux bols d'omurice avec des noms dessus.",
         game = 0,
         video = {
@@ -124346,6 +125680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me sens un peu mal à l'aise, je me suis gratté la tête.",
         game = 0,
         video = {
@@ -124439,6 +125774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... c'est un peu redondant, mais nous pouvons les acheter toutes les deux.",
         game = 0,
         video = {
@@ -124533,6 +125869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? Pouvons-nous... les acheter toutes les deux ?",
         game = 0,
         video = {
@@ -124626,6 +125963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors nous allons les acheter toutes les deux.",
         game = 0,
         video = {
@@ -124719,6 +126057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je voulais t'encourager, mais tu m'as piégé, Natsumi...",
         game = 0,
         video = {
@@ -124812,6 +126151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cette rose violet clair... et celle-là, les deux ont l'air bien.",
         game = 0,
         video = {
@@ -124905,6 +126245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce qui ne va pas ? Tu ne peux toujours pas prendre une décision ?",
         game = 0,
         video = {
@@ -124998,6 +126339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi regarda autour d'elle et hésita.",
         game = 0,
         video = {
@@ -125091,6 +126433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... ! Je suis désolé... Je n'ai pas fait exprès...",
         game = 0,
         video = {
@@ -125184,6 +126527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, aide-moi à choisir des fleurs fraîches pour le vase de la maison.",
         game = 0,
         video = {
@@ -125277,6 +126621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je... fais le choix ?",
         game = 0,
         video = {
@@ -125370,6 +126715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les yeux de Natsumi se sont déplacés entre les fleurs fraîches et l'ikebana.",
         game = 0,
         video = {
@@ -125463,6 +126809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dans ce cas, Natsumi, tu dois me dédommager !",
         game = 0,
         video = {
@@ -125556,6 +126903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il sera exposé dans la boutique pour que tous les clients puissent le voir.",
         game = 0,
         video = {
@@ -125649,6 +126997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Qu'est-ce qu'il va devenir si nous ne l'achetons pas ?",
         game = 0,
         video = {
@@ -125742,6 +127091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, c'est complètement gratuit si tu n'emportes pas le produit fini.",
         game = 0,
         video = {
@@ -125835,6 +127185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai plié les bras et j'ai fait semblant d'être en colère.",
         game = 0,
         video = {
@@ -125928,6 +127279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Alors... nous... pouvons le faire aussi ?",
         game = 0,
         video = {
@@ -126021,6 +127373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, aujourd'hui c'est le jour de l'expérience ikebana de notre boutique, les clients peuvent tous participer à cet événement.",
         game = 0,
         video = {
@@ -126114,6 +127467,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne sais pas quoi manger",
         game = 0,
         video = {
@@ -126207,6 +127561,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ? Comment veux-tu que je... compense ?",
         game = 0,
         video = {
@@ -126300,6 +127655,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... on peut dire ça.",
         game = 0,
         video = {
@@ -126393,6 +127749,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, il fait vraiment beau aujourd'hui ~",
         game = 0,
         video = {
@@ -126486,6 +127843,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne sais pas ce que je dois préparer pour que Natsumi puisse manger...",
         game = 0,
         video = {
@@ -126579,6 +127937,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Eh bien... compense-moi juste avec un sourire tout aussi éclatant !",
         game = 0,
         video = {
@@ -126672,6 +128031,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi devrait cueillir des fleurs fraîches",
         game = 0,
         video = {
@@ -126765,6 +128125,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Que puis-je faire pour vous deux ?",
         game = 0,
         video = {
@@ -126858,6 +128219,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Eh bien ... dans ce cas, je peux faire le petit déjeuner ?",
         game = 0,
         video = {
@@ -126951,6 +128313,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha... ? Comme ça ?",
         game = 0,
         video = {
@@ -127044,6 +128407,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... la chambre... le nettoyage...",
         game = 0,
         video = {
@@ -127137,6 +128501,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tohka, bonjour !",
         game = 0,
         video = {
@@ -127230,6 +128595,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ? Tu sais ce que tu veux manger, Natsumi ?",
         game = 0,
         video = {
@@ -127323,6 +128689,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela dit, Natsumi m'a aussi montré un sourire éclatant.",
         game = 0,
         video = {
@@ -127416,6 +128783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? Tu es fâchée ?",
         game = 0,
         video = {
@@ -127509,6 +128877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ça a l'air intéressant, ça fera l'affaire ~",
         game = 0,
         video = {
@@ -127602,6 +128971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu n'as pas besoin de le faire toi-même, dis-le-moi.",
         game = 0,
         video = {
@@ -127695,6 +129065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est tout. N'oublie pas ce sentiment, c'est un sourire confiant !",
         game = 0,
         video = {
@@ -127788,6 +129159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sois honnête si tu ne m'aimes pas !",
         game = 0,
         video = {
@@ -127881,6 +129253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Si tu continues à chuchoter, je vais devoir rapprocher mes oreilles ~",
         game = 0,
         video = {
@@ -127974,6 +129347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non... je veux faire le petit déjeuner pour %s, je peux ?",
         game = 0,
         video = {
@@ -128067,6 +129441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... ! Prends confiance en toi en souriant...",
         game = 0,
         video = {
@@ -128160,6 +129535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein... ? De quoi tu parles, comment pourrais-je te détester ?",
         game = 0,
         video = {
@@ -128253,6 +129629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha... espérons que l'ampoule va encore germer.",
         game = 0,
         video = {
@@ -128346,6 +129723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s s'est occupé de moi, je veux aussi faire de mon mieux.",
         game = 0,
         video = {
@@ -128439,6 +129817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, si Natsumi est confiante, tout le monde te sourira.",
         game = 0,
         video = {
@@ -128532,6 +129911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Me demander de manger des œufs au plat... %s doivent détester ma silhouette mince !",
         game = 0,
         video = {
@@ -128627,6 +130007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un tournesol semble approprié",
         game = 0,
         video = {
@@ -128720,6 +130101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu as déjà fait beaucoup de choses, tu m'as aidé à nettoyer la chambre.",
         game = 0,
         video = {
@@ -128813,6 +130195,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... ?",
         game = 0,
         video = {
@@ -128906,6 +130289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne veux pas ressembler à ça non plus...",
         game = 0,
         video = {
@@ -128999,6 +130383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tournesol ?",
         game = 0,
         video = {
@@ -129092,6 +130477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... mais je veux en faire plus.",
         game = 0,
         video = {
@@ -129187,6 +130573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, essaie, Natsumi ? Souris ~",
         game = 0,
         video = {
@@ -129280,6 +130667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Calme-toi, Natsumi !",
         game = 0,
         video = {
@@ -129373,6 +130761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "D'accord, je comprends.",
         game = 0,
         video = {
@@ -129466,6 +130855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "N'es-tu pas heureux d'être réveillé par une belle grande sœur ?",
         game = 0,
         video = {
@@ -129559,6 +130949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr !",
         game = 0,
         video = {
@@ -129652,6 +131043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai tenu les épaules de Natsumi pour l'empêcher d'établir une connexion plus stressante.",
         game = 0,
         video = {
@@ -129745,6 +131137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi a pris un tournesol et l'a collé sur le bouquet de fleurs.",
         game = 0,
         video = {
@@ -129838,6 +131231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je l'ai acheté pour Natsumi !",
         game = 0,
         video = {
@@ -129931,6 +131325,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mon cœur s'est mis à battre la chamade quand Natsumi m'a regardé avec un sourire, c'était probablement le pouvoir de la confiance en soi...",
         game = 0,
         video = {
@@ -130023,6 +131418,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le lait et les œufs peuvent en effet t'aider à grandir, mais ce n'est pas ce que je voulais dire !",
         game = 0,
         video = {
@@ -130116,6 +131512,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il n'est peut-être pas approprié d'insérer un tournesol de couleur chaude sur un bouquet de couleur froide.",
         game = 0,
         video = {
@@ -130209,6 +131606,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... bonjour.",
         game = 0,
         video = {
@@ -130302,6 +131700,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ?... Pour moi ?",
         game = 0,
         video = {
@@ -130395,6 +131794,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Franchement... Je veux juste que tu sois plus satisfaisant.",
         game = 0,
         video = {
@@ -130488,6 +131888,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que c'est... ainsi ? Je ne peux rien faire de bien.",
         game = 0,
         video = {
@@ -130581,6 +131982,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Umu ! Je l'ai apporté ici parce que je ne t'ai pas trouvé dans l'appartement.",
         game = 0,
         video = {
@@ -130674,6 +132076,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, ce n'est pas la bonne façon de s'entendre.",
         game = 0,
         video = {
@@ -130767,6 +132170,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... ?",
         game = 0,
         video = {
@@ -130860,6 +132264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... c'est de ma faute, désolé, Natsumi.",
         game = 0,
         video = {
@@ -130953,6 +132358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hein ? Que... veux-tu dire ?",
         game = 0,
         video = {
@@ -131046,6 +132452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Umu ! La dernière fois que nous sommes passés devant un placard transparent, tu semblais fasciné par elle.",
         game = 0,
         video = {
@@ -131139,6 +132546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui, quant à être mince et petit, pourquoi n'aimerais-je pas cela ? Cela ne fait que me faire mal au cœur.",
         game = 0,
         video = {
@@ -131232,6 +132640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est rien... ce n'est pas si grave, si tu regardes bien.",
         game = 0,
         video = {
@@ -131325,6 +132734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Un placard ?",
         game = 0,
         video = {
@@ -131418,6 +132828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... mais est-ce que quelqu'un aimerait vraiment quelqu'un comme moi ?",
         game = 0,
         video = {
@@ -131511,6 +132922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le cœur... fait mal ?",
         game = 0,
         video = {
@@ -131604,6 +133016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha... c'est vrai, c'est bien tant que tu aimes ça.",
         game = 0,
         video = {
@@ -131697,6 +133110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, c'est mieux ! Allons-y.",
         game = 0,
         video = {
@@ -131790,6 +133204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après avoir entendu les instructions du propriétaire, Natsumi et moi avons quitté le magasin de fleurs.",
         game = 0,
         video = {
@@ -131883,6 +133298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, je veux bien m'occuper de toi parce que mon cœur me fait mal.",
         game = 0,
         video = {
@@ -131976,6 +133392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -132069,6 +133486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -132162,6 +133580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Okay.",
         game = 0,
         video = {
@@ -132255,6 +133674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu ne vas pas me détester ? Ce petit corps et cette mauvaise attitude...",
         game = 0,
         video = {
@@ -132351,6 +133771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -132444,6 +133865,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mets tes mains sur la taille et lève-toi lentement",
         game = 0,
         video = {
@@ -132538,6 +133960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Omurice",
         game = 0,
         video = {
@@ -132631,6 +134054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr que non, j'aime le Natsumi actuel.",
         game = 0,
         video = {
@@ -132724,6 +134148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après avoir quitté le magasin de fleurs, Natsumi et moi nous sommes promenés dans la rue sans but.",
         game = 0,
         video = {
@@ -132817,6 +134242,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ça fait mal...",
         game = 0,
         video = {
@@ -132911,6 +134337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -133004,6 +134431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi ouvrit grand ses yeux d'émeraude et me fixa.",
         game = 0,
         video = {
@@ -133097,6 +134525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Merci d'avoir fait de l'ikebana avec moi aujourd'hui, %s.",
         game = 0,
         video = {
@@ -133190,6 +134619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai mis ma main sur ma taille et je me suis levé lentement. Cette chute a été assez mauvaise.",
         game = 0,
         video = {
@@ -133283,6 +134713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ok, commençons !",
         game = 0,
         video = {
@@ -133376,6 +134807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comme si... %s m'aimait bien.",
         game = 0,
         video = {
@@ -133469,6 +134901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ne le mentionne pas, je me suis aussi bien amusé.",
         game = 0,
         video = {
@@ -133562,6 +134995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hein ~ pourquoi tant d'insouciance, ça fait mal, %s ?",
         game = 0,
         video = {
@@ -133655,6 +135089,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hum, le petit-déjeuner d'aujourd'hui est... de l'Omuraisu savoureux ~",
         game = 0,
         video = {
@@ -133748,6 +135183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Puis... Je dois donner la respiration artificielle à %s ~",
         game = 0,
         video = {
@@ -133841,6 +135277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'était une très bonne expérience.",
         game = 0,
         video = {
@@ -133934,6 +135371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se pencha, mit sa main sur ma taille et demanda doucement.",
         game = 0,
         video = {
@@ -134028,6 +135466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Confort Natsumi",
         game = 0,
         video = {
@@ -134121,6 +135560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Désolé... J'ai involontairement... pensé que tu ne m'aimais pas.",
         game = 0,
         video = {
@@ -134214,6 +135654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je sentais que Natsumi s'approchait lentement de moi.",
         game = 0,
         video = {
@@ -134307,6 +135748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ahh... Je, je vais bien !",
         game = 0,
         video = {
@@ -134400,6 +135842,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Je veux devenir plus confiant...",
         game = 0,
         video = {
@@ -134493,6 +135936,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, je suis content que nous ayons éclairci ce point.",
         game = 0,
         video = {
@@ -134586,6 +136030,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouah... Natsumi, je vais bien !",
         game = 0,
         video = {
@@ -134679,6 +136124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien... c'est bien ~ Mais, as-tu des projets pour aujourd'hui ?",
         game = 0,
         video = {
@@ -134772,6 +136218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... merci...",
         game = 0,
         video = {
@@ -134865,6 +136312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... ne me détestera pas ?",
         game = 0,
         video = {
@@ -134958,6 +136406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, quel dommage...",
         game = 0,
         video = {
@@ -135051,6 +136500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pourquoi demandes-tu cela ?",
         game = 0,
         video = {
@@ -135144,6 +136594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je suis tellement excitée ! Omurice ! Omurice !",
         game = 0,
         video = {
@@ -135237,6 +136688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr que non, je ne détesterai jamais Natsumi !",
         game = 0,
         video = {
@@ -135330,6 +136782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi riait de façon ludique, elle savait que je faisais semblant.",
         game = 0,
         video = {
@@ -135423,6 +136876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm~ Parce que je veux sortir avec toi aujourd'hui~",
         game = 0,
         video = {
@@ -135517,6 +136971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Seulement... nous deux ?",
         game = 0,
         video = {
@@ -135610,6 +137065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... d'accord !",
         game = 0,
         video = {
@@ -135703,6 +137159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que... tu sais que je vais bien ?",
         game = 0,
         video = {
@@ -135796,6 +137253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Rien de tel ! Tout le monde est passé devant nous.",
         game = 0,
         video = {
@@ -135889,6 +137347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vois, c'est sûr que ça va se réaliser !",
         game = 0,
         video = {
@@ -135982,6 +137441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi se calma à mes mots.",
         game = 0,
         video = {
@@ -136075,6 +137535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh... %s n'est pas du tout honnête. J'étais si inquiète, mais c'était faux ?",
         game = 0,
         video = {
@@ -136168,6 +137629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pendant que Natsumi s'asseyait soigneusement sur la balançoire, j'ai étendu les mains à l'arrière et je me suis préparé.",
         game = 0,
         video = {
@@ -136261,6 +137723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ? c'est gentil de ta part, nii-chan~",
         game = 0,
         video = {
@@ -136354,6 +137817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -136447,6 +137911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Désolé, je l'ai fait sur un coup de tête...",
         game = 0,
         video = {
@@ -136540,6 +138005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi peut en garder pour toi",
         game = 0,
         video = {
@@ -136633,6 +138099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui... mais il y a tellement d'humains...",
         game = 0,
         video = {
@@ -136727,6 +138194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -136820,6 +138288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Si tu es sincère, ne devrais-tu pas me dédommager maintenant ?",
         game = 0,
         video = {
@@ -136914,6 +138383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Donne... moi ? Est-ce que je peux vraiment les garder ?",
         game = 0,
         video = {
@@ -137007,6 +138477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je... vois.",
         game = 0,
         video = {
@@ -137100,6 +138571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après le petit-déjeuner, je décidai de ranger la chambre.",
         game = 0,
         video = {
@@ -137193,6 +138665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -137286,6 +138759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Natsumi peut aussi en reprendre.",
         game = 0,
         video = {
@@ -137379,6 +138853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi baissa la tête en panique alors que les gens allaient et venaient autour de nous.",
         game = 0,
         video = {
@@ -137472,6 +138947,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Est-ce que je peux aider ?",
         game = 0,
         video = {
@@ -137565,6 +139041,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Oh ? il y a mon nom dessus...",
         game = 0,
         video = {
@@ -137658,6 +139135,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Merci.",
         game = 0,
         video = {
@@ -137751,6 +139229,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... ok...",
         game = 0,
         video = {
@@ -137844,6 +139323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu ne veux pas te reposer ?",
         game = 0,
         video = {
@@ -137938,6 +139418,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Demande le souhait de Natsumi",
         game = 0,
         video = {
@@ -138031,6 +139512,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "En y pensant bien, les fleurs séchées sont aussi bonnes. Tu veux des fleurs séchées, Natsumi ?",
         game = 0,
         video = {
@@ -138124,6 +139606,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -138217,6 +139700,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne veux pas me reposer, je veux... aider.",
         game = 0,
         video = {
@@ -138311,6 +139795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -138404,6 +139889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Des fleurs séchées ?",
         game = 0,
         video = {
@@ -138497,6 +139983,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Qui cela peut-il être ?",
         game = 0,
         video = {
@@ -138590,6 +140077,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... dans ce cas, peux-tu m'aider à ouvrir la fenêtre ?",
         game = 0,
         video = {
@@ -138683,6 +140171,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un dimanche matin, j'ai quitté le lit chaud en ayant sommeil et je me suis préparé à faire le petit déjeuner.",
         game = 0,
         video = {
@@ -138776,6 +140265,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi pencha la tête et sembla confuse par ma proposition.",
         game = 0,
         video = {
@@ -138869,6 +140359,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, as-tu fait ton vœu ?",
         game = 0,
         video = {
@@ -138962,6 +140453,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "On peut respirer de l'air frais si la pièce est aérée.",
         game = 0,
         video = {
@@ -139055,6 +140547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Hmm ?",
         game = 0,
         video = {
@@ -139148,6 +140641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Parce que depuis peu, c'est populaire de mettre des fleurs séchées à la maison pour la décoration.",
         game = 0,
         video = {
@@ -139241,6 +140735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi, plantons-le dans le pot de fleurs.",
         game = 0,
         video = {
@@ -139334,6 +140829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm ! Je suis en route !",
         game = 0,
         video = {
@@ -139427,6 +140923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis frotté les yeux pour avoir un aperçu clair de la chambre familière.",
         game = 0,
         video = {
@@ -139520,6 +141017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Décorer avec des fleurs séchées ?",
         game = 0,
         video = {
@@ -139614,6 +141112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -139707,6 +141206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -139801,6 +141301,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -139894,6 +141395,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi me fixait intensément, ce qui me rendait difficile de faire attention à d'autres choses.",
         game = 0,
         video = {
@@ -139987,6 +141489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il se trouve que nous avons un pot de fleurs vide chez nous, nous pouvons le planter là.",
         game = 0,
         video = {
@@ -140086,6 +141589,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bang...",
         game = 0,
         video = {
@@ -140179,6 +141683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Les fenêtres sont claires, la table et le sol sont bien rangés.",
         game = 0,
         video = {
@@ -140272,6 +141777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... !",
         game = 0,
         video = {
@@ -140365,6 +141871,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... achetons-la.",
         game = 0,
         video = {
@@ -140458,6 +141965,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi a frappé la fenêtre avec un son très aigu.",
         game = 0,
         video = {
@@ -140551,6 +142059,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Avec la poubelle tombée, les murs égratignés et le canapé rasé... le nettoyage ne semblait pas se passer si bien.",
         game = 0,
         video = {
@@ -140644,6 +142153,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est super, j'espère que le vœu de Natsumi se réalisera.",
         game = 0,
         video = {
@@ -140737,6 +142247,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Si tu veux savoir... Je peux te dire, %s...",
         game = 0,
         video = {
@@ -140830,6 +142341,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que ça va ?!",
         game = 0,
         video = {
@@ -140923,6 +142435,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ai-je bien vu...",
         game = 0,
         video = {
@@ -141018,6 +142531,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... ça n'a rien à voir avec le QI, qui l'a fait alors ?",
         game = 0,
         video = {
@@ -141111,6 +142625,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm !",
         game = 0,
         video = {
@@ -141204,6 +142719,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je me suis dépêché d'aller aider Natsumi à se relever. Il y avait des larmes aux coins de ses yeux à cause de la douleur.",
         game = 0,
         video = {
@@ -141298,6 +142814,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -141391,6 +142908,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "D'accord, tiens bon !",
         game = 0,
         video = {
@@ -141484,6 +143002,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Vraiment... ? J'ai peur de ne pas pouvoir le faire...",
         game = 0,
         video = {
@@ -141577,6 +143096,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vais bien... ce niveau de douleur, je peux le supporter... *sniffer*...",
         game = 0,
         video = {
@@ -141670,6 +143190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et ce bulbe ? Est-ce qu'on le jette ?",
         game = 0,
         video = {
@@ -141766,6 +143287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -141859,6 +143381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais à cette heure-ci... Je me demande si tout le monde s'est réveillé.",
         game = 0,
         video = {
@@ -141952,6 +143475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ne fais pas le dur dans un moment pareil, laisse-moi regarder !",
         game = 0,
         video = {
@@ -142045,6 +143569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mais, mais... Je n'avais jamais fait ça avant...",
         game = 0,
         video = {
@@ -142138,6 +143663,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi tenait la main de Yoshino avec joie et lui offrait un sourire rare.",
         game = 0,
         video = {
@@ -142230,6 +143756,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "N'aie pas peur. C'est simple, juste comme ça ~",
         game = 0,
         video = {
@@ -142323,6 +143850,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dieu merci, ce n'est pas grave.",
         game = 0,
         video = {
@@ -142416,6 +143944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... ahem...",
         game = 0,
         video = {
@@ -142509,6 +144038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yoshino a mangé la dernière bouchée d'omurice et s'est dépêché de partir.",
         game = 0,
         video = {
@@ -142603,6 +144133,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'étais... très touchée, mais m'emballer dans un cadeau...",
         game = 0,
         video = {
@@ -142696,6 +144227,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je ne te l'avais pas dit ? Je vais bien.",
         game = 0,
         video = {
@@ -142789,6 +144321,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je te donnerai tout ce que tu veux, Natsumi",
         game = 0,
         video = {
@@ -142882,6 +144415,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "S'il te plaît, pousse plus fort, nii-chan !",
         game = 0,
         video = {
@@ -142976,6 +144510,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Invite Tohka",
         game = 0,
         video = {
@@ -143069,6 +144604,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et... si je ne peux pas faire une petite chose comme ouvrir une fenêtre, tu vas penser que je suis incompétent.",
         game = 0,
         video = {
@@ -143162,6 +144698,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est très gentil de ta part",
         game = 0,
         video = {
@@ -143255,6 +144792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cueillons des fleurs fraîches",
         game = 0,
         video = {
@@ -143348,6 +144886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je restai immobile et attendis que Natsumi s'occupe de moi.",
         game = 0,
         video = {
@@ -143441,6 +144980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non. C'était juste un accident, pas lié à l'incapacité.",
         game = 0,
         video = {
@@ -143534,6 +145074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Il n'y a pas besoin de me remercier.",
         game = 0,
         video = {
@@ -143627,6 +145168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi a pris la main de Yoshino et l'a tirée vers la balançoire.",
         game = 0,
         video = {
@@ -143720,6 +145262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...",
         game = 0,
         video = {
@@ -143813,6 +145356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est donc... juste un accident.",
         game = 0,
         video = {
@@ -143906,6 +145450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Et... par rapport aux autres, j'en ai fait trop peu, n'est-ce pas ?",
         game = 0,
         video = {
@@ -143999,6 +145544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quelqu'un qui a nettoyé la chambre sans m'en avertir...",
         game = 0,
         video = {
@@ -144092,6 +145638,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Y a-t-il quelqu'un qui n'aime pas ce corps parfait ?",
         game = 0,
         video = {
@@ -144185,6 +145732,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Désolé... Je t'ai inquiété, %s.",
         game = 0,
         video = {
@@ -144278,6 +145826,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Non, Natsumi a fait beaucoup.",
         game = 0,
         video = {
@@ -144371,6 +145920,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu es touchée ?",
         game = 0,
         video = {
@@ -144464,6 +146014,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "De toute façon, tu dois te transformer pour retrouver ton moi originel.",
         game = 0,
         video = {
@@ -144557,6 +146108,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ce n'est pas grave, pas besoin de s'excuser pour de telles choses.",
         game = 0,
         video = {
@@ -144650,6 +146202,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... Je veux en faire plus, de toute façon, je vais faire de mon mieux.",
         game = 0,
         video = {
@@ -144743,6 +146296,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -144836,6 +146390,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "La Natsumi mûre a disparu avec fracas.",
         game = 0,
         video = {
@@ -144929,6 +146484,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Est-ce que je peux... encore t'aider ?",
         game = 0,
         video = {
@@ -145022,6 +146578,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cela dit, Natsumi se retourna et entra dans la cuisine.",
         game = 0,
         video = {
@@ -145115,6 +146672,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, c'est mieux. On prépare le petit déjeuner ensemble ?",
         game = 0,
         video = {
@@ -145208,6 +146766,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après quelques lavages, j'étais prêt à montrer mes talents de cuisinier.",
         game = 0,
         video = {
@@ -145301,6 +146860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bien sûr, pas besoin de parler avec autant de précaution, mais n'as-tu pas besoin de te reposer ?",
         game = 0,
         video = {
@@ -145394,6 +146954,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -145487,6 +147048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quelqu'un a dû le nettoyer",
         game = 0,
         video = {
@@ -145580,6 +147142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ahem... pourquoi es-tu derrière le rideau ?",
         game = 0,
         video = {
@@ -145673,6 +147236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pas de problème, je n'ai plus mal.",
         game = 0,
         video = {
@@ -145767,6 +147331,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -145860,6 +147425,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "S'il te plaît, ne dis pas de telles choses trompeuses !",
         game = 0,
         video = {
@@ -145953,6 +147519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je peux... t'aider... ?",
         game = 0,
         video = {
@@ -146046,6 +147613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi marcha sur la pointe des pieds et poussa la fenêtre ouverte, laissant entrer le vent.",
         game = 0,
         video = {
@@ -146139,6 +147707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Le tablier... Natsumi, tu dois attacher le tablier.",
         game = 0,
         video = {
@@ -146232,6 +147801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "C'est peut-être l'œuvre de Natsumi",
         game = 0,
         video = {
@@ -146325,6 +147895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -146418,6 +147989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Après cette petite mésaventure, nous avons continué à ranger la chambre.",
         game = 0,
         video = {
@@ -146511,6 +148083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pas de problème, je vais le mettre.",
         game = 0,
         video = {
@@ -146604,6 +148177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tohka, Origami et Yoshino sont restés ici tard hier soir avant de rentrer, Miku ne ferait pas de telles choses délibérément.",
         game = 0,
         video = {
@@ -146697,6 +148271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -146790,6 +148365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... ces fleurs se sont fanées.",
         game = 0,
         video = {
@@ -146883,6 +148459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Laisse-moi préparer le petit-déjeuner",
         game = 0,
         video = {
@@ -146976,6 +148553,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peu importe ce que je pensais, Natsumi était très méfiante.",
         game = 0,
         video = {
@@ -147069,6 +148647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Grand Frère, tu n'as pas une \"liste de suspects\" ?",
         game = 0,
         video = {
@@ -147162,6 +148741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Qu'est-ce qu'il faut faire ? Les jeter ?",
         game = 0,
         video = {
@@ -147255,6 +148835,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Que veux-tu manger, Natsumi ?",
         game = 0,
         video = {
@@ -147348,6 +148929,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Attends... pourquoi le rideau bouge-t-il ?",
         game = 0,
         video = {
@@ -147441,6 +149023,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un rendez-vous avec... Natsumi ?",
         game = 0,
         video = {
@@ -147534,6 +149117,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Euh... nous devons les jeter et en acheter de nouvelles.",
         game = 0,
         video = {
@@ -147627,6 +149211,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tu prépares le petit déjeuner, %s ?",
         game = 0,
         video = {
@@ -147720,6 +149305,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... se pourrait-il que...",
         game = 0,
         video = {
@@ -147813,6 +149399,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quoi, tu sembles réticent ?",
         game = 0,
         video = {
@@ -147906,6 +149493,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quel dommage... Une fois fanées, elles deviennent sans valeur et on ne peut que les jeter. Tel est le sort des fleurs fraîches.",
         game = 0,
         video = {
@@ -147999,6 +149587,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, je n'ai pas pris de petit déjeuner non plus, mangeons ensemble.",
         game = 0,
         video = {
@@ -148092,6 +149681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "J'ai soulevé les rideaux et j'ai vu une femme de 25 ans derrière.",
         game = 0,
         video = {
@@ -148185,6 +149775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pas réticent, je me sens juste un peu brusque.",
         game = 0,
         video = {
@@ -148278,6 +149869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Nous pouvons peut-être acheter des graines et les planter, mais même en pot, elles peuvent se flétrir avant de fleurir.",
         game = 0,
         video = {
@@ -148371,6 +149963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tant que c'est fait par %s... toute nourriture est bonne.",
         game = 0,
         video = {
@@ -148464,6 +150057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bonjour, %s.",
         game = 0,
         video = {
@@ -148557,6 +150151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Un tel comportement... blesserait les sentiments d'une fille.",
         game = 0,
         video = {
@@ -148650,6 +150245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Alors... qu'est-ce que tu vas faire, %s ?",
         game = 0,
         video = {
@@ -148743,6 +150339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Je vois... pourquoi pas des œufs frits sur des toasts avec du lait ?",
         game = 0,
         video = {
@@ -148836,6 +150433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Natsumi !",
         game = 0,
         video = {
@@ -148929,6 +150527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "En voyant Kotori jeter un coup d'œil désinvolte au coin de la rue, j'ai suivi son regard mais je n'y ai rien vu.",
         game = 0,
         video = {
@@ -149022,6 +150621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Peux-tu m'accompagner à la boutique de fleurs, Natsumi ?",
         game = 0,
         video = {
@@ -149115,6 +150715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oui... ça me paraît bien.",
         game = 0,
         video = {
@@ -149208,6 +150809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Es-tu si surprise que ça ?",
         game = 0,
         video = {
@@ -149301,6 +150903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natsumi semblait étudier attentivement avec les yeux élargis.",
         game = 0,
         video = {

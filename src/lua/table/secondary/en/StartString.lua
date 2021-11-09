@@ -613,7 +613,7 @@ return {
     },
     [270002] = {
         id = 270002,
-        text = "We detected that this is not a new account. To start the game, you need to download %s resources. Start downloading now?",
+        text = "To start the game, you need to download %s resources. Start downloading now?",
     },
     [800014] = {
         id = 800014,
@@ -621,7 +621,7 @@ return {
     },
     [270003] = {
         id = 270003,
-        text = "We detected that this is not a new account. To start the game, you need to download %s resources. Start downloading now?\n\n*It's recommended to download using WiFi",
+        text = "To start the game, you need to download %s resources. Start downloading now?\n\n*It's recommended to download using WiFi",
     },
     [800015] = {
         id = 800015,

@@ -60,6 +60,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -161,6 +162,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -262,6 +264,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -363,6 +366,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -464,6 +468,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -566,6 +571,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -667,6 +673,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -771,6 +778,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -872,6 +880,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -973,6 +982,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1074,6 +1084,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1175,6 +1186,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1276,6 +1288,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1377,6 +1390,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1478,6 +1492,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1579,6 +1594,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1680,6 +1696,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1781,6 +1798,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1882,6 +1900,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -1983,6 +2002,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2084,6 +2104,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2185,6 +2206,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2286,6 +2308,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2387,6 +2410,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2488,6 +2512,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2588,6 +2613,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2689,6 +2715,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2793,6 +2820,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2894,6 +2922,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -2995,6 +3024,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -3107,6 +3137,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -3208,6 +3239,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -3309,6 +3341,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -3410,6 +3443,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -3511,6 +3545,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -3612,6 +3647,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -3713,6 +3749,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -3814,6 +3851,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -3915,6 +3953,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4018,6 +4057,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4119,6 +4159,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4220,6 +4261,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4321,6 +4363,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4422,6 +4465,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4523,6 +4567,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4624,6 +4669,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4726,6 +4772,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4833,6 +4880,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -4934,6 +4982,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5038,6 +5087,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5142,6 +5192,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5243,6 +5294,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5344,6 +5396,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5448,6 +5501,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5551,6 +5605,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5652,6 +5707,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5753,6 +5809,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5854,6 +5911,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -5955,6 +6013,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6056,6 +6115,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6157,6 +6217,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6258,6 +6319,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6359,6 +6421,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6460,6 +6523,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6561,6 +6625,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6662,6 +6727,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6763,6 +6829,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6866,6 +6933,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -6967,6 +7035,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7068,6 +7137,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7169,6 +7239,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7270,6 +7341,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7371,6 +7443,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7472,6 +7545,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7573,6 +7647,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7674,6 +7749,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7775,6 +7851,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7877,6 +7954,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -7978,6 +8056,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -8079,6 +8158,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -8180,6 +8260,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -8281,6 +8362,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -8382,6 +8464,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -8483,6 +8566,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -8590,6 +8674,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -8691,6 +8776,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -8792,6 +8878,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -8899,6 +8986,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9000,6 +9088,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9101,6 +9190,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9202,6 +9292,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9303,6 +9394,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9406,6 +9498,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9507,6 +9600,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9608,6 +9702,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9709,6 +9804,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9810,6 +9906,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -9911,6 +10008,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10012,6 +10110,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10113,6 +10212,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10214,6 +10314,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10315,6 +10416,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10416,6 +10518,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10517,6 +10620,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10618,6 +10722,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10719,6 +10824,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10820,6 +10926,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -10921,6 +11028,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11022,6 +11130,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11123,6 +11232,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11224,6 +11334,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11325,6 +11436,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11426,6 +11538,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11527,6 +11640,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11628,6 +11742,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11729,6 +11844,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11830,6 +11946,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -11931,6 +12048,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -12032,6 +12150,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -12133,6 +12252,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -12234,6 +12354,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -12336,6 +12457,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -12438,6 +12560,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -12539,6 +12662,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -12640,6 +12764,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
             [1] = 101,
@@ -12743,6 +12868,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -12847,6 +12973,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -12949,6 +13076,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13050,6 +13178,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13151,6 +13280,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13252,6 +13382,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13353,6 +13484,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13455,6 +13587,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13556,6 +13689,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13660,6 +13794,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13762,6 +13897,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13864,6 +14000,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -13965,6 +14102,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14065,6 +14203,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14166,6 +14305,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14267,6 +14407,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14369,6 +14510,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14471,6 +14613,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14572,6 +14715,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14673,6 +14817,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14775,6 +14920,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14876,6 +15022,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -14977,6 +15124,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15078,6 +15226,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15180,6 +15329,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15281,6 +15431,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15382,6 +15533,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15483,6 +15635,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15584,6 +15737,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15685,6 +15839,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15789,6 +15944,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15890,6 +16046,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -15991,6 +16148,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -16094,6 +16252,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -16195,6 +16354,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -16296,6 +16456,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -16397,6 +16558,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -16498,6 +16660,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -16599,6 +16762,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -16700,6 +16864,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -16801,6 +16966,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -16902,6 +17068,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -17003,6 +17170,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -17104,6 +17272,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
             [1] = 102,
@@ -17207,6 +17376,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -17308,6 +17478,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -17409,6 +17580,7 @@ return {
         name = "나츠미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -17510,6 +17682,7 @@ return {
         name = "나츠미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -17611,6 +17784,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -17712,6 +17886,7 @@ return {
         name = "나츠미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -17813,6 +17988,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -17914,6 +18090,7 @@ return {
         name = "나츠미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18015,6 +18192,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18116,6 +18294,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18217,6 +18396,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18318,6 +18498,7 @@ return {
         name = "나츠미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18421,6 +18602,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18522,6 +18704,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18623,6 +18806,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18729,6 +18913,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18830,6 +19015,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -18931,6 +19117,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19032,6 +19219,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19133,6 +19321,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19234,6 +19423,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19335,6 +19525,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19436,6 +19627,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19537,6 +19729,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19638,6 +19831,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19739,6 +19933,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19840,6 +20035,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -19941,6 +20137,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20042,6 +20239,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20143,6 +20341,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20244,6 +20443,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20345,6 +20545,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20448,6 +20649,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20549,6 +20751,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20652,6 +20855,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20754,6 +20958,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20855,6 +21060,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -20956,6 +21162,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21057,6 +21264,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21158,6 +21366,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21259,6 +21468,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21363,6 +21573,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21464,6 +21675,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21565,6 +21777,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21666,6 +21879,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21767,6 +21981,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21870,6 +22085,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -21971,6 +22187,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22072,6 +22289,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22173,6 +22391,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22274,6 +22493,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22375,6 +22595,7 @@ return {
         name = "나츠미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22476,6 +22697,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22577,6 +22799,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22680,6 +22903,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22781,6 +23005,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22882,6 +23107,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -22984,6 +23210,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23085,6 +23312,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23186,6 +23414,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23287,6 +23516,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23390,6 +23620,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23491,6 +23722,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23592,6 +23824,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23693,6 +23926,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23797,6 +24031,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23898,6 +24133,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -23999,6 +24235,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -24100,6 +24337,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -24201,6 +24439,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -24303,6 +24542,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -24404,6 +24644,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -24505,6 +24746,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -24606,6 +24848,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -24706,6 +24949,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -24807,6 +25051,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -24908,6 +25153,7 @@ return {
         name = "나츠미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25009,6 +25255,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25110,6 +25357,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25211,6 +25459,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25312,6 +25561,7 @@ return {
         name = "요시농",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25413,6 +25663,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25514,6 +25765,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25615,6 +25867,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25716,6 +25969,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25817,6 +26071,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -25918,6 +26173,7 @@ return {
         name = "요시농",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26019,6 +26275,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26121,6 +26378,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26222,6 +26480,7 @@ return {
         name = "요시노",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26323,6 +26582,7 @@ return {
         name = "요시노",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26424,6 +26684,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26525,6 +26786,7 @@ return {
         name = "나츠미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26629,6 +26891,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26730,6 +26993,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26831,6 +27095,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -26932,6 +27197,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27033,6 +27299,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27134,6 +27401,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27235,6 +27503,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27336,6 +27605,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27437,6 +27707,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27538,6 +27809,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27639,6 +27911,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27740,6 +28013,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27841,6 +28115,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -27942,6 +28217,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28043,6 +28319,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28144,6 +28421,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28245,6 +28523,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28348,6 +28627,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28449,6 +28729,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28550,6 +28831,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28651,6 +28933,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28752,6 +29035,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28853,6 +29137,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -28954,6 +29239,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29055,6 +29341,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29156,6 +29443,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29257,6 +29545,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29360,6 +29649,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29461,6 +29751,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29564,6 +29855,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29665,6 +29957,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29766,6 +30059,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29867,6 +30161,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -29968,6 +30263,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30069,6 +30365,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30173,6 +30470,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30274,6 +30572,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30374,6 +30673,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30478,6 +30778,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30579,6 +30880,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30680,6 +30982,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30781,6 +31084,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30882,6 +31186,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -30983,6 +31288,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31084,6 +31390,7 @@ return {
         name = "오카미네 타마에",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31185,6 +31492,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31286,6 +31594,7 @@ return {
         name = "오카미네 타마에",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31387,6 +31696,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31488,6 +31798,7 @@ return {
         name = "오카미네 타마에",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31589,6 +31900,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31691,6 +32003,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31792,6 +32105,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31893,6 +32207,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -31994,6 +32309,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -32095,6 +32411,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -32196,6 +32513,7 @@ return {
         name = "미이",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -32298,6 +32616,7 @@ return {
         name = "하자쿠라 마이",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -32399,6 +32718,7 @@ return {
         name = "야마부키 아이",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -32500,6 +32820,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -32601,6 +32922,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -32706,6 +33028,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -32807,6 +33130,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -32907,6 +33231,7 @@ return {
         name = "이자요이 미쿠",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33008,6 +33333,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33109,6 +33435,7 @@ return {
         name = "이자요이 미쿠",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33210,6 +33537,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33311,6 +33639,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33412,6 +33741,7 @@ return {
         name = "이자요이 미쿠",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33513,6 +33843,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33614,6 +33945,7 @@ return {
         name = "이자요이 미쿠",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33715,6 +34047,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33816,6 +34149,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -33917,6 +34251,7 @@ return {
         name = "이자요이 미쿠",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34018,6 +34353,7 @@ return {
         name = "이자요이 미쿠",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34119,6 +34455,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34220,6 +34557,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34321,6 +34659,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34422,6 +34761,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34525,6 +34865,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34629,6 +34970,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34730,6 +35072,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34830,6 +35173,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -34931,6 +35275,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35032,6 +35377,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35133,6 +35479,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35234,6 +35581,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35335,6 +35683,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35436,6 +35785,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35537,6 +35887,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35638,6 +35989,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35738,6 +36090,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35839,6 +36192,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -35940,6 +36294,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36047,6 +36402,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36148,6 +36504,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36252,6 +36609,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36353,6 +36711,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36454,6 +36813,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36555,6 +36915,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36656,6 +37017,7 @@ return {
         name = "카구야",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36757,6 +37119,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36861,6 +37224,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -36962,6 +37326,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
             [1] = 108,
@@ -37065,6 +37430,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -37166,6 +37532,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -37267,6 +37634,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -37368,6 +37736,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -37469,6 +37838,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -37570,6 +37940,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -37671,6 +38042,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -37772,6 +38144,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -37873,6 +38246,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -37977,6 +38351,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38078,6 +38453,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38179,6 +38555,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38280,6 +38657,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38381,6 +38759,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38484,6 +38863,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38585,6 +38965,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38686,6 +39067,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38787,6 +39169,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38888,6 +39271,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -38989,6 +39373,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -39090,6 +39475,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -39191,6 +39577,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -39292,6 +39679,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -39393,6 +39781,7 @@ return {
         name = "유즈루",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -39496,6 +39885,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -39597,6 +39987,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -39698,6 +40089,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -39799,6 +40191,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -39900,6 +40293,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40006,6 +40400,7 @@ return {
         name = "토노마치 히로토",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40107,6 +40502,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40208,6 +40604,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40309,6 +40706,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40410,6 +40808,7 @@ return {
         name = "토노마치 히로토",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40513,6 +40912,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40615,6 +41015,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40716,6 +41117,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40817,6 +41219,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -40918,6 +41321,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41019,6 +41423,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41121,6 +41526,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41222,6 +41628,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41323,6 +41730,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41424,6 +41832,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41525,6 +41934,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41626,6 +42036,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41727,6 +42138,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41828,6 +42240,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -41929,6 +42342,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42032,6 +42446,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42133,6 +42548,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42234,6 +42650,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42335,6 +42752,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42436,6 +42854,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42537,6 +42956,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42638,6 +43058,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42739,6 +43160,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42840,6 +43262,7 @@ return {
         name = "나츠미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -42941,6 +43364,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43043,6 +43467,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43144,6 +43569,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43251,6 +43677,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43352,6 +43779,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43453,6 +43881,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43554,6 +43983,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43655,6 +44085,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43756,6 +44187,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43857,6 +44289,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -43958,6 +44391,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44059,6 +44493,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44160,6 +44595,7 @@ return {
         name = "토노마치 히로토",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44261,6 +44697,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44366,6 +44803,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44467,6 +44905,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44568,6 +45007,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44669,6 +45109,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44770,6 +45211,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44871,6 +45313,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -44972,6 +45415,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45073,6 +45517,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45174,6 +45619,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45275,6 +45721,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45376,6 +45823,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45477,6 +45925,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45578,6 +46027,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45683,6 +46133,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45785,6 +46236,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45886,6 +46338,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -45987,6 +46440,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -46089,6 +46543,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -46190,6 +46645,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -46292,6 +46748,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -46393,6 +46850,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -46494,6 +46952,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -46596,6 +47055,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -46697,6 +47157,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -46798,6 +47259,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -46899,6 +47361,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47000,6 +47463,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47101,6 +47565,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47206,6 +47671,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47307,6 +47773,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47407,6 +47874,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47508,6 +47976,7 @@ return {
         name = "요시농",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47609,6 +48078,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47710,6 +48180,7 @@ return {
         name = "요시농",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47812,6 +48283,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -47914,6 +48386,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48018,6 +48491,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48120,6 +48594,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48221,6 +48696,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48323,6 +48799,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48425,6 +48902,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48526,6 +49004,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48627,6 +49106,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48728,6 +49208,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48829,6 +49310,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -48930,6 +49412,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49032,6 +49515,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49134,6 +49618,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49235,6 +49720,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49336,6 +49822,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49437,6 +49924,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49538,6 +50026,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49639,6 +50128,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49740,6 +50230,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49841,6 +50332,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -49942,6 +50434,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50043,6 +50536,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50144,6 +50638,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50245,6 +50740,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50347,6 +50843,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50449,6 +50946,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50550,6 +51048,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50652,6 +51151,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50753,6 +51253,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50855,6 +51356,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -50957,6 +51459,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51058,6 +51561,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51159,6 +51663,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51260,6 +51765,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51361,6 +51867,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51463,6 +51970,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51564,6 +52072,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51665,6 +52174,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51766,6 +52276,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51867,6 +52378,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -51968,6 +52480,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52069,6 +52582,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52170,6 +52684,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52271,6 +52786,7 @@ return {
         name = "요시노",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52372,6 +52888,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52476,6 +52993,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52580,6 +53098,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52681,6 +53200,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52785,6 +53305,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52886,6 +53407,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -52987,6 +53509,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -53088,6 +53611,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -53189,6 +53713,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -53291,6 +53816,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -53392,6 +53918,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -53493,6 +54020,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -53594,6 +54122,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -53695,6 +54224,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -53799,6 +54329,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -53900,6 +54431,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54001,6 +54533,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54102,6 +54635,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54203,6 +54737,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54304,6 +54839,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54405,6 +54941,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54506,6 +55043,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54613,6 +55151,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54714,6 +55253,7 @@ return {
         name = "요시농",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54815,6 +55355,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -54916,6 +55457,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55017,6 +55559,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55120,6 +55663,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55221,6 +55765,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55322,6 +55867,7 @@ return {
         name = "요시노",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55425,6 +55971,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55526,6 +56073,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55627,6 +56175,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55728,6 +56277,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55829,6 +56379,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -55930,6 +56481,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56031,6 +56583,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56132,6 +56685,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56233,6 +56787,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56334,6 +56889,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56435,6 +56991,7 @@ return {
         name = "요시농",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56536,6 +57093,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56637,6 +57195,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56744,6 +57303,7 @@ return {
         name = "요시농",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56845,6 +57405,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -56946,6 +57507,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57047,6 +57609,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57151,6 +57714,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57252,6 +57816,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57353,6 +57918,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57454,6 +58020,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57555,6 +58122,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57659,6 +58227,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57760,6 +58329,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57861,6 +58431,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -57961,6 +58532,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58062,6 +58634,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58163,6 +58736,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58264,6 +58838,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58365,6 +58940,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58466,6 +59042,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58570,6 +59147,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58671,6 +59249,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58772,6 +59351,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58873,6 +59453,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -58974,6 +59555,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59075,6 +59657,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59176,6 +59759,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59277,6 +59861,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59378,6 +59963,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59479,6 +60065,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59580,6 +60167,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59681,6 +60269,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59784,6 +60373,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59887,6 +60477,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -59988,6 +60579,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -60089,6 +60681,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -60190,6 +60783,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -60291,6 +60885,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -60392,6 +60987,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -60496,6 +61092,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -60597,6 +61194,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -60698,6 +61296,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -60799,6 +61398,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -60900,6 +61500,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61001,6 +61602,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61102,6 +61704,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61203,6 +61806,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61304,6 +61908,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61405,6 +62010,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61506,6 +62112,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61607,6 +62214,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61708,6 +62316,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61811,6 +62420,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -61912,6 +62522,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62013,6 +62624,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62114,6 +62726,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62215,6 +62828,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62316,6 +62930,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62417,6 +63032,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62518,6 +63134,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62619,6 +63236,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62720,6 +63338,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62821,6 +63440,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -62921,6 +63541,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -63022,6 +63643,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
             [1] = 104,
@@ -63126,6 +63748,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -63227,6 +63850,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -63331,6 +63955,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -63432,6 +64057,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -63533,6 +64159,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -63634,6 +64261,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -63735,6 +64363,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -63836,6 +64465,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -63937,6 +64567,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64038,6 +64669,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64139,6 +64771,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64240,6 +64873,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64341,6 +64975,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64442,6 +65077,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64549,6 +65185,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64650,6 +65287,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64751,6 +65389,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64852,6 +65491,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -64954,6 +65594,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65056,6 +65697,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65158,6 +65800,7 @@ return {
         name = "토비이치 오리가미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65259,6 +65902,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65361,6 +66005,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65465,6 +66110,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65567,6 +66213,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65668,6 +66315,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65769,6 +66417,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65870,6 +66519,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -65974,6 +66624,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66075,6 +66726,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66176,6 +66828,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66278,6 +66931,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66380,6 +67034,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66481,6 +67136,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66582,6 +67238,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66683,6 +67340,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66784,6 +67442,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66885,6 +67544,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -66986,6 +67646,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -67087,6 +67748,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -67188,6 +67850,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -67289,6 +67952,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -67390,6 +68054,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -67491,6 +68156,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -67592,6 +68258,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -67693,6 +68360,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -67794,6 +68462,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -67898,6 +68567,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68000,6 +68670,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68101,6 +68772,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68202,6 +68874,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68303,6 +68976,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68404,6 +69078,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68507,6 +69182,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68609,6 +69285,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68710,6 +69387,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68811,6 +69489,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -68912,6 +69591,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69013,6 +69693,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69114,6 +69795,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69215,6 +69897,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69316,6 +69999,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69417,6 +70101,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69518,6 +70203,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69619,6 +70305,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69720,6 +70407,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69820,6 +70508,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -69921,6 +70610,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70022,6 +70712,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70123,6 +70814,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70224,6 +70916,7 @@ return {
         name = "무라사메 레이네",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70327,6 +71020,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70428,6 +71122,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70529,6 +71224,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70630,6 +71326,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70731,6 +71428,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70832,6 +71530,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -70935,6 +71634,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71036,6 +71736,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71137,6 +71838,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71238,6 +71940,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71341,6 +72044,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71442,6 +72146,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71543,6 +72248,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71647,6 +72353,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71748,6 +72455,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71849,6 +72557,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -71950,6 +72659,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72051,6 +72761,7 @@ return {
         name = "야토가미 토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72152,6 +72863,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72254,6 +72966,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72355,6 +73068,7 @@ return {
         name = "이츠카 코토리",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72456,6 +73170,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72557,6 +73272,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72658,6 +73374,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72759,6 +73476,7 @@ return {
         name = "토키사키 쿠루미",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72860,6 +73578,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -72961,6 +73680,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73062,6 +73782,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73163,6 +73884,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73264,6 +73986,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73365,6 +74088,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73472,6 +74196,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73575,6 +74300,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73676,6 +74402,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73777,6 +74504,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73878,6 +74606,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -73981,6 +74710,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -74082,6 +74812,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -74183,6 +74914,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -74286,6 +75018,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -74387,6 +75120,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -74488,6 +75222,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -74593,6 +75328,7 @@ return {
         name = "",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -74694,6 +75430,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -74795,6 +75532,7 @@ return {
         name = "1",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },
@@ -74896,6 +75634,7 @@ return {
         name = "토카",
         emodelId3 = 0,
         endType = 0,
+        minipack = 0,
         isIgonreAction2 = false,
         roleReward = {
         },

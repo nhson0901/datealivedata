@@ -60,6 +60,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood. Then I'm counting on you, %s.",
         game = 0,
         video = {
@@ -153,6 +154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes. Yuzuru and %s have a date, so I asked %s to come here. I hope you don't mind?",
         game = 0,
         video = {
@@ -253,6 +255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Meow——!",
         game = 0,
         video = {
@@ -347,6 +350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wave the cat wand up and down",
         game = 0,
         video = {
@@ -440,6 +444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Even redder now... Should I take you to the hospital?",
         game = 0,
         video = {
@@ -533,6 +538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I can hardly wait.",
         game = 0,
         video = {
@@ -627,6 +633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's rare to see Yuzuru working",
         game = 0,
         video = {
@@ -720,6 +727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru pinched her skirt unnaturally.",
         game = 0,
         video = {
@@ -813,6 +821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru brought over the first aid kit and took out an ointment.",
         game = 0,
         video = {
@@ -906,6 +915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sure! Since we share a connection, I'll play with it.",
         game = 0,
         video = {
@@ -1000,6 +1010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Warn Yuzuru",
         game = 0,
         video = {
@@ -1093,6 +1104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh? Kaguya is good at latte art?",
         game = 0,
         video = {
@@ -1186,6 +1198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Confirm. The other cats do indeed need to be groomed. But there's too many of them. We need to wait for the other staff to arrive.",
         game = 0,
         video = {
@@ -1279,6 +1292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How?",
         game = 0,
         video = {
@@ -1372,6 +1386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see. Guru, come take some snacks.",
         game = 0,
         video = {
@@ -1465,6 +1480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Concern. It looks like a burn, we need to use first aid.",
         game = 0,
         video = {
@@ -1560,6 +1576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's very handy. No wonder you're so good at this job.",
         game = 0,
         video = {
@@ -1653,6 +1670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "From then on, we forgot about the coffee and focused on taking care of the cats in the cafe.",
         game = 0,
         video = {
@@ -1746,6 +1764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A Maine Coon cat near me suddenly got excited.",
         game = 0,
         video = {
@@ -1839,6 +1858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The furry feathers swirled around the cat's head, and Guru finally reached out a paw.",
         game = 0,
         video = {
@@ -1932,6 +1952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sigh. %s, you're too nervous.",
         game = 0,
         video = {
@@ -2025,6 +2046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Invite. %s, please have a seat. Yuzuru needs to prepare.",
         game = 0,
         video = {
@@ -2118,6 +2140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I avoided Yuzuru's scorching gaze, and seamlessly began chatting about work.",
         game = 0,
         video = {
@@ -2211,6 +2234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Supplement. If it's something complicated like a portrait, Yuzuru can't do it. Yuzuru is only a substitute maid, after all.",
         game = 0,
         video = {
@@ -2304,6 +2328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I can do it myself...",
         game = 0,
         video = {
@@ -2397,6 +2422,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I gently caressed Yuzuru's stomach with trembling hands. Yuzuru stretched out comfortably.",
         game = 0,
         video = {
@@ -2490,6 +2516,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Next time... we'll see.",
         game = 0,
         video = {
@@ -2588,6 +2615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Careful——!",
         game = 0,
         video = {
@@ -2681,6 +2709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. Kaguya was victorious in all of our previous competitions in the cafe.",
         game = 0,
         video = {
@@ -2774,6 +2803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What if I help?",
         game = 0,
         video = {
@@ -2867,6 +2897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Request. Next time, please do not reject Yuzuru's Kitten Maid service.",
         game = 0,
         video = {
@@ -2960,6 +2991,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't scare me, my heart can't take it.",
         game = 0,
         video = {
@@ -3053,6 +3085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Misjudged. As expected, %s is still so shy.",
         game = 0,
         video = {
@@ -3146,6 +3179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Get up Yuzuru...! Someone else is coming...",
         game = 0,
         video = {
@@ -3240,6 +3274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't move",
         game = 0,
         video = {
@@ -3333,6 +3368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru slowly moved my hand to her lips, her warm breath flowing over my fingers...",
         game = 0,
         video = {
@@ -3426,6 +3462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru rolled over and looked up at me. My ears turned red.",
         game = 0,
         video = {
@@ -3519,6 +3556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh...",
         game = 0,
         video = {
@@ -3612,6 +3650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I waved the frozen jerky in my hand, but Guru did nothing other than rolling her eyes.",
         game = 0,
         video = {
@@ -3705,6 +3744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Genuine. To a kitten, this is a sign of trust.",
         game = 0,
         video = {
@@ -3798,6 +3838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Question. What did they teach you?",
         game = 0,
         video = {
@@ -3891,6 +3932,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So, if a cat reveals their belly does that mean they trust you? Can you demonstrate for me?",
         game = 0,
         video = {
@@ -3984,6 +4026,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The special date today made me feel particularly at ease.",
         game = 0,
         video = {
@@ -4077,6 +4120,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -4170,6 +4214,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Belly? That... wouldn't be appropriate.",
         game = 0,
         video = {
@@ -4263,6 +4308,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Do you want some coffee too, little kitty?",
         game = 0,
         video = {
@@ -4356,6 +4402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Look! Huh? Wait... why did she stop...?",
         game = 0,
         video = {
@@ -4449,6 +4496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "R-really? But I think it's starting to blister...",
         game = 0,
         video = {
@@ -4542,6 +4590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Look forward. Now Yuzuru is a kitten. %s should rub the kitten's belly.",
         game = 0,
         video = {
@@ -4635,6 +4684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I... I do.",
         game = 0,
         video = {
@@ -4728,6 +4778,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "OK...",
         game = 0,
         video = {
@@ -4821,6 +4872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I didn't know you also work here, Yuzuru... I thought this would be just a normal date.",
         game = 0,
         video = {
@@ -4914,6 +4966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's OK, I think you're doing great. Then I'll pick one.",
         game = 0,
         video = {
@@ -5009,6 +5062,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru ignored me and slowly rubbed the ointment into my hand.",
         game = 0,
         video = {
@@ -5102,6 +5156,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kitten Maid service... is the best!",
         game = 0,
         video = {
@@ -5194,6 +5249,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Carious. So %s likes this kind of kitten after all?",
         game = 0,
         video = {
@@ -5288,6 +5344,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Not at all, I actually like Yuzuru better this way...",
         game = 0,
         video = {
@@ -5381,6 +5438,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru relaxed as I pet her. She lay down on my knees.",
         game = 0,
         video = {
@@ -5475,6 +5533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "She must be full...",
         game = 0,
         video = {
@@ -5568,6 +5627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "?",
         game = 0,
         video = {
@@ -5662,6 +5722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It will only get better if Yuzuru blows on it",
         game = 0,
         video = {
@@ -5755,6 +5816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprised. Yuzuru is very happy that you want to help, but this is my job. It is inappropriate to bother %s.",
         game = 0,
         video = {
@@ -5848,6 +5910,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Meow~",
         game = 0,
         video = {
@@ -5942,6 +6005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -6036,6 +6100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Touch Yuzuru's head",
         game = 0,
         video = {
@@ -6130,6 +6195,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Touch Yuzuru's chin",
         game = 0,
         video = {
@@ -6223,6 +6289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Does she want me to pet her? Did I understand it correctly?",
         game = 0,
         video = {
@@ -6318,6 +6385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wait... that's too close...",
         game = 0,
         video = {
@@ -6411,6 +6479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This... do you mean...",
         game = 0,
         video = {
@@ -6504,6 +6573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Question. Does %s have no reaction to the clingy kitten?",
         game = 0,
         video = {
@@ -6597,6 +6667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, the cold shoulder...",
         game = 0,
         video = {
@@ -6690,6 +6761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I said in bewilderment, but my body stiffened and I didn't dare to move.",
         game = 0,
         video = {
@@ -6783,6 +6855,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "When playing with cats, you have to mimic what it's like when they hunt in the wild.",
         game = 0,
         video = {
@@ -6876,6 +6949,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Delighted. %s, please watch and learn.",
         game = 0,
         video = {
@@ -6969,6 +7043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wait... stop that... I...",
         game = 0,
         video = {
@@ -7062,6 +7137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Today is the day of my date with Yuzuru, but I'm about to be late!",
         game = 0,
         video = {
@@ -7155,6 +7231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. Kitten staff [Special Service]. %s, please accept this clingy kitten.",
         game = 0,
         video = {
@@ -7248,6 +7325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Meow~!",
         game = 0,
         video = {
@@ -7341,6 +7419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sigh. %s is waving the cat wand in the wrong direction.",
         game = 0,
         video = {
@@ -7434,6 +7513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Suggestion. Help me choose a band-aid. It's just a blister, it will be fine as long as we protect it from breaking.",
         game = 0,
         video = {
@@ -7527,6 +7607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -7620,6 +7701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Meow~Meow~ Anything like this?",
         game = 0,
         video = {
@@ -7713,6 +7795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I took a look around and sat down. There were only a few customers, so it was very quiet. Some of the cute kitties were sleeping, while others looked at the customers with bright eyes.",
         game = 0,
         video = {
@@ -7806,6 +7889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sorry. Yuzuru is very busy now, and cannot accompany %s in every moment.",
         game = 0,
         video = {
@@ -7899,6 +7983,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Actually... Actually...",
         game = 0,
         video = {
@@ -7992,6 +8077,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fu... Fu...",
         game = 0,
         video = {
@@ -8085,6 +8171,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru suddenly leaned on my shoulder, and my body went stiff.",
         game = 0,
         video = {
@@ -8178,6 +8265,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Leave it to you? What do you mean?",
         game = 0,
         video = {
@@ -8271,6 +8359,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A dark colored dress covered with a white frilled apron: Yuzuru's standard maid outfit was in great contrast with her expressionless face.",
         game = 0,
         video = {
@@ -8364,6 +8453,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Assurance. Don't worry, %s. Leave it to me.",
         game = 0,
         video = {
@@ -8457,6 +8547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "She doesn't seem clingy at all...",
         game = 0,
         video = {
@@ -8550,6 +8641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru was startled and stopped walking. The Maine Coon sped through right in front of her.",
         game = 0,
         video = {
@@ -8643,6 +8735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Mhm! Kaguya is better suited. No wonder she's the Child of Hurricane, she's so cool when she performs latte art.",
         game = 0,
         video = {
@@ -8736,6 +8829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't worry, I would really enjoy grooming cats with a professional like Yuzuru!",
         game = 0,
         video = {
@@ -8830,6 +8924,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uhh... how about a coffee?",
         game = 0,
         video = {
@@ -8923,6 +9018,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Copy that. But cats have their own personality. Totally clingy cats are hard to find.",
         game = 0,
         video = {
@@ -9016,6 +9112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's wrong? Uhh... doesn't everyone like clingy cats?",
         game = 0,
         video = {
@@ -9109,6 +9206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru looked directly into my eyes. I wasn't sure what happened.",
         game = 0,
         video = {
@@ -9202,6 +9300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The kind that rubs up against my legs, and then lies down in my lap.",
         game = 0,
         video = {
@@ -9295,6 +9394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A moist sensation crossed over my fingertips, and it felt as if my heart had stopped beating.",
         game = 0,
         video = {
@@ -9388,6 +9488,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh... sure. Here, over here.",
         game = 0,
         video = {
@@ -9481,6 +9582,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru searched the cabinet and took out a cat wand with a bell hanging from it.",
         game = 0,
         video = {
@@ -9574,6 +9676,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Positive. %s, try moving the snack closer.",
         game = 0,
         video = {
@@ -9667,6 +9770,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Idea. Does %s want to play with it?",
         game = 0,
         video = {
@@ -9760,6 +9864,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The feathers on the cat wand are like an insect or a bird. Keep it low enough and move it left to right so they can reach it.",
         game = 0,
         video = {
@@ -9853,6 +9958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As she spoke, Yuzuru took out a pet comb and picked up a small white cat that was walking by.",
         game = 0,
         video = {
@@ -9946,6 +10052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Supplement. It's the cafe's star kitten.",
         game = 0,
         video = {
@@ -10039,6 +10146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I sprinted towards the shopping street and finally arrived at the Cat Cafe where we agreed to meet.",
         game = 0,
         video = {
@@ -10132,6 +10240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What an interesting name.",
         game = 0,
         video = {
@@ -10225,6 +10334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It seemed... that kat was interested in the bow hanging from Yuzuru's clothes!",
         game = 0,
         video = {
@@ -10318,6 +10428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? There's a right and wrong way to do it?",
         game = 0,
         video = {
@@ -10411,6 +10522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is a band-aid... all you need?",
         game = 0,
         video = {
@@ -10504,6 +10616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Answer. Guru. It's very friendly and often makes purring noises.",
         game = 0,
         video = {
@@ -10597,6 +10710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, it looks so energetic. What's its name?",
         game = 0,
         video = {
@@ -10690,6 +10804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru was busy with something at the counter. Yuzuru sure looks adorable in that maid outfit...",
         game = 0,
         video = {
@@ -10783,6 +10898,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's fine, I'm not blaming you... do you need help?",
         game = 0,
         video = {
@@ -10876,6 +10992,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Actually what? I couldn't really deny it.",
         game = 0,
         video = {
@@ -10969,6 +11086,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Coldness spread from my fingertips, but my face grew hot...",
         game = 0,
         video = {
@@ -11062,6 +11180,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I turned my head and saw a calico cat looking at me with bright eyes.",
         game = 0,
         video = {
@@ -11155,6 +11274,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh? Behind me?",
         game = 0,
         video = {
@@ -11248,6 +11368,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Actually, I like Yuzuru better this way...",
         game = 0,
         video = {
@@ -11341,6 +11462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Copy that. The most lively cat in this cat cafe is right behind %s.",
         game = 0,
         video = {
@@ -11434,6 +11556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Suggestion. %s just needs to exercise with her.",
         game = 0,
         video = {
@@ -11527,6 +11650,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The cup in Yuzuru's hands swayed back and forth, spilling the coffee inside.",
         game = 0,
         video = {
@@ -11620,6 +11744,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru smiled warmly as she mentioned Kaguya.",
         game = 0,
         video = {
@@ -11715,6 +11840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood. Then I'm counting on you, %s.",
         game = 0,
         video = {
@@ -11808,6 +11934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It feels good to watch them chasing around, full of energy.",
         game = 0,
         video = {
@@ -11902,6 +12029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll take a cup of coffee.",
         game = 0,
         video = {
@@ -11995,6 +12123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Got it. Here you go, have some treats.",
         game = 0,
         video = {
@@ -12089,6 +12218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Block Yuzuru",
         game = 0,
         video = {
@@ -12182,6 +12312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru took out a bag of cat treats from her pocket.",
         game = 0,
         video = {
@@ -12275,6 +12406,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru... licked my finger!",
         game = 0,
         video = {
@@ -12368,6 +12500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Affirm. Wanna try? Feed it some delicious.",
         game = 0,
         video = {
@@ -12461,6 +12594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Its name... is Starry?",
         game = 0,
         video = {
@@ -12554,6 +12688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood! Come here, this is really tasty!",
         game = 0,
         video = {
@@ -12647,6 +12782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A white cat was lying by my feet, swishing its tail in boredom.",
         game = 0,
         video = {
@@ -12740,6 +12876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprise. Guru really is running after %s's cat wand. She seems very excited.",
         game = 0,
         video = {
@@ -12833,6 +12970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Good boy...",
         game = 0,
         video = {
@@ -12926,6 +13064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh? When did this cat get here...",
         game = 0,
         video = {
@@ -13020,6 +13159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -13113,6 +13253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Copy that. Starry, the cat at %s's feet, is very gentle.",
         game = 0,
         video = {
@@ -13208,6 +13349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As expected, the cut excitedly jumped at Yuzuru——",
         game = 0,
         video = {
@@ -13304,6 +13446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. Kitties are natural hunters. Cat wands are designed to mimic their prey in the wild.",
         game = 0,
         video = {
@@ -13397,6 +13540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes. Choose one for Yuzuru.",
         game = 0,
         video = {
@@ -13490,6 +13634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It feels so wholesome to see them lying tenderly next to me.",
         game = 0,
         video = {
@@ -13584,6 +13729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I like clingy cats",
         game = 0,
         video = {
@@ -13677,6 +13823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Question. Would you like to order something, master?",
         game = 0,
         video = {
@@ -13770,6 +13917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Genuine. Yuzuru should do the work and not trouble anyone else.",
         game = 0,
         video = {
@@ -13863,6 +14011,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No matter. Today %s is Yuzuru's master. Anything master wants is okay.",
         game = 0,
         video = {
@@ -13956,6 +14105,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh... Thank you.",
         game = 0,
         video = {
@@ -14050,6 +14200,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I like lively cats",
         game = 0,
         video = {
@@ -14144,6 +14295,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I like gentle cats",
         game = 0,
         video = {
@@ -14237,6 +14389,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I mumbled, unable to look away from Yuzuru.",
         game = 0,
         video = {
@@ -14330,6 +14483,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I followed my heart and told the truth.",
         game = 0,
         video = {
@@ -14423,6 +14577,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ahh... you mean the cat wand...",
         game = 0,
         video = {
@@ -14516,6 +14671,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hesitation. I will do my best.",
         game = 0,
         video = {
@@ -14609,6 +14765,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You mean...?",
         game = 0,
         video = {
@@ -14702,6 +14859,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru and I spent the time left taking care of the cats. I learned a lot of professional knowledge.",
         game = 0,
         video = {
@@ -14795,6 +14953,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Interrupt. Please do not explain. Yuzuru understands.",
         game = 0,
         video = {
@@ -14888,6 +15047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Copy that. Please wait a moment, master.",
         game = 0,
         video = {
@@ -14981,6 +15141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. Yuzuru brought some cat treats so that %s won't get bored.",
         game = 0,
         video = {
@@ -15074,6 +15235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Angry. So %s cares more about kitties than maids?",
         game = 0,
         video = {
@@ -15167,6 +15329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "An American Shorthair by the counter cried out, as if dissatisfied with my lie.",
         game = 0,
         video = {
@@ -15266,6 +15429,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Th-that's the... effective method you mentioned?!",
         game = 0,
         video = {
@@ -15359,6 +15523,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Meow~!",
         game = 0,
         video = {
@@ -15452,6 +15617,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What do you think, Yuzuru? Why isn't it coming to play?",
         game = 0,
         video = {
@@ -15545,6 +15711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I stood on my tiptoes and opened my hand in front of Guru, but she just stood up and jumped off the cat tree.",
         game = 0,
         video = {
@@ -15638,6 +15805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The cat was soft and fuzzy... I felt my mood brighten.",
         game = 0,
         video = {
@@ -15731,6 +15899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Come on, jump!",
         game = 0,
         video = {
@@ -15824,6 +15993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru scratched the cat's chin with her hand, causing it to purr. It kept rubbing up against Yuzuru's hand, and then rolled over on the floor to reveal its stomach.",
         game = 0,
         video = {
@@ -15917,6 +16087,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Carious. Interested to try, %s?",
         game = 0,
         video = {
@@ -16010,6 +16181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ding ding ding.",
         game = 0,
         video = {
@@ -16103,6 +16275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see... did you finish your work, Yuzuru?",
         game = 0,
         video = {
@@ -16196,6 +16369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -16289,6 +16463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Example. The feathers imitate insects and birds, so they must be slowly waved left and right near the cat.",
         game = 0,
         video = {
@@ -16382,6 +16557,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Got it.",
         game = 0,
         video = {
@@ -16475,6 +16651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? This is...",
         game = 0,
         video = {
@@ -16568,6 +16745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really? This is for you.",
         game = 0,
         video = {
@@ -16661,6 +16839,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh no, she caught me peeking at her...",
         game = 0,
         video = {
@@ -16754,6 +16933,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Look forward. Yuzuru will accompany master after the preparations are complete.",
         game = 0,
         video = {
@@ -16848,6 +17028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was looking at the cats",
         game = 0,
         video = {
@@ -16941,6 +17122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. This is the exclusive design of one of our cats named \"Guru\". It's our cafe's superstar.",
         game = 0,
         video = {
@@ -17034,6 +17216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh no, I let the truth slip out...",
         game = 0,
         video = {
@@ -17128,6 +17311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was looking at Yuzuru",
         game = 0,
         video = {
@@ -17221,6 +17405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Carious. What does %s mean by \"better\"...?",
         game = 0,
         video = {
@@ -17315,6 +17500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I wasn't looking at anything",
         game = 0,
         video = {
@@ -17408,6 +17594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Correct. One needs to exercise after eating. Cats are no exception.",
         game = 0,
         video = {
@@ -17501,6 +17688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The coffee spilled onto Yuzuru's hands, and I hurriedly took the tray from her.",
         game = 0,
         video = {
@@ -17595,6 +17783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ask Yuzuru how to do it",
         game = 0,
         video = {
@@ -17688,6 +17877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Working at a cat cafe is no easy job...",
         game = 0,
         video = {
@@ -17781,6 +17971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Meow~ Meow~",
         game = 0,
         video = {
@@ -17874,6 +18065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I sighed with relief in my heart. Yuzuru adeptly operated the machine. You can't barely tell she is just a substitute maid.",
         game = 0,
         video = {
@@ -17968,6 +18160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I don't think she likes me",
         game = 0,
         video = {
@@ -18061,6 +18254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is Yuzuru complimenting me for being gentle?",
         game = 0,
         video = {
@@ -18155,6 +18349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Help me, Yuzuru!",
         game = 0,
         video = {
@@ -18248,6 +18443,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Genuine. A folk cure. I was told it's very effective.",
         game = 0,
         video = {
@@ -18341,6 +18537,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sunlight shone in through the windows, illuminating the gentle girl and cute cat... A beautiful painting that I didn't dare disturb.",
         game = 0,
         video = {
@@ -18433,6 +18630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Lure. Actually, special maid service is allowed today.",
         game = 0,
         video = {
@@ -18526,6 +18724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why...",
         game = 0,
         video = {
@@ -18619,6 +18818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Regular maid outfits aren't very rare. Yuzuru will be even cuter dressed as a kitten.",
         game = 0,
         video = {
@@ -18713,6 +18913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Lightly blow on Yuzuru's hand",
         game = 0,
         video = {
@@ -18806,6 +19007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Meow~ Meow~",
         game = 0,
         video = {
@@ -18899,6 +19101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Regret. Although there are no kitten ears, there is a kitten maid service.",
         game = 0,
         video = {
@@ -18992,6 +19195,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew... I hope I'm not late?",
         game = 0,
         video = {
@@ -19085,6 +19289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -19178,6 +19383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is Yuzuru getting jealous? I'm probably reading too much into it.",
         game = 0,
         video = {
@@ -19271,6 +19477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru sat down and began a professional demonstration.",
         game = 0,
         video = {
@@ -19364,6 +19571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Without thinking, I picked a cat band-aid and applied it to Yuzuru's hand.",
         game = 0,
         video = {
@@ -19457,6 +19665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just kidding, don't be upset. I just imagined it after seeing the cats and maid outfit...",
         game = 0,
         video = {
@@ -19550,6 +19759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprised. An unexpected proposal from %s.",
         game = 0,
         video = {
@@ -19643,6 +19853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Well...",
         game = 0,
         video = {
@@ -19737,6 +19948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "OK, I'll wait for you.",
         game = 0,
         video = {
@@ -19830,6 +20042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I closed my eyes and made an even bolder request. Yuzuru immediately stopped moving.",
         game = 0,
         video = {
@@ -19923,6 +20136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's the matter?",
         game = 0,
         video = {
@@ -20017,6 +20231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How about a cat maid?",
         game = 0,
         video = {
@@ -20110,6 +20325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "She quickly made the coffee, but hesitated while holding the milk foam machine.",
         game = 0,
         video = {
@@ -20203,6 +20419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh...I mean, I rarely see you like this.",
         game = 0,
         video = {
@@ -20296,6 +20513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -20389,6 +20607,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru placed a fuzzy cat wand in my hand.",
         game = 0,
         video = {
@@ -20482,6 +20701,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "In complete contrast to her confidence moments ago, Yuzuru seemed wary as if facing a great enemy.",
         game = 0,
         video = {
@@ -20575,6 +20795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprise. Looks like Starry really likes %s. He wants a massage.",
         game = 0,
         video = {
@@ -20671,6 +20892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -20764,6 +20986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru gave me a slight bow and left, as if everything was normal.",
         game = 0,
         video = {
@@ -20857,6 +21080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "She quickly made the coffee, but hesitated while holding the milk foam machine.",
         game = 0,
         video = {
@@ -20950,6 +21174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Look, it has completely ignored me...",
         game = 0,
         video = {
@@ -21043,6 +21268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No matter. Now Yuzuru will go make coffee for master.",
         game = 0,
         video = {
@@ -21136,6 +21362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Copy that. Don't worry, %s. Leave it to me.",
         game = 0,
         video = {
@@ -21235,6 +21462,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Who told you that?!",
         game = 0,
         video = {
@@ -21328,6 +21556,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What... it's not like that.",
         game = 0,
         video = {
@@ -21422,6 +21651,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'd like to buy some cat snacks.",
         game = 0,
         video = {
@@ -21515,6 +21745,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprised. Guru is usually so lively and clingy...",
         game = 0,
         video = {
@@ -21610,6 +21841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru reached out and poked my chest with her finger.",
         game = 0,
         video = {
@@ -21703,6 +21935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I finally lose to Yuzuru's gaze.",
         game = 0,
         video = {
@@ -21796,6 +22029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Adorable! It really did lay down!",
         game = 0,
         video = {
@@ -21889,6 +22123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood. %s is still so shy. But Yuzuru understands what %s is thinking...",
         game = 0,
         video = {
@@ -21982,6 +22217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Delight. You're finally here.",
         game = 0,
         video = {
@@ -22075,6 +22311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I pulled back without leaving a trace.",
         game = 0,
         video = {
@@ -22168,6 +22405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Calm. True, playing with cats is the most important thing in a cat cafe.",
         game = 0,
         video = {
@@ -22262,6 +22500,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -22355,6 +22594,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Delight. It looks adorable.",
         game = 0,
         video = {
@@ -22448,6 +22688,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru suddenly brushed up against me. That soft touch against my arm...",
         game = 0,
         video = {
@@ -22542,6 +22783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Acknowledge. As the exclusive maid of %s, does my master have any commands?",
         game = 0,
         video = {
@@ -22635,6 +22877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Special service...?",
         game = 0,
         video = {
@@ -22728,6 +22971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I sat down and played with some cats as they walked by, but I couldn't keep my eyes off Yuzuru.",
         game = 0,
         video = {
@@ -22821,6 +23065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, it's nothing to hide. You look very charming in this...",
         game = 0,
         video = {
@@ -22914,6 +23159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Search... Ah, it's sleeping on the shelf.",
         game = 0,
         video = {
@@ -23007,6 +23253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Unexpected. I did not expect %s would be so honest.",
         game = 0,
         video = {
@@ -23100,6 +23347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "At this point, might as well admit it.",
         game = 0,
         video = {
@@ -23193,6 +23441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Specific. Like what?",
         game = 0,
         video = {
@@ -23287,6 +23536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't listen to Origami's nonsense!",
         game = 0,
         video = {
@@ -23380,6 +23630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Look forward. Can %s lure it over?",
         game = 0,
         video = {
@@ -23473,6 +23724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Discomfort. It hurts...",
         game = 0,
         video = {
@@ -23566,6 +23818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A massage? Like this?",
         game = 0,
         video = {
@@ -23660,6 +23913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes, you did.",
         game = 0,
         video = {
@@ -23753,6 +24007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Confident. Did Yuzuru make %s's heart race today?",
         game = 0,
         video = {
@@ -23847,6 +24102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's wrong?",
         game = 0,
         video = {
@@ -23940,6 +24196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I sighed in disappointment. Do cats really just not like me?",
         game = 0,
         video = {
@@ -24034,6 +24291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Flower",
         game = 0,
         video = {
@@ -24127,6 +24385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then I'll be counting on you.",
         game = 0,
         video = {
@@ -24220,6 +24479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Question. Do you feel better, %s?",
         game = 0,
         video = {
@@ -24313,6 +24573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whaa?!",
         game = 0,
         video = {
@@ -24406,6 +24667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Copy that. This is frozen jerky and strips for cats, master.",
         game = 0,
         video = {
@@ -24499,6 +24761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Admiration. Kitties plus a maid outfit would be twice as irresistible to %s. I expect nothing less from Master Origami.",
         game = 0,
         video = {
@@ -24593,6 +24856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Catch the cat",
         game = 0,
         video = {
@@ -24686,6 +24950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I... understand.",
         game = 0,
         video = {
@@ -24779,6 +25044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Joy. Starry loves being combed, it's like a massage.",
         game = 0,
         video = {
@@ -24878,6 +25144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Origami? What did she say to you?",
         game = 0,
         video = {
@@ -24971,6 +25238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru in a maid outfit stood in front of the entrance to greet me!",
         game = 0,
         video = {
@@ -25064,6 +25332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Expected. Master Origami was right.",
         game = 0,
         video = {
@@ -25157,6 +25426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Question. What kind of kitties does %s like?",
         game = 0,
         video = {
@@ -25252,6 +25522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Confirm. Kneel down and slowly move the wand to catch the cat's interest.",
         game = 0,
         video = {
@@ -25345,6 +25616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -25439,6 +25711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's rare to see Yuzuru in a maid outfit",
         game = 0,
         video = {
@@ -25532,6 +25805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It can't be helped... Do you want to eat?",
         game = 0,
         video = {
@@ -25625,6 +25899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Natural. The kitties here are all very intelligent.",
         game = 0,
         video = {
@@ -25718,6 +25993,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "She really seemed to have many things to do...",
         game = 0,
         video = {
@@ -25812,6 +26088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wave the cat wand left and right",
         game = 0,
         video = {
@@ -25905,6 +26182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -25998,6 +26276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Protect?",
         game = 0,
         video = {
@@ -26091,6 +26370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I stopped moving my hand, and Guru finally reached out and touched the feathers on the tip of the cat wand. It happily nestled into Yuzuru's lap.",
         game = 0,
         video = {
@@ -26184,6 +26464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Supplement. %s was staring at Yuzuru just now. Yuzuru noticed.",
         game = 0,
         video = {
@@ -26277,6 +26558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? What... is it doing?",
         game = 0,
         video = {
@@ -26370,6 +26652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Here... come and play.",
         game = 0,
         video = {
@@ -26463,6 +26746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru looked at me with innocent eyes as my heart was riddled with guilt and remorse.",
         game = 0,
         video = {
@@ -26556,6 +26840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I rubbed the white cat's chin, causing it to purr.",
         game = 0,
         video = {
@@ -26650,6 +26935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Heart",
         game = 0,
         video = {
@@ -26743,6 +27029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? What's that?",
         game = 0,
         video = {
@@ -26836,6 +27123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Question. Would you like a certain latte art design, master?",
         game = 0,
         video = {
@@ -26929,6 +27217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Conjecture. Maybe it's too full right now. Guru ate an entire can this morning.",
         game = 0,
         video = {
@@ -27022,6 +27311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Other areas? Something cat related?",
         game = 0,
         video = {
@@ -27115,6 +27405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fu... Fu...",
         game = 0,
         video = {
@@ -27208,6 +27499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It seems... to hurt no more.",
         game = 0,
         video = {
@@ -27301,6 +27593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh... okay.",
         game = 0,
         video = {
@@ -27394,6 +27687,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh, OK. I'll play with the cats.",
         game = 0,
         video = {
@@ -27488,6 +27782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "She must be sleepy",
         game = 0,
         video = {
@@ -27581,6 +27876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I subconsciously raised my hand to stop it, but instead only felt the fur on the cat's tail.",
         game = 0,
         video = {
@@ -27674,6 +27970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I lifted Yuzuru's hand in my own, and blew on it delicately.",
         game = 0,
         video = {
@@ -27767,6 +28064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru combed the cat from head to tail. Soon, the comb was full of cat hair.",
         game = 0,
         video = {
@@ -27861,6 +28159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Feed a different cat",
         game = 0,
         video = {
@@ -27954,6 +28253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yu...zuru? Why are you dressed like that?",
         game = 0,
         video = {
@@ -28048,6 +28348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Make whatever you want",
         game = 0,
         video = {
@@ -28141,6 +28442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. A kitten's belly is their most vulnerable spot. Looks like Starry really trusts %s.",
         game = 0,
         video = {
@@ -28235,6 +28537,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Get first aid kit",
         game = 0,
         video = {
@@ -28328,6 +28631,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The Maine Coon that caused this mess walked over and rubbed up against Yuzuru's hand.",
         game = 0,
         video = {
@@ -28421,6 +28725,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I noticed Yuzuru's face grow red and stopped teasing her.",
         game = 0,
         video = {
@@ -28514,6 +28819,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Is that all...",
         game = 0,
         video = {
@@ -28607,6 +28913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Supplement. Yuzuru is complimenting %s for being a good cat masseuse.",
         game = 0,
         video = {
@@ -28700,6 +29007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wait... Why is Yuzuru coming over? Did she notice me?",
         game = 0,
         video = {
@@ -28793,6 +29101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Assurance. He must sense how gentle %s is.",
         game = 0,
         video = {
@@ -28887,6 +29196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -28980,6 +29290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes. Protect it with a band-aid so that it doesn't break open.",
         game = 0,
         video = {
@@ -29073,6 +29384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, he started purring, he must be very comfortable...",
         game = 0,
         video = {
@@ -29166,6 +29478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "My cheeks felt hot under Yuzuru's repeated questions.",
         game = 0,
         video = {
@@ -29259,6 +29572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I think he just wants the treats? Such a smart cat.",
         game = 0,
         video = {
@@ -29352,6 +29666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The bell on the cat wand started to ring. Guru hid in a corner and looked at me with wide eyes, but didn't move.",
         game = 0,
         video = {
@@ -29453,6 +29768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really? The cafe should have a first aid kit, I'll heal you!",
         game = 0,
         video = {
@@ -29546,6 +29862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So comfortable...",
         game = 0,
         video = {
@@ -29639,6 +29956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh? Is that rare?",
         game = 0,
         video = {
@@ -29732,6 +30050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprise. I'm surprised Starry revealed his belly to %s.",
         game = 0,
         video = {
@@ -29825,6 +30144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Latte art... I can choose that?",
         game = 0,
         video = {
@@ -29918,6 +30238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? So it's a foodie cat.",
         game = 0,
         video = {
@@ -30012,6 +30333,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Rub the cat's belly",
         game = 0,
         video = {
@@ -30105,6 +30427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru blew on my finger as she applied a cold compress with a towel.",
         game = 0,
         video = {
@@ -30198,6 +30521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After undergoing Yuzuru's series of \"treatments\", my finger had no signs of injury.",
         game = 0,
         video = {
@@ -30291,6 +30615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Starry licked its paws after finishing the treats, then laid down on the ground.",
         game = 0,
         video = {
@@ -30386,6 +30711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30479,6 +30805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Even though it was just napping, it still seems pretty sleepy.",
         game = 0,
         video = {
@@ -30572,6 +30899,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "!",
         game = 0,
         video = {
@@ -30666,6 +30994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You're both skilled in different aspects",
         game = 0,
         video = {
@@ -30759,6 +31088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You're a professional...!",
         game = 0,
         video = {
@@ -30852,6 +31182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I put the treats in my hand, and Starry began to gulp them down.",
         game = 0,
         video = {
@@ -30945,6 +31276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Welcome. Today Yuzuru is a substitute maid.",
         game = 0,
         video = {
@@ -31038,6 +31370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm sure anything Yuzuru makes will be great.",
         game = 0,
         video = {
@@ -31131,6 +31464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "All right, all right, eat away.",
         game = 0,
         video = {
@@ -31224,6 +31558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We... better take care of this quickly!",
         game = 0,
         video = {
@@ -31317,6 +31652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Affirmative. %s chose well.",
         game = 0,
         video = {
@@ -31410,6 +31746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Starry kept rubbing up against my hand. It seemed very clingy.",
         game = 0,
         video = {
@@ -31503,6 +31840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprise. Starry seems to really like %s.",
         game = 0,
         video = {
@@ -31596,6 +31934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, so this cat's name is Starry.",
         game = 0,
         video = {
@@ -31689,6 +32028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Question. Is %s concerned about something? %s keeps looking this way.",
         game = 0,
         video = {
@@ -31784,6 +32124,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Lure. Does Starry want to eat?",
         game = 0,
         video = {
@@ -31877,6 +32218,7 @@ return {
         endType = 4,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Looks like it's not very practical to go on a date in the cafe.",
         game = 0,
         video = {
@@ -31969,6 +32311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru put a cat band-aid on my finger as she spoke.",
         game = 0,
         video = {
@@ -32062,6 +32405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A small white cat happened to be passing by. I held open my hand.",
         game = 0,
         video = {
@@ -32155,6 +32499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Should I answer honestly... I hope Yuzuru won't take me for that kind of person.",
         game = 0,
         video = {
@@ -32250,6 +32595,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As Yuzuru why",
         game = 0,
         video = {
@@ -32343,6 +32689,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Confirm. Just about, so Yuzuru came to talk to %s. The treats are free. Think of them as compensation for leaving %s alone.",
         game = 0,
         video = {
@@ -32436,6 +32783,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Disappointment. I seem... to have failed.",
         game = 0,
         video = {
@@ -32529,6 +32877,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Idea. Now comb Starry.",
         game = 0,
         video = {
@@ -32622,6 +32971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, what a cute cat! It's so detailed, you even drew its pattern...",
         game = 0,
         video = {
@@ -32715,6 +33065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru skillfully created a cat shape latte art, and then handed me the coffee.",
         game = 0,
         video = {
@@ -32808,6 +33159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Confirm. Just say what you want, %s.",
         game = 0,
         video = {
@@ -32902,6 +33254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cute. Guru kept acting cute with Yuzuru all morning, so Yuzuru couldn't resist feeding it.",
         game = 0,
         video = {
@@ -32995,6 +33348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Serious. There is a blister on %s's finger. We must protect it.",
         game = 0,
         video = {
@@ -33088,6 +33442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Coldness spread from my fingertips, but my face grew hot...",
         game = 0,
         video = {
@@ -33181,6 +33536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thinking. As expected, the final folk cure is extremely effective.",
         game = 0,
         video = {
@@ -33274,6 +33630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Try?",
         game = 0,
         video = {
@@ -33367,6 +33724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I turned and saw a calico cat lying down on top of the cat tree.",
         game = 0,
         video = {
@@ -33460,6 +33818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Observe. It does seem quite tired. It must have gone crazy playing with other customers. Now it really wants to take a nap.",
         game = 0,
         video = {
@@ -33553,6 +33912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru staggered from the impact. The tray in her hand wobbled, on the cusp of falling——",
         game = 0,
         video = {
@@ -33646,6 +34006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprised. It starts hurting again whenever %s stops. You need to keep blowing on it.",
         game = 0,
         video = {
@@ -33739,6 +34100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. As a Cat Cafe staff, it is Yuzuru's duty to groom every cat.",
         game = 0,
         video = {
@@ -33832,6 +34194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The cat laid contentedly in Yuzuru's lap, reaching its paws out over and over again.",
         game = 0,
         video = {
@@ -33925,6 +34288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Substitute? Isn't today supposed to be our date?",
         game = 0,
         video = {
@@ -34018,6 +34382,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru sighed with relief.",
         game = 0,
         video = {
@@ -34112,6 +34477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Time's up",
         game = 0,
         video = {
@@ -34205,6 +34571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I avoided Yuzuru's gaze and went to get the first aid kit.",
         game = 0,
         video = {
@@ -34298,6 +34665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh... a cat and a cat band-aid...",
         game = 0,
         video = {
@@ -34391,6 +34759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Confident. All qualified cat cafe maids are like this.",
         game = 0,
         video = {
@@ -34484,6 +34853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So cute...! You're incredible, Yuzuru!",
         game = 0,
         video = {
@@ -34577,6 +34947,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Guru didn't catch the feathers on the cat wand, but she landed right into Yuzuru's arms.",
         game = 0,
         video = {
@@ -34670,6 +35041,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Guru stared at the cat wand in Yuzuru's hand, then leapt up——",
         game = 0,
         video = {
@@ -34763,6 +35135,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wonderful. After moving left and right... pause for a moment, just like this.",
         game = 0,
         video = {
@@ -34856,6 +35229,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The cat's pattern really was the same as the latte art in my coffee...",
         game = 0,
         video = {
@@ -34949,6 +35323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The Maine Coon that caused this mess walked over and rubbed up against my hand.",
         game = 0,
         video = {
@@ -35042,6 +35417,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, it's true... so was I standing too high?",
         game = 0,
         video = {
@@ -35135,6 +35511,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru waved the cat wand left and right. The cat swayed its head instinctively, then reached out a paw.",
         game = 0,
         video = {
@@ -35228,6 +35605,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just like this, Yuzuru and I had a great time playing with cats in the cat cafe.",
         game = 0,
         video = {
@@ -35320,6 +35698,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see, thank you. Let's feed the cats together.",
         game = 0,
         video = {
@@ -35413,6 +35792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? How?",
         game = 0,
         video = {
@@ -35506,6 +35886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comb? But its fur is not long at all.",
         game = 0,
         video = {
@@ -35599,6 +35980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Without waiting for my answer, Yuzuru picked Guru up and gave her to me.",
         game = 0,
         video = {
@@ -35692,6 +36074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -35785,6 +36168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. Try holding it.",
         game = 0,
         video = {
@@ -35878,6 +36262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That smart? It even knows how to act cute to get what it wants.",
         game = 0,
         video = {
@@ -35972,6 +36357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Play with it instead",
         game = 0,
         video = {
@@ -36065,6 +36451,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's so cold... did you use ice cubes?",
         game = 0,
         video = {
@@ -36158,6 +36545,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No, I don't think that's the reason...",
         game = 0,
         video = {
@@ -36251,6 +36639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Such a cutey... very lively, just like Yuzuru said.",
         game = 0,
         video = {
@@ -36344,6 +36733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So adorable... what's its name?",
         game = 0,
         video = {
@@ -36437,6 +36827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll feed another cat then.",
         game = 0,
         video = {
@@ -36530,6 +36921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I reacted quickly to steady Yuzuru, but couldn't stop the coffee from spilling over.",
         game = 0,
         video = {
@@ -36623,6 +37015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But... I could clearly see that Yuzuru's hand wasn't red anymore...",
         game = 0,
         video = {
@@ -36716,6 +37109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll help you!",
         game = 0,
         video = {
@@ -36809,6 +37203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No matter. A very delightful coincidence.",
         game = 0,
         video = {
@@ -36902,6 +37297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. Master Origami works here, but couldn't make it today. She asked Yuzuru to cover her shift today.",
         game = 0,
         video = {
@@ -36995,6 +37391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thank you. I am happy to see that %s trusts me. Now, one moment please.",
         game = 0,
         video = {
@@ -37088,6 +37485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I didn't mean to...",
         game = 0,
         video = {
@@ -37181,6 +37579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It might be a little painful, please hang in there.",
         game = 0,
         video = {
@@ -37274,6 +37673,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It sure is cute.",
         game = 0,
         video = {
@@ -37367,6 +37767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru seemed shocked and held the cat without moving.",
         game = 0,
         video = {
@@ -37460,6 +37861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Meow~",
         game = 0,
         video = {
@@ -37553,6 +37955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Guru didn't catch the feathers on the cat wand, but she landed right into Yuzuru's arms.",
         game = 0,
         video = {
@@ -37646,6 +38049,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I waved the cat wand with big movements, and Guru really did leap into the air——",
         game = 0,
         video = {
@@ -37739,6 +38143,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's right. When I came to the cat cafe, the staff here taught me.",
         game = 0,
         video = {
@@ -37832,6 +38237,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Looks like it just woke up...",
         game = 0,
         video = {
@@ -37925,6 +38331,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprised. It seems the cat also likes this cute band-aid.",
         game = 0,
         video = {
@@ -38018,6 +38425,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Exclamation. %s looks very professional.",
         game = 0,
         video = {
@@ -38111,6 +38519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I slowly keeled down and waved the cat wand from left to right. The cat swayed its head instinctively.",
         game = 0,
         video = {
@@ -38204,6 +38613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I got it!",
         game = 0,
         video = {
@@ -38297,6 +38707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38390,6 +38801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's OK! It still tastes just as good!",
         game = 0,
         video = {
@@ -38483,6 +38895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. Kitties need to be combed frequently during their shedding season. Otherwise, if they swallow too much of their fur when licking themselves, it will cause fur balls.",
         game = 0,
         video = {
@@ -38576,6 +38989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Recall. But when Kaguya grooms the kitties, it's like the chaos of a world war.",
         game = 0,
         video = {
@@ -38669,6 +39083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew...whew... is it... better now?",
         game = 0,
         video = {
@@ -38762,6 +39177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -38855,6 +39271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Affirmative. Guru is an extremely intelligent cat.",
         game = 0,
         video = {
@@ -38948,6 +39365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Affirmative. Cats will get lazy if they eat too much. Use this to play with it.",
         game = 0,
         video = {
@@ -39041,6 +39459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. I made a cold compress of ice cubes wrapped in a towel so that %s will recover faster.",
         game = 0,
         video = {
@@ -39134,6 +39553,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Though delayed by the unexpected accident, in the end I did manage to enjoy Yuzuru's hand-made coffee.",
         game = 0,
         video = {
@@ -39232,6 +39652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hot...",
         game = 0,
         video = {
@@ -39325,6 +39746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Answer. Her name is \"Guru\". She's a really lively little girl.",
         game = 0,
         video = {
@@ -39418,6 +39840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Meow~Meow~ Do you want some treats?",
         game = 0,
         video = {
@@ -39511,6 +39934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So hot...",
         game = 0,
         video = {
@@ -39604,6 +40028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew... is that better?",
         game = 0,
         video = {
@@ -39697,6 +40122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprised. Yuzuru is very happy that you want to help, but this is my job. It is inappropriate to bother %s.",
         game = 0,
         video = {
@@ -39790,6 +40216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Did I say something wrong...",
         game = 0,
         video = {
@@ -39883,6 +40310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So you're helping Origami...",
         game = 0,
         video = {
@@ -39976,6 +40404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -40070,6 +40499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cat",
         game = 0,
         video = {
@@ -40163,6 +40593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Reassurance. Yuzuru is fine.",
         game = 0,
         video = {
@@ -40256,6 +40687,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just like that, we carefully made another cup of coffee and spent the afternoon together.",
         game = 0,
         video = {
@@ -40348,6 +40780,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You seem a little nervous, Yuzuru.",
         game = 0,
         video = {
@@ -40442,6 +40875,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Not at all, I do like cats.",
         game = 0,
         video = {
@@ -40536,6 +40970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You two have such a great relationship",
         game = 0,
         video = {
@@ -40630,6 +41065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Can Yuzuru make any pattern I want?",
         game = 0,
         video = {
@@ -40724,6 +41160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just run it under some water",
         game = 0,
         video = {
@@ -40817,6 +41254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Guru looked at us with half-closed eyes.",
         game = 0,
         video = {
@@ -40910,6 +41348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Proud. Yuzuru can do some things that Kaguya cannot. That's why Yuzuru is the one standing in the cafe right now.",
         game = 0,
         video = {
@@ -41003,6 +41442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Confident. Yuzuru can make the kitties behave during grooming, and even lay down to reveal their bellies.",
         game = 0,
         video = {
@@ -41096,6 +41536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course. Kaguya may be good at latte art, but Yuzuru excels even in other areas. That's why Yuzuru is the one standing in the cafe right now.",
         game = 0,
         video = {
@@ -41189,6 +41630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru's face glowed with pride. It was adorable.",
         game = 0,
         video = {
@@ -41282,6 +41724,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Here. Master.",
         game = 0,
         video = {
@@ -41375,6 +41818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru slowly raised her hand to my lips. I lowered my head and saw the faint red mark on her fingers...",
         game = 0,
         video = {
@@ -41468,6 +41912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru scratched under the white cat's chin, then used the comb to groom it.",
         game = 0,
         video = {
@@ -41561,6 +42006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But the cafe does seem very busy today. I barely said anything to Yuzuru the whole afternoon.",
         game = 0,
         video = {
@@ -41654,6 +42100,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You're really good at that!",
         game = 0,
         video = {
@@ -41747,6 +42194,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm sorry I scared you... are you alright?",
         game = 0,
         video = {
@@ -41840,6 +42288,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But it's not at all interested in these treats right now...",
         game = 0,
         video = {
@@ -41934,6 +42383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Looks like Kaguya is better than you in this aspect",
         game = 0,
         video = {
@@ -42027,6 +42477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see. That's a great method, Yuzuru!",
         game = 0,
         video = {
@@ -42120,6 +42571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood. Kaguya is better suited, after all...",
         game = 0,
         video = {
@@ -42213,6 +42665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Great, I would love to see it.",
         game = 0,
         video = {
@@ -42306,6 +42759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Such a unique name...",
         game = 0,
         video = {
@@ -42399,6 +42853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh...",
         game = 0,
         video = {
@@ -42492,6 +42947,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sorry. Are you all right?",
         game = 0,
         video = {
@@ -42585,6 +43041,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Comfort. It feels like the cool spring breeze. The pain is completely gone. You're amazing, %s.",
         game = 0,
         video = {
@@ -42678,6 +43135,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't worry, I would really enjoy grooming cats with a professional like Yuzuru!",
         game = 0,
         video = {
@@ -42771,6 +43229,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's just a latte art, any shape will do.",
         game = 0,
         video = {
@@ -42864,6 +43323,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Waitress in maid outfit is one of the signatures of this cat cafe. I heard that before from Origami.",
         game = 0,
         video = {
@@ -42957,6 +43417,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Soon, Yuzuru walked over to me with the coffee.",
         game = 0,
         video = {
@@ -43050,6 +43511,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No need. There is a way to fix it instantly.",
         game = 0,
         video = {
@@ -43143,6 +43605,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I gave the bottle two rapid presses. The ointment spread onto Yuzuru's fingers, but they still looked red.",
         game = 0,
         video = {
@@ -43236,6 +43699,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Shy. A way that %s knows...",
         game = 0,
         video = {
@@ -43329,6 +43793,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I know... what...",
         game = 0,
         video = {
@@ -43423,6 +43888,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Assurance. Then %s will surely enjoy today's date.",
         game = 0,
         video = {
@@ -43516,6 +43982,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Correct. Yuzuru can make the kitties behave during grooming, and even lay down to reveal their bellies.",
         game = 0,
         video = {
@@ -43609,6 +44076,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thinking. In theory, all of master's requests should be fulfilled.",
         game = 0,
         video = {
@@ -43702,6 +44170,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Negative. That is too careless. There's a first aid kit here, we should be able to treat it.",
         game = 0,
         video = {
@@ -43795,6 +44264,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Idea. Would %s like to buy some cat treats for it?",
         game = 0,
         video = {
@@ -43888,6 +44358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Apology. The substitute maid has many other responsibilities. %s, you may have to sit on your own for a while.",
         game = 0,
         video = {
@@ -43981,6 +44452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You two sure do compete in a lot of things...",
         game = 0,
         video = {
@@ -44074,6 +44546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru bit her lip and furrowed her brow as she carefully drew a shape in the coffee...",
         game = 0,
         video = {
@@ -44167,6 +44640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I rushed to take a sip and compliment her.",
         game = 0,
         video = {
@@ -44260,6 +44734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sure enough, the design didn't look like a heart nor flower pedals...",
         game = 0,
         video = {
@@ -44353,6 +44828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Affirmative. Kaguya is more skilled in latte art.",
         game = 0,
         video = {
@@ -44446,6 +44922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see. Then the other cats must also need it?",
         game = 0,
         video = {
@@ -44539,6 +45016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Confident. Yuzuru is very skilled at cat shapes.",
         game = 0,
         video = {
@@ -44632,6 +45110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yuzuru looked left and right, then found the cat named \"Guru\" sleeping on the top of a cat tree.",
         game = 0,
         video = {
@@ -44725,6 +45204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Guru... where is that cat?",
         game = 0,
         video = {
@@ -44818,6 +45298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Suggestion. Does %s want to try a different cat? It doesn't seem to be hungry right now.",
         game = 0,
         video = {
@@ -44912,6 +45393,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. Kaguya only wins because Yuzuru goes easy on her. Because Yuzuru has grown up, and Kaguya is just a child.",
         game = 0,
         video = {
@@ -45005,6 +45487,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bashful. There's another way that will make the pain instantly disappear. Do you want to try?",
         game = 0,
         video = {
@@ -45098,6 +45581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Recall. But when Kaguya grooms the kitties, it's like the chaos of a world war.",
         game = 0,
         video = {
@@ -45191,6 +45675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Idea. Next time Kaguya can demonstrate her latte art skills for %s.",
         game = 0,
         video = {
@@ -45284,6 +45769,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Explain. Because she always makes a \"purrr\" noise. She's very friendly.",
         game = 0,
         video = {
@@ -45377,6 +45863,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It just takes regular practice.",
         game = 0,
         video = {
@@ -45470,6 +45957,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I-I'm fine.",
         game = 0,
         video = {
@@ -45563,6 +46051,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I saw through Yuzuru's little scheme, but didn't say anything.",
         game = 0,
         video = {
@@ -45655,6 +46144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Concern. If I do a bad job, %s will be disappointed.",
         game = 0,
         video = {

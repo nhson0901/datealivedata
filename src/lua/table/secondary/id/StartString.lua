@@ -605,7 +605,7 @@ return {
     },
     [270002] = {
         id = 270002,
-        text = "Terdeteksi bahwa akun anda bukan akun baru, anda perlu mengunduh semua resource untuk bermain game secara normal. Ukuran file adalah %s, mulai mengunduh?",
+        text = "Anda perlu mengunduh semua resource untuk bermain game secara normal. Ukuran file adalah %s, mulai mengunduh?",
     },
     [800014] = {
         id = 800014,
@@ -613,7 +613,7 @@ return {
     },
     [270003] = {
         id = 270003,
-        text = "Terdeteksi bahwa akun anda bukan akun baru, anda perlu mengunduh semua resource untuk bermain game secara normal. Ukuran file adalah %s, mulai mengunduh? \n\n*Disarankan mengunduh dengan WIFI",
+        text = "Anda perlu mengunduh semua resource untuk bermain game secara normal. Ukuran file adalah %s, mulai mengunduh? \n\n*Disarankan mengunduh dengan WIFI",
     },
     [800015] = {
         id = 800015,

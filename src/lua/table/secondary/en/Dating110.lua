@@ -60,6 +60,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku grabbed my clothes and seemed reluctant to move.",
         game = 0,
         video = {
@@ -153,6 +154,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku was pointing at a school uniform of... Raizen High School?",
         game = 0,
         video = {
@@ -246,6 +248,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Everything is fine if %s keep silent.",
         game = 0,
         video = {
@@ -339,6 +342,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "There appeared to be... tears in Miku's eyes.",
         game = 0,
         video = {
@@ -432,6 +436,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah Miku, take a look at this one.",
         game = 0,
         video = {
@@ -525,6 +530,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah!!",
         game = 0,
         video = {
@@ -621,6 +627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -714,6 +721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku...?",
         game = 0,
         video = {
@@ -807,6 +815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How could I...",
         game = 0,
         video = {
@@ -900,6 +909,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -993,6 +1003,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll also support Miku in the auditorium.",
         game = 0,
         video = {
@@ -1086,6 +1097,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Did you... choose it yourself, darling?",
         game = 0,
         video = {
@@ -1179,6 +1191,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kneeling on the floor as if she had fallen down, Miku blushed when she saw me. The most important thing was...",
         game = 0,
         video = {
@@ -1272,6 +1285,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How is it?",
         game = 0,
         video = {
@@ -1368,6 +1382,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku is very attractive on stage",
         game = 0,
         video = {
@@ -1467,6 +1482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hush!",
         game = 0,
         video = {
@@ -1560,6 +1576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "According to the notice in front of the store, this place also serves as a pawn shop.",
         game = 0,
         video = {
@@ -1653,6 +1670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Or do you want everyone outside to know your true identity, darling?",
         game = 0,
         video = {
@@ -1749,6 +1767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "If that happened, I would encourage Miku to recover",
         game = 0,
         video = {
@@ -1842,6 +1861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's right, I'm Miku Izayoi the singer.",
         game = 0,
         video = {
@@ -1935,6 +1955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, I think it's pretty.",
         game = 0,
         video = {
@@ -2028,6 +2049,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Because she was changing clothes, there wasn't much to cover her...",
         game = 0,
         video = {
@@ -2124,6 +2146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -2217,6 +2240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really...?",
         game = 0,
         video = {
@@ -2310,6 +2334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's real, I just saw %s!",
         game = 0,
         video = {
@@ -2403,6 +2428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It must be sold here by a Raizen High School graduate...",
         game = 0,
         video = {
@@ -2496,6 +2522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I seemed to have seen %s.",
         game = 0,
         video = {
@@ -2589,6 +2616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I heard the reason why Miku lost her voice, she must have felt helpless at that time...",
         game = 0,
         video = {
@@ -2682,6 +2710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wait for me, darling. I'll put this on for you.",
         game = 0,
         video = {
@@ -2775,6 +2804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So darling prefers this style ~ then let's try it on.",
         game = 0,
         video = {
@@ -2874,6 +2904,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sorry!!",
         game = 0,
         video = {
@@ -2967,6 +2998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was already inside... next door were probably all girls...",
         game = 0,
         video = {
@@ -3060,6 +3092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, it's like a spell, attracting me involuntarily.",
         game = 0,
         video = {
@@ -3153,6 +3186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Was it my fault? Did we run too fast?",
         game = 0,
         video = {
@@ -3246,6 +3280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How about I try this on too?",
         game = 0,
         video = {
@@ -3339,6 +3374,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Won't it be troublesome if other students from all-girls private school see Miku like this?",
         game = 0,
         video = {
@@ -3432,6 +3468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll never let Miku face that kind of helpless situation alone again.",
         game = 0,
         video = {
@@ -3526,6 +3563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -3619,6 +3657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No problem.",
         game = 0,
         video = {
@@ -3712,6 +3751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I blushed and was about to close the curtain when Miku suddenly grabbed my hand.",
         game = 0,
         video = {
@@ -3805,6 +3845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Who is that boy waiting for her?",
         game = 0,
         video = {
@@ -3899,6 +3940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What you said makes sense...",
         game = 0,
         video = {
@@ -3992,6 +4034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku is born to stand on the stage.",
         game = 0,
         video = {
@@ -4085,6 +4128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But what should we do, enthusiastic fans were approaching...",
         game = 0,
         video = {
@@ -4178,6 +4222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The school uniform of Raizen High School...",
         game = 0,
         video = {
@@ -4271,6 +4316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Maybe I was mistaken...",
         game = 0,
         video = {
@@ -4364,6 +4410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s...",
         game = 0,
         video = {
@@ -4457,6 +4504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku walked out the changing room with a confident smile...",
         game = 0,
         video = {
@@ -4550,6 +4598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...Miku, why are you looking at me like that? Didn't you say you want to try it on?",
         game = 0,
         video = {
@@ -4643,6 +4692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling!",
         game = 0,
         video = {
@@ -4736,6 +4786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh, I feel so jealous!",
         game = 0,
         video = {
@@ -4830,6 +4881,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Turn back and pretend to choose clothes",
         game = 0,
         video = {
@@ -4923,6 +4975,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling also wants to go shopping with me, right?",
         game = 0,
         video = {
@@ -5016,6 +5069,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So... when I see pretty clothes, I can't help but think, what would it be like if Miku wore it on the stage...",
         game = 0,
         video = {
@@ -5115,6 +5169,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The voices of Tohka and Yoshino! Are they in the store?",
         game = 0,
         video = {
@@ -5208,6 +5263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I want to try out the matching suit with %s ~",
         game = 0,
         video = {
@@ -5302,6 +5358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The voices of Tohka and Yoshino? They are coming...!\nWhat should I do...",
         game = 0,
         video = {
@@ -5395,6 +5452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll always stay by Miku's side, encourage you to return to the stage and prove yourself to everyone...",
         game = 0,
         video = {
@@ -5488,6 +5546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -5581,6 +5640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? I meant you go try it on, after all, it was chosen by you, darling!",
         game = 0,
         video = {
@@ -5674,6 +5734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow... what! Why do you pull me in all of a sudden!",
         game = 0,
         video = {
@@ -5767,6 +5828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "......",
         game = 0,
         video = {
@@ -5860,6 +5922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -5953,6 +6016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I do want to... go shopping with Miku. But...",
         game = 0,
         video = {
@@ -6046,6 +6110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see! I'll wear this skirt at the concert next week!",
         game = 0,
         video = {
@@ -6139,6 +6204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -6232,6 +6298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A gift? I'm looking forward to it.",
         game = 0,
         video = {
@@ -6325,6 +6392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uh... Miku!?",
         game = 0,
         video = {
@@ -6418,6 +6486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku is a singer born to stand on the stage!",
         game = 0,
         video = {
@@ -6511,6 +6580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hello everyone, I'm Miku Izayoi! Welcome to my concert ~",
         game = 0,
         video = {
@@ -6610,6 +6680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?? You want me to try it on??",
         game = 0,
         video = {
@@ -6703,6 +6774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Because it's dangerous outside.",
         game = 0,
         video = {
@@ -6796,6 +6868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling, it's really hard to choose.",
         game = 0,
         video = {
@@ -6890,6 +6963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew... they didn't spot me, that's great.",
         game = 0,
         video = {
@@ -6983,6 +7057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't worry, I'll dress %s up nice and pretty!",
         game = 0,
         video = {
@@ -7076,6 +7151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, I'll be there to cheer for Miku.",
         game = 0,
         video = {
@@ -7169,6 +7245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Pick me up and run out! Why are you hesitating?",
         game = 0,
         video = {
@@ -7262,6 +7339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, come and choose one for yourself, %s.",
         game = 0,
         video = {
@@ -7355,6 +7433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku suddenly moved closer to me, I was forced to lean on the wall, and seemed to be... embraced by Miku's arms.",
         game = 0,
         video = {
@@ -7448,6 +7527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After a long while, Miku finally cracked a smile.",
         game = 0,
         video = {
@@ -7541,6 +7621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh...!",
         game = 0,
         video = {
@@ -7634,6 +7715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Since %s has picked out a preferred style, might as well try it on.",
         game = 0,
         video = {
@@ -7727,6 +7809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I think it's more dangerous inside...",
         game = 0,
         video = {
@@ -7820,6 +7903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Does it look pretty?",
         game = 0,
         video = {
@@ -7913,6 +7997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling, what are you choosing?",
         game = 0,
         video = {
@@ -8012,6 +8097,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's not what I'm worried about!",
         game = 0,
         video = {
@@ -8105,6 +8191,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "While I'm on the stage, I'll tell everyone that I'm wearing that costume for %s ~",
         game = 0,
         video = {
@@ -8198,6 +8285,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So, in order to save the trouble, let's stay here for a while, darling.",
         game = 0,
         video = {
@@ -8291,6 +8379,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay... Huh? For myself?",
         game = 0,
         video = {
@@ -8384,6 +8473,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling was distracted.",
         game = 0,
         video = {
@@ -8477,6 +8567,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes, I, Miku Izayoi, is certainly most suitable for the stage.",
         game = 0,
         video = {
@@ -8570,6 +8661,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "For an instant, Miku seemed to be standing on the sparkling stage.",
         game = 0,
         video = {
@@ -8663,6 +8755,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hey!",
         game = 0,
         video = {
@@ -8756,6 +8849,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling, you can't go out now, okay?",
         game = 0,
         video = {
@@ -8849,6 +8943,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Not bad...",
         game = 0,
         video = {
@@ -8942,6 +9037,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... nothing at the moment, just browsing...",
         game = 0,
         video = {
@@ -9035,6 +9131,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wait... let me reconsider this!!",
         game = 0,
         video = {
@@ -9128,6 +9225,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?!! If you say that... it will cause a sensation!",
         game = 0,
         video = {
@@ -9221,6 +9319,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Gritting my teeth, I squatted down, picked up Miku and fled from the scene.",
         game = 0,
         video = {
@@ -9314,6 +9413,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah.",
         game = 0,
         video = {
@@ -9407,6 +9507,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "S-Sorry!",
         game = 0,
         video = {
@@ -9500,6 +9601,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's right, go on and try this garment!",
         game = 0,
         video = {
@@ -9593,6 +9695,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How is it?",
         game = 0,
         video = {
@@ -9686,6 +9789,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Before I could refuse, Miku pushed me into the changing room with a smile.",
         game = 0,
         video = {
@@ -9779,6 +9883,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why?",
         game = 0,
         video = {
@@ -9872,6 +9977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Are you trying to brush me off, darling?",
         game = 0,
         video = {
@@ -9965,6 +10071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So darling prefers dresses of this style ~",
         game = 0,
         video = {
@@ -10058,6 +10165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You don't want me to do that, %s?",
         game = 0,
         video = {
@@ -10151,6 +10259,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... darling is so cool...",
         game = 0,
         video = {
@@ -10249,6 +10358,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But this is a dress store!!",
         game = 0,
         video = {
@@ -10342,6 +10452,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It was a date with Miku, but I was absent-minded...",
         game = 0,
         video = {
@@ -10435,6 +10546,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, it's a gorgeous skirt, the stage effect would be great...",
         game = 0,
         video = {
@@ -10528,6 +10640,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -10621,6 +10734,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Wait...!",
         game = 0,
         video = {
@@ -10714,6 +10828,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -10807,6 +10922,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course not! It's a heartfelt compliment!",
         game = 0,
         video = {
@@ -10900,6 +11016,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... it's gorgeous... looks great.",
         game = 0,
         video = {
@@ -10993,6 +11110,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Well, I'm just afraid that it will affect Miku's popularity. Fans are very passionate about such things.",
         game = 0,
         video = {
@@ -11086,6 +11204,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Like I said, it's easy for you to be spotted, surely I have to cover for you, darling.",
         game = 0,
         video = {
@@ -11179,6 +11298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's right.",
         game = 0,
         video = {
@@ -11272,6 +11392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Seeing that Miku's face moved closer, I couldn't help but close my eyes...",
         game = 0,
         video = {
@@ -11365,6 +11486,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Came to think of it, I first met you on the stage, darling...",
         game = 0,
         video = {
@@ -11459,6 +11581,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -11552,6 +11675,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why did Miku suddenly come over...",
         game = 0,
         video = {
@@ -11646,6 +11770,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -11739,6 +11864,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But you seem absent-minded, are you tired?",
         game = 0,
         video = {
@@ -11832,6 +11958,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew, Tohka and Yoshino... shouldn't be able to spot me, right...",
         game = 0,
         video = {
@@ -11925,6 +12052,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Right now, I don't care even if no one listens to my singing anymore.",
         game = 0,
         video = {
@@ -12018,6 +12146,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Please don't push me into the corner!",
         game = 0,
         video = {
@@ -12111,6 +12240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Please come and try it on ~",
         game = 0,
         video = {
@@ -12204,6 +12334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Was Miku planning to...",
         game = 0,
         video = {
@@ -12297,6 +12428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, yes... Miku was prejudiced against boys back then.",
         game = 0,
         video = {
@@ -12390,6 +12522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uh... this bow is... so fiddly, how should I put it on?",
         game = 0,
         video = {
@@ -12483,6 +12616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Seeing that Miku's face was getting closer to mine...",
         game = 0,
         video = {
@@ -12577,6 +12711,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This costume suits darling very well.",
         game = 0,
         video = {
@@ -12670,6 +12805,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I rubbed my sore ankles and marveled at Miku's vigor.",
         game = 0,
         video = {
@@ -12764,6 +12900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why don't we put it on?",
         game = 0,
         video = {
@@ -12857,6 +12994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -12950,6 +13088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Seeing this, Miku moved even closer.",
         game = 0,
         video = {
@@ -13049,6 +13188,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No!",
         game = 0,
         video = {
@@ -13142,6 +13282,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You can't put on this complicated garment while distracted.",
         game = 0,
         video = {
@@ -13238,6 +13379,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why don't you choose one for me, I trust Miku's taste",
         game = 0,
         video = {
@@ -13331,6 +13473,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Recalling Miku's aggressive expression, I couldn't help but give a bitter smile.",
         game = 0,
         video = {
@@ -13424,6 +13567,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew... this strap...",
         game = 0,
         video = {
@@ -13517,6 +13661,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku, you are too close!",
         game = 0,
         video = {
@@ -13610,6 +13755,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh. Miku wants to try it? It does suit Miku...",
         game = 0,
         video = {
@@ -13703,6 +13849,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Because I already have darling. I'm satisfied as long as darling is my fan.",
         game = 0,
         video = {
@@ -13797,6 +13944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh, they are about to spot you.",
         game = 0,
         video = {
@@ -13890,6 +14038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -13983,6 +14132,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh——?",
         game = 0,
         video = {
@@ -14076,6 +14226,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I just wanted this torture to be over soon...",
         game = 0,
         video = {
@@ -14169,6 +14320,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I didn't know I'd have a relationship like this with darling at that time.",
         game = 0,
         video = {
@@ -14262,6 +14414,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As I was trying to put on the clothes...",
         game = 0,
         video = {
@@ -14355,6 +14508,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It doesn't matter ~ [Girls] are usually intimate while shopping together.",
         game = 0,
         video = {
@@ -14448,6 +14602,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course it's darling who will try it on.",
         game = 0,
         video = {
@@ -14541,6 +14696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course! Miku should have more confidence.",
         game = 0,
         video = {
@@ -14634,6 +14790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Shh...",
         game = 0,
         video = {
@@ -14730,6 +14887,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -14823,6 +14981,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "By the time I opened my eyes, Miku had already finished dressing me up.",
         game = 0,
         video = {
@@ -14916,6 +15075,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see, then this one is fine ~",
         game = 0,
         video = {
@@ -15009,6 +15169,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku stroked her hair helplessly and looked at me with innocence.",
         game = 0,
         video = {
@@ -15102,6 +15263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling, do you need my help?",
         game = 0,
         video = {
@@ -15195,6 +15357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But your face is almost on my shoulder...",
         game = 0,
         video = {
@@ -15294,6 +15457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh??",
         game = 0,
         video = {
@@ -15387,6 +15551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What if... I can't sing one day?",
         game = 0,
         video = {
@@ -15483,6 +15648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Choose the small skirt",
         game = 0,
         video = {
@@ -15576,6 +15742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku...",
         game = 0,
         video = {
@@ -15669,6 +15836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's... improper!",
         game = 0,
         video = {
@@ -15762,6 +15930,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So... Miku is really just here to help me get dressed.",
         game = 0,
         video = {
@@ -15855,6 +16024,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -15948,6 +16118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Right... and Miku had opened up to me now...",
         game = 0,
         video = {
@@ -16047,6 +16218,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow!! Miku, why did you come in!",
         game = 0,
         video = {
@@ -16140,6 +16312,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku and I walked through the mall, attracting a lot of attention.",
         game = 0,
         video = {
@@ -16236,6 +16409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Its color can serve as a foil to Miku's skin",
         game = 0,
         video = {
@@ -16329,6 +16503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Please come and try it on ~",
         game = 0,
         video = {
@@ -16425,6 +16600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll always support Miku",
         game = 0,
         video = {
@@ -16518,6 +16694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -16611,6 +16788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This small skirt... seems pretty.",
         game = 0,
         video = {
@@ -16704,6 +16882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After what seemed like a century, I finally left the changing room.",
         game = 0,
         video = {
@@ -16797,6 +16976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't be polite, choose a favorite one and try it on, darling.",
         game = 0,
         video = {
@@ -16890,6 +17070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh? Are you expecting something else to happen, darling?",
         game = 0,
         video = {
@@ -16983,6 +17164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku picked up an unusually gorgeous and complicated skirt and pushed me into the changing room.",
         game = 0,
         video = {
@@ -17076,6 +17258,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Speaking of which, Miku must have lots of costumes, right?",
         game = 0,
         video = {
@@ -17169,6 +17352,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was afraid you didn't know how to wear it. It wasn't a good idea to call in the store staff, so I came in to help you myself.",
         game = 0,
         video = {
@@ -17262,6 +17446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That girl is so cute.",
         game = 0,
         video = {
@@ -17355,6 +17540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It can serve as a foil to Miku's complexion!",
         game = 0,
         video = {
@@ -17448,6 +17634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's... improper!",
         game = 0,
         video = {
@@ -17541,6 +17728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm! I'll work harder for darling!",
         game = 0,
         video = {
@@ -17634,6 +17822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Like before... forced to leave the stage, no longer able to sing, my voice lost...",
         game = 0,
         video = {
@@ -17727,6 +17916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow, our minds think alike, darling!",
         game = 0,
         video = {
@@ -17820,6 +18010,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling's blushing face is so cute.",
         game = 0,
         video = {
@@ -17912,6 +18103,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm not being polite...",
         game = 0,
         video = {
@@ -18005,6 +18197,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No, of course not...!",
         game = 0,
         video = {
@@ -18098,6 +18291,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Well, about... this many.",
         game = 0,
         video = {
@@ -18191,6 +18385,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But this is the changing room. I might have been undressing...",
         game = 0,
         video = {
@@ -18284,6 +18479,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is that... Miku? I'm her fan!",
         game = 0,
         video = {
@@ -18377,6 +18573,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Indeed, I appear paler with this color.",
         game = 0,
         video = {
@@ -18470,6 +18667,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why?",
         game = 0,
         video = {
@@ -18563,6 +18761,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I hope Miku can stand on an even bigger stage, by then I'll be Miku's biggest fan.",
         game = 0,
         video = {
@@ -18657,6 +18856,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -18750,6 +18950,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, do you like this skirt too, Miku?",
         game = 0,
         video = {
@@ -18843,6 +19044,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "And there are too many... Miku should be the one trying them on...",
         game = 0,
         video = {
@@ -18936,6 +19138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I could fulfill darling's expectation... you know ~",
         game = 0,
         video = {
@@ -19029,6 +19232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku held out three fingers.",
         game = 0,
         video = {
@@ -19122,6 +19326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Right, it doesn't matter, we are all girls here.",
         game = 0,
         video = {
@@ -19215,6 +19420,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Who is that... girl with her?",
         game = 0,
         video = {
@@ -19308,6 +19514,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku lowered her head and seemed to be considering.",
         game = 0,
         video = {
@@ -19401,6 +19608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Too... inappropriate!",
         game = 0,
         video = {
@@ -19494,6 +19702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "With these words from darling, I won't fear any suffering or tiredness.",
         game = 0,
         video = {
@@ -19587,6 +19796,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm! It looks normal, but it's gorgeous in a subtle way.",
         game = 0,
         video = {
@@ -19686,6 +19896,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't come any closer, I really have no other expectation!",
         game = 0,
         video = {
@@ -19778,6 +19989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Thirty? Three hundred?",
         game = 0,
         video = {
@@ -19871,6 +20083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Girls... but I...",
         game = 0,
         video = {
@@ -19964,6 +20177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As I thought... this is too conspicuous...",
         game = 0,
         video = {
@@ -20057,6 +20271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "However, this design also requires a very good figure...",
         game = 0,
         video = {
@@ -20151,6 +20366,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What should I do...",
         game = 0,
         video = {
@@ -20244,6 +20460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's wrong, Miku?",
         game = 0,
         video = {
@@ -20337,6 +20554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It really suits Miku.",
         game = 0,
         video = {
@@ -20431,6 +20649,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was dragged here by Miku...",
         game = 0,
         video = {
@@ -20524,6 +20743,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Three whole rooms.",
         game = 0,
         video = {
@@ -20617,6 +20837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Everything is fine if %s keep silent.",
         game = 0,
         video = {
@@ -20710,6 +20931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Does it matter? Let them look.",
         game = 0,
         video = {
@@ -20803,6 +21025,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is that so?\nI think your skin is already pretty and you have a nice figure, Miku...",
         game = 0,
         video = {
@@ -20896,6 +21119,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Girls of high stature...",
         game = 0,
         video = {
@@ -20989,6 +21213,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling, do you think that my skin has deteriorated and I seem withered recently?",
         game = 0,
         video = {
@@ -21082,6 +21307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? What do you mean, darling?",
         game = 0,
         video = {
@@ -21177,6 +21403,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I didn't want to dress like this! Trust me!",
         game = 0,
         video = {
@@ -21276,6 +21503,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Three rooms...!!!",
         game = 0,
         video = {
@@ -21369,6 +21597,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku suddenly moved closer to me, I was forced to lean on the wall, and seemed to be... embraced by Miku's arms.",
         game = 0,
         video = {
@@ -21462,6 +21691,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku pressed herself tightly against my shoulder.",
         game = 0,
         video = {
@@ -21555,6 +21785,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Not good enough. While on the stage, any defects will be emphasized infinitely.",
         game = 0,
         video = {
@@ -21648,6 +21879,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah, pick the one you like best and try it on, darling.",
         game = 0,
         video = {
@@ -21741,6 +21973,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Even if you get tired, I'll be your strongest shield, Miku.",
         game = 0,
         video = {
@@ -21834,6 +22067,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It seems that %s has another side while with Miku that Yoshino didn't know about.",
         game = 0,
         video = {
@@ -21927,6 +22161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But I'll definitely wear the one chosen by you, darling.",
         game = 0,
         video = {
@@ -22020,6 +22255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, do you want to check out clothes, Miku? Let's go inside.",
         game = 0,
         video = {
@@ -22113,6 +22349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Every expression and movement should be perfect, not to mention figure and skin care.",
         game = 0,
         video = {
@@ -22207,6 +22444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay, let me help you choose",
         game = 0,
         video = {
@@ -22300,6 +22538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "There are too many, I'm not good at choosing... Miku should be the one trying them on...",
         game = 0,
         video = {
@@ -22393,6 +22632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I don't just like Miku as a singer. I like... Miku as Miku.",
         game = 0,
         video = {
@@ -22486,6 +22726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s is actually... very cute...",
         game = 0,
         video = {
@@ -22579,6 +22820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah...",
         game = 0,
         video = {
@@ -22672,6 +22914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -22765,6 +23008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Aren't you feeling tired, Miku?",
         game = 0,
         video = {
@@ -22858,6 +23102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -22951,6 +23196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then try all of them one by one ~ I can give you good advice, %s ~",
         game = 0,
         video = {
@@ -23047,6 +23293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The uniform over there suits Miku better!",
         game = 0,
         video = {
@@ -23140,6 +23387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really?",
         game = 0,
         video = {
@@ -23233,6 +23481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Right? I also think %s is cute!",
         game = 0,
         video = {
@@ -23326,6 +23575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I hadn't quite recovered from the shock yet.",
         game = 0,
         video = {
@@ -23419,6 +23669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I dragged Miku into a clothing store before everyone had the chance to surround us.",
         game = 0,
         video = {
@@ -23512,6 +23763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... sometimes I feel really tired... and I want to slack off and take it easy...",
         game = 0,
         video = {
@@ -23608,6 +23860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -23707,6 +23960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay... Ah?? All of them!?",
         game = 0,
         video = {
@@ -23800,6 +24054,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I glanced around and pointed at the less exaggerated clothes nearby.",
         game = 0,
         video = {
@@ -23893,6 +24148,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku moved closer and looked straight at me.",
         game = 0,
         video = {
@@ -23986,6 +24242,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You two... why did you say that...",
         game = 0,
         video = {
@@ -24079,6 +24336,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's wrong?",
         game = 0,
         video = {
@@ -24173,6 +24431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -24266,6 +24525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "However, as long as I can sing on the stage, I'll be motivated by everyone's support.",
         game = 0,
         video = {
@@ -24359,6 +24619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What about this? How do you like it?",
         game = 0,
         video = {
@@ -24452,6 +24713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's right, just this row. They all seem suitable for darling.",
         game = 0,
         video = {
@@ -24545,6 +24807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Do you like student uniform, darling?",
         game = 0,
         video = {
@@ -24638,6 +24901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of... course! I can go on!",
         game = 0,
         video = {
@@ -24731,6 +24995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -24824,6 +25089,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... Miku’s presence as a singer is undeniable. Even I became involuntarily infatuated.",
         game = 0,
         video = {
@@ -24917,6 +25183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It suits Tohka very well ~",
         game = 0,
         video = {
@@ -25010,6 +25277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see...",
         game = 0,
         video = {
@@ -25103,6 +25371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Not bad...",
         game = 0,
         video = {
@@ -25196,6 +25465,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was shocked by the whole row of dresses in front of me.",
         game = 0,
         video = {
@@ -25289,6 +25559,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... hmm.",
         game = 0,
         video = {
@@ -25382,6 +25653,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Exactly! Please come shopping with me today, darling!",
         game = 0,
         video = {
@@ -25475,6 +25747,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's right, it was so hard to refuse when cute %s insisted on choosing this skirt for me.",
         game = 0,
         video = {
@@ -25568,6 +25841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So, you like me better when I'm on the stage, darling?",
         game = 0,
         video = {
@@ -25661,6 +25935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really, Yoshino?",
         game = 0,
         video = {
@@ -25754,6 +26029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, and now I'm different than before!",
         game = 0,
         video = {
@@ -25847,6 +26123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What about this?",
         game = 0,
         video = {
@@ -25940,6 +26217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah! I should choose by myself!",
         game = 0,
         video = {
@@ -26033,6 +26311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As long as it wasn't this... [mature] style...",
         game = 0,
         video = {
@@ -26126,6 +26405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Shopping...? Aren't you going to rest, Miku?",
         game = 0,
         video = {
@@ -26219,6 +26499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Miku? That obviously didn't happen!",
         game = 0,
         video = {
@@ -26312,6 +26593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I think \"like better\" isn't very accurate.",
         game = 0,
         video = {
@@ -26410,6 +26692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I will be Miku's most loyal listener",
         game = 0,
         video = {
@@ -26503,6 +26786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, if you put it on, %s will definitely like it.",
         game = 0,
         video = {
@@ -26596,6 +26880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Different how?",
         game = 0,
         video = {
@@ -26689,6 +26974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Also good, I feel that Miku is fit to wear any outfit.",
         game = 0,
         video = {
@@ -26782,6 +27068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Try all of them one by one... that's too over the top!",
         game = 0,
         video = {
@@ -26875,6 +27162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "If darling likes it, then let's go!",
         game = 0,
         video = {
@@ -26968,6 +27256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm! Shopping is the best way for a girl to relax! Let's go ~",
         game = 0,
         video = {
@@ -27061,6 +27350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tohka and Yoshino, why don't we choose a skirt together?",
         game = 0,
         video = {
@@ -27154,6 +27444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really?",
         game = 0,
         video = {
@@ -27247,6 +27538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why... it was Tohka and Yoshino! What should I do!",
         game = 0,
         video = {
@@ -27341,6 +27633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm! Because I have darling now!",
         game = 0,
         video = {
@@ -27434,6 +27727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Are you trying to brush me off, darling?",
         game = 0,
         video = {
@@ -27527,6 +27821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay, darling ~",
         game = 0,
         video = {
@@ -27620,6 +27915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -27713,6 +28009,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku was pointing at an endless ocean of clothes...",
         game = 0,
         video = {
@@ -27807,6 +28104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tohka is right ahead, there might be trouble if she sees us like this...",
         game = 0,
         video = {
@@ -27900,6 +28198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Can we really?",
         game = 0,
         video = {
@@ -27993,6 +28292,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm! I really like Miku's... singing.",
         game = 0,
         video = {
@@ -28086,6 +28386,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Matching suits!?",
         game = 0,
         video = {
@@ -28179,6 +28480,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -28272,6 +28574,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course not! It's a heartfelt compliment!",
         game = 0,
         video = {
@@ -28365,6 +28668,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku smiled as if she had achieved a victory.",
         game = 0,
         video = {
@@ -28463,6 +28767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -28556,6 +28861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's wrong, darling?",
         game = 0,
         video = {
@@ -28649,6 +28955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm? Are you afraid of being caught by other girls, darling?",
         game = 0,
         video = {
@@ -28743,6 +29050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hide first",
         game = 0,
         video = {
@@ -28836,6 +29144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course! Let's have a date together!",
         game = 0,
         video = {
@@ -28929,6 +29238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I will... sing just for %s!",
         game = 0,
         video = {
@@ -29022,6 +29332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I took a closer look and it did match the skirt on me...",
         game = 0,
         video = {
@@ -29115,6 +29426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling gives me more courage to stand on the stage.",
         game = 0,
         video = {
@@ -29209,6 +29521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But you seem absent-minded, are you tired?",
         game = 0,
         video = {
@@ -29302,6 +29615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew... finally, people were no longer paying attention to us...",
         game = 0,
         video = {
@@ -29395,6 +29709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's nothing. You go on and try them.",
         game = 0,
         video = {
@@ -29488,6 +29803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm...",
         game = 0,
         video = {
@@ -29584,6 +29900,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Push away Miku",
         game = 0,
         video = {
@@ -29677,6 +29994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No, I couldn't be seen like this...",
         game = 0,
         video = {
@@ -29770,6 +30088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Together!!??",
         game = 0,
         video = {
@@ -29863,6 +30182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "There seemed to be tears in Miku's eyes.",
         game = 0,
         video = {
@@ -29956,6 +30276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Matching suits... how did you get that idea?",
         game = 0,
         video = {
@@ -30049,6 +30370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hello, can you please go check the girl who just entered? She seems to be in some kind of trouble!",
         game = 0,
         video = {
@@ -30142,6 +30464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No, it is my pleasure to go shopping with Miku.",
         game = 0,
         video = {
@@ -30235,6 +30558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I looked at Miku who was choosing clothes and felt relieved.",
         game = 0,
         video = {
@@ -30328,6 +30652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -30421,6 +30746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I seemed to have said something improper, will Miku be angry...?",
         game = 0,
         video = {
@@ -30520,6 +30846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No!",
         game = 0,
         video = {
@@ -30613,6 +30940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This is unexpected...! They shouldn't agree, right...",
         game = 0,
         video = {
@@ -30706,6 +31034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I will cherish... this garment.",
         game = 0,
         video = {
@@ -30799,6 +31128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How about that?",
         game = 0,
         video = {
@@ -30892,6 +31222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It was a female changing room... I'd better not go inside!",
         game = 0,
         video = {
@@ -30985,6 +31316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I feel that the last one is better...",
         game = 0,
         video = {
@@ -31078,6 +31410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uhh...ummm...",
         game = 0,
         video = {
@@ -31187,6 +31520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What should I do, they were coming closer...",
         game = 0,
         video = {
@@ -31286,6 +31620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -31379,6 +31714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -31472,6 +31808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah, come date with me, Tohka, Yoshino ~",
         game = 0,
         video = {
@@ -31565,6 +31902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -31658,6 +31996,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Maybe I should wear men's clothing...",
         game = 0,
         video = {
@@ -31757,6 +32096,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, Miku!! I'm your fan!!!",
         game = 0,
         video = {
@@ -31850,6 +32190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Well... they all seem pretty good.",
         game = 0,
         video = {
@@ -31943,6 +32284,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I think everyone is looking at Miku.",
         game = 0,
         video = {
@@ -32036,6 +32378,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew...",
         game = 0,
         video = {
@@ -32129,6 +32472,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I pushed Miku away and exited the changing room in a hurry.",
         game = 0,
         video = {
@@ -32222,6 +32566,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That seems improper... this is %s and Miku's date...",
         game = 0,
         video = {
@@ -32318,6 +32663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32411,6 +32757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling's blushing face is so cute ~",
         game = 0,
         video = {
@@ -32504,6 +32851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Miku? Where?",
         game = 0,
         video = {
@@ -32597,6 +32945,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The last one looks better, right?",
         game = 0,
         video = {
@@ -32693,6 +33042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku is already attractive without singing",
         game = 0,
         video = {
@@ -32786,6 +33136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "If Miku was recognized, it might cause a commotion... She is an idol after all...",
         game = 0,
         video = {
@@ -32879,6 +33230,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Come... along?",
         game = 0,
         video = {
@@ -32975,6 +33327,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -33068,6 +33421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really? Can we go together?",
         game = 0,
         video = {
@@ -33161,6 +33515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku, aren't we... buying too many?",
         game = 0,
         video = {
@@ -33254,6 +33609,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then it's decided, next time I'll hold a concert while wearing men's clothing ~",
         game = 0,
         video = {
@@ -33346,6 +33702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's not good!",
         game = 0,
         video = {
@@ -33439,6 +33796,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "... Miku, you've already tried dozens of garments.",
         game = 0,
         video = {
@@ -33532,6 +33890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I liked Miku, no matter how she looked.",
         game = 0,
         video = {
@@ -33625,6 +33984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It doesn't matter, I don't care what other people think when I'm with darling.",
         game = 0,
         video = {
@@ -33718,6 +34078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes, we can have a date together.",
         game = 0,
         video = {
@@ -33811,6 +34172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah! I knew it was %s!",
         game = 0,
         video = {
@@ -33904,6 +34266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah, how about I take you two shopping?",
         game = 0,
         video = {
@@ -33997,6 +34360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? I don't think so! It's okay as long as darling likes them.",
         game = 0,
         video = {
@@ -34090,6 +34454,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Before I could refuse, Miku pushed me into the changing room with a smile.",
         game = 0,
         video = {
@@ -34186,6 +34551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -34279,6 +34645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I still think the first one looks the best!",
         game = 0,
         video = {
@@ -34372,6 +34739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...Miku, why are you looking at me like that? Didn't you say you want to try it on?",
         game = 0,
         video = {
@@ -34465,6 +34833,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uh...",
         game = 0,
         video = {
@@ -34558,6 +34927,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Was this the way girls go shopping...",
         game = 0,
         video = {
@@ -34651,6 +35021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hey!",
         game = 0,
         video = {
@@ -34744,6 +35115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why are you here, %s?",
         game = 0,
         video = {
@@ -34837,6 +35209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Since %s has picked out a preferred style, might as well try it on.",
         game = 0,
         video = {
@@ -34931,6 +35304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku is an idol after all! Won't it cause trouble if paparazzi take photos of you?",
         game = 0,
         video = {
@@ -35024,6 +35398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?? You want me to try it on??",
         game = 0,
         video = {
@@ -35117,6 +35492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But...",
         game = 0,
         video = {
@@ -35210,6 +35586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? I meant you go try it on, after all, it was chosen by you, darling!",
         game = 0,
         video = {
@@ -35304,6 +35681,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -35397,6 +35775,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uhh...",
         game = 0,
         video = {
@@ -35490,6 +35869,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I...",
         game = 0,
         video = {
@@ -35583,6 +35963,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes, let's do it.",
         game = 0,
         video = {
@@ -35676,6 +36057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So darling prefers this style ~ then let's try it on.",
         game = 0,
         video = {
@@ -35769,6 +36151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, I think it's pretty.",
         game = 0,
         video = {
@@ -35862,6 +36245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Did you... choose it yourself, darling?",
         game = 0,
         video = {
@@ -35955,6 +36339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was still hesitant when I saw a familiar figure in the distance... was that Tohka?",
         game = 0,
         video = {
@@ -36054,6 +36439,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow!!",
         game = 0,
         video = {
@@ -36147,6 +36533,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah Miku, take a look at this one.",
         game = 0,
         video = {
@@ -36240,6 +36627,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling is dating me ~",
         game = 0,
         video = {
@@ -36333,6 +36721,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling, what are you doing?",
         game = 0,
         video = {
@@ -36426,6 +36815,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "True...",
         game = 0,
         video = {
@@ -36519,6 +36909,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I finally got away with it...",
         game = 0,
         video = {
@@ -36612,6 +37003,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku and I were carrying lots of shopping bags and could hardly hold anymore.",
         game = 0,
         video = {
@@ -36705,6 +37097,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I watched them walked away and sighed in relief.",
         game = 0,
         video = {
@@ -36799,6 +37192,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ask Miku for help",
         game = 0,
         video = {
@@ -36892,6 +37286,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I rushed forward and took Miku's hand.",
         game = 0,
         video = {
@@ -36985,6 +37380,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Please help me, which one looks better?",
         game = 0,
         video = {
@@ -37078,6 +37474,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -37171,6 +37568,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay...",
         game = 0,
         video = {
@@ -37264,6 +37662,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Remember to come home early, %s.",
         game = 0,
         video = {
@@ -37357,6 +37756,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I waved my hand in a hurry.",
         game = 0,
         video = {
@@ -37450,6 +37850,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "And those familiar figures along the street... they look like students from All-Girls Private School...",
         game = 0,
         video = {
@@ -37543,6 +37944,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? What is it?",
         game = 0,
         video = {
@@ -37636,6 +38038,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Conquer...? No!!!",
         game = 0,
         video = {
@@ -37729,6 +38132,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dating?",
         game = 0,
         video = {
@@ -37822,6 +38226,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Go conquer Miku with this!",
         game = 0,
         video = {
@@ -37915,6 +38320,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku frowned, as if she was considering what I just said.",
         game = 0,
         video = {
@@ -38008,6 +38414,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This style is very fresh...",
         game = 0,
         video = {
@@ -38101,6 +38508,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "All thanks to darling's good taste! Next, please come to my house!",
         game = 0,
         video = {
@@ -38194,6 +38602,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling... if I lose my voice one day...",
         game = 0,
         video = {
@@ -38287,6 +38696,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38380,6 +38790,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku used to hate boys and treat girls only as cute dolls... but...",
         game = 0,
         video = {
@@ -38473,6 +38884,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After a serious screening, Miku filtered out two garments...",
         game = 0,
         video = {
@@ -38566,6 +38978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll be Miku's most loyal companion.",
         game = 0,
         video = {
@@ -38659,6 +39072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But...",
         game = 0,
         video = {
@@ -38752,6 +39166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is this the first time you've visited the clothing store with a girl, darling?",
         game = 0,
         video = {
@@ -38848,6 +39263,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Even if others don't understand Miku, I'll always support Miku",
         game = 0,
         video = {
@@ -38941,6 +39357,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "If we were caught like this...",
         game = 0,
         video = {
@@ -39036,6 +39453,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku?",
         game = 0,
         video = {
@@ -39129,6 +39547,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Maybe... you've just been under too much pressure lately?",
         game = 0,
         video = {
@@ -39222,6 +39641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh no, Tohka and Yoshino... will this incident affect fluctuations of Spirit Power…",
         game = 0,
         video = {
@@ -39315,6 +39735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Regardless of how I look...?",
         game = 0,
         video = {
@@ -39408,6 +39829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Right? Let's pay a little attention.",
         game = 0,
         video = {
@@ -39501,6 +39923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then... can I try those over there?",
         game = 0,
         video = {
@@ -39594,6 +40017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh, helping Miku bring these home, right? No problem...",
         game = 0,
         video = {
@@ -39688,6 +40112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The fresh style chosen by Yoshino",
         game = 0,
         video = {
@@ -39781,6 +40206,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So, Miku...",
         game = 0,
         video = {
@@ -39874,6 +40300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm? Why did you take it off so soon?",
         game = 0,
         video = {
@@ -39967,6 +40394,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A gorgeous skirt and a lovely uniform.",
         game = 0,
         video = {
@@ -40061,6 +40489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Tohka and Yoshino quickly gathered around me.",
         game = 0,
         video = {
@@ -40155,6 +40584,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I think... this looks great...",
         game = 0,
         video = {
@@ -40248,6 +40678,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, this one is gorgeous!!! Choose this for Miku!",
         game = 0,
         video = {
@@ -40341,6 +40772,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Before I could speak, they began picking up clothes in the store like a gust of wind.",
         game = 0,
         video = {
@@ -40434,6 +40866,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You two...",
         game = 0,
         video = {
@@ -40527,6 +40960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Did she... fall down?",
         game = 0,
         video = {
@@ -40621,6 +41055,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Please... leave it to me!",
         game = 0,
         video = {
@@ -40714,6 +41149,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We are just shopping!",
         game = 0,
         video = {
@@ -40807,6 +41243,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No problem, leave it to me, I'll pick out a most beautiful skirt!",
         game = 0,
         video = {
@@ -40900,6 +41337,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But I want to go shopping while holding darling's arm ~",
         game = 0,
         video = {
@@ -40993,6 +41431,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You could say that...",
         game = 0,
         video = {
@@ -41086,6 +41525,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I mean... next we can do that [important thing].",
         game = 0,
         video = {
@@ -41179,6 +41619,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah, if we help pick out the clothes, %s's mission will be over sooner, right?",
         game = 0,
         video = {
@@ -41272,6 +41713,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, darling, perfect timing.",
         game = 0,
         video = {
@@ -41365,6 +41807,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Can Yoshino help Miku go shopping and choose clothes...",
         game = 0,
         video = {
@@ -41458,6 +41901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -41551,6 +41995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Do you need help, %s?",
         game = 0,
         video = {
@@ -41644,6 +42089,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fine...",
         game = 0,
         video = {
@@ -41737,6 +42183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That is a compliment to %s from Yoshinon!",
         game = 0,
         video = {
@@ -41830,6 +42277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That sounds weird...",
         game = 0,
         video = {
@@ -41923,6 +42371,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So it seems %s would do anything for Miku ~",
         game = 0,
         video = {
@@ -42019,6 +42468,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Rush in",
         game = 0,
         video = {
@@ -42112,6 +42562,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't worry! I'll cover for %s!",
         game = 0,
         video = {
@@ -42205,6 +42656,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah, will you join us and go shopping together?",
         game = 0,
         video = {
@@ -42298,6 +42750,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It didn't matter if Miku was recognized. But it would be a disaster if my classmates recognized me...",
         game = 0,
         video = {
@@ -42391,6 +42844,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Well there is no solution for that...",
         game = 0,
         video = {
@@ -42484,6 +42938,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah... anyway, don't tell the others. Maybe someone else around will recognize Miku...",
         game = 0,
         video = {
@@ -42577,6 +43032,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Important thing?",
         game = 0,
         video = {
@@ -42673,6 +43129,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It can show off Miku's figure",
         game = 0,
         video = {
@@ -42766,6 +43223,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's wrong?",
         game = 0,
         video = {
@@ -42859,6 +43317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Umu, I see! You are trying to cover for Miku, right?",
         game = 0,
         video = {
@@ -42952,6 +43411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Because Miku is too famous, so I had to do this...",
         game = 0,
         video = {
@@ -43045,6 +43505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -43138,6 +43599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Let me help you then ~",
         game = 0,
         video = {
@@ -43231,6 +43693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, come to think of it, Yoshino wants to pick up a new hair clip.",
         game = 0,
         video = {
@@ -43325,6 +43788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was choosing clothes with Miku.",
         game = 0,
         video = {
@@ -43418,6 +43882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Spotted while dressing like this, how... should I explain it!",
         game = 0,
         video = {
@@ -43513,6 +43978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -43606,6 +44072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh ~ I see! It must be a kind of secret mission of %s? Don't worry, I won't tell anyone!",
         game = 0,
         video = {
@@ -43705,6 +44172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Together?",
         game = 0,
         video = {
@@ -43804,6 +44272,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yoshino! This isn't what it looks like!",
         game = 0,
         video = {
@@ -43897,6 +44366,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I got it!",
         game = 0,
         video = {
@@ -43990,6 +44460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why did %s dress like this? This is really unexpected...",
         game = 0,
         video = {
@@ -44083,6 +44554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm! Might as well do it in my [bedroom]!",
         game = 0,
         video = {
@@ -44176,6 +44648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see! So darling likes clothes that show off my figure?",
         game = 0,
         video = {
@@ -44269,6 +44742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How do you like skirts of this style?",
         game = 0,
         video = {
@@ -44362,6 +44836,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s... are you all right...",
         game = 0,
         video = {
@@ -44455,6 +44930,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah! %s! It really is you! Why are you dressed... like this?",
         game = 0,
         video = {
@@ -44548,6 +45024,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh no, I was spotted...!",
         game = 0,
         video = {
@@ -44641,6 +45118,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is that you... %s?",
         game = 0,
         video = {
@@ -44734,6 +45212,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I quickly picked a simple style as I wanted to end this farce ASAP",
         game = 0,
         video = {
@@ -44827,6 +45306,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A reason?",
         game = 0,
         video = {
@@ -44920,6 +45400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I responded in haste and was sweating. Hopefully no one had noticed Miku...",
         game = 0,
         video = {
@@ -45013,6 +45494,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh, that was close... we almost got caught...",
         game = 0,
         video = {
@@ -45106,6 +45588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You won't. As long as I'm there, I'll listen to your stories, I'll listen to your songs.",
         game = 0,
         video = {
@@ -45199,6 +45682,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That seems improper... this is %s and Miku's date...",
         game = 0,
         video = {
@@ -45292,6 +45776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It would be... inconvenient to put that on...",
         game = 0,
         video = {
@@ -45385,6 +45870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -45478,6 +45964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What? Did I say something funny?",
         game = 0,
         video = {
@@ -45577,6 +46064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What??!! Bedroom!!!",
         game = 0,
         video = {
@@ -45670,6 +46158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Got it, come with me, darling. You should like the style here.",
         game = 0,
         video = {
@@ -45763,6 +46252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... seems rather exquisite... it's pretty good.",
         game = 0,
         video = {
@@ -45857,6 +46347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -45950,6 +46441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew... this strap...",
         game = 0,
         video = {
@@ -46043,6 +46535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s wouldn't come to a dress store, right...",
         game = 0,
         video = {
@@ -46136,6 +46629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I think it suits %s.",
         game = 0,
         video = {
@@ -46229,6 +46723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "And also a boring one, for boys...",
         game = 0,
         video = {
@@ -46322,6 +46817,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes! I'm sure it's her!",
         game = 0,
         video = {
@@ -46415,6 +46911,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then you must be unwilling to wear the clothes I wore before...",
         game = 0,
         video = {
@@ -46508,6 +47005,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Welcome ~!",
         game = 0,
         video = {
@@ -46601,6 +47099,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I feel that... everyone around us is staring at us...",
         game = 0,
         video = {
@@ -46694,6 +47193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really? Can we go together?",
         game = 0,
         video = {
@@ -46787,6 +47287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling, do you need my help?",
         game = 0,
         video = {
@@ -46880,6 +47381,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Come with me.",
         game = 0,
         video = {
@@ -46973,6 +47475,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As I was trying to put on the clothes...",
         game = 0,
         video = {
@@ -47066,6 +47569,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's wrong, darling?",
         game = 0,
         video = {
@@ -47159,6 +47663,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay... huh?!!",
         game = 0,
         video = {
@@ -47252,6 +47757,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So you do like it, darling?",
         game = 0,
         video = {
@@ -47345,6 +47851,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uh... this bow is... so fiddly, how should I put it on?",
         game = 0,
         video = {
@@ -47439,6 +47946,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -47532,6 +48040,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -47625,6 +48134,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I picked up a skirt at random and went into the changing room.",
         game = 0,
         video = {
@@ -47718,6 +48228,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This one is fine.",
         game = 0,
         video = {
@@ -47811,6 +48322,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I thought so too ~ because this way darling and I are wearing matching suits ~",
         game = 0,
         video = {
@@ -47904,6 +48416,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You look... good...",
         game = 0,
         video = {
@@ -47997,6 +48510,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I have never been to this store before...",
         game = 0,
         video = {
@@ -48090,6 +48604,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How about it? Darling?",
         game = 0,
         video = {
@@ -48183,6 +48698,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah, how about I take you two shopping?",
         game = 0,
         video = {
@@ -48276,6 +48792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "With hair slightly curled up and a suit over her shoulder, Miku seemed quite dashing.",
         game = 0,
         video = {
@@ -48369,6 +48886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -48462,6 +48980,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku? Why did you change into men's clothing?",
         game = 0,
         video = {
@@ -48555,6 +49074,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What... do you want to do?",
         game = 0,
         video = {
@@ -48648,6 +49168,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku was pointing at a row of clothes that... used less cloth than usual.",
         game = 0,
         video = {
@@ -48741,6 +49262,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, why not try it on! ~",
         game = 0,
         video = {
@@ -48834,6 +49356,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I put it on with reluctance and walked out of the changing room...",
         game = 0,
         video = {
@@ -48927,6 +49450,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I reluctantly walked into the changing room. It seemed that this disaster was inevitable...",
         game = 0,
         video = {
@@ -49020,6 +49544,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -49114,6 +49639,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Run to the changing room further away",
         game = 0,
         video = {
@@ -49207,6 +49733,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then put it on and let us have a look!",
         game = 0,
         video = {
@@ -49300,6 +49827,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... that's... not true!",
         game = 0,
         video = {
@@ -49393,6 +49921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I know. You found a style that suits you, that's good, %s.",
         game = 0,
         video = {
@@ -49486,6 +50015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Seems to be a new store...",
         game = 0,
         video = {
@@ -49579,6 +50109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No, don't get me wrong!",
         game = 0,
         video = {
@@ -49672,6 +50203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, come to think of it, Yoshino wants to pick up a new hair clip.",
         game = 0,
         video = {
@@ -49765,6 +50297,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You seemed reluctant, but you actually did a lot of research in private ~",
         game = 0,
         video = {
@@ -49858,6 +50391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku... don't hug me so tight, I can't breathe...",
         game = 0,
         video = {
@@ -49951,6 +50485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling is really... amazing!!",
         game = 0,
         video = {
@@ -50044,6 +50579,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Singing just for darling? What's wrong?",
         game = 0,
         video = {
@@ -50137,6 +50673,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How about this one?",
         game = 0,
         video = {
@@ -50230,6 +50767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay.",
         game = 0,
         video = {
@@ -50323,6 +50861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -50416,6 +50955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It should be more suitable for someone of my height and temperament!",
         game = 0,
         video = {
@@ -50509,6 +51049,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... this one has many cute elements... it looks good on Miku, but...",
         game = 0,
         video = {
@@ -50602,6 +51143,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Better keep some distance!",
         game = 0,
         video = {
@@ -50698,6 +51240,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I chose this one for a reason!",
         game = 0,
         video = {
@@ -50791,6 +51334,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I finally met Miku halfway and walked into the changing room.",
         game = 0,
         video = {
@@ -50884,6 +51428,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -50977,6 +51522,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Miku, why did you bring me to your house...\nHey, wait!! Miku, the clothes you are holding...",
         game = 0,
         video = {
@@ -51070,6 +51616,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "There were rows of skirts and accessories, a splendid sight of various styles of dresses.",
         game = 0,
         video = {
@@ -51163,6 +51710,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Let me help you then ~",
         game = 0,
         video = {
@@ -51256,6 +51804,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay... fine.",
         game = 0,
         video = {
@@ -51352,6 +51901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I had to give in! For Miku's sake!",
         game = 0,
         video = {
@@ -51445,6 +51995,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But I really want to see darling wearing this.",
         game = 0,
         video = {
@@ -51539,6 +52090,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Singing huh... whew...",
         game = 0,
         video = {
@@ -51632,6 +52184,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A girlish outfit, but... it was also a very bold backless one!",
         game = 0,
         video = {
@@ -51725,6 +52278,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku... what are you waiting for?",
         game = 0,
         video = {
@@ -51818,6 +52372,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku picked up an unusually gorgeous and complicated skirt.",
         game = 0,
         video = {
@@ -51911,6 +52466,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why don't you try this on?",
         game = 0,
         video = {
@@ -52004,6 +52560,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? But... it's so plain, not good enough for %s.",
         game = 0,
         video = {
@@ -52097,6 +52654,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I walked toward the changing room, but...",
         game = 0,
         video = {
@@ -52190,6 +52748,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This one!",
         game = 0,
         video = {
@@ -52286,6 +52845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Choose one with a gorgeous bow style",
         game = 0,
         video = {
@@ -52382,6 +52942,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Choose one with a plain style quickly",
         game = 0,
         video = {
@@ -52475,6 +53036,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's right, my clothes.",
         game = 0,
         video = {
@@ -52568,6 +53130,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Since we're here... let's take a look?",
         game = 0,
         video = {
@@ -52661,6 +53224,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -52754,6 +53318,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It suits [girls] of [high] stature. You may try it on.",
         game = 0,
         video = {
@@ -52847,6 +53412,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... good! No, better than good... it's perfect for Miku!",
         game = 0,
         video = {
@@ -52940,6 +53506,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "People were gathering...",
         game = 0,
         video = {
@@ -53033,6 +53600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Well, we can do other things if that is darling's wish ~",
         game = 0,
         video = {
@@ -53126,6 +53694,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I think... it's a bit cold to wear this now...",
         game = 0,
         video = {
@@ -53219,6 +53788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm waiting for darling to try it on.",
         game = 0,
         video = {
@@ -53312,6 +53882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Well, Tohka, Yoshino... what a coincidence...",
         game = 0,
         video = {
@@ -53405,6 +53976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This is the best solution, even if I was recognized, people would think that I was shopping with a girl, right?",
         game = 0,
         video = {
@@ -53498,6 +54070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Avoiding is not the solution...",
         game = 0,
         video = {
@@ -53592,6 +54165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Greet them first",
         game = 0,
         video = {
@@ -53685,6 +54259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You see? Or do you want to go shopping with three girls at the same time, darling? I'm okay with that...",
         game = 0,
         video = {
@@ -53778,6 +54353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Together... that's impossible!",
         game = 0,
         video = {
@@ -53871,6 +54447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "In the end, I couldn't escape Miku's clutches.",
         game = 0,
         video = {
@@ -53964,6 +54541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You want me to wear... your clothes, Miku!?",
         game = 0,
         video = {
@@ -54057,6 +54635,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... they all look pretty.",
         game = 0,
         video = {
@@ -54150,6 +54729,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What...!! Is this really happening??",
         game = 0,
         video = {
@@ -54243,6 +54823,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku pulled out a card, her tone suggested it was but a walk in the park.",
         game = 0,
         video = {
@@ -54342,6 +54923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku, can you keep a little distance from me ~",
         game = 0,
         video = {
@@ -54435,6 +55017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Not bad...",
         game = 0,
         video = {
@@ -54531,6 +55114,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's better to try on a new uniform...",
         game = 0,
         video = {
@@ -54624,6 +55208,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... I see. Girlish style isn't to your liking, maybe you prefer something [more mature], darling?",
         game = 0,
         video = {
@@ -54723,6 +55308,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Me??",
         game = 0,
         video = {
@@ -54816,6 +55402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I couldn't let Miku be disappointed!",
         game = 0,
         video = {
@@ -54909,6 +55496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uh... not at all...",
         game = 0,
         video = {
@@ -55002,6 +55590,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -55095,6 +55684,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's okay ~ My makeup skills are amazing. I just need to choose a few hair clips for you.",
         game = 0,
         video = {
@@ -55188,6 +55778,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's okay, you go take a rest, darling.",
         game = 0,
         video = {
@@ -55281,6 +55872,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -55374,6 +55966,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku seemed vigorous, her skin was tender and flawless.",
         game = 0,
         video = {
@@ -55470,6 +56063,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The one in your hand is pretty good, let's buy it!",
         game = 0,
         video = {
@@ -55563,6 +56157,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Please pick one of each style.",
         game = 0,
         video = {
@@ -55656,6 +56251,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was stunned as Miku pulled Tohka and Yoshino to the accessory section.",
         game = 0,
         video = {
@@ -55752,6 +56348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -55848,6 +56445,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Choose the student uniform",
         game = 0,
         video = {
@@ -55942,6 +56540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The gorgeous style chosen by Tohka",
         game = 0,
         video = {
@@ -56035,6 +56634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Matching suit... It was quite embarrassing.",
         game = 0,
         video = {
@@ -56128,6 +56728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's not what I meant...",
         game = 0,
         video = {
@@ -56224,6 +56825,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I like Miku, no matter how you look",
         game = 0,
         video = {
@@ -56317,6 +56919,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -56410,6 +57013,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Please come to my concert, darling ~",
         game = 0,
         video = {
@@ -56503,6 +57107,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I seem to have... twisted my ankle...",
         game = 0,
         video = {
@@ -56596,6 +57201,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I knew darling was all I needed!",
         game = 0,
         video = {
@@ -56689,6 +57295,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But. . .",
         game = 0,
         video = {
@@ -56782,6 +57389,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't run away, darling ~",
         game = 0,
         video = {
@@ -56875,6 +57483,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku, let's spend some time deciding. You don't need to buy so many at once, that's excessive!",
         game = 0,
         video = {
@@ -56968,6 +57577,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course I do, but...",
         game = 0,
         video = {
@@ -57067,6 +57677,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?! One of each style?",
         game = 0,
         video = {
@@ -57163,6 +57774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -57256,6 +57868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What about this?",
         game = 0,
         video = {
@@ -57349,6 +57962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hey!",
         game = 0,
         video = {
@@ -57442,6 +58056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Umu! I knew %s would love this! Don't worry, it's definitely beautiful.",
         game = 0,
         video = {
@@ -57535,6 +58150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why don't you try this one?",
         game = 0,
         video = {
@@ -57628,6 +58244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then darling will surely like this, right?",
         game = 0,
         video = {
@@ -57721,6 +58338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hey, slow down ~",
         game = 0,
         video = {
@@ -57820,6 +58438,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah! Help!",
         game = 0,
         video = {
@@ -57913,6 +58532,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling, pick me up.",
         game = 0,
         video = {
@@ -58006,6 +58626,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "There was a rare expression of confusion and hesitation on Miku's face.",
         game = 0,
         video = {
@@ -58099,6 +58720,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As compensation, I will give %s a gift!",
         game = 0,
         video = {
@@ -58192,6 +58814,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As a singer, Miku was indeed the queen of the stage.",
         game = 0,
         video = {
@@ -58284,6 +58907,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Slowly, people began to gather inside the store.",
         game = 0,
         video = {
@@ -58377,6 +59001,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The uniform suits Miku better.",
         game = 0,
         video = {
@@ -58470,6 +59095,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Anyway, let's be quick!",
         game = 0,
         video = {
@@ -58563,6 +59189,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How about it? Does it look good?",
         game = 0,
         video = {
@@ -58662,6 +59289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hey... don't ignore me!!!",
         game = 0,
         video = {
@@ -58755,6 +59383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After Miku entered the changing room, I was finally able to take a breath.",
         game = 0,
         video = {
@@ -58848,6 +59477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Before I could refuse, Miku pushed me into the changing room with a smile.",
         game = 0,
         video = {
@@ -58941,6 +59571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, thank you Tohka.",
         game = 0,
         video = {
@@ -59034,6 +59665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I pointed at a uniform nearby and suggested it to Miku.",
         game = 0,
         video = {
@@ -59127,6 +59759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku picked out a garment with even less cloth and watched me curiously.",
         game = 0,
         video = {
@@ -59220,6 +59853,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm so sorry!",
         game = 0,
         video = {
@@ -59319,6 +59953,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I wasn't thinking about other things...",
         game = 0,
         video = {
@@ -59412,6 +60047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -59505,6 +60141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Are you questioning my taste in clothes, %s?",
         game = 0,
         video = {
@@ -59598,6 +60235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku grabbed me even tighter.",
         game = 0,
         video = {
@@ -59691,6 +60329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "If darling wants to help me choose... I'll be very happy.",
         game = 0,
         video = {
@@ -59786,6 +60425,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Actually, I'm not very good at this...",
         game = 0,
         video = {
@@ -59879,6 +60519,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Also good, I feel that Miku is fit to wear any outfit.",
         game = 0,
         video = {
@@ -59972,6 +60613,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay, darling! We do have the same taste. I also like this one ~",
         game = 0,
         video = {
@@ -60065,6 +60707,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It suits you well!",
         game = 0,
         video = {
@@ -60158,6 +60801,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You failed... it seems that %s still has a lot to learn about dating...",
         game = 0,
         video = {
@@ -60257,6 +60901,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uh!!!",
         game = 0,
         video = {
@@ -60353,6 +60998,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's a great costume for performance",
         game = 0,
         video = {
@@ -60446,6 +61092,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Remember to come home early, %s.",
         game = 0,
         video = {
@@ -60539,6 +61186,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? So %s likes this style?",
         game = 0,
         video = {
@@ -60632,6 +61280,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The last one was better!",
         game = 0,
         video = {
@@ -60726,6 +61375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -60819,6 +61469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, sorry.",
         game = 0,
         video = {
@@ -60912,6 +61563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That girl just entered the changing room... Is that Miku?",
         game = 0,
         video = {
@@ -61005,6 +61657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh! Darling and I have perfect unspoken understanding!",
         game = 0,
         video = {
@@ -61099,6 +61752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But I'll be recognized by others!",
         game = 0,
         video = {
@@ -61195,6 +61849,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm looking forward to it",
         game = 0,
         video = {
@@ -61288,6 +61943,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm, many people also like Miku as a normal student.",
         game = 0,
         video = {
@@ -61381,6 +62037,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Would you still... like me and support me?",
         game = 0,
         video = {
@@ -61481,6 +62138,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hush, keep it down a little, others might hear you...",
         game = 0,
         video = {
@@ -61574,6 +62232,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I also like it.",
         game = 0,
         video = {
@@ -61667,6 +62326,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Even Miss Reine said so...",
         game = 0,
         video = {
@@ -61759,6 +62419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -61855,6 +62516,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku on the stage belongs to everyone",
         game = 0,
         video = {
@@ -61948,6 +62610,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay...",
         game = 0,
         video = {
@@ -62041,6 +62704,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm! It's quite cute. Let's give it a try.",
         game = 0,
         video = {
@@ -62134,6 +62798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... I thought darling would like clothes more mature ~",
         game = 0,
         video = {
@@ -62230,6 +62895,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Close my eyes",
         game = 0,
         video = {
@@ -62323,6 +62989,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I stiffened and decided to let Miku do whatever she want.",
         game = 0,
         video = {
@@ -62416,6 +63083,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course not!",
         game = 0,
         video = {
@@ -62509,6 +63177,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Let's... go this way!",
         game = 0,
         video = {
@@ -62602,6 +63271,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see, please wait for a bit, darling, I'll try it on.",
         game = 0,
         video = {
@@ -62695,6 +63365,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah! That skirt over there!",
         game = 0,
         video = {
@@ -62788,6 +63459,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Costume... it didn't cross my mind.",
         game = 0,
         video = {
@@ -62881,6 +63553,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Right? Darling must have noticed it too!",
         game = 0,
         video = {
@@ -62974,6 +63647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah! It's Miku...",
         game = 0,
         video = {
@@ -63067,6 +63741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku turned around and let the skirt flutter.",
         game = 0,
         video = {
@@ -63166,6 +63841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow!! Miku, why did you come in!",
         game = 0,
         video = {
@@ -63259,6 +63935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I braced myself and stepped forward.",
         game = 0,
         video = {
@@ -63352,6 +64029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As an idol singer, Miku Izayoi belongs to the stage.",
         game = 0,
         video = {
@@ -63445,6 +64123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Bye, %s!",
         game = 0,
         video = {
@@ -63538,6 +64217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You are right...",
         game = 0,
         video = {
@@ -63631,6 +64311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That was a joke...",
         game = 0,
         video = {
@@ -63724,6 +64405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No way? I'm her biggest fan! Is she buying clothes here?",
         game = 0,
         video = {
@@ -63817,6 +64499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wearing the same school uniform as I do...",
         game = 0,
         video = {
@@ -63910,6 +64593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really...?",
         game = 0,
         video = {
@@ -64003,6 +64687,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "He doesn't seem to be here... were my eyes playing tricks on me...",
         game = 0,
         video = {
@@ -64099,6 +64784,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -64192,6 +64878,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -64291,6 +64978,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm!",
         game = 0,
         video = {
@@ -64384,6 +65072,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So I had no choice but to put it on...",
         game = 0,
         video = {
@@ -64477,6 +65166,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku? Miku the singer?",
         game = 0,
         video = {
@@ -64570,6 +65260,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But. . .",
         game = 0,
         video = {
@@ -64663,6 +65354,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I was afraid you didn't know how to wear it. It wasn't a good idea to call in the store staff, so I came in to help you myself.",
         game = 0,
         video = {
@@ -64756,6 +65448,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uh, I mean... it's bad publicity if people see Miku grabbing the arm of a boy...",
         game = 0,
         video = {
@@ -64849,6 +65542,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Belongs to the stage...",
         game = 0,
         video = {
@@ -64942,6 +65636,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -65035,6 +65730,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You want me to help you choose, Miku? No problem.",
         game = 0,
         video = {
@@ -65128,6 +65824,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku... why are you looking at me like that?",
         game = 0,
         video = {
@@ -65221,6 +65918,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -65320,6 +66018,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Three girls at the same time? That doesn't sound good!",
         game = 0,
         video = {
@@ -65413,6 +66112,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s shouldn't be here... maybe you were mistaken?",
         game = 0,
         video = {
@@ -65509,6 +66209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm not tired! Not at all!",
         game = 0,
         video = {
@@ -65602,6 +66303,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see... then Miku should take a good rest...",
         game = 0,
         video = {
@@ -65695,6 +66397,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Because darling is dashing.",
         game = 0,
         video = {
@@ -65788,6 +66491,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After a long while, nothing happened, so I opened my eyes curiously.",
         game = 0,
         video = {
@@ -65881,6 +66585,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm... it's a rare experience...",
         game = 0,
         video = {
@@ -65974,6 +66679,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh no, we have been spotted.",
         game = 0,
         video = {
@@ -66070,6 +66776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I never walked with a girl for so long... I'm a bit tired.",
         game = 0,
         video = {
@@ -66163,6 +66870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But this is the changing room. I might have been undressing!",
         game = 0,
         video = {
@@ -66256,6 +66964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I looked down at the school uniform I wore and couldn't help but give a smile.",
         game = 0,
         video = {
@@ -66349,6 +67058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmm! Won't it be a pity if you just sing for me? Miku's talent should blossom on the stage.",
         game = 0,
         video = {
@@ -66442,6 +67152,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I watched them walked away and sighed in relief.",
         game = 0,
         video = {
@@ -66538,6 +67249,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku is really suitable for the stage.",
         game = 0,
         video = {
@@ -66631,6 +67343,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku picked out clothes one after another and kept entering the changing room...",
         game = 0,
         video = {
@@ -66724,6 +67437,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uh...",
         game = 0,
         video = {
@@ -66817,6 +67531,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Then let them come along, I'm not a narrow-minded girl!",
         game = 0,
         video = {
@@ -66910,6 +67625,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Seeing that we were about to be discovered, I panicked and pushed Miku into the nearest store.",
         game = 0,
         video = {
@@ -67006,6 +67722,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ask the store Staff to go in",
         game = 0,
         video = {
@@ -67099,6 +67816,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67195,6 +67913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -67288,6 +68007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku was really vigorous...",
         game = 0,
         video = {
@@ -67381,6 +68101,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "*Sniff*… darling ~",
         game = 0,
         video = {
@@ -67480,6 +68201,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Let's go, Miku!",
         game = 0,
         video = {
@@ -67573,6 +68295,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That one seems better.",
         game = 0,
         video = {
@@ -67666,6 +68389,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Right, it doesn't matter, we are all girls here.",
         game = 0,
         video = {
@@ -67759,6 +68483,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So, the last one is better then?",
         game = 0,
         video = {
@@ -67852,6 +68577,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Do you... really think so, %s?",
         game = 0,
         video = {
@@ -67945,6 +68671,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I finally got away with it...",
         game = 0,
         video = {
@@ -68041,6 +68768,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -68134,6 +68862,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -68227,6 +68956,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Granting that everyone misunderstood you, left you, or even slandered you... so what?\nI'll accept you even more!",
         game = 0,
         video = {
@@ -68320,6 +69050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You like me better when I'm on the stage, darling?",
         game = 0,
         video = {
@@ -68413,6 +69144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Right, don't you want to go shopping with me, darling?",
         game = 0,
         video = {
@@ -68506,6 +69238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Miku turned away and seemed hurt.",
         game = 0,
         video = {
@@ -68600,6 +69333,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Anyway, I had to think of some other reasons to refuse...",
         game = 0,
         video = {
@@ -68693,6 +69427,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Not to mention Miku was with me...",
         game = 0,
         video = {
@@ -68786,6 +69521,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -68879,6 +69615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It doesn't matter if you slack off occasionally, Miku.",
         game = 0,
         video = {
@@ -68972,6 +69709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -69071,6 +69809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh——?",
         game = 0,
         video = {
@@ -69164,6 +69903,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Girls... but I...",
         game = 0,
         video = {
@@ -69257,6 +69997,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm just happy to be with Miku.",
         game = 0,
         video = {
@@ -69350,6 +70091,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course! Miku's singing is so great, it should be heard by everyone ~",
         game = 0,
         video = {
@@ -69443,6 +70185,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Darling, what are you doing?",
         game = 0,
         video = {
@@ -69536,6 +70279,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Are you all right?",
         game = 0,
         video = {
@@ -69629,6 +70373,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Since %s has picked out a preferred style, might as well try it on.",
         game = 0,
         video = {
@@ -69728,6 +70473,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh!? Me??",
         game = 0,
         video = {
@@ -69821,6 +70567,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's not okay! Darling must also enjoy the fun of shopping! I'm not someone who only cares about herself.",
         game = 0,
         video = {

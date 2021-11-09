@@ -9,6 +9,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92,6 +93,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -194,6 +196,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -278,6 +281,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -361,6 +365,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -472,6 +477,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -555,6 +561,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -656,6 +663,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -740,6 +748,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -821,6 +830,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -915,6 +925,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -996,6 +1007,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -1098,6 +1110,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -1179,6 +1192,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -1254,6 +1268,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -1345,6 +1360,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -1428,6 +1444,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -1530,6 +1547,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -1614,6 +1632,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -1697,6 +1716,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -1788,6 +1808,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -1871,6 +1892,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -1972,6 +1994,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -2056,6 +2079,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -2139,6 +2163,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -2229,6 +2254,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -2310,6 +2336,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -2413,6 +2440,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -2495,6 +2523,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -2576,6 +2605,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -2668,6 +2698,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -2745,6 +2776,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -2847,6 +2879,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -2923,6 +2956,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -3006,6 +3040,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -3099,6 +3134,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -3182,6 +3218,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -3284,6 +3321,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -3368,6 +3406,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -3451,6 +3490,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -3562,6 +3602,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -3645,6 +3686,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -3747,6 +3789,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -3831,6 +3874,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -3912,6 +3956,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -4014,6 +4059,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -4095,6 +4141,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -4197,6 +4244,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -4279,6 +4327,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -4362,6 +4411,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -4465,6 +4515,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -4548,6 +4599,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -4650,6 +4702,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -4734,6 +4787,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -4817,6 +4871,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -4919,6 +4974,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -5002,6 +5058,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -5103,6 +5160,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -5187,6 +5245,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -5268,6 +5327,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -5362,6 +5422,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -5443,6 +5504,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -5546,6 +5608,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -5628,6 +5691,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -5709,6 +5773,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -5812,6 +5877,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -5895,6 +5961,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -5998,6 +6065,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -6082,6 +6150,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -6165,6 +6234,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -6268,6 +6338,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -6351,6 +6422,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -6453,6 +6525,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -6537,6 +6610,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -6620,6 +6694,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -6722,6 +6797,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -6803,6 +6879,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -6905,6 +6982,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -6987,6 +7065,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -7068,6 +7147,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -7169,6 +7249,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -7246,6 +7327,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -7347,6 +7429,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -7425,6 +7508,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -7508,6 +7592,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -7610,6 +7695,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -7693,6 +7779,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -7794,6 +7881,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -7878,6 +7966,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -7961,6 +8050,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -8062,6 +8152,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -8145,6 +8236,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -8249,6 +8341,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -8333,6 +8426,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -8414,6 +8508,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -8516,6 +8611,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -8597,6 +8693,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -8709,6 +8806,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -8791,6 +8889,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -8874,6 +8973,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -8976,6 +9076,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -9059,6 +9160,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -9171,6 +9273,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -9255,6 +9358,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -9338,6 +9442,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -9439,6 +9544,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -9523,6 +9629,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -9606,6 +9713,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -9717,6 +9825,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -9801,6 +9910,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -9884,6 +9994,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -9986,6 +10097,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -10070,6 +10182,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -10151,6 +10264,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -10263,6 +10377,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -10345,6 +10460,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -10426,6 +10542,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -10528,6 +10645,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -10610,6 +10728,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -10693,6 +10812,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -10805,6 +10925,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -10889,6 +11010,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -10972,6 +11094,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -11074,6 +11197,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -11158,6 +11282,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -11241,6 +11366,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -11352,6 +11478,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -11436,6 +11563,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -11519,6 +11647,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -11620,6 +11749,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -11704,6 +11834,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -11785,6 +11916,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -11897,6 +12029,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -11979,6 +12112,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -12060,6 +12194,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -12162,6 +12297,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -12243,6 +12379,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -12318,6 +12455,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -12429,6 +12567,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -12507,6 +12646,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -12590,6 +12730,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -12692,6 +12833,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -12776,6 +12918,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -12859,6 +13002,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -12970,6 +13114,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -13054,6 +13199,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -13137,6 +13283,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -13238,6 +13385,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -13322,6 +13470,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -13405,6 +13554,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -13508,6 +13658,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -13592,6 +13743,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -13673,6 +13825,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -13776,6 +13929,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -13858,6 +14012,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -13939,6 +14094,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -14051,6 +14207,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -14132,6 +14289,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -14209,6 +14367,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -14311,6 +14470,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -14387,6 +14547,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -14470,6 +14631,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -14582,6 +14744,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -14666,6 +14829,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -14749,6 +14913,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -14851,6 +15016,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -14935,6 +15101,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -15018,6 +15185,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -15129,6 +15297,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -15213,6 +15382,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -15296,6 +15466,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -15398,6 +15569,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -15482,6 +15654,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -15563,6 +15736,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -15675,6 +15849,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -15757,6 +15932,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -15838,6 +16014,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -15940,6 +16117,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -16022,6 +16200,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -16105,6 +16284,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -16217,6 +16397,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -16301,6 +16482,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -16383,6 +16565,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -16485,6 +16668,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -16569,6 +16753,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -16652,6 +16837,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -16763,6 +16949,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -16847,6 +17034,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -16930,6 +17118,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -17031,6 +17220,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -17115,6 +17305,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -17196,6 +17387,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -17308,6 +17500,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -17390,6 +17583,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -17471,6 +17665,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -17574,6 +17769,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -17656,6 +17852,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -17739,6 +17936,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -17850,6 +18048,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -17926,6 +18125,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -18009,6 +18209,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -18112,6 +18313,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -18196,6 +18398,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -18279,6 +18482,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -18390,6 +18594,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -18474,6 +18679,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -18557,6 +18763,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -18659,6 +18866,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -18743,6 +18951,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -18824,6 +19033,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -18927,6 +19137,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -19011,6 +19222,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -19092,6 +19304,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -19194,6 +19407,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -19275,6 +19489,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -19352,6 +19567,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -19464,6 +19680,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -19545,6 +19762,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -19622,6 +19840,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -19723,6 +19942,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -19800,6 +20020,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -19890,6 +20111,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -20002,6 +20224,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -20086,6 +20309,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -20169,6 +20393,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -20270,6 +20495,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -20353,6 +20579,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -20443,6 +20670,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -20554,6 +20782,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -20638,6 +20867,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -20721,6 +20951,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -20825,6 +21056,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -20908,6 +21140,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -20997,6 +21230,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -21109,6 +21343,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -21191,6 +21426,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -21272,6 +21508,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -21384,6 +21621,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -21465,6 +21703,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -21555,6 +21794,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -21667,6 +21907,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -21751,6 +21992,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -21834,6 +22076,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -21946,6 +22189,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -22029,6 +22273,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -22119,6 +22364,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -22230,6 +22476,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -22314,6 +22561,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -22397,6 +22645,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -22508,6 +22757,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -22591,6 +22841,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -22680,6 +22931,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -22792,6 +23044,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -22876,6 +23129,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -22957,6 +23211,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -23069,6 +23324,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -23150,6 +23406,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -23227,6 +23484,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -23339,6 +23597,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -23421,6 +23680,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -23504,6 +23764,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -23616,6 +23877,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -23699,6 +23961,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -23790,6 +24053,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -23901,6 +24165,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -23985,6 +24250,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -24068,6 +24334,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -24179,6 +24446,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -24262,6 +24530,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -24352,6 +24621,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -24466,6 +24736,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -24550,6 +24821,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -24631,6 +24903,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -24743,6 +25016,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -24824,6 +25098,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -24917,6 +25192,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -25029,6 +25305,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -25110,6 +25387,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -25185,6 +25463,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -25296,6 +25575,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -25373,6 +25653,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -25463,6 +25744,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -25575,6 +25857,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -25659,6 +25942,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -25742,6 +26026,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -25853,6 +26138,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -25937,6 +26223,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -26020,6 +26307,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -26131,6 +26419,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -26215,6 +26504,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -26296,6 +26586,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -26399,6 +26690,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -26483,6 +26775,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -26564,6 +26857,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -26676,6 +26970,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -26758,6 +27053,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -26839,6 +27135,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -26951,6 +27248,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -27033,6 +27331,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -27116,6 +27415,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -27227,6 +27527,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -27303,6 +27604,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -27386,6 +27688,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -27498,6 +27801,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -27582,6 +27886,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -27665,6 +27970,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -27776,6 +28082,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -27860,6 +28167,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -27943,6 +28251,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -28054,6 +28363,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -28138,6 +28448,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -28219,6 +28530,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -28331,6 +28643,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -28415,6 +28728,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -28496,6 +28810,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -28608,6 +28923,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -28689,6 +29005,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -28764,6 +29081,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -28876,6 +29194,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -28958,6 +29277,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -29041,6 +29361,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -29153,6 +29474,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -29237,6 +29559,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -29320,6 +29643,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -29431,6 +29755,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -29515,6 +29840,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -29598,6 +29924,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -29709,6 +30036,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -29793,6 +30121,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -29876,6 +30205,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -29990,6 +30320,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -30074,6 +30405,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -30155,6 +30487,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -30267,6 +30600,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -30349,6 +30683,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -30431,6 +30766,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -30512,6 +30848,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -30589,6 +30926,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -30700,6 +31038,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -30776,6 +31115,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -30860,6 +31200,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -30944,6 +31285,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -31027,6 +31369,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -31138,6 +31481,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -31222,6 +31566,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -31306,6 +31651,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -31390,6 +31736,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -31473,6 +31820,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -31576,6 +31924,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -31660,6 +32009,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -31741,6 +32091,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -31854,6 +32205,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -31965,6 +32317,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -32047,6 +32400,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -32128,6 +32482,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -32239,6 +32594,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -32350,6 +32706,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -32461,6 +32818,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -32571,6 +32929,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -32682,6 +33041,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -32794,6 +33154,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -32876,6 +33237,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -32959,6 +33321,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -33069,6 +33432,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -33180,6 +33544,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -33291,6 +33656,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -33404,6 +33770,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -33514,6 +33881,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -33625,6 +33993,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -33703,6 +34072,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -33786,6 +34156,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -33897,6 +34268,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -34008,6 +34380,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -34118,6 +34491,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -34229,6 +34603,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -34340,6 +34715,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -34451,6 +34827,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -34535,6 +34912,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -34618,6 +34996,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -34729,6 +35108,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -34840,6 +35220,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -34942,6 +35323,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -35052,6 +35434,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -35163,6 +35546,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -35275,6 +35659,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -35359,6 +35744,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -35442,6 +35828,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -35552,6 +35939,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -35662,6 +36050,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -35773,6 +36162,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -35884,6 +36274,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -35994,6 +36385,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -36106,6 +36498,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -36190,6 +36583,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -36271,6 +36665,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -36382,6 +36777,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -36484,6 +36880,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -36594,6 +36991,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -36705,6 +37103,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -36816,6 +37215,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -36927,6 +37327,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -37011,6 +37412,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -37092,6 +37494,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -37203,6 +37606,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -37314,6 +37718,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -37425,6 +37830,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -37535,6 +37941,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -37646,6 +38053,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -37758,6 +38166,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -37839,6 +38248,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -37916,6 +38326,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -38019,6 +38430,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -38119,6 +38531,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -38220,6 +38633,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -38321,6 +38735,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -38422,6 +38837,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -38525,6 +38941,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -38607,6 +39024,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -38690,6 +39108,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -38801,6 +39220,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -38903,6 +39323,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -39003,6 +39424,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -39104,6 +39526,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -39205,6 +39628,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -39307,6 +39731,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -39391,6 +39816,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -39474,6 +39900,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -39575,6 +40002,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -39677,6 +40105,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -39779,6 +40208,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -39879,6 +40309,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -39980,6 +40411,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -40082,6 +40514,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -40166,6 +40599,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -40249,6 +40683,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -40359,6 +40794,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -40459,6 +40895,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -40560,6 +40997,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -40661,6 +41099,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -40762,6 +41201,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -40863,6 +41303,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -40947,6 +41388,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -41030,6 +41472,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -41131,6 +41574,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -41232,6 +41676,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -41332,6 +41777,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -41433,6 +41879,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -41534,6 +41981,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -41636,6 +42084,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -41720,6 +42169,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -41801,6 +42251,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -41912,6 +42363,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -42014,6 +42466,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -42116,6 +42569,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -42209,6 +42663,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -42310,6 +42765,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -42413,6 +42869,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -42497,6 +42954,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -42578,6 +43036,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -42679,6 +43138,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -42779,6 +43239,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -42871,6 +43332,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -42963,6 +43425,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -43052,6 +43515,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -43143,6 +43607,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -43224,6 +43689,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -43301,6 +43767,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -43412,6 +43879,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -43502,6 +43970,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -43595,6 +44064,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -43695,6 +44165,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -43796,6 +44267,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -43898,6 +44370,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -43980,6 +44453,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -44063,6 +44537,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -44154,6 +44629,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -44246,6 +44722,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -44338,6 +44815,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -44427,6 +44905,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -44517,6 +44996,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -44608,6 +45088,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -44692,6 +45173,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -44775,6 +45257,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -44885,6 +45368,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -44978,6 +45462,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -45068,6 +45553,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -45159,6 +45645,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -45250,6 +45737,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -45340,6 +45828,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -45424,6 +45913,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -45507,6 +45997,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -45597,6 +46088,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -45687,6 +46179,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -45776,6 +46269,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -45866,6 +46360,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -45956,6 +46451,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46034,6 +46530,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46118,6 +46615,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46201,6 +46699,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -46315,6 +46814,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46397,6 +46897,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46481,6 +46982,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46565,6 +47067,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46647,6 +47150,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46731,6 +47235,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46815,6 +47320,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46897,6 +47403,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -46981,6 +47488,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47063,6 +47571,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47147,6 +47656,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47230,6 +47740,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47308,6 +47819,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47390,6 +47902,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47472,6 +47985,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47553,6 +48067,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -47665,6 +48180,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47749,6 +48265,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47833,6 +48350,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47915,6 +48433,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -47999,6 +48518,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48083,6 +48603,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48165,6 +48686,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48249,6 +48771,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48331,6 +48854,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48415,6 +48939,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48498,6 +49023,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48576,6 +49102,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48658,6 +49185,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48741,6 +49269,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48819,6 +49348,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -48902,6 +49432,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -49014,6 +49545,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49098,6 +49630,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49180,6 +49713,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49264,6 +49798,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49348,6 +49883,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49430,6 +49966,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49514,6 +50051,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49598,6 +50136,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49682,6 +50221,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49765,6 +50305,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49841,6 +50382,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -49923,6 +50465,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50007,6 +50550,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50091,6 +50635,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50175,6 +50720,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50258,6 +50804,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -50369,6 +50916,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50451,6 +50999,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50535,6 +51084,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50619,6 +51169,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50701,6 +51252,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50785,6 +51337,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50869,6 +51422,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -50951,6 +51505,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51034,6 +51589,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51112,6 +51668,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51194,6 +51751,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51278,6 +51836,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51362,6 +51921,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51444,6 +52004,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51527,6 +52088,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -51616,6 +52178,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -51728,6 +52291,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51812,6 +52376,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51896,6 +52461,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -51978,6 +52544,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52062,6 +52629,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52146,6 +52714,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52227,6 +52796,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52304,6 +52874,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52382,6 +52953,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52464,6 +53036,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52548,6 +53121,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52632,6 +53206,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52716,6 +53291,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52800,6 +53376,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52882,6 +53459,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -52965,6 +53543,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -53076,6 +53655,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -53189,6 +53769,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -53299,6 +53880,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -53410,6 +53992,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -53521,6 +54104,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -53631,6 +54215,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -53707,6 +54292,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -53790,6 +54376,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -53901,6 +54488,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -54012,6 +54600,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -54122,6 +54711,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -54233,6 +54823,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -54344,6 +54935,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -54458,6 +55050,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -54542,6 +55135,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -54625,6 +55219,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -54735,6 +55330,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -54845,6 +55441,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -54956,6 +55553,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -55067,6 +55665,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -55177,6 +55776,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -55289,6 +55889,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -55373,6 +55974,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -55456,6 +56058,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -55567,6 +56170,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -55677,6 +56281,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -55788,6 +56393,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -55899,6 +56505,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -56001,6 +56608,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -56112,6 +56720,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -56196,6 +56805,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -56277,6 +56887,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -56388,6 +56999,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -56499,6 +57111,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -56610,6 +57223,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -56720,6 +57334,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -56831,6 +57446,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -56943,6 +57559,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -57027,6 +57644,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -57108,6 +57726,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -57218,6 +57837,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -57329,6 +57949,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -57440,6 +58061,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -57542,6 +58164,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -57652,6 +58275,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -57764,6 +58388,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -57845,6 +58470,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -57946,6 +58572,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -58057,6 +58684,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -58168,6 +58796,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -58278,6 +58907,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -58389,6 +59019,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -58500,6 +59131,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -58611,6 +59243,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -58693,6 +59326,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -58776,6 +59410,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -58887,6 +59522,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -58998,6 +59634,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -59101,6 +59738,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -59201,6 +59839,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -59302,6 +59941,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -59404,6 +60044,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -59488,6 +60129,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -59571,6 +60213,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -59681,6 +60324,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -59782,6 +60426,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -59884,6 +60529,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -59986,6 +60632,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -60086,6 +60733,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -60188,6 +60836,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -60272,6 +60921,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -60355,6 +61005,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -60456,6 +61107,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -60557,6 +61209,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -60658,6 +61311,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -60760,6 +61414,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -60862,6 +61517,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -60963,6 +61619,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -61047,6 +61704,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -61130,6 +61788,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -61243,6 +61902,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -61344,6 +62004,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -61445,6 +62106,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -61545,6 +62207,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -61646,6 +62309,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -61748,6 +62412,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -61832,6 +62497,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -61913,6 +62579,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -62014,6 +62681,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -62114,6 +62782,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -62215,6 +62884,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -62316,6 +62986,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -62416,6 +63087,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -62518,6 +63190,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -62600,6 +63273,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -62681,6 +63355,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -62782,6 +63457,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -62883,6 +63559,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -62985,6 +63662,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -63087,6 +63765,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -63180,6 +63859,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -63282,6 +63962,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -63364,6 +64045,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -63447,6 +64129,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -63549,6 +64232,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -63650,6 +64334,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -63750,6 +64435,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -63842,6 +64528,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -63934,6 +64621,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -64023,6 +64711,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -64099,6 +64788,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -64182,6 +64872,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -64272,6 +64963,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -64362,6 +65054,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -64455,6 +65148,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -64555,6 +65249,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -64656,6 +65351,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -64758,6 +65454,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -64842,6 +65539,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -64925,6 +65623,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -65016,6 +65715,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -65108,6 +65808,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -65200,6 +65901,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -65289,6 +65991,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -65379,6 +66082,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -65470,6 +66174,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -65554,6 +66259,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -65637,6 +66343,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -65730,6 +66437,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -65820,6 +66528,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -65911,6 +66620,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -66002,6 +66712,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -66091,6 +66802,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -66182,6 +66894,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -66266,6 +66979,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -66347,6 +67061,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -66437,6 +67152,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -66526,6 +67242,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -66616,6 +67333,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -66706,6 +67424,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -66784,6 +67503,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -66866,6 +67586,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -66950,6 +67671,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67032,6 +67754,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67116,6 +67839,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67200,6 +67924,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67282,6 +68007,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67366,6 +68092,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67450,6 +68177,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67532,6 +68260,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67613,6 +68342,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67691,6 +68421,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67775,6 +68506,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67858,6 +68590,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -67936,6 +68669,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68018,6 +68752,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68102,6 +68837,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68186,6 +68922,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68268,6 +69005,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68352,6 +69090,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68434,6 +69173,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68518,6 +69258,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68602,6 +69343,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68684,6 +69426,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68768,6 +69511,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68851,6 +69595,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -68928,6 +69673,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -69018,6 +69764,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69096,6 +69843,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69178,6 +69926,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69262,6 +70011,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69346,6 +70096,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69428,6 +70179,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69512,6 +70264,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69596,6 +70349,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69680,6 +70434,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69764,6 +70519,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69846,6 +70602,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -69930,6 +70687,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70013,6 +70771,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70089,6 +70848,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70171,6 +70931,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70254,6 +71015,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -70345,6 +71107,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70429,6 +71192,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70513,6 +71277,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70595,6 +71360,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70679,6 +71445,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70763,6 +71530,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70845,6 +71613,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -70928,6 +71697,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -71029,6 +71799,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71113,6 +71884,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71196,6 +71968,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71274,6 +72047,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71356,6 +72130,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71440,6 +72215,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71524,6 +72300,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71607,6 +72384,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -71697,6 +72475,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71779,6 +72558,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71863,6 +72643,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -71947,6 +72728,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72029,6 +72811,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72113,6 +72896,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72197,6 +72981,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72278,6 +73063,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72355,6 +73141,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72433,6 +73220,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72515,6 +73303,7 @@ return {
             [1] = 8107,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72598,6 +73387,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -72690,6 +73480,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72772,6 +73563,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72856,6 +73648,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -72937,6 +73730,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -73028,6 +73822,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -73110,6 +73905,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -73193,6 +73989,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -73284,6 +74081,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -73385,6 +74183,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -73467,6 +74266,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -73551,6 +74351,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -73635,6 +74436,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -73718,6 +74520,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -73820,6 +74623,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -73920,6 +74724,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -74022,6 +74827,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -74133,6 +74939,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -74243,6 +75050,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -74355,6 +75163,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -74438,6 +75247,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -74528,6 +75338,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -74603,6 +75414,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -74679,6 +75491,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -74761,6 +75574,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -74845,6 +75659,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -74929,6 +75744,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -75013,6 +75829,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -75096,6 +75913,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -75197,6 +76015,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -75288,6 +76107,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -75371,6 +76191,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -75484,6 +76305,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -75594,6 +76416,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -75705,6 +76528,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -75817,6 +76641,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -75900,6 +76725,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -75989,6 +76815,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -76099,6 +76926,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -76210,6 +77038,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -76321,6 +77150,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -76431,6 +77261,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -76543,6 +77374,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -76627,6 +77459,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -76711,6 +77544,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -76793,6 +77627,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -76874,6 +77709,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -76967,6 +77803,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -77080,6 +77917,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -77190,6 +78028,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -77301,6 +78140,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -77413,6 +78253,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -77494,6 +78335,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -77585,6 +78427,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -77695,6 +78538,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -77806,6 +78650,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -77917,6 +78762,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -78027,6 +78873,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -78138,6 +78985,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -78249,6 +79097,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -78327,6 +79176,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -78410,6 +79260,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -78513,6 +79364,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -78595,6 +79447,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -78678,6 +79531,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -78768,6 +79622,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -78879,6 +79734,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -78991,6 +79847,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -79074,6 +79931,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -79176,6 +80034,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -79286,6 +80145,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -79397,6 +80257,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -79508,6 +80369,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -79618,6 +80480,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -79729,6 +80592,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -79841,6 +80705,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -79925,6 +80790,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -80008,6 +80874,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -80110,6 +80977,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -80220,6 +81088,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -80332,6 +81201,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -80416,6 +81286,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -80499,6 +81370,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -80590,6 +81462,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -80673,6 +81546,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -80774,6 +81648,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -80884,6 +81759,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -80995,6 +81871,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -81106,6 +81983,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -81216,6 +82094,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -81327,6 +82206,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -81439,6 +82319,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -81522,6 +82403,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -81623,6 +82505,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -81726,6 +82609,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -81826,6 +82710,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -81927,6 +82812,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -82028,6 +82914,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -82130,6 +83017,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -82214,6 +83102,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -82295,6 +83184,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -82397,6 +83287,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -82478,6 +83369,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -82567,6 +83459,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -82669,6 +83562,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -82769,6 +83663,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -82870,6 +83765,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -82972,6 +83868,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -83054,6 +83951,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -83137,6 +84035,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -83238,6 +84137,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -83339,6 +84239,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -83441,6 +84342,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -83543,6 +84445,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -83643,6 +84546,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -83744,6 +84648,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -83821,6 +84726,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -83922,6 +84828,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -84024,6 +84931,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -84105,6 +85013,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -84182,6 +85091,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -84274,6 +85184,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -84375,6 +85286,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -84477,6 +85389,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -84561,6 +85474,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -84644,6 +85558,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -84745,6 +85660,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -84845,6 +85761,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -84946,6 +85863,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -85047,6 +85965,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -85147,6 +86066,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -85249,6 +86169,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -85332,6 +86253,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -85432,6 +86354,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -85533,6 +86456,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -85634,6 +86558,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -85736,6 +86661,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -85812,6 +86738,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -85896,6 +86823,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -85980,6 +86908,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -86064,6 +86993,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -86145,6 +87075,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -86238,6 +87169,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -86339,6 +87271,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -86441,6 +87374,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -86542,6 +87476,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -86642,6 +87577,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -86735,6 +87671,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -86818,6 +87755,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -86921,6 +87859,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -87013,6 +87952,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -87102,6 +88042,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -87192,6 +88133,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -87282,6 +88224,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -87376,6 +88319,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -87460,6 +88404,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -87541,6 +88486,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -87643,6 +88589,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -87726,6 +88673,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -87817,6 +88765,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -87918,6 +88867,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88019,6 +88969,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88110,6 +89061,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88203,6 +89155,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -88284,6 +89237,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88395,6 +89349,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88487,6 +89442,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88576,6 +89532,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88666,6 +89623,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88756,6 +89714,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88849,6 +89808,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -88940,6 +89900,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -89024,6 +89985,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -89107,6 +90069,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -89199,6 +90162,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -89283,6 +90247,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -89364,6 +90329,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -89465,6 +90431,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -89554,6 +90521,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -89645,6 +90613,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -89728,6 +90697,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -89820,6 +90790,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -89910,6 +90881,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -89999,6 +90971,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -90089,6 +91062,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -90179,6 +91153,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -90257,6 +91232,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -90339,6 +91315,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -90422,6 +91399,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -90523,6 +91501,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -90607,6 +91586,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -90691,6 +91671,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -90773,6 +91754,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -90855,6 +91837,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -90938,6 +91921,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -91040,6 +92024,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91123,6 +92108,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -91234,6 +92220,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91318,6 +92305,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91400,6 +92388,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91484,6 +92473,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91567,6 +92557,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91645,6 +92636,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91727,6 +92719,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91811,6 +92804,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91893,6 +92887,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -91977,6 +92972,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92059,6 +93055,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92143,6 +93140,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92227,6 +93225,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92311,6 +93310,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92395,6 +93395,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92476,6 +93477,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -92587,6 +93589,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -92688,6 +93691,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92772,6 +93776,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92855,6 +93860,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -92933,6 +93939,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93015,6 +94022,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93098,6 +94106,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93175,6 +94184,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -93277,6 +94287,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93361,6 +94372,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93443,6 +94455,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93527,6 +94540,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93611,6 +94625,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93693,6 +94708,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93777,6 +94793,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -93860,6 +94877,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -93972,6 +94990,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94056,6 +95075,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94137,6 +95157,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -94230,6 +95251,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94306,6 +95328,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94388,6 +95411,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94472,6 +95496,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94556,6 +95581,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94640,6 +95666,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94724,6 +95751,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94806,6 +95834,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94890,6 +95919,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -94974,6 +96004,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -95056,6 +96087,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -95140,6 +96172,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -95223,6 +96256,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -95333,6 +96367,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -95445,6 +96480,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -95528,6 +96564,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -95619,6 +96656,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -95701,6 +96739,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -95784,6 +96823,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -95895,6 +96935,7 @@ return {
             [1] = 8102,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -95979,6 +97020,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -96060,6 +97102,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -96150,6 +97193,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -96264,6 +97308,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -96345,6 +97390,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -96422,6 +97468,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -96533,6 +97580,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -96617,6 +97665,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -96698,6 +97747,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -96809,6 +97859,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -96899,6 +97950,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -96999,6 +98051,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -97110,6 +98163,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -97220,6 +98274,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -97331,6 +98386,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -97409,6 +98465,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -97491,6 +98548,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -97575,6 +98633,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -97659,6 +98718,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -97743,6 +98803,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -97824,6 +98885,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -97914,6 +98976,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -97997,6 +99060,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -98087,6 +99151,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -98162,6 +99227,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -98273,6 +99339,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -98365,6 +99432,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -98466,6 +99534,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -98566,6 +99635,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -98667,6 +99737,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -98778,6 +99849,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -98890,6 +99962,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -98974,6 +100047,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -99057,6 +100131,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -99170,6 +100245,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -99272,6 +100348,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -99355,6 +100432,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -99444,6 +100522,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -99555,6 +100634,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -99667,6 +100747,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -99750,6 +100831,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -99860,6 +100942,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -99970,6 +101053,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -100081,6 +101165,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -100192,6 +101277,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -100302,6 +101388,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -100413,6 +101500,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -100525,6 +101613,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -100608,6 +101697,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -100708,6 +101798,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -100818,6 +101909,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -100929,6 +102021,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -101031,6 +102124,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -101112,6 +102206,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -101202,6 +102297,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -101313,6 +102409,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -101396,6 +102493,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -101485,6 +102583,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -101596,6 +102695,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -101707,6 +102807,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -101817,6 +102918,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -101928,6 +103030,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -102039,6 +103142,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -102142,6 +103246,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -102223,6 +103328,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -102325,6 +103431,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -102436,6 +103543,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -102547,6 +103655,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -102657,6 +103766,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -102748,6 +103858,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -102831,6 +103942,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -102922,6 +104034,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -103003,6 +104116,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -103095,6 +104209,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -103205,6 +104320,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -103316,6 +104432,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -103427,6 +104544,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -103530,6 +104648,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -103614,6 +104733,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -103697,6 +104817,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -103774,6 +104895,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -103876,6 +104998,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -103987,6 +105110,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -104089,6 +105213,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -104189,6 +105314,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -104291,6 +105417,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -104374,6 +105501,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -104466,6 +105594,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -104549,6 +105678,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -104641,6 +105771,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -104742,6 +105873,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -104843,6 +105975,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -104945,6 +106078,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -105047,6 +106181,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -105147,6 +106282,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -105249,6 +106385,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -105332,6 +106469,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -105433,6 +106571,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -105533,6 +106672,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -105634,6 +106774,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -105735,6 +106876,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -105837,6 +106979,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -105919,6 +107062,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -106003,6 +107147,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -106086,6 +107231,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -106186,6 +107332,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -106277,6 +107424,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -106378,6 +107526,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -106479,6 +107628,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -106579,6 +107729,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -106680,6 +107831,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -106782,6 +107934,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -106865,6 +108018,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -106966,6 +108120,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -107068,6 +108223,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -107170,6 +108326,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -107263,6 +108420,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -107364,6 +108522,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -107467,6 +108626,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -107551,6 +108711,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -107632,6 +108793,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -107734,6 +108896,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -107817,6 +108980,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -107907,6 +109071,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108007,6 +109172,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108099,6 +109265,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108191,6 +109358,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108281,6 +109449,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -108362,6 +109531,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108463,6 +109633,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108553,6 +109724,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108646,6 +109818,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108746,6 +109919,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108847,6 +110021,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -108948,6 +110123,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -109040,6 +110216,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -109123,6 +110300,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -109225,6 +110403,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -109319,6 +110498,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -109400,6 +110580,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -109493,6 +110674,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -109585,6 +110767,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -109674,6 +110857,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -109765,6 +110949,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -109848,6 +111033,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -109949,6 +111135,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -110041,6 +111228,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -110124,6 +111312,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -110215,6 +111404,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -110296,6 +111486,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -110406,6 +111597,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -110518,6 +111710,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -110601,6 +111794,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -110702,6 +111896,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -110780,6 +111975,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -110862,6 +112058,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -110946,6 +112143,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111030,6 +112228,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111112,6 +112311,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111196,6 +112396,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111279,6 +112480,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -111380,6 +112582,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111464,6 +112667,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111546,6 +112750,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111630,6 +112835,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111713,6 +112919,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111790,6 +112997,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -111893,6 +113101,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -111974,6 +113183,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -112067,6 +113277,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -112179,6 +113390,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -112263,6 +113475,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -112347,6 +113560,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -112429,6 +113643,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -112513,6 +113728,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -112597,6 +113813,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -112678,6 +113895,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -112781,6 +113999,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -112863,6 +114082,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -112947,6 +114167,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -113030,6 +114251,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -113106,6 +114328,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -113188,6 +114411,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -113271,6 +114495,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -113348,6 +114573,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -113450,6 +114676,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -113560,6 +114787,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -113662,6 +114890,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -113744,6 +114973,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -113828,6 +115058,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -113912,6 +115143,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -113994,6 +115226,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -114077,6 +115310,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -114180,6 +115414,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -114264,6 +115499,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -114347,6 +115583,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -114425,6 +115662,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -114507,6 +115745,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -114591,6 +115830,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -114675,6 +115915,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -114758,6 +115999,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -114861,6 +116103,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -114942,6 +116185,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -115035,6 +116279,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -115129,6 +116374,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -115213,6 +116459,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -115295,6 +116542,7 @@ return {
             [1] = 8105,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -115379,6 +116627,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -115462,6 +116711,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -115564,6 +116814,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -115648,6 +116899,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -115732,6 +116984,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -115816,6 +117069,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -115897,6 +117151,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -115997,6 +117252,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -116073,6 +117329,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -116156,6 +117413,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -116258,6 +117516,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -116339,6 +117598,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -116417,6 +117677,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -116499,6 +117760,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -116600,6 +117862,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -116681,6 +117944,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -116759,6 +118023,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -116840,6 +118105,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -116942,6 +118208,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -117025,6 +118292,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -117126,6 +118394,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -117210,6 +118479,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -117294,6 +118564,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -117378,6 +118649,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -117460,6 +118732,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -117541,6 +118814,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -117642,6 +118916,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -117731,6 +119006,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -117832,6 +119108,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -117945,6 +119222,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -118055,6 +119333,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -118166,6 +119445,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -118277,6 +119557,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -118354,6 +119635,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -118444,6 +119726,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -118555,6 +119838,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -118665,6 +119949,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -118776,6 +120061,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -118887,6 +120173,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -119000,6 +120287,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -119111,6 +120399,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -119194,6 +120483,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -119295,6 +120585,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -119406,6 +120697,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -119516,6 +120808,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -119627,6 +120920,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -119738,6 +121032,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -119849,6 +121144,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -119961,6 +121257,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -120044,6 +121341,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -120134,6 +121432,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -120244,6 +121543,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -120355,6 +121655,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -120466,6 +121767,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -120576,6 +121878,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -120687,6 +121990,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -120799,6 +122103,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -120882,6 +122187,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -120982,6 +122288,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -121084,6 +122391,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -121194,6 +122502,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -121305,6 +122614,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -121416,6 +122726,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -121527,6 +122838,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -121639,6 +122951,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -121722,6 +123035,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -121811,6 +123125,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -121922,6 +123237,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -122033,6 +123349,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -122136,6 +123453,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -122237,6 +123555,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -122338,6 +123657,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -122440,6 +123760,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -122521,6 +123842,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -122622,6 +123944,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -122723,6 +124046,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -122824,6 +124148,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -122924,6 +124249,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123025,6 +124351,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123127,6 +124454,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123230,6 +124558,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -123311,6 +124640,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123403,6 +124733,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123505,6 +124836,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123606,6 +124938,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123698,6 +125031,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123790,6 +125124,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123880,6 +125215,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -123970,6 +125306,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -124045,6 +125382,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -124146,6 +125484,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -124246,6 +125585,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -124347,6 +125687,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -124438,6 +125779,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -124530,6 +125872,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -124622,6 +125965,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -124713,6 +126057,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -124796,6 +126141,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -124888,6 +126234,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -124978,6 +126325,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -125069,6 +126417,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -125160,6 +126509,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -125249,6 +126599,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -125339,6 +126690,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -125430,6 +126782,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -125513,6 +126866,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -125613,6 +126967,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -125702,6 +127057,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -125792,6 +127148,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -125882,6 +127239,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -125960,6 +127318,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126042,6 +127401,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126126,6 +127486,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126209,6 +127570,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -126301,6 +127663,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126383,6 +127746,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126467,6 +127831,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126551,6 +127916,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126635,6 +128001,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126719,6 +128086,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126801,6 +128169,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -126884,6 +128253,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -126986,6 +128356,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127068,6 +128439,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127151,6 +128523,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127229,6 +128602,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127311,6 +128685,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127395,6 +128770,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127479,6 +128855,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127560,6 +128937,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -127662,6 +129040,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127746,6 +129125,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127830,6 +129210,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127912,6 +129293,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -127996,6 +129378,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128080,6 +129463,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128164,6 +129548,7 @@ return {
             [1] = 8106,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128245,6 +129630,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -128347,6 +129733,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128431,6 +129818,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128515,6 +129903,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128597,6 +129986,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128681,6 +130071,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128763,6 +130154,7 @@ return {
             [1] = 8101,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128845,6 +130237,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -128928,6 +130321,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
             [1] = {
                 [1] = {
@@ -129030,6 +130424,7 @@ return {
             [1] = 8104,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -129111,6 +130506,7 @@ return {
         limitAttributes = {
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -129189,6 +130585,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -129271,6 +130668,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -129355,6 +130753,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {
@@ -129437,6 +130836,7 @@ return {
             [1] = 8103,
         },
         fightCount = 99,
+        minipack = 0,
         limitBuff = {
         },
         monsterGroupId = {

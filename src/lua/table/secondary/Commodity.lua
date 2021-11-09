@@ -13,6 +13,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51,6 +52,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -89,6 +91,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -127,6 +130,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -165,6 +169,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -203,6 +208,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -241,6 +247,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -279,6 +286,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -317,6 +325,7 @@ return {
         storeId = 100000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -355,6 +364,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -393,6 +403,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -431,6 +442,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -469,6 +481,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -507,6 +520,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -545,6 +559,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -583,6 +598,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -621,6 +637,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -659,6 +676,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -697,6 +715,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -735,6 +754,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -773,6 +793,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -811,6 +832,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -849,6 +871,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -887,6 +910,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -925,6 +949,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -963,6 +988,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1001,6 +1027,7 @@ return {
         storeId = 302000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1039,6 +1066,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1077,6 +1105,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1115,6 +1144,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1153,6 +1183,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1191,6 +1222,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1229,6 +1261,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1267,6 +1300,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1305,6 +1339,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1343,6 +1378,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1381,6 +1417,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1419,6 +1456,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1457,6 +1495,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1495,6 +1534,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1533,6 +1573,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1571,6 +1612,7 @@ return {
         storeId = 301000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1621,6 +1663,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1660,6 +1703,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1699,6 +1743,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1737,6 +1782,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1775,6 +1821,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -1813,6 +1860,7 @@ return {
         storeId = 203000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -1851,6 +1899,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -1889,6 +1938,7 @@ return {
         storeId = 203000,
         weight = 900,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -1927,6 +1977,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -1965,6 +2016,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2003,6 +2055,7 @@ return {
         storeId = 203000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -2041,6 +2094,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2079,6 +2133,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2117,6 +2172,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -2155,6 +2211,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2193,6 +2250,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2231,6 +2289,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -2271,6 +2330,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2313,6 +2373,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2353,6 +2414,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -2393,6 +2455,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2435,6 +2498,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2475,6 +2539,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -2513,6 +2578,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -2553,6 +2619,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2593,6 +2660,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2631,6 +2699,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -2669,6 +2738,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2707,6 +2777,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2745,6 +2816,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -2785,6 +2857,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2827,6 +2900,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2867,6 +2941,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -2907,6 +2982,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2949,6 +3025,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -2989,6 +3066,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -3029,6 +3107,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -3069,6 +3148,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -3107,6 +3187,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3145,6 +3226,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3183,6 +3265,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -3221,6 +3304,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 7,
         ext = {
         },
@@ -3259,6 +3343,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -3297,6 +3382,7 @@ return {
         storeId = 203000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3335,6 +3421,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3373,6 +3460,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3411,6 +3499,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3449,6 +3538,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -3487,6 +3577,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3525,6 +3616,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3563,6 +3655,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3601,6 +3694,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3639,6 +3733,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -3677,6 +3772,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -3715,6 +3811,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3753,6 +3850,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -3791,6 +3889,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3829,6 +3928,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3867,6 +3967,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -3905,6 +4006,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -3943,6 +4045,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -3981,6 +4084,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4019,6 +4123,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4057,6 +4162,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4095,6 +4201,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -4133,6 +4240,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -4171,6 +4279,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4209,6 +4318,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4247,6 +4357,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -4285,6 +4396,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4323,6 +4435,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4361,6 +4474,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -4399,6 +4513,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -4437,6 +4552,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4475,6 +4591,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -4513,6 +4630,7 @@ return {
         storeId = 202000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -4551,6 +4669,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4589,6 +4708,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4627,6 +4747,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -4665,6 +4786,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -4703,6 +4825,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4741,6 +4864,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4779,6 +4903,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -4817,6 +4942,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4855,6 +4981,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -4893,6 +5020,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -4931,6 +5059,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -4969,6 +5098,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5007,6 +5137,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5045,6 +5176,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5083,6 +5215,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5121,6 +5254,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -5159,6 +5293,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5197,6 +5332,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5235,6 +5371,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -5273,6 +5410,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5311,6 +5449,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5349,6 +5488,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -5387,6 +5527,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5425,6 +5566,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5463,6 +5605,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -5501,6 +5644,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5539,6 +5683,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5577,6 +5722,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5615,6 +5761,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5653,6 +5800,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -5691,6 +5839,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -5729,6 +5878,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5767,6 +5917,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5805,6 +5956,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5843,6 +5995,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -5881,6 +6034,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -5919,6 +6073,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5957,6 +6112,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -5995,6 +6151,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6033,6 +6190,7 @@ return {
         storeId = 202000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6071,6 +6229,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6109,6 +6268,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6147,6 +6307,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6185,6 +6346,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6223,6 +6385,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6261,6 +6424,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6299,6 +6463,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6337,6 +6502,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6375,6 +6541,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6413,6 +6580,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6451,6 +6619,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6489,6 +6658,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6527,6 +6697,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6565,6 +6736,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6603,6 +6775,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6641,6 +6814,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6679,6 +6853,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6717,6 +6892,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6755,6 +6931,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6793,6 +6970,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6831,6 +7009,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6869,6 +7048,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -6907,6 +7087,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6945,6 +7126,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -6983,6 +7165,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -7021,6 +7204,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -7059,6 +7243,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7097,6 +7282,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7135,6 +7321,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7173,6 +7360,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7211,6 +7399,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7249,6 +7438,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7287,6 +7477,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7325,6 +7516,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7363,6 +7555,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7401,6 +7594,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -7444,6 +7638,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7482,6 +7677,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -7525,6 +7721,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7563,6 +7760,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7601,6 +7799,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -7644,6 +7843,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -7687,6 +7887,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -7730,6 +7931,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -7773,6 +7975,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7811,6 +8014,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -7854,6 +8058,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -7897,6 +8102,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -7935,6 +8141,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -7978,6 +8185,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8016,6 +8224,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -8059,6 +8268,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8097,6 +8307,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8135,6 +8346,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8173,6 +8385,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8211,6 +8424,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8249,6 +8463,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8287,6 +8502,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8325,6 +8541,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8363,6 +8580,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8401,6 +8619,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8439,6 +8658,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -8482,6 +8702,7 @@ return {
         storeId = 324000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8520,6 +8741,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8558,6 +8780,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8596,6 +8819,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8634,6 +8858,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8672,6 +8897,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8710,6 +8936,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8748,6 +8975,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8786,6 +9014,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8824,6 +9053,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8862,6 +9092,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8900,6 +9131,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8938,6 +9170,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -8976,6 +9209,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9014,6 +9248,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -9052,6 +9287,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9090,6 +9326,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9128,6 +9365,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -9166,6 +9404,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -9204,6 +9443,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9242,6 +9482,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9280,6 +9521,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9318,6 +9560,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -9356,6 +9599,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9394,6 +9638,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9432,6 +9677,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9470,6 +9716,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -9509,6 +9756,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -9552,6 +9800,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9590,6 +9839,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9628,6 +9878,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9666,6 +9917,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9704,6 +9956,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9742,6 +9995,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9780,6 +10034,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9818,6 +10073,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9856,6 +10112,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9894,6 +10151,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9944,6 +10202,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -9982,6 +10241,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10020,6 +10280,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10058,6 +10319,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10096,6 +10358,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10134,6 +10397,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10172,6 +10436,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10210,6 +10475,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10248,6 +10514,7 @@ return {
         storeId = 100000,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10286,6 +10553,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10324,6 +10592,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10362,6 +10631,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10400,6 +10670,7 @@ return {
         storeId = 100000,
         weight = 1334,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10438,6 +10709,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10476,6 +10748,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10514,6 +10787,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -10564,6 +10838,7 @@ return {
         storeId = 100000,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10602,6 +10877,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -10652,6 +10928,7 @@ return {
         storeId = 150000,
         weight = 630,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10702,6 +10979,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10740,6 +11018,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10790,6 +11069,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10828,6 +11108,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -10890,6 +11171,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10940,6 +11222,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -10978,6 +11261,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -11040,6 +11324,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11078,6 +11363,7 @@ return {
         storeId = 100000,
         weight = 1333,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11128,6 +11414,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11166,6 +11453,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -11228,6 +11516,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11278,6 +11567,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11316,6 +11606,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11366,6 +11657,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11404,6 +11696,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11454,6 +11747,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11492,6 +11786,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -11554,6 +11849,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11604,6 +11900,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11642,6 +11939,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -11704,6 +12002,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11742,6 +12041,7 @@ return {
         storeId = 100000,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11792,6 +12092,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11830,6 +12131,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -11892,6 +12194,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11942,6 +12245,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -11992,6 +12296,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12030,6 +12335,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12080,6 +12386,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12118,6 +12425,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12168,6 +12476,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12206,6 +12515,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -12268,6 +12578,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12318,6 +12629,7 @@ return {
         storeId = 551000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12356,6 +12668,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -12406,6 +12719,7 @@ return {
         storeId = 100000,
         weight = 1333,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12444,6 +12758,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -12494,6 +12809,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12532,6 +12848,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12570,6 +12887,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12608,6 +12926,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12646,6 +12965,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -12696,6 +13016,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12734,6 +13055,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12772,6 +13094,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -12822,6 +13145,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12860,6 +13184,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12898,6 +13223,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12936,6 +13262,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -12974,6 +13301,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13024,6 +13352,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13062,6 +13391,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13112,6 +13442,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13162,6 +13493,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13200,6 +13532,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13238,6 +13571,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13288,6 +13622,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13326,6 +13661,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13376,6 +13712,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13426,6 +13763,7 @@ return {
         storeId = 150000,
         weight = 630,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13464,6 +13802,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13502,6 +13841,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13552,6 +13892,7 @@ return {
         storeId = 150000,
         weight = 310,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13590,6 +13931,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13640,6 +13982,7 @@ return {
         storeId = 323001,
         weight = 2000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13678,6 +14021,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13728,6 +14072,7 @@ return {
         storeId = 323001,
         weight = 2000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13766,6 +14111,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13804,6 +14150,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13842,6 +14189,7 @@ return {
         storeId = 323001,
         weight = 2000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13880,6 +14228,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -13918,6 +14267,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -13968,6 +14318,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14006,6 +14357,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -14056,6 +14408,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -14118,6 +14471,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14156,6 +14510,7 @@ return {
         storeId = 323002,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14194,6 +14549,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14232,6 +14588,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14270,6 +14627,7 @@ return {
         storeId = 323002,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14308,6 +14666,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -14358,6 +14717,7 @@ return {
         storeId = 323002,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14396,6 +14756,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14434,6 +14795,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -14484,6 +14846,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -14534,6 +14897,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14572,6 +14936,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14610,6 +14975,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -14660,6 +15026,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14698,6 +15065,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14736,6 +15104,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14774,6 +15143,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14812,6 +15182,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -14855,6 +15226,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14893,6 +15265,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14931,6 +15304,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -14969,6 +15343,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15007,6 +15382,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15045,6 +15421,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15083,6 +15460,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15121,6 +15499,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -15164,6 +15543,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15202,6 +15582,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15240,6 +15621,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15278,6 +15660,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15316,6 +15699,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15354,6 +15738,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15392,6 +15777,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15430,6 +15816,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15468,6 +15855,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15506,6 +15894,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15544,6 +15933,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15582,6 +15972,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15620,6 +16011,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15658,6 +16050,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15708,6 +16101,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15746,6 +16140,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15784,6 +16179,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15822,6 +16218,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15860,6 +16257,7 @@ return {
         storeId = 203000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -15898,6 +16296,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15936,6 +16335,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -15974,6 +16374,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16012,6 +16413,7 @@ return {
         storeId = 203000,
         weight = 900,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16050,6 +16452,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16088,6 +16491,7 @@ return {
         storeId = 203000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16126,6 +16530,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16164,6 +16569,7 @@ return {
         storeId = 100000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16202,6 +16608,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16240,6 +16647,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16278,6 +16686,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16316,6 +16725,7 @@ return {
         storeId = 100000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16366,6 +16776,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16404,6 +16815,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16442,6 +16854,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16480,6 +16893,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16518,6 +16932,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16556,6 +16971,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16594,6 +17010,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16632,6 +17049,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16670,6 +17088,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16708,6 +17127,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16746,6 +17166,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16784,6 +17205,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16822,6 +17244,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16860,6 +17283,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16898,6 +17322,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -16936,6 +17361,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -16974,6 +17400,7 @@ return {
         storeId = 203000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17012,6 +17439,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17050,6 +17478,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -17088,6 +17517,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17126,6 +17556,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17164,6 +17595,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -17202,6 +17634,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17240,6 +17673,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17278,6 +17712,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -17316,6 +17751,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17354,6 +17790,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17392,6 +17829,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -17430,6 +17868,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17468,6 +17907,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17506,6 +17946,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -17544,6 +17985,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17582,6 +18024,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17620,6 +18063,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -17658,6 +18102,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17696,6 +18141,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17734,6 +18180,7 @@ return {
         storeId = 170000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -17772,6 +18219,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17810,6 +18258,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17848,6 +18297,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17886,6 +18336,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -17924,6 +18375,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -17962,6 +18414,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18000,6 +18453,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18038,6 +18492,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -18076,6 +18531,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18114,6 +18570,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18152,6 +18609,7 @@ return {
         storeId = 202000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -18190,6 +18648,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18228,6 +18687,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18266,6 +18726,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -18304,6 +18765,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18342,6 +18804,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18380,6 +18843,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -18418,6 +18882,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18456,6 +18921,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18494,6 +18960,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -18532,6 +18999,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -18570,6 +19038,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18608,6 +19077,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18646,6 +19116,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -18684,6 +19155,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18722,6 +19194,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -18760,6 +19233,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -18798,6 +19272,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18836,6 +19311,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -18874,6 +19350,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -18912,6 +19389,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -18950,6 +19428,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -18988,6 +19467,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -19026,6 +19506,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19064,6 +19545,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -19102,6 +19584,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -19140,6 +19623,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19178,6 +19662,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -19216,6 +19701,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -19254,6 +19740,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19292,6 +19779,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -19330,6 +19818,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -19368,6 +19857,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19406,6 +19896,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -19444,6 +19935,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19482,6 +19974,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19520,6 +20013,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -19558,6 +20052,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -19596,6 +20091,7 @@ return {
         storeId = 202000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19634,6 +20130,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19672,6 +20169,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -19710,6 +20208,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19748,6 +20247,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19786,6 +20286,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -19824,6 +20325,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -19862,6 +20364,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19900,6 +20403,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -19938,6 +20442,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -19976,6 +20481,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20014,6 +20520,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20052,6 +20559,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20090,6 +20598,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20128,6 +20637,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20166,6 +20676,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20204,6 +20715,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20242,6 +20754,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20280,6 +20793,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20318,6 +20832,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20356,6 +20871,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20394,6 +20910,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20432,6 +20949,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20470,6 +20988,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20508,6 +21027,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20546,6 +21066,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20584,6 +21105,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20622,6 +21144,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20660,6 +21183,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20698,6 +21222,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20736,6 +21261,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20774,6 +21300,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20812,6 +21339,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20850,6 +21378,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20888,6 +21417,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -20926,6 +21456,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -20964,6 +21495,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -21002,6 +21534,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21040,6 +21573,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -21078,6 +21612,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21116,6 +21651,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -21154,6 +21690,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21192,6 +21729,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21230,6 +21768,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21268,6 +21807,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21306,6 +21846,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21344,6 +21885,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21382,6 +21924,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21420,6 +21963,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21458,6 +22002,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21496,6 +22041,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21534,6 +22080,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21572,6 +22119,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21622,6 +22170,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21660,6 +22209,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21698,6 +22248,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21736,6 +22287,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21774,6 +22326,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21812,6 +22365,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21850,6 +22404,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21888,6 +22443,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21926,6 +22482,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -21964,6 +22521,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22002,6 +22560,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22040,6 +22599,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22090,6 +22650,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22128,6 +22689,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22166,6 +22728,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22204,6 +22767,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22242,6 +22806,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22280,6 +22845,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22318,6 +22884,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22356,6 +22923,7 @@ return {
         storeId = 100000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22395,6 +22963,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22434,6 +23003,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22472,6 +23042,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22510,6 +23081,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22549,6 +23121,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22588,6 +23161,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22627,6 +23201,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22666,6 +23241,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22704,6 +23280,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22744,6 +23321,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22784,6 +23362,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22824,6 +23403,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22864,6 +23444,7 @@ return {
         storeId = 150000,
         weight = 630,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22902,6 +23483,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22942,6 +23524,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -22982,6 +23565,7 @@ return {
         storeId = 150000,
         weight = 310,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23022,6 +23606,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23062,6 +23647,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23100,6 +23686,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23138,6 +23725,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23178,6 +23766,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23218,6 +23807,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23258,6 +23848,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23310,6 +23901,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23348,6 +23940,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23386,6 +23979,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23426,6 +24020,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23466,6 +24061,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23505,6 +24101,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23544,6 +24141,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23582,6 +24180,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23621,6 +24220,7 @@ return {
         storeId = 206000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23660,6 +24260,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23698,6 +24299,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23736,6 +24338,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23786,6 +24389,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23824,6 +24428,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23862,6 +24467,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23900,6 +24506,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23938,6 +24545,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -23976,6 +24584,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24014,6 +24623,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24052,6 +24662,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24090,6 +24701,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24128,6 +24740,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24166,6 +24779,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24204,6 +24818,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24242,6 +24857,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -24297,6 +24913,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24335,6 +24952,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24373,6 +24991,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -24416,6 +25035,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24454,6 +25074,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -24497,6 +25118,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24535,6 +25157,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -24578,6 +25201,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24616,6 +25240,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24654,6 +25279,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24692,6 +25318,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24730,6 +25357,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24768,6 +25396,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24806,6 +25435,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24844,6 +25474,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24882,6 +25513,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24920,6 +25552,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24958,6 +25591,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -24996,6 +25630,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25034,6 +25669,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25072,6 +25708,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25110,6 +25747,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -25148,6 +25786,7 @@ return {
         storeId = 205000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25186,6 +25825,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25224,6 +25864,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25262,6 +25903,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25300,6 +25942,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -25338,6 +25981,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25376,6 +26020,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25414,6 +26059,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25452,6 +26098,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -25490,6 +26137,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25528,6 +26176,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25566,6 +26215,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25604,6 +26254,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -25642,6 +26293,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25680,6 +26332,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25718,6 +26371,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25756,6 +26410,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -25794,6 +26449,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25832,6 +26488,7 @@ return {
         storeId = 100000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25870,6 +26527,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25908,6 +26566,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -25946,6 +26605,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -25984,6 +26644,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26022,6 +26683,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -26065,6 +26727,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26103,6 +26766,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26141,6 +26805,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -26179,6 +26844,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26217,6 +26883,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26255,6 +26922,7 @@ return {
         storeId = 100000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26293,6 +26961,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26331,6 +27000,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26369,6 +27039,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -26407,6 +27078,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26445,6 +27117,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26483,6 +27156,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -26526,6 +27200,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26564,6 +27239,7 @@ return {
         storeId = 327000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26602,6 +27278,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -26640,6 +27317,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26678,6 +27356,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26716,6 +27395,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -26759,6 +27439,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26797,6 +27478,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26835,6 +27517,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -26873,6 +27556,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26911,6 +27595,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -26949,6 +27634,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -26992,6 +27678,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27030,6 +27717,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27068,6 +27756,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -27106,6 +27795,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27144,6 +27834,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27182,6 +27873,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -27225,6 +27917,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -27268,6 +27961,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27306,6 +28000,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -27344,6 +28039,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -27387,6 +28083,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27425,6 +28122,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27463,6 +28161,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -27506,6 +28205,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27544,6 +28244,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -27582,6 +28283,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -27625,6 +28327,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27663,6 +28366,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27701,6 +28405,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27739,6 +28444,7 @@ return {
         storeId = 203000,
         weight = 75,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -27777,6 +28483,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -27815,6 +28522,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27853,6 +28561,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27891,6 +28600,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27929,6 +28639,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -27967,6 +28678,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28005,6 +28717,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -28043,6 +28756,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28081,6 +28795,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28119,6 +28834,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28157,6 +28873,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28195,6 +28912,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -28233,6 +28951,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -28271,6 +28990,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28309,6 +29029,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28347,6 +29068,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28385,6 +29107,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28423,6 +29146,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28461,6 +29185,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -28499,6 +29224,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28537,6 +29263,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28575,6 +29302,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28613,6 +29341,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28651,6 +29380,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -28689,6 +29419,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -28727,6 +29458,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28765,6 +29497,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28803,6 +29536,7 @@ return {
         storeId = 325000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28841,6 +29575,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -28884,6 +29619,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -28922,6 +29658,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -28960,6 +29697,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29003,6 +29741,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29041,6 +29780,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -29079,6 +29819,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -29117,6 +29858,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29155,6 +29897,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29198,6 +29941,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29236,6 +29980,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29279,6 +30024,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29317,6 +30063,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29355,6 +30102,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29398,6 +30146,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29436,6 +30185,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -29474,6 +30224,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29512,6 +30263,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29555,6 +30307,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29593,6 +30346,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29636,6 +30390,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29674,6 +30429,7 @@ return {
         storeId = 402000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29712,6 +30468,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29755,6 +30512,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -29793,6 +30551,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29836,6 +30595,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -29874,6 +30634,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29917,6 +30678,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -29955,6 +30717,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -29998,6 +30761,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -30036,6 +30800,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -30074,6 +30839,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30117,6 +30883,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -30155,6 +30922,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30198,6 +30966,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -30236,6 +31005,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30279,6 +31049,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -30317,6 +31088,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30360,6 +31132,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30403,6 +31176,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -30441,6 +31215,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30484,6 +31259,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -30522,6 +31298,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30565,6 +31342,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -30603,6 +31381,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30646,6 +31425,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30689,6 +31469,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -30727,6 +31508,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30770,6 +31552,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -30808,6 +31591,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30851,6 +31635,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -30889,6 +31674,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30932,6 +31718,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -30975,6 +31762,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -31013,6 +31801,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31056,6 +31845,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -31094,6 +31884,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31137,6 +31928,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -31175,6 +31967,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31218,6 +32011,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31261,6 +32055,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -31299,6 +32094,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31342,6 +32138,7 @@ return {
         storeId = 120000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -31380,6 +32177,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31423,6 +32221,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -31461,6 +32260,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31504,6 +32304,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31547,6 +32348,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -31585,6 +32387,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31628,6 +32431,7 @@ return {
         storeId = 120000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -31666,6 +32470,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31709,6 +32514,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -31747,6 +32553,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31790,6 +32597,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31833,6 +32641,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -31871,6 +32680,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -31909,6 +32719,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -31952,6 +32763,7 @@ return {
         storeId = 120000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -31990,6 +32802,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -32033,6 +32846,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -32071,6 +32885,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32109,6 +32924,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32147,6 +32963,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -32185,6 +33002,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32223,6 +33041,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32261,6 +33080,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32299,6 +33119,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -32337,6 +33158,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32375,6 +33197,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32413,6 +33236,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -32451,6 +33275,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32489,6 +33314,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32527,6 +33353,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32565,6 +33392,7 @@ return {
         storeId = 202000,
         weight = 1500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -32603,6 +33431,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32641,6 +33470,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32679,6 +33509,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -32717,6 +33548,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32755,6 +33587,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32793,6 +33626,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32831,6 +33665,7 @@ return {
         storeId = 202000,
         weight = 1500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -32869,6 +33704,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32907,6 +33743,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -32945,6 +33782,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -32983,6 +33821,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33021,6 +33860,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33059,6 +33899,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33097,6 +33938,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33135,6 +33977,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33173,6 +34016,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33211,6 +34055,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33249,6 +34094,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33299,6 +34145,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33337,6 +34184,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33375,6 +34223,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33413,6 +34262,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33451,6 +34301,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33489,6 +34340,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33527,6 +34379,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33565,6 +34418,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33603,6 +34457,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33641,6 +34496,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33679,6 +34535,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33717,6 +34574,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33755,6 +34613,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33793,6 +34652,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33831,6 +34691,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33869,6 +34730,7 @@ return {
         storeId = 330000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33907,6 +34769,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -33945,6 +34808,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -33988,6 +34852,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34026,6 +34891,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34064,6 +34930,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34102,6 +34969,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34140,6 +35008,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34178,6 +35047,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34216,6 +35086,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34254,6 +35125,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34292,6 +35164,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34330,6 +35203,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34368,6 +35242,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34406,6 +35281,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34444,6 +35320,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34482,6 +35359,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -34525,6 +35403,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34563,6 +35442,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34601,6 +35481,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34639,6 +35520,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -34694,6 +35576,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34732,6 +35615,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34770,6 +35654,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34808,6 +35693,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -34851,6 +35737,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34889,6 +35776,7 @@ return {
         storeId = 204000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -34929,6 +35817,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -34967,6 +35856,7 @@ return {
         storeId = 204000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -35007,6 +35897,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35045,6 +35936,7 @@ return {
         storeId = 204000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -35085,6 +35977,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35123,6 +36016,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35161,6 +36055,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35199,6 +36094,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35237,6 +36133,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35275,6 +36172,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35313,6 +36211,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35351,6 +36250,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35389,6 +36289,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35427,6 +36328,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35465,6 +36367,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35503,6 +36406,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35541,6 +36445,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35579,6 +36484,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35617,6 +36523,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35655,6 +36562,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35693,6 +36601,7 @@ return {
         storeId = 150000,
         weight = 630,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35731,6 +36640,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35769,6 +36679,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35807,6 +36718,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35845,6 +36757,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35883,6 +36796,7 @@ return {
         storeId = 150000,
         weight = 310,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35933,6 +36847,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -35971,6 +36886,7 @@ return {
         storeId = 600001,
         weight = 800,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36009,6 +36925,7 @@ return {
         storeId = 600001,
         weight = 500,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36047,6 +36964,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36085,6 +37003,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36135,6 +37054,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36173,6 +37093,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36211,6 +37132,7 @@ return {
         storeId = 600001,
         weight = 800,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36249,6 +37171,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36299,6 +37222,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36337,6 +37261,7 @@ return {
         storeId = 600001,
         weight = 600,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36387,6 +37312,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36425,6 +37351,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36463,6 +37390,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36513,6 +37441,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36551,6 +37480,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36589,6 +37519,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36627,6 +37558,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36677,6 +37609,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36715,6 +37648,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36753,6 +37687,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36791,6 +37726,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36829,6 +37765,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36867,6 +37804,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36917,6 +37855,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36955,6 +37894,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -36993,6 +37933,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37031,6 +37972,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37081,6 +38023,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37119,6 +38062,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37157,6 +38101,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37195,6 +38140,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37233,6 +38179,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37283,6 +38230,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37333,6 +38281,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37371,6 +38320,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37421,6 +38371,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37471,6 +38422,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37509,6 +38461,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37559,6 +38512,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37597,6 +38551,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -37637,6 +38592,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -37689,6 +38645,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37727,6 +38684,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -37767,6 +38725,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37817,6 +38776,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37855,6 +38815,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -37893,6 +38854,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -37933,6 +38895,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -37985,6 +38948,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38023,6 +38987,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38063,6 +39028,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38113,6 +39079,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38151,6 +39118,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38191,6 +39159,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38243,6 +39212,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38281,6 +39251,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38319,6 +39290,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38359,6 +39331,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38411,6 +39384,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38449,6 +39423,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38489,6 +39464,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38541,6 +39517,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38579,6 +39556,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38619,6 +39597,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38669,6 +39648,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38707,6 +39687,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38747,6 +39728,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38799,6 +39781,7 @@ return {
         storeId = 180000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38837,6 +39820,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38877,6 +39861,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38917,6 +39902,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -38955,6 +39941,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -38995,6 +39982,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39035,6 +40023,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39075,6 +40064,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39115,6 +40105,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39153,6 +40144,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39193,6 +40185,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39233,6 +40226,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39273,6 +40267,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39313,6 +40308,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39351,6 +40347,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39389,6 +40386,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39429,6 +40427,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -39472,6 +40471,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -39515,6 +40515,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39554,6 +40555,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39593,6 +40595,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39633,6 +40636,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -39676,6 +40680,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -39719,6 +40724,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39757,6 +40763,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39795,6 +40802,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -39835,6 +40843,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39873,6 +40882,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39911,6 +40921,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39949,6 +40960,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -39987,6 +40999,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -40025,6 +41038,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -40068,6 +41082,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -40106,6 +41121,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -40149,6 +41165,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -40192,6 +41209,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -40235,6 +41253,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -40278,6 +41297,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -40316,6 +41336,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40356,6 +41377,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40396,6 +41418,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -40434,6 +41457,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40474,6 +41498,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40514,6 +41539,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -40553,6 +41579,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -40592,6 +41619,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40632,6 +41660,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40672,6 +41701,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -40710,6 +41740,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40750,6 +41781,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40790,6 +41822,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -40828,6 +41861,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40868,6 +41902,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40908,6 +41943,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -40946,6 +41982,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -40986,6 +42023,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41026,6 +42064,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -41064,6 +42103,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41104,6 +42144,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41144,6 +42185,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -41182,6 +42224,7 @@ return {
         storeId = 314000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -41220,6 +42263,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41260,6 +42304,7 @@ return {
         storeId = 314000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -41298,6 +42343,7 @@ return {
         storeId = 314000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -41336,6 +42382,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41376,6 +42423,7 @@ return {
         storeId = 314000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -41414,6 +42462,7 @@ return {
         storeId = 314000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -41452,6 +42501,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41492,6 +42542,7 @@ return {
         storeId = 314000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -41530,6 +42581,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41570,6 +42622,7 @@ return {
         storeId = 314000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -41609,6 +42662,7 @@ return {
         storeId = 314000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -41648,6 +42702,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41688,6 +42743,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41728,6 +42784,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -41766,6 +42823,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41806,6 +42864,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41846,6 +42905,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -41884,6 +42944,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41924,6 +42985,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -41964,6 +43026,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42002,6 +43065,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42042,6 +43106,7 @@ return {
         storeId = 203000,
         weight = 75,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42080,6 +43145,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42118,6 +43184,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42158,6 +43225,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42198,6 +43266,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42236,6 +43305,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42276,6 +43346,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -42314,6 +43385,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42354,6 +43426,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42392,6 +43465,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42432,6 +43506,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42472,6 +43547,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42510,6 +43586,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42550,6 +43627,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -42588,6 +43666,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42626,6 +43705,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42664,6 +43744,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42704,6 +43785,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42744,6 +43826,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42782,6 +43865,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -42822,6 +43906,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -42860,6 +43945,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -42898,6 +43984,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -42936,6 +44023,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -42974,6 +44062,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43012,6 +44101,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43050,6 +44140,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43088,6 +44179,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43126,6 +44218,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43164,6 +44257,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43202,6 +44296,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43240,6 +44335,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -43278,6 +44374,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43316,6 +44413,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43354,6 +44452,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43392,6 +44491,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43430,6 +44530,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43468,6 +44569,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43506,6 +44608,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43544,6 +44647,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43582,6 +44686,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43620,6 +44725,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43658,6 +44764,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -43696,6 +44803,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43734,6 +44842,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43772,6 +44881,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43810,6 +44920,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43848,6 +44959,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -43886,6 +44998,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43924,6 +45037,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -43962,6 +45076,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44000,6 +45115,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44038,6 +45154,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44076,6 +45193,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44114,6 +45232,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -44152,6 +45271,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -44190,6 +45310,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44240,6 +45361,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44290,6 +45412,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44328,6 +45451,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44378,6 +45502,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44416,6 +45541,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -44454,6 +45580,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -44492,6 +45619,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44542,6 +45670,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44580,6 +45709,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -44620,6 +45750,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44670,6 +45801,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44708,6 +45840,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -44746,6 +45879,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -44784,6 +45918,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44834,6 +45969,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44872,6 +46008,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -44912,6 +46049,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -44962,6 +46100,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45000,6 +46139,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -45038,6 +46178,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -45078,6 +46219,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45128,6 +46270,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45166,6 +46309,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -45206,6 +46350,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45256,6 +46401,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45294,6 +46440,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -45332,6 +46479,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -45372,6 +46520,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45422,6 +46571,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45460,6 +46610,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -45500,6 +46651,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -45543,6 +46695,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -45581,6 +46734,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -45621,6 +46775,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -45678,6 +46833,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45718,6 +46874,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -45758,6 +46915,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45810,6 +46968,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45850,6 +47009,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -45888,6 +47048,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -45928,6 +47089,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -45978,6 +47140,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -46016,6 +47179,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46068,6 +47232,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -46106,6 +47271,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -46144,6 +47310,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46184,6 +47351,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46224,6 +47392,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -46262,6 +47431,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46302,6 +47472,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -46340,6 +47511,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -46378,6 +47550,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46418,6 +47591,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -46456,6 +47630,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -46494,6 +47669,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46534,6 +47710,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -46572,6 +47749,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46612,6 +47790,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -46650,6 +47829,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46690,6 +47870,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -46728,6 +47909,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46768,6 +47950,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46808,6 +47991,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -46846,6 +48030,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46886,6 +48071,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -46924,6 +48110,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -46964,6 +48151,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -47002,6 +48190,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47042,6 +48231,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47082,6 +48272,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -47120,6 +48311,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47160,6 +48352,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -47198,6 +48391,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47238,6 +48432,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -47276,6 +48471,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47316,6 +48512,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -47354,6 +48551,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47394,6 +48592,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -47432,6 +48631,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47472,6 +48672,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -47510,6 +48711,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47550,6 +48752,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -47588,6 +48791,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47628,6 +48832,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -47666,6 +48871,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47706,6 +48912,7 @@ return {
         storeId = 202000,
         weight = 1500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -47744,6 +48951,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47784,6 +48992,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -47822,6 +49031,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47862,6 +49072,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -47900,6 +49111,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -47940,6 +49152,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -47978,6 +49191,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48018,6 +49232,7 @@ return {
         storeId = 202000,
         weight = 1500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -48056,6 +49271,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48096,6 +49312,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48134,6 +49351,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48174,6 +49392,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -48212,6 +49431,7 @@ return {
         storeId = 120000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48250,6 +49470,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48288,6 +49509,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48328,6 +49550,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48368,6 +49591,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48406,6 +49630,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48446,6 +49671,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48484,6 +49710,7 @@ return {
         storeId = 120000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48522,6 +49749,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48560,6 +49788,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48601,6 +49830,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48640,6 +49870,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48680,6 +49911,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48718,6 +49950,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48756,6 +49989,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48797,6 +50031,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48836,6 +50071,7 @@ return {
         storeId = 120000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48874,6 +50110,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48912,6 +50149,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -48954,6 +50192,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -48994,6 +50233,7 @@ return {
         storeId = 204000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -49034,6 +50274,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49074,6 +50315,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49114,6 +50356,7 @@ return {
         storeId = 204000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -49156,6 +50399,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49196,6 +50440,7 @@ return {
         storeId = 204000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -49238,6 +50483,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49280,6 +50526,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49320,6 +50567,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49358,6 +50606,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49396,6 +50645,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49434,6 +50684,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49474,6 +50725,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49514,6 +50766,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49554,6 +50807,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49596,6 +50850,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49638,6 +50893,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49678,6 +50934,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49716,6 +50973,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49756,6 +51014,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49796,6 +51055,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49834,6 +51094,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49872,6 +51133,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49910,6 +51172,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49948,6 +51211,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -49986,6 +51250,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50024,6 +51289,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50062,6 +51328,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50100,6 +51367,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50138,6 +51406,7 @@ return {
         storeId = 600002,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50176,6 +51445,7 @@ return {
         storeId = 600001,
         weight = 300,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50214,6 +51484,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50252,6 +51523,7 @@ return {
         storeId = 600001,
         weight = 600,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50290,6 +51562,7 @@ return {
         storeId = 600001,
         weight = 800,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50328,6 +51601,7 @@ return {
         storeId = 600001,
         weight = 100,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50366,6 +51640,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50404,6 +51679,7 @@ return {
         storeId = 600001,
         weight = 200,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50442,6 +51718,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50480,6 +51757,7 @@ return {
         storeId = 600001,
         weight = 500,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50518,6 +51796,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50556,6 +51835,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50594,6 +51874,7 @@ return {
         storeId = 600001,
         weight = 800,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50632,6 +51913,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50670,6 +51952,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50708,6 +51991,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50746,6 +52030,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50784,6 +52069,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50822,6 +52108,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50860,6 +52147,7 @@ return {
         storeId = 600001,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50899,6 +52187,7 @@ return {
         storeId = 207000,
         weight = 700,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50950,6 +52239,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -50990,6 +52280,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51031,6 +52322,7 @@ return {
         storeId = 207000,
         weight = 700,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51070,6 +52362,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51108,6 +52401,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51148,6 +52442,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51189,6 +52484,7 @@ return {
         storeId = 207000,
         weight = 700,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51229,6 +52525,7 @@ return {
         storeId = 207000,
         weight = 700,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51268,6 +52565,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51308,6 +52606,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51349,6 +52648,7 @@ return {
         storeId = 207000,
         weight = 700,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51389,6 +52689,7 @@ return {
         storeId = 207000,
         weight = 700,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51428,6 +52729,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51468,6 +52770,7 @@ return {
         storeId = 300000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51508,6 +52811,7 @@ return {
         storeId = 403000,
         weight = 700,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51546,6 +52850,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51584,6 +52889,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51622,6 +52928,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51660,6 +52967,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -51700,6 +53008,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51738,6 +53047,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51776,6 +53086,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -51816,6 +53127,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -51856,6 +53168,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51894,6 +53207,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51932,6 +53246,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -51970,6 +53285,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52010,6 +53326,7 @@ return {
         storeId = 100000,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52048,6 +53365,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52086,6 +53404,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52126,6 +53445,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52166,6 +53486,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52206,6 +53527,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52244,6 +53566,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52282,6 +53605,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52322,6 +53646,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52360,6 +53685,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52398,6 +53724,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52438,6 +53765,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52478,6 +53806,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52518,6 +53847,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52556,6 +53886,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52594,6 +53925,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52634,6 +53966,7 @@ return {
         storeId = 100000,
         weight = 1334,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52672,6 +54005,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52710,6 +54044,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52750,6 +54085,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52790,6 +54126,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52830,6 +54167,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52868,6 +54206,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52906,6 +54245,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -52946,6 +54286,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -52984,6 +54325,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53022,6 +54364,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -53062,6 +54405,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -53102,6 +54446,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -53142,6 +54487,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53180,6 +54526,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53218,6 +54565,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -53258,6 +54606,7 @@ return {
         storeId = 100000,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53296,6 +54645,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53334,6 +54684,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -53374,6 +54725,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -53414,6 +54766,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -53454,6 +54807,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53492,6 +54846,7 @@ return {
         storeId = 150000,
         weight = 630,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53530,6 +54885,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -53570,6 +54926,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53608,6 +54965,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53646,6 +55004,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53684,6 +55043,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -53724,6 +55084,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53762,6 +55123,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53800,6 +55162,7 @@ return {
         storeId = 150000,
         weight = 310,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53838,6 +55201,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -53878,6 +55242,7 @@ return {
         storeId = 100000,
         weight = 1333,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53916,6 +55281,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -53954,6 +55320,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -53992,6 +55359,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54032,6 +55400,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54072,6 +55441,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54110,6 +55480,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54148,6 +55519,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54188,6 +55560,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54226,6 +55599,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54264,6 +55638,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54302,6 +55677,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54344,6 +55720,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54384,6 +55761,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -54434,6 +55812,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54472,6 +55851,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54514,6 +55894,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54554,6 +55935,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54594,6 +55976,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54632,6 +56015,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54674,6 +56058,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54714,6 +56099,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54754,6 +56140,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54792,6 +56179,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54834,6 +56222,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -54874,6 +56263,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -54917,6 +56307,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54957,6 +56348,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -54999,6 +56391,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55039,6 +56432,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -55079,6 +56473,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55117,6 +56512,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55157,6 +56553,7 @@ return {
         storeId = 100000,
         weight = 1333,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55195,6 +56592,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55235,6 +56633,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -55275,6 +56674,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55317,6 +56717,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55357,6 +56758,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55397,6 +56799,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55435,6 +56838,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55477,6 +56881,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55517,6 +56922,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -55555,6 +56961,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55595,6 +57002,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55637,6 +57045,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55677,6 +57086,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -55717,6 +57127,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55755,6 +57166,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55797,6 +57209,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55837,6 +57250,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55877,6 +57291,7 @@ return {
         storeId = 120000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55915,6 +57330,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -55955,6 +57371,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -55993,6 +57410,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56033,6 +57451,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -56071,6 +57490,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56111,6 +57531,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -56149,6 +57570,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56189,6 +57611,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -56227,6 +57650,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56267,6 +57691,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -56305,6 +57730,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56345,6 +57771,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -56383,6 +57810,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56423,6 +57851,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -56461,6 +57890,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56501,6 +57931,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -56550,6 +57981,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56590,6 +58022,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -56628,6 +58061,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -56666,6 +58100,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -56715,6 +58150,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56755,6 +58191,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -56793,6 +58230,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56833,6 +58271,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -56882,6 +58321,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -56922,6 +58362,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -56971,6 +58412,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -57009,6 +58451,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57058,6 +58501,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -57098,6 +58542,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57147,6 +58592,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -57187,6 +58633,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57236,6 +58683,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -57276,6 +58724,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57325,6 +58774,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -57363,6 +58813,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57412,6 +58863,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -57452,6 +58904,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57501,6 +58954,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -57541,6 +58995,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57590,6 +59045,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -57630,6 +59086,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57679,6 +59136,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -57717,6 +59175,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57766,6 +59225,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -57806,6 +59266,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57855,6 +59316,7 @@ return {
         storeId = 100000,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -57893,6 +59355,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -57942,6 +59405,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -57982,6 +59446,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -58031,6 +59496,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -58069,6 +59535,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -58118,6 +59585,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -58158,6 +59626,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -58207,6 +59676,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -58245,6 +59715,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -58294,6 +59765,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -58334,6 +59806,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -58383,6 +59856,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -58423,6 +59897,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -58461,6 +59936,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -58501,6 +59977,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -58539,6 +60016,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -58577,6 +60055,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -58617,6 +60096,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -58657,6 +60137,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -58697,6 +60178,7 @@ return {
         storeId = 203000,
         weight = 75,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -58735,6 +60217,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -58773,6 +60256,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -58813,6 +60297,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -58853,6 +60338,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -58891,6 +60377,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -58929,6 +60416,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -58969,6 +60457,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59007,6 +60496,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -59047,6 +60537,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59085,6 +60576,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -59125,6 +60617,7 @@ return {
         storeId = 203000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -59163,6 +60656,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -59203,6 +60697,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59241,6 +60736,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -59281,6 +60777,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -59321,6 +60818,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59359,6 +60857,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -59397,6 +60896,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -59437,6 +60937,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59475,6 +60976,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59513,6 +61015,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -59551,6 +61054,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -59593,6 +61097,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59633,6 +61138,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -59671,6 +61177,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59709,6 +61216,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -59749,6 +61257,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59787,6 +61296,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -59825,6 +61335,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -59863,6 +61374,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -59903,6 +61415,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -59941,6 +61454,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -59979,6 +61493,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -60019,6 +61534,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -60059,6 +61575,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -60102,6 +61619,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60140,6 +61658,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60178,6 +61697,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -60218,6 +61738,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -60256,6 +61777,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -60306,6 +61828,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -60346,6 +61869,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -60386,6 +61910,7 @@ return {
         storeId = 100000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60424,6 +61949,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60462,6 +61988,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -60500,6 +62027,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -60540,6 +62068,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60578,6 +62107,7 @@ return {
         storeId = 100000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60616,6 +62146,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60654,6 +62185,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -60694,6 +62226,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60732,6 +62265,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60770,6 +62304,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60808,6 +62343,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -60848,6 +62384,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60886,6 +62423,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -60924,6 +62462,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -60962,6 +62501,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -61002,6 +62542,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61040,6 +62581,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61078,6 +62620,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61116,6 +62659,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -61156,6 +62700,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61194,6 +62739,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61232,6 +62778,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61270,6 +62817,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -61310,6 +62858,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -61348,6 +62897,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -61386,6 +62936,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61424,6 +62975,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -61464,6 +63016,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61502,6 +63055,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61540,6 +63094,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61578,6 +63133,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -61618,6 +63174,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -61656,6 +63213,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -61694,6 +63252,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61732,6 +63291,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -61772,6 +63332,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -61810,6 +63371,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -61848,6 +63410,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -61886,6 +63449,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -61938,6 +63502,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -61976,6 +63541,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62014,6 +63580,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62052,6 +63619,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -62092,6 +63660,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -62132,6 +63701,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -62170,6 +63740,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62208,6 +63779,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -62248,6 +63820,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62286,6 +63859,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62325,6 +63899,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62364,6 +63939,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -62404,6 +63980,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -62442,6 +64019,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62480,6 +64058,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62518,6 +64097,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -62558,6 +64138,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62596,6 +64177,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -62634,6 +64216,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62672,6 +64255,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -62712,6 +64296,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -62750,6 +64335,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -62788,6 +64374,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62826,6 +64413,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -62866,6 +64454,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -62904,6 +64493,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62942,6 +64532,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -62980,6 +64571,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -63020,6 +64612,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -63060,6 +64653,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63100,6 +64694,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63138,6 +64733,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -63178,6 +64774,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63216,6 +64813,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -63254,6 +64852,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63292,6 +64891,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -63332,6 +64932,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -63372,6 +64973,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -63421,6 +65023,7 @@ return {
         storeId = 309000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63459,6 +65062,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -63499,6 +65103,7 @@ return {
         storeId = 203000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -63537,6 +65142,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63575,6 +65181,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63613,6 +65220,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -63653,6 +65261,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63691,6 +65300,7 @@ return {
         storeId = 204000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -63731,6 +65341,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63769,6 +65380,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63807,6 +65419,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -63847,6 +65460,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -63887,6 +65501,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -63925,6 +65540,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -63965,6 +65581,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -64003,6 +65620,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64041,6 +65659,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64079,6 +65698,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -64119,6 +65739,7 @@ return {
         storeId = 203000,
         weight = 900,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -64157,6 +65778,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -64219,6 +65841,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64257,6 +65880,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -64309,6 +65933,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64347,6 +65972,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -64397,6 +66023,7 @@ return {
         storeId = 312000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64435,6 +66062,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64473,6 +66101,7 @@ return {
         storeId = 203000,
         weight = 700,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -64523,6 +66152,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64561,6 +66191,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64599,6 +66230,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -64639,6 +66271,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -64679,6 +66312,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64717,6 +66351,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -64760,6 +66395,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -64800,6 +66436,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -64838,6 +66475,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -64878,6 +66516,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -64916,6 +66555,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -64956,6 +66596,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -64994,6 +66635,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65032,6 +66674,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65070,6 +66713,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65108,6 +66752,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -65146,6 +66791,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -65184,6 +66830,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -65234,6 +66881,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -65274,6 +66922,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65312,6 +66961,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65350,6 +67000,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -65388,6 +67039,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -65428,6 +67080,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -65466,6 +67119,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 1,
@@ -65509,6 +67163,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65547,6 +67202,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -65587,6 +67243,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65625,6 +67282,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65663,6 +67321,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -65713,6 +67372,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65751,6 +67411,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -65789,6 +67450,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65829,6 +67491,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65869,6 +67532,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -65909,6 +67573,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65947,6 +67612,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -65985,6 +67651,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66023,6 +67690,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -66063,6 +67731,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -66101,6 +67770,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66139,6 +67809,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -66182,6 +67853,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -66222,6 +67894,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66260,6 +67933,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66298,6 +67972,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66336,6 +68011,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66374,6 +68050,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -66412,6 +68089,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66450,6 +68128,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66488,6 +68167,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -66528,6 +68208,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66566,6 +68247,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66604,6 +68286,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66642,6 +68325,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -66682,6 +68366,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -66720,6 +68405,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66758,6 +68444,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66796,6 +68483,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -66836,6 +68524,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66874,6 +68563,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66912,6 +68602,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -66950,6 +68641,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -66988,6 +68680,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -67026,6 +68719,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67064,6 +68758,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -67114,6 +68809,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -67154,6 +68850,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67192,6 +68889,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67242,6 +68940,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67280,6 +68979,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -67318,6 +69018,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -67356,6 +69057,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67394,6 +69096,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67432,6 +69135,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -67472,6 +69176,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67510,6 +69215,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67548,6 +69254,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67586,6 +69293,7 @@ return {
         storeId = 203000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -67624,6 +69332,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -67662,6 +69371,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67700,6 +69410,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67738,6 +69449,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -67778,6 +69490,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -67818,6 +69531,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -67856,6 +69570,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -67894,6 +69609,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -67932,6 +69648,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -67970,6 +69687,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68008,6 +69726,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68046,6 +69765,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -68086,6 +69806,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68124,6 +69845,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68162,6 +69884,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68200,6 +69923,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -68238,6 +69962,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -68276,6 +70001,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68314,6 +70040,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68352,6 +70079,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -68392,6 +70120,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -68430,6 +70159,7 @@ return {
         storeId = 308000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68468,6 +70198,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68506,6 +70237,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -68544,6 +70276,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -68582,6 +70315,7 @@ return {
         storeId = 170001,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68620,6 +70354,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -68658,6 +70393,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -68698,6 +70434,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -68748,6 +70485,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68798,6 +70536,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68836,6 +70575,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -68874,6 +70614,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -68912,6 +70653,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -68950,6 +70692,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -69000,6 +70743,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -69040,6 +70784,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -69080,6 +70825,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -69120,6 +70866,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -69158,6 +70905,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -69196,6 +70944,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -69234,6 +70983,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -69272,6 +71022,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -69312,6 +71063,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -69352,6 +71104,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -69392,6 +71145,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -69432,6 +71186,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -69470,6 +71225,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -69508,6 +71264,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -69546,6 +71303,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -69584,6 +71342,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -69624,6 +71383,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -69664,6 +71424,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -69702,6 +71463,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -69742,6 +71504,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -69780,6 +71543,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -69818,6 +71582,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -69856,6 +71621,7 @@ return {
         storeId = 191000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -69899,6 +71665,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -69937,6 +71704,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -69977,6 +71745,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70015,6 +71784,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -70056,6 +71826,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70095,6 +71866,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -70133,6 +71905,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -70171,6 +71944,7 @@ return {
         storeId = 203000,
         weight = 75,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -70209,6 +71983,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70247,6 +72022,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -70287,6 +72063,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70325,6 +72102,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70363,6 +72141,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -70401,6 +72180,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -70439,6 +72219,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -70477,6 +72258,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70527,6 +72309,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70565,6 +72348,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -70607,6 +72391,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70647,6 +72432,7 @@ return {
         storeId = 203000,
         weight = 75,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -70685,6 +72471,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70723,6 +72510,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -70761,6 +72549,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -70799,6 +72588,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70837,6 +72627,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70875,6 +72666,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -70915,6 +72707,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70953,6 +72746,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -70991,6 +72785,7 @@ return {
         storeId = 202000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -71029,6 +72824,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -71067,6 +72863,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -71105,6 +72902,7 @@ return {
         storeId = 120000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71143,6 +72941,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -71181,6 +72980,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -71221,6 +73021,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71259,6 +73060,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71297,6 +73099,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -71335,6 +73138,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -71373,6 +73177,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -71411,6 +73216,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71449,6 +73255,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71487,6 +73294,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -71527,6 +73335,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71565,6 +73374,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71603,6 +73413,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -71641,6 +73452,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -71679,6 +73491,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -71717,6 +73530,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71755,6 +73569,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71793,6 +73608,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -71833,6 +73649,7 @@ return {
         storeId = 401000,
         weight = 1,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -71871,6 +73688,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -71909,6 +73727,7 @@ return {
         storeId = 202000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -71947,6 +73766,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -71985,6 +73805,7 @@ return {
         storeId = 203000,
         weight = 100,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -72023,6 +73844,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72061,6 +73883,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72099,6 +73922,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -72141,6 +73965,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72181,6 +74006,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -72221,6 +74047,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -72259,6 +74086,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -72297,6 +74125,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72335,6 +74164,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -72375,6 +74205,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72413,6 +74244,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72451,6 +74283,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72489,6 +74322,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -72529,6 +74363,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -72567,6 +74402,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -72605,6 +74441,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72645,6 +74482,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72685,6 +74523,7 @@ return {
         storeId = 203000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -72723,6 +74562,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 2,
@@ -72763,6 +74603,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72801,6 +74642,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72839,6 +74681,7 @@ return {
         storeId = 202000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -72877,6 +74720,7 @@ return {
         storeId = 203000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -72915,6 +74759,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72953,6 +74798,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -72991,6 +74837,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -73029,6 +74876,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73067,6 +74915,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73105,6 +74954,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -73143,6 +74993,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -73181,6 +75032,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73219,6 +75071,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73257,6 +75110,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -73295,6 +75149,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -73345,6 +75200,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73383,6 +75239,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73421,6 +75278,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73459,6 +75317,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -73497,6 +75356,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73537,6 +75397,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73577,6 +75438,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -73627,6 +75489,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73665,6 +75528,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73705,6 +75569,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73745,6 +75610,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -73788,6 +75654,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -73826,6 +75693,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73866,6 +75734,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73906,6 +75775,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73944,6 +75814,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -73982,6 +75853,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74022,6 +75894,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74062,6 +75935,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74100,6 +75974,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -74138,6 +76013,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74176,6 +76052,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74214,6 +76091,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74252,6 +76130,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74290,6 +76169,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74328,6 +76208,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -74378,6 +76259,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -74428,6 +76310,7 @@ return {
         storeId = 202000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -74466,6 +76349,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -74504,6 +76388,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74542,6 +76427,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74580,6 +76466,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74618,6 +76505,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74656,6 +76544,7 @@ return {
         storeId = 120000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74694,6 +76583,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -74732,6 +76622,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -74770,6 +76661,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74808,6 +76700,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -74851,6 +76744,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74889,6 +76783,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74927,6 +76822,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -74965,6 +76861,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75003,6 +76900,7 @@ return {
         storeId = 202000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -75041,6 +76939,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -75079,6 +76978,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75117,6 +77017,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -75155,6 +77056,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -75195,6 +77097,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75233,6 +77136,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75271,6 +77175,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75309,6 +77214,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -75359,6 +77265,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75397,6 +77304,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75435,6 +77343,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -75473,6 +77382,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -75523,6 +77433,7 @@ return {
         storeId = 315000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75561,6 +77472,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -75611,6 +77523,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75649,6 +77562,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -75699,6 +77613,7 @@ return {
         storeId = 202000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -75737,6 +77652,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75775,6 +77691,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75813,6 +77730,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -75863,6 +77781,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75901,6 +77820,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -75951,6 +77871,7 @@ return {
         storeId = 323001,
         weight = 2000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -75989,6 +77910,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76039,6 +77961,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76077,6 +78000,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76127,6 +78051,7 @@ return {
         storeId = 323002,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76165,6 +78090,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76215,6 +78141,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76253,6 +78180,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76291,6 +78219,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76329,6 +78258,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76379,6 +78309,7 @@ return {
         storeId = 204000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -76419,6 +78350,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76469,6 +78401,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76507,6 +78440,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76557,6 +78491,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76595,6 +78530,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76645,6 +78581,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76683,6 +78620,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76733,6 +78671,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76771,6 +78710,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76821,6 +78761,7 @@ return {
         storeId = 326000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76859,6 +78800,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -76909,6 +78851,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76947,6 +78890,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -76985,6 +78929,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77023,6 +78968,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -77075,6 +79021,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77115,6 +79062,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77153,6 +79101,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77191,6 +79140,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -77243,6 +79193,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77283,6 +79234,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -77333,6 +79285,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -77376,6 +79329,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -77426,6 +79380,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77464,6 +79419,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -77514,6 +79470,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -77557,6 +79514,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -77609,6 +79567,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77649,6 +79608,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -77699,6 +79659,7 @@ return {
         storeId = 120000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77737,6 +79698,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -77789,6 +79751,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77829,6 +79792,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -77867,6 +79831,7 @@ return {
         storeId = 329000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 14,
         ext = {
             tipType = 1,
@@ -77910,6 +79875,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -77962,6 +79928,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78002,6 +79969,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -78052,6 +80020,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78090,6 +80059,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -78128,6 +80098,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78166,6 +80137,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -78216,6 +80188,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78254,6 +80227,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -78306,6 +80280,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78346,6 +80321,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -78396,6 +80372,7 @@ return {
         storeId = 328000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78434,6 +80411,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -78486,6 +80464,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78526,6 +80505,7 @@ return {
         storeId = 530000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -78576,6 +80556,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78614,6 +80595,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78654,6 +80636,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78694,6 +80677,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78732,6 +80716,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78770,6 +80755,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -78808,6 +80794,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78846,6 +80833,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -78884,6 +80872,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -78934,6 +80923,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -78974,6 +80964,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79014,6 +81005,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 3,
         ext = {
         },
@@ -79052,6 +81044,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79090,6 +81083,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -79128,6 +81122,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79166,6 +81161,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79204,6 +81200,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -79254,6 +81251,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79292,6 +81290,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79330,6 +81329,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79368,6 +81368,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -79418,6 +81419,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -79456,6 +81458,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79494,6 +81497,7 @@ return {
         storeId = 190000,
         weight = 10000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79532,6 +81536,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -79582,6 +81587,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79620,6 +81626,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79658,6 +81665,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -79708,6 +81716,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -79758,6 +81767,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -79796,6 +81806,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79834,6 +81845,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79872,6 +81884,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -79922,6 +81935,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -79960,6 +81974,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -79998,6 +82013,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -80036,6 +82052,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -80086,6 +82103,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -80124,6 +82142,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80162,6 +82181,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80200,6 +82220,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -80250,6 +82271,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80300,6 +82322,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80338,6 +82361,7 @@ return {
         storeId = 150000,
         weight = 310,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80376,6 +82400,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -80426,6 +82451,7 @@ return {
         storeId = 202000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -80464,6 +82490,7 @@ return {
         storeId = 202000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 4,
         ext = {
         },
@@ -80502,6 +82529,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80540,6 +82568,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -80590,6 +82619,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -80640,6 +82670,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80678,6 +82709,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80716,6 +82748,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -80766,6 +82799,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80804,6 +82838,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80842,6 +82877,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80880,6 +82916,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -80930,6 +82967,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -80968,6 +83006,7 @@ return {
         storeId = 322000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81006,6 +83045,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81044,6 +83084,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -81096,6 +83137,7 @@ return {
         storeId = 304000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81136,6 +83178,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81174,6 +83217,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81212,6 +83256,7 @@ return {
         storeId = 520000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -81257,6 +83302,7 @@ return {
         storeId = 304000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81297,6 +83343,7 @@ return {
         storeId = 160000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81335,6 +83382,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81373,6 +83421,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81413,6 +83462,7 @@ return {
         storeId = 304000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81453,6 +83503,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81491,6 +83542,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81529,6 +83581,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81567,6 +83620,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81605,6 +83659,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81643,6 +83698,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81681,6 +83737,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81719,6 +83776,7 @@ return {
         storeId = 323003,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81757,6 +83815,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81795,6 +83854,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81833,6 +83893,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81871,6 +83932,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81909,6 +83971,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81947,6 +84010,7 @@ return {
         storeId = 323002,
         weight = 2000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -81985,6 +84049,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82023,6 +84088,7 @@ return {
         storeId = 323001,
         weight = 2000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82061,6 +84127,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -82099,6 +84166,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82137,6 +84205,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82175,6 +84244,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82213,6 +84283,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82251,6 +84322,7 @@ return {
         storeId = 203000,
         weight = 75,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -82289,6 +84361,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82327,6 +84400,7 @@ return {
         storeId = 203000,
         weight = 75,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -82365,6 +84439,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82403,6 +84478,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82441,6 +84517,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -82479,6 +84556,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82517,6 +84595,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -82555,6 +84634,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82593,6 +84673,7 @@ return {
         storeId = 120000,
         weight = 850,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82631,6 +84712,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82669,6 +84751,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82709,6 +84792,7 @@ return {
         storeId = 305000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82761,6 +84845,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82799,6 +84884,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82837,6 +84923,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -82891,6 +84978,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82931,6 +85019,7 @@ return {
         storeId = 306000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -82981,6 +85070,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83019,6 +85109,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83057,6 +85148,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83095,6 +85187,7 @@ return {
         storeId = 204000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -83147,6 +85240,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83185,6 +85279,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83223,6 +85318,7 @@ return {
         storeId = 203000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -83273,6 +85369,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83323,6 +85420,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83361,6 +85459,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83399,6 +85498,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83449,6 +85549,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83487,6 +85588,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83537,6 +85639,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83575,6 +85678,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83613,6 +85717,7 @@ return {
         storeId = 203000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -83663,6 +85768,7 @@ return {
         storeId = 310000,
         weight = 10000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83701,6 +85807,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83739,6 +85846,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83777,6 +85885,7 @@ return {
         storeId = 203000,
         weight = 800,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -83815,6 +85924,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83855,6 +85965,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83895,6 +86006,7 @@ return {
         storeId = 203000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -83933,6 +86045,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -83971,6 +86084,7 @@ return {
         storeId = 203000,
         weight = 75,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -84009,6 +86123,7 @@ return {
         storeId = 150000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84047,6 +86162,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84085,6 +86201,7 @@ return {
         storeId = 540000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -84134,6 +86251,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84172,6 +86290,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84210,6 +86329,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84249,6 +86369,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84288,6 +86409,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84326,6 +86448,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84364,6 +86487,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84402,6 +86526,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84440,6 +86565,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             tipType = 2,
@@ -84483,6 +86609,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -84523,6 +86650,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84561,6 +86689,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -84601,6 +86730,7 @@ return {
         storeId = 510000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
             activityList = {
@@ -84651,6 +86781,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84689,6 +86820,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84727,6 +86859,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84765,6 +86898,7 @@ return {
         storeId = 100000,
         weight = 1250,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84803,6 +86937,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84841,6 +86976,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84879,6 +87015,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84917,6 +87054,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84955,6 +87093,7 @@ return {
         storeId = 150000,
         weight = 625,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -84993,6 +87132,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85031,6 +87171,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85069,6 +87210,7 @@ return {
         storeId = 204000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
             group = 1,
@@ -85109,6 +87251,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85147,6 +87290,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85185,6 +87329,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85223,6 +87368,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85261,6 +87407,7 @@ return {
         storeId = 150000,
         weight = 305,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85299,6 +87446,7 @@ return {
         storeId = 323000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85337,6 +87485,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85377,6 +87526,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85417,6 +87567,7 @@ return {
         storeId = 314000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85455,6 +87606,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85493,6 +87645,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85543,6 +87696,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85581,6 +87735,7 @@ return {
         storeId = 150000,
         weight = 630,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85619,6 +87774,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85657,6 +87813,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85695,6 +87852,7 @@ return {
         storeId = 311000,
         weight = 1,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85733,6 +87891,7 @@ return {
         storeId = 550000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85783,6 +87942,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85821,6 +87981,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85859,6 +88020,7 @@ return {
         storeId = 313000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85897,6 +88059,7 @@ return {
         storeId = 150000,
         weight = 310,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85935,6 +88098,7 @@ return {
         storeId = 140000,
         weight = 1000,
         limitType = 0,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -85973,6 +88137,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86011,6 +88176,7 @@ return {
         storeId = 307000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86049,6 +88215,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86087,6 +88254,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86125,6 +88293,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86163,6 +88332,7 @@ return {
         storeId = 150000,
         weight = 1200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86201,6 +88371,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86239,6 +88410,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86277,6 +88449,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86315,6 +88488,7 @@ return {
         storeId = 120000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86353,6 +88527,7 @@ return {
         storeId = 201000,
         weight = 10000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86391,6 +88566,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86429,6 +88605,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86467,6 +88644,7 @@ return {
         storeId = 110000,
         weight = 500,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86505,6 +88683,7 @@ return {
         storeId = 150000,
         weight = 200,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86543,6 +88722,7 @@ return {
         storeId = 203000,
         weight = 300,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -86581,6 +88761,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86619,6 +88800,7 @@ return {
         storeId = 130000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86657,6 +88839,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86695,6 +88878,7 @@ return {
         storeId = 203000,
         weight = 600,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -86733,6 +88917,7 @@ return {
         storeId = 303000,
         weight = 1000,
         limitType = 3,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86771,6 +88956,7 @@ return {
         storeId = 203000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 5,
         ext = {
         },
@@ -86809,6 +88995,7 @@ return {
         storeId = 150000,
         weight = 400,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },
@@ -86847,6 +89034,7 @@ return {
         storeId = 110000,
         weight = 1000,
         limitType = 1,
+        minipack = 0,
         openContType = 1,
         ext = {
         },

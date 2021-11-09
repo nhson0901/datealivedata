@@ -605,7 +605,7 @@ return {
     },
     [270002] = {
         id = 270002,
-        text = "Detectamos que esta no es una cuenta nueva. Para iniciar el juego, necesitas descargar %s recursos. ¿Iniciar la descarga ahora?",
+        text = "Para iniciar el juego, necesitas descargar %s recursos. ¿Iniciar la descarga ahora?",
     },
     [800014] = {
         id = 800014,
@@ -613,7 +613,7 @@ return {
     },
     [270003] = {
         id = 270003,
-        text = "Detectamos que esta no es una cuenta nueva. Para iniciar el juego, necesitas descargar %s recursos. ¿Iniciar la descarga ahora?\n\n*Se recomienda descargar usando WiFi",
+        text = "Para iniciar el juego, necesitas descargar %s recursos. ¿Iniciar la descarga ahora?\n\n*Se recomienda descargar usando WiFi",
     },
     [800015] = {
         id = 800015,

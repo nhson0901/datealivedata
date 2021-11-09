@@ -3211,6 +3211,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [16] = 15,
@@ -8041,6 +8042,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [39] = 10,
@@ -12871,6 +12873,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [16] = 27,
@@ -17701,6 +17704,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [19] = 15,
@@ -22531,6 +22535,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [39] = 26,
@@ -27361,6 +27366,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [5] = 37,
@@ -32191,6 +32197,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004206] = {
                 [34] = 36,
@@ -37015,6 +37022,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004206] = {
                 [30] = 38,
@@ -41839,6 +41847,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004206] = {
                 [23] = 28,
@@ -46663,6 +46672,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [18] = 29,
@@ -51493,6 +51503,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [18] = 22,
@@ -56323,6 +56334,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [20] = 39,
@@ -61153,6 +61165,7 @@ return {
         },
         version = 2,
         mapPath = "titledmap/kabalamap",
+        minipack = 0,
         textCoordinate = {
             [3004208] = {
                 [19] = 39,

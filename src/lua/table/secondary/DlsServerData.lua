@@ -1,6 +1,11 @@
 return {
     [101001] = {
-        mapType = 2,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 18,
+            [2] = 19,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -346,6 +351,8 @@ return {
             [342] = 0,
         },
         mapDocument = "titledmap/springfestival/beach_map_10101.tmx",
+        minipack = 0,
+        mapType = 2,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -1035,15 +1042,14 @@ return {
             [341] = 0,
             [342] = 0,
         },
-        mapSize = {
-            [1] = 18,
-            [2] = 19,
-        },
-        textCoordinate = {
-        },
     },
     [101003] = {
-        mapType = 3,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 24,
+            [2] = 24,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -1623,6 +1629,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/street_map_10103.tmx",
+        minipack = 0,
+        mapType = 3,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -2780,15 +2788,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
-        mapSize = {
-            [1] = 24,
-            [2] = 24,
-        },
-        textCoordinate = {
-        },
     },
     [101005] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 20,
+            [2] = 20,
+        },
         thirdJsonData = {
             [1] = 2,
             [2] = 2,
@@ -3192,6 +3199,8 @@ return {
             [400] = 2,
         },
         mapDocument = "titledmap/springfestival/office_map_10101.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 118,
             [2] = 122,
@@ -3997,15 +4006,14 @@ return {
             [399] = 151,
             [400] = 152,
         },
-        mapSize = {
-            [1] = 20,
-            [2] = 20,
-        },
-        textCoordinate = {
-        },
     },
     [101007] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 30,
+            [2] = 30,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -4909,6 +4917,8 @@ return {
             [900] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10102.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -6714,15 +6724,14 @@ return {
             [899] = 0,
             [900] = 0,
         },
+    },
+    [101009] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 30,
             [2] = 30,
         },
-        textCoordinate = {
-        },
-    },
-    [101009] = {
-        mapType = 1,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -7626,6 +7635,8 @@ return {
             [900] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10104.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -9431,15 +9442,14 @@ return {
             [899] = 0,
             [900] = 0,
         },
+    },
+    [101011] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 30,
             [2] = 30,
         },
-        textCoordinate = {
-        },
-    },
-    [101011] = {
-        mapType = 1,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -10343,6 +10353,8 @@ return {
             [900] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10106.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -12148,15 +12160,14 @@ return {
             [899] = 0,
             [900] = 0,
         },
-        mapSize = {
-            [1] = 30,
-            [2] = 30,
-        },
-        textCoordinate = {
-        },
     },
     [101013] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 24,
+            [2] = 24,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -12736,6 +12747,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10108.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -13893,15 +13906,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
+    },
+    [101015] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 24,
             [2] = 24,
         },
-        textCoordinate = {
-        },
-    },
-    [101015] = {
-        mapType = 1,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -14481,6 +14493,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10110.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -15638,15 +15652,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
-        mapSize = {
-            [1] = 24,
-            [2] = 24,
-        },
-        textCoordinate = {
-        },
     },
     [202014] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 20,
+            [2] = 20,
+        },
         thirdJsonData = {
             [1] = 2,
             [2] = 2,
@@ -16050,6 +16063,8 @@ return {
             [400] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_20214.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 118,
             [2] = 122,
@@ -16855,15 +16870,14 @@ return {
             [399] = 151,
             [400] = 152,
         },
+    },
+    [202003] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 20,
             [2] = 20,
         },
-        textCoordinate = {
-        },
-    },
-    [202003] = {
-        mapType = 3,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -17267,6 +17281,8 @@ return {
             [400] = 0,
         },
         mapDocument = "titledmap/springfestival/street_map_20203.tmx",
+        minipack = 0,
+        mapType = 3,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -18072,15 +18088,14 @@ return {
             [399] = 155,
             [400] = 0,
         },
-        mapSize = {
-            [1] = 20,
-            [2] = 20,
-        },
-        textCoordinate = {
-        },
     },
     [202007] = {
-        mapType = 3,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 24,
+            [2] = 24,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -18660,6 +18675,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/street_map_20207.tmx",
+        minipack = 0,
+        mapType = 3,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -19817,15 +19834,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
+    },
+    [202011] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 24,
             [2] = 24,
         },
-        textCoordinate = {
-        },
-    },
-    [202011] = {
-        mapType = 1,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -20405,6 +20421,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_20211.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -21562,15 +21580,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
-        mapSize = {
-            [1] = 24,
-            [2] = 24,
-        },
-        textCoordinate = {
-        },
     },
     [202015] = {
-        mapType = 3,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 20,
+            [2] = 20,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -21974,6 +21991,8 @@ return {
             [400] = 0,
         },
         mapDocument = "titledmap/springfestival/street_map_20215.tmx",
+        minipack = 0,
+        mapType = 3,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -22779,15 +22798,14 @@ return {
             [399] = 155,
             [400] = 0,
         },
-        mapSize = {
-            [1] = 20,
-            [2] = 20,
-        },
-        textCoordinate = {
-        },
     },
     [202008] = {
-        mapType = 2,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 24,
+            [2] = 24,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -23367,6 +23385,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/beach_map_20208.tmx",
+        minipack = 0,
+        mapType = 2,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -24524,15 +24544,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
-        mapSize = {
-            [1] = 24,
-            [2] = 24,
-        },
-        textCoordinate = {
-        },
     },
     [202012] = {
-        mapType = 2,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 30,
+            [2] = 30,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -25436,6 +25455,8 @@ return {
             [900] = 0,
         },
         mapDocument = "titledmap/springfestival/beach_map_20212.tmx",
+        minipack = 0,
+        mapType = 2,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -27241,15 +27262,14 @@ return {
             [899] = 0,
             [900] = 0,
         },
+    },
+    [202010] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 30,
             [2] = 30,
         },
-        textCoordinate = {
-        },
-    },
-    [202010] = {
-        mapType = 2,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -28153,6 +28173,8 @@ return {
             [900] = 0,
         },
         mapDocument = "titledmap/springfestival/beach_map_20210.tmx",
+        minipack = 0,
+        mapType = 2,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -29958,15 +29980,14 @@ return {
             [899] = 0,
             [900] = 0,
         },
-        mapSize = {
-            [1] = 30,
-            [2] = 30,
-        },
-        textCoordinate = {
-        },
     },
     [101002] = {
-        mapType = 3,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 20,
+            [2] = 20,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -30370,6 +30391,8 @@ return {
             [400] = 0,
         },
         mapDocument = "titledmap/springfestival/street_map_10102.tmx",
+        minipack = 0,
+        mapType = 3,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -31175,15 +31198,14 @@ return {
             [399] = 155,
             [400] = 0,
         },
-        mapSize = {
-            [1] = 20,
-            [2] = 20,
-        },
-        textCoordinate = {
-        },
     },
     [101004] = {
-        mapType = 2,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 24,
+            [2] = 24,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -31763,6 +31785,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/beach_map_10102.tmx",
+        minipack = 0,
+        mapType = 2,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -32920,15 +32944,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
-        mapSize = {
-            [1] = 24,
-            [2] = 24,
-        },
-        textCoordinate = {
-        },
     },
     [101006] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 30,
+            [2] = 30,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -33832,6 +33855,8 @@ return {
             [900] = 0,
         },
         mapDocument = "titledmap/springfestival/map_01.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -35637,15 +35662,14 @@ return {
             [899] = 0,
             [900] = 0,
         },
-        mapSize = {
-            [1] = 30,
-            [2] = 30,
-        },
-        textCoordinate = {
-        },
     },
     [101008] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 24,
+            [2] = 24,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -36225,6 +36249,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10103.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -37382,15 +37408,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
+    },
+    [101010] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 24,
             [2] = 24,
         },
-        textCoordinate = {
-        },
-    },
-    [101010] = {
-        mapType = 1,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -37970,6 +37995,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10105.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -39127,15 +39154,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
-        mapSize = {
-            [1] = 24,
-            [2] = 24,
-        },
-        textCoordinate = {
-        },
     },
     [101012] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 20,
+            [2] = 20,
+        },
         thirdJsonData = {
             [1] = 2,
             [2] = 2,
@@ -39539,6 +39565,8 @@ return {
             [400] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10107.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 118,
             [2] = 122,
@@ -40344,15 +40372,14 @@ return {
             [399] = 151,
             [400] = 152,
         },
+    },
+    [101014] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 20,
             [2] = 20,
         },
-        textCoordinate = {
-        },
-    },
-    [101014] = {
-        mapType = 1,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -40756,6 +40783,8 @@ return {
             [400] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10109.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -41561,15 +41590,14 @@ return {
             [399] = 151,
             [400] = 152,
         },
-        mapSize = {
-            [1] = 20,
-            [2] = 20,
-        },
-        textCoordinate = {
-        },
     },
     [101016] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 30,
+            [2] = 30,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -42473,6 +42501,8 @@ return {
             [900] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_10111.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -44278,15 +44308,14 @@ return {
             [899] = 0,
             [900] = 0,
         },
-        mapSize = {
-            [1] = 30,
-            [2] = 30,
-        },
-        textCoordinate = {
-        },
     },
     [202001] = {
-        mapType = 2,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 24,
+            [2] = 24,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -44866,6 +44895,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/beach_map_20201.tmx",
+        minipack = 0,
+        mapType = 2,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -46023,15 +46054,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
+    },
+    [202005] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 24,
             [2] = 24,
         },
-        textCoordinate = {
-        },
-    },
-    [202005] = {
-        mapType = 1,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -46611,6 +46641,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_20205.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -47768,15 +47800,14 @@ return {
             [575] = 0,
             [576] = 0,
         },
-        mapSize = {
-            [1] = 24,
-            [2] = 24,
-        },
-        textCoordinate = {
-        },
     },
     [202009] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 20,
+            [2] = 20,
+        },
         thirdJsonData = {
             [1] = 2,
             [2] = 2,
@@ -48180,6 +48211,8 @@ return {
             [400] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_20209.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 118,
             [2] = 122,
@@ -48985,15 +49018,14 @@ return {
             [399] = 151,
             [400] = 152,
         },
+    },
+    [202013] = {
+        textCoordinate = {
+        },
         mapSize = {
             [1] = 20,
             [2] = 20,
         },
-        textCoordinate = {
-        },
-    },
-    [202013] = {
-        mapType = 3,
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -49397,6 +49429,8 @@ return {
             [400] = 0,
         },
         mapDocument = "titledmap/springfestival/street_map_20213.tmx",
+        minipack = 0,
+        mapType = 3,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -50202,15 +50236,14 @@ return {
             [399] = 155,
             [400] = 0,
         },
-        mapSize = {
-            [1] = 20,
-            [2] = 20,
-        },
-        textCoordinate = {
-        },
     },
     [202006] = {
-        mapType = 1,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 30,
+            [2] = 30,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -51114,6 +51147,8 @@ return {
             [900] = 0,
         },
         mapDocument = "titledmap/springfestival/office_map_20206.tmx",
+        minipack = 0,
+        mapType = 1,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -52919,15 +52954,14 @@ return {
             [899] = 0,
             [900] = 0,
         },
-        mapSize = {
-            [1] = 30,
-            [2] = 30,
-        },
-        textCoordinate = {
-        },
     },
     [202004] = {
-        mapType = 3,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 20,
+            [2] = 20,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -53331,6 +53365,8 @@ return {
             [400] = 0,
         },
         mapDocument = "titledmap/springfestival/street_map_20204.tmx",
+        minipack = 0,
+        mapType = 3,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -54136,15 +54172,14 @@ return {
             [399] = 155,
             [400] = 0,
         },
-        mapSize = {
-            [1] = 20,
-            [2] = 20,
-        },
-        textCoordinate = {
-        },
     },
     [202002] = {
-        mapType = 3,
+        textCoordinate = {
+        },
+        mapSize = {
+            [1] = 24,
+            [2] = 24,
+        },
         thirdJsonData = {
             [1] = 0,
             [2] = 0,
@@ -54724,6 +54759,8 @@ return {
             [576] = 0,
         },
         mapDocument = "titledmap/springfestival/street_map_20202.tmx",
+        minipack = 0,
+        mapType = 3,
         secondJsonData = {
             [1] = 0,
             [2] = 0,
@@ -55880,12 +55917,6 @@ return {
             [574] = 0,
             [575] = 0,
             [576] = 0,
-        },
-        mapSize = {
-            [1] = 24,
-            [2] = 24,
-        },
-        textCoordinate = {
         },
     },
 }

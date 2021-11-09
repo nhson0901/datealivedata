@@ -3,6 +3,7 @@ return {
         rangeType = 0,
         id = 1531,
         des2 = "戰鬥速度+2860,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19,6 +20,7 @@ return {
         rangeType = 0,
         id = 1533,
         des2 = "戰鬥速度+2920,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -35,6 +37,7 @@ return {
         rangeType = 0,
         id = 1535,
         des2 = "戰鬥速度+2980,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -51,6 +54,7 @@ return {
         rangeType = 0,
         id = 1537,
         des2 = "戰鬥速度+3040,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -67,6 +71,7 @@ return {
         rangeType = 0,
         id = 1539,
         des2 = "戰鬥速度+3100,總戰鬥速度+20%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -83,6 +88,7 @@ return {
         rangeType = 0,
         id = 1541,
         des2 = "採集容量+530",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -98,6 +104,7 @@ return {
         rangeType = 0,
         id = 1543,
         des2 = "採集容量+590",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -113,6 +120,7 @@ return {
         rangeType = 0,
         id = 70030,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -128,6 +136,7 @@ return {
         rangeType = 0,
         id = 1547,
         des2 = "採集容量+710",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -143,6 +152,7 @@ return {
         rangeType = 0,
         id = 1549,
         des2 = "採集容量+770",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -158,6 +168,7 @@ return {
         rangeType = 0,
         id = 3101,
         des2 = "飛艦火力+0.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -173,6 +184,7 @@ return {
         rangeType = 0,
         id = 1553,
         des2 = "採集容量+860,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -189,6 +201,7 @@ return {
         rangeType = 0,
         id = 1555,
         des2 = "採集容量+920,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -205,6 +218,7 @@ return {
         rangeType = 0,
         id = 1557,
         des2 = "採集容量+980,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -221,6 +235,7 @@ return {
         rangeType = 0,
         id = 1559,
         des2 = "採集容量+1040,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -237,6 +252,7 @@ return {
         rangeType = 0,
         id = 1561,
         des2 = "採集容量+1100,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -253,6 +269,7 @@ return {
         rangeType = 0,
         id = 1563,
         des2 = "採集容量+1130,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -269,6 +286,7 @@ return {
         rangeType = 0,
         id = 1565,
         des2 = "採集容量+1190,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -285,6 +303,7 @@ return {
         rangeType = 0,
         id = 1567,
         des2 = "採集容量+1250,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -301,6 +320,7 @@ return {
         rangeType = 0,
         id = 1569,
         des2 = "採集容量+1310,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -317,6 +337,7 @@ return {
         rangeType = 0,
         id = 1571,
         des2 = "採集容量+1370,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -333,6 +354,7 @@ return {
         rangeType = 0,
         id = 40021,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -348,6 +370,7 @@ return {
         rangeType = 0,
         id = 1575,
         des2 = "採集容量+1460,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -364,6 +387,7 @@ return {
         rangeType = 0,
         id = 70031,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -379,6 +403,7 @@ return {
         rangeType = 0,
         id = 1579,
         des2 = "採集容量+1580,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -395,6 +420,7 @@ return {
         rangeType = 0,
         id = 1581,
         des2 = "採集容量+1640,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -411,6 +437,7 @@ return {
         rangeType = 0,
         id = 1583,
         des2 = "採集容量+1700,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -427,6 +454,7 @@ return {
         rangeType = 0,
         id = 1585,
         des2 = "採集容量+1730,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -443,6 +471,7 @@ return {
         rangeType = 0,
         id = 1587,
         des2 = "採集容量+1790,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -459,6 +488,7 @@ return {
         rangeType = 0,
         id = 1589,
         des2 = "採集容量+1850,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -475,6 +505,7 @@ return {
         rangeType = 0,
         id = 1591,
         des2 = "採集容量+1910,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -491,6 +522,7 @@ return {
         rangeType = 0,
         id = 1593,
         des2 = "採集容量+1970,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -507,6 +539,7 @@ return {
         rangeType = 0,
         id = 1597,
         des2 = "採集容量+2060,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -523,6 +556,7 @@ return {
         rangeType = 0,
         id = 1599,
         des2 = "採集容量+2120,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -539,6 +573,7 @@ return {
         rangeType = 0,
         id = 1601,
         des2 = "採集容量+2180,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -555,6 +590,7 @@ return {
         rangeType = 0,
         id = 1603,
         des2 = "採集容量+2240,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -571,6 +607,7 @@ return {
         rangeType = 0,
         id = 1605,
         des2 = "採集容量+2300,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -587,6 +624,7 @@ return {
         rangeType = 0,
         id = 1607,
         des2 = "採集容量+2330,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -603,6 +641,7 @@ return {
         rangeType = 0,
         id = 70032,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -618,6 +657,7 @@ return {
         rangeType = 0,
         id = 1611,
         des2 = "採集容量+2450,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -634,6 +674,7 @@ return {
         rangeType = 0,
         id = 1613,
         des2 = "採集容量+2510,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -650,6 +691,7 @@ return {
         rangeType = 0,
         id = 1615,
         des2 = "採集容量+2570,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -666,6 +708,7 @@ return {
         rangeType = 0,
         id = 1619,
         des2 = "採集容量+2660,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -682,6 +725,7 @@ return {
         rangeType = 0,
         id = 1621,
         des2 = "採集容量+2720,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -698,6 +742,7 @@ return {
         rangeType = 0,
         id = 1623,
         des2 = "採集容量+2780,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -714,6 +759,7 @@ return {
         rangeType = 0,
         id = 1625,
         des2 = "採集容量+2840,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -730,6 +776,7 @@ return {
         rangeType = 0,
         id = 1627,
         des2 = "採集容量+2900,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -746,6 +793,7 @@ return {
         rangeType = 0,
         id = 1629,
         des2 = "採集容量+2930,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -762,6 +810,7 @@ return {
         rangeType = 0,
         id = 1631,
         des2 = "採集容量+2990,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -778,6 +827,7 @@ return {
         rangeType = 0,
         id = 1633,
         des2 = "採集容量+3050,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -794,6 +844,7 @@ return {
         rangeType = 0,
         id = 1635,
         des2 = "採集容量+3110,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -810,6 +861,7 @@ return {
         rangeType = 0,
         id = 40022,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -825,6 +877,7 @@ return {
         rangeType = 0,
         id = 70033,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -840,6 +893,7 @@ return {
         rangeType = 0,
         id = 1643,
         des2 = "採集容量+3320,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -856,6 +910,7 @@ return {
         rangeType = 0,
         id = 1645,
         des2 = "採集容量+3380,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -872,6 +927,7 @@ return {
         rangeType = 0,
         id = 1647,
         des2 = "採集容量+3440,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -888,6 +944,7 @@ return {
         rangeType = 0,
         id = 1649,
         des2 = "採集容量+3500,飛行速度+20%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -904,6 +961,7 @@ return {
         rangeType = 0,
         id = 3301,
         des2 = "戰鬥速度+0.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -919,6 +977,7 @@ return {
         rangeType = 0,
         id = 3305,
         des2 = "戰鬥速度+2.08%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -934,6 +993,7 @@ return {
         rangeType = 0,
         id = 3309,
         des2 = "戰鬥速度+3.75%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -949,6 +1009,7 @@ return {
         rangeType = 0,
         id = 3313,
         des2 = "戰鬥速度+5.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -964,6 +1025,7 @@ return {
         rangeType = 3,
         id = 1021101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -980,6 +1042,7 @@ return {
         rangeType = 3,
         id = 1021102,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -996,6 +1059,7 @@ return {
         rangeType = 0,
         id = 70034,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1011,6 +1075,7 @@ return {
         rangeType = 3,
         id = 1021103,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1027,6 +1092,7 @@ return {
         rangeType = 3,
         id = 1021104,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1043,6 +1109,7 @@ return {
         rangeType = 3,
         id = 1021105,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1059,6 +1126,7 @@ return {
         rangeType = 0,
         id = 75024,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1075,6 +1143,7 @@ return {
         rangeType = 0,
         id = 71058,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1091,6 +1160,7 @@ return {
         rangeType = 0,
         id = 50002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1107,6 +1177,7 @@ return {
         rangeType = 0,
         id = 60301,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1123,6 +1194,7 @@ return {
         rangeType = 0,
         id = 3401,
         des2 = "採集容量+0.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1137,6 +1209,7 @@ return {
         rangeType = 0,
         id = 3405,
         des2 = "採集容量+2.08%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1151,6 +1224,7 @@ return {
         rangeType = 0,
         id = 3409,
         des2 = "採集容量+3.75%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1165,6 +1239,7 @@ return {
         rangeType = 0,
         id = 3413,
         des2 = "採集容量+5.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1176,22 +1251,24 @@ return {
         },
     },
     [1011901] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 9,
+        id = 1011901,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011901,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 9,
     },
     [75025] = {
         rangeType = 0,
         id = 75025,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1208,6 +1285,7 @@ return {
         rangeType = 0,
         id = 71059,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1224,6 +1302,7 @@ return {
         rangeType = 0,
         id = 74002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1239,6 +1318,7 @@ return {
         rangeType = 0,
         id = 70036,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1254,6 +1334,7 @@ return {
         rangeType = 0,
         id = 3501,
         des2 = "全形態火力值提升24",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1269,6 +1350,7 @@ return {
         rangeType = 0,
         id = 3505,
         des2 = "全形態護盾提升110",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1284,6 +1366,7 @@ return {
         rangeType = 6,
         id = 3509,
         des2 = "強襲天賦下浮遊炮技能傷害提升1.05%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -1302,6 +1385,7 @@ return {
         rangeType = 6,
         id = 3513,
         des2 = "強襲天賦下主炮技能傷害提升4.6%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -1320,6 +1404,7 @@ return {
         rangeType = 0,
         id = 3517,
         des2 = "全形態免傷提升0.98%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1335,6 +1420,7 @@ return {
         rangeType = 0,
         id = 3521,
         des2 = "全形態火力值提升108",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1350,6 +1436,7 @@ return {
         rangeType = 0,
         id = 3525,
         des2 = "全形態護盾提升543",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1365,6 +1452,7 @@ return {
         rangeType = 0,
         id = 40024,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1380,6 +1468,7 @@ return {
         rangeType = 0,
         id = 74003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1395,6 +1484,7 @@ return {
         rangeType = 0,
         id = 70037,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1410,6 +1500,7 @@ return {
         rangeType = 3,
         id = 1020104,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1426,6 +1517,7 @@ return {
         rangeType = 3,
         id = 1020105,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1442,6 +1534,7 @@ return {
         rangeType = 0,
         id = 65100,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1458,6 +1551,7 @@ return {
         rangeType = 0,
         id = 75027,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1474,6 +1568,7 @@ return {
         rangeType = 0,
         id = 71061,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1490,6 +1585,7 @@ return {
         rangeType = 3,
         id = 1020108,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1506,6 +1602,7 @@ return {
         rangeType = 3,
         id = 1020109,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1522,6 +1619,7 @@ return {
         rangeType = 3,
         id = 1020110,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1538,6 +1636,7 @@ return {
         rangeType = 0,
         id = 74004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1553,6 +1652,7 @@ return {
         rangeType = 0,
         id = 3601,
         des2 = "全形態戰鬥速度提升12",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1568,6 +1668,7 @@ return {
         rangeType = 0,
         id = 3605,
         des2 = "全形態偏斜值1.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1583,6 +1684,7 @@ return {
         rangeType = 6,
         id = 3609,
         des2 = "疾走形態穿透敵艦時回復自身護盾3%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -1602,6 +1704,7 @@ return {
         rangeType = 6,
         id = 3613,
         des2 = "疾走天賦下當速度高於敵方時，造成傷害提高3%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -1621,6 +1724,7 @@ return {
         rangeType = 0,
         id = 3617,
         des2 = "全形態穿透率提升2.56%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1636,6 +1740,7 @@ return {
         rangeType = 0,
         id = 3621,
         des2 = "全形態戰鬥速度提升50",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1651,6 +1756,7 @@ return {
         rangeType = 0,
         id = 3625,
         des2 = "全形態偏斜值2.50%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1666,6 +1772,7 @@ return {
         rangeType = 6,
         id = 3629,
         des2 = "疾走形態穿透敵艦時回復自身護盾5%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -1685,6 +1792,7 @@ return {
         rangeType = 0,
         id = 71062,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1701,6 +1809,7 @@ return {
         rangeType = 3,
         id = 1010904,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1717,6 +1826,7 @@ return {
         rangeType = 0,
         id = 50004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1733,6 +1843,7 @@ return {
         rangeType = 0,
         id = 60303,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1749,6 +1860,7 @@ return {
         rangeType = 3,
         id = 1010906,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1765,6 +1877,7 @@ return {
         rangeType = 0,
         id = 40025,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1780,6 +1893,7 @@ return {
         rangeType = 0,
         id = 74005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1795,6 +1909,7 @@ return {
         rangeType = 0,
         id = 70039,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1810,6 +1925,7 @@ return {
         rangeType = 3,
         id = 1010908,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1826,6 +1942,7 @@ return {
         rangeType = 0,
         id = 66201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1840,6 +1957,7 @@ return {
         rangeType = 3,
         id = 1010909,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1856,6 +1974,7 @@ return {
         rangeType = 3,
         id = 1010910,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -1872,6 +1991,7 @@ return {
         rangeType = 0,
         id = 65101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1886,6 +2006,7 @@ return {
         rangeType = 0,
         id = 75029,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1902,6 +2023,7 @@ return {
         rangeType = 0,
         id = 71063,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1918,6 +2040,7 @@ return {
         rangeType = 0,
         id = 3701,
         des2 = "全形態防禦力提升23",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1933,6 +2056,7 @@ return {
         rangeType = 0,
         id = 3705,
         des2 = "全形態飛行速度提升4.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -1948,6 +2072,7 @@ return {
         rangeType = 6,
         id = 3709,
         des2 = "隱遁形態下疾走天賦材料掉落提升1.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -1968,6 +2093,7 @@ return {
         rangeType = 6,
         id = 3713,
         des2 = "隱遁形態下隱遁天賦材料掉落提升2%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -1988,6 +2114,7 @@ return {
         rangeType = 0,
         id = 3717,
         des2 = "全形態護盾提升290",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2003,6 +2130,7 @@ return {
         rangeType = 0,
         id = 3721,
         des2 = "全形態防禦力提升76",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2018,6 +2146,7 @@ return {
         rangeType = 0,
         id = 3725,
         des2 = "全形態飛行速度提升7.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2033,6 +2162,7 @@ return {
         rangeType = 6,
         id = 3729,
         des2 = "隱遁形態下疾走天賦材料掉落提升2.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -2053,6 +2183,7 @@ return {
         rangeType = 0,
         id = 66202,
         des2 = "每次天空艦遭受攻擊時，若發生偏斜，則將其攻擊能量收集起來，用以提升自身傷害5%，持續1回合（冷卻時間2回合）",
+        minipack = 0,
         name = "逆轉蓄能",
         rangePrams = {
         },
@@ -2069,6 +2200,7 @@ return {
         rangeType = 0,
         id = 75030,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2085,6 +2217,7 @@ return {
         rangeType = 0,
         id = 71064,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2101,6 +2234,7 @@ return {
         rangeType = 0,
         id = 50005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2117,6 +2251,7 @@ return {
         rangeType = 0,
         id = 40026,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2132,6 +2267,7 @@ return {
         rangeType = 0,
         id = 74007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2147,6 +2283,7 @@ return {
         rangeType = 0,
         id = 70041,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2162,6 +2299,7 @@ return {
         rangeType = 0,
         id = 3801,
         des2 = "火力值+1%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2177,6 +2315,7 @@ return {
         rangeType = 0,
         id = 3805,
         des2 = "偏斜率+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2192,6 +2331,7 @@ return {
         rangeType = 0,
         id = 3809,
         des2 = "戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2207,6 +2347,7 @@ return {
         rangeType = 0,
         id = 3813,
         des2 = "生命值+3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2222,6 +2363,7 @@ return {
         rangeType = 0,
         id = 65102,
         des2 = "對天空艦的根達亞原始飛彈系統進行專精升級，將飛彈數量提升到4個",
+        minipack = 0,
         name = "飛彈專精I",
         rangePrams = {
         },
@@ -2238,6 +2380,7 @@ return {
         rangeType = 0,
         id = 75031,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2254,6 +2397,7 @@ return {
         rangeType = 0,
         id = 71065,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2270,6 +2414,7 @@ return {
         rangeType = 0,
         id = 74008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2285,6 +2430,7 @@ return {
         rangeType = 0,
         id = 70042,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2300,6 +2446,7 @@ return {
         rangeType = 3,
         id = 1031402,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -2316,6 +2463,7 @@ return {
         rangeType = 0,
         id = 66204,
         des2 = "每次天空艦遭受攻擊時，若發生偏斜，則挫敗敵艦，提升本艦士氣，防禦提升10%，持續1回合（冷卻時間2回合）",
+        minipack = 0,
         name = "鋒銳挫敗",
         rangePrams = {
         },
@@ -2332,6 +2480,7 @@ return {
         rangeType = 3,
         id = 1031403,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -2348,6 +2497,7 @@ return {
         rangeType = 0,
         id = 75032,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2364,6 +2514,7 @@ return {
         rangeType = 0,
         id = 71066,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2380,6 +2531,7 @@ return {
         rangeType = 0,
         id = 50006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2396,6 +2548,7 @@ return {
         rangeType = 0,
         id = 3901,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2410,6 +2563,7 @@ return {
         rangeType = 0,
         id = 3905,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2424,6 +2578,7 @@ return {
         rangeType = 0,
         id = 3909,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2438,6 +2593,7 @@ return {
         rangeType = 0,
         id = 40027,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2454,6 +2610,7 @@ return {
         rangeType = 0,
         id = 3917,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2468,6 +2625,7 @@ return {
         rangeType = 0,
         id = 3921,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2482,6 +2640,7 @@ return {
         rangeType = 0,
         id = 3925,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2496,6 +2655,7 @@ return {
         rangeType = 0,
         id = 3929,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2510,6 +2670,7 @@ return {
         rangeType = 0,
         id = 3933,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2524,6 +2685,7 @@ return {
         rangeType = 0,
         id = 3937,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2538,6 +2700,7 @@ return {
         rangeType = 0,
         id = 3941,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2552,6 +2715,7 @@ return {
         rangeType = 0,
         id = 65103,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2566,6 +2730,7 @@ return {
         rangeType = 0,
         id = 75033,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2582,6 +2747,7 @@ return {
         rangeType = 0,
         id = 71067,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2595,35 +2761,38 @@ return {
         },
     },
     [1022203] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1022203,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022203,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1022204] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1022204,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022204,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [74010] = {
         rangeType = 0,
         id = 74010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2639,6 +2808,7 @@ return {
         rangeType = 0,
         id = 70044,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2654,6 +2824,7 @@ return {
         rangeType = 0,
         id = 66206,
         des2 = "每次天空艦遭受攻擊時，若發生偏斜，則防禦系統獲得喘息時間，趁機恢復自身5%護盾值（冷卻時間2回合）",
+        minipack = 0,
         name = "再生裝填",
         rangePrams = {
         },
@@ -2670,6 +2841,7 @@ return {
         rangeType = 0,
         id = 75034,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2686,6 +2858,7 @@ return {
         rangeType = 0,
         id = 71068,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2702,6 +2875,7 @@ return {
         rangeType = 0,
         id = 50007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2718,6 +2892,7 @@ return {
         rangeType = 0,
         id = 40028,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2734,6 +2909,7 @@ return {
         rangeType = 0,
         id = 74011,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2749,6 +2925,7 @@ return {
         rangeType = 0,
         id = 70045,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2764,6 +2941,7 @@ return {
         rangeType = 0,
         id = 66207,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2778,6 +2956,7 @@ return {
         rangeType = 3,
         id = 1030404,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -2794,6 +2973,7 @@ return {
         rangeType = 0,
         id = 65104,
         des2 = "以重金屬合金重新打造飛彈，讓每顆飛彈爆炸後造成濺射，有25%的幾率造成我方火力值30%的額外傷害",
+        minipack = 0,
         name = "彈片激射",
         rangePrams = {
         },
@@ -2810,6 +2990,7 @@ return {
         rangeType = 0,
         id = 75035,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2826,6 +3007,7 @@ return {
         rangeType = 0,
         id = 71069,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2842,6 +3024,7 @@ return {
         rangeType = 3,
         id = 1030407,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -2858,6 +3041,7 @@ return {
         rangeType = 3,
         id = 1030408,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -2874,6 +3058,7 @@ return {
         rangeType = 3,
         id = 1030409,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -2890,6 +3075,7 @@ return {
         rangeType = 0,
         id = 74012,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2905,6 +3091,7 @@ return {
         rangeType = 0,
         id = 70046,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2920,6 +3107,7 @@ return {
         rangeType = 0,
         id = 66208,
         des2 = "每次天空艦遭受攻擊時，若發生偏斜，則有有20%幾率將攻擊反彈回敵艦，對敵艦造成自身最大護盾值10%的傷害。",
+        minipack = 0,
         name = "逆光反彈",
         rangePrams = {
         },
@@ -2936,6 +3124,7 @@ return {
         rangeType = 3,
         id = 1021201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -2952,6 +3141,7 @@ return {
         rangeType = 0,
         id = 75036,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2968,6 +3158,7 @@ return {
         rangeType = 0,
         id = 71070,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -2984,6 +3175,7 @@ return {
         rangeType = 0,
         id = 50008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3000,6 +3192,7 @@ return {
         rangeType = 0,
         id = 40029,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3016,6 +3209,7 @@ return {
         rangeType = 0,
         id = 74013,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3031,6 +3225,7 @@ return {
         rangeType = 0,
         id = 70047,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3046,6 +3241,7 @@ return {
         rangeType = 0,
         id = 66209,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3060,6 +3256,7 @@ return {
         rangeType = 0,
         id = 65105,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3074,6 +3271,7 @@ return {
         rangeType = 0,
         id = 75037,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3090,6 +3288,7 @@ return {
         rangeType = 0,
         id = 71071,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3103,35 +3302,38 @@ return {
         },
     },
     [1012001] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1012001,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012001,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1012002] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1012002,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012002,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [74014] = {
         rangeType = 0,
         id = 74014,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3147,6 +3349,7 @@ return {
         rangeType = 0,
         id = 70048,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3162,6 +3365,7 @@ return {
         rangeType = 0,
         id = 66210,
         des2 = "每次天空艦遭受攻擊時，若發生偏斜，則能夠將攻擊轉化為能量，提升自身速度10%，持續2回合（冷卻時間4回合）",
+        minipack = 0,
         name = "動力轉換",
         rangePrams = {
         },
@@ -3178,6 +3382,7 @@ return {
         rangeType = 0,
         id = 75038,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3194,6 +3399,7 @@ return {
         rangeType = 0,
         id = 71072,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3210,6 +3416,7 @@ return {
         rangeType = 0,
         id = 50009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3226,6 +3433,7 @@ return {
         rangeType = 0,
         id = 40030,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3242,6 +3450,7 @@ return {
         rangeType = 0,
         id = 74015,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3257,6 +3466,7 @@ return {
         rangeType = 0,
         id = 70049,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3272,6 +3482,7 @@ return {
         rangeType = 3,
         id = 1020201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3288,6 +3499,7 @@ return {
         rangeType = 0,
         id = 65106,
         des2 = "對天空艦的根達亞原始飛彈系統進行專精升級，將飛彈數量提升到6個",
+        minipack = 0,
         name = "飛彈專精II",
         rangePrams = {
         },
@@ -3304,6 +3516,7 @@ return {
         rangeType = 0,
         id = 75039,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3320,6 +3533,7 @@ return {
         rangeType = 0,
         id = 71073,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3336,6 +3550,7 @@ return {
         rangeType = 3,
         id = 1020204,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3352,6 +3567,7 @@ return {
         rangeType = 3,
         id = 1020205,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3368,6 +3584,7 @@ return {
         rangeType = 3,
         id = 1020206,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3384,6 +3601,7 @@ return {
         rangeType = 0,
         id = 74016,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3399,6 +3617,7 @@ return {
         rangeType = 0,
         id = 70050,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3414,6 +3633,7 @@ return {
         rangeType = 3,
         id = 1020208,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3430,6 +3650,7 @@ return {
         rangeType = 3,
         id = 1020209,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3446,6 +3667,7 @@ return {
         rangeType = 3,
         id = 1020210,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3462,6 +3684,7 @@ return {
         rangeType = 0,
         id = 75040,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3478,6 +3701,7 @@ return {
         rangeType = 0,
         id = 71074,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3494,6 +3718,7 @@ return {
         rangeType = 0,
         id = 50010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3510,6 +3735,7 @@ return {
         rangeType = 3,
         id = 1011001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3526,6 +3752,7 @@ return {
         rangeType = 3,
         id = 1011002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3542,6 +3769,7 @@ return {
         rangeType = 0,
         id = 74017,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3557,6 +3785,7 @@ return {
         rangeType = 0,
         id = 70051,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3572,6 +3801,7 @@ return {
         rangeType = 3,
         id = 1011004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3588,6 +3818,7 @@ return {
         rangeType = 3,
         id = 1011005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3604,6 +3835,7 @@ return {
         rangeType = 3,
         id = 1011006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3620,6 +3852,7 @@ return {
         rangeType = 0,
         id = 65107,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3634,6 +3867,7 @@ return {
         rangeType = 0,
         id = 75041,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3650,6 +3884,7 @@ return {
         rangeType = 0,
         id = 71075,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3666,6 +3901,7 @@ return {
         rangeType = 3,
         id = 1011008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3682,6 +3918,7 @@ return {
         rangeType = 3,
         id = 1011009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3698,6 +3935,7 @@ return {
         rangeType = 3,
         id = 1011010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -3714,6 +3952,7 @@ return {
         rangeType = 0,
         id = 74018,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3729,6 +3968,7 @@ return {
         rangeType = 0,
         id = 70052,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3744,6 +3984,7 @@ return {
         rangeType = 0,
         id = 75042,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3760,6 +4001,7 @@ return {
         rangeType = 0,
         id = 71076,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3776,6 +4018,7 @@ return {
         rangeType = 0,
         id = 74019,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3791,6 +4034,7 @@ return {
         rangeType = 0,
         id = 70053,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3806,6 +4050,7 @@ return {
         rangeType = 0,
         id = 65108,
         des2 = "加入易燃粉塵，讓每顆飛彈有20%概率造成：敵艦在每回合開始時受到我方火力值15%的燃燒傷害。可疊加3層，持續3回合",
+        minipack = 0,
         name = "燃燒飛彈",
         rangePrams = {
         },
@@ -3822,6 +4067,7 @@ return {
         rangeType = 0,
         id = 75043,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3838,6 +4084,7 @@ return {
         rangeType = 0,
         id = 71077,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3854,6 +4101,7 @@ return {
         rangeType = 0,
         id = 74020,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3869,6 +4117,7 @@ return {
         rangeType = 0,
         id = 70054,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3884,6 +4133,7 @@ return {
         rangeType = 0,
         id = 75044,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3900,6 +4150,7 @@ return {
         rangeType = 0,
         id = 71078,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3916,6 +4167,7 @@ return {
         rangeType = 0,
         id = 74021,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3931,6 +4183,7 @@ return {
         rangeType = 0,
         id = 70055,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3946,6 +4199,7 @@ return {
         rangeType = 0,
         id = 65109,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3960,6 +4214,7 @@ return {
         rangeType = 0,
         id = 75045,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3976,6 +4231,7 @@ return {
         rangeType = 0,
         id = 71079,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -3989,22 +4245,24 @@ return {
         },
     },
     [1022301] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 9,
+        id = 1022301,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022301,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 9,
     },
     [74022] = {
         rangeType = 0,
         id = 74022,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4020,6 +4278,7 @@ return {
         rangeType = 0,
         id = 70056,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4035,6 +4294,7 @@ return {
         rangeType = 0,
         id = 75046,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4051,6 +4311,7 @@ return {
         rangeType = 0,
         id = 71080,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4067,6 +4328,7 @@ return {
         rangeType = 0,
         id = 74023,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4082,6 +4344,7 @@ return {
         rangeType = 0,
         id = 70057,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4097,6 +4360,7 @@ return {
         rangeType = 0,
         id = 65110,
         des2 = "使用特製爆彈提升我艦士氣，每顆飛彈造成傷害時，有20%的幾率提升我方火力值20%，持續3回合，不可疊加",
+        minipack = 0,
         name = "集中火力",
         rangePrams = {
         },
@@ -4113,6 +4377,7 @@ return {
         rangeType = 0,
         id = 75047,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4129,6 +4394,7 @@ return {
         rangeType = 0,
         id = 71081,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4145,6 +4411,7 @@ return {
         rangeType = 3,
         id = 1030503,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4161,6 +4428,7 @@ return {
         rangeType = 3,
         id = 1030504,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4177,6 +4445,7 @@ return {
         rangeType = 3,
         id = 1030505,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4193,6 +4462,7 @@ return {
         rangeType = 0,
         id = 74024,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4208,6 +4478,7 @@ return {
         rangeType = 0,
         id = 70058,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4223,6 +4494,7 @@ return {
         rangeType = 0,
         id = 73001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4238,6 +4510,7 @@ return {
         rangeType = 0,
         id = 71082,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4251,22 +4524,24 @@ return {
         },
     },
     [1021301] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1021301,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021301,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [74025] = {
         rangeType = 0,
         id = 74025,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4282,6 +4557,7 @@ return {
         rangeType = 0,
         id = 70059,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4294,22 +4570,24 @@ return {
         },
     },
     [1021303] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1021303,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021303,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [73002] = {
         rangeType = 0,
         id = 73002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4325,6 +4603,7 @@ return {
         rangeType = 0,
         id = 71083,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4341,6 +4620,7 @@ return {
         rangeType = 0,
         id = 74026,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4356,6 +4636,7 @@ return {
         rangeType = 0,
         id = 70060,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4368,48 +4649,52 @@ return {
         },
     },
     [1012101] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 3,
+        id = 1012101,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012101,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 3,
     },
     [1032301] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 9,
+        id = 1032301,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032301,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 9,
     },
     [1012102] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 3,
+        id = 1012102,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012102,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 3,
     },
     [73003] = {
         rangeType = 0,
         id = 73003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4425,6 +4710,7 @@ return {
         rangeType = 0,
         id = 71084,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4441,6 +4727,7 @@ return {
         rangeType = 0,
         id = 1354,
         des2 = "護甲+1566,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4457,6 +4744,7 @@ return {
         rangeType = 0,
         id = 3002,
         des2 = "飛艦生命+0.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4472,6 +4760,7 @@ return {
         rangeType = 0,
         id = 3006,
         des2 = "飛艦生命+2.50%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4487,6 +4776,7 @@ return {
         rangeType = 0,
         id = 3010,
         des2 = "飛艦生命+4.17%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4502,6 +4792,7 @@ return {
         rangeType = 0,
         id = 3014,
         des2 = "飛艦生命+5.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4517,6 +4808,7 @@ return {
         rangeType = 0,
         id = 1481,
         des2 = "戰鬥速度+1510,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4533,6 +4825,7 @@ return {
         rangeType = 0,
         id = 74027,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4548,6 +4841,7 @@ return {
         rangeType = 0,
         id = 70061,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4563,6 +4857,7 @@ return {
         rangeType = 0,
         id = 70038,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4575,22 +4870,24 @@ return {
         },
     },
     [1032201] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1032201,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032201,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [72066] = {
         rangeType = 0,
         id = 72066,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4605,22 +4902,24 @@ return {
         },
     },
     [1032101] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 3,
+        id = 1032101,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032101,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 3,
     },
     [74086] = {
         rangeType = 0,
         id = 74086,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4636,6 +4935,7 @@ return {
         rangeType = 0,
         id = 74088,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4651,6 +4951,7 @@ return {
         rangeType = 0,
         id = 73004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4666,6 +4967,7 @@ return {
         rangeType = 0,
         id = 71085,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4682,6 +4984,7 @@ return {
         rangeType = 0,
         id = 74090,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4694,35 +4997,38 @@ return {
         },
     },
     [1032001] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1032001,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032001,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1031901] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 9,
+        id = 1031901,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031901,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 9,
     },
     [1020301] = {
         rangeType = 3,
         id = 1020301,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4739,6 +5045,7 @@ return {
         rangeType = 3,
         id = 1031805,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4758,6 +5065,7 @@ return {
         rangeType = 3,
         id = 1020302,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4774,6 +5082,7 @@ return {
         rangeType = 0,
         id = 74028,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4789,6 +5098,7 @@ return {
         rangeType = 0,
         id = 70062,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4804,6 +5114,7 @@ return {
         rangeType = 3,
         id = 1031804,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4823,6 +5134,7 @@ return {
         rangeType = 3,
         id = 1020304,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4839,6 +5151,7 @@ return {
         rangeType = 0,
         id = 3102,
         des2 = "飛艦火力+0.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4854,6 +5167,7 @@ return {
         rangeType = 0,
         id = 3106,
         des2 = "飛艦火力+2.50%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4869,6 +5183,7 @@ return {
         rangeType = 0,
         id = 3110,
         des2 = "飛艦火力+4.17%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4884,6 +5199,7 @@ return {
         rangeType = 0,
         id = 3114,
         des2 = "飛艦火力+5.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4899,6 +5215,7 @@ return {
         rangeType = 0,
         id = 73005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4914,6 +5231,7 @@ return {
         rangeType = 0,
         id = 71086,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -4930,6 +5248,7 @@ return {
         rangeType = 3,
         id = 1031803,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4949,6 +5268,7 @@ return {
         rangeType = 3,
         id = 1020308,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4965,6 +5285,7 @@ return {
         rangeType = 3,
         id = 1031802,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -4984,6 +5305,7 @@ return {
         rangeType = 3,
         id = 1020309,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5000,6 +5322,7 @@ return {
         rangeType = 3,
         id = 1031801,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5019,6 +5342,7 @@ return {
         rangeType = 3,
         id = 1020310,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5035,6 +5359,7 @@ return {
         rangeType = 0,
         id = 74029,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5050,6 +5375,7 @@ return {
         rangeType = 0,
         id = 70063,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5062,35 +5388,38 @@ return {
         },
     },
     [1021501] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 9,
+        id = 1021501,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021501,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 9,
     },
     [1021601] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1021601,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021601,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1011101] = {
         rangeType = 3,
         id = 1011101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5104,22 +5433,24 @@ return {
         },
     },
     [1031701] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1031701,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031701,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1011102] = {
         rangeType = 3,
         id = 1011102,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5136,6 +5467,7 @@ return {
         rangeType = 3,
         id = 1010703,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5152,6 +5484,7 @@ return {
         rangeType = 0,
         id = 73006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5167,6 +5500,7 @@ return {
         rangeType = 0,
         id = 71087,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5183,6 +5517,7 @@ return {
         rangeType = 3,
         id = 1011104,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5199,6 +5534,7 @@ return {
         rangeType = 0,
         id = 1321,
         des2 = "護甲+420",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5214,6 +5550,7 @@ return {
         rangeType = 3,
         id = 1011105,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5230,6 +5567,7 @@ return {
         rangeType = 0,
         id = 3202,
         des2 = "飛艦防禦+0.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5245,6 +5583,7 @@ return {
         rangeType = 0,
         id = 3206,
         des2 = "飛艦防禦+2.50%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5260,6 +5599,7 @@ return {
         rangeType = 0,
         id = 3210,
         des2 = "飛艦防禦+4.17%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5275,6 +5615,7 @@ return {
         rangeType = 0,
         id = 3214,
         des2 = "飛艦防禦+5.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5290,6 +5631,7 @@ return {
         rangeType = 0,
         id = 70064,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5302,48 +5644,52 @@ return {
         },
     },
     [1031602] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1031602,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031602,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1031601] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1031601,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031601,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1031501] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 9,
+        id = 1031501,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031501,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 9,
     },
     [1031401] = {
         rangeType = 3,
         id = 1031401,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5357,35 +5703,38 @@ return {
         },
     },
     [1031303] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1031303,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031303,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1031302] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1031302,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031302,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [73007] = {
         rangeType = 0,
         id = 73007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5401,6 +5750,7 @@ return {
         rangeType = 0,
         id = 71088,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5414,22 +5764,24 @@ return {
         },
     },
     [1031301] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1031301,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031301,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1031205] = {
         rangeType = 3,
         id = 1031205,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5446,6 +5798,7 @@ return {
         rangeType = 3,
         id = 1031204,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5462,6 +5815,7 @@ return {
         rangeType = 3,
         id = 1031203,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5478,6 +5832,7 @@ return {
         rangeType = 3,
         id = 1031202,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5494,6 +5849,7 @@ return {
         rangeType = 3,
         id = 1031201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5510,6 +5866,7 @@ return {
         rangeType = 0,
         id = 74031,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5525,6 +5882,7 @@ return {
         rangeType = 0,
         id = 70065,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5540,6 +5898,7 @@ return {
         rangeType = 0,
         id = 71098,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5556,6 +5915,7 @@ return {
         rangeType = 3,
         id = 1031104,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5572,6 +5932,7 @@ return {
         rangeType = 3,
         id = 1031103,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5588,6 +5949,7 @@ return {
         rangeType = 3,
         id = 1031102,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5604,6 +5966,7 @@ return {
         rangeType = 0,
         id = 3302,
         des2 = "戰鬥速度+0.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5619,6 +5982,7 @@ return {
         rangeType = 0,
         id = 3306,
         des2 = "戰鬥速度+2.50%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5634,6 +5998,7 @@ return {
         rangeType = 0,
         id = 3310,
         des2 = "戰鬥速度+4.17%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5649,6 +6014,7 @@ return {
         rangeType = 0,
         id = 3314,
         des2 = "戰鬥速度+5.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5664,6 +6030,7 @@ return {
         rangeType = 0,
         id = 71099,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5680,6 +6047,7 @@ return {
         rangeType = 0,
         id = 73098,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5695,6 +6063,7 @@ return {
         rangeType = 0,
         id = 73099,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5710,6 +6079,7 @@ return {
         rangeType = 0,
         id = 73100,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5725,6 +6095,7 @@ return {
         rangeType = 0,
         id = 74006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5740,6 +6111,7 @@ return {
         rangeType = 0,
         id = 74030,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5755,6 +6127,7 @@ return {
         rangeType = 0,
         id = 74032,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5770,6 +6143,7 @@ return {
         rangeType = 0,
         id = 70066,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5785,6 +6159,7 @@ return {
         rangeType = 0,
         id = 74033,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5800,6 +6175,7 @@ return {
         rangeType = 3,
         id = 1010101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5816,6 +6192,7 @@ return {
         rangeType = 0,
         id = 74041,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5831,6 +6208,7 @@ return {
         rangeType = 3,
         id = 1010102,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5847,6 +6225,7 @@ return {
         rangeType = 0,
         id = 74048,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5862,6 +6241,7 @@ return {
         rangeType = 3,
         id = 1010103,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5878,6 +6258,7 @@ return {
         rangeType = 0,
         id = 73009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5893,6 +6274,7 @@ return {
         rangeType = 0,
         id = 71090,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5909,6 +6291,7 @@ return {
         rangeType = 0,
         id = 74050,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5924,6 +6307,7 @@ return {
         rangeType = 3,
         id = 1010105,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5940,6 +6324,7 @@ return {
         rangeType = 0,
         id = 74051,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5955,6 +6340,7 @@ return {
         rangeType = 3,
         id = 1010106,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -5971,6 +6357,7 @@ return {
         rangeType = 0,
         id = 72063,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -5988,6 +6375,7 @@ return {
         rangeType = 0,
         id = 3402,
         des2 = "採集容量+0.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6002,6 +6390,7 @@ return {
         rangeType = 0,
         id = 3406,
         des2 = "採集容量+2.50%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6016,6 +6405,7 @@ return {
         rangeType = 0,
         id = 3410,
         des2 = "採集容量+4.17%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6030,6 +6420,7 @@ return {
         rangeType = 0,
         id = 66101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6044,6 +6435,7 @@ return {
         rangeType = 3,
         id = 1010109,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6057,22 +6449,24 @@ return {
         },
     },
     [1031603] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1031603,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031603,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1010110] = {
         rangeType = 3,
         id = 1010110,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6086,22 +6480,24 @@ return {
         },
     },
     [1031604] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1031604,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031604,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1189] = {
         rangeType = 0,
         id = 1189,
         des2 = "生命+16794,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6118,6 +6514,7 @@ return {
         rangeType = 0,
         id = 73010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6133,6 +6530,7 @@ return {
         rangeType = 0,
         id = 71091,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6149,6 +6547,7 @@ return {
         rangeType = 0,
         id = 3414,
         des2 = "採集容量+5.83%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6163,6 +6562,7 @@ return {
         rangeType = 0,
         id = 102,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6177,6 +6577,7 @@ return {
         rangeType = 0,
         id = 1482,
         des2 = "戰鬥速度+1540,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6193,6 +6594,7 @@ return {
         rangeType = 3,
         id = 1010802,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6209,6 +6611,7 @@ return {
         rangeType = 0,
         id = 40011,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6225,6 +6628,7 @@ return {
         rangeType = 3,
         id = 1010805,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6241,6 +6645,7 @@ return {
         rangeType = 0,
         id = 74034,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6256,6 +6661,7 @@ return {
         rangeType = 0,
         id = 70068,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6271,6 +6677,7 @@ return {
         rangeType = 0,
         id = 66102,
         des2 = "採用異度文明稀有晶石加固甲板外層，減少敵艦5%的主炮傷害。",
+        minipack = 0,
         name = "守護鐵壁",
         rangePrams = {
         },
@@ -6287,6 +6694,7 @@ return {
         rangeType = 3,
         id = 1030810,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6303,6 +6711,7 @@ return {
         rangeType = 3,
         id = 1030809,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6319,6 +6728,7 @@ return {
         rangeType = 3,
         id = 1030808,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6335,6 +6745,7 @@ return {
         rangeType = 3,
         id = 1030807,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6351,6 +6762,7 @@ return {
         rangeType = 3,
         id = 1030806,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6367,6 +6779,7 @@ return {
         rangeType = 0,
         id = 3502,
         des2 = "全形態生命值提升68",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6382,6 +6795,7 @@ return {
         rangeType = 6,
         id = 3506,
         des2 = "強襲天賦下追蹤飛彈觸發幾率提升0.23%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -6400,6 +6814,7 @@ return {
         rangeType = 0,
         id = 3510,
         des2 = "全形態傷害提升3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6415,6 +6830,7 @@ return {
         rangeType = 0,
         id = 3514,
         des2 = "全形態穿透率提升1.6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6430,6 +6846,7 @@ return {
         rangeType = 0,
         id = 3518,
         des2 = "全形態火力值提升4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6445,6 +6862,7 @@ return {
         rangeType = 0,
         id = 3522,
         des2 = "全形態生命值提升318",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6460,6 +6878,7 @@ return {
         rangeType = 6,
         id = 3526,
         des2 = "強襲天賦下追蹤飛彈觸發幾率提升0.39%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -6478,6 +6897,7 @@ return {
         rangeType = 0,
         id = 3530,
         des2 = "全形態傷害提升5%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6493,6 +6913,7 @@ return {
         rangeType = 0,
         id = 74035,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6508,6 +6929,7 @@ return {
         rangeType = 0,
         id = 70069,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6523,6 +6945,7 @@ return {
         rangeType = 0,
         id = 66103,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6537,6 +6960,7 @@ return {
         rangeType = 3,
         id = 1030805,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6553,6 +6977,7 @@ return {
         rangeType = 3,
         id = 1030804,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6569,6 +6994,7 @@ return {
         rangeType = 3,
         id = 1030803,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6585,6 +7011,7 @@ return {
         rangeType = 3,
         id = 1030802,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6601,6 +7028,7 @@ return {
         rangeType = 3,
         id = 1030801,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6617,6 +7045,7 @@ return {
         rangeType = 0,
         id = 73012,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6632,6 +7061,7 @@ return {
         rangeType = 0,
         id = 71093,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6648,6 +7078,7 @@ return {
         rangeType = 3,
         id = 1021007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6664,6 +7095,7 @@ return {
         rangeType = 3,
         id = 1030709,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6680,6 +7112,7 @@ return {
         rangeType = 3,
         id = 1030708,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6696,6 +7129,7 @@ return {
         rangeType = 3,
         id = 1030707,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6712,6 +7146,7 @@ return {
         rangeType = 3,
         id = 1030706,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6728,6 +7163,7 @@ return {
         rangeType = 3,
         id = 1030601,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6744,6 +7180,7 @@ return {
         rangeType = 0,
         id = 74036,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6759,6 +7196,7 @@ return {
         rangeType = 0,
         id = 3602,
         des2 = "全形態飛行速度提升3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6774,6 +7212,7 @@ return {
         rangeType = 0,
         id = 66104,
         des2 = "採用異度文明稀有金屬加固甲板外層，減少敵艦5%的導彈傷害。",
+        minipack = 0,
         name = "防爆鐵壁",
         rangePrams = {
         },
@@ -6790,6 +7229,7 @@ return {
         rangeType = 0,
         id = 3610,
         des2 = "全形態火力值提升3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6805,6 +7245,7 @@ return {
         rangeType = 0,
         id = 3614,
         des2 = "全形態偏斜率提升0.96%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6820,6 +7261,7 @@ return {
         rangeType = 0,
         id = 3618,
         des2 = "全形態防禦力提升2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6835,6 +7277,7 @@ return {
         rangeType = 0,
         id = 3622,
         des2 = "全形態飛行速度提升5%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6850,6 +7293,7 @@ return {
         rangeType = 6,
         id = 3626,
         des2 = "疾走形態觸發偏斜時提高自身傷害5%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -6869,6 +7313,7 @@ return {
         rangeType = 0,
         id = 3630,
         des2 = "全形態火力值提升5%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6884,6 +7329,7 @@ return {
         rangeType = 0,
         id = 71094,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -6900,6 +7346,7 @@ return {
         rangeType = 3,
         id = 1030705,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6916,6 +7363,7 @@ return {
         rangeType = 3,
         id = 1030607,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6932,6 +7380,7 @@ return {
         rangeType = 3,
         id = 1030704,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6948,6 +7397,7 @@ return {
         rangeType = 3,
         id = 1030608,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6964,6 +7414,7 @@ return {
         rangeType = 3,
         id = 1030703,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6980,6 +7431,7 @@ return {
         rangeType = 3,
         id = 1030609,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -6996,6 +7448,7 @@ return {
         rangeType = 0,
         id = 74037,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7011,6 +7464,7 @@ return {
         rangeType = 0,
         id = 70071,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7026,6 +7480,7 @@ return {
         rangeType = 0,
         id = 66105,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7040,6 +7495,7 @@ return {
         rangeType = 3,
         id = 1030702,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7056,6 +7512,7 @@ return {
         rangeType = 3,
         id = 1030701,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7072,6 +7529,7 @@ return {
         rangeType = 3,
         id = 1030610,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7088,6 +7546,7 @@ return {
         rangeType = 3,
         id = 1021401,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7104,6 +7563,7 @@ return {
         rangeType = 3,
         id = 1030606,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7120,6 +7580,7 @@ return {
         rangeType = 0,
         id = 73014,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7135,6 +7596,7 @@ return {
         rangeType = 0,
         id = 67001,
         des2 = "◆戰鬥中，飛艦主炮造成傷害時，有30%幾率使敵人受到持續傷害。敵人每回合出手前受到我方火力值10%的傷害，同時戰鬥速度減少3%，持續3回合，該效果可疊加3層。",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7151,6 +7613,7 @@ return {
         rangeType = 0,
         id = 3702,
         des2 = "全形態生命值提升68",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7166,6 +7629,7 @@ return {
         rangeType = 6,
         id = 3706,
         des2 = "隱遁形態下強襲天賦材料掉落提升1.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -7186,6 +7650,7 @@ return {
         rangeType = 0,
         id = 3710,
         des2 = "全形態免傷率提升1.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7201,6 +7666,7 @@ return {
         rangeType = 0,
         id = 3714,
         des2 = "全形態戰鬥速度提升140",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7216,6 +7682,7 @@ return {
         rangeType = 0,
         id = 3718,
         des2 = "全形態火力值提升1.4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7231,6 +7698,7 @@ return {
         rangeType = 0,
         id = 3722,
         des2 = "全形態生命值提升317",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7246,6 +7714,7 @@ return {
         rangeType = 6,
         id = 3726,
         des2 = "隱遁形態下強襲天賦材料掉落提升2.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -7266,6 +7735,7 @@ return {
         rangeType = 0,
         id = 3730,
         des2 = "全形態免傷率提升2.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7281,6 +7751,7 @@ return {
         rangeType = 0,
         id = 66106,
         des2 = "採用異度文明稀有塗料裝飾甲板，減少敵艦5%的浮游炮傷害。",
+        minipack = 0,
         name = "折光鐵壁",
         rangePrams = {
         },
@@ -7297,6 +7768,7 @@ return {
         rangeType = 3,
         id = 1030605,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7313,6 +7785,7 @@ return {
         rangeType = 3,
         id = 1030604,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7329,6 +7802,7 @@ return {
         rangeType = 3,
         id = 1030603,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7345,6 +7819,7 @@ return {
         rangeType = 3,
         id = 1030602,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7361,6 +7836,7 @@ return {
         rangeType = 3,
         id = 1030502,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7377,6 +7853,7 @@ return {
         rangeType = 0,
         id = 73015,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7392,6 +7869,7 @@ return {
         rangeType = 0,
         id = 67002,
         des2 = "◆飛艦火力+200",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7406,6 +7884,7 @@ return {
         rangeType = 3,
         id = 1030501,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7422,6 +7901,7 @@ return {
         rangeType = 3,
         id = 1030410,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7438,6 +7918,7 @@ return {
         rangeType = 3,
         id = 1030406,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7451,22 +7932,24 @@ return {
         },
     },
     [1012201] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1012201,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012201,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1030405] = {
         rangeType = 3,
         id = 1030405,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7480,22 +7963,24 @@ return {
         },
     },
     [1012202] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1012202,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012202,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [74039] = {
         rangeType = 0,
         id = 74039,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7511,6 +7996,7 @@ return {
         rangeType = 0,
         id = 70073,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7526,6 +8012,7 @@ return {
         rangeType = 0,
         id = 66107,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7540,6 +8027,7 @@ return {
         rangeType = 0,
         id = 3802,
         des2 = "護盾值+1%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7555,6 +8043,7 @@ return {
         rangeType = 0,
         id = 3806,
         des2 = "偏斜值+3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7570,6 +8059,7 @@ return {
         rangeType = 0,
         id = 3810,
         des2 = "飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7585,6 +8075,7 @@ return {
         rangeType = 0,
         id = 3814,
         des2 = "穿透率+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7600,6 +8091,7 @@ return {
         rangeType = 3,
         id = 1030403,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7616,6 +8108,7 @@ return {
         rangeType = 0,
         id = 73016,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7631,6 +8124,7 @@ return {
         rangeType = 0,
         id = 67003,
         des2 = "◆飛艦戰鬥速度+1%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7645,6 +8139,7 @@ return {
         rangeType = 3,
         id = 1030402,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7661,6 +8156,7 @@ return {
         rangeType = 3,
         id = 1030401,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7677,6 +8173,7 @@ return {
         rangeType = 3,
         id = 1030310,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7693,6 +8190,7 @@ return {
         rangeType = 3,
         id = 1030309,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7709,6 +8207,7 @@ return {
         rangeType = 3,
         id = 1030308,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7725,6 +8224,7 @@ return {
         rangeType = 3,
         id = 1030307,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7741,6 +8241,7 @@ return {
         rangeType = 0,
         id = 74040,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7756,6 +8257,7 @@ return {
         rangeType = 0,
         id = 70074,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7771,6 +8273,7 @@ return {
         rangeType = 0,
         id = 66108,
         des2 = "以異界科技改造甲板外層，當受到傷害時，汲取爆炸能量，有20%幾率提升火力值10%，持續3回合（冷卻時間3回合）",
+        minipack = 0,
         name = "釋能汲取",
         rangePrams = {
         },
@@ -7787,6 +8290,7 @@ return {
         rangeType = 3,
         id = 1030306,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7803,6 +8307,7 @@ return {
         rangeType = 3,
         id = 1030305,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7819,6 +8324,7 @@ return {
         rangeType = 3,
         id = 1020401,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7835,6 +8341,7 @@ return {
         rangeType = 3,
         id = 1030304,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7851,6 +8358,7 @@ return {
         rangeType = 3,
         id = 1020402,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7867,6 +8375,7 @@ return {
         rangeType = 0,
         id = 73017,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7882,6 +8391,7 @@ return {
         rangeType = 0,
         id = 67004,
         des2 = "◆飛艦採集容量+50",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7896,6 +8406,7 @@ return {
         rangeType = 3,
         id = 1030303,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7912,6 +8423,7 @@ return {
         rangeType = 3,
         id = 1020404,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -7928,6 +8440,7 @@ return {
         rangeType = 0,
         id = 3902,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7942,6 +8455,7 @@ return {
         rangeType = 0,
         id = 3906,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7956,6 +8470,7 @@ return {
         rangeType = 0,
         id = 3910,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7970,6 +8485,7 @@ return {
         rangeType = 0,
         id = 3914,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7984,6 +8500,7 @@ return {
         rangeType = 0,
         id = 3918,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -7998,6 +8515,7 @@ return {
         rangeType = 0,
         id = 3922,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8012,6 +8530,7 @@ return {
         rangeType = 0,
         id = 3926,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8026,6 +8545,7 @@ return {
         rangeType = 0,
         id = 3930,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8040,6 +8560,7 @@ return {
         rangeType = 0,
         id = 3934,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8054,6 +8575,7 @@ return {
         rangeType = 0,
         id = 3938,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8068,6 +8590,7 @@ return {
         rangeType = 0,
         id = 3942,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8082,6 +8605,7 @@ return {
         rangeType = 3,
         id = 1020410,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8098,6 +8622,7 @@ return {
         rangeType = 0,
         id = 73018,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8113,6 +8638,7 @@ return {
         rangeType = 0,
         id = 67005,
         des2 = "◆飛艦戰鬥力+700",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8127,6 +8653,7 @@ return {
         rangeType = 3,
         id = 1030302,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8143,6 +8670,7 @@ return {
         rangeType = 3,
         id = 1030301,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8159,6 +8687,7 @@ return {
         rangeType = 3,
         id = 1011201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8175,6 +8704,7 @@ return {
         rangeType = 3,
         id = 1030210,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8191,6 +8721,7 @@ return {
         rangeType = 3,
         id = 1030209,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8207,6 +8738,7 @@ return {
         rangeType = 3,
         id = 1030208,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8223,6 +8755,7 @@ return {
         rangeType = 0,
         id = 74042,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8238,6 +8771,7 @@ return {
         rangeType = 0,
         id = 70076,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8253,6 +8787,7 @@ return {
         rangeType = 0,
         id = 66110,
         des2 = "天空艦儲備生命力量，在自身瀕死時涅槃，恢復20%的生命值，並提升50%的防禦1回合（冷卻時間20回合）",
+        minipack = 0,
         name = "瀕死涅槃",
         rangePrams = {
         },
@@ -8269,6 +8804,7 @@ return {
         rangeType = 3,
         id = 1030207,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8285,6 +8821,7 @@ return {
         rangeType = 3,
         id = 1030206,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8301,6 +8838,7 @@ return {
         rangeType = 3,
         id = 1030205,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8317,6 +8855,7 @@ return {
         rangeType = 3,
         id = 1030204,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8333,6 +8872,7 @@ return {
         rangeType = 3,
         id = 1030203,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8349,6 +8889,7 @@ return {
         rangeType = 0,
         id = 73019,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8364,6 +8905,7 @@ return {
         rangeType = 0,
         id = 71100,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8380,6 +8922,7 @@ return {
         rangeType = 3,
         id = 1030202,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8396,6 +8939,7 @@ return {
         rangeType = 0,
         id = 3528,
         des2 = "全形態火力值提升5%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8411,6 +8955,7 @@ return {
         rangeType = 3,
         id = 1030110,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8427,6 +8972,7 @@ return {
         rangeType = 0,
         id = 71041,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8443,6 +8989,7 @@ return {
         rangeType = 0,
         id = 71043,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8459,6 +9006,7 @@ return {
         rangeType = 0,
         id = 71045,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8475,6 +9023,7 @@ return {
         rangeType = 0,
         id = 74043,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8490,6 +9039,7 @@ return {
         rangeType = 0,
         id = 70077,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8505,6 +9055,7 @@ return {
         rangeType = 3,
         id = 1030106,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8521,6 +9072,7 @@ return {
         rangeType = 3,
         id = 1030105,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8537,6 +9089,7 @@ return {
         rangeType = 3,
         id = 1030104,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8553,6 +9106,7 @@ return {
         rangeType = 3,
         id = 1030103,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8569,6 +9123,7 @@ return {
         rangeType = 3,
         id = 1030102,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8585,6 +9140,7 @@ return {
         rangeType = 0,
         id = 71049,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8601,6 +9157,7 @@ return {
         rangeType = 0,
         id = 73020,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8613,100 +9170,108 @@ return {
         },
     },
     [1022202] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1022202,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022202,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1022201] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1022201,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022201,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1022102] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 3,
+        id = 1022102,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022102,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 3,
     },
     [1022101] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 3,
+        id = 1022101,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022101,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 3,
     },
     [1022004] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1022004,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022004,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1022003] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1022003,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022003,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1022002] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1022002,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022002,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [74044] = {
         rangeType = 0,
         id = 74044,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8722,6 +9287,7 @@ return {
         rangeType = 0,
         id = 70078,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8734,22 +9300,24 @@ return {
         },
     },
     [1022001] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1022001,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1022001,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [3109] = {
         rangeType = 0,
         id = 3109,
         des2 = "飛艦火力+3.75%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8765,6 +9333,7 @@ return {
         rangeType = 0,
         id = 73086,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8780,6 +9349,7 @@ return {
         rangeType = 0,
         id = 73088,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8795,6 +9365,7 @@ return {
         rangeType = 0,
         id = 73090,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8810,6 +9381,7 @@ return {
         rangeType = 3,
         id = 1021802,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8829,6 +9401,7 @@ return {
         rangeType = 0,
         id = 73021,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8844,6 +9417,7 @@ return {
         rangeType = 0,
         id = 73093,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8859,6 +9433,7 @@ return {
         rangeType = 0,
         id = 72074,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8876,6 +9451,7 @@ return {
         rangeType = 3,
         id = 1010201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8889,22 +9465,24 @@ return {
         },
     },
     [1021702] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1021702,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021702,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1010202] = {
         rangeType = 3,
         id = 1010202,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8921,6 +9499,7 @@ return {
         rangeType = 0,
         id = 72070,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8938,6 +9517,7 @@ return {
         rangeType = 3,
         id = 1010203,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -8954,6 +9534,7 @@ return {
         rangeType = 0,
         id = 74045,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8969,6 +9550,7 @@ return {
         rangeType = 0,
         id = 70079,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -8981,22 +9563,24 @@ return {
         },
     },
     [1021604] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1021604,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021604,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1010205] = {
         rangeType = 3,
         id = 1010205,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9013,6 +9597,7 @@ return {
         rangeType = 3,
         id = 1020904,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9029,6 +9614,7 @@ return {
         rangeType = 3,
         id = 1010206,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9042,22 +9628,24 @@ return {
         },
     },
     [1021602] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1021602,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021602,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1010207] = {
         rangeType = 3,
         id = 1010207,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9074,6 +9662,7 @@ return {
         rangeType = 0,
         id = 73022,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9089,6 +9678,7 @@ return {
         rangeType = 3,
         id = 1010208,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9102,22 +9692,24 @@ return {
         },
     },
     [1031702] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1031702,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031702,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1010209] = {
         rangeType = 3,
         id = 1010209,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9131,22 +9723,24 @@ return {
         },
     },
     [1031703] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1031703,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1031703,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1010210] = {
         rangeType = 3,
         id = 1010210,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9163,6 +9757,7 @@ return {
         rangeType = 3,
         id = 1021403,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9179,6 +9774,7 @@ return {
         rangeType = 3,
         id = 1021402,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9195,6 +9791,7 @@ return {
         rangeType = 0,
         id = 74046,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9210,6 +9807,7 @@ return {
         rangeType = 0,
         id = 70080,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9222,22 +9820,24 @@ return {
         },
     },
     [1021302] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1021302,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021302,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1102] = {
         rangeType = 0,
         id = 1102,
         des2 = "生命+614",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9253,6 +9853,7 @@ return {
         rangeType = 0,
         id = 1104,
         des2 = "生命+1024",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9268,6 +9869,7 @@ return {
         rangeType = 0,
         id = 1106,
         des2 = "生命+1434",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9283,6 +9885,7 @@ return {
         rangeType = 0,
         id = 1108,
         des2 = "生命+1843",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9298,6 +9901,7 @@ return {
         rangeType = 0,
         id = 1110,
         des2 = "生命+2298,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9314,6 +9918,7 @@ return {
         rangeType = 0,
         id = 1112,
         des2 = "生命+2458,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9330,6 +9935,7 @@ return {
         rangeType = 0,
         id = 1114,
         des2 = "生命+2867,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9346,6 +9952,7 @@ return {
         rangeType = 0,
         id = 1116,
         des2 = "生命+3277,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9362,6 +9969,7 @@ return {
         rangeType = 0,
         id = 1118,
         des2 = "生命+3686,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9378,6 +9986,7 @@ return {
         rangeType = 0,
         id = 1120,
         des2 = "生命+4096,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9394,6 +10003,7 @@ return {
         rangeType = 3,
         id = 1021010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9410,6 +10020,7 @@ return {
         rangeType = 0,
         id = 1124,
         des2 = "生命+4710,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9426,6 +10037,7 @@ return {
         rangeType = 0,
         id = 1126,
         des2 = "生命+5120,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9442,6 +10054,7 @@ return {
         rangeType = 0,
         id = 1128,
         des2 = "生命+5530,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9458,6 +10071,7 @@ return {
         rangeType = 0,
         id = 70081,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9473,6 +10087,7 @@ return {
         rangeType = 0,
         id = 1132,
         des2 = "生命+6349,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9489,6 +10104,7 @@ return {
         rangeType = 0,
         id = 1134,
         des2 = "生命+6554,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9505,6 +10121,7 @@ return {
         rangeType = 0,
         id = 1136,
         des2 = "生命+6963,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9521,6 +10138,7 @@ return {
         rangeType = 0,
         id = 1138,
         des2 = "生命+7373,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9537,6 +10155,7 @@ return {
         rangeType = 0,
         id = 1140,
         des2 = "生命+7782,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9553,6 +10172,7 @@ return {
         rangeType = 0,
         id = 1142,
         des2 = "生命+8192,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9569,6 +10189,7 @@ return {
         rangeType = 0,
         id = 73024,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9584,6 +10205,7 @@ return {
         rangeType = 0,
         id = 1146,
         des2 = "生命+8806,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9600,6 +10222,7 @@ return {
         rangeType = 0,
         id = 1148,
         des2 = "生命+9216,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9616,6 +10239,7 @@ return {
         rangeType = 0,
         id = 1150,
         des2 = "生命+9626,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9632,6 +10256,7 @@ return {
         rangeType = 0,
         id = 1152,
         des2 = "生命+10035,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9648,6 +10273,7 @@ return {
         rangeType = 0,
         id = 1154,
         des2 = "生命+10445,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9664,6 +10290,7 @@ return {
         rangeType = 0,
         id = 1156,
         des2 = "生命+10650,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9680,6 +10307,7 @@ return {
         rangeType = 0,
         id = 1158,
         des2 = "生命+11059,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9696,6 +10324,7 @@ return {
         rangeType = 0,
         id = 1160,
         des2 = "生命+11469,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9712,6 +10341,7 @@ return {
         rangeType = 0,
         id = 1162,
         des2 = "生命+11878,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9728,6 +10358,7 @@ return {
         rangeType = 0,
         id = 1164,
         des2 = "生命+12288,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9744,6 +10375,7 @@ return {
         rangeType = 3,
         id = 1021009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9760,6 +10392,7 @@ return {
         rangeType = 0,
         id = 1168,
         des2 = "生命+12902,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9776,6 +10409,7 @@ return {
         rangeType = 0,
         id = 1170,
         des2 = "生命+13312,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9792,6 +10426,7 @@ return {
         rangeType = 0,
         id = 1172,
         des2 = "生命+13722,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9808,6 +10443,7 @@ return {
         rangeType = 0,
         id = 1174,
         des2 = "生命+14131,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9824,6 +10460,7 @@ return {
         rangeType = 0,
         id = 1176,
         des2 = "生命+14541,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9840,6 +10477,7 @@ return {
         rangeType = 0,
         id = 1178,
         des2 = "生命+14746,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9856,6 +10494,7 @@ return {
         rangeType = 0,
         id = 1180,
         des2 = "生命+15155,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9872,6 +10511,7 @@ return {
         rangeType = 0,
         id = 1182,
         des2 = "生命+15565,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9888,6 +10528,7 @@ return {
         rangeType = 0,
         id = 1184,
         des2 = "生命+15974,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9904,6 +10545,7 @@ return {
         rangeType = 0,
         id = 1186,
         des2 = "生命+16384,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9920,6 +10562,7 @@ return {
         rangeType = 3,
         id = 1021008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -9936,6 +10579,7 @@ return {
         rangeType = 0,
         id = 1190,
         des2 = "生命+16998,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9952,6 +10596,7 @@ return {
         rangeType = 0,
         id = 1192,
         des2 = "生命+17408,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9968,6 +10613,7 @@ return {
         rangeType = 0,
         id = 70083,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9983,6 +10629,7 @@ return {
         rangeType = 0,
         id = 1196,
         des2 = "生命+18227,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -9999,6 +10646,7 @@ return {
         rangeType = 0,
         id = 1198,
         des2 = "生命+18637,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10015,6 +10663,7 @@ return {
         rangeType = 0,
         id = 1200,
         des2 = "生命+18842,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10031,6 +10680,7 @@ return {
         rangeType = 0,
         id = 1202,
         des2 = "生命+19251,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10047,6 +10697,7 @@ return {
         rangeType = 0,
         id = 1204,
         des2 = "生命+19661,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10063,6 +10714,7 @@ return {
         rangeType = 0,
         id = 1206,
         des2 = "生命+20070,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10079,6 +10731,7 @@ return {
         rangeType = 0,
         id = 1208,
         des2 = "生命+20480,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10095,6 +10748,7 @@ return {
         rangeType = 3,
         id = 1030710,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -10111,6 +10765,7 @@ return {
         rangeType = 0,
         id = 1212,
         des2 = "火力+251",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10126,6 +10781,7 @@ return {
         rangeType = 0,
         id = 1214,
         des2 = "火力+386",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10141,6 +10797,7 @@ return {
         rangeType = 0,
         id = 1216,
         des2 = "火力+521",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10156,6 +10813,7 @@ return {
         rangeType = 0,
         id = 1218,
         des2 = "火力+656",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10171,6 +10829,7 @@ return {
         rangeType = 0,
         id = 1220,
         des2 = "火力+791,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10187,6 +10846,7 @@ return {
         rangeType = 0,
         id = 1222,
         des2 = "火力+859,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10203,6 +10863,7 @@ return {
         rangeType = 0,
         id = 1224,
         des2 = "火力+994,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10219,6 +10880,7 @@ return {
         rangeType = 0,
         id = 70084,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10234,6 +10896,7 @@ return {
         rangeType = 0,
         id = 1228,
         des2 = "火力+1264,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10250,6 +10913,7 @@ return {
         rangeType = 0,
         id = 1230,
         des2 = "火力+1399,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10266,6 +10930,7 @@ return {
         rangeType = 0,
         id = 1545,
         des2 = "採集容量+650",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10281,6 +10946,7 @@ return {
         rangeType = 0,
         id = 1234,
         des2 = "火力+1602,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10297,6 +10963,7 @@ return {
         rangeType = 0,
         id = 1236,
         des2 = "火力+1737,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10313,6 +10980,7 @@ return {
         rangeType = 0,
         id = 1238,
         des2 = "火力+1872,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10329,6 +10997,7 @@ return {
         rangeType = 0,
         id = 1240,
         des2 = "火力+2007,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10345,6 +11014,7 @@ return {
         rangeType = 0,
         id = 1242,
         des2 = "火力+2142,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10361,6 +11031,7 @@ return {
         rangeType = 0,
         id = 1244,
         des2 = "火力+2210,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10377,6 +11048,7 @@ return {
         rangeType = 0,
         id = 1246,
         des2 = "火力+2345,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10393,6 +11065,7 @@ return {
         rangeType = 0,
         id = 1248,
         des2 = "火力+2480,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10409,6 +11082,7 @@ return {
         rangeType = 0,
         id = 1250,
         des2 = "火力+2615,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10425,6 +11099,7 @@ return {
         rangeType = 0,
         id = 1252,
         des2 = "火力+2750,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10441,6 +11116,7 @@ return {
         rangeType = 3,
         id = 1021005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -10457,6 +11133,7 @@ return {
         rangeType = 0,
         id = 1256,
         des2 = "火力+2953,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10473,6 +11150,7 @@ return {
         rangeType = 0,
         id = 70085,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10488,6 +11166,7 @@ return {
         rangeType = 0,
         id = 1260,
         des2 = "火力+3223,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10504,6 +11183,7 @@ return {
         rangeType = 0,
         id = 1262,
         des2 = "火力+3358,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10520,6 +11200,7 @@ return {
         rangeType = 0,
         id = 1264,
         des2 = "火力+3493,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10536,6 +11217,7 @@ return {
         rangeType = 0,
         id = 1266,
         des2 = "火力+3561,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10552,6 +11234,7 @@ return {
         rangeType = 0,
         id = 1268,
         des2 = "火力+3696,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10568,6 +11251,7 @@ return {
         rangeType = 0,
         id = 1270,
         des2 = "火力+3831,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10584,6 +11268,7 @@ return {
         rangeType = 0,
         id = 1272,
         des2 = "火力+3966,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10600,6 +11285,7 @@ return {
         rangeType = 0,
         id = 1274,
         des2 = "火力+4101,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10616,6 +11302,7 @@ return {
         rangeType = 3,
         id = 1021004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -10632,6 +11319,7 @@ return {
         rangeType = 0,
         id = 1278,
         des2 = "火力+4304,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10648,6 +11336,7 @@ return {
         rangeType = 0,
         id = 1280,
         des2 = "火力+4439,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10664,6 +11353,7 @@ return {
         rangeType = 0,
         id = 1282,
         des2 = "火力+4574,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10680,6 +11370,7 @@ return {
         rangeType = 0,
         id = 1284,
         des2 = "火力+4709,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10696,6 +11387,7 @@ return {
         rangeType = 0,
         id = 1286,
         des2 = "火力+4844,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10712,6 +11404,7 @@ return {
         rangeType = 0,
         id = 1288,
         des2 = "火力+4912,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10728,6 +11421,7 @@ return {
         rangeType = 0,
         id = 70086,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10743,6 +11437,7 @@ return {
         rangeType = 0,
         id = 1292,
         des2 = "火力+5182,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10759,6 +11454,7 @@ return {
         rangeType = 0,
         id = 1294,
         des2 = "火力+5317,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10775,6 +11471,7 @@ return {
         rangeType = 0,
         id = 1296,
         des2 = "火力+5452,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10791,6 +11488,7 @@ return {
         rangeType = 3,
         id = 1021003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -10807,6 +11505,7 @@ return {
         rangeType = 0,
         id = 1300,
         des2 = "火力+5655,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10823,6 +11522,7 @@ return {
         rangeType = 0,
         id = 1302,
         des2 = "火力+5790,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10839,6 +11539,7 @@ return {
         rangeType = 0,
         id = 1304,
         des2 = "火力+5925,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10855,6 +11556,7 @@ return {
         rangeType = 0,
         id = 1306,
         des2 = "火力+6060,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10871,6 +11573,7 @@ return {
         rangeType = 0,
         id = 1308,
         des2 = "火力+6195,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10887,6 +11590,7 @@ return {
         rangeType = 0,
         id = 1310,
         des2 = "火力+6263,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10903,6 +11607,7 @@ return {
         rangeType = 0,
         id = 1312,
         des2 = "火力+6398,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10919,6 +11624,7 @@ return {
         rangeType = 0,
         id = 1314,
         des2 = "火力+6533,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10935,6 +11641,7 @@ return {
         rangeType = 0,
         id = 1316,
         des2 = "火力+6668,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10951,6 +11658,7 @@ return {
         rangeType = 0,
         id = 1318,
         des2 = "火力+6803,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10967,6 +11675,7 @@ return {
         rangeType = 0,
         id = 72006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10984,6 +11693,7 @@ return {
         rangeType = 0,
         id = 70087,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -10999,6 +11709,7 @@ return {
         rangeType = 0,
         id = 1324,
         des2 = "護甲+535",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11014,6 +11725,7 @@ return {
         rangeType = 0,
         id = 1326,
         des2 = "護甲+611",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11029,6 +11741,7 @@ return {
         rangeType = 0,
         id = 1328,
         des2 = "護甲+688",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11044,6 +11757,7 @@ return {
         rangeType = 0,
         id = 1330,
         des2 = "護甲+764,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11060,6 +11774,7 @@ return {
         rangeType = 0,
         id = 1332,
         des2 = "護甲+802,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11076,6 +11791,7 @@ return {
         rangeType = 0,
         id = 1334,
         des2 = "護甲+879,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11092,6 +11808,7 @@ return {
         rangeType = 0,
         id = 1336,
         des2 = "護甲+955,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11108,6 +11825,7 @@ return {
         rangeType = 0,
         id = 1338,
         des2 = "護甲+1031,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11124,6 +11842,7 @@ return {
         rangeType = 0,
         id = 1340,
         des2 = "護甲+1108,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11140,6 +11859,7 @@ return {
         rangeType = 3,
         id = 1021002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -11156,6 +11876,7 @@ return {
         rangeType = 0,
         id = 1344,
         des2 = "護甲+1222,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11172,6 +11893,7 @@ return {
         rangeType = 0,
         id = 1346,
         des2 = "護甲+1299,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11188,6 +11910,7 @@ return {
         rangeType = 0,
         id = 1348,
         des2 = "護甲+1375,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11204,6 +11927,7 @@ return {
         rangeType = 0,
         id = 1350,
         des2 = "護甲+1452,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11220,6 +11944,7 @@ return {
         rangeType = 0,
         id = 1352,
         des2 = "護甲+1528,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11236,6 +11961,7 @@ return {
         rangeType = 0,
         id = 70088,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11251,6 +11977,7 @@ return {
         rangeType = 0,
         id = 1356,
         des2 = "護甲+1643,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11267,6 +11994,7 @@ return {
         rangeType = 0,
         id = 1358,
         des2 = "護甲+1719,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11283,6 +12011,7 @@ return {
         rangeType = 0,
         id = 1360,
         des2 = "護甲+1795,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11299,6 +12028,7 @@ return {
         rangeType = 0,
         id = 1362,
         des2 = "護甲+1872,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11312,22 +12042,24 @@ return {
         },
     },
     [1011302] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1011302,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011302,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1366] = {
         rangeType = 0,
         id = 1366,
         des2 = "護甲+1986,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11344,6 +12076,7 @@ return {
         rangeType = 0,
         id = 1368,
         des2 = "護甲+2063,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11360,6 +12093,7 @@ return {
         rangeType = 0,
         id = 1370,
         des2 = "護甲+2139,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11376,6 +12110,7 @@ return {
         rangeType = 0,
         id = 1372,
         des2 = "護甲+2216,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11392,6 +12127,7 @@ return {
         rangeType = 0,
         id = 1374,
         des2 = "護甲+2292,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11408,6 +12144,7 @@ return {
         rangeType = 0,
         id = 1376,
         des2 = "護甲+2330,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11424,6 +12161,7 @@ return {
         rangeType = 0,
         id = 1378,
         des2 = "護甲+2407,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11440,6 +12178,7 @@ return {
         rangeType = 0,
         id = 1380,
         des2 = "護甲+2483,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11456,6 +12195,7 @@ return {
         rangeType = 0,
         id = 1382,
         des2 = "護甲+2559,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11472,6 +12212,7 @@ return {
         rangeType = 0,
         id = 1384,
         des2 = "護甲+2636,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11488,6 +12229,7 @@ return {
         rangeType = 0,
         id = 70089,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11503,6 +12245,7 @@ return {
         rangeType = 0,
         id = 1388,
         des2 = "護甲+2750,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11519,6 +12262,7 @@ return {
         rangeType = 0,
         id = 1390,
         des2 = "護甲+2827,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11535,6 +12279,7 @@ return {
         rangeType = 0,
         id = 1392,
         des2 = "護甲+2903,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11551,6 +12296,7 @@ return {
         rangeType = 0,
         id = 1394,
         des2 = "護甲+2980,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11567,6 +12313,7 @@ return {
         rangeType = 0,
         id = 1396,
         des2 = "護甲+3056,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11583,6 +12330,7 @@ return {
         rangeType = 0,
         id = 1398,
         des2 = "護甲+3094,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11599,6 +12347,7 @@ return {
         rangeType = 0,
         id = 1400,
         des2 = "護甲+3171,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11615,6 +12364,7 @@ return {
         rangeType = 0,
         id = 1402,
         des2 = "護甲+3247,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11631,6 +12381,7 @@ return {
         rangeType = 0,
         id = 1404,
         des2 = "護甲+3323,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11647,6 +12398,7 @@ return {
         rangeType = 0,
         id = 1406,
         des2 = "護甲+3400,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11663,6 +12415,7 @@ return {
         rangeType = 3,
         id = 1021001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -11679,6 +12432,7 @@ return {
         rangeType = 0,
         id = 1410,
         des2 = "護甲+3514,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11695,6 +12449,7 @@ return {
         rangeType = 0,
         id = 1412,
         des2 = "護甲+3591,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11711,6 +12466,7 @@ return {
         rangeType = 0,
         id = 1414,
         des2 = "護甲+3667,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11727,6 +12483,7 @@ return {
         rangeType = 0,
         id = 1416,
         des2 = "護甲+3744,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11743,6 +12500,7 @@ return {
         rangeType = 0,
         id = 70090,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11758,6 +12516,7 @@ return {
         rangeType = 0,
         id = 1420,
         des2 = "護甲+3858,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11774,6 +12533,7 @@ return {
         rangeType = 0,
         id = 1422,
         des2 = "護甲+3935,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11790,6 +12550,7 @@ return {
         rangeType = 0,
         id = 1424,
         des2 = "護甲+4011,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11806,6 +12567,7 @@ return {
         rangeType = 0,
         id = 1426,
         des2 = "護甲+4087,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11822,6 +12584,7 @@ return {
         rangeType = 0,
         id = 1428,
         des2 = "護甲+4164,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11838,6 +12601,7 @@ return {
         rangeType = 0,
         id = 3209,
         des2 = "飛艦防禦+3.75%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11853,6 +12617,7 @@ return {
         rangeType = 0,
         id = 1432,
         des2 = "戰鬥速度+160",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11868,6 +12633,7 @@ return {
         rangeType = 0,
         id = 1434,
         des2 = "戰鬥速度+220",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11883,6 +12649,7 @@ return {
         rangeType = 0,
         id = 60201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11899,6 +12666,7 @@ return {
         rangeType = 0,
         id = 1438,
         des2 = "戰鬥速度+340",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11914,6 +12682,7 @@ return {
         rangeType = 0,
         id = 1440,
         des2 = "戰鬥速度+400,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11930,6 +12699,7 @@ return {
         rangeType = 0,
         id = 1442,
         des2 = "戰鬥速度+430,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11946,6 +12716,7 @@ return {
         rangeType = 0,
         id = 1444,
         des2 = "戰鬥速度+490,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11962,6 +12733,7 @@ return {
         rangeType = 0,
         id = 1446,
         des2 = "戰鬥速度+550,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11978,6 +12750,7 @@ return {
         rangeType = 0,
         id = 1448,
         des2 = "戰鬥速度+610,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -11994,6 +12767,7 @@ return {
         rangeType = 0,
         id = 70091,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12009,6 +12783,7 @@ return {
         rangeType = 0,
         id = 3205,
         des2 = "飛艦防禦+2.08%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12024,6 +12799,7 @@ return {
         rangeType = 0,
         id = 1454,
         des2 = "戰鬥速度+760,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12040,6 +12816,7 @@ return {
         rangeType = 0,
         id = 1456,
         des2 = "戰鬥速度+820,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12056,6 +12833,7 @@ return {
         rangeType = 0,
         id = 1458,
         des2 = "戰鬥速度+880,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12072,6 +12850,7 @@ return {
         rangeType = 0,
         id = 1460,
         des2 = "戰鬥速度+940,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12088,6 +12867,7 @@ return {
         rangeType = 0,
         id = 1462,
         des2 = "戰鬥速度+1000,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12104,6 +12884,7 @@ return {
         rangeType = 0,
         id = 1464,
         des2 = "戰鬥速度+1030,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12120,6 +12901,7 @@ return {
         rangeType = 0,
         id = 1466,
         des2 = "戰鬥速度+1090,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12136,6 +12918,7 @@ return {
         rangeType = 0,
         id = 1468,
         des2 = "戰鬥速度+1150,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12152,6 +12935,7 @@ return {
         rangeType = 0,
         id = 1470,
         des2 = "戰鬥速度+1210,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12168,6 +12952,7 @@ return {
         rangeType = 0,
         id = 1472,
         des2 = "戰鬥速度+1270,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12184,6 +12969,7 @@ return {
         rangeType = 3,
         id = 1010306,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -12200,6 +12986,7 @@ return {
         rangeType = 0,
         id = 1476,
         des2 = "戰鬥速度+1360,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12216,6 +13003,7 @@ return {
         rangeType = 0,
         id = 1478,
         des2 = "戰鬥速度+1420,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12232,6 +13020,7 @@ return {
         rangeType = 0,
         id = 1480,
         des2 = "戰鬥速度+1480,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12248,6 +13037,7 @@ return {
         rangeType = 0,
         id = 70092,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12263,6 +13053,7 @@ return {
         rangeType = 0,
         id = 1484,
         des2 = "戰鬥速度+1600,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12279,6 +13070,7 @@ return {
         rangeType = 0,
         id = 1486,
         des2 = "戰鬥速度+1630,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12295,6 +13087,7 @@ return {
         rangeType = 0,
         id = 1488,
         des2 = "戰鬥速度+1690,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12311,6 +13104,7 @@ return {
         rangeType = 0,
         id = 1490,
         des2 = "戰鬥速度+1750,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12327,6 +13121,7 @@ return {
         rangeType = 0,
         id = 1492,
         des2 = "戰鬥速度+1810,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12343,6 +13138,7 @@ return {
         rangeType = 0,
         id = 1494,
         des2 = "戰鬥速度+1870,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12359,6 +13155,7 @@ return {
         rangeType = 0,
         id = 73035,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12374,6 +13171,7 @@ return {
         rangeType = 0,
         id = 1498,
         des2 = "戰鬥速度+1960,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12390,6 +13188,7 @@ return {
         rangeType = 0,
         id = 60202,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12406,6 +13205,7 @@ return {
         rangeType = 0,
         id = 3003,
         des2 = "飛艦生命+1.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12421,6 +13221,7 @@ return {
         rangeType = 0,
         id = 3007,
         des2 = "飛艦生命+2.92%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12436,6 +13237,7 @@ return {
         rangeType = 0,
         id = 3011,
         des2 = "飛艦生命+4.58%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12451,6 +13253,7 @@ return {
         rangeType = 0,
         id = 3015,
         des2 = "飛艦生命+6.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12466,6 +13269,7 @@ return {
         rangeType = 0,
         id = 1510,
         des2 = "戰鬥速度+2290,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12482,6 +13286,7 @@ return {
         rangeType = 0,
         id = 1512,
         des2 = "戰鬥速度+2350,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12498,6 +13303,7 @@ return {
         rangeType = 0,
         id = 70093,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12513,6 +13319,7 @@ return {
         rangeType = 0,
         id = 1516,
         des2 = "戰鬥速度+2470,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12529,6 +13336,7 @@ return {
         rangeType = 0,
         id = 3201,
         des2 = "飛艦防禦+0.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12544,6 +13352,7 @@ return {
         rangeType = 0,
         id = 1520,
         des2 = "戰鬥速度+2560,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12560,6 +13369,7 @@ return {
         rangeType = 0,
         id = 65000,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12576,6 +13386,7 @@ return {
         rangeType = 0,
         id = 1524,
         des2 = "戰鬥速度+2680,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12592,6 +13403,7 @@ return {
         rangeType = 0,
         id = 1526,
         des2 = "戰鬥速度+2740,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12608,6 +13420,7 @@ return {
         rangeType = 0,
         id = 1528,
         des2 = "戰鬥速度+2800,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12624,6 +13437,7 @@ return {
         rangeType = 0,
         id = 1530,
         des2 = "戰鬥速度+2830,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12640,6 +13454,7 @@ return {
         rangeType = 0,
         id = 1532,
         des2 = "戰鬥速度+2890,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12656,6 +13471,7 @@ return {
         rangeType = 0,
         id = 1534,
         des2 = "戰鬥速度+2950,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12672,6 +13488,7 @@ return {
         rangeType = 0,
         id = 1536,
         des2 = "戰鬥速度+3010,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12688,6 +13505,7 @@ return {
         rangeType = 0,
         id = 1538,
         des2 = "戰鬥速度+3070,總戰鬥速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12704,6 +13522,7 @@ return {
         rangeType = 0,
         id = 71025,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12720,6 +13539,7 @@ return {
         rangeType = 0,
         id = 1542,
         des2 = "採集容量+560",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12735,6 +13555,7 @@ return {
         rangeType = 0,
         id = 1544,
         des2 = "採集容量+620",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12750,6 +13571,7 @@ return {
         rangeType = 0,
         id = 70094,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12765,6 +13587,7 @@ return {
         rangeType = 0,
         id = 1548,
         des2 = "採集容量+740",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12780,6 +13603,7 @@ return {
         rangeType = 0,
         id = 1550,
         des2 = "採集容量+800,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12796,6 +13620,7 @@ return {
         rangeType = 0,
         id = 1552,
         des2 = "採集容量+830,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12812,6 +13637,7 @@ return {
         rangeType = 0,
         id = 1554,
         des2 = "採集容量+890,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12828,6 +13654,7 @@ return {
         rangeType = 0,
         id = 1556,
         des2 = "採集容量+950,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12844,6 +13671,7 @@ return {
         rangeType = 0,
         id = 1558,
         des2 = "採集容量+1010,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12860,6 +13688,7 @@ return {
         rangeType = 0,
         id = 1560,
         des2 = "採集容量+1070,飛行速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12876,6 +13705,7 @@ return {
         rangeType = 0,
         id = 71028,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12892,6 +13722,7 @@ return {
         rangeType = 0,
         id = 60203,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12908,6 +13739,7 @@ return {
         rangeType = 0,
         id = 1566,
         des2 = "採集容量+1220,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12924,6 +13756,7 @@ return {
         rangeType = 0,
         id = 1568,
         des2 = "採集容量+1280,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12940,6 +13773,7 @@ return {
         rangeType = 0,
         id = 1570,
         des2 = "採集容量+1340,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12956,6 +13790,7 @@ return {
         rangeType = 0,
         id = 1572,
         des2 = "採集容量+1400,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12972,6 +13807,7 @@ return {
         rangeType = 0,
         id = 1574,
         des2 = "採集容量+1430,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -12988,6 +13824,7 @@ return {
         rangeType = 0,
         id = 1576,
         des2 = "採集容量+1490,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13004,6 +13841,7 @@ return {
         rangeType = 0,
         id = 1578,
         des2 = "採集容量+1550,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13020,6 +13858,7 @@ return {
         rangeType = 0,
         id = 1580,
         des2 = "採集容量+1610,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13036,6 +13875,7 @@ return {
         rangeType = 0,
         id = 1582,
         des2 = "採集容量+1670,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13052,6 +13892,7 @@ return {
         rangeType = 3,
         id = 1020905,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -13068,6 +13909,7 @@ return {
         rangeType = 0,
         id = 65001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13082,6 +13924,7 @@ return {
         rangeType = 0,
         id = 1588,
         des2 = "採集容量+1820,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13098,6 +13941,7 @@ return {
         rangeType = 0,
         id = 1590,
         des2 = "採集容量+1880,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13114,6 +13958,7 @@ return {
         rangeType = 0,
         id = 1592,
         des2 = "採集容量+1940,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13130,6 +13975,7 @@ return {
         rangeType = 0,
         id = 1594,
         des2 = "採集容量+2000,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13146,6 +13992,7 @@ return {
         rangeType = 0,
         id = 1596,
         des2 = "採集容量+2030,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13162,6 +14009,7 @@ return {
         rangeType = 0,
         id = 1598,
         des2 = "採集容量+2090,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13178,6 +14026,7 @@ return {
         rangeType = 0,
         id = 1600,
         des2 = "採集容量+2150,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13194,6 +14043,7 @@ return {
         rangeType = 0,
         id = 1602,
         des2 = "採集容量+2210,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13210,6 +14060,7 @@ return {
         rangeType = 0,
         id = 1604,
         des2 = "採集容量+2270,飛行速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13226,6 +14077,7 @@ return {
         rangeType = 0,
         id = 3211,
         des2 = "飛艦防禦+4.58%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13241,6 +14093,7 @@ return {
         rangeType = 0,
         id = 1608,
         des2 = "採集容量+2360,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13257,6 +14110,7 @@ return {
         rangeType = 0,
         id = 66002,
         des2 = "艦載智能防禦系統處理防禦危機，使得自身護盾被破時，獲得10%的傷害減免，持續3回合（冷卻時間10回合）",
+        minipack = 0,
         name = "危險預知",
         rangePrams = {
         },
@@ -13273,6 +14127,7 @@ return {
         rangeType = 0,
         id = 1612,
         des2 = "採集容量+2480,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13289,6 +14144,7 @@ return {
         rangeType = 0,
         id = 101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13303,6 +14159,7 @@ return {
         rangeType = 0,
         id = 1616,
         des2 = "採集容量+2600,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13319,6 +14176,7 @@ return {
         rangeType = 0,
         id = 1618,
         des2 = "採集容量+2630,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13335,6 +14193,7 @@ return {
         rangeType = 0,
         id = 1620,
         des2 = "採集容量+2690,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13351,6 +14210,7 @@ return {
         rangeType = 0,
         id = 1622,
         des2 = "採集容量+2750,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13367,6 +14227,7 @@ return {
         rangeType = 0,
         id = 1624,
         des2 = "採集容量+2810,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13383,6 +14244,7 @@ return {
         rangeType = 0,
         id = 1626,
         des2 = "採集容量+2870,飛行速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13396,22 +14258,24 @@ return {
         },
     },
     [1021603] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1021603,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021603,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1630] = {
         rangeType = 0,
         id = 1630,
         des2 = "採集容量+2960,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13428,6 +14292,7 @@ return {
         rangeType = 0,
         id = 1632,
         des2 = "採集容量+3020,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13444,6 +14309,7 @@ return {
         rangeType = 0,
         id = 1634,
         des2 = "採集容量+3080,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13460,6 +14326,7 @@ return {
         rangeType = 0,
         id = 1636,
         des2 = "採集容量+3140,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13476,6 +14343,7 @@ return {
         rangeType = 0,
         id = 1638,
         des2 = "採集容量+3200,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13492,6 +14360,7 @@ return {
         rangeType = 0,
         id = 1640,
         des2 = "採集容量+3230,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13508,6 +14377,7 @@ return {
         rangeType = 0,
         id = 66003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13522,6 +14392,7 @@ return {
         rangeType = 0,
         id = 1644,
         des2 = "採集容量+3350,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13538,6 +14409,7 @@ return {
         rangeType = 0,
         id = 1646,
         des2 = "採集容量+3410,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13554,6 +14426,7 @@ return {
         rangeType = 0,
         id = 1648,
         des2 = "採集容量+3470,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13570,6 +14443,7 @@ return {
         rangeType = 0,
         id = 65002,
         des2 = "由異界能量改造的鐳射光線，能迅速瓦解敵艦防禦工事，當敵艦護盾＞0時，主炮傷害提升10%",
+        minipack = 0,
         name = "護盾剋星",
         rangePrams = {
         },
@@ -13586,6 +14460,7 @@ return {
         rangeType = 0,
         id = 3303,
         des2 = "戰鬥速度+1.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13601,6 +14476,7 @@ return {
         rangeType = 0,
         id = 3307,
         des2 = "戰鬥速度+2.92%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13616,6 +14492,7 @@ return {
         rangeType = 0,
         id = 3311,
         des2 = "戰鬥速度+4.58%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13631,6 +14508,7 @@ return {
         rangeType = 0,
         id = 3315,
         des2 = "戰鬥速度+6.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13646,6 +14524,7 @@ return {
         rangeType = 0,
         id = 70072,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13661,6 +14540,7 @@ return {
         rangeType = 0,
         id = 50003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13677,6 +14557,7 @@ return {
         rangeType = 0,
         id = 1586,
         des2 = "採集容量+1760,飛行速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13693,6 +14574,7 @@ return {
         rangeType = 0,
         id = 73034,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13708,6 +14590,7 @@ return {
         rangeType = 0,
         id = 73037,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13723,6 +14606,7 @@ return {
         rangeType = 0,
         id = 73039,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13738,6 +14622,7 @@ return {
         rangeType = 0,
         id = 72017,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13755,6 +14640,7 @@ return {
         rangeType = 0,
         id = 66004,
         des2 = "當飛艦護盾被破時，天空艦啟動危急攻擊方案，自身獲得持續3回合的10%火力值加成，（冷卻時間10回合）",
+        minipack = 0,
         name = "破滅出擊",
         rangePrams = {
         },
@@ -13771,6 +14657,7 @@ return {
         rangeType = 0,
         id = 73043,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13786,6 +14673,7 @@ return {
         rangeType = 0,
         id = 73048,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13801,6 +14689,7 @@ return {
         rangeType = 3,
         id = 1020805,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -13817,6 +14706,7 @@ return {
         rangeType = 3,
         id = 1020804,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -13833,6 +14723,7 @@ return {
         rangeType = 0,
         id = 73050,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13848,6 +14739,7 @@ return {
         rangeType = 0,
         id = 73051,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13863,6 +14755,7 @@ return {
         rangeType = 0,
         id = 73041,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13878,6 +14771,7 @@ return {
         rangeType = 0,
         id = 73053,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13893,6 +14787,7 @@ return {
         rangeType = 0,
         id = 75069,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13909,6 +14804,7 @@ return {
         rangeType = 0,
         id = 75071,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13925,6 +14821,7 @@ return {
         rangeType = 0,
         id = 75073,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13941,6 +14838,7 @@ return {
         rangeType = 0,
         id = 75075,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13957,6 +14855,7 @@ return {
         rangeType = 0,
         id = 75076,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13973,6 +14872,7 @@ return {
         rangeType = 0,
         id = 3403,
         des2 = "採集容量+1.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -13987,6 +14887,7 @@ return {
         rangeType = 0,
         id = 3407,
         des2 = "採集容量+2.92%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14001,6 +14902,7 @@ return {
         rangeType = 0,
         id = 66005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14015,6 +14917,7 @@ return {
         rangeType = 0,
         id = 3415,
         des2 = "採集容量+6.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14029,6 +14932,7 @@ return {
         rangeType = 0,
         id = 75078,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14045,6 +14949,7 @@ return {
         rangeType = 0,
         id = 75080,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14061,6 +14966,7 @@ return {
         rangeType = 0,
         id = 65003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14075,6 +14981,7 @@ return {
         rangeType = 0,
         id = 75082,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14091,6 +14998,7 @@ return {
         rangeType = 3,
         id = 1020602,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14107,6 +15015,7 @@ return {
         rangeType = 0,
         id = 73042,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14122,6 +15031,7 @@ return {
         rangeType = 3,
         id = 1020603,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14138,6 +15048,7 @@ return {
         rangeType = 0,
         id = 75083,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14154,6 +15065,7 @@ return {
         rangeType = 3,
         id = 1020604,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14170,6 +15082,7 @@ return {
         rangeType = 0,
         id = 75085,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14186,6 +15099,7 @@ return {
         rangeType = 3,
         id = 1020605,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14202,6 +15116,7 @@ return {
         rangeType = 3,
         id = 1020409,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14218,6 +15133,7 @@ return {
         rangeType = 3,
         id = 1020606,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14234,6 +15150,7 @@ return {
         rangeType = 0,
         id = 72019,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14251,6 +15168,7 @@ return {
         rangeType = 0,
         id = 66006,
         des2 = "當飛艦護盾被破時，天空艦啟動特殊防衛系統，利用磁場干擾對敵艦造成繳械1回合（冷卻時間5回合）",
+        minipack = 0,
         name = "危急干擾",
         rangePrams = {
         },
@@ -14267,6 +15185,7 @@ return {
         rangeType = 3,
         id = 1020601,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14283,6 +15202,7 @@ return {
         rangeType = 3,
         id = 1020608,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14299,6 +15219,7 @@ return {
         rangeType = 3,
         id = 1020607,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14315,6 +15236,7 @@ return {
         rangeType = 3,
         id = 1020609,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14331,6 +15253,7 @@ return {
         rangeType = 3,
         id = 1020501,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14347,6 +15270,7 @@ return {
         rangeType = 3,
         id = 1020610,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14363,6 +15287,7 @@ return {
         rangeType = 6,
         id = 3503,
         des2 = "強襲天賦下主炮技能傷害提升3.45%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -14381,6 +15306,7 @@ return {
         rangeType = 0,
         id = 3507,
         des2 = "全形態免傷提升0.74%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14396,6 +15322,7 @@ return {
         rangeType = 0,
         id = 3511,
         des2 = "全形態火力值提升59",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14411,6 +15338,7 @@ return {
         rangeType = 0,
         id = 3515,
         des2 = "全形態護盾提升291",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14426,6 +15354,7 @@ return {
         rangeType = 6,
         id = 3519,
         des2 = "強襲天賦下浮遊炮技能傷害提升1.4%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -14444,6 +15373,7 @@ return {
         rangeType = 6,
         id = 3523,
         des2 = "強襲天賦下主炮技能傷害提升5.75%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -14462,6 +15392,7 @@ return {
         rangeType = 0,
         id = 3527,
         des2 = "全形態免傷提升1.23%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14477,6 +15408,7 @@ return {
         rangeType = 3,
         id = 1020408,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14493,6 +15425,7 @@ return {
         rangeType = 0,
         id = 72020,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14510,6 +15443,7 @@ return {
         rangeType = 0,
         id = 66007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14524,6 +15458,7 @@ return {
         rangeType = 3,
         id = 1020407,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14540,6 +15475,7 @@ return {
         rangeType = 3,
         id = 1020406,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14556,6 +15492,7 @@ return {
         rangeType = 3,
         id = 1020405,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14572,6 +15509,7 @@ return {
         rangeType = 0,
         id = 65004,
         des2 = "天空艦能針對高防敵艦進行致命打擊，當主炮攻擊命中時，必定會對敵方護盾造成火力值20%的傷害",
+        minipack = 0,
         name = "破盾衝擊",
         rangePrams = {
         },
@@ -14588,6 +15526,7 @@ return {
         rangeType = 3,
         id = 1020403,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14604,6 +15543,7 @@ return {
         rangeType = 3,
         id = 1020307,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14620,6 +15560,7 @@ return {
         rangeType = 0,
         id = 73044,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14635,6 +15576,7 @@ return {
         rangeType = 3,
         id = 1020306,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14651,6 +15593,7 @@ return {
         rangeType = 3,
         id = 1020305,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14667,6 +15610,7 @@ return {
         rangeType = 3,
         id = 1020303,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14683,6 +15627,7 @@ return {
         rangeType = 3,
         id = 1020207,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14699,6 +15644,7 @@ return {
         rangeType = 3,
         id = 1020203,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14715,6 +15661,7 @@ return {
         rangeType = 3,
         id = 1020202,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14731,6 +15678,7 @@ return {
         rangeType = 3,
         id = 1020107,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14747,6 +15695,7 @@ return {
         rangeType = 0,
         id = 72021,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14764,6 +15713,7 @@ return {
         rangeType = 6,
         id = 3603,
         des2 = "疾走天賦下當速度高於敵方時，造成傷害提高2%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -14783,6 +15733,7 @@ return {
         rangeType = 0,
         id = 3607,
         des2 = "全形態穿透率提升1.92%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14798,6 +15749,7 @@ return {
         rangeType = 0,
         id = 3611,
         des2 = "全形態戰鬥速度提升28",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14813,6 +15765,7 @@ return {
         rangeType = 0,
         id = 3615,
         des2 = "全形態偏斜值2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14828,6 +15781,7 @@ return {
         rangeType = 6,
         id = 3619,
         des2 = "疾走形態穿透敵艦時回復自身護盾4%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -14847,6 +15801,7 @@ return {
         rangeType = 6,
         id = 3623,
         des2 = "疾走天賦下當速度高於敵方時，造成傷害提高4%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -14866,6 +15821,7 @@ return {
         rangeType = 0,
         id = 3627,
         des2 = "全形態穿透率提升3.2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14881,6 +15837,7 @@ return {
         rangeType = 0,
         id = 73045,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -14896,6 +15853,7 @@ return {
         rangeType = 3,
         id = 1020106,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14912,6 +15870,7 @@ return {
         rangeType = 3,
         id = 1020103,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14928,6 +15887,7 @@ return {
         rangeType = 3,
         id = 1020102,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14944,6 +15904,7 @@ return {
         rangeType = 3,
         id = 1020101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -14957,48 +15918,52 @@ return {
         },
     },
     [1012301] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 9,
+        id = 1012301,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012301,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 9,
     },
     [1012204] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1012204,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012204,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1012203] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1012203,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012203,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [72022] = {
         rangeType = 0,
         id = 72022,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15016,6 +15981,7 @@ return {
         rangeType = 0,
         id = 66009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15027,35 +15993,38 @@ return {
         },
     },
     [1012004] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1012004,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012004,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1012003] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1012003,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1012003,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1011805] = {
         rangeType = 3,
         id = 1011805,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15075,6 +16044,7 @@ return {
         rangeType = 0,
         id = 65005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15089,6 +16059,7 @@ return {
         rangeType = 3,
         id = 1011804,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15108,6 +16079,7 @@ return {
         rangeType = 3,
         id = 1011803,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15127,6 +16099,7 @@ return {
         rangeType = 0,
         id = 73046,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15142,6 +16115,7 @@ return {
         rangeType = 3,
         id = 1011802,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15161,6 +16135,7 @@ return {
         rangeType = 6,
         id = 3703,
         des2 = "隱遁形態下隱遁天賦材料掉落提升1.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -15181,6 +16156,7 @@ return {
         rangeType = 0,
         id = 3707,
         des2 = "全形態護盾提升110",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15196,6 +16172,7 @@ return {
         rangeType = 0,
         id = 3711,
         des2 = "全形態防禦力提升46",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15211,6 +16188,7 @@ return {
         rangeType = 0,
         id = 3715,
         des2 = "全形態飛行速度提升6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15226,6 +16204,7 @@ return {
         rangeType = 6,
         id = 3719,
         des2 = "隱遁形態下疾走天賦材料掉落提升2%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -15246,6 +16225,7 @@ return {
         rangeType = 6,
         id = 3723,
         des2 = "隱遁形態下隱遁天賦材料掉落提升2.5%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -15266,6 +16246,7 @@ return {
         rangeType = 0,
         id = 3727,
         des2 = "全形態護盾提升543",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15281,6 +16262,7 @@ return {
         rangeType = 0,
         id = 66010,
         des2 = "當自身受擊護盾未破時，天空艦將能量運轉偏斜向攻擊系統，提升我方火力值3%，可疊加5次，持續3回合",
+        minipack = 0,
         name = "攻擊偏斜",
         rangePrams = {
         },
@@ -15297,6 +16279,7 @@ return {
         rangeType = 3,
         id = 1011801,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15316,6 +16299,7 @@ return {
         rangeType = 3,
         id = 1010405,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15329,22 +16313,24 @@ return {
         },
     },
     [1011703] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1011703,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011703,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1010406] = {
         rangeType = 3,
         id = 1010406,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15361,6 +16347,7 @@ return {
         rangeType = 0,
         id = 66008,
         des2 = "當自身受擊護盾未破時，天空艦提高輸出能量，讓所有攻擊有30%的幾率對敵艦造成我方防禦力30%的傷害（冷卻時間2回合）",
+        minipack = 0,
         name = "防禦姿態",
         rangePrams = {
         },
@@ -15377,6 +16364,7 @@ return {
         rangeType = 3,
         id = 1010407,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15393,6 +16381,7 @@ return {
         rangeType = 0,
         id = 73047,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15408,6 +16397,7 @@ return {
         rangeType = 3,
         id = 1010408,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15424,6 +16414,7 @@ return {
         rangeType = 0,
         id = 1258,
         des2 = "火力+3088,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15440,6 +16431,7 @@ return {
         rangeType = 3,
         id = 1010409,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15456,6 +16448,7 @@ return {
         rangeType = 0,
         id = 73025,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15471,6 +16464,7 @@ return {
         rangeType = 3,
         id = 1010410,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15484,22 +16478,24 @@ return {
         },
     },
     [1011603] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1011603,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011603,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [73028] = {
         rangeType = 0,
         id = 73028,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15515,6 +16511,7 @@ return {
         rangeType = 0,
         id = 72024,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15532,6 +16529,7 @@ return {
         rangeType = 0,
         id = 73030,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15547,6 +16545,7 @@ return {
         rangeType = 0,
         id = 75065,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15563,6 +16562,7 @@ return {
         rangeType = 0,
         id = 3803,
         des2 = "穿透率+1%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15578,6 +16578,7 @@ return {
         rangeType = 0,
         id = 3807,
         des2 = "火力值+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15593,6 +16594,7 @@ return {
         rangeType = 0,
         id = 65006,
         des2 = "針對敵艦護盾發射特製穿透鐳射光線，主炮攻擊若破盾，則飛艦火力值提升20%，持續3回合",
+        minipack = 0,
         name = "趁勝追擊",
         rangePrams = {
         },
@@ -15609,6 +16611,7 @@ return {
         rangeType = 0,
         id = 3815,
         des2 = "火力值+3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15624,6 +16627,7 @@ return {
         rangeType = 3,
         id = 1011403,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15640,6 +16644,7 @@ return {
         rangeType = 0,
         id = 71001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15656,6 +16661,7 @@ return {
         rangeType = 3,
         id = 1011402,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15672,6 +16678,7 @@ return {
         rangeType = 3,
         id = 1011401,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15688,6 +16695,7 @@ return {
         rangeType = 0,
         id = 120,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15699,35 +16707,38 @@ return {
         },
     },
     [1011303] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1011303,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011303,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1011301] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1011301,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011301,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1011103] = {
         rangeType = 3,
         id = 1011103,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15744,6 +16755,7 @@ return {
         rangeType = 3,
         id = 1011007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15760,6 +16772,7 @@ return {
         rangeType = 0,
         id = 72025,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15777,6 +16790,7 @@ return {
         rangeType = 3,
         id = 1011003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15793,6 +16807,7 @@ return {
         rangeType = 3,
         id = 1010907,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15809,6 +16824,7 @@ return {
         rangeType = 3,
         id = 1010905,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15825,6 +16841,7 @@ return {
         rangeType = 3,
         id = 1010903,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15841,6 +16858,7 @@ return {
         rangeType = 3,
         id = 1010902,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15857,6 +16875,7 @@ return {
         rangeType = 3,
         id = 1010901,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15873,6 +16892,7 @@ return {
         rangeType = 3,
         id = 1010810,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15889,6 +16909,7 @@ return {
         rangeType = 0,
         id = 71002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15905,6 +16926,7 @@ return {
         rangeType = 3,
         id = 1010809,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15921,6 +16943,7 @@ return {
         rangeType = 3,
         id = 1010808,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15937,6 +16960,7 @@ return {
         rangeType = 3,
         id = 1010807,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -15953,6 +16977,7 @@ return {
         rangeType = 0,
         id = 3903,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15967,6 +16992,7 @@ return {
         rangeType = 0,
         id = 3907,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15981,6 +17007,7 @@ return {
         rangeType = 0,
         id = 3911,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -15995,6 +17022,7 @@ return {
         rangeType = 0,
         id = 3915,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16009,6 +17037,7 @@ return {
         rangeType = 0,
         id = 3919,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16023,6 +17052,7 @@ return {
         rangeType = 0,
         id = 3923,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16037,6 +17067,7 @@ return {
         rangeType = 0,
         id = 3927,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16051,6 +17082,7 @@ return {
         rangeType = 0,
         id = 3931,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16065,6 +17097,7 @@ return {
         rangeType = 0,
         id = 3935,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16079,6 +17112,7 @@ return {
         rangeType = 0,
         id = 65007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16093,6 +17127,7 @@ return {
         rangeType = 3,
         id = 1010806,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16109,6 +17144,7 @@ return {
         rangeType = 3,
         id = 1030901,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16125,6 +17161,7 @@ return {
         rangeType = 0,
         id = 71003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16141,6 +17178,7 @@ return {
         rangeType = 3,
         id = 1030902,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16157,6 +17195,7 @@ return {
         rangeType = 3,
         id = 1010803,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16173,6 +17212,7 @@ return {
         rangeType = 3,
         id = 1030903,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16189,6 +17229,7 @@ return {
         rangeType = 3,
         id = 1010801,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16205,6 +17246,7 @@ return {
         rangeType = 3,
         id = 1030904,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16221,6 +17263,7 @@ return {
         rangeType = 0,
         id = 70035,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16236,6 +17279,7 @@ return {
         rangeType = 3,
         id = 1030905,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16252,6 +17296,7 @@ return {
         rangeType = 0,
         id = 72027,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16269,6 +17314,7 @@ return {
         rangeType = 3,
         id = 1030906,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16285,6 +17331,7 @@ return {
         rangeType = 0,
         id = 1193,
         des2 = "生命+17613,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16301,6 +17348,7 @@ return {
         rangeType = 3,
         id = 1030907,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16317,6 +17365,7 @@ return {
         rangeType = 0,
         id = 65205,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16331,6 +17380,7 @@ return {
         rangeType = 3,
         id = 1030908,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16347,6 +17397,7 @@ return {
         rangeType = 0,
         id = 1642,
         des2 = "採集容量+3290,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16363,6 +17414,7 @@ return {
         rangeType = 3,
         id = 1030909,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16379,6 +17431,7 @@ return {
         rangeType = 0,
         id = 71004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16395,6 +17448,7 @@ return {
         rangeType = 3,
         id = 1030910,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16411,6 +17465,7 @@ return {
         rangeType = 0,
         id = 72065,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16428,6 +17483,7 @@ return {
         rangeType = 0,
         id = 72067,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16445,6 +17501,7 @@ return {
         rangeType = 3,
         id = 1010607,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16461,6 +17518,7 @@ return {
         rangeType = 0,
         id = 72068,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16475,22 +17533,24 @@ return {
         },
     },
     [1021701] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1021701,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021701,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [72072] = {
         rangeType = 0,
         id = 72072,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16508,6 +17568,7 @@ return {
         rangeType = 0,
         id = 72028,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16525,6 +17586,7 @@ return {
         rangeType = 0,
         id = 72073,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16539,22 +17601,24 @@ return {
         },
     },
     [1021703] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1021703,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021703,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [72076] = {
         rangeType = 0,
         id = 72076,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16572,6 +17636,7 @@ return {
         rangeType = 0,
         id = 70070,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16587,6 +17652,7 @@ return {
         rangeType = 0,
         id = 65008,
         des2 = "天空艦能夠攝取敵艦護盾能量，若敵艦護盾＞0，則攝取其能量提高自身5%火力值，最大疊加5層，持續3回合",
+        minipack = 0,
         name = "加深打擊",
         rangePrams = {
         },
@@ -16603,6 +17669,7 @@ return {
         rangeType = 3,
         id = 1010404,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16619,6 +17686,7 @@ return {
         rangeType = 3,
         id = 1010403,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16635,6 +17703,7 @@ return {
         rangeType = 0,
         id = 65200,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16651,6 +17720,7 @@ return {
         rangeType = 3,
         id = 1010402,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16667,6 +17737,7 @@ return {
         rangeType = 3,
         id = 1010401,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16683,6 +17754,7 @@ return {
         rangeType = 3,
         id = 1010310,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16699,6 +17771,7 @@ return {
         rangeType = 3,
         id = 1010309,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16715,6 +17788,7 @@ return {
         rangeType = 3,
         id = 1010308,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16731,6 +17805,7 @@ return {
         rangeType = 3,
         id = 1010307,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16747,6 +17822,7 @@ return {
         rangeType = 3,
         id = 1010305,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16763,6 +17839,7 @@ return {
         rangeType = 0,
         id = 72029,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16780,6 +17857,7 @@ return {
         rangeType = 3,
         id = 1010304,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16796,6 +17874,7 @@ return {
         rangeType = 3,
         id = 1010303,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16812,6 +17891,7 @@ return {
         rangeType = 0,
         id = 130,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16827,6 +17907,7 @@ return {
         rangeType = 3,
         id = 1010302,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16843,6 +17924,7 @@ return {
         rangeType = 3,
         id = 1010301,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16859,6 +17941,7 @@ return {
         rangeType = 3,
         id = 1010204,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16875,6 +17958,7 @@ return {
         rangeType = 3,
         id = 1010108,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16891,6 +17975,7 @@ return {
         rangeType = 0,
         id = 71006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16907,6 +17992,7 @@ return {
         rangeType = 3,
         id = 1010107,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16923,6 +18009,7 @@ return {
         rangeType = 3,
         id = 1010104,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -16939,6 +18026,7 @@ return {
         rangeType = 0,
         id = 75100,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16955,6 +18043,7 @@ return {
         rangeType = 0,
         id = 75099,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16971,6 +18060,7 @@ return {
         rangeType = 0,
         id = 75098,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -16987,6 +18077,7 @@ return {
         rangeType = 0,
         id = 75097,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17003,6 +18094,7 @@ return {
         rangeType = 0,
         id = 75096,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17019,6 +18111,7 @@ return {
         rangeType = 0,
         id = 72030,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17036,6 +18129,7 @@ return {
         rangeType = 0,
         id = 75095,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17052,6 +18146,7 @@ return {
         rangeType = 0,
         id = 75094,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17068,6 +18163,7 @@ return {
         rangeType = 0,
         id = 75093,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17084,6 +18180,7 @@ return {
         rangeType = 0,
         id = 75092,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17100,6 +18197,7 @@ return {
         rangeType = 0,
         id = 65009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17114,6 +18212,7 @@ return {
         rangeType = 0,
         id = 75091,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17130,6 +18229,7 @@ return {
         rangeType = 0,
         id = 75090,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17146,6 +18246,7 @@ return {
         rangeType = 0,
         id = 65201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17160,6 +18261,7 @@ return {
         rangeType = 0,
         id = 75089,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17176,6 +18278,7 @@ return {
         rangeType = 0,
         id = 75088,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17192,6 +18295,7 @@ return {
         rangeType = 0,
         id = 75087,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17208,6 +18312,7 @@ return {
         rangeType = 0,
         id = 75086,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17224,6 +18329,7 @@ return {
         rangeType = 3,
         id = 1020701,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17240,6 +18346,7 @@ return {
         rangeType = 0,
         id = 75084,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17256,6 +18363,7 @@ return {
         rangeType = 3,
         id = 1020702,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17272,6 +18380,7 @@ return {
         rangeType = 0,
         id = 72031,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17289,6 +18398,7 @@ return {
         rangeType = 3,
         id = 1020703,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17305,6 +18415,7 @@ return {
         rangeType = 0,
         id = 75081,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17321,6 +18432,7 @@ return {
         rangeType = 3,
         id = 1020704,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17337,6 +18449,7 @@ return {
         rangeType = 0,
         id = 75079,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17353,6 +18466,7 @@ return {
         rangeType = 3,
         id = 1020705,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17369,6 +18483,7 @@ return {
         rangeType = 0,
         id = 75077,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17385,6 +18500,7 @@ return {
         rangeType = 3,
         id = 1020706,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17401,6 +18517,7 @@ return {
         rangeType = 0,
         id = 71008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17417,6 +18534,7 @@ return {
         rangeType = 3,
         id = 1020707,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17433,6 +18551,7 @@ return {
         rangeType = 0,
         id = 75074,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17449,6 +18568,7 @@ return {
         rangeType = 3,
         id = 1020708,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17465,6 +18585,7 @@ return {
         rangeType = 0,
         id = 75072,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17481,6 +18602,7 @@ return {
         rangeType = 3,
         id = 1020709,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17497,6 +18619,7 @@ return {
         rangeType = 0,
         id = 75070,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17513,6 +18636,7 @@ return {
         rangeType = 3,
         id = 1020710,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -17529,6 +18653,7 @@ return {
         rangeType = 0,
         id = 72032,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17546,6 +18671,7 @@ return {
         rangeType = 0,
         id = 75068,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17562,6 +18688,7 @@ return {
         rangeType = 0,
         id = 75067,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17578,6 +18705,7 @@ return {
         rangeType = 0,
         id = 75066,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17591,22 +18719,24 @@ return {
         },
     },
     [1011501] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 9,
+        id = 1011501,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011501,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 9,
     },
     [65010] = {
         rangeType = 0,
         id = 65010,
         des2 = "啟動艦載追蹤打擊系統，當飛艦任意攻擊被偏斜，則立即對敵艦造成一次自身火力值50%的額外傷害",
+        minipack = 0,
         name = "迂迴打擊",
         rangePrams = {
         },
@@ -17623,6 +18753,7 @@ return {
         rangeType = 0,
         id = 75064,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17639,6 +18770,7 @@ return {
         rangeType = 0,
         id = 75063,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17655,6 +18787,7 @@ return {
         rangeType = 0,
         id = 65202,
         des2 = "對天空艦的根達亞原始浮游炮裝置進行專精升級，浮游炮數量變為2個",
+        minipack = 0,
         name = "鐳射專精I",
         rangePrams = {
         },
@@ -17671,6 +18804,7 @@ return {
         rangeType = 0,
         id = 75062,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17687,6 +18821,7 @@ return {
         rangeType = 0,
         id = 75061,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17703,6 +18838,7 @@ return {
         rangeType = 0,
         id = 75060,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17719,6 +18855,7 @@ return {
         rangeType = 0,
         id = 75059,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17735,6 +18872,7 @@ return {
         rangeType = 0,
         id = 75058,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17751,6 +18889,7 @@ return {
         rangeType = 0,
         id = 75057,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17767,6 +18906,7 @@ return {
         rangeType = 0,
         id = 75056,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17783,6 +18923,7 @@ return {
         rangeType = 0,
         id = 72033,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17800,6 +18941,7 @@ return {
         rangeType = 0,
         id = 75055,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17816,6 +18958,7 @@ return {
         rangeType = 0,
         id = 75054,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17832,6 +18975,7 @@ return {
         rangeType = 0,
         id = 75053,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17848,6 +18992,7 @@ return {
         rangeType = 0,
         id = 75052,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17864,6 +19009,7 @@ return {
         rangeType = 0,
         id = 75051,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17880,6 +19026,7 @@ return {
         rangeType = 0,
         id = 75050,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17896,6 +19043,7 @@ return {
         rangeType = 0,
         id = 75049,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17912,6 +19060,7 @@ return {
         rangeType = 0,
         id = 71010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17928,6 +19077,7 @@ return {
         rangeType = 0,
         id = 75048,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17944,6 +19094,7 @@ return {
         rangeType = 0,
         id = 75028,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17960,6 +19111,7 @@ return {
         rangeType = 0,
         id = 75026,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17976,6 +19128,7 @@ return {
         rangeType = 0,
         id = 75023,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -17992,6 +19145,7 @@ return {
         rangeType = 0,
         id = 75022,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18008,6 +19162,7 @@ return {
         rangeType = 0,
         id = 75021,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18024,6 +19179,7 @@ return {
         rangeType = 0,
         id = 75020,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18040,6 +19196,7 @@ return {
         rangeType = 0,
         id = 72034,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18057,6 +19214,7 @@ return {
         rangeType = 0,
         id = 75019,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18073,6 +19231,7 @@ return {
         rangeType = 0,
         id = 75018,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18089,6 +19248,7 @@ return {
         rangeType = 0,
         id = 3939,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18103,6 +19263,7 @@ return {
         rangeType = 0,
         id = 75016,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18119,6 +19280,7 @@ return {
         rangeType = 0,
         id = 75015,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18135,6 +19297,7 @@ return {
         rangeType = 0,
         id = 75014,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18151,6 +19314,7 @@ return {
         rangeType = 0,
         id = 75013,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18167,6 +19331,7 @@ return {
         rangeType = 0,
         id = 65203,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18181,6 +19346,7 @@ return {
         rangeType = 0,
         id = 75012,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18197,6 +19363,7 @@ return {
         rangeType = 0,
         id = 75011,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18213,6 +19380,7 @@ return {
         rangeType = 0,
         id = 75010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18229,6 +19397,7 @@ return {
         rangeType = 0,
         id = 75009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18245,6 +19414,7 @@ return {
         rangeType = 0,
         id = 75008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18261,6 +19431,7 @@ return {
         rangeType = 0,
         id = 75007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18277,6 +19448,7 @@ return {
         rangeType = 0,
         id = 65209,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18291,6 +19463,7 @@ return {
         rangeType = 0,
         id = 72035,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18308,6 +19481,7 @@ return {
         rangeType = 0,
         id = 1503,
         des2 = "戰鬥速度+2110,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18324,6 +19498,7 @@ return {
         rangeType = 0,
         id = 65206,
         des2 = "對天空艦的根達亞原始浮游炮裝置進行專精升級，浮游炮數量變為3個",
+        minipack = 0,
         name = "鐳射專精II",
         rangePrams = {
         },
@@ -18340,6 +19515,7 @@ return {
         rangeType = 3,
         id = 1010501,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -18356,6 +19532,7 @@ return {
         rangeType = 0,
         id = 1436,
         des2 = "戰鬥速度+280",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18371,6 +19548,7 @@ return {
         rangeType = 0,
         id = 70027,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18386,6 +19564,7 @@ return {
         rangeType = 0,
         id = 74100,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18401,6 +19580,7 @@ return {
         rangeType = 0,
         id = 74099,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18416,6 +19596,7 @@ return {
         rangeType = 0,
         id = 71012,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18432,6 +19613,7 @@ return {
         rangeType = 0,
         id = 74098,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18447,6 +19629,7 @@ return {
         rangeType = 0,
         id = 74097,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18462,6 +19645,7 @@ return {
         rangeType = 0,
         id = 74096,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18477,6 +19661,7 @@ return {
         rangeType = 0,
         id = 74095,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18492,6 +19677,7 @@ return {
         rangeType = 0,
         id = 74094,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18507,6 +19693,7 @@ return {
         rangeType = 0,
         id = 74093,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18522,6 +19709,7 @@ return {
         rangeType = 0,
         id = 74092,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18537,6 +19725,7 @@ return {
         rangeType = 0,
         id = 72036,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18554,6 +19743,7 @@ return {
         rangeType = 0,
         id = 74091,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18566,22 +19756,24 @@ return {
         },
     },
     [1032002] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1032002,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032002,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [74089] = {
         rangeType = 0,
         id = 74089,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18594,22 +19786,24 @@ return {
         },
     },
     [1032003] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1032003,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032003,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [74087] = {
         rangeType = 0,
         id = 74087,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18622,22 +19816,24 @@ return {
         },
     },
     [1032004] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1032004,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032004,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [74085] = {
         rangeType = 0,
         id = 74085,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18653,6 +19849,7 @@ return {
         rangeType = 0,
         id = 65204,
         des2 = "浮游炮以集束射線打擊敵艦，若觸發穿透，對敵艦額外造成自身火力值50%的無視防禦、無視護盾的傷害",
+        minipack = 0,
         name = "穿透加深",
         rangePrams = {
         },
@@ -18669,6 +19866,7 @@ return {
         rangeType = 0,
         id = 74084,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18684,6 +19882,7 @@ return {
         rangeType = 0,
         id = 74083,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18699,6 +19898,7 @@ return {
         rangeType = 0,
         id = 74082,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18714,6 +19914,7 @@ return {
         rangeType = 0,
         id = 74081,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18729,6 +19930,7 @@ return {
         rangeType = 0,
         id = 74080,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18744,6 +19946,7 @@ return {
         rangeType = 0,
         id = 74079,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18759,6 +19962,7 @@ return {
         rangeType = 0,
         id = 74078,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18774,6 +19978,7 @@ return {
         rangeType = 0,
         id = 72037,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18791,6 +19996,7 @@ return {
         rangeType = 0,
         id = 74077,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18806,6 +20012,7 @@ return {
         rangeType = 0,
         id = 74076,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18821,6 +20028,7 @@ return {
         rangeType = 0,
         id = 74075,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18836,6 +20044,7 @@ return {
         rangeType = 0,
         id = 74074,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18851,6 +20060,7 @@ return {
         rangeType = 0,
         id = 74073,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18866,6 +20076,7 @@ return {
         rangeType = 0,
         id = 74072,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18881,6 +20092,7 @@ return {
         rangeType = 0,
         id = 74071,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18896,6 +20108,7 @@ return {
         rangeType = 0,
         id = 71014,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18912,6 +20125,7 @@ return {
         rangeType = 0,
         id = 74070,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18927,6 +20141,7 @@ return {
         rangeType = 0,
         id = 74069,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18942,6 +20157,7 @@ return {
         rangeType = 0,
         id = 74068,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18957,6 +20173,7 @@ return {
         rangeType = 0,
         id = 74067,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18972,6 +20189,7 @@ return {
         rangeType = 0,
         id = 74066,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -18987,6 +20205,7 @@ return {
         rangeType = 0,
         id = 40001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19004,6 +20223,7 @@ return {
         rangeType = 0,
         id = 74065,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19019,6 +20239,7 @@ return {
         rangeType = 0,
         id = 72038,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19036,6 +20257,7 @@ return {
         rangeType = 0,
         id = 74064,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19051,6 +20273,7 @@ return {
         rangeType = 0,
         id = 74063,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19066,6 +20289,7 @@ return {
         rangeType = 0,
         id = 74062,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19081,6 +20305,7 @@ return {
         rangeType = 0,
         id = 74061,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19096,6 +20321,7 @@ return {
         rangeType = 0,
         id = 74060,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19111,6 +20337,7 @@ return {
         rangeType = 0,
         id = 74059,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19126,6 +20353,7 @@ return {
         rangeType = 0,
         id = 74058,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19141,6 +20369,7 @@ return {
         rangeType = 0,
         id = 71015,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19157,6 +20386,7 @@ return {
         rangeType = 0,
         id = 74057,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19172,6 +20402,7 @@ return {
         rangeType = 0,
         id = 74056,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19187,6 +20418,7 @@ return {
         rangeType = 0,
         id = 74055,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19202,6 +20434,7 @@ return {
         rangeType = 0,
         id = 74054,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19217,6 +20450,7 @@ return {
         rangeType = 0,
         id = 74053,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19232,6 +20466,7 @@ return {
         rangeType = 0,
         id = 74052,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19247,6 +20482,7 @@ return {
         rangeType = 3,
         id = 1031001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19263,6 +20499,7 @@ return {
         rangeType = 0,
         id = 72039,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19280,6 +20517,7 @@ return {
         rangeType = 3,
         id = 1031002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19296,6 +20534,7 @@ return {
         rangeType = 0,
         id = 74049,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19311,6 +20550,7 @@ return {
         rangeType = 3,
         id = 1031003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19327,6 +20567,7 @@ return {
         rangeType = 0,
         id = 74047,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19342,6 +20583,7 @@ return {
         rangeType = 3,
         id = 1031004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19358,6 +20600,7 @@ return {
         rangeType = 0,
         id = 74038,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19373,6 +20616,7 @@ return {
         rangeType = 3,
         id = 1031005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19389,6 +20633,7 @@ return {
         rangeType = 0,
         id = 71016,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19405,6 +20650,7 @@ return {
         rangeType = 3,
         id = 1031006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19421,6 +20667,7 @@ return {
         rangeType = 0,
         id = 74009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19436,6 +20683,7 @@ return {
         rangeType = 3,
         id = 1031007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19452,6 +20700,7 @@ return {
         rangeType = 0,
         id = 74001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19467,6 +20716,7 @@ return {
         rangeType = 3,
         id = 1031008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19483,6 +20733,7 @@ return {
         rangeType = 0,
         id = 40002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19500,6 +20751,7 @@ return {
         rangeType = 3,
         id = 1031009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19516,6 +20768,7 @@ return {
         rangeType = 0,
         id = 72040,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19533,6 +20786,7 @@ return {
         rangeType = 3,
         id = 1031010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19549,6 +20803,7 @@ return {
         rangeType = 0,
         id = 73097,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19564,6 +20819,7 @@ return {
         rangeType = 0,
         id = 73096,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19579,6 +20835,7 @@ return {
         rangeType = 0,
         id = 73095,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19594,6 +20851,7 @@ return {
         rangeType = 0,
         id = 73094,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19609,6 +20867,7 @@ return {
         rangeType = 3,
         id = 1021801,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19628,6 +20887,7 @@ return {
         rangeType = 0,
         id = 73092,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19643,6 +20903,7 @@ return {
         rangeType = 0,
         id = 71017,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19659,6 +20920,7 @@ return {
         rangeType = 0,
         id = 73091,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19674,6 +20936,7 @@ return {
         rangeType = 3,
         id = 1021803,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19693,6 +20956,7 @@ return {
         rangeType = 0,
         id = 73089,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19708,6 +20972,7 @@ return {
         rangeType = 3,
         id = 1021804,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19727,6 +20992,7 @@ return {
         rangeType = 0,
         id = 73087,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19742,6 +21008,7 @@ return {
         rangeType = 3,
         id = 1021805,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -19761,6 +21028,7 @@ return {
         rangeType = 0,
         id = 73085,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19776,6 +21044,7 @@ return {
         rangeType = 0,
         id = 72041,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19793,6 +21062,7 @@ return {
         rangeType = 0,
         id = 73084,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19808,6 +21078,7 @@ return {
         rangeType = 0,
         id = 73083,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19823,6 +21094,7 @@ return {
         rangeType = 0,
         id = 73082,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19838,6 +21110,7 @@ return {
         rangeType = 0,
         id = 73081,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19853,6 +21126,7 @@ return {
         rangeType = 0,
         id = 73080,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19868,6 +21142,7 @@ return {
         rangeType = 0,
         id = 73079,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19883,6 +21158,7 @@ return {
         rangeType = 0,
         id = 73078,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19898,6 +21174,7 @@ return {
         rangeType = 0,
         id = 71018,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19914,6 +21191,7 @@ return {
         rangeType = 0,
         id = 73077,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19929,6 +21207,7 @@ return {
         rangeType = 0,
         id = 73076,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19944,6 +21223,7 @@ return {
         rangeType = 0,
         id = 73075,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19959,6 +21239,7 @@ return {
         rangeType = 0,
         id = 73074,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19974,6 +21255,7 @@ return {
         rangeType = 0,
         id = 73073,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -19989,6 +21271,7 @@ return {
         rangeType = 0,
         id = 40003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20006,6 +21289,7 @@ return {
         rangeType = 0,
         id = 73072,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20021,6 +21305,7 @@ return {
         rangeType = 0,
         id = 72042,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20038,6 +21323,7 @@ return {
         rangeType = 0,
         id = 73071,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20053,6 +21339,7 @@ return {
         rangeType = 0,
         id = 73070,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20068,6 +21355,7 @@ return {
         rangeType = 0,
         id = 73069,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20083,6 +21371,7 @@ return {
         rangeType = 0,
         id = 73068,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20098,6 +21387,7 @@ return {
         rangeType = 0,
         id = 73067,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20113,6 +21403,7 @@ return {
         rangeType = 0,
         id = 73066,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20128,6 +21419,7 @@ return {
         rangeType = 0,
         id = 73065,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20143,6 +21435,7 @@ return {
         rangeType = 0,
         id = 65207,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20157,6 +21450,7 @@ return {
         rangeType = 0,
         id = 73064,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20172,6 +21466,7 @@ return {
         rangeType = 0,
         id = 73063,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20187,6 +21482,7 @@ return {
         rangeType = 0,
         id = 73062,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20202,6 +21498,7 @@ return {
         rangeType = 0,
         id = 73061,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20217,6 +21514,7 @@ return {
         rangeType = 0,
         id = 73060,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20232,6 +21530,7 @@ return {
         rangeType = 0,
         id = 73059,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20247,6 +21546,7 @@ return {
         rangeType = 0,
         id = 73058,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20262,6 +21562,7 @@ return {
         rangeType = 0,
         id = 72043,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20279,6 +21580,7 @@ return {
         rangeType = 0,
         id = 73057,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20294,6 +21596,7 @@ return {
         rangeType = 0,
         id = 73056,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20309,6 +21612,7 @@ return {
         rangeType = 0,
         id = 73055,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20324,6 +21628,7 @@ return {
         rangeType = 0,
         id = 73054,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20339,6 +21644,7 @@ return {
         rangeType = 3,
         id = 1020801,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -20355,6 +21661,7 @@ return {
         rangeType = 0,
         id = 73052,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20370,6 +21677,7 @@ return {
         rangeType = 3,
         id = 1020802,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -20386,6 +21694,7 @@ return {
         rangeType = 0,
         id = 71020,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20402,6 +21711,7 @@ return {
         rangeType = 3,
         id = 1020803,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -20418,6 +21728,7 @@ return {
         rangeType = 0,
         id = 73049,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20433,6 +21744,7 @@ return {
         rangeType = 0,
         id = 3004,
         des2 = "飛艦生命+1.67%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20448,6 +21760,7 @@ return {
         rangeType = 0,
         id = 3008,
         des2 = "飛艦生命+3.33%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20463,6 +21776,7 @@ return {
         rangeType = 0,
         id = 3012,
         des2 = "飛艦生命+5.00%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20478,6 +21792,7 @@ return {
         rangeType = 0,
         id = 40004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20495,6 +21810,7 @@ return {
         rangeType = 3,
         id = 1020806,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -20511,6 +21827,7 @@ return {
         rangeType = 0,
         id = 72044,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20528,6 +21845,7 @@ return {
         rangeType = 3,
         id = 1020807,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -20544,6 +21862,7 @@ return {
         rangeType = 0,
         id = 73040,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20559,6 +21878,7 @@ return {
         rangeType = 3,
         id = 1020808,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -20575,6 +21895,7 @@ return {
         rangeType = 0,
         id = 73038,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20590,6 +21911,7 @@ return {
         rangeType = 3,
         id = 1020809,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -20606,6 +21928,7 @@ return {
         rangeType = 0,
         id = 73036,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20621,6 +21944,7 @@ return {
         rangeType = 3,
         id = 1020810,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -20637,6 +21961,7 @@ return {
         rangeType = 0,
         id = 71021,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20653,6 +21978,7 @@ return {
         rangeType = 0,
         id = 73033,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20668,6 +21994,7 @@ return {
         rangeType = 0,
         id = 73032,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20683,6 +22010,7 @@ return {
         rangeType = 0,
         id = 73031,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20695,22 +22023,24 @@ return {
         },
     },
     [1011601] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1011601,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011601,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [73029] = {
         rangeType = 0,
         id = 73029,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20723,22 +22053,24 @@ return {
         },
     },
     [1011602] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1011602,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011602,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [73027] = {
         rangeType = 0,
         id = 73027,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20754,6 +22086,7 @@ return {
         rangeType = 0,
         id = 72045,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20771,6 +22104,7 @@ return {
         rangeType = 0,
         id = 73026,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20783,22 +22117,24 @@ return {
         },
     },
     [1011604] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1011604,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011604,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [73023] = {
         rangeType = 0,
         id = 73023,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20814,6 +22150,7 @@ return {
         rangeType = 0,
         id = 3104,
         des2 = "飛艦火力+1.67%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20829,6 +22166,7 @@ return {
         rangeType = 0,
         id = 3108,
         des2 = "飛艦火力+3.33%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20844,6 +22182,7 @@ return {
         rangeType = 0,
         id = 3112,
         des2 = "飛艦火力+5.00%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20859,6 +22198,7 @@ return {
         rangeType = 0,
         id = 73013,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20874,6 +22214,7 @@ return {
         rangeType = 0,
         id = 71022,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20890,6 +22231,7 @@ return {
         rangeType = 0,
         id = 73011,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20905,6 +22247,7 @@ return {
         rangeType = 0,
         id = 73008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20920,6 +22263,7 @@ return {
         rangeType = 0,
         id = 72100,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20937,6 +22281,7 @@ return {
         rangeType = 0,
         id = 72099,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20954,6 +22299,7 @@ return {
         rangeType = 0,
         id = 72098,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20971,6 +22317,7 @@ return {
         rangeType = 0,
         id = 40005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -20988,6 +22335,7 @@ return {
         rangeType = 0,
         id = 72097,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21005,6 +22353,7 @@ return {
         rangeType = 0,
         id = 72046,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21022,6 +22371,7 @@ return {
         rangeType = 0,
         id = 72096,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21039,6 +22389,7 @@ return {
         rangeType = 0,
         id = 72095,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21056,6 +22407,7 @@ return {
         rangeType = 0,
         id = 72094,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21073,6 +22425,7 @@ return {
         rangeType = 0,
         id = 72093,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21090,6 +22443,7 @@ return {
         rangeType = 0,
         id = 72092,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21107,6 +22461,7 @@ return {
         rangeType = 0,
         id = 72091,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21124,6 +22479,7 @@ return {
         rangeType = 0,
         id = 72090,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21141,6 +22497,7 @@ return {
         rangeType = 0,
         id = 71023,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21157,6 +22514,7 @@ return {
         rangeType = 0,
         id = 72089,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21174,6 +22532,7 @@ return {
         rangeType = 0,
         id = 72088,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21191,6 +22550,7 @@ return {
         rangeType = 0,
         id = 72087,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21208,6 +22568,7 @@ return {
         rangeType = 0,
         id = 72086,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21225,6 +22586,7 @@ return {
         rangeType = 0,
         id = 3204,
         des2 = "飛艦防禦+1.67%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21240,6 +22602,7 @@ return {
         rangeType = 0,
         id = 3208,
         des2 = "飛艦防禦+3.33%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21255,6 +22618,7 @@ return {
         rangeType = 0,
         id = 201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21298,6 +22662,7 @@ return {
         rangeType = 0,
         id = 72047,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21315,6 +22680,7 @@ return {
         rangeType = 0,
         id = 72085,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21332,6 +22698,7 @@ return {
         rangeType = 0,
         id = 72084,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21349,6 +22716,7 @@ return {
         rangeType = 0,
         id = 72083,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21366,6 +22734,7 @@ return {
         rangeType = 0,
         id = 72082,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21383,6 +22752,7 @@ return {
         rangeType = 0,
         id = 72081,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21400,6 +22770,7 @@ return {
         rangeType = 0,
         id = 72080,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21417,6 +22788,7 @@ return {
         rangeType = 0,
         id = 72079,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21434,6 +22806,7 @@ return {
         rangeType = 0,
         id = 71024,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21450,6 +22823,7 @@ return {
         rangeType = 0,
         id = 72078,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21467,6 +22841,7 @@ return {
         rangeType = 0,
         id = 72077,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21484,6 +22859,7 @@ return {
         rangeType = 3,
         id = 1010601,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -21500,6 +22876,7 @@ return {
         rangeType = 0,
         id = 72075,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21517,6 +22894,7 @@ return {
         rangeType = 3,
         id = 1010602,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -21533,6 +22911,7 @@ return {
         rangeType = 0,
         id = 40006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21550,6 +22929,7 @@ return {
         rangeType = 3,
         id = 1010603,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -21566,6 +22946,7 @@ return {
         rangeType = 0,
         id = 70001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21581,6 +22962,7 @@ return {
         rangeType = 3,
         id = 1010604,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -21597,6 +22979,7 @@ return {
         rangeType = 0,
         id = 72071,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21614,6 +22997,7 @@ return {
         rangeType = 3,
         id = 1010605,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -21630,6 +23014,7 @@ return {
         rangeType = 0,
         id = 72069,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21647,6 +23032,7 @@ return {
         rangeType = 3,
         id = 1010606,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -21663,6 +23049,7 @@ return {
         rangeType = 0,
         id = 3304,
         des2 = "戰鬥速度+1.67%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21678,6 +23065,7 @@ return {
         rangeType = 0,
         id = 3308,
         des2 = "戰鬥速度+3.33%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21693,6 +23081,7 @@ return {
         rangeType = 0,
         id = 65210,
         des2 = "升級浮游炮裝置，提升運轉能力，當浮游炮攻擊觸發穿透時，浮游炮冷卻時間降低1回合（冷卻時間3回合）",
+        minipack = 0,
         name = "光速打擊",
         rangePrams = {
         },
@@ -21709,6 +23098,7 @@ return {
         rangeType = 3,
         id = 1010608,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -21722,22 +23112,24 @@ return {
         },
     },
     [1032102] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 3,
+        id = 1032102,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032102,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 3,
     },
     [1010609] = {
         rangeType = 3,
         id = 1010609,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -21754,6 +23146,7 @@ return {
         rangeType = 0,
         id = 72064,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21771,6 +23164,7 @@ return {
         rangeType = 3,
         id = 1010610,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -21787,6 +23181,7 @@ return {
         rangeType = 0,
         id = 72062,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21804,6 +23199,7 @@ return {
         rangeType = 0,
         id = 72061,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21821,6 +23217,7 @@ return {
         rangeType = 0,
         id = 70002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21836,6 +23233,7 @@ return {
         rangeType = 0,
         id = 72060,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21853,6 +23251,7 @@ return {
         rangeType = 0,
         id = 72059,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21870,6 +23269,7 @@ return {
         rangeType = 0,
         id = 72058,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21887,6 +23287,7 @@ return {
         rangeType = 0,
         id = 72057,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21904,6 +23305,7 @@ return {
         rangeType = 0,
         id = 72056,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21921,6 +23323,7 @@ return {
         rangeType = 0,
         id = 72055,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21938,6 +23341,7 @@ return {
         rangeType = 0,
         id = 72054,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21955,6 +23359,7 @@ return {
         rangeType = 0,
         id = 71026,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21971,6 +23376,7 @@ return {
         rangeType = 0,
         id = 72053,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -21988,6 +23394,7 @@ return {
         rangeType = 0,
         id = 72052,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22005,6 +23412,7 @@ return {
         rangeType = 0,
         id = 72051,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22022,6 +23430,7 @@ return {
         rangeType = 0,
         id = 72050,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22039,6 +23448,7 @@ return {
         rangeType = 0,
         id = 72049,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22056,6 +23466,7 @@ return {
         rangeType = 0,
         id = 40007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22073,6 +23484,7 @@ return {
         rangeType = 0,
         id = 3404,
         des2 = "採集容量+1.67%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22087,6 +23499,7 @@ return {
         rangeType = 0,
         id = 70003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22102,6 +23515,7 @@ return {
         rangeType = 0,
         id = 3412,
         des2 = "採集容量+5.00%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22116,6 +23530,7 @@ return {
         rangeType = 0,
         id = 72048,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22133,6 +23548,7 @@ return {
         rangeType = 0,
         id = 72026,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22150,6 +23566,7 @@ return {
         rangeType = 0,
         id = 72023,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22167,6 +23584,7 @@ return {
         rangeType = 0,
         id = 72018,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22184,6 +23602,7 @@ return {
         rangeType = 0,
         id = 72016,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22201,6 +23620,7 @@ return {
         rangeType = 0,
         id = 72015,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22218,6 +23638,7 @@ return {
         rangeType = 0,
         id = 71027,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22234,6 +23655,7 @@ return {
         rangeType = 0,
         id = 72014,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22251,6 +23673,7 @@ return {
         rangeType = 0,
         id = 72013,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22268,6 +23691,7 @@ return {
         rangeType = 0,
         id = 72012,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22285,6 +23709,7 @@ return {
         rangeType = 0,
         id = 72011,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22302,6 +23727,7 @@ return {
         rangeType = 0,
         id = 72010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22319,6 +23745,7 @@ return {
         rangeType = 0,
         id = 72009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22336,6 +23763,7 @@ return {
         rangeType = 0,
         id = 72008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22353,6 +23781,7 @@ return {
         rangeType = 0,
         id = 70004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22368,6 +23797,7 @@ return {
         rangeType = 0,
         id = 72007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22385,6 +23815,7 @@ return {
         rangeType = 0,
         id = 72005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22402,6 +23833,7 @@ return {
         rangeType = 0,
         id = 72004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22419,6 +23851,7 @@ return {
         rangeType = 0,
         id = 72003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22436,6 +23869,7 @@ return {
         rangeType = 0,
         id = 72002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22453,6 +23887,7 @@ return {
         rangeType = 0,
         id = 72001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22470,6 +23905,7 @@ return {
         rangeType = 3,
         id = 1031101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -22486,6 +23922,7 @@ return {
         rangeType = 0,
         id = 3504,
         des2 = "全形態穿透率提升1.2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22501,6 +23938,7 @@ return {
         rangeType = 0,
         id = 3508,
         des2 = "全形態火力值提升3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22516,6 +23954,7 @@ return {
         rangeType = 0,
         id = 3512,
         des2 = "全形態生命值提升173",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22531,6 +23970,7 @@ return {
         rangeType = 6,
         id = 3516,
         des2 = "強襲天賦下追蹤飛彈觸發幾率提升0.31%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -22549,6 +23989,7 @@ return {
         rangeType = 0,
         id = 3520,
         des2 = "全形態傷害提升4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22564,6 +24005,7 @@ return {
         rangeType = 0,
         id = 3524,
         des2 = "全形態穿透率提升2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22579,6 +24021,7 @@ return {
         rangeType = 0,
         id = 40008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22594,6 +24037,7 @@ return {
         rangeType = 3,
         id = 1031105,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -22610,6 +24054,7 @@ return {
         rangeType = 0,
         id = 70005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22625,6 +24070,7 @@ return {
         rangeType = 0,
         id = 71097,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22641,6 +24087,7 @@ return {
         rangeType = 0,
         id = 71096,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22657,6 +24104,7 @@ return {
         rangeType = 0,
         id = 71095,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22673,6 +24121,7 @@ return {
         rangeType = 0,
         id = 71092,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22689,6 +24138,7 @@ return {
         rangeType = 0,
         id = 71089,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22705,6 +24155,7 @@ return {
         rangeType = 0,
         id = 60101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22721,6 +24172,7 @@ return {
         rangeType = 0,
         id = 70075,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22736,6 +24188,7 @@ return {
         rangeType = 0,
         id = 71029,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22752,6 +24205,7 @@ return {
         rangeType = 0,
         id = 71060,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22768,6 +24222,7 @@ return {
         rangeType = 0,
         id = 1289,
         des2 = "火力+4979,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22784,6 +24239,7 @@ return {
         rangeType = 0,
         id = 3103,
         des2 = "飛艦火力+1.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22799,6 +24255,7 @@ return {
         rangeType = 0,
         id = 3105,
         des2 = "飛艦火力+2.08%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22814,6 +24271,7 @@ return {
         rangeType = 0,
         id = 3107,
         des2 = "飛艦火力+2.92%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22826,22 +24284,24 @@ return {
         },
     },
     [1021901] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 9,
+        id = 1021901,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10102,
         },
-        id = 1021901,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 9,
     },
     [3111] = {
         rangeType = 0,
         id = 3111,
         des2 = "飛艦火力+4.58%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22857,6 +24317,7 @@ return {
         rangeType = 0,
         id = 70006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22872,6 +24333,7 @@ return {
         rangeType = 0,
         id = 3604,
         des2 = "全形態偏斜率提升0.72%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22887,6 +24349,7 @@ return {
         rangeType = 0,
         id = 3608,
         des2 = "全形態防禦力提升1%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22902,6 +24365,7 @@ return {
         rangeType = 0,
         id = 3612,
         des2 = "全形態飛行速度提升4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22917,6 +24381,7 @@ return {
         rangeType = 6,
         id = 3616,
         des2 = "疾走形態觸發偏斜時提高自身傷害4%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -22936,6 +24401,7 @@ return {
         rangeType = 0,
         id = 3620,
         des2 = "全形態火力值提升4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22951,6 +24417,7 @@ return {
         rangeType = 0,
         id = 3624,
         des2 = "全形態偏斜率提升1.20%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22966,6 +24433,7 @@ return {
         rangeType = 0,
         id = 3628,
         des2 = "全形態防禦力提升3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22981,6 +24449,7 @@ return {
         rangeType = 0,
         id = 71030,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -22997,6 +24466,7 @@ return {
         rangeType = 0,
         id = 3113,
         des2 = "飛艦火力+5.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23012,6 +24482,7 @@ return {
         rangeType = 0,
         id = 3115,
         des2 = "飛艦火力+6.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23027,6 +24498,7 @@ return {
         rangeType = 0,
         id = 71057,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23043,6 +24515,7 @@ return {
         rangeType = 0,
         id = 71056,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23059,6 +24532,7 @@ return {
         rangeType = 0,
         id = 71055,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23075,6 +24549,7 @@ return {
         rangeType = 0,
         id = 40009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23090,6 +24565,7 @@ return {
         rangeType = 0,
         id = 71054,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23106,6 +24582,7 @@ return {
         rangeType = 0,
         id = 70007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23121,6 +24598,7 @@ return {
         rangeType = 0,
         id = 60102,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23137,6 +24615,7 @@ return {
         rangeType = 0,
         id = 40023,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23152,6 +24631,7 @@ return {
         rangeType = 0,
         id = 71052,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23168,6 +24648,7 @@ return {
         rangeType = 0,
         id = 71051,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23184,6 +24665,7 @@ return {
         rangeType = 0,
         id = 71050,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23200,6 +24682,7 @@ return {
         rangeType = 3,
         id = 1030101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23216,6 +24699,7 @@ return {
         rangeType = 0,
         id = 71048,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23232,6 +24716,7 @@ return {
         rangeType = 0,
         id = 71031,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23248,6 +24733,7 @@ return {
         rangeType = 0,
         id = 71047,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23264,6 +24750,7 @@ return {
         rangeType = 0,
         id = 3704,
         des2 = "全形態戰鬥速度提升60",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23279,6 +24766,7 @@ return {
         rangeType = 0,
         id = 3708,
         des2 = "全形態火力值提升1.05%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23294,6 +24782,7 @@ return {
         rangeType = 0,
         id = 3712,
         des2 = "全形態生命值提升172",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23309,6 +24798,7 @@ return {
         rangeType = 6,
         id = 3716,
         des2 = "隱遁形態下強襲天賦材料掉落提升2%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -23329,6 +24819,7 @@ return {
         rangeType = 0,
         id = 3720,
         des2 = "全形態免傷率提升2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23344,6 +24835,7 @@ return {
         rangeType = 0,
         id = 3724,
         des2 = "全形態戰鬥速度提升250",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23359,6 +24851,7 @@ return {
         rangeType = 0,
         id = 70008,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23374,6 +24867,7 @@ return {
         rangeType = 0,
         id = 71046,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23390,6 +24884,7 @@ return {
         rangeType = 3,
         id = 1030107,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23406,6 +24901,7 @@ return {
         rangeType = 0,
         id = 71044,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23422,6 +24918,7 @@ return {
         rangeType = 3,
         id = 1030108,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23438,6 +24935,7 @@ return {
         rangeType = 0,
         id = 3312,
         des2 = "戰鬥速度+5.00%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23453,6 +24951,7 @@ return {
         rangeType = 3,
         id = 1030109,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23469,6 +24968,7 @@ return {
         rangeType = 0,
         id = 70043,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23484,6 +24984,7 @@ return {
         rangeType = 0,
         id = 71032,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23500,6 +25001,7 @@ return {
         rangeType = 0,
         id = 71040,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23516,6 +25018,7 @@ return {
         rangeType = 0,
         id = 1381,
         des2 = "護甲+2521,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23532,6 +25035,7 @@ return {
         rangeType = 0,
         id = 70100,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23547,6 +25051,7 @@ return {
         rangeType = 0,
         id = 71009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23563,6 +25068,7 @@ return {
         rangeType = 3,
         id = 1020901,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23579,6 +25085,7 @@ return {
         rangeType = 0,
         id = 40010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23594,6 +25101,7 @@ return {
         rangeType = 3,
         id = 1020902,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23610,6 +25118,7 @@ return {
         rangeType = 0,
         id = 70009,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23625,6 +25134,7 @@ return {
         rangeType = 3,
         id = 1020903,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23641,6 +25151,7 @@ return {
         rangeType = 0,
         id = 60103,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23657,6 +25168,7 @@ return {
         rangeType = 0,
         id = 3804,
         des2 = "防禦力+1%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23672,6 +25184,7 @@ return {
         rangeType = 0,
         id = 3808,
         des2 = "免傷率+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23687,6 +25200,7 @@ return {
         rangeType = 0,
         id = 3812,
         des2 = "防禦力+3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23702,6 +25216,7 @@ return {
         rangeType = 0,
         id = 3816,
         des2 = "主炮技能傷害+3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23717,6 +25232,7 @@ return {
         rangeType = 3,
         id = 1020906,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23733,6 +25249,7 @@ return {
         rangeType = 0,
         id = 71033,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23749,6 +25266,7 @@ return {
         rangeType = 3,
         id = 1020907,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23765,6 +25283,7 @@ return {
         rangeType = 0,
         id = 50001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23781,6 +25300,7 @@ return {
         rangeType = 3,
         id = 1020908,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23797,6 +25317,7 @@ return {
         rangeType = 0,
         id = 3203,
         des2 = "飛艦防禦+1.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23812,6 +25333,7 @@ return {
         rangeType = 3,
         id = 1020909,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23828,6 +25350,7 @@ return {
         rangeType = 0,
         id = 3207,
         des2 = "飛艦防禦+2.92%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23843,6 +25366,7 @@ return {
         rangeType = 3,
         id = 1020910,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -23859,6 +25383,7 @@ return {
         rangeType = 0,
         id = 70010,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23874,6 +25399,7 @@ return {
         rangeType = 0,
         id = 3213,
         des2 = "飛艦防禦+5.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23889,6 +25415,7 @@ return {
         rangeType = 0,
         id = 3215,
         des2 = "飛艦防禦+6.25%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23904,6 +25431,7 @@ return {
         rangeType = 0,
         id = 65208,
         des2 = "浮游炮發射汲取射線，若觸發穿透，則可以汲取敵艦能量，恢復我方最大護盾值10%的護盾值",
+        minipack = 0,
         name = "穿透汲取",
         rangePrams = {
         },
@@ -23917,22 +25445,24 @@ return {
         },
     },
     [1011701] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1011701,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011701,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [1514] = {
         rangeType = 0,
         id = 1514,
         des2 = "戰鬥速度+2410,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23946,22 +25476,24 @@ return {
         },
     },
     [1011702] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 4,
+        id = 1011702,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10101,
         },
-        id = 1011702,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 4,
     },
     [3606] = {
         rangeType = 6,
         id = 3606,
         des2 = "疾走形態觸發偏斜時提高自身傷害3%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -23981,6 +25513,7 @@ return {
         rangeType = 0,
         id = 71034,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -23997,6 +25530,7 @@ return {
         rangeType = 0,
         id = 71005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24013,6 +25547,7 @@ return {
         rangeType = 0,
         id = 60302,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24029,6 +25564,7 @@ return {
         rangeType = 0,
         id = 1522,
         des2 = "戰鬥速度+2620,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24045,6 +25581,7 @@ return {
         rangeType = 0,
         id = 3904,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24059,6 +25596,7 @@ return {
         rangeType = 0,
         id = 3908,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24073,6 +25611,7 @@ return {
         rangeType = 0,
         id = 3912,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24087,6 +25626,7 @@ return {
         rangeType = 0,
         id = 3916,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24101,6 +25641,7 @@ return {
         rangeType = 0,
         id = 3920,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24115,6 +25656,7 @@ return {
         rangeType = 0,
         id = 3924,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24129,6 +25671,7 @@ return {
         rangeType = 0,
         id = 3928,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24143,6 +25686,7 @@ return {
         rangeType = 0,
         id = 3932,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24157,6 +25701,7 @@ return {
         rangeType = 0,
         id = 3936,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24171,6 +25716,7 @@ return {
         rangeType = 0,
         id = 3940,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24185,6 +25731,7 @@ return {
         rangeType = 0,
         id = 3728,
         des2 = "全形態火力值提升1.75%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24200,6 +25747,7 @@ return {
         rangeType = 0,
         id = 75001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24216,6 +25764,7 @@ return {
         rangeType = 0,
         id = 71035,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24232,6 +25781,7 @@ return {
         rangeType = 0,
         id = 1125,
         des2 = "生命+4915,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24248,6 +25798,7 @@ return {
         rangeType = 0,
         id = 1417,
         des2 = "護甲+3782,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24264,6 +25815,7 @@ return {
         rangeType = 0,
         id = 1129,
         des2 = "生命+5734,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24280,6 +25832,7 @@ return {
         rangeType = 0,
         id = 1130,
         des2 = "生命+5939,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24296,6 +25849,7 @@ return {
         rangeType = 0,
         id = 1418,
         des2 = "護甲+3820,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24312,6 +25866,7 @@ return {
         rangeType = 0,
         id = 70082,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24327,6 +25882,7 @@ return {
         rangeType = 0,
         id = 70097,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24342,6 +25898,7 @@ return {
         rangeType = 0,
         id = 70012,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24357,6 +25914,7 @@ return {
         rangeType = 0,
         id = 1290,
         des2 = "火力+5047,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24373,6 +25931,7 @@ return {
         rangeType = 0,
         id = 1546,
         des2 = "採集容量+680",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24388,6 +25947,7 @@ return {
         rangeType = 0,
         id = 70096,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24403,6 +25963,7 @@ return {
         rangeType = 0,
         id = 70095,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24418,6 +25979,7 @@ return {
         rangeType = 0,
         id = 1564,
         des2 = "採集容量+1160,飛行速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24434,6 +25996,7 @@ return {
         rangeType = 0,
         id = 1577,
         des2 = "採集容量+1520,飛行速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24450,6 +26013,7 @@ return {
         rangeType = 0,
         id = 75002,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24466,6 +26030,7 @@ return {
         rangeType = 0,
         id = 71036,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24482,6 +26047,7 @@ return {
         rangeType = 0,
         id = 71019,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24498,6 +26064,7 @@ return {
         rangeType = 0,
         id = 1614,
         des2 = "採集容量+2540,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24514,6 +26081,7 @@ return {
         rangeType = 0,
         id = 66001,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24528,6 +26096,7 @@ return {
         rangeType = 0,
         id = 1161,
         des2 = "生命+11674,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24544,6 +26113,7 @@ return {
         rangeType = 0,
         id = 1637,
         des2 = "採集容量+3170,飛行速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24560,6 +26130,7 @@ return {
         rangeType = 0,
         id = 40012,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24576,6 +26147,7 @@ return {
         rangeType = 0,
         id = 1450,
         des2 = "戰鬥速度+670,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24592,6 +26164,7 @@ return {
         rangeType = 0,
         id = 70013,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24607,6 +26180,7 @@ return {
         rangeType = 0,
         id = 1317,
         des2 = "火力+6736,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24623,6 +26197,7 @@ return {
         rangeType = 0,
         id = 1641,
         des2 = "採集容量+3260,飛行速度+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24639,6 +26214,7 @@ return {
         rangeType = 3,
         id = 1010701,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -24655,6 +26231,7 @@ return {
         rangeType = 0,
         id = 1322,
         des2 = "護甲+458",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24670,6 +26247,7 @@ return {
         rangeType = 3,
         id = 1010702,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -24686,6 +26264,7 @@ return {
         rangeType = 0,
         id = 71011,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24702,6 +26281,7 @@ return {
         rangeType = 0,
         id = 75003,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24718,6 +26298,7 @@ return {
         rangeType = 0,
         id = 71037,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24734,6 +26315,7 @@ return {
         rangeType = 3,
         id = 1010704,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -24750,6 +26332,7 @@ return {
         rangeType = 0,
         id = 3411,
         des2 = "採集容量+4.58%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24764,6 +26347,7 @@ return {
         rangeType = 3,
         id = 1010705,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -24780,6 +26364,7 @@ return {
         rangeType = 0,
         id = 3408,
         des2 = "採集容量+3.33%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24794,6 +26379,7 @@ return {
         rangeType = 3,
         id = 1010706,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -24810,6 +26396,7 @@ return {
         rangeType = 0,
         id = 1194,
         des2 = "生命+17818,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24826,6 +26413,7 @@ return {
         rangeType = 3,
         id = 1010707,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -24842,6 +26430,7 @@ return {
         rangeType = 0,
         id = 70014,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24857,6 +26446,7 @@ return {
         rangeType = 3,
         id = 1010708,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -24870,22 +26460,24 @@ return {
         },
     },
     [1032202] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1032202,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032202,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1010709] = {
         rangeType = 3,
         id = 1010709,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -24899,22 +26491,24 @@ return {
         },
     },
     [1032203] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1032203,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032203,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [1010710] = {
         rangeType = 3,
         id = 1010710,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -24928,22 +26522,24 @@ return {
         },
     },
     [1032204] = {
-        des2 = "",
         rangeType = 3,
-        knowledgeType = 10,
+        id = 1032204,
+        des2 = "",
+        minipack = 0,
+        name = "",
         rangePrams = {
             activityId = 101,
             nationId = 10103,
         },
-        id = 1032204,
         describe = "",
         icon = "",
-        name = "",
+        knowledgeType = 10,
     },
     [75004] = {
         rangeType = 0,
         id = 75004,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24960,6 +26556,7 @@ return {
         rangeType = 0,
         id = 71038,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24976,6 +26573,7 @@ return {
         rangeType = 0,
         id = 70011,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -24991,6 +26589,7 @@ return {
         rangeType = 0,
         id = 3811,
         des2 = "護盾值+3%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25006,6 +26605,7 @@ return {
         rangeType = 0,
         id = 110,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25020,6 +26620,7 @@ return {
         rangeType = 0,
         id = 71013,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25036,6 +26637,7 @@ return {
         rangeType = 0,
         id = 66205,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25050,6 +26652,7 @@ return {
         rangeType = 0,
         id = 40013,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25066,6 +26669,7 @@ return {
         rangeType = 0,
         id = 1225,
         des2 = "火力+1062,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25082,6 +26686,7 @@ return {
         rangeType = 0,
         id = 70015,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25097,6 +26702,7 @@ return {
         rangeType = 0,
         id = 1226,
         des2 = "火力+1129,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25113,6 +26719,7 @@ return {
         rangeType = 0,
         id = 66203,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25127,6 +26734,7 @@ return {
         rangeType = 0,
         id = 66109,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25141,6 +26749,7 @@ return {
         rangeType = 0,
         id = 1500,
         des2 = "戰鬥速度+2020,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25157,6 +26766,7 @@ return {
         rangeType = 0,
         id = 71007,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25173,6 +26783,7 @@ return {
         rangeType = 0,
         id = 1502,
         des2 = "戰鬥速度+2080,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25189,6 +26800,7 @@ return {
         rangeType = 0,
         id = 75005,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25205,6 +26817,7 @@ return {
         rangeType = 0,
         id = 71039,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25221,6 +26834,7 @@ return {
         rangeType = 0,
         id = 1504,
         des2 = "戰鬥速度+2140,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25237,6 +26851,7 @@ return {
         rangeType = 0,
         id = 1505,
         des2 = "戰鬥速度+2170,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25253,6 +26868,7 @@ return {
         rangeType = 0,
         id = 1506,
         des2 = "戰鬥速度+2200,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25269,6 +26885,7 @@ return {
         rangeType = 0,
         id = 1508,
         des2 = "戰鬥速度+2230,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25285,6 +26902,7 @@ return {
         rangeType = 0,
         id = 1509,
         des2 = "戰鬥速度+2260,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25301,6 +26919,7 @@ return {
         rangeType = 0,
         id = 1253,
         des2 = "火力+2818,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25317,6 +26936,7 @@ return {
         rangeType = 6,
         id = 3529,
         des2 = "強襲天賦下浮遊炮技能傷害提升1.75%",
+        minipack = 0,
         name = "",
         rangePrams = {
             shipType = {
@@ -25335,6 +26955,7 @@ return {
         rangeType = 0,
         id = 70016,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25350,6 +26971,7 @@ return {
         rangeType = 0,
         id = 1257,
         des2 = "火力+3020,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25366,6 +26988,7 @@ return {
         rangeType = 0,
         id = 1101,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25381,6 +27004,7 @@ return {
         rangeType = 0,
         id = 1103,
         des2 = "生命+819",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25396,6 +27020,7 @@ return {
         rangeType = 0,
         id = 1105,
         des2 = "生命+1229",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25411,6 +27036,7 @@ return {
         rangeType = 0,
         id = 1107,
         des2 = "生命+1638",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25426,6 +27052,7 @@ return {
         rangeType = 0,
         id = 1109,
         des2 = "生命+2048",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25441,6 +27068,7 @@ return {
         rangeType = 0,
         id = 75006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25457,6 +27085,7 @@ return {
         rangeType = 0,
         id = 1113,
         des2 = "生命+2662,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25473,6 +27102,7 @@ return {
         rangeType = 0,
         id = 1115,
         des2 = "生命+3072,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25489,6 +27119,7 @@ return {
         rangeType = 0,
         id = 1117,
         des2 = "生命+3482,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25505,6 +27136,7 @@ return {
         rangeType = 0,
         id = 1119,
         des2 = "生命+3891,總生命+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25521,6 +27153,7 @@ return {
         rangeType = 0,
         id = 1121,
         des2 = "生命+4301,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25537,6 +27170,7 @@ return {
         rangeType = 0,
         id = 1123,
         des2 = "生命+4506,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25553,6 +27187,7 @@ return {
         rangeType = 0,
         id = 40014,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25569,6 +27204,7 @@ return {
         rangeType = 0,
         id = 1127,
         des2 = "生命+5325,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25585,6 +27221,7 @@ return {
         rangeType = 0,
         id = 70017,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25600,6 +27237,7 @@ return {
         rangeType = 0,
         id = 1131,
         des2 = "生命+6144,總生命+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25616,6 +27254,7 @@ return {
         rangeType = 0,
         id = 70098,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25631,6 +27270,7 @@ return {
         rangeType = 0,
         id = 1135,
         des2 = "生命+6758,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25647,6 +27287,7 @@ return {
         rangeType = 0,
         id = 1137,
         des2 = "生命+7168,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25663,6 +27304,7 @@ return {
         rangeType = 0,
         id = 1139,
         des2 = "生命+7578,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25679,6 +27321,7 @@ return {
         rangeType = 0,
         id = 1141,
         des2 = "生命+7987,總生命+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25695,6 +27338,7 @@ return {
         rangeType = 0,
         id = 1143,
         des2 = "生命+8397,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25711,6 +27355,7 @@ return {
         rangeType = 0,
         id = 1145,
         des2 = "生命+8602,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25727,6 +27372,7 @@ return {
         rangeType = 0,
         id = 1147,
         des2 = "生命+9011,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25743,6 +27389,7 @@ return {
         rangeType = 0,
         id = 1149,
         des2 = "生命+9421,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25759,6 +27406,7 @@ return {
         rangeType = 0,
         id = 1151,
         des2 = "生命+9830,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25775,6 +27423,7 @@ return {
         rangeType = 0,
         id = 1153,
         des2 = "生命+10240,總生命+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25791,6 +27440,7 @@ return {
         rangeType = 0,
         id = 1609,
         des2 = "採集容量+2390,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25807,6 +27457,7 @@ return {
         rangeType = 0,
         id = 1157,
         des2 = "生命+10854,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25823,6 +27474,7 @@ return {
         rangeType = 0,
         id = 1159,
         des2 = "生命+11264,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25839,6 +27491,7 @@ return {
         rangeType = 0,
         id = 70018,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25854,6 +27507,7 @@ return {
         rangeType = 0,
         id = 1163,
         des2 = "生命+12083,總生命+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25870,6 +27524,7 @@ return {
         rangeType = 0,
         id = 1165,
         des2 = "生命+12493,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25886,6 +27541,7 @@ return {
         rangeType = 0,
         id = 1167,
         des2 = "生命+12698,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25902,6 +27558,7 @@ return {
         rangeType = 0,
         id = 1169,
         des2 = "生命+13107,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25918,6 +27575,7 @@ return {
         rangeType = 0,
         id = 1171,
         des2 = "生命+13517,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25934,6 +27592,7 @@ return {
         rangeType = 0,
         id = 1173,
         des2 = "生命+13926,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25950,6 +27609,7 @@ return {
         rangeType = 0,
         id = 1175,
         des2 = "生命+14336,總生命+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25966,6 +27626,7 @@ return {
         rangeType = 0,
         id = 71042,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25982,6 +27643,7 @@ return {
         rangeType = 0,
         id = 1179,
         des2 = "生命+14950,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -25998,6 +27660,7 @@ return {
         rangeType = 0,
         id = 1181,
         des2 = "生命+15360,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26014,6 +27677,7 @@ return {
         rangeType = 0,
         id = 1183,
         des2 = "生命+15770,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26030,6 +27694,7 @@ return {
         rangeType = 0,
         id = 1185,
         des2 = "生命+16179,總生命+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26046,6 +27711,7 @@ return {
         rangeType = 0,
         id = 1187,
         des2 = "生命+16589,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26062,6 +27728,7 @@ return {
         rangeType = 0,
         id = 40015,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26078,6 +27745,7 @@ return {
         rangeType = 0,
         id = 1191,
         des2 = "生命+17203,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26094,6 +27762,7 @@ return {
         rangeType = 0,
         id = 70019,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26109,6 +27778,7 @@ return {
         rangeType = 0,
         id = 1195,
         des2 = "生命+18022,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26125,6 +27795,7 @@ return {
         rangeType = 0,
         id = 1197,
         des2 = "生命+18432,總生命+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26141,6 +27812,7 @@ return {
         rangeType = 0,
         id = 70040,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26156,6 +27828,7 @@ return {
         rangeType = 0,
         id = 1201,
         des2 = "生命+19046,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26172,6 +27845,7 @@ return {
         rangeType = 0,
         id = 1203,
         des2 = "生命+19456,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26188,6 +27862,7 @@ return {
         rangeType = 0,
         id = 1205,
         des2 = "生命+19866,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26204,6 +27879,7 @@ return {
         rangeType = 0,
         id = 1207,
         des2 = "生命+20275,總生命+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26220,6 +27896,7 @@ return {
         rangeType = 0,
         id = 1209,
         des2 = "生命+20685,總生命+20%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26236,6 +27913,7 @@ return {
         rangeType = 0,
         id = 1211,
         des2 = "火力+183",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26251,6 +27929,7 @@ return {
         rangeType = 0,
         id = 1213,
         des2 = "火力+318",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26266,6 +27945,7 @@ return {
         rangeType = 0,
         id = 1215,
         des2 = "火力+454",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26281,6 +27961,7 @@ return {
         rangeType = 0,
         id = 1217,
         des2 = "火力+589",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26296,6 +27977,7 @@ return {
         rangeType = 0,
         id = 1219,
         des2 = "火力+724",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26311,6 +27993,7 @@ return {
         rangeType = 3,
         id = 1030201,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -26327,6 +28010,7 @@ return {
         rangeType = 0,
         id = 1223,
         des2 = "火力+926,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26343,6 +28027,7 @@ return {
         rangeType = 0,
         id = 70020,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26358,6 +28043,7 @@ return {
         rangeType = 0,
         id = 1227,
         des2 = "火力+1197,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26374,6 +28060,7 @@ return {
         rangeType = 0,
         id = 1229,
         des2 = "火力+1332,總火力+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26390,6 +28077,7 @@ return {
         rangeType = 0,
         id = 1231,
         des2 = "火力+1467,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26406,6 +28094,7 @@ return {
         rangeType = 0,
         id = 1233,
         des2 = "火力+1534,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26422,6 +28111,7 @@ return {
         rangeType = 0,
         id = 1235,
         des2 = "火力+1669,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26438,6 +28128,7 @@ return {
         rangeType = 0,
         id = 1237,
         des2 = "火力+1805,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26454,6 +28145,7 @@ return {
         rangeType = 0,
         id = 1239,
         des2 = "火力+1940,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26470,6 +28162,7 @@ return {
         rangeType = 0,
         id = 1241,
         des2 = "火力+2075,總火力+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26486,6 +28179,7 @@ return {
         rangeType = 0,
         id = 1385,
         des2 = "護甲+2674,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26502,6 +28196,7 @@ return {
         rangeType = 0,
         id = 1245,
         des2 = "火力+2277,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26518,6 +28213,7 @@ return {
         rangeType = 0,
         id = 1247,
         des2 = "火力+2413,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26534,6 +28230,7 @@ return {
         rangeType = 0,
         id = 1249,
         des2 = "火力+2548,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26550,6 +28247,7 @@ return {
         rangeType = 0,
         id = 1251,
         des2 = "火力+2683,總火力+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26566,6 +28264,7 @@ return {
         rangeType = 0,
         id = 40016,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26582,6 +28281,7 @@ return {
         rangeType = 0,
         id = 1255,
         des2 = "火力+2885,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26598,6 +28298,7 @@ return {
         rangeType = 0,
         id = 70021,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26613,6 +28314,7 @@ return {
         rangeType = 0,
         id = 1259,
         des2 = "火力+3156,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26629,6 +28331,7 @@ return {
         rangeType = 0,
         id = 1261,
         des2 = "火力+3291,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26645,6 +28348,7 @@ return {
         rangeType = 0,
         id = 1263,
         des2 = "火力+3426,總火力+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26661,6 +28365,7 @@ return {
         rangeType = 0,
         id = 70099,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26676,6 +28381,7 @@ return {
         rangeType = 0,
         id = 1267,
         des2 = "火力+3628,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26692,6 +28398,7 @@ return {
         rangeType = 0,
         id = 1269,
         des2 = "火力+3764,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26708,6 +28415,7 @@ return {
         rangeType = 0,
         id = 1271,
         des2 = "火力+3899,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26724,6 +28432,7 @@ return {
         rangeType = 0,
         id = 1273,
         des2 = "火力+4034,總火力+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26740,6 +28449,7 @@ return {
         rangeType = 0,
         id = 1275,
         des2 = "火力+4169,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26756,6 +28466,7 @@ return {
         rangeType = 0,
         id = 1277,
         des2 = "火力+4236,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26772,6 +28483,7 @@ return {
         rangeType = 0,
         id = 1279,
         des2 = "火力+4371,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26788,6 +28500,7 @@ return {
         rangeType = 0,
         id = 1281,
         des2 = "火力+4507,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26804,6 +28517,7 @@ return {
         rangeType = 0,
         id = 1283,
         des2 = "火力+4642,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26820,6 +28534,7 @@ return {
         rangeType = 0,
         id = 1285,
         des2 = "火力+4777,總火力+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26836,6 +28551,7 @@ return {
         rangeType = 3,
         id = 1021006,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -26852,6 +28568,7 @@ return {
         rangeType = 0,
         id = 70022,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26867,6 +28584,7 @@ return {
         rangeType = 0,
         id = 1291,
         des2 = "火力+5115,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26883,6 +28601,7 @@ return {
         rangeType = 0,
         id = 1293,
         des2 = "火力+5250,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26899,6 +28618,7 @@ return {
         rangeType = 0,
         id = 1295,
         des2 = "火力+5385,總火力+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26915,6 +28635,7 @@ return {
         rangeType = 0,
         id = 1297,
         des2 = "火力+5520,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26931,6 +28652,7 @@ return {
         rangeType = 0,
         id = 1299,
         des2 = "火力+5587,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26947,6 +28669,7 @@ return {
         rangeType = 0,
         id = 1301,
         des2 = "火力+5722,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26963,6 +28686,7 @@ return {
         rangeType = 0,
         id = 1303,
         des2 = "火力+5858,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26979,6 +28703,7 @@ return {
         rangeType = 0,
         id = 1305,
         des2 = "火力+5993,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -26995,6 +28720,7 @@ return {
         rangeType = 0,
         id = 1307,
         des2 = "火力+6128,總火力+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27011,6 +28737,7 @@ return {
         rangeType = 0,
         id = 1445,
         des2 = "戰鬥速度+520,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27027,6 +28754,7 @@ return {
         rangeType = 0,
         id = 1311,
         des2 = "火力+6330,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27043,6 +28771,7 @@ return {
         rangeType = 0,
         id = 1313,
         des2 = "火力+6466,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27059,6 +28788,7 @@ return {
         rangeType = 0,
         id = 1315,
         des2 = "火力+6601,總火力+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27075,6 +28805,7 @@ return {
         rangeType = 0,
         id = 40017,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27091,6 +28822,7 @@ return {
         rangeType = 0,
         id = 1319,
         des2 = "火力+6871,總火力+20%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27107,6 +28839,7 @@ return {
         rangeType = 0,
         id = 70023,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27122,6 +28855,7 @@ return {
         rangeType = 0,
         id = 1323,
         des2 = "護甲+497",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27137,6 +28871,7 @@ return {
         rangeType = 0,
         id = 1325,
         des2 = "護甲+573",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27152,6 +28887,7 @@ return {
         rangeType = 0,
         id = 1327,
         des2 = "護甲+649",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27167,6 +28903,7 @@ return {
         rangeType = 0,
         id = 1329,
         des2 = "護甲+726",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27182,6 +28919,7 @@ return {
         rangeType = 0,
         id = 70067,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27197,6 +28935,7 @@ return {
         rangeType = 0,
         id = 1333,
         des2 = "護甲+840,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27213,6 +28952,7 @@ return {
         rangeType = 0,
         id = 1335,
         des2 = "護甲+917,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27229,6 +28969,7 @@ return {
         rangeType = 0,
         id = 1337,
         des2 = "護甲+993,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27245,6 +28986,7 @@ return {
         rangeType = 0,
         id = 1339,
         des2 = "護甲+1070,總護甲+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27261,6 +29003,7 @@ return {
         rangeType = 0,
         id = 1341,
         des2 = "護甲+1146,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27277,6 +29020,7 @@ return {
         rangeType = 0,
         id = 1343,
         des2 = "護甲+1184,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27293,6 +29037,7 @@ return {
         rangeType = 0,
         id = 1345,
         des2 = "護甲+1261,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27309,6 +29054,7 @@ return {
         rangeType = 0,
         id = 1347,
         des2 = "護甲+1337,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27325,6 +29071,7 @@ return {
         rangeType = 0,
         id = 1349,
         des2 = "護甲+1413,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27341,6 +29088,7 @@ return {
         rangeType = 0,
         id = 1351,
         des2 = "護甲+1490,總護甲+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27357,6 +29105,7 @@ return {
         rangeType = 0,
         id = 70024,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27372,6 +29121,7 @@ return {
         rangeType = 0,
         id = 1355,
         des2 = "護甲+1604,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27388,6 +29138,7 @@ return {
         rangeType = 0,
         id = 1357,
         des2 = "護甲+1681,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27404,6 +29155,7 @@ return {
         rangeType = 0,
         id = 1359,
         des2 = "護甲+1757,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27420,6 +29172,7 @@ return {
         rangeType = 0,
         id = 1361,
         des2 = "護甲+1834,總護甲+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27436,6 +29189,7 @@ return {
         rangeType = 0,
         id = 1363,
         des2 = "護甲+1910,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27452,6 +29206,7 @@ return {
         rangeType = 0,
         id = 1365,
         des2 = "護甲+1948,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27468,6 +29223,7 @@ return {
         rangeType = 0,
         id = 1367,
         des2 = "護甲+2025,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27484,6 +29240,7 @@ return {
         rangeType = 0,
         id = 1369,
         des2 = "護甲+2101,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27500,6 +29257,7 @@ return {
         rangeType = 0,
         id = 1371,
         des2 = "護甲+2177,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27516,6 +29274,7 @@ return {
         rangeType = 0,
         id = 1373,
         des2 = "護甲+2254,總護甲+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27532,6 +29291,7 @@ return {
         rangeType = 0,
         id = 1501,
         des2 = "戰鬥速度+2050,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27548,6 +29308,7 @@ return {
         rangeType = 0,
         id = 1377,
         des2 = "護甲+2368,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27564,6 +29325,7 @@ return {
         rangeType = 0,
         id = 1379,
         des2 = "護甲+2445,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27580,6 +29342,7 @@ return {
         rangeType = 0,
         id = 40018,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27596,6 +29359,7 @@ return {
         rangeType = 0,
         id = 1383,
         des2 = "護甲+2598,總護甲+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27612,6 +29376,7 @@ return {
         rangeType = 0,
         id = 70025,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27627,6 +29392,7 @@ return {
         rangeType = 0,
         id = 1387,
         des2 = "護甲+2712,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27643,6 +29409,7 @@ return {
         rangeType = 0,
         id = 1389,
         des2 = "護甲+2789,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27659,6 +29426,7 @@ return {
         rangeType = 0,
         id = 1391,
         des2 = "護甲+2865,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27675,6 +29443,7 @@ return {
         rangeType = 0,
         id = 1393,
         des2 = "護甲+2941,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27691,6 +29460,7 @@ return {
         rangeType = 0,
         id = 1395,
         des2 = "護甲+3018,總護甲+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27707,6 +29477,7 @@ return {
         rangeType = 0,
         id = 1513,
         des2 = "戰鬥速度+2380,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27723,6 +29494,7 @@ return {
         rangeType = 0,
         id = 1399,
         des2 = "護甲+3132,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27739,6 +29511,7 @@ return {
         rangeType = 0,
         id = 1401,
         des2 = "護甲+3209,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27755,6 +29528,7 @@ return {
         rangeType = 0,
         id = 1403,
         des2 = "護甲+3285,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27771,6 +29545,7 @@ return {
         rangeType = 0,
         id = 1405,
         des2 = "護甲+3362,總護甲+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27787,6 +29562,7 @@ return {
         rangeType = 0,
         id = 1407,
         des2 = "護甲+3438,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27803,6 +29579,7 @@ return {
         rangeType = 0,
         id = 1409,
         des2 = "護甲+3476,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27819,6 +29596,7 @@ return {
         rangeType = 0,
         id = 1411,
         des2 = "護甲+3553,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27835,6 +29613,7 @@ return {
         rangeType = 0,
         id = 1413,
         des2 = "護甲+3629,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27851,6 +29630,7 @@ return {
         rangeType = 0,
         id = 1415,
         des2 = "護甲+3705,總護甲+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27867,6 +29647,7 @@ return {
         rangeType = 0,
         id = 70026,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27882,6 +29663,7 @@ return {
         rangeType = 3,
         id = 1010804,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
             activityId = 101,
@@ -27898,6 +29680,7 @@ return {
         rangeType = 0,
         id = 1421,
         des2 = "護甲+3896,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27914,6 +29697,7 @@ return {
         rangeType = 0,
         id = 1423,
         des2 = "護甲+3973,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27930,6 +29714,7 @@ return {
         rangeType = 0,
         id = 1425,
         des2 = "護甲+4049,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27946,6 +29731,7 @@ return {
         rangeType = 0,
         id = 1427,
         des2 = "護甲+4126,總護甲+18%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27962,6 +29748,7 @@ return {
         rangeType = 0,
         id = 1429,
         des2 = "護甲+4202,總護甲+20%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27978,6 +29765,7 @@ return {
         rangeType = 0,
         id = 1431,
         des2 = "戰鬥速度+130",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -27993,6 +29781,7 @@ return {
         rangeType = 0,
         id = 1433,
         des2 = "戰鬥速度+190",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28008,6 +29797,7 @@ return {
         rangeType = 0,
         id = 1435,
         des2 = "戰鬥速度+250",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28023,6 +29813,7 @@ return {
         rangeType = 0,
         id = 1437,
         des2 = "戰鬥速度+310",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28038,6 +29829,7 @@ return {
         rangeType = 0,
         id = 1439,
         des2 = "戰鬥速度+370",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28053,6 +29845,7 @@ return {
         rangeType = 0,
         id = 1610,
         des2 = "採集容量+2420,飛行速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28069,6 +29862,7 @@ return {
         rangeType = 0,
         id = 1443,
         des2 = "戰鬥速度+460,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28085,6 +29879,7 @@ return {
         rangeType = 0,
         id = 40019,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28101,6 +29896,7 @@ return {
         rangeType = 0,
         id = 1447,
         des2 = "戰鬥速度+580,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28117,6 +29913,7 @@ return {
         rangeType = 0,
         id = 1449,
         des2 = "戰鬥速度+640,總戰鬥速度+2%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28133,6 +29930,7 @@ return {
         rangeType = 0,
         id = 1451,
         des2 = "戰鬥速度+700,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28149,6 +29947,7 @@ return {
         rangeType = 0,
         id = 1453,
         des2 = "戰鬥速度+730,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28165,6 +29964,7 @@ return {
         rangeType = 0,
         id = 1455,
         des2 = "戰鬥速度+790,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28181,6 +29981,7 @@ return {
         rangeType = 0,
         id = 1457,
         des2 = "戰鬥速度+850,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28197,6 +29998,7 @@ return {
         rangeType = 0,
         id = 1459,
         des2 = "戰鬥速度+910,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28213,6 +30015,7 @@ return {
         rangeType = 0,
         id = 1461,
         des2 = "戰鬥速度+970,總戰鬥速度+4%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28229,6 +30032,7 @@ return {
         rangeType = 0,
         id = 75017,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28245,6 +30049,7 @@ return {
         rangeType = 0,
         id = 1465,
         des2 = "戰鬥速度+1060,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28261,6 +30066,7 @@ return {
         rangeType = 0,
         id = 1467,
         des2 = "戰鬥速度+1120,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28277,6 +30083,7 @@ return {
         rangeType = 0,
         id = 1469,
         des2 = "戰鬥速度+1180,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28293,6 +30100,7 @@ return {
         rangeType = 0,
         id = 1471,
         des2 = "戰鬥速度+1240,總戰鬥速度+6%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28309,6 +30117,7 @@ return {
         rangeType = 0,
         id = 1473,
         des2 = "戰鬥速度+1300,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28325,6 +30134,7 @@ return {
         rangeType = 0,
         id = 1475,
         des2 = "戰鬥速度+1330,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28341,6 +30151,7 @@ return {
         rangeType = 0,
         id = 1477,
         des2 = "戰鬥速度+1390,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28357,6 +30168,7 @@ return {
         rangeType = 0,
         id = 1479,
         des2 = "戰鬥速度+1450,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28373,6 +30185,7 @@ return {
         rangeType = 0,
         id = 70028,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28388,6 +30201,7 @@ return {
         rangeType = 0,
         id = 1483,
         des2 = "戰鬥速度+1570,總戰鬥速度+8%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28404,6 +30218,7 @@ return {
         rangeType = 0,
         id = 3913,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28418,6 +30233,7 @@ return {
         rangeType = 0,
         id = 1487,
         des2 = "戰鬥速度+1660,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28434,6 +30250,7 @@ return {
         rangeType = 0,
         id = 1489,
         des2 = "戰鬥速度+1720,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28450,6 +30267,7 @@ return {
         rangeType = 0,
         id = 1491,
         des2 = "戰鬥速度+1780,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28466,6 +30284,7 @@ return {
         rangeType = 0,
         id = 1493,
         des2 = "戰鬥速度+1840,總戰鬥速度+10%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28482,6 +30301,7 @@ return {
         rangeType = 0,
         id = 1495,
         des2 = "戰鬥速度+1900,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28498,6 +30318,7 @@ return {
         rangeType = 0,
         id = 1497,
         des2 = "戰鬥速度+1930,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28514,6 +30335,7 @@ return {
         rangeType = 0,
         id = 1499,
         des2 = "戰鬥速度+1990,總戰鬥速度+12%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28530,6 +30352,7 @@ return {
         rangeType = 0,
         id = 3001,
         des2 = "飛艦生命+0.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28545,6 +30368,7 @@ return {
         rangeType = 0,
         id = 3005,
         des2 = "飛艦生命+2.08%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28560,6 +30384,7 @@ return {
         rangeType = 0,
         id = 3009,
         des2 = "飛艦生命+3.75%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28575,6 +30400,7 @@ return {
         rangeType = 0,
         id = 3013,
         des2 = "飛艦生命+5.42%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28590,6 +30416,7 @@ return {
         rangeType = 0,
         id = 40020,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28606,6 +30433,7 @@ return {
         rangeType = 0,
         id = 1511,
         des2 = "戰鬥速度+2320,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28622,6 +30450,7 @@ return {
         rangeType = 0,
         id = 70029,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28637,6 +30466,7 @@ return {
         rangeType = 0,
         id = 1515,
         des2 = "戰鬥速度+2440,總戰鬥速度+14%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28653,6 +30483,7 @@ return {
         rangeType = 0,
         id = 1517,
         des2 = "戰鬥速度+2500,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28669,6 +30500,7 @@ return {
         rangeType = 0,
         id = 1519,
         des2 = "戰鬥速度+2530,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28685,6 +30517,7 @@ return {
         rangeType = 0,
         id = 1521,
         des2 = "戰鬥速度+2590,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28701,6 +30534,7 @@ return {
         rangeType = 0,
         id = 1523,
         des2 = "戰鬥速度+2650,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28717,6 +30551,7 @@ return {
         rangeType = 0,
         id = 1525,
         des2 = "戰鬥速度+2710,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28733,6 +30568,7 @@ return {
         rangeType = 0,
         id = 1527,
         des2 = "戰鬥速度+2770,總戰鬥速度+16%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28749,6 +30585,7 @@ return {
         rangeType = 0,
         id = 71053,
         des2 = "",
+        minipack = 0,
         name = "",
         rangePrams = {
         },
@@ -28765,6 +30602,7 @@ return {
         rangeType = 0,
         id = 3212,
         des2 = "飛艦防禦+5.00%",
+        minipack = 0,
         name = "",
         rangePrams = {
         },

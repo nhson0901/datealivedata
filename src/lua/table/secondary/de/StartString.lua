@@ -605,7 +605,7 @@ return {
     },
     [270002] = {
         id = 270002,
-        text = "Wir haben festgestellt, dass das kein neues Konto ist. Um das Spiel zu starten, musst du %s Ressourcen herunterladen. Jetzt mit dem Herunterladen beginnen?",
+        text = "Um das Spiel zu starten, musst du %s Ressourcen herunterladen. Jetzt mit dem Herunterladen beginnen?",
     },
     [800014] = {
         id = 800014,
@@ -613,7 +613,7 @@ return {
     },
     [270003] = {
         id = 270003,
-        text = "Wir haben festgestellt, dass das kein neues Konto ist. Um das Spiel zu starten, musst du %s Ressourcen herunterladen. Jetzt mit dem Herunterladen beginnen?\n\n*Es wird empfohlen, das Herunterladen über WiFi zu starten",
+        text = "Um das Spiel zu starten, musst du %s Ressourcen herunterladen. Jetzt mit dem Herunterladen beginnen?\n\n*Es wird empfohlen, das Herunterladen über WiFi zu starten",
     },
     [800015] = {
         id = 800015,

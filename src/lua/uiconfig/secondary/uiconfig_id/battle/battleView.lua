@@ -1373,7 +1373,7 @@ local t =
 													classname = "MELoadingBar",
 													direction = "0",
 													dstBlendFunc = "771",
-													height = "22",
+													height = "2",
 													ignoreSize = "True",
 													name = "LoadingBar",
 													percent = "100",
@@ -1387,7 +1387,7 @@ local t =
 													{
 														
 													},
-													width = "114",
+													width = "2",
 													ZOrder = "1",
 												},
 											},
@@ -2027,7 +2027,7 @@ local t =
 									DesignType = "0",
 									DesignWidth = "960",
 									dstBlendFunc = "771",
-									height = "68",
+									height = "129",
 									ignoreSize = "False",
 									name = "Panel_boss",
 									sizepercentx = "0",
@@ -2037,10 +2037,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 531,
-										PositionY = 570,
-										RightPosition = 311,
-										TopPosition = 2,
+										PositionX = 450,
+										PositionY = 506,
+										RightPosition = 284,
+										TopPosition = 5,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 3,
@@ -2051,7 +2051,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "294",
+									width = "402",
 									ZOrder = "1",
 									components = 
 									{
@@ -2066,7 +2066,7 @@ local t =
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "68",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_affix_bg1",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -2076,10 +2076,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 147,
-												PositionY = 30,
+												PositionX = 203,
+												PositionY = 91,
 											},
-											width = "294",
+											width = "406",
 											ZOrder = "1",
 										},
 										{
@@ -2092,7 +2092,7 @@ local t =
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "68",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_affix_bg2",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -2102,10 +2102,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 181,
-												PositionY = 30,
+												PositionX = 213,
+												PositionY = 91,
 											},
-											width = "348",
+											width = "406",
 											ZOrder = "1",
 										},
 										{
@@ -2128,8 +2128,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 47,
-												PositionY = 31,
+												PositionX = 57,
+												PositionY = 92,
 												relativeToName = "Panel",
 											},
 											width = "58",
@@ -2243,8 +2243,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 167,
-												PositionY = 50,
+												PositionX = 184,
+												PositionY = 112,
 												relativeToName = "Panel",
 											},
 											width = "202",
@@ -2301,8 +2301,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 174,
-												PositionY = 40,
+												PositionX = 191,
+												PositionY = 102,
 												relativeToName = "Panel",
 											},
 											width = "206",
@@ -2469,14 +2469,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = true,
 												StrokeColor = "#FF22343F",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_name",
 											nTextAlign = "1",
@@ -2490,10 +2490,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 79,
-												PositionY = 16,
+												PositionX = 87,
+												PositionY = 78,
 											},
-											width = "214",
+											width = "191",
 											ZOrder = "1",
 										},
 										{
@@ -2536,8 +2536,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 277,
-												PositionY = 44,
+												PositionX = 294,
+												PositionY = 106,
 											},
 											width = "90",
 											ZOrder = "1",
@@ -2567,7 +2567,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 287,
+												PositionX = 304,
+												PositionY = 62,
 												relativeToName = "Panel",
 											},
 											uipanelviewmodel = 
@@ -2582,7 +2583,7 @@ local t =
 											controlID = "Label_loadbar_num_Panel_boss_Panel_top_Panel_ui_Panel-battleView_ui_battle_Game",
 											UUID = "1b118a3a_5c59_429c_a547_bccd83aeeac0",
 											anchorPoint = "False",
-											anchorPointX = "0",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -2618,8 +2619,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 309,
-												PositionY = 15,
+												PositionX = 301,
+												PositionY = 77,
 											},
 											width = "22",
 											ZOrder = "1",
@@ -2644,8 +2645,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 90,
-												PositionY = -17,
+												PositionX = 111,
+												PositionY = 40,
 											},
 											width = "34",
 											ZOrder = "1",
@@ -2670,8 +2671,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 130,
-												PositionY = -17,
+												PositionX = 151,
+												PositionY = 40,
 											},
 											width = "34",
 											ZOrder = "1",
@@ -2696,8 +2697,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 170,
-												PositionY = -17,
+												PositionX = 191,
+												PositionY = 40,
 											},
 											width = "34",
 											ZOrder = "1",
@@ -2722,8 +2723,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 210,
-												PositionY = -17,
+												PositionX = 231,
+												PositionY = 40,
 											},
 											width = "34",
 											ZOrder = "1",
@@ -12349,7 +12350,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 58,
-										PositionY = 479,
+										PositionY = 480,
 										LeftPositon = 58,
 										TopPosition = 120,
 										relativeToName = "Panel_top",

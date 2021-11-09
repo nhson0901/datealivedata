@@ -8,6 +8,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75,6 +76,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -150,6 +152,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "90013",
         LengthN4 = {
         },
@@ -220,6 +223,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -292,6 +296,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -359,6 +364,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -426,6 +432,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -502,6 +509,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -571,6 +579,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -638,6 +647,7 @@ return {
             [1] = 800,
             [2] = 2160,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -710,6 +720,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -779,6 +790,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -845,6 +857,7 @@ return {
             [1] = 640,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -914,6 +927,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9364",
         LengthN4 = {
         },
@@ -976,6 +990,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1038,6 +1053,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9385",
         LengthN4 = {
         },
@@ -1093,6 +1109,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9456",
         LengthN4 = {
         },
@@ -1144,6 +1161,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1204,6 +1222,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1269,6 +1288,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1336,6 +1356,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1402,6 +1423,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1458,6 +1480,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1525,6 +1548,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9401",
         LengthN4 = {
         },
@@ -1577,6 +1601,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9432",
         LengthN4 = {
         },
@@ -1639,6 +1664,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1691,6 +1717,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1761,6 +1788,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9491",
         LengthN4 = {
         },
@@ -1823,6 +1851,7 @@ return {
             [1] = 600,
             [2] = 3280,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1885,6 +1914,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -1955,6 +1985,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2030,6 +2061,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2105,6 +2137,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2177,6 +2210,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2247,6 +2281,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2319,6 +2354,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "90016",
         LengthN4 = {
         },
@@ -2386,6 +2422,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2452,6 +2489,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2528,6 +2566,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2594,6 +2633,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2661,6 +2701,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2733,6 +2774,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2789,6 +2831,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2856,6 +2899,7 @@ return {
             [1] = 350,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2908,6 +2952,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -2980,6 +3025,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3050,6 +3096,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3117,6 +3164,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3187,6 +3235,7 @@ return {
             [1] = 250,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3239,6 +3288,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3309,6 +3359,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3374,6 +3425,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3444,6 +3496,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3509,6 +3562,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90018",
         LengthN4 = {
         },
@@ -3576,6 +3630,7 @@ return {
             [1] = 650,
             [2] = 3200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3628,6 +3683,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3695,6 +3751,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3760,6 +3817,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70002",
         LengthN4 = {
         },
@@ -3816,6 +3874,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -3881,6 +3940,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "70024",
         LengthN4 = {
         },
@@ -3948,6 +4008,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4013,6 +4074,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4088,6 +4150,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4155,6 +4218,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4222,6 +4286,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4289,6 +4354,7 @@ return {
             [1] = 500,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4341,6 +4407,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4407,6 +4474,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4477,6 +4545,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4542,6 +4611,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4609,6 +4679,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4676,6 +4747,7 @@ return {
             [1] = 100,
             [2] = 1600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4741,6 +4813,7 @@ return {
             [1] = 150,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4808,6 +4881,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -4880,6 +4954,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9366",
         LengthN4 = {
         },
@@ -4942,6 +5017,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5004,6 +5080,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9386",
         LengthN4 = {
         },
@@ -5059,6 +5136,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9457",
         LengthN4 = {
         },
@@ -5108,6 +5186,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5163,6 +5242,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5219,6 +5299,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5291,6 +5372,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5358,6 +5440,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5428,6 +5511,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9403",
         LengthN4 = {
         },
@@ -5480,6 +5564,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9434",
         LengthN4 = {
         },
@@ -5542,6 +5627,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5594,6 +5680,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9492",
         LengthN4 = {
         },
@@ -5656,6 +5743,7 @@ return {
             [1] = 350,
             [2] = 2350,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5718,6 +5806,7 @@ return {
             [1] = 0,
             [2] = 1500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5777,6 +5866,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5844,6 +5934,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5914,6 +6005,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -5981,6 +6073,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6053,6 +6146,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6123,6 +6217,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6175,6 +6270,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6237,6 +6333,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6306,6 +6403,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6376,6 +6474,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6446,6 +6545,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6502,6 +6602,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90021",
         LengthN4 = {
         },
@@ -6569,6 +6670,7 @@ return {
             [1] = 650,
             [2] = 3200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6621,6 +6723,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6687,6 +6790,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6763,6 +6867,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6829,6 +6934,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6901,6 +7007,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -6968,6 +7075,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "101",
         LengthN4 = {
         },
@@ -7035,6 +7143,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90023",
         LengthN4 = {
         },
@@ -7105,6 +7214,7 @@ return {
             [1] = 500,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7157,6 +7267,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7227,6 +7338,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7297,6 +7409,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7367,6 +7480,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90025",
         LengthN4 = {
         },
@@ -7434,6 +7548,7 @@ return {
         monsterBornLimit  = 0,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7509,6 +7624,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600030",
         LengthN4 = {
         },
@@ -7576,6 +7692,7 @@ return {
             [1] = 0,
             [2] = 1386,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7653,6 +7770,7 @@ return {
             [1] = 680,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7718,6 +7836,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7780,6 +7899,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7850,6 +7970,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7917,6 +8038,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -7989,6 +8111,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "103",
         LengthN4 = {
         },
@@ -8056,6 +8179,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8126,6 +8250,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8196,6 +8321,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8261,6 +8387,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8331,6 +8458,7 @@ return {
             [1] = 150,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8398,6 +8526,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8467,6 +8596,7 @@ return {
             [1] = 150,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8542,6 +8672,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8604,6 +8735,7 @@ return {
             [1] = 100,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8676,6 +8808,7 @@ return {
             [1] = 640,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8745,6 +8878,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8820,6 +8954,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8894,6 +9029,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -8961,6 +9097,7 @@ return {
             [1] = 150,
             [2] = 2650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -9028,6 +9165,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -9095,6 +9233,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -9166,6 +9305,7 @@ return {
             [1] = 640,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -9235,6 +9375,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9368",
         LengthN4 = {
         },
@@ -9297,6 +9438,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -9367,6 +9509,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9387",
         LengthN4 = {
         },
@@ -9423,6 +9566,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9458",
         LengthN4 = {
         },
@@ -9474,6 +9618,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -9530,6 +9675,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -9597,6 +9743,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -9667,6 +9814,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9405",
         LengthN4 = {
         },
@@ -9719,6 +9867,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9436",
         LengthN4 = {
         },
@@ -9781,6 +9930,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -9833,6 +9983,7 @@ return {
             [1] = 200,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9469",
         LengthN4 = {
         },
@@ -9885,6 +10036,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9493",
         LengthN4 = {
         },
@@ -9947,6 +10099,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10009,6 +10162,7 @@ return {
             [1] = 150,
             [2] = 2580,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10071,6 +10225,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10133,6 +10288,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10205,6 +10361,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10277,6 +10434,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10349,6 +10507,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10414,6 +10573,7 @@ return {
             [1] = 650,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10486,6 +10646,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10558,6 +10719,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10630,6 +10792,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10705,6 +10868,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10771,6 +10935,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10838,6 +11003,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -10915,6 +11081,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "201",
         LengthN4 = {
         },
@@ -10982,6 +11149,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11044,6 +11212,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11119,6 +11288,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11191,6 +11361,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11263,6 +11434,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11330,6 +11502,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600033",
         LengthN4 = {
         },
@@ -11402,6 +11575,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11474,6 +11648,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11526,6 +11701,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "203",
         LengthN4 = {
         },
@@ -11596,6 +11772,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "50002",
         LengthN4 = {
         },
@@ -11670,6 +11847,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11735,6 +11913,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11802,6 +11981,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11864,6 +12044,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -11931,6 +12112,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70011",
         LengthN4 = {
         },
@@ -11987,6 +12169,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12052,6 +12235,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12119,6 +12303,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12189,6 +12374,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12256,6 +12442,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12326,6 +12513,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12396,6 +12584,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12462,6 +12651,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12532,6 +12722,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12598,6 +12789,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12665,6 +12857,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12732,6 +12925,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12798,6 +12992,7 @@ return {
             [1] = 150,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12865,6 +13060,7 @@ return {
             [1] = 900,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -12930,6 +13126,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13002,6 +13199,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9340",
         LengthN4 = {
         },
@@ -13059,6 +13257,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9369",
         LengthN4 = {
         },
@@ -13121,6 +13320,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13183,6 +13383,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9389",
         LengthN4 = {
         },
@@ -13241,6 +13442,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13311,6 +13513,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13378,6 +13581,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13449,6 +13653,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13505,6 +13710,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9407",
         LengthN4 = {
         },
@@ -13557,6 +13763,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9437",
         LengthN4 = {
         },
@@ -13619,6 +13826,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13681,6 +13889,7 @@ return {
             [1] = 50,
             [2] = 2250,
         },
+        minipack = 0,
         op = "9471",
         LengthN4 = {
         },
@@ -13733,6 +13942,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9495",
         LengthN4 = {
         },
@@ -13795,6 +14005,7 @@ return {
             [1] = 10,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13857,6 +14068,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13927,6 +14139,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -13994,6 +14207,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14069,6 +14283,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14144,6 +14359,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14211,6 +14427,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14273,6 +14490,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14343,6 +14561,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14420,6 +14639,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14490,6 +14710,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14560,6 +14781,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14635,6 +14857,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14707,6 +14930,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14772,6 +14996,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14838,6 +15063,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14904,6 +15130,7 @@ return {
             [1] = 650,
             [2] = 3200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -14966,6 +15193,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "80001",
         LengthN4 = {
         },
@@ -15068,6 +15296,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15138,6 +15367,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15210,6 +15440,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "301",
         LengthN4 = {
         },
@@ -15277,6 +15508,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15339,6 +15571,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15406,6 +15639,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600003",
         LengthN4 = {
         },
@@ -15473,6 +15707,7 @@ return {
             [1] = 500,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15535,6 +15770,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "80002",
         LengthN4 = {
         },
@@ -15610,6 +15846,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15685,6 +15922,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15755,6 +15993,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15825,6 +16064,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15891,6 +16131,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -15958,6 +16199,7 @@ return {
             [1] = 250,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16020,6 +16262,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "80003",
         LengthN4 = {
         },
@@ -16076,6 +16319,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16148,6 +16392,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16215,6 +16460,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16295,6 +16541,7 @@ return {
             [1] = 600,
             [2] = 2100,
         },
+        minipack = 0,
         op = "30006",
         LengthN4 = {
         },
@@ -16366,6 +16613,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16431,6 +16679,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16501,6 +16750,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16563,6 +16813,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16633,6 +16884,7 @@ return {
             [1] = 200,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16695,6 +16947,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16770,6 +17023,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16840,6 +17094,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -16912,6 +17167,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "60005",
         LengthN4 = {
         },
@@ -16979,6 +17235,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17046,6 +17303,7 @@ return {
             [1] = 700,
             [2] = 2160,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17111,6 +17369,7 @@ return {
             [1] = 640,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17167,6 +17426,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17233,6 +17493,7 @@ return {
             [1] = 800,
             [2] = 2160,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17305,6 +17566,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17374,6 +17636,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17443,6 +17706,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17518,6 +17782,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17590,6 +17855,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9342",
         LengthN4 = {
         },
@@ -17647,6 +17913,7 @@ return {
             [1] = 150,
             [2] = 1600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17719,6 +17986,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17781,6 +18049,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9391",
         LengthN4 = {
         },
@@ -17859,6 +18128,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17915,6 +18185,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -17980,6 +18251,7 @@ return {
             [1] = 350,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18042,6 +18314,7 @@ return {
             [1] = 100,
             [2] = 2300,
         },
+        minipack = 0,
         op = "91003",
         LengthN4 = {
         },
@@ -18098,6 +18371,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18165,6 +18439,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18232,6 +18507,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18301,6 +18577,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9439",
         LengthN4 = {
         },
@@ -18363,6 +18640,7 @@ return {
             [1] = 100,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9473",
         LengthN4 = {
         },
@@ -18415,6 +18693,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9497",
         LengthN4 = {
         },
@@ -18477,6 +18756,7 @@ return {
             [1] = 10,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18539,6 +18819,7 @@ return {
             [1] = 250,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18601,6 +18882,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "92001",
         LengthN4 = {
         },
@@ -18676,6 +18958,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18746,6 +19029,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18802,6 +19086,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18874,6 +19159,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -18946,6 +19232,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19008,6 +19295,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19075,6 +19363,7 @@ return {
             [1] = 650,
             [2] = 3200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19137,6 +19426,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "92003",
         LengthN4 = {
         },
@@ -19199,6 +19489,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19271,6 +19562,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19327,6 +19619,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19394,6 +19687,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19471,6 +19765,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19541,6 +19836,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19607,6 +19903,7 @@ return {
             [1] = 500,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19669,6 +19966,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "92005",
         LengthN4 = {
         },
@@ -19725,6 +20023,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19787,6 +20086,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19857,6 +20157,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "401",
         LengthN4 = {
         },
@@ -19929,6 +20230,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -19994,6 +20296,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20061,6 +20364,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600005",
         LengthN4 = {
         },
@@ -20126,6 +20430,7 @@ return {
             [1] = 250,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20188,6 +20493,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "1001",
         LengthN4 = {
         },
@@ -20255,6 +20561,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20325,6 +20632,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20392,6 +20700,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20459,6 +20768,7 @@ return {
             [1] = 200,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20521,6 +20831,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "1003",
         LengthN4 = {
         },
@@ -20591,6 +20902,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20658,6 +20970,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20710,6 +21023,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "403",
         LengthN4 = {
         },
@@ -20777,6 +21091,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20851,6 +21166,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20920,6 +21236,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -20990,6 +21307,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21060,6 +21378,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21125,6 +21444,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70004",
         LengthN4 = {
         },
@@ -21187,6 +21507,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70031",
         LengthN4 = {
         },
@@ -21253,6 +21574,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21315,6 +21637,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21382,6 +21705,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21448,6 +21772,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21520,6 +21845,7 @@ return {
             [1] = 100,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21585,6 +21911,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21652,6 +21979,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21722,6 +22050,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21789,6 +22118,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21861,6 +22191,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21928,6 +22259,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -21994,6 +22326,7 @@ return {
             [1] = 150,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -22066,6 +22399,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -22138,6 +22472,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9344",
         LengthN4 = {
         },
@@ -22195,6 +22530,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9372",
         LengthN4 = {
         },
@@ -22257,6 +22593,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9392",
         LengthN4 = {
         },
@@ -22315,6 +22652,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -22387,6 +22725,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -22459,6 +22798,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -22529,6 +22869,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "300003",
         LengthN4 = {
         },
@@ -22600,6 +22941,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -22656,6 +22998,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9411",
         LengthN4 = {
         },
@@ -22708,6 +23051,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9441",
         LengthN4 = {
         },
@@ -22770,6 +23114,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9474",
         LengthN4 = {
         },
@@ -22827,6 +23172,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -22894,6 +23240,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -22946,6 +23293,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "300005",
         LengthN4 = {
         },
@@ -23017,6 +23365,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23089,6 +23438,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23156,6 +23506,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23228,6 +23579,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23295,6 +23647,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23357,6 +23710,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23423,6 +23777,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "300101",
         LengthN4 = {
         },
@@ -23495,6 +23850,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23562,6 +23918,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23634,6 +23991,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23690,6 +24048,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23757,6 +24116,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23823,6 +24183,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -23894,6 +24255,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "300103",
         LengthN4 = {
         },
@@ -23969,6 +24331,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24039,6 +24402,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24105,6 +24469,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24161,6 +24526,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24223,6 +24589,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24293,6 +24660,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "600007",
         LengthN4 = {
         },
@@ -24363,6 +24731,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "300104",
         LengthN4 = {
         },
@@ -24419,6 +24788,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24491,6 +24861,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24547,6 +24918,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24617,6 +24989,7 @@ return {
             [1] = 700,
             [2] = 2160,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24682,6 +25055,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24751,6 +25125,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24818,6 +25193,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24869,6 +25245,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24931,6 +25308,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -24998,6 +25376,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25070,6 +25449,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25137,6 +25517,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25204,6 +25585,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25260,6 +25642,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25326,6 +25709,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25392,6 +25776,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25461,6 +25846,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25528,6 +25914,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25595,6 +25982,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25670,6 +26058,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25739,6 +26128,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25806,6 +26196,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25876,6 +26267,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -25943,6 +26335,7 @@ return {
             [1] = 640,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26010,6 +26403,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26077,6 +26471,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26133,6 +26528,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9346",
         LengthN4 = {
         },
@@ -26190,6 +26586,7 @@ return {
             [1] = 1400,
             [2] = 2900,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26252,6 +26649,7 @@ return {
             [1] = 0,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26319,6 +26717,7 @@ return {
             [1] = 0,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26385,6 +26784,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9464",
         LengthN4 = {
         },
@@ -26441,6 +26841,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26511,6 +26912,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "300201",
         LengthN4 = {
         },
@@ -26583,6 +26985,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26650,6 +27053,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9413",
         LengthN4 = {
         },
@@ -26707,6 +27111,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9443",
         LengthN4 = {
         },
@@ -26769,6 +27174,7 @@ return {
             [1] = 350,
             [2] = 2350,
         },
+        minipack = 0,
         op = "9475",
         LengthN4 = {
         },
@@ -26826,6 +27232,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26893,6 +27300,7 @@ return {
             [1] = 500,
             [2] = 2370,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -26945,6 +27353,7 @@ return {
             [1] = 650,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27015,6 +27424,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27090,6 +27500,7 @@ return {
             [1] = 0,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27157,6 +27568,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27227,6 +27639,7 @@ return {
             [1] = 0,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27293,6 +27706,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "300203",
         LengthN4 = {
         },
@@ -27355,6 +27769,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27427,6 +27842,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27498,6 +27914,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27573,6 +27990,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27643,6 +28061,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27709,6 +28128,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "300205",
         LengthN4 = {
         },
@@ -27775,6 +28195,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27831,6 +28252,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27901,6 +28323,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -27967,6 +28390,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28032,6 +28456,7 @@ return {
             [1] = 650,
             [2] = 3200,
         },
+        minipack = 0,
         op = "9509",
         LengthN4 = {
         },
@@ -28094,6 +28519,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28164,6 +28590,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28230,6 +28657,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28297,6 +28725,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28369,6 +28798,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28441,6 +28871,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28507,6 +28938,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28579,6 +29011,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28646,6 +29079,7 @@ return {
             [1] = 500,
             [2] = 2300,
         },
+        minipack = 0,
         op = "9510",
         LengthN4 = {
         },
@@ -28708,6 +29142,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28774,6 +29209,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28836,6 +29272,7 @@ return {
             [1] = 200,
             [2] = 2900,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28898,6 +29335,7 @@ return {
             [1] = 600,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -28962,6 +29400,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29024,6 +29463,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29080,6 +29520,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29150,6 +29591,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29225,6 +29667,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29292,6 +29735,7 @@ return {
             [1] = 250,
             [2] = 2400,
         },
+        minipack = 0,
         op = "9511",
         LengthN4 = {
         },
@@ -29354,6 +29798,7 @@ return {
             [1] = 100,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29416,6 +29861,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29482,6 +29928,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29538,6 +29985,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29594,6 +30042,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29661,6 +30110,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29727,6 +30177,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29794,6 +30245,7 @@ return {
             [1] = 250,
             [2] = 2400,
         },
+        minipack = 0,
         op = "9512",
         LengthN4 = {
         },
@@ -29856,6 +30308,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29931,6 +30384,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -29998,6 +30452,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "70006",
         LengthN4 = {
         },
@@ -30065,6 +30520,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70015",
         LengthN4 = {
         },
@@ -30130,6 +30586,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70021",
         LengthN4 = {
         },
@@ -30197,6 +30654,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30272,6 +30730,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30338,6 +30797,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30394,6 +30854,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30466,6 +30927,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30533,6 +30995,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30605,6 +31068,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30670,6 +31134,7 @@ return {
             [1] = 200,
             [2] = 2400,
         },
+        minipack = 0,
         op = "9513",
         LengthN4 = {
         },
@@ -30732,6 +31197,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30804,6 +31270,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30871,6 +31338,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -30941,6 +31409,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31007,6 +31476,7 @@ return {
             [1] = 150,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31074,6 +31544,7 @@ return {
             [1] = 150,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31136,6 +31607,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31192,6 +31664,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9348",
         LengthN4 = {
         },
@@ -31249,6 +31722,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9374",
         LengthN4 = {
         },
@@ -31311,6 +31785,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31383,6 +31858,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9395",
         LengthN4 = {
         },
@@ -31441,6 +31917,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9466",
         LengthN4 = {
         },
@@ -31497,6 +31974,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31563,6 +32041,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31619,6 +32098,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31675,6 +32155,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31747,6 +32228,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9415",
         LengthN4 = {
         },
@@ -31804,6 +32286,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31866,6 +32349,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -31936,6 +32420,7 @@ return {
             [1] = 200,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9476",
         LengthN4 = {
         },
@@ -31993,6 +32478,7 @@ return {
             [1] = 100,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9502",
         LengthN4 = {
         },
@@ -32055,6 +32541,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32107,6 +32594,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32179,6 +32667,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32246,6 +32735,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32321,6 +32811,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32388,6 +32879,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32459,6 +32951,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32531,6 +33024,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32603,6 +33097,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32675,6 +33170,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32750,6 +33246,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32806,6 +33303,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32878,6 +33376,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -32945,6 +33444,7 @@ return {
             [1] = 250,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9519",
         LengthN4 = {
         },
@@ -33011,6 +33511,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33083,6 +33584,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33149,6 +33651,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33216,6 +33719,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33282,6 +33786,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33352,6 +33857,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33418,6 +33924,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33488,6 +33995,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33553,6 +34061,7 @@ return {
             [1] = 250,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9521",
         LengthN4 = {
         },
@@ -33615,6 +34124,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33679,6 +34189,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33749,6 +34260,7 @@ return {
             [1] = 500,
             [2] = 2370,
         },
+        minipack = 0,
         op = "9482",
         LengthN4 = {
         },
@@ -33816,6 +34328,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33872,6 +34385,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -33928,6 +34442,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600013",
         LengthN4 = {
         },
@@ -33995,6 +34510,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -34051,6 +34567,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600021",
         LengthN4 = {
         },
@@ -34123,6 +34640,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600041",
         LengthN4 = {
         },
@@ -34190,6 +34708,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -34262,6 +34781,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -34334,6 +34854,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -34406,6 +34927,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600039",
         LengthN4 = {
         },
@@ -34471,6 +34993,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600037",
         LengthN4 = {
         },
@@ -34543,6 +35066,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -34610,6 +35134,7 @@ return {
             [1] = 250,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9523",
         LengthN4 = {
         },
@@ -34672,6 +35197,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600035",
         LengthN4 = {
         },
@@ -34739,6 +35265,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -34806,6 +35333,7 @@ return {
             [1] = 640,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -34875,6 +35403,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -34945,6 +35474,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35011,6 +35541,7 @@ return {
             [1] = 100,
             [2] = 1600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35063,6 +35594,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35130,6 +35662,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35202,6 +35735,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600043",
         LengthN4 = {
         },
@@ -35269,6 +35803,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35344,6 +35879,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600019",
         LengthN4 = {
         },
@@ -35411,6 +35947,7 @@ return {
             [1] = 1000,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35476,6 +36013,7 @@ return {
             [1] = 1400,
             [2] = 2900,
         },
+        minipack = 0,
         op = "30008",
         LengthN4 = {
         },
@@ -35545,6 +36083,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35612,6 +36151,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35678,6 +36218,7 @@ return {
             [1] = 250,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9524",
         LengthN4 = {
         },
@@ -35740,6 +36281,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35807,6 +36349,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35872,6 +36415,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -35944,6 +36488,7 @@ return {
             [1] = 150,
             [2] = 2100,
         },
+        minipack = 0,
         op = "93005",
         LengthN4 = {
         },
@@ -36000,6 +36545,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36070,6 +36616,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "600018",
         LengthN4 = {
         },
@@ -36140,6 +36687,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36196,6 +36744,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36268,6 +36817,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36335,6 +36885,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36402,6 +36953,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "60016",
         LengthN4 = {
         },
@@ -36469,6 +37021,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36536,6 +37089,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36606,6 +37160,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36675,6 +37230,7 @@ return {
             [1] = 150,
             [2] = 2650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36740,6 +37296,7 @@ return {
             [1] = 250,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9525",
         LengthN4 = {
         },
@@ -36802,6 +37359,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -36869,6 +37427,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600011",
         LengthN4 = {
         },
@@ -36941,6 +37500,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37008,6 +37568,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37074,6 +37635,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37143,6 +37705,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37213,6 +37776,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37277,6 +37841,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37343,6 +37908,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37410,6 +37976,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37482,6 +38049,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9350",
         LengthN4 = {
         },
@@ -37539,6 +38107,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9375",
         LengthN4 = {
         },
@@ -37601,6 +38170,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37668,6 +38238,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9397",
         LengthN4 = {
         },
@@ -37725,6 +38296,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37781,6 +38353,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37851,6 +38424,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37918,6 +38492,7 @@ return {
             [1] = 150,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -37983,6 +38558,7 @@ return {
             [1] = 600,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38047,6 +38623,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38109,6 +38686,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38176,6 +38754,7 @@ return {
             [1] = 600,
             [2] = 3800,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38238,6 +38817,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38304,6 +38884,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38371,6 +38952,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38438,6 +39020,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38513,6 +39096,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38583,6 +39167,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38653,6 +39238,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38720,6 +39306,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9417",
         LengthN4 = {
         },
@@ -38777,6 +39364,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38839,6 +39427,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -38906,6 +39495,7 @@ return {
             [1] = 600,
             [2] = 3280,
         },
+        minipack = 0,
         op = "9478",
         LengthN4 = {
         },
@@ -38968,6 +39558,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9503",
         LengthN4 = {
         },
@@ -39030,6 +39621,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39086,6 +39678,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39157,6 +39750,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39229,6 +39823,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "505",
         LengthN4 = {
         },
@@ -39295,6 +39890,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39361,6 +39957,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39428,6 +40025,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39503,6 +40101,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39569,6 +40168,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39621,6 +40221,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39688,6 +40289,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39755,6 +40357,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39826,6 +40429,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39898,6 +40502,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -39965,6 +40570,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40032,6 +40638,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40099,6 +40706,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40171,6 +40779,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40243,6 +40852,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40310,6 +40920,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40376,6 +40987,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40442,6 +41054,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40503,6 +41116,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40570,6 +41184,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40642,6 +41257,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40712,6 +41328,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40768,6 +41385,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40838,6 +41456,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40905,6 +41524,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -40975,6 +41595,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41045,6 +41666,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41115,6 +41737,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41182,6 +41805,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41249,6 +41873,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41320,6 +41945,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41386,6 +42012,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41456,6 +42083,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "503",
         LengthN4 = {
         },
@@ -41528,6 +42156,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41599,6 +42228,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41666,6 +42296,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41741,6 +42372,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41808,6 +42440,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41879,6 +42512,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -41951,6 +42585,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42007,6 +42642,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42069,6 +42705,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42139,6 +42776,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42209,6 +42847,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "501",
         LengthN4 = {
         },
@@ -42276,6 +42915,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42348,6 +42988,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42404,6 +43045,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42476,6 +43118,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600009",
         LengthN4 = {
         },
@@ -42548,6 +43191,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42620,6 +43264,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42692,6 +43337,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "405",
         LengthN4 = {
         },
@@ -42758,6 +43404,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42824,6 +43471,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42901,6 +43549,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -42968,6 +43617,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43024,6 +43674,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43101,6 +43752,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43171,6 +43823,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43238,6 +43891,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43305,6 +43959,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43372,6 +44027,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43444,6 +44100,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43519,6 +44176,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "305",
         LengthN4 = {
         },
@@ -43585,6 +44243,7 @@ return {
             [1] = 100,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43642,6 +44301,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "303",
         LengthN4 = {
         },
@@ -43709,6 +44369,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43784,6 +44445,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43859,6 +44521,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43929,6 +44592,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -43999,6 +44663,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44070,6 +44735,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44126,6 +44792,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "205",
         LengthN4 = {
         },
@@ -44192,6 +44859,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44266,6 +44934,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44338,6 +45007,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44408,6 +45078,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44480,6 +45151,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44552,6 +45224,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44608,6 +45281,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44678,6 +45352,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44743,6 +45418,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70016",
         LengthN4 = {
         },
@@ -44810,6 +45486,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44875,6 +45552,7 @@ return {
             [1] = 100,
             [2] = 2250,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -44946,6 +45624,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45016,6 +45695,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45083,6 +45763,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45154,6 +45835,7 @@ return {
             [1] = 900,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45226,6 +45908,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45296,6 +45979,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "105",
         LengthN4 = {
         },
@@ -45362,6 +46046,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45432,6 +46117,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45499,6 +46185,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45566,6 +46253,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45631,6 +46319,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45702,6 +46391,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45768,6 +46458,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45848,6 +46539,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45904,6 +46596,7 @@ return {
             [1] = 150,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -45976,6 +46669,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46032,6 +46726,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46088,6 +46783,7 @@ return {
             [1] = 100,
             [2] = 4090,
         },
+        minipack = 0,
         op = "9352",
         LengthN4 = {
         },
@@ -46145,6 +46841,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9376",
         LengthN4 = {
         },
@@ -46207,6 +46904,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46261,6 +46959,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9445",
         LengthN4 = {
         },
@@ -46312,6 +47011,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46368,6 +47068,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46440,6 +47141,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46507,6 +47209,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46579,6 +47282,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46635,6 +47339,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46697,6 +47402,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46767,6 +47473,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46834,6 +47541,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46904,6 +47612,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -46974,6 +47683,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47041,6 +47751,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47108,6 +47819,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47175,6 +47887,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47231,6 +47944,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47287,6 +48001,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9419",
         LengthN4 = {
         },
@@ -47344,6 +48059,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47406,6 +48122,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47468,6 +48185,7 @@ return {
             [1] = 500,
             [2] = 2370,
         },
+        minipack = 0,
         op = "9480",
         LengthN4 = {
         },
@@ -47535,6 +48253,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9504",
         LengthN4 = {
         },
@@ -47597,6 +48316,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47664,6 +48384,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47730,6 +48451,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47796,6 +48518,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47863,6 +48586,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -47933,6 +48657,7 @@ return {
             [1] = 300,
             [2] = 3600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48000,6 +48725,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48070,6 +48796,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48137,6 +48864,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48207,6 +48935,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48279,6 +49008,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48351,6 +49081,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48422,6 +49153,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48497,6 +49229,7 @@ return {
             [1] = 150,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48564,6 +49297,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48631,6 +49365,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48701,6 +49436,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48768,6 +49504,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48838,6 +49575,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48903,6 +49641,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -48969,6 +49708,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49041,6 +49781,7 @@ return {
             [1] = 150,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49108,6 +49849,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49174,6 +49916,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49230,6 +49973,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49282,6 +50026,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49349,6 +50094,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49424,6 +50170,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49489,6 +50236,7 @@ return {
             [1] = 150,
             [2] = 3600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49556,6 +50304,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49622,6 +50371,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49692,6 +50442,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49758,6 +50509,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49810,6 +50562,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49876,6 +50629,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -49942,6 +50696,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50004,6 +50759,7 @@ return {
             [1] = 200,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50056,6 +50812,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50123,6 +50880,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50193,6 +50951,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50263,6 +51022,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50333,6 +51093,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50399,6 +51160,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50465,6 +51227,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50521,6 +51284,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50583,6 +51347,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50655,6 +51420,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50722,6 +51488,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50794,6 +51561,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50859,6 +51627,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50915,6 +51684,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -50987,6 +51757,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600015",
         LengthN4 = {
         },
@@ -51054,6 +51825,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51121,6 +51893,7 @@ return {
             [1] = 350,
             [2] = 2400,
         },
+        minipack = 0,
         op = "9518",
         LengthN4 = {
         },
@@ -51183,6 +51956,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51245,6 +52019,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51317,6 +52092,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51389,6 +52165,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51461,6 +52238,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51533,6 +52311,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51589,6 +52368,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51664,6 +52444,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51736,6 +52517,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51803,6 +52585,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51875,6 +52658,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -51947,6 +52731,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52014,6 +52799,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52089,6 +52875,7 @@ return {
             [1] = 0,
             [2] = 1386,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52166,6 +52953,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52231,6 +53019,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52293,6 +53082,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52360,6 +53150,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52432,6 +53223,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52504,6 +53296,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52560,6 +53353,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52635,6 +53429,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52700,6 +53495,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52772,6 +53568,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52844,6 +53641,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52914,6 +53712,7 @@ return {
             [1] = 100,
             [2] = 1600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -52980,6 +53779,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53042,6 +53842,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53109,6 +53910,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53176,6 +53978,7 @@ return {
             [1] = 680,
             [2] = 2220,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53241,6 +54044,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9377",
         LengthN4 = {
         },
@@ -53303,6 +54107,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "60019",
         LengthN4 = {
         },
@@ -53370,6 +54175,7 @@ return {
             [1] = 1500,
             [2] = 3600,
         },
+        minipack = 0,
         op = "60003",
         LengthN4 = {
         },
@@ -53437,6 +54243,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53504,6 +54311,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53569,6 +54377,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53644,6 +54453,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53710,6 +54520,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53777,6 +54588,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53849,6 +54661,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53905,6 +54718,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -53975,6 +54789,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54042,6 +54857,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54108,6 +54924,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54175,6 +54992,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54242,6 +55060,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54309,6 +55128,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54379,6 +55199,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54449,6 +55270,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54524,6 +55346,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54594,6 +55417,7 @@ return {
             [1] = 100,
             [2] = 4090,
         },
+        minipack = 0,
         op = "9353",
         LengthN4 = {
         },
@@ -54651,6 +55475,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54707,6 +55532,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54772,6 +55598,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9446",
         LengthN4 = {
         },
@@ -54823,6 +55650,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54879,6 +55707,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -54946,6 +55775,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55013,6 +55843,7 @@ return {
             [1] = 150,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55080,6 +55911,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55150,6 +55982,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55222,6 +56055,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55288,6 +56122,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55350,6 +56185,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55415,6 +56251,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55471,6 +56308,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55527,6 +56365,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55583,6 +56422,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55655,6 +56495,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55722,6 +56563,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55797,6 +56639,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55864,6 +56707,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -55926,6 +56770,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56001,6 +56846,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56068,6 +56914,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9505",
         LengthN4 = {
         },
@@ -56130,6 +56977,7 @@ return {
             [1] = 150,
             [2] = 2650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56195,6 +57043,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56267,6 +57116,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56331,6 +57181,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56387,6 +57238,7 @@ return {
             [1] = 1500,
             [2] = 4000,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56467,6 +57319,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56534,6 +57387,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56590,6 +57444,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56662,6 +57517,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56737,6 +57593,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56804,6 +57661,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56870,6 +57728,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -56937,6 +57796,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57009,6 +57869,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57065,6 +57926,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57135,6 +57997,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57201,6 +58064,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57276,6 +58140,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57348,6 +58213,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57420,6 +58286,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57495,6 +58362,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57561,6 +58429,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57626,6 +58495,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57682,6 +58552,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57754,6 +58625,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57810,6 +58682,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57866,6 +58739,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -57938,6 +58812,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58003,6 +58878,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58059,6 +58935,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58126,6 +59003,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58193,6 +59071,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58249,6 +59128,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58319,6 +59199,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58391,6 +59272,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58457,6 +59339,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58513,6 +59396,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58579,6 +59463,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58644,6 +59529,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58700,6 +59586,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58775,6 +59662,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58841,6 +59729,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58897,6 +59786,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -58972,6 +59862,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59042,6 +59933,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59109,6 +60001,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59165,6 +60058,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59232,6 +60126,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59307,6 +60202,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59379,6 +60275,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59435,6 +60332,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59501,6 +60399,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59557,6 +60456,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59613,6 +60513,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59669,6 +60570,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59725,6 +60627,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59781,6 +60684,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59853,6 +60757,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59925,6 +60830,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -59991,6 +60897,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60058,6 +60965,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60128,6 +61036,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60200,6 +61109,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60270,6 +61180,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60337,6 +61248,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60412,6 +61324,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60484,6 +61397,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60536,6 +61450,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60606,6 +61521,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60672,6 +61588,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60744,6 +61661,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60816,6 +61734,7 @@ return {
             [1] = 0,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60881,6 +61800,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -60956,6 +61876,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61028,6 +61949,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61098,6 +62020,7 @@ return {
             [1] = 100,
             [2] = 2150,
         },
+        minipack = 0,
         op = "60007",
         LengthN4 = {
         },
@@ -61165,6 +62088,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61232,6 +62156,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61302,6 +62227,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61372,6 +62298,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61438,6 +62365,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61513,6 +62441,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61588,6 +62517,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61653,6 +62583,7 @@ return {
             [1] = 100,
             [2] = 2000,
         },
+        minipack = 0,
         op = "70007",
         LengthN4 = {
         },
@@ -61709,6 +62640,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61774,6 +62706,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61830,6 +62763,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61892,6 +62826,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -61958,6 +62893,7 @@ return {
             [1] = 900,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62030,6 +62966,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62102,6 +63039,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62174,6 +63112,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9371",
         LengthN4 = {
         },
@@ -62236,6 +63175,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62306,6 +63246,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62381,6 +63322,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62448,6 +63390,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62523,6 +63466,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62590,6 +63534,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62646,6 +63591,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62712,6 +63658,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62779,6 +63726,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62845,6 +63793,7 @@ return {
             [1] = 150,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62912,6 +63861,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -62978,6 +63928,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63034,6 +63985,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9354",
         LengthN4 = {
         },
@@ -63091,6 +64043,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63161,6 +64114,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9379",
         LengthN4 = {
         },
@@ -63217,6 +64171,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9447",
         LengthN4 = {
         },
@@ -63273,6 +64228,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63340,6 +64296,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63406,6 +64363,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63476,6 +64434,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63538,6 +64497,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63603,6 +64563,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63673,6 +64634,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63739,6 +64701,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63814,6 +64777,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63870,6 +64834,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -63945,6 +64910,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64017,6 +64983,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64083,6 +65050,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64158,6 +65126,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64214,6 +65183,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64286,6 +65256,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9423",
         LengthN4 = {
         },
@@ -64348,6 +65319,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64418,6 +65390,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64493,6 +65466,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64560,6 +65534,7 @@ return {
             [1] = 600,
             [2] = 3280,
         },
+        minipack = 0,
         op = "9506",
         LengthN4 = {
         },
@@ -64622,6 +65597,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64688,6 +65664,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64758,6 +65735,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64833,6 +65811,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64905,6 +65884,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -64971,6 +65951,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65037,6 +66018,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65112,6 +66094,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65187,6 +66170,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65259,6 +66243,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65315,6 +66300,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65371,6 +66357,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65442,6 +66429,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65509,6 +66497,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65584,6 +66573,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65651,6 +66641,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65707,6 +66698,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65777,6 +66769,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65847,6 +66840,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65903,6 +66897,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -65955,6 +66950,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66012,6 +67008,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66087,6 +67084,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66153,6 +67151,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66219,6 +67218,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66294,6 +67294,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66350,6 +67351,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66422,6 +67424,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66488,6 +67491,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66555,6 +67559,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "81101",
         LengthN4 = {
         },
@@ -66626,6 +67631,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66693,6 +67699,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66768,6 +67775,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66835,6 +67843,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66910,6 +67919,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -66976,6 +67986,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67048,6 +68059,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67114,6 +68126,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67180,6 +68193,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67252,6 +68266,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67327,6 +68342,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67397,6 +68413,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67453,6 +68470,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67525,6 +68543,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67591,6 +68610,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67661,6 +68681,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67731,6 +68752,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67797,6 +68819,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67872,6 +68895,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67939,6 +68963,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -67995,6 +69020,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68067,6 +69093,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68123,6 +69150,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68179,6 +69207,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68251,6 +69280,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68326,6 +69356,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68382,6 +69413,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68438,6 +69470,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68503,6 +69536,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68559,6 +69593,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68625,6 +69660,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68692,6 +69728,7 @@ return {
             [1] = 800,
             [2] = 2160,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68759,6 +69796,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68825,6 +69863,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68890,6 +69929,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -68957,6 +69997,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69027,6 +70068,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69102,6 +70144,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69171,6 +70214,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69243,6 +70287,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69305,6 +70350,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69371,6 +70417,7 @@ return {
             [1] = 100,
             [2] = 1600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69445,6 +70492,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69517,6 +70565,7 @@ return {
             [1] = 550,
             [2] = 2220,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69586,6 +70635,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69655,6 +70705,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69717,6 +70768,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69784,6 +70836,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69854,6 +70907,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -69920,6 +70974,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "93001",
         LengthN4 = {
         },
@@ -69987,6 +71042,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70057,6 +71113,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70113,6 +71170,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70179,6 +71237,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70025",
         LengthN4 = {
         },
@@ -70241,6 +71300,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9428",
         LengthN4 = {
         },
@@ -70303,6 +71363,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70368,6 +71429,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "60004",
         LengthN4 = {
         },
@@ -70437,6 +71499,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70503,6 +71566,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "60013",
         LengthN4 = {
         },
@@ -70570,6 +71634,7 @@ return {
             [1] = 10,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9483",
         LengthN4 = {
         },
@@ -70637,6 +71702,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70703,6 +71769,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70775,6 +71842,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70845,6 +71913,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70915,6 +71984,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -70981,6 +72051,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71037,6 +72108,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71107,6 +72179,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71174,6 +72247,7 @@ return {
             [1] = 680,
             [2] = 2220,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71244,6 +72318,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71313,6 +72388,7 @@ return {
             [1] = 680,
             [2] = 2220,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71383,6 +72459,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71450,6 +72527,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71525,6 +72603,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71597,6 +72676,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71666,6 +72746,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71728,6 +72809,7 @@ return {
             [1] = 50,
             [2] = 2750,
         },
+        minipack = 0,
         op = "9381",
         LengthN4 = {
         },
@@ -71784,6 +72866,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9449",
         LengthN4 = {
         },
@@ -71840,6 +72923,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -71896,6 +72980,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "81102",
         LengthN4 = {
         },
@@ -71963,6 +73048,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72030,6 +73116,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72100,6 +73187,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72172,6 +73260,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "300001",
         LengthN4 = {
         },
@@ -72244,6 +73333,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "1005",
         LengthN4 = {
         },
@@ -72310,6 +73400,7 @@ return {
             [1] = 100,
             [2] = 1800,
         },
+        minipack = 0,
         op = "91001",
         LengthN4 = {
         },
@@ -72390,6 +73481,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72462,6 +73554,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72528,6 +73621,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72594,6 +73688,7 @@ return {
             [1] = 100,
             [2] = 2000,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72661,6 +73756,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72731,6 +73827,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72787,6 +73884,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72872,6 +73970,7 @@ return {
             [1] = 200,
             [2] = 3800,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -72934,6 +74033,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73001,6 +74101,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73068,6 +74169,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9484",
         LengthN4 = {
         },
@@ -73130,6 +74232,7 @@ return {
             [1] = 500,
             [2] = 2370,
         },
+        minipack = 0,
         op = "9507",
         LengthN4 = {
         },
@@ -73192,6 +74295,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73262,6 +74366,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73324,6 +74429,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73389,6 +74495,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73451,6 +74558,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73517,6 +74625,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73579,6 +74688,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73641,6 +74751,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73703,6 +74814,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73768,6 +74880,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73824,6 +74937,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73896,6 +75010,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -73968,6 +75083,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74038,6 +75154,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74108,6 +75225,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74170,6 +75288,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74235,6 +75354,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74300,6 +75420,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74354,6 +75475,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74406,6 +75528,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74468,6 +75591,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74543,6 +75667,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74595,6 +75720,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74657,6 +75783,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74719,6 +75846,7 @@ return {
             [1] = 400,
             [2] = 2900,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74786,6 +75914,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74842,6 +75971,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74898,6 +76028,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -74954,6 +76085,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75021,6 +76153,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75091,6 +76224,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75147,6 +76281,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75203,6 +76338,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75273,6 +76409,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75329,6 +76466,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75389,6 +76527,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75456,6 +76595,7 @@ return {
             [1] = 1500,
             [2] = 4000,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75528,6 +76668,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75595,6 +76736,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75665,6 +76807,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75731,6 +76874,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75798,6 +76942,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75854,6 +76999,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75920,6 +77066,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -75988,6 +77135,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76075,6 +77223,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76142,6 +77291,7 @@ return {
             [1] = 100,
             [2] = 2000,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76214,6 +77364,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76280,6 +77431,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76347,6 +77499,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76417,6 +77570,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76484,6 +77638,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76550,6 +77705,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76616,6 +77772,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76683,6 +77840,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76749,6 +77907,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76816,6 +77975,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76886,6 +78046,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -76942,6 +78103,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77009,6 +78171,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77075,6 +78238,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77142,6 +78306,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77209,6 +78374,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77276,6 +78442,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600024",
         LengthN4 = {
         },
@@ -77348,6 +78515,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77418,6 +78586,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77484,6 +78653,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77551,6 +78721,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77617,6 +78788,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77689,6 +78861,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77756,6 +78929,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77822,6 +78996,7 @@ return {
             [1] = 200,
             [2] = 3800,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77889,6 +79064,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -77955,6 +79131,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78027,6 +79204,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78083,6 +79261,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78158,6 +79337,7 @@ return {
             [1] = 900,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78223,6 +79403,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78293,6 +79474,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78364,6 +79546,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78435,6 +79618,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78505,6 +79689,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78572,6 +79757,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "70001",
         LengthN4 = {
         },
@@ -78639,6 +79825,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78714,6 +79901,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70023",
         LengthN4 = {
         },
@@ -78781,6 +79969,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78846,6 +80035,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78912,6 +80102,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -78978,6 +80169,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79045,6 +80237,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79112,6 +80305,7 @@ return {
             [1] = 900,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79177,6 +80371,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79247,6 +80442,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79314,6 +80510,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79381,6 +80578,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79452,6 +80650,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79519,6 +80718,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79589,6 +80789,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79656,6 +80857,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79716,6 +80918,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79783,6 +80986,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79855,6 +81059,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79925,6 +81130,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -79996,6 +81202,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80066,6 +81273,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9358",
         LengthN4 = {
         },
@@ -80123,6 +81331,7 @@ return {
             [1] = 100,
             [2] = 4090,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80185,6 +81394,7 @@ return {
             [1] = 50,
             [2] = 2750,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80240,6 +81450,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80289,6 +81500,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80344,6 +81556,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80411,6 +81624,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80478,6 +81692,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80538,6 +81753,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80605,6 +81821,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80671,6 +81888,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80737,6 +81955,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80804,6 +82023,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80870,6 +82090,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80926,6 +82147,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -80993,6 +82215,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81060,6 +82283,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81125,6 +82349,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81197,6 +82422,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81249,6 +82475,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9426",
         LengthN4 = {
         },
@@ -81311,6 +82538,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81367,6 +82595,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81434,6 +82663,7 @@ return {
             [1] = 10,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9485",
         LengthN4 = {
         },
@@ -81496,6 +82726,7 @@ return {
             [1] = 500,
             [2] = 2370,
         },
+        minipack = 0,
         op = "9508",
         LengthN4 = {
         },
@@ -81558,6 +82789,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81628,6 +82860,7 @@ return {
             [1] = 150,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81695,6 +82928,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9378",
         LengthN4 = {
         },
@@ -81757,6 +82991,7 @@ return {
             [1] = 150,
             [2] = 1600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81829,6 +83064,7 @@ return {
             [1] = 1500,
             [2] = 4000,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81901,6 +83137,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -81968,6 +83205,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82035,6 +83273,7 @@ return {
             [1] = 150,
             [2] = 2650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82102,6 +83341,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82167,6 +83407,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82242,6 +83483,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82309,6 +83551,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82384,6 +83627,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82454,6 +83698,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82521,6 +83766,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82588,6 +83834,7 @@ return {
             [1] = 0,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82655,6 +83902,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82727,6 +83975,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82796,6 +84045,7 @@ return {
             [1] = 0,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82863,6 +84113,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82930,6 +84181,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -82996,6 +84248,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83058,6 +84311,7 @@ return {
             [1] = 0,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83123,6 +84377,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83188,6 +84443,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83255,6 +84511,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83321,6 +84578,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83388,6 +84646,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83464,6 +84723,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83534,6 +84794,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83604,6 +84865,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83670,6 +84932,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83740,6 +85003,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83806,6 +85070,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83881,6 +85146,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -83950,6 +85216,7 @@ return {
             [1] = 800,
             [2] = 2160,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84022,6 +85289,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84097,6 +85365,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84167,6 +85436,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84239,6 +85509,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84311,6 +85582,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84377,6 +85649,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84449,6 +85722,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84514,6 +85788,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84576,6 +85851,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84643,6 +85919,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84712,6 +85989,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84779,6 +86057,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84851,6 +86130,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84918,6 +86198,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -84984,6 +86265,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85051,6 +86333,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85117,6 +86400,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85183,6 +86467,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85255,6 +86540,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85322,6 +86608,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85394,6 +86681,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85460,6 +86748,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85535,6 +86824,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85591,6 +86881,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85647,6 +86938,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85714,6 +87006,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85784,6 +87077,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85850,6 +87144,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600026",
         LengthN4 = {
         },
@@ -85917,6 +87212,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -85983,6 +87279,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86053,6 +87350,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86119,6 +87417,7 @@ return {
             [1] = 125,
             [2] = 1500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86193,6 +87492,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86267,6 +87567,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86336,6 +87637,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86403,6 +87705,7 @@ return {
             [1] = 100,
             [2] = 1800,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86475,6 +87778,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86531,6 +87835,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86597,6 +87902,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86664,6 +87970,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86731,6 +88038,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86801,6 +88109,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86872,6 +88181,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -86939,6 +88249,7 @@ return {
             [1] = 30,
             [2] = 1350,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87006,6 +88317,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87076,6 +88388,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87143,6 +88456,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87199,6 +88513,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87261,6 +88576,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87327,6 +88643,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "60001",
         LengthN4 = {
         },
@@ -87396,6 +88713,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87461,6 +88779,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87526,6 +88845,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "60017",
         LengthN4 = {
         },
@@ -87593,6 +88913,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87665,6 +88986,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87730,6 +89052,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87805,6 +89128,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87872,6 +89196,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -87942,6 +89267,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88014,6 +89340,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88094,6 +89421,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9421",
         LengthN4 = {
         },
@@ -88151,6 +89479,7 @@ return {
             [1] = 100,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88223,6 +89552,7 @@ return {
             [1] = 150,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88290,6 +89620,7 @@ return {
             [1] = 150,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88355,6 +89686,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88427,6 +89759,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88494,6 +89827,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88564,6 +89898,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88631,6 +89966,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9360",
         LengthN4 = {
         },
@@ -88693,6 +90029,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88760,6 +90097,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9383",
         LengthN4 = {
         },
@@ -88817,6 +90155,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9452",
         LengthN4 = {
         },
@@ -88871,6 +90210,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -88926,6 +90266,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "81108",
         LengthN4 = {
         },
@@ -88993,6 +90334,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89068,6 +90410,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89137,6 +90480,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89199,6 +90543,7 @@ return {
             [1] = 150,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89271,6 +90616,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89333,6 +90679,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89385,6 +90732,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89441,6 +90789,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89497,6 +90846,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89567,6 +90917,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89639,6 +90990,7 @@ return {
             [1] = 250,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9527",
         LengthN4 = {
         },
@@ -89705,6 +91057,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89771,6 +91124,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89838,6 +91192,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90028",
         LengthN4 = {
         },
@@ -89908,6 +91263,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -89964,6 +91320,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90034,6 +91391,7 @@ return {
             [1] = 10,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9487",
         LengthN4 = {
         },
@@ -90096,6 +91454,7 @@ return {
             [1] = 200,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90158,6 +91517,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90225,6 +91585,7 @@ return {
             [1] = 650,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90295,6 +91656,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90362,6 +91724,7 @@ return {
             [1] = 0,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90429,6 +91792,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90496,6 +91860,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90568,6 +91933,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90630,6 +91996,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90705,6 +92072,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90772,6 +92140,7 @@ return {
             [1] = 250,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9516",
         LengthN4 = {
         },
@@ -90834,6 +92203,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90906,6 +92276,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -90978,6 +92349,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91049,6 +92421,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91121,6 +92494,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91191,6 +92565,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91261,6 +92636,7 @@ return {
             [1] = 900,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91328,6 +92704,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91395,6 +92772,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91462,6 +92840,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9515",
         LengthN4 = {
         },
@@ -91524,6 +92903,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91594,6 +92974,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91669,6 +93050,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "60009",
         LengthN4 = {
         },
@@ -91736,6 +93118,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91808,6 +93191,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91878,6 +93262,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -91948,6 +93333,7 @@ return {
             [1] = 640,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92017,6 +93403,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92084,6 +93471,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92151,6 +93539,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92218,6 +93607,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92293,6 +93683,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92349,6 +93740,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92401,6 +93793,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92468,6 +93861,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92535,6 +93929,7 @@ return {
             [1] = 680,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92602,6 +93997,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9356",
         LengthN4 = {
         },
@@ -92659,6 +94055,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92730,6 +94127,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92797,6 +94195,7 @@ return {
             [1] = 100,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92869,6 +94268,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -92939,6 +94339,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93001,6 +94402,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93071,6 +94473,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90005",
         LengthN4 = {
         },
@@ -93138,6 +94541,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93210,6 +94614,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93280,6 +94685,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93352,6 +94758,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9460",
         LengthN4 = {
         },
@@ -93408,6 +94815,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93479,6 +94887,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93546,6 +94955,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93608,6 +95018,7 @@ return {
             [1] = 200,
             [2] = 2150,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93678,6 +95089,7 @@ return {
             [1] = 1400,
             [2] = 2900,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93748,6 +95160,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93820,6 +95233,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93890,6 +95304,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -93957,6 +95372,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94024,6 +95440,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94096,6 +95513,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9409",
         LengthN4 = {
         },
@@ -94148,6 +95566,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94218,6 +95637,7 @@ return {
             [1] = 200,
             [2] = 2500,
         },
+        minipack = 0,
         op = "9424",
         LengthN4 = {
         },
@@ -94280,6 +95700,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94347,6 +95768,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94419,6 +95841,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94486,6 +95909,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94556,6 +95980,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94623,6 +96048,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94690,6 +96116,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "81117",
         LengthN4 = {
         },
@@ -94756,6 +96183,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94827,6 +96255,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94897,6 +96326,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -94953,6 +96383,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90009",
         LengthN4 = {
         },
@@ -95020,6 +96451,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95087,6 +96519,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95162,6 +96595,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95229,6 +96663,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95296,6 +96731,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95370,6 +96806,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95437,6 +96874,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95507,6 +96945,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95577,6 +97016,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95647,6 +97087,7 @@ return {
             [1] = 0,
             [2] = 2300,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95714,6 +97155,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95779,6 +97221,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "70008",
         LengthN4 = {
         },
@@ -95841,6 +97284,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95911,6 +97355,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -95978,6 +97423,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96044,6 +97490,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96119,6 +97566,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96189,6 +97637,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96254,6 +97703,7 @@ return {
             [1] = 150,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96315,6 +97765,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "90007",
         LengthN4 = {
         },
@@ -96385,6 +97836,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96475,6 +97927,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96545,6 +97998,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96612,6 +98066,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96679,6 +98134,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96748,6 +98204,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96838,6 +98295,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96905,6 +98363,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -96977,6 +98436,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97047,6 +98507,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97114,6 +98575,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97184,6 +98646,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97251,6 +98714,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9362",
         LengthN4 = {
         },
@@ -97313,6 +98777,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97375,6 +98840,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9384",
         LengthN4 = {
         },
@@ -97432,6 +98898,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9454",
         LengthN4 = {
         },
@@ -97488,6 +98955,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97548,6 +99016,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97615,6 +99084,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97687,6 +99157,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9499",
         LengthN4 = {
         },
@@ -97749,6 +99220,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97815,6 +99287,7 @@ return {
             [1] = 900,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97880,6 +99353,7 @@ return {
             [1] = 640,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -97949,6 +99423,7 @@ return {
             [1] = 150,
             [2] = 1600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98021,6 +99496,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98077,6 +99553,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98152,6 +99629,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98214,6 +99692,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98284,6 +99763,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98356,6 +99836,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98426,6 +99907,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9399",
         LengthN4 = {
         },
@@ -98478,6 +99960,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9430",
         LengthN4 = {
         },
@@ -98540,6 +100023,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98592,6 +100076,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98659,6 +100144,7 @@ return {
             [1] = 10,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9489",
         LengthN4 = {
         },
@@ -98721,6 +100207,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98783,6 +100270,7 @@ return {
             [1] = 100,
             [2] = 1600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98857,6 +100345,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -98937,6 +100426,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99009,6 +100499,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99076,6 +100567,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99143,6 +100635,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99209,6 +100702,7 @@ return {
             [1] = 150,
             [2] = 2580,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99271,6 +100765,7 @@ return {
             [1] = 0,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99338,6 +100833,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99405,6 +100901,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99472,6 +100969,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99544,6 +101042,7 @@ return {
             [1] = 100,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99616,6 +101115,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99712,6 +101212,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99782,6 +101283,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99849,6 +101351,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99916,6 +101419,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -99983,6 +101487,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100049,6 +101554,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100116,6 +101622,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100192,6 +101699,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9373",
         LengthN4 = {
         },
@@ -100254,6 +101762,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100324,6 +101833,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100391,6 +101901,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "9394",
         LengthN4 = {
         },
@@ -100449,6 +101960,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100519,6 +102031,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100586,6 +102099,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100658,6 +102172,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90011",
         LengthN4 = {
         },
@@ -100725,6 +102240,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100792,6 +102308,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100857,6 +102374,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -100932,6 +102450,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101008,6 +102527,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101070,6 +102590,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101140,6 +102661,7 @@ return {
             [1] = 150,
             [2] = 2700,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101207,6 +102729,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101277,6 +102800,7 @@ return {
             [1] = 0,
             [2] = 2550,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101342,6 +102866,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101408,6 +102933,7 @@ return {
             [1] = 100,
             [2] = 1800,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101480,6 +103006,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "9500",
         LengthN4 = {
         },
@@ -101542,6 +103069,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101609,6 +103137,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101665,6 +103194,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101730,6 +103260,7 @@ return {
             [1] = 100,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101800,6 +103331,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101856,6 +103388,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101923,6 +103456,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -101997,6 +103531,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102084,6 +103619,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102151,6 +103687,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102221,6 +103758,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102287,6 +103825,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90014",
         LengthN4 = {
         },
@@ -102357,6 +103896,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102424,6 +103964,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102480,6 +104021,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "90030",
         LengthN4 = {
         },
@@ -102547,6 +104089,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102619,6 +104162,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102689,6 +104233,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102759,6 +104304,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102833,6 +104379,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102900,6 +104447,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -102970,6 +104518,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103037,6 +104586,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103109,6 +104659,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "600028",
         LengthN4 = {
         },
@@ -103181,6 +104732,7 @@ return {
             [1] = 300,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103245,6 +104797,7 @@ return {
             [1] = 0,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103312,6 +104865,7 @@ return {
             [1] = 150,
             [2] = 2250,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103379,6 +104933,7 @@ return {
             [1] = 50,
             [2] = 2700,
         },
+        minipack = 0,
         op = "9462",
         LengthN4 = {
         },
@@ -103435,6 +104990,7 @@ return {
             [1] = 700,
             [2] = 2160,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103500,6 +105056,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103570,6 +105127,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103635,6 +105193,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103705,6 +105264,7 @@ return {
             [1] = 300,
             [2] = 1800,
         },
+        minipack = 0,
         op = "30001",
         LengthN4 = {
         },
@@ -103776,6 +105336,7 @@ return {
             [1] = 600,
             [2] = 2100,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103843,6 +105404,7 @@ return {
             [1] = 150,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -103912,6 +105474,7 @@ return {
             [1] = 300,
             [2] = 1800,
         },
+        minipack = 0,
         op = "30017",
         LengthN4 = {
         },
@@ -103968,6 +105531,7 @@ return {
         monsterBornLimit  = 0,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -104043,6 +105607,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -104105,6 +105670,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -104175,6 +105741,7 @@ return {
             [1] = 150,
             [2] = 2100,
         },
+        minipack = 0,
         op = "93003",
         LengthN4 = {
         },
@@ -104247,6 +105814,7 @@ return {
             [1] = 100,
             [2] = 2600,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -104317,6 +105885,7 @@ return {
             [1] = 100,
             [2] = 2500,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -104389,6 +105958,7 @@ return {
             [1] = 150,
             [2] = 1650,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -104454,6 +106024,7 @@ return {
         monsterBornLimit  = 1,
         LengthN1 = {
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -104512,6 +106083,7 @@ return {
             [1] = 0,
             [2] = 1100,
         },
+        minipack = 0,
         op = "10001",
         LengthN4 = {
             [1] = 1000,
@@ -104590,6 +106162,7 @@ return {
             [1] = 300,
             [2] = 2400,
         },
+        minipack = 0,
         op = "60002",
         LengthN4 = {
         },
@@ -104657,6 +106230,7 @@ return {
             [1] = 100,
             [2] = 2400,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },
@@ -104724,6 +106298,7 @@ return {
             [1] = 150,
             [2] = 2200,
         },
+        minipack = 0,
         op = "",
         LengthN4 = {
         },

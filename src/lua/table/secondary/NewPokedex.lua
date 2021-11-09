@@ -7,6 +7,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 451,
         sortr = "451",
         name1 = 1701825,
@@ -39,6 +40,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 452,
         sortr = "452",
         name1 = 1701826,
@@ -71,6 +73,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 453,
         sortr = "453",
         name1 = 1701827,
@@ -103,6 +106,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 454,
         sortr = "454",
         name1 = 1701828,
@@ -135,6 +139,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 455,
         sortr = "455",
         name1 = 1701829,
@@ -167,6 +172,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 461,
         sortr = "461",
         name1 = 1701825,
@@ -199,6 +205,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 462,
         sortr = "462",
         name1 = 1701826,
@@ -231,6 +238,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 463,
         sortr = "463",
         name1 = 1701827,
@@ -263,6 +271,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 484,
         sortr = "484",
         name1 = 1701825,
@@ -295,6 +304,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 485,
         sortr = "485",
         name1 = 1701826,
@@ -327,6 +337,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 486,
         sortr = "486",
         name1 = 1701827,
@@ -359,6 +370,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 467,
         sortr = "467",
         name1 = 1701825,
@@ -391,6 +403,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 468,
         sortr = "468",
         name1 = 1701826,
@@ -423,6 +436,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 469,
         sortr = "469",
         name1 = 1701827,
@@ -455,6 +469,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 475,
         sortr = "475",
         name1 = 1701825,
@@ -487,6 +502,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 476,
         sortr = "476",
         name1 = 1701826,
@@ -519,6 +535,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 477,
         sortr = "477",
         name1 = 1701827,
@@ -551,6 +568,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 478,
         sortr = "478",
         name1 = 1701828,
@@ -583,6 +601,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 479,
         sortr = "479",
         name1 = 1701829,
@@ -615,6 +634,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 470,
         sortr = "470",
         name1 = 1701825,
@@ -647,6 +667,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 471,
         sortr = "471",
         name1 = 1701826,
@@ -679,6 +700,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 472,
         sortr = "472",
         name1 = 1701827,
@@ -711,6 +733,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 473,
         sortr = "473",
         name1 = 1701828,
@@ -743,6 +766,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 474,
         sortr = "474",
         name1 = 1701829,
@@ -775,6 +799,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 456,
         sortr = "456",
         name1 = 1701825,
@@ -807,6 +832,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 457,
         sortr = "457",
         name1 = 1701826,
@@ -839,6 +865,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 458,
         sortr = "458",
         name1 = 1701827,
@@ -871,6 +898,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 459,
         sortr = "459",
         name1 = 1701828,
@@ -903,6 +931,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 460,
         sortr = "460",
         name1 = 1701829,
@@ -935,6 +964,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 464,
         sortr = "464",
         name1 = 1701825,
@@ -967,6 +997,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 465,
         sortr = "465",
         name1 = 1701826,
@@ -999,6 +1030,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 466,
         sortr = "466",
         name1 = 1701827,
@@ -1031,6 +1063,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 492,
         sortr = "492",
         name1 = 1701825,
@@ -1063,6 +1096,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 493,
         sortr = "493",
         name1 = 1701826,
@@ -1095,6 +1129,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 494,
         sortr = "494",
         name1 = 1701827,
@@ -1127,6 +1162,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 495,
         sortr = "495",
         name1 = 1701828,
@@ -1159,6 +1195,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 480,
         sortr = "480",
         name1 = 1701825,
@@ -1191,6 +1228,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 481,
         sortr = "481",
         name1 = 1701826,
@@ -1223,6 +1261,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 482,
         sortr = "482",
         name1 = 1701827,
@@ -1255,6 +1294,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 483,
         sortr = "483",
         name1 = 1701828,
@@ -1287,6 +1327,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 496,
         sortr = "496",
         name1 = 1701825,
@@ -1319,6 +1360,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 497,
         sortr = "497",
         name1 = 1701826,
@@ -1351,6 +1393,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 498,
         sortr = "498",
         name1 = 1701827,
@@ -1383,6 +1426,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 499,
         sortr = "499",
         name1 = 1701828,
@@ -1415,6 +1459,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 488,
         sortr = "488",
         name1 = 1701825,
@@ -1447,6 +1492,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 489,
         sortr = "489",
         name1 = 1701826,
@@ -1479,6 +1525,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 490,
         sortr = "490",
         name1 = 1701827,
@@ -1511,6 +1558,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 491,
         sortr = "491",
         name1 = 1701828,
@@ -1543,6 +1591,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 927,
         sortr = "927",
         name1 = 1706007,
@@ -1575,6 +1624,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 125,
         sortr = "125",
         name1 = 0,
@@ -1607,6 +1657,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 928,
         sortr = "928",
         name1 = 1706007,
@@ -1639,6 +1690,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 988,
         sortr = "988",
         name1 = 13200617,
@@ -1670,6 +1722,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 126,
         sortr = "126",
         name1 = 0,
@@ -1705,6 +1758,7 @@ return {
                 [540383] = 1,
             },
         },
+        minipack = 0,
         sort = 989,
         sortr = "989",
         name1 = 13316328,
@@ -1739,6 +1793,7 @@ return {
                 [540384] = 1,
             },
         },
+        minipack = 0,
         sort = 990,
         sortr = "990",
         name1 = 13316329,
@@ -1770,6 +1825,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 127,
         sortr = "127",
         name1 = 0,
@@ -1805,6 +1861,7 @@ return {
                 [540385] = 1,
             },
         },
+        minipack = 0,
         sort = 991,
         sortr = "991",
         name1 = 13316330,
@@ -1836,6 +1893,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 559,
         sortr = "559",
         name1 = 1701833,
@@ -1868,6 +1926,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 660,
         sortr = "660",
         name1 = 1701833,
@@ -1900,6 +1959,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 128,
         sortr = "128",
         name1 = 0,
@@ -1933,6 +1993,7 @@ return {
         unlock = {
             dunId = 440401,
         },
+        minipack = 0,
         sort = 809,
         sortr = "809",
         name1 = 1706071,
@@ -1966,6 +2027,7 @@ return {
         unlock = {
             dunId = 440414,
         },
+        minipack = 0,
         sort = 810,
         sortr = "810",
         name1 = 1706072,
@@ -1998,6 +2060,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 129,
         sortr = "129",
         name1 = 0,
@@ -2031,6 +2094,7 @@ return {
         unlock = {
             dunId = 440415,
         },
+        minipack = 0,
         sort = 811,
         sortr = "811",
         name1 = 1706073,
@@ -2064,6 +2128,7 @@ return {
         unlock = {
             dunId = 440415,
         },
+        minipack = 0,
         sort = 812,
         sortr = "812",
         name1 = 1706074,
@@ -2096,6 +2161,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 130,
         sortr = "130",
         name1 = 0,
@@ -2129,6 +2195,7 @@ return {
         unlock = {
             dunId = 440437,
         },
+        minipack = 0,
         sort = 813,
         sortr = "813",
         name1 = 1706075,
@@ -2162,6 +2229,7 @@ return {
         unlock = {
             dunId = 440437,
         },
+        minipack = 0,
         sort = 814,
         sortr = "814",
         name1 = 1706076,
@@ -2194,6 +2262,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 131,
         sortr = "131",
         name1 = 0,
@@ -2226,6 +2295,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1016,
         sortr = "1016",
         name1 = 1706005,
@@ -2258,6 +2328,7 @@ return {
         unlock = {
             dunId = 440461,
         },
+        minipack = 0,
         sort = 815,
         sortr = "815",
         name1 = 1706098,
@@ -2290,6 +2361,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 132,
         sortr = "132",
         name1 = 0,
@@ -2323,6 +2395,7 @@ return {
         unlock = {
             dunId = 440461,
         },
+        minipack = 0,
         sort = 816,
         sortr = "816",
         name1 = 1706099,
@@ -2355,6 +2428,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1,
         sortr = "1",
         name1 = 0,
@@ -2387,6 +2461,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 133,
         sortr = "133",
         name1 = 0,
@@ -2419,6 +2494,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 3,
         sortr = "3",
         name1 = 0,
@@ -2451,6 +2527,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 5,
         sortr = "5",
         name1 = 0,
@@ -2483,6 +2560,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 4,
         sortr = "4",
         name1 = 0,
@@ -2515,6 +2593,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1018,
         sortr = "1018",
         name1 = 1706201,
@@ -2549,6 +2628,7 @@ return {
                 [540400] = 1,
             },
         },
+        minipack = 0,
         sort = 994,
         sortr = "994",
         name1 = 1706202,
@@ -2583,6 +2663,7 @@ return {
                 [540401] = 1,
             },
         },
+        minipack = 0,
         sort = 995,
         sortr = "995",
         name1 = 1706202,
@@ -2614,6 +2695,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1024,
         sortr = "1024",
         name1 = 0,
@@ -2648,6 +2730,7 @@ return {
                 [540402] = 1,
             },
         },
+        minipack = 0,
         sort = 996,
         sortr = "996",
         name1 = 1706202,
@@ -2680,6 +2763,7 @@ return {
         unlock = {
             roleId = 103,
         },
+        minipack = 0,
         sort = 1327,
         sortr = "1327",
         name1 = 0,
@@ -2712,6 +2796,7 @@ return {
         unlock = {
             roleId = 103,
         },
+        minipack = 0,
         sort = 1332,
         sortr = "1332",
         name1 = 0,
@@ -2743,6 +2828,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1025,
         sortr = "1025",
         name1 = 0,
@@ -2776,6 +2862,7 @@ return {
             favor = 300,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1336,
         sortr = "1336",
         name1 = 0,
@@ -2809,6 +2896,7 @@ return {
             favor = 1000,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1338,
         sortr = "1338",
         name1 = 0,
@@ -2841,6 +2929,7 @@ return {
         unlock = {
             dunId = 440479,
         },
+        minipack = 0,
         sort = 820,
         sortr = "820",
         name1 = 1706099,
@@ -2875,6 +2964,7 @@ return {
             favor = 2500,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1342,
         sortr = "1342",
         name1 = 0,
@@ -2906,6 +2996,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 6,
         sortr = "6",
         name1 = 0,
@@ -2940,6 +3031,7 @@ return {
             favor = 300,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1346,
         sortr = "1346",
         name1 = 0,
@@ -2972,6 +3064,7 @@ return {
         unlock = {
             heroId = 110301,
         },
+        minipack = 0,
         sort = 1348,
         sortr = "1348",
         name1 = 0,
@@ -3004,6 +3097,7 @@ return {
         unlock = {
             heroId = 110301,
         },
+        minipack = 0,
         sort = 1350,
         sortr = "1350",
         name1 = 0,
@@ -3036,6 +3130,7 @@ return {
         unlock = {
             heroId = 110301,
         },
+        minipack = 0,
         sort = 1352,
         sortr = "1352",
         name1 = 0,
@@ -3068,6 +3163,7 @@ return {
         unlock = {
             dunId = 440501,
         },
+        minipack = 0,
         sort = 824,
         sortr = "824",
         name1 = 1706099,
@@ -3102,6 +3198,7 @@ return {
             favor = 2500,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1330,
         sortr = "1330",
         name1 = 0,
@@ -3133,6 +3230,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1355,
         sortr = "1355",
         name1 = 0,
@@ -3164,6 +3262,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1357,
         sortr = "1357",
         name1 = 0,
@@ -3196,6 +3295,7 @@ return {
         unlock = {
             heroId = 110313,
         },
+        minipack = 0,
         sort = 1359,
         sortr = "1359",
         name1 = 0,
@@ -3228,6 +3328,7 @@ return {
         unlock = {
             heroId = 110313,
         },
+        minipack = 0,
         sort = 1361,
         sortr = "1361",
         name1 = 0,
@@ -3260,6 +3361,7 @@ return {
         unlock = {
             heroId = 110313,
         },
+        minipack = 0,
         sort = 1363,
         sortr = "1363",
         name1 = 0,
@@ -3294,6 +3396,7 @@ return {
                 [1] = 10009,
             },
         },
+        minipack = 0,
         sort = 999,
         sortr = "999",
         name1 = 13316857,
@@ -3328,6 +3431,7 @@ return {
                 [580251] = 1,
             },
         },
+        minipack = 0,
         sort = 1000,
         sortr = "1000",
         name1 = 1706221,
@@ -3362,6 +3466,7 @@ return {
                 [580252] = 1,
             },
         },
+        minipack = 0,
         sort = 1001,
         sortr = "1001",
         name1 = 1706221,
@@ -3396,6 +3501,7 @@ return {
                 [580253] = 1,
             },
         },
+        minipack = 0,
         sort = 1002,
         sortr = "1002",
         name1 = 1706221,
@@ -3427,6 +3533,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1019,
         sortr = "1019",
         name1 = 1706224,
@@ -3459,6 +3566,7 @@ return {
         unlock = {
             dunId = 291136,
         },
+        minipack = 0,
         sort = 825,
         sortr = "825",
         name1 = 1706288,
@@ -3492,6 +3600,7 @@ return {
         unlock = {
             dunId = 291156,
         },
+        minipack = 0,
         sort = 826,
         sortr = "826",
         name1 = 1706288,
@@ -3525,6 +3634,7 @@ return {
         unlock = {
             dunId = 291156,
         },
+        minipack = 0,
         sort = 827,
         sortr = "827",
         name1 = 1706288,
@@ -3558,6 +3668,7 @@ return {
         unlock = {
             dunId = 291159,
         },
+        minipack = 0,
         sort = 828,
         sortr = "828",
         name1 = 1706288,
@@ -3590,6 +3701,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2068,
         sortr = "2068",
         name1 = 0,
@@ -3623,6 +3735,7 @@ return {
         unlock = {
             dunId = 291173,
         },
+        minipack = 0,
         sort = 829,
         sortr = "829",
         name1 = 1706288,
@@ -3655,6 +3768,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2070,
         sortr = "2070",
         name1 = 0,
@@ -3688,6 +3802,7 @@ return {
         unlock = {
             dunId = 112108,
         },
+        minipack = 0,
         sort = 799,
         sortr = "799",
         name1 = 1706291,
@@ -3722,6 +3837,7 @@ return {
             favor = 1000,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1233,
         sortr = "1233",
         name1 = 0,
@@ -3755,6 +3871,7 @@ return {
         unlock = {
             dunId = 112212,
         },
+        minipack = 0,
         sort = 800,
         sortr = "800",
         name1 = 1706292,
@@ -3787,6 +3904,7 @@ return {
         unlockType = 9999,
         unlock = {
         },
+        minipack = 0,
         sort = 2074,
         sortr = "2074",
         name1 = 0,
@@ -3824,6 +3942,7 @@ return {
         unlock = {
             dunId = 112215,
         },
+        minipack = 0,
         sort = 801,
         sortr = "801",
         name1 = 1706293,
@@ -3856,6 +3975,7 @@ return {
         unlockType = 9999,
         unlock = {
         },
+        minipack = 0,
         sort = 2076,
         sortr = "2076",
         name1 = 0,
@@ -3893,6 +4013,7 @@ return {
         unlock = {
             dunId = 112323,
         },
+        minipack = 0,
         sort = 802,
         sortr = "802",
         name1 = 1706294,
@@ -3928,6 +4049,7 @@ return {
                 [580254] = 1,
             },
         },
+        minipack = 0,
         sort = 1003,
         sortr = "1003",
         name1 = 1706295,
@@ -3959,6 +4081,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1020,
         sortr = "1020",
         name1 = 1706298,
@@ -3990,6 +4113,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 563,
         sortr = "563",
         name1 = 1701831,
@@ -4022,6 +4146,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1004,
         sortr = "1004",
         name1 = 1706361,
@@ -4053,6 +4178,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1005,
         sortr = "1005",
         name1 = 1706362,
@@ -4087,6 +4213,7 @@ return {
                 [580255] = 1,
             },
         },
+        minipack = 0,
         sort = 1006,
         sortr = "1006",
         name1 = 1706367,
@@ -4118,6 +4245,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2159,
         sortr = "2159",
         name1 = 0,
@@ -4150,6 +4278,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2161,
         sortr = "2161",
         name1 = 0,
@@ -4182,6 +4311,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2163,
         sortr = "2163",
         name1 = 0,
@@ -4214,6 +4344,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 555,
         sortr = "555",
         name1 = 1701830,
@@ -4246,6 +4377,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 365,
         sortr = "365",
         name1 = 0,
@@ -4277,6 +4409,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 659,
         sortr = "659",
         name1 = 1701833,
@@ -4309,6 +4442,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2307,
         sortr = "2307",
         name1 = 0,
@@ -4340,6 +4474,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2350,
         sortr = "2350",
         name1 = 0,
@@ -4371,6 +4506,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1783,
         sortr = "1783",
         name1 = 0,
@@ -4402,6 +4538,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1785,
         sortr = "1785",
         name1 = 0,
@@ -4433,6 +4570,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1787,
         sortr = "1787",
         name1 = 0,
@@ -4464,6 +4602,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1789,
         sortr = "1789",
         name1 = 0,
@@ -4497,6 +4636,7 @@ return {
             favor = 1000,
             roleId = 128,
         },
+        minipack = 0,
         sort = 1791,
         sortr = "1791",
         name1 = 0,
@@ -4528,6 +4668,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1793,
         sortr = "1793",
         name1 = 0,
@@ -4561,6 +4702,7 @@ return {
             favor = 1000,
             roleId = 128,
         },
+        minipack = 0,
         sort = 1795,
         sortr = "1795",
         name1 = 0,
@@ -4592,6 +4734,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1797,
         sortr = "1797",
         name1 = 0,
@@ -4624,6 +4767,7 @@ return {
         unlock = {
             roleId = 128,
         },
+        minipack = 0,
         sort = 1799,
         sortr = "1799",
         name1 = 0,
@@ -4655,6 +4799,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1023,
         sortr = "1023",
         name1 = 0,
@@ -4688,6 +4833,7 @@ return {
             level = 30,
             heroId = 112801,
         },
+        minipack = 0,
         sort = 1803,
         sortr = "1803",
         name1 = 0,
@@ -4720,6 +4866,7 @@ return {
         unlock = {
             heroId = 112801,
         },
+        minipack = 0,
         sort = 1805,
         sortr = "1805",
         name1 = 0,
@@ -4753,6 +4900,7 @@ return {
             favor = 2500,
             roleId = 128,
         },
+        minipack = 0,
         sort = 1781,
         sortr = "1781",
         name1 = 0,
@@ -4787,6 +4935,7 @@ return {
                 [411207] = 1,
             },
         },
+        minipack = 0,
         sort = 1127,
         sortr = "1127",
         name1 = 0,
@@ -4821,6 +4970,7 @@ return {
                 [412504] = 1,
             },
         },
+        minipack = 0,
         sort = 1159,
         sortr = "1159",
         name1 = 0,
@@ -4852,6 +5002,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2165,
         sortr = "2165",
         name1 = 0,
@@ -4884,6 +5035,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2167,
         sortr = "2167",
         name1 = 0,
@@ -4925,6 +5077,7 @@ return {
                 [7] = 225601117,
             },
         },
+        minipack = 0,
         sort = 2034,
         sortr = "2034",
         name1 = 0,
@@ -4966,6 +5119,7 @@ return {
                 [7] = 461601518,
             },
         },
+        minipack = 0,
         sort = 2035,
         sortr = "2035",
         name1 = 0,
@@ -4998,6 +5152,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2036,
         sortr = "2036",
         name1 = 0,
@@ -5033,6 +5188,7 @@ return {
                 [585008] = 1,
             },
         },
+        minipack = 0,
         sort = 2037,
         sortr = "2037",
         name1 = 0,
@@ -5066,6 +5222,7 @@ return {
         unlock = {
             dunId = 140009,
         },
+        minipack = 0,
         sort = 2038,
         sortr = "2038",
         name1 = 0,
@@ -5098,6 +5255,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2039,
         sortr = "2039",
         name1 = 0,
@@ -5131,6 +5289,7 @@ return {
         unlock = {
             dunId = 106433,
         },
+        minipack = 0,
         sort = 1195,
         sortr = "1195",
         name1 = 0,
@@ -5175,6 +5334,7 @@ return {
                 [10] = 308501332,
             },
         },
+        minipack = 0,
         sort = 2041,
         sortr = "2041",
         name1 = 0,
@@ -5207,6 +5367,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2042,
         sortr = "2042",
         name1 = 0,
@@ -5239,6 +5400,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2043,
         sortr = "2043",
         name1 = 0,
@@ -5271,6 +5433,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 197,
         sortr = "197",
         name1 = 0,
@@ -5303,6 +5466,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2045,
         sortr = "2045",
         name1 = 0,
@@ -5335,6 +5499,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2168,
         sortr = "2168",
         name1 = 0,
@@ -5367,6 +5532,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 366,
         sortr = "366",
         name1 = 0,
@@ -5398,6 +5564,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1234,
         sortr = "1234",
         name1 = 0,
@@ -5430,6 +5597,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1108,
         sortr = "1108",
         name1 = 0,
@@ -5461,6 +5629,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1109,
         sortr = "1109",
         name1 = 0,
@@ -5492,6 +5661,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1110,
         sortr = "1110",
         name1 = 0,
@@ -5523,6 +5693,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1111,
         sortr = "1111",
         name1 = 0,
@@ -5554,6 +5725,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1112,
         sortr = "1112",
         name1 = 0,
@@ -5585,6 +5757,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2308,
         sortr = "2308",
         name1 = 0,
@@ -5616,6 +5789,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1113,
         sortr = "1113",
         name1 = 0,
@@ -5647,6 +5821,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1114,
         sortr = "1114",
         name1 = 0,
@@ -5678,6 +5853,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2171,
         sortr = "2171",
         name1 = 0,
@@ -5710,6 +5886,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1779,
         sortr = "1779",
         name1 = 0,
@@ -5741,6 +5918,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1784,
         sortr = "1784",
         name1 = 0,
@@ -5772,6 +5950,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1786,
         sortr = "1786",
         name1 = 0,
@@ -5803,6 +5982,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1788,
         sortr = "1788",
         name1 = 0,
@@ -5836,6 +6016,7 @@ return {
             favor = 1000,
             roleId = 128,
         },
+        minipack = 0,
         sort = 1790,
         sortr = "1790",
         name1 = 0,
@@ -5869,6 +6050,7 @@ return {
             favor = 2500,
             roleId = 128,
         },
+        minipack = 0,
         sort = 1792,
         sortr = "1792",
         name1 = 0,
@@ -5902,6 +6084,7 @@ return {
             favor = 2500,
             roleId = 128,
         },
+        minipack = 0,
         sort = 1794,
         sortr = "1794",
         name1 = 0,
@@ -5933,6 +6116,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1796,
         sortr = "1796",
         name1 = 0,
@@ -5966,6 +6150,7 @@ return {
             favor = 300,
             roleId = 128,
         },
+        minipack = 0,
         sort = 1798,
         sortr = "1798",
         name1 = 0,
@@ -5997,6 +6182,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1800,
         sortr = "1800",
         name1 = 0,
@@ -6029,6 +6215,7 @@ return {
         unlock = {
             heroId = 112801,
         },
+        minipack = 0,
         sort = 1802,
         sortr = "1802",
         name1 = 0,
@@ -6061,6 +6248,7 @@ return {
         unlock = {
             heroId = 112801,
         },
+        minipack = 0,
         sort = 1804,
         sortr = "1804",
         name1 = 0,
@@ -6094,6 +6282,7 @@ return {
             favor = 2500,
             roleId = 128,
         },
+        minipack = 0,
         sort = 1780,
         sortr = "1780",
         name1 = 0,
@@ -6127,6 +6316,7 @@ return {
             favor = 2500,
             roleId = 128,
         },
+        minipack = 0,
         sort = 1782,
         sortr = "1782",
         name1 = 0,
@@ -6158,6 +6348,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2015,
         sortr = "2015",
         name1 = 0,
@@ -6190,6 +6381,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 662,
         sortr = "662",
         name1 = 1701831,
@@ -6222,6 +6414,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1085,
         sortr = "1085",
         name1 = 0,
@@ -6256,6 +6449,7 @@ return {
                 [410213] = 1,
             },
         },
+        minipack = 0,
         sort = 1128,
         sortr = "1128",
         name1 = 0,
@@ -6287,6 +6481,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1084,
         sortr = "1084",
         name1 = 0,
@@ -6318,6 +6513,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1086,
         sortr = "1086",
         name1 = 0,
@@ -6349,6 +6545,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1087,
         sortr = "1087",
         name1 = 0,
@@ -6380,6 +6577,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1096,
         sortr = "1096",
         name1 = 0,
@@ -6411,6 +6609,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 665,
         sortr = "665",
         name1 = 1701833,
@@ -6443,6 +6642,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 367,
         sortr = "367",
         name1 = 0,
@@ -6474,6 +6674,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1107,
         sortr = "1107",
         name1 = 0,
@@ -6505,6 +6706,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1097,
         sortr = "1097",
         name1 = 0,
@@ -6536,6 +6738,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 866,
         sortr = "866",
         name1 = 112000073,
@@ -6568,6 +6771,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2173,
         sortr = "2173",
         name1 = 0,
@@ -6600,6 +6804,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 898,
         sortr = "898",
         name1 = 112000085,
@@ -6632,6 +6837,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2257,
         sortr = "2257",
         name1 = 0,
@@ -6665,6 +6871,7 @@ return {
         unlock = {
             dunId = 107539,
         },
+        minipack = 0,
         sort = 1196,
         sortr = "1196",
         name1 = 0,
@@ -6697,6 +6904,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 916,
         sortr = "916",
         name1 = 112000095,
@@ -6729,6 +6937,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2180,
         sortr = "2180",
         name1 = 0,
@@ -6761,6 +6970,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 908,
         sortr = "908",
         name1 = 112000092,
@@ -6793,6 +7003,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 971,
         sortr = "971",
         name1 = 1702071,
@@ -6824,6 +7035,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2185,
         sortr = "2185",
         name1 = 0,
@@ -6856,6 +7068,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2187,
         sortr = "2187",
         name1 = 0,
@@ -6888,6 +7101,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1101,
         sortr = "1101",
         name1 = 0,
@@ -6919,6 +7133,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2194,
         sortr = "2194",
         name1 = 0,
@@ -6952,6 +7167,7 @@ return {
         unlock = {
             roleId = 112,
         },
+        minipack = 0,
         sort = 1570,
         sortr = "1570",
         name1 = 0,
@@ -6984,6 +7200,7 @@ return {
         unlock = {
             roleId = 112,
         },
+        minipack = 0,
         sort = 1572,
         sortr = "1572",
         name1 = 0,
@@ -7015,6 +7232,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1102,
         sortr = "1102",
         name1 = 0,
@@ -7048,6 +7266,7 @@ return {
             favor = 1000,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1576,
         sortr = "1576",
         name1 = 0,
@@ -7079,6 +7298,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1578,
         sortr = "1578",
         name1 = 0,
@@ -7112,6 +7332,7 @@ return {
             favor = 300,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1580,
         sortr = "1580",
         name1 = 0,
@@ -7143,6 +7364,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1103,
         sortr = "1103",
         name1 = 0,
@@ -7176,6 +7398,7 @@ return {
             favor = 1000,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1584,
         sortr = "1584",
         name1 = 0,
@@ -7208,6 +7431,7 @@ return {
         unlock = {
             roleId = 112,
         },
+        minipack = 0,
         sort = 1586,
         sortr = "1586",
         name1 = 0,
@@ -7240,6 +7464,7 @@ return {
         unlock = {
             roleId = 112,
         },
+        minipack = 0,
         sort = 1588,
         sortr = "1588",
         name1 = 0,
@@ -7273,6 +7498,7 @@ return {
             level = 30,
             heroId = 112001,
         },
+        minipack = 0,
         sort = 1590,
         sortr = "1590",
         name1 = 0,
@@ -7305,6 +7531,7 @@ return {
         unlock = {
             heroId = 112001,
         },
+        minipack = 0,
         sort = 1592,
         sortr = "1592",
         name1 = 0,
@@ -7338,6 +7565,7 @@ return {
             favor = 2500,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1567,
         sortr = "1567",
         name1 = 0,
@@ -7371,6 +7599,7 @@ return {
             favor = 2500,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1569,
         sortr = "1569",
         name1 = 0,
@@ -7402,6 +7631,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1104,
         sortr = "1104",
         name1 = 0,
@@ -7433,6 +7663,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1083,
         sortr = "1083",
         name1 = 0,
@@ -7466,6 +7697,7 @@ return {
             favor = 300,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1204,
         sortr = "1204",
         name1 = 0,
@@ -7498,6 +7730,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1235,
         sortr = "1235",
         name1 = 0,
@@ -7530,6 +7763,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1115,
         sortr = "1115",
         name1 = 0,
@@ -7561,6 +7795,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1116,
         sortr = "1116",
         name1 = 0,
@@ -7592,6 +7827,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1088,
         sortr = "1088",
         name1 = 0,
@@ -7623,6 +7859,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1089,
         sortr = "1089",
         name1 = 0,
@@ -7654,6 +7891,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 663,
         sortr = "663",
         name1 = 1701832,
@@ -7686,6 +7924,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1957,
         sortr = "1957",
         name1 = 0,
@@ -7718,6 +7957,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1958,
         sortr = "1958",
         name1 = 0,
@@ -7750,6 +7990,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1959,
         sortr = "1959",
         name1 = 0,
@@ -7791,6 +8032,7 @@ return {
                 [7] = 29803122,
             },
         },
+        minipack = 0,
         sort = 1960,
         sortr = "1960",
         name1 = 0,
@@ -7823,6 +8065,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1961,
         sortr = "1961",
         name1 = 0,
@@ -7855,6 +8098,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 448,
         sortr = "448",
         name1 = 0,
@@ -7886,6 +8130,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 134,
         sortr = "134",
         name1 = 0,
@@ -7918,6 +8163,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 375,
         sortr = "375",
         name1 = 0,
@@ -7949,6 +8195,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 449,
         sortr = "449",
         name1 = 0,
@@ -7980,6 +8227,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2352,
         sortr = "2352",
         name1 = 0,
@@ -8011,6 +8259,7 @@ return {
         unlockType = 9999,
         unlock = {
         },
+        minipack = 0,
         sort = 2077,
         sortr = "2077",
         name1 = 0,
@@ -8050,6 +8299,7 @@ return {
                 [564004] = 1,
             },
         },
+        minipack = 0,
         sort = 2078,
         sortr = "2078",
         name1 = 0,
@@ -8082,6 +8332,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 376,
         sortr = "376",
         name1 = 0,
@@ -8113,6 +8364,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 610,
         sortr = "610",
         name1 = 1701833,
@@ -8145,6 +8397,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 135,
         sortr = "135",
         name1 = 0,
@@ -8177,6 +8430,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 606,
         sortr = "606",
         name1 = 1701831,
@@ -8209,6 +8463,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 528,
         sortr = "528",
         name1 = 1701833,
@@ -8241,6 +8496,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 136,
         sortr = "136",
         name1 = 0,
@@ -8276,6 +8532,7 @@ return {
                 [411308] = 1,
             },
         },
+        minipack = 0,
         sort = 1129,
         sortr = "1129",
         name1 = 0,
@@ -8310,6 +8567,7 @@ return {
                 [410422] = 1,
             },
         },
+        minipack = 0,
         sort = 1161,
         sortr = "1161",
         name1 = 0,
@@ -8341,6 +8599,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 372,
         sortr = "372",
         name1 = 0,
@@ -8372,6 +8631,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 373,
         sortr = "373",
         name1 = 0,
@@ -8403,6 +8663,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 607,
         sortr = "607",
         name1 = 1701832,
@@ -8435,6 +8696,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 502,
         sortr = "502",
         name1 = 1701832,
@@ -8468,6 +8730,7 @@ return {
         unlock = {
             roleId = 112,
         },
+        minipack = 0,
         sort = 1565,
         sortr = "1565",
         name1 = 0,
@@ -8500,6 +8763,7 @@ return {
         unlock = {
             roleId = 112,
         },
+        minipack = 0,
         sort = 1571,
         sortr = "1571",
         name1 = 0,
@@ -8533,6 +8797,7 @@ return {
             favor = 300,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1573,
         sortr = "1573",
         name1 = 0,
@@ -8566,6 +8831,7 @@ return {
             favor = 300,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1575,
         sortr = "1575",
         name1 = 0,
@@ -8597,6 +8863,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 614,
         sortr = "614",
         name1 = 1701832,
@@ -8631,6 +8898,7 @@ return {
             favor = 2500,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1579,
         sortr = "1579",
         name1 = 0,
@@ -8664,6 +8932,7 @@ return {
             favor = 2500,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1581,
         sortr = "1581",
         name1 = 0,
@@ -8697,6 +8966,7 @@ return {
             favor = 2500,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1583,
         sortr = "1583",
         name1 = 0,
@@ -8730,6 +9000,7 @@ return {
             favor = 300,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1585,
         sortr = "1585",
         name1 = 0,
@@ -8762,6 +9033,7 @@ return {
         unlock = {
             heroId = 112001,
         },
+        minipack = 0,
         sort = 1587,
         sortr = "1587",
         name1 = 0,
@@ -8794,6 +9066,7 @@ return {
         unlock = {
             heroId = 112001,
         },
+        minipack = 0,
         sort = 1589,
         sortr = "1589",
         name1 = 0,
@@ -8826,6 +9099,7 @@ return {
         unlock = {
             heroId = 112001,
         },
+        minipack = 0,
         sort = 1591,
         sortr = "1591",
         name1 = 0,
@@ -8857,6 +9131,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 657,
         sortr = "657",
         name1 = 1701831,
@@ -8891,6 +9166,7 @@ return {
             favor = 2500,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1568,
         sortr = "1568",
         name1 = 0,
@@ -8922,6 +9198,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 525,
         sortr = "525",
         name1 = 1701832,
@@ -8956,6 +9233,7 @@ return {
             favor = 1000,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1205,
         sortr = "1205",
         name1 = 0,
@@ -8988,6 +9266,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1236,
         sortr = "1236",
         name1 = 0,
@@ -9020,6 +9299,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 538,
         sortr = "538",
         name1 = 1701830,
@@ -9052,6 +9332,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 211,
         sortr = "211",
         name1 = 0,
@@ -9084,6 +9365,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 212,
         sortr = "212",
         name1 = 0,
@@ -9116,6 +9398,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 377,
         sortr = "377",
         name1 = 0,
@@ -9147,6 +9430,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 378,
         sortr = "378",
         name1 = 0,
@@ -9178,6 +9462,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 545,
         sortr = "545",
         name1 = 1701833,
@@ -9210,6 +9495,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2310,
         sortr = "2310",
         name1 = 0,
@@ -9241,6 +9527,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2353,
         sortr = "2353",
         name1 = 0,
@@ -9272,6 +9559,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 379,
         sortr = "379",
         name1 = 0,
@@ -9303,6 +9591,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 368,
         sortr = "368",
         name1 = 0,
@@ -9334,6 +9623,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 597,
         sortr = "597",
         name1 = 1701832,
@@ -9366,6 +9656,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1090,
         sortr = "1090",
         name1 = 0,
@@ -9397,6 +9688,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 631,
         sortr = "631",
         name1 = 1701833,
@@ -9432,6 +9724,7 @@ return {
                 [411006] = 1,
             },
         },
+        minipack = 0,
         sort = 1130,
         sortr = "1130",
         name1 = 0,
@@ -9466,6 +9759,7 @@ return {
                 [410423] = 1,
             },
         },
+        minipack = 0,
         sort = 1162,
         sortr = "1162",
         name1 = 0,
@@ -9497,6 +9791,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1923,
         sortr = "1923",
         name1 = 0,
@@ -9528,6 +9823,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1925,
         sortr = "1925",
         name1 = 0,
@@ -9559,6 +9855,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1927,
         sortr = "1927",
         name1 = 0,
@@ -9592,6 +9889,7 @@ return {
             favor = 1000,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1929,
         sortr = "1929",
         name1 = 0,
@@ -9625,6 +9923,7 @@ return {
             favor = 1000,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1931,
         sortr = "1931",
         name1 = 0,
@@ -9658,6 +9957,7 @@ return {
             favor = 300,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1933,
         sortr = "1933",
         name1 = 0,
@@ -9691,6 +9991,7 @@ return {
             favor = 1000,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1935,
         sortr = "1935",
         name1 = 0,
@@ -9724,6 +10025,7 @@ return {
             favor = 1000,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1937,
         sortr = "1937",
         name1 = 0,
@@ -9756,6 +10058,7 @@ return {
         unlock = {
             roleId = 137,
         },
+        minipack = 0,
         sort = 1939,
         sortr = "1939",
         name1 = 0,
@@ -9788,6 +10091,7 @@ return {
         unlock = {
             roleId = 137,
         },
+        minipack = 0,
         sort = 1941,
         sortr = "1941",
         name1 = 0,
@@ -9821,6 +10125,7 @@ return {
             level = 30,
             heroId = 113701,
         },
+        minipack = 0,
         sort = 1943,
         sortr = "1943",
         name1 = 0,
@@ -9853,6 +10158,7 @@ return {
         unlock = {
             heroId = 113701,
         },
+        minipack = 0,
         sort = 1945,
         sortr = "1945",
         name1 = 0,
@@ -9886,6 +10192,7 @@ return {
             favor = 2500,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1920,
         sortr = "1920",
         name1 = 0,
@@ -9919,6 +10226,7 @@ return {
             favor = 2500,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1922,
         sortr = "1922",
         name1 = 0,
@@ -9950,6 +10258,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 48,
         sortr = "48",
         name1 = 0,
@@ -9982,6 +10291,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 380,
         sortr = "380",
         name1 = 0,
@@ -10013,6 +10323,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2229,
         sortr = "2229",
         name1 = 0,
@@ -10045,6 +10356,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2245,
         sortr = "2245",
         name1 = 0,
@@ -10077,6 +10389,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2258,
         sortr = "2258",
         name1 = 0,
@@ -10109,6 +10422,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1199,
         sortr = "1199",
         name1 = 0,
@@ -10141,6 +10455,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 381,
         sortr = "381",
         name1 = 0,
@@ -10172,6 +10487,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 198,
         sortr = "198",
         name1 = 0,
@@ -10204,6 +10520,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 382,
         sortr = "382",
         name1 = 0,
@@ -10235,6 +10552,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 544,
         sortr = "544",
         name1 = 1701832,
@@ -10267,6 +10585,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 543,
         sortr = "543",
         name1 = 1701832,
@@ -10299,6 +10618,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 539,
         sortr = "539",
         name1 = 1701830,
@@ -10331,6 +10651,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 200,
         sortr = "200",
         name1 = 0,
@@ -10363,6 +10684,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 389,
         sortr = "389",
         name1 = 0,
@@ -10394,6 +10716,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2382,
         sortr = "2382",
         name1 = 0,
@@ -10427,6 +10750,7 @@ return {
             favor = 2500,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1206,
         sortr = "1206",
         name1 = 0,
@@ -10459,6 +10783,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1237,
         sortr = "1237",
         name1 = 0,
@@ -10491,6 +10816,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2397,
         sortr = "2397",
         name1 = 0,
@@ -10522,6 +10848,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 624,
         sortr = "624",
         name1 = 1701833,
@@ -10554,6 +10881,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 573,
         sortr = "573",
         name1 = 1701831,
@@ -10586,6 +10914,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 540,
         sortr = "540",
         name1 = 1701831,
@@ -10618,6 +10947,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2383,
         sortr = "2383",
         name1 = 0,
@@ -10649,6 +10979,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2393,
         sortr = "2393",
         name1 = 0,
@@ -10680,6 +11011,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2399,
         sortr = "2399",
         name1 = 0,
@@ -10711,6 +11043,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2311,
         sortr = "2311",
         name1 = 0,
@@ -10742,6 +11075,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2354,
         sortr = "2354",
         name1 = 0,
@@ -10773,6 +11107,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 541,
         sortr = "541",
         name1 = 1701831,
@@ -10805,6 +11140,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2379,
         sortr = "2379",
         name1 = 0,
@@ -10836,6 +11172,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 625,
         sortr = "625",
         name1 = 1701830,
@@ -10868,6 +11205,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2384,
         sortr = "2384",
         name1 = 0,
@@ -10902,6 +11240,7 @@ return {
                 [410216] = 1,
             },
         },
+        minipack = 0,
         sort = 1131,
         sortr = "1131",
         name1 = 0,
@@ -10933,6 +11272,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 620,
         sortr = "620",
         name1 = 1701831,
@@ -10965,6 +11305,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1924,
         sortr = "1924",
         name1 = 0,
@@ -10996,6 +11337,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1926,
         sortr = "1926",
         name1 = 0,
@@ -11027,6 +11369,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1928,
         sortr = "1928",
         name1 = 0,
@@ -11060,6 +11403,7 @@ return {
             favor = 1000,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1930,
         sortr = "1930",
         name1 = 0,
@@ -11093,6 +11437,7 @@ return {
             favor = 2500,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1932,
         sortr = "1932",
         name1 = 0,
@@ -11126,6 +11471,7 @@ return {
             favor = 2500,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1934,
         sortr = "1934",
         name1 = 0,
@@ -11159,6 +11505,7 @@ return {
             favor = 2500,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1936,
         sortr = "1936",
         name1 = 0,
@@ -11192,6 +11539,7 @@ return {
             favor = 300,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1938,
         sortr = "1938",
         name1 = 0,
@@ -11223,6 +11571,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 547,
         sortr = "547",
         name1 = 1701833,
@@ -11256,6 +11605,7 @@ return {
         unlock = {
             heroId = 113701,
         },
+        minipack = 0,
         sort = 1942,
         sortr = "1942",
         name1 = 0,
@@ -11288,6 +11638,7 @@ return {
         unlock = {
             heroId = 113701,
         },
+        minipack = 0,
         sort = 1944,
         sortr = "1944",
         name1 = 0,
@@ -11321,6 +11672,7 @@ return {
             favor = 2500,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1919,
         sortr = "1919",
         name1 = 0,
@@ -11354,6 +11706,7 @@ return {
             favor = 2500,
             roleId = 137,
         },
+        minipack = 0,
         sort = 1921,
         sortr = "1921",
         name1 = 0,
@@ -11385,6 +11738,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2385,
         sortr = "2385",
         name1 = 0,
@@ -11417,6 +11771,7 @@ return {
         unlock = {
             dunId = 109640,
         },
+        minipack = 0,
         sort = 1198,
         sortr = "1198",
         name1 = 0,
@@ -11449,6 +11804,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2395,
         sortr = "2395",
         name1 = 0,
@@ -11480,6 +11836,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 390,
         sortr = "390",
         name1 = 0,
@@ -11511,6 +11868,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 629,
         sortr = "629",
         name1 = 1701833,
@@ -11545,6 +11903,7 @@ return {
             favor = 300,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1207,
         sortr = "1207",
         name1 = 0,
@@ -11577,6 +11936,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1238,
         sortr = "1238",
         name1 = 0,
@@ -11609,6 +11969,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2079,
         sortr = "2079",
         name1 = 0,
@@ -11640,6 +12001,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2080,
         sortr = "2080",
         name1 = 0,
@@ -11671,6 +12033,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2081,
         sortr = "2081",
         name1 = 0,
@@ -11702,6 +12065,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2082,
         sortr = "2082",
         name1 = 0,
@@ -11733,6 +12097,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2083,
         sortr = "2083",
         name1 = 0,
@@ -11764,6 +12129,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 44,
         sortr = "44",
         name1 = 0,
@@ -11796,6 +12162,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2085,
         sortr = "2085",
         name1 = 0,
@@ -11827,6 +12194,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2086,
         sortr = "2086",
         name1 = 0,
@@ -11858,6 +12226,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2087,
         sortr = "2087",
         name1 = 0,
@@ -11889,6 +12258,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2088,
         sortr = "2088",
         name1 = 0,
@@ -11920,6 +12290,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2089,
         sortr = "2089",
         name1 = 0,
@@ -11951,6 +12322,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2090,
         sortr = "2090",
         name1 = 0,
@@ -11982,6 +12354,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2091,
         sortr = "2091",
         name1 = 0,
@@ -12013,6 +12386,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2092,
         sortr = "2092",
         name1 = 0,
@@ -12044,6 +12418,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2093,
         sortr = "2093",
         name1 = 0,
@@ -12075,6 +12450,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2094,
         sortr = "2094",
         name1 = 0,
@@ -12106,6 +12482,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2095,
         sortr = "2095",
         name1 = 0,
@@ -12137,6 +12514,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2096,
         sortr = "2096",
         name1 = 0,
@@ -12168,6 +12546,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 574,
         sortr = "574",
         name1 = 1701831,
@@ -12200,6 +12579,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2098,
         sortr = "2098",
         name1 = 0,
@@ -12231,6 +12611,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2099,
         sortr = "2099",
         name1 = 0,
@@ -12262,6 +12643,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2100,
         sortr = "2100",
         name1 = 0,
@@ -12293,6 +12675,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2101,
         sortr = "2101",
         name1 = 0,
@@ -12324,6 +12707,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2102,
         sortr = "2102",
         name1 = 0,
@@ -12355,6 +12739,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2103,
         sortr = "2103",
         name1 = 0,
@@ -12386,6 +12771,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2104,
         sortr = "2104",
         name1 = 0,
@@ -12417,6 +12803,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2105,
         sortr = "2105",
         name1 = 0,
@@ -12448,6 +12835,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2106,
         sortr = "2106",
         name1 = 0,
@@ -12479,6 +12867,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2107,
         sortr = "2107",
         name1 = 0,
@@ -12510,6 +12899,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2108,
         sortr = "2108",
         name1 = 0,
@@ -12541,6 +12931,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 137,
         sortr = "137",
         name1 = 0,
@@ -12573,6 +12964,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2110,
         sortr = "2110",
         name1 = 0,
@@ -12604,6 +12996,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 506,
         sortr = "506",
         name1 = 1701833,
@@ -12636,6 +13029,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2112,
         sortr = "2112",
         name1 = 0,
@@ -12667,6 +13061,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2113,
         sortr = "2113",
         name1 = 0,
@@ -12698,6 +13093,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2114,
         sortr = "2114",
         name1 = 0,
@@ -12729,6 +13125,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2115,
         sortr = "2115",
         name1 = 0,
@@ -12760,6 +13157,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2116,
         sortr = "2116",
         name1 = 0,
@@ -12791,6 +13189,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2117,
         sortr = "2117",
         name1 = 0,
@@ -12822,6 +13221,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2118,
         sortr = "2118",
         name1 = 0,
@@ -12853,6 +13253,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2119,
         sortr = "2119",
         name1 = 0,
@@ -12884,6 +13285,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2120,
         sortr = "2120",
         name1 = 0,
@@ -12915,6 +13317,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2121,
         sortr = "2121",
         name1 = 0,
@@ -12946,6 +13349,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2380,
         sortr = "2380",
         name1 = 0,
@@ -12977,6 +13381,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2388,
         sortr = "2388",
         name1 = 0,
@@ -13011,6 +13416,7 @@ return {
                 [410511] = 1,
             },
         },
+        minipack = 0,
         sort = 1132,
         sortr = "1132",
         name1 = 0,
@@ -13045,6 +13451,7 @@ return {
                 [410607] = 1,
             },
         },
+        minipack = 0,
         sort = 1164,
         sortr = "1164",
         name1 = 0,
@@ -13076,6 +13483,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 138,
         sortr = "138",
         name1 = 0,
@@ -13108,6 +13516,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 576,
         sortr = "576",
         name1 = 1701833,
@@ -13140,6 +13549,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2230,
         sortr = "2230",
         name1 = 0,
@@ -13172,6 +13582,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 618,
         sortr = "618",
         name1 = 1701830,
@@ -13204,6 +13615,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2389,
         sortr = "2389",
         name1 = 0,
@@ -13235,6 +13647,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1200,
         sortr = "1200",
         name1 = 0,
@@ -13268,6 +13681,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1599,
         sortr = "1599",
         name1 = 0,
@@ -13301,6 +13715,7 @@ return {
             favor = 300,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1601,
         sortr = "1601",
         name1 = 0,
@@ -13334,6 +13749,7 @@ return {
             favor = 1000,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1603,
         sortr = "1603",
         name1 = 0,
@@ -13367,6 +13783,7 @@ return {
             favor = 1000,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1605,
         sortr = "1605",
         name1 = 0,
@@ -13400,6 +13817,7 @@ return {
             favor = 300,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1607,
         sortr = "1607",
         name1 = 0,
@@ -13433,6 +13851,7 @@ return {
             favor = 1000,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1609,
         sortr = "1609",
         name1 = 0,
@@ -13466,6 +13885,7 @@ return {
             favor = 1000,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1611,
         sortr = "1611",
         name1 = 0,
@@ -13498,6 +13918,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1613,
         sortr = "1613",
         name1 = 0,
@@ -13530,6 +13951,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1614,
         sortr = "1614",
         name1 = 0,
@@ -13563,6 +13985,7 @@ return {
             level = 30,
             heroId = 111301,
         },
+        minipack = 0,
         sort = 1638,
         sortr = "1638",
         name1 = 0,
@@ -13595,6 +14018,7 @@ return {
         unlock = {
             heroId = 111301,
         },
+        minipack = 0,
         sort = 1641,
         sortr = "1641",
         name1 = 0,
@@ -13628,6 +14052,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1595,
         sortr = "1595",
         name1 = 0,
@@ -13661,6 +14086,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1616,
         sortr = "1616",
         name1 = 0,
@@ -13694,6 +14120,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1618,
         sortr = "1618",
         name1 = 0,
@@ -13726,6 +14153,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1620,
         sortr = "1620",
         name1 = 0,
@@ -13759,6 +14187,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1622,
         sortr = "1622",
         name1 = 0,
@@ -13792,6 +14221,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1624,
         sortr = "1624",
         name1 = 0,
@@ -13823,6 +14253,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 36,
         sortr = "36",
         name1 = 0,
@@ -13857,6 +14288,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1628,
         sortr = "1628",
         name1 = 0,
@@ -13890,6 +14322,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1630,
         sortr = "1630",
         name1 = 0,
@@ -13923,6 +14356,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1632,
         sortr = "1632",
         name1 = 0,
@@ -13956,6 +14390,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1634,
         sortr = "1634",
         name1 = 0,
@@ -13988,6 +14423,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1636,
         sortr = "1636",
         name1 = 0,
@@ -14019,6 +14455,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 557,
         sortr = "557",
         name1 = 1701832,
@@ -14053,6 +14490,7 @@ return {
             favor = 1000,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1208,
         sortr = "1208",
         name1 = 0,
@@ -14085,6 +14523,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1239,
         sortr = "1239",
         name1 = 0,
@@ -14117,6 +14556,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2401,
         sortr = "2401",
         name1 = 0,
@@ -14148,6 +14588,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 623,
         sortr = "623",
         name1 = 1701833,
@@ -14180,6 +14621,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2324,
         sortr = "2324",
         name1 = 0,
@@ -14211,6 +14653,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2356,
         sortr = "2356",
         name1 = 0,
@@ -14243,6 +14686,7 @@ return {
         unlock = {
             roleId = 105,
         },
+        minipack = 0,
         sort = 1401,
         sortr = "1401",
         name1 = 0,
@@ -14275,6 +14719,7 @@ return {
         unlock = {
             roleId = 105,
         },
+        minipack = 0,
         sort = 1403,
         sortr = "1403",
         name1 = 0,
@@ -14309,6 +14754,7 @@ return {
                 [411402] = 1,
             },
         },
+        minipack = 0,
         sort = 1133,
         sortr = "1133",
         name1 = 0,
@@ -14343,6 +14789,7 @@ return {
                 [412602] = 1,
             },
         },
+        minipack = 0,
         sort = 1165,
         sortr = "1165",
         name1 = 0,
@@ -14376,6 +14823,7 @@ return {
             favor = 1000,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1409,
         sortr = "1409",
         name1 = 0,
@@ -14409,6 +14857,7 @@ return {
             favor = 300,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1411,
         sortr = "1411",
         name1 = 0,
@@ -14442,6 +14891,7 @@ return {
             favor = 1000,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1413,
         sortr = "1413",
         name1 = 0,
@@ -14475,6 +14925,7 @@ return {
             favor = 1000,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1415,
         sortr = "1415",
         name1 = 0,
@@ -14507,6 +14958,7 @@ return {
         unlock = {
             roleId = 105,
         },
+        minipack = 0,
         sort = 1417,
         sortr = "1417",
         name1 = 0,
@@ -14539,6 +14991,7 @@ return {
         unlock = {
             roleId = 105,
         },
+        minipack = 0,
         sort = 1418,
         sortr = "1418",
         name1 = 0,
@@ -14572,6 +15025,7 @@ return {
             level = 30,
             heroId = 110501,
         },
+        minipack = 0,
         sort = 1420,
         sortr = "1420",
         name1 = 0,
@@ -14604,6 +15058,7 @@ return {
         unlock = {
             heroId = 110501,
         },
+        minipack = 0,
         sort = 1423,
         sortr = "1423",
         name1 = 0,
@@ -14635,6 +15090,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 213,
         sortr = "213",
         name1 = 0,
@@ -14666,6 +15122,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 28,
         sortr = "28",
         name1 = 0,
@@ -14698,6 +15155,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 29,
         sortr = "29",
         name1 = 0,
@@ -14732,6 +15190,7 @@ return {
             favor = 2500,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1398,
         sortr = "1398",
         name1 = 0,
@@ -14765,6 +15224,7 @@ return {
             favor = 2500,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1400,
         sortr = "1400",
         name1 = 0,
@@ -14796,6 +15256,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 218,
         sortr = "218",
         name1 = 0,
@@ -14827,6 +15288,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 30,
         sortr = "30",
         name1 = 0,
@@ -14860,6 +15322,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1593,
         sortr = "1593",
         name1 = 0,
@@ -14892,6 +15355,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1598,
         sortr = "1598",
         name1 = 0,
@@ -14925,6 +15389,7 @@ return {
             favor = 300,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1600,
         sortr = "1600",
         name1 = 0,
@@ -14958,6 +15423,7 @@ return {
             favor = 300,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1602,
         sortr = "1602",
         name1 = 0,
@@ -14991,6 +15457,7 @@ return {
             favor = 1000,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1604,
         sortr = "1604",
         name1 = 0,
@@ -15024,6 +15491,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1606,
         sortr = "1606",
         name1 = 0,
@@ -15057,6 +15525,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1608,
         sortr = "1608",
         name1 = 0,
@@ -15090,6 +15559,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1610,
         sortr = "1610",
         name1 = 0,
@@ -15123,6 +15593,7 @@ return {
             favor = 300,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1612,
         sortr = "1612",
         name1 = 0,
@@ -15155,6 +15626,7 @@ return {
         unlock = {
             heroId = 111301,
         },
+        minipack = 0,
         sort = 1640,
         sortr = "1640",
         name1 = 0,
@@ -15187,6 +15659,7 @@ return {
         unlock = {
             heroId = 111301,
         },
+        minipack = 0,
         sort = 1637,
         sortr = "1637",
         name1 = 0,
@@ -15219,6 +15692,7 @@ return {
         unlock = {
             heroId = 111301,
         },
+        minipack = 0,
         sort = 1639,
         sortr = "1639",
         name1 = 0,
@@ -15250,6 +15724,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 220,
         sortr = "220",
         name1 = 0,
@@ -15283,6 +15758,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1596,
         sortr = "1596",
         name1 = 0,
@@ -15315,6 +15791,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1615,
         sortr = "1615",
         name1 = 0,
@@ -15348,6 +15825,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1617,
         sortr = "1617",
         name1 = 0,
@@ -15380,6 +15858,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1619,
         sortr = "1619",
         name1 = 0,
@@ -15412,6 +15891,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1621,
         sortr = "1621",
         name1 = 0,
@@ -15445,6 +15925,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1623,
         sortr = "1623",
         name1 = 0,
@@ -15478,6 +15959,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1625,
         sortr = "1625",
         name1 = 0,
@@ -15509,6 +15991,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 221,
         sortr = "221",
         name1 = 0,
@@ -15542,6 +16025,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1629,
         sortr = "1629",
         name1 = 0,
@@ -15575,6 +16059,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1631,
         sortr = "1631",
         name1 = 0,
@@ -15608,6 +16093,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1633,
         sortr = "1633",
         name1 = 0,
@@ -15640,6 +16126,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1635,
         sortr = "1635",
         name1 = 0,
@@ -15671,6 +16158,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 222,
         sortr = "222",
         name1 = 0,
@@ -15704,6 +16192,7 @@ return {
             favor = 2500,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1209,
         sortr = "1209",
         name1 = 0,
@@ -15736,6 +16225,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1240,
         sortr = "1240",
         name1 = 0,
@@ -15768,6 +16258,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 223,
         sortr = "223",
         name1 = 0,
@@ -15799,6 +16290,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 202,
         sortr = "202",
         name1 = 0,
@@ -15831,6 +16323,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 224,
         sortr = "224",
         name1 = 0,
@@ -15862,6 +16355,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 225,
         sortr = "225",
         name1 = 0,
@@ -15893,6 +16387,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1082,
         sortr = "1082",
         name1 = 0,
@@ -15924,6 +16419,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 226,
         sortr = "226",
         name1 = 0,
@@ -15955,6 +16451,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2325,
         sortr = "2325",
         name1 = 0,
@@ -15986,6 +16483,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2357,
         sortr = "2357",
         name1 = 0,
@@ -16017,6 +16515,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 8,
         sortr = "8",
         name1 = 0,
@@ -16049,6 +16548,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 9,
         sortr = "9",
         name1 = 0,
@@ -16081,6 +16581,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 10,
         sortr = "10",
         name1 = 0,
@@ -16114,6 +16615,7 @@ return {
         unlock = {
             roleId = 105,
         },
+        minipack = 0,
         sort = 1396,
         sortr = "1396",
         name1 = 0,
@@ -16146,6 +16648,7 @@ return {
         unlock = {
             roleId = 105,
         },
+        minipack = 0,
         sort = 1402,
         sortr = "1402",
         name1 = 0,
@@ -16179,6 +16682,7 @@ return {
             favor = 300,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1404,
         sortr = "1404",
         name1 = 0,
@@ -16213,6 +16717,7 @@ return {
                 [411502] = 1,
             },
         },
+        minipack = 0,
         sort = 1134,
         sortr = "1134",
         name1 = 0,
@@ -16247,6 +16752,7 @@ return {
                 [412702] = 1,
             },
         },
+        minipack = 0,
         sort = 1166,
         sortr = "1166",
         name1 = 0,
@@ -16280,6 +16786,7 @@ return {
             favor = 2500,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1410,
         sortr = "1410",
         name1 = 0,
@@ -16313,6 +16820,7 @@ return {
             favor = 2500,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1412,
         sortr = "1412",
         name1 = 0,
@@ -16346,6 +16854,7 @@ return {
             favor = 2500,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1414,
         sortr = "1414",
         name1 = 0,
@@ -16379,6 +16888,7 @@ return {
             favor = 300,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1416,
         sortr = "1416",
         name1 = 0,
@@ -16411,6 +16921,7 @@ return {
         unlock = {
             heroId = 110501,
         },
+        minipack = 0,
         sort = 1422,
         sortr = "1422",
         name1 = 0,
@@ -16443,6 +16954,7 @@ return {
         unlock = {
             heroId = 110501,
         },
+        minipack = 0,
         sort = 1419,
         sortr = "1419",
         name1 = 0,
@@ -16475,6 +16987,7 @@ return {
         unlock = {
             heroId = 110501,
         },
+        minipack = 0,
         sort = 1421,
         sortr = "1421",
         name1 = 0,
@@ -16506,6 +17019,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 590,
         sortr = "590",
         name1 = 1701833,
@@ -16540,6 +17054,7 @@ return {
             favor = 2500,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1397,
         sortr = "1397",
         name1 = 0,
@@ -16573,6 +17088,7 @@ return {
             favor = 2500,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1399,
         sortr = "1399",
         name1 = 0,
@@ -16604,6 +17120,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2231,
         sortr = "2231",
         name1 = 0,
@@ -16636,6 +17153,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 180,
         sortr = "180",
         name1 = 0,
@@ -16668,6 +17186,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1202,
         sortr = "1202",
         name1 = 0,
@@ -16700,6 +17219,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 181,
         sortr = "181",
         name1 = 0,
@@ -16732,6 +17252,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 179,
         sortr = "179",
         name1 = 0,
@@ -16764,6 +17285,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1081,
         sortr = "1081",
         name1 = 0,
@@ -16795,6 +17317,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 586,
         sortr = "586",
         name1 = 1701830,
@@ -16829,6 +17352,7 @@ return {
             favor = 300,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1210,
         sortr = "1210",
         name1 = 0,
@@ -16862,6 +17386,7 @@ return {
         unlock = {
             dunId = 108646,
         },
+        minipack = 0,
         sort = 1197,
         sortr = "1197",
         name1 = 0,
@@ -16894,6 +17419,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 11,
         sortr = "11",
         name1 = 0,
@@ -16926,6 +17452,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 12,
         sortr = "12",
         name1 = 0,
@@ -16958,6 +17485,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 13,
         sortr = "13",
         name1 = 0,
@@ -16990,6 +17518,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 14,
         sortr = "14",
         name1 = 0,
@@ -17022,6 +17551,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1811,
         sortr = "1811",
         name1 = 0,
@@ -17053,6 +17583,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1813,
         sortr = "1813",
         name1 = 0,
@@ -17084,6 +17615,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1815,
         sortr = "1815",
         name1 = 0,
@@ -17117,6 +17649,7 @@ return {
             favor = 1000,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1817,
         sortr = "1817",
         name1 = 0,
@@ -17150,6 +17683,7 @@ return {
             favor = 1000,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1819,
         sortr = "1819",
         name1 = 0,
@@ -17183,6 +17717,7 @@ return {
             favor = 300,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1821,
         sortr = "1821",
         name1 = 0,
@@ -17216,6 +17751,7 @@ return {
             favor = 1000,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1823,
         sortr = "1823",
         name1 = 0,
@@ -17249,6 +17785,7 @@ return {
             favor = 1000,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1825,
         sortr = "1825",
         name1 = 0,
@@ -17281,6 +17818,7 @@ return {
         unlock = {
             roleId = 130,
         },
+        minipack = 0,
         sort = 1827,
         sortr = "1827",
         name1 = 0,
@@ -17313,6 +17851,7 @@ return {
         unlock = {
             roleId = 130,
         },
+        minipack = 0,
         sort = 1829,
         sortr = "1829",
         name1 = 0,
@@ -17344,6 +17883,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1831,
         sortr = "1831",
         name1 = 0,
@@ -17375,6 +17915,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1833,
         sortr = "1833",
         name1 = 0,
@@ -17408,6 +17949,7 @@ return {
             favor = 2500,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1808,
         sortr = "1808",
         name1 = 0,
@@ -17441,6 +17983,7 @@ return {
             favor = 2500,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1810,
         sortr = "1810",
         name1 = 0,
@@ -17472,6 +18015,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2326,
         sortr = "2326",
         name1 = 0,
@@ -17503,6 +18047,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2358,
         sortr = "2358",
         name1 = 0,
@@ -17534,6 +18079,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 139,
         sortr = "139",
         name1 = 0,
@@ -17569,6 +18115,7 @@ return {
                 [410113] = 1,
             },
         },
+        minipack = 0,
         sort = 1135,
         sortr = "1135",
         name1 = 0,
@@ -17603,6 +18150,7 @@ return {
                 [412802] = 1,
             },
         },
+        minipack = 0,
         sort = 1167,
         sortr = "1167",
         name1 = 0,
@@ -17646,6 +18194,7 @@ return {
                 [10] = 119501722,
             },
         },
+        minipack = 0,
         sort = 2047,
         sortr = "2047",
         name1 = 0,
@@ -17678,6 +18227,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2048,
         sortr = "2048",
         name1 = 0,
@@ -17710,6 +18260,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2049,
         sortr = "2049",
         name1 = 0,
@@ -17742,6 +18293,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2050,
         sortr = "2050",
         name1 = 0,
@@ -17777,6 +18329,7 @@ return {
                 [585009] = 1,
             },
         },
+        minipack = 0,
         sort = 2051,
         sortr = "2051",
         name1 = 0,
@@ -17809,6 +18362,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2052,
         sortr = "2052",
         name1 = 0,
@@ -17841,6 +18395,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1079,
         sortr = "1079",
         name1 = 0,
@@ -17872,6 +18427,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1080,
         sortr = "1080",
         name1 = 0,
@@ -17903,6 +18459,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 140,
         sortr = "140",
         name1 = 0,
@@ -17935,6 +18492,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1203,
         sortr = "1203",
         name1 = 0,
@@ -17967,6 +18525,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 215,
         sortr = "215",
         name1 = 0,
@@ -18000,6 +18559,7 @@ return {
             favor = 1000,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1211,
         sortr = "1211",
         name1 = 0,
@@ -18034,6 +18594,7 @@ return {
             favor = 2500,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1241,
         sortr = "1241",
         name1 = 0,
@@ -18067,6 +18628,7 @@ return {
         unlock = {
             roleId = 130,
         },
+        minipack = 0,
         sort = 1806,
         sortr = "1806",
         name1 = 0,
@@ -18098,6 +18660,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1812,
         sortr = "1812",
         name1 = 0,
@@ -18129,6 +18692,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1814,
         sortr = "1814",
         name1 = 0,
@@ -18160,6 +18724,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1816,
         sortr = "1816",
         name1 = 0,
@@ -18193,6 +18758,7 @@ return {
             favor = 1000,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1818,
         sortr = "1818",
         name1 = 0,
@@ -18226,6 +18792,7 @@ return {
             favor = 2500,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1820,
         sortr = "1820",
         name1 = 0,
@@ -18259,6 +18826,7 @@ return {
             favor = 2500,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1822,
         sortr = "1822",
         name1 = 0,
@@ -18292,6 +18860,7 @@ return {
             favor = 2500,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1824,
         sortr = "1824",
         name1 = 0,
@@ -18325,6 +18894,7 @@ return {
             favor = 300,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1826,
         sortr = "1826",
         name1 = 0,
@@ -18356,6 +18926,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1828,
         sortr = "1828",
         name1 = 0,
@@ -18388,6 +18959,7 @@ return {
         unlock = {
             roleId = 130,
         },
+        minipack = 0,
         sort = 1830,
         sortr = "1830",
         name1 = 0,
@@ -18419,6 +18991,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1832,
         sortr = "1832",
         name1 = 0,
@@ -18452,6 +19025,7 @@ return {
             favor = 2500,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1807,
         sortr = "1807",
         name1 = 0,
@@ -18485,6 +19059,7 @@ return {
             favor = 2500,
             roleId = 130,
         },
+        minipack = 0,
         sort = 1809,
         sortr = "1809",
         name1 = 0,
@@ -18527,6 +19102,7 @@ return {
                 [9] = 314503226,
             },
         },
+        minipack = 0,
         sort = 2019,
         sortr = "2019",
         name1 = 0,
@@ -18559,6 +19135,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2020,
         sortr = "2020",
         name1 = 0,
@@ -18591,6 +19168,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2021,
         sortr = "2021",
         name1 = 0,
@@ -18623,6 +19201,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2022,
         sortr = "2022",
         name1 = 0,
@@ -18655,6 +19234,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2023,
         sortr = "2023",
         name1 = 0,
@@ -18687,6 +19267,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1077,
         sortr = "1077",
         name1 = 0,
@@ -18718,6 +19299,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1078,
         sortr = "1078",
         name1 = 0,
@@ -18752,6 +19334,7 @@ return {
                 [410309] = 1,
             },
         },
+        minipack = 0,
         sort = 1136,
         sortr = "1136",
         name1 = 0,
@@ -18786,6 +19369,7 @@ return {
                 [413002] = 1,
             },
         },
+        minipack = 0,
         sort = 1168,
         sortr = "1168",
         name1 = 0,
@@ -18817,6 +19401,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2232,
         sortr = "2232",
         name1 = 0,
@@ -18849,6 +19434,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2246,
         sortr = "2246",
         name1 = 0,
@@ -18881,6 +19467,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2191,
         sortr = "2191",
         name1 = 0,
@@ -18913,6 +19500,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2195,
         sortr = "2195",
         name1 = 0,
@@ -18945,6 +19533,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2199,
         sortr = "2199",
         name1 = 0,
@@ -18977,6 +19566,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2203,
         sortr = "2203",
         name1 = 0,
@@ -19009,6 +19599,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2207,
         sortr = "2207",
         name1 = 0,
@@ -19041,6 +19632,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2211,
         sortr = "2211",
         name1 = 0,
@@ -19073,6 +19665,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2215,
         sortr = "2215",
         name1 = 0,
@@ -19105,6 +19698,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2220,
         sortr = "2220",
         name1 = 0,
@@ -19137,6 +19731,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2223,
         sortr = "2223",
         name1 = 0,
@@ -19169,6 +19764,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 608,
         sortr = "608",
         name1 = 1701833,
@@ -19203,6 +19799,7 @@ return {
             favor = 2500,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1212,
         sortr = "1212",
         name1 = 0,
@@ -19235,6 +19832,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1242,
         sortr = "1242",
         name1 = 0,
@@ -19268,6 +19866,7 @@ return {
         unlock = {
             dunId = 104321,
         },
+        minipack = 0,
         sort = 1964,
         sortr = "1964",
         name1 = 0,
@@ -19303,6 +19902,7 @@ return {
                 [585004] = 1,
             },
         },
+        minipack = 0,
         sort = 1965,
         sortr = "1965",
         name1 = 0,
@@ -19336,6 +19936,7 @@ return {
         unlock = {
             dunId = 110025,
         },
+        minipack = 0,
         sort = 1967,
         sortr = "1967",
         name1 = 0,
@@ -19368,6 +19969,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1968,
         sortr = "1968",
         name1 = 0,
@@ -19410,6 +20012,7 @@ return {
                 [8] = 122701173,
             },
         },
+        minipack = 0,
         sort = 1969,
         sortr = "1969",
         name1 = 0,
@@ -19442,6 +20045,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1970,
         sortr = "1970",
         name1 = 0,
@@ -19474,6 +20078,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1971,
         sortr = "1971",
         name1 = 0,
@@ -19506,6 +20111,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1972,
         sortr = "1972",
         name1 = 0,
@@ -19538,6 +20144,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1973,
         sortr = "1973",
         name1 = 0,
@@ -19570,6 +20177,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1974,
         sortr = "1974",
         name1 = 0,
@@ -19602,6 +20210,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1975,
         sortr = "1975",
         name1 = 0,
@@ -19634,6 +20243,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1976,
         sortr = "1976",
         name1 = 0,
@@ -19666,6 +20276,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1977,
         sortr = "1977",
         name1 = 0,
@@ -19698,6 +20309,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1978,
         sortr = "1978",
         name1 = 0,
@@ -19730,6 +20342,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1979,
         sortr = "1979",
         name1 = 0,
@@ -19762,6 +20375,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1091,
         sortr = "1091",
         name1 = 0,
@@ -19793,6 +20407,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1981,
         sortr = "1981",
         name1 = 0,
@@ -19825,6 +20440,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 392,
         sortr = "392",
         name1 = 0,
@@ -19859,6 +20475,7 @@ return {
                 [585005] = 1,
             },
         },
+        minipack = 0,
         sort = 1966,
         sortr = "1966",
         name1 = 0,
@@ -19891,6 +20508,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 190,
         sortr = "190",
         name1 = 0,
@@ -19923,6 +20541,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 605,
         sortr = "605",
         name1 = 1701831,
@@ -19955,6 +20574,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 191,
         sortr = "191",
         name1 = 0,
@@ -19987,6 +20607,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 394,
         sortr = "394",
         name1 = 0,
@@ -20018,6 +20639,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2277,
         sortr = "2277",
         name1 = 0,
@@ -20049,6 +20671,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 238,
         sortr = "238",
         name1 = 0,
@@ -20080,6 +20703,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2328,
         sortr = "2328",
         name1 = 0,
@@ -20111,6 +20735,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2360,
         sortr = "2360",
         name1 = 0,
@@ -20142,6 +20767,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 527,
         sortr = "527",
         name1 = 1701833,
@@ -20174,6 +20800,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 393,
         sortr = "393",
         name1 = 0,
@@ -20205,6 +20832,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 240,
         sortr = "240",
         name1 = 0,
@@ -20237,6 +20865,7 @@ return {
         unlock = {
             roleId = 106,
         },
+        minipack = 0,
         sort = 1429,
         sortr = "1429",
         name1 = 0,
@@ -20269,6 +20898,7 @@ return {
         unlock = {
             roleId = 106,
         },
+        minipack = 0,
         sort = 1431,
         sortr = "1431",
         name1 = 0,
@@ -20302,6 +20932,7 @@ return {
             favor = 300,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1433,
         sortr = "1433",
         name1 = 0,
@@ -20335,6 +20966,7 @@ return {
             favor = 1000,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1435,
         sortr = "1435",
         name1 = 0,
@@ -20368,6 +21000,7 @@ return {
             favor = 1000,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1437,
         sortr = "1437",
         name1 = 0,
@@ -20401,6 +21034,7 @@ return {
             favor = 300,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1439,
         sortr = "1439",
         name1 = 0,
@@ -20434,6 +21068,7 @@ return {
             favor = 1000,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1441,
         sortr = "1441",
         name1 = 0,
@@ -20465,6 +21100,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 241,
         sortr = "241",
         name1 = 0,
@@ -20497,6 +21133,7 @@ return {
         unlock = {
             roleId = 106,
         },
+        minipack = 0,
         sort = 1445,
         sortr = "1445",
         name1 = 0,
@@ -20529,6 +21166,7 @@ return {
         unlock = {
             roleId = 106,
         },
+        minipack = 0,
         sort = 1446,
         sortr = "1446",
         name1 = 0,
@@ -20562,6 +21200,7 @@ return {
             level = 30,
             heroId = 110601,
         },
+        minipack = 0,
         sort = 1448,
         sortr = "1448",
         name1 = 0,
@@ -20594,6 +21233,7 @@ return {
         unlock = {
             heroId = 110601,
         },
+        minipack = 0,
         sort = 1451,
         sortr = "1451",
         name1 = 0,
@@ -20627,6 +21267,7 @@ return {
             level = 30,
             heroId = 110602,
         },
+        minipack = 0,
         sort = 1453,
         sortr = "1453",
         name1 = 0,
@@ -20659,6 +21300,7 @@ return {
         unlock = {
             heroId = 110602,
         },
+        minipack = 0,
         sort = 1456,
         sortr = "1456",
         name1 = 0,
@@ -20693,6 +21335,7 @@ return {
                 [410116] = 1,
             },
         },
+        minipack = 0,
         sort = 1137,
         sortr = "1137",
         name1 = 0,
@@ -20724,6 +21367,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 242,
         sortr = "242",
         name1 = 0,
@@ -20755,6 +21399,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 243,
         sortr = "243",
         name1 = 0,
@@ -20786,6 +21431,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 244,
         sortr = "244",
         name1 = 0,
@@ -20817,6 +21463,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 245,
         sortr = "245",
         name1 = 0,
@@ -20848,6 +21495,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 535,
         sortr = "535",
         name1 = 1701833,
@@ -20880,6 +21528,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 52,
         sortr = "52",
         name1 = 0,
@@ -20912,6 +21561,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 246,
         sortr = "246",
         name1 = 0,
@@ -20943,6 +21593,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 396,
         sortr = "396",
         name1 = 0,
@@ -20974,6 +21625,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1076,
         sortr = "1076",
         name1 = 0,
@@ -21005,6 +21657,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 184,
         sortr = "184",
         name1 = 0,
@@ -21037,6 +21690,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 182,
         sortr = "182",
         name1 = 0,
@@ -21069,6 +21723,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 395,
         sortr = "395",
         name1 = 0,
@@ -21100,6 +21755,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2123,
         sortr = "2123",
         name1 = 0,
@@ -21134,6 +21790,7 @@ return {
             favor = 300,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1213,
         sortr = "1213",
         name1 = 0,
@@ -21166,6 +21823,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1243,
         sortr = "1243",
         name1 = 0,
@@ -21198,6 +21856,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 397,
         sortr = "397",
         name1 = 0,
@@ -21229,6 +21888,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2125,
         sortr = "2125",
         name1 = 0,
@@ -21261,6 +21921,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2126,
         sortr = "2126",
         name1 = 0,
@@ -21293,6 +21954,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2127,
         sortr = "2127",
         name1 = 0,
@@ -21325,6 +21987,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2128,
         sortr = "2128",
         name1 = 0,
@@ -21357,6 +22020,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2129,
         sortr = "2129",
         name1 = 0,
@@ -21389,6 +22053,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2130,
         sortr = "2130",
         name1 = 0,
@@ -21421,6 +22086,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2278,
         sortr = "2278",
         name1 = 0,
@@ -21452,6 +22118,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2329,
         sortr = "2329",
         name1 = 0,
@@ -21483,6 +22150,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2361,
         sortr = "2361",
         name1 = 0,
@@ -21515,6 +22183,7 @@ return {
         unlock = {
             roleId = 106,
         },
+        minipack = 0,
         sort = 1424,
         sortr = "1424",
         name1 = 0,
@@ -21547,6 +22216,7 @@ return {
         unlock = {
             roleId = 106,
         },
+        minipack = 0,
         sort = 1430,
         sortr = "1430",
         name1 = 0,
@@ -21580,6 +22250,7 @@ return {
             favor = 300,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1432,
         sortr = "1432",
         name1 = 0,
@@ -21613,6 +22284,7 @@ return {
             favor = 300,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1434,
         sortr = "1434",
         name1 = 0,
@@ -21646,6 +22318,7 @@ return {
             favor = 1000,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1436,
         sortr = "1436",
         name1 = 0,
@@ -21679,6 +22352,7 @@ return {
             favor = 2500,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1438,
         sortr = "1438",
         name1 = 0,
@@ -21712,6 +22386,7 @@ return {
             favor = 2500,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1440,
         sortr = "1440",
         name1 = 0,
@@ -21745,6 +22420,7 @@ return {
             favor = 2500,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1442,
         sortr = "1442",
         name1 = 0,
@@ -21778,6 +22454,7 @@ return {
             favor = 300,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1444,
         sortr = "1444",
         name1 = 0,
@@ -21810,6 +22487,7 @@ return {
         unlock = {
             heroId = 110601,
         },
+        minipack = 0,
         sort = 1450,
         sortr = "1450",
         name1 = 0,
@@ -21842,6 +22520,7 @@ return {
         unlock = {
             heroId = 110601,
         },
+        minipack = 0,
         sort = 1447,
         sortr = "1447",
         name1 = 0,
@@ -21874,6 +22553,7 @@ return {
         unlock = {
             heroId = 110601,
         },
+        minipack = 0,
         sort = 1449,
         sortr = "1449",
         name1 = 0,
@@ -21905,6 +22585,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 49,
         sortr = "49",
         name1 = 0,
@@ -21938,6 +22619,7 @@ return {
         unlock = {
             heroId = 110602,
         },
+        minipack = 0,
         sort = 1454,
         sortr = "1454",
         name1 = 0,
@@ -21971,6 +22653,7 @@ return {
             favor = 2500,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1425,
         sortr = "1425",
         name1 = 0,
@@ -22005,6 +22688,7 @@ return {
                 [410414] = 1,
             },
         },
+        minipack = 0,
         sort = 1138,
         sortr = "1138",
         name1 = 0,
@@ -22039,6 +22723,7 @@ return {
                 [411214] = 1,
             },
         },
+        minipack = 0,
         sort = 1170,
         sortr = "1170",
         name1 = 0,
@@ -22070,6 +22755,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 141,
         sortr = "141",
         name1 = 0,
@@ -22102,6 +22788,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2233,
         sortr = "2233",
         name1 = 0,
@@ -22136,6 +22823,7 @@ return {
             favor = 1000,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1214,
         sortr = "1214",
         name1 = 0,
@@ -22168,6 +22856,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1244,
         sortr = "1244",
         name1 = 0,
@@ -22200,6 +22889,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1839,
         sortr = "1839",
         name1 = 0,
@@ -22231,6 +22921,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1841,
         sortr = "1841",
         name1 = 0,
@@ -22262,6 +22953,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1843,
         sortr = "1843",
         name1 = 0,
@@ -22295,6 +22987,7 @@ return {
             favor = 1000,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1845,
         sortr = "1845",
         name1 = 0,
@@ -22328,6 +23021,7 @@ return {
             favor = 1000,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1847,
         sortr = "1847",
         name1 = 0,
@@ -22361,6 +23055,7 @@ return {
             favor = 300,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1849,
         sortr = "1849",
         name1 = 0,
@@ -22394,6 +23089,7 @@ return {
             favor = 1000,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1851,
         sortr = "1851",
         name1 = 0,
@@ -22427,6 +23123,7 @@ return {
             favor = 1000,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1853,
         sortr = "1853",
         name1 = 0,
@@ -22458,6 +23155,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 402,
         sortr = "402",
         name1 = 0,
@@ -22490,6 +23188,7 @@ return {
         unlock = {
             roleId = 131,
         },
+        minipack = 0,
         sort = 1857,
         sortr = "1857",
         name1 = 0,
@@ -22523,6 +23222,7 @@ return {
             level = 30,
             heroId = 113101,
         },
+        minipack = 0,
         sort = 1859,
         sortr = "1859",
         name1 = 0,
@@ -22555,6 +23255,7 @@ return {
         unlock = {
             heroId = 113101,
         },
+        minipack = 0,
         sort = 1861,
         sortr = "1861",
         name1 = 0,
@@ -22588,6 +23289,7 @@ return {
             favor = 2500,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1836,
         sortr = "1836",
         name1 = 0,
@@ -22621,6 +23323,7 @@ return {
             favor = 2500,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1838,
         sortr = "1838",
         name1 = 0,
@@ -22652,6 +23355,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2279,
         sortr = "2279",
         name1 = 0,
@@ -22683,6 +23387,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 401,
         sortr = "401",
         name1 = 0,
@@ -22714,6 +23419,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2290,
         sortr = "2290",
         name1 = 0,
@@ -22745,6 +23451,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2330,
         sortr = "2330",
         name1 = 0,
@@ -22776,6 +23483,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2362,
         sortr = "2362",
         name1 = 0,
@@ -22807,6 +23515,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1074,
         sortr = "1074",
         name1 = 0,
@@ -22838,6 +23547,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 405,
         sortr = "405",
         name1 = 0,
@@ -22872,6 +23582,7 @@ return {
                 [410219] = 1,
             },
         },
+        minipack = 0,
         sort = 1139,
         sortr = "1139",
         name1 = 0,
@@ -22906,6 +23617,7 @@ return {
                 [410119] = 1,
             },
         },
+        minipack = 0,
         sort = 1171,
         sortr = "1171",
         name1 = 0,
@@ -22937,6 +23649,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 404,
         sortr = "404",
         name1 = 0,
@@ -22968,6 +23681,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 406,
         sortr = "406",
         name1 = 0,
@@ -22999,6 +23713,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2131,
         sortr = "2131",
         name1 = 0,
@@ -23031,6 +23746,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 45,
         sortr = "45",
         name1 = 0,
@@ -23063,6 +23779,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2133,
         sortr = "2133",
         name1 = 0,
@@ -23097,6 +23814,7 @@ return {
             favor = 2500,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1215,
         sortr = "1215",
         name1 = 0,
@@ -23129,6 +23847,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2134,
         sortr = "2134",
         name1 = 0,
@@ -23162,6 +23881,7 @@ return {
         unlock = {
             roleId = 131,
         },
+        minipack = 0,
         sort = 1834,
         sortr = "1834",
         name1 = 0,
@@ -23193,6 +23913,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1840,
         sortr = "1840",
         name1 = 0,
@@ -23224,6 +23945,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1842,
         sortr = "1842",
         name1 = 0,
@@ -23255,6 +23977,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1844,
         sortr = "1844",
         name1 = 0,
@@ -23288,6 +24011,7 @@ return {
             favor = 1000,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1846,
         sortr = "1846",
         name1 = 0,
@@ -23321,6 +24045,7 @@ return {
             favor = 2500,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1848,
         sortr = "1848",
         name1 = 0,
@@ -23354,6 +24079,7 @@ return {
             favor = 2500,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1850,
         sortr = "1850",
         name1 = 0,
@@ -23387,6 +24113,7 @@ return {
             favor = 2500,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1852,
         sortr = "1852",
         name1 = 0,
@@ -23420,6 +24147,7 @@ return {
             favor = 300,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1854,
         sortr = "1854",
         name1 = 0,
@@ -23451,6 +24179,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1856,
         sortr = "1856",
         name1 = 0,
@@ -23483,6 +24212,7 @@ return {
         unlock = {
             heroId = 113101,
         },
+        minipack = 0,
         sort = 1858,
         sortr = "1858",
         name1 = 0,
@@ -23515,6 +24245,7 @@ return {
         unlock = {
             heroId = 113101,
         },
+        minipack = 0,
         sort = 1860,
         sortr = "1860",
         name1 = 0,
@@ -23548,6 +24279,7 @@ return {
             favor = 2500,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1835,
         sortr = "1835",
         name1 = 0,
@@ -23581,6 +24313,7 @@ return {
             favor = 2500,
             roleId = 131,
         },
+        minipack = 0,
         sort = 1837,
         sortr = "1837",
         name1 = 0,
@@ -23612,6 +24345,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 203,
         sortr = "203",
         name1 = 0,
@@ -23644,6 +24378,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2280,
         sortr = "2280",
         name1 = 0,
@@ -23675,6 +24410,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 204,
         sortr = "204",
         name1 = 0,
@@ -23707,6 +24443,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 554,
         sortr = "554",
         name1 = 1701833,
@@ -23739,6 +24476,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2363,
         sortr = "2363",
         name1 = 0,
@@ -23770,6 +24508,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 408,
         sortr = "408",
         name1 = 0,
@@ -23804,6 +24543,7 @@ return {
                 [411209] = 1,
             },
         },
+        minipack = 0,
         sort = 1140,
         sortr = "1140",
         name1 = 0,
@@ -23835,6 +24575,7 @@ return {
         unlockType = 9999,
         unlock = {
         },
+        minipack = 0,
         sort = 1172,
         sortr = "1172",
         name1 = 0,
@@ -23871,6 +24612,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 407,
         sortr = "407",
         name1 = 0,
@@ -23902,6 +24644,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 507,
         sortr = "507",
         name1 = 1701830,
@@ -23934,6 +24677,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2234,
         sortr = "2234",
         name1 = 0,
@@ -23966,6 +24710,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2247,
         sortr = "2247",
         name1 = 0,
@@ -23998,6 +24743,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 261,
         sortr = "261",
         name1 = 0,
@@ -24029,6 +24775,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 262,
         sortr = "262",
         name1 = 0,
@@ -24060,6 +24807,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1072,
         sortr = "1072",
         name1 = 0,
@@ -24091,6 +24839,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 263,
         sortr = "263",
         name1 = 0,
@@ -24122,6 +24871,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 264,
         sortr = "264",
         name1 = 0,
@@ -24153,6 +24903,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 411,
         sortr = "411",
         name1 = 0,
@@ -24186,6 +24937,7 @@ return {
             favor = 300,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1216,
         sortr = "1216",
         name1 = 0,
@@ -24218,6 +24970,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 265,
         sortr = "265",
         name1 = 0,
@@ -24249,6 +25002,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 412,
         sortr = "412",
         name1 = 0,
@@ -24280,6 +25034,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 266,
         sortr = "266",
         name1 = 0,
@@ -24311,6 +25066,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 267,
         sortr = "267",
         name1 = 0,
@@ -24342,6 +25098,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 410,
         sortr = "410",
         name1 = 0,
@@ -24373,6 +25130,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2135,
         sortr = "2135",
         name1 = 0,
@@ -24405,6 +25163,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2136,
         sortr = "2136",
         name1 = 0,
@@ -24437,6 +25196,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2137,
         sortr = "2137",
         name1 = 0,
@@ -24469,6 +25229,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2138,
         sortr = "2138",
         name1 = 0,
@@ -24501,6 +25262,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 268,
         sortr = "268",
         name1 = 0,
@@ -24532,6 +25294,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2140,
         sortr = "2140",
         name1 = 0,
@@ -24564,6 +25327,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2141,
         sortr = "2141",
         name1 = 0,
@@ -24596,6 +25360,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2142,
         sortr = "2142",
         name1 = 0,
@@ -24628,6 +25393,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2143,
         sortr = "2143",
         name1 = 0,
@@ -24660,6 +25426,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2144,
         sortr = "2144",
         name1 = 0,
@@ -24692,6 +25459,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2145,
         sortr = "2145",
         name1 = 0,
@@ -24724,6 +25492,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2146,
         sortr = "2146",
         name1 = 0,
@@ -24756,6 +25525,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 269,
         sortr = "269",
         name1 = 0,
@@ -24787,6 +25557,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 413,
         sortr = "413",
         name1 = 0,
@@ -24818,6 +25589,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2316,
         sortr = "2316",
         name1 = 0,
@@ -24849,6 +25621,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2332,
         sortr = "2332",
         name1 = 0,
@@ -24880,6 +25653,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2364,
         sortr = "2364",
         name1 = 0,
@@ -24912,6 +25686,7 @@ return {
         unlock = {
             roleId = 107,
         },
+        minipack = 0,
         sort = 1462,
         sortr = "1462",
         name1 = 0,
@@ -24944,6 +25719,7 @@ return {
         unlock = {
             roleId = 107,
         },
+        minipack = 0,
         sort = 1464,
         sortr = "1464",
         name1 = 0,
@@ -24977,6 +25753,7 @@ return {
             favor = 300,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1466,
         sortr = "1466",
         name1 = 0,
@@ -25010,6 +25787,7 @@ return {
             favor = 1000,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1468,
         sortr = "1468",
         name1 = 0,
@@ -25043,6 +25821,7 @@ return {
             favor = 1000,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1470,
         sortr = "1470",
         name1 = 0,
@@ -25076,6 +25855,7 @@ return {
             favor = 300,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1472,
         sortr = "1472",
         name1 = 0,
@@ -25109,6 +25889,7 @@ return {
             favor = 1000,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1474,
         sortr = "1474",
         name1 = 0,
@@ -25142,6 +25923,7 @@ return {
             favor = 1000,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1476,
         sortr = "1476",
         name1 = 0,
@@ -25174,6 +25956,7 @@ return {
         unlock = {
             roleId = 107,
         },
+        minipack = 0,
         sort = 1478,
         sortr = "1478",
         name1 = 0,
@@ -25206,6 +25989,7 @@ return {
         unlock = {
             roleId = 107,
         },
+        minipack = 0,
         sort = 1480,
         sortr = "1480",
         name1 = 0,
@@ -25239,6 +26023,7 @@ return {
             level = 30,
             heroId = 110701,
         },
+        minipack = 0,
         sort = 1482,
         sortr = "1482",
         name1 = 0,
@@ -25271,6 +26056,7 @@ return {
         unlock = {
             heroId = 110701,
         },
+        minipack = 0,
         sort = 1484,
         sortr = "1484",
         name1 = 0,
@@ -25304,6 +26090,7 @@ return {
             favor = 2500,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1458,
         sortr = "1458",
         name1 = 0,
@@ -25337,6 +26124,7 @@ return {
             favor = 2500,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1460,
         sortr = "1460",
         name1 = 0,
@@ -25368,6 +26156,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 281,
         sortr = "281",
         name1 = 0,
@@ -25399,6 +26188,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 31,
         sortr = "31",
         name1 = 0,
@@ -25431,6 +26221,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 282,
         sortr = "282",
         name1 = 0,
@@ -25465,6 +26256,7 @@ return {
                 [410426] = 1,
             },
         },
+        minipack = 0,
         sort = 1173,
         sortr = "1173",
         name1 = 0,
@@ -25496,6 +26288,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 583,
         sortr = "583",
         name1 = 1701833,
@@ -25528,6 +26321,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 549,
         sortr = "549",
         name1 = 1701831,
@@ -25560,6 +26354,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 142,
         sortr = "142",
         name1 = 0,
@@ -25592,6 +26387,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 596,
         sortr = "596",
         name1 = 1701832,
@@ -25624,6 +26420,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 594,
         sortr = "594",
         name1 = 1701831,
@@ -25656,6 +26453,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 143,
         sortr = "143",
         name1 = 0,
@@ -25688,6 +26486,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 508,
         sortr = "508",
         name1 = 1701831,
@@ -25720,6 +26519,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 145,
         sortr = "145",
         name1 = 0,
@@ -25752,6 +26552,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 512,
         sortr = "512",
         name1 = 1701833,
@@ -25784,6 +26585,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 32,
         sortr = "32",
         name1 = 0,
@@ -25816,6 +26618,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2147,
         sortr = "2147",
         name1 = 0,
@@ -25848,6 +26651,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 146,
         sortr = "146",
         name1 = 0,
@@ -25880,6 +26684,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2149,
         sortr = "2149",
         name1 = 0,
@@ -25912,6 +26717,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2150,
         sortr = "2150",
         name1 = 0,
@@ -25944,6 +26750,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2151,
         sortr = "2151",
         name1 = 0,
@@ -25976,6 +26783,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 147,
         sortr = "147",
         name1 = 0,
@@ -26010,6 +26818,7 @@ return {
             favor = 1000,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1217,
         sortr = "1217",
         name1 = 0,
@@ -26042,6 +26851,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2154,
         sortr = "2154",
         name1 = 0,
@@ -26074,6 +26884,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 148,
         sortr = "148",
         name1 = 0,
@@ -26106,6 +26917,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 581,
         sortr = "581",
         name1 = 1701832,
@@ -26138,6 +26950,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 149,
         sortr = "149",
         name1 = 0,
@@ -26170,6 +26983,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 283,
         sortr = "283",
         name1 = 0,
@@ -26201,6 +27015,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 416,
         sortr = "416",
         name1 = 0,
@@ -26232,6 +27047,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 15,
         sortr = "15",
         name1 = 0,
@@ -26264,6 +27080,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 418,
         sortr = "418",
         name1 = 0,
@@ -26295,6 +27112,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 16,
         sortr = "16",
         name1 = 0,
@@ -26327,6 +27145,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 595,
         sortr = "595",
         name1 = 1701832,
@@ -26359,6 +27178,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 17,
         sortr = "17",
         name1 = 0,
@@ -26391,6 +27211,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 18,
         sortr = "18",
         name1 = 0,
@@ -26423,6 +27244,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2317,
         sortr = "2317",
         name1 = 0,
@@ -26454,6 +27276,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2333,
         sortr = "2333",
         name1 = 0,
@@ -26486,6 +27309,7 @@ return {
         unlock = {
             roleId = 107,
         },
+        minipack = 0,
         sort = 1457,
         sortr = "1457",
         name1 = 0,
@@ -26518,6 +27342,7 @@ return {
         unlock = {
             roleId = 107,
         },
+        minipack = 0,
         sort = 1463,
         sortr = "1463",
         name1 = 0,
@@ -26551,6 +27376,7 @@ return {
             favor = 300,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1465,
         sortr = "1465",
         name1 = 0,
@@ -26584,6 +27410,7 @@ return {
             favor = 300,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1467,
         sortr = "1467",
         name1 = 0,
@@ -26615,6 +27442,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 509,
         sortr = "509",
         name1 = 1701832,
@@ -26649,6 +27477,7 @@ return {
             favor = 2500,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1471,
         sortr = "1471",
         name1 = 0,
@@ -26682,6 +27511,7 @@ return {
             favor = 2500,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1473,
         sortr = "1473",
         name1 = 0,
@@ -26715,6 +27545,7 @@ return {
             favor = 2500,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1475,
         sortr = "1475",
         name1 = 0,
@@ -26748,6 +27579,7 @@ return {
             favor = 300,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1477,
         sortr = "1477",
         name1 = 0,
@@ -26780,6 +27612,7 @@ return {
         unlock = {
             heroId = 110701,
         },
+        minipack = 0,
         sort = 1479,
         sortr = "1479",
         name1 = 0,
@@ -26812,6 +27645,7 @@ return {
         unlock = {
             heroId = 110701,
         },
+        minipack = 0,
         sort = 1481,
         sortr = "1481",
         name1 = 0,
@@ -26844,6 +27678,7 @@ return {
         unlock = {
             heroId = 110701,
         },
+        minipack = 0,
         sort = 1483,
         sortr = "1483",
         name1 = 0,
@@ -26877,6 +27712,7 @@ return {
             favor = 2500,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1459,
         sortr = "1459",
         name1 = 0,
@@ -26910,6 +27746,7 @@ return {
             favor = 2500,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1461,
         sortr = "1461",
         name1 = 0,
@@ -26941,6 +27778,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 546,
         sortr = "546",
         name1 = 1701833,
@@ -26973,6 +27811,7 @@ return {
         unlockType = 9999,
         unlock = {
         },
+        minipack = 0,
         sort = 1142,
         sortr = "1142",
         name1 = 0,
@@ -27012,6 +27851,7 @@ return {
                 [410416] = 1,
             },
         },
+        minipack = 0,
         sort = 1174,
         sortr = "1174",
         name1 = 0,
@@ -27043,6 +27883,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 510,
         sortr = "510",
         name1 = 1701832,
@@ -27075,6 +27916,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2155,
         sortr = "2155",
         name1 = 0,
@@ -27107,6 +27949,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2156,
         sortr = "2156",
         name1 = 0,
@@ -27139,6 +27982,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2157,
         sortr = "2157",
         name1 = 0,
@@ -27171,6 +28015,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2158,
         sortr = "2158",
         name1 = 0,
@@ -27203,6 +28048,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 602,
         sortr = "602",
         name1 = 1701833,
@@ -27235,6 +28081,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 593,
         sortr = "593",
         name1 = 1701830,
@@ -27267,6 +28114,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 286,
         sortr = "286",
         name1 = 0,
@@ -27298,6 +28146,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 399,
         sortr = "399",
         name1 = 0,
@@ -27329,6 +28178,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 400,
         sortr = "400",
         name1 = 0,
@@ -27360,6 +28210,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 601,
         sortr = "601",
         name1 = 1701833,
@@ -27392,6 +28243,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 511,
         sortr = "511",
         name1 = 1701833,
@@ -27424,6 +28276,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 287,
         sortr = "287",
         name1 = 0,
@@ -27455,6 +28308,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 398,
         sortr = "398",
         name1 = 0,
@@ -27486,6 +28340,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 599,
         sortr = "599",
         name1 = 1701833,
@@ -27518,6 +28373,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1895,
         sortr = "1895",
         name1 = 0,
@@ -27551,6 +28407,7 @@ return {
             favor = 2500,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1218,
         sortr = "1218",
         name1 = 0,
@@ -27583,6 +28440,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1899,
         sortr = "1899",
         name1 = 0,
@@ -27616,6 +28474,7 @@ return {
             favor = 1000,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1901,
         sortr = "1901",
         name1 = 0,
@@ -27649,6 +28508,7 @@ return {
             favor = 1000,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1903,
         sortr = "1903",
         name1 = 0,
@@ -27682,6 +28542,7 @@ return {
             favor = 300,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1905,
         sortr = "1905",
         name1 = 0,
@@ -27715,6 +28576,7 @@ return {
             favor = 1000,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1907,
         sortr = "1907",
         name1 = 0,
@@ -27748,6 +28610,7 @@ return {
             favor = 1000,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1909,
         sortr = "1909",
         name1 = 0,
@@ -27780,6 +28643,7 @@ return {
         unlock = {
             roleId = 132,
         },
+        minipack = 0,
         sort = 1911,
         sortr = "1911",
         name1 = 0,
@@ -27812,6 +28676,7 @@ return {
         unlock = {
             roleId = 132,
         },
+        minipack = 0,
         sort = 1913,
         sortr = "1913",
         name1 = 0,
@@ -27845,6 +28710,7 @@ return {
             level = 30,
             heroId = 113201,
         },
+        minipack = 0,
         sort = 1915,
         sortr = "1915",
         name1 = 0,
@@ -27877,6 +28743,7 @@ return {
         unlock = {
             heroId = 113201,
         },
+        minipack = 0,
         sort = 1917,
         sortr = "1917",
         name1 = 0,
@@ -27910,6 +28777,7 @@ return {
             favor = 2500,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1892,
         sortr = "1892",
         name1 = 0,
@@ -27943,6 +28811,7 @@ return {
             favor = 2500,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1894,
         sortr = "1894",
         name1 = 0,
@@ -27974,6 +28843,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 598,
         sortr = "598",
         name1 = 1701832,
@@ -28006,6 +28876,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 19,
         sortr = "19",
         name1 = 0,
@@ -28038,6 +28909,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2160,
         sortr = "2160",
         name1 = 0,
@@ -28070,6 +28942,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2162,
         sortr = "2162",
         name1 = 0,
@@ -28102,6 +28975,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2164,
         sortr = "2164",
         name1 = 0,
@@ -28134,6 +29008,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2283,
         sortr = "2283",
         name1 = 0,
@@ -28165,6 +29040,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2292,
         sortr = "2292",
         name1 = 0,
@@ -28196,6 +29072,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2334,
         sortr = "2334",
         name1 = 0,
@@ -28227,6 +29104,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2366,
         sortr = "2366",
         name1 = 0,
@@ -28258,6 +29136,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 2053,
         sortr = "2053",
         name1 = 0,
@@ -28290,6 +29169,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 2054,
         sortr = "2054",
         name1 = 0,
@@ -28322,6 +29202,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2055,
         sortr = "2055",
         name1 = 0,
@@ -28354,6 +29235,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2056,
         sortr = "2056",
         name1 = 0,
@@ -28386,6 +29268,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2057,
         sortr = "2057",
         name1 = 0,
@@ -28418,6 +29301,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2058,
         sortr = "2058",
         name1 = 0,
@@ -28450,6 +29334,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 205,
         sortr = "205",
         name1 = 0,
@@ -28485,6 +29370,7 @@ return {
                 [585010] = 1,
             },
         },
+        minipack = 0,
         sort = 2060,
         sortr = "2060",
         name1 = 0,
@@ -28517,6 +29403,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 419,
         sortr = "419",
         name1 = 0,
@@ -28548,6 +29435,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2062,
         sortr = "2062",
         name1 = 0,
@@ -28580,6 +29468,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 206,
         sortr = "206",
         name1 = 0,
@@ -28612,6 +29501,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 420,
         sortr = "420",
         name1 = 0,
@@ -28646,6 +29536,7 @@ return {
                 [411801] = 1,
             },
         },
+        minipack = 0,
         sort = 1143,
         sortr = "1143",
         name1 = 0,
@@ -28680,6 +29571,7 @@ return {
                 [411010] = 1,
             },
         },
+        minipack = 0,
         sort = 1175,
         sortr = "1175",
         name1 = 0,
@@ -28711,6 +29603,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2166,
         sortr = "2166",
         name1 = 0,
@@ -28743,6 +29636,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 421,
         sortr = "421",
         name1 = 0,
@@ -28774,6 +29668,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 289,
         sortr = "289",
         name1 = 0,
@@ -28806,6 +29701,7 @@ return {
         unlock = {
             roleId = 124,
         },
+        minipack = 0,
         sort = 1701,
         sortr = "1701",
         name1 = 0,
@@ -28838,6 +29734,7 @@ return {
         unlock = {
             roleId = 124,
         },
+        minipack = 0,
         sort = 1703,
         sortr = "1703",
         name1 = 0,
@@ -28871,6 +29768,7 @@ return {
             favor = 300,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1705,
         sortr = "1705",
         name1 = 0,
@@ -28904,6 +29802,7 @@ return {
             favor = 1000,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1707,
         sortr = "1707",
         name1 = 0,
@@ -28937,6 +29836,7 @@ return {
             favor = 1000,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1709,
         sortr = "1709",
         name1 = 0,
@@ -28970,6 +29870,7 @@ return {
             favor = 300,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1711,
         sortr = "1711",
         name1 = 0,
@@ -29003,6 +29904,7 @@ return {
             favor = 1000,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1713,
         sortr = "1713",
         name1 = 0,
@@ -29036,6 +29938,7 @@ return {
             favor = 1000,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1715,
         sortr = "1715",
         name1 = 0,
@@ -29068,6 +29971,7 @@ return {
         unlock = {
             roleId = 124,
         },
+        minipack = 0,
         sort = 1717,
         sortr = "1717",
         name1 = 0,
@@ -29100,6 +30004,7 @@ return {
         unlock = {
             roleId = 124,
         },
+        minipack = 0,
         sort = 1719,
         sortr = "1719",
         name1 = 0,
@@ -29131,6 +30036,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1068,
         sortr = "1068",
         name1 = 0,
@@ -29163,6 +30069,7 @@ return {
         unlock = {
             heroId = 112401,
         },
+        minipack = 0,
         sort = 1723,
         sortr = "1723",
         name1 = 0,
@@ -29196,6 +30103,7 @@ return {
             favor = 2500,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1698,
         sortr = "1698",
         name1 = 0,
@@ -29229,6 +30137,7 @@ return {
             favor = 2500,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1700,
         sortr = "1700",
         name1 = 0,
@@ -29260,6 +30169,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2169,
         sortr = "2169",
         name1 = 0,
@@ -29293,6 +30203,7 @@ return {
         unlock = {
             roleId = 132,
         },
+        minipack = 0,
         sort = 1890,
         sortr = "1890",
         name1 = 0,
@@ -29324,6 +30235,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1896,
         sortr = "1896",
         name1 = 0,
@@ -29357,6 +30269,7 @@ return {
             favor = 300,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1219,
         sortr = "1219",
         name1 = 0,
@@ -29389,6 +30302,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1900,
         sortr = "1900",
         name1 = 0,
@@ -29422,6 +30336,7 @@ return {
             favor = 1000,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1902,
         sortr = "1902",
         name1 = 0,
@@ -29455,6 +30370,7 @@ return {
             favor = 2500,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1904,
         sortr = "1904",
         name1 = 0,
@@ -29488,6 +30404,7 @@ return {
             favor = 2500,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1906,
         sortr = "1906",
         name1 = 0,
@@ -29521,6 +30438,7 @@ return {
             favor = 2500,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1908,
         sortr = "1908",
         name1 = 0,
@@ -29554,6 +30472,7 @@ return {
             favor = 300,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1910,
         sortr = "1910",
         name1 = 0,
@@ -29585,6 +30504,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1912,
         sortr = "1912",
         name1 = 0,
@@ -29617,6 +30537,7 @@ return {
         unlock = {
             heroId = 113201,
         },
+        minipack = 0,
         sort = 1914,
         sortr = "1914",
         name1 = 0,
@@ -29649,6 +30570,7 @@ return {
         unlock = {
             heroId = 113201,
         },
+        minipack = 0,
         sort = 1916,
         sortr = "1916",
         name1 = 0,
@@ -29692,6 +30614,7 @@ return {
                 [10] = 121503313,
             },
         },
+        minipack = 0,
         sort = 2024,
         sortr = "2024",
         name1 = 0,
@@ -29726,6 +30649,7 @@ return {
             favor = 2500,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1893,
         sortr = "1893",
         name1 = 0,
@@ -29758,6 +30682,7 @@ return {
         unlock = {
             dunId = 105429,
         },
+        minipack = 0,
         sort = 2026,
         sortr = "2026",
         name1 = 0,
@@ -29790,6 +30715,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2027,
         sortr = "2027",
         name1 = 0,
@@ -29822,6 +30748,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2028,
         sortr = "2028",
         name1 = 0,
@@ -29854,6 +30781,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 185,
         sortr = "185",
         name1 = 0,
@@ -29886,6 +30814,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2284,
         sortr = "2284",
         name1 = 0,
@@ -29917,6 +30846,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2293,
         sortr = "2293",
         name1 = 0,
@@ -29948,6 +30878,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2335,
         sortr = "2335",
         name1 = 0,
@@ -29979,6 +30910,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2367,
         sortr = "2367",
         name1 = 0,
@@ -30010,6 +30942,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 292,
         sortr = "292",
         name1 = 0,
@@ -30041,6 +30974,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2172,
         sortr = "2172",
         name1 = 0,
@@ -30073,6 +31007,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 293,
         sortr = "293",
         name1 = 0,
@@ -30104,6 +31039,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 294,
         sortr = "294",
         name1 = 0,
@@ -30135,6 +31071,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 422,
         sortr = "422",
         name1 = 0,
@@ -30166,6 +31103,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1119,
         sortr = "1119",
         name1 = 0,
@@ -30200,6 +31138,7 @@ return {
                 [411901] = 1,
             },
         },
+        minipack = 0,
         sort = 1144,
         sortr = "1144",
         name1 = 0,
@@ -30234,6 +31173,7 @@ return {
                 [410222] = 1,
             },
         },
+        minipack = 0,
         sort = 1176,
         sortr = "1176",
         name1 = 0,
@@ -30265,6 +31205,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1067,
         sortr = "1067",
         name1 = 0,
@@ -30296,6 +31237,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 424,
         sortr = "424",
         name1 = 0,
@@ -30328,6 +31270,7 @@ return {
         unlock = {
             roleId = 124,
         },
+        minipack = 0,
         sort = 1696,
         sortr = "1696",
         name1 = 0,
@@ -30360,6 +31303,7 @@ return {
         unlock = {
             roleId = 124,
         },
+        minipack = 0,
         sort = 1702,
         sortr = "1702",
         name1 = 0,
@@ -30393,6 +31337,7 @@ return {
             favor = 300,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1704,
         sortr = "1704",
         name1 = 0,
@@ -30426,6 +31371,7 @@ return {
             favor = 300,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1706,
         sortr = "1706",
         name1 = 0,
@@ -30459,6 +31405,7 @@ return {
             favor = 1000,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1708,
         sortr = "1708",
         name1 = 0,
@@ -30492,6 +31439,7 @@ return {
             favor = 2500,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1710,
         sortr = "1710",
         name1 = 0,
@@ -30525,6 +31473,7 @@ return {
             favor = 2500,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1712,
         sortr = "1712",
         name1 = 0,
@@ -30558,6 +31507,7 @@ return {
             favor = 2500,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1714,
         sortr = "1714",
         name1 = 0,
@@ -30591,6 +31541,7 @@ return {
             favor = 300,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1716,
         sortr = "1716",
         name1 = 0,
@@ -30622,6 +31573,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1718,
         sortr = "1718",
         name1 = 0,
@@ -30654,6 +31606,7 @@ return {
         unlock = {
             heroId = 112401,
         },
+        minipack = 0,
         sort = 1720,
         sortr = "1720",
         name1 = 0,
@@ -30686,6 +31639,7 @@ return {
         unlock = {
             heroId = 112401,
         },
+        minipack = 0,
         sort = 1722,
         sortr = "1722",
         name1 = 0,
@@ -30718,6 +31672,7 @@ return {
         unlock = {
             dunId = 120026,
         },
+        minipack = 0,
         sort = 1983,
         sortr = "1983",
         name1 = 0,
@@ -30759,6 +31714,7 @@ return {
                 [7] = 2502465,
             },
         },
+        minipack = 0,
         sort = 1984,
         sortr = "1984",
         name1 = 0,
@@ -30800,6 +31756,7 @@ return {
                 [7] = 28801230,
             },
         },
+        minipack = 0,
         sort = 1985,
         sortr = "1985",
         name1 = 0,
@@ -30832,6 +31789,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1986,
         sortr = "1986",
         name1 = 0,
@@ -30864,6 +31822,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 627,
         sortr = "627",
         name1 = 1701831,
@@ -30896,6 +31855,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1988,
         sortr = "1988",
         name1 = 0,
@@ -30928,6 +31888,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 150,
         sortr = "150",
         name1 = 0,
@@ -30960,6 +31921,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1990,
         sortr = "1990",
         name1 = 0,
@@ -30992,6 +31954,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 514,
         sortr = "514",
         name1 = 1701830,
@@ -31024,6 +31987,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1992,
         sortr = "1992",
         name1 = 0,
@@ -31056,6 +32020,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1993,
         sortr = "1993",
         name1 = 0,
@@ -31088,6 +32053,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1994,
         sortr = "1994",
         name1 = 0,
@@ -31120,6 +32086,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1995,
         sortr = "1995",
         name1 = 0,
@@ -31152,6 +32119,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1996,
         sortr = "1996",
         name1 = 0,
@@ -31184,6 +32152,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1997,
         sortr = "1997",
         name1 = 0,
@@ -31216,6 +32185,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1998,
         sortr = "1998",
         name1 = 0,
@@ -31248,6 +32218,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1999,
         sortr = "1999",
         name1 = 0,
@@ -31280,6 +32251,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2000,
         sortr = "2000",
         name1 = 0,
@@ -31312,6 +32284,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2001,
         sortr = "2001",
         name1 = 0,
@@ -31344,6 +32317,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2002,
         sortr = "2002",
         name1 = 0,
@@ -31379,6 +32353,7 @@ return {
                 [585003] = 1,
             },
         },
+        minipack = 0,
         sort = 2003,
         sortr = "2003",
         name1 = 0,
@@ -31414,6 +32389,7 @@ return {
                 [585007] = 1,
             },
         },
+        minipack = 0,
         sort = 2004,
         sortr = "2004",
         name1 = 0,
@@ -31446,6 +32422,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 151,
         sortr = "151",
         name1 = 0,
@@ -31480,6 +32457,7 @@ return {
             favor = 1000,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1220,
         sortr = "1220",
         name1 = 0,
@@ -31512,6 +32490,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 152,
         sortr = "152",
         name1 = 0,
@@ -31544,6 +32523,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 295,
         sortr = "295",
         name1 = 0,
@@ -31575,6 +32555,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 296,
         sortr = "296",
         name1 = 0,
@@ -31606,6 +32587,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 297,
         sortr = "297",
         name1 = 0,
@@ -31638,6 +32620,7 @@ return {
         unlock = {
             roleId = 108,
         },
+        minipack = 0,
         sort = 1490,
         sortr = "1490",
         name1 = 0,
@@ -31670,6 +32653,7 @@ return {
         unlock = {
             roleId = 108,
         },
+        minipack = 0,
         sort = 1492,
         sortr = "1492",
         name1 = 0,
@@ -31703,6 +32687,7 @@ return {
             favor = 300,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1494,
         sortr = "1494",
         name1 = 0,
@@ -31736,6 +32721,7 @@ return {
             favor = 1000,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1496,
         sortr = "1496",
         name1 = 0,
@@ -31769,6 +32755,7 @@ return {
             favor = 1000,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1498,
         sortr = "1498",
         name1 = 0,
@@ -31802,6 +32789,7 @@ return {
             favor = 300,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1500,
         sortr = "1500",
         name1 = 0,
@@ -31835,6 +32823,7 @@ return {
             favor = 1000,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1502,
         sortr = "1502",
         name1 = 0,
@@ -31868,6 +32857,7 @@ return {
             favor = 1000,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1504,
         sortr = "1504",
         name1 = 0,
@@ -31900,6 +32890,7 @@ return {
         unlock = {
             roleId = 108,
         },
+        minipack = 0,
         sort = 1506,
         sortr = "1506",
         name1 = 0,
@@ -31932,6 +32923,7 @@ return {
         unlock = {
             roleId = 108,
         },
+        minipack = 0,
         sort = 1508,
         sortr = "1508",
         name1 = 0,
@@ -31965,6 +32957,7 @@ return {
             level = 30,
             heroId = 110801,
         },
+        minipack = 0,
         sort = 1510,
         sortr = "1510",
         name1 = 0,
@@ -31997,6 +32990,7 @@ return {
         unlock = {
             heroId = 110801,
         },
+        minipack = 0,
         sort = 1512,
         sortr = "1512",
         name1 = 0,
@@ -32030,6 +33024,7 @@ return {
             favor = 2500,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1486,
         sortr = "1486",
         name1 = 0,
@@ -32063,6 +33058,7 @@ return {
             favor = 2500,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1488,
         sortr = "1488",
         name1 = 0,
@@ -32094,6 +33090,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 425,
         sortr = "425",
         name1 = 0,
@@ -32125,6 +33122,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 300,
         sortr = "300",
         name1 = 0,
@@ -32156,6 +33154,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 301,
         sortr = "301",
         name1 = 0,
@@ -32190,6 +33189,7 @@ return {
                 [410407] = 1,
             },
         },
+        minipack = 0,
         sort = 1120,
         sortr = "1120",
         name1 = 0,
@@ -32224,6 +33224,7 @@ return {
                 [411802] = 1,
             },
         },
+        minipack = 0,
         sort = 1145,
         sortr = "1145",
         name1 = 0,
@@ -32258,6 +33259,7 @@ return {
                 [413303] = 1,
             },
         },
+        minipack = 0,
         sort = 1177,
         sortr = "1177",
         name1 = 0,
@@ -32289,6 +33291,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 611,
         sortr = "611",
         name1 = 1701830,
@@ -32321,6 +33324,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 53,
         sortr = "53",
         name1 = 0,
@@ -32353,6 +33357,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 504,
         sortr = "504",
         name1 = 1701833,
@@ -32385,6 +33390,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 58,
         sortr = "58",
         name1 = 0,
@@ -32417,6 +33423,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 59,
         sortr = "59",
         name1 = 0,
@@ -32449,6 +33456,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 60,
         sortr = "60",
         name1 = 0,
@@ -32481,6 +33489,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 61,
         sortr = "61",
         name1 = 0,
@@ -32513,6 +33522,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 426,
         sortr = "426",
         name1 = 0,
@@ -32544,6 +33554,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 62,
         sortr = "62",
         name1 = 0,
@@ -32576,6 +33587,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 63,
         sortr = "63",
         name1 = 0,
@@ -32608,6 +33620,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 427,
         sortr = "427",
         name1 = 0,
@@ -32639,6 +33652,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 64,
         sortr = "64",
         name1 = 0,
@@ -32673,6 +33687,7 @@ return {
             favor = 2500,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1221,
         sortr = "1221",
         name1 = 0,
@@ -32705,6 +33720,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 65,
         sortr = "65",
         name1 = 0,
@@ -32737,6 +33753,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1065,
         sortr = "1065",
         name1 = 0,
@@ -32768,6 +33785,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 66,
         sortr = "66",
         name1 = 0,
@@ -32800,6 +33818,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 67,
         sortr = "67",
         name1 = 0,
@@ -32832,6 +33851,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 428,
         sortr = "428",
         name1 = 0,
@@ -32863,6 +33883,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 68,
         sortr = "68",
         name1 = 0,
@@ -32895,6 +33916,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 69,
         sortr = "69",
         name1 = 0,
@@ -32927,6 +33949,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 70,
         sortr = "70",
         name1 = 0,
@@ -32959,6 +33982,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 303,
         sortr = "303",
         name1 = 0,
@@ -32991,6 +34015,7 @@ return {
         unlock = {
             roleId = 108,
         },
+        minipack = 0,
         sort = 1485,
         sortr = "1485",
         name1 = 0,
@@ -33023,6 +34048,7 @@ return {
         unlock = {
             roleId = 108,
         },
+        minipack = 0,
         sort = 1491,
         sortr = "1491",
         name1 = 0,
@@ -33056,6 +34082,7 @@ return {
             favor = 300,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1493,
         sortr = "1493",
         name1 = 0,
@@ -33089,6 +34116,7 @@ return {
             favor = 300,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1495,
         sortr = "1495",
         name1 = 0,
@@ -33122,6 +34150,7 @@ return {
             favor = 1000,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1497,
         sortr = "1497",
         name1 = 0,
@@ -33155,6 +34184,7 @@ return {
             favor = 2500,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1499,
         sortr = "1499",
         name1 = 0,
@@ -33188,6 +34218,7 @@ return {
             favor = 2500,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1501,
         sortr = "1501",
         name1 = 0,
@@ -33219,6 +34250,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 630,
         sortr = "630",
         name1 = 1701833,
@@ -33253,6 +34285,7 @@ return {
             favor = 300,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1505,
         sortr = "1505",
         name1 = 0,
@@ -33285,6 +34318,7 @@ return {
         unlock = {
             heroId = 110801,
         },
+        minipack = 0,
         sort = 1507,
         sortr = "1507",
         name1 = 0,
@@ -33317,6 +34351,7 @@ return {
         unlock = {
             heroId = 110801,
         },
+        minipack = 0,
         sort = 1509,
         sortr = "1509",
         name1 = 0,
@@ -33348,6 +34383,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 72,
         sortr = "72",
         name1 = 0,
@@ -33380,6 +34416,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 51,
         sortr = "51",
         name1 = 0,
@@ -33414,6 +34451,7 @@ return {
             favor = 2500,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1487,
         sortr = "1487",
         name1 = 0,
@@ -33445,6 +34483,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 73,
         sortr = "73",
         name1 = 0,
@@ -33477,6 +34516,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 74,
         sortr = "74",
         name1 = 0,
@@ -33509,6 +34549,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 75,
         sortr = "75",
         name1 = 0,
@@ -33541,6 +34582,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 384,
         sortr = "384",
         name1 = 0,
@@ -33575,6 +34617,7 @@ return {
                 [410507] = 1,
             },
         },
+        minipack = 0,
         sort = 1121,
         sortr = "1121",
         name1 = 0,
@@ -33609,6 +34652,7 @@ return {
                 [410311] = 1,
             },
         },
+        minipack = 0,
         sort = 1146,
         sortr = "1146",
         name1 = 0,
@@ -33643,6 +34687,7 @@ return {
                 [410117] = 1,
             },
         },
+        minipack = 0,
         sort = 1178,
         sortr = "1178",
         name1 = 0,
@@ -33674,6 +34719,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 208,
         sortr = "208",
         name1 = 0,
@@ -33706,6 +34752,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 628,
         sortr = "628",
         name1 = 1701832,
@@ -33738,6 +34785,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 207,
         sortr = "207",
         name1 = 0,
@@ -33770,6 +34818,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 385,
         sortr = "385",
         name1 = 0,
@@ -33801,6 +34850,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 650,
         sortr = "650",
         name1 = 1701832,
@@ -33833,6 +34883,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2237,
         sortr = "2237",
         name1 = 0,
@@ -33865,6 +34916,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2250,
         sortr = "2250",
         name1 = 0,
@@ -33897,6 +34949,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1064,
         sortr = "1064",
         name1 = 0,
@@ -33928,6 +34981,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 306,
         sortr = "306",
         name1 = 0,
@@ -33959,6 +35013,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 638,
         sortr = "638",
         name1 = 1701833,
@@ -33991,6 +35046,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 635,
         sortr = "635",
         name1 = 1701831,
@@ -34023,6 +35079,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 307,
         sortr = "307",
         name1 = 0,
@@ -34054,6 +35111,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1867,
         sortr = "1867",
         name1 = 0,
@@ -34085,6 +35143,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1869,
         sortr = "1869",
         name1 = 0,
@@ -34116,6 +35175,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1871,
         sortr = "1871",
         name1 = 0,
@@ -34149,6 +35209,7 @@ return {
             favor = 1000,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1873,
         sortr = "1873",
         name1 = 0,
@@ -34182,6 +35243,7 @@ return {
             favor = 1000,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1875,
         sortr = "1875",
         name1 = 0,
@@ -34215,6 +35277,7 @@ return {
             favor = 300,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1877,
         sortr = "1877",
         name1 = 0,
@@ -34248,6 +35311,7 @@ return {
             favor = 1000,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1879,
         sortr = "1879",
         name1 = 0,
@@ -34279,6 +35343,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 308,
         sortr = "308",
         name1 = 0,
@@ -34311,6 +35376,7 @@ return {
         unlock = {
             roleId = 133,
         },
+        minipack = 0,
         sort = 1883,
         sortr = "1883",
         name1 = 0,
@@ -34343,6 +35409,7 @@ return {
         unlock = {
             roleId = 133,
         },
+        minipack = 0,
         sort = 1885,
         sortr = "1885",
         name1 = 0,
@@ -34376,6 +35443,7 @@ return {
             level = 30,
             heroId = 113301,
         },
+        minipack = 0,
         sort = 1887,
         sortr = "1887",
         name1 = 0,
@@ -34408,6 +35476,7 @@ return {
         unlock = {
             heroId = 113301,
         },
+        minipack = 0,
         sort = 1889,
         sortr = "1889",
         name1 = 0,
@@ -34441,6 +35510,7 @@ return {
             favor = 2500,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1864,
         sortr = "1864",
         name1 = 0,
@@ -34474,6 +35544,7 @@ return {
             favor = 300,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1222,
         sortr = "1222",
         name1 = 0,
@@ -34506,6 +35577,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 309,
         sortr = "309",
         name1 = 0,
@@ -34537,6 +35609,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 38,
         sortr = "38",
         name1 = 0,
@@ -34569,6 +35642,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 39,
         sortr = "39",
         name1 = 0,
@@ -34601,6 +35675,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 40,
         sortr = "40",
         name1 = 0,
@@ -34633,6 +35708,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 41,
         sortr = "41",
         name1 = 0,
@@ -34665,6 +35741,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 513,
         sortr = "513",
         name1 = 1701830,
@@ -34697,6 +35774,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 652,
         sortr = "652",
         name1 = 1701833,
@@ -34729,6 +35807,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 310,
         sortr = "310",
         name1 = 0,
@@ -34760,6 +35839,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 386,
         sortr = "386",
         name1 = 0,
@@ -34791,6 +35871,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 517,
         sortr = "517",
         name1 = 1701832,
@@ -34823,6 +35904,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 387,
         sortr = "387",
         name1 = 0,
@@ -34854,6 +35936,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 186,
         sortr = "186",
         name1 = 0,
@@ -34886,6 +35969,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2287,
         sortr = "2287",
         name1 = 0,
@@ -34917,6 +36001,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 637,
         sortr = "637",
         name1 = 1701833,
@@ -34949,6 +36034,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 187,
         sortr = "187",
         name1 = 0,
@@ -34981,6 +36067,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2296,
         sortr = "2296",
         name1 = 0,
@@ -35012,6 +36099,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2338,
         sortr = "2338",
         name1 = 0,
@@ -35043,6 +36131,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 518,
         sortr = "518",
         name1 = 1701833,
@@ -35075,6 +36164,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 311,
         sortr = "311",
         name1 = 0,
@@ -35106,6 +36196,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 388,
         sortr = "388",
         name1 = 0,
@@ -35137,6 +36228,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 646,
         sortr = "646",
         name1 = 1701830,
@@ -35169,6 +36261,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1184,
         sortr = "1184",
         name1 = 0,
@@ -35203,6 +36296,7 @@ return {
                 [411212] = 1,
             },
         },
+        minipack = 0,
         sort = 1147,
         sortr = "1147",
         name1 = 0,
@@ -35237,6 +36331,7 @@ return {
                 [410314] = 1,
             },
         },
+        minipack = 0,
         sort = 1179,
         sortr = "1179",
         name1 = 0,
@@ -35268,6 +36363,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1062,
         sortr = "1062",
         name1 = 0,
@@ -35299,6 +36395,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1063,
         sortr = "1063",
         name1 = 0,
@@ -35331,6 +36428,7 @@ return {
         unlock = {
             roleId = 125,
         },
+        minipack = 0,
         sort = 1673,
         sortr = "1673",
         name1 = 0,
@@ -35363,6 +36461,7 @@ return {
         unlock = {
             roleId = 125,
         },
+        minipack = 0,
         sort = 1675,
         sortr = "1675",
         name1 = 0,
@@ -35396,6 +36495,7 @@ return {
             favor = 300,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1677,
         sortr = "1677",
         name1 = 0,
@@ -35429,6 +36529,7 @@ return {
             favor = 1000,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1679,
         sortr = "1679",
         name1 = 0,
@@ -35460,6 +36561,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 653,
         sortr = "653",
         name1 = 1701833,
@@ -35494,6 +36596,7 @@ return {
             favor = 300,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1683,
         sortr = "1683",
         name1 = 0,
@@ -35527,6 +36630,7 @@ return {
             favor = 1000,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1685,
         sortr = "1685",
         name1 = 0,
@@ -35560,6 +36664,7 @@ return {
             favor = 1000,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1687,
         sortr = "1687",
         name1 = 0,
@@ -35592,6 +36697,7 @@ return {
         unlock = {
             roleId = 125,
         },
+        minipack = 0,
         sort = 1689,
         sortr = "1689",
         name1 = 0,
@@ -35624,6 +36730,7 @@ return {
         unlock = {
             roleId = 125,
         },
+        minipack = 0,
         sort = 1691,
         sortr = "1691",
         name1 = 0,
@@ -35657,6 +36764,7 @@ return {
             level = 30,
             heroId = 112501,
         },
+        minipack = 0,
         sort = 1693,
         sortr = "1693",
         name1 = 0,
@@ -35689,6 +36797,7 @@ return {
         unlock = {
             heroId = 112501,
         },
+        minipack = 0,
         sort = 1695,
         sortr = "1695",
         name1 = 0,
@@ -35722,6 +36831,7 @@ return {
             favor = 2500,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1670,
         sortr = "1670",
         name1 = 0,
@@ -35753,6 +36863,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 515,
         sortr = "515",
         name1 = 1701831,
@@ -35785,6 +36896,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 46,
         sortr = "46",
         name1 = 0,
@@ -35817,6 +36929,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 312,
         sortr = "312",
         name1 = 0,
@@ -35848,6 +36961,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 313,
         sortr = "313",
         name1 = 0,
@@ -35879,6 +36993,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1868,
         sortr = "1868",
         name1 = 0,
@@ -35910,6 +37025,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1870,
         sortr = "1870",
         name1 = 0,
@@ -35941,6 +37057,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1872,
         sortr = "1872",
         name1 = 0,
@@ -35974,6 +37091,7 @@ return {
             favor = 1000,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1874,
         sortr = "1874",
         name1 = 0,
@@ -36007,6 +37125,7 @@ return {
             favor = 2500,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1876,
         sortr = "1876",
         name1 = 0,
@@ -36040,6 +37159,7 @@ return {
             favor = 2500,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1878,
         sortr = "1878",
         name1 = 0,
@@ -36073,6 +37193,7 @@ return {
             favor = 2500,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1880,
         sortr = "1880",
         name1 = 0,
@@ -36104,6 +37225,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 314,
         sortr = "314",
         name1 = 0,
@@ -36136,6 +37258,7 @@ return {
         unlock = {
             roleId = 133,
         },
+        minipack = 0,
         sort = 1884,
         sortr = "1884",
         name1 = 0,
@@ -36168,6 +37291,7 @@ return {
         unlock = {
             heroId = 113301,
         },
+        minipack = 0,
         sort = 1886,
         sortr = "1886",
         name1 = 0,
@@ -36200,6 +37324,7 @@ return {
         unlock = {
             heroId = 113301,
         },
+        minipack = 0,
         sort = 1888,
         sortr = "1888",
         name1 = 0,
@@ -36233,6 +37358,7 @@ return {
             favor = 2500,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1863,
         sortr = "1863",
         name1 = 0,
@@ -36264,6 +37390,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 153,
         sortr = "153",
         name1 = 0,
@@ -36298,6 +37425,7 @@ return {
             favor = 1000,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1223,
         sortr = "1223",
         name1 = 0,
@@ -36330,6 +37458,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 577,
         sortr = "577",
         name1 = 1701833,
@@ -36362,6 +37491,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 519,
         sortr = "519",
         name1 = 1701833,
@@ -36394,6 +37524,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 154,
         sortr = "154",
         name1 = 0,
@@ -36426,6 +37557,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 155,
         sortr = "155",
         name1 = 0,
@@ -36458,6 +37590,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 156,
         sortr = "156",
         name1 = 0,
@@ -36490,6 +37623,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 157,
         sortr = "157",
         name1 = 0,
@@ -36522,6 +37656,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 158,
         sortr = "158",
         name1 = 0,
@@ -36554,6 +37689,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1058,
         sortr = "1058",
         name1 = 0,
@@ -36585,6 +37721,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 433,
         sortr = "433",
         name1 = 0,
@@ -36616,6 +37753,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1059,
         sortr = "1059",
         name1 = 0,
@@ -36647,6 +37785,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 159,
         sortr = "159",
         name1 = 0,
@@ -36679,6 +37818,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1060,
         sortr = "1060",
         name1 = 0,
@@ -36710,6 +37850,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 160,
         sortr = "160",
         name1 = 0,
@@ -36742,6 +37883,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 161,
         sortr = "161",
         name1 = 0,
@@ -36774,6 +37916,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 619,
         sortr = "619",
         name1 = 1701831,
@@ -36806,6 +37949,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 317,
         sortr = "317",
         name1 = 0,
@@ -36837,6 +37981,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 162,
         sortr = "162",
         name1 = 0,
@@ -36869,6 +38014,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 526,
         sortr = "526",
         name1 = 1701832,
@@ -36901,6 +38047,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 318,
         sortr = "318",
         name1 = 0,
@@ -36932,6 +38079,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 163,
         sortr = "163",
         name1 = 0,
@@ -36964,6 +38112,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 520,
         sortr = "520",
         name1 = 1701833,
@@ -36996,6 +38145,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1185,
         sortr = "1185",
         name1 = 0,
@@ -37030,6 +38180,7 @@ return {
                 [412202] = 1,
             },
         },
+        minipack = 0,
         sort = 1148,
         sortr = "1148",
         name1 = 0,
@@ -37064,6 +38215,7 @@ return {
                 [413202] = 1,
             },
         },
+        minipack = 0,
         sort = 1180,
         sortr = "1180",
         name1 = 0,
@@ -37095,6 +38247,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2402,
         sortr = "2402",
         name1 = 0,
@@ -37126,6 +38279,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2400,
         sortr = "2400",
         name1 = 0,
@@ -37157,6 +38311,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2398,
         sortr = "2398",
         name1 = 0,
@@ -37188,6 +38343,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 320,
         sortr = "320",
         name1 = 0,
@@ -37219,6 +38375,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2396,
         sortr = "2396",
         name1 = 0,
@@ -37250,6 +38407,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2394,
         sortr = "2394",
         name1 = 0,
@@ -37281,6 +38439,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 603,
         sortr = "603",
         name1 = 1701830,
@@ -37313,6 +38472,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2392,
         sortr = "2392",
         name1 = 0,
@@ -37344,6 +38504,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2391,
         sortr = "2391",
         name1 = 0,
@@ -37375,6 +38536,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2390,
         sortr = "2390",
         name1 = 0,
@@ -37407,6 +38569,7 @@ return {
         unlock = {
             roleId = 125,
         },
+        minipack = 0,
         sort = 1668,
         sortr = "1668",
         name1 = 0,
@@ -37438,6 +38601,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 321,
         sortr = "321",
         name1 = 0,
@@ -37470,6 +38634,7 @@ return {
         unlock = {
             roleId = 125,
         },
+        minipack = 0,
         sort = 1676,
         sortr = "1676",
         name1 = 0,
@@ -37503,6 +38668,7 @@ return {
             favor = 300,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1678,
         sortr = "1678",
         name1 = 0,
@@ -37536,6 +38702,7 @@ return {
             favor = 300,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1680,
         sortr = "1680",
         name1 = 0,
@@ -37567,6 +38734,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 572,
         sortr = "572",
         name1 = 1701830,
@@ -37601,6 +38769,7 @@ return {
             favor = 2500,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1684,
         sortr = "1684",
         name1 = 0,
@@ -37634,6 +38803,7 @@ return {
             favor = 2500,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1686,
         sortr = "1686",
         name1 = 0,
@@ -37667,6 +38837,7 @@ return {
             favor = 300,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1688,
         sortr = "1688",
         name1 = 0,
@@ -37698,6 +38869,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 322,
         sortr = "322",
         name1 = 0,
@@ -37730,6 +38902,7 @@ return {
         unlock = {
             heroId = 112501,
         },
+        minipack = 0,
         sort = 1692,
         sortr = "1692",
         name1 = 0,
@@ -37762,6 +38935,7 @@ return {
         unlock = {
             heroId = 112501,
         },
+        minipack = 0,
         sort = 1694,
         sortr = "1694",
         name1 = 0,
@@ -37795,6 +38969,7 @@ return {
             favor = 2500,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1669,
         sortr = "1669",
         name1 = 0,
@@ -37826,6 +39001,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 76,
         sortr = "76",
         name1 = 0,
@@ -37858,6 +39034,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2251,
         sortr = "2251",
         name1 = 0,
@@ -37890,6 +39067,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2387,
         sortr = "2387",
         name1 = 0,
@@ -37921,6 +39099,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2386,
         sortr = "2386",
         name1 = 0,
@@ -37952,6 +39131,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 323,
         sortr = "323",
         name1 = 0,
@@ -37983,6 +39163,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2381,
         sortr = "2381",
         name1 = 0,
@@ -38014,6 +39195,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2378,
         sortr = "2378",
         name1 = 0,
@@ -38046,6 +39228,7 @@ return {
         unlock = {
             dunId = 109101,
         },
+        minipack = 0,
         sort = 771,
         sortr = "771",
         name1 = 1702190,
@@ -38078,6 +39261,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2376,
         sortr = "2376",
         name1 = 0,
@@ -38109,6 +39293,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2375,
         sortr = "2375",
         name1 = 0,
@@ -38140,6 +39325,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2374,
         sortr = "2374",
         name1 = 0,
@@ -38171,6 +39357,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2216,
         sortr = "2216",
         name1 = 0,
@@ -38203,6 +39390,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 77,
         sortr = "77",
         name1 = 0,
@@ -38235,6 +39423,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 436,
         sortr = "436",
         name1 = 0,
@@ -38266,6 +39455,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2322,
         sortr = "2322",
         name1 = 0,
@@ -38297,6 +39487,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2371,
         sortr = "2371",
         name1 = 0,
@@ -38328,6 +39519,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 78,
         sortr = "78",
         name1 = 0,
@@ -38360,6 +39552,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 524,
         sortr = "524",
         name1 = 1701832,
@@ -38392,6 +39585,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 578,
         sortr = "578",
         name1 = 1701833,
@@ -38424,6 +39618,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2370,
         sortr = "2370",
         name1 = 0,
@@ -38455,6 +39650,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2369,
         sortr = "2369",
         name1 = 0,
@@ -38486,6 +39682,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2368,
         sortr = "2368",
         name1 = 0,
@@ -38517,6 +39714,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2365,
         sortr = "2365",
         name1 = 0,
@@ -38548,6 +39746,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2359,
         sortr = "2359",
         name1 = 0,
@@ -38579,6 +39778,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2355,
         sortr = "2355",
         name1 = 0,
@@ -38610,6 +39810,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2351,
         sortr = "2351",
         name1 = 0,
@@ -38641,6 +39842,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2349,
         sortr = "2349",
         name1 = 0,
@@ -38672,6 +39874,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2348,
         sortr = "2348",
         name1 = 0,
@@ -38703,6 +39906,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 325,
         sortr = "325",
         name1 = 0,
@@ -38734,6 +39938,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 435,
         sortr = "435",
         name1 = 0,
@@ -38765,6 +39970,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 423,
         sortr = "423",
         name1 = 0,
@@ -38796,6 +40002,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2346,
         sortr = "2346",
         name1 = 0,
@@ -38827,6 +40034,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 81,
         sortr = "81",
         name1 = 0,
@@ -38859,6 +40067,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 362,
         sortr = "362",
         name1 = 0,
@@ -38892,6 +40101,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1224,
         sortr = "1224",
         name1 = 0,
@@ -38924,6 +40134,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1055,
         sortr = "1055",
         name1 = 0,
@@ -38955,6 +40166,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 83,
         sortr = "83",
         name1 = 0,
@@ -38990,6 +40202,7 @@ return {
                 [580320] = 1,
             },
         },
+        minipack = 0,
         sort = 944,
         sortr = "944",
         name1 = 1702188,
@@ -39021,6 +40234,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2343,
         sortr = "2343",
         name1 = 0,
@@ -39052,6 +40266,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1056,
         sortr = "1056",
         name1 = 0,
@@ -39083,6 +40298,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 79,
         sortr = "79",
         name1 = 0,
@@ -39116,6 +40332,7 @@ return {
         unlock = {
             dunId = 103315,
         },
+        minipack = 0,
         sort = 706,
         sortr = "706",
         name1 = 1702093,
@@ -39148,6 +40365,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2217,
         sortr = "2217",
         name1 = 0,
@@ -39180,6 +40398,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1057,
         sortr = "1057",
         name1 = 0,
@@ -39211,6 +40430,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 80,
         sortr = "80",
         name1 = 0,
@@ -39243,6 +40463,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 437,
         sortr = "437",
         name1 = 0,
@@ -39274,6 +40495,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2340,
         sortr = "2340",
         name1 = 0,
@@ -39305,6 +40527,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 529,
         sortr = "529",
         name1 = 1701833,
@@ -39337,6 +40560,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 84,
         sortr = "84",
         name1 = 0,
@@ -39372,6 +40596,7 @@ return {
                 [588001] = 1,
             },
         },
+        minipack = 0,
         sort = 1245,
         sortr = "1245",
         name1 = 0,
@@ -39404,6 +40629,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1514,
         sortr = "1514",
         name1 = 0,
@@ -39435,6 +40661,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1516,
         sortr = "1516",
         name1 = 0,
@@ -39466,6 +40693,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 82,
         sortr = "82",
         name1 = 0,
@@ -39498,6 +40726,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1520,
         sortr = "1520",
         name1 = 0,
@@ -39529,6 +40758,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1522,
         sortr = "1522",
         name1 = 0,
@@ -39560,6 +40790,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1524,
         sortr = "1524",
         name1 = 0,
@@ -39591,6 +40822,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1526,
         sortr = "1526",
         name1 = 0,
@@ -39622,6 +40854,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1528,
         sortr = "1528",
         name1 = 0,
@@ -39653,6 +40886,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1530,
         sortr = "1530",
         name1 = 0,
@@ -39684,6 +40918,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1532,
         sortr = "1532",
         name1 = 0,
@@ -39715,6 +40950,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 85,
         sortr = "85",
         name1 = 0,
@@ -39748,6 +40984,7 @@ return {
         unlock = {
             heroId = 110901,
         },
+        minipack = 0,
         sort = 1536,
         sortr = "1536",
         name1 = 0,
@@ -39779,6 +41016,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2339,
         sortr = "2339",
         name1 = 0,
@@ -39810,6 +41048,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2337,
         sortr = "2337",
         name1 = 0,
@@ -39841,6 +41080,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 86,
         sortr = "86",
         name1 = 0,
@@ -39873,6 +41113,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2336,
         sortr = "2336",
         name1 = 0,
@@ -39904,6 +41145,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2331,
         sortr = "2331",
         name1 = 0,
@@ -39935,6 +41177,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2327,
         sortr = "2327",
         name1 = 0,
@@ -39966,6 +41209,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2289,
         sortr = "2289",
         name1 = 0,
@@ -39997,6 +41241,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 33,
         sortr = "33",
         name1 = 0,
@@ -40029,6 +41274,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2323,
         sortr = "2323",
         name1 = 0,
@@ -40060,6 +41306,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2297,
         sortr = "2297",
         name1 = 0,
@@ -40091,6 +41338,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 87,
         sortr = "87",
         name1 = 0,
@@ -40123,6 +41371,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2372,
         sortr = "2372",
         name1 = 0,
@@ -40154,6 +41403,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2321,
         sortr = "2321",
         name1 = 0,
@@ -40185,6 +41435,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2320,
         sortr = "2320",
         name1 = 0,
@@ -40216,6 +41467,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 88,
         sortr = "88",
         name1 = 0,
@@ -40248,6 +41500,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2319,
         sortr = "2319",
         name1 = 0,
@@ -40279,6 +41532,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1071,
         sortr = "1071",
         name1 = 0,
@@ -40310,6 +41564,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2,
         sortr = "2",
         name1 = 0,
@@ -40342,6 +41597,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 89,
         sortr = "89",
         name1 = 0,
@@ -40374,6 +41630,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2314,
         sortr = "2314",
         name1 = 0,
@@ -40405,6 +41662,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2313,
         sortr = "2313",
         name1 = 0,
@@ -40436,6 +41694,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2222,
         sortr = "2222",
         name1 = 0,
@@ -40468,6 +41727,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 90,
         sortr = "90",
         name1 = 0,
@@ -40500,6 +41760,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 446,
         sortr = "446",
         name1 = 0,
@@ -40531,6 +41792,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2309,
         sortr = "2309",
         name1 = 0,
@@ -40562,6 +41824,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2306,
         sortr = "2306",
         name1 = 0,
@@ -40593,6 +41856,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 530,
         sortr = "530",
         name1 = 1701833,
@@ -40625,6 +41889,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2305,
         sortr = "2305",
         name1 = 0,
@@ -40658,6 +41923,7 @@ return {
             favor = 1000,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1681,
         sortr = "1681",
         name1 = 0,
@@ -40689,6 +41955,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 948,
         sortr = "948",
         name1 = 1702199,
@@ -40720,6 +41987,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2302,
         sortr = "2302",
         name1 = 0,
@@ -40751,6 +42019,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 443,
         sortr = "443",
         name1 = 0,
@@ -40782,6 +42051,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 487,
         sortr = "487",
         name1 = 1701828,
@@ -40814,6 +42084,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2029,
         sortr = "2029",
         name1 = 0,
@@ -40846,6 +42117,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2262,
         sortr = "2262",
         name1 = 0,
@@ -40878,6 +42150,7 @@ return {
         unlock = {
             dunId = 103315,
         },
+        minipack = 0,
         sort = 705,
         sortr = "705",
         name1 = 1702093,
@@ -40910,6 +42183,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2299,
         sortr = "2299",
         name1 = 0,
@@ -40941,6 +42215,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1186,
         sortr = "1186",
         name1 = 0,
@@ -40972,6 +42247,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 277,
         sortr = "277",
         name1 = 0,
@@ -41003,6 +42279,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 440,
         sortr = "440",
         name1 = 0,
@@ -41034,6 +42311,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2218,
         sortr = "2218",
         name1 = 0,
@@ -41066,6 +42344,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2295,
         sortr = "2295",
         name1 = 0,
@@ -41097,6 +42376,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2294,
         sortr = "2294",
         name1 = 0,
@@ -41128,6 +42408,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2291,
         sortr = "2291",
         name1 = 0,
@@ -41159,6 +42440,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2288,
         sortr = "2288",
         name1 = 0,
@@ -41190,6 +42472,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2286,
         sortr = "2286",
         name1 = 0,
@@ -41221,6 +42504,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 278,
         sortr = "278",
         name1 = 0,
@@ -41252,6 +42536,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 439,
         sortr = "439",
         name1 = 0,
@@ -41283,6 +42568,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2285,
         sortr = "2285",
         name1 = 0,
@@ -41314,6 +42600,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2282,
         sortr = "2282",
         name1 = 0,
@@ -41345,6 +42632,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2281,
         sortr = "2281",
         name1 = 0,
@@ -41376,6 +42664,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2276,
         sortr = "2276",
         name1 = 0,
@@ -41407,6 +42696,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2275,
         sortr = "2275",
         name1 = 0,
@@ -41438,6 +42728,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2274,
         sortr = "2274",
         name1 = 0,
@@ -41469,6 +42760,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 279,
         sortr = "279",
         name1 = 0,
@@ -41500,6 +42792,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 445,
         sortr = "445",
         name1 = 0,
@@ -41533,6 +42826,7 @@ return {
             favor = 2500,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1699,
         sortr = "1699",
         name1 = 0,
@@ -41564,6 +42858,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2272,
         sortr = "2272",
         name1 = 0,
@@ -41595,6 +42890,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 886,
         sortr = "886",
         name1 = 112000079,
@@ -41627,6 +42923,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 558,
         sortr = "558",
         name1 = 1701832,
@@ -41659,6 +42956,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 621,
         sortr = "621",
         name1 = 1701832,
@@ -41691,6 +42989,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 210,
         sortr = "210",
         name1 = 0,
@@ -41723,6 +43022,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2269,
         sortr = "2269",
         name1 = 0,
@@ -41754,6 +43054,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 447,
         sortr = "447",
         name1 = 0,
@@ -41785,6 +43086,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2268,
         sortr = "2268",
         name1 = 0,
@@ -41816,6 +43118,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 209,
         sortr = "209",
         name1 = 0,
@@ -41848,6 +43151,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2263,
         sortr = "2263",
         name1 = 0,
@@ -41879,6 +43183,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 34,
         sortr = "34",
         name1 = 0,
@@ -41911,6 +43216,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1054,
         sortr = "1054",
         name1 = 0,
@@ -41942,6 +43248,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2267,
         sortr = "2267",
         name1 = 0,
@@ -41973,6 +43280,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2188,
         sortr = "2188",
         name1 = 0,
@@ -42005,6 +43313,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 444,
         sortr = "444",
         name1 = 0,
@@ -42036,6 +43345,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2227,
         sortr = "2227",
         name1 = 0,
@@ -42068,6 +43378,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2264,
         sortr = "2264",
         name1 = 0,
@@ -42099,6 +43410,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2261,
         sortr = "2261",
         name1 = 0,
@@ -42130,6 +43442,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2260,
         sortr = "2260",
         name1 = 0,
@@ -42161,6 +43474,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2259,
         sortr = "2259",
         name1 = 0,
@@ -42192,6 +43506,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2256,
         sortr = "2256",
         name1 = 0,
@@ -42224,6 +43539,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2255,
         sortr = "2255",
         name1 = 0,
@@ -42256,6 +43572,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 442,
         sortr = "442",
         name1 = 0,
@@ -42287,6 +43604,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 371,
         sortr = "371",
         name1 = 0,
@@ -42319,6 +43637,7 @@ return {
         unlock = {
             dunId = 440497,
         },
+        minipack = 0,
         sort = 823,
         sortr = "823",
         name1 = 1706099,
@@ -42351,6 +43670,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2252,
         sortr = "2252",
         name1 = 0,
@@ -42384,6 +43704,7 @@ return {
         unlock = {
             roleId = 101,
         },
+        minipack = 0,
         sort = 1252,
         sortr = "1252",
         name1 = 0,
@@ -42416,6 +43737,7 @@ return {
         unlock = {
             roleId = 101,
         },
+        minipack = 0,
         sort = 1254,
         sortr = "1254",
         name1 = 0,
@@ -42449,6 +43771,7 @@ return {
             favor = 300,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1256,
         sortr = "1256",
         name1 = 0,
@@ -42482,6 +43805,7 @@ return {
             favor = 1000,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1258,
         sortr = "1258",
         name1 = 0,
@@ -42513,6 +43837,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 534,
         sortr = "534",
         name1 = 1701832,
@@ -42547,6 +43872,7 @@ return {
             favor = 300,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1262,
         sortr = "1262",
         name1 = 0,
@@ -42580,6 +43906,7 @@ return {
             favor = 1000,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1264,
         sortr = "1264",
         name1 = 0,
@@ -42613,6 +43940,7 @@ return {
             favor = 1000,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1266,
         sortr = "1266",
         name1 = 0,
@@ -42645,6 +43973,7 @@ return {
         unlock = {
             roleId = 101,
         },
+        minipack = 0,
         sort = 1268,
         sortr = "1268",
         name1 = 0,
@@ -42677,6 +44006,7 @@ return {
         unlock = {
             roleId = 101,
         },
+        minipack = 0,
         sort = 1269,
         sortr = "1269",
         name1 = 0,
@@ -42710,6 +44040,7 @@ return {
             level = 30,
             heroId = 110101,
         },
+        minipack = 0,
         sort = 1271,
         sortr = "1271",
         name1 = 0,
@@ -42742,6 +44073,7 @@ return {
         unlock = {
             heroId = 110101,
         },
+        minipack = 0,
         sort = 1274,
         sortr = "1274",
         name1 = 0,
@@ -42773,6 +44105,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 438,
         sortr = "438",
         name1 = 0,
@@ -42805,6 +44138,7 @@ return {
         unlock = {
             heroId = 110102,
         },
+        minipack = 0,
         sort = 1279,
         sortr = "1279",
         name1 = 0,
@@ -42838,6 +44172,7 @@ return {
             level = 30,
             heroId = 110103,
         },
+        minipack = 0,
         sort = 1281,
         sortr = "1281",
         name1 = 0,
@@ -42870,6 +44205,7 @@ return {
         unlock = {
             heroId = 110103,
         },
+        minipack = 0,
         sort = 1284,
         sortr = "1284",
         name1 = 0,
@@ -42903,6 +44239,7 @@ return {
             favor = 2500,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1249,
         sortr = "1249",
         name1 = 0,
@@ -42934,6 +44271,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1225,
         sortr = "1225",
         name1 = 0,
@@ -42967,6 +44305,7 @@ return {
         unlock = {
             heroId = 110103,
         },
+        minipack = 0,
         sort = 1283,
         sortr = "1283",
         name1 = 0,
@@ -42998,6 +44337,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 20,
         sortr = "20",
         name1 = 0,
@@ -43030,6 +44370,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2249,
         sortr = "2249",
         name1 = 0,
@@ -43062,6 +44403,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 21,
         sortr = "21",
         name1 = 0,
@@ -43094,6 +44436,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2248,
         sortr = "2248",
         name1 = 0,
@@ -43126,6 +44469,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 22,
         sortr = "22",
         name1 = 0,
@@ -43158,6 +44502,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2244,
         sortr = "2244",
         name1 = 0,
@@ -43190,6 +44535,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2243,
         sortr = "2243",
         name1 = 0,
@@ -43224,6 +44570,7 @@ return {
             favor = 300,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1882,
         sortr = "1882",
         name1 = 0,
@@ -43255,6 +44602,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 450,
         sortr = "450",
         name1 = 0,
@@ -43286,6 +44634,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1201,
         sortr = "1201",
         name1 = 0,
@@ -43318,6 +44667,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 403,
         sortr = "403",
         name1 = 0,
@@ -43349,6 +44699,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2238,
         sortr = "2238",
         name1 = 0,
@@ -43381,6 +44732,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 23,
         sortr = "23",
         name1 = 0,
@@ -43416,6 +44768,7 @@ return {
                 [588002] = 1,
             },
         },
+        minipack = 0,
         sort = 1246,
         sortr = "1246",
         name1 = 0,
@@ -43448,6 +44801,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 24,
         sortr = "24",
         name1 = 0,
@@ -43480,6 +44834,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1517,
         sortr = "1517",
         name1 = 0,
@@ -43511,6 +44866,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 257,
         sortr = "257",
         name1 = 0,
@@ -43542,6 +44898,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1521,
         sortr = "1521",
         name1 = 0,
@@ -43573,6 +44930,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1523,
         sortr = "1523",
         name1 = 0,
@@ -43604,6 +44962,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1525,
         sortr = "1525",
         name1 = 0,
@@ -43635,6 +44994,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1527,
         sortr = "1527",
         name1 = 0,
@@ -43666,6 +45026,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1529,
         sortr = "1529",
         name1 = 0,
@@ -43697,6 +45058,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1531,
         sortr = "1531",
         name1 = 0,
@@ -43729,6 +45091,7 @@ return {
         unlock = {
             heroId = 110901,
         },
+        minipack = 0,
         sort = 1533,
         sortr = "1533",
         name1 = 0,
@@ -43760,6 +45123,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 258,
         sortr = "258",
         name1 = 0,
@@ -43791,6 +45155,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2236,
         sortr = "2236",
         name1 = 0,
@@ -43823,6 +45188,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2235,
         sortr = "2235",
         name1 = 0,
@@ -43855,6 +45221,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2228,
         sortr = "2228",
         name1 = 0,
@@ -43887,6 +45254,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2265,
         sortr = "2265",
         name1 = 0,
@@ -43918,6 +45286,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2226,
         sortr = "2226",
         name1 = 0,
@@ -43953,6 +45322,7 @@ return {
                 [410428] = 1,
             },
         },
+        minipack = 0,
         sort = 1183,
         sortr = "1183",
         name1 = 0,
@@ -43984,6 +45354,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1982,
         sortr = "1982",
         name1 = 0,
@@ -44016,6 +45387,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2312,
         sortr = "2312",
         name1 = 0,
@@ -44047,6 +45419,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2221,
         sortr = "2221",
         name1 = 0,
@@ -44079,6 +45452,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2219,
         sortr = "2219",
         name1 = 0,
@@ -44111,6 +45485,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2298,
         sortr = "2298",
         name1 = 0,
@@ -44142,6 +45517,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2341,
         sortr = "2341",
         name1 = 0,
@@ -44173,6 +45549,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2373,
         sortr = "2373",
         name1 = 0,
@@ -44204,6 +45581,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2214,
         sortr = "2214",
         name1 = 0,
@@ -44237,6 +45615,7 @@ return {
         unlock = {
             dunId = 104321,
         },
+        minipack = 0,
         sort = 719,
         sortr = "719",
         name1 = 1702096,
@@ -44269,6 +45648,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2212,
         sortr = "2212",
         name1 = 0,
@@ -44301,6 +45681,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2210,
         sortr = "2210",
         name1 = 0,
@@ -44333,6 +45714,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2209,
         sortr = "2209",
         name1 = 0,
@@ -44365,6 +45747,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2208,
         sortr = "2208",
         name1 = 0,
@@ -44397,6 +45780,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2206,
         sortr = "2206",
         name1 = 0,
@@ -44430,6 +45814,7 @@ return {
         unlock = {
             dunId = 101208,
         },
+        minipack = 0,
         sort = 1190,
         sortr = "1190",
         name1 = 0,
@@ -44462,6 +45847,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 188,
         sortr = "188",
         name1 = 0,
@@ -44494,6 +45880,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2204,
         sortr = "2204",
         name1 = 0,
@@ -44526,6 +45913,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2202,
         sortr = "2202",
         name1 = 0,
@@ -44558,6 +45946,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1033,
         sortr = "1033",
         name1 = 0,
@@ -44589,6 +45978,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 189,
         sortr = "189",
         name1 = 0,
@@ -44621,6 +46011,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2200,
         sortr = "2200",
         name1 = 0,
@@ -44653,6 +46044,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2198,
         sortr = "2198",
         name1 = 0,
@@ -44685,6 +46077,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2032,
         sortr = "2032",
         name1 = 0,
@@ -44717,6 +46110,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2196,
         sortr = "2196",
         name1 = 0,
@@ -44749,6 +46143,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 56,
         sortr = "56",
         name1 = 0,
@@ -44781,6 +46176,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 259,
         sortr = "259",
         name1 = 0,
@@ -44812,6 +46208,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2192,
         sortr = "2192",
         name1 = 0,
@@ -44844,6 +46241,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2190,
         sortr = "2190",
         name1 = 0,
@@ -44876,6 +46274,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 290,
         sortr = "290",
         name1 = 0,
@@ -44907,6 +46306,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2266,
         sortr = "2266",
         name1 = 0,
@@ -44938,6 +46338,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1053,
         sortr = "1053",
         name1 = 0,
@@ -44969,6 +46370,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2186,
         sortr = "2186",
         name1 = 0,
@@ -45001,6 +46403,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1187,
         sortr = "1187",
         name1 = 0,
@@ -45035,6 +46438,7 @@ return {
                 [410415] = 1,
             },
         },
+        minipack = 0,
         sort = 1150,
         sortr = "1150",
         name1 = 0,
@@ -45069,6 +46473,7 @@ return {
                 [413702] = 1,
             },
         },
+        minipack = 0,
         sort = 1181,
         sortr = "1181",
         name1 = 0,
@@ -45100,6 +46505,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2184,
         sortr = "2184",
         name1 = 0,
@@ -45132,6 +46538,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2183,
         sortr = "2183",
         name1 = 0,
@@ -45164,6 +46571,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2182,
         sortr = "2182",
         name1 = 0,
@@ -45196,6 +46604,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2181,
         sortr = "2181",
         name1 = 0,
@@ -45228,6 +46637,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2179,
         sortr = "2179",
         name1 = 0,
@@ -45260,6 +46670,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2178,
         sortr = "2178",
         name1 = 0,
@@ -45292,6 +46703,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2177,
         sortr = "2177",
         name1 = 0,
@@ -45324,6 +46736,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2176,
         sortr = "2176",
         name1 = 0,
@@ -45356,6 +46769,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2175,
         sortr = "2175",
         name1 = 0,
@@ -45388,6 +46802,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2174,
         sortr = "2174",
         name1 = 0,
@@ -45420,6 +46835,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2170,
         sortr = "2170",
         name1 = 0,
@@ -45452,6 +46868,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2153,
         sortr = "2153",
         name1 = 0,
@@ -45484,6 +46901,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2152,
         sortr = "2152",
         name1 = 0,
@@ -45516,6 +46934,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 591,
         sortr = "591",
         name1 = 1701833,
@@ -45548,6 +46967,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2148,
         sortr = "2148",
         name1 = 0,
@@ -45580,6 +47000,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2139,
         sortr = "2139",
         name1 = 0,
@@ -45612,6 +47033,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2132,
         sortr = "2132",
         name1 = 0,
@@ -45644,6 +47066,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2124,
         sortr = "2124",
         name1 = 0,
@@ -45676,6 +47099,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2122,
         sortr = "2122",
         name1 = 0,
@@ -45707,6 +47131,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2111,
         sortr = "2111",
         name1 = 0,
@@ -45738,6 +47163,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2109,
         sortr = "2109",
         name1 = 0,
@@ -45769,6 +47195,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 651,
         sortr = "651",
         name1 = 1701833,
@@ -45801,6 +47228,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2097,
         sortr = "2097",
         name1 = 0,
@@ -45832,6 +47260,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 645,
         sortr = "645",
         name1 = 1701830,
@@ -45866,6 +47295,7 @@ return {
             favor = 1000,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1577,
         sortr = "1577",
         name1 = 0,
@@ -45897,6 +47327,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 342,
         sortr = "342",
         name1 = 0,
@@ -45928,6 +47359,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2239,
         sortr = "2239",
         name1 = 0,
@@ -45960,6 +47392,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 214,
         sortr = "214",
         name1 = 0,
@@ -45991,6 +47424,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 881,
         sortr = "881",
         name1 = 1701947,
@@ -46023,6 +47457,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 553,
         sortr = "553",
         name1 = 1701833,
@@ -46056,6 +47491,7 @@ return {
         unlock = {
             dunId = 104321,
         },
+        minipack = 0,
         sort = 720,
         sortr = "720",
         name1 = 1702096,
@@ -46090,6 +47526,7 @@ return {
             favor = 2500,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1566,
         sortr = "1566",
         name1 = 0,
@@ -46123,6 +47560,7 @@ return {
             level = 30,
             heroId = 110901,
         },
+        minipack = 0,
         sort = 1534,
         sortr = "1534",
         name1 = 0,
@@ -46154,6 +47592,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 532,
         sortr = "532",
         name1 = 1701831,
@@ -46186,6 +47625,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1106,
         sortr = "1106",
         name1 = 0,
@@ -46217,6 +47657,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 183,
         sortr = "183",
         name1 = 0,
@@ -46249,6 +47690,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 253,
         sortr = "253",
         name1 = 0,
@@ -46280,6 +47722,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 254,
         sortr = "254",
         name1 = 0,
@@ -46311,6 +47754,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1075,
         sortr = "1075",
         name1 = 0,
@@ -46342,6 +47786,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 592,
         sortr = "592",
         name1 = 1701833,
@@ -46374,6 +47819,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 633,
         sortr = "633",
         name1 = 1701830,
@@ -46406,6 +47852,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2084,
         sortr = "2084",
         name1 = 0,
@@ -46438,6 +47885,7 @@ return {
         unlock = {
             roleId = 101,
         },
+        minipack = 0,
         sort = 1247,
         sortr = "1247",
         name1 = 0,
@@ -46470,6 +47918,7 @@ return {
         unlock = {
             roleId = 101,
         },
+        minipack = 0,
         sort = 1253,
         sortr = "1253",
         name1 = 0,
@@ -46503,6 +47952,7 @@ return {
             favor = 300,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1255,
         sortr = "1255",
         name1 = 0,
@@ -46536,6 +47986,7 @@ return {
             favor = 300,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1257,
         sortr = "1257",
         name1 = 0,
@@ -46569,6 +48020,7 @@ return {
             favor = 1000,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1259,
         sortr = "1259",
         name1 = 0,
@@ -46602,6 +48054,7 @@ return {
             favor = 2500,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1261,
         sortr = "1261",
         name1 = 0,
@@ -46635,6 +48088,7 @@ return {
             favor = 2500,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1263,
         sortr = "1263",
         name1 = 0,
@@ -46668,6 +48122,7 @@ return {
             favor = 2500,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1265,
         sortr = "1265",
         name1 = 0,
@@ -46701,6 +48156,7 @@ return {
             favor = 300,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1267,
         sortr = "1267",
         name1 = 0,
@@ -46737,6 +48193,7 @@ return {
             },
             heroId = 110101,
         },
+        minipack = 0,
         sort = 1273,
         sortr = "1273",
         name1 = 0,
@@ -46769,6 +48226,7 @@ return {
         unlock = {
             heroId = 110101,
         },
+        minipack = 0,
         sort = 1270,
         sortr = "1270",
         name1 = 0,
@@ -46801,6 +48259,7 @@ return {
         unlock = {
             heroId = 110101,
         },
+        minipack = 0,
         sort = 1272,
         sortr = "1272",
         name1 = 0,
@@ -46833,6 +48292,7 @@ return {
         unlock = {
             heroId = 110102,
         },
+        minipack = 0,
         sort = 1275,
         sortr = "1275",
         name1 = 0,
@@ -46865,6 +48325,7 @@ return {
         unlock = {
             heroId = 110102,
         },
+        minipack = 0,
         sort = 1277,
         sortr = "1277",
         name1 = 0,
@@ -46897,6 +48358,7 @@ return {
         unlock = {
             heroId = 110103,
         },
+        minipack = 0,
         sort = 1280,
         sortr = "1280",
         name1 = 0,
@@ -46929,6 +48391,7 @@ return {
         unlock = {
             heroId = 110103,
         },
+        minipack = 0,
         sort = 1282,
         sortr = "1282",
         name1 = 0,
@@ -46962,6 +48425,7 @@ return {
             favor = 2500,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1248,
         sortr = "1248",
         name1 = 0,
@@ -46995,6 +48459,7 @@ return {
             favor = 2500,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1250,
         sortr = "1250",
         name1 = 0,
@@ -47026,6 +48491,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1278,
         sortr = "1278",
         name1 = 0,
@@ -47057,6 +48523,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 255,
         sortr = "255",
         name1 = 0,
@@ -47088,6 +48555,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1518,
         sortr = "1518",
         name1 = 0,
@@ -47119,6 +48587,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 649,
         sortr = "649",
         name1 = 1701831,
@@ -47151,6 +48620,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 256,
         sortr = "256",
         name1 = 0,
@@ -47182,6 +48652,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 548,
         sortr = "548",
         name1 = 1701830,
@@ -47214,6 +48685,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1037,
         sortr = "1037",
         name1 = 0,
@@ -47246,6 +48718,7 @@ return {
         unlock = {
             heroId = 110801,
         },
+        minipack = 0,
         sort = 1511,
         sortr = "1511",
         name1 = 0,
@@ -47277,6 +48750,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 260,
         sortr = "260",
         name1 = 0,
@@ -47309,6 +48783,7 @@ return {
         unlock = {
             dunId = 250005,
         },
+        minipack = 0,
         sort = 806,
         sortr = "806",
         name1 = 1702169,
@@ -47343,6 +48818,7 @@ return {
             favor = 2500,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1489,
         sortr = "1489",
         name1 = 0,
@@ -47375,6 +48851,7 @@ return {
         unlock = {
             dunId = 250005,
         },
+        minipack = 0,
         sort = 808,
         sortr = "808",
         name1 = 1702171,
@@ -47408,6 +48885,7 @@ return {
         unlock = {
             dunId = 101102,
         },
+        minipack = 0,
         sort = 676,
         sortr = "676",
         name1 = 1702088,
@@ -47440,6 +48918,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 175,
         sortr = "175",
         name1 = 0,
@@ -47472,6 +48951,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1118,
         sortr = "1118",
         name1 = 0,
@@ -47503,6 +48983,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 164,
         sortr = "164",
         name1 = 0,
@@ -47538,6 +49019,7 @@ return {
                 [580319] = 1,
             },
         },
+        minipack = 0,
         sort = 945,
         sortr = "945",
         name1 = 1702188,
@@ -47570,6 +49052,7 @@ return {
         unlock = {
             dunId = 103101,
         },
+        minipack = 0,
         sort = 692,
         sortr = "692",
         name1 = 1702091,
@@ -47603,6 +49086,7 @@ return {
         unlock = {
             dunId = 109101,
         },
+        minipack = 0,
         sort = 773,
         sortr = "773",
         name1 = 1702192,
@@ -47636,6 +49120,7 @@ return {
         unlock = {
             dunId = 108646,
         },
+        minipack = 0,
         sort = 2063,
         sortr = "2063",
         name1 = 0,
@@ -47668,6 +49153,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 648,
         sortr = "648",
         name1 = 1701831,
@@ -47700,6 +49186,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2065,
         sortr = "2065",
         name1 = 0,
@@ -47732,6 +49219,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2066,
         sortr = "2066",
         name1 = 0,
@@ -47764,6 +49252,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 165,
         sortr = "165",
         name1 = 0,
@@ -47797,6 +49286,7 @@ return {
         unlock = {
             dunId = 103101,
         },
+        minipack = 0,
         sort = 694,
         sortr = "694",
         name1 = 1702091,
@@ -47830,6 +49320,7 @@ return {
         unlock = {
             roleId = 126,
         },
+        minipack = 0,
         sort = 1747,
         sortr = "1747",
         name1 = 0,
@@ -47861,6 +49352,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 328,
         sortr = "328",
         name1 = 0,
@@ -47893,6 +49385,7 @@ return {
         unlock = {
             dunId = 103107,
         },
+        minipack = 0,
         sort = 697,
         sortr = "697",
         name1 = 1702092,
@@ -47925,6 +49418,7 @@ return {
         unlockType = 9999,
         unlock = {
         },
+        minipack = 0,
         sort = 2075,
         sortr = "2075",
         name1 = 0,
@@ -47962,6 +49456,7 @@ return {
         unlock = {
             dunId = 103107,
         },
+        minipack = 0,
         sort = 699,
         sortr = "699",
         name1 = 1702092,
@@ -47994,6 +49489,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1051,
         sortr = "1051",
         name1 = 0,
@@ -48026,6 +49522,7 @@ return {
         unlock = {
             dunId = 103211,
         },
+        minipack = 0,
         sort = 700,
         sortr = "700",
         name1 = 1709992,
@@ -48059,6 +49556,7 @@ return {
         unlock = {
             dunId = 103211,
         },
+        minipack = 0,
         sort = 701,
         sortr = "701",
         name1 = 1709992,
@@ -48092,6 +49590,7 @@ return {
         unlock = {
             dunId = 109214,
         },
+        minipack = 0,
         sort = 775,
         sortr = "775",
         name1 = 1702194,
@@ -48124,6 +49623,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1052,
         sortr = "1052",
         name1 = 0,
@@ -48155,6 +49655,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 166,
         sortr = "166",
         name1 = 0,
@@ -48188,6 +49689,7 @@ return {
         unlock = {
             dunId = 103315,
         },
+        minipack = 0,
         sort = 704,
         sortr = "704",
         name1 = 1702093,
@@ -48220,6 +49722,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2300,
         sortr = "2300",
         name1 = 0,
@@ -48251,6 +49754,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2342,
         sortr = "2342",
         name1 = 0,
@@ -48282,6 +49786,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 167,
         sortr = "167",
         name1 = 0,
@@ -48315,6 +49820,7 @@ return {
         unlock = {
             dunId = 109421,
         },
+        minipack = 0,
         sort = 777,
         sortr = "777",
         name1 = 1702196,
@@ -48347,6 +49853,7 @@ return {
         unlockType = 9999,
         unlock = {
         },
+        minipack = 0,
         sort = 2073,
         sortr = "2073",
         name1 = 0,
@@ -48383,6 +49890,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 330,
         sortr = "330",
         name1 = 0,
@@ -48414,6 +49922,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 169,
         sortr = "169",
         name1 = 0,
@@ -48447,6 +49956,7 @@ return {
         unlock = {
             dunId = 103320,
         },
+        minipack = 0,
         sort = 2017,
         sortr = "2017",
         name1 = 0,
@@ -48479,6 +49989,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2072,
         sortr = "2072",
         name1 = 0,
@@ -48511,6 +50022,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1028,
         sortr = "1028",
         name1 = 0,
@@ -48542,6 +50054,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 168,
         sortr = "168",
         name1 = 0,
@@ -48574,6 +50087,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2071,
         sortr = "2071",
         name1 = 0,
@@ -48606,6 +50120,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 523,
         sortr = "523",
         name1 = 1701832,
@@ -48638,6 +50153,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1022,
         sortr = "1022",
         name1 = 0,
@@ -48669,6 +50185,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 170,
         sortr = "170",
         name1 = 0,
@@ -48702,6 +50219,7 @@ return {
         unlock = {
             dunId = 107425,
         },
+        minipack = 0,
         sort = 751,
         sortr = "751",
         name1 = 1702107,
@@ -48735,6 +50253,7 @@ return {
         unlock = {
             dunId = 107425,
         },
+        minipack = 0,
         sort = 753,
         sortr = "753",
         name1 = 1701895,
@@ -48767,6 +50286,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 830,
         sortr = "830",
         name1 = 112000059,
@@ -48799,6 +50319,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 171,
         sortr = "171",
         name1 = 0,
@@ -48831,6 +50352,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2069,
         sortr = "2069",
         name1 = 0,
@@ -48864,6 +50386,7 @@ return {
         unlock = {
             dunId = 107317,
         },
+        minipack = 0,
         sort = 747,
         sortr = "747",
         name1 = 1701893,
@@ -48896,6 +50419,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 832,
         sortr = "832",
         name1 = 112000060,
@@ -48928,6 +50452,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 500,
         sortr = "500",
         name1 = 1701830,
@@ -48960,6 +50485,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 431,
         sortr = "431",
         name1 = 0,
@@ -48992,6 +50518,7 @@ return {
         unlock = {
             dunId = 107539,
         },
+        minipack = 0,
         sort = 2067,
         sortr = "2067",
         name1 = 0,
@@ -49024,6 +50551,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2270,
         sortr = "2270",
         name1 = 0,
@@ -49055,6 +50583,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 228,
         sortr = "228",
         name1 = 0,
@@ -49087,6 +50616,7 @@ return {
         unlock = {
             roleId = 125,
         },
+        minipack = 0,
         sort = 1674,
         sortr = "1674",
         name1 = 0,
@@ -49118,6 +50648,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1188,
         sortr = "1188",
         name1 = 0,
@@ -49152,6 +50683,7 @@ return {
                 [410123] = 1,
             },
         },
+        minipack = 0,
         sort = 1151,
         sortr = "1151",
         name1 = 0,
@@ -49183,6 +50715,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 172,
         sortr = "172",
         name1 = 0,
@@ -49216,6 +50749,7 @@ return {
         unlock = {
             dunId = 109640,
         },
+        minipack = 0,
         sort = 2064,
         sortr = "2064",
         name1 = 0,
@@ -49250,6 +50784,7 @@ return {
             favor = 2500,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1682,
         sortr = "1682",
         name1 = 0,
@@ -49281,6 +50816,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1729,
         sortr = "1729",
         name1 = 0,
@@ -49312,6 +50848,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 173,
         sortr = "173",
         name1 = 0,
@@ -49344,6 +50881,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1733,
         sortr = "1733",
         name1 = 0,
@@ -49375,6 +50913,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 589,
         sortr = "589",
         name1 = 1701832,
@@ -49409,6 +50948,7 @@ return {
             favor = 1000,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1737,
         sortr = "1737",
         name1 = 0,
@@ -49440,6 +50980,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 174,
         sortr = "174",
         name1 = 0,
@@ -49474,6 +51015,7 @@ return {
             favor = 1000,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1741,
         sortr = "1741",
         name1 = 0,
@@ -49507,6 +51049,7 @@ return {
             favor = 1000,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1743,
         sortr = "1743",
         name1 = 0,
@@ -49539,6 +51082,7 @@ return {
         unlock = {
             roleId = 126,
         },
+        minipack = 0,
         sort = 1745,
         sortr = "1745",
         name1 = 0,
@@ -49570,6 +51114,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 230,
         sortr = "230",
         name1 = 0,
@@ -49601,6 +51146,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1749,
         sortr = "1749",
         name1 = 0,
@@ -49632,6 +51178,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1751,
         sortr = "1751",
         name1 = 0,
@@ -49665,6 +51212,7 @@ return {
             favor = 2500,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1726,
         sortr = "1726",
         name1 = 0,
@@ -49698,6 +51246,7 @@ return {
             favor = 2500,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1728,
         sortr = "1728",
         name1 = 0,
@@ -49729,6 +51278,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 250,
         sortr = "250",
         name1 = 0,
@@ -49760,6 +51310,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2061,
         sortr = "2061",
         name1 = 0,
@@ -49792,6 +51343,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 848,
         sortr = "848",
         name1 = 1701921,
@@ -49824,6 +51376,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 231,
         sortr = "231",
         name1 = 0,
@@ -49855,6 +51408,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 516,
         sortr = "516",
         name1 = 1701831,
@@ -49887,6 +51441,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 536,
         sortr = "536",
         name1 = 1701833,
@@ -49919,6 +51474,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 331,
         sortr = "331",
         name1 = 0,
@@ -49950,6 +51506,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 873,
         sortr = "873",
         name1 = 112000074,
@@ -49982,6 +51539,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 580,
         sortr = "580",
         name1 = 1701831,
@@ -50014,6 +51572,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 874,
         sortr = "874",
         name1 = 112000075,
@@ -50046,6 +51605,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2271,
         sortr = "2271",
         name1 = 0,
@@ -50078,6 +51638,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 232,
         sortr = "232",
         name1 = 0,
@@ -50109,6 +51670,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 887,
         sortr = "887",
         name1 = 112000080,
@@ -50143,6 +51705,7 @@ return {
             favor = 1000,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1260,
         sortr = "1260",
         name1 = 0,
@@ -50174,6 +51737,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 332,
         sortr = "332",
         name1 = 0,
@@ -50205,6 +51769,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 888,
         sortr = "888",
         name1 = 1701954,
@@ -50237,6 +51802,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 855,
         sortr = "855",
         name1 = 1701927,
@@ -50270,6 +51836,7 @@ return {
         unlock = {
             dunId = 101103,
         },
+        minipack = 0,
         sort = 677,
         sortr = "677",
         name1 = 1702089,
@@ -50304,6 +51871,7 @@ return {
             level = 30,
             heroId = 110102,
         },
+        minipack = 0,
         sort = 1276,
         sortr = "1276",
         name1 = 0,
@@ -50335,6 +51903,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 233,
         sortr = "233",
         name1 = 0,
@@ -50366,6 +51935,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 531,
         sortr = "531",
         name1 = 1701830,
@@ -50399,6 +51969,7 @@ return {
         unlock = {
             dunId = 101103,
         },
+        minipack = 0,
         sort = 678,
         sortr = "678",
         name1 = 1702089,
@@ -50431,6 +52002,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 617,
         sortr = "617",
         name1 = 1701833,
@@ -50464,6 +52036,7 @@ return {
         unlock = {
             dunId = 101103,
         },
+        minipack = 0,
         sort = 679,
         sortr = "679",
         name1 = 1702089,
@@ -50498,6 +52071,7 @@ return {
             favor = 2500,
             roleId = 101,
         },
+        minipack = 0,
         sort = 1251,
         sortr = "1251",
         name1 = 0,
@@ -50529,6 +52103,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1061,
         sortr = "1061",
         name1 = 0,
@@ -50560,6 +52135,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 91,
         sortr = "91",
         name1 = 0,
@@ -50592,6 +52168,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 234,
         sortr = "234",
         name1 = 0,
@@ -50623,6 +52200,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1513,
         sortr = "1513",
         name1 = 0,
@@ -50654,6 +52232,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 639,
         sortr = "639",
         name1 = 1701830,
@@ -50686,6 +52265,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 333,
         sortr = "333",
         name1 = 0,
@@ -50726,6 +52306,7 @@ return {
                 [7] = 123501550,
             },
         },
+        minipack = 0,
         sort = 2030,
         sortr = "2030",
         name1 = 0,
@@ -50758,6 +52339,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2031,
         sortr = "2031",
         name1 = 0,
@@ -50790,6 +52372,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 588,
         sortr = "588",
         name1 = 1701832,
@@ -50822,6 +52405,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 92,
         sortr = "92",
         name1 = 0,
@@ -50854,6 +52438,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 235,
         sortr = "235",
         name1 = 0,
@@ -50885,6 +52470,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 634,
         sortr = "634",
         name1 = 1701831,
@@ -50917,6 +52503,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 316,
         sortr = "316",
         name1 = 0,
@@ -50948,6 +52535,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 57,
         sortr = "57",
         name1 = 0,
@@ -50982,6 +52570,7 @@ return {
             favor = 2500,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1426,
         sortr = "1426",
         name1 = 0,
@@ -51014,6 +52603,7 @@ return {
         unlock = {
             dunId = 101101,
         },
+        minipack = 0,
         sort = 672,
         sortr = "672",
         name1 = 1701867,
@@ -51046,6 +52636,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1048,
         sortr = "1048",
         name1 = 0,
@@ -51077,6 +52668,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 93,
         sortr = "93",
         name1 = 0,
@@ -51109,6 +52701,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 236,
         sortr = "236",
         name1 = 0,
@@ -51140,6 +52733,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2059,
         sortr = "2059",
         name1 = 0,
@@ -51172,6 +52766,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1049,
         sortr = "1049",
         name1 = 0,
@@ -51203,6 +52798,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 94,
         sortr = "94",
         name1 = 0,
@@ -51236,6 +52832,7 @@ return {
         unlock = {
             dunId = 101102,
         },
+        minipack = 0,
         sort = 673,
         sortr = "673",
         name1 = 1701871,
@@ -51269,6 +52866,7 @@ return {
         unlock = {
             dunId = 101104,
         },
+        minipack = 0,
         sort = 680,
         sortr = "680",
         name1 = 1701872,
@@ -51301,6 +52899,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1050,
         sortr = "1050",
         name1 = 0,
@@ -51332,6 +52931,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 95,
         sortr = "95",
         name1 = 0,
@@ -51364,6 +52964,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 647,
         sortr = "647",
         name1 = 1701831,
@@ -51397,6 +52998,7 @@ return {
         unlock = {
             dunId = 101207,
         },
+        minipack = 0,
         sort = 682,
         sortr = "682",
         name1 = 1701874,
@@ -51430,6 +53032,7 @@ return {
         unlock = {
             dunId = 101207,
         },
+        minipack = 0,
         sort = 681,
         sortr = "681",
         name1 = 1701873,
@@ -51462,6 +53065,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 96,
         sortr = "96",
         name1 = 0,
@@ -51495,6 +53099,7 @@ return {
         unlock = {
             dunId = 102101,
         },
+        minipack = 0,
         sort = 683,
         sortr = "683",
         name1 = 1701875,
@@ -51528,6 +53133,7 @@ return {
         unlock = {
             dunId = 102103,
         },
+        minipack = 0,
         sort = 684,
         sortr = "684",
         name1 = 1701876,
@@ -51560,6 +53166,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 561,
         sortr = "561",
         name1 = 1701833,
@@ -51592,6 +53199,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 97,
         sortr = "97",
         name1 = 0,
@@ -51624,6 +53232,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 417,
         sortr = "417",
         name1 = 0,
@@ -51658,6 +53267,7 @@ return {
                 [412302] = 1,
             },
         },
+        minipack = 0,
         sort = 1149,
         sortr = "1149",
         name1 = 0,
@@ -51690,6 +53300,7 @@ return {
         unlock = {
             dunId = 111211,
         },
+        minipack = 0,
         sort = 793,
         sortr = "793",
         name1 = 1702578,
@@ -51722,6 +53333,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 98,
         sortr = "98",
         name1 = 0,
@@ -51755,6 +53367,7 @@ return {
         unlock = {
             dunId = 111428,
         },
+        minipack = 0,
         sort = 797,
         sortr = "797",
         name1 = 1702583,
@@ -51787,6 +53400,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 582,
         sortr = "582",
         name1 = 1701832,
@@ -51819,6 +53433,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 55,
         sortr = "55",
         name1 = 0,
@@ -51851,6 +53466,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 99,
         sortr = "99",
         name1 = 0,
@@ -51886,6 +53502,7 @@ return {
                 [412903] = 1,
             },
         },
+        minipack = 0,
         sort = 1158,
         sortr = "1158",
         name1 = 0,
@@ -51920,6 +53537,7 @@ return {
                 [580310] = 1,
             },
         },
+        minipack = 0,
         sort = 960,
         sortr = "960",
         name1 = 1705168,
@@ -51951,6 +53569,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 284,
         sortr = "284",
         name1 = 0,
@@ -51982,6 +53601,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 100,
         sortr = "100",
         name1 = 0,
@@ -52014,6 +53634,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1519,
         sortr = "1519",
         name1 = 0,
@@ -52046,6 +53667,7 @@ return {
         unlock = {
             dunId = 103214,
         },
+        minipack = 0,
         sort = 703,
         sortr = "703",
         name1 = 1701886,
@@ -52078,6 +53700,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 409,
         sortr = "409",
         name1 = 0,
@@ -52109,6 +53732,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 285,
         sortr = "285",
         name1 = 0,
@@ -52140,6 +53764,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 587,
         sortr = "587",
         name1 = 1701831,
@@ -52173,6 +53798,7 @@ return {
         unlock = {
             dunId = 102321,
         },
+        minipack = 0,
         sort = 2046,
         sortr = "2046",
         name1 = 0,
@@ -52205,6 +53831,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1227,
         sortr = "1227",
         name1 = 0,
@@ -52237,6 +53864,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 101,
         sortr = "101",
         name1 = 0,
@@ -52269,6 +53897,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 219,
         sortr = "219",
         name1 = 0,
@@ -52302,6 +53931,7 @@ return {
             favor = 1000,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1339,
         sortr = "1339",
         name1 = 0,
@@ -52333,6 +53963,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2301,
         sortr = "2301",
         name1 = 0,
@@ -52364,6 +53995,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 102,
         sortr = "102",
         name1 = 0,
@@ -52398,6 +54030,7 @@ return {
             level = 70,
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1654,
         sortr = "1654",
         name1 = 0,
@@ -52432,6 +54065,7 @@ return {
                 [410516] = 1,
             },
         },
+        minipack = 0,
         sort = 1182,
         sortr = "1182",
         name1 = 0,
@@ -52465,6 +54099,7 @@ return {
             level = 60,
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1653,
         sortr = "1653",
         name1 = 0,
@@ -52496,6 +54131,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 275,
         sortr = "275",
         name1 = 0,
@@ -52529,6 +54165,7 @@ return {
             level = 45,
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1650,
         sortr = "1650",
         name1 = 0,
@@ -52562,6 +54199,7 @@ return {
             level = 30,
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1647,
         sortr = "1647",
         name1 = 0,
@@ -52595,6 +54233,7 @@ return {
             favor = 2500,
             roleId = 118,
         },
+        minipack = 0,
         sort = 1646,
         sortr = "1646",
         name1 = 0,
@@ -52627,6 +54266,7 @@ return {
         unlock = {
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1642,
         sortr = "1642",
         name1 = 0,
@@ -52658,6 +54298,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 622,
         sortr = "622",
         name1 = 1701833,
@@ -52690,6 +54331,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 551,
         sortr = "551",
         name1 = 1701832,
@@ -52722,6 +54364,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 50,
         sortr = "50",
         name1 = 0,
@@ -52754,6 +54397,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2044,
         sortr = "2044",
         name1 = 0,
@@ -52786,6 +54430,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 626,
         sortr = "626",
         name1 = 1701830,
@@ -52821,6 +54466,7 @@ return {
                 [410507] = 1,
             },
         },
+        minipack = 0,
         sort = 1010,
         sortr = "1010",
         name1 = 1702546,
@@ -52852,6 +54498,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 851,
         sortr = "851",
         name1 = 1701924,
@@ -52884,6 +54531,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 560,
         sortr = "560",
         name1 = 1701833,
@@ -52916,6 +54564,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 364,
         sortr = "364",
         name1 = 0,
@@ -52949,6 +54598,7 @@ return {
             favor = 2500,
             roleId = 124,
         },
+        minipack = 0,
         sort = 1697,
         sortr = "1697",
         name1 = 0,
@@ -52980,6 +54630,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 642,
         sortr = "642",
         name1 = 1701832,
@@ -53012,6 +54663,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 276,
         sortr = "276",
         name1 = 0,
@@ -53044,6 +54696,7 @@ return {
         unlock = {
             dunId = 109639,
         },
+        minipack = 0,
         sort = 778,
         sortr = "778",
         name1 = 1702197,
@@ -53078,6 +54731,7 @@ return {
             favor = 2500,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1671,
         sortr = "1671",
         name1 = 0,
@@ -53110,6 +54764,7 @@ return {
         unlock = {
             dunId = 440479,
         },
+        minipack = 0,
         sort = 818,
         sortr = "818",
         name1 = 1706099,
@@ -53142,6 +54797,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2273,
         sortr = "2273",
         name1 = 0,
@@ -53176,6 +54832,7 @@ return {
             favor = 2500,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1365,
         sortr = "1365",
         name1 = 0,
@@ -53207,6 +54864,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1918,
         sortr = "1918",
         name1 = 0,
@@ -53238,6 +54896,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1189,
         sortr = "1189",
         name1 = 0,
@@ -53272,6 +54931,7 @@ return {
                 [411009] = 1,
             },
         },
+        minipack = 0,
         sort = 1152,
         sortr = "1152",
         name1 = 0,
@@ -53303,6 +54963,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 112,
         sortr = "112",
         name1 = 0,
@@ -53335,6 +54996,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1073,
         sortr = "1073",
         name1 = 0,
@@ -53366,6 +55028,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1724,
         sortr = "1724",
         name1 = 0,
@@ -53397,6 +55060,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1730,
         sortr = "1730",
         name1 = 0,
@@ -53428,6 +55092,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1732,
         sortr = "1732",
         name1 = 0,
@@ -53459,6 +55124,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1734,
         sortr = "1734",
         name1 = 0,
@@ -53492,6 +55158,7 @@ return {
             favor = 1000,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1736,
         sortr = "1736",
         name1 = 0,
@@ -53525,6 +55192,7 @@ return {
             favor = 2500,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1738,
         sortr = "1738",
         name1 = 0,
@@ -53558,6 +55226,7 @@ return {
             favor = 2500,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1740,
         sortr = "1740",
         name1 = 0,
@@ -53591,6 +55260,7 @@ return {
             favor = 2500,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1742,
         sortr = "1742",
         name1 = 0,
@@ -53624,6 +55294,7 @@ return {
             favor = 300,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1744,
         sortr = "1744",
         name1 = 0,
@@ -53655,6 +55326,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1746,
         sortr = "1746",
         name1 = 0,
@@ -53686,6 +55358,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1748,
         sortr = "1748",
         name1 = 0,
@@ -53717,6 +55390,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1750,
         sortr = "1750",
         name1 = 0,
@@ -53750,6 +55424,7 @@ return {
             favor = 2500,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1725,
         sortr = "1725",
         name1 = 0,
@@ -53783,6 +55458,7 @@ return {
             favor = 2500,
             roleId = 126,
         },
+        minipack = 0,
         sort = 1727,
         sortr = "1727",
         name1 = 0,
@@ -53815,6 +55491,7 @@ return {
         unlock = {
             dunId = 130021,
         },
+        minipack = 0,
         sort = 2007,
         sortr = "2007",
         name1 = 0,
@@ -53859,6 +55536,7 @@ return {
                 [10] = 120704306,
             },
         },
+        minipack = 0,
         sort = 2008,
         sortr = "2008",
         name1 = 0,
@@ -53891,6 +55569,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2009,
         sortr = "2009",
         name1 = 0,
@@ -53932,6 +55611,7 @@ return {
                 [7] = 30502227,
             },
         },
+        minipack = 0,
         sort = 2010,
         sortr = "2010",
         name1 = 0,
@@ -53964,6 +55644,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2011,
         sortr = "2011",
         name1 = 0,
@@ -53996,6 +55677,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2012,
         sortr = "2012",
         name1 = 0,
@@ -54028,6 +55710,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 113,
         sortr = "113",
         name1 = 0,
@@ -54060,6 +55743,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 835,
         sortr = "835",
         name1 = 1701908,
@@ -54092,6 +55776,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 923,
         sortr = "923",
         name1 = 1701988,
@@ -54124,6 +55809,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1045,
         sortr = "1045",
         name1 = 0,
@@ -54155,6 +55841,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2224,
         sortr = "2224",
         name1 = 0,
@@ -54187,6 +55874,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2240,
         sortr = "2240",
         name1 = 0,
@@ -54219,6 +55907,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2253,
         sortr = "2253",
         name1 = 0,
@@ -54251,6 +55940,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1046,
         sortr = "1046",
         name1 = 0,
@@ -54282,6 +55972,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 71,
         sortr = "71",
         name1 = 0,
@@ -54314,6 +56005,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 271,
         sortr = "271",
         name1 = 0,
@@ -54347,6 +56039,7 @@ return {
             favor = 2500,
             roleId = 132,
         },
+        minipack = 0,
         sort = 1891,
         sortr = "1891",
         name1 = 0,
@@ -54378,6 +56071,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1047,
         sortr = "1047",
         name1 = 0,
@@ -54412,6 +56106,7 @@ return {
                 [585011] = 1,
             },
         },
+        minipack = 0,
         sort = 2033,
         sortr = "2033",
         name1 = 0,
@@ -54444,6 +56139,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1069,
         sortr = "1069",
         name1 = 0,
@@ -54475,6 +56171,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 584,
         sortr = "584",
         name1 = 1701833,
@@ -54507,6 +56204,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 609,
         sortr = "609",
         name1 = 1701833,
@@ -54539,6 +56237,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2189,
         sortr = "2189",
         name1 = 0,
@@ -54571,6 +56270,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1032,
         sortr = "1032",
         name1 = 0,
@@ -54602,6 +56302,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2193,
         sortr = "2193",
         name1 = 0,
@@ -54634,6 +56335,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2197,
         sortr = "2197",
         name1 = 0,
@@ -54666,6 +56368,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2201,
         sortr = "2201",
         name1 = 0,
@@ -54698,6 +56401,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2205,
         sortr = "2205",
         name1 = 0,
@@ -54730,6 +56434,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 880,
         sortr = "880",
         name1 = 1701946,
@@ -54762,6 +56467,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2213,
         sortr = "2213",
         name1 = 0,
@@ -54794,6 +56500,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 883,
         sortr = "883",
         name1 = 1701949,
@@ -54826,6 +56533,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 272,
         sortr = "272",
         name1 = 0,
@@ -54857,6 +56565,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 882,
         sortr = "882",
         name1 = 1701948,
@@ -54890,6 +56599,7 @@ return {
         unlock = {
             dunId = 111211,
         },
+        minipack = 0,
         sort = 792,
         sortr = "792",
         name1 = 1702578,
@@ -54923,6 +56633,7 @@ return {
         unlock = {
             dunId = 105103,
         },
+        minipack = 0,
         sort = 722,
         sortr = "722",
         name1 = 1702097,
@@ -54955,6 +56666,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 585,
         sortr = "585",
         name1 = 1701833,
@@ -54987,6 +56699,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 288,
         sortr = "288",
         name1 = 0,
@@ -55019,6 +56732,7 @@ return {
         unlock = {
             dunId = 105319,
         },
+        minipack = 0,
         sort = 725,
         sortr = "725",
         name1 = 1702099,
@@ -55051,6 +56765,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 552,
         sortr = "552",
         name1 = 1701833,
@@ -55083,6 +56798,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 273,
         sortr = "273",
         name1 = 0,
@@ -55114,6 +56830,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 344,
         sortr = "344",
         name1 = 0,
@@ -55146,6 +56863,7 @@ return {
         unlock = {
             dunId = 105425,
         },
+        minipack = 0,
         sort = 727,
         sortr = "727",
         name1 = 1702100,
@@ -55179,6 +56897,7 @@ return {
         unlock = {
             dunId = 105425,
         },
+        minipack = 0,
         sort = 728,
         sortr = "728",
         name1 = 1702100,
@@ -55211,6 +56930,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 201,
         sortr = "201",
         name1 = 0,
@@ -55245,6 +56965,7 @@ return {
             favor = 2500,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1865,
         sortr = "1865",
         name1 = 0,
@@ -55276,6 +56997,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 644,
         sortr = "644",
         name1 = 1701833,
@@ -55308,6 +57030,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 867,
         sortr = "867",
         name1 = 1701935,
@@ -55340,6 +57063,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2025,
         sortr = "2025",
         name1 = 0,
@@ -55372,6 +57096,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 575,
         sortr = "575",
         name1 = 1701832,
@@ -55405,6 +57130,7 @@ return {
         unlock = {
             roleId = 110,
         },
+        minipack = 0,
         sort = 1542,
         sortr = "1542",
         name1 = 0,
@@ -55437,6 +57163,7 @@ return {
         unlock = {
             roleId = 110,
         },
+        minipack = 0,
         sort = 1544,
         sortr = "1544",
         name1 = 0,
@@ -55468,6 +57195,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 216,
         sortr = "216",
         name1 = 0,
@@ -55501,6 +57229,7 @@ return {
             favor = 1000,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1548,
         sortr = "1548",
         name1 = 0,
@@ -55534,6 +57263,7 @@ return {
             favor = 1000,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1550,
         sortr = "1550",
         name1 = 0,
@@ -55567,6 +57297,7 @@ return {
             favor = 300,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1552,
         sortr = "1552",
         name1 = 0,
@@ -55598,6 +57329,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 615,
         sortr = "615",
         name1 = 1701833,
@@ -55630,6 +57362,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 853,
         sortr = "853",
         name1 = 1701907,
@@ -55663,6 +57396,7 @@ return {
         unlock = {
             roleId = 110,
         },
+        minipack = 0,
         sort = 1558,
         sortr = "1558",
         name1 = 0,
@@ -55695,6 +57429,7 @@ return {
         unlock = {
             roleId = 110,
         },
+        minipack = 0,
         sort = 1560,
         sortr = "1560",
         name1 = 0,
@@ -55728,6 +57463,7 @@ return {
             level = 30,
             heroId = 111001,
         },
+        minipack = 0,
         sort = 1562,
         sortr = "1562",
         name1 = 0,
@@ -55759,6 +57495,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 612,
         sortr = "612",
         name1 = 1701831,
@@ -55793,6 +57530,7 @@ return {
             favor = 2500,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1539,
         sortr = "1539",
         name1 = 0,
@@ -55826,6 +57564,7 @@ return {
             favor = 2500,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1541,
         sortr = "1541",
         name1 = 0,
@@ -55857,6 +57596,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 858,
         sortr = "858",
         name1 = 1701930,
@@ -55889,6 +57629,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 967,
         sortr = "967",
         name1 = 1702068,
@@ -55922,6 +57663,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1627,
         sortr = "1627",
         name1 = 0,
@@ -55953,6 +57695,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2005,
         sortr = "2005",
         name1 = 0,
@@ -55985,6 +57728,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 304,
         sortr = "304",
         name1 = 0,
@@ -56016,6 +57760,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 270,
         sortr = "270",
         name1 = 0,
@@ -56049,6 +57794,7 @@ return {
             favor = 1000,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1374,
         sortr = "1374",
         name1 = 0,
@@ -56080,6 +57826,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 415,
         sortr = "415",
         name1 = 0,
@@ -56111,6 +57858,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 54,
         sortr = "54",
         name1 = 0,
@@ -56143,6 +57891,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 632,
         sortr = "632",
         name1 = 1701830,
@@ -56175,6 +57924,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 369,
         sortr = "369",
         name1 = 0,
@@ -56207,6 +57957,7 @@ return {
         unlock = {
             dunId = 106105,
         },
+        minipack = 0,
         sort = 736,
         sortr = "736",
         name1 = 1702101,
@@ -56239,6 +57990,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 280,
         sortr = "280",
         name1 = 0,
@@ -56271,6 +58023,7 @@ return {
         unlock = {
             dunId = 107425,
         },
+        minipack = 0,
         sort = 752,
         sortr = "752",
         name1 = 1702107,
@@ -56303,6 +58056,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 414,
         sortr = "414",
         name1 = 0,
@@ -56334,6 +58088,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 144,
         sortr = "144",
         name1 = 0,
@@ -56366,6 +58121,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2315,
         sortr = "2315",
         name1 = 0,
@@ -56398,6 +58154,7 @@ return {
         unlock = {
             dunId = 101102,
         },
+        minipack = 0,
         sort = 674,
         sortr = "674",
         name1 = 1702088,
@@ -56430,6 +58187,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1515,
         sortr = "1515",
         name1 = 0,
@@ -56462,6 +58220,7 @@ return {
         unlock = {
             dunId = 101102,
         },
+        minipack = 0,
         sort = 675,
         sortr = "675",
         name1 = 1702088,
@@ -56494,6 +58253,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2344,
         sortr = "2344",
         name1 = 0,
@@ -56527,6 +58287,7 @@ return {
             favor = 300,
             roleId = 118,
         },
+        minipack = 0,
         sort = 1644,
         sortr = "1644",
         name1 = 0,
@@ -56560,6 +58321,7 @@ return {
             level = 70,
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1655,
         sortr = "1655",
         name1 = 0,
@@ -56593,6 +58355,7 @@ return {
             level = 45,
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1652,
         sortr = "1652",
         name1 = 0,
@@ -56626,6 +58389,7 @@ return {
             level = 30,
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1649,
         sortr = "1649",
         name1 = 0,
@@ -56658,6 +58422,7 @@ return {
         unlock = {
             dunId = 102317,
         },
+        minipack = 0,
         sort = 688,
         sortr = "688",
         name1 = 1702090,
@@ -56692,6 +58457,7 @@ return {
             level = 45,
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1651,
         sortr = "1651",
         name1 = 0,
@@ -56724,6 +58490,7 @@ return {
         unlock = {
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1643,
         sortr = "1643",
         name1 = 0,
@@ -56757,6 +58524,7 @@ return {
             favor = 1000,
             roleId = 118,
         },
+        minipack = 0,
         sort = 1645,
         sortr = "1645",
         name1 = 0,
@@ -56789,6 +58557,7 @@ return {
         unlock = {
             dunId = 103101,
         },
+        minipack = 0,
         sort = 693,
         sortr = "693",
         name1 = 1702091,
@@ -56831,6 +58600,7 @@ return {
                 [8] = 316502121,
             },
         },
+        minipack = 0,
         sort = 1946,
         sortr = "1946",
         name1 = 0,
@@ -56863,6 +58633,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1947,
         sortr = "1947",
         name1 = 0,
@@ -56895,6 +58666,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1948,
         sortr = "1948",
         name1 = 0,
@@ -56927,6 +58699,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1949,
         sortr = "1949",
         name1 = 0,
@@ -56959,6 +58732,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1950,
         sortr = "1950",
         name1 = 0,
@@ -56994,6 +58768,7 @@ return {
                 [585001] = 1,
             },
         },
+        minipack = 0,
         sort = 1951,
         sortr = "1951",
         name1 = 0,
@@ -57026,6 +58801,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1952,
         sortr = "1952",
         name1 = 0,
@@ -57058,6 +58834,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1954,
         sortr = "1954",
         name1 = 0,
@@ -57090,6 +58867,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1955,
         sortr = "1955",
         name1 = 0,
@@ -57122,6 +58900,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1956,
         sortr = "1956",
         name1 = 0,
@@ -57157,6 +58936,7 @@ return {
                 [585002] = 1,
             },
         },
+        minipack = 0,
         sort = 1953,
         sortr = "1953",
         name1 = 0,
@@ -57189,6 +58969,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1042,
         sortr = "1042",
         name1 = 0,
@@ -57220,6 +59001,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 7,
         sortr = "7",
         name1 = 0,
@@ -57253,6 +59035,7 @@ return {
         unlock = {
             dunId = 103211,
         },
+        minipack = 0,
         sort = 702,
         sortr = "702",
         name1 = 1709992,
@@ -57286,6 +59069,7 @@ return {
         unlock = {
             dunId = 101208,
         },
+        minipack = 0,
         sort = 2018,
         sortr = "2018",
         name1 = 0,
@@ -57318,6 +59102,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1043,
         sortr = "1043",
         name1 = 0,
@@ -57349,6 +59134,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 194,
         sortr = "194",
         name1 = 0,
@@ -57384,6 +59170,7 @@ return {
                 [410307] = 1,
             },
         },
+        minipack = 0,
         sort = 1122,
         sortr = "1122",
         name1 = 0,
@@ -57418,6 +59205,7 @@ return {
                 [411106] = 1,
             },
         },
+        minipack = 0,
         sort = 1153,
         sortr = "1153",
         name1 = 0,
@@ -57449,6 +59237,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1044,
         sortr = "1044",
         name1 = 0,
@@ -57480,6 +59269,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1962,
         sortr = "1962",
         name1 = 0,
@@ -57513,6 +59303,7 @@ return {
         unlock = {
             dunId = 104105,
         },
+        minipack = 0,
         sort = 710,
         sortr = "710",
         name1 = 1702094,
@@ -57546,6 +59337,7 @@ return {
         unlock = {
             dunId = 107101,
         },
+        minipack = 0,
         sort = 744,
         sortr = "744",
         name1 = 1702105,
@@ -57579,6 +59371,7 @@ return {
         unlock = {
             dunId = 104105,
         },
+        minipack = 0,
         sort = 711,
         sortr = "711",
         name1 = 1702094,
@@ -57613,6 +59406,7 @@ return {
             level = 30,
             heroId = 110401,
         },
+        minipack = 0,
         sort = 1388,
         sortr = "1388",
         name1 = 0,
@@ -57645,6 +59439,7 @@ return {
         unlock = {
             dunId = 104105,
         },
+        minipack = 0,
         sort = 712,
         sortr = "712",
         name1 = 1702094,
@@ -57677,6 +59472,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 334,
         sortr = "334",
         name1 = 0,
@@ -57709,6 +59505,7 @@ return {
         unlock = {
             dunId = 104105,
         },
+        minipack = 0,
         sort = 713,
         sortr = "713",
         name1 = 1702094,
@@ -57741,6 +59538,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 195,
         sortr = "195",
         name1 = 0,
@@ -57774,6 +59572,7 @@ return {
         unlock = {
             dunId = 104215,
         },
+        minipack = 0,
         sort = 715,
         sortr = "715",
         name1 = 1702095,
@@ -57806,6 +59605,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1029,
         sortr = "1029",
         name1 = 0,
@@ -57838,6 +59638,7 @@ return {
         unlock = {
             dunId = 104215,
         },
+        minipack = 0,
         sort = 714,
         sortr = "714",
         name1 = 1702095,
@@ -57870,6 +59671,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1030,
         sortr = "1030",
         name1 = 0,
@@ -57902,6 +59704,7 @@ return {
         unlock = {
             dunId = 104215,
         },
+        minipack = 0,
         sort = 716,
         sortr = "716",
         name1 = 1702095,
@@ -57934,6 +59737,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 335,
         sortr = "335",
         name1 = 0,
@@ -57965,6 +59769,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 613,
         sortr = "613",
         name1 = 1701832,
@@ -57998,6 +59803,7 @@ return {
         unlock = {
             dunId = 107537,
         },
+        minipack = 0,
         sort = 756,
         sortr = "756",
         name1 = 1701897,
@@ -58030,6 +59836,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 831,
         sortr = "831",
         name1 = 1701904,
@@ -58062,6 +59869,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 949,
         sortr = "949",
         name1 = 1702204,
@@ -58093,6 +59901,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 505,
         sortr = "505",
         name1 = 1701833,
@@ -58125,6 +59934,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 430,
         sortr = "430",
         name1 = 0,
@@ -58156,6 +59966,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 833,
         sortr = "833",
         name1 = 112000063,
@@ -58188,6 +59999,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 336,
         sortr = "336",
         name1 = 0,
@@ -58219,6 +60031,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 834,
         sortr = "834",
         name1 = 112000062,
@@ -58254,6 +60067,7 @@ return {
                 [410403] = 1,
             },
         },
+        minipack = 0,
         sort = 1007,
         sortr = "1007",
         name1 = 1702543,
@@ -58285,6 +60099,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 845,
         sortr = "845",
         name1 = 112000064,
@@ -58320,6 +60135,7 @@ return {
                 [411308] = 1,
             },
         },
+        minipack = 0,
         sort = 1011,
         sortr = "1011",
         name1 = 1702547,
@@ -58351,6 +60167,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 846,
         sortr = "846",
         name1 = 112000065,
@@ -58384,6 +60201,7 @@ return {
         unlock = {
             dunId = 102321,
         },
+        minipack = 0,
         sort = 1191,
         sortr = "1191",
         name1 = 0,
@@ -58416,6 +60234,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 847,
         sortr = "847",
         name1 = 112000067,
@@ -58448,6 +60267,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1690,
         sortr = "1690",
         name1 = 0,
@@ -58480,6 +60300,7 @@ return {
         unlock = {
             roleId = 102,
         },
+        minipack = 0,
         sort = 1289,
         sortr = "1289",
         name1 = 0,
@@ -58512,6 +60333,7 @@ return {
         unlock = {
             roleId = 102,
         },
+        minipack = 0,
         sort = 1291,
         sortr = "1291",
         name1 = 0,
@@ -58545,6 +60367,7 @@ return {
             favor = 300,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1293,
         sortr = "1293",
         name1 = 0,
@@ -58578,6 +60401,7 @@ return {
             favor = 1000,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1295,
         sortr = "1295",
         name1 = 0,
@@ -58611,6 +60435,7 @@ return {
             favor = 1000,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1297,
         sortr = "1297",
         name1 = 0,
@@ -58644,6 +60469,7 @@ return {
             favor = 300,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1299,
         sortr = "1299",
         name1 = 0,
@@ -58677,6 +60503,7 @@ return {
             favor = 1000,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1301,
         sortr = "1301",
         name1 = 0,
@@ -58710,6 +60537,7 @@ return {
             favor = 1000,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1303,
         sortr = "1303",
         name1 = 0,
@@ -58742,6 +60570,7 @@ return {
         unlock = {
             roleId = 102,
         },
+        minipack = 0,
         sort = 1305,
         sortr = "1305",
         name1 = 0,
@@ -58774,6 +60603,7 @@ return {
         unlock = {
             roleId = 102,
         },
+        minipack = 0,
         sort = 1307,
         sortr = "1307",
         name1 = 0,
@@ -58807,6 +60637,7 @@ return {
             level = 30,
             heroId = 110201,
         },
+        minipack = 0,
         sort = 1309,
         sortr = "1309",
         name1 = 0,
@@ -58839,6 +60670,7 @@ return {
         unlock = {
             heroId = 110201,
         },
+        minipack = 0,
         sort = 1311,
         sortr = "1311",
         name1 = 0,
@@ -58870,6 +60702,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 875,
         sortr = "875",
         name1 = 1701941,
@@ -58904,6 +60737,7 @@ return {
             favor = 2500,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1286,
         sortr = "1286",
         name1 = 0,
@@ -58937,6 +60771,7 @@ return {
             favor = 2500,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1288,
         sortr = "1288",
         name1 = 0,
@@ -58970,6 +60805,7 @@ return {
             level = 30,
             heroId = 110208,
         },
+        minipack = 0,
         sort = 1313,
         sortr = "1313",
         name1 = 0,
@@ -59002,6 +60838,7 @@ return {
         unlock = {
             heroId = 110208,
         },
+        minipack = 0,
         sort = 1315,
         sortr = "1315",
         name1 = 0,
@@ -59034,6 +60871,7 @@ return {
         unlock = {
             heroId = 110209,
         },
+        minipack = 0,
         sort = 1317,
         sortr = "1317",
         name1 = 0,
@@ -59066,6 +60904,7 @@ return {
         unlock = {
             heroId = 110209,
         },
+        minipack = 0,
         sort = 1319,
         sortr = "1319",
         name1 = 0,
@@ -59098,6 +60937,7 @@ return {
         unlock = {
             heroId = 110209,
         },
+        minipack = 0,
         sort = 1321,
         sortr = "1321",
         name1 = 0,
@@ -59131,6 +60971,7 @@ return {
             level = 30,
             heroId = 110210,
         },
+        minipack = 0,
         sort = 1323,
         sortr = "1323",
         name1 = 0,
@@ -59163,6 +61004,7 @@ return {
         unlock = {
             heroId = 110210,
         },
+        minipack = 0,
         sort = 1325,
         sortr = "1325",
         name1 = 0,
@@ -59194,6 +61036,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 374,
         sortr = "374",
         name1 = 0,
@@ -59226,6 +61069,7 @@ return {
         unlock = {
             roleId = 113,
         },
+        minipack = 0,
         sort = 1597,
         sortr = "1597",
         name1 = 0,
@@ -59258,6 +61102,7 @@ return {
         unlock = {
             dunId = 101101,
         },
+        minipack = 0,
         sort = 668,
         sortr = "668",
         name1 = 1701866,
@@ -59290,6 +61135,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 667,
         sortr = "667",
         name1 = 1701833,
@@ -59323,6 +61169,7 @@ return {
         unlock = {
             dunId = 101101,
         },
+        minipack = 0,
         sort = 669,
         sortr = "669",
         name1 = 1701868,
@@ -59355,6 +61202,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2013,
         sortr = "2013",
         name1 = 0,
@@ -59388,6 +61236,7 @@ return {
         unlock = {
             dunId = 101102,
         },
+        minipack = 0,
         sort = 670,
         sortr = "670",
         name1 = 1701869,
@@ -59420,6 +61269,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1228,
         sortr = "1228",
         name1 = 0,
@@ -59453,6 +61303,7 @@ return {
         unlock = {
             dunId = 101102,
         },
+        minipack = 0,
         sort = 671,
         sortr = "671",
         name1 = 1701870,
@@ -59485,6 +61336,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 337,
         sortr = "337",
         name1 = 0,
@@ -59517,6 +61369,7 @@ return {
         unlock = {
             roleId = 110,
         },
+        minipack = 0,
         sort = 1537,
         sortr = "1537",
         name1 = 0,
@@ -59549,6 +61402,7 @@ return {
         unlock = {
             roleId = 110,
         },
+        minipack = 0,
         sort = 1543,
         sortr = "1543",
         name1 = 0,
@@ -59582,6 +61436,7 @@ return {
             favor = 300,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1545,
         sortr = "1545",
         name1 = 0,
@@ -59615,6 +61470,7 @@ return {
             favor = 300,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1547,
         sortr = "1547",
         name1 = 0,
@@ -59648,6 +61504,7 @@ return {
             favor = 1000,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1549,
         sortr = "1549",
         name1 = 0,
@@ -59681,6 +61538,7 @@ return {
             favor = 2500,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1551,
         sortr = "1551",
         name1 = 0,
@@ -59714,6 +61572,7 @@ return {
             favor = 2500,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1553,
         sortr = "1553",
         name1 = 0,
@@ -59747,6 +61606,7 @@ return {
             favor = 2500,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1555,
         sortr = "1555",
         name1 = 0,
@@ -59780,6 +61640,7 @@ return {
             favor = 300,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1557,
         sortr = "1557",
         name1 = 0,
@@ -59812,6 +61673,7 @@ return {
         unlock = {
             heroId = 111001,
         },
+        minipack = 0,
         sort = 1559,
         sortr = "1559",
         name1 = 0,
@@ -59844,6 +61706,7 @@ return {
         unlock = {
             heroId = 111001,
         },
+        minipack = 0,
         sort = 1561,
         sortr = "1561",
         name1 = 0,
@@ -59876,6 +61739,7 @@ return {
         unlock = {
             heroId = 111001,
         },
+        minipack = 0,
         sort = 1563,
         sortr = "1563",
         name1 = 0,
@@ -59909,6 +61773,7 @@ return {
             favor = 2500,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1538,
         sortr = "1538",
         name1 = 0,
@@ -59942,6 +61807,7 @@ return {
             favor = 2500,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1540,
         sortr = "1540",
         name1 = 0,
@@ -59974,6 +61840,7 @@ return {
         unlock = {
             dunId = 102106,
         },
+        minipack = 0,
         sort = 685,
         sortr = "685",
         name1 = 1701878,
@@ -60006,6 +61873,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 338,
         sortr = "338",
         name1 = 0,
@@ -60038,6 +61906,7 @@ return {
         unlock = {
             dunId = 102106,
         },
+        minipack = 0,
         sort = 686,
         sortr = "686",
         name1 = 1701877,
@@ -60070,6 +61939,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 302,
         sortr = "302",
         name1 = 0,
@@ -60102,6 +61972,7 @@ return {
         unlock = {
             dunId = 102212,
         },
+        minipack = 0,
         sort = 687,
         sortr = "687",
         name1 = 1701879,
@@ -60134,6 +62005,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1013,
         sortr = "1013",
         name1 = 1705007,
@@ -60166,6 +62038,7 @@ return {
         unlock = {
             dunId = 102317,
         },
+        minipack = 0,
         sort = 689,
         sortr = "689",
         name1 = 1701880,
@@ -60198,6 +62071,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 954,
         sortr = "954",
         name1 = 1705053,
@@ -60230,6 +62104,7 @@ return {
         unlock = {
             dunId = 102321,
         },
+        minipack = 0,
         sort = 690,
         sortr = "690",
         name1 = 1701882,
@@ -60262,6 +62137,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1040,
         sortr = "1040",
         name1 = 0,
@@ -60294,6 +62170,7 @@ return {
         unlock = {
             dunId = 102321,
         },
+        minipack = 0,
         sort = 691,
         sortr = "691",
         name1 = 1701881,
@@ -60327,6 +62204,7 @@ return {
         unlock = {
             roleId = 128,
         },
+        minipack = 0,
         sort = 1801,
         sortr = "1801",
         name1 = 0,
@@ -60359,6 +62237,7 @@ return {
         unlock = {
             dunId = 103101,
         },
+        minipack = 0,
         sort = 695,
         sortr = "695",
         name1 = 1701883,
@@ -60391,6 +62270,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1041,
         sortr = "1041",
         name1 = 0,
@@ -60423,6 +62303,7 @@ return {
         unlock = {
             dunId = 103318,
         },
+        minipack = 0,
         sort = 707,
         sortr = "707",
         name1 = 1701887,
@@ -60455,6 +62336,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1094,
         sortr = "1094",
         name1 = 0,
@@ -60487,6 +62369,7 @@ return {
         unlock = {
             dunId = 103107,
         },
+        minipack = 0,
         sort = 698,
         sortr = "698",
         name1 = 1701885,
@@ -60519,6 +62402,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2318,
         sortr = "2318",
         name1 = 0,
@@ -60550,6 +62434,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 176,
         sortr = "176",
         name1 = 0,
@@ -60591,6 +62476,7 @@ return {
                 [7] = 460401833,
             },
         },
+        minipack = 0,
         sort = 2006,
         sortr = "2006",
         name1 = 0,
@@ -60624,6 +62510,7 @@ return {
         unlock = {
             dunId = 103320,
         },
+        minipack = 0,
         sort = 708,
         sortr = "708",
         name1 = 1701888,
@@ -60656,6 +62543,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2345,
         sortr = "2345",
         name1 = 0,
@@ -60688,6 +62576,7 @@ return {
         unlock = {
             dunId = 104105,
         },
+        minipack = 0,
         sort = 709,
         sortr = "709",
         name1 = 1701889,
@@ -60720,6 +62609,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1226,
         sortr = "1226",
         name1 = 0,
@@ -60753,6 +62643,7 @@ return {
         unlock = {
             dunId = 104316,
         },
+        minipack = 0,
         sort = 717,
         sortr = "717",
         name1 = 1701902,
@@ -60785,6 +62676,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 363,
         sortr = "363",
         name1 = 0,
@@ -60817,6 +62709,7 @@ return {
         unlock = {
             dunId = 105103,
         },
+        minipack = 0,
         sort = 723,
         sortr = "723",
         name1 = 1701890,
@@ -60849,6 +62742,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1026,
         sortr = "1026",
         name1 = 0,
@@ -60881,6 +62775,7 @@ return {
         unlock = {
             dunId = 105425,
         },
+        minipack = 0,
         sort = 730,
         sortr = "730",
         name1 = 1701891,
@@ -60913,6 +62808,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 935,
         sortr = "935",
         name1 = 1701977,
@@ -60945,6 +62841,7 @@ return {
         unlock = {
             dunId = 105429,
         },
+        minipack = 0,
         sort = 731,
         sortr = "731",
         name1 = 1701892,
@@ -60977,6 +62874,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 274,
         sortr = "274",
         name1 = 0,
@@ -61008,6 +62906,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 849,
         sortr = "849",
         name1 = 112000068,
@@ -61043,6 +62942,7 @@ return {
                 [410407] = 1,
             },
         },
+        minipack = 0,
         sort = 1009,
         sortr = "1009",
         name1 = 1702545,
@@ -61074,6 +62974,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 850,
         sortr = "850",
         name1 = 112000066,
@@ -61108,6 +63009,7 @@ return {
             level = 30,
             heroId = 111601,
         },
+        minipack = 0,
         sort = 1648,
         sortr = "1648",
         name1 = 0,
@@ -61139,6 +63041,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 616,
         sortr = "616",
         name1 = 1701833,
@@ -61171,6 +63074,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1092,
         sortr = "1092",
         name1 = 0,
@@ -61202,6 +63106,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 852,
         sortr = "852",
         name1 = 1701925,
@@ -61236,6 +63141,7 @@ return {
             favor = 1000,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1556,
         sortr = "1556",
         name1 = 0,
@@ -61267,6 +63173,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 862,
         sortr = "862",
         name1 = 112000070,
@@ -61300,6 +63207,7 @@ return {
         unlock = {
             dunId = 440478,
         },
+        minipack = 0,
         sort = 817,
         sortr = "817",
         name1 = 1706099,
@@ -61332,6 +63240,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 863,
         sortr = "863",
         name1 = 112000069,
@@ -61364,6 +63273,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 521,
         sortr = "521",
         name1 = 1701830,
@@ -61396,6 +63306,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 864,
         sortr = "864",
         name1 = 112000071,
@@ -61428,6 +63339,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1989,
         sortr = "1989",
         name1 = 0,
@@ -61460,6 +63372,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 865,
         sortr = "865",
         name1 = 112000072,
@@ -61492,6 +63405,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 326,
         sortr = "326",
         name1 = 0,
@@ -61526,6 +63440,7 @@ return {
                 [410409] = 1,
             },
         },
+        minipack = 0,
         sort = 1123,
         sortr = "1123",
         name1 = 0,
@@ -61560,6 +63475,7 @@ return {
                 [411315] = 1,
             },
         },
+        minipack = 0,
         sort = 1154,
         sortr = "1154",
         name1 = 0,
@@ -61591,6 +63507,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 890,
         sortr = "890",
         name1 = 112000082,
@@ -61623,6 +63540,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 919,
         sortr = "919",
         name1 = 112000098,
@@ -61655,6 +63573,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 889,
         sortr = "889",
         name1 = 112000081,
@@ -61687,6 +63606,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 177,
         sortr = "177",
         name1 = 0,
@@ -61719,6 +63639,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 891,
         sortr = "891",
         name1 = 112000083,
@@ -61751,6 +63672,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 921,
         sortr = "921",
         name1 = 1701986,
@@ -61783,6 +63705,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 641,
         sortr = "641",
         name1 = 1701832,
@@ -61815,6 +63738,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 922,
         sortr = "922",
         name1 = 1701987,
@@ -61847,6 +63771,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 837,
         sortr = "837",
         name1 = 1701910,
@@ -61879,6 +63804,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 924,
         sortr = "924",
         name1 = 1701989,
@@ -61911,6 +63837,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 836,
         sortr = "836",
         name1 = 112000061,
@@ -61944,6 +63871,7 @@ return {
         unlock = {
             dunId = 108105,
         },
+        minipack = 0,
         sort = 757,
         sortr = "757",
         name1 = 1702108,
@@ -61977,6 +63905,7 @@ return {
         unlock = {
             dunId = 108321,
         },
+        minipack = 0,
         sort = 761,
         sortr = "761",
         name1 = 1702109,
@@ -62009,6 +63938,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1980,
         sortr = "1980",
         name1 = 0,
@@ -62041,6 +63971,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 839,
         sortr = "839",
         name1 = 1701912,
@@ -62073,6 +64004,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 998,
         sortr = "998",
         name1 = 13202416,
@@ -62104,6 +64036,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 840,
         sortr = "840",
         name1 = 1701913,
@@ -62136,6 +64069,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 196,
         sortr = "196",
         name1 = 0,
@@ -62168,6 +64102,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 841,
         sortr = "841",
         name1 = 1701914,
@@ -62200,6 +64135,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 556,
         sortr = "556",
         name1 = 1701831,
@@ -62232,6 +64168,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 842,
         sortr = "842",
         name1 = 1701915,
@@ -62264,6 +64201,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 298,
         sortr = "298",
         name1 = 0,
@@ -62295,6 +64233,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 856,
         sortr = "856",
         name1 = 1701928,
@@ -62327,6 +64266,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 299,
         sortr = "299",
         name1 = 0,
@@ -62358,6 +64298,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 857,
         sortr = "857",
         name1 = 1701929,
@@ -62390,6 +64331,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 35,
         sortr = "35",
         name1 = 0,
@@ -62422,6 +64364,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2225,
         sortr = "2225",
         name1 = 0,
@@ -62454,6 +64397,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2241,
         sortr = "2241",
         name1 = 0,
@@ -62486,6 +64430,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2254,
         sortr = "2254",
         name1 = 0,
@@ -62519,6 +64464,7 @@ return {
         unlock = {
             dunId = 103320,
         },
+        minipack = 0,
         sort = 1192,
         sortr = "1192",
         name1 = 0,
@@ -62551,6 +64497,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1070,
         sortr = "1070",
         name1 = 0,
@@ -62583,6 +64530,7 @@ return {
         unlock = {
             roleId = 102,
         },
+        minipack = 0,
         sort = 1285,
         sortr = "1285",
         name1 = 0,
@@ -62615,6 +64563,7 @@ return {
         unlock = {
             roleId = 102,
         },
+        minipack = 0,
         sort = 1290,
         sortr = "1290",
         name1 = 0,
@@ -62648,6 +64597,7 @@ return {
             favor = 300,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1292,
         sortr = "1292",
         name1 = 0,
@@ -62681,6 +64631,7 @@ return {
             favor = 300,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1294,
         sortr = "1294",
         name1 = 0,
@@ -62714,6 +64665,7 @@ return {
             favor = 1000,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1296,
         sortr = "1296",
         name1 = 0,
@@ -62747,6 +64699,7 @@ return {
             favor = 2500,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1298,
         sortr = "1298",
         name1 = 0,
@@ -62780,6 +64733,7 @@ return {
             favor = 2500,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1300,
         sortr = "1300",
         name1 = 0,
@@ -62813,6 +64767,7 @@ return {
             favor = 2500,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1302,
         sortr = "1302",
         name1 = 0,
@@ -62846,6 +64801,7 @@ return {
             favor = 300,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1304,
         sortr = "1304",
         name1 = 0,
@@ -62878,6 +64834,7 @@ return {
         unlock = {
             dunId = 105103,
         },
+        minipack = 0,
         sort = 721,
         sortr = "721",
         name1 = 1702097,
@@ -62911,6 +64868,7 @@ return {
         unlock = {
             heroId = 110201,
         },
+        minipack = 0,
         sort = 1308,
         sortr = "1308",
         name1 = 0,
@@ -62943,6 +64901,7 @@ return {
         unlock = {
             heroId = 110201,
         },
+        minipack = 0,
         sort = 1310,
         sortr = "1310",
         name1 = 0,
@@ -62976,6 +64935,7 @@ return {
             favor = 1000,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1881,
         sortr = "1881",
         name1 = 0,
@@ -63008,6 +64968,7 @@ return {
         unlock = {
             dunId = 105211,
         },
+        minipack = 0,
         sort = 724,
         sortr = "724",
         name1 = 1702098,
@@ -63042,6 +65003,7 @@ return {
             favor = 2500,
             roleId = 102,
         },
+        minipack = 0,
         sort = 1287,
         sortr = "1287",
         name1 = 0,
@@ -63074,6 +65036,7 @@ return {
         unlock = {
             heroId = 110208,
         },
+        minipack = 0,
         sort = 1312,
         sortr = "1312",
         name1 = 0,
@@ -63106,6 +65069,7 @@ return {
         unlock = {
             heroId = 110208,
         },
+        minipack = 0,
         sort = 1314,
         sortr = "1314",
         name1 = 0,
@@ -63138,6 +65102,7 @@ return {
         unlock = {
             heroId = 110208,
         },
+        minipack = 0,
         sort = 1316,
         sortr = "1316",
         name1 = 0,
@@ -63171,6 +65136,7 @@ return {
             level = 30,
             heroId = 110209,
         },
+        minipack = 0,
         sort = 1318,
         sortr = "1318",
         name1 = 0,
@@ -63203,6 +65169,7 @@ return {
         unlock = {
             heroId = 110209,
         },
+        minipack = 0,
         sort = 1320,
         sortr = "1320",
         name1 = 0,
@@ -63235,6 +65202,7 @@ return {
         unlock = {
             heroId = 110210,
         },
+        minipack = 0,
         sort = 1322,
         sortr = "1322",
         name1 = 0,
@@ -63267,6 +65235,7 @@ return {
         unlock = {
             heroId = 110210,
         },
+        minipack = 0,
         sort = 1324,
         sortr = "1324",
         name1 = 0,
@@ -63299,6 +65268,7 @@ return {
         unlock = {
             heroId = 110210,
         },
+        minipack = 0,
         sort = 1326,
         sortr = "1326",
         name1 = 0,
@@ -63331,6 +65301,7 @@ return {
         unlock = {
             dunId = 105425,
         },
+        minipack = 0,
         sort = 729,
         sortr = "729",
         name1 = 1702100,
@@ -63363,6 +65334,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 340,
         sortr = "340",
         name1 = 0,
@@ -63396,6 +65368,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1594,
         sortr = "1594",
         name1 = 0,
@@ -63428,6 +65401,7 @@ return {
         unlock = {
             roleId = 133,
         },
+        minipack = 0,
         sort = 1862,
         sortr = "1862",
         name1 = 0,
@@ -63459,6 +65433,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1038,
         sortr = "1038",
         name1 = 0,
@@ -63490,6 +65465,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 103,
         sortr = "103",
         name1 = 0,
@@ -63522,6 +65498,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 868,
         sortr = "868",
         name1 = 1701936,
@@ -63554,6 +65531,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1229,
         sortr = "1229",
         name1 = 0,
@@ -63586,6 +65564,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1039,
         sortr = "1039",
         name1 = 0,
@@ -63617,6 +65596,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 341,
         sortr = "341",
         name1 = 0,
@@ -63648,6 +65628,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 859,
         sortr = "859",
         name1 = 1701931,
@@ -63680,6 +65661,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 217,
         sortr = "217",
         name1 = 0,
@@ -63711,6 +65693,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 892,
         sortr = "892",
         name1 = 1701958,
@@ -63743,6 +65726,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 248,
         sortr = "248",
         name1 = 0,
@@ -63774,6 +65758,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 893,
         sortr = "893",
         name1 = 1701959,
@@ -63806,6 +65791,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2014,
         sortr = "2014",
         name1 = 0,
@@ -63838,6 +65824,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 894,
         sortr = "894",
         name1 = 1701960,
@@ -63870,6 +65857,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 105,
         sortr = "105",
         name1 = 0,
@@ -63902,6 +65890,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 895,
         sortr = "895",
         name1 = 1701961,
@@ -63934,6 +65923,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 661,
         sortr = "661",
         name1 = 1701830,
@@ -63967,6 +65957,7 @@ return {
         unlock = {
             dunId = 106105,
         },
+        minipack = 0,
         sort = 732,
         sortr = "732",
         name1 = 1702101,
@@ -63999,6 +65990,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 249,
         sortr = "249",
         name1 = 0,
@@ -64031,6 +66023,7 @@ return {
         unlock = {
             dunId = 106105,
         },
+        minipack = 0,
         sort = 733,
         sortr = "733",
         name1 = 1702101,
@@ -64063,6 +66056,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 370,
         sortr = "370",
         name1 = 0,
@@ -64094,6 +66088,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 640,
         sortr = "640",
         name1 = 1701831,
@@ -64126,6 +66121,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 343,
         sortr = "343",
         name1 = 0,
@@ -64158,6 +66154,7 @@ return {
         unlock = {
             dunId = 106212,
         },
+        minipack = 0,
         sort = 738,
         sortr = "738",
         name1 = 1702102,
@@ -64192,6 +66189,7 @@ return {
             favor = 1000,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1554,
         sortr = "1554",
         name1 = 0,
@@ -64224,6 +66222,7 @@ return {
         unlock = {
             dunId = 106321,
         },
+        minipack = 0,
         sort = 739,
         sortr = "739",
         name1 = 1702103,
@@ -64256,6 +66255,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 106,
         sortr = "106",
         name1 = 0,
@@ -64289,6 +66289,7 @@ return {
         unlock = {
             dunId = 106426,
         },
+        minipack = 0,
         sort = 741,
         sortr = "741",
         name1 = 1702104,
@@ -64321,6 +66322,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 503,
         sortr = "503",
         name1 = 1701832,
@@ -64354,6 +66356,7 @@ return {
         unlock = {
             dunId = 106426,
         },
+        minipack = 0,
         sort = 740,
         sortr = "740",
         name1 = 1702104,
@@ -64386,6 +66389,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 107,
         sortr = "107",
         name1 = 0,
@@ -64419,6 +66423,7 @@ return {
         unlock = {
             dunId = 106212,
         },
+        minipack = 0,
         sort = 737,
         sortr = "737",
         name1 = 1702102,
@@ -64452,6 +66457,7 @@ return {
         unlock = {
             dunId = 250005,
         },
+        minipack = 0,
         sort = 807,
         sortr = "807",
         name1 = 1702170,
@@ -64485,6 +66491,7 @@ return {
         unlock = {
             dunId = 106105,
         },
+        minipack = 0,
         sort = 734,
         sortr = "734",
         name1 = 1702101,
@@ -64517,6 +66524,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 108,
         sortr = "108",
         name1 = 0,
@@ -64550,6 +66558,7 @@ return {
         unlock = {
             dunId = 106105,
         },
+        minipack = 0,
         sort = 735,
         sortr = "735",
         name1 = 1702101,
@@ -64585,6 +66594,7 @@ return {
                 [580318] = 1,
             },
         },
+        minipack = 0,
         sort = 943,
         sortr = "943",
         name1 = 1702188,
@@ -64616,6 +66626,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 869,
         sortr = "869",
         name1 = 1701937,
@@ -64648,6 +66659,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 345,
         sortr = "345",
         name1 = 0,
@@ -64679,6 +66691,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 870,
         sortr = "870",
         name1 = 1701938,
@@ -64714,6 +66727,7 @@ return {
                 [580317] = 1,
             },
         },
+        minipack = 0,
         sort = 946,
         sortr = "946",
         name1 = 1702188,
@@ -64745,6 +66759,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2303,
         sortr = "2303",
         name1 = 0,
@@ -64776,6 +66791,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 252,
         sortr = "252",
         name1 = 0,
@@ -64807,6 +66823,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2377,
         sortr = "2377",
         name1 = 0,
@@ -64839,6 +66856,7 @@ return {
         unlock = {
             dunId = 109101,
         },
+        minipack = 0,
         sort = 772,
         sortr = "772",
         name1 = 1702191,
@@ -64871,6 +66889,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 896,
         sortr = "896",
         name1 = 1701962,
@@ -64903,6 +66922,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 636,
         sortr = "636",
         name1 = 1701832,
@@ -64935,6 +66955,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 838,
         sortr = "838",
         name1 = 1701911,
@@ -64968,6 +66989,7 @@ return {
         unlock = {
             dunId = 106433,
         },
+        minipack = 0,
         sort = 1963,
         sortr = "1963",
         name1 = 0,
@@ -65000,6 +67022,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 929,
         sortr = "929",
         name1 = 1701973,
@@ -65031,6 +67054,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 109,
         sortr = "109",
         name1 = 0,
@@ -65064,6 +67088,7 @@ return {
         unlock = {
             dunId = 107101,
         },
+        minipack = 0,
         sort = 742,
         sortr = "742",
         name1 = 1702105,
@@ -65097,6 +67122,7 @@ return {
         unlock = {
             dunId = 109214,
         },
+        minipack = 0,
         sort = 776,
         sortr = "776",
         name1 = 1702195,
@@ -65130,6 +67156,7 @@ return {
         unlock = {
             dunId = 107101,
         },
+        minipack = 0,
         sort = 743,
         sortr = "743",
         name1 = 1702105,
@@ -65162,6 +67189,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 110,
         sortr = "110",
         name1 = 0,
@@ -65194,6 +67222,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 565,
         sortr = "565",
         name1 = 1701832,
@@ -65227,6 +67256,7 @@ return {
         unlock = {
             dunId = 109640,
         },
+        minipack = 0,
         sort = 779,
         sortr = "779",
         name1 = 1702198,
@@ -65260,6 +67290,7 @@ return {
         unlock = {
             dunId = 107101,
         },
+        minipack = 0,
         sort = 745,
         sortr = "745",
         name1 = 1702105,
@@ -65292,6 +67323,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 111,
         sortr = "111",
         name1 = 0,
@@ -65325,6 +67357,7 @@ return {
         unlock = {
             dunId = 107213,
         },
+        minipack = 0,
         sort = 746,
         sortr = "746",
         name1 = 1702106,
@@ -65357,6 +67390,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1758,
         sortr = "1758",
         name1 = 0,
@@ -65389,6 +67423,7 @@ return {
         unlock = {
             dunId = 107425,
         },
+        minipack = 0,
         sort = 749,
         sortr = "749",
         name1 = 1702107,
@@ -65421,6 +67456,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1756,
         sortr = "1756",
         name1 = 0,
@@ -65453,6 +67489,7 @@ return {
         unlock = {
             dunId = 107425,
         },
+        minipack = 0,
         sort = 750,
         sortr = "750",
         name1 = 1702107,
@@ -65485,6 +67522,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1760,
         sortr = "1760",
         name1 = 0,
@@ -65516,6 +67554,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1762,
         sortr = "1762",
         name1 = 0,
@@ -65549,6 +67588,7 @@ return {
             favor = 1000,
             roleId = 127,
         },
+        minipack = 0,
         sort = 1764,
         sortr = "1764",
         name1 = 0,
@@ -65580,6 +67620,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1766,
         sortr = "1766",
         name1 = 0,
@@ -65613,6 +67654,7 @@ return {
             favor = 1000,
             roleId = 127,
         },
+        minipack = 0,
         sort = 1768,
         sortr = "1768",
         name1 = 0,
@@ -65647,6 +67689,7 @@ return {
                 [410109] = 1,
             },
         },
+        minipack = 0,
         sort = 1124,
         sortr = "1124",
         name1 = 0,
@@ -65681,6 +67724,7 @@ return {
                 [410514] = 1,
             },
         },
+        minipack = 0,
         sort = 1155,
         sortr = "1155",
         name1 = 0,
@@ -65713,6 +67757,7 @@ return {
         unlock = {
             roleId = 127,
         },
+        minipack = 0,
         sort = 1774,
         sortr = "1774",
         name1 = 0,
@@ -65746,6 +67791,7 @@ return {
             level = 30,
             heroId = 112701,
         },
+        minipack = 0,
         sort = 1776,
         sortr = "1776",
         name1 = 0,
@@ -65778,6 +67824,7 @@ return {
         unlock = {
             heroId = 112701,
         },
+        minipack = 0,
         sort = 1778,
         sortr = "1778",
         name1 = 0,
@@ -65811,6 +67858,7 @@ return {
             favor = 2500,
             roleId = 127,
         },
+        minipack = 0,
         sort = 1754,
         sortr = "1754",
         name1 = 0,
@@ -65843,6 +67891,7 @@ return {
         unlock = {
             dunId = 107317,
         },
+        minipack = 0,
         sort = 748,
         sortr = "748",
         name1 = 1701894,
@@ -65877,6 +67926,7 @@ return {
             favor = 1000,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1443,
         sortr = "1443",
         name1 = 0,
@@ -65909,6 +67959,7 @@ return {
         unlock = {
             dunId = 107431,
         },
+        minipack = 0,
         sort = 754,
         sortr = "754",
         name1 = 1701900,
@@ -65941,6 +67992,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 114,
         sortr = "114",
         name1 = 0,
@@ -65974,6 +68026,7 @@ return {
         unlock = {
             dunId = 107431,
         },
+        minipack = 0,
         sort = 755,
         sortr = "755",
         name1 = 1701896,
@@ -66008,6 +68061,7 @@ return {
             favor = 2500,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1427,
         sortr = "1427",
         name1 = 0,
@@ -66039,6 +68093,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 47,
         sortr = "47",
         name1 = 0,
@@ -66071,6 +68126,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 115,
         sortr = "115",
         name1 = 0,
@@ -66103,6 +68159,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1739,
         sortr = "1739",
         name1 = 0,
@@ -66134,6 +68191,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1731,
         sortr = "1731",
         name1 = 0,
@@ -66168,6 +68226,7 @@ return {
                 [410305] = 1,
             },
         },
+        minipack = 0,
         sort = 1008,
         sortr = "1008",
         name1 = 1702544,
@@ -66199,6 +68258,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 116,
         sortr = "116",
         name1 = 0,
@@ -66231,6 +68291,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2040,
         sortr = "2040",
         name1 = 0,
@@ -66263,6 +68324,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 319,
         sortr = "319",
         name1 = 0,
@@ -66294,6 +68356,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 854,
         sortr = "854",
         name1 = 1701926,
@@ -66327,6 +68390,7 @@ return {
         unlock = {
             heroId = 111701,
         },
+        minipack = 0,
         sort = 1656,
         sortr = "1656",
         name1 = 0,
@@ -66358,6 +68422,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 291,
         sortr = "291",
         name1 = 0,
@@ -66389,6 +68454,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1034,
         sortr = "1034",
         name1 = 0,
@@ -66420,6 +68486,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 570,
         sortr = "570",
         name1 = 1701833,
@@ -66452,6 +68519,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 117,
         sortr = "117",
         name1 = 0,
@@ -66484,6 +68552,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 844,
         sortr = "844",
         name1 = 1701917,
@@ -66516,6 +68585,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1035,
         sortr = "1035",
         name1 = 0,
@@ -66547,6 +68617,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 843,
         sortr = "843",
         name1 = 1701916,
@@ -66579,6 +68650,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 569,
         sortr = "569",
         name1 = 1701833,
@@ -66611,6 +68683,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 879,
         sortr = "879",
         name1 = 1701945,
@@ -66643,6 +68716,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1036,
         sortr = "1036",
         name1 = 0,
@@ -66674,6 +68748,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 878,
         sortr = "878",
         name1 = 112000076,
@@ -66706,6 +68781,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 118,
         sortr = "118",
         name1 = 0,
@@ -66738,6 +68814,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 877,
         sortr = "877",
         name1 = 112000078,
@@ -66770,6 +68847,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1093,
         sortr = "1093",
         name1 = 0,
@@ -66801,6 +68879,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 876,
         sortr = "876",
         name1 = 112000077,
@@ -66834,6 +68913,7 @@ return {
         unlock = {
             dunId = 111428,
         },
+        minipack = 0,
         sort = 795,
         sortr = "795",
         name1 = 1702583,
@@ -66866,6 +68946,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 909,
         sortr = "909",
         name1 = 1701967,
@@ -66899,6 +68980,7 @@ return {
         unlock = {
             dunId = 111428,
         },
+        minipack = 0,
         sort = 796,
         sortr = "796",
         name1 = 1702583,
@@ -66931,6 +69013,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 910,
         sortr = "910",
         name1 = 1701968,
@@ -66963,6 +69046,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 119,
         sortr = "119",
         name1 = 0,
@@ -66995,6 +69079,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 911,
         sortr = "911",
         name1 = 1701969,
@@ -67029,6 +69114,7 @@ return {
             favor = 2500,
             roleId = 113,
         },
+        minipack = 0,
         sort = 1626,
         sortr = "1626",
         name1 = 0,
@@ -67060,6 +69146,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 885,
         sortr = "885",
         name1 = 1701951,
@@ -67092,6 +69179,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 953,
         sortr = "953",
         name1 = 1705017,
@@ -67123,6 +69211,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 884,
         sortr = "884",
         name1 = 1701950,
@@ -67155,6 +69244,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 933,
         sortr = "933",
         name1 = 1705053,
@@ -67186,6 +69276,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 912,
         sortr = "912",
         name1 = 1701970,
@@ -67218,6 +69309,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 346,
         sortr = "346",
         name1 = 0,
@@ -67249,6 +69341,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 913,
         sortr = "913",
         name1 = 1701971,
@@ -67281,6 +69374,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1897,
         sortr = "1897",
         name1 = 0,
@@ -67312,6 +69406,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 914,
         sortr = "914",
         name1 = 1701972,
@@ -67344,6 +69439,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1987,
         sortr = "1987",
         name1 = 0,
@@ -67376,6 +69472,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 907,
         sortr = "907",
         name1 = 112000091,
@@ -67408,6 +69505,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1773,
         sortr = "1773",
         name1 = 0,
@@ -67439,6 +69537,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 906,
         sortr = "906",
         name1 = 112000093,
@@ -67471,6 +69570,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 533,
         sortr = "533",
         name1 = 1701832,
@@ -67503,6 +69603,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 905,
         sortr = "905",
         name1 = 112000089,
@@ -67536,6 +69637,7 @@ return {
         unlock = {
             dunId = 105429,
         },
+        minipack = 0,
         sort = 1194,
         sortr = "1194",
         name1 = 0,
@@ -67568,6 +69670,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 904,
         sortr = "904",
         name1 = 112000090,
@@ -67600,6 +69703,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1095,
         sortr = "1095",
         name1 = 0,
@@ -67633,6 +69737,7 @@ return {
             favor = 1000,
             roleId = 107,
         },
+        minipack = 0,
         sort = 1469,
         sortr = "1469",
         name1 = 0,
@@ -67664,6 +69769,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1230,
         sortr = "1230",
         name1 = 0,
@@ -67696,6 +69802,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1940,
         sortr = "1940",
         name1 = 0,
@@ -67727,6 +69834,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 347,
         sortr = "347",
         name1 = 0,
@@ -67760,6 +69868,7 @@ return {
             favor = 2500,
             roleId = 106,
         },
+        minipack = 0,
         sort = 1428,
         sortr = "1428",
         name1 = 0,
@@ -67793,6 +69902,7 @@ return {
             favor = 1000,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1408,
         sortr = "1408",
         name1 = 0,
@@ -67824,6 +69934,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 566,
         sortr = "566",
         name1 = 1701832,
@@ -67856,6 +69967,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 655,
         sortr = "655",
         name1 = 1701831,
@@ -67888,6 +70000,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 501,
         sortr = "501",
         name1 = 1701831,
@@ -67920,6 +70033,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 227,
         sortr = "227",
         name1 = 0,
@@ -67951,6 +70065,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1098,
         sortr = "1098",
         name1 = 0,
@@ -67982,6 +70097,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 351,
         sortr = "351",
         name1 = 0,
@@ -68014,6 +70130,7 @@ return {
         unlock = {
             dunId = 110001,
         },
+        minipack = 0,
         sort = 803,
         sortr = "803",
         name1 = 1701898,
@@ -68047,6 +70164,7 @@ return {
         unlock = {
             heroId = 110313,
         },
+        minipack = 0,
         sort = 1362,
         sortr = "1362",
         name1 = 0,
@@ -68079,6 +70197,7 @@ return {
         unlock = {
             dunId = 130014,
         },
+        minipack = 0,
         sort = 804,
         sortr = "804",
         name1 = 1701899,
@@ -68111,6 +70230,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 666,
         sortr = "666",
         name1 = 1701833,
@@ -68143,6 +70263,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 936,
         sortr = "936",
         name1 = 1701978,
@@ -68174,6 +70295,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 656,
         sortr = "656",
         name1 = 1701831,
@@ -68206,6 +70328,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 542,
         sortr = "542",
         name1 = 1701831,
@@ -68238,6 +70361,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 348,
         sortr = "348",
         name1 = 0,
@@ -68269,6 +70393,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 938,
         sortr = "938",
         name1 = 1701980,
@@ -68302,6 +70427,7 @@ return {
             favor = 2500,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1340,
         sortr = "1340",
         name1 = 0,
@@ -68333,6 +70459,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1099,
         sortr = "1099",
         name1 = 0,
@@ -68367,6 +70494,7 @@ return {
                 [410708] = 1,
             },
         },
+        minipack = 0,
         sort = 1156,
         sortr = "1156",
         name1 = 0,
@@ -68398,6 +70526,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 937,
         sortr = "937",
         name1 = 1701979,
@@ -68430,6 +70559,7 @@ return {
         unlock = {
             dunId = 104321,
         },
+        minipack = 0,
         sort = 1193,
         sortr = "1193",
         name1 = 0,
@@ -68462,6 +70592,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 658,
         sortr = "658",
         name1 = 1701832,
@@ -68494,6 +70625,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 349,
         sortr = "349",
         name1 = 0,
@@ -68525,6 +70657,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 934,
         sortr = "934",
         name1 = 1701976,
@@ -68558,6 +70691,7 @@ return {
             level = 30,
             heroId = 111701,
         },
+        minipack = 0,
         sort = 1661,
         sortr = "1661",
         name1 = 0,
@@ -68590,6 +70724,7 @@ return {
         unlock = {
             heroId = 111701,
         },
+        minipack = 0,
         sort = 1657,
         sortr = "1657",
         name1 = 0,
@@ -68623,6 +70758,7 @@ return {
             level = 45,
             heroId = 111701,
         },
+        minipack = 0,
         sort = 1663,
         sortr = "1663",
         name1 = 0,
@@ -68656,6 +70792,7 @@ return {
             level = 45,
             heroId = 111701,
         },
+        minipack = 0,
         sort = 1664,
         sortr = "1664",
         name1 = 0,
@@ -68689,6 +70826,7 @@ return {
             level = 60,
             heroId = 111701,
         },
+        minipack = 0,
         sort = 1665,
         sortr = "1665",
         name1 = 0,
@@ -68720,6 +70858,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1100,
         sortr = "1100",
         name1 = 0,
@@ -68751,6 +70890,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 350,
         sortr = "350",
         name1 = 0,
@@ -68782,6 +70922,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 237,
         sortr = "237",
         name1 = 0,
@@ -68815,6 +70956,7 @@ return {
             favor = 2500,
             roleId = 133,
         },
+        minipack = 0,
         sort = 1866,
         sortr = "1866",
         name1 = 0,
@@ -68846,6 +70988,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2304,
         sortr = "2304",
         name1 = 0,
@@ -68877,6 +71020,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2347,
         sortr = "2347",
         name1 = 0,
@@ -68908,6 +71052,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 930,
         sortr = "930",
         name1 = 1701974,
@@ -68939,6 +71084,7 @@ return {
         unlockType = 9999,
         unlock = {
         },
+        minipack = 0,
         sort = 1163,
         sortr = "1163",
         name1 = 0,
@@ -68975,6 +71121,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 939,
         sortr = "939",
         name1 = 1701981,
@@ -69006,6 +71153,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 43,
         sortr = "43",
         name1 = 0,
@@ -69041,6 +71189,7 @@ return {
                 [540386] = 1,
             },
         },
+        minipack = 0,
         sort = 992,
         sortr = "992",
         name1 = 13316331,
@@ -69072,6 +71221,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 42,
         sortr = "42",
         name1 = 0,
@@ -69104,6 +71254,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1017,
         sortr = "1017",
         name1 = 1706097,
@@ -69137,6 +71288,7 @@ return {
             favor = 1000,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1582,
         sortr = "1582",
         name1 = 0,
@@ -69168,6 +71320,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 931,
         sortr = "931",
         name1 = 1701975,
@@ -69202,6 +71355,7 @@ return {
                 [540398] = 1,
             },
         },
+        minipack = 0,
         sort = 993,
         sortr = "993",
         name1 = 13316506,
@@ -69233,6 +71387,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 915,
         sortr = "915",
         name1 = 112000094,
@@ -69265,6 +71420,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 352,
         sortr = "352",
         name1 = 0,
@@ -69296,6 +71452,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 917,
         sortr = "917",
         name1 = 112000097,
@@ -69329,6 +71486,7 @@ return {
         unlock = {
             dunId = 440479,
         },
+        minipack = 0,
         sort = 819,
         sortr = "819",
         name1 = 1706099,
@@ -69361,6 +71519,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 918,
         sortr = "918",
         name1 = 112000096,
@@ -69394,6 +71553,7 @@ return {
         unlock = {
             dunId = 440493,
         },
+        minipack = 0,
         sort = 821,
         sortr = "821",
         name1 = 1706099,
@@ -69426,6 +71586,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1031,
         sortr = "1031",
         name1 = 0,
@@ -69458,6 +71619,7 @@ return {
         unlock = {
             dunId = 440497,
         },
+        minipack = 0,
         sort = 822,
         sortr = "822",
         name1 = 1706099,
@@ -69490,6 +71652,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 920,
         sortr = "920",
         name1 = 1701985,
@@ -69522,6 +71685,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1757,
         sortr = "1757",
         name1 = 0,
@@ -69553,6 +71717,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1759,
         sortr = "1759",
         name1 = 0,
@@ -69584,6 +71749,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1761,
         sortr = "1761",
         name1 = 0,
@@ -69617,6 +71783,7 @@ return {
             favor = 1000,
             roleId = 127,
         },
+        minipack = 0,
         sort = 1763,
         sortr = "1763",
         name1 = 0,
@@ -69650,6 +71817,7 @@ return {
             favor = 2500,
             roleId = 127,
         },
+        minipack = 0,
         sort = 1765,
         sortr = "1765",
         name1 = 0,
@@ -69683,6 +71851,7 @@ return {
             favor = 2500,
             roleId = 127,
         },
+        minipack = 0,
         sort = 1767,
         sortr = "1767",
         name1 = 0,
@@ -69714,6 +71883,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1769,
         sortr = "1769",
         name1 = 0,
@@ -69747,6 +71917,7 @@ return {
             favor = 300,
             roleId = 127,
         },
+        minipack = 0,
         sort = 1771,
         sortr = "1771",
         name1 = 0,
@@ -69778,6 +71949,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 353,
         sortr = "353",
         name1 = 0,
@@ -69810,6 +71982,7 @@ return {
         unlock = {
             heroId = 112701,
         },
+        minipack = 0,
         sort = 1775,
         sortr = "1775",
         name1 = 0,
@@ -69842,6 +72015,7 @@ return {
         unlock = {
             heroId = 112701,
         },
+        minipack = 0,
         sort = 1777,
         sortr = "1777",
         name1 = 0,
@@ -69875,6 +72049,7 @@ return {
             favor = 2500,
             roleId = 127,
         },
+        minipack = 0,
         sort = 1753,
         sortr = "1753",
         name1 = 0,
@@ -69908,6 +72083,7 @@ return {
             favor = 2500,
             roleId = 127,
         },
+        minipack = 0,
         sort = 1755,
         sortr = "1755",
         name1 = 0,
@@ -69940,6 +72116,7 @@ return {
         unlock = {
             dunId = 108430,
         },
+        minipack = 0,
         sort = 762,
         sortr = "762",
         name1 = 1709993,
@@ -69972,6 +72149,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 997,
         sortr = "997",
         name1 = 13202416,
@@ -70004,6 +72182,7 @@ return {
         unlock = {
             dunId = 108536,
         },
+        minipack = 0,
         sort = 763,
         sortr = "763",
         name1 = 1702622,
@@ -70036,6 +72215,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1898,
         sortr = "1898",
         name1 = 0,
@@ -70068,6 +72248,7 @@ return {
         unlock = {
             dunId = 108536,
         },
+        minipack = 0,
         sort = 764,
         sortr = "764",
         name1 = 1702622,
@@ -70100,6 +72281,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 324,
         sortr = "324",
         name1 = 0,
@@ -70132,6 +72314,7 @@ return {
         unlock = {
             dunId = 108536,
         },
+        minipack = 0,
         sort = 765,
         sortr = "765",
         name1 = 1702622,
@@ -70164,6 +72347,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 37,
         sortr = "37",
         name1 = 0,
@@ -70197,6 +72381,7 @@ return {
         unlock = {
             dunId = 108536,
         },
+        minipack = 0,
         sort = 766,
         sortr = "766",
         name1 = 1702622,
@@ -70229,6 +72414,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 192,
         sortr = "192",
         name1 = 0,
@@ -70262,6 +72448,7 @@ return {
         unlock = {
             dunId = 108536,
         },
+        minipack = 0,
         sort = 767,
         sortr = "767",
         name1 = 1702622,
@@ -70294,6 +72481,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 600,
         sortr = "600",
         name1 = 1701833,
@@ -70327,6 +72515,7 @@ return {
         unlock = {
             dunId = 108646,
         },
+        minipack = 0,
         sort = 768,
         sortr = "768",
         name1 = 1702110,
@@ -70360,6 +72549,7 @@ return {
         unlock = {
             dunId = 105425,
         },
+        minipack = 0,
         sort = 726,
         sortr = "726",
         name1 = 1702100,
@@ -70393,6 +72583,7 @@ return {
         unlock = {
             dunId = 108646,
         },
+        minipack = 0,
         sort = 769,
         sortr = "769",
         name1 = 1702110,
@@ -70425,6 +72616,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1021,
         sortr = "1021",
         name1 = 1706360,
@@ -70457,6 +72649,7 @@ return {
         unlock = {
             dunId = 103105,
         },
+        minipack = 0,
         sort = 696,
         sortr = "696",
         name1 = 1701884,
@@ -70489,6 +72682,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1105,
         sortr = "1105",
         name1 = 0,
@@ -70521,6 +72715,7 @@ return {
         unlock = {
             dunId = 104320,
         },
+        minipack = 0,
         sort = 718,
         sortr = "718",
         name1 = 1701901,
@@ -70553,6 +72748,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 354,
         sortr = "354",
         name1 = 0,
@@ -70584,6 +72780,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1012,
         sortr = "1012",
         name1 = 1701982,
@@ -70615,6 +72812,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 193,
         sortr = "193",
         name1 = 0,
@@ -70648,6 +72846,7 @@ return {
         unlock = {
             dunId = 108214,
         },
+        minipack = 0,
         sort = 759,
         sortr = "759",
         name1 = 1702050,
@@ -70680,6 +72879,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2242,
         sortr = "2242",
         name1 = 0,
@@ -70713,6 +72913,7 @@ return {
         unlock = {
             dunId = 108213,
         },
+        minipack = 0,
         sort = 758,
         sortr = "758",
         name1 = 1702049,
@@ -70747,6 +72948,7 @@ return {
             favor = 300,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1371,
         sortr = "1371",
         name1 = 0,
@@ -70778,6 +72980,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1117,
         sortr = "1117",
         name1 = 0,
@@ -70809,6 +73012,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1770,
         sortr = "1770",
         name1 = 0,
@@ -70840,6 +73044,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 940,
         sortr = "940",
         name1 = 1701990,
@@ -70872,6 +73077,7 @@ return {
         unlock = {
             roleId = 127,
         },
+        minipack = 0,
         sort = 1772,
         sortr = "1772",
         name1 = 0,
@@ -70904,6 +73110,7 @@ return {
         unlock = {
             dunId = 108215,
         },
+        minipack = 0,
         sort = 760,
         sortr = "760",
         name1 = 1702051,
@@ -70936,6 +73143,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 339,
         sortr = "339",
         name1 = 0,
@@ -70968,6 +73176,7 @@ return {
         unlock = {
             dunId = 108646,
         },
+        minipack = 0,
         sort = 770,
         sortr = "770",
         name1 = 1702052,
@@ -71000,6 +73209,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1066,
         sortr = "1066",
         name1 = 0,
@@ -71032,6 +73242,7 @@ return {
         unlock = {
             roleId = 131,
         },
+        minipack = 0,
         sort = 1855,
         sortr = "1855",
         name1 = 0,
@@ -71063,6 +73274,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 604,
         sortr = "604",
         name1 = 1701830,
@@ -71095,6 +73307,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 567,
         sortr = "567",
         name1 = 1701832,
@@ -71129,6 +73342,7 @@ return {
             favor = 300,
             roleId = 112,
         },
+        minipack = 0,
         sort = 1574,
         sortr = "1574",
         name1 = 0,
@@ -71160,6 +73374,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 968,
         sortr = "968",
         name1 = 1702069,
@@ -71191,6 +73406,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 25,
         sortr = "25",
         name1 = 0,
@@ -71223,6 +73439,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 969,
         sortr = "969",
         name1 = 1702070,
@@ -71254,6 +73471,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 568,
         sortr = "568",
         name1 = 1701833,
@@ -71286,6 +73504,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 970,
         sortr = "970",
         name1 = 190000159,
@@ -71317,6 +73536,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 2016,
         sortr = "2016",
         name1 = 0,
@@ -71349,6 +73569,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 972,
         sortr = "972",
         name1 = 1702072,
@@ -71380,6 +73601,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 643,
         sortr = "643",
         name1 = 1701833,
@@ -71412,6 +73634,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 973,
         sortr = "973",
         name1 = 1702073,
@@ -71443,6 +73666,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 305,
         sortr = "305",
         name1 = 0,
@@ -71474,6 +73698,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 974,
         sortr = "974",
         name1 = 1702074,
@@ -71507,6 +73732,7 @@ return {
             level = 70,
             heroId = 111701,
         },
+        minipack = 0,
         sort = 1667,
         sortr = "1667",
         name1 = 0,
@@ -71538,6 +73764,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 897,
         sortr = "897",
         name1 = 112000084,
@@ -71570,6 +73797,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 383,
         sortr = "383",
         name1 = 0,
@@ -71601,6 +73829,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 899,
         sortr = "899",
         name1 = 112000086,
@@ -71633,6 +73862,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 564,
         sortr = "564",
         name1 = 1701831,
@@ -71665,6 +73895,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 901,
         sortr = "901",
         name1 = 112000088,
@@ -71700,6 +73931,7 @@ return {
                 [412404] = 1,
             },
         },
+        minipack = 0,
         sort = 1160,
         sortr = "1160",
         name1 = 0,
@@ -71731,6 +73963,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 902,
         sortr = "902",
         name1 = 1702143,
@@ -71763,6 +73996,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1231,
         sortr = "1231",
         name1 = 0,
@@ -71795,6 +74029,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 903,
         sortr = "903",
         name1 = 1702143,
@@ -71827,6 +74062,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 355,
         sortr = "355",
         name1 = 0,
@@ -71858,6 +74094,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 941,
         sortr = "941",
         name1 = 1702165,
@@ -71889,6 +74126,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 562,
         sortr = "562",
         name1 = 1701830,
@@ -71921,6 +74159,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 942,
         sortr = "942",
         name1 = 1702166,
@@ -71953,6 +74192,7 @@ return {
         unlock = {
             roleId = 104,
         },
+        minipack = 0,
         sort = 1364,
         sortr = "1364",
         name1 = 0,
@@ -71985,6 +74225,7 @@ return {
         unlock = {
             dunId = 250005,
         },
+        minipack = 0,
         sort = 805,
         sortr = "805",
         name1 = 1702168,
@@ -72018,6 +74259,7 @@ return {
         unlock = {
             roleId = 104,
         },
+        minipack = 0,
         sort = 1369,
         sortr = "1369",
         name1 = 0,
@@ -72050,6 +74292,7 @@ return {
         unlock = {
             roleId = 104,
         },
+        minipack = 0,
         sort = 1370,
         sortr = "1370",
         name1 = 0,
@@ -72081,6 +74324,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 356,
         sortr = "356",
         name1 = 0,
@@ -72114,6 +74358,7 @@ return {
             favor = 300,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1372,
         sortr = "1372",
         name1 = 0,
@@ -72147,6 +74392,7 @@ return {
             favor = 300,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1373,
         sortr = "1373",
         name1 = 0,
@@ -72178,6 +74424,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 579,
         sortr = "579",
         name1 = 1701830,
@@ -72212,6 +74459,7 @@ return {
             favor = 1000,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1375,
         sortr = "1375",
         name1 = 0,
@@ -72245,6 +74493,7 @@ return {
             favor = 1000,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1376,
         sortr = "1376",
         name1 = 0,
@@ -72278,6 +74527,7 @@ return {
             favor = 2500,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1377,
         sortr = "1377",
         name1 = 0,
@@ -72311,6 +74561,7 @@ return {
             favor = 300,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1378,
         sortr = "1378",
         name1 = 0,
@@ -72342,6 +74593,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 357,
         sortr = "357",
         name1 = 0,
@@ -72375,6 +74627,7 @@ return {
             favor = 1000,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1380,
         sortr = "1380",
         name1 = 0,
@@ -72408,6 +74661,7 @@ return {
             favor = 2500,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1381,
         sortr = "1381",
         name1 = 0,
@@ -72441,6 +74695,7 @@ return {
             favor = 1000,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1382,
         sortr = "1382",
         name1 = 0,
@@ -72474,6 +74729,7 @@ return {
             favor = 300,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1383,
         sortr = "1383",
         name1 = 0,
@@ -72506,6 +74762,7 @@ return {
         unlock = {
             roleId = 104,
         },
+        minipack = 0,
         sort = 1384,
         sortr = "1384",
         name1 = 0,
@@ -72538,6 +74795,7 @@ return {
         unlock = {
             heroId = 110401,
         },
+        minipack = 0,
         sort = 1385,
         sortr = "1385",
         name1 = 0,
@@ -72570,6 +74828,7 @@ return {
         unlock = {
             roleId = 104,
         },
+        minipack = 0,
         sort = 1386,
         sortr = "1386",
         name1 = 0,
@@ -72602,6 +74861,7 @@ return {
         unlock = {
             heroId = 110401,
         },
+        minipack = 0,
         sort = 1387,
         sortr = "1387",
         name1 = 0,
@@ -72635,6 +74895,7 @@ return {
             favor = 2500,
             roleId = 119,
         },
+        minipack = 0,
         sort = 1660,
         sortr = "1660",
         name1 = 0,
@@ -72667,6 +74928,7 @@ return {
         unlock = {
             heroId = 110401,
         },
+        minipack = 0,
         sort = 1389,
         sortr = "1389",
         name1 = 0,
@@ -72700,6 +74962,7 @@ return {
             level = 30,
             heroId = 111701,
         },
+        minipack = 0,
         sort = 1662,
         sortr = "1662",
         name1 = 0,
@@ -72733,6 +74996,7 @@ return {
             favor = 300,
             roleId = 119,
         },
+        minipack = 0,
         sort = 1658,
         sortr = "1658",
         name1 = 0,
@@ -72765,6 +75029,7 @@ return {
         unlock = {
             dunId = 109214,
         },
+        minipack = 0,
         sort = 774,
         sortr = "774",
         name1 = 1702193,
@@ -72798,6 +75063,7 @@ return {
         unlock = {
             roleId = 104,
         },
+        minipack = 0,
         sort = 1368,
         sortr = "1368",
         name1 = 0,
@@ -72831,6 +75097,7 @@ return {
             level = 70,
             heroId = 111701,
         },
+        minipack = 0,
         sort = 1666,
         sortr = "1666",
         name1 = 0,
@@ -72864,6 +75131,7 @@ return {
             favor = 2500,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1366,
         sortr = "1366",
         name1 = 0,
@@ -72897,6 +75165,7 @@ return {
             favor = 2500,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1367,
         sortr = "1367",
         name1 = 0,
@@ -72928,6 +75197,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 571,
         sortr = "571",
         name1 = 1701833,
@@ -72962,6 +75232,7 @@ return {
             level = 30,
             heroId = 110413,
         },
+        minipack = 0,
         sort = 1392,
         sortr = "1392",
         name1 = 0,
@@ -72994,6 +75265,7 @@ return {
         unlock = {
             heroId = 110413,
         },
+        minipack = 0,
         sort = 1393,
         sortr = "1393",
         name1 = 0,
@@ -73026,6 +75298,7 @@ return {
         unlock = {
             heroId = 110413,
         },
+        minipack = 0,
         sort = 1394,
         sortr = "1394",
         name1 = 0,
@@ -73058,6 +75331,7 @@ return {
         unlock = {
             heroId = 110413,
         },
+        minipack = 0,
         sort = 1395,
         sortr = "1395",
         name1 = 0,
@@ -73089,6 +75363,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 550,
         sortr = "550",
         name1 = 1701832,
@@ -73121,6 +75396,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 358,
         sortr = "358",
         name1 = 0,
@@ -73152,6 +75428,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 860,
         sortr = "860",
         name1 = 1702202,
@@ -73185,6 +75462,7 @@ return {
         unlock = {
             heroId = 110401,
         },
+        minipack = 0,
         sort = 1390,
         sortr = "1390",
         name1 = 0,
@@ -73216,6 +75494,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 861,
         sortr = "861",
         name1 = 1702202,
@@ -73249,6 +75528,7 @@ return {
         unlock = {
             heroId = 110413,
         },
+        minipack = 0,
         sort = 1391,
         sortr = "1391",
         name1 = 0,
@@ -73280,6 +75560,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 871,
         sortr = "871",
         name1 = 1702203,
@@ -73315,6 +75596,7 @@ return {
                 [410111] = 1,
             },
         },
+        minipack = 0,
         sort = 1125,
         sortr = "1125",
         name1 = 0,
@@ -73346,6 +75628,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 872,
         sortr = "872",
         name1 = 1702203,
@@ -73380,6 +75663,7 @@ return {
             favor = 300,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1546,
         sortr = "1546",
         name1 = 0,
@@ -73411,6 +75695,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 178,
         sortr = "178",
         name1 = 0,
@@ -73443,6 +75728,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 654,
         sortr = "654",
         name1 = 1701830,
@@ -73475,6 +75761,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 950,
         sortr = "950",
         name1 = 1702535,
@@ -73506,6 +75793,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 900,
         sortr = "900",
         name1 = 112000087,
@@ -73539,6 +75827,7 @@ return {
         unlock = {
             dunId = 110214,
         },
+        minipack = 0,
         sort = 780,
         sortr = "780",
         name1 = 1702538,
@@ -73571,6 +75860,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 429,
         sortr = "429",
         name1 = 0,
@@ -73603,6 +75893,7 @@ return {
         unlock = {
             dunId = 110317,
         },
+        minipack = 0,
         sort = 781,
         sortr = "781",
         name1 = 1702539,
@@ -73636,6 +75927,7 @@ return {
         unlock = {
             heroId = 110602,
         },
+        minipack = 0,
         sort = 1452,
         sortr = "1452",
         name1 = 0,
@@ -73668,6 +75960,7 @@ return {
         unlock = {
             dunId = 110424,
         },
+        minipack = 0,
         sort = 782,
         sortr = "782",
         name1 = 1702540,
@@ -73700,6 +75993,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1455,
         sortr = "1455",
         name1 = 0,
@@ -73732,6 +76026,7 @@ return {
         unlock = {
             dunId = 110429,
         },
+        minipack = 0,
         sort = 783,
         sortr = "783",
         name1 = 1702541,
@@ -73764,6 +76059,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1735,
         sortr = "1735",
         name1 = 0,
@@ -73796,6 +76092,7 @@ return {
         unlock = {
             dunId = 110430,
         },
+        minipack = 0,
         sort = 784,
         sortr = "784",
         name1 = 1702542,
@@ -73830,6 +76127,7 @@ return {
             favor = 2500,
             roleId = 108,
         },
+        minipack = 0,
         sort = 1503,
         sortr = "1503",
         name1 = 0,
@@ -73864,6 +76162,7 @@ return {
                 [410509] = 1,
             },
         },
+        minipack = 0,
         sort = 1126,
         sortr = "1126",
         name1 = 0,
@@ -73898,6 +76197,7 @@ return {
                 [410808] = 1,
             },
         },
+        minipack = 0,
         sort = 1157,
         sortr = "1157",
         name1 = 0,
@@ -73929,6 +76229,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 951,
         sortr = "951",
         name1 = 1702561,
@@ -73960,6 +76261,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 434,
         sortr = "434",
         name1 = 0,
@@ -73991,6 +76293,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 952,
         sortr = "952",
         name1 = 1702562,
@@ -74022,6 +76325,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 251,
         sortr = "251",
         name1 = 0,
@@ -74053,6 +76357,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 932,
         sortr = "932",
         name1 = 1702575,
@@ -74084,6 +76389,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 391,
         sortr = "391",
         name1 = 0,
@@ -74116,6 +76422,7 @@ return {
         unlock = {
             dunId = 111103,
         },
+        minipack = 0,
         sort = 785,
         sortr = "785",
         name1 = 1702576,
@@ -74149,6 +76456,7 @@ return {
         unlock = {
             heroId = 110201,
         },
+        minipack = 0,
         sort = 1306,
         sortr = "1306",
         name1 = 0,
@@ -74181,6 +76489,7 @@ return {
         unlock = {
             dunId = 111103,
         },
+        minipack = 0,
         sort = 786,
         sortr = "786",
         name1 = 1702576,
@@ -74213,6 +76522,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 664,
         sortr = "664",
         name1 = 1701832,
@@ -74246,6 +76556,7 @@ return {
         unlock = {
             dunId = 111107,
         },
+        minipack = 0,
         sort = 787,
         sortr = "787",
         name1 = 1702577,
@@ -74278,6 +76589,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 522,
         sortr = "522",
         name1 = 1701831,
@@ -74311,6 +76623,7 @@ return {
         unlock = {
             dunId = 111107,
         },
+        minipack = 0,
         sort = 788,
         sortr = "788",
         name1 = 1702577,
@@ -74343,6 +76656,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 432,
         sortr = "432",
         name1 = 0,
@@ -74375,6 +76689,7 @@ return {
         unlock = {
             dunId = 111107,
         },
+        minipack = 0,
         sort = 789,
         sortr = "789",
         name1 = 1702577,
@@ -74407,6 +76722,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 199,
         sortr = "199",
         name1 = 0,
@@ -74440,6 +76756,7 @@ return {
         unlock = {
             dunId = 111107,
         },
+        minipack = 0,
         sort = 790,
         sortr = "790",
         name1 = 1702577,
@@ -74472,6 +76789,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 315,
         sortr = "315",
         name1 = 0,
@@ -74504,6 +76822,7 @@ return {
         unlock = {
             dunId = 111107,
         },
+        minipack = 0,
         sort = 791,
         sortr = "791",
         name1 = 1702577,
@@ -74539,6 +76858,7 @@ return {
                 [411311] = 1,
             },
         },
+        minipack = 0,
         sort = 1141,
         sortr = "1141",
         name1 = 0,
@@ -74571,6 +76891,7 @@ return {
         unlock = {
             roleId = 103,
         },
+        minipack = 0,
         sort = 1331,
         sortr = "1331",
         name1 = 0,
@@ -74603,6 +76924,7 @@ return {
         unlock = {
             roleId = 103,
         },
+        minipack = 0,
         sort = 1333,
         sortr = "1333",
         name1 = 0,
@@ -74636,6 +76958,7 @@ return {
             favor = 300,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1335,
         sortr = "1335",
         name1 = 0,
@@ -74669,6 +76992,7 @@ return {
             favor = 1000,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1337,
         sortr = "1337",
         name1 = 0,
@@ -74701,6 +77025,7 @@ return {
         unlock = {
             dunId = 111321,
         },
+        minipack = 0,
         sort = 794,
         sortr = "794",
         name1 = 1702582,
@@ -74735,6 +77060,7 @@ return {
             favor = 300,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1341,
         sortr = "1341",
         name1 = 0,
@@ -74768,6 +77094,7 @@ return {
             favor = 1000,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1343,
         sortr = "1343",
         name1 = 0,
@@ -74801,6 +77128,7 @@ return {
             favor = 1000,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1345,
         sortr = "1345",
         name1 = 0,
@@ -74833,6 +77161,7 @@ return {
         unlock = {
             roleId = 103,
         },
+        minipack = 0,
         sort = 1347,
         sortr = "1347",
         name1 = 0,
@@ -74865,6 +77194,7 @@ return {
         unlock = {
             roleId = 103,
         },
+        minipack = 0,
         sort = 1349,
         sortr = "1349",
         name1 = 0,
@@ -74898,6 +77228,7 @@ return {
             level = 30,
             heroId = 110301,
         },
+        minipack = 0,
         sort = 1351,
         sortr = "1351",
         name1 = 0,
@@ -74930,6 +77261,7 @@ return {
         unlock = {
             heroId = 110301,
         },
+        minipack = 0,
         sort = 1353,
         sortr = "1353",
         name1 = 0,
@@ -74962,6 +77294,7 @@ return {
         unlock = {
             dunId = 111641,
         },
+        minipack = 0,
         sort = 798,
         sortr = "798",
         name1 = 1702584,
@@ -74996,6 +77329,7 @@ return {
             favor = 2500,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1328,
         sortr = "1328",
         name1 = 0,
@@ -75029,6 +77363,7 @@ return {
             favor = 2500,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1329,
         sortr = "1329",
         name1 = 0,
@@ -75060,6 +77395,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1354,
         sortr = "1354",
         name1 = 0,
@@ -75091,6 +77427,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1356,
         sortr = "1356",
         name1 = 0,
@@ -75122,6 +77459,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1358,
         sortr = "1358",
         name1 = 0,
@@ -75155,6 +77493,7 @@ return {
             level = 30,
             heroId = 110313,
         },
+        minipack = 0,
         sort = 1360,
         sortr = "1360",
         name1 = 0,
@@ -75186,6 +77525,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 359,
         sortr = "359",
         name1 = 0,
@@ -75217,6 +77557,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 26,
         sortr = "26",
         name1 = 0,
@@ -75249,6 +77590,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 27,
         sortr = "27",
         name1 = 0,
@@ -75281,6 +77623,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 955,
         sortr = "955",
         name1 = 1705077,
@@ -75312,6 +77655,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 327,
         sortr = "327",
         name1 = 0,
@@ -75346,6 +77690,7 @@ return {
                 [1] = 563008,
             },
         },
+        minipack = 0,
         sort = 956,
         sortr = "956",
         name1 = 1705098,
@@ -75379,6 +77724,7 @@ return {
             favor = 1000,
             roleId = 119,
         },
+        minipack = 0,
         sort = 1659,
         sortr = "1659",
         name1 = 0,
@@ -75411,6 +77757,7 @@ return {
         unlock = {
             dunId = 279109,
         },
+        minipack = 0,
         sort = 957,
         sortr = "957",
         name1 = 1705098,
@@ -75443,6 +77790,7 @@ return {
         unlock = {
             heroId = 111001,
         },
+        minipack = 0,
         sort = 1564,
         sortr = "1564",
         name1 = 0,
@@ -75475,6 +77823,7 @@ return {
         unlock = {
             dunId = 279112,
         },
+        minipack = 0,
         sort = 958,
         sortr = "958",
         name1 = 1705098,
@@ -75506,6 +77855,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1991,
         sortr = "1991",
         name1 = 0,
@@ -75539,6 +77889,7 @@ return {
         unlock = {
             dunId = 279112,
         },
+        minipack = 0,
         sort = 1014,
         sortr = "1014",
         name1 = 1705099,
@@ -75570,6 +77921,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1752,
         sortr = "1752",
         name1 = 0,
@@ -75601,6 +77953,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 959,
         sortr = "959",
         name1 = 1705154,
@@ -75633,6 +77986,7 @@ return {
         unlock = {
             heroId = 110901,
         },
+        minipack = 0,
         sort = 1535,
         sortr = "1535",
         name1 = 0,
@@ -75664,6 +78018,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 1027,
         sortr = "1027",
         name1 = 0,
@@ -75695,6 +78050,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 360,
         sortr = "360",
         name1 = 0,
@@ -75726,6 +78082,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 961,
         sortr = "961",
         name1 = 1705169,
@@ -75757,6 +78114,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 441,
         sortr = "441",
         name1 = 0,
@@ -75788,6 +78146,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 963,
         sortr = "963",
         name1 = 1705280,
@@ -75821,6 +78180,7 @@ return {
             level = 30,
             heroId = 112401,
         },
+        minipack = 0,
         sort = 1721,
         sortr = "1721",
         name1 = 0,
@@ -75852,6 +78212,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 964,
         sortr = "964",
         name1 = 1705280,
@@ -75885,6 +78246,7 @@ return {
             favor = 300,
             roleId = 110,
         },
+        minipack = 0,
         sort = 1232,
         sortr = "1232",
         name1 = 0,
@@ -75917,6 +78279,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 965,
         sortr = "965",
         name1 = 1705280,
@@ -75948,6 +78311,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 361,
         sortr = "361",
         name1 = 0,
@@ -75979,6 +78343,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 966,
         sortr = "966",
         name1 = 1705280,
@@ -76012,6 +78377,7 @@ return {
             favor = 1000,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1407,
         sortr = "1407",
         name1 = 0,
@@ -76043,6 +78409,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 975,
         sortr = "975",
         name1 = 1705380,
@@ -76076,6 +78443,7 @@ return {
             favor = 300,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1406,
         sortr = "1406",
         name1 = 0,
@@ -76107,6 +78475,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 976,
         sortr = "976",
         name1 = 1705381,
@@ -76140,6 +78509,7 @@ return {
             favor = 300,
             roleId = 105,
         },
+        minipack = 0,
         sort = 1405,
         sortr = "1405",
         name1 = 0,
@@ -76171,6 +78541,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 977,
         sortr = "977",
         name1 = 1705382,
@@ -76204,6 +78575,7 @@ return {
             favor = 2500,
             roleId = 104,
         },
+        minipack = 0,
         sort = 1379,
         sortr = "1379",
         name1 = 0,
@@ -76235,6 +78607,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 978,
         sortr = "978",
         name1 = 1705383,
@@ -76266,6 +78639,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 537,
         sortr = "537",
         name1 = 1701833,
@@ -76301,6 +78675,7 @@ return {
                 [501031] = 1,
             },
         },
+        minipack = 0,
         sort = 979,
         sortr = "979",
         name1 = 1705384,
@@ -76332,6 +78707,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 120,
         sortr = "120",
         name1 = 0,
@@ -76364,6 +78740,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 980,
         sortr = "980",
         name1 = 1705385,
@@ -76395,6 +78772,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 229,
         sortr = "229",
         name1 = 0,
@@ -76426,6 +78804,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 981,
         sortr = "981",
         name1 = 1705386,
@@ -76457,6 +78836,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 329,
         sortr = "329",
         name1 = 0,
@@ -76488,6 +78868,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 982,
         sortr = "982",
         name1 = 1705387,
@@ -76521,6 +78902,7 @@ return {
             favor = 300,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1334,
         sortr = "1334",
         name1 = 0,
@@ -76552,6 +78934,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 983,
         sortr = "983",
         name1 = 1705388,
@@ -76585,6 +78968,7 @@ return {
             favor = 2500,
             roleId = 103,
         },
+        minipack = 0,
         sort = 1344,
         sortr = "1344",
         name1 = 0,
@@ -76619,6 +79003,7 @@ return {
                 [580321] = 1,
             },
         },
+        minipack = 0,
         sort = 947,
         sortr = "947",
         name1 = 1702188,
@@ -76650,6 +79035,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 247,
         sortr = "247",
         name1 = 0,
@@ -76681,6 +79067,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 962,
         sortr = "962",
         name1 = 1705397,
@@ -76712,6 +79099,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 121,
         sortr = "121",
         name1 = 0,
@@ -76747,6 +79135,7 @@ return {
                 [580322] = 1,
             },
         },
+        minipack = 0,
         sort = 985,
         sortr = "985",
         name1 = 1705401,
@@ -76781,6 +79170,7 @@ return {
                 [413102] = 1,
             },
         },
+        minipack = 0,
         sort = 1169,
         sortr = "1169",
         name1 = 0,
@@ -76815,6 +79205,7 @@ return {
                 [580323] = 1,
             },
         },
+        minipack = 0,
         sort = 984,
         sortr = "984",
         name1 = 1706001,
@@ -76846,6 +79237,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 122,
         sortr = "122",
         name1 = 0,
@@ -76881,6 +79273,7 @@ return {
                 [540375] = 1,
             },
         },
+        minipack = 0,
         sort = 986,
         sortr = "986",
         name1 = 1705406,
@@ -76912,6 +79305,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 239,
         sortr = "239",
         name1 = 0,
@@ -76946,6 +79340,7 @@ return {
                 [540376] = 1,
             },
         },
+        minipack = 0,
         sort = 987,
         sortr = "987",
         name1 = 1705407,
@@ -76977,6 +79372,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 123,
         sortr = "123",
         name1 = 0,
@@ -77009,6 +79405,7 @@ return {
         unlockType = 99,
         unlock = {
         },
+        minipack = 0,
         sort = 1015,
         sortr = "1015",
         name1 = 1706004,
@@ -77042,6 +79439,7 @@ return {
             favor = 2500,
             roleId = 125,
         },
+        minipack = 0,
         sort = 1672,
         sortr = "1672",
         name1 = 0,
@@ -77073,6 +79471,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 925,
         sortr = "925",
         name1 = 1706006,
@@ -77105,6 +79504,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 124,
         sortr = "124",
         name1 = 0,
@@ -77137,6 +79537,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 926,
         sortr = "926",
         name1 = 1706006,
@@ -77169,6 +79570,7 @@ return {
         unlockType = 0,
         unlock = {
         },
+        minipack = 0,
         sort = 104,
         sortr = "104",
         name1 = 0,

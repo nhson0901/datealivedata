@@ -61,6 +61,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -160,6 +161,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The song is... SSS level?!",
         game = 0,
         video = {
@@ -253,6 +255,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I quickly let go of her hand.",
         game = 0,
         video = {
@@ -346,6 +349,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So, Kaguya, have you decided where you want to go?",
         game = 0,
         video = {
@@ -440,6 +444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -533,6 +538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya and I wandered around the mall and found ourselves on the second floor.",
         game = 0,
         video = {
@@ -626,6 +632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow... that was a bit too much...",
         game = 0,
         video = {
@@ -719,6 +726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hehe, fate has already determined our destination! Dun dun dun——",
         game = 0,
         video = {
@@ -812,6 +820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya and I inserted tokens into the machine, and a story cutscene appeared on the screen.",
         game = 0,
         video = {
@@ -905,6 +914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? What's that noise?",
         game = 0,
         video = {
@@ -998,6 +1008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But I could still feel her warmth lingering on my fingertips...",
         game = 0,
         video = {
@@ -1091,6 +1102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya took a flyer out of her bag.",
         game = 0,
         video = {
@@ -1184,6 +1196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Players ventured into an ancient castle in the death of a mysterious forest. It probably ends with finding a treasure chest...",
         game = 0,
         video = {
@@ -1277,6 +1290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I think it's music... is someone singing?",
         game = 0,
         video = {
@@ -1370,6 +1384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's fine!",
         game = 0,
         video = {
@@ -1463,6 +1478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So there's a new arcade in the mall. And looks like they're running a sales promotion!",
         game = 0,
         video = {
@@ -1556,6 +1572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kukakaka! Two-player story mode? My kinsman, stick close behind me!",
         game = 0,
         video = {
@@ -1649,6 +1666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A crowd had gathered nearby. I led Kaguya over and realized——",
         game = 0,
         video = {
@@ -1742,6 +1760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -1835,6 +1854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "An epic battle on a brand new battlefield!",
         game = 0,
         video = {
@@ -1928,6 +1948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya confidently raised her gun, prepared to fire at a moment's notice.",
         game = 0,
         video = {
@@ -2021,6 +2042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -2114,6 +2136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Your guidance has caused a surge of inspiration within me! Please... continue your \"hands-on education\".",
         game = 0,
         video = {
@@ -2207,6 +2230,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, no problem. Let's head there now.",
         game = 0,
         video = {
@@ -2300,6 +2324,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ha... I'm counting on you to protect me, Kaguya.",
         game = 0,
         video = {
@@ -2393,6 +2418,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -2486,6 +2512,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Before she could say anything, her stomach rumbled.",
         game = 0,
         video = {
@@ -2579,6 +2606,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -2672,6 +2700,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We're in the forest. I hope nothing weird pops out at us...",
         game = 0,
         video = {
@@ -2766,6 +2795,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -2859,6 +2889,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh...you're right! But the defeat is too hard to swallow!",
         game = 0,
         video = {
@@ -2953,6 +2984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -3046,6 +3078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Before she could finish, a giant boulder suddenly appeared on screen and began rolling towards us.",
         game = 0,
         video = {
@@ -3139,6 +3172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's a dance machine! So they've opened a new arcade here!",
         game = 0,
         video = {
@@ -3232,6 +3266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's okay, you can continue the challenge next time.",
         game = 0,
         video = {
@@ -3325,6 +3360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I-it's crowded! They have so many machines here!",
         game = 0,
         video = {
@@ -3424,6 +3460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's huge! What shall we do?",
         game = 0,
         video = {
@@ -3517,6 +3554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Young students busted some moves on the dance machines, drawing a crowd of onlookers.",
         game = 0,
         video = {
@@ -3610,6 +3648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Next time... can we come back here for another date?",
         game = 0,
         video = {
@@ -3703,6 +3742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yep. They did just open, so they gave out a lot of free tokens.",
         game = 0,
         video = {
@@ -3798,6 +3838,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dodge out of the way!",
         game = 0,
         video = {
@@ -3894,6 +3935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Looks like fun! Can I play?",
         game = 0,
         video = {
@@ -3987,6 +4029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You... wish to reject me?",
         game = 0,
         video = {
@@ -4080,6 +4123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I bought some tokens at the front desk, but Kaguya simply stood still without moving an inch.",
         game = 0,
         video = {
@@ -4173,6 +4217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course! I'll go buy some game tokens.",
         game = 0,
         video = {
@@ -4269,6 +4314,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Challenge the giant doll machine",
         game = 0,
         video = {
@@ -4365,6 +4411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Move a bit forward",
         game = 0,
         video = {
@@ -4458,6 +4505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course not! I'll guide you...",
         game = 0,
         video = {
@@ -4551,6 +4599,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "An unknown realm... the brave warriors must be careful if they are to achieve victory!",
         game = 0,
         video = {
@@ -4644,6 +4693,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "OK, time to step up!",
         game = 0,
         video = {
@@ -4738,6 +4788,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -4831,6 +4882,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wait!",
         game = 0,
         video = {
@@ -4924,6 +4976,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then let us begin!",
         game = 0,
         video = {
@@ -5017,6 +5070,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uhh... have you decided which machine to try out first?",
         game = 0,
         video = {
@@ -5110,6 +5164,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "At the arcade entrance stood a giant crane machine with giant toys inside.",
         game = 0,
         video = {
@@ -5203,6 +5258,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What is it, %s?",
         game = 0,
         video = {
@@ -5296,6 +5352,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thought it was somewhat embarrassing, at Kaguya's request I placed my hand over hers once more.",
         game = 0,
         video = {
@@ -5389,6 +5446,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh... hmm...",
         game = 0,
         video = {
@@ -5482,6 +5540,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The dolls are huge! And they're all soft and fuzzy! I want one!",
         game = 0,
         video = {
@@ -5575,6 +5634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I looked from the side. Sure enough, the aim was off.",
         game = 0,
         video = {
@@ -5668,6 +5728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just like that, time began to fly by...",
         game = 0,
         video = {
@@ -5761,6 +5822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya blushed, completely at a loss.",
         game = 0,
         video = {
@@ -5855,6 +5917,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Give it a try, then?",
         game = 0,
         video = {
@@ -5949,6 +6012,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dodge to the right",
         game = 0,
         video = {
@@ -6042,6 +6106,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya, move forward a little bit, then press the button!",
         game = 0,
         video = {
@@ -6135,6 +6200,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ahhh... this really is difficult!",
         game = 0,
         video = {
@@ -6228,6 +6294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I want to bring all of them home with me...",
         game = 0,
         video = {
@@ -6321,6 +6388,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I randomly tap the joystick, and walked to the right side of the forked path.",
         game = 0,
         video = {
@@ -6414,6 +6482,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood!",
         game = 0,
         video = {
@@ -6507,6 +6576,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We spent all of our tokens...",
         game = 0,
         video = {
@@ -6600,6 +6670,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Looks like you really like them, Kaguya.",
         game = 0,
         video = {
@@ -6693,6 +6764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya responded by pressing the button without hesitation. Sure enough, the claw firmly grabbed the dolphin and dropped it into the opening.",
         game = 0,
         video = {
@@ -6786,6 +6858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I had a feeling that Kaguya had already mastered the technique. Could she be failing on purpose...?",
         game = 0,
         video = {
@@ -6879,6 +6952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah! As the man worthy of the Hurricane Child, please lend me your strength!",
         game = 0,
         video = {
@@ -6973,6 +7047,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -7066,6 +7141,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But I feel very satisfied!",
         game = 0,
         video = {
@@ -7159,6 +7235,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Quite a confident way to phrase it...",
         game = 0,
         video = {
@@ -7252,6 +7329,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dolphin... it's a dolphin! So adorable!",
         game = 0,
         video = {
@@ -7345,6 +7423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Satisfied?",
         game = 0,
         video = {
@@ -7438,6 +7517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But, I guess that is how Kaguya talks.",
         game = 0,
         video = {
@@ -7531,6 +7611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So big! So soft!",
         game = 0,
         video = {
@@ -7624,6 +7705,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I...I mean... satisfied to be learning the special technique!",
         game = 0,
         video = {
@@ -7717,6 +7799,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes, let's do it. I'll help you watch for the right moment.",
         game = 0,
         video = {
@@ -7810,6 +7893,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, your control was spot on, so you got it on the first try!",
         game = 0,
         video = {
@@ -7903,6 +7987,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I hereby appoint you Official Tutor to the Hurricane Child. Please continue your hard work!",
         game = 0,
         video = {
@@ -7996,6 +8081,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I inserted a token, and Kaguya moved the joystick with great care...",
         game = 0,
         video = {
@@ -8095,6 +8181,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Woah——!! Another miss!",
         game = 0,
         video = {
@@ -8188,6 +8275,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay!",
         game = 0,
         video = {
@@ -8281,6 +8369,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, take a look, is this... the right spot?",
         game = 0,
         video = {
@@ -8374,6 +8463,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Too many misses! If this keeps up I won't even get an A rating. Oh no...",
         game = 0,
         video = {
@@ -8468,6 +8558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't panic, just master the technique!",
         game = 0,
         video = {
@@ -8561,6 +8652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Looks like it... it's right on top of the dolphin.",
         game = 0,
         video = {
@@ -8654,6 +8746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Looking at Kaguya's panicked expression...",
         game = 0,
         video = {
@@ -8748,6 +8841,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What? I have no idea...?",
         game = 0,
         video = {
@@ -8841,6 +8935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But something didn't feel quite right...",
         game = 0,
         video = {
@@ -8934,6 +9029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Are you happy, Kaguya?",
         game = 0,
         video = {
@@ -9027,6 +9123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya, balance on your left foot, the movements there are not too complicated!",
         game = 0,
         video = {
@@ -9122,6 +9219,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Can I press the button?",
         game = 0,
         video = {
@@ -9219,6 +9317,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How about we play something exciting?",
         game = 0,
         video = {
@@ -9312,6 +9411,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes...even though I didn't get SSS, I now have a target to challenge! It feels good to work up a sweat...",
         game = 0,
         video = {
@@ -9405,6 +9505,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ohh... okay...",
         game = 0,
         video = {
@@ -9499,6 +9600,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dancing game",
         game = 0,
         video = {
@@ -9593,6 +9695,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A hard song on the popularity chart",
         game = 0,
         video = {
@@ -9686,6 +9789,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's right, you have to play a game that really gets your heart racing in the arcade! What do you recommend, %s?",
         game = 0,
         video = {
@@ -9779,6 +9883,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, as long as you're happy. That's the point of a date!",
         game = 0,
         video = {
@@ -9872,6 +9977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then focus on the movements of your right foot, and step on the petal based on the rhythm.",
         game = 0,
         video = {
@@ -9965,6 +10071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew... a fateful decision, indeed.",
         game = 0,
         video = {
@@ -10058,6 +10165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The #1 song in popularity shouldn't be too hard... I bet Kaguya can finish it.",
         game = 0,
         video = {
@@ -10151,6 +10259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just like this...",
         game = 0,
         video = {
@@ -10244,6 +10353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You're right. Shall we challenge together?",
         game = 0,
         video = {
@@ -10337,6 +10447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Woah! I think it's working!",
         game = 0,
         video = {
@@ -10430,6 +10541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's wrong? You don't like it?",
         game = 0,
         video = {
@@ -10529,6 +10641,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Difficulty level: SSS?!",
         game = 0,
         video = {
@@ -10622,6 +10735,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "My great skills will lead to success anywhere. You can decide it for me.",
         game = 0,
         video = {
@@ -10715,6 +10829,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -10808,6 +10923,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya's right foot flew back and forth over the board. Combo number went higher, and her score started to rise quickly.",
         game = 0,
         video = {
@@ -10901,6 +11017,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's nothing. Yuzuru and I agreed to compete in this aspect, but the match has yet to take place. I never expected to experience it with %s first.",
         game = 0,
         video = {
@@ -10994,6 +11111,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course. Pretty awesome, huh?",
         game = 0,
         video = {
@@ -11087,6 +11205,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So confident? Then I choose...",
         game = 0,
         video = {
@@ -11181,6 +11300,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hoho, hard tracks are nothing, the Queen of Wind is coming!",
         game = 0,
         video = {
@@ -11280,6 +11400,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Victory! Yay——",
         game = 0,
         video = {
@@ -11373,6 +11494,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see. You can get a feel for it today, and bring Yuzuru next time!",
         game = 0,
         video = {
@@ -11466,6 +11588,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Something didn't feel quite right, but seeing Kaguya battle alone...",
         game = 0,
         video = {
@@ -11559,6 +11682,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh...",
         game = 0,
         video = {
@@ -11652,6 +11776,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -11745,6 +11870,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The song ended, and Kaguya jumped in excitement. But she tripped as she walked up to me.",
         game = 0,
         video = {
@@ -11838,6 +11964,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah! %s, come be my training partner.",
         game = 0,
         video = {
@@ -11931,6 +12058,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Which one do you want, Kaguya?",
         game = 0,
         video = {
@@ -12030,6 +12158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wait!",
         game = 0,
         video = {
@@ -12123,6 +12252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -12216,6 +12346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Once I master the special technique, my victory over Yuzuru will be guaranteed. Hehehe...",
         game = 0,
         video = {
@@ -12309,6 +12440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then... this one is the closest...",
         game = 0,
         video = {
@@ -12402,6 +12534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya suddenly grabbed my hand and excitedly returned to the dance machine.",
         game = 0,
         video = {
@@ -12501,6 +12634,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Careful——!",
         game = 0,
         video = {
@@ -12594,6 +12728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Such a scary obsession with victory... No problem, let's dance together.",
         game = 0,
         video = {
@@ -12687,6 +12822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No problem. Just like this... now press the button!",
         game = 0,
         video = {
@@ -12780,6 +12916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thus, Kaguya fell right into my arms.",
         game = 0,
         video = {
@@ -12873,6 +13010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya and I jumped onto the dance machine together.",
         game = 0,
         video = {
@@ -12966,6 +13104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I reached out and pressed the button with my other hand.",
         game = 0,
         video = {
@@ -13059,6 +13198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "My right foot...I think it's a cramp! It's so sore...",
         game = 0,
         video = {
@@ -13154,6 +13294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is timer close to 0? Choose a song, hurry!",
         game = 0,
         video = {
@@ -13250,6 +13391,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Look, we did it! Why... aren't you saying anything?",
         game = 0,
         video = {
@@ -13343,6 +13485,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You must have been going a little too hard...",
         game = 0,
         video = {
@@ -13437,6 +13580,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -13530,6 +13674,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It wasn't until after smoothly carrying out this whole process that I realized I had pulled Kaguya into my arms!",
         game = 0,
         video = {
@@ -13626,6 +13771,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Challenge the small pendant machine",
         game = 0,
         video = {
@@ -13722,6 +13868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yep, do it now!",
         game = 0,
         video = {
@@ -13815,6 +13962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Our bodies were so close that I could clearly see Kaguya's ears turned red...",
         game = 0,
         video = {
@@ -13909,6 +14057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -14002,6 +14151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Come into my embrace, little dolphin!",
         game = 0,
         video = {
@@ -14096,6 +14246,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -14189,6 +14340,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya responded by pressing the button without hesitation.",
         game = 0,
         video = {
@@ -14282,6 +14434,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This is a mini crane machine with mini toys inside. Since most of the toys are cute pendants, lots of children are gathered around.",
         game = 0,
         video = {
@@ -14375,6 +14528,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The mechanical claw brushed by the dolphin doll, only causing it to roll over.",
         game = 0,
         video = {
@@ -14468,6 +14622,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "If children like it so much, it shouldn't be too difficult.",
         game = 0,
         video = {
@@ -14561,6 +14716,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? How can that be?! I have aimed at the target!",
         game = 0,
         video = {
@@ -14655,6 +14811,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya danced so elegantly",
         game = 0,
         video = {
@@ -14748,6 +14905,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The pendants are so cute!",
         game = 0,
         video = {
@@ -14841,6 +14999,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It seems... the claw is angled a little bit to the back...",
         game = 0,
         video = {
@@ -14934,6 +15093,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Really? Elegant...?",
         game = 0,
         video = {
@@ -15027,6 +15187,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya pressed herself up against the glass wide-eyed. She seemed to really like them.",
         game = 0,
         video = {
@@ -15120,6 +15281,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It appeared to be aligned looking from the front, but looking from aside I could see it was a little off.",
         game = 0,
         video = {
@@ -15213,6 +15375,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course! Elegant and cool, you drew quite the crowd...",
         game = 0,
         video = {
@@ -15306,6 +15469,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Can I try it?",
         game = 0,
         video = {
@@ -15399,6 +15563,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Truly a worthy challenge! The Queen of Wind will not admit defeat so easily!",
         game = 0,
         video = {
@@ -15492,6 +15657,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As expected, my kinsman... Were you drawn to my awesomeness as well?",
         game = 0,
         video = {
@@ -15585,6 +15751,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course!",
         game = 0,
         video = {
@@ -15678,6 +15845,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then challenge it again!",
         game = 0,
         video = {
@@ -15771,6 +15939,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...you could put it that way.",
         game = 0,
         video = {
@@ -15864,6 +16033,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I inserted a token into the machine. Kaguya stared at the little claw with intent.",
         game = 0,
         video = {
@@ -15957,6 +16127,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But somehow Kaguya always fell just short of victory. Just like that, we spent all of the game tokens.",
         game = 0,
         video = {
@@ -16050,6 +16221,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then let's dance together! Two player mode, activated!",
         game = 0,
         video = {
@@ -16143,6 +16315,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Now!",
         game = 0,
         video = {
@@ -16236,6 +16409,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya...",
         game = 0,
         video = {
@@ -16330,6 +16504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = " ",
         game = 0,
         video = {
@@ -16423,6 +16598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -16516,6 +16692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya confidently pressed the button.",
         game = 0,
         video = {
@@ -16609,6 +16786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I messed it up today, I couldn't get a doll for Kaguya. I hope she isn't too disappointed...",
         game = 0,
         video = {
@@ -16702,6 +16880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm sorry I kept you waiting!",
         game = 0,
         video = {
@@ -16795,6 +16974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya suddenly grabbed my hand and pulled me onto the dance machine.",
         game = 0,
         video = {
@@ -16888,6 +17068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The claw grabbed a bear pendant with precision, and then... shaking and swaying, it finally reached the opening.",
         game = 0,
         video = {
@@ -16981,6 +17162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kukakaka! The arcade is a worthy battlefield after all!",
         game = 0,
         video = {
@@ -17074,6 +17256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's fine, I got hear early...Huh? Did you dress up especially for today, Kaguya?",
         game = 0,
         video = {
@@ -17167,6 +17350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't worry, just allow the Dancing Queen to lead you to victory!",
         game = 0,
         video = {
@@ -17260,6 +17444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We did it!",
         game = 0,
         video = {
@@ -17353,6 +17538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?",
         game = 0,
         video = {
@@ -17447,6 +17633,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll help you sit down",
         game = 0,
         video = {
@@ -17540,6 +17727,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh...",
         game = 0,
         video = {
@@ -17633,6 +17821,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya held the pendant and grabbed my shoulder with excitement.",
         game = 0,
         video = {
@@ -17726,6 +17915,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I am very satisfied today, %s! Let us continue the challenge next time!",
         game = 0,
         video = {
@@ -17825,6 +18015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yaa...!",
         game = 0,
         video = {
@@ -17918,6 +18109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Because she had just been exercising, Kaguya's palm was very warm. My heart suddenly started to race...",
         game = 0,
         video = {
@@ -18011,6 +18203,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha, I knew you could do it, Kaguya!",
         game = 0,
         video = {
@@ -18105,6 +18298,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "How about we start with an easy game?",
         game = 0,
         video = {
@@ -18198,6 +18392,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "She took one step, and collapsed into my arms.",
         game = 0,
         video = {
@@ -18294,6 +18489,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The claw is too loose, after all...",
         game = 0,
         video = {
@@ -18388,6 +18584,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Recommended song",
         game = 0,
         video = {
@@ -18481,6 +18678,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kukuku. Bow down at the feet of the Queen of Wind!",
         game = 0,
         video = {
@@ -18574,6 +18772,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah, that's the spirit! From easy to hard, one step at a time, we shall conquer this realm!",
         game = 0,
         video = {
@@ -18667,6 +18866,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uhh...sorry, I don't think I can walk now...",
         game = 0,
         video = {
@@ -18760,6 +18960,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I knew there was something wrong with the machine! Sneaky merchant!",
         game = 0,
         video = {
@@ -18856,6 +19057,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You just need some practice, give it a try.",
         game = 0,
         video = {
@@ -18949,6 +19151,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So... isn't it pretty easy?",
         game = 0,
         video = {
@@ -19042,6 +19245,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Um...",
         game = 0,
         video = {
@@ -19135,6 +19339,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -19228,6 +19433,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya blushed in embarrassment.",
         game = 0,
         video = {
@@ -19321,6 +19527,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As Kaguya scolded the machine, we heard loud cheering from the crowd.",
         game = 0,
         video = {
@@ -19414,6 +19621,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hoho! Bring it on! I will master the technique!",
         game = 0,
         video = {
@@ -19507,6 +19715,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya started dancing with confidence, and it was infectious...",
         game = 0,
         video = {
@@ -19600,6 +19809,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh right, a gift for you.",
         game = 0,
         video = {
@@ -19696,6 +19906,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -19789,6 +20000,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Did the Demon Machine put a spell on me to stop my victory?",
         game = 0,
         video = {
@@ -19882,6 +20094,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's the matter?",
         game = 0,
         video = {
@@ -19975,6 +20188,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya aggressively took the tokens out of my hand and kept inserting them into the machine.",
         game = 0,
         video = {
@@ -20068,6 +20282,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "One colorful arrow after another popped up, as Kaguya awkwardly felt for the buttons at her feet.",
         game = 0,
         video = {
@@ -20161,6 +20376,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya placed the bear pendant she just received into the palm of my hand.",
         game = 0,
         video = {
@@ -20254,6 +20470,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya and I walked up to the crane machine.",
         game = 0,
         video = {
@@ -20347,6 +20564,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't think too much. Your muscles are just stiff from over-exercising. I'll see to it!",
         game = 0,
         video = {
@@ -20440,6 +20658,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah... Something's going down in Zone B. A crowd must have gathered around an expert gamer.",
         game = 0,
         video = {
@@ -20533,6 +20752,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After a few failed attempts, she grew even more motivated.",
         game = 0,
         video = {
@@ -20626,6 +20846,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's going on? It seems my body is cursed! I can't step on any of them!",
         game = 0,
         video = {
@@ -20719,6 +20940,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? For me?",
         game = 0,
         video = {
@@ -20812,6 +21034,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll get one for you first.",
         game = 0,
         video = {
@@ -20905,6 +21128,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I keeled down and picked up Kaguya.",
         game = 0,
         video = {
@@ -20998,6 +21222,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Zone B? Why would a crowd gather there?",
         game = 0,
         video = {
@@ -21091,6 +21316,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Swing it back and forth... Ah! I think I just had an epiphany!",
         game = 0,
         video = {
@@ -21184,6 +21410,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Actually, all you have to do is step on the corresponding button. Pay attention to the rhythm, it's more important than the music!",
         game = 0,
         video = {
@@ -21277,6 +21504,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah! Didn't you really want that teddy bear? Unfortunately the machines have been cursed, so I can only give you this small bear pendant instead.",
         game = 0,
         video = {
@@ -21370,6 +21598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The Chosen One, it is time to demonstrate your skills!",
         game = 0,
         video = {
@@ -21463,6 +21692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -21556,6 +21786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The fighting games and shooters are the favorites and they are in Zone B. Dance games could also draw a crowd...",
         game = 0,
         video = {
@@ -21649,6 +21880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is that so?",
         game = 0,
         video = {
@@ -21742,6 +21974,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Got it!",
         game = 0,
         video = {
@@ -21835,6 +22068,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So that's what you were worried about...",
         game = 0,
         video = {
@@ -21928,6 +22162,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, you can do it!",
         game = 0,
         video = {
@@ -22021,6 +22256,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You...you did not receive the Queen's permission! Not even my kinsman may do this...",
         game = 0,
         video = {
@@ -22114,6 +22350,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After a lengthy analysis, I decided to take Kaguya over to check it out.",
         game = 0,
         video = {
@@ -22207,6 +22444,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The compass of destiny hereby declares, the Queen of Wind shall defeat the curse of this land!",
         game = 0,
         video = {
@@ -22300,6 +22538,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya quickly mastered the rhythm and began to move with ease.",
         game = 0,
         video = {
@@ -22393,6 +22632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After our multiple failures, Kaguya mistakenly thought that I really wanted that teddy bear.",
         game = 0,
         video = {
@@ -22486,6 +22726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "OK...",
         game = 0,
         video = {
@@ -22579,6 +22820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But Kaguya has to sit down and rest. Sorry, I'll let you go!",
         game = 0,
         video = {
@@ -22672,6 +22914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Let's check it out! That's the busiest area!",
         game = 0,
         video = {
@@ -22765,6 +23008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya confidently pressed the button, and a bunny doll fell securely into the opening.",
         game = 0,
         video = {
@@ -22858,6 +23102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A crowd started to gather. As she grooved to the music, the screen began to fill up with more \"perfect\".",
         game = 0,
         video = {
@@ -22951,6 +23196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Anyway, anything that you like, I will deliver to you!",
         game = 0,
         video = {
@@ -23044,6 +23290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I felt nervous under Kaguya's eager gaze...",
         game = 0,
         video = {
@@ -23137,6 +23384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya blushed as she was about to accuse me, but buried her head instead.",
         game = 0,
         video = {
@@ -23230,6 +23478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -23323,6 +23572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You got it! Amazing!",
         game = 0,
         video = {
@@ -23416,6 +23666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "My final score is S! How is that?",
         game = 0,
         video = {
@@ -23509,6 +23760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya stood akimbo confidently, her face red hot. Apparently she was waiting for my praise.",
         game = 0,
         video = {
@@ -23602,6 +23854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "3……2……1!",
         game = 0,
         video = {
@@ -23695,6 +23948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -23789,6 +24043,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -23882,6 +24137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sure enough, practice makes perfect!",
         game = 0,
         video = {
@@ -23975,6 +24231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A light sweat had formed on Kaguya's forehead, but she seemed to be in a great mood...",
         game = 0,
         video = {
@@ -24069,6 +24326,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thank you, Kaguya. You really are the Hurricane Child!",
         game = 0,
         video = {
@@ -24163,6 +24421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ahh... such a shame...",
         game = 0,
         video = {
@@ -24257,6 +24516,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -24350,6 +24610,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wow...there're so many people! Everyone seems so into it, I can't wait to give it a try.",
         game = 0,
         video = {
@@ -24443,6 +24704,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hehe, bunny doll, isn't it cute?",
         game = 0,
         video = {
@@ -24536,6 +24798,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya looked at the remaining tokens in her hand perplexed.",
         game = 0,
         video = {
@@ -24629,6 +24892,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The teddy bear was picked up by the claw, but fell out just before reaching the opening.",
         game = 0,
         video = {
@@ -24722,6 +24986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I quickly walked to a chair and placed Kaguya down.",
         game = 0,
         video = {
@@ -24815,6 +25080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then... dance game or shooter, which do you want to play?",
         game = 0,
         video = {
@@ -24908,6 +25174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah... you finally won, Kaguya.",
         game = 0,
         video = {
@@ -25001,6 +25268,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We'll play together next time.",
         game = 0,
         video = {
@@ -25094,6 +25362,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So close... this is a little difficult. Wanna give it a go, Kaguya?",
         game = 0,
         video = {
@@ -25187,6 +25456,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Th...anks...",
         game = 0,
         video = {
@@ -25281,6 +25551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I will cherish this present, for Kaguya had put so much effort into it",
         game = 0,
         video = {
@@ -25374,6 +25645,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya caressed the doll's ears, as if saying something to it.",
         game = 0,
         video = {
@@ -25467,6 +25739,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Next time...? Can we?",
         game = 0,
         video = {
@@ -25561,6 +25834,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll save you",
         game = 0,
         video = {
@@ -25654,6 +25928,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hoho, leave it to me!",
         game = 0,
         video = {
@@ -25747,6 +26022,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's okay. Let us take a break here.",
         game = 0,
         video = {
@@ -25840,6 +26116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Too bad we couldn't get the teddy bear that you wanted, %s.",
         game = 0,
         video = {
@@ -25933,6 +26210,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I will find companions for you! Tell me, who do you wish to save?",
         game = 0,
         video = {
@@ -26026,6 +26304,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah! We shall return here on our next date together!",
         game = 0,
         video = {
@@ -26119,6 +26398,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The treasure lies right before my eyes, but I decided to charge into the horde of monsters.",
         game = 0,
         video = {
@@ -26212,6 +26492,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya took over and turned on the machine eagerly.",
         game = 0,
         video = {
@@ -26305,6 +26586,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I never expected the dance machine to be such a worthy challenge!",
         game = 0,
         video = {
@@ -26398,6 +26680,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm content with this.",
         game = 0,
         video = {
@@ -26491,6 +26774,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Obviously, dolls can't talk...",
         game = 0,
         video = {
@@ -26584,6 +26868,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Our next date... deal!",
         game = 0,
         video = {
@@ -26677,6 +26962,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya, leave here! Go into the next room and open the final treasure chest!",
         game = 0,
         video = {
@@ -26770,6 +27056,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I... failed?",
         game = 0,
         video = {
@@ -26863,6 +27150,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I am very satisfied today, %s! Let us continue the challenge next time!",
         game = 0,
         video = {
@@ -26956,6 +27244,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hmph, there is nothing that the Hurricane Child cannot do! I shall challenge the cursed machine once more!",
         game = 0,
         video = {
@@ -27049,6 +27338,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So you want to continue the challenge, Kaguya?",
         game = 0,
         video = {
@@ -27142,6 +27432,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I knew I should have invited Yuzuru along...!",
         game = 0,
         video = {
@@ -27235,6 +27526,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What?! You want to sacrifice your life for me?",
         game = 0,
         video = {
@@ -27328,6 +27620,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Maybe... it will work if you move slightly to the left...",
         game = 0,
         video = {
@@ -27421,6 +27714,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sure! It's a deal!",
         game = 0,
         video = {
@@ -27514,6 +27808,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? You mean...?",
         game = 0,
         video = {
@@ -27607,6 +27902,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I sense a new power flowing through my veins. I shall rescue all of the dolls in this machine!",
         game = 0,
         video = {
@@ -27706,6 +28002,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No! What I mean is, I may not be used to it, but I can't wait.",
         game = 0,
         video = {
@@ -27799,6 +28096,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "There's no other way, go! I'll cover you.",
         game = 0,
         video = {
@@ -27892,6 +28190,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You're right. The Hurricane Child will not be defeated so easily.",
         game = 0,
         video = {
@@ -27991,6 +28290,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I randomly tap the joystick, and walked to the left side of the forked path.",
         game = 0,
         video = {
@@ -28084,6 +28384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Teddy bear, come to me!",
         game = 0,
         video = {
@@ -28177,6 +28478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Y-you have to focus if you want to learn the special technique...",
         game = 0,
         video = {
@@ -28270,6 +28572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Can't wait?",
         game = 0,
         video = {
@@ -28363,6 +28666,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This can't be... the only real victory is getting the win along with %s!",
         game = 0,
         video = {
@@ -28456,6 +28760,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya inserted another token and began her second challenge with excitement.",
         game = 0,
         video = {
@@ -28549,6 +28854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Before I could heave a sigh of relief, hell broke loose on the screen.",
         game = 0,
         video = {
@@ -28642,6 +28948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Looks like Kaguya is burning with fighting spirit...",
         game = 0,
         video = {
@@ -28735,6 +29042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya's eyes sparkled with light. She didn't seem to be joking...",
         game = 0,
         video = {
@@ -28828,6 +29136,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah, I don't get many chances to go on a date with Kaguya alone.",
         game = 0,
         video = {
@@ -28921,6 +29230,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? But...",
         game = 0,
         video = {
@@ -29014,6 +29324,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A little to the left... now!",
         game = 0,
         video = {
@@ -29113,6 +29424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What... happened?",
         game = 0,
         video = {
@@ -29206,6 +29518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "And so we returned to the first machine.",
         game = 0,
         video = {
@@ -29299,6 +29612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It will be difficult... to get all of them...",
         game = 0,
         video = {
@@ -29392,6 +29706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I...I see...",
         game = 0,
         video = {
@@ -29485,6 +29800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya turned back, raised her gun and sprayed bullets into the horde of monsters.",
         game = 0,
         video = {
@@ -29578,6 +29894,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah.. another failure?! What's going on?",
         game = 0,
         video = {
@@ -29677,6 +29994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's... a spider monster! Hurry, shoot it!",
         game = 0,
         video = {
@@ -29770,6 +30088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why don't we work together?",
         game = 0,
         video = {
@@ -29863,6 +30182,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ahhh, the power within is awakening beyond control! %s, insert the token.",
         game = 0,
         video = {
@@ -29956,6 +30276,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So, is there anywhere you want to go, Kaguya?",
         game = 0,
         video = {
@@ -30049,6 +30370,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Surprisingly, this time Kaguya barely missed a single shot. A god tier performance.",
         game = 0,
         video = {
@@ -30142,6 +30464,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wanna try again?",
         game = 0,
         video = {
@@ -30235,6 +30558,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A giant spider monster charged towards us.",
         game = 0,
         video = {
@@ -30328,6 +30652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Is that possible?",
         game = 0,
         video = {
@@ -30421,6 +30746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh... okay.",
         game = 0,
         video = {
@@ -30514,6 +30840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh...uhh...I didn't bring a guidebook today, and I don't know where to go.",
         game = 0,
         video = {
@@ -30608,6 +30935,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A-Amazing...",
         game = 0,
         video = {
@@ -30701,6 +31029,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Inconceivable. There must be some special curse on this machine!",
         game = 0,
         video = {
@@ -30794,6 +31123,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Woah! So many legs, gross! The Hurricane Child shall punish you!",
         game = 0,
         video = {
@@ -30887,6 +31217,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah. I heard that if you shake the claw, you can take advantage of inertia to swing it to the opening!",
         game = 0,
         video = {
@@ -30980,6 +31311,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I secretly peeked at Kaguya while she wasn't paying attention. She had already launched a renewed attack on the machine.",
         game = 0,
         video = {
@@ -31073,6 +31405,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What are you gaping at?! Let's charge out!",
         game = 0,
         video = {
@@ -31166,6 +31499,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I shall lift this curse——",
         game = 0,
         video = {
@@ -31259,6 +31593,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya and I raised our guns and fired an endless stream of bullets.",
         game = 0,
         video = {
@@ -31352,6 +31687,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just like this...",
         game = 0,
         video = {
@@ -31445,6 +31781,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The compass of destiny hereby declares, the Queen of Wind shall defeat the curse of this land!",
         game = 0,
         video = {
@@ -31538,6 +31875,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh!",
         game = 0,
         video = {
@@ -31631,6 +31969,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The result is still...",
         game = 0,
         video = {
@@ -31724,6 +32063,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh no... It's too difficult to take aim... Is this to be where I am buried?",
         game = 0,
         video = {
@@ -31817,6 +32157,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I put my hand over Kaguya's, then we moved the joystick together.",
         game = 0,
         video = {
@@ -31910,6 +32251,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Keep it up!",
         game = 0,
         video = {
@@ -32003,6 +32345,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just like that, Kaguya and I broke free from the attacks and cleared the stage.",
         game = 0,
         video = {
@@ -32097,6 +32440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll massage your legs",
         game = 0,
         video = {
@@ -32190,6 +32534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya began to panic as the monster drew closer.",
         game = 0,
         video = {
@@ -32284,6 +32629,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just give it a little shake, don't use too much force.",
         game = 0,
         video = {
@@ -32377,6 +32723,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Finally, after mastering the skill, a bunny doll fell securely into the opening.",
         game = 0,
         video = {
@@ -32471,6 +32818,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -32564,6 +32912,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thanks.",
         game = 0,
         video = {
@@ -32657,6 +33006,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh...",
         game = 0,
         video = {
@@ -32750,6 +33100,7 @@ return {
         endType = 5,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya had quickly turned into a \"Crane Game Expert.\" I could hardly believe it...",
         game = 0,
         video = {
@@ -32842,6 +33193,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We did it!",
         game = 0,
         video = {
@@ -32935,6 +33287,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I kneeled down and gently rubbed Kaguya's calves.",
         game = 0,
         video = {
@@ -33031,6 +33384,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't worry, it takes time to master this game.",
         game = 0,
         video = {
@@ -33124,6 +33478,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Which one do you want, Kaguya?",
         game = 0,
         video = {
@@ -33217,6 +33572,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "All thanks to you, Kaguya. You suddenly became a super sharpshooter.",
         game = 0,
         video = {
@@ -33313,6 +33669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Put your hand over Kaguya's and do it together",
         game = 0,
         video = {
@@ -33406,6 +33763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, have you mastered some sort of special technique for playing crane game?!",
         game = 0,
         video = {
@@ -33502,6 +33860,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Time's up",
         game = 0,
         video = {
@@ -33595,6 +33954,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I couldn't bear to think of %s sacrificing yourself! I suddenly felt power coursing within me!",
         game = 0,
         video = {
@@ -33688,6 +34048,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Does that... feel better?",
         game = 0,
         video = {
@@ -33781,6 +34142,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's nothing special... but there are some tricks to it.",
         game = 0,
         video = {
@@ -33874,6 +34236,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No problem. Just like this... now press the button!",
         game = 0,
         video = {
@@ -33967,6 +34330,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya confidently raised her gun, like a hero who saved the world.",
         game = 0,
         video = {
@@ -34060,6 +34424,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ow...!",
         game = 0,
         video = {
@@ -34153,6 +34518,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So you were holding out on me... Speak now, %s, and I will forgive your transgression.",
         game = 0,
         video = {
@@ -34246,6 +34612,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I reached out and pressed the button with my other hand.",
         game = 0,
         video = {
@@ -34339,6 +34706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What do you think of my skills?",
         game = 0,
         video = {
@@ -34432,6 +34800,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, sorry!",
         game = 0,
         video = {
@@ -34525,6 +34894,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "From what I've heard, dolls that are lying down have a steady center of gravity and are easier to pick up!",
         game = 0,
         video = {
@@ -34618,6 +34988,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Look, we did it! Why... aren't you saying anything?",
         game = 0,
         video = {
@@ -34711,6 +35082,7 @@ return {
         endType = 2,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya, you're...so cool.",
         game = 0,
         video = {
@@ -34803,6 +35175,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Startled, I quickly released my grip.",
         game = 0,
         video = {
@@ -34897,6 +35270,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Time's up",
         game = 0,
         video = {
@@ -34990,6 +35364,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see! No wonder I couldn't get it...",
         game = 0,
         video = {
@@ -35083,6 +35458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -35176,6 +35552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? Strange! The pain is totally gone! You're amazing, %s!",
         game = 0,
         video = {
@@ -35275,6 +35652,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't just stand still!",
         game = 0,
         video = {
@@ -35368,6 +35746,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Besides, it will be a lot easier if you pick a doll without slippery surface and is close to the opening.",
         game = 0,
         video = {
@@ -35461,6 +35840,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It wasn't until after smoothly carrying out this whole process that I realized I had pulled Kaguya into my arms!",
         game = 0,
         video = {
@@ -35554,6 +35934,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya bounced up and down as she spoke, while looking at me with delight.",
         game = 0,
         video = {
@@ -35647,6 +36028,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya hurriedly pushed the joystick, avoiding the disaster.",
         game = 0,
         video = {
@@ -35740,6 +36122,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Finally, you can swing the claw back and forth and press the button once it sways back to take advantage of inertia to drop the doll into the hole.",
         game = 0,
         video = {
@@ -35833,6 +36216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Our bodies were so close that I could clearly see Kaguya's ears turned red...",
         game = 0,
         video = {
@@ -35926,6 +36310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "S, don't try too hard, or your muscles will get too stiff and cramp like this...",
         game = 0,
         video = {
@@ -36019,6 +36404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Before I could take a sigh of relief, the screen started to violently shake as a pack of monsters crawled out of the ground.",
         game = 0,
         video = {
@@ -36112,6 +36498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Swing it back and forth...",
         game = 0,
         video = {
@@ -36211,6 +36598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sorry...! That was rude of me!",
         game = 0,
         video = {
@@ -36304,6 +36692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -36403,6 +36792,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A horde of tiny infected spiders! Woah——Gross!",
         game = 0,
         video = {
@@ -36496,6 +36886,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya placed her hand on the joystick. After a few trials, she looked puzzled.",
         game = 0,
         video = {
@@ -36595,6 +36986,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh?! Where's Kaguya?!",
         game = 0,
         video = {
@@ -36688,6 +37080,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Run! There are too many of them!",
         game = 0,
         video = {
@@ -36781,6 +37174,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It seems strange... I don't really understand.",
         game = 0,
         video = {
@@ -36875,6 +37269,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I turned my head and saw Kaguya dashing towards the dance machine again.",
         game = 0,
         video = {
@@ -36968,6 +37363,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I pushed the joystick to bring us back onto the path, but the monsters pursued close behind. My screen kept flashing red.",
         game = 0,
         video = {
@@ -37062,6 +37458,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -37155,6 +37552,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "If this continues, I'll run out of HP...",
         game = 0,
         video = {
@@ -37249,6 +37647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kukakaka——! Prepare to be challenged by the Hurricane Child, Demon Machine!",
         game = 0,
         video = {
@@ -37343,6 +37742,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll give you a present as well",
         game = 0,
         video = {
@@ -37437,6 +37837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Cover me, I'm almost there!",
         game = 0,
         video = {
@@ -37530,6 +37931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This time, I will make you worship in awe!",
         game = 0,
         video = {
@@ -37623,6 +38025,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? A return gift?",
         game = 0,
         video = {
@@ -37716,6 +38119,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No problem!",
         game = 0,
         video = {
@@ -37809,6 +38213,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya's excitement is so infectious.",
         game = 0,
         video = {
@@ -37902,6 +38307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I led Kaguya to the giant crane machine near the entrance.",
         game = 0,
         video = {
@@ -37996,6 +38402,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sometimes it is good to be on your own once in a while",
         game = 0,
         video = {
@@ -38089,6 +38496,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya nodded at me solemnly, and raised her gun.",
         game = 0,
         video = {
@@ -38183,6 +38591,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just follow me",
         game = 0,
         video = {
@@ -38276,6 +38685,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hey... don't get yourself injured!",
         game = 0,
         video = {
@@ -38372,6 +38782,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -38465,6 +38876,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Like right now, let's just enjoy the date.",
         game = 0,
         video = {
@@ -38558,6 +38970,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Forward! My kinsman! Leave the rear to me, I will cover you!",
         game = 0,
         video = {
@@ -38651,6 +39064,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I led Kaguya to the arcade.",
         game = 0,
         video = {
@@ -38744,6 +39158,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I know!",
         game = 0,
         video = {
@@ -38837,6 +39252,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Can you really handle this, %s? It seems to be a crane machine of the highest difficulty!",
         game = 0,
         video = {
@@ -38930,6 +39346,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You mean...?",
         game = 0,
         video = {
@@ -39023,6 +39440,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Because I took too long to decide, the top song on the chart was selected automatically.",
         game = 0,
         video = {
@@ -39116,6 +39534,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll do my best For Kaguya! Please cheer me on!",
         game = 0,
         video = {
@@ -39209,6 +39628,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "A glorious sacrifice in exchange for my teammate's success! All for the treasure, move forward!",
         game = 0,
         video = {
@@ -39308,6 +39728,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Wait... the difficulty level is... SSS?!",
         game = 0,
         video = {
@@ -39401,6 +39822,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "For me... I see!",
         game = 0,
         video = {
@@ -39494,6 +39916,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "With a dashing gesture, Kaguya battled on with the gun in her hands.",
         game = 0,
         video = {
@@ -39587,6 +40010,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I cautiously inserted a token and moved the joystick with great care. Once at the right location, I pressed the button.",
         game = 0,
         video = {
@@ -39680,6 +40104,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "There was no time to hesitate. I walked over to the shining object as I was told...",
         game = 0,
         video = {
@@ -39773,6 +40198,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dolphin! It's a dolphin! Go %s!",
         game = 0,
         video = {
@@ -39867,6 +40293,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We should each fire at one of its legs!",
         game = 0,
         video = {
@@ -39960,6 +40387,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Stage clear! Yes——!",
         game = 0,
         video = {
@@ -40053,6 +40481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The machine claw tightly grasped the dolphin doll and successfully carried it over to the opening.",
         game = 0,
         video = {
@@ -40146,6 +40575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood! Now it won't be able to move!",
         game = 0,
         video = {
@@ -40239,6 +40669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sorry, in the end only I got the treasure while your character died.",
         game = 0,
         video = {
@@ -40332,6 +40763,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But then... as the dolphin fell out, it got stuck right before the opening.",
         game = 0,
         video = {
@@ -40425,6 +40857,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya and I fired at the spider's 8 legs, and it soon crashed to the ground.",
         game = 0,
         video = {
@@ -40518,6 +40951,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hoho, it's all thanks to me that we secured the final victory!",
         game = 0,
         video = {
@@ -40611,6 +41045,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "...",
         game = 0,
         video = {
@@ -40704,6 +41139,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So close...",
         game = 0,
         video = {
@@ -40797,6 +41233,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We are out of game tokens! And it's getting late. Aren't you hungry, Kaguya?",
         game = 0,
         video = {
@@ -40890,6 +41327,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Amazing... you cleared the stage in one try.",
         game = 0,
         video = {
@@ -40983,6 +41421,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes, of course...",
         game = 0,
         video = {
@@ -41076,6 +41515,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya focused intently on the screen, expertly firing away the bullets. In the end she really did beat the game by herself...",
         game = 0,
         video = {
@@ -41169,6 +41609,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's not what I meant...",
         game = 0,
         video = {
@@ -41262,6 +41703,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? You don't think I can do it? I'll prove my skill to you!",
         game = 0,
         video = {
@@ -41355,6 +41797,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's OK, I still have a lot more tokens here...",
         game = 0,
         video = {
@@ -41448,6 +41891,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Please...",
         game = 0,
         video = {
@@ -41541,6 +41985,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see. The rest is up to me? Don't worry, I will transform into a lone wolf and clear the stage with perfection!",
         game = 0,
         video = {
@@ -41634,6 +42079,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That was... fast.",
         game = 0,
         video = {
@@ -41727,6 +42173,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "But...in the critical moment, you lived up to your status as the man trusted by the Hurricane Child!",
         game = 0,
         video = {
@@ -41820,6 +42267,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What?! Why didn't you tell me earlier?! I'm already at the quest spot!",
         game = 0,
         video = {
@@ -41913,6 +42361,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm already surrounded, I'll cover you. You can do it, Kaguya!",
         game = 0,
         video = {
@@ -42006,6 +42455,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thank you, Kaguya.",
         game = 0,
         video = {
@@ -42099,6 +42549,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "As I cried out in terror, Kaguya in the game defeated countless monsters with godly performance.",
         game = 0,
         video = {
@@ -42192,6 +42643,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The stuck dolphin suddenly fell down, as if a gust of wind had blown by.",
         game = 0,
         video = {
@@ -42285,6 +42737,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'm here. Die, worthless scum!",
         game = 0,
         video = {
@@ -42379,6 +42832,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya, you can do it!",
         game = 0,
         video = {
@@ -42472,6 +42926,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya pat me hard on the shoulder.",
         game = 0,
         video = {
@@ -42566,6 +43021,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya, help me!",
         game = 0,
         video = {
@@ -42659,6 +43115,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Will you... join me?",
         game = 0,
         video = {
@@ -42752,6 +43209,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Smart thinking, my kinsman. Just as I expected!",
         game = 0,
         video = {
@@ -42845,6 +43303,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I found it! There's something shiny in that room, come...",
         game = 0,
         video = {
@@ -42944,6 +43403,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We... we did it?!",
         game = 0,
         video = {
@@ -43037,6 +43497,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Monsters had Kaguya surrounded on the screen. She couldn't go anywhere.",
         game = 0,
         video = {
@@ -43137,6 +43598,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ouch! I'm surrounded! Help!",
         game = 0,
         video = {
@@ -43230,6 +43692,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Working together to clear the stage was both thrilling and sweet.",
         game = 0,
         video = {
@@ -43323,6 +43786,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood!",
         game = 0,
         video = {
@@ -43416,6 +43880,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just focus on getting the treasure, don't get obsessed with killing enemies!",
         game = 0,
         video = {
@@ -43512,6 +43977,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Why don't we try another machine?",
         game = 0,
         video = {
@@ -43605,6 +44071,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The quest is to get the treasure inside the castle? Hohoho, pitiful wretch hiding in the corner, my gun will tear your soul to pieces!",
         game = 0,
         video = {
@@ -43698,6 +44165,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya grabbed the dolphin doll out of the machine opening right away.",
         game = 0,
         video = {
@@ -43791,6 +44259,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After completing that stage, we worked together in perfect harmony and finally made it to the last stage.",
         game = 0,
         video = {
@@ -43884,6 +44353,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "If we keep working like this, we'll win for sure.",
         game = 0,
         video = {
@@ -43977,6 +44447,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "And when Kaguya came to protect me...",
         game = 0,
         video = {
@@ -44070,6 +44541,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Haha! We did it!",
         game = 0,
         video = {
@@ -44166,6 +44638,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Demonstrate for her",
         game = 0,
         video = {
@@ -44259,6 +44732,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This must just be a bad machine. Your control was flawless...",
         game = 0,
         video = {
@@ -44352,6 +44826,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The monster crashed to the ground, and me and Kaguya high fived each other in celebration.",
         game = 0,
         video = {
@@ -44446,6 +44921,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -44539,6 +45015,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood! Yaaa——! Prepare to die!",
         game = 0,
         video = {
@@ -44632,6 +45109,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We just need to follow the hint: the head is its weak spot!",
         game = 0,
         video = {
@@ -44725,6 +45203,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "She really did seem like a cool ruler.",
         game = 0,
         video = {
@@ -44817,6 +45296,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Of course. I'll come with you! Now let's get some food.",
         game = 0,
         video = {
@@ -44910,6 +45390,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll show you how it is done.",
         game = 0,
         video = {
@@ -45003,6 +45484,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That is true. With perfect control, success will be ours!",
         game = 0,
         video = {
@@ -45096,6 +45578,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thanks for helping me, %s. I had a blast today!",
         game = 0,
         video = {
@@ -45189,6 +45672,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So big! So soft!",
         game = 0,
         video = {
@@ -45283,6 +45767,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fire together at the red circle on its head!",
         game = 0,
         video = {
@@ -45376,6 +45861,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya and I fired everything we had at the boulder.",
         game = 0,
         video = {
@@ -45469,6 +45955,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just give it a little shake, don't use too much force.",
         game = 0,
         video = {
@@ -45563,6 +46050,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Impressive, want to increase the difficulty?",
         game = 0,
         video = {
@@ -45656,6 +46144,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Good. I will observe your special technique and judge its efficacy!",
         game = 0,
         video = {
@@ -45749,6 +46238,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "However...",
         game = 0,
         video = {
@@ -45842,6 +46332,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah! Let's fill our stomachs first!",
         game = 0,
         video = {
@@ -45935,6 +46426,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I had a blast today!",
         game = 0,
         video = {
@@ -46028,6 +46520,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "After dancing for many songs...",
         game = 0,
         video = {
@@ -46122,6 +46615,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Today is a date between just the two of us",
         game = 0,
         video = {
@@ -46215,6 +46709,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah! Of course! We'll challenge it together!",
         game = 0,
         video = {
@@ -46308,6 +46803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The music began. Kaguya kept up at first, but soon her feet lost the rhythm.",
         game = 0,
         video = {
@@ -46401,6 +46897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No problem... Now... let's choose that one!",
         game = 0,
         video = {
@@ -46494,6 +46991,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Even after switching machines, Kaguya still did not succeed. This seemed to bother her even more.",
         game = 0,
         video = {
@@ -46587,6 +47085,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya blushed and stepped back, out of my arms.",
         game = 0,
         video = {
@@ -46680,6 +47179,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya buried her chin deep inside the doll as she hugged it, her eyes narrowed almost to a slit.",
         game = 0,
         video = {
@@ -46773,6 +47273,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya buried her chin deep inside the doll as she hugged it, her eyes narrowed almost to a slit.",
         game = 0,
         video = {
@@ -46866,6 +47367,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Under Kaguya's expectant gaze, we planned out our next date.",
         game = 0,
         video = {
@@ -46958,6 +47460,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Defeat! Am I restrained by this special curse...",
         game = 0,
         video = {
@@ -47051,6 +47554,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah! But I still haven't played all the other arcade games...",
         game = 0,
         video = {
@@ -47144,6 +47648,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I placed my hand on the joystick and aimed for the teddy bear that fell down multiple times.",
         game = 0,
         video = {
@@ -47238,6 +47743,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Fire at the boulder",
         game = 0,
         video = {
@@ -47331,6 +47837,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood! Yaaaahhhh——! Fall to pieces, boulder monster!",
         game = 0,
         video = {
@@ -47424,6 +47931,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Do you like the dolphin doll, Kaguya?",
         game = 0,
         video = {
@@ -47517,6 +48025,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Let us achieve SSS Rank together!",
         game = 0,
         video = {
@@ -47610,6 +48119,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Keep it up. There's a red circle, fire at that!",
         game = 0,
         video = {
@@ -47703,6 +48213,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's gonna crush us!",
         game = 0,
         video = {
@@ -47796,6 +48307,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "All these machines are the same! The evil curse must have been copied onto every one of them!",
         game = 0,
         video = {
@@ -47889,6 +48401,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thanks to Kaguya's efforts, the teddy bear was now very close to the opening.",
         game = 0,
         video = {
@@ -47982,6 +48495,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "%s, are there any other models? All the machines of this type must be cursed...",
         game = 0,
         video = {
@@ -48075,6 +48589,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't think about others right now.",
         game = 0,
         video = {
@@ -48168,6 +48683,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes! And most importantly, it's a gift from %s! I will cherish it forever.",
         game = 0,
         video = {
@@ -48261,6 +48777,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hehe, deal!",
         game = 0,
         video = {
@@ -48354,6 +48871,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "My body feels completely drained...",
         game = 0,
         video = {
@@ -48453,6 +48971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Forget it, open fire!",
         game = 0,
         video = {
@@ -48546,6 +49065,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Do you like the dolphin doll, Kaguya?",
         game = 0,
         video = {
@@ -48639,6 +49159,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Amazing, %s! You already grabbed it! Now is time for the fated showdown!",
         game = 0,
         video = {
@@ -48732,6 +49253,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya clutched her clothes shyly, as if embarrassed.",
         game = 0,
         video = {
@@ -48825,6 +49347,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dance machine is an incredible thing, it may you completely forget about time...",
         game = 0,
         video = {
@@ -48918,6 +49441,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thank you, %s. I... really like it!",
         game = 0,
         video = {
@@ -49011,6 +49535,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh no, Kaguya seems to be taking this pretty hard...",
         game = 0,
         video = {
@@ -49107,6 +49632,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Time's up",
         game = 0,
         video = {
@@ -49200,6 +49726,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, I'm starving...",
         game = 0,
         video = {
@@ -49293,6 +49820,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You're right... me and %s, alone on a date...",
         game = 0,
         video = {
@@ -49386,6 +49914,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Will the nightmare curse of the crane machine be broken...?",
         game = 0,
         video = {
@@ -49479,6 +50008,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "There's a smaller machine next to us, the prizes in it are all little pendants. It should be easier than these.",
         game = 0,
         video = {
@@ -49572,6 +50102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Ah, it looks great on you!",
         game = 0,
         video = {
@@ -49665,6 +50196,7 @@ return {
         endType = 1,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya smiled abashedly, which warmed my heart like the sun on a winter day.",
         game = 0,
         video = {
@@ -49757,6 +50289,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You mean...",
         game = 0,
         video = {
@@ -49850,6 +50383,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yeah! And most importantly, it's a reward that me and %s earned by working together!",
         game = 0,
         video = {
@@ -49943,6 +50477,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see... then let's play together!",
         game = 0,
         video = {
@@ -50036,6 +50571,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "So confident?",
         game = 0,
         video = {
@@ -50129,6 +50665,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I can do it! Watch this!",
         game = 0,
         video = {
@@ -50222,6 +50759,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "There are also bigger dolls near the entrance. They are put there because they are the prettiest in the whole store!",
         game = 0,
         video = {
@@ -50316,6 +50854,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Dodge to the left",
         game = 0,
         video = {
@@ -50409,6 +50948,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Let's go eat!",
         game = 0,
         video = {
@@ -50502,6 +51042,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I see...",
         game = 0,
         video = {
@@ -50596,6 +51137,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Don't worry about winning or losing, just have a good time",
         game = 0,
         video = {
@@ -50689,6 +51231,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Then... this one is the closest...",
         game = 0,
         video = {
@@ -50782,6 +51325,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sorry... I will master it!",
         game = 0,
         video = {
@@ -50875,6 +51419,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "We... we did it?!",
         game = 0,
         video = {
@@ -50968,6 +51513,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "They both sound great! I will allow you to decide!",
         game = 0,
         video = {
@@ -51062,6 +51608,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Another one!",
         game = 0,
         video = {
@@ -51155,6 +51702,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Amazing...!",
         game = 0,
         video = {
@@ -51248,6 +51796,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya didn't get an SSS rating today, but...",
         game = 0,
         video = {
@@ -51341,6 +51890,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Okay!",
         game = 0,
         video = {
@@ -51434,6 +51984,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Again and again Kaguya stepped up to the dancing machine. She seemed not tired at all.",
         game = 0,
         video = {
@@ -51527,6 +52078,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh no, that sounded like I was criticizing her...",
         game = 0,
         video = {
@@ -51620,6 +52172,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya grabbed my shoulder with excitement as the teddy bear fell into the opening.",
         game = 0,
         video = {
@@ -51713,6 +52266,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The boulder shattered into pieces, and me and Kaguya high fived each other in celebration.",
         game = 0,
         video = {
@@ -51806,6 +52360,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Even though we didn't get the doll...",
         game = 0,
         video = {
@@ -51902,6 +52457,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -51995,6 +52551,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uhh... I'm not used to this without Yuzuru's snarky comments.",
         game = 0,
         video = {
@@ -52090,6 +52647,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "For some reason... I felt a bit disappointed...",
         game = 0,
         video = {
@@ -52183,6 +52741,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Oh! It's... a little strange...",
         game = 0,
         video = {
@@ -52276,6 +52835,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hoho, for the Dance Queen, even a hard track is a piece of cake!",
         game = 0,
         video = {
@@ -52369,6 +52929,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hahaha! Your special technique worked after all, %s!",
         game = 0,
         video = {
@@ -52462,6 +53023,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I felt relieved after seeing Kaguya's excited smile.",
         game = 0,
         video = {
@@ -52554,6 +53116,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just like that, time quickly passed...",
         game = 0,
         video = {
@@ -52653,6 +53216,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Huh? All of them?!",
         game = 0,
         video = {
@@ -52746,6 +53310,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "This song seems to be the most popular... Oh no, it's SSS difficulty!",
         game = 0,
         video = {
@@ -52839,6 +53404,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yes! I selected a special outfit for the date today, and did my makeup!",
         game = 0,
         video = {
@@ -52932,6 +53498,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I inserted a token, and before I knew it Kaguya had already won another teddy bear.",
         game = 0,
         video = {
@@ -53025,6 +53592,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I sense a difficult challenge...",
         game = 0,
         video = {
@@ -53118,6 +53686,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Yep. This teddy bear is for you.",
         game = 0,
         video = {
@@ -53211,6 +53780,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What's the matter?",
         game = 0,
         video = {
@@ -53304,6 +53874,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "No problem! I have totally mastered the technique, now the Dancing Queen will take over the stage!",
         game = 0,
         video = {
@@ -53400,6 +53971,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I'll teach you how to do it.",
         game = 0,
         video = {
@@ -53494,6 +54066,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Go Kaguya! You can do it!",
         game = 0,
         video = {
@@ -53587,6 +54160,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Her smooth skin, the warm touch... I was too shy to look at Kaguya.",
         game = 0,
         video = {
@@ -53680,6 +54254,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It's getting late, are you hungry?",
         game = 0,
         video = {
@@ -53773,6 +54348,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "The entire afternoon went by in the blink of an eye...",
         game = 0,
         video = {
@@ -53866,6 +54442,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Thank you!",
         game = 0,
         video = {
@@ -53959,6 +54536,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "What do you think? Do you... like it?",
         game = 0,
         video = {
@@ -54052,6 +54630,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That... is exhausting!",
         game = 0,
         video = {
@@ -54146,6 +54725,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You can do it as long as you keep practicing",
         game = 0,
         video = {
@@ -54239,6 +54819,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Understood! I shall not be defeated! Awaken, power of the Dancing Queen!",
         game = 0,
         video = {
@@ -54332,6 +54913,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -54425,6 +55007,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya reached out for another token, but I held both hands out.",
         game = 0,
         video = {
@@ -54519,6 +55102,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "It does feel a little strange",
         game = 0,
         video = {
@@ -54612,6 +55196,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "You seem relaxed, %s. When can I break the machine's curse...?",
         game = 0,
         video = {
@@ -54709,6 +55294,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hang on!",
         game = 0,
         video = {
@@ -54802,6 +55388,7 @@ return {
         endType = 3,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya skill improved as she tried more songs... and ultimately stole the spotlight in the whole arcade.",
         game = 0,
         video = {
@@ -54894,6 +55481,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That makes sense!",
         game = 0,
         video = {
@@ -54987,6 +55575,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya moved her feet as fast as she could, but still got many misses.",
         game = 0,
         video = {
@@ -55080,6 +55669,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Only through close-range guidance can I master the special technique!",
         game = 0,
         video = {
@@ -55174,6 +55764,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Let's just stroll around then",
         game = 0,
         video = {
@@ -55267,6 +55858,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Hoho, I know no one can resist the charm of the Hurricane Child!",
         game = 0,
         video = {
@@ -55360,6 +55952,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Just like before... your hand over mine, close together...",
         game = 0,
         video = {
@@ -55453,6 +56046,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "That's right, keep going. The little bear needs friends!",
         game = 0,
         video = {
@@ -55546,6 +56140,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Uh...",
         game = 0,
         video = {
@@ -55639,6 +56234,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya nodded forcefully, then turned around and renewed her challenge.",
         game = 0,
         video = {
@@ -55732,6 +56328,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Whew...whew...my final score...just a B?! How can that be!",
         game = 0,
         video = {
@@ -55826,6 +56423,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Shooting game",
         game = 0,
         video = {
@@ -55919,6 +56517,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -56012,6 +56611,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Kaguya's words seemed to be perfectly normal, but her blushing cheeks betrayed her.",
         game = 0,
         video = {
@@ -56106,6 +56706,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Random song",
         game = 0,
         video = {
@@ -56202,6 +56803,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Are you... distracted?",
         game = 0,
         video = {
@@ -56295,6 +56897,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Let me think... fighting games and shooters are the most popular, but dance games are a new favorite among the youth.",
         game = 0,
         video = {
@@ -56391,6 +56994,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "Sorry! That was rude of me!",
         game = 0,
         video = {
@@ -56484,6 +57088,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I did unleash all of my power!",
         game = 0,
         video = {
@@ -56578,6 +57183,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "",
         game = 0,
         video = {
@@ -56671,6 +57277,7 @@ return {
         endType = 0,
         isIgonreAction2 = false,
         expressionAction2 = "",
+        minipack = 0,
         text = "I put my hand over Kaguya's, then we moved the joystick together.",
         game = 0,
         video = {

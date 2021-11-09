@@ -18424,7 +18424,7 @@ local t =
 									flipX = "False",
 									flipY = "False",
 									height = "36",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Button_skinDetail",
 									normal = "ui/fairy/new_ui/new_50.png",
 									scaleX = "0.8",
@@ -18440,7 +18440,7 @@ local t =
 										relativeToName = "Panel",
 									},
 									UItype = "Button",
-									width = "178",
+									width = "222",
 									ZOrder = "1",
 								},
 								{
