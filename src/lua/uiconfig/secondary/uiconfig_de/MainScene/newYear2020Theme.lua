@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -2874,7 +2874,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 457,
-												PositionY = 408,
+												PositionY = 443,
 											},
 											uipanelviewmodel = 
 											{
@@ -3090,7 +3090,7 @@ local t =
 													DesignType = "0",
 													DesignWidth = "960",
 													dstBlendFunc = "771",
-													height = "88",
+													height = "100",
 													ignoreSize = "False",
 													name = "PageView_Activity",
 													sizepercentx = "0",
@@ -3100,15 +3100,15 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = -206,
-														PositionY = -50,
+														PositionX = -216,
+														PositionY = -48,
 													},
 													uipanelviewmodel = 
 													{
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "412",
+													width = "440",
 													ZOrder = "1",
 												},
 												{
@@ -11658,7 +11658,7 @@ local t =
 									UUID = "6a27c3ac_ceef_4637_9106_7aa397759696",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -11679,10 +11679,10 @@ local t =
 										StrokeColor = "#FF49557F",
 										StrokeSize = 1,
 									},
-									height = "20",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Name",
-									nTextAlign = "1",
+									nTextAlign = "0",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -11694,10 +11694,10 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -2,
-										PositionY = -31,
+										PositionY = -24,
 										relativeToName = "Panel",
 									},
-									width = "68",
+									width = "94",
 									ZOrder = "1",
 								},
 								{

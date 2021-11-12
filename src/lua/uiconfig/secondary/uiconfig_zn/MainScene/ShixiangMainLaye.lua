@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -3061,8 +3061,6 @@ local t =
 													height = "100",
 													ignoreSize = "False",
 													name = "PageView_Activity",
-													scaleX = "0.835",
-													scaleY = "0.835",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -3070,7 +3068,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = -140,
+														PositionX = -216,
 														PositionY = -34,
 													},
 													uipanelviewmodel = 

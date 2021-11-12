@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -11759,7 +11759,7 @@ local t =
 									UUID = "3586b2b6_6617_4bcb_8b0f_c215eccc7dbf",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -11780,11 +11780,13 @@ local t =
 										StrokeColor = "#FF49557F",
 										StrokeSize = 1,
 									},
-									height = "20",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Name",
-									nTextAlign = "1",
+									nTextAlign = "0",
 									nTextHAlign = "1",
+									scaleX = "0.8",
+									scaleY = "0.8",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -11795,10 +11797,10 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -2,
-										PositionY = -31,
+										PositionY = -23,
 										relativeToName = "Panel",
 									},
-									width = "68",
+									width = "115",
 									ZOrder = "1",
 								},
 								{

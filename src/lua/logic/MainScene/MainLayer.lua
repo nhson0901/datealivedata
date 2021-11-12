@@ -4626,7 +4626,7 @@ function MainLayer:updatePushGiftList()
 				clone:setPosition(0,0)
 				clone:setScale(scale)
 				clone.size = clone:getSize()
-				clone:setPositionX((i - 1) * 70)
+				clone:setPositionX((i - 1) * 100)
 
 				clone.button = clone:getChildByName("Button_Gift")
 				clone.button:setTextureNormal(exData["Icon"]);

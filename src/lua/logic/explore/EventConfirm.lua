@@ -119,11 +119,19 @@ function EventConfirm:updateConditionState(eventType,condition,conditionDesEn)
 
     local typeStr = TextDataMgr:getText(13322015)
     if eventType ~= EC_eventType.mulTrigger then
-        self.Label_condition:setText(typeStr..TextDataMgr:getText(conditionDesEn))
+        self.Label_condition:hide()
+        if conditionDesEn and conditionDesEn ~= "" then
+            self.Label_condition:setText(typeStr..TextDataMgr:getText(conditionDesEn))
+            self.Label_condition:show()
+        end
     else
-        local progress = eventInfo and eventInfo.progress or 0
-        local str = string.format(TextDataMgr:getText(conditionDesEn),progress,condition.times)
-        self.Label_condition:setText(typeStr..str)
+        self.Label_condition:hide()
+        if conditionDesEn and conditionDesEn ~= "" then
+            local progress = eventInfo and eventInfo.progress or 0
+            local str = string.format(TextDataMgr:getText(conditionDesEn),progress,condition.times)
+            self.Label_condition:setText(typeStr..str)
+            self.Label_condition:show()
+        end
     end
 
     self.Image_title2:setVisible(conditionDesEn ~= "")

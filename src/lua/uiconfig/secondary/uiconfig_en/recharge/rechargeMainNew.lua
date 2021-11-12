@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -2503,6 +2503,7 @@ local t =
 								TopPosition = 397,
 								relativeToName = "panel_totalCell",
 							},
+							visible = "False",
 							width = "45",
 							ZOrder = "1",
 						},
@@ -2804,6 +2805,7 @@ local t =
 								TopPosition = 397,
 								relativeToName = "panel_totalCell",
 							},
+							visible = "False",
 							width = "45",
 							ZOrder = "1",
 						},

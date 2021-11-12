@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -263,8 +263,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 1601,
-								PositionY = 293,
+								PositionX = 1037,
+								PositionY = 605,
 							},
 							UItype = "Button",
 							width = "60",
@@ -2915,7 +2915,7 @@ local t =
 													DesignType = "0",
 													DesignWidth = "960",
 													dstBlendFunc = "771",
-													height = "84",
+													height = "100",
 													ignoreSize = "False",
 													name = "PageView_Activity",
 													sizepercentx = "0",
@@ -2925,15 +2925,15 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = -82,
-														PositionY = -35,
+														PositionX = -216,
+														PositionY = -48,
 													},
 													uipanelviewmodel = 
 													{
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "306",
+													width = "440",
 													ZOrder = "1",
 												},
 												{
@@ -9136,7 +9136,7 @@ local t =
 									},
 								},
 								{
-									controlID = "ae632f27-b5a9-448f-9b41-4943fd99ec98",
+									controlID = "Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 									UUID = "37926d83_c639_474b_806b_d044a56fe75b",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
@@ -9171,7 +9171,7 @@ local t =
 									{
 										
 										{
-											controlID = "364d43b7-d3a0-49e5-9cf8-d9f532917224",
+											controlID = "Label_focus_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 											UUID = "746a5b9e_3e17_4c47_ae5b_6b1963fafae3",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
@@ -9217,7 +9217,7 @@ local t =
 											ZOrder = "1",
 										},
 										{
-											controlID = "6bf18390-c415-49c9-a5d6-87e6c7345101",
+											controlID = "Image_focus_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 											UUID = "157a0f1f_386d_4279_a7ae_0d17ee112405",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
@@ -9243,7 +9243,7 @@ local t =
 											ZOrder = "1",
 										},
 										{
-											controlID = "12bd2b53-4e04-4b67-b6d5-b8149bcf7b07",
+											controlID = "Image_focusTip_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 											UUID = "4d5ab69b_e5a0_4011_bd1e_05a441ef7924",
 											anchorPoint = "False",
 											anchorPointX = "0.5",
@@ -9269,7 +9269,7 @@ local t =
 											ZOrder = "1",
 										},
 										{
-											controlID = "3fb2b0c4-3b7b-4385-af2a-892610453688",
+											controlID = "Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 											UUID = "8837fdd9_d65c_4f8c_9f7f_1e9fb83ce664",
 											anchorPoint = "False",
 											anchorPointX = "0",
@@ -9308,7 +9308,7 @@ local t =
 											{
 												
 												{
-													controlID = "eca43c6b-7a1d-49b3-ab91-8969976b778f",
+													controlID = "Button_preview_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 													UUID = "5c668e2e_4d14_491a_a4ba_4495591ca999",
 													anchorPoint = "False",
 													anchorPointX = "0.5",
@@ -9343,7 +9343,7 @@ local t =
 													{
 														
 														{
-															controlID = "5120929b-3ca3-4284-a7a2-1bc4ff093cf1",
+															controlID = "Label_update_Button_preview_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "dfe09707_5c98_4580_9219_3dd16508f2e6",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9389,7 +9389,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "6d0b9bb0-d4ad-46d6-a74a-baba4e1839cf",
+															controlID = "Image_update_Button_preview_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "1c04864f_01a5_49e4_b748_128e5c4620e2",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9415,7 +9415,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "4195a754-55fd-4cfd-b284-ccb6ee1b8b36",
+															controlID = "Image_previewTip_Button_preview_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "c782fbdf_3891_49d4_baec_25a0aaf3afe8",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9443,7 +9443,7 @@ local t =
 													},
 												},
 												{
-													controlID = "19f0add1-6e8b-41c4-8ade-6b7f234cae11",
+													controlID = "Button_backPlayer_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 													UUID = "2be6d59f_5a45_409b_9adc_97521083e67c",
 													anchorPoint = "False",
 													anchorPointX = "0.5",
@@ -9478,7 +9478,7 @@ local t =
 													{
 														
 														{
-															controlID = "4f87c23a-5204-409f-953e-37de056e6f84",
+															controlID = "Label_backPlayer_Button_backPlayer_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "30c417a3_c40f_458f_aadc_2f00b5eed303",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9524,7 +9524,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "27fed35c-9e5d-4f17-ad65-1155fbddb1e4",
+															controlID = "Image_update_Button_backPlayer_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "5114393f_2cbe_4252_a6b0_20e575fc387e",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9550,7 +9550,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "88851bb0-b4a9-46d7-a0af-6fbb5287966f",
+															controlID = "Image_backPlayerTip_Button_backPlayer_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "f2cfc75b_a36f_4149_8a8d_1d83a14561e1",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9578,7 +9578,7 @@ local t =
 													},
 												},
 												{
-													controlID = "a7e27084-5ebc-4e4b-8d0b-6bab683c27a7",
+													controlID = "Button_update_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 													UUID = "66fa2d0c_fc51_49cf_90ce_5e45edc89c24",
 													anchorPoint = "False",
 													anchorPointX = "0.5",
@@ -9613,7 +9613,7 @@ local t =
 													{
 														
 														{
-															controlID = "14fe7e5c-796a-48de-8eea-023b6eca4a51",
+															controlID = "Label_update_Button_update_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "594a1f67_b823_4643_b607_09c8ac60bf57",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9659,7 +9659,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "6aba9891-002b-42ed-adcb-1cb84a47fabd",
+															controlID = "Image_update_Button_update_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "1e6e659d_7fbd_4370_a980_964bee316b30",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9685,7 +9685,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "691377ff-38c8-4024-989d-ae7a70e5cb5b",
+															controlID = "Image_updateTip_Button_update_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "d59c6fbf_0916_4903_90db_1eaa48ce1b26",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9713,7 +9713,7 @@ local t =
 													},
 												},
 												{
-													controlID = "2571ab29-cae1-4c29-b5a5-29b0078bdb2e",
+													controlID = "Button_wj_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 													UUID = "ae0dc8b9_cd96_4504_a5f8_b657173a4931",
 													anchorPoint = "False",
 													anchorPointX = "0.5",
@@ -9748,7 +9748,7 @@ local t =
 													{
 														
 														{
-															controlID = "0bcae7b1-c8f0-4d88-8349-bd4cac95881b",
+															controlID = "Label_title_Button_wj_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "2f845513_d5b2_44bf_9683_fb96ef29388e",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9794,7 +9794,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "58b3af69-6445-4a18-aeb7-88df959dfe7f",
+															controlID = "Image_survey_Button_wj_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "e50ea993_d6af_4a43_8a29_8f2aa5052856",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9820,7 +9820,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "9d29a581-a6cb-4317-a287-7f7a1d17e7b2",
+															controlID = "Image_wjTip_Button_wj_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "a362e643_12db_42bf_9dab_db73c38a20e5",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9848,7 +9848,7 @@ local t =
 													},
 												},
 												{
-													controlID = "2397b4f2-d7e5-4360-9e3e-37fb4b24f43d",
+													controlID = "Button_OneYearShare_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 													UUID = "5d8bd0a5_556d_4567_9f7d_bbb7141c75e0",
 													anchorPoint = "False",
 													anchorPointX = "0.5",
@@ -9881,7 +9881,7 @@ local t =
 													{
 														
 														{
-															controlID = "146174c3-21e7-4764-bde2-4d57c92062f4",
+															controlID = "Image_lvli_Button_OneYearShare_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "9b19ec66_7954_4e40_a933_088a201f169d",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9907,7 +9907,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "3479657c-c7ec-4949-8bf3-0aceb2ad1952",
+															controlID = "Label_title_Button_OneYearShare_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "ec1b6d7f_dd68_4351_9553_ca22b672d7fb",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -9955,7 +9955,7 @@ local t =
 													},
 												},
 												{
-													controlID = "fd8b613e-2e09-4826-9a84-7dd65e9e1321",
+													controlID = "btn_zhuifan_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 													UUID = "9613d4fa_bc25_4272_b9cc_2acdec3f7d0e",
 													anchorPoint = "False",
 													anchorPointX = "0.5",
@@ -9988,7 +9988,7 @@ local t =
 													{
 														
 														{
-															controlID = "542f8e19-ae46-4d9a-8449-0b6f3e587065",
+															controlID = "Label_title_btn_zhuifan_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "effd254e_7fcd_4892_bd3e_3d3607bf5c9a",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -10034,7 +10034,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "17a446c1-1eef-40eb-bca6-65ccbfac17b6",
+															controlID = "Image_zhuifan_btn_zhuifan_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "dbbfbbf2_bb6d_4b59_97a5_742c5e77b8c3",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -10062,7 +10062,7 @@ local t =
 													},
 												},
 												{
-													controlID = "7f9065e4-952a-466a-898b-59abb6831e86",
+													controlID = "btn_phone_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 													UUID = "058461fa_f349_4f6b_ba16_19bff729128b",
 													anchorPoint = "False",
 													anchorPointX = "0.5",
@@ -10095,7 +10095,7 @@ local t =
 													{
 														
 														{
-															controlID = "a28bc334-a4a7-490c-97cd-a46ce2ef1e81",
+															controlID = "Label_title_btn_phone_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "95fea851_2961_4e7c_930e_39e7209852ad",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -10141,7 +10141,7 @@ local t =
 															ZOrder = "1",
 														},
 														{
-															controlID = "80ebbf11-756c-433d-afa2-2bbffd864d65",
+															controlID = "Image_zhuifan_btn_phone_Panel_btListEx_Button_btnListEx_Panel_left_Panel_base_Panel-OneCelebrationMainLayer_OneYear_MainScene_Game",
 															UUID = "2b977959_da14_4a56_8132_bdb57303d7f6",
 															anchorPoint = "False",
 															anchorPointX = "0.5",
@@ -10830,7 +10830,7 @@ local t =
 									UUID = "07e874f6_d3bb_497c_9326_ec6b0e5b25cd",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -10851,11 +10851,13 @@ local t =
 										StrokeColor = "#FF49557F",
 										StrokeSize = 1,
 									},
-									height = "20",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Name",
-									nTextAlign = "1",
+									nTextAlign = "0",
 									nTextHAlign = "1",
+									scaleX = "0.8",
+									scaleY = "0.8",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -10866,10 +10868,10 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -2,
-										PositionY = -30,
+										PositionY = -22,
 										relativeToName = "Panel",
 									},
-									width = "68",
+									width = "115",
 									ZOrder = "1",
 								},
 								{
@@ -10945,7 +10947,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 176,
+								PositionX = 279,
 								PositionY = 535,
 							},
 							uipanelviewmodel = 

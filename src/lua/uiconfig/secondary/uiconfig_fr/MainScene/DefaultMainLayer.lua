@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -3058,7 +3058,7 @@ local t =
 													DesignType = "0",
 													DesignWidth = "960",
 													dstBlendFunc = "771",
-													height = "88",
+													height = "100",
 													ignoreSize = "False",
 													name = "PageView_Activity",
 													sizepercentx = "0",
@@ -3068,7 +3068,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = -206,
+														PositionX = -216,
 														PositionY = -50,
 													},
 													uipanelviewmodel = 
@@ -3076,7 +3076,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "412",
+													width = "440",
 													ZOrder = "1",
 												},
 												{
@@ -3664,7 +3664,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "112",
+											height = "128",
 											ignoreSize = "True",
 											name = "Button_Activity5",
 											normal = "ui/mainLayer/new_ui/a4.png",
@@ -3682,7 +3682,7 @@ local t =
 												relativeToName = "Panel",
 											},
 											UItype = "Button",
-											width = "196",
+											width = "226",
 											ZOrder = "1",
 											components = 
 											{
@@ -11621,7 +11621,7 @@ local t =
 									UUID = "4ce54b29_31be_497f_961d_56a1b5887943",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -11642,10 +11642,10 @@ local t =
 										StrokeColor = "#FF49557F",
 										StrokeSize = 1,
 									},
-									height = "20",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Name",
-									nTextAlign = "1",
+									nTextAlign = "0",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -11657,10 +11657,10 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -2,
-										PositionY = -31,
+										PositionY = -24,
 										relativeToName = "Panel",
 									},
-									width = "68",
+									width = "94",
 									ZOrder = "1",
 								},
 								{

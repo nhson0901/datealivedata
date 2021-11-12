@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -601,7 +601,7 @@ local t =
 												StrokeSize = 1,
 											},
 											hAlignment = "0",
-											height = "24",
+											height = "23",
 											ignoreSize = "True",
 											name = "TextArea_name",
 											sizepercentx = "0",
@@ -1391,7 +1391,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_feelling_name",
 											nTextAlign = "1",
@@ -1454,7 +1454,7 @@ local t =
 												PositionX = 200,
 												PositionY = 76,
 											},
-											width = "16",
+											width = "15",
 											ZOrder = "1",
 										},
 										{
@@ -1600,7 +1600,7 @@ local t =
 												PositionX = 120,
 												PositionY = 50,
 											},
-											width = "48",
+											width = "47",
 											ZOrder = "1",
 										},
 										{
@@ -2342,7 +2342,7 @@ local t =
 														PositionY = -24,
 													},
 													vAlignment = "1",
-													width = "44",
+													width = "43",
 													ZOrder = "1",
 												},
 											},
@@ -2610,7 +2610,7 @@ local t =
 														PositionY = -26,
 													},
 													vAlignment = "1",
-													width = "44",
+													width = "43",
 													ZOrder = "1",
 												},
 											},
@@ -2959,7 +2959,7 @@ local t =
 														PercentY = 50,
 													},
 													visible = "False",
-													width = "193",
+													width = "198",
 													ZOrder = "1",
 												},
 												{
@@ -4564,7 +4564,7 @@ local t =
 												PositionX = 1,
 												PositionY = -65,
 											},
-											width = "40",
+											width = "38",
 											ZOrder = "1",
 										},
 										{
@@ -5144,7 +5144,7 @@ local t =
 											{
 												PositionX = 39,
 											},
-											width = "44",
+											width = "43",
 											ZOrder = "1",
 										},
 									},
@@ -5580,7 +5580,7 @@ local t =
 													{
 														PositionY = 2,
 													},
-													width = "71",
+													width = "76",
 													ZOrder = "1",
 												},
 											},
@@ -5991,7 +5991,7 @@ local t =
 												PositionY = -2,
 											},
 											vAlignment = "1",
-											width = "44",
+											width = "45",
 											ZOrder = "1",
 										},
 										{
@@ -9837,7 +9837,7 @@ local t =
 															{
 																PositionX = 44,
 															},
-															width = "44",
+															width = "45",
 															ZOrder = "1",
 														},
 														{
@@ -10797,7 +10797,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_hero_name",
 									nTextAlign = "1",
@@ -10814,7 +10814,7 @@ local t =
 										PositionX = -326,
 										PositionY = -3,
 									},
-									width = "51",
+									width = "50",
 									ZOrder = "1",
 								},
 								{
@@ -10896,7 +10896,7 @@ local t =
 										PositionX = 376,
 										PositionY = -43,
 									},
-									width = "25",
+									width = "22",
 									ZOrder = "1",
 								},
 							},
@@ -11073,7 +11073,7 @@ local t =
 									UUID = "ee0cf9fe_d468_4fbf_8964_75eb6c5518cd",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -11094,10 +11094,10 @@ local t =
 										StrokeColor = "#FF49557F",
 										StrokeSize = 1,
 									},
-									height = "22",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Name",
-									nTextAlign = "1",
+									nTextAlign = "0",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -11109,10 +11109,10 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -2,
-										PositionY = -31,
+										PositionY = -24,
 										relativeToName = "Panel",
 									},
-									width = "68",
+									width = "94",
 									ZOrder = "1",
 								},
 								{
@@ -11158,7 +11158,7 @@ local t =
 										PositionX = -1,
 										PositionY = -12,
 									},
-									width = "57",
+									width = "54",
 									ZOrder = "1",
 								},
 							},

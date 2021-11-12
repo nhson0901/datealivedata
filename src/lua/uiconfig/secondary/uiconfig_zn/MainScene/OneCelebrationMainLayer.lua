@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -2803,7 +2803,7 @@ local t =
 													DesignType = "0",
 													DesignWidth = "960",
 													dstBlendFunc = "771",
-													height = "88",
+													height = "100",
 													ignoreSize = "False",
 													name = "PageView_Activity",
 													sizepercentx = "0",
@@ -2813,7 +2813,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = -206,
+														PositionX = -216,
 														PositionY = -50,
 													},
 													uipanelviewmodel = 
@@ -2821,7 +2821,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "412",
+													width = "440",
 													ZOrder = "1",
 												},
 												{

@@ -116,9 +116,10 @@ function GoogleAssetPackLayer:displayTransFerring( assetPackName )
 end
 
 function GoogleAssetPackLayer:displayComplete( assetPackName )
+    if (assetPackName == nil) or (assetPackName == "") then return end
     local exit = false
-    for _,_info in ipairs(self.readyAssetPacks) do
-        if _info.packName == assetPackName then
+    for _,_packName in ipairs(self.readyAssetPacks) do
+        if _packName == assetPackName then
             exit = true
             break
         end

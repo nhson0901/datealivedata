@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -263,8 +263,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 1601,
-								PositionY = 293,
+								PositionX = 1074,
+								PositionY = 510,
 							},
 							UItype = "Button",
 							width = "60",
@@ -2699,7 +2699,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = 457,
-												PositionY = 407,
+												PositionY = 397,
 											},
 											uipanelviewmodel = 
 											{
@@ -2915,7 +2915,7 @@ local t =
 													DesignType = "0",
 													DesignWidth = "960",
 													dstBlendFunc = "771",
-													height = "84",
+													height = "100",
 													ignoreSize = "False",
 													name = "PageView_Activity",
 													sizepercentx = "0",
@@ -2925,7 +2925,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = -82,
+														PositionX = -216,
 														PositionY = -35,
 													},
 													uipanelviewmodel = 
@@ -2933,7 +2933,7 @@ local t =
 														Layout="Absolute",
 														nType = "0"
 													},
-													width = "306",
+													width = "440",
 													ZOrder = "1",
 												},
 												{
@@ -10941,7 +10941,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 176,
+								PositionX = 267,
 								PositionY = 535,
 							},
 							uipanelviewmodel = 

@@ -7934,4 +7934,24 @@ return {
         res = "icon/item/goods/1200044.png",
         res_en = "icon/item/goods/1200044_en.png",
     },
+    [1588] = {
+        id = 1588,
+        res = "ui/fuben/yuanshenjuchang/yuanshen_TabText.png",
+        res_en = "ui/fuben/yuanshenjuchang/yuanshen_TabText_en.png",
+    },
+    [1589] = {
+        id = 1589,
+        res = "icon/equipment/name/bw.png",
+        res_en = "icon/equipment/name/bw_en.png",
+    },
+    [1590] = {
+        id = 1590,
+        res = "icon/equipment/name/ql.png",
+        res_en = "icon/equipment/name/ql_en.png",
+    },
+    [1591] = {
+        id = 1591,
+        res = "icon/equipment/name/ssn.png",
+        res_en = "icon/equipment/name/ssn_en.png",
+    },
 }

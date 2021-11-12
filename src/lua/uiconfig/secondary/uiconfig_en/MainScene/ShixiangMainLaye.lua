@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -3061,8 +3061,6 @@ local t =
 													height = "100",
 													ignoreSize = "False",
 													name = "PageView_Activity",
-													scaleX = "0.835",
-													scaleY = "0.835",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -3070,7 +3068,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = -140,
+														PositionX = -216,
 														PositionY = -34,
 													},
 													uipanelviewmodel = 
@@ -11597,7 +11595,7 @@ local t =
 									UUID = "18dc165b_b2e3_4c62_8c59_7378f02ea20a",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -11618,10 +11616,10 @@ local t =
 										StrokeColor = "#FF49557F",
 										StrokeSize = 1,
 									},
-									height = "20",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Name",
-									nTextAlign = "1",
+									nTextAlign = "0",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -11633,10 +11631,10 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -2,
-										PositionY = -31,
+										PositionY = -27,
 										relativeToName = "Panel",
 									},
-									width = "68",
+									width = "94",
 									ZOrder = "1",
 								},
 								{
