@@ -94,13 +94,19 @@ function MigrationServerLayer:initPullDown()
     self.UIListViewBar = UIScrollBar:create(self._ui.Image_scrollBarModel, self._ui.Image_scrollBarInner)
     self.pulldown_btnlist:setScrollBar(self.UIListViewBar)
 
-    local list = {}
+    local showMigrationServreList = {}
     for _,_migrationServerId in pairs(MIGRATION_SERVER_LIST) do
+        table.insert(showMigrationServreList, _migrationServerId)
+    end
+    --only ios check can use
+    --table.insert(showMigrationServreList, MIGRATION_SERVER_LIST.Other)
+
+    local list = {}
+    for _,_migrationServerId in ipairs(showMigrationServreList) do
         if (_migrationServerId > MIGRATION_SERVER_LIST.UNKNOW) then
             table.insert(list, _migrationServerId)
         end
     end
-    
 
     table.sort(list, function( a, b )
         return a > b

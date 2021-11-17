@@ -1956,7 +1956,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 134,
+										PositionX = 69,
 										PositionY = 193,
 									},
 									uipanelviewmodel = 
@@ -1991,8 +1991,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 194,
-												PositionY = 28,
+												PositionX = 288,
+												PositionY = 25,
 											},
 											width = "100",
 											ZOrder = "1",
@@ -2037,8 +2037,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 239,
-												PositionY = 25,
+												PositionX = 349,
+												PositionY = 22,
 											},
 											width = "54",
 											ZOrder = "1",
@@ -2083,8 +2083,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 214,
-												PositionY = 25,
+												PositionX = 308,
+												PositionY = 22,
 											},
 											width = "42",
 											ZOrder = "1",
@@ -2160,15 +2160,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "0",
-											ignoreSize = "False",
+											height = "25",
+											ignoreSize = "True",
 											name = "Label_change",
 											nTextAlign = "1",
 											nTextHAlign = "0",
@@ -2184,7 +2184,7 @@ local t =
 												PositionX = 49,
 												PositionY = 25,
 											},
-											width = "125",
+											width = "213",
 											ZOrder = "1",
 										},
 									},
@@ -2417,6 +2417,7 @@ local t =
 										PositionX = 65,
 										PositionY = 160,
 									},
+									visible = "False",
 									width = "117",
 									ZOrder = "1",
 								},
@@ -2500,7 +2501,7 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 671,
+								PositionX = 657,
 								PositionY = 500,
 							},
 							UItype = "Button",
@@ -2528,7 +2529,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "22",
 									fontStroke = 
 									{
 										IsStroke = false,

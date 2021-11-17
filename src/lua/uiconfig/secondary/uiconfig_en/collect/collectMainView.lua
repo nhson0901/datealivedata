@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -429,6 +429,8 @@ local t =
 									name = "Label_collector_rank",
 									nTextAlign = "1",
 									nTextHAlign = "1",
+									scaleX = "0.8",
+									scaleY = "0.8",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",

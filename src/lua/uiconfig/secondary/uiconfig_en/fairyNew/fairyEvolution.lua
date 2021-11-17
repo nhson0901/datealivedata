@@ -1956,7 +1956,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 134,
+										PositionX = 91,
 										PositionY = 193,
 									},
 									uipanelviewmodel = 
@@ -1991,7 +1991,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 232,
+												PositionX = 253,
 												PositionY = 26,
 											},
 											width = "100",
@@ -2016,14 +2016,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "17",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_wanneng",
 											nTextAlign = "1",
@@ -2037,10 +2037,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 277,
+												PositionX = 307,
 												PositionY = 23,
 											},
-											width = "27",
+											width = "38",
 											ZOrder = "1",
 										},
 										{
@@ -2062,14 +2062,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "17",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_wn_use",
 											nTextAlign = "1",
@@ -2083,10 +2083,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 252,
+												PositionX = 273,
 												PositionY = 23,
 											},
-											width = "19",
+											width = "26",
 											ZOrder = "1",
 										},
 										{
@@ -2160,15 +2160,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "15",
+											fontSize = "21",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "0",
-											ignoreSize = "False",
+											height = "24",
+											ignoreSize = "True",
 											name = "Label_change",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -2184,7 +2184,7 @@ local t =
 												PositionX = 49,
 												PositionY = 25,
 											},
-											width = "150",
+											width = "164",
 											ZOrder = "1",
 										},
 									},
@@ -2417,6 +2417,7 @@ local t =
 										PositionX = 65,
 										PositionY = 137,
 									},
+									visible = "False",
 									width = "79",
 									ZOrder = "1",
 								},
@@ -2528,7 +2529,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "17",
+									fontSize = "22",
 									fontStroke = 
 									{
 										IsStroke = false,

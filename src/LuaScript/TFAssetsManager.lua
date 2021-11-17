@@ -706,6 +706,9 @@ function TFAssetsManager:runNextDownload()
 end
 
 function TFAssetsManager:startDownLoad(task)
+	print("TFAssetsManager:startDownLoad >>")
+	dump(task)
+	
 	DownloadHelper:start(json.encode(task),
 		handler(self.onRemoteFileFond,self),
 		handler(self.onFileDownloading,self),

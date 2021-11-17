@@ -96,7 +96,7 @@ function WorldBossRankAwardView:refreshTaskView()
             item.Label_geted:setVisible(taskInfo.status == EC_TaskStatus.GETED)
         end
 
-        item.lab_num:setText(taskCfg.progress / 10000 .. "w" )
+        item.lab_num:setText(taskCfg.progress / 10000 * 10 .. TextDataMgr:getText(190001134))
         item.Button_receive:onClick(function()
             TaskDataMgr:send_TASK_SUBMIT_TASK(taskInfo.cid)
         end)

@@ -4,7 +4,7 @@ if CC_TARGET_PLATFORM == CC_PLATFORM_WIN32 then
     VERSION_DEBUG = true
 end
 
---是否打开日志
+--是否打开日志 print debug lua log
 DEBUG_LOG = false
 if (CC_TARGET_PLATFORM == CC_PLATFORM_WIN32) or DEBUG_PACKAGE then
     DEBUG_LOG = true

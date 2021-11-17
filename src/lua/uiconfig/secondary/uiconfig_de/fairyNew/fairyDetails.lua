@@ -2013,6 +2013,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "510",
 									ZOrder = "1",
 									components = 
@@ -7913,7 +7914,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "750",
 									ZOrder = "1",
 									components = 
@@ -9654,14 +9654,14 @@ local t =
 													anchorPoint = "False",
 													anchorPointX = "0.5",
 													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
+													backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 													classname = "MEButton",
 													ClickHighLightEnabled = "True",
 													dstBlendFunc = "771",
 													flipX = "False",
 													flipY = "False",
 													height = "58",
-													ignoreSize = "True",
+													ignoreSize = "False",
 													name = "Button_Awaken",
 													normal = "ui/fairy/new_ui/new_12.png",
 													pressed = "ui/fairy/new_ui/new_12.png",
@@ -9672,11 +9672,11 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = 459,
+														PositionX = 474,
 														PositionY = 43,
 													},
 													UItype = "Button",
-													width = "134",
+													width = "162",
 													ZOrder = "1",
 													components = 
 													{
@@ -9700,15 +9700,15 @@ local t =
 																OffsetX = 0,
 																OffsetY = 0,
 															},
-															fontSize = "18",
+															fontSize = "20",
 															fontStroke = 
 															{
 																IsStroke = false,
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "21",
-															ignoreSize = "True",
+															height = "0",
+															ignoreSize = "False",
 															name = "Label_fairyMain_1",
 															nTextAlign = "1",
 															nTextHAlign = "1",
@@ -9746,7 +9746,7 @@ local t =
 															touchAble = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 58,
+																PositionX = 75,
 																PositionY = 22,
 															},
 															width = "30",

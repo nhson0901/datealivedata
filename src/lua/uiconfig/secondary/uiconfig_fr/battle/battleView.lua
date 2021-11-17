@@ -220,7 +220,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionY = 765,
+								PositionY = 640,
 								relativeToName = "Panel_ui_effect_bottom",
 								nType = 3,
 							},
@@ -333,8 +333,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 907,
-										PositionY = 759,
+										PositionX = 1098,
+										PositionY = 634,
 										RightPosition = 38,
 										TopPosition = 6,
 										relativeToName = "Panel",
@@ -560,7 +560,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 13,
-										PositionY = 759,
+										PositionY = 634,
 										LeftPositon = 13,
 										TopPosition = 6,
 										relativeToName = "Panel_ui",
@@ -2037,8 +2037,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 340,
-										PositionY = 695,
+										PositionX = 531,
+										PositionY = 570,
 										RightPosition = 311,
 										TopPosition = 2,
 										relativeToName = "Panel_top",
@@ -2755,8 +2755,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 803,
-										PositionY = 528,
+										PositionX = 994,
+										PositionY = 403,
 										RightPosition = 50,
 										TopPosition = 53,
 										relativeToName = "Panel_ui",
@@ -3431,7 +3431,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 676,
+										PositionY = 551,
 										TopPosition = 89,
 										relativeToName = "Panel_ui",
 										nType = 3,
@@ -3541,8 +3541,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 945,
-										PositionY = 765,
+										PositionX = 1136,
+										PositionY = 640,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 3,
@@ -4021,8 +4021,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 945,
-										PositionY = 765,
+										PositionX = 1136,
+										PositionY = 640,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 3,
@@ -6577,8 +6577,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -95,
-										PositionY = 606,
+										PositionY = 481,
 										TopPosition = 103,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -6770,10 +6769,10 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 68,
-										PositionY = 621,
+										PositionY = 496,
 										IsPercent = true,
-										PercentX = 7.2,
-										PercentY = 81.18,
+										PercentX = 5.99,
+										PercentY = 77.5,
 										LeftPositon = 68,
 										TopPosition = 116,
 										relativeToName = "Panel_top",
@@ -8256,8 +8255,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 629,
-										PositionY = 600,
+										PositionX = 820,
+										PositionY = 475,
 										RightPosition = -114,
 										TopPosition = 75,
 										relativeToName = "Panel_top",
@@ -8474,8 +8473,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
-										PositionY = 459,
+										PositionX = 568,
+										PositionY = 334,
 										TopPosition = 240,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -8666,8 +8665,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
-										PositionY = 446,
+										PositionX = 568,
+										PositionY = 321,
 										TopPosition = 253,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -8808,8 +8807,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
-										PositionY = 445,
+										PositionX = 568,
+										PositionY = 320,
 										TopPosition = 199,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9026,8 +9025,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
-										PositionY = 474,
+										PositionX = 568,
+										PositionY = 349,
 										TopPosition = 241,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9188,7 +9187,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 176,
-										PositionY = 660,
+										PositionY = 535,
 										LeftPositon = 46,
 										TopPosition = 105,
 										relativeToName = "Panel_top",
@@ -9199,7 +9198,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "260",
 									ZOrder = "1",
 									components = 
@@ -9428,8 +9426,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
-										PositionY = 445,
+										PositionX = 568,
+										PositionY = 320,
 										TopPosition = 260,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9540,7 +9538,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
+										PositionX = 568,
 										PositionY = 134,
 										BottomPosition = 129,
 										relativeToName = "Panel_top",
@@ -9608,8 +9606,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
-										PositionY = 619,
+										PositionX = 568,
+										PositionY = 494,
 										TopPosition = 86,
 										relativeToName = "Panel_top",
 										nType = 3,
@@ -9725,8 +9723,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
-										PositionY = 382,
+										PositionX = 568,
+										PositionY = 320,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 6,
@@ -9766,8 +9764,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 392,
-												PositionY = 276,
+												PositionX = 488,
+												PositionY = 213,
 												RightPosition = 45,
 												TopPosition = 78,
 												relativeToName = "Panel_practice",
@@ -9851,8 +9849,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 392,
-												PositionY = 204,
+												PositionX = 488,
+												PositionY = 142,
 												RightPosition = 45,
 												TopPosition = 149,
 												relativeToName = "Panel_practice",
@@ -9936,8 +9934,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 392,
-												PositionY = 348,
+												PositionX = 488,
+												PositionY = 286,
 												RightPosition = 45,
 												TopPosition = 5,
 												relativeToName = "Panel_practice",
@@ -10906,7 +10904,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = -230,
+												PositionY = -167,
 												BottomPosition = 114,
 												relativeToName = "Panel_practice",
 												nType = 3,
@@ -11209,7 +11207,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 327,
+										PositionX = 518,
 										PositionY = 69,
 										RightPosition = 400,
 										BottomPosition = 29,
@@ -11481,7 +11479,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 176,
-										PositionY = 660,
+										PositionY = 535,
 										LeftPositon = 66,
 										TopPosition = 105,
 										relativeToName = "Panel_top",
@@ -11721,8 +11719,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 246,
-										PositionY = 745,
+										PositionX = 437,
+										PositionY = 620,
 										RightPosition = 269,
 										TopPosition = 20,
 										relativeToName = "Panel_top",
@@ -12349,7 +12347,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 44,
-										PositionY = 596,
+										PositionY = 471,
 										LeftPositon = 44,
 										TopPosition = 129,
 										relativeToName = "Panel_top",
@@ -12514,8 +12512,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
-										PositionY = 382,
+										PositionX = 568,
+										PositionY = 320,
 										relativeToName = "Panel_top",
 										nType = 3,
 										nGravity = 6,
@@ -14278,7 +14276,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 82,
-										PositionY = 593,
+										PositionY = 468,
 										LeftPositon = 82,
 										TopPosition = 132,
 										relativeToName = "Panel_top",
@@ -14496,7 +14494,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 472,
+										PositionX = 568,
 										PositionY = 180,
 										BottomPosition = 130,
 										relativeToName = "Panel_top",
@@ -14534,7 +14532,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 724,
+								PositionX = 915,
 								PositionY = 327,
 								RightPosition = 160,
 								BottomPosition = 303,
@@ -14566,8 +14564,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 472,
-								PositionY = 382,
+								PositionX = 568,
+								PositionY = 320,
 								relativeToName = "Panel_victory",
 								nType = 3,
 								nGravity = 6,
@@ -14645,8 +14643,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 472,
-								PositionY = 663,
+								PositionX = 568,
+								PositionY = 538,
 								TopPosition = 83,
 								relativeToName = "Panel_victory",
 								nType = 3,

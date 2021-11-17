@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -424,11 +424,13 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "29",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_collector_rank",
 									nTextAlign = "1",
 									nTextHAlign = "1",
+									scaleX = "0.8",
+									scaleY = "0.8",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -441,7 +443,7 @@ local t =
 										PositionX = -125,
 										PositionY = 53,
 									},
-									width = "72",
+									width = "160",
 									ZOrder = "1",
 								},
 								{

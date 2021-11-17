@@ -149,5 +149,15 @@ local t = {
 			canLoad=true,
 			logic="",
 		},
+		{
+			name="tipsGetMedal",
+			ui ="tipsGetMedal.lua",
+			x=0,
+			y=0,
+			speed=0,
+			layer="playerInfo",
+			canLoad=true,
+			logic="",
+		},
 }
 return t

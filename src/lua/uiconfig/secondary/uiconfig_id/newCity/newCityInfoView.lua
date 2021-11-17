@@ -1092,8 +1092,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -434,
-										PositionY = -17,
+										PositionX = -409,
+										PositionY = -15,
 									},
 									width = "94",
 									ZOrder = "1",
@@ -1138,8 +1138,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -381,
-										PositionY = -17,
+										PositionX = -322,
+										PositionY = -16,
 									},
 									width = "38",
 									ZOrder = "1",
@@ -1164,8 +1164,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -343,
-										PositionY = -17,
+										PositionX = -284,
+										PositionY = -16,
 									},
 									width = "17",
 									ZOrder = "1",
@@ -1210,8 +1210,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -307,
-										PositionY = -17,
+										PositionX = -248,
+										PositionY = -16,
 									},
 									width = "38",
 									ZOrder = "1",

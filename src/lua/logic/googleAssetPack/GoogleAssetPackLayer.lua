@@ -65,7 +65,7 @@ function GoogleAssetPackLayer:checkAssetPackStatus( )
         elseif packStatus == TFClientGameAssetManager.ASSET_PENDING then
 
         elseif packStatus == TFClientGameAssetManager.ASSET_DOWNLOADING then
-            self:displayDownLoading(_info.packName)
+            --self:displayDownLoading(_info.packName)
         elseif packStatus == TFClientGameAssetManager.ASSET_TRANSFERRING then
             self:displayTransFerring(_info.packName)
         elseif packStatus == TFClientGameAssetManager.ASSET_COMPLETED then
@@ -79,6 +79,32 @@ function GoogleAssetPackLayer:checkAssetPackStatus( )
         elseif packStatus == TFClientGameAssetManager.ASSET_NOT_INSTALLED then
 
         end
+    end
+
+    local downLoadingPacks = {}
+    for i,_info in ipairs(self.assetPacks) do
+        local packStatus = TFClientGameAssetManager:getAssetPackStatus(_info.packName)
+        if packStatus == TFClientGameAssetManager.ASSET_DOWNLOADING then
+            local totalSize = TFClientGameAssetManager:getAssetPackTotalSize(_info.packName)
+            local downLoadedSize = TFClientGameAssetManager:getAssetPackDownLoaded(_info.packName)
+            local percent = 100*downLoadedSize/totalSize
+            if percent < 100 then
+                table.insert(downLoadingPacks, {idx = i, downLoadedPercent = percent,  packName = _info.packName})
+            end
+        end
+    end
+    table.sort(downLoadingPacks, function(a, b)
+        if a.downLoadedPercent > b.downLoadedPercent then
+            return true
+        elseif a.downLoadedPercent < b.downLoadedPercent then
+            return false
+        else
+            return a.idx < b.idx
+        end
+    end)
+
+    if #downLoadingPacks > 0 then
+        self:displayDownLoading(downLoadingPacks[1].packName)
     end
 end
 
