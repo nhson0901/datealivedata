@@ -706,9 +706,6 @@ function TFAssetsManager:runNextDownload()
 end
 
 function TFAssetsManager:startDownLoad(task)
-	print("TFAssetsManager:startDownLoad >>")
-	dump(task)
-	
 	DownloadHelper:start(json.encode(task),
 		handler(self.onRemoteFileFond,self),
 		handler(self.onFileDownloading,self),
@@ -984,6 +981,7 @@ function TFAssetsManager:unZipAwb( callBack )
 	Utils:openView("common.UnZipFileLayer", callBack)
 end
 
+--canUnzipAwb
 function TFAssetsManager:canUnzipAwb( )
 	if TFClientAwbBundle == nil then 
 		return false

@@ -3,11 +3,11 @@ local VideoView = class("VideoView", BaseLayer)
 function VideoView:initData(...)
     self.videoPathList_ = {...}
 
-    for idx,_path in ipairs(self.videoPathList_) do
-        if not TFFileUtil:existFile(_path) then
-            self.videoPathList_[idx] = "video/cg_main_shixiangzhezhishuaidao.mp4"
-        end
-    end
+    -- for idx,_path in ipairs(self.videoPathList_) do
+    --     -- if not TFFileUtil:existFile(_path) then
+    --     --     self.videoPathList_[idx] = "video/cg_main_shixiangzhezhishuaidao.mp4"
+    --     -- end
+    -- end
     
     self.videoPathIndex_ = 1
     self.videoPlayer_ = nil

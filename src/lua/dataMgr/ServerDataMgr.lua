@@ -17,6 +17,7 @@ function ServerDataMgr:init()
             list = {
                 "yuxie",
                 "sunaofeng",
+                "yx_game1",
             }
         },
         ["cehua"] = {

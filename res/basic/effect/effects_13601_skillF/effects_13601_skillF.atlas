@@ -1,0 +1,230 @@
+
+effects_13601_skillF.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effects/glow_000
+  rotate: false
+  xy: 1889, 1688
+  size: 96, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+images/effects/guangxian
+  rotate: false
+  xy: 964, 601
+  size: 247, 105
+  orig: 256, 128
+  offset: 0, 11
+  index: -1
+images/effects/skillF/canying_000
+  rotate: false
+  xy: 1363, 813
+  size: 212, 233
+  orig: 256, 256
+  offset: 19, 23
+  index: -1
+images/effects/skillF/shuibao1/shuibao1_005
+  rotate: true
+  xy: 331, 2
+  size: 310, 284
+  orig: 450, 330
+  offset: 75, 9
+  index: -1
+images/effects/skillF/shuibao1/shuibao1_007
+  rotate: false
+  xy: 1350, 1048
+  size: 342, 316
+  orig: 450, 330
+  offset: 59, 0
+  index: -1
+images/effects/skillF/shuibao1/shuibao1_009
+  rotate: false
+  xy: 964, 1060
+  size: 384, 284
+  orig: 450, 330
+  offset: 29, 34
+  index: -1
+images/effects/skillF/shuibao1/shuibao1_011
+  rotate: false
+  xy: 488, 699
+  size: 417, 289
+  orig: 450, 330
+  offset: 19, 28
+  index: -1
+images/effects/skillF/shuibao1/shuibao1_013
+  rotate: false
+  xy: 1341, 1366
+  size: 417, 300
+  orig: 450, 330
+  offset: 27, 14
+  index: -1
+images/effects/skillF/shuibao1/shuibao1_015
+  rotate: false
+  xy: 617, 4
+  size: 328, 281
+  orig: 450, 330
+  offset: 59, 32
+  index: -1
+images/effects/skillF/shuibao1/shuibao1_017
+  rotate: false
+  xy: 2, 2
+  size: 327, 270
+  orig: 450, 330
+  offset: 60, 32
+  index: -1
+images/effects/skillF/shuibao2/shuibao2_005
+  rotate: false
+  xy: 962, 1346
+  size: 377, 342
+  orig: 500, 400
+  offset: 68, 12
+  index: -1
+images/effects/skillF/shuibao2/shuibao2_007
+  rotate: false
+  xy: 2, 922
+  size: 444, 385
+  orig: 500, 400
+  offset: 30, 0
+  index: -1
+images/effects/skillF/shuibao2/shuibao2_009
+  rotate: false
+  xy: 486, 1685
+  size: 467, 361
+  orig: 500, 400
+  offset: 18, 30
+  index: -1
+images/effects/skillF/shuibao2/shuibao2_011
+  rotate: false
+  xy: 2, 1309
+  size: 477, 363
+  orig: 500, 400
+  offset: 14, 25
+  index: -1
+images/effects/skillF/shuibao2/shuibao2_013
+  rotate: false
+  xy: 2, 1674
+  size: 482, 372
+  orig: 500, 400
+  offset: 16, 16
+  index: -1
+images/effects/skillF/shuibao2/shuibao2_015
+  rotate: false
+  xy: 955, 1690
+  size: 428, 356
+  orig: 500, 400
+  offset: 27, 21
+  index: -1
+images/effects/skillF/shuibao2/shuibao2_017
+  rotate: true
+  xy: 143, 493
+  size: 427, 343
+  orig: 500, 400
+  offset: 26, 21
+  index: -1
+images/effects/skillF/shuibao2/shuibao2_019
+  rotate: false
+  xy: 626, 287
+  size: 386, 235
+  orig: 500, 400
+  offset: 53, 53
+  index: -1
+images/effects/skillF/shuidi/shuidi_005
+  rotate: false
+  xy: 486, 1517
+  size: 468, 166
+  orig: 500, 220
+  offset: 20, 21
+  index: -1
+images/effects/skillF/shuidi/shuidi_007
+  rotate: false
+  xy: 481, 1166
+  size: 481, 172
+  orig: 500, 220
+  offset: 8, 20
+  index: -1
+images/effects/skillF/shuidi/shuidi_009
+  rotate: false
+  xy: 143, 314
+  size: 481, 177
+  orig: 500, 220
+  offset: 8, 20
+  index: -1
+images/effects/skillF/shuidi/shuidi_011
+  rotate: false
+  xy: 481, 1340
+  size: 479, 175
+  orig: 500, 220
+  offset: 14, 20
+  index: -1
+images/effects/skillF/shuidi/shuidi_013
+  rotate: false
+  xy: 448, 990
+  size: 480, 174
+  orig: 500, 220
+  offset: 14, 20
+  index: -1
+images/effects/skillF/shuidi/shuidi_015
+  rotate: false
+  xy: 488, 524
+  size: 474, 173
+  orig: 500, 220
+  offset: 15, 21
+  index: -1
+images/effects/skillF/shuidi/shuidi_017
+  rotate: true
+  xy: 1760, 1204
+  size: 462, 170
+  orig: 500, 220
+  offset: 24, 21
+  index: -1
+images/effects/skillF/shuidi/shuidi_019
+  rotate: false
+  xy: 907, 808
+  size: 454, 167
+  orig: 500, 220
+  offset: 24, 21
+  index: -1
+images/effects/skillF/xiaxian/xiaxian_000
+  rotate: true
+  xy: 930, 977
+  size: 81, 382
+  orig: 150, 750
+  offset: 41, 368
+  index: -1
+images/effects/skillF/xiaxian/xiaxian_001
+  rotate: true
+  xy: 1385, 1786
+  size: 126, 609
+  orig: 150, 750
+  offset: 22, 133
+  index: -1
+images/effects/skillF/xiaxian/xiaxian_003
+  rotate: false
+  xy: 2, 274
+  size: 139, 646
+  orig: 150, 750
+  offset: 10, 12
+  index: -1
+images/effects/skillF/xiaxian/xiaxian_005
+  rotate: true
+  xy: 1385, 1914
+  size: 132, 652
+  orig: 150, 750
+  offset: 13, 1
+  index: -1
+images/effects/skillF/xiaxian/xiaxian_007
+  rotate: true
+  xy: 1385, 1668
+  size: 116, 502
+  orig: 150, 750
+  offset: 21, 12
+  index: -1
+images/effects/skillF/xiaxian/xiaxian_009
+  rotate: true
+  xy: 907, 708
+  size: 98, 419
+  orig: 150, 750
+  offset: 27, 12
+  index: -1

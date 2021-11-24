@@ -128,8 +128,9 @@ function GoogleAssetPackLayer:displayDownLoading( assetPackName )
     local downLoadedSizeMb = math.ceil(downLoadedSize/(1024*1024))
     local totalSizeMb = math.ceil(totalSize/(1024*1024))
 
-    self.percentLabel:setText(string.format(self.strCfg[800093].text, percent) .." (" ..downLoadedSizeMb .."/" ..totalSizeMb ..")")
+    self.percentLabel:setText(string.format(self.strCfg[800093].text, percent) .." (" ..downLoadedSizeMb .."M/" ..totalSizeMb .."M)")
     self.percentLabel:show()
+    
 end
 
 function GoogleAssetPackLayer:displayTransFerring( assetPackName )

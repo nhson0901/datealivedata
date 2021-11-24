@@ -1417,11 +1417,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 814,
+										PositionX = 807,
 										PositionY = 107,
 									},
 									UItype = "Button",
-									width = "120",
+									width = "137",
 									ZOrder = "1",
 									components = 
 									{
@@ -1466,7 +1466,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -23,
+												PositionX = -32,
 												PositionY = -2,
 											},
 											width = "65",
@@ -1540,7 +1540,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 32,
+												PositionX = 29,
 												PositionY = -13,
 											},
 											width = "39",

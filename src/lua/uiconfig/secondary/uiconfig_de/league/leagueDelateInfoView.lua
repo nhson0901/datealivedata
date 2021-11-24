@@ -911,7 +911,7 @@ local t =
 									controlID = "Label_active_Panel_member_item_Panel_base_Panel-leagueDelateInfoView_Layer1_league_Game",
 									UUID = "711c4cad_27bb_477f_8ff5_8070228ab36e",
 									anchorPoint = "False",
-									anchorPointX = "0",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -947,7 +947,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 250,
+										PositionX = 343,
 									},
 									width = "108",
 									ZOrder = "1",

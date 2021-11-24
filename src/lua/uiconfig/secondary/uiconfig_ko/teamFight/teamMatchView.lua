@@ -5362,11 +5362,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "88",
-							ignoreSize = "True",
+							height = "104",
+							ignoreSize = "False",
 							name = "Image_affix_item",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -5452,7 +5452,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 204,
-										PositionY = 26,
+										PositionY = 33,
 									},
 									width = "115",
 									ZOrder = "1",
@@ -5500,7 +5500,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -116,
-										PositionY = 6,
+										PositionY = 11,
 									},
 									width = "404",
 									ZOrder = "1",

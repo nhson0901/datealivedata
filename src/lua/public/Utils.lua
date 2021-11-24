@@ -610,8 +610,8 @@ function Utils:format_number_w(count, boundaryNumber)
     boundaryNumber = boundaryNumber or math.pow(10, 5)
     local rets = tostring(count)
     if count >= boundaryNumber then
-        local foo = math.floor(count / 10000)
-        rets = tostring(foo) .. "w"
+        local foo = math.floor(count / 10000)*10
+        rets = tostring(foo) .. "k"
     end
     return rets
 end

@@ -331,11 +331,11 @@ function LoginLayer:loginAccountSuccess()
 		end
 	end
 
-	if CC_TARGET_PLATFORM ~= CC_PLATFORM_WIN32 then
-		if self.showWebView then
-			self:showWebView();
-		end
-	end
+	-- if CC_TARGET_PLATFORM ~= CC_PLATFORM_WIN32 then
+	-- 	if self.showWebView then
+	-- 		self:showWebView();
+	-- 	end
+	-- end
 end
 
 function LoginLayer:loginBtnCallback()
@@ -579,10 +579,10 @@ function LoginLayer.enterNextPage(sender)
 				return;
 			end
 
-			if not self.isShowWeb then
-				self:showWebView();
-				return;
-			end
+			-- if not self.isShowWeb then
+			-- 	self:showWebView();
+			-- 	return;
+			-- end
 
 			if not LogonHelper:isVerification() then
 				LogonHelper:loginVerification();

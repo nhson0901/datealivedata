@@ -5049,7 +5049,7 @@ return {
         type1 = 1,
     },
     [11066] = {
-        sortForMainBgm = 0,
+        sortForMainBgm = 66,
         soundName = 0,
         bgm = "sound/bgm/kanban/main_linmi_13303.mp3",
         id = 11066,
@@ -9273,7 +9273,7 @@ return {
         type1 = 1,
     },
     [11069] = {
-        sortForMainBgm = 0,
+        sortForMainBgm = 69,
         soundName = 0,
         bgm = "sound/bgm/kanban/main_13202.mp3",
         id = 11069,

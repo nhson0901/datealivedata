@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -243,7 +243,7 @@ local t =
 											{
 												
 											},
-											width = "51",
+											width = "100",
 											ZOrder = "1",
 										},
 									},
@@ -274,8 +274,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_tips",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -290,7 +290,7 @@ local t =
 									{
 										PositionY = 46,
 									},
-									width = "458",
+									width = "544",
 									ZOrder = "1",
 								},
 								{
@@ -364,7 +364,7 @@ local t =
 										PositionX = -4,
 										PositionY = -34,
 									},
-									width = "66",
+									width = "70",
 									ZOrder = "1",
 								},
 								{
@@ -393,7 +393,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -410,7 +410,7 @@ local t =
 										PositionX = -284,
 										PositionY = 150,
 									},
-									width = "45",
+									width = "43",
 									ZOrder = "1",
 								},
 							},

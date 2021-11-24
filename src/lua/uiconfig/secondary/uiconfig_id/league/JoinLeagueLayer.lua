@@ -998,7 +998,7 @@ local t =
 									controlID = "Label_limit_Panel_league_item_Panel_prefab_Panel-JoinLeagueLayer_Layer1_league_Game",
 									UUID = "ef72c142_1b31_4363_88ba_a2bf771aea2b",
 									anchorPoint = "False",
-									anchorPointX = "0",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -1034,8 +1034,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -50,
-										PositionY = -35,
+										PositionX = 67,
+										PositionY = -36,
 									},
 									width = "113",
 									ZOrder = "1",
@@ -1172,8 +1172,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 50,
-										PositionY = -35,
+										PositionX = 75,
+										PositionY = -36,
 									},
 									width = "122",
 									ZOrder = "1",

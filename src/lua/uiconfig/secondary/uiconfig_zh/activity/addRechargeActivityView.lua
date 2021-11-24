@@ -94,7 +94,7 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "2",
+							height = "546",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
@@ -108,7 +108,7 @@ local t =
 								PositionX = 3,
 								PositionY = -1,
 							},
-							width = "2",
+							width = "890",
 							ZOrder = "1",
 							components = 
 							{
@@ -141,7 +141,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 148,
-										PositionY = -56,
+										PositionY = -107,
 									},
 									uipanelviewmodel = 
 									{

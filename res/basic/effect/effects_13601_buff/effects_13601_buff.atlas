@@ -1,0 +1,328 @@
+
+effects_13601_buff.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effects/buff/buff2/buff2_000
+  rotate: false
+  xy: 2, 1492
+  size: 226, 273
+  orig: 300, 300
+  offset: 30, 3
+  index: -1
+images/effects/buff/buff2/buff2_002
+  rotate: false
+  xy: 460, 1773
+  size: 229, 273
+  orig: 300, 300
+  offset: 29, 7
+  index: -1
+images/effects/buff/buff2/buff2_004
+  rotate: true
+  xy: 1394, 1815
+  size: 231, 267
+  orig: 300, 300
+  offset: 29, 12
+  index: -1
+images/effects/buff/buff2/buff2_006
+  rotate: false
+  xy: 230, 1504
+  size: 232, 265
+  orig: 300, 300
+  offset: 29, 11
+  index: -1
+images/effects/buff/buff2/buff2_008
+  rotate: false
+  xy: 406, 386
+  size: 232, 261
+  orig: 300, 300
+  offset: 30, 12
+  index: -1
+images/effects/buff/buff2/buff2_010
+  rotate: false
+  xy: 1166, 1515
+  size: 231, 263
+  orig: 300, 300
+  offset: 31, 10
+  index: -1
+images/effects/buff/buff2/buff2_012
+  rotate: false
+  xy: 691, 1778
+  size: 232, 268
+  orig: 300, 300
+  offset: 30, 8
+  index: -1
+images/effects/buff/buff2/buff2_014
+  rotate: false
+  xy: 925, 1778
+  size: 232, 268
+  orig: 300, 300
+  offset: 29, 9
+  index: -1
+images/effects/buff/buff2/buff2_016
+  rotate: false
+  xy: 1159, 1780
+  size: 233, 266
+  orig: 300, 300
+  offset: 28, 10
+  index: -1
+images/effects/buff/buff2/buff2_018
+  rotate: false
+  xy: 464, 1507
+  size: 233, 264
+  orig: 300, 300
+  offset: 28, 12
+  index: -1
+images/effects/buff/buff2/buff2_020
+  rotate: false
+  xy: 699, 1512
+  size: 232, 264
+  orig: 300, 300
+  offset: 28, 12
+  index: -1
+images/effects/buff/buff2/buff2_022
+  rotate: false
+  xy: 933, 1512
+  size: 231, 264
+  orig: 300, 300
+  offset: 29, 13
+  index: -1
+images/effects/buff/buff2/buff2_024
+  rotate: false
+  xy: 230, 1771
+  size: 228, 275
+  orig: 300, 300
+  offset: 30, 0
+  index: -1
+images/effects/buff/buff2/buff2_026
+  rotate: false
+  xy: 406, 649
+  size: 228, 263
+  orig: 300, 300
+  offset: 30, 13
+  index: -1
+images/effects/buff/buff2/buff2_028
+  rotate: false
+  xy: 2, 1767
+  size: 226, 279
+  orig: 300, 300
+  offset: 30, 0
+  index: -1
+images/effects/buff/buff3/buff3_000
+  rotate: false
+  xy: 1399, 1519
+  size: 200, 294
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_002
+  rotate: false
+  xy: 406, 1209
+  size: 199, 293
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_004
+  rotate: false
+  xy: 406, 914
+  size: 198, 293
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_006
+  rotate: false
+  xy: 1601, 1519
+  size: 200, 294
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_008
+  rotate: false
+  xy: 1803, 1552
+  size: 200, 294
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_010
+  rotate: false
+  xy: 204, 309
+  size: 200, 293
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_012
+  rotate: false
+  xy: 204, 1196
+  size: 200, 294
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_014
+  rotate: false
+  xy: 204, 900
+  size: 200, 294
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_016
+  rotate: false
+  xy: 204, 604
+  size: 200, 294
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_018
+  rotate: false
+  xy: 2, 892
+  size: 200, 297
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_020
+  rotate: false
+  xy: 2, 1191
+  size: 200, 299
+  orig: 200, 300
+  offset: 0, 1
+  index: -1
+images/effects/buff/buff3/buff3_022
+  rotate: false
+  xy: 2, 594
+  size: 200, 296
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_024
+  rotate: false
+  xy: 2, 2
+  size: 197, 292
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_026
+  rotate: true
+  xy: 1663, 1848
+  size: 198, 299
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/buff3/buff3_028
+  rotate: false
+  xy: 2, 296
+  size: 200, 296
+  orig: 200, 300
+  offset: 0, 0
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_000
+  rotate: false
+  xy: 935, 1351
+  size: 167, 159
+  orig: 180, 180
+  offset: 6, 10
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_002
+  rotate: false
+  xy: 770, 1341
+  size: 163, 169
+  orig: 180, 180
+  offset: 9, 2
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_004
+  rotate: false
+  xy: 607, 1334
+  size: 161, 171
+  orig: 180, 180
+  offset: 10, 0
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_006
+  rotate: true
+  xy: 607, 1174
+  size: 158, 162
+  orig: 180, 180
+  offset: 12, 9
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_008
+  rotate: true
+  xy: 1104, 1349
+  size: 161, 157
+  orig: 180, 180
+  offset: 9, 13
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_010
+  rotate: false
+  xy: 406, 230
+  size: 166, 154
+  orig: 180, 180
+  offset: 8, 15
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_012
+  rotate: true
+  xy: 935, 1180
+  size: 169, 155
+  orig: 180, 180
+  offset: 6, 13
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_014
+  rotate: false
+  xy: 1092, 1191
+  size: 164, 156
+  orig: 180, 180
+  offset: 8, 12
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_016
+  rotate: false
+  xy: 771, 1177
+  size: 162, 162
+  orig: 180, 180
+  offset: 8, 6
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_018
+  rotate: false
+  xy: 1418, 1359
+  size: 160, 158
+  orig: 180, 180
+  offset: 10, 11
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_020
+  rotate: false
+  xy: 1580, 1359
+  size: 156, 158
+  orig: 180, 180
+  offset: 11, 13
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_022
+  rotate: false
+  xy: 1738, 1361
+  size: 154, 156
+  orig: 180, 180
+  offset: 11, 15
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_024
+  rotate: false
+  xy: 574, 229
+  size: 156, 155
+  orig: 180, 180
+  offset: 12, 15
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_026
+  rotate: true
+  xy: 1263, 1351
+  size: 162, 153
+  orig: 180, 180
+  offset: 10, 16
+  index: -1
+images/effects/buff/shuiqiu/shuiqiu_028
+  rotate: true
+  xy: 606, 1004
+  size: 168, 157
+  orig: 180, 180
+  offset: 6, 12
+  index: -1
+images/effects/glow_000
+  rotate: false
+  xy: 1894, 1454
+  size: 96, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1

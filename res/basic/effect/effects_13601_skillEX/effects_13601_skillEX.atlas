@@ -1,0 +1,223 @@
+
+effects_13601_skillEX.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effects/glow_000
+  rotate: false
+  xy: 1144, 1652
+  size: 96, 96
+  orig: 100, 100
+  offset: 2, 2
+  index: -1
+images/effects/guangxian
+  rotate: true
+  xy: 568, 931
+  size: 247, 105
+  orig: 256, 128
+  offset: 0, 11
+  index: -1
+images/effects/skillEX/dao/dao_010
+  rotate: true
+  xy: 2, 15
+  size: 78, 140
+  orig: 320, 270
+  offset: 47, 93
+  index: -1
+images/effects/skillEX/dao/dao_012
+  rotate: false
+  xy: 2, 95
+  size: 262, 212
+  orig: 320, 270
+  offset: 9, 43
+  index: -1
+images/effects/skillEX/dao/dao_014
+  rotate: false
+  xy: 423, 1429
+  size: 257, 194
+  orig: 320, 270
+  offset: 47, 45
+  index: -1
+images/effects/skillEX/dao/dao_016
+  rotate: true
+  xy: 515, 1180
+  size: 247, 182
+  orig: 320, 270
+  offset: 59, 45
+  index: -1
+images/effects/skillEX/dao/dao_018
+  rotate: true
+  xy: 411, 844
+  size: 250, 155
+  orig: 320, 270
+  offset: 56, 45
+  index: -1
+images/effects/skillEX/dao/dao_020
+  rotate: true
+  xy: 1930, 1809
+  size: 237, 116
+  orig: 320, 270
+  offset: 46, 48
+  index: -1
+images/effects/skillEX/dishui/dishui_012
+  rotate: true
+  xy: 411, 1096
+  size: 297, 102
+  orig: 340, 150
+  offset: 22, 25
+  index: -1
+images/effects/skillEX/dishui/dishui_014
+  rotate: false
+  xy: 430, 1625
+  size: 317, 109
+  orig: 340, 150
+  offset: 4, 25
+  index: -1
+images/effects/skillEX/dishui/dishui_016
+  rotate: true
+  xy: 297, 1066
+  size: 327, 112
+  orig: 340, 150
+  offset: 0, 25
+  index: -1
+images/effects/skillEX/dishui/dishui_018
+  rotate: false
+  xy: 1256, 1654
+  size: 313, 112
+  orig: 340, 150
+  offset: 15, 24
+  index: -1
+images/effects/skillEX/dishui/dishui_020
+  rotate: true
+  xy: 297, 740
+  size: 324, 112
+  orig: 340, 150
+  offset: 13, 23
+  index: -1
+images/effects/skillEX/dishui/dishui_022
+  rotate: false
+  xy: 1597, 1703
+  size: 318, 114
+  orig: 340, 150
+  offset: 13, 22
+  index: -1
+images/effects/skillEX/dishui/dishui_024
+  rotate: false
+  xy: 1571, 1594
+  size: 302, 107
+  orig: 340, 150
+  offset: 21, 26
+  index: -1
+images/effects/skillEX/dishui/dishui_026
+  rotate: false
+  xy: 843, 1646
+  size: 299, 102
+  orig: 340, 150
+  offset: 19, 29
+  index: -1
+images/effects/skillEX/shan/shan_000
+  rotate: false
+  xy: 297, 689
+  size: 50, 49
+  orig: 200, 200
+  offset: 75, 76
+  index: -1
+images/effects/skillEX/shan/shan_001
+  rotate: false
+  xy: 411, 662
+  size: 179, 180
+  orig: 200, 200
+  offset: 11, 10
+  index: -1
+images/effects/skillEX/shan/shan_002
+  rotate: false
+  xy: 682, 1443
+  size: 179, 180
+  orig: 200, 200
+  offset: 11, 10
+  index: -1
+images/effects/skillEX/shan/shan_003
+  rotate: false
+  xy: 699, 1273
+  size: 168, 168
+  orig: 200, 200
+  offset: 16, 16
+  index: -1
+images/effects/skillEX/shan/shan_004
+  rotate: false
+  xy: 863, 1525
+  size: 119, 119
+  orig: 200, 200
+  offset: 41, 40
+  index: -1
+images/effects/skillEX/shan/shan_005
+  rotate: true
+  xy: 515, 1126
+  size: 52, 49
+  orig: 200, 200
+  offset: 74, 75
+  index: -1
+images/effects/skillEX/shiubao/shuibao_001
+  rotate: true
+  xy: 2, 309
+  size: 318, 291
+  orig: 450, 350
+  offset: 64, 13
+  index: -1
+images/effects/skillEX/shiubao/shuibao_003
+  rotate: false
+  xy: 2, 1395
+  size: 419, 316
+  orig: 450, 350
+  offset: 23, 13
+  index: -1
+images/effects/skillEX/shiubao/shuibao_005
+  rotate: false
+  xy: 2, 1713
+  size: 426, 333
+  orig: 450, 350
+  offset: 21, 13
+  index: -1
+images/effects/skillEX/shiubao/shuibao_007
+  rotate: false
+  xy: 430, 1736
+  size: 411, 310
+  orig: 450, 350
+  offset: 23, 13
+  index: -1
+images/effects/skillEX/shiubao/shuibao_009
+  rotate: true
+  xy: 2, 967
+  size: 426, 293
+  orig: 450, 350
+  offset: 11, 13
+  index: -1
+images/effects/skillEX/shiubao/shuibao_011
+  rotate: false
+  xy: 843, 1750
+  size: 411, 296
+  orig: 450, 350
+  offset: 39, 13
+  index: -1
+images/effects/skillEX/shiubao/shuibao_013
+  rotate: true
+  xy: 2, 629
+  size: 336, 293
+  orig: 450, 350
+  offset: 49, 13
+  index: -1
+images/effects/skillEX/shiubao/shuibao_015
+  rotate: false
+  xy: 1256, 1768
+  size: 339, 278
+  orig: 450, 350
+  offset: 46, 19
+  index: -1
+images/effects/skillEX/shiubao/shuibao_017
+  rotate: false
+  xy: 1597, 1819
+  size: 331, 227
+  orig: 450, 350
+  offset: 45, 34
+  index: -1

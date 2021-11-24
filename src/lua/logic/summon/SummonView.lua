@@ -866,11 +866,7 @@ function SummonView:registerEvents()
                         local firstIcon = TabDataMgr:getData("Item", firstCost.id).icon
                         if ownFirstNum > 0 then
                             if isMultiple then        
-                                if TFLanguageMgr:getUsingLanguage() == cc.KOREAN then
-                                    content = string.format(formatStr, firstIcon, ownFirstNum, costIcon, cost.num - ownFirstNum)
-                                else
-                                    content = string.format(formatStr, ownFirstNum, firstIcon, cost.num - ownFirstNum, costIcon)
-                                end
+                                content = string.format(formatStr, ownFirstNum, firstIcon, cost.num - ownFirstNum, costIcon)
                             else                   
                                 if TFLanguageMgr:getUsingLanguage() == cc.KOREAN then
                                     content = string.format(formatStr, firstIcon, cost.num)

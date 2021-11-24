@@ -1,0 +1,314 @@
+
+BaiFengLiSha_YuJing.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effects/chongciyujin/chongciyujin_001
+  rotate: false
+  xy: 468, 1226
+  size: 133, 84
+  orig: 600, 150
+  offset: 0, 31
+  index: -1
+effects/chongciyujin/chongciyujin_002
+  rotate: false
+  xy: 1647, 1326
+  size: 175, 86
+  orig: 600, 150
+  offset: 0, 30
+  index: -1
+effects/chongciyujin/chongciyujin_003
+  rotate: false
+  xy: 1799, 1949
+  size: 237, 87
+  orig: 600, 150
+  offset: 0, 29
+  index: -1
+effects/chongciyujin/chongciyujin_004
+  rotate: false
+  xy: 1089, 1734
+  size: 313, 87
+  orig: 600, 150
+  offset: 0, 29
+  index: -1
+effects/chongciyujin/chongciyujin_005
+  rotate: false
+  xy: 581, 1860
+  size: 412, 87
+  orig: 600, 150
+  offset: 0, 29
+  index: -1
+effects/chongciyujin/chongciyujin_006
+  rotate: false
+  xy: 601, 1949
+  size: 512, 87
+  orig: 600, 150
+  offset: 0, 29
+  index: -1
+effects/chongciyujin/chongciyujin_007
+  rotate: false
+  xy: 2, 1860
+  size: 577, 87
+  orig: 600, 150
+  offset: 0, 29
+  index: -1
+effects/chongciyujin/chongciyujin_008
+  rotate: false
+  xy: 2, 1949
+  size: 597, 87
+  orig: 600, 150
+  offset: 0, 29
+  index: -1
+effects/fenshenyujing/fenshenyujing_000
+  rotate: false
+  xy: 2, 12
+  size: 283, 288
+  orig: 400, 400
+  offset: 58, 56
+  index: -1
+effects/fenshenyujing/fenshenyujing_002
+  rotate: false
+  xy: 2, 614
+  size: 300, 302
+  orig: 400, 400
+  offset: 50, 49
+  index: -1
+effects/fenshenyujing/fenshenyujing_004
+  rotate: false
+  xy: 2, 918
+  size: 300, 305
+  orig: 400, 400
+  offset: 50, 49
+  index: -1
+effects/fenshenyujing/fenshenyujing_006
+  rotate: false
+  xy: 2, 1225
+  size: 294, 315
+  orig: 400, 400
+  offset: 53, 50
+  index: -1
+effects/fenshenyujing/fenshenyujing_008
+  rotate: false
+  xy: 2, 1542
+  size: 294, 316
+  orig: 400, 400
+  offset: 53, 50
+  index: -1
+effects/fenshenyujing/fenshenyujing_010
+  rotate: false
+  xy: 2, 302
+  size: 286, 310
+  orig: 400, 400
+  offset: 55, 56
+  index: -1
+effects/fenshenyujing/fenshenyujing_012
+  rotate: false
+  xy: 1431, 1838
+  size: 230, 88
+  orig: 400, 400
+  offset: 55, 129
+  index: -1
+effects/hailangyujing/hailangyujing_000
+  rotate: true
+  xy: 986, 1520
+  size: 338, 101
+  orig: 340, 120
+  offset: 2, 9
+  index: -1
+effects/hailangyujing/hailangyujing_002
+  rotate: true
+  xy: 879, 1522
+  size: 336, 105
+  orig: 340, 120
+  offset: 4, 7
+  index: -1
+effects/hailangyujing/hailangyujing_004
+  rotate: false
+  xy: 529, 1419
+  size: 339, 107
+  orig: 340, 120
+  offset: 1, 5
+  index: -1
+effects/hailangyujing/hailangyujing_006
+  rotate: false
+  xy: 537, 1636
+  size: 340, 109
+  orig: 340, 120
+  offset: 0, 4
+  index: -1
+effects/hailangyujing/hailangyujing_008
+  rotate: false
+  xy: 537, 1747
+  size: 340, 111
+  orig: 340, 120
+  offset: 0, 3
+  index: -1
+effects/hailangyujing/hailangyujing_010
+  rotate: false
+  xy: 1115, 1928
+  size: 340, 108
+  orig: 340, 120
+  offset: 0, 5
+  index: -1
+effects/hailangyujing/hailangyujing_012
+  rotate: false
+  xy: 1457, 1928
+  size: 340, 108
+  orig: 340, 120
+  offset: 0, 5
+  index: -1
+effects/hailangyujing/hailangyujing_014
+  rotate: false
+  xy: 537, 1528
+  size: 340, 106
+  orig: 340, 120
+  offset: 0, 6
+  index: -1
+effects/hailangyujing/hailangyujing_016
+  rotate: false
+  xy: 529, 1312
+  size: 340, 105
+  orig: 340, 120
+  offset: 0, 7
+  index: -1
+effects/hailangyujing/hailangyujing_018
+  rotate: false
+  xy: 1089, 1823
+  size: 340, 103
+  orig: 340, 120
+  offset: 0, 8
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_000
+  rotate: false
+  xy: 298, 1622
+  size: 237, 236
+  orig: 300, 300
+  offset: 30, 32
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_001
+  rotate: false
+  xy: 298, 1392
+  size: 229, 228
+  orig: 300, 300
+  offset: 34, 36
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_002
+  rotate: false
+  xy: 1089, 1532
+  size: 200, 200
+  orig: 300, 300
+  offset: 49, 50
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_003
+  rotate: false
+  xy: 1663, 1762
+  size: 166, 164
+  orig: 300, 300
+  offset: 66, 68
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_004
+  rotate: true
+  xy: 298, 1226
+  size: 164, 168
+  orig: 300, 300
+  offset: 68, 66
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_005
+  rotate: false
+  xy: 304, 1044
+  size: 176, 180
+  orig: 300, 300
+  offset: 62, 60
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_007
+  rotate: false
+  xy: 304, 862
+  size: 177, 180
+  orig: 300, 300
+  offset: 61, 60
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_009
+  rotate: false
+  xy: 304, 680
+  size: 178, 180
+  orig: 300, 300
+  offset: 61, 60
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_011
+  rotate: false
+  xy: 1291, 1552
+  size: 176, 180
+  orig: 300, 300
+  offset: 62, 60
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_013
+  rotate: false
+  xy: 1469, 1656
+  size: 176, 180
+  orig: 300, 300
+  offset: 62, 60
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_015
+  rotate: false
+  xy: 1469, 1474
+  size: 176, 180
+  orig: 300, 300
+  offset: 62, 60
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_017
+  rotate: false
+  xy: 1291, 1370
+  size: 176, 180
+  orig: 300, 300
+  offset: 62, 60
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_019
+  rotate: false
+  xy: 1469, 1292
+  size: 176, 180
+  orig: 300, 300
+  offset: 62, 60
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_021
+  rotate: true
+  xy: 304, 502
+  size: 176, 180
+  orig: 300, 300
+  offset: 62, 60
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_023
+  rotate: false
+  xy: 1647, 1586
+  size: 171, 174
+  orig: 300, 300
+  offset: 65, 63
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_025
+  rotate: false
+  xy: 482, 1088
+  size: 136, 136
+  orig: 300, 300
+  offset: 82, 81
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_026
+  rotate: false
+  xy: 1831, 1790
+  size: 157, 157
+  orig: 300, 300
+  offset: 71, 71
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_027
+  rotate: false
+  xy: 1647, 1414
+  size: 170, 170
+  orig: 300, 300
+  offset: 65, 64
+  index: -1
+effects/zhongjiyujing/zhongjiyujing_028
+  rotate: false
+  xy: 290, 324
+  size: 176, 176
+  orig: 300, 300
+  offset: 62, 61
+  index: -1

@@ -1334,7 +1334,7 @@ return {
     },
     [2030] = {
         type2 = 102031,
-        isOpen = false,
+        isOpen = true,
         type1 = 2,
         type3 = {
             [1] = 202001,
@@ -1350,7 +1350,7 @@ return {
     },
     [2031] = {
         type2 = 102032,
-        isOpen = false,
+        isOpen = true,
         type1 = 2,
         type3 = {
             [1] = 202001,

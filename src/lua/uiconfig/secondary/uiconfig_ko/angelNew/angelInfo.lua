@@ -742,7 +742,7 @@ local t =
 													controlID = "Label_skill_name_Image_skill_bg_Panel_angelskill_info_Panel_right_Panel_base_Panel-angelInfo_angelInfo_angelNew_Game",
 													UUID = "3bf7954c_7396_4957_892c_8c8a821bc06e",
 													anchorPoint = "False",
-													anchorPointX = "0.5",
+													anchorPointX = "0",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -778,7 +778,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -3,
+														PositionX = -92,
 														PositionY = 79,
 													},
 													width = "92",

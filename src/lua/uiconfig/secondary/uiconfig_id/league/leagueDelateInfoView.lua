@@ -158,10 +158,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -414,
-										PositionY = 241,
+										PositionX = -366,
+										PositionY = 242,
 									},
-									width = "176",
+									width = "198",
 									ZOrder = "1",
 								},
 								{
@@ -338,11 +338,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 400,
+										PositionX = 361,
 										PositionY = -231,
 									},
 									UItype = "Button",
-									width = "120",
+									width = "200",
 									ZOrder = "1",
 									components = 
 									{
@@ -436,7 +436,7 @@ local t =
 									{
 										PositionY = 193,
 									},
-									width = "513",
+									width = "489",
 									ZOrder = "1",
 								},
 								{
@@ -465,11 +465,11 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "25",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_bottum_tips",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -482,7 +482,7 @@ local t =
 										PositionX = -452,
 										PositionY = -231,
 									},
-									width = "632",
+									width = "686",
 									ZOrder = "1",
 								},
 							},
@@ -593,7 +593,7 @@ local t =
 										PositionX = -305,
 										PositionY = 30,
 									},
-									width = "139",
+									width = "128",
 									ZOrder = "1",
 								},
 								{
@@ -636,10 +636,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -246,
+										PositionX = -166,
 										PositionY = 30,
 									},
-									width = "237",
+									width = "223",
 									ZOrder = "1",
 								},
 								{
@@ -685,7 +685,7 @@ local t =
 										PositionX = -305,
 										PositionY = -30,
 									},
-									width = "27",
+									width = "28",
 									ZOrder = "1",
 								},
 								{
@@ -777,7 +777,7 @@ local t =
 										PositionX = 10,
 										PositionY = -30,
 									},
-									width = "186",
+									width = "185",
 									ZOrder = "1",
 								},
 								{
@@ -820,10 +820,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 10,
+										PositionX = 122,
 										PositionY = 30,
 									},
-									width = "50",
+									width = "54",
 									ZOrder = "1",
 								},
 								{
@@ -911,7 +911,7 @@ local t =
 									controlID = "Label_active_Panel_member_item_Panel_base_Panel-leagueDelateInfoView_Layer1_league_Game",
 									UUID = "711c4cad_27bb_477f_8ff5_8070228ab36e",
 									anchorPoint = "False",
-									anchorPointX = "0",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -947,9 +947,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 250,
+										PositionX = 350,
 									},
-									width = "188",
+									width = "190",
 									ZOrder = "1",
 								},
 								{

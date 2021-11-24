@@ -3140,6 +3140,7 @@ return {
         display = true,
         star = 1,
         accessId = {
+            [1] = 1001,
         },
         level = 1,
     },
@@ -4247,6 +4248,7 @@ return {
         display = true,
         star = 1,
         accessId = {
+            [1] = 1001,
         },
         level = 1,
     },

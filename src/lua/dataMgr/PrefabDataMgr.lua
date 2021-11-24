@@ -105,13 +105,13 @@ function PrefabDataMgr:addItemId(item, cid)
     idText:setText(cid)
 end
 
-function PrefabDataMgr:updateStarListViewPos( item, starNum )
+function PrefabDataMgr:updateStarListViewPos( item, starNum, distance )
     local starScrollView = TFDirector:getChildByPath(item, "ScrollView_star")
     starScrollView:setClippingEnabled(false)
     local Image_starItem = TFDirector:getChildByPath(item, "Image_starItem"):hide()
 
     local MAXNUM = 5
-    local DISTANCE = 1
+    local DISTANCE = distance or 1
     item.starNodeList = item.starNodeList or {}
     if #item.starNodeList < MAXNUM then
         local addedItemNum = #item.starNodeList
@@ -224,10 +224,10 @@ function PrefabDataMgr:set_Panel_goodsItem(item, idOrCid, count, level, isNotAcc
                 end
             end
         else
-            self:updateStarListViewPos(item, starNum)
             if itemCfg.superType == EC_ResourceType.SPIRIT and id then
                 local starLevel = EquipmentDataMgr:getEquipStarLevel(id)
                 if starLevel > 0 then
+                    self:updateStarListViewPos(item, starNum, 5)
                     if starLevel < 2 then
                         Panel_level_star:setPositionX(31)
                     else
@@ -240,7 +240,14 @@ function PrefabDataMgr:set_Panel_goodsItem(item, idOrCid, count, level, isNotAcc
                     Image_stage1:setVisible(starLevel >= 1 and starLevel <= 2)
                     Image_stage2:setVisible(starLevel == 2)
                     Image_stage3:setVisible(starLevel == 3)
+
+                    local starScrollView = TFDirector:getChildByPath(item, "ScrollView_star")
+                    starScrollView:setPositionX(starScrollView:getPositionX() - 10)
+                else
+                    self:updateStarListViewPos(item, starNum)
                 end
+            else
+                self:updateStarListViewPos(item, starNum)
             end
         end
 

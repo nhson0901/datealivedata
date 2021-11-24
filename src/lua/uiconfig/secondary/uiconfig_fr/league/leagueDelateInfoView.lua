@@ -161,7 +161,7 @@ local t =
 										PositionX = -463,
 										PositionY = 241,
 									},
-									width = "257",
+									width = "285",
 									ZOrder = "1",
 								},
 								{
@@ -436,7 +436,7 @@ local t =
 									{
 										PositionY = 193,
 									},
-									width = "488",
+									width = "453",
 									ZOrder = "1",
 								},
 								{
@@ -458,18 +458,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "18",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_bottum_tips",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -482,7 +482,7 @@ local t =
 										PositionX = -452,
 										PositionY = -231,
 									},
-									width = "618",
+									width = "700",
 									ZOrder = "1",
 								},
 							},
@@ -639,7 +639,7 @@ local t =
 										PositionX = -246,
 										PositionY = 30,
 									},
-									width = "271",
+									width = "258",
 									ZOrder = "1",
 								},
 								{
@@ -685,7 +685,7 @@ local t =
 										PositionX = -305,
 										PositionY = -30,
 									},
-									width = "27",
+									width = "29",
 									ZOrder = "1",
 								},
 								{
@@ -731,7 +731,7 @@ local t =
 										PositionX = -233,
 										PositionY = -30,
 									},
-									width = "93",
+									width = "90",
 									ZOrder = "1",
 								},
 								{
@@ -777,7 +777,7 @@ local t =
 										PositionX = 10,
 										PositionY = -30,
 									},
-									width = "181",
+									width = "174",
 									ZOrder = "1",
 								},
 								{
@@ -820,10 +820,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 10,
+										PositionX = 69,
 										PositionY = 30,
 									},
-									width = "56",
+									width = "57",
 									ZOrder = "1",
 								},
 								{
@@ -949,7 +949,7 @@ local t =
 									{
 										PositionX = 343,
 									},
-									width = "210",
+									width = "206",
 									ZOrder = "1",
 								},
 								{
@@ -994,7 +994,7 @@ local t =
 									{
 										PositionX = 352,
 									},
-									width = "69",
+									width = "66",
 									ZOrder = "1",
 								},
 							},

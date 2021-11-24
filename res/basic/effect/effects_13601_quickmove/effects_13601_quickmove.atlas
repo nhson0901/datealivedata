@@ -1,0 +1,104 @@
+
+effects_13601_quickmove.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/effects/quickmove/cuan/cuan_11
+  rotate: false
+  xy: 713, 945
+  size: 292, 60
+  orig: 400, 200
+  offset: 84, 65
+  index: -1
+images/effects/quickmove/cuan/cuan_13
+  rotate: true
+  xy: 2, 30
+  size: 150, 53
+  orig: 400, 200
+  offset: 113, 71
+  index: -1
+images/effects/quickmove/cuan/cuan_15
+  rotate: true
+  xy: 555, 619
+  size: 143, 46
+  orig: 400, 200
+  offset: 115, 76
+  index: -1
+images/effects/quickmove/cuan/cuan_3
+  rotate: true
+  xy: 74, 597
+  size: 313, 100
+  orig: 400, 200
+  offset: 70, 42
+  index: -1
+images/effects/quickmove/cuan/cuan_5
+  rotate: false
+  xy: 2, 912
+  size: 365, 93
+  orig: 400, 200
+  offset: 20, 50
+  index: -1
+images/effects/quickmove/cuan/cuan_7
+  rotate: true
+  xy: 2, 527
+  size: 383, 70
+  orig: 400, 200
+  offset: 0, 61
+  index: -1
+images/effects/quickmove/cuan/cuan_9
+  rotate: true
+  xy: 176, 592
+  size: 318, 65
+  orig: 400, 200
+  offset: 55, 62
+  index: -1
+images/effects/quickmove/cuan1/cuan_11
+  rotate: false
+  xy: 369, 885
+  size: 267, 60
+  orig: 400, 200
+  offset: 53, 66
+  index: -1
+images/effects/quickmove/cuan1/cuan_3
+  rotate: true
+  xy: 243, 583
+  size: 327, 53
+  orig: 400, 200
+  offset: 50, 72
+  index: -1
+images/effects/quickmove/cuan1/cuan_5
+  rotate: true
+  xy: 2, 182
+  size: 343, 56
+  orig: 400, 200
+  offset: 33, 71
+  index: -1
+images/effects/quickmove/cuan1/cuan_7
+  rotate: false
+  xy: 369, 947
+  size: 342, 58
+  orig: 400, 200
+  offset: 30, 70
+  index: -1
+images/effects/quickmove/cuan1/cuan_9
+  rotate: true
+  xy: 298, 605
+  size: 305, 61
+  orig: 400, 200
+  offset: 48, 67
+  index: -1
+images/effects/quickmove/guangxian_2
+  rotate: false
+  xy: 361, 764
+  size: 252, 119
+  orig: 256, 128
+  offset: 2, 2
+  index: -1
+images/effects/quickmove/renwu_2
+  rotate: false
+  xy: 361, 598
+  size: 192, 164
+  orig: 200, 200
+  offset: 6, 21
+  index: -1
