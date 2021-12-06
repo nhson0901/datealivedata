@@ -1971,7 +1971,9 @@ function MainLayer:registerEvents()
     --试胆大会
     self.Button_Activity5:onClick(function()
         Utils:sendHttpLog("Activity")
-        FunctionDataMgr:jActivity5()
+        local activityInfo = ActivityDataMgr2:getActivityInfo(nil,5)[1]
+        if not activityInfo then return end
+        FunctionDataMgr:enterByFuncId(activityInfo.extendData.jumpInterface,unpack(activityInfo.extendData.jumpParamters or {}))
     end)
 
     --狂三应援

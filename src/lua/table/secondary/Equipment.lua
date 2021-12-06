@@ -854,8 +854,12 @@ return {
         exp = 500,
         photoSize = 0.49,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_renai_14.png",
         bornEffect = true,
         dealProfit = {
@@ -1215,8 +1219,12 @@ return {
         exp = 500,
         photoSize = 0.65,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_24.png",
         bornEffect = true,
         dealProfit = {
@@ -1678,8 +1686,12 @@ return {
         exp = 500,
         photoSize = 0.51,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_44.png",
         bornEffect = true,
         dealProfit = {
@@ -1912,8 +1924,12 @@ return {
         exp = 500,
         photoSize = 0.52,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_shengli_16.png",
         bornEffect = true,
         dealProfit = {
@@ -2269,8 +2285,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_28.png",
         bornEffect = true,
         dealProfit = {
@@ -2396,8 +2416,12 @@ return {
         exp = 500,
         photoSize = 0.58,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_24.png",
         bornEffect = true,
         dealProfit = {
@@ -2742,8 +2766,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_20.png",
         bornEffect = true,
         dealProfit = {
@@ -2865,8 +2893,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_jichu_18.png",
         bornEffect = true,
         dealProfit = {
@@ -3354,8 +3386,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_16.png",
         bornEffect = true,
         dealProfit = {
@@ -3478,8 +3514,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_39.png",
         bornEffect = true,
         dealProfit = {
@@ -3605,8 +3645,12 @@ return {
         exp = 500,
         photoSize = 0.6,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_wangguo_15.png",
         bornEffect = true,
         dealProfit = {
@@ -3973,8 +4017,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_jichu_14.png",
         bornEffect = true,
         dealProfit = {
@@ -4637,8 +4685,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_21.png",
         bornEffect = true,
         dealProfit = {
@@ -5805,8 +5857,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_renai_10.png",
         bornEffect = true,
         dealProfit = {
@@ -6037,8 +6093,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_33.png",
         bornEffect = true,
         dealProfit = {
@@ -6253,6 +6313,133 @@ return {
             x = 0,
         },
     },
+    [250713] = {
+        superType = 2,
+        cost = 15,
+        order = 57,
+        pileUp = false,
+        starGrow = true,
+        gridMax = 1,
+        summonSize = 0.5,
+        inherentAttribute = 10234,
+        nameTextId = "400256",
+        icon = "icon/equipment/icon/106_106/icon1_renai_15.png",
+        size = 0.4,
+        specialAttrLevelRange = {
+            [1] = {
+                [1] = 1,
+                [2] = 2,
+            },
+            [2] = {
+                [1] = 1,
+                [2] = 3,
+            },
+            [3] = {
+                [1] = 2,
+                [2] = 4,
+            },
+            [4] = {
+                [1] = 4,
+                [2] = 5,
+            },
+        },
+        showType = 0,
+        subType = 4,
+        growthAttribute = {
+            [1] = 431,
+            [2] = 124,
+            [3] = 143,
+        },
+        name = "400256",
+        desTextId = 409817,
+        exp = 500,
+        photoSize = 0.5,
+        conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
+        },
+        maxAdvanced = 20,
+        halfPaint = "icon/equipment/icon/170_214/icon2_renai_15.png",
+        bornEffect = true,
+        dealProfit = {
+        },
+        maxLevel = 50,
+        bagType = 2,
+        sellProfit = {
+            [1] = {
+                [1] = 570001,
+                [2] = 2000,
+            },
+        },
+        star = 5,
+        specialAttribute = {
+            [1] = 45,
+            [2] = 45,
+            [3] = 45,
+            [4] = 45,
+            [5] = 45,
+            [6] = 45,
+            [7] = 45,
+            [8] = 45,
+            [9] = 46,
+            [10] = 46,
+            [11] = 46,
+            [12] = 46,
+            [13] = 46,
+            [14] = 46,
+            [15] = 46,
+            [16] = 46,
+            [17] = 46,
+            [18] = 46,
+            [19] = 46,
+            [20] = 46,
+            [21] = 46,
+            [49] = 46,
+        },
+        specialAttrLevelRange6Star = {
+            [1] = {
+                [1] = 5,
+                [2] = 5,
+            },
+        },
+        growthCombatNum = 0,
+        paint = "icon/equipment/paint/paint_renai_15.png",
+        combatNum = 0,
+        illustrated = true,
+        id = 250713,
+        baseAttribute = {
+            [1] = 6640,
+            [2] = 1626,
+            [3] = 2216,
+        },
+        suit = {
+            [1] = 66,
+        },
+        combination = {
+            [1] = 5,
+            [2] = 9,
+            [3] = 10,
+            [4] = 11,
+        },
+        nameIcon = "icon/equipment/name/yangliu.png",
+        paintPosition = {
+            y = 272,
+            x = 360,
+        },
+        initalLevel = 1,
+        quality = 6,
+        equipPaint = "icon/equipment/icon/192_166/icon3_renai_15.png",
+        convertMax = {
+            [570001] = 2000,
+        },
+        totalMax = 99,
+        summonPosition = {
+            y = 0,
+            x = 0,
+        },
+    },
     [240046] = {
         superType = 2,
         cost = 5,
@@ -6414,8 +6601,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_15.png",
         bornEffect = true,
         dealProfit = {
@@ -6732,6 +6923,133 @@ return {
             x = 0,
         },
     },
+    [250714] = {
+        superType = 2,
+        cost = 15,
+        order = 118,
+        pileUp = false,
+        starGrow = true,
+        gridMax = 1,
+        summonSize = 0.5,
+        inherentAttribute = 10235,
+        nameTextId = "400257",
+        icon = "icon/equipment/icon/106_106/icon1_yange_25.png",
+        size = 0.4,
+        specialAttrLevelRange = {
+            [1] = {
+                [1] = 1,
+                [2] = 2,
+            },
+            [2] = {
+                [1] = 1,
+                [2] = 3,
+            },
+            [3] = {
+                [1] = 2,
+                [2] = 4,
+            },
+            [4] = {
+                [1] = 4,
+                [2] = 5,
+            },
+        },
+        showType = 0,
+        subType = 5,
+        growthAttribute = {
+            [1] = 431,
+            [2] = 286,
+            [3] = 62,
+        },
+        name = "400257",
+        desTextId = 409818,
+        exp = 500,
+        photoSize = 0.5,
+        conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
+        },
+        maxAdvanced = 20,
+        halfPaint = "icon/equipment/icon/170_214/icon2_yange_25.png",
+        bornEffect = true,
+        dealProfit = {
+        },
+        maxLevel = 50,
+        bagType = 2,
+        sellProfit = {
+            [1] = {
+                [1] = 570001,
+                [2] = 2000,
+            },
+        },
+        star = 5,
+        specialAttribute = {
+            [1] = 45,
+            [2] = 45,
+            [3] = 45,
+            [4] = 45,
+            [5] = 45,
+            [6] = 45,
+            [7] = 45,
+            [8] = 45,
+            [9] = 46,
+            [10] = 46,
+            [11] = 46,
+            [12] = 46,
+            [13] = 46,
+            [14] = 46,
+            [15] = 46,
+            [16] = 46,
+            [17] = 46,
+            [18] = 46,
+            [19] = 46,
+            [20] = 46,
+            [21] = 46,
+            [49] = 46,
+        },
+        specialAttrLevelRange6Star = {
+            [1] = {
+                [1] = 5,
+                [2] = 5,
+            },
+        },
+        growthCombatNum = 0,
+        paint = "icon/equipment/paint/paint_yange_25.png",
+        combatNum = 0,
+        illustrated = true,
+        id = 250714,
+        baseAttribute = {
+            [1] = 6640,
+            [2] = 3692,
+            [3] = 976,
+        },
+        suit = {
+            [1] = 66,
+        },
+        combination = {
+            [1] = 7,
+            [2] = 9,
+            [3] = 12,
+            [4] = 13,
+        },
+        nameIcon = "icon/equipment/name/yongchao.png",
+        paintPosition = {
+            y = 182,
+            x = 340,
+        },
+        initalLevel = 1,
+        quality = 6,
+        equipPaint = "icon/equipment/icon/192_166/icon3_yange_25.png",
+        convertMax = {
+            [570001] = 2000,
+        },
+        totalMax = 99,
+        summonPosition = {
+            y = 0,
+            x = 0,
+        },
+    },
     [240047] = {
         superType = 2,
         cost = 5,
@@ -7020,8 +7338,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_26.png",
         bornEffect = true,
         dealProfit = {
@@ -7096,6 +7418,137 @@ return {
         initalLevel = 1,
         quality = 6,
         equipPaint = "icon/equipment/icon/192_166/icon3_meili_26.png",
+        convertMax = {
+            [570001] = 2000,
+        },
+        totalMax = 99,
+        summonPosition = {
+            y = 0,
+            x = 0,
+        },
+    },
+    [250715] = {
+        superType = 2,
+        cost = 15,
+        order = 58,
+        pileUp = false,
+        starGrow = true,
+        gridMax = 1,
+        summonSize = 0.5,
+        inherentAttribute = 10236,
+        nameTextId = "400258",
+        icon = "icon/equipment/icon/106_106/icon1_meili_45.png",
+        size = 0.4,
+        specialAttrLevelRange = {
+            [1] = {
+                [1] = 1,
+                [2] = 2,
+            },
+            [2] = {
+                [1] = 1,
+                [2] = 3,
+            },
+            [3] = {
+                [1] = 2,
+                [2] = 4,
+            },
+            [4] = {
+                [1] = 4,
+                [2] = 5,
+            },
+        },
+        showType = 0,
+        subType = 6,
+        growthAttribute = {
+            [1] = 488,
+            [2] = 195,
+            [3] = 96,
+        },
+        name = "400258",
+        desTextId = 409819,
+        exp = 500,
+        photoSize = 0.5,
+        conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
+        },
+        maxAdvanced = 20,
+        halfPaint = "icon/equipment/icon/170_214/icon2_meili_45.png",
+        bornEffect = true,
+        dealProfit = {
+        },
+        maxLevel = 50,
+        bagType = 2,
+        sellProfit = {
+            [1] = {
+                [1] = 570001,
+                [2] = 2000,
+            },
+        },
+        star = 5,
+        specialAttribute = {
+            [1] = 45,
+            [2] = 45,
+            [3] = 45,
+            [4] = 45,
+            [5] = 45,
+            [6] = 45,
+            [7] = 45,
+            [8] = 45,
+            [9] = 46,
+            [10] = 46,
+            [11] = 46,
+            [12] = 46,
+            [13] = 46,
+            [14] = 46,
+            [15] = 46,
+            [16] = 46,
+            [17] = 46,
+            [18] = 46,
+            [19] = 46,
+            [20] = 46,
+            [21] = 46,
+            [49] = 46,
+        },
+        specialAttrLevelRange6Star = {
+            [1] = {
+                [1] = 5,
+                [2] = 5,
+            },
+        },
+        growthCombatNum = 0,
+        paint = "icon/equipment/paint/paint_meili_45.png",
+        combatNum = 0,
+        illustrated = true,
+        id = 250715,
+        baseAttribute = {
+            [1] = 7520,
+            [2] = 2506,
+            [3] = 1504,
+        },
+        suit = {
+            [1] = 66,
+        },
+        combination = {
+            [1] = 3,
+            [2] = 6,
+            [3] = 8,
+            [4] = 10,
+            [5] = 12,
+            [6] = 14,
+            [7] = 15,
+            [8] = 16,
+        },
+        nameIcon = "icon/equipment/name/xuanwo.png",
+        paintPosition = {
+            y = 282,
+            x = 360,
+        },
+        initalLevel = 1,
+        quality = 6,
+        equipPaint = "icon/equipment/icon/192_166/icon3_meili_45.png",
         convertMax = {
             [570001] = 2000,
         },
@@ -7392,8 +7845,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_shengli_10.png",
         bornEffect = true,
         dealProfit = {
@@ -7516,8 +7973,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_lijie_21.png",
         bornEffect = true,
         dealProfit = {
@@ -7879,8 +8340,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_14.png",
         bornEffect = true,
         dealProfit = {
@@ -8116,8 +8581,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_jichu_13.png",
         bornEffect = true,
         dealProfit = {
@@ -8239,8 +8708,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_21.png",
         bornEffect = true,
         dealProfit = {
@@ -8493,8 +8966,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_40.png",
         bornEffect = true,
         dealProfit = {
@@ -8620,8 +9097,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_renai_12.png",
         bornEffect = true,
         dealProfit = {
@@ -9103,8 +9584,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_29.png",
         bornEffect = true,
         dealProfit = {
@@ -9357,8 +9842,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_36.png",
         bornEffect = true,
         dealProfit = {
@@ -9869,8 +10358,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_24.png",
         bornEffect = true,
         dealProfit = {
@@ -9991,8 +10484,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_17.png",
         bornEffect = true,
         dealProfit = {
@@ -10830,8 +11327,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_30.png",
         bornEffect = true,
         dealProfit = {
@@ -11324,8 +11825,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_shengli_12.png",
         bornEffect = true,
         dealProfit = {
@@ -11448,8 +11953,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_22.png",
         bornEffect = true,
         dealProfit = {
@@ -11940,8 +12449,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_41.png",
         bornEffect = true,
         dealProfit = {
@@ -12562,8 +13075,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_jichu_15.png",
         bornEffect = true,
         dealProfit = {
@@ -13060,8 +13577,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_22.png",
         bornEffect = true,
         dealProfit = {
@@ -13299,8 +13820,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_18.png",
         bornEffect = true,
         dealProfit = {
@@ -13537,8 +14062,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_zhihui_14.png",
         bornEffect = true,
         dealProfit = {
@@ -13660,8 +14189,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_34.png",
         bornEffect = true,
         dealProfit = {
@@ -14006,8 +14539,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_wangguo_14.png",
         bornEffect = true,
         dealProfit = {
@@ -14241,8 +14778,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_renai_11.png",
         bornEffect = true,
         dealProfit = {
@@ -14364,8 +14905,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_19.png",
         bornEffect = true,
         dealProfit = {
@@ -14488,8 +15033,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_zhihui_17.png",
         bornEffect = true,
         dealProfit = {
@@ -14611,8 +15160,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_lijie_22.png",
         bornEffect = true,
         dealProfit = {
@@ -14865,8 +15418,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_31.png",
         bornEffect = true,
         dealProfit = {
@@ -15500,8 +16057,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_wangguo_12.png",
         bornEffect = true,
         dealProfit = {
@@ -17263,8 +17824,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_19.png",
         bornEffect = true,
         dealProfit = {
@@ -17386,8 +17951,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_23.png",
         bornEffect = true,
         dealProfit = {
@@ -17613,8 +18182,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_35.png",
         bornEffect = true,
         dealProfit = {
@@ -18195,8 +18768,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_20.png",
         bornEffect = true,
         dealProfit = {
@@ -19524,8 +20101,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_18.png",
         bornEffect = true,
         dealProfit = {
@@ -19648,8 +20229,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_zhihui_16.png",
         bornEffect = true,
         dealProfit = {
@@ -20012,8 +20597,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_jichu_16.png",
         bornEffect = true,
         dealProfit = {
@@ -20135,8 +20724,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_lijie_20.png",
         bornEffect = true,
         dealProfit = {
@@ -20478,8 +21071,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_wangguo_13.png",
         bornEffect = true,
         dealProfit = {
@@ -21345,8 +21942,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_37.png",
         bornEffect = true,
         dealProfit = {
@@ -22343,8 +22944,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_shengli_15.png",
         bornEffect = true,
         dealProfit = {
@@ -22829,8 +23434,12 @@ return {
         exp = 500,
         photoSize = 0.65,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_zhihui_20.png",
         bornEffect = true,
         dealProfit = {
@@ -22952,8 +23561,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_zhihui_19.png",
         bornEffect = true,
         dealProfit = {
@@ -23202,8 +23815,12 @@ return {
         exp = 500,
         photoSize = 0.6,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_lijie_24.png",
         bornEffect = true,
         dealProfit = {
@@ -23564,8 +24181,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_32.png",
         bornEffect = true,
         dealProfit = {
@@ -24430,8 +25051,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_renai_13.png",
         bornEffect = true,
         dealProfit = {
@@ -24796,8 +25421,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_shengli_13.png",
         bornEffect = true,
         dealProfit = {
@@ -25047,8 +25676,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_jichu_12.png",
         bornEffect = true,
         dealProfit = {
@@ -25298,8 +25931,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_42.png",
         bornEffect = true,
         dealProfit = {
@@ -25548,8 +26185,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_lijie_23.png",
         bornEffect = true,
         dealProfit = {
@@ -25922,8 +26563,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_zhihui_18.png",
         bornEffect = true,
         dealProfit = {
@@ -26428,8 +27073,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_lijie_17.png",
         bornEffect = true,
         dealProfit = {
@@ -26551,8 +27200,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_shengli_14.png",
         bornEffect = true,
         dealProfit = {
@@ -26924,8 +27577,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_43.png",
         bornEffect = true,
         dealProfit = {
@@ -27306,8 +27963,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_14.png",
         bornEffect = true,
         dealProfit = {
@@ -27429,8 +28090,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_shengli_11.png",
         bornEffect = true,
         dealProfit = {
@@ -27553,8 +28218,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_16.png",
         bornEffect = true,
         dealProfit = {
@@ -27676,8 +28345,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_jichu_17.png",
         bornEffect = true,
         dealProfit = {
@@ -28057,8 +28730,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_wangguo_11.png",
         bornEffect = true,
         dealProfit = {
@@ -28306,8 +28983,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_13.png",
         bornEffect = true,
         dealProfit = {
@@ -28557,8 +29238,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_27.png",
         bornEffect = true,
         dealProfit = {
@@ -29038,8 +29723,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_lijie_19.png",
         bornEffect = true,
         dealProfit = {
@@ -29499,8 +30188,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_17.png",
         bornEffect = true,
         dealProfit = {
@@ -29622,8 +30315,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_wangguan_13.png",
         bornEffect = true,
         dealProfit = {
@@ -30002,8 +30699,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_yange_13.png",
         bornEffect = true,
         dealProfit = {
@@ -30363,8 +31064,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_23.png",
         bornEffect = true,
         dealProfit = {
@@ -30490,8 +31195,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_guanghui_15.png",
         bornEffect = true,
         dealProfit = {
@@ -30614,8 +31323,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_zhihui_15.png",
         bornEffect = true,
         dealProfit = {
@@ -30737,8 +31450,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_38.png",
         bornEffect = true,
         dealProfit = {
@@ -31564,8 +32281,12 @@ return {
         exp = 500,
         photoSize = 0.5,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_lijie_18.png",
         bornEffect = true,
         dealProfit = {
@@ -31687,8 +32408,12 @@ return {
         exp = 500,
         photoSize = 0.55,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_meili_25.png",
         bornEffect = true,
         dealProfit = {
@@ -31814,8 +32539,12 @@ return {
         exp = 500,
         photoSize = 0.66,
         conversion = {
+            [1] = {
+                [1] = 570001,
+                [2] = 600,
+            },
         },
-        maxAdvanced = 0,
+        maxAdvanced = 20,
         halfPaint = "icon/equipment/icon/170_214/icon2_wangguan_14.png",
         bornEffect = true,
         dealProfit = {

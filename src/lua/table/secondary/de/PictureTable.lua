@@ -7979,4 +7979,119 @@ return {
         res = "icon/equipment/name/ssn.png",
         res_en = "icon/equipment/name/ssn_en.png",
     },
+    [1597] = {
+        id = 1597,
+        res = "icon/equipment/name/xuanwo.png",
+        res_en = "icon/equipment/name/xuanwo_en.png",
+    },
+    [1598] = {
+        id = 1598,
+        res = "icon/equipment/name/yangliu.png",
+        res_en = "icon/equipment/name/yangliu_en.png",
+    },
+    [1599] = {
+        id = 1599,
+        res = "icon/equipment/name/yongchao.png",
+        res_en = "icon/equipment/name/yongchao_en.png",
+    },
+    [1600] = {
+        id = 1600,
+        res = "icon/equipment/suit/shenhai.png",
+        res_en = "icon/equipment/suit/shenhai_en.png",
+    },
+    [1601] = {
+        id = 1601,
+        res = "ui/activity/add_recharge_tong/001.png",
+        res_en = "ui/activity/add_recharge_tong/001_en.png",
+    },
+    [1602] = {
+        id = 1602,
+        res = "ui/activity/add_recharge_tong/002.png",
+        res_en = "ui/activity/add_recharge_tong/002_en.png",
+    },
+    [1603] = {
+        id = 1603,
+        res = "ui/activity/add_recharge_tong/004.png",
+        res_en = "ui/activity/add_recharge_tong/004_en.png",
+    },
+    [1604] = {
+        id = 1604,
+        res = "ui/activity/add_recharge_tong/008.png",
+        res_en = "ui/activity/add_recharge_tong/008_en.png",
+    },
+    [1605] = {
+        id = 1605,
+        res = "ui/activity/add_recharge_tong/bg.png",
+        res_en = "ui/activity/add_recharge_tong/bg_en.png",
+    },
+    [1606] = {
+        id = 1606,
+        res = "ui/activity/add_recharge_tong/time_bg.png",
+        res_en = "ui/activity/add_recharge_tong/time_bg_en.png",
+    },
+    [1607] = {
+        id = 1607,
+        res = "ui/activity/picture/ad319.png",
+        res_en = "ui/activity/picture/ad319_en.png",
+    },
+    [1608] = {
+        id = 1608,
+        res = "ui/activity/picture/ad325.png",
+        res_en = "ui/activity/picture/ad325_en.png",
+    },
+    [1609] = {
+        id = 1609,
+        res = "ui/activity/picture/ad326.png",
+        res_en = "ui/activity/picture/ad326_en.png",
+    },
+    [1610] = {
+        id = 1610,
+        res = "ui/activity/picture/ad327.png",
+        res_en = "ui/activity/picture/ad327_en.png",
+    },
+    [1611] = {
+        id = 1611,
+        res = "ui/activity/picture/icon306.png",
+        res_en = "ui/activity/picture/icon306_en.png",
+    },
+    [1612] = {
+        id = 1612,
+        res = "ui/activity/picture/icon323.png",
+        res_en = "ui/activity/picture/icon323_en.png",
+    },
+    [1613] = {
+        id = 1613,
+        res = "ui/activity/picture/icon325.png",
+        res_en = "ui/activity/picture/icon325_en.png",
+    },
+    [1614] = {
+        id = 1614,
+        res = "ui/activity/picture/icon326.png",
+        res_en = "ui/activity/picture/icon326_en.png",
+    },
+    [1615] = {
+        id = 1615,
+        res = "ui/activity/picture/icon327.png",
+        res_en = "ui/activity/picture/icon327_en.png",
+    },
+    [1616] = {
+        id = 1616,
+        res = "ui/activity/picture/time1.png",
+        res_en = "ui/activity/picture/time1_en.png",
+    },
+    [1617] = {
+        id = 1617,
+        res = "ui/summon/088.png",
+        res_en = "ui/summon/088_en.png",
+    },
+    [1618] = {
+        id = 1618,
+        res = "ui/summon/089.png",
+        res_en = "ui/summon/089_en.png",
+    },
+    [1619] = {
+        id = 1619,
+        res = "ui/activity/rerurnGift/002.png",
+        res_en = "ui/activity/rerurnGift/002_en.png",
+    },
 }

@@ -3928,6 +3928,16 @@ return {
         },
         des = "更换灵装",
     },
+    [136001] = {
+        hero = 113601,
+        role = 0,
+        id = 136001,
+        type = "hero_get",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_021.mp3",
+        },
+        des = "获得角色1",
+    },
     [106030] = {
         hero = 0,
         role = 106,
@@ -4016,6 +4026,15 @@ return {
         },
         des = "上阵",
     },
+    [136003] = {
+        hero = 0,
+        role = 0,
+        id = 136003,
+        type = "dating_complete",
+        voice = {
+        },
+        des = "约会结束-成功",
+    },
     [106031] = {
         hero = 110602,
         role = 0,
@@ -4103,6 +4122,15 @@ return {
         },
         des = "看板娘处于无聊、生气、饥饿状态",
     },
+    [136005] = {
+        hero = 0,
+        role = 0,
+        id = 136005,
+        type = "good_end",
+        voice = {
+        },
+        des = "约会结束-happy、good",
+    },
     [106032] = {
         hero = 0,
         role = 0,
@@ -4189,6 +4217,15 @@ return {
         },
         des = "在城市点击看板娘模型1",
     },
+    [136007] = {
+        hero = 0,
+        role = 0,
+        id = 136007,
+        type = "dating_invite_yes",
+        voice = {
+        },
+        des = "预定约会-接受邀请",
+    },
     [106033] = {
         hero = 0,
         role = 0,
@@ -4265,6 +4302,16 @@ return {
             [1] = "sound/role/noire/0002_242_09_S.mp3",
         },
         des = "进入主界面-早上",
+    },
+    [136009] = {
+        hero = 0,
+        role = 136,
+        id = 136009,
+        type = "button_dress",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_005.mp3",
+        },
+        des = "进入换装",
     },
     [106034] = {
         hero = 0,
@@ -4880,6 +4927,16 @@ return {
         },
         des = "换上服装-一般",
     },
+    [136024] = {
+        hero = 0,
+        role = 136,
+        id = 136024,
+        type = "mood_sad",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_004.mp3",
+        },
+        des = "看板娘处于无聊、生气、饥饿状态",
+    },
     [105018] = {
         hero = 0,
         role = 105,
@@ -4949,6 +5006,16 @@ return {
         },
         des = "换上服装-高级",
     },
+    [136026] = {
+        hero = 0,
+        role = 136,
+        id = 136026,
+        type = "mian_morning",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_015.mp3",
+        },
+        des = "进入主界面-早上",
+    },
     [105019] = {
         hero = 110501,
         role = 0,
@@ -5016,6 +5083,16 @@ return {
         },
         des = "进入送礼",
     },
+    [136028] = {
+        hero = 0,
+        role = 136,
+        id = 136028,
+        type = "mian_night",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_018.mp3",
+        },
+        des = "进入主界面-晚上",
+    },
     [105020] = {
         hero = 0,
         role = 105,
@@ -5081,6 +5158,15 @@ return {
         voice = {
         },
         des = "等待送礼",
+    },
+    [136030] = {
+        hero = 0,
+        role = 0,
+        id = 136030,
+        type = "spring",
+        voice = {
+        },
+        des = "温泉功能",
     },
     [105021] = {
         hero = 110501,
@@ -9031,6 +9117,36 @@ return {
         },
         des = "进入送礼",
     },
+    [136029] = {
+        hero = 0,
+        role = 136,
+        id = 136029,
+        type = "mian_dawn",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_019.mp3",
+        },
+        des = "进入主界面-凌晨",
+    },
+    [136027] = {
+        hero = 0,
+        role = 136,
+        id = 136027,
+        type = "mian_afternoon",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_017.mp3",
+        },
+        des = "进入主界面-下午",
+    },
+    [136025] = {
+        hero = 0,
+        role = 136,
+        id = 136025,
+        type = "mood_normal",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_020.mp3",
+        },
+        des = "在城市点击看板娘模型1",
+    },
     [125028] = {
         hero = 0,
         role = 125,
@@ -9062,6 +9178,16 @@ return {
         },
         des = "点击约会按钮",
     },
+    [136023] = {
+        hero = 113601,
+        role = 0,
+        id = 136023,
+        type = "battle_play",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_022.mp3",
+        },
+        des = "上阵",
+    },
     [103023] = {
         hero = 110301,
         role = 0,
@@ -9071,6 +9197,25 @@ return {
             [1] = "sound/role/sisinai/YOSHINO_60.mp3",
         },
         des = "上阵",
+    },
+    [136022] = {
+        hero = 0,
+        role = 0,
+        id = 136022,
+        type = "change_equip",
+        voice = {
+        },
+        des = "更换灵装",
+    },
+    [136021] = {
+        hero = 113601,
+        role = 0,
+        id = 136021,
+        type = "change_hero",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_024.mp3",
+        },
+        des = "切换精灵",
     },
     [130018] = {
         hero = 0,
@@ -9092,6 +9237,16 @@ return {
         },
         des = "约会结束-happy、good",
     },
+    [136020] = {
+        hero = 0,
+        role = 136,
+        id = 136020,
+        type = "change_kanban",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_001.mp3",
+        },
+        des = "切换看板娘",
+    },
     [114026] = {
         hero = 0,
         role = 114,
@@ -9111,6 +9266,46 @@ return {
             [1] = "sound/role/xixian/YUZURU_45.mp3",
         },
         des = "等待送礼",
+    },
+    [136019] = {
+        hero = 113601,
+        role = 0,
+        id = 136019,
+        type = "ability_up",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_023.mp3",
+        },
+        des = "等级/星级提升",
+    },
+    [136018] = {
+        hero = 0,
+        role = 136,
+        id = 136018,
+        type = "favor_up",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_014.mp3",
+        },
+        des = "好感度等级提升",
+    },
+    [136017] = {
+        hero = 0,
+        role = 136,
+        id = 136017,
+        type = "gift_low",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_012.mp3",
+        },
+        des = "一般礼物",
+    },
+    [136016] = {
+        hero = 0,
+        role = 136,
+        id = 136016,
+        type = "gift_high",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_013.mp3",
+        },
+        des = "喜爱礼物",
     },
     [125029] = {
         hero = 0,
@@ -9142,6 +9337,16 @@ return {
         },
         des = "约会结束-成功",
     },
+    [136015] = {
+        hero = 0,
+        role = 136,
+        id = 136015,
+        type = "food_low",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_010.mp3",
+        },
+        des = "一般食物",
+    },
     [103024] = {
         hero = 0,
         role = 103,
@@ -9151,6 +9356,26 @@ return {
             [1] = "sound/role/sisinai/YOSHINON_05.mp3",
         },
         des = "看板娘处于无聊、生气、饥饿状态",
+    },
+    [136014] = {
+        hero = 0,
+        role = 136,
+        id = 136014,
+        type = "food_high",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_011.mp3",
+        },
+        des = "喜爱食物",
+    },
+    [136013] = {
+        hero = 0,
+        role = 136,
+        id = 136013,
+        type = "gifts_wait",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_009.mp3",
+        },
+        des = "等待送礼",
     },
     [130019] = {
         hero = 0,
@@ -9170,6 +9395,16 @@ return {
             [1] = "sound/role/juya/MARIA_055.mp3",
         },
         des = "约会结束-normal、bad",
+    },
+    [136012] = {
+        hero = 0,
+        role = 136,
+        id = 136012,
+        type = "button_gift",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_008.mp3",
+        },
+        des = "进入送礼",
     },
     [114027] = {
         hero = 0,
@@ -9201,6 +9436,35 @@ return {
         },
         des = "获得角色1",
     },
+    [136011] = {
+        hero = 0,
+        role = 136,
+        id = 136011,
+        type = "dress_high",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_007.mp3",
+        },
+        des = "换上服装-高级",
+    },
+    [136010] = {
+        hero = 0,
+        role = 136,
+        id = 136010,
+        type = "dress_low",
+        voice = {
+            [1] = "sound/role/sally/sally_sysPiece_006.mp3",
+        },
+        des = "换上服装-一般",
+    },
+    [136008] = {
+        hero = 0,
+        role = 0,
+        id = 136008,
+        type = "dating_invite_no",
+        voice = {
+        },
+        des = "预定约会-拒绝邀请",
+    },
     [125030] = {
         hero = 0,
         role = 125,
@@ -9231,6 +9495,15 @@ return {
         },
         des = "约会结束-hidden end",
     },
+    [136006] = {
+        hero = 0,
+        role = 0,
+        id = 136006,
+        type = "bad_end",
+        voice = {
+        },
+        des = "约会结束-normal、bad",
+    },
     [103025] = {
         hero = 0,
         role = 103,
@@ -9240,6 +9513,24 @@ return {
             [1] = "sound/role/sisinai/YOSHINO_18.mp3",
         },
         des = "在城市点击看板娘模型1",
+    },
+    [136004] = {
+        hero = 0,
+        role = 0,
+        id = 136004,
+        type = "hidden_end",
+        voice = {
+        },
+        des = "约会结束-hidden end",
+    },
+    [136002] = {
+        hero = 0,
+        role = 0,
+        id = 136002,
+        type = "button_dating",
+        voice = {
+        },
+        des = "点击约会按钮",
     },
     [130020] = {
         hero = 0,

@@ -47,6 +47,18 @@ return {
         weaponPaintSize = 0.5,
         weaponPaint = "modle/weapon/angel_1105051/angel_1105051",
     },
+    [1136011] = {
+        weaponPaintPosition = {
+            y = -150,
+            x = -40,
+        },
+        particleEffect = {
+        },
+        weaponName = "2200042",
+        id = 1136011,
+        weaponPaintSize = 0.28,
+        weaponPaint = "modle/weapon/angel_1136011/angel_1136011",
+    },
     [1128011] = {
         weaponPaintPosition = {
             y = -70,

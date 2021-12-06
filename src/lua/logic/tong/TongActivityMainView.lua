@@ -15,6 +15,8 @@ function TongActivityMainView:initData(isOpen)
         if activityInfo.extendData.isStoryMode ~= nil then
             self.isStoryMode = activityInfo.extendData.isStoryMode
         end
+        self.storeId = tonumber(activityInfo.extendData.storeId)
+        self.taskId = tonumber(activityInfo.extendData.taskId)
     end
     dump(activityInfo)
     --self.isStoryMode = false
@@ -22,7 +24,7 @@ function TongActivityMainView:initData(isOpen)
     self.guideInfo[1] = {guideGroupId = 34, dialogScriptId = 25053, guideClick = false}
     self.guideInfo[2] = {guideGroupId = 35, dialogScriptId = 25055, guideClick = false}
 
-    self.taskaAtivityId = 10652
+    self.taskaAtivityId = self.taskId or 10652
 end
 
 function TongActivityMainView:ctor()
@@ -275,7 +277,7 @@ function TongActivityMainView:registerEvents()
             Utils:showTips(1710021)
             return
         end
-        Utils:openView("tong.TongStoreView")
+        Utils:openView("tong.TongStoreView",self.storeId)
     end)
 
     self.Button_skill:onClick(function()
@@ -299,7 +301,7 @@ function TongActivityMainView:registerEvents()
             Utils:showTips(1710021)
             return
         end
-        Utils:openView("tong.TongTaskView")
+        Utils:openView("tong.TongTaskView",self.taskId)
     end)
 
     self.Button_rank:onClick(function()

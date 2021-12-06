@@ -1,9 +1,9 @@
 
 local TongTaskView = class("TongTaskView", BaseLayer)
 
-function TongTaskView:initData()
+function TongTaskView:initData(taskId)
 
-    self.activityId_ = 10652--ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TASK)[1]
+    self.activityId_ = taskId or 10652--ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TASK)[1]
     self.activityInfo_ = ActivityDataMgr2:getActivityInfo(self.activityId_)
 
     self.taskItems_ = {}
@@ -11,7 +11,7 @@ end
 
 function TongTaskView:ctor(...)
     self.super.ctor(self)
-    self:initData()
+    self:initData(...)
     self:init("lua.uiconfig.tong.tongTaskView")
     self.block = AlertManager.BLOCK_CLOSE
 end
@@ -48,12 +48,12 @@ end
 function TongTaskView:refreshView()
 
     if self.activityInfo_ then
-        local startDate = Utils:getUTCDate(self.activityInfo_.startTime , GV_UTC_TIME_ZONE)
+        local startDate = Utils:getLocalDate(self.activityInfo_.startTime)
         local startDateStr = startDate:fmt("%Y.%m.%d")
-        local endDate = Utils:getUTCDate(self.activityInfo_.endTime , GV_UTC_TIME_ZONE)
+        local endDate = Utils:getLocalDate(self.activityInfo_.endTime)
         local endDateStr = endDate:fmt("%Y.%m.%d")
         self.Label_time_begin:setText(startDateStr)
-        self.Label_time_end:setText(endDateStr..GV_UTC_TIME_STRING)
+        self.Label_time_end:setText(endDateStr)
     end
 
     self:updateActivity()

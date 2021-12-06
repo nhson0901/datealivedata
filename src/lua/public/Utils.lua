@@ -2332,4 +2332,21 @@ function Utils:toUtcTimestap( times, timeZone )
     return timeInterval
 end
 
+function Utils:updateActivityTime( timeLabel, startTime, endTime , skewX )
+    -- body
+    local Label_tip = TFDirector:getChildByPath(timeLabel,"Label_tip")
+    
+    if Label_tip then
+        Label_tip:setSkewX(skewX)
+    end
+
+    local label_start = TFDirector:getChildByPath(timeLabel,"label_start")
+    local label_end = TFDirector:getChildByPath(timeLabel,"label_end")
+    label_start:setText(self:getDateString(startTime))
+    label_end:setText(self:getDateString(endTime))
+    skewX = skewX or 0
+    label_start:setSkewX(skewX)
+    label_end:setSkewX(skewX)
+end
+
 return Utils

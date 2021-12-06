@@ -640,7 +640,10 @@ function EventTrigger:makeAliveTrigger(cfg)
 				end
 			end
 
-			
+			if self.controller.checkBrushMonsterAdded() then
+				return
+			end
+
 			if tmTrigger.eventFunc and tmTrigger.timer == nil then
 				if tmTrigger.cfg.Duration and tmTrigger.cfg.Duration > 0 then
 					tmTrigger.timer = BattleTimerManager:addTimer(tmTrigger.cfg.Duration,1,function()

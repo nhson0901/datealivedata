@@ -4470,12 +4470,12 @@ local t =
 							bgColorOpacity = "50",
 							bIsOpenClipping = "False",
 							classname = "MEPanel",
-							colorType = "0;SingleColor:#FFFF0000;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+							colorType = "1;SingleColor:#FFFF0000;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 							DesignHeight = "640",
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "200",
+							height = "226",
 							ignoreSize = "False",
 							name = "Panel_giftItem1",
 							sizepercentx = "0",
@@ -4486,7 +4486,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -36,
-								PositionY = 87,
+								PositionY = 114,
 							},
 							uipanelviewmodel = 
 							{
@@ -4519,7 +4519,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 1,
-										PositionY = 79,
+										PositionY = 88,
 									},
 									width = "418",
 									ZOrder = "1",
@@ -4533,7 +4533,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "163",
+									height = "180",
 									ignoreSize = "False",
 									name = "Image_bg",
 									sizepercentx = "0",
@@ -4591,7 +4591,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -168,
-										PositionY = 80,
+										PositionY = 90,
 									},
 									width = "41",
 									ZOrder = "1",
@@ -4624,7 +4624,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -199,
-										PositionY = -49,
+										PositionY = -58,
 									},
 									uipanelviewmodel = 
 									{
@@ -4675,7 +4675,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 118,
-										PositionY = 94,
+										PositionY = 102,
 									},
 									width = "75",
 									ZOrder = "1",
@@ -4721,7 +4721,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 107,
-										PositionY = 80,
+										PositionY = 88,
 									},
 									width = "12",
 									ZOrder = "1",
@@ -4735,7 +4735,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF49557F",
+									FontColor = "#FFFFFFFF",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -4745,17 +4745,17 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "17",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_revert",
-									nTextAlign = "1",
+									nTextAlign = "0",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -4767,9 +4767,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -205,
-										PositionY = 48,
+										PositionY = 53,
 									},
-									width = "74",
+									width = "90",
 									ZOrder = "1",
 								},
 								{
@@ -5034,7 +5034,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 205,
-										PositionY = -98,
+										PositionY = -103,
 									},
 									width = "513",
 									ZOrder = "1",
@@ -5056,7 +5056,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "200",
+							height = "226",
 							ignoreSize = "False",
 							name = "Panel_giftItem2",
 							sizepercentx = "0",
@@ -5100,7 +5100,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 1,
-										PositionY = 79,
+										PositionY = 88,
 									},
 									width = "418",
 									ZOrder = "1",
@@ -5114,7 +5114,7 @@ local t =
 									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "163",
+									height = "180",
 									ignoreSize = "False",
 									name = "Image_bg",
 									sizepercentx = "0",
@@ -5172,7 +5172,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -168,
-										PositionY = 80,
+										PositionY = 90,
 									},
 									width = "41",
 									ZOrder = "1",
@@ -5204,8 +5204,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -200,
-										PositionY = -47,
+										PositionX = -199,
+										PositionY = -58,
 									},
 									uipanelviewmodel = 
 									{
@@ -5256,7 +5256,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 118,
-										PositionY = 94,
+										PositionY = 102,
 									},
 									width = "75",
 									ZOrder = "1",
@@ -5302,7 +5302,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 107,
-										PositionY = 80,
+										PositionY = 88,
 									},
 									width = "12",
 									ZOrder = "1",
@@ -5316,7 +5316,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFA9702C",
+									FontColor = "#FFFFFFFF",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -5326,14 +5326,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "17",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_revert",
 									nTextAlign = "1",
@@ -5348,9 +5348,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -205,
-										PositionY = 48,
+										PositionY = 53,
 									},
-									width = "74",
+									width = "90",
 									ZOrder = "1",
 								},
 								{
@@ -5379,7 +5379,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 138,
-										PositionY = -12,
+										PositionY = -14,
 									},
 									uipanelviewmodel = 
 									{
@@ -5615,7 +5615,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 205,
-										PositionY = -80,
+										PositionY = -103,
 									},
 									width = "513",
 									ZOrder = "1",

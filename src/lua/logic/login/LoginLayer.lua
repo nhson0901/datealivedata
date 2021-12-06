@@ -11,9 +11,9 @@ function LoginLayer:ctor(data)
     EventMgr:addEventListener(self, EV_LOGIN_UPDATESERVERNAME, handler(self.updateServerName, self))
 
 	if FunctionDataMgr:isMoJingLoginUI() or FunctionDataMgr:isOneYearLoginUI("loginLayerUI") then
-		self:init("lua.uiconfig.loginScene.oneYearloginLayer")
+		self:init("lua.uiconfig.loginScene.loginLayerNew1")
 	else
-		self:init("lua.uiconfig.loginScene.loginLayer")
+		self:init("lua.uiconfig.loginScene.loginLayerNew1")
 	end
 end
 

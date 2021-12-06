@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -173,10 +173,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 571,
-								PositionY = 27,
+								PositionY = 40,
 								IsPercent = true,
 								PercentX = 50.23,
-								PercentY = 4.23,
+								PercentY = 6.23,
 							},
 							width = "64",
 							ZOrder = "1",
@@ -1326,7 +1326,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF92D8F4",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -1378,11 +1378,11 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "1",
-											texturePath = "ui/login/m4.png",
+											texturePath = "ui/login/new1/b5.png",
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 100,
+												PositionX = 99,
 												PositionY = 2,
 											},
 											width = "30",
@@ -1466,7 +1466,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF92D8F4",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -1607,7 +1607,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF92D8F4",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -2276,7 +2276,6 @@ local t =
 			"ui/common/pop_ui/pop_btn_02.png",
 			"ui/login/new1/b3.png",
 			"ui/login/new1/b7.png",
-			"ui/login/m4.png",
 			"ui/login/new1/b5.png",
 			"ui/login/new1/b1.png",
 			"ui/login/004.png",

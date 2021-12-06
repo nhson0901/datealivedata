@@ -85,6 +85,7 @@ function BrushMonster:init()
     self.preBrushData = {}  --缓存抢波次刷怪的配置指令
     self.checkCount = {}
     self.waitFlag = false
+    self.waitWarningComplete = false
     self.brushWave = 0
 end
 --刷怪是否开启
@@ -316,12 +317,15 @@ function BrushMonster:onBurshEvent(brushCfg, params, triggerFlag)
         if monsterSectionCfg.helpPerson then
             battleController.activateAssit()
         end
+        self.waitWarningComplete = false
     end
     if #monster > 1 then
         self.waitFlag = true
     else
         self.waitFlag = false
     end
+    self.waitWarningComplete = true
+
     -- warining
     if monsterSectionCfg.warning then
         battleController.showWarning(bootstrap)
@@ -329,6 +333,14 @@ function BrushMonster:onBurshEvent(brushCfg, params, triggerFlag)
         bootstrap()
     end
 
+end
+
+function BrushMonster:checkBrushMonsterAdded( )
+    -- body
+    if self.waitWarningComplete then
+        return true
+    end
+    return #self.timeNode_ > 0
 end
 
 function BrushMonster:resetMonsterPosition(monsters, monsterSectionCfg)

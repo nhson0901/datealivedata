@@ -4735,7 +4735,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF49557F",
+									FontColor = "#FFFFFFFF",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -5314,7 +5314,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFA9702C",
+									FontColor = "#FFFFFFFF",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{

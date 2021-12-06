@@ -16,8 +16,10 @@ posList[4] = {{-50, 50, 0.85}, {50, 50, 0.85}, {-50, -50, 0.85}, {50, -50, 0.85}
 function ReturnGiftView:initData(activityId)
     self.activityId = activityId
     self.activityInfo = ActivityDataMgr2:getActivityInfo(activityId)
-    dump(self.activityId)
-    dump(self.activityInfo)
+    -- dump(self.activityId)
+    -- dump(self.activityInfo,"集结返利活动配置打印=============")
+
+
 
     self.expendDataDic = self.activityInfo.extendData.extName
     self.expendData = {}
@@ -40,10 +42,30 @@ end
 
 function ReturnGiftView:initUI(ui)
     self.super.initUI(self,ui)
+    
+    -- local year1, month1, day1 = Utils:getDate(self.activityInfo.showStartTime or 0)
+    -- local year2, month2, day2 = Utils:getDate(self.activityInfo.endTime or 0)
+    -- self._ui.act_time:setTextById(63917, year1, month1, day1, year2, month2, day2)
 
-    local year1, month1, day1 = Utils:getUTCDateYMD(self.activityInfo.showStartTime or 0 , false , GV_UTC_TIME_ZONE)
-    local year2, month2, day2 = Utils:getUTCDateYMD(self.activityInfo.endTime or 0 , false , GV_UTC_TIME_ZONE)
-    self._ui.act_time:setText(TextDataMgr:getText(63917, year1, month1, day1, year2, month2, day2)..GV_UTC_TIME_STRING)
+    self.act_timeStart = TFDirector:getChildByPath(ui, "act_timeStart")
+    self.act_timeEnd = TFDirector:getChildByPath(ui, "act_timeEnd")
+
+    -- -- self.activityInfo = ActivityDataMgr2:getActivityInfo(self.activityId)
+    -- if self.activityInfo then
+    --     local startDate = Utils:getLocalDate(self.activityInfo.startTime)
+    --     local startDateStr = startDate:fmt("%Y.%m.%d")
+    --     local endDate = Utils:getLocalDate(self.activityInfo.endTime)
+    --     local endDateStr = endDate:fmt("%Y.%m.%d")
+    --     self.act_timeStart:setText(startDateStr)
+    --     self.act_timeEnd:setText(endDateStr)
+    -- end
+
+    if self.activityInfo then
+        local year1, month1, day1 = Utils:getUTCDateYMD(self.activityInfo.startTime or 0 , false , GV_UTC_TIME_ZONE)
+        self.act_timeStart:setText(string.format("%s.%s.%s", year1, month1, day1))
+        local year2, month2, day2 = Utils:getUTCDateYMD(self.activityInfo.endTime or 0 , false , GV_UTC_TIME_ZONE)
+        self.act_timeEnd:setText(string.format("%s.%s.%s", year2, month2, day2) .. GV_UTC_TIME_STRING)
+    end
 
     self.listView = UIListView:create(self._ui.listView)
     self.listView:setItemsMargin(10)

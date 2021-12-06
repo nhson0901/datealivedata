@@ -132,29 +132,30 @@ function TongMonsterView:initUILogic()
     self.Image_left_bg:setTexture(self.vitMaxDungonInfo.eliteBossBg)
     self.Label_difficulty:setText(self.vitMaxDungonInfo.eliteLevel)
     Utils:playSound(8154, false)
-    local bornEffect = self.Image_bornEffect:getChildByName("bornEffect")
-    if not bornEffect then
-        bornEffect = SkeletonAnimation:create(self.vitMaxDungonInfo.bornEffect)
-        bornEffect:setAnimationFps(GameConfig.ANIM_FPS)
-        bornEffect:playByIndex(0, -1, -1, 0)
-        bornEffect:setName("Spine_paint")
-        self.Image_bornEffect:addChild(bornEffect, 100)
+    -- local bornEffect = self.Image_bornEffect:getChildByName("bornEffect")
+    -- if not bornEffect then
+    --     bornEffect = SkeletonAnimation:create(self.vitMaxDungonInfo.bornEffect)
+    --     bornEffect:setAnimationFps(GameConfig.ANIM_FPS)
+    --     bornEffect:playByIndex(0, -1, -1, 0)
+    --     bornEffect:setName("Spine_paint")
+    --     self.Image_bornEffect:addChild(bornEffect, 100)
+    -- end
+
+    -- bornEffect:addMEListener(TFARMATURE_COMPLETE,function()
+    --     bornEffect:removeMEListener(TFARMATURE_COMPLETE)
+    --     bornEffect:hide()
+
+    local Spine_paint = self.Image_monster:getChildByName("Spine_paint")
+    if not Spine_paint then
+        Spine_paint = SkeletonAnimation:create(self.vitMaxDungonInfo.eliteBossPaint)
+        Spine_paint:setAnimationFps(GameConfig.ANIM_FPS)
+        Spine_paint:playByIndex(0, -1, -1, 1)
+        Spine_paint:setName("Spine_paint")
+        self.Image_monster:addChild(Spine_paint, 100)
     end
+    self.Image_monster:setScale(0.55)
 
-    bornEffect:addMEListener(TFARMATURE_COMPLETE,function()
-        bornEffect:removeMEListener(TFARMATURE_COMPLETE)
-        bornEffect:hide()
-
-        local Spine_paint = self.Image_monster:getChildByName("Spine_paint")
-        if not Spine_paint then
-            Spine_paint = SkeletonAnimation:create(self.vitMaxDungonInfo.eliteBossPaint)
-            Spine_paint:setAnimationFps(GameConfig.ANIM_FPS)
-            Spine_paint:playByIndex(0, -1, -1, 1)
-            Spine_paint:setName("Spine_paint")
-            self.Image_monster:addChild(Spine_paint, 100)
-        end
-
-    end)
+    -- end)
 
     self:updateBaseInfo()
 end

@@ -82,7 +82,7 @@ return {
     [9] = {
         map = 1,
         posId = 9,
-        showByPreDun = 281208,
+        showByPreDun = 281538,
         isReplaceable = false,
         id = 9,
         defaultDungeon = 109,
@@ -92,7 +92,7 @@ return {
     [10] = {
         map = 1,
         posId = 10,
-        showByPreDun = 281208,
+        showByPreDun = 281538,
         isReplaceable = false,
         id = 10,
         defaultDungeon = 110,
@@ -102,7 +102,7 @@ return {
     [11] = {
         map = 1,
         posId = 11,
-        showByPreDun = 281208,
+        showByPreDun = 281538,
         isReplaceable = false,
         id = 11,
         defaultDungeon = 111,
@@ -112,7 +112,7 @@ return {
     [12] = {
         map = 1,
         posId = 12,
-        showByPreDun = 281208,
+        showByPreDun = 281538,
         isReplaceable = false,
         id = 12,
         defaultDungeon = 112,
@@ -122,7 +122,7 @@ return {
     [13] = {
         map = 1,
         posId = 13,
-        showByPreDun = 281208,
+        showByPreDun = 281538,
         isReplaceable = false,
         id = 13,
         defaultDungeon = 113,
@@ -132,7 +132,7 @@ return {
     [14] = {
         map = 1,
         posId = 14,
-        showByPreDun = 281208,
+        showByPreDun = 281538,
         isReplaceable = false,
         id = 14,
         defaultDungeon = 114,
@@ -142,7 +142,7 @@ return {
     [15] = {
         map = 1,
         posId = 15,
-        showByPreDun = 281208,
+        showByPreDun = 281538,
         isReplaceable = false,
         id = 15,
         defaultDungeon = 115,
@@ -152,7 +152,7 @@ return {
     [16] = {
         map = 1,
         posId = 16,
-        showByPreDun = 281208,
+        showByPreDun = 281538,
         isReplaceable = false,
         id = 16,
         defaultDungeon = 116,
@@ -162,7 +162,7 @@ return {
     [17] = {
         map = 1,
         posId = 17,
-        showByPreDun = 281208,
+        showByPreDun = 281538,
         isReplaceable = false,
         id = 17,
         defaultDungeon = 117,

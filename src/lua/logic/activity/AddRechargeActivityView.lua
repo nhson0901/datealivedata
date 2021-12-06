@@ -3,20 +3,9 @@ local AddRechargeActivityView = class("AddRechargeActivityView", BaseLayer)
 function AddRechargeActivityView:ctor(...)
     self.super.ctor(self)
     self:initData(...)
-
-    if self.activityInfo_.extendData.activityShowType == 2 then
-        self:init("lua.uiconfig.activity.addRechargeActivityView1")
-    elseif self.activityInfo_.extendData.activityShowType == 3 then
-        self:init("lua.uiconfig.activity.addRechargeActivityView3")
-    elseif self.activityInfo_.extendData.activityShowType == 6 then
-        self:init("lua.uiconfig.activity.addRechargeActivityView6")
-    elseif self.activityInfo_.extendData.activityShowType == EC_ActivityType2.FANSHI_ASSIST then
-        self:init("lua.uiconfig.activity.addRechargeActivityViewFanshi")
-    elseif self.activityInfo_.extendData.activityShowType == 91 then
-        self:init("lua.uiconfig.activity.whiteQueenAddRechargeActivityView") 
-    else
-        self:init("lua.uiconfig.activity.addRechargeActivityView")
-    end
+    local uiName = self.activityInfo_.extendData.uiName or "addRechargeActivityView_tong"
+    dump(self.activityInfo_,"==========================")
+    self:init("lua.uiconfig.activity."..uiName)
 end
 
 function AddRechargeActivityView:registerEvents()
@@ -52,12 +41,20 @@ function AddRechargeActivityView:initUI(ui)
     self.ListView_task = UIListView:create(TFDirector:getChildByPath(ui, "ScrollView_task"))
     self.ListView_task:setItemsMargin(0)
 
-    if self.activityId_ == 127 then  --冰铠和海王星同时存在累充冰铠活动做特殊位置处理
-        self.Button_recharge:setPositionY(-210)
-        TFDirector:getChildByPath(ui, "ScrollView_task"):setPosition(137 , -47)
-    end
+    self.panel_time = TFDirector:getChildByPath(ui, "panel_time")
+
     -- self.Image_preview = Utils:previewReward()
     -- self.Image_preview:AddTo(self.Panel_root, 1000)
+    if self.panel_time then
+        self.Label_timing:hide()
+        self.time_time = TFDirector:getChildByPath(self.panel_time, "time_time")
+        self.time_time_end = TFDirector:getChildByPath(self.panel_time, "time_time_end")
+
+        local startStr =  Utils:getUTCDateString(self.activityInfo_.startTime)
+        local endStr =  Utils:getUTCDateString(self.activityInfo_.endTime)
+        self.time_time:setText(startStr)
+        self.time_time_end:setText(endStr ..GV_UTC_TIME_STRING)
+    end
 end
 
 function AddRechargeActivityView:showRewardPreview(item, reward)
@@ -146,9 +143,7 @@ function AddRechargeActivityView:updateActivity()
             Panel_notGet:getChild("Label_money"):setTextById(1890020, itemInfo.target)
         elseif progressInfo.status == EC_TaskStatus.GET then
             Panel_get:show()
-            if Spine_receive then
-                Spine_receive:play("animation", true)
-            end
+            Spine_receive:play("animation", true)
             if Spine_receive1 then
                 Spine_receive1:play("animation2", true)
             end
@@ -176,11 +171,7 @@ function AddRechargeActivityView:updateActivity()
     
 
     self:updateCountDonw()
-    if self.activityInfo_.extendData.activityShowType == 91 then   --特殊活动不作处理
-    else
-        self.Image_bg:setTexture(self.activityInfo_.showIcon)
-    end
-
+    self.Image_bg:setTexture(self.activityInfo_.showIcon)
     self.Label_tip1:setText(self.activityInfo_.activityTitle)
     self.Label_tip2:setText(self.activityInfo_.extendData.subtitle)
 end

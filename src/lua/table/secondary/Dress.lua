@@ -9609,6 +9609,89 @@ return {
         },
         icon = "icon/role/dress_kanban/10711.png",
     },
+    [413602] = {
+        superType = 4,
+        relatedDress = {
+        },
+        cost = "0",
+        order = 1,
+        pileUp = false,
+        skinGroup = {
+        },
+        gridMax = 1,
+        masterId = 0,
+        background = "",
+        smallType = 0,
+        quality = 3,
+        roleUnlock = 136,
+        skinSettingIcon = "",
+        speVoiceSuffix = "",
+        subType = 0,
+        popupOffset = {
+        },
+        scales = 0,
+        name = "莎莉-校服-普通",
+        bgScales = 0,
+        des = "",
+        adaptation = 0,
+        desTextId = 20316,
+        skinSettingDesc = 0,
+        belongTo = 0,
+        convertMax = {
+            [570004] = 30,
+        },
+        kanbanBgm = "",
+        kanbanEffect = {
+        },
+        favorUpOffset = {
+        },
+        wordSize = {
+        },
+        exActionList = {
+        },
+        playWord = {
+            [1] = 14400427,
+            [2] = 14400428,
+            [3] = 14400429,
+            [4] = 14400430,
+            [5] = 14400431,
+            [6] = 14400432,
+        },
+        bagType = 4,
+        playAction = {
+            [1] = 2360,
+            [2] = 2361,
+            [3] = 2362,
+            [4] = 2364,
+            [5] = 2366,
+            [6] = 2371,
+        },
+        star = 0,
+        roleName = 32321,
+        dealProfit = {
+        },
+        sellProfit = {
+        },
+        type = 1,
+        highRoleModel = 0,
+        groupId = 0,
+        id = 413602,
+        notTurnPlay = false,
+        totalMax = 1,
+        kanbanBgmId = 0,
+        backgroundEffect = {
+        },
+        dressImg = "icon/role/dress_kanban/13602m.png",
+        offSet = {
+        },
+        nameTextId = 20315,
+        roleModel = 213602,
+        skinSettingTitle = 0,
+        accessId = {
+            [1] = 275,
+        },
+        icon = "icon/role/dress_kanban/13602.png",
+    },
     [413303] = {
         superType = 4,
         relatedDress = {

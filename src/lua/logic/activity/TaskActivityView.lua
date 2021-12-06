@@ -4,20 +4,15 @@ local TaskActivityView = class("TaskActivityView", BaseLayer)
 function TaskActivityView:initData(activityId)
     self.activityId_ = activityId
     self.activityInfo_ = ActivityDataMgr2:getActivityInfo(self.activityId_)
+    dump(self.activityInfo_)
     self.taskItems_ = {}
-    self.useNormalTime = false
-    if self.activityInfo_ and self.activityInfo_.extendData then
-        self.useNormalTime = self.activityInfo_.extendData.useNormalTime == 1
-    end
 end
 
 function TaskActivityView:ctor(...)
     self.super.ctor(self)
     self:initData(...)
     local uiName = self.activityInfo_.extendData.uiName or "taskActivityView"
-    if self.activityInfo_.extendData.activityShowType == EC_ActivityType2.FANSHI_ASSIST then
-        uiName = "taskActivityViewFanshi"
-    end
+
     self:init("lua.uiconfig.activity."..uiName)
 end
 
@@ -30,6 +25,7 @@ function TaskActivityView:initUI(ui)
     self.Panel_taskItem = TFDirector:getChildByPath(self.Panel_prefab, "Panel_taskItem")
 
     self.Image_ad = TFDirector:getChildByPath(self.Panel_root, "Image_ad")
+    self.Panel_time = TFDirector:getChildByPath(self.Panel_root, "Panel_time")
 
     local btn_lryb = TFDirector:getChildByPath(self.Image_ad, "Button_lryb")
 
@@ -40,14 +36,11 @@ function TaskActivityView:initUI(ui)
                 Utils:openView("supplyNew.SupplyMainNewView")
             end)
     end
-    
-    self.Label_date = TFDirector:getChildByPath(self.Image_ad, "Label_date")
-    self.Label_date:setFontSize(18)
-    --TODO CLOSE 强三开启屏蔽
-    --self.Label_timing = TFDirector:getChildByPath(self.Image_ad, "Label_timing"):hide()
-    self.Label_timing = TFDirector:getChildByPath(self.Image_ad, "Label_timing")
-    self.Label_timing:setVisible(not self.useNormalTime)
 
+    
+
+    self.Label_date = TFDirector:getChildByPath(self.Image_ad, "Label_date")
+    self.Label_timing = TFDirector:getChildByPath(self.Image_ad, "Label_timing"):hide()
 
     self.Label_time_tip = TFDirector:getChildByPath(self.Image_ad, "Label_time_tip")
     self.Label_time_begin = TFDirector:getChildByPath(self.Image_ad, "Label_time_begin")
@@ -56,9 +49,6 @@ function TaskActivityView:initUI(ui)
     self.Label_time_end:setSkewX(10)
     self.Label_time_tip:setSkewX(10)
 
-    self.Label_time_tip:setVisible(self.useNormalTime)
-    self.Label_time_begin:setVisible(self.useNormalTime)
-    self.Label_time_end:setVisible(self.useNormalTime)
 
     local ScrollView_task = TFDirector:getChildByPath(self.Panel_root, "ScrollView_task")
     self.ListView_task = UIListView:create(ScrollView_task)
@@ -76,6 +66,10 @@ function TaskActivityView:initUI(ui)
 
     if self.Panel_progress then
         self:initPanelProgress()
+    end
+
+    if self.activityInfo_.extendData.yl then
+        self:initFullSerModel()
     end
 
     self:refreshView()
@@ -188,6 +182,7 @@ function TaskActivityView:addTaskItem()
     local foo = {}
     foo.root = Panel_taskItem
     foo.Image_icon = TFDirector:getChildByPath(foo.root, "Image_icon")
+    foo.Image_diban = TFDirector:getChildByPath(foo.root, "Image_diban")
     foo.Label_desc = TFDirector:getChildByPath(foo.root, "Label_desc")
     foo.Label_progress_title = TFDirector:getChildByPath(foo.root, "Label_progress_title")
     foo.Label_progress_title:setTextById(1890002)
@@ -243,22 +238,12 @@ function TaskActivityView:updateTaskItem(item,itemId)
     foo.Image_lock:setVisible(not isUnlock)
 
     foo.Image_icon:setTexture(itemInfo.extendData.icon)
-  
-  local strIndex = 0
-   for i in  string.gmatch(TextDataMgr:getText(tonumber(itemInfo.extendData.des2)) , '%%%a') do
-       strIndex = strIndex + 1
-   end
-   if strIndex == 2 then
-       foo.Label_desc:setTextById(tonumber(itemInfo.extendData.des2) ,tonumber(itemInfo.target) ,itemInfo.extendData.maidList )
-   elseif strIndex == 1 then
-       foo.Label_desc:setTextById(tonumber(itemInfo.extendData.des2) ,tonumber(itemInfo.target))
-        --print(strIndex , itemInfo,itemInfo.target)
+    if itemInfo.extendData.banner then
+        foo.Image_diban:setTexture(itemInfo.extendData.banner)
+    end
 
-   else
-        foo.Label_desc:setTextById(tonumber(itemInfo.extendData.des2))
-   end
-    
-   
+
+    foo.Label_desc:setTextById(itemInfo.extendData.des2, itemInfo.target)
     foo.Label_progress:setTextById(800005, progress, itemInfo.target)
     if progress > tonumber(itemInfo.target)  then
         foo.Label_progress:setTextById(800005, itemInfo.target, itemInfo.target)
@@ -315,38 +300,40 @@ end
 
 function TaskActivityView:refreshView()
 
-    if self.activityInfo_ and self.useNormalTime then
-        local startDate = Utils:getUTCDate(self.activityInfo_.startTime , GV_UTC_TIME_ZONE)
-        local startDateStr = startDate:fmt("%Y.%m.%d")
-        local endDate = Utils:getUTCDate(self.activityInfo_.endTime , GV_UTC_TIME_ZONE)
-        local endDateStr = endDate:fmt("%Y.%m.%d")
-        self.Label_time_begin:setText(startDateStr)
-        self.Label_time_end:setText(endDateStr..GV_UTC_TIME_STRING)
-    end
+    if self.activityInfo_ then
+         if self.Label_time_begin then
+            local startDate = Utils:getLocalDate(self.activityInfo_.startTime)
+            local startDateStr = startDate:fmt("%Y.%m.%d")
+            local endDate = Utils:getLocalDate(self.activityInfo_.endTime)
+            local endDateStr = endDate:fmt("%Y.%m.%d")
+            self.Label_time_begin:setText(startDateStr)
+            self.Label_time_end:setText(endDateStr) 
+        end
 
+        if self.Panel_time then
+            Utils:updateActivityTime(self.Panel_time,self.activityInfo_.showStartTime,self.activityInfo_.showEndTime, 15)
+        end
+    end
 end
 
 function TaskActivityView:updateCountDonw()
-    if self.useNormalTime then
-        return
-    end
     local isEnd = ActivityDataMgr2:isEnd(self.activityId_)
     local serverTime = ServerDataMgr:getServerTime()
     if isEnd then
         local remainTime = math.max(0, self.activityInfo_.showEndTime - serverTime)
         local day, hour, min = Utils:getFuzzyDHMS(remainTime, true)
         if day == "00" then
-            self.Label_timing:setTextById("r42002", hour, min)
+            self.Label_timing:setTextById("r42006", hour, min)
         else
-            self.Label_timing:setTextById("r42001", day, hour)
+            self.Label_timing:setTextById("r42005", day, hour)
         end
     else
         local remainTime = math.max(0, self.activityInfo_.endTime - serverTime)
         local day, hour, min = Utils:getFuzzyDHMS(remainTime, true)
         if day == "00" then
-            self.Label_timing:setTextById("r42004", hour, min)
+            self.Label_timing:setTextById("r42008", hour, min)
         else
-            self.Label_timing:setTextById("r42003", day, hour)
+            self.Label_timing:setTextById("r42007", day, hour)
         end
     end
 
@@ -357,6 +344,7 @@ function TaskActivityView:updateCountDonw()
 end
 
 function TaskActivityView:registerEvents()
+
     self.super.registerEvents(self)
 
     EventMgr:addEventListener(self, EV_CROSS_SUPPORT_INFO, handler(self.onCrossSupportInfoRsp, self))
@@ -511,5 +499,139 @@ function TaskActivityView:showPreview(index)
 
     -- self.Image_preview:Pos(np)
 end
+
+-- 全服活动模块↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
+function TaskActivityView:initFullSerModel()
+
+    local modelRoot = TFDirector:getChildByPath(self.Panel_root, "Panel_fullServerModel")
+
+    if not modelRoot then
+        print("初始化全服模块失败，没找到全服模块的相关节点，请检查uiname配置")
+        return
+    end
+
+
+
+    self.fullSerActivityId = self.activityId_   --有些界面的活动id变量名不同 
+
+    self.fullSerActivityInfo_ = self.activityInfo_  --有些界面的活动信息变量名不同
+
+    self.allPersentItem = {}
+
+    self.maxFullSerPro = 0
+    for k,v in pairs(self.fullSerActivityInfo_.extendData.serverReward) do
+        if tonumber(k) > self.maxFullSerPro then
+            self.maxFullSerPro = tonumber(k)
+        end
+    end
+
+    self.Label_fullSerPro = TFDirector:getChildByPath(modelRoot, "Label_fullSerPro")
+    self.Label_fullSerScore = TFDirector:getChildByPath(modelRoot, "Label_fullSerScore")
+    self.Label_ownScore = TFDirector:getChildByPath(modelRoot, "Label_ownScore")
+    self.Image_active_progress = TFDirector:getChildByPath(modelRoot, "Image_fullServer_progress")
+    self.Panel_fullServerRewardItem = TFDirector:getChildByPath(modelRoot, "Panel_fullServerRewardItem")
+
+    EventMgr:addEventListener(self,EV_UPDATE_FULLSERVER_PROGRESS,handler(self.EV_UPDATE_FULLSERVER_PROGRESS, self))
+
+
+    -- ActivityDataMgr2:resFullServerTaskData(self.fullSerActivityId)
+
+    self:runAction(RepeatForever:create(CCSequence:create({CallFunc:create(function() ActivityDataMgr2:resFullServerTaskData(self.fullSerActivityId) end), DelayTime:create(15)})))
+
+end
+
+function TaskActivityView:EV_UPDATE_FULLSERVER_PROGRESS(data)
+    if data.activityId == self.fullSerActivityId then
+        self.Label_fullSerScore:setTextEx(data.progress)
+        self:initFullServerProgressUI(tonumber(data.progress)/self.maxFullSerPro*100,data.taken or {})
+    end
+end
+function TaskActivityView:updateProgressItem(item,status)
+    TFDirector:getChildByPath(item, "Panel_geted"):setVisible(status == EC_TaskStatus.GETED)
+    TFDirector:getChildByPath(item, "Panel_canGet"):setVisible(status == EC_TaskStatus.GET)
+
+    TFDirector:getChildByPath(item, "Panel_notGet"):setVisible(status == EC_TaskStatus.ING)
+    TFDirector:getChildByPath(item, "Label_unselect_name"):setVisible(status == EC_TaskStatus.GETED)
+end
+function TaskActivityView:updatePercentItem(progress)
+    for k,item in pairs(self.allPersentItem) do
+        TFDirector:getChildByPath(item, "Button_getFullSerReward"):setVisible(progress >= tonumber(k))
+    end
+end
+function TaskActivityView:initFullServerProgressUI(progress,takeList)
+
+    progress = progress or 0
+    if progress < 1 then
+        progress = 1
+    end
+    if progress > 100 then
+        progress = 100
+    end
+    TFDirector:getChildByPath(self.Image_active_progress, "LoadingBar_activeProgress"):setPercent(progress)
+
+    self.Label_fullSerPro:setTextEx(math.floor(progress).."%")
+
+    if self.fullSerActivityInfo_.extendData.valueId then
+        self.Label_ownScore:setTextEx(GoodsDataMgr:getItemCount(self.fullSerActivityInfo_.extendData.valueId))
+    else
+        print("没找到要展示的全服活动物品ID")
+    end
+    
+    local Image_taskPercent = TFDirector:getChildByPath(self.Image_active_progress, "Image_taskPercent"):hide()
+    local w = self.Image_active_progress:getContentSize().width
+
+
+    for k,v in pairs(self.fullSerActivityInfo_.extendData.serverReward) do
+
+        local item = self.allPersentItem[k] or (self.Panel_fullServerRewardItem:clone():AddTo(self.Image_active_progress,2):show())
+        -- self.Image_active_progress:addChild(item:show())
+
+        item:setScale(0.9)
+
+        local kp = tonumber(k)/self.maxFullSerPro*100
+
+        item:setPositionX(w/100*kp)
+
+        item:setPositionY(-35)
+
+        local label_activityPercent = TFDirector:getChildByPath(item, "label_activityPercent")
+        -- label_activityPercent:setText(kp .. "%")
+
+        local btn_get = TFDirector:getChildByPath(item, "Button_canGet")
+
+        -- btn_get:setVisible(progress >= kp)
+
+        TFDirector:getChildByPath(item, "Spine_receive"):play("animation", true)
+
+        if progress < kp then
+            self:updateProgressItem(item,0)
+        else
+            self:updateProgressItem(item,1)
+        end
+
+        -- self.label_nowProgress:setTextById(63970,ownProgress,self.activityInfo_.extendData.unit)
+
+
+        local rewards = {}
+        for kk,vv in pairs(v) do
+            table.insert(rewards,{id = tonumber(kk),num = vv})
+        end
+
+        TFDirector:getChildByPath(item, "Button_notGet"):onClick(function()
+            Utils:previewReward(nil,rewards)
+        end)
+        btn_get:onClick(function()
+            -- TFDirector:send(c2s.ANNIVERSARY2021_REQ_TAKE_FETE_REWARD,{tostring(k)})    --9803
+            ActivityDataMgr2:resFullServerTaskReward(self.fullSerActivityId, tostring(k))
+        end)
+        self.allPersentItem[k] = item
+    end
+    for i,v in ipairs(takeList) do
+        if self.allPersentItem[v] then
+            self:updateProgressItem(self.allPersentItem[v],2)
+        end
+    end
+end
+-- 全服活动模块↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑by：czy 2021.10.19↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑
 
 return TaskActivityView

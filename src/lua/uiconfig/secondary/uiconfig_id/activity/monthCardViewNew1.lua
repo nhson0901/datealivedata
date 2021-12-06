@@ -4469,12 +4469,12 @@ local t =
 							bgColorOpacity = "50",
 							bIsOpenClipping = "False",
 							classname = "MEPanel",
-							colorType = "0;SingleColor:#FFFF0000;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+							colorType = "1;SingleColor:#FFFF0000;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 							DesignHeight = "640",
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "158",
+							height = "189",
 							ignoreSize = "False",
 							name = "Panel_giftItem1",
 							sizepercentx = "0",
@@ -4518,7 +4518,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 1,
-										PositionY = 60,
+										PositionY = 77,
 									},
 									width = "418",
 									ZOrder = "1",
@@ -4529,11 +4529,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "124",
-									ignoreSize = "True",
+									height = "156",
+									ignoreSize = "False",
 									name = "Image_bg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -4575,8 +4575,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "18",
+									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
 									nTextHAlign = "0",
@@ -4590,9 +4590,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -172,
-										PositionY = 72,
+										PositionY = 89,
 									},
-									width = "200",
+									width = "52",
 									ZOrder = "1",
 								},
 								{
@@ -4674,7 +4674,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 101,
-										PositionY = 60,
+										PositionY = 77,
 									},
 									width = "34",
 									ZOrder = "1",
@@ -4720,7 +4720,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 160,
-										PositionY = 60,
+										PositionY = 77,
 									},
 									width = "12",
 									ZOrder = "1",
@@ -4729,12 +4729,12 @@ local t =
 									controlID = "Label_revert_Panel_giftItem1_Panel_prefab_Panel-monthCardViewNew1_Layer1_activity_Game",
 									UUID = "2ad02240_2902_4e8d_8fb0_2f692dea0052",
 									anchorPoint = "False",
-									anchorPointX = "1",
-									anchorPointY = "0",
+									anchorPointX = "0",
+									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF49557F",
+									FontColor = "#FFFFFFFF",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -4744,18 +4744,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "14",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "16",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_revert",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -4765,10 +4765,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 79,
-										PositionY = 46,
+										PositionX = -204,
+										PositionY = 51,
 									},
-									width = "33",
+									width = "42",
 									ZOrder = "1",
 								},
 								{
@@ -5053,7 +5053,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "158",
+							height = "189",
 							ignoreSize = "False",
 							name = "Panel_giftItem2",
 							sizepercentx = "0",
@@ -5097,7 +5097,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 1,
-										PositionY = 59,
+										PositionY = 77,
 									},
 									width = "418",
 									ZOrder = "1",
@@ -5108,11 +5108,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "124",
-									ignoreSize = "True",
+									height = "156",
+									ignoreSize = "False",
 									name = "Image_bg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -5154,8 +5154,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "18",
+									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
 									nTextHAlign = "0",
@@ -5169,9 +5169,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -173,
-										PositionY = 72,
+										PositionY = 89,
 									},
-									width = "200",
+									width = "52",
 									ZOrder = "1",
 								},
 								{
@@ -5253,7 +5253,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 101,
-										PositionY = 61,
+										PositionY = 77,
 									},
 									width = "34",
 									ZOrder = "1",
@@ -5298,8 +5298,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 161,
-										PositionY = 60,
+										PositionX = 160,
+										PositionY = 77,
 									},
 									width = "12",
 									ZOrder = "1",
@@ -5308,12 +5308,12 @@ local t =
 									controlID = "Label_revert_Panel_giftItem2_Panel_prefab_Panel-monthCardViewNew1_Layer1_activity_Game",
 									UUID = "019171c4_a58e_4d90_9c76_c1d1922af1a6",
 									anchorPoint = "False",
-									anchorPointX = "1",
-									anchorPointY = "0",
+									anchorPointX = "0",
+									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFA9702C",
+									FontColor = "#FFFFFFFF",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -5323,18 +5323,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "14",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "16",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_revert",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -5344,10 +5344,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 79,
-										PositionY = 47,
+										PositionX = -204,
+										PositionY = 51,
 									},
-									width = "33",
+									width = "42",
 									ZOrder = "1",
 								},
 								{

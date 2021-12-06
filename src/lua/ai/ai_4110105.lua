@@ -108,7 +108,6 @@ return {
             ["Desc"] = "子节点",
             ["Duration"] = 0,
             ["NodeTag"] = "05961F8AB4FC4634B60F637805B8B38F",
-            ["Force"] = 0,
             ["TriggerType"] = 1,
             ["Static"] = false,
             ["Pos"] = {
@@ -174,7 +173,6 @@ return {
             ["Desc"] = "子节点",
             ["Duration"] = 0,
             ["NodeTag"] = "93832F12E77C41409799F4DF19663CDE",
-            ["Force"] = 0,
             ["TriggerType"] = 1,
             ["Static"] = false,
             ["Pos"] = {

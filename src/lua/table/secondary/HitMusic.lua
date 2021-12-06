@@ -399,6 +399,16 @@ return {
         resource1 = "sound/ui/getItem.mp3",
         id = 1130103,
     },
+    [1090101] = {
+        resource2 = "sound/13601/hit.mp3",
+        volume2 = 80,
+        name = "莎莉攻击命中刀光声音",
+        volume3 = 80,
+        volume1 = 80,
+        resource3 = "sound/13601/hit.mp3",
+        resource1 = "sound/13601/hit.mp3",
+        id = 1090101,
+    },
     [1050101] = {
         resource2 = "sound/10501/hitMechan_10501_1.mp3",
         volume2 = 40,

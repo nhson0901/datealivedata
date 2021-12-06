@@ -26,7 +26,7 @@ function TongAddNumConfirmView:initUI(ui)
     self.Button_cancel = TFDirector:getChildByPath(self.ui, "Button_cancle")
     self.Button_ok = TFDirector:getChildByPath(self.ui, "Button_ok")
 
-    local rich = TFRichText:create(ccs(400, 160))
+    local rich = TFRichText:create(ccs(500, 160))
     local str = string.format([[<font face="fangzheng_zhunyuan26" color="#1f8993">%s</font>]], self.showData.content)
     rich:Text(str)
     self.Panel_content:Add(rich)

@@ -2699,4 +2699,10 @@ TFDirector:addMEGlobalListener("applicationDidEnterBackground", function()
     EventMgr:dispatchEvent("applicationDidEnterBackground")
 end)
 --注册事件
+
+--战斗是否将要结束
+function battleController.checkBrushMonsterAdded( )
+    return brushMonster:checkBrushMonsterAdded()
+end
+
 return battleController

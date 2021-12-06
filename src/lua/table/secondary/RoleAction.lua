@@ -829,13 +829,13 @@ return {
         roleName = "万由里-召唤电球怪",
         roleForm = 1,
     },
-    [14055] = {
+    [24011] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11207",
+        resource = "fight_12501",
         motionDown = {
         },
-        id = 14055,
+        id = 24011,
         effectPoint = "",
         motionUp = {
         },
@@ -845,11 +845,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "quickmove",
-        action = "quickmove",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "万由里-破晓之星",
+        roleName = "或守鞠奈",
         roleForm = 1,
     },
     [14087] = {
@@ -5648,13 +5648,13 @@ return {
         roleName = "华伦",
         roleForm = 2,
     },
-    [200240] = {
+    [29137] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21101",
+        resource = "fight_10313",
         motionDown = {
         },
-        id = 200240,
+        id = 29137,
         effectPoint = "",
         motionUp = {
         },
@@ -5664,11 +5664,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "高阶DEM远程小怪",
+        roleName = "冰铠",
         roleForm = 1,
     },
     [200752] = {
@@ -6200,13 +6200,13 @@ return {
         roleName = "华伦",
         roleForm = 2,
     },
-    [200248] = {
+    [29138] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21201",
+        resource = "fight_10313",
         motionDown = {
         },
-        id = 200248,
+        id = 29138,
         effectPoint = "",
         motionUp = {
         },
@@ -6216,11 +6216,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "flip",
-        action = "floor",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "高阶DEM综合小怪",
+        roleName = "冰铠",
         roleForm = 1,
     },
     [200760] = {
@@ -6384,13 +6384,13 @@ return {
         roleName = "八舞夕弦",
         roleForm = 1,
     },
-    [15147] = {
+    [18005] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11303_2",
+        resource = "fight_11701",
         motionDown = {
         },
-        id = 15147,
+        id = 18005,
         effectPoint = "",
         motionUp = {
         },
@@ -6400,12 +6400,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "entrance",
+        action = "entrance",
         transit = {
         },
-        roleName = "圣诞七罪-大人",
-        roleForm = 2,
+        roleName = "白井黑子",
+        roleForm = 1,
     },
     [15179] = {
         triggerEvent = "",
@@ -7557,27 +7557,27 @@ return {
         roleName = "七罪熊猫",
         roleForm = 1,
     },
-    [15116] = {
+    [22038] = {
         triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_cangshu",
+        effectScaleUp = 0.6,
+        resource = "effects_11212_skillB",
         motionDown = {
         },
-        id = 15116,
+        id = 22038,
         effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0,
+        effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "stand",
+        realAction = "smollboll",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "七罪仓鼠",
+        roleName = "万由里女巫-召唤电球怪",
         roleForm = 1,
     },
     [18007] = {
@@ -8178,13 +8178,13 @@ return {
         roleName = "华伦",
         roleForm = 2,
     },
-    [200272] = {
+    [29141] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_20501_skillC",
+        resource = "fight_10313",
         motionDown = {
         },
-        id = 200272,
+        id = 29141,
         effectPoint = "",
         motionUp = {
         },
@@ -8194,11 +8194,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "skillC1",
-        action = "born",
+        realAction = "win",
+        action = "win",
         transit = {
         },
-        roleName = "地雷",
+        roleName = "冰铠",
         roleForm = 1,
     },
     [200784] = {
@@ -10739,13 +10739,13 @@ return {
         roleName = "11号BOSS",
         roleForm = 2,
     },
-    [9008] = {
+    [18012] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10602",
+        resource = "fight_11701",
         motionDown = {
         },
-        id = 9008,
+        id = 18012,
         effectPoint = "",
         motionUp = {
         },
@@ -10755,11 +10755,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floor",
-        action = "floor",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "芬里尔崇宫真那",
+        roleName = "白井黑子",
         roleForm = 1,
     },
     [200307] = {
@@ -14506,13 +14506,13 @@ return {
         roleName = "圆神凛祢",
         roleForm = 1,
     },
-    [200352] = {
+    [29151] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_22501",
+        resource = "fight_13701",
         motionDown = {
         },
-        id = 200352,
+        id = 29151,
         effectPoint = "",
         motionUp = {
         },
@@ -14522,11 +14522,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "hurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "高阶能量综合小怪",
+        roleName = "梅普露",
         roleForm = 1,
     },
     [200864] = {
@@ -20717,13 +20717,13 @@ return {
         roleName = "DEM崇宫真那（猫娘）",
         roleForm = 1,
     },
-    [200430] = {
+    [24042] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30801",
+        resource = "fight_12401",
         motionDown = {
         },
-        id = 200430,
+        id = 24042,
         effectPoint = "",
         motionUp = {
         },
@@ -20733,11 +20733,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "8号BOSS",
+        roleName = "鞠亚",
         roleForm = 1,
     },
     [20011] = {
@@ -24921,13 +24921,13 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200480] = {
+    [29167] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30601",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200480,
+        id = 29167,
         effectPoint = "",
         motionUp = {
         },
@@ -24937,11 +24937,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "6号BOSS",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [200992] = {
@@ -25063,27 +25063,31 @@ return {
         roleName = "诱宵美九",
         roleForm = 1,
     },
-    [200482] = {
-        triggerEvent = "",
+    [22001] = {
+        triggerEvent = "effect0",
         effectScaleUp = 0.6,
-        resource = "fight_30601",
+        resource = "fight_11212",
         motionDown = {
+            [1] = "born_down",
         },
-        id = 200482,
-        effectPoint = "",
+        id = 22001,
+        effectPoint = "root",
         motionUp = {
+            [1] = "born_up",
         },
         effectScaleDown = 0.6,
         resourceDown = {
+            [1] = "effects_11212_skillF",
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_11212_skillF",
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "born",
+        action = "born",
         transit = {
         },
-        roleName = "6号BOSS",
+        roleName = "万由里女巫",
         roleForm = 1,
     },
     [200994] = {
@@ -25477,6 +25481,52 @@ return {
         roleName = "指宿帕妮2形态",
         roleForm = 2,
     },
+    [14012] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11201",
+        motionDown = {
+        },
+        id = 14012,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "万由里",
+        roleForm = 1,
+    },
+    [200058] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20401",
+        motionDown = {
+        },
+        id = 200058,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "高阶近战AST小怪",
+        roleForm = 1,
+    },
     [29040] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -25523,13 +25573,13 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200488] = {
+    [29168] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30601",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200488,
+        id = 29168,
         effectPoint = "",
         motionUp = {
         },
@@ -25539,11 +25589,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "6号BOSS",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201000] = {
@@ -25592,6 +25642,121 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
+    [12013] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10901",
+        motionDown = {
+        },
+        id = 12013,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "爱莲",
+        roleForm = 1,
+    },
+    [201182] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201182,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "standup",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
+        roleForm = 1,
+    },
+    [5006] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10301",
+        motionDown = {
+        },
+        id = 5006,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "四糸乃",
+        roleForm = 1,
+    },
+    [201180] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201180,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "quickmove",
+        action = "quickmove",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
+        roleForm = 1,
+    },
+    [4138] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10213",
+        motionDown = {
+        },
+        id = 4138,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "floorRelive",
+        transit = {
+        },
+        roleName = "反转折纸和服",
+        roleForm = 1,
+    },
     [200489] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -25637,6 +25802,75 @@ return {
         },
         roleName = "指宿帕妮2形态",
         roleForm = 2,
+    },
+    [201178] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201178,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
+        roleForm = 1,
+    },
+    [14098] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11215",
+        motionDown = {
+        },
+        id = 14098,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floorRelive",
+        action = "floorRelive",
+        transit = {
+        },
+        roleName = "机械万由里",
+        roleForm = 1,
+    },
+    [12017] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10901",
+        motionDown = {
+        },
+        id = 12017,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "standup",
+        transit = {
+        },
+        roleName = "爱莲",
+        roleForm = 1,
     },
     [15002] = {
         triggerEvent = "",
@@ -25822,6 +26056,75 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
+    [2068] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10109",
+        motionDown = {
+        },
+        id = 2068,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Pmove",
+        action = "move",
+        transit = {
+        },
+        roleName = "深渊反转十香",
+        roleForm = 2,
+    },
+    [201174] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201174,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
+        roleForm = 1,
+    },
+    [18006] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11701",
+        motionDown = {
+        },
+        id = 18006,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "白井黑子",
+        roleForm = 1,
+    },
     [200491] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -25867,6 +26170,144 @@ return {
         },
         roleName = "指宿帕妮2形态",
         roleForm = 2,
+    },
+    [201172] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201172,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
+        roleForm = 1,
+    },
+    [200022] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20201",
+        motionDown = {
+        },
+        id = 200022,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floor",
+        action = "floor",
+        transit = {
+        },
+        roleName = "远程AST小怪",
+        roleForm = 1,
+    },
+    [20023] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12301_skillC2",
+        motionDown = {
+        },
+        id = 20023,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "bao0",
+        action = "die1",
+        transit = {
+        },
+        roleName = "贝露能量球",
+        roleForm = 1,
+    },
+    [22030] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_11212_skillB",
+        motionDown = {
+        },
+        id = 22030,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "smollboll",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "万由里女巫-召唤电球怪",
+        roleForm = 1,
+    },
+    [4067] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10209",
+        motionDown = {
+        },
+        id = 4067,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "精灵折纸",
+        roleForm = 1,
+    },
+    [201167] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201167,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "departure",
+        action = "departure",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
+        roleForm = 1,
     },
     [200492] = {
         triggerEvent = "",
@@ -25914,6 +26355,146 @@ return {
         roleName = "指宿帕妮2形态",
         roleForm = 2,
     },
+    [201166] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201166,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "born",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_13601_born",
+        },
+        realAction = "born",
+        action = "born",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
+        roleForm = 1,
+    },
+    [24007] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 24007,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt1",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 1,
+    },
+    [201164] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_13601_skillC",
+        motionDown = {
+        },
+        id = 201164,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "skillC4_1",
+        action = "born",
+        transit = {
+        },
+        roleName = "莎莉分身出现特效",
+        roleForm = 1,
+    },
+    [24033] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_exskillB3",
+        motionDown = {
+        },
+        id = 24033,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "diquan_lan_chuxian",
+        action = "born",
+        transit = {
+        },
+        roleName = "或守鞠奈-陷阱-蓝色陷阱",
+        roleForm = 1,
+    },
+    [201162] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29012",
+        motionDown = {
+        },
+        id = 201162,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "巡逻机器人",
+        roleForm = 1,
+    },
+    [15091] = {
+        triggerEvent = "",
+        effectScaleUp = 0,
+        resource = "fight_11301_xiong",
+        motionDown = {
+        },
+        id = 15091,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "七罪熊猫",
+        roleForm = 1,
+    },
     [200493] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -25959,6 +26540,75 @@ return {
         },
         roleName = "指宿帕妮2形态",
         roleForm = 2,
+    },
+    [24053] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12401",
+        motionDown = {
+        },
+        id = 24053,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "quickmove",
+        action = "quickmove",
+        transit = {
+        },
+        roleName = "鞠亚",
+        roleForm = 1,
+    },
+    [4125] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10213",
+        motionDown = {
+        },
+        id = 4125,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "entrance",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "反转折纸和服",
+        roleForm = 1,
+    },
+    [201158] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29012",
+        motionDown = {
+        },
+        id = 201158,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "巡逻机器人",
+        roleForm = 1,
     },
     [2004] = {
         triggerEvent = "",
@@ -26305,6 +26955,52 @@ return {
         roleName = "深渊反转十香",
         roleForm = 2,
     },
+    [3007] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10102",
+        motionDown = {
+        },
+        id = 3007,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "强化十香",
+        roleForm = 1,
+    },
+    [201156] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29012",
+        motionDown = {
+        },
+        id = 201156,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "巡逻机器人",
+        roleForm = 1,
+    },
     [29041] = {
         triggerEvent = "effect0",
         effectScaleUp = 0.6,
@@ -26355,13 +27051,13 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200496] = {
+    [29169] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30601",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200496,
+        id = 29169,
         effectPoint = "",
         motionUp = {
         },
@@ -26371,12 +27067,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Ehurt3",
-        action = "hurt3",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "6号BOSS",
-        roleForm = 2,
+        roleName = "莎莉",
+        roleForm = 1,
     },
     [201008] = {
         triggerEvent = "",
@@ -26424,6 +27120,121 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
+    [29053] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_13101",
+        motionDown = {
+        },
+        id = 29053,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "华伦",
+        roleForm = 1,
+    },
+    [11028] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10807",
+        motionDown = {
+        },
+        id = 11028,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "八舞夕弦-春节",
+        roleForm = 1,
+    },
+    [10023] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10707",
+        motionDown = {
+        },
+        id = 10023,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "八舞耶俱矢-春节",
+        roleForm = 1,
+    },
+    [16012] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11401",
+        motionDown = {
+        },
+        id = 16012,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "涅普",
+        roleForm = 1,
+    },
+    [29034] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12801",
+        motionDown = {
+        },
+        id = 29034,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "苍",
+        roleForm = 1,
+    },
     [200497] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -26468,6 +27279,121 @@ return {
         transit = {
         },
         roleName = "人偶",
+        roleForm = 1,
+    },
+    [201150] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29011",
+        motionDown = {
+        },
+        id = 201150,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "守卫机器人",
+        roleForm = 1,
+    },
+    [7011] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10501",
+        motionDown = {
+        },
+        id = 7011,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "五河琴里",
+        roleForm = 1,
+    },
+    [201148] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29011",
+        motionDown = {
+        },
+        id = 201148,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "守卫机器人",
+        roleForm = 1,
+    },
+    [200486] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30601",
+        motionDown = {
+        },
+        id = 200486,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "standup",
+        transit = {
+        },
+        roleName = "6号BOSS",
+        roleForm = 1,
+    },
+    [201146] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29011",
+        motionDown = {
+        },
+        id = 201146,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "守卫机器人",
         roleForm = 1,
     },
     [13019] = {
@@ -26562,13 +27488,13 @@ return {
         roleName = "芬里尔崇宫真那",
         roleForm = 1,
     },
-    [201162] = {
+    [4014] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29012",
+        resource = "fight_10201",
         motionDown = {
         },
-        id = 201162,
+        id = 4014,
         effectPoint = "",
         motionUp = {
         },
@@ -26578,20 +27504,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "巡逻机器人",
+        roleName = "鸢一折纸",
         roleForm = 1,
     },
-    [11029] = {
+    [1056] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10807",
+        resource = "fight_10108",
         motionDown = {
         },
-        id = 11029,
+        id = 1056,
         effectPoint = "",
         motionUp = {
         },
@@ -26601,11 +27527,80 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "八舞夕弦-春节",
+        roleName = "夜刀神十香(生日)",
+        roleForm = 1,
+    },
+    [2067] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10109",
+        motionDown = {
+        },
+        id = 2067,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Phurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "深渊反转十香",
+        roleForm = 2,
+    },
+    [201142] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29011",
+        motionDown = {
+        },
+        id = 201142,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "守卫机器人",
+        roleForm = 1,
+    },
+    [1008] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10101",
+        motionDown = {
+        },
+        id = 1008,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floor",
+        action = "floor",
+        transit = {
+        },
+        roleName = "夜刀神十香",
         roleForm = 1,
     },
     [200499] = {
@@ -26654,13 +27649,13 @@ return {
         roleName = "人偶",
         roleForm = 1,
     },
-    [24049] = {
+    [201140] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12401",
+        resource = "fight_29011",
         motionDown = {
         },
-        id = 24049,
+        id = 201140,
         effectPoint = "",
         motionUp = {
         },
@@ -26670,20 +27665,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt3",
-        action = "hurt3",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "鞠亚",
+        roleName = "守卫机器人",
         roleForm = 1,
     },
-    [24057] = {
+    [14061] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12401",
+        resource = "effects_11207_skillB_smallboll",
         motionDown = {
         },
-        id = 24057,
+        id = 14061,
         effectPoint = "",
         motionUp = {
         },
@@ -26693,66 +27688,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "kneelRelive",
+        realAction = "smollboll",
+        action = "born",
         transit = {
         },
-        roleName = "鞠亚",
+        roleName = "万由里-破晓之星-召唤电球怪",
         roleForm = 1,
     },
-    [201158] = {
+    [10009] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29012",
+        resource = "fight_10701",
         motionDown = {
         },
-        id = 201158,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "巡逻机器人",
-        roleForm = 1,
-    },
-    [3015] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10102",
-        motionDown = {
-        },
-        id = 3015,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "dodge",
-        action = "quickmove",
-        transit = {
-        },
-        roleName = "强化十香",
-        roleForm = 1,
-    },
-    [201156] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29012",
-        motionDown = {
-        },
-        id = 201156,
+        id = 10009,
         effectPoint = "",
         motionUp = {
         },
@@ -26766,16 +27715,16 @@ return {
         action = "hurt1",
         transit = {
         },
-        roleName = "巡逻机器人",
+        roleName = "八舞耶俱矢",
         roleForm = 1,
     },
-    [29085] = {
+    [4007] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_13301",
+        resource = "fight_10201",
         motionDown = {
         },
-        id = 29085,
+        id = 4007,
         effectPoint = "",
         motionUp = {
         },
@@ -26785,11 +27734,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "圆神凛祢",
+        roleName = "鸢一折纸",
+        roleForm = 1,
+    },
+    [200210] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20901",
+        motionDown = {
+        },
+        id = 200210,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "低阶DEM综合小怪",
+        roleForm = 1,
+    },
+    [201135] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29010",
+        motionDown = {
+        },
+        id = 201135,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "警备机器人",
         roleForm = 1,
     },
     [200500] = {
@@ -26838,13 +27833,13 @@ return {
         roleName = "人偶",
         roleForm = 1,
     },
-    [7056] = {
+    [201134] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_29010",
         motionDown = {
         },
-        id = 7056,
+        id = 201134,
         effectPoint = "",
         motionUp = {
         },
@@ -26854,43 +27849,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floorRelive",
-        action = "floorRelive",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
+        roleName = "警备机器人",
         roleForm = 1,
     },
-    [4019] = {
+    [200120] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10201",
+        resource = "fight_21401",
         motionDown = {
         },
-        id = 4019,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "kneelRelive",
-        transit = {
-        },
-        roleName = "鸢一折纸",
-        roleForm = 1,
-    },
-    [5212] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10302",
-        motionDown = {
-        },
-        id = 5212,
+        id = 200120,
         effectPoint = "",
         motionUp = {
         },
@@ -26904,16 +27876,16 @@ return {
         action = "move",
         transit = {
         },
-        roleName = "强化四糸乃",
+        roleName = "机械盾",
         roleForm = 1,
     },
-    [7053] = {
+    [201132] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_29010",
         motionDown = {
         },
-        id = 7053,
+        id = 201132,
         effectPoint = "",
         motionUp = {
         },
@@ -26923,20 +27895,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "quickmove",
-        action = "quickmove",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
+        roleName = "警备机器人",
         roleForm = 1,
     },
-    [201150] = {
+    [5011] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29011",
+        resource = "fight_10301",
         motionDown = {
         },
-        id = 201150,
+        id = 5011,
         effectPoint = "",
         motionUp = {
         },
@@ -26946,20 +27918,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "守卫机器人",
+        roleName = "四糸乃",
         roleForm = 1,
     },
-    [7043] = {
+    [201130] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_29010",
         motionDown = {
         },
-        id = 7043,
+        id = 201130,
         effectPoint = "",
         motionUp = {
         },
@@ -26969,11 +27941,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "entrance",
-        action = "entrance",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
+        roleName = "警备机器人",
+        roleForm = 1,
+    },
+    [200152] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21801",
+        motionDown = {
+        },
+        id = 200152,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "高阶机械盾",
         roleForm = 1,
     },
     [200501] = {
@@ -27022,13 +28017,82 @@ return {
         roleName = "人偶",
         roleForm = 1,
     },
-    [201148] = {
+    [200176] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29011",
+        resource = "fight_21601",
         motionDown = {
         },
-        id = 201148,
+        id = 200176,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "机械猩猩",
+        roleForm = 1,
+    },
+    [200168] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21601",
+        motionDown = {
+        },
+        id = 200168,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "机械猩猩",
+        roleForm = 1,
+    },
+    [11025] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10807",
+        motionDown = {
+        },
+        id = 11025,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "entrance",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "八舞夕弦-春节",
+        roleForm = 1,
+    },
+    [201124] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_Watchmen_3",
+        motionDown = {
+        },
+        id = 201124,
         effectPoint = "",
         motionUp = {
         },
@@ -27042,77 +28106,8 @@ return {
         action = "stand",
         transit = {
         },
-        roleName = "守卫机器人",
+        roleName = "白使徒",
         roleForm = 1,
-    },
-    [20017] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12301",
-        motionDown = {
-        },
-        id = 20017,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "standup",
-        transit = {
-        },
-        roleName = "贝露",
-        roleForm = 1,
-    },
-    [201146] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29011",
-        motionDown = {
-        },
-        id = 201146,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "守卫机器人",
-        roleForm = 1,
-    },
-    [15148] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11303_2",
-        motionDown = {
-        },
-        id = 15148,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "圣诞七罪-大人",
-        roleForm = 2,
     },
     [14011] = {
         triggerEvent = "",
@@ -27275,36 +28270,13 @@ return {
         roleName = "四糸乃-和服",
         roleForm = 1,
     },
-    [15106] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_cangshu",
-        motionDown = {
-        },
-        id = 15106,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "七罪仓鼠",
-        roleForm = 1,
-    },
-    [1052] = {
+    [4123] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10108",
+        resource = "fight_10213",
         motionDown = {
         },
-        id = 1052,
+        id = 4123,
         effectPoint = "",
         motionUp = {
         },
@@ -27314,20 +28286,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "夜刀神十香(生日)",
+        roleName = "反转折纸和服",
         roleForm = 1,
     },
-    [201142] = {
+    [3018] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29011",
+        resource = "fight_10102",
         motionDown = {
         },
-        id = 201142,
+        id = 3018,
         effectPoint = "",
         motionUp = {
         },
@@ -27337,11 +28309,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "standup",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "守卫机器人",
+        roleName = "强化十香",
+        roleForm = 1,
+    },
+    [8009] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10601",
+        motionDown = {
+        },
+        id = 8009,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "DEM崇宫真那",
         roleForm = 1,
     },
     [200503] = {
@@ -27390,13 +28385,13 @@ return {
         roleName = "人偶",
         roleForm = 1,
     },
-    [7012] = {
+    [24051] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_12401",
         motionDown = {
         },
-        id = 7012,
+        id = 24051,
         effectPoint = "",
         motionUp = {
         },
@@ -27406,20 +28401,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "walk",
+        action = "walk",
         transit = {
         },
-        roleName = "五河琴里",
+        roleName = "鞠亚",
         roleForm = 1,
     },
-    [201140] = {
+    [29109] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29011",
+        resource = "fight_13201",
         motionDown = {
         },
-        id = 201140,
+        id = 29109,
         effectPoint = "",
         motionUp = {
         },
@@ -27429,20 +28424,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die2",
-        action = "die2",
+        realAction = "flip",
+        action = "floor",
         transit = {
         },
-        roleName = "守卫机器人",
+        roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200218] = {
+    [201118] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21001",
+        resource = "fight_Watchmen_3",
         motionDown = {
         },
-        id = 200218,
+        id = 201118,
         effectPoint = "",
         motionUp = {
         },
@@ -27452,20 +28447,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "高阶DEM近战小怪",
+        roleName = "白使徒",
         roleForm = 1,
     },
-    [200088] = {
+    [20008] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30201",
+        resource = "fight_12301",
         motionDown = {
         },
-        id = 200088,
+        id = 20008,
         effectPoint = "",
         motionUp = {
         },
@@ -27475,11 +28470,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "flip",
+        action = "floor",
         transit = {
         },
-        roleName = "日下部燎子",
+        roleName = "贝露",
         roleForm = 1,
     },
     [5215] = {
@@ -27528,29 +28523,27 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200504] = {
-        triggerEvent = "effect0",
+    [29170] = {
+        triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_30601_EskillC",
+        resource = "fight_13601",
         motionDown = {
-            [1] = "EskillC4_2",
         },
-        id = 200504,
-        effectPoint = "root",
+        id = 29170,
+        effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0.4,
+        effectScaleDown = 0.6,
         resourceDown = {
-            [1] = "effects_30601_EskillC",
         },
         minipack = 0,
         resourceUp = {
         },
-        realAction = "EskillC4_1",
-        action = "die1",
+        realAction = "entrance",
+        action = "entrance",
         transit = {
         },
-        roleName = "6号BOSS剑",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201016] = {
@@ -27599,13 +28592,13 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
-    [200096] = {
+    [201116] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30201",
+        resource = "fight_Watchmen_3",
         motionDown = {
         },
-        id = 200096,
+        id = 201116,
         effectPoint = "",
         motionUp = {
         },
@@ -27615,45 +28608,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "日下部燎子",
+        roleName = "白使徒",
         roleForm = 1,
     },
-    [12001] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_10901",
-        motionDown = {
-        },
-        id = 12001,
-        effectPoint = "",
-        motionUp = {
-            [1] = "born",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_10901_born",
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "爱莲",
-        roleForm = 1,
-    },
-    [201135] = {
+    [200178] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29010",
+        resource = "fight_21601",
         motionDown = {
         },
-        id = 201135,
+        id = 200178,
         effectPoint = "",
         motionUp = {
         },
@@ -27663,20 +28631,66 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "警备机器人",
+        roleName = "机械猩猩",
         roleForm = 1,
     },
-    [201134] = {
+    [201114] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29010",
+        resource = "fight_Watchmen_3",
         motionDown = {
         },
-        id = 201134,
+        id = 201114,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "entrance",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "白使徒",
+        roleForm = 1,
+    },
+    [29140] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10313",
+        motionDown = {
+        },
+        id = 29140,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "kneelRelive",
+        transit = {
+        },
+        roleName = "冰铠",
+        roleForm = 1,
+    },
+    [200308] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_22201",
+        motionDown = {
+        },
+        id = 200308,
         effectPoint = "",
         motionUp = {
         },
@@ -27690,30 +28704,7 @@ return {
         action = "hurt3",
         transit = {
         },
-        roleName = "警备机器人",
-        roleForm = 1,
-    },
-    [15096] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_xiong",
-        motionDown = {
-        },
-        id = 15096,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "七罪熊猫",
+        roleName = "低阶能量综合小怪",
         roleForm = 1,
     },
     [200505] = {
@@ -27762,13 +28753,13 @@ return {
         roleName = "人偶",
         roleForm = 1,
     },
-    [201132] = {
+    [200312] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29010",
+        resource = "fight_22201",
         motionDown = {
         },
-        id = 201132,
+        id = 200312,
         effectPoint = "",
         motionUp = {
         },
@@ -27778,20 +28769,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "walk",
+        action = "walk",
         transit = {
         },
-        roleName = "警备机器人",
+        roleName = "低阶能量综合小怪",
         roleForm = 1,
     },
-    [200158] = {
+    [201110] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21901",
+        resource = "fight_Watchmen_2",
         motionDown = {
         },
-        id = 200158,
+        id = 201110,
         effectPoint = "",
         motionUp = {
         },
@@ -27801,20 +28792,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "高阶机械远程",
+        roleName = "红使徒",
         roleForm = 1,
     },
-    [201130] = {
+    [7033] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29010",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 201130,
+        id = 7033,
         effectPoint = "",
         motionUp = {
         },
@@ -27824,12 +28815,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "Pdodge",
+        action = "quickmove",
         transit = {
         },
-        roleName = "警备机器人",
-        roleForm = 1,
+        roleName = "五河琴里",
+        roleForm = 2,
     },
     [15003] = {
         triggerEvent = "",
@@ -28015,13 +29006,59 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
-    [5019] = {
+    [201108] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10301",
+        resource = "fight_Watchmen_2",
         motionDown = {
         },
-        id = 5019,
+        id = 201108,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "红使徒",
+        roleForm = 1,
+    },
+    [14075] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_11207_skillB_smallboll",
+        motionDown = {
+        },
+        id = 14075,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "smollboll",
+        action = "quickmove",
+        transit = {
+        },
+        roleName = "万由里-破晓之星-召唤电球怪",
+        roleForm = 1,
+    },
+    [12018] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10901",
+        motionDown = {
+        },
+        id = 12018,
         effectPoint = "",
         motionUp = {
         },
@@ -28032,56 +29069,10 @@ return {
         resourceUp = {
         },
         realAction = "standup",
-        action = "kneelRelive",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "四糸乃",
-        roleForm = 1,
-    },
-    [200168] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21601",
-        motionDown = {
-        },
-        id = 200168,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "机械猩猩",
-        roleForm = 1,
-    },
-    [200208] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_20901",
-        motionDown = {
-        },
-        id = 200208,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "floathurt",
-        action = "floathurt",
-        transit = {
-        },
-        roleName = "低阶DEM综合小怪",
+        roleName = "爱莲",
         roleForm = 1,
     },
     [200507] = {
@@ -28130,13 +29121,128 @@ return {
         roleName = "人偶",
         roleForm = 1,
     },
-    [200048] = {
+    [200348] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20401",
+        resource = "fight_22501",
         motionDown = {
         },
-        id = 200048,
+        id = 200348,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "高阶能量综合小怪",
+        roleForm = 1,
+    },
+    [201104] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_Watchmen_2",
+        motionDown = {
+        },
+        id = 201104,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "红使徒",
+        roleForm = 1,
+    },
+    [201103] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_Watchmen_2",
+        motionDown = {
+        },
+        id = 201103,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "红使徒",
+        roleForm = 1,
+    },
+    [201102] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_Watchmen_2",
+        motionDown = {
+        },
+        id = 201102,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "红使徒",
+        roleForm = 1,
+    },
+    [11007] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10801",
+        motionDown = {
+        },
+        id = 11007,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "八舞夕弦",
+        roleForm = 1,
+    },
+    [201100] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_Watchmen_2",
+        motionDown = {
+        },
+        id = 201100,
         effectPoint = "",
         motionUp = {
         },
@@ -28150,122 +29256,7 @@ return {
         action = "float",
         transit = {
         },
-        roleName = "高阶近战AST小怪",
-        roleForm = 1,
-    },
-    [201124] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_Watchmen_3",
-        motionDown = {
-        },
-        id = 201124,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "白使徒",
-        roleForm = 1,
-    },
-    [22028] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_11212_skillB",
-        motionDown = {
-        },
-        id = 22028,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "smollboll",
-        action = "floor",
-        transit = {
-        },
-        roleName = "万由里女巫-召唤电球怪",
-        roleForm = 1,
-    },
-    [200190] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_20701",
-        motionDown = {
-        },
-        id = 200190,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "低阶DEM近战小怪",
-        roleForm = 1,
-    },
-    [3014] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10102",
-        motionDown = {
-        },
-        id = 3014,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "强化十香",
-        roleForm = 1,
-    },
-    [24034] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB3",
-        motionDown = {
-        },
-        id = 24034,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "diquan_lan_xunhuan",
-        action = "stand",
-        transit = {
-        },
-        roleName = "或守鞠奈-陷阱-蓝色陷阱",
+        roleName = "红使徒",
         roleForm = 1,
     },
     [200508] = {
@@ -28314,13 +29305,13 @@ return {
         roleName = "人偶",
         roleForm = 1,
     },
-    [22002] = {
+    [200372] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11212",
+        resource = "fight_20201F",
         motionDown = {
         },
-        id = 22002,
+        id = 200372,
         effectPoint = "",
         motionUp = {
         },
@@ -28330,20 +29321,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "moveA",
+        action = "forward2backward",
         transit = {
         },
-        roleName = "万由里女巫",
+        roleName = "低阶ast飞行远程",
         roleForm = 1,
     },
-    [201118] = {
+    [201098] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_3",
+        resource = "fight_Watchmen_2",
         motionDown = {
         },
-        id = 201118,
+        id = 201098,
         effectPoint = "",
         motionUp = {
         },
@@ -28353,20 +29344,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "白使徒",
+        roleName = "红使徒",
         roleForm = 1,
     },
-    [18003] = {
+    [2070] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11701",
+        resource = "fight_10109",
         motionDown = {
         },
-        id = 18003,
+        id = 2070,
         effectPoint = "",
         motionUp = {
         },
@@ -28376,20 +29367,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "Pretreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "白井黑子",
-        roleForm = 1,
+        roleName = "深渊反转十香",
+        roleForm = 2,
     },
-    [201116] = {
+    [2045] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_3",
+        resource = "fight_10109",
         motionDown = {
         },
-        id = 201116,
+        id = 2045,
         effectPoint = "",
         motionUp = {
         },
@@ -28403,16 +29394,16 @@ return {
         action = "floathurt",
         transit = {
         },
-        roleName = "白使徒",
+        roleName = "深渊反转十香",
         roleForm = 1,
     },
-    [1026] = {
+    [2019] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10104",
+        resource = "fight_10103",
         motionDown = {
         },
-        id = 1026,
+        id = 2019,
         effectPoint = "",
         motionUp = {
         },
@@ -28422,20 +29413,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "standup",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "夜刀神十香(校服)",
+        roleName = "反转十香",
         roleForm = 1,
     },
-    [201114] = {
+    [201094] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_3",
+        resource = "fight_Watchmen_1",
         motionDown = {
         },
-        id = 201114,
+        id = 201094,
         effectPoint = "",
         motionUp = {
         },
@@ -28445,11 +29436,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "entrance",
-        action = "entrance",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "白使徒",
+        roleName = "黑使徒",
         roleForm = 1,
     },
     [200509] = {
@@ -28498,36 +29489,38 @@ return {
         roleName = "人偶",
         roleForm = 1,
     },
-    [15105] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_cangshu",
+    [2001] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "fight_10103",
         motionDown = {
         },
-        id = 15105,
-        effectPoint = "",
+        id = 2001,
+        effectPoint = "root",
         motionUp = {
+            [1] = "born",
         },
-        effectScaleDown = 0,
+        effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_10103_born",
         },
-        realAction = "stand",
-        action = "entrance",
+        realAction = "born",
+        action = "born",
         transit = {
         },
-        roleName = "七罪仓鼠",
+        roleName = "反转十香",
         roleForm = 1,
     },
-    [5218] = {
+    [201092] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10302",
+        resource = "fight_Watchmen_1",
         motionDown = {
         },
-        id = 5218,
+        id = 201092,
         effectPoint = "",
         motionUp = {
         },
@@ -28537,20 +29530,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "floorRelive",
+        realAction = "walk",
+        action = "walk",
         transit = {
         },
-        roleName = "强化四糸乃",
+        roleName = "黑使徒",
         roleForm = 1,
     },
-    [7014] = {
+    [200408] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_30202",
         motionDown = {
         },
-        id = 7014,
+        id = 200408,
         effectPoint = "",
         motionUp = {
         },
@@ -28560,20 +29553,66 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
+        realAction = "die2",
+        action = "die2",
+        transit = {
+        },
+        roleName = "2号BOSS",
+        roleForm = 1,
+    },
+    [8014] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10601",
+        motionDown = {
+        },
+        id = 8014,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move2",
         action = "retreat",
         transit = {
         },
-        roleName = "五河琴里",
+        roleName = "DEM崇宫真那",
         roleForm = 1,
     },
-    [201110] = {
+    [200340] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_2",
+        resource = "fight_22501",
         motionDown = {
         },
-        id = 201110,
+        id = 200340,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "高阶能量综合小怪",
+        roleForm = 1,
+    },
+    [13037] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11005",
+        motionDown = {
+        },
+        id = 13037,
         effectPoint = "",
         motionUp = {
         },
@@ -28587,53 +29626,7 @@ return {
         action = "standup",
         transit = {
         },
-        roleName = "红使徒",
-        roleForm = 1,
-    },
-    [5002] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10301",
-        motionDown = {
-        },
-        id = 5002,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "departure",
-        action = "departure",
-        transit = {
-        },
-        roleName = "四糸乃",
-        roleForm = 1,
-    },
-    [201108] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_Watchmen_2",
-        motionDown = {
-        },
-        id = 201108,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "红使徒",
+        roleName = "诱宵美九（粉红灵装）",
         roleForm = 1,
     },
     [3008] = {
@@ -28751,13 +29744,13 @@ return {
         roleName = "强化狂三-魔术师",
         roleForm = 1,
     },
-    [12008] = {
+    [200304] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10901",
+        resource = "fight_22201",
         motionDown = {
         },
-        id = 12008,
+        id = 200304,
         effectPoint = "",
         motionUp = {
         },
@@ -28767,20 +29760,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "flip",
-        action = "floor",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "爱莲",
+        roleName = "低阶能量综合小怪",
         roleForm = 1,
     },
-    [29139] = {
+    [201086] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_Watchmen_1",
+        motionDown = {
+        },
+        id = 201086,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "黑使徒",
+        roleForm = 1,
+    },
+    [29136] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_10313",
         motionDown = {
         },
-        id = 29139,
+        id = 29136,
         effectPoint = "",
         motionUp = {
         },
@@ -28790,34 +29806,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "floorRelive",
+        realAction = "quickmove",
+        action = "quickmove",
         transit = {
         },
         roleName = "冰铠",
-        roleForm = 1,
-    },
-    [12009] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10901",
-        motionDown = {
-        },
-        id = 12009,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "爱莲",
         roleForm = 1,
     },
     [200511] = {
@@ -28866,13 +29859,36 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [201104] = {
+    [201084] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_2",
+        resource = "fight_Watchmen_1",
         motionDown = {
         },
-        id = 201104,
+        id = 201084,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "entrance",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "黑使徒",
+        roleForm = 1,
+    },
+    [200094] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30201",
+        motionDown = {
+        },
+        id = 200094,
         effectPoint = "",
         motionUp = {
         },
@@ -28886,16 +29902,16 @@ return {
         action = "hurt2",
         transit = {
         },
-        roleName = "红使徒",
+        roleName = "日下部燎子",
         roleForm = 1,
     },
-    [201103] = {
+    [201082] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_2",
+        resource = "fight_Watchmen_1",
         motionDown = {
         },
-        id = 201103,
+        id = 201082,
         effectPoint = "",
         motionUp = {
         },
@@ -28905,20 +29921,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "红使徒",
+        roleName = "黑使徒",
         roleForm = 1,
     },
-    [201102] = {
+    [7024] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_2",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 201102,
+        id = 7024,
         effectPoint = "",
         motionUp = {
         },
@@ -28928,35 +29944,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "flip",
-        action = "floor",
+        realAction = "Pfloat",
+        action = "float",
         transit = {
         },
-        roleName = "红使徒",
-        roleForm = 1,
-    },
-    [13038] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11005",
-        motionDown = {
-        },
-        id = 13038,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "floorRelive",
-        transit = {
-        },
-        roleName = "诱宵美九（粉红灵装）",
-        roleForm = 1,
+        roleName = "五河琴里",
+        roleForm = 2,
     },
     [29043] = {
         triggerEvent = "",
@@ -29004,29 +29997,27 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200512] = {
-        triggerEvent = "effect0",
+    [29171] = {
+        triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30502",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200512,
-        effectPoint = "root",
+        id = 29171,
+        effectPoint = "",
         motionUp = {
-            [1] = "born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
-            [1] = "effects_30502_born",
         },
-        realAction = "born",
-        action = "born",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "5号BOSS",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201024] = {
@@ -29075,13 +30066,13 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
-    [201100] = {
+    [4018] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_2",
+        resource = "fight_10201",
         motionDown = {
         },
-        id = 201100,
+        id = 4018,
         effectPoint = "",
         motionUp = {
         },
@@ -29091,20 +30082,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "standup",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "红使徒",
+        roleName = "鸢一折纸",
         roleForm = 1,
     },
-    [200062] = {
+    [24027] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20501",
+        resource = "effects_12501_skillB",
         motionDown = {
         },
-        id = 200062,
+        id = 24027,
         effectPoint = "",
         motionUp = {
         },
@@ -29114,20 +30105,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "skillB_1_xunhuan",
+        action = "born",
         transit = {
         },
-        roleName = "高阶远程AST小怪",
+        roleName = "或守鞠奈-替身2",
         roleForm = 1,
     },
-    [201098] = {
+    [201078] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_2",
+        resource = "fight_10302",
         motionDown = {
         },
-        id = 201098,
+        id = 201078,
         effectPoint = "",
         motionUp = {
         },
@@ -29137,35 +30128,35 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die2",
-        action = "die2",
+        realAction = "standup",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "红使徒",
-        roleForm = 1,
-    },
-    [200414] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30202",
-        motionDown = {
-        },
-        id = 200414,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move2",
-        action = "move",
-        transit = {
-        },
-        roleName = "2号BOSS",
+        roleName = "强化四糸乃",
         roleForm = 2,
+    },
+    [29135] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10313",
+        motionDown = {
+        },
+        id = 29135,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "冰铠",
+        roleForm = 1,
     },
     [200001] = {
         triggerEvent = "",
@@ -29238,59 +30229,13 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [4106] = {
+    [201076] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10212",
+        resource = "fight_10302",
         motionDown = {
         },
-        id = 4106,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "反转折纸渡鸦",
-        roleForm = 1,
-    },
-    [11039] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10807",
-        motionDown = {
-        },
-        id = 11039,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "kneelRelive",
-        transit = {
-        },
-        roleName = "八舞夕弦-春节",
-        roleForm = 1,
-    },
-    [201094] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_Watchmen_1",
-        motionDown = {
-        },
-        id = 201094,
+        id = 201076,
         effectPoint = "",
         motionUp = {
         },
@@ -29304,16 +30249,16 @@ return {
         action = "stand",
         transit = {
         },
-        roleName = "黑使徒",
-        roleForm = 1,
+        roleName = "强化四糸乃",
+        roleForm = 2,
     },
-    [2005] = {
+    [13036] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10103",
+        resource = "fight_11005",
         motionDown = {
         },
-        id = 2005,
+        id = 13036,
         effectPoint = "",
         motionUp = {
         },
@@ -29323,20 +30268,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "skillF_1",
-        action = "entrance",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "反转十香",
+        roleName = "诱宵美九（粉红灵装）",
         roleForm = 1,
     },
-    [201092] = {
+    [22026] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_1",
+        resource = "effects_11212_skillB",
         motionDown = {
         },
-        id = 201092,
+        id = 22026,
         effectPoint = "",
         motionUp = {
         },
@@ -29346,11 +30291,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "smollboll",
+        action = "float",
         transit = {
         },
-        roleName = "黑使徒",
+        roleName = "万由里女巫-召唤电球怪",
+        roleForm = 1,
+    },
+    [24021] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_exskillB",
+        motionDown = {
+        },
+        id = 24021,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "diquan_chuxian",
+        action = "born",
+        transit = {
+        },
+        roleName = "或守鞠奈-陷阱",
+        roleForm = 1,
+    },
+    [200510] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_extra_six",
+        motionDown = {
+        },
+        id = 200510,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "effects_extra_six",
+        action = "born",
+        transit = {
+        },
+        roleName = "6号词缀雷球",
         roleForm = 1,
     },
     [200002] = {
@@ -29422,40 +30413,13 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [6001] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_10401",
-        motionDown = {
-            [1] = "down",
-        },
-        id = 6001,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "up",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-            [1] = "effects_10401_born",
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_10401_born",
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "时崎狂三",
-        roleForm = 1,
-    },
-    [4110] = {
+    [201071] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10212",
+        resource = "fight_10302",
         motionDown = {
         },
-        id = 4110,
+        id = 201071,
         effectPoint = "",
         motionUp = {
         },
@@ -29465,66 +30429,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "反转折纸渡鸦",
-        roleForm = 1,
+        roleName = "强化四糸乃",
+        roleForm = 2,
     },
-    [200150] = {
+    [20004] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21801",
+        resource = "fight_12301",
         motionDown = {
         },
-        id = 200150,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "高阶机械盾",
-        roleForm = 1,
-    },
-    [11022] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10807",
-        motionDown = {
-        },
-        id = 11022,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "departure",
-        action = "departure",
-        transit = {
-        },
-        roleName = "八舞夕弦-春节",
-        roleForm = 1,
-    },
-    [200146] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21801",
-        motionDown = {
-        },
-        id = 200146,
+        id = 20004,
         effectPoint = "",
         motionUp = {
         },
@@ -29538,8 +30456,77 @@ return {
         action = "die2",
         transit = {
         },
-        roleName = "高阶机械盾",
+        roleName = "贝露",
         roleForm = 1,
+    },
+    [200520] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30302",
+        motionDown = {
+        },
+        id = 200520,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "杰西卡",
+        roleForm = 1,
+    },
+    [201068] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10302",
+        motionDown = {
+        },
+        id = 201068,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "强化四糸乃",
+        roleForm = 2,
+    },
+    [200552] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_23201",
+        motionDown = {
+        },
+        id = 200552,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "幽灵2阶段",
+        roleForm = 2,
     },
     [200003] = {
         triggerEvent = "",
@@ -29610,36 +30597,13 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [201086] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_Watchmen_1",
-        motionDown = {
-        },
-        id = 201086,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "floathurt",
-        action = "floathurt",
-        transit = {
-        },
-        roleName = "黑使徒",
-        roleForm = 1,
-    },
-    [5217] = {
+    [201066] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_10302",
         motionDown = {
         },
-        id = 5217,
+        id = 201066,
         effectPoint = "",
         motionUp = {
         },
@@ -29649,20 +30613,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "float",
+        action = "float",
         transit = {
         },
         roleName = "强化四糸乃",
-        roleForm = 1,
+        roleForm = 2,
     },
-    [201084] = {
+    [200560] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_1",
+        resource = "effects_23301_skillD",
         motionDown = {
         },
-        id = 201084,
+        id = 200560,
         effectPoint = "",
         motionUp = {
         },
@@ -29672,20 +30636,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "entrance",
-        action = "entrance",
+        realAction = "stand",
+        action = "hurt3",
         transit = {
         },
-        roleName = "黑使徒",
+        roleName = "南瓜炸弹",
         roleForm = 1,
     },
-    [5001] = {
+    [4109] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10301",
+        resource = "fight_10212",
         motionDown = {
         },
-        id = 5001,
+        id = 4109,
         effectPoint = "",
         motionUp = {
         },
@@ -29695,20 +30659,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "born",
-        action = "born",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "四糸乃",
+        roleName = "反转折纸渡鸦",
         roleForm = 1,
     },
-    [201082] = {
+    [200570] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_Watchmen_1",
+        resource = "fight_24201F",
         motionDown = {
         },
-        id = 201082,
+        id = 200570,
+        effectPoint = "root",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fstand",
+        action = "backward2forward",
+        transit = {
+        },
+        roleName = "万由里低阶远程",
+        roleForm = 1,
+    },
+    [201062] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10302",
+        motionDown = {
+        },
+        id = 201062,
         effectPoint = "",
         motionUp = {
         },
@@ -29718,12 +30705,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "黑使徒",
-        roleForm = 1,
+        roleName = "强化四糸乃",
+        roleForm = 2,
     },
     [200004] = {
         triggerEvent = "",
@@ -29794,13 +30781,13 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [200518] = {
+    [200424] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30302",
+        resource = "fight_30301",
         motionDown = {
         },
-        id = 200518,
+        id = 200424,
         effectPoint = "",
         motionUp = {
         },
@@ -29810,20 +30797,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floor",
-        action = "floor",
+        realAction = "F_stand",
+        action = "stand",
         transit = {
         },
-        roleName = "杰西卡",
-        roleForm = 1,
+        roleName = "3号BOSS",
+        roleForm = 2,
     },
-    [29153] = {
+    [201060] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_13701",
+        resource = "fight_12701",
         motionDown = {
         },
-        id = 29153,
+        id = 201060,
         effectPoint = "",
         motionUp = {
         },
@@ -29833,21 +30820,67 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
+        realAction = "win",
+        action = "win",
+        transit = {
+        },
+        roleName = "白王",
+        roleForm = 2,
+    },
+    [200162] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21901",
+        motionDown = {
+        },
+        id = 200162,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "高阶机械远程",
+        roleForm = 1,
+    },
+    [200594] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24601",
+        motionDown = {
+        },
+        id = 200594,
+        effectPoint = "root",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fstand",
         action = "move",
         transit = {
         },
-        roleName = "梅普露",
+        roleName = "万由里高阶综合",
         roleForm = 1,
     },
-    [4125] = {
+    [200600] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10213",
+        resource = "fight_24601",
         motionDown = {
         },
-        id = 4125,
-        effectPoint = "",
+        id = 200600,
+        effectPoint = "root",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -29856,57 +30889,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "entrance",
-        action = "entrance",
+        realAction = "stand",
+        action = "standup",
         transit = {
         },
-        roleName = "反转折纸和服",
-        roleForm = 1,
-    },
-    [201078] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10302",
-        motionDown = {
-        },
-        id = 201078,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "floorRelive",
-        transit = {
-        },
-        roleName = "强化四糸乃",
-        roleForm = 2,
-    },
-    [9006] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10602",
-        motionDown = {
-        },
-        id = 9006,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "芬里尔崇宫真那",
+        roleName = "万由里高阶综合",
         roleForm = 1,
     },
     [200005] = {
@@ -29978,13 +30965,13 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [201076] = {
+    [200280] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10302",
+        resource = "fight_22001",
         motionDown = {
         },
-        id = 201076,
+        id = 200280,
         effectPoint = "",
         motionUp = {
         },
@@ -29994,20 +30981,66 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "stand",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "强化四糸乃",
+        roleName = "低阶能量近战小怪",
+        roleForm = 1,
+    },
+    [4115] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10212",
+        motionDown = {
+        },
+        id = 4115,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "quickmove",
+        action = "quickmove",
+        transit = {
+        },
+        roleName = "反转折纸渡鸦",
+        roleForm = 1,
+    },
+    [201054] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12701",
+        motionDown = {
+        },
+        id = 201054,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "白王",
         roleForm = 2,
     },
-    [24018] = {
+    [200706] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12501",
+        resource = "fight_24201_st",
         motionDown = {
         },
-        id = 24018,
+        id = 200706,
         effectPoint = "",
         motionUp = {
         },
@@ -30017,58 +31050,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "floorRelive",
+        realAction = "Fdie2",
+        action = "die1",
         transit = {
         },
-        roleName = "或守鞠奈",
-        roleForm = 1,
-    },
-    [29134] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10313",
-        motionDown = {
-        },
-        id = 29134,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "walk",
-        action = "walk",
-        transit = {
-        },
-        roleName = "冰铠",
-        roleForm = 1,
-    },
-    [4137] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10213",
-        motionDown = {
-        },
-        id = 4137,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "standup",
-        transit = {
-        },
-        roleName = "反转折纸和服",
-        roleForm = 1,
+        roleName = "社团飞行改装怪物",
+        roleForm = 2,
     },
     [7007] = {
         triggerEvent = "",
@@ -30231,13 +31218,13 @@ return {
         roleName = "五河琴里-指挥官",
         roleForm = 2,
     },
-    [200126] = {
+    [201052] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21501",
+        resource = "fight_12701",
         motionDown = {
         },
-        id = 200126,
+        id = 201052,
         effectPoint = "",
         motionUp = {
         },
@@ -30247,35 +31234,37 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "flip",
-        action = "floor",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "机械远程",
-        roleForm = 1,
-    },
-    [201071] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10302",
-        motionDown = {
-        },
-        id = 201071,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "强化四糸乃",
+        roleName = "白王",
         roleForm = 2,
+    },
+    [200742] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 1,
+        resource = "effects_st4_xiangzi",
+        motionDown = {
+        },
+        id = 200742,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "effects_zhangaiwu",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_zhangaiwu",
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "社团箱子",
+        roleForm = 1,
     },
     [200007] = {
         triggerEvent = "",
@@ -30346,13 +31335,36 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [200559] = {
+    [201050] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_23301_skillD",
+        resource = "fight_12701",
         motionDown = {
         },
-        id = 200559,
+        id = 201050,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "白王",
+        roleForm = 2,
+    },
+    [200762] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_30901",
+        motionDown = {
+        },
+        id = 200762,
         effectPoint = "",
         motionUp = {
         },
@@ -30363,19 +31375,19 @@ return {
         resourceUp = {
         },
         realAction = "stand",
-        action = "hurt2",
+        action = "standup",
         transit = {
         },
-        roleName = "南瓜炸弹",
+        roleName = "9号BOSS",
         roleForm = 1,
     },
-    [24011] = {
+    [200782] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12501",
+        resource = "effects_30501_skillB",
         motionDown = {
         },
-        id = 24011,
+        id = 200782,
         effectPoint = "",
         motionUp = {
         },
@@ -30385,44 +31397,21 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt3",
-        action = "hurt3",
+        realAction = "skillB2",
+        action = "stand",
         transit = {
         },
-        roleName = "或守鞠奈",
-        roleForm = 1,
-    },
-    [201068] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10302",
-        motionDown = {
-        },
-        id = 201068,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "强化四糸乃",
+        roleName = "质点技能-加血球",
         roleForm = 2,
     },
-    [200574] = {
+    [200798] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24201F",
+        effectScaleUp = 0.5,
+        resource = "fight_31001",
         motionDown = {
         },
-        id = 200574,
-        effectPoint = "root",
+        id = 200798,
+        effectPoint = "",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -30431,12 +31420,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "FdieA",
-        action = "die",
+        realAction = "Edie1",
+        action = "die1",
         transit = {
         },
-        roleName = "万由里低阶远程",
-        roleForm = 1,
+        roleName = "10号BOSS",
+        roleForm = 2,
     },
     [29044] = {
         triggerEvent = "",
@@ -30484,13 +31473,13 @@ return {
         roleName = "近战AST小怪：地面受击2",
         roleForm = 1,
     },
-    [200520] = {
+    [29172] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30302",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200520,
+        id = 29172,
         effectPoint = "",
         motionUp = {
         },
@@ -30500,11 +31489,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "杰西卡",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201032] = {
@@ -30553,13 +31542,13 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
-    [201066] = {
+    [201046] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10302",
+        resource = "fight_12701",
         motionDown = {
         },
-        id = 201066,
+        id = 201046,
         effectPoint = "",
         motionUp = {
         },
@@ -30573,39 +31562,16 @@ return {
         action = "float",
         transit = {
         },
-        roleName = "强化四糸乃",
+        roleName = "白王",
         roleForm = 2,
     },
-    [200410] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_30202",
-        motionDown = {
-        },
-        id = 200410,
-        effectPoint = "root",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "2号BOSS",
-        roleForm = 1,
-    },
-    [11016] = {
+    [200838] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10801",
+        effectScaleUp = 0.5,
+        resource = "fight_31102",
         motionDown = {
         },
-        id = 11016,
+        id = 200838,
         effectPoint = "",
         motionUp = {
         },
@@ -30615,21 +31581,21 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "stand",
+        realAction = "Ehurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "八舞夕弦",
+        roleName = "11号BOSS熊",
         roleForm = 1,
     },
-    [200590] = {
+    [200858] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24601",
+        resource = "fight_12501",
         motionDown = {
         },
-        id = 200590,
-        effectPoint = "root",
+        id = 200858,
+        effectPoint = "",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -30638,12 +31604,35 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fstand",
-        action = "forward2backward",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "万由里高阶综合",
-        roleForm = 1,
+        roleName = "或守鞠奈",
+        roleForm = 2,
+    },
+    [200886] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_exskillB4",
+        motionDown = {
+        },
+        id = 200886,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "diquan_huang_chuxian",
+        action = "born",
+        transit = {
+        },
+        roleName = "或守鞠奈-陷阱-黄色陷阱",
+        roleForm = 2,
     },
     [200009] = {
         triggerEvent = "",
@@ -30714,13 +31703,13 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [201062] = {
+    [200911] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10302",
+        resource = "fight_29001",
         motionDown = {
         },
-        id = 201062,
+        id = 200911,
         effectPoint = "",
         motionUp = {
         },
@@ -30730,20 +31719,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "强化四糸乃",
-        roleForm = 2,
+        roleName = "土方征美",
+        roleForm = 1,
     },
-    [7041] = {
+    [200942] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_29002",
         motionDown = {
         },
-        id = 7041,
+        id = 200942,
         effectPoint = "",
         motionUp = {
         },
@@ -30757,16 +31746,16 @@ return {
         action = "die1",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
+        roleName = "佐贺",
         roleForm = 1,
     },
-    [201060] = {
+    [200966] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12701",
+        effectScaleUp = 0.5,
+        resource = "fight_32701",
         motionDown = {
         },
-        id = 201060,
+        id = 200966,
         effectPoint = "",
         motionUp = {
         },
@@ -30776,12 +31765,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "win",
-        action = "win",
+        realAction = "entrance",
+        action = "entrance",
         transit = {
         },
-        roleName = "白王",
-        roleForm = 2,
+        roleName = "苍boss",
+        roleForm = 1,
     },
     [15004] = {
         triggerEvent = "",
@@ -30967,13 +31956,13 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
-    [3010] = {
+    [201039] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10102",
+        effectScaleUp = 0.5,
+        resource = "effects_13107_wind",
         motionDown = {
         },
-        id = 3010,
+        id = 201039,
         effectPoint = "",
         motionUp = {
         },
@@ -30983,20 +31972,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "effects_13101_wind",
+        action = "move",
         transit = {
         },
-        roleName = "强化十香",
+        roleName = "华伦-驻场飓风 ",
         roleForm = 1,
     },
-    [7066] = {
+    [201038] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_29003_1",
         motionDown = {
         },
-        id = 7066,
+        id = 201038,
         effectPoint = "",
         motionUp = {
         },
@@ -31006,11 +31995,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Phurt2",
-        action = "hurt2",
+        realAction = "Estandup",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
+        roleName = "人偶2形态",
         roleForm = 2,
     },
     [200011] = {
@@ -31082,13 +32071,13 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [200714] = {
+    [200990] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24201_st",
+        resource = "fight_29003",
         motionDown = {
         },
-        id = 200714,
+        id = 200990,
         effectPoint = "",
         motionUp = {
         },
@@ -31098,66 +32087,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fdie4",
-        action = "die1",
+        realAction = "standup",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "社团飞行改装怪物",
-        roleForm = 4,
-    },
-    [200726] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24201_st",
-        motionDown = {
-        },
-        id = 200726,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Fdie7",
-        action = "die1",
-        transit = {
-        },
-        roleName = "社团飞行改装怪物",
-        roleForm = 7,
-    },
-    [200746] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24301_st",
-        motionDown = {
-        },
-        id = 200746,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Fstand",
-        action = "born",
-        transit = {
-        },
-        roleName = "社团飞行改装怪物电圈",
+        roleName = "指宿帕妮耶",
         roleForm = 1,
     },
-    [201054] = {
+    [201018] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12701",
+        resource = "fight_29003_1",
         motionDown = {
         },
-        id = 201054,
+        id = 201018,
         effectPoint = "",
         motionUp = {
         },
@@ -31167,20 +32110,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "quickmove",
+        action = "quickmove",
         transit = {
         },
-        roleName = "白王",
+        roleName = "人偶",
+        roleForm = 1,
+    },
+    [201034] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29003_1",
+        motionDown = {
+        },
+        id = 201034,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Equickmove",
+        action = "quickmove",
+        transit = {
+        },
+        roleName = "人偶2形态",
         roleForm = 2,
     },
-    [200774] = {
+    [201030] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_30901",
+        effectScaleUp = 0.6,
+        resource = "fight_29003_1",
         motionDown = {
         },
-        id = 200774,
+        id = 201030,
         effectPoint = "",
         motionUp = {
         },
@@ -31190,12 +32156,35 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "born_2",
-        action = "born",
+        realAction = "Ehurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "9号BOSS",
+        roleName = "人偶2形态",
         roleForm = 2,
+    },
+    [201022] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29003_1",
+        motionDown = {
+        },
+        id = 201022,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "kneelRelive",
+        transit = {
+        },
+        roleName = "人偶",
+        roleForm = 1,
     },
     [200012] = {
         triggerEvent = "",
@@ -31266,13 +32255,13 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [201052] = {
+    [201014] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12701",
+        resource = "fight_29003_1",
         motionDown = {
         },
-        id = 201052,
+        id = 201014,
         effectPoint = "",
         motionUp = {
         },
@@ -31282,43 +32271,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "白王",
-        roleForm = 2,
+        roleName = "人偶",
+        roleForm = 1,
     },
-    [200822] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31101",
-        motionDown = {
-        },
-        id = 200822,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Estand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "11号BOSS",
-        roleForm = 2,
-    },
-    [201050] = {
+    [201007] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12701",
+        resource = "fight_29003_1",
         motionDown = {
         },
-        id = 201050,
+        id = 201007,
         effectPoint = "",
         motionUp = {
         },
@@ -31328,43 +32294,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "born",
+        action = "born",
         transit = {
         },
-        roleName = "白王",
-        roleForm = 2,
+        roleName = "人偶",
+        roleForm = 1,
     },
-    [200847] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31103",
-        motionDown = {
-        },
-        id = 200847,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Edie1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "11号BOSS狐狸",
-        roleForm = 2,
-    },
-    [200870] = {
+    [201006] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12501",
+        resource = "fight_29003",
         motionDown = {
         },
-        id = 200870,
+        id = 201006,
         effectPoint = "",
         motionUp = {
         },
@@ -31374,11 +32317,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "Estandup",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "或守鞠奈",
+        roleName = "指宿帕妮2形态",
+        roleForm = 2,
+    },
+    [201002] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29003",
+        motionDown = {
+        },
+        id = 201002,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Equickmove",
+        action = "quickmove",
+        transit = {
+        },
+        roleName = "指宿帕妮2形态",
+        roleForm = 2,
+    },
+    [200998] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29003",
+        motionDown = {
+        },
+        id = 200998,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Ehurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "指宿帕妮2形态",
         roleForm = 2,
     },
     [200013] = {
@@ -31450,13 +32439,13 @@ return {
         roleName = "人偶2形态",
         roleForm = 2,
     },
-    [200890] = {
+    [200986] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB3",
+        resource = "fight_29003",
         motionDown = {
         },
-        id = 200890,
+        id = 200986,
         effectPoint = "",
         motionUp = {
         },
@@ -31466,20 +32455,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "diquan_lan_xunhuan",
-        action = "stand",
+        realAction = "quickmove",
+        action = "quickmove",
         transit = {
         },
-        roleName = "或守鞠奈-陷阱-蓝色陷阱",
-        roleForm = 2,
+        roleName = "指宿帕妮耶",
+        roleForm = 1,
     },
-    [201046] = {
+    [200982] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12701",
+        resource = "fight_29003",
         motionDown = {
         },
-        id = 201046,
+        id = 200982,
         effectPoint = "",
         motionUp = {
         },
@@ -31489,20 +32478,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "白王",
-        roleForm = 2,
+        roleName = "指宿帕妮耶",
+        roleForm = 1,
     },
-    [200922] = {
+    [200976] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29001",
+        resource = "fight_29003",
         motionDown = {
         },
-        id = 200922,
+        id = 200976,
         effectPoint = "",
         motionUp = {
         },
@@ -31512,11 +32501,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "土方征美",
+        roleName = "指宿帕妮耶",
         roleForm = 1,
     },
     [8015] = {
@@ -31845,29 +32834,6 @@ return {
         roleName = "反转折纸和服",
         roleForm = 1,
     },
-    [200950] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29002",
-        motionDown = {
-        },
-        id = 200950,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move",
-        action = "move",
-        transit = {
-        },
-        roleName = "佐贺",
-        roleForm = 1,
-    },
     [200975] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -31891,13 +32857,13 @@ return {
         roleName = "指宿帕妮耶",
         roleForm = 1,
     },
-    [201002] = {
+    [200974] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_29003",
         motionDown = {
         },
-        id = 201002,
+        id = 200974,
         effectPoint = "",
         motionUp = {
         },
@@ -31907,12 +32873,35 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Equickmove",
-        action = "quickmove",
+        realAction = "dodge2",
+        action = "born",
         transit = {
         },
-        roleName = "指宿帕妮2形态",
-        roleForm = 2,
+        roleName = "指宿帕妮耶",
+        roleForm = 1,
+    },
+    [200970] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_32701",
+        motionDown = {
+        },
+        id = 200970,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "苍boss",
+        roleForm = 1,
     },
     [29045] = {
         triggerEvent = "",
@@ -31960,13 +32949,13 @@ return {
         roleName = "撞击关卡近战AST小怪",
         roleForm = 1,
     },
-    [200528] = {
+    [29173] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23201",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200528,
+        id = 29173,
         effectPoint = "",
         motionUp = {
         },
@@ -31976,11 +32965,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die2",
-        action = "die2",
+        realAction = "flip",
+        action = "floor",
         transit = {
         },
-        roleName = "幽灵1阶段",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201040] = {
@@ -32029,13 +33018,13 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
-    [201030] = {
+    [200958] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29003_1",
+        resource = "fight_29002",
         motionDown = {
         },
-        id = 201030,
+        id = 200958,
         effectPoint = "",
         motionUp = {
         },
@@ -32045,20 +33034,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Ehurt1",
-        action = "hurt1",
+        realAction = "win",
+        action = "win",
         transit = {
         },
-        roleName = "人偶2形态",
-        roleForm = 2,
+        roleName = "佐贺",
+        roleForm = 1,
     },
-    [201039] = {
+    [200954] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "effects_13107_wind",
+        effectScaleUp = 0.6,
+        resource = "fight_29002",
         motionDown = {
         },
-        id = 201039,
+        id = 200954,
         effectPoint = "",
         motionUp = {
         },
@@ -32068,20 +33057,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "effects_13101_wind",
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "佐贺",
+        roleForm = 1,
+    },
+    [200950] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29002",
+        motionDown = {
+        },
+        id = 200950,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
         action = "move",
         transit = {
         },
-        roleName = "华伦-驻场飓风 ",
+        roleName = "佐贺",
         roleForm = 1,
     },
-    [201038] = {
+    [200943] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29003_1",
+        resource = "fight_29002",
         motionDown = {
         },
-        id = 201038,
+        id = 200943,
         effectPoint = "",
         motionUp = {
         },
@@ -32091,35 +33103,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Estandup",
-        action = "kneelRelive",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "人偶2形态",
-        roleForm = 2,
-    },
-    [201034] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29003_1",
-        motionDown = {
-        },
-        id = 201034,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Equickmove",
-        action = "quickmove",
-        transit = {
-        },
-        roleName = "人偶2形态",
-        roleForm = 2,
+        roleName = "佐贺",
+        roleForm = 1,
     },
     [200017] = {
         triggerEvent = "",
@@ -32192,13 +33181,82 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [201022] = {
+    [200938] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29003_1",
+        resource = "fight_29001",
         motionDown = {
         },
-        id = 201022,
+        id = 200938,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup2",
+        action = "standup",
+        transit = {
+        },
+        roleName = "土方征美2形态",
+        roleForm = 2,
+    },
+    [200934] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29001",
+        motionDown = {
+        },
+        id = 200934,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk2",
+        action = "walk",
+        transit = {
+        },
+        roleName = "土方征美2形态",
+        roleForm = 2,
+    },
+    [200926] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29001",
+        motionDown = {
+        },
+        id = 200926,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die2_2",
+        action = "die2",
+        transit = {
+        },
+        roleName = "土方征美2形态",
+        roleForm = 2,
+    },
+    [200922] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29001",
+        motionDown = {
+        },
+        id = 200922,
         effectPoint = "",
         motionUp = {
         },
@@ -32209,19 +33267,19 @@ return {
         resourceUp = {
         },
         realAction = "standup",
-        action = "kneelRelive",
+        action = "standup",
         transit = {
         },
-        roleName = "人偶",
+        roleName = "土方征美",
         roleForm = 1,
     },
-    [201018] = {
+    [200918] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29003_1",
+        resource = "fight_29001",
         motionDown = {
         },
-        id = 201018,
+        id = 200918,
         effectPoint = "",
         motionUp = {
         },
@@ -32231,81 +33289,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "quickmove",
-        action = "quickmove",
+        realAction = "walk",
+        action = "walk",
         transit = {
         },
-        roleName = "人偶",
+        roleName = "土方征美",
         roleForm = 1,
-    },
-    [201014] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29003_1",
-        motionDown = {
-        },
-        id = 201014,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "人偶",
-        roleForm = 1,
-    },
-    [201007] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29003_1",
-        motionDown = {
-        },
-        id = 201007,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "人偶",
-        roleForm = 1,
-    },
-    [201006] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29003",
-        motionDown = {
-        },
-        id = 201006,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Estandup",
-        action = "kneelRelive",
-        transit = {
-        },
-        roleName = "指宿帕妮2形态",
-        roleForm = 2,
     },
     [200018] = {
         triggerEvent = "",
@@ -32376,13 +33365,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200998] = {
+    [200910] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29003",
+        resource = "fight_29001",
         motionDown = {
         },
-        id = 200998,
+        id = 200910,
         effectPoint = "",
         motionUp = {
         },
@@ -32392,104 +33381,104 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Ehurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "指宿帕妮2形态",
-        roleForm = 2,
-    },
-    [200990] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29003",
-        motionDown = {
-        },
-        id = 200990,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "kneelRelive",
-        transit = {
-        },
-        roleName = "指宿帕妮耶",
-        roleForm = 1,
-    },
-    [200986] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29003",
-        motionDown = {
-        },
-        id = 200986,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "quickmove",
-        action = "quickmove",
-        transit = {
-        },
-        roleName = "指宿帕妮耶",
-        roleForm = 1,
-    },
-    [200982] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29003",
-        motionDown = {
-        },
-        id = 200982,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "指宿帕妮耶",
-        roleForm = 1,
-    },
-    [200976] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29003",
-        motionDown = {
-        },
-        id = 200976,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die2",
+        realAction = "die1_2",
         action = "die2",
         transit = {
         },
-        roleName = "指宿帕妮耶",
+        roleName = "土方征美",
         roleForm = 1,
+    },
+    [200906] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "effects_31201_nengliangcang",
+        motionDown = {
+        },
+        id = 200906,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "nengliangcang_xiaoshi",
+        action = "die1",
+        transit = {
+        },
+        roleName = "12号BOSS巴尔能量舱",
+        roleForm = 2,
+    },
+    [200902] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_31201",
+        motionDown = {
+        },
+        id = 200902,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die",
+        action = "die1",
+        transit = {
+        },
+        roleName = "12号BOSS巴尔",
+        roleForm = 2,
+    },
+    [200894] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_exskillB",
+        motionDown = {
+        },
+        id = 200894,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "diquan_xiaoshi",
+        action = "die1",
+        transit = {
+        },
+        roleName = "或守鞠奈-陷阱升级",
+        roleForm = 2,
+    },
+    [200890] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_exskillB3",
+        motionDown = {
+        },
+        id = 200890,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "diquan_lan_xunhuan",
+        action = "stand",
+        transit = {
+        },
+        roleName = "或守鞠奈-陷阱-蓝色陷阱",
+        roleForm = 2,
     },
     [200019] = {
         triggerEvent = "",
@@ -32560,13 +33549,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200974] = {
+    [200879] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29003",
+        resource = "effects_12501_exskillB",
         motionDown = {
         },
-        id = 200974,
+        id = 200879,
         effectPoint = "",
         motionUp = {
         },
@@ -32576,66 +33565,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "dodge2",
-        action = "born",
+        realAction = "diquan_xiaoshi",
+        action = "die1",
         transit = {
         },
-        roleName = "指宿帕妮耶",
-        roleForm = 1,
+        roleName = "或守鞠奈-陷阱",
+        roleForm = 2,
     },
-    [200970] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_32701",
-        motionDown = {
-        },
-        id = 200970,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "walk",
-        action = "walk",
-        transit = {
-        },
-        roleName = "苍boss",
-        roleForm = 1,
-    },
-    [200966] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_32701",
-        motionDown = {
-        },
-        id = 200966,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "entrance",
-        action = "entrance",
-        transit = {
-        },
-        roleName = "苍boss",
-        roleForm = 1,
-    },
-    [200958] = {
+    [200878] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29002",
+        resource = "effects_12501_exskillB",
         motionDown = {
         },
-        id = 200958,
+        id = 200878,
         effectPoint = "",
         motionUp = {
         },
@@ -32645,35 +33588,81 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "win",
-        action = "win",
-        transit = {
-        },
-        roleName = "佐贺",
-        roleForm = 1,
-    },
-    [200954] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29002",
-        motionDown = {
-        },
-        id = 200954,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
+        realAction = "diquan_xunhuan",
         action = "stand",
         transit = {
         },
-        roleName = "佐贺",
-        roleForm = 1,
+        roleName = "或守鞠奈-陷阱",
+        roleForm = 2,
+    },
+    [200874] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 200874,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "floorRelive",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 2,
+    },
+    [200870] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 200870,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 2,
+    },
+    [200862] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 200862,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 2,
     },
     [200020] = {
         triggerEvent = "",
@@ -32744,13 +33733,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200943] = {
+    [200854] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29002",
+        resource = "dianrong",
         motionDown = {
         },
-        id = 200943,
+        id = 200854,
         effectPoint = "",
         motionUp = {
         },
@@ -32760,20 +33749,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die2",
+        realAction = "chuxian",
+        action = "born",
+        transit = {
+        },
+        roleName = "鞠奈电容",
+        roleForm = 1,
+    },
+    [200848] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_31103",
+        motionDown = {
+        },
+        id = 200848,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Edie2",
         action = "die2",
         transit = {
         },
-        roleName = "佐贺",
-        roleForm = 1,
+        roleName = "11号BOSS狐狸",
+        roleForm = 2,
     },
-    [200942] = {
+    [200847] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29002",
+        effectScaleUp = 0.5,
+        resource = "fight_31103",
         motionDown = {
         },
-        id = 200942,
+        id = 200847,
         effectPoint = "",
         motionUp = {
         },
@@ -32783,81 +33795,58 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
+        realAction = "Edie1",
         action = "die1",
         transit = {
         },
-        roleName = "佐贺",
+        roleName = "11号BOSS狐狸",
+        roleForm = 2,
+    },
+    [200846] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_31103",
+        motionDown = {
+        },
+        id = 200846,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Emove",
+        action = "move",
+        transit = {
+        },
+        roleName = "11号BOSS狐狸",
+        roleForm = 2,
+    },
+    [200842] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_31103",
+        motionDown = {
+        },
+        id = 200842,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "11号BOSS小狐狸",
         roleForm = 1,
-    },
-    [200938] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29001",
-        motionDown = {
-        },
-        id = 200938,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup2",
-        action = "standup",
-        transit = {
-        },
-        roleName = "土方征美2形态",
-        roleForm = 2,
-    },
-    [200934] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29001",
-        motionDown = {
-        },
-        id = 200934,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "walk2",
-        action = "walk",
-        transit = {
-        },
-        roleName = "土方征美2形态",
-        roleForm = 2,
-    },
-    [200926] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29001",
-        motionDown = {
-        },
-        id = 200926,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die2_2",
-        action = "die2",
-        transit = {
-        },
-        roleName = "土方征美2形态",
-        roleForm = 2,
     },
     [200021] = {
         triggerEvent = "",
@@ -32928,13 +33917,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200918] = {
+    [200830] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29001",
+        effectScaleUp = 0.5,
+        resource = "fight_31002",
         motionDown = {
         },
-        id = 200918,
+        id = 200830,
         effectPoint = "",
         motionUp = {
         },
@@ -32944,20 +33933,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "土方征美",
-        roleForm = 1,
+        roleName = "11号BOSS小熊",
+        roleForm = 2,
     },
-    [200911] = {
+    [200826] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29001",
+        effectScaleUp = 0.5,
+        resource = "fight_31101",
         motionDown = {
         },
-        id = 200911,
+        id = 200826,
         effectPoint = "",
         motionUp = {
         },
@@ -32971,39 +33960,16 @@ return {
         action = "float",
         transit = {
         },
-        roleName = "土方征美",
-        roleForm = 1,
+        roleName = "11号BOSS",
+        roleForm = 2,
     },
-    [200910] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29001",
-        motionDown = {
-        },
-        id = 200910,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1_2",
-        action = "die2",
-        transit = {
-        },
-        roleName = "土方征美",
-        roleForm = 1,
-    },
-    [200906] = {
+    [200822] = {
         triggerEvent = "",
         effectScaleUp = 0.5,
-        resource = "effects_31201_nengliangcang",
+        resource = "fight_31101",
         motionDown = {
         },
-        id = 200906,
+        id = 200822,
         effectPoint = "",
         motionUp = {
         },
@@ -33013,11 +33979,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "nengliangcang_xiaoshi",
+        realAction = "Estand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "11号BOSS",
+        roleForm = 2,
+    },
+    [200815] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_31101",
+        motionDown = {
+        },
+        id = 200815,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Edie1",
         action = "die1",
         transit = {
         },
-        roleName = "12号BOSS巴尔能量舱",
+        roleName = "11号BOSS",
         roleForm = 2,
     },
     [14013] = {
@@ -33183,13 +34172,13 @@ return {
         roleName = "四糸乃-和服",
         roleForm = 1,
     },
-    [200902] = {
+    [200810] = {
         triggerEvent = "",
         effectScaleUp = 0.5,
-        resource = "fight_31201",
+        resource = "fight_31001",
         motionDown = {
         },
-        id = 200902,
+        id = 200810,
         effectPoint = "",
         motionUp = {
         },
@@ -33199,20 +34188,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die",
-        action = "die1",
+        realAction = "flathurt",
+        action = "flathurt",
         transit = {
         },
-        roleName = "12号BOSS巴尔",
+        roleName = "10号BOSS",
         roleForm = 2,
     },
-    [200894] = {
+    [200806] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB",
+        effectScaleUp = 0.5,
+        resource = "fight_31001",
         motionDown = {
         },
-        id = 200894,
+        id = 200806,
         effectPoint = "",
         motionUp = {
         },
@@ -33222,11 +34211,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "diquan_xiaoshi",
-        action = "die1",
+        realAction = "Ewalk",
+        action = "walk",
         transit = {
         },
-        roleName = "或守鞠奈-陷阱升级",
+        roleName = "10号BOSS",
         roleForm = 2,
     },
     [200023] = {
@@ -33298,13 +34287,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200886] = {
+    [200794] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB4",
+        effectScaleUp = 0.5,
+        resource = "fight_31001",
         motionDown = {
         },
-        id = 200886,
+        id = 200794,
         effectPoint = "",
         motionUp = {
         },
@@ -33314,66 +34303,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "diquan_huang_chuxian",
-        action = "born",
-        transit = {
-        },
-        roleName = "或守鞠奈-陷阱-黄色陷阱",
-        roleForm = 2,
-    },
-    [200879] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB",
-        motionDown = {
-        },
-        id = 200879,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "diquan_xiaoshi",
-        action = "die1",
-        transit = {
-        },
-        roleName = "或守鞠奈-陷阱",
-        roleForm = 2,
-    },
-    [200878] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB",
-        motionDown = {
-        },
-        id = 200878,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "diquan_xunhuan",
+        realAction = "stand",
         action = "stand",
         transit = {
         },
-        roleName = "或守鞠奈-陷阱",
-        roleForm = 2,
+        roleName = "10号BOSS",
+        roleForm = 1,
     },
-    [200874] = {
+    [200790] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12501",
+        effectScaleUp = 0.5,
+        resource = "fight_31001",
         motionDown = {
         },
-        id = 200874,
+        id = 200790,
         effectPoint = "",
         motionUp = {
         },
@@ -33383,12 +34326,60 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "floorRelive",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "或守鞠奈",
-        roleForm = 2,
+        roleName = "10号BOSS",
+        roleForm = 1,
+    },
+    [200786] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_31001",
+        motionDown = {
+        },
+        id = 200786,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "10号BOSS",
+        roleForm = 1,
+    },
+    [200783] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.5,
+        resource = "fight_31001",
+        motionDown = {
+        },
+        id = 200783,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "born",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_31001_born",
+        },
+        realAction = "born",
+        action = "born",
+        transit = {
+        },
+        roleName = "10号BOSS",
+        roleForm = 1,
     },
     [5216] = {
         triggerEvent = "",
@@ -33436,13 +34427,13 @@ return {
         roleName = "远程AST小怪",
         roleForm = 1,
     },
-    [200536] = {
+    [29174] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23201",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200536,
+        id = 29174,
         effectPoint = "",
         motionUp = {
         },
@@ -33452,11 +34443,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "stand",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "幽灵1阶段",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201048] = {
@@ -33505,13 +34496,13 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
-    [200862] = {
+    [200778] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12501",
+        resource = "Lv_DEMGC_paodai",
         motionDown = {
         },
-        id = 200862,
+        id = 200778,
         effectPoint = "",
         motionUp = {
         },
@@ -33521,66 +34512,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "或守鞠奈",
-        roleForm = 2,
-    },
-    [200858] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12501",
-        motionDown = {
-        },
-        id = 200858,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "departure",
-        action = "departure",
-        transit = {
-        },
-        roleName = "或守鞠奈",
-        roleForm = 2,
-    },
-    [200854] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "dianrong",
-        motionDown = {
-        },
-        id = 200854,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "chuxian",
+        realAction = "run2",
         action = "born",
         transit = {
         },
-        roleName = "鞠奈电容",
-        roleForm = 1,
+        roleName = "社团跑道2",
+        roleForm = 2,
     },
-    [200848] = {
+    [200774] = {
         triggerEvent = "",
         effectScaleUp = 0.5,
-        resource = "fight_31103",
+        resource = "fight_30901",
         motionDown = {
         },
-        id = 200848,
+        id = 200774,
         effectPoint = "",
         motionUp = {
         },
@@ -33590,11 +34535,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Edie2",
-        action = "die2",
+        realAction = "born_2",
+        action = "born",
         transit = {
         },
-        roleName = "11号BOSS狐狸",
+        roleName = "9号BOSS",
+        roleForm = 2,
+    },
+    [200770] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_30901",
+        motionDown = {
+        },
+        id = 200770,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Ehurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "9号BOSS",
+        roleForm = 2,
+    },
+    [200766] = {
+        triggerEvent = "",
+        effectScaleUp = 0.5,
+        resource = "fight_30901",
+        motionDown = {
+        },
+        id = 200766,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Estand",
+        action = "float",
+        transit = {
+        },
+        roleName = "9号BOSS",
         roleForm = 2,
     },
     [200025] = {
@@ -33666,13 +34657,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200846] = {
+    [200758] = {
         triggerEvent = "",
         effectScaleUp = 0.5,
-        resource = "fight_31103",
+        resource = "fight_30901",
         motionDown = {
         },
-        id = 200846,
+        id = 200758,
         effectPoint = "",
         motionUp = {
         },
@@ -33682,20 +34673,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Emove",
-        action = "move",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "11号BOSS狐狸",
-        roleForm = 2,
+        roleName = "9号BOSS",
+        roleForm = 1,
     },
-    [200842] = {
+    [200754] = {
         triggerEvent = "",
         effectScaleUp = 0.5,
-        resource = "fight_31103",
+        resource = "fight_30901",
         motionDown = {
         },
-        id = 200842,
+        id = 200754,
         effectPoint = "",
         motionUp = {
         },
@@ -33706,19 +34697,19 @@ return {
         resourceUp = {
         },
         realAction = "stand",
-        action = "stand",
+        action = "float",
         transit = {
         },
-        roleName = "11号BOSS小狐狸",
+        roleName = "9号BOSS",
         roleForm = 1,
     },
-    [200838] = {
+    [200751] = {
         triggerEvent = "",
         effectScaleUp = 0.5,
-        resource = "fight_31102",
+        resource = "fight_30901",
         motionDown = {
         },
-        id = 200838,
+        id = 200751,
         effectPoint = "",
         motionUp = {
         },
@@ -33728,11 +34719,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Ehurt3",
-        action = "hurt3",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "11号BOSS熊",
+        roleName = "9号BOSS",
         roleForm = 1,
     },
     [15005] = {
@@ -33919,13 +34910,13 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
-    [200830] = {
+    [200750] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31002",
+        effectScaleUp = 0.6,
+        resource = "fight_24602_st",
         motionDown = {
         },
-        id = 200830,
+        id = 200750,
         effectPoint = "",
         motionUp = {
         },
@@ -33935,20 +34926,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "stand",
+        action = "born",
         transit = {
         },
-        roleName = "11号BOSS小熊",
-        roleForm = 2,
+        roleName = "社团飞行改装怪物炮台",
+        roleForm = 1,
     },
-    [200826] = {
+    [200746] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31101",
+        effectScaleUp = 0.6,
+        resource = "fight_24301_st",
         motionDown = {
         },
-        id = 200826,
+        id = 200746,
         effectPoint = "",
         motionUp = {
         },
@@ -33958,12 +34949,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "Fstand",
+        action = "born",
         transit = {
         },
-        roleName = "11号BOSS",
-        roleForm = 2,
+        roleName = "社团飞行改装怪物电圈",
+        roleForm = 1,
     },
     [200027] = {
         triggerEvent = "",
@@ -34034,13 +35025,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200815] = {
+    [200738] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31101",
+        effectScaleUp = 0.6,
+        resource = "fight_24201_st",
         motionDown = {
         },
-        id = 200815,
+        id = 200738,
         effectPoint = "",
         motionUp = {
         },
@@ -34050,104 +35041,104 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Edie1",
+        realAction = "Fdie10",
         action = "die1",
         transit = {
         },
-        roleName = "11号BOSS",
-        roleForm = 2,
-    },
-    [200810] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31001",
-        motionDown = {
-        },
-        id = 200810,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flathurt",
-        action = "flathurt",
-        transit = {
-        },
-        roleName = "10号BOSS",
-        roleForm = 2,
-    },
-    [200806] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31001",
-        motionDown = {
-        },
-        id = 200806,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Ewalk",
-        action = "walk",
-        transit = {
-        },
-        roleName = "10号BOSS",
-        roleForm = 2,
-    },
-    [200798] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31001",
-        motionDown = {
-        },
-        id = 200798,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Edie1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "10号BOSS",
-        roleForm = 2,
-    },
-    [200794] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31001",
-        motionDown = {
-        },
-        id = 200794,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "10号BOSS",
+        roleName = "社团飞行改装怪物",
         roleForm = 1,
+    },
+    [200734] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24201_st",
+        motionDown = {
+        },
+        id = 200734,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fdie9",
+        action = "die1",
+        transit = {
+        },
+        roleName = "社团飞行改装怪物",
+        roleForm = 9,
+    },
+    [200730] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24201_st",
+        motionDown = {
+        },
+        id = 200730,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fdie8",
+        action = "die1",
+        transit = {
+        },
+        roleName = "社团飞行改装怪物",
+        roleForm = 8,
+    },
+    [200726] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24201_st",
+        motionDown = {
+        },
+        id = 200726,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fdie7",
+        action = "die1",
+        transit = {
+        },
+        roleName = "社团飞行改装怪物",
+        roleForm = 7,
+    },
+    [200722] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24201_st",
+        motionDown = {
+        },
+        id = 200722,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fdie6",
+        action = "die1",
+        transit = {
+        },
+        roleName = "社团飞行改装怪物",
+        roleForm = 6,
     },
     [200028] = {
         triggerEvent = "",
@@ -34222,84 +35213,13 @@ return {
         roleName = "炮姐",
         roleForm = 1,
     },
-    [200790] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31001",
-        motionDown = {
-        },
-        id = 200790,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "10号BOSS",
-        roleForm = 1,
-    },
-    [200786] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_31001",
-        motionDown = {
-        },
-        id = 200786,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "10号BOSS",
-        roleForm = 1,
-    },
-    [200783] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.5,
-        resource = "fight_31001",
-        motionDown = {
-        },
-        id = 200783,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "born",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_31001_born",
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "10号BOSS",
-        roleForm = 1,
-    },
-    [200782] = {
+    [200720] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_30501_skillB",
+        resource = "fight_24201_st",
         motionDown = {
         },
-        id = 200782,
+        id = 200720,
         effectPoint = "",
         motionUp = {
         },
@@ -34309,20 +35229,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "skillB2",
+        realAction = "F5",
+        action = "move",
+        transit = {
+        },
+        roleName = "社团飞行改装怪物",
+        roleForm = 5,
+    },
+    [200719] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24201_st",
+        motionDown = {
+        },
+        id = 200719,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "cstand",
         action = "stand",
         transit = {
         },
-        roleName = "质点技能-加血球",
-        roleForm = 2,
+        roleName = "社团飞行改装怪物",
+        roleForm = 5,
     },
-    [200778] = {
+    [200718] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "Lv_DEMGC_paodai",
+        resource = "fight_24201_st",
         motionDown = {
         },
-        id = 200778,
+        id = 200718,
         effectPoint = "",
         motionUp = {
         },
@@ -34332,12 +35275,58 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "run2",
-        action = "born",
+        realAction = "Fdie5",
+        action = "die1",
         transit = {
         },
-        roleName = "社团跑道2",
-        roleForm = 2,
+        roleName = "社团飞行改装怪物",
+        roleForm = 5,
+    },
+    [200714] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24201_st",
+        motionDown = {
+        },
+        id = 200714,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fdie4",
+        action = "die1",
+        transit = {
+        },
+        roleName = "社团飞行改装怪物",
+        roleForm = 4,
+    },
+    [200710] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24201_st",
+        motionDown = {
+        },
+        id = 200710,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fdie3",
+        action = "die1",
+        transit = {
+        },
+        roleName = "社团飞行改装怪物",
+        roleForm = 3,
     },
     [200029] = {
         triggerEvent = "",
@@ -34408,13 +35397,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200770] = {
+    [200702] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_30901",
+        effectScaleUp = 0.6,
+        resource = "fight_24201_st",
         motionDown = {
         },
-        id = 200770,
+        id = 200702,
         effectPoint = "",
         motionUp = {
         },
@@ -34424,20 +35413,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Ehurt2",
-        action = "hurt2",
+        realAction = "Fdie1",
+        action = "die1",
         transit = {
         },
-        roleName = "9号BOSS",
-        roleForm = 2,
+        roleName = "社团飞行改装怪物",
+        roleForm = 10,
     },
-    [200766] = {
+    [1024] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_30901",
+        effectScaleUp = 0.6,
+        resource = "fight_10104",
         motionDown = {
         },
-        id = 200766,
+        id = 1024,
         effectPoint = "",
         motionUp = {
         },
@@ -34447,43 +35436,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Estand",
-        action = "float",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "9号BOSS",
-        roleForm = 2,
-    },
-    [200762] = {
-        triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_30901",
-        motionDown = {
-        },
-        id = 200762,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "standup",
-        transit = {
-        },
-        roleName = "9号BOSS",
+        roleName = "夜刀神十香(校服)",
         roleForm = 1,
     },
-    [200758] = {
+    [200616] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_30901",
+        effectScaleUp = 0.6,
+        resource = "buffItem__kuangsanjuchang_bati",
         motionDown = {
         },
-        id = 200758,
+        id = 200616,
         effectPoint = "",
         motionUp = {
         },
@@ -34493,20 +35459,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "6",
+        action = "stand",
         transit = {
         },
-        roleName = "9号BOSS",
+        roleName = "狂三外传剧场霸体物品",
         roleForm = 1,
     },
-    [200754] = {
+    [18011] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_30901",
+        effectScaleUp = 0.6,
+        resource = "fight_11701",
         motionDown = {
         },
-        id = 200754,
+        id = 18011,
         effectPoint = "",
         motionUp = {
         },
@@ -34516,11 +35482,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "float",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "9号BOSS",
+        roleName = "白井黑子",
+        roleForm = 1,
+    },
+    [200614] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "buffItem__kuangsanjuchang_jiagong",
+        motionDown = {
+        },
+        id = 200614,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "3",
+        action = "stand",
+        transit = {
+        },
+        roleName = "狂三外传剧场加攻物品",
         roleForm = 1,
     },
     [200030] = {
@@ -34663,13 +35652,13 @@ return {
         roleName = "强化狂三-魔术师",
         roleForm = 1,
     },
-    [200751] = {
+    [11009] = {
         triggerEvent = "",
-        effectScaleUp = 0.5,
-        resource = "fight_30901",
+        effectScaleUp = 0.6,
+        resource = "fight_10801",
         motionDown = {
         },
-        id = 200751,
+        id = 11009,
         effectPoint = "",
         motionUp = {
         },
@@ -34679,34 +35668,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "八舞夕弦",
+        roleForm = 1,
+    },
+    [24035] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_exskillB3",
+        motionDown = {
+        },
+        id = 24035,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "diquan_lan_xiaoshi",
         action = "die1",
         transit = {
         },
-        roleName = "9号BOSS",
-        roleForm = 1,
-    },
-    [200750] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24602_st",
-        motionDown = {
-        },
-        id = 200750,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "born",
-        transit = {
-        },
-        roleName = "社团飞行改装怪物炮台",
+        roleName = "或守鞠奈-陷阱-蓝色陷阱",
         roleForm = 1,
     },
     [200031] = {
@@ -34778,38 +35767,36 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200742] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 1,
-        resource = "effects_st4_xiangzi",
+    [200610] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "buffItem__kuangsanjuchang_jianshang",
         motionDown = {
         },
-        id = 200742,
-        effectPoint = "root",
+        id = 200610,
+        effectPoint = "",
         motionUp = {
-            [1] = "effects_zhangaiwu",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
-            [1] = "effects_zhangaiwu",
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "5",
+        action = "stand",
         transit = {
         },
-        roleName = "社团箱子",
+        roleName = "狂三外传剧场减伤物品",
         roleForm = 1,
     },
-    [200738] = {
+    [8001] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24201_st",
+        resource = "fight_10601",
         motionDown = {
         },
-        id = 200738,
+        id = 8001,
         effectPoint = "",
         motionUp = {
         },
@@ -34819,20 +35806,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fdie10",
-        action = "die1",
+        realAction = "born",
+        action = "born",
         transit = {
         },
-        roleName = "社团飞行改装怪物",
+        roleName = "DEM崇宫真那",
         roleForm = 1,
     },
-    [200734] = {
+    [200608] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24201_st",
+        resource = "buffItem__kuangsanjuchang_jiasu",
         motionDown = {
         },
-        id = 200734,
+        id = 200608,
         effectPoint = "",
         motionUp = {
         },
@@ -34842,35 +35829,35 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fdie9",
-        action = "die1",
+        realAction = "1",
+        action = "stand",
         transit = {
         },
-        roleName = "社团飞行改装怪物",
-        roleForm = 9,
+        roleName = "狂三外传剧场加速物品",
+        roleForm = 1,
     },
-    [200730] = {
+    [200606] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24201_st",
+        effectScaleUp = 1.5,
+        resource = "fight_24901",
         motionDown = {
         },
-        id = 200730,
+        id = 200606,
         effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0.6,
+        effectScaleDown = 1.5,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fdie8",
-        action = "die1",
+        realAction = "EskillB_2",
+        action = "stand",
         transit = {
         },
-        roleName = "社团飞行改装怪物",
-        roleForm = 8,
+        roleName = "万由里BOSS4阶段(2阶段回血)",
+        roleForm = 4,
     },
     [29047] = {
         triggerEvent = "",
@@ -34918,13 +35905,13 @@ return {
         roleName = "综合AST小怪",
         roleForm = 1,
     },
-    [200544] = {
+    [29175] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23201",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200544,
+        id = 29175,
         effectPoint = "",
         motionUp = {
         },
@@ -34934,12 +35921,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "flip",
-        action = "flip",
+        realAction = "hurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "幽灵2阶段",
-        roleForm = 2,
+        roleName = "莎莉",
+        roleForm = 1,
     },
     [201056] = {
         triggerEvent = "",
@@ -34987,13 +35974,13 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
-    [200722] = {
+    [18004] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24201_st",
+        resource = "fight_11701",
         motionDown = {
         },
-        id = 200722,
+        id = 18004,
         effectPoint = "",
         motionUp = {
         },
@@ -35003,20 +35990,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fdie6",
-        action = "die1",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "社团飞行改装怪物",
-        roleForm = 6,
+        roleName = "白井黑子",
+        roleForm = 1,
     },
-    [200720] = {
+    [200292] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24201_st",
+        resource = "fight_22101",
         motionDown = {
         },
-        id = 200720,
+        id = 200292,
         effectPoint = "",
         motionUp = {
         },
@@ -35026,43 +36013,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "F5",
-        action = "move",
+        realAction = "flip",
+        action = "floor",
         transit = {
         },
-        roleName = "社团飞行改装怪物",
-        roleForm = 5,
+        roleName = "低阶能量远程小怪",
+        roleForm = 1,
     },
-    [200719] = {
+    [200602] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24201_st",
+        effectScaleUp = 1.5,
+        resource = "fight_24901",
         motionDown = {
         },
-        id = 200719,
+        id = 200602,
         effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0.6,
+        effectScaleDown = 1.5,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
-        realAction = "cstand",
+        realAction = "stand",
         action = "stand",
         transit = {
         },
-        roleName = "社团飞行改装怪物",
-        roleForm = 5,
+        roleName = "万由里BOSS1阶段",
+        roleForm = 1,
     },
-    [200718] = {
+    [29108] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24201_st",
+        resource = "fight_13201",
         motionDown = {
         },
-        id = 200718,
+        id = 29108,
         effectPoint = "",
         motionUp = {
         },
@@ -35072,12 +36059,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fdie5",
-        action = "die1",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "社团飞行改装怪物",
-        roleForm = 5,
+        roleName = "圆神凛绪",
+        roleForm = 1,
     },
     [200033] = {
         triggerEvent = "",
@@ -35148,119 +36135,119 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200710] = {
+    [15095] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24201_st",
+        effectScaleUp = 0,
+        resource = "fight_11301_xiong",
         motionDown = {
         },
-        id = 200710,
+        id = 15095,
         effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Fdie3",
-        action = "die1",
-        transit = {
-        },
-        roleName = "社团飞行改装怪物",
-        roleForm = 3,
-    },
-    [200706] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24201_st",
-        motionDown = {
-        },
-        id = 200706,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Fdie2",
-        action = "die1",
-        transit = {
-        },
-        roleName = "社团飞行改装怪物",
-        roleForm = 2,
-    },
-    [200702] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24201_st",
-        motionDown = {
-        },
-        id = 200702,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Fdie1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "社团飞行改装怪物",
-        roleForm = 10,
-    },
-    [5011] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10301",
-        motionDown = {
-        },
-        id = 5011,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "四糸乃",
-        roleForm = 1,
-    },
-    [200176] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21601",
-        motionDown = {
-        },
-        id = 200176,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
+        effectScaleDown = 0,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
         realAction = "move",
-        action = "move",
+        action = "quickmove",
         transit = {
         },
-        roleName = "机械猩猩",
+        roleName = "七罪熊猫",
+        roleForm = 1,
+    },
+    [200598] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24601",
+        motionDown = {
+        },
+        id = 200598,
+        effectPoint = "root",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "万由里高阶综合",
+        roleForm = 1,
+    },
+    [7025] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10501",
+        motionDown = {
+        },
+        id = 7025,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Pfloathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "五河琴里",
+        roleForm = 2,
+    },
+    [7014] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10501",
+        motionDown = {
+        },
+        id = 7014,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "五河琴里",
+        roleForm = 1,
+    },
+    [14066] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_11207_skillB_smallboll",
+        motionDown = {
+        },
+        id = 14066,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "smollboll",
+        action = "float",
+        transit = {
+        },
+        roleName = "万由里-破晓之星-召唤电球怪",
         roleForm = 1,
     },
     [200034] = {
@@ -35332,13 +36319,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [200614] = {
+    [200350] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "buffItem__kuangsanjuchang_jiagong",
+        resource = "fight_22501",
         motionDown = {
         },
-        id = 200614,
+        id = 200350,
         effectPoint = "",
         motionUp = {
         },
@@ -35348,68 +36335,89 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "3",
-        action = "stand",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "狂三外传剧场加攻物品",
+        roleName = "高阶能量综合小怪",
         roleForm = 1,
     },
-    [9010] = {
+    [200592] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10602",
+        resource = "fight_24601",
         motionDown = {
         },
-        id = 9010,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt2",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "芬里尔崇宫真那",
-        roleForm = 1,
-    },
-    [20001] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_12301",
-        motionDown = {
-        },
-        id = 20001,
+        id = 200592,
         effectPoint = "root",
         motionUp = {
-            [1] = "effects_12301_born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
-            [1] = "effects_12301_born",
         },
-        realAction = "born",
-        action = "born",
+        realAction = "Fstand",
+        action = "forward",
         transit = {
         },
-        roleName = "贝露",
+        roleName = "万由里高阶综合",
         roleForm = 1,
     },
-    [4029] = {
+    [200591] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10207",
+        resource = "fight_24601",
         motionDown = {
         },
-        id = 4029,
+        id = 200591,
+        effectPoint = "root",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fstand",
+        action = "backward2forward",
+        transit = {
+        },
+        roleName = "万由里高阶综合",
+        roleForm = 1,
+    },
+    [200590] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24601",
+        motionDown = {
+        },
+        id = 200590,
+        effectPoint = "root",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fstand",
+        action = "forward2backward",
+        transit = {
+        },
+        roleName = "万由里高阶综合",
+        roleForm = 1,
+    },
+    [13038] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11005",
+        motionDown = {
+        },
+        id = 13038,
         effectPoint = "",
         motionUp = {
         },
@@ -35419,34 +36427,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "standup",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "鸢一折纸-龙胆",
-        roleForm = 1,
-    },
-    [200610] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "buffItem__kuangsanjuchang_jianshang",
-        motionDown = {
-        },
-        id = 200610,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "5",
-        action = "stand",
-        transit = {
-        },
-        roleName = "狂三外传剧场减伤物品",
+        roleName = "诱宵美九（粉红灵装）",
         roleForm = 1,
     },
     [200035] = {
@@ -35518,13 +36503,13 @@ return {
         roleName = "白王",
         roleForm = 2,
     },
-    [24026] = {
+    [7035] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_12501_skillB3",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 24026,
+        id = 7035,
         effectPoint = "",
         motionUp = {
         },
@@ -35534,103 +36519,103 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "skillB_1_xunhuan",
-        action = "die1",
+        realAction = "Pstandup",
+        action = "standup",
         transit = {
         },
-        roleName = "或守鞠奈-替身1",
-        roleForm = 1,
+        roleName = "五河琴里",
+        roleForm = 2,
     },
-    [200606] = {
+    [200586] = {
         triggerEvent = "",
-        effectScaleUp = 1.5,
-        resource = "fight_24901",
+        effectScaleUp = 0.6,
+        resource = "fight_24501F",
         motionDown = {
         },
-        id = 200606,
-        effectPoint = "",
+        id = 200586,
+        effectPoint = "root",
         motionUp = {
         },
-        effectScaleDown = 1.5,
+        effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
-        realAction = "EskillB_2",
+        realAction = "Fstand",
+        action = "backward",
+        transit = {
+        },
+        roleName = "万由里高阶远程",
+        roleForm = 1,
+    },
+    [4130] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10213",
+        motionDown = {
+        },
+        id = 4130,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "反转折纸和服",
+        roleForm = 1,
+    },
+    [200584] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24501F",
+        motionDown = {
+        },
+        id = 200584,
+        effectPoint = "root",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fstand",
+        action = "backward2forward",
+        transit = {
+        },
+        roleName = "万由里高阶远程",
+        roleForm = 1,
+    },
+    [15096] = {
+        triggerEvent = "",
+        effectScaleUp = 0,
+        resource = "fight_11301_xiong",
+        motionDown = {
+        },
+        id = 15096,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
         action = "stand",
         transit = {
         },
-        roleName = "万由里BOSS4阶段(2阶段回血)",
-        roleForm = 4,
-    },
-    [200288] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_22101",
-        motionDown = {
-        },
-        id = 200288,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "低阶能量远程小怪",
-        roleForm = 1,
-    },
-    [9009] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10602",
-        motionDown = {
-        },
-        id = 9009,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "芬里尔崇宫真那",
-        roleForm = 1,
-    },
-    [200300] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_22101",
-        motionDown = {
-        },
-        id = 200300,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "低阶能量远程小怪",
+        roleName = "七罪熊猫",
         roleForm = 1,
     },
     [200036] = {
@@ -35702,37 +36687,14 @@ return {
         roleName = "炮姐",
         roleForm = 1,
     },
-    [200602] = {
-        triggerEvent = "",
-        effectScaleUp = 1.5,
-        resource = "fight_24901",
-        motionDown = {
-        },
-        id = 200602,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 1.5,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "万由里BOSS1阶段",
-        roleForm = 1,
-    },
-    [200312] = {
+    [200582] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_22201",
+        resource = "fight_24301F",
         motionDown = {
         },
-        id = 200312,
-        effectPoint = "",
+        id = 200582,
+        effectPoint = "root",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -35741,20 +36703,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "FdieA",
+        action = "fall",
         transit = {
         },
-        roleName = "低阶能量综合小怪",
+        roleName = "万由里低阶综合",
         roleForm = 1,
     },
-    [5210] = {
+    [200294] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10302",
+        resource = "fight_22101",
         motionDown = {
         },
-        id = 5210,
+        id = 200294,
         effectPoint = "",
         motionUp = {
         },
@@ -35768,16 +36730,16 @@ return {
         action = "hurt2",
         transit = {
         },
-        roleName = "强化四糸乃",
+        roleName = "低阶能量远程小怪",
         roleForm = 1,
     },
-    [200324] = {
+    [200154] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_22301",
+        resource = "fight_21801",
         motionDown = {
         },
-        id = 200324,
+        id = 200154,
         effectPoint = "",
         motionUp = {
         },
@@ -35787,21 +36749,21 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "高阶能量近战小怪",
+        roleName = "高阶机械盾",
         roleForm = 1,
     },
-    [200598] = {
+    [200388] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24601",
+        resource = "fight_20301F",
         motionDown = {
         },
-        id = 200598,
-        effectPoint = "root",
+        id = 200388,
+        effectPoint = "",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -35811,10 +36773,33 @@ return {
         resourceUp = {
         },
         realAction = "stand",
-        action = "floathurt",
+        action = "forward",
         transit = {
         },
-        roleName = "万由里高阶综合",
+        roleName = "低阶ast飞行综合",
+        roleForm = 1,
+    },
+    [200578] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24301F",
+        motionDown = {
+        },
+        id = 200578,
+        effectPoint = "root",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Fstand",
+        action = "forward",
+        transit = {
+        },
+        roleName = "万由里低阶综合",
         roleForm = 1,
     },
     [200037] = {
@@ -35888,59 +36873,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [14046] = {
+    [200576] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11207",
+        resource = "fight_24301F",
         motionDown = {
         },
-        id = 14046,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "万由里-破晓之星",
-        roleForm = 1,
-    },
-    [200344] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_22501",
-        motionDown = {
-        },
-        id = 200344,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "高阶能量综合小怪",
-        roleForm = 1,
-    },
-    [200594] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24601",
-        motionDown = {
-        },
-        id = 200594,
+        id = 200576,
         effectPoint = "root",
         motionUp = {
         },
@@ -35951,19 +36890,19 @@ return {
         resourceUp = {
         },
         realAction = "Fstand",
-        action = "move",
+        action = "forward2backward",
         transit = {
         },
-        roleName = "万由里高阶综合",
+        roleName = "万由里低阶综合",
         roleForm = 1,
     },
-    [200364] = {
+    [4011] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10101_1",
+        resource = "fight_10201",
         motionDown = {
         },
-        id = 200364,
+        id = 4011,
         effectPoint = "",
         motionUp = {
         },
@@ -35973,11 +36912,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "鸢一折纸",
+        roleForm = 1,
+    },
+    [200574] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_24201F",
+        motionDown = {
+        },
+        id = 200574,
+        effectPoint = "root",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "FdieA",
         action = "die",
         transit = {
         },
-        roleName = "十香飞行",
+        roleName = "万由里低阶远程",
+        roleForm = 1,
+    },
+    [5217] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10302",
+        motionDown = {
+        },
+        id = 5217,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "standup",
+        transit = {
+        },
+        roleName = "强化四糸乃",
         roleForm = 1,
     },
     [14014] = {
@@ -36141,14 +37126,14 @@ return {
         roleName = "五河琴里-指挥官",
         roleForm = 2,
     },
-    [200592] = {
+    [200240] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24601",
+        resource = "fight_21101",
         motionDown = {
         },
-        id = 200592,
-        effectPoint = "root",
+        id = 200240,
+        effectPoint = "",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -36157,21 +37142,21 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fstand",
-        action = "forward",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "万由里高阶综合",
+        roleName = "高阶DEM远程小怪",
         roleForm = 1,
     },
-    [200591] = {
+    [200456] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24601",
+        resource = "fight_30701",
         motionDown = {
         },
-        id = 200591,
-        effectPoint = "root",
+        id = 200456,
+        effectPoint = "",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -36180,11 +37165,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fstand",
-        action = "backward2forward",
+        realAction = "flip",
+        action = "floor",
         transit = {
         },
-        roleName = "万由里高阶综合",
+        roleName = "7号BOSS",
         roleForm = 1,
     },
     [200039] = {
@@ -36256,13 +37241,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [13022] = {
+    [7016] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11005",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 13022,
+        id = 7016,
         effectPoint = "",
         motionUp = {
         },
@@ -36272,20 +37257,70 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "五河琴里",
+        roleForm = 1,
+    },
+    [200568] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "effects_24401_dilei",
+        motionDown = {
+        },
+        id = 200568,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "baozha",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_24401_skillC",
+        },
+        realAction = "dilei3",
+        action = "die1",
+        transit = {
+        },
+        roleName = "万由里高阶近战地雷",
+        roleForm = 1,
+    },
+    [13040] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "fight_11005",
+        motionDown = {
+        },
+        id = 13040,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "effects_11001_win",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_11001_win",
+        },
+        realAction = "win",
+        action = "win",
         transit = {
         },
         roleName = "诱宵美九（粉红灵装）",
         roleForm = 1,
     },
-    [200376] = {
+    [200566] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20201F",
+        resource = "fight_23301",
         motionDown = {
         },
-        id = 200376,
+        id = 200566,
         effectPoint = "",
         motionUp = {
         },
@@ -36295,57 +37330,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "move",
+        realAction = "born1",
+        action = "born",
         transit = {
         },
-        roleName = "低阶ast飞行远程",
-        roleForm = 1,
-    },
-    [200396] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_20601F",
-        motionDown = {
-        },
-        id = 200396,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "forward",
-        transit = {
-        },
-        roleName = "高阶ast飞行综合",
-        roleForm = 1,
-    },
-    [200586] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24501F",
-        motionDown = {
-        },
-        id = 200586,
-        effectPoint = "root",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Fstand",
-        action = "backward",
-        transit = {
-        },
-        roleName = "万由里高阶远程",
+        roleName = "南瓜BOSS",
         roleForm = 1,
     },
     [29048] = {
@@ -36371,13 +37360,13 @@ return {
         roleName = "华伦",
         roleForm = 1,
     },
-    [200040] = {
+    [29112] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20301",
+        resource = "fight_13201",
         motionDown = {
         },
-        id = 200040,
+        id = 29112,
         effectPoint = "",
         motionUp = {
         },
@@ -36387,20 +37376,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "综合AST小怪",
+        roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200552] = {
+    [29176] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23201",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200552,
+        id = 29176,
         effectPoint = "",
         motionUp = {
         },
@@ -36410,12 +37399,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "幽灵2阶段",
-        roleForm = 2,
+        roleName = "莎莉",
+        roleForm = 1,
     },
     [201064] = {
         triggerEvent = "",
@@ -36463,13 +37452,13 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
-    [2050] = {
+    [20017] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10109",
+        resource = "fight_12301",
         motionDown = {
         },
-        id = 2050,
+        id = 20017,
         effectPoint = "",
         motionUp = {
         },
@@ -36479,20 +37468,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "深渊反转十香",
+        roleName = "贝露",
         roleForm = 1,
     },
-    [200464] = {
+    [24020] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30701",
+        resource = "fight_12501",
         motionDown = {
         },
-        id = 200464,
+        id = 24020,
         effectPoint = "",
         motionUp = {
         },
@@ -36502,57 +37491,59 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "win",
+        action = "win",
         transit = {
         },
-        roleName = "7号BOSS",
+        roleName = "或守鞠奈",
         roleForm = 1,
     },
-    [200582] = {
+    [200562] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24301F",
+        resource = "effects_23301_skillD",
         motionDown = {
         },
-        id = 200582,
+        id = 200562,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "南瓜炸弹",
+        roleForm = 1,
+    },
+    [29166] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "fight_13601",
+        motionDown = {
+        },
+        id = 29166,
         effectPoint = "root",
         motionUp = {
+            [1] = "born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_13601_born",
         },
-        realAction = "FdieA",
-        action = "fall",
+        realAction = "born",
+        action = "born",
         transit = {
         },
-        roleName = "万由里低阶综合",
-        roleForm = 1,
-    },
-    [2003] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10103",
-        motionDown = {
-        },
-        id = 2003,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "反转十香",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [200041] = {
@@ -36624,13 +37615,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [200428] = {
+    [200559] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30801",
+        resource = "effects_23301_skillD",
         motionDown = {
         },
-        id = 200428,
+        id = 200559,
         effectPoint = "",
         motionUp = {
         },
@@ -36640,57 +37631,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "8号BOSS",
-        roleForm = 1,
-    },
-    [200578] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_24301F",
-        motionDown = {
-        },
-        id = 200578,
-        effectPoint = "root",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Fstand",
-        action = "forward",
-        transit = {
-        },
-        roleName = "万由里低阶综合",
-        roleForm = 1,
-    },
-    [22010] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11212",
-        motionDown = {
-        },
-        id = 22010,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt2",
+        realAction = "stand",
         action = "hurt2",
         transit = {
         },
-        roleName = "万由里女巫",
+        roleName = "南瓜炸弹",
+        roleForm = 1,
+    },
+    [200558] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_23301_skillD",
+        motionDown = {
+        },
+        id = 200558,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "南瓜炸弹",
+        roleForm = 1,
+    },
+    [200522] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30302",
+        motionDown = {
+        },
+        id = 200522,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "杰西卡",
         roleForm = 1,
     },
     [15006] = {
@@ -36877,36 +37868,13 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
-    [15100] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_xiong",
-        motionDown = {
-        },
-        id = 15100,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "win",
-        transit = {
-        },
-        roleName = "七罪熊猫",
-        roleForm = 1,
-    },
-    [200222] = {
+    [200536] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21001",
+        resource = "fight_23201",
         motionDown = {
         },
-        id = 200222,
+        id = 200536,
         effectPoint = "",
         motionUp = {
         },
@@ -36916,11 +37884,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floor",
-        action = "floor",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "高阶DEM近战小怪",
+        roleName = "幽灵1阶段",
+        roleForm = 1,
+    },
+    [200554] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_23301_skillD",
+        motionDown = {
+        },
+        id = 200554,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "die2",
+        transit = {
+        },
+        roleName = "南瓜炸弹",
         roleForm = 1,
     },
     [200043] = {
@@ -36992,13 +37983,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [5209] = {
+    [200550] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10302",
+        resource = "fight_23201",
         motionDown = {
         },
-        id = 5209,
+        id = 200550,
         effectPoint = "",
         motionUp = {
         },
@@ -37008,20 +37999,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "强化四糸乃",
-        roleForm = 1,
+        roleName = "幽灵2阶段",
+        roleForm = 2,
     },
-    [200398] = {
+    [200546] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20601F",
+        resource = "fight_23201",
         motionDown = {
         },
-        id = 200398,
+        id = 200546,
         effectPoint = "",
         motionUp = {
         },
@@ -37031,20 +38022,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "dieA",
-        action = "die",
+        realAction = "hurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "高阶ast飞行综合",
-        roleForm = 1,
+        roleName = "幽灵2阶段",
+        roleForm = 2,
     },
-    [7040] = {
+    [200544] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_23201",
         motionDown = {
         },
-        id = 7040,
+        id = 200544,
         effectPoint = "",
         motionUp = {
         },
@@ -37054,43 +38045,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "flip",
+        action = "flip",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
-        roleForm = 1,
+        roleName = "幽灵2阶段",
+        roleForm = 2,
     },
-    [200570] = {
+    [200542] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24201F",
+        resource = "fight_23201",
         motionDown = {
         },
-        id = 200570,
-        effectPoint = "root",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Fstand",
-        action = "backward2forward",
-        transit = {
-        },
-        roleName = "万由里低阶远程",
-        roleForm = 1,
-    },
-    [200394] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_20601F",
-        motionDown = {
-        },
-        id = 200394,
+        id = 200542,
         effectPoint = "",
         motionUp = {
         },
@@ -37100,11 +38068,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "moveB",
-        action = "backward2forward",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "高阶ast飞行综合",
+        roleName = "幽灵2阶段",
+        roleForm = 2,
+    },
+    [200538] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_23201",
+        motionDown = {
+        },
+        id = 200538,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "幽灵1阶段",
         roleForm = 1,
     },
     [200044] = {
@@ -37176,13 +38167,13 @@ return {
         roleName = "炮姐",
         roleForm = 1,
     },
-    [200392] = {
+    [200534] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20301F",
+        resource = "fight_23201",
         motionDown = {
         },
-        id = 200392,
+        id = 200534,
         effectPoint = "",
         motionUp = {
         },
@@ -37192,20 +38183,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "dieB",
-        action = "fall",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "低阶ast飞行综合",
+        roleName = "幽灵1阶段",
         roleForm = 1,
     },
-    [22026] = {
+    [200530] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_11212_skillB",
+        resource = "fight_23201",
         motionDown = {
         },
-        id = 22026,
+        id = 200530,
         effectPoint = "",
         motionUp = {
         },
@@ -37215,66 +38206,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "smollboll",
-        action = "float",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "万由里女巫-召唤电球怪",
+        roleName = "幽灵1阶段",
         roleForm = 1,
     },
-    [200566] = {
+    [200528] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23301",
+        resource = "fight_23201",
         motionDown = {
         },
-        id = 200566,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "born1",
-        action = "born",
-        transit = {
-        },
-        roleName = "南瓜BOSS",
-        roleForm = 1,
-    },
-    [11037] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10807",
-        motionDown = {
-        },
-        id = 11037,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "standup",
-        transit = {
-        },
-        roleName = "八舞夕弦-春节",
-        roleForm = 1,
-    },
-    [20004] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12301",
-        motionDown = {
-        },
-        id = 20004,
+        id = 200528,
         effectPoint = "",
         motionUp = {
         },
@@ -37288,7 +38233,53 @@ return {
         action = "die2",
         transit = {
         },
-        roleName = "贝露",
+        roleName = "幽灵1阶段",
+        roleForm = 1,
+    },
+    [200527] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_23201",
+        motionDown = {
+        },
+        id = 200527,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "幽灵1阶段",
+        roleForm = 1,
+    },
+    [200526] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30302",
+        motionDown = {
+        },
+        id = 200526,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "杰西卡",
         roleForm = 1,
     },
     [200045] = {
@@ -37360,13 +38351,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [200562] = {
+    [200518] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_23301_skillD",
+        resource = "fight_30302",
         motionDown = {
         },
-        id = 200562,
+        id = 200518,
         effectPoint = "",
         motionUp = {
         },
@@ -37376,20 +38367,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "stand",
+        realAction = "floor",
+        action = "floor",
         transit = {
         },
-        roleName = "南瓜炸弹",
+        roleName = "杰西卡",
         roleForm = 1,
     },
-    [4129] = {
+    [200514] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10213",
+        resource = "fight_30302",
         motionDown = {
         },
-        id = 4129,
+        id = 200514,
         effectPoint = "",
         motionUp = {
         },
@@ -37399,38 +38390,36 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "反转折纸和服",
+        roleName = "杰西卡",
         roleForm = 1,
     },
-    [22001] = {
+    [200512] = {
         triggerEvent = "effect0",
         effectScaleUp = 0.6,
-        resource = "fight_11212",
+        resource = "fight_30502",
         motionDown = {
-            [1] = "born_down",
         },
-        id = 22001,
+        id = 200512,
         effectPoint = "root",
         motionUp = {
-            [1] = "born_up",
+            [1] = "born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
-            [1] = "effects_11212_skillF",
         },
         minipack = 0,
         resourceUp = {
-            [1] = "effects_11212_skillF",
+            [1] = "effects_30502_born",
         },
         realAction = "born",
         action = "born",
         transit = {
         },
-        roleName = "万由里女巫",
+        roleName = "5号BOSS",
         roleForm = 1,
     },
     [8016] = {
@@ -37548,13 +38537,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [200558] = {
+    [200126] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_23301_skillD",
+        resource = "fight_21501",
         motionDown = {
         },
-        id = 200558,
+        id = 200126,
         effectPoint = "",
         motionUp = {
         },
@@ -37564,43 +38553,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "hurt1",
+        realAction = "flip",
+        action = "floor",
         transit = {
         },
-        roleName = "南瓜炸弹",
+        roleName = "机械远程",
         roleForm = 1,
     },
-    [200554] = {
+    [4097] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_23301_skillD",
+        resource = "fight_10210",
         motionDown = {
         },
-        id = 200554,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "die2",
-        transit = {
-        },
-        roleName = "南瓜炸弹",
-        roleForm = 1,
-    },
-    [200550] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_23201",
-        motionDown = {
-        },
-        id = 200550,
+        id = 4097,
         effectPoint = "",
         motionUp = {
         },
@@ -37614,16 +38580,16 @@ return {
         action = "standup",
         transit = {
         },
-        roleName = "幽灵2阶段",
-        roleForm = 2,
+        roleName = "反转折纸",
+        roleForm = 1,
     },
-    [200546] = {
+    [4105] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23201",
+        resource = "fight_10212",
         motionDown = {
         },
-        id = 200546,
+        id = 4105,
         effectPoint = "",
         motionUp = {
         },
@@ -37633,20 +38599,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "entrance",
+        action = "entrance",
         transit = {
         },
-        roleName = "幽灵2阶段",
-        roleForm = 2,
+        roleName = "反转折纸渡鸦",
+        roleForm = 1,
     },
-    [200542] = {
+    [4113] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23201",
+        resource = "fight_10212",
         motionDown = {
         },
-        id = 200542,
+        id = 4113,
         effectPoint = "",
         motionUp = {
         },
@@ -37656,12 +38622,39 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "walk",
+        action = "walk",
         transit = {
         },
-        roleName = "幽灵2阶段",
-        roleForm = 2,
+        roleName = "反转折纸渡鸦",
+        roleForm = 1,
+    },
+    [4121] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "fight_10213",
+        motionDown = {
+            [1] = "born_down",
+        },
+        id = 4121,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "born_up",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+            [1] = "effects_10213_born",
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_10213_born",
+        },
+        realAction = "born",
+        action = "born",
+        transit = {
+        },
+        roleName = "反转折纸和服",
+        roleForm = 1,
     },
     [200047] = {
         triggerEvent = "",
@@ -37778,13 +38771,13 @@ return {
         roleName = "深渊反转十香",
         roleForm = 2,
     },
-    [200538] = {
+    [4129] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23201",
+        resource = "fight_10213",
         motionDown = {
         },
-        id = 200538,
+        id = 4129,
         effectPoint = "",
         motionUp = {
         },
@@ -37794,20 +38787,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "幽灵1阶段",
+        roleName = "反转折纸和服",
         roleForm = 1,
     },
-    [200534] = {
+    [4137] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23201",
+        resource = "fight_10213",
         motionDown = {
         },
-        id = 200534,
+        id = 4137,
         effectPoint = "",
         motionUp = {
         },
@@ -37817,11 +38810,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt3",
-        action = "hurt3",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "幽灵1阶段",
+        roleName = "反转折纸和服",
         roleForm = 1,
     },
     [29049] = {
@@ -37870,13 +38863,13 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200560] = {
+    [29177] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_23301_skillD",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200560,
+        id = 29177,
         effectPoint = "",
         motionUp = {
         },
@@ -37886,11 +38879,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "hurt3",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "南瓜炸弹",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201072] = {
@@ -37939,13 +38932,13 @@ return {
         roleName = "海王星联动-普兰",
         roleForm = 1,
     },
-    [4097] = {
+    [4039] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10210",
+        resource = "fight_10207",
         motionDown = {
         },
-        id = 4097,
+        id = 4039,
         effectPoint = "",
         motionUp = {
         },
@@ -37956,19 +38949,19 @@ return {
         resourceUp = {
         },
         realAction = "standup",
-        action = "standup",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "反转折纸",
+        roleName = "鸢一折纸-龙胆",
         roleForm = 1,
     },
-    [4105] = {
+    [29006] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10212",
+        resource = "fight_12701",
         motionDown = {
         },
-        id = 4105,
+        id = 29006,
         effectPoint = "",
         motionUp = {
         },
@@ -37978,20 +38971,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "entrance",
-        action = "entrance",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "反转折纸渡鸦",
+        roleName = "白王",
         roleForm = 1,
     },
-    [4113] = {
+    [29038] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10212",
+        resource = "fight_12801",
         motionDown = {
         },
-        id = 4113,
+        id = 29038,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "floorRelive",
+        transit = {
+        },
+        roleName = "苍",
+        roleForm = 1,
+    },
+    [29134] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10313",
+        motionDown = {
+        },
+        id = 29134,
         effectPoint = "",
         motionUp = {
         },
@@ -38005,34 +39021,7 @@ return {
         action = "walk",
         transit = {
         },
-        roleName = "反转折纸渡鸦",
-        roleForm = 1,
-    },
-    [4121] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_10213",
-        motionDown = {
-            [1] = "born_down",
-        },
-        id = 4121,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "born_up",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-            [1] = "effects_10213_born",
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_10213_born",
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "反转折纸和服",
+        roleName = "冰铠",
         roleForm = 1,
     },
     [200049] = {
@@ -38104,13 +39093,107 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [24052] = {
+    [14092] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12401",
+        resource = "fight_11215",
         motionDown = {
         },
-        id = 24052,
+        id = 14092,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "机械万由里",
+        roleForm = 1,
+    },
+    [200504] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "effects_30601_EskillC",
+        motionDown = {
+            [1] = "EskillC4_2",
+        },
+        id = 200504,
+        effectPoint = "root",
+        motionUp = {
+        },
+        effectScaleDown = 0.4,
+        resourceDown = {
+            [1] = "effects_30601_EskillC",
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "EskillC4_1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "6号BOSS剑",
+        roleForm = 1,
+    },
+    [20002] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12301",
+        motionDown = {
+        },
+        id = 20002,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "departure",
+        action = "departure",
+        transit = {
+        },
+        roleName = "贝露",
+        roleForm = 1,
+    },
+    [200242] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21101",
+        motionDown = {
+        },
+        id = 200242,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "高阶DEM远程小怪",
+        roleForm = 1,
+    },
+    [4134] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10213",
+        motionDown = {
+        },
+        id = 4134,
         effectPoint = "",
         motionUp = {
         },
@@ -38124,99 +39207,7 @@ return {
         action = "retreat",
         transit = {
         },
-        roleName = "鞠亚",
-        roleForm = 1,
-    },
-    [11006] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10801",
-        motionDown = {
-        },
-        id = 11006,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "八舞夕弦",
-        roleForm = 1,
-    },
-    [22024] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_11212_skillB",
-        motionDown = {
-        },
-        id = 22024,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "smollboll",
-        action = "die2",
-        transit = {
-        },
-        roleName = "万由里女巫-召唤电球怪",
-        roleForm = 1,
-    },
-    [29006] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12701",
-        motionDown = {
-        },
-        id = 29006,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "白王",
-        roleForm = 1,
-    },
-    [29038] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12801",
-        motionDown = {
-        },
-        id = 29038,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "floorRelive",
-        transit = {
-        },
-        roleName = "苍",
+        roleName = "反转折纸和服",
         roleForm = 1,
     },
     [200050] = {
@@ -38288,105 +39279,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [200384] = {
+    [29144] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20501F",
+        resource = "fight_13701",
         motionDown = {
         },
-        id = 200384,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "dieA",
-        action = "die",
-        transit = {
-        },
-        roleName = "高阶ast飞行远程",
-        roleForm = 1,
-    },
-    [22030] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_11212_skillB",
-        motionDown = {
-        },
-        id = 22030,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "smollboll",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "万由里女巫-召唤电球怪",
-        roleForm = 1,
-    },
-    [22038] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_11212_skillB",
-        motionDown = {
-        },
-        id = 22038,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "smollboll",
-        action = "floorRelive",
-        transit = {
-        },
-        roleName = "万由里女巫-召唤电球怪",
-        roleForm = 1,
-    },
-    [14090] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11215",
-        motionDown = {
-        },
-        id = 14090,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt2",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "机械万由里",
-        roleForm = 1,
-    },
-    [24003] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12501",
-        motionDown = {
-        },
-        id = 24003,
+        id = 29144,
         effectPoint = "",
         motionUp = {
         },
@@ -38400,7 +39299,99 @@ return {
         action = "die1",
         transit = {
         },
-        roleName = "或守鞠奈",
+        roleName = "梅普露",
+        roleForm = 1,
+    },
+    [200130] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21501",
+        motionDown = {
+        },
+        id = 200130,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "机械远程",
+        roleForm = 1,
+    },
+    [200496] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30601",
+        motionDown = {
+        },
+        id = 200496,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Ehurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "6号BOSS",
+        roleForm = 2,
+    },
+    [29153] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_13701",
+        motionDown = {
+        },
+        id = 29153,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "梅普露",
+        roleForm = 1,
+    },
+    [29161] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_13701",
+        motionDown = {
+        },
+        id = 29161,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "win",
+        action = "win",
+        transit = {
+        },
+        roleName = "梅普露",
         roleForm = 1,
     },
     [200051] = {
@@ -38472,13 +39463,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [24025] = {
+    [11005] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_12501_skillB3",
+        resource = "fight_10801",
         motionDown = {
         },
-        id = 24025,
+        id = 11005,
         effectPoint = "",
         motionUp = {
         },
@@ -38488,43 +39479,45 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "skillB_1_xunhuan",
-        action = "stand",
+        realAction = "entrance",
+        action = "entrance",
         transit = {
         },
-        roleName = "或守鞠奈-替身1",
+        roleName = "八舞夕弦",
         roleForm = 1,
     },
-    [24033] = {
-        triggerEvent = "",
+    [11021] = {
+        triggerEvent = "effect0",
         effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB3",
+        resource = "fight_10807",
         motionDown = {
         },
-        id = 24033,
-        effectPoint = "",
+        id = 11021,
+        effectPoint = "root",
         motionUp = {
+            [1] = "effects_10801_win",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_10801_win",
         },
-        realAction = "diquan_lan_chuxian",
+        realAction = "born",
         action = "born",
         transit = {
         },
-        roleName = "或守鞠奈-陷阱-蓝色陷阱",
+        roleName = "八舞夕弦-春节",
         roleForm = 1,
     },
-    [200130] = {
+    [11037] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21501",
+        resource = "fight_10807",
         motionDown = {
         },
-        id = 200130,
+        id = 11037,
         effectPoint = "",
         motionUp = {
         },
@@ -38534,20 +39527,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "机械远程",
+        roleName = "八舞夕弦-春节",
         roleForm = 1,
     },
-    [24042] = {
+    [9006] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12401",
+        resource = "fight_10602",
         motionDown = {
         },
-        id = 24042,
+        id = 9006,
         effectPoint = "",
         motionUp = {
         },
@@ -38557,20 +39550,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die2",
-        action = "die2",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "鞠亚",
+        roleName = "芬里尔崇宫真那",
         roleForm = 1,
     },
-    [24050] = {
+    [200488] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12401",
+        resource = "fight_30601",
         motionDown = {
         },
-        id = 24050,
+        id = 200488,
         effectPoint = "",
         motionUp = {
         },
@@ -38580,11 +39573,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "鞠亚",
+        roleName = "6号BOSS",
         roleForm = 1,
     },
     [200052] = {
@@ -38656,38 +39649,13 @@ return {
         roleName = "炮姐",
         roleForm = 1,
     },
-    [29021] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_12801",
-        motionDown = {
-        },
-        id = 29021,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "born",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_32701_born",
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "苍",
-        roleForm = 1,
-    },
-    [200510] = {
+    [200134] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_extra_six",
+        resource = "fight_21701",
         motionDown = {
         },
-        id = 200510,
+        id = 200134,
         effectPoint = "",
         motionUp = {
         },
@@ -38697,20 +39665,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "effects_extra_six",
-        action = "born",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "6号词缀雷球",
+        roleName = "高阶机械蚊子",
         roleForm = 1,
     },
-    [13036] = {
+    [200390] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11005",
+        resource = "fight_20301F",
         motionDown = {
         },
-        id = 13036,
+        id = 200390,
         effectPoint = "",
         motionUp = {
         },
@@ -38721,19 +39689,19 @@ return {
         resourceUp = {
         },
         realAction = "stand",
-        action = "stand",
+        action = "move",
         transit = {
         },
-        roleName = "诱宵美九（粉红灵装）",
+        roleName = "低阶ast飞行综合",
         roleForm = 1,
     },
-    [11005] = {
+    [6015] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10801",
+        resource = "fight_10401",
         motionDown = {
         },
-        id = 11005,
+        id = 6015,
         effectPoint = "",
         motionUp = {
         },
@@ -38743,36 +39711,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "entrance",
-        action = "entrance",
+        realAction = "quickmove",
+        action = "quickmove",
         transit = {
         },
-        roleName = "八舞夕弦",
+        roleName = "时崎狂三",
         roleForm = 1,
     },
-    [11021] = {
-        triggerEvent = "effect0",
+    [200480] = {
+        triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10807",
+        resource = "fight_30601",
         motionDown = {
         },
-        id = 11021,
-        effectPoint = "root",
+        id = 200480,
+        effectPoint = "",
         motionUp = {
-            [1] = "effects_10801_win",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
-            [1] = "effects_10801_win",
         },
-        realAction = "born",
-        action = "born",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "八舞夕弦-春节",
+        roleName = "6号BOSS",
+        roleForm = 1,
+    },
+    [200478] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30601",
+        motionDown = {
+        },
+        id = 200478,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "palsy2",
+        action = "die2",
+        transit = {
+        },
+        roleName = "6号BOSS",
         roleForm = 1,
     },
     [200053] = {
@@ -38844,59 +39833,36 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [24021] = {
+    [15073] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB",
+        effectScaleUp = 0,
+        resource = "fight_11301_tuzi",
         motionDown = {
         },
-        id = 24021,
+        id = 15073,
         effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "diquan_chuxian",
-        action = "born",
-        transit = {
-        },
-        roleName = "或守鞠奈-陷阱",
-        roleForm = 1,
-    },
-    [14092] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11215",
-        motionDown = {
-        },
-        id = 14092,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
+        effectScaleDown = 0,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
         realAction = "move",
-        action = "move",
+        action = "walk",
         transit = {
         },
-        roleName = "机械万由里",
-        roleForm = 1,
+        roleName = "七罪兔子",
+        roleForm = 3,
     },
-    [200134] = {
+    [7010] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21701",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 200134,
+        id = 7010,
         effectPoint = "",
         motionUp = {
         },
@@ -38906,20 +39872,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die2",
-        action = "die2",
+        realAction = "hurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "高阶机械蚊子",
+        roleName = "五河琴里",
         roleForm = 1,
     },
-    [200390] = {
+    [12009] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20301F",
+        resource = "fight_10901",
         motionDown = {
         },
-        id = 200390,
+        id = 12009,
         effectPoint = "",
         motionUp = {
         },
@@ -38929,11 +39895,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "move",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "低阶ast飞行综合",
+        roleName = "爱莲",
+        roleForm = 1,
+    },
+    [24045] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12401",
+        motionDown = {
+        },
+        id = 24045,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "鞠亚",
         roleForm = 1,
     },
     [14015] = {
@@ -39099,13 +40088,13 @@ return {
         roleName = "四糸乃-和服",
         roleForm = 1,
     },
-    [20002] = {
+    [200324] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12301",
+        resource = "fight_22301",
         motionDown = {
         },
-        id = 20002,
+        id = 200324,
         effectPoint = "",
         motionUp = {
         },
@@ -39115,20 +40104,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "贝露",
+        roleName = "高阶能量近战小怪",
         roleForm = 1,
     },
-    [4134] = {
+    [18020] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10213",
+        resource = "fight_11701",
         motionDown = {
         },
-        id = 4134,
+        id = 18020,
         effectPoint = "",
         motionUp = {
         },
@@ -39138,11 +40127,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "win",
+        action = "win",
         transit = {
         },
-        roleName = "反转折纸和服",
+        roleName = "白井黑子",
         roleForm = 1,
     },
     [200055] = {
@@ -39216,13 +40205,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [29144] = {
+    [200138] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_13701",
+        resource = "fight_21701",
         motionDown = {
         },
-        id = 29144,
+        id = 200138,
         effectPoint = "",
         motionUp = {
         },
@@ -39232,20 +40221,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "floor",
+        action = "floor",
         transit = {
         },
-        roleName = "梅普露",
+        roleName = "高阶机械蚊子",
         roleForm = 1,
     },
-    [29151] = {
+    [200394] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_13701",
+        resource = "fight_20601F",
         motionDown = {
         },
-        id = 29151,
+        id = 200394,
         effectPoint = "",
         motionUp = {
         },
@@ -39255,20 +40244,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "moveB",
+        action = "backward2forward",
         transit = {
         },
-        roleName = "梅普露",
+        roleName = "高阶ast飞行综合",
         roleForm = 1,
     },
-    [29135] = {
+    [200464] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10313",
+        resource = "fight_30701",
         motionDown = {
         },
-        id = 29135,
+        id = 200464,
         effectPoint = "",
         motionUp = {
         },
@@ -39278,11 +40267,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "冰铠",
+        roleName = "7号BOSS",
         roleForm = 1,
     },
     [5201] = {
@@ -39356,29 +40345,27 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200568] = {
-        triggerEvent = "effect0",
+    [29178] = {
+        triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_24401_dilei",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200568,
-        effectPoint = "root",
+        id = 29178,
+        effectPoint = "",
         motionUp = {
-            [1] = "baozha",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
-            [1] = "effects_24401_skillC",
         },
-        realAction = "dilei3",
-        action = "die1",
+        realAction = "walk",
+        action = "walk",
         transit = {
         },
-        roleName = "万由里高阶近战地雷",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201080] = {
@@ -39406,13 +40393,13 @@ return {
         roleName = "强化四糸乃",
         roleForm = 2,
     },
-    [29161] = {
+    [22024] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_13701",
+        resource = "effects_11212_skillB",
         motionDown = {
         },
-        id = 29161,
+        id = 22024,
         effectPoint = "",
         motionUp = {
         },
@@ -39422,43 +40409,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "win",
-        action = "win",
+        realAction = "smollboll",
+        action = "die2",
         transit = {
         },
-        roleName = "梅普露",
+        roleName = "万由里女巫-召唤电球怪",
         roleForm = 1,
     },
-    [15091] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_xiong",
-        motionDown = {
-        },
-        id = 15091,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "七罪熊猫",
-        roleForm = 1,
-    },
-    [18005] = {
+    [20005] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11701",
+        resource = "fight_12301",
         motionDown = {
         },
-        id = 18005,
+        id = 20005,
         effectPoint = "",
         motionUp = {
         },
@@ -39472,39 +40436,16 @@ return {
         action = "entrance",
         transit = {
         },
-        roleName = "白井黑子",
+        roleName = "贝露",
         roleForm = 1,
     },
-    [4014] = {
+    [200006] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10201",
+        resource = "fight_20101",
         motionDown = {
         },
-        id = 4014,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "鸢一折纸",
-        roleForm = 1,
-    },
-    [200138] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21701",
-        motionDown = {
-        },
-        id = 200138,
+        id = 200006,
         effectPoint = "",
         motionUp = {
         },
@@ -39518,7 +40459,53 @@ return {
         action = "floor",
         transit = {
         },
-        roleName = "高阶机械蚊子",
+        roleName = "近战AST小怪：倒地+倒地弹起",
+        roleForm = 1,
+    },
+    [12014] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10901",
+        motionDown = {
+        },
+        id = 12014,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "爱莲",
+        roleForm = 1,
+    },
+    [7008] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10501",
+        motionDown = {
+        },
+        id = 7008,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "五河琴里",
         roleForm = 1,
     },
     [200057] = {
@@ -39590,36 +40577,13 @@ return {
         roleName = "黑使徒",
         roleForm = 1,
     },
-    [200478] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30601",
-        motionDown = {
-        },
-        id = 200478,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "palsy2",
-        action = "die2",
-        transit = {
-        },
-        roleName = "6号BOSS",
-        roleForm = 1,
-    },
-    [7008] = {
+    [7032] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_10501",
         motionDown = {
         },
-        id = 7008,
+        id = 7032,
         effectPoint = "",
         motionUp = {
         },
@@ -39629,20 +40593,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "flip",
-        action = "floor",
+        realAction = "Pretreat",
+        action = "retreat",
         transit = {
         },
         roleName = "五河琴里",
-        roleForm = 1,
+        roleForm = 2,
     },
-    [7016] = {
+    [7040] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_10506",
         motionDown = {
         },
-        id = 7016,
+        id = 7040,
         effectPoint = "",
         motionUp = {
         },
@@ -39652,11 +40616,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "stand",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "五河琴里",
+        roleName = "五河琴里-圣诞节",
+        roleForm = 1,
+    },
+    [5001] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10301",
+        motionDown = {
+        },
+        id = 5001,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "born",
+        action = "born",
+        transit = {
+        },
+        roleName = "四糸乃",
         roleForm = 1,
     },
     [15007] = {
@@ -39843,13 +40830,13 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
-    [7024] = {
+    [5009] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_10301",
         motionDown = {
         },
-        id = 7024,
+        id = 5009,
         effectPoint = "",
         motionUp = {
         },
@@ -39859,20 +40846,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Pfloat",
-        action = "float",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "五河琴里",
-        roleForm = 2,
+        roleName = "四糸乃",
+        roleForm = 1,
     },
-    [7032] = {
+    [7064] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_10506",
         motionDown = {
         },
-        id = 7032,
+        id = 7064,
         effectPoint = "",
         motionUp = {
         },
@@ -39882,11 +40869,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Pretreat",
-        action = "retreat",
+        realAction = "Pflip",
+        action = "floor",
         transit = {
         },
-        roleName = "五河琴里",
+        roleName = "五河琴里-圣诞节",
         roleForm = 2,
     },
     [200059] = {
@@ -39958,98 +40945,6 @@ return {
         roleName = "黑使徒",
         roleForm = 1,
     },
-    [5009] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10301",
-        motionDown = {
-        },
-        id = 5009,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "四糸乃",
-        roleForm = 1,
-    },
-    [7064] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10506",
-        motionDown = {
-        },
-        id = 7064,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Pflip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "五河琴里-圣诞节",
-        roleForm = 2,
-    },
-    [7010] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10501",
-        motionDown = {
-        },
-        id = 7010,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt2",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "五河琴里",
-        roleForm = 1,
-    },
-    [14068] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_11207_skillB_smallboll",
-        motionDown = {
-        },
-        id = 14068,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "smollboll",
-        action = "floor",
-        transit = {
-        },
-        roleName = "万由里-破晓之星-召唤电球怪",
-        roleForm = 1,
-    },
     [200142] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -40071,6 +40966,98 @@ return {
         transit = {
         },
         roleName = "高阶机械蚊子",
+        roleForm = 1,
+    },
+    [200398] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20601F",
+        motionDown = {
+        },
+        id = 200398,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "dieA",
+        action = "die",
+        transit = {
+        },
+        roleName = "高阶ast飞行综合",
+        roleForm = 1,
+    },
+    [200048] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20401",
+        motionDown = {
+        },
+        id = 200048,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "高阶近战AST小怪",
+        roleForm = 1,
+    },
+    [22040] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_11212_skillB",
+        motionDown = {
+        },
+        id = 22040,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "smollboll",
+        action = "win",
+        transit = {
+        },
+        roleName = "万由里女巫-召唤电球怪",
+        roleForm = 1,
+    },
+    [200448] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_30801_EskillE",
+        motionDown = {
+        },
+        id = 200448,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "EskillE_1",
+        action = "born",
+        transit = {
+        },
+        roleName = "8号BOSS引力球小",
         roleForm = 1,
     },
     [200060] = {
@@ -40142,36 +41129,13 @@ return {
         roleName = "炮姐",
         roleForm = 1,
     },
-    [7033] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10501",
-        motionDown = {
-        },
-        id = 7033,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Pdodge",
-        action = "quickmove",
-        transit = {
-        },
-        roleName = "五河琴里",
-        roleForm = 2,
-    },
-    [200438] = {
+    [200446] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_30801",
         motionDown = {
         },
-        id = 200438,
+        id = 200446,
         effectPoint = "",
         motionUp = {
         },
@@ -40181,35 +41145,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Edie2",
-        action = "die2",
+        realAction = "Estand",
+        action = "stand",
         transit = {
         },
         roleName = "8号BOSS",
         roleForm = 2,
-    },
-    [10014] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10701",
-        motionDown = {
-        },
-        id = 10014,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "八舞耶俱矢",
-        roleForm = 1,
     },
     [200143] = {
         triggerEvent = "",
@@ -40255,6 +41196,52 @@ return {
         transit = {
         },
         roleName = "高阶ast飞行综合",
+        roleForm = 1,
+    },
+    [200248] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21201",
+        motionDown = {
+        },
+        id = 200248,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "高阶DEM综合小怪",
+        roleForm = 1,
+    },
+    [5209] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10302",
+        motionDown = {
+        },
+        id = 5209,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "强化四糸乃",
         roleForm = 1,
     },
     [200061] = {
@@ -40326,13 +41313,13 @@ return {
         roleName = "黑使徒",
         roleForm = 1,
     },
-    [29136] = {
+    [200444] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10313",
+        resource = "fight_30801",
         motionDown = {
         },
-        id = 29136,
+        id = 200444,
         effectPoint = "",
         motionUp = {
         },
@@ -40342,66 +41329,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "quickmove",
-        action = "quickmove",
+        realAction = "Ehurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "冰铠",
-        roleForm = 1,
+        roleName = "8号BOSS",
+        roleForm = 2,
     },
-    [200400] = {
+    [7048] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30201F",
+        resource = "fight_10506",
         motionDown = {
         },
-        id = 200400,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "moveA",
-        action = "forward2backward",
-        transit = {
-        },
-        roleName = "日下部燎子飞行",
-        roleForm = 1,
-    },
-    [12003] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10901",
-        motionDown = {
-        },
-        id = 12003,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "爱莲",
-        roleForm = 1,
-    },
-    [8030] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10603",
-        motionDown = {
-        },
-        id = 8030,
+        id = 7048,
         effectPoint = "",
         motionUp = {
         },
@@ -40415,16 +41356,16 @@ return {
         action = "hurt2",
         transit = {
         },
-        roleName = "DEM崇宫真那（猫娘）",
+        roleName = "五河琴里-圣诞节",
         roleForm = 1,
     },
-    [200152] = {
+    [24034] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21801",
+        resource = "effects_12501_exskillB3",
         motionDown = {
         },
-        id = 200152,
+        id = 24034,
         effectPoint = "",
         motionUp = {
         },
@@ -40434,11 +41375,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt3",
-        action = "hurt3",
+        realAction = "diquan_lan_xunhuan",
+        action = "stand",
         transit = {
         },
-        roleName = "高阶机械盾",
+        roleName = "或守鞠奈-陷阱-蓝色陷阱",
+        roleForm = 1,
+    },
+    [200440] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30801",
+        motionDown = {
+        },
+        id = 200440,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Efloat",
+        action = "float",
+        transit = {
+        },
+        roleName = "8号BOSS",
+        roleForm = 2,
+    },
+    [200015] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20101",
+        motionDown = {
+        },
+        id = 200015,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "撞击关卡近战AST小怪",
         roleForm = 1,
     },
     [3001] = {
@@ -40560,13 +41547,13 @@ return {
         roleName = "强化狂三-魔术师",
         roleForm = 1,
     },
-    [200527] = {
+    [200436] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_23201",
+        resource = "fight_30801",
         motionDown = {
         },
-        id = 200527,
+        id = 200436,
         effectPoint = "",
         motionUp = {
         },
@@ -40576,20 +41563,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "幽灵1阶段",
+        roleName = "8号BOSS",
         roleForm = 1,
     },
-    [200192] = {
+    [10025] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20801",
+        resource = "fight_10707",
         motionDown = {
         },
-        id = 200192,
+        id = 10025,
         effectPoint = "",
         motionUp = {
         },
@@ -40599,20 +41586,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "entrance",
+        action = "entrance",
         transit = {
         },
-        roleName = "低阶DEM远程小怪",
+        roleName = "八舞耶俱矢-春节",
         roleForm = 1,
     },
-    [1024] = {
+    [200146] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10104",
+        resource = "fight_21801",
         motionDown = {
         },
-        id = 1024,
+        id = 200146,
         effectPoint = "",
         motionUp = {
         },
@@ -40626,7 +41613,7 @@ return {
         action = "die2",
         transit = {
         },
-        roleName = "夜刀神十香(校服)",
+        roleName = "高阶机械盾",
         roleForm = 1,
     },
     [200063] = {
@@ -40698,13 +41685,38 @@ return {
         roleName = "黑使徒",
         roleForm = 1,
     },
-    [6015] = {
-        triggerEvent = "",
+    [13020] = {
+        triggerEvent = "effect0",
         effectScaleUp = 0.6,
-        resource = "fight_10401",
+        resource = "fight_11001",
         motionDown = {
         },
-        id = 6015,
+        id = 13020,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "effects_11001_win",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_11001_win",
+        },
+        realAction = "win",
+        action = "win",
+        transit = {
+        },
+        roleName = "诱宵美九",
+        roleForm = 1,
+    },
+    [200428] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30801",
+        motionDown = {
+        },
+        id = 200428,
         effectPoint = "",
         motionUp = {
         },
@@ -40714,20 +41726,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "quickmove",
-        action = "quickmove",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "时崎狂三",
+        roleName = "8号BOSS",
         roleForm = 1,
     },
-    [20018] = {
+    [20019] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_12301",
         motionDown = {
         },
-        id = 20018,
+        id = 20019,
         effectPoint = "",
         motionUp = {
         },
@@ -40738,7 +41750,7 @@ return {
         resourceUp = {
         },
         realAction = "standup",
-        action = "floorRelive",
+        action = "kneelRelive",
         transit = {
         },
         roleName = "贝露",
@@ -40764,29 +41776,6 @@ return {
         },
         realAction = "born",
         action = "born",
-        transit = {
-        },
-        roleName = "诱宵美九（粉红灵装）",
-        roleForm = 1,
-    },
-    [13037] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11005",
-        motionDown = {
-        },
-        id = 13037,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "standup",
         transit = {
         },
         roleName = "诱宵美九（粉红灵装）",
@@ -40838,14 +41827,14 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200576] = {
+    [29179] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24301F",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200576,
-        effectPoint = "root",
+        id = 29179,
+        effectPoint = "",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -40854,11 +41843,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fstand",
-        action = "forward2backward",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "万由里低阶综合",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201088] = {
@@ -40882,6 +41871,52 @@ return {
         transit = {
         },
         roleName = "黑使徒",
+        roleForm = 1,
+    },
+    [15100] = {
+        triggerEvent = "",
+        effectScaleUp = 0,
+        resource = "fight_11301_xiong",
+        motionDown = {
+        },
+        id = 15100,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "win",
+        transit = {
+        },
+        roleName = "七罪熊猫",
+        roleForm = 1,
+    },
+    [11022] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10807",
+        motionDown = {
+        },
+        id = 11022,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "departure",
+        action = "departure",
+        transit = {
+        },
+        roleName = "八舞夕弦-春节",
         roleForm = 1,
     },
     [11038] = {
@@ -40930,13 +41965,13 @@ return {
         roleName = "芬里尔崇宫真那",
         roleForm = 1,
     },
-    [200446] = {
+    [200332] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30801",
+        resource = "fight_22401",
         motionDown = {
         },
-        id = 200446,
+        id = 200332,
         effectPoint = "",
         motionUp = {
         },
@@ -40946,57 +41981,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Estand",
-        action = "stand",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "8号BOSS",
-        roleForm = 2,
-    },
-    [200444] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30801",
-        motionDown = {
-        },
-        id = 200444,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Ehurt2",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "8号BOSS",
-        roleForm = 2,
-    },
-    [15104] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_cangshu",
-        motionDown = {
-        },
-        id = 15104,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die2",
-        action = "die2",
-        transit = {
-        },
-        roleName = "七罪仓鼠",
+        roleName = "高阶能量远程小怪",
         roleForm = 1,
     },
     [200065] = {
@@ -41068,6 +42057,52 @@ return {
         roleName = "黑使徒",
         roleForm = 1,
     },
+    [4009] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10201",
+        motionDown = {
+        },
+        id = 4009,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "鸢一折纸",
+        roleForm = 1,
+    },
+    [200150] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21801",
+        motionDown = {
+        },
+        id = 200150,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "高阶机械盾",
+        roleForm = 1,
+    },
     [200406] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -41091,59 +42126,13 @@ return {
         roleName = "日下部燎子飞行",
         roleForm = 1,
     },
-    [20008] = {
+    [200420] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12301",
+        resource = "fight_30301",
         motionDown = {
         },
-        id = 20008,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "贝露",
-        roleForm = 1,
-    },
-    [18012] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11701",
-        motionDown = {
-        },
-        id = 18012,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move",
-        action = "move",
-        transit = {
-        },
-        roleName = "白井黑子",
-        roleForm = 1,
-    },
-    [16016] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11401",
-        motionDown = {
-        },
-        id = 16016,
+        id = 200420,
         effectPoint = "",
         motionUp = {
         },
@@ -41157,16 +42146,16 @@ return {
         action = "stand",
         transit = {
         },
-        roleName = "涅普",
+        roleName = "3号BOSS",
         roleForm = 1,
     },
-    [200436] = {
+    [4083] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30801",
+        resource = "fight_10210",
         motionDown = {
         },
-        id = 200436,
+        id = 4083,
         effectPoint = "",
         motionUp = {
         },
@@ -41176,11 +42165,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "8号BOSS",
+        roleName = "反转折纸",
         roleForm = 1,
     },
     [200066] = {
@@ -41252,13 +42241,13 @@ return {
         roleName = "黑使徒",
         roleForm = 1,
     },
-    [200304] = {
+    [4047] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_22201",
+        resource = "fight_10208",
         motionDown = {
         },
-        id = 200304,
+        id = 4047,
         effectPoint = "",
         motionUp = {
         },
@@ -41272,41 +42261,16 @@ return {
         action = "floathurt",
         transit = {
         },
-        roleName = "低阶能量综合小怪",
+        roleName = "DEM-折纸",
         roleForm = 1,
     },
-    [13020] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_11001",
-        motionDown = {
-        },
-        id = 13020,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "effects_11001_win",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_11001_win",
-        },
-        realAction = "win",
-        action = "win",
-        transit = {
-        },
-        roleName = "诱宵美九",
-        roleForm = 1,
-    },
-    [29137] = {
+    [200416] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10313",
+        resource = "fight_30301",
         motionDown = {
         },
-        id = 29137,
+        id = 200416,
         effectPoint = "",
         motionUp = {
         },
@@ -41316,20 +42280,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "stand",
+        realAction = "die",
+        action = "die1",
         transit = {
         },
-        roleName = "冰铠",
+        roleName = "3号BOSS",
         roleForm = 1,
     },
-    [200408] = {
+    [4110] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10212",
+        motionDown = {
+        },
+        id = 4110,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "反转折纸渡鸦",
+        roleForm = 1,
+    },
+    [200414] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_30202",
         motionDown = {
         },
-        id = 200408,
+        id = 200414,
         effectPoint = "",
         motionUp = {
         },
@@ -41339,35 +42326,37 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die2",
-        action = "die2",
+        realAction = "move2",
+        action = "move",
         transit = {
         },
         roleName = "2号BOSS",
-        roleForm = 1,
+        roleForm = 2,
     },
-    [200316] = {
-        triggerEvent = "",
+    [200412] = {
+        triggerEvent = "effect0",
         effectScaleUp = 0.6,
-        resource = "fight_22301",
+        resource = "fight_30202",
         motionDown = {
         },
-        id = 200316,
-        effectPoint = "",
+        id = 200412,
+        effectPoint = "root",
         motionUp = {
+            [1] = "die",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_30202_die",
         },
-        realAction = "float",
-        action = "float",
+        realAction = "die1_b",
+        action = "die1",
         transit = {
         },
-        roleName = "高阶能量近战小怪",
-        roleForm = 1,
+        roleName = "2号BOSS",
+        roleForm = 2,
     },
     [200067] = {
         triggerEvent = "",
@@ -41438,105 +42427,40 @@ return {
         roleName = "黑使徒",
         roleForm = 1,
     },
-    [200332] = {
-        triggerEvent = "",
+    [6001] = {
+        triggerEvent = "effect0",
         effectScaleUp = 0.6,
-        resource = "fight_22401",
+        resource = "fight_10401",
         motionDown = {
+            [1] = "down",
         },
-        id = 200332,
-        effectPoint = "",
+        id = 6001,
+        effectPoint = "root",
         motionUp = {
+            [1] = "up",
         },
         effectScaleDown = 0.6,
         resourceDown = {
+            [1] = "effects_10401_born",
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_10401_born",
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "born",
+        action = "born",
         transit = {
         },
-        roleName = "高阶能量远程小怪",
+        roleName = "时崎狂三",
         roleForm = 1,
     },
-    [10017] = {
+    [200404] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10701",
+        resource = "fight_30201F",
         motionDown = {
         },
-        id = 10017,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "standup",
-        transit = {
-        },
-        roleName = "八舞耶俱矢",
-        roleForm = 1,
-    },
-    [4083] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10210",
-        motionDown = {
-        },
-        id = 4083,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "反转折纸",
-        roleForm = 1,
-    },
-    [8014] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10601",
-        motionDown = {
-        },
-        id = 8014,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move2",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "DEM崇宫真那",
-        roleForm = 1,
-    },
-    [200154] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21801",
-        motionDown = {
-        },
-        id = 200154,
+        id = 200404,
         effectPoint = "",
         motionUp = {
         },
@@ -41547,10 +42471,79 @@ return {
         resourceUp = {
         },
         realAction = "stand",
-        action = "stand",
+        action = "move",
         transit = {
         },
-        roleName = "高阶机械盾",
+        roleName = "日下部燎子飞行",
+        roleForm = 1,
+    },
+    [200400] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30201F",
+        motionDown = {
+        },
+        id = 200400,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "moveA",
+        action = "forward2backward",
+        transit = {
+        },
+        roleName = "日下部燎子飞行",
+        roleForm = 1,
+    },
+    [200396] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20601F",
+        motionDown = {
+        },
+        id = 200396,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "forward",
+        transit = {
+        },
+        roleName = "高阶ast飞行综合",
+        roleForm = 1,
+    },
+    [200392] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20301F",
+        motionDown = {
+        },
+        id = 200392,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "dieB",
+        action = "fall",
+        transit = {
+        },
+        roleName = "低阶ast飞行综合",
         roleForm = 1,
     },
     [200068] = {
@@ -41622,84 +42615,36 @@ return {
         roleName = "炮姐",
         roleForm = 1,
     },
-    [200420] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30301",
-        motionDown = {
-        },
-        id = 200420,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "3号BOSS",
-        roleForm = 1,
-    },
-    [4055] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10208",
-        motionDown = {
-        },
-        id = 4055,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "quickmove",
-        action = "quickmove",
-        transit = {
-        },
-        roleName = "DEM-折纸",
-        roleForm = 1,
-    },
-    [200412] = {
+    [200410] = {
         triggerEvent = "effect0",
         effectScaleUp = 0.6,
         resource = "fight_30202",
         motionDown = {
         },
-        id = 200412,
+        id = 200410,
         effectPoint = "root",
         motionUp = {
-            [1] = "die",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
-            [1] = "effects_30202_die",
         },
-        realAction = "die1_b",
-        action = "die1",
+        realAction = "born",
+        action = "born",
         transit = {
         },
         roleName = "2号BOSS",
-        roleForm = 2,
+        roleForm = 1,
     },
-    [200294] = {
+    [200384] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_22101",
+        resource = "fight_20501F",
         motionDown = {
         },
-        id = 200294,
+        id = 200384,
         effectPoint = "",
         motionUp = {
         },
@@ -41709,36 +42654,80 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "dieA",
+        action = "die",
         transit = {
         },
-        roleName = "低阶能量远程小怪",
+        roleName = "高阶ast飞行远程",
         roleForm = 1,
     },
-    [2001] = {
-        triggerEvent = "effect0",
+    [200382] = {
+        triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10103",
+        resource = "fight_20501F",
         motionDown = {
         },
-        id = 2001,
-        effectPoint = "root",
+        id = 200382,
+        effectPoint = "",
         motionUp = {
-            [1] = "born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
-            [1] = "effects_10103_born",
         },
-        realAction = "born",
-        action = "born",
+        realAction = "moveC",
+        action = "backward",
         transit = {
         },
-        roleName = "反转十香",
+        roleName = "高阶ast飞行远程",
+        roleForm = 1,
+    },
+    [200380] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20501F",
+        motionDown = {
+        },
+        id = 200380,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "moveB",
+        action = "backward2forward",
+        transit = {
+        },
+        roleName = "高阶ast飞行远程",
+        roleForm = 1,
+    },
+    [1002] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10101",
+        motionDown = {
+        },
+        id = 1002,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "departure",
+        action = "departure",
+        transit = {
+        },
+        roleName = "夜刀神十香",
         roleForm = 1,
     },
     [200069] = {
@@ -41810,6 +42799,52 @@ return {
         roleName = "黑使徒",
         roleForm = 1,
     },
+    [2003] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10103",
+        motionDown = {
+        },
+        id = 2003,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "反转十香",
+        roleForm = 1,
+    },
+    [2005] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10103",
+        motionDown = {
+        },
+        id = 2005,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "skillF_1",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "反转十香",
+        roleForm = 1,
+    },
     [2007] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -41851,52 +42886,6 @@ return {
         },
         realAction = "hurt1",
         action = "hurt1",
-        transit = {
-        },
-        roleName = "反转十香",
-        roleForm = 1,
-    },
-    [2013] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10103",
-        motionDown = {
-        },
-        id = 2013,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "walk",
-        action = "walk",
-        transit = {
-        },
-        roleName = "反转十香",
-        roleForm = 1,
-    },
-    [2015] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10103",
-        motionDown = {
-        },
-        id = 2015,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "dodge",
-        action = "quickmove",
         transit = {
         },
         roleName = "反转十香",
@@ -42063,36 +43052,13 @@ return {
         roleName = "五河琴里-指挥官",
         roleForm = 2,
     },
-    [29112] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_13201",
-        motionDown = {
-        },
-        id = 29112,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "圆神凛绪",
-        roleForm = 1,
-    },
-    [2019] = {
+    [2013] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_10103",
         motionDown = {
         },
-        id = 2019,
+        id = 2013,
         effectPoint = "",
         motionUp = {
         },
@@ -42102,8 +43068,31 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "kneelRelive",
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "反转十香",
+        roleForm = 1,
+    },
+    [2015] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10103",
+        motionDown = {
+        },
+        id = 2015,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "dodge",
+        action = "quickmove",
         transit = {
         },
         roleName = "反转十香",
@@ -42178,13 +43167,13 @@ return {
         roleName = "黑使徒",
         roleForm = 1,
     },
-    [24005] = {
+    [1052] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12501",
+        resource = "fight_10108",
         motionDown = {
         },
-        id = 24005,
+        id = 1052,
         effectPoint = "",
         motionUp = {
         },
@@ -42194,20 +43183,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "entrance",
-        action = "entrance",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "或守鞠奈",
+        roleName = "夜刀神十香(生日)",
         roleForm = 1,
     },
-    [4002] = {
+    [9008] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10201",
+        resource = "fight_10602",
         motionDown = {
         },
-        id = 4002,
+        id = 9008,
         effectPoint = "",
         motionUp = {
         },
@@ -42217,20 +43206,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "floor",
+        action = "floor",
         transit = {
         },
-        roleName = "鸢一折纸",
+        roleName = "芬里尔崇宫真那",
         roleForm = 1,
     },
-    [2045] = {
+    [5211] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10109",
+        resource = "fight_10302",
         motionDown = {
         },
-        id = 2045,
+        id = 5211,
         effectPoint = "",
         motionUp = {
         },
@@ -42240,20 +43229,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "深渊反转十香",
+        roleName = "强化四糸乃",
         roleForm = 1,
     },
-    [2047] = {
+    [5219] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10109",
+        resource = "fight_10302",
         motionDown = {
         },
-        id = 2047,
+        id = 5219,
         effectPoint = "",
         motionUp = {
         },
@@ -42263,11 +43252,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "standup",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "深渊反转十香",
+        roleName = "强化四糸乃",
         roleForm = 1,
     },
     [29052] = {
@@ -42316,14 +43305,14 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200584] = {
+    [29180] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24501F",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200584,
-        effectPoint = "root",
+        id = 29180,
+        effectPoint = "",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -42332,11 +43321,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Fstand",
-        action = "backward2forward",
+        realAction = "quickmove",
+        action = "quickmove",
         transit = {
         },
-        roleName = "万由里高阶远程",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201096] = {
@@ -42360,6 +43349,75 @@ return {
         transit = {
         },
         roleName = "红使徒",
+        roleForm = 1,
+    },
+    [2047] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10109",
+        motionDown = {
+        },
+        id = 2047,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "深渊反转十香",
+        roleForm = 1,
+    },
+    [2050] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10109",
+        motionDown = {
+        },
+        id = 2050,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "深渊反转十香",
+        roleForm = 1,
+    },
+    [4106] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10212",
+        motionDown = {
+        },
+        id = 4106,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "反转折纸渡鸦",
         roleForm = 1,
     },
     [4114] = {
@@ -42406,75 +43464,6 @@ return {
         transit = {
         },
         roleName = "反转折纸和服",
-        roleForm = 1,
-    },
-    [4130] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10213",
-        motionDown = {
-        },
-        id = 4130,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt2",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "反转折纸和服",
-        roleForm = 1,
-    },
-    [2070] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10109",
-        motionDown = {
-        },
-        id = 2070,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Pretreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "深渊反转十香",
-        roleForm = 2,
-    },
-    [4038] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10207",
-        motionDown = {
-        },
-        id = 4038,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "floorRelive",
-        transit = {
-        },
-        roleName = "鸢一折纸-龙胆",
         roleForm = 1,
     },
     [200073] = {
@@ -42546,13 +43535,13 @@ return {
         roleName = "红使徒",
         roleForm = 1,
     },
-    [29010] = {
+    [7066] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12701",
+        resource = "fight_10506",
         motionDown = {
         },
-        id = 29010,
+        id = 7066,
         effectPoint = "",
         motionUp = {
         },
@@ -42562,20 +43551,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
+        realAction = "Phurt2",
         action = "hurt2",
         transit = {
         },
-        roleName = "白王",
-        roleForm = 1,
+        roleName = "五河琴里-圣诞节",
+        roleForm = 2,
     },
-    [29042] = {
+    [11016] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_13101",
+        resource = "fight_10801",
         motionDown = {
         },
-        id = 29042,
+        id = 11016,
         effectPoint = "",
         motionUp = {
         },
@@ -42585,20 +43574,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "华伦",
+        roleName = "八舞夕弦",
         roleForm = 1,
     },
-    [29138] = {
+    [200376] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10313",
+        resource = "fight_20201F",
         motionDown = {
         },
-        id = 29138,
+        id = 200376,
         effectPoint = "",
         motionUp = {
         },
@@ -42608,11 +43597,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "stand",
+        action = "move",
         transit = {
         },
-        roleName = "冰铠",
+        roleName = "低阶ast飞行远程",
         roleForm = 1,
     },
     [15008] = {
@@ -42799,13 +43788,13 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
-    [200416] = {
+    [29010] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30301",
+        resource = "fight_12701",
         motionDown = {
         },
-        id = 200416,
+        id = 29010,
         effectPoint = "",
         motionUp = {
         },
@@ -42815,20 +43804,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die",
-        action = "die1",
+        realAction = "hurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "3号BOSS",
+        roleName = "白王",
         roleForm = 1,
     },
-    [200404] = {
+    [29042] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30201F",
+        resource = "fight_13101",
         motionDown = {
         },
-        id = 200404,
+        id = 29042,
         effectPoint = "",
         motionUp = {
         },
@@ -42838,11 +43827,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "move",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "日下部燎子飞行",
+        roleName = "华伦",
         roleForm = 1,
     },
     [200075] = {
@@ -42914,13 +43903,13 @@ return {
         roleName = "红使徒",
         roleForm = 1,
     },
-    [200388] = {
+    [4063] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20301F",
+        resource = "fight_10209",
         motionDown = {
         },
-        id = 200388,
+        id = 4063,
         effectPoint = "",
         motionUp = {
         },
@@ -42930,20 +43919,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
-        action = "forward",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "低阶ast飞行综合",
+        roleName = "精灵折纸",
         roleForm = 1,
     },
-    [200382] = {
+    [4055] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20501F",
+        resource = "fight_10208",
         motionDown = {
         },
-        id = 200382,
+        id = 4055,
         effectPoint = "",
         motionUp = {
         },
@@ -42953,20 +43942,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "moveC",
-        action = "backward",
+        realAction = "quickmove",
+        action = "quickmove",
         transit = {
         },
-        roleName = "高阶ast飞行远程",
+        roleName = "DEM-折纸",
         roleForm = 1,
     },
-    [200380] = {
+    [200062] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20501F",
+        resource = "fight_20501",
         motionDown = {
         },
-        id = 200380,
+        id = 200062,
         effectPoint = "",
         motionUp = {
         },
@@ -42976,20 +43965,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "moveB",
-        action = "backward2forward",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "高阶ast飞行远程",
+        roleName = "高阶远程AST小怪",
         roleForm = 1,
     },
-    [1002] = {
+    [7065] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10101",
+        resource = "fight_10506",
         motionDown = {
         },
-        id = 1002,
+        id = 7065,
         effectPoint = "",
         motionUp = {
         },
@@ -42999,20 +43988,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "Phurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "夜刀神十香",
-        roleForm = 1,
+        roleName = "五河琴里-圣诞节",
+        roleForm = 2,
     },
-    [200162] = {
+    [200364] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21901",
+        resource = "fight_10101_1",
         motionDown = {
         },
-        id = 200162,
+        id = 200364,
         effectPoint = "",
         motionUp = {
         },
@@ -43022,11 +44011,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "die1",
+        action = "die",
         transit = {
         },
-        roleName = "高阶机械远程",
+        roleName = "十香飞行",
         roleForm = 1,
     },
     [200076] = {
@@ -43098,13 +44087,13 @@ return {
         roleName = "炮姐",
         roleForm = 1,
     },
-    [7035] = {
+    [200360] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_10101_1",
         motionDown = {
         },
-        id = 7035,
+        id = 200360,
         effectPoint = "",
         motionUp = {
         },
@@ -43114,43 +44103,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Pstandup",
-        action = "standup",
+        realAction = "moveB",
+        action = "backward2forward",
         transit = {
         },
-        roleName = "五河琴里",
-        roleForm = 2,
-    },
-    [200372] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_20201F",
-        motionDown = {
-        },
-        id = 200372,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "moveA",
-        action = "forward2backward",
-        transit = {
-        },
-        roleName = "低阶ast飞行远程",
+        roleName = "十香飞行",
         roleForm = 1,
     },
-    [4063] = {
+    [10012] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10209",
+        resource = "fight_10701",
         motionDown = {
         },
-        id = 4063,
+        id = 10012,
         effectPoint = "",
         motionUp = {
         },
@@ -43160,11 +44126,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "精灵折纸",
+        roleName = "八舞耶俱矢",
+        roleForm = 1,
+    },
+    [200356] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_car_01",
+        motionDown = {
+        },
+        id = 200356,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "effects_bus_boom",
+        action = "die",
+        transit = {
+        },
+        roleName = "撞击挂卡汽车",
         roleForm = 1,
     },
     [14076] = {
@@ -43190,13 +44179,13 @@ return {
         roleName = "万由里-破晓之星-召唤电球怪",
         roleForm = 1,
     },
-    [4047] = {
+    [13022] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10208",
+        resource = "fight_11005",
         motionDown = {
         },
-        id = 4047,
+        id = 13022,
         effectPoint = "",
         motionUp = {
         },
@@ -43206,11 +44195,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "DEM-折纸",
+        roleName = "诱宵美九（粉红灵装）",
         roleForm = 1,
     },
     [200077] = {
@@ -43282,29 +44271,6 @@ return {
         roleName = "红使徒",
         roleForm = 1,
     },
-    [11007] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10801",
-        motionDown = {
-        },
-        id = 11007,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "floathurt",
-        action = "floathurt",
-        transit = {
-        },
-        roleName = "八舞夕弦",
-        roleForm = 1,
-    },
     [11023] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -43323,6 +44289,29 @@ return {
         },
         realAction = "die1",
         action = "die1",
+        transit = {
+        },
+        roleName = "八舞夕弦-春节",
+        roleForm = 1,
+    },
+    [11039] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10807",
+        motionDown = {
+        },
+        id = 11039,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "kneelRelive",
         transit = {
         },
         roleName = "八舞夕弦-春节",
@@ -43942,13 +44931,13 @@ return {
         roleName = "夜刀神十香(生日2019)",
         roleForm = 1,
     },
-    [7065] = {
+    [200352] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_22501",
         motionDown = {
         },
-        id = 7065,
+        id = 200352,
         effectPoint = "",
         motionUp = {
         },
@@ -43958,12 +44947,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Phurt1",
-        action = "hurt1",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
-        roleForm = 2,
+        roleName = "高阶能量综合小怪",
+        roleForm = 1,
     },
     [200081] = {
         triggerEvent = "",
@@ -44080,13 +45069,13 @@ return {
         roleName = "3号BOSS",
         roleForm = 2,
     },
-    [200360] = {
+    [10039] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10101_1",
+        resource = "fight_10707",
         motionDown = {
         },
-        id = 200360,
+        id = 10039,
         effectPoint = "",
         motionUp = {
         },
@@ -44096,20 +45085,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "moveB",
-        action = "backward2forward",
+        realAction = "standup",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "十香飞行",
+        roleName = "八舞耶俱矢-春节",
         roleForm = 1,
     },
-    [10012] = {
+    [200344] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10701",
+        resource = "fight_22501",
         motionDown = {
         },
-        id = 10012,
+        id = 200344,
         effectPoint = "",
         motionUp = {
         },
@@ -44119,20 +45108,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "flip",
+        action = "floor",
         transit = {
         },
-        roleName = "八舞耶俱矢",
+        roleName = "高阶能量综合小怪",
         roleForm = 1,
     },
-    [200356] = {
+    [12008] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_car_01",
+        resource = "fight_10901",
         motionDown = {
         },
-        id = 200356,
+        id = 12008,
         effectPoint = "",
         motionUp = {
         },
@@ -44142,11 +45131,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "effects_bus_boom",
-        action = "die",
+        realAction = "flip",
+        action = "floor",
         transit = {
         },
-        roleName = "撞击挂卡汽车",
+        roleName = "爱莲",
         roleForm = 1,
     },
     [200082] = {
@@ -44218,36 +45207,13 @@ return {
         roleName = "红使徒",
         roleForm = 1,
     },
-    [200424] = {
+    [10017] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30301",
+        resource = "fight_10701",
         motionDown = {
         },
-        id = 200424,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "F_stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "3号BOSS",
-        roleForm = 2,
-    },
-    [200350] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_22501",
-        motionDown = {
-        },
-        id = 200350,
+        id = 10017,
         effectPoint = "",
         motionUp = {
         },
@@ -44261,62 +45227,16 @@ return {
         action = "standup",
         transit = {
         },
-        roleName = "高阶能量综合小怪",
+        roleName = "八舞耶俱矢",
         roleForm = 1,
     },
-    [200348] = {
+    [29139] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_22501",
+        resource = "fight_10313",
         motionDown = {
         },
-        id = 200348,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move",
-        action = "move",
-        transit = {
-        },
-        roleName = "高阶能量综合小怪",
-        roleForm = 1,
-    },
-    [4009] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10201",
-        motionDown = {
-        },
-        id = 4009,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "鸢一折纸",
-        roleForm = 1,
-    },
-    [10039] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10707",
-        motionDown = {
-        },
-        id = 10039,
+        id = 29139,
         effectPoint = "",
         motionUp = {
         },
@@ -44327,10 +45247,79 @@ return {
         resourceUp = {
         },
         realAction = "standup",
-        action = "kneelRelive",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "八舞耶俱矢-春节",
+        roleName = "冰铠",
+        roleForm = 1,
+    },
+    [200336] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_22401",
+        motionDown = {
+        },
+        id = 200336,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "高阶能量远程小怪",
+        roleForm = 1,
+    },
+    [14046] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11207",
+        motionDown = {
+        },
+        id = 14046,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "万由里-破晓之星",
+        roleForm = 1,
+    },
+    [14054] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11207",
+        motionDown = {
+        },
+        id = 14054,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "万由里-破晓之星",
         roleForm = 1,
     },
     [200083] = {
@@ -44402,13 +45391,59 @@ return {
         roleName = "红使徒",
         roleForm = 1,
     },
-    [12018] = {
+    [200316] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10901",
+        resource = "fight_22301",
         motionDown = {
         },
-        id = 12018,
+        id = 200316,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "高阶能量近战小怪",
+        roleForm = 1,
+    },
+    [200328] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_22401",
+        motionDown = {
+        },
+        id = 200328,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die2",
+        action = "die2",
+        transit = {
+        },
+        roleName = "高阶能量远程小怪",
+        roleForm = 1,
+    },
+    [14097] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11215",
+        motionDown = {
+        },
+        id = 14097,
         effectPoint = "",
         motionUp = {
         },
@@ -44419,33 +45454,10 @@ return {
         resourceUp = {
         },
         realAction = "standup",
-        action = "floorRelive",
+        action = "standup",
         transit = {
         },
-        roleName = "爱莲",
-        roleForm = 1,
-    },
-    [200340] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_22501",
-        motionDown = {
-        },
-        id = 200340,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "高阶能量综合小怪",
+        roleName = "机械万由里",
         roleForm = 1,
     },
     [200170] = {
@@ -44492,29 +45504,6 @@ return {
         transit = {
         },
         roleName = "8号BOSS",
-        roleForm = 1,
-    },
-    [200336] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_22401",
-        motionDown = {
-        },
-        id = 200336,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "高阶能量远程小怪",
         roleForm = 1,
     },
     [200084] = {
@@ -44586,13 +45575,13 @@ return {
         roleName = "炮姐",
         roleForm = 1,
     },
-    [14054] = {
+    [8004] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11207",
+        resource = "fight_10601",
         motionDown = {
         },
-        id = 14054,
+        id = 8004,
         effectPoint = "",
         motionUp = {
         },
@@ -44602,20 +45591,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "万由里-破晓之星",
+        roleName = "DEM崇宫真那",
         roleForm = 1,
     },
-    [14066] = {
+    [8002] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_11207_skillB_smallboll",
+        resource = "fight_10601",
         motionDown = {
         },
-        id = 14066,
+        id = 8002,
         effectPoint = "",
         motionUp = {
         },
@@ -44625,11 +45614,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "smollboll",
-        action = "float",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "万由里-破晓之星-召唤电球怪",
+        roleName = "DEM崇宫真那",
+        roleForm = 1,
+    },
+    [200320] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_22301",
+        motionDown = {
+        },
+        id = 200320,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "高阶能量近战小怪",
         roleForm = 1,
     },
     [7009] = {
@@ -44677,29 +45689,6 @@ return {
         },
         roleName = "五河琴里",
         roleForm = 1,
-    },
-    [7025] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10501",
-        motionDown = {
-        },
-        id = 7025,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Pfloathurt",
-        action = "floathurt",
-        transit = {
-        },
-        roleName = "五河琴里",
-        roleForm = 2,
     },
     [200085] = {
         triggerEvent = "",
@@ -44770,6 +45759,52 @@ return {
         roleName = "红使徒",
         roleForm = 1,
     },
+    [7041] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10506",
+        motionDown = {
+        },
+        id = 7041,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "五河琴里-圣诞节",
+        roleForm = 1,
+    },
+    [5002] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10301",
+        motionDown = {
+        },
+        id = 5002,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "departure",
+        action = "departure",
+        transit = {
+        },
+        roleName = "四糸乃",
+        roleForm = 1,
+    },
     [5010] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -44814,52 +45849,6 @@ return {
         transit = {
         },
         roleName = "四糸乃",
-        roleForm = 1,
-    },
-    [200328] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_22401",
-        motionDown = {
-        },
-        id = 200328,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die2",
-        action = "die2",
-        transit = {
-        },
-        roleName = "高阶能量远程小怪",
-        roleForm = 1,
-    },
-    [14075] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_11207_skillB_smallboll",
-        motionDown = {
-        },
-        id = 14075,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "smollboll",
-        action = "quickmove",
-        transit = {
-        },
-        roleName = "万由里-破晓之星-召唤电球怪",
         roleForm = 1,
     },
     [14017] = {
@@ -45027,51 +46016,51 @@ return {
         roleName = "四糸乃-和服",
         roleForm = 1,
     },
-    [14097] = {
+    [15072] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11215",
+        effectScaleUp = 0,
+        resource = "fight_11301_tuzi",
         motionDown = {
         },
-        id = 14097,
+        id = 15072,
         effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0.6,
+        effectScaleDown = 0,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "机械万由里",
-        roleForm = 1,
+        roleName = "七罪兔子",
+        roleForm = 3,
     },
-    [200174] = {
+    [15080] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21601",
+        effectScaleUp = 0,
+        resource = "fight_11301_tuzi",
         motionDown = {
         },
-        id = 200174,
+        id = 15080,
         effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0.6,
+        effectScaleDown = 0,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "stand",
+        action = "win",
         transit = {
         },
-        roleName = "机械猩猩",
-        roleForm = 1,
+        roleName = "七罪兔子",
+        roleForm = 3,
     },
     [200087] = {
         triggerEvent = "",
@@ -45142,59 +46131,13 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
-    [8004] = {
+    [200174] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10601",
+        resource = "fight_21601",
         motionDown = {
         },
-        id = 8004,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die2",
-        action = "die2",
-        transit = {
-        },
-        roleName = "DEM崇宫真那",
-        roleForm = 1,
-    },
-    [8002] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10601",
-        motionDown = {
-        },
-        id = 8002,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "departure",
-        action = "departure",
-        transit = {
-        },
-        roleName = "DEM崇宫真那",
-        roleForm = 1,
-    },
-    [200320] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_22301",
-        motionDown = {
-        },
-        id = 200320,
+        id = 200174,
         effectPoint = "",
         motionUp = {
         },
@@ -45208,7 +46151,53 @@ return {
         action = "hurt2",
         transit = {
         },
-        roleName = "高阶能量近战小怪",
+        roleName = "机械猩猩",
+        roleForm = 1,
+    },
+    [200430] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30801",
+        motionDown = {
+        },
+        id = 200430,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "8号BOSS",
+        roleForm = 1,
+    },
+    [15105] = {
+        triggerEvent = "",
+        effectScaleUp = 0,
+        resource = "fight_11301_cangshu",
+        motionDown = {
+        },
+        id = 15105,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "七罪仓鼠",
         roleForm = 1,
     },
     [5202] = {
@@ -45280,14 +46269,14 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200600] = {
+    [29182] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_24601",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200600,
-        effectPoint = "root",
+        id = 29182,
+        effectPoint = "",
         motionUp = {
         },
         effectScaleDown = 0.6,
@@ -45296,11 +46285,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "stand",
+        realAction = "standup",
         action = "standup",
         transit = {
         },
-        roleName = "万由里高阶综合",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201112] = {
@@ -45326,13 +46315,36 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
-    [29108] = {
+    [15119] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_13201",
+        effectScaleUp = 0,
+        resource = "fight_11301_cangshu",
         motionDown = {
         },
-        id = 29108,
+        id = 15119,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "kneelRelive",
+        transit = {
+        },
+        roleName = "七罪仓鼠",
+        roleForm = 1,
+    },
+    [15127] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11303_1",
+        motionDown = {
+        },
+        id = 15127,
         effectPoint = "",
         motionUp = {
         },
@@ -45346,16 +46358,62 @@ return {
         action = "floathurt",
         transit = {
         },
-        roleName = "圆神凛绪",
+        roleName = "圣诞七罪-小孩",
         roleForm = 1,
     },
-    [29140] = {
+    [14042] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10313",
+        resource = "fight_11207",
         motionDown = {
         },
-        id = 29140,
+        id = 14042,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "departure",
+        action = "departure",
+        transit = {
+        },
+        roleName = "万由里-破晓之星",
+        roleForm = 1,
+    },
+    [5210] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10302",
+        motionDown = {
+        },
+        id = 5210,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "强化四糸乃",
+        roleForm = 1,
+    },
+    [5218] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10302",
+        motionDown = {
+        },
+        id = 5218,
         effectPoint = "",
         motionUp = {
         },
@@ -45366,79 +46424,10 @@ return {
         resourceUp = {
         },
         realAction = "standup",
-        action = "kneelRelive",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "冰铠",
-        roleForm = 1,
-    },
-    [15072] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_tuzi",
-        motionDown = {
-        },
-        id = 15072,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move",
-        action = "move",
-        transit = {
-        },
-        roleName = "七罪兔子",
-        roleForm = 3,
-    },
-    [15080] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_tuzi",
-        motionDown = {
-        },
-        id = 15080,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "win",
-        transit = {
-        },
-        roleName = "七罪兔子",
-        roleForm = 3,
-    },
-    [15095] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_xiong",
-        motionDown = {
-        },
-        id = 15095,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move",
-        action = "quickmove",
-        transit = {
-        },
-        roleName = "七罪熊猫",
+        roleName = "强化四糸乃",
         roleForm = 1,
     },
     [200089] = {
@@ -45514,13 +46503,13 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
-    [200308] = {
+    [200300] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_22201",
+        resource = "fight_22101",
         motionDown = {
         },
-        id = 200308,
+        id = 200300,
         effectPoint = "",
         motionUp = {
         },
@@ -45530,43 +46519,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt3",
-        action = "hurt3",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "低阶能量综合小怪",
+        roleName = "低阶能量远程小怪",
         roleForm = 1,
     },
-    [15119] = {
+    [1026] = {
         triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_cangshu",
+        effectScaleUp = 0.6,
+        resource = "fight_10104",
         motionDown = {
         },
-        id = 15119,
+        id = 1026,
         effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0,
+        effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "kneelRelive",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "七罪仓鼠",
+        roleName = "夜刀神十香(校服)",
         roleForm = 1,
     },
-    [15127] = {
+    [15147] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11303_1",
+        resource = "fight_11303_2",
         motionDown = {
         },
-        id = 15127,
+        id = 15147,
         effectPoint = "",
         motionUp = {
         },
@@ -45580,8 +46569,8 @@ return {
         action = "floathurt",
         transit = {
         },
-        roleName = "圣诞七罪-小孩",
-        roleForm = 1,
+        roleName = "圣诞七罪-大人",
+        roleForm = 2,
     },
     [15009] = {
         triggerEvent = "",
@@ -45767,36 +46756,36 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
-    [200178] = {
+    [15116] = {
         triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21601",
+        effectScaleUp = 0,
+        resource = "fight_11301_cangshu",
         motionDown = {
         },
-        id = 200178,
+        id = 15116,
         effectPoint = "",
         motionUp = {
         },
-        effectScaleDown = 0.6,
+        effectScaleDown = 0,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "机械猩猩",
+        roleName = "七罪仓鼠",
         roleForm = 1,
     },
-    [14042] = {
+    [10027] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11207",
+        resource = "fight_10707",
         motionDown = {
         },
-        id = 14042,
+        id = 10027,
         effectPoint = "",
         motionUp = {
         },
@@ -45806,11 +46795,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "万由里-破晓之星",
+        roleName = "八舞耶俱矢-春节",
         roleForm = 1,
     },
     [200091] = {
@@ -45886,13 +46875,13 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
-    [4011] = {
+    [2052] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10201",
+        resource = "fight_10109",
         motionDown = {
         },
-        id = 4011,
+        id = 2052,
         effectPoint = "",
         motionUp = {
         },
@@ -45902,11 +46891,172 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt3",
-        action = "hurt3",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "鸢一折纸",
+        roleName = "深渊反转十香",
+        roleForm = 1,
+    },
+    [16016] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11401",
+        motionDown = {
+        },
+        id = 16016,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "涅普",
+        roleForm = 1,
+    },
+    [200288] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_22101",
+        motionDown = {
+        },
+        id = 200288,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "低阶能量远程小怪",
+        roleForm = 1,
+    },
+    [18003] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11701",
+        motionDown = {
+        },
+        id = 18003,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "白井黑子",
+        roleForm = 1,
+    },
+    [200286] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_22001",
+        motionDown = {
+        },
+        id = 200286,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "低阶能量近战小怪",
+        roleForm = 1,
+    },
+    [200092] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30201",
+        motionDown = {
+        },
+        id = 200092,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floor",
+        action = "floor",
+        transit = {
+        },
+        roleName = "日下部燎子",
+        roleForm = 1,
+    },
+    [200604] = {
+        triggerEvent = "",
+        effectScaleUp = 1.5,
+        resource = "fight_24901",
+        motionDown = {
+        },
+        id = 200604,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 1.5,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Estand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "万由里BOSS2阶段",
+        roleForm = 2,
+    },
+    [19009] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11601",
+        motionDown = {
+        },
+        id = 19009,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "炮姐",
         roleForm = 1,
     },
     [13023] = {
@@ -46001,59 +47151,13 @@ return {
         roleName = "八舞夕弦-春节",
         roleForm = 1,
     },
-    [200092] = {
+    [9009] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30201",
+        resource = "fight_10602",
         motionDown = {
         },
-        id = 200092,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "floor",
-        action = "floor",
-        transit = {
-        },
-        roleName = "日下部燎子",
-        roleForm = 1,
-    },
-    [200604] = {
-        triggerEvent = "",
-        effectScaleUp = 1.5,
-        resource = "fight_24901",
-        motionDown = {
-        },
-        id = 200604,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 1.5,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Estand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "万由里BOSS2阶段",
-        roleForm = 2,
-    },
-    [19009] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11601",
-        motionDown = {
-        },
-        id = 19009,
+        id = 9009,
         effectPoint = "",
         motionUp = {
         },
@@ -46067,122 +47171,7 @@ return {
         action = "hurt1",
         transit = {
         },
-        roleName = "炮姐",
-        roleForm = 1,
-    },
-    [10027] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10707",
-        motionDown = {
-        },
-        id = 10027,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "floathurt",
-        action = "floathurt",
-        transit = {
-        },
-        roleName = "八舞耶俱矢-春节",
-        roleForm = 1,
-    },
-    [200292] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_22101",
-        motionDown = {
-        },
-        id = 200292,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "低阶能量远程小怪",
-        roleForm = 1,
-    },
-    [10025] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10707",
-        motionDown = {
-        },
-        id = 10025,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "entrance",
-        action = "entrance",
-        transit = {
-        },
-        roleName = "八舞耶俱矢-春节",
-        roleForm = 1,
-    },
-    [2052] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10109",
-        motionDown = {
-        },
-        id = 2052,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "深渊反转十香",
-        roleForm = 1,
-    },
-    [200182] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_20701",
-        motionDown = {
-        },
-        id = 200182,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "floathurt",
-        action = "floathurt",
-        transit = {
-        },
-        roleName = "低阶DEM近战小怪",
+        roleName = "芬里尔崇宫真那",
         roleForm = 1,
     },
     [200093] = {
@@ -46254,13 +47243,13 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
-    [200286] = {
+    [20016] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_22001",
+        resource = "fight_12301",
         motionDown = {
         },
-        id = 200286,
+        id = 20016,
         effectPoint = "",
         motionUp = {
         },
@@ -46270,20 +47259,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "低阶能量近战小怪",
+        roleName = "贝露",
         roleForm = 1,
     },
-    [18004] = {
+    [200182] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11701",
+        resource = "fight_20701",
         motionDown = {
         },
-        id = 18004,
+        id = 200182,
         effectPoint = "",
         motionUp = {
         },
@@ -46293,11 +47282,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die2",
-        action = "die2",
+        realAction = "floathurt",
+        action = "floathurt",
         transit = {
         },
-        roleName = "白井黑子",
+        roleName = "低阶DEM近战小怪",
         roleForm = 1,
     },
     [16001] = {
@@ -46325,13 +47314,13 @@ return {
         roleName = "涅普",
         roleForm = 1,
     },
-    [18020] = {
+    [200438] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11701",
+        resource = "fight_30801",
         motionDown = {
         },
-        id = 18020,
+        id = 200438,
         effectPoint = "",
         motionUp = {
         },
@@ -46341,20 +47330,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "win",
-        action = "win",
+        realAction = "Edie2",
+        action = "die2",
         transit = {
         },
-        roleName = "白井黑子",
-        roleForm = 1,
+        roleName = "8号BOSS",
+        roleForm = 2,
     },
-    [200280] = {
+    [22002] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_22001",
+        resource = "fight_11212",
         motionDown = {
         },
-        id = 200280,
+        id = 22002,
         effectPoint = "",
         motionUp = {
         },
@@ -46364,11 +47353,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "低阶能量近战小怪",
+        roleName = "万由里女巫",
         roleForm = 1,
     },
     [12002] = {
@@ -46486,128 +47475,13 @@ return {
         roleName = "强化狂三-魔术师",
         roleForm = 1,
     },
-    [29109] = {
+    [22010] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_13201",
+        resource = "fight_11212",
         motionDown = {
         },
-        id = 29109,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "圆神凛绪",
-        roleForm = 1,
-    },
-    [29141] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10313",
-        motionDown = {
-        },
-        id = 29141,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "win",
-        action = "win",
-        transit = {
-        },
-        roleName = "冰铠",
-        roleForm = 1,
-    },
-    [200440] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30801",
-        motionDown = {
-        },
-        id = 200440,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Efloat",
-        action = "float",
-        transit = {
-        },
-        roleName = "8号BOSS",
-        roleForm = 2,
-    },
-    [200095] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30201",
-        motionDown = {
-        },
-        id = 200095,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "日下部燎子",
-        roleForm = 1,
-    },
-    [20016] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12301",
-        motionDown = {
-        },
-        id = 20016,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "贝露",
-        roleForm = 1,
-    },
-    [201119] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_Watchmen_3",
-        motionDown = {
-        },
-        id = 201119,
+        id = 22010,
         effectPoint = "",
         motionUp = {
         },
@@ -46621,7 +47495,7 @@ return {
         action = "hurt2",
         transit = {
         },
-        roleName = "白使徒",
+        roleName = "万由里女巫",
         roleForm = 1,
     },
     [22018] = {
@@ -46647,13 +47521,36 @@ return {
         roleName = "万由里女巫",
         roleForm = 1,
     },
-    [200186] = {
+    [200272] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20701",
+        resource = "effects_20501_skillC",
         motionDown = {
         },
-        id = 200186,
+        id = 200272,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "skillC1",
+        action = "born",
+        transit = {
+        },
+        roleName = "地雷",
+        roleForm = 1,
+    },
+    [200095] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30201",
+        motionDown = {
+        },
+        id = 200095,
         effectPoint = "",
         motionUp = {
         },
@@ -46667,7 +47564,53 @@ return {
         action = "hurt3",
         transit = {
         },
-        roleName = "低阶DEM近战小怪",
+        roleName = "日下部燎子",
+        roleForm = 1,
+    },
+    [15104] = {
+        triggerEvent = "",
+        effectScaleUp = 0,
+        resource = "fight_11301_cangshu",
+        motionDown = {
+        },
+        id = 15104,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die2",
+        action = "die2",
+        transit = {
+        },
+        roleName = "七罪仓鼠",
+        roleForm = 1,
+    },
+    [201119] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_Watchmen_3",
+        motionDown = {
+        },
+        id = 201119,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "白使徒",
         roleForm = 1,
     },
     [24004] = {
@@ -46716,6 +47659,52 @@ return {
         roleName = "或守鞠奈",
         roleForm = 1,
     },
+    [24026] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_skillB3",
+        motionDown = {
+        },
+        id = 24026,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "skillB_1_xunhuan",
+        action = "die1",
+        transit = {
+        },
+        roleName = "或守鞠奈-替身1",
+        roleForm = 1,
+    },
+    [24043] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12401",
+        motionDown = {
+        },
+        id = 24043,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "entrance",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "鞠亚",
+        roleForm = 1,
+    },
     [29055] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -46762,13 +47751,13 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200608] = {
+    [29183] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "buffItem__kuangsanjuchang_jiasu",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200608,
+        id = 29183,
         effectPoint = "",
         motionUp = {
         },
@@ -46778,11 +47767,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "1",
-        action = "stand",
+        realAction = "standup",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "狂三外传剧场加速物品",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201120] = {
@@ -46808,59 +47797,13 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
-    [8001] = {
+    [6025] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10601",
+        resource = "fight_10403",
         motionDown = {
         },
-        id = 8001,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "DEM崇宫真那",
-        roleForm = 1,
-    },
-    [8009] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10601",
-        motionDown = {
-        },
-        id = 8009,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "DEM崇宫真那",
-        roleForm = 1,
-    },
-    [8025] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10603",
-        motionDown = {
-        },
-        id = 8025,
+        id = 6025,
         effectPoint = "",
         motionUp = {
         },
@@ -46874,16 +47817,16 @@ return {
         action = "entrance",
         transit = {
         },
-        roleName = "DEM崇宫真那（猫娘）",
+        roleName = "时崎狂三（哥特服）",
         roleForm = 1,
     },
-    [6002] = {
+    [200186] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10401",
+        resource = "fight_20701",
         motionDown = {
         },
-        id = 6002,
+        id = 200186,
         effectPoint = "",
         motionUp = {
         },
@@ -46893,20 +47836,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "时崎狂三",
+        roleName = "低阶DEM近战小怪",
         roleForm = 1,
     },
-    [6010] = {
+    [11006] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10401",
+        resource = "fight_10801",
         motionDown = {
         },
-        id = 6010,
+        id = 11006,
         effectPoint = "",
         motionUp = {
         },
@@ -46916,11 +47859,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "时崎狂三",
+        roleName = "八舞夕弦",
+        roleForm = 1,
+    },
+    [4029] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10207",
+        motionDown = {
+        },
+        id = 4029,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "鸢一折纸-龙胆",
+        roleForm = 1,
+    },
+    [22028] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_11212_skillB",
+        motionDown = {
+        },
+        id = 22028,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "smollboll",
+        action = "floor",
+        transit = {
+        },
+        roleName = "万由里女巫-召唤电球怪",
         roleForm = 1,
     },
     [200097] = {
@@ -46992,36 +47981,13 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
-    [3018] = {
+    [8025] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10102",
+        resource = "fight_10603",
         motionDown = {
         },
-        id = 3018,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "floorRelive",
-        transit = {
-        },
-        roleName = "强化十香",
-        roleForm = 1,
-    },
-    [24043] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12401",
-        motionDown = {
-        },
-        id = 24043,
+        id = 8025,
         effectPoint = "",
         motionUp = {
         },
@@ -47035,16 +48001,16 @@ return {
         action = "entrance",
         transit = {
         },
-        roleName = "鞠亚",
+        roleName = "DEM崇宫真那（猫娘）",
         roleForm = 1,
     },
-    [24051] = {
+    [6002] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12401",
+        resource = "fight_10401",
         motionDown = {
         },
-        id = 24051,
+        id = 6002,
         effectPoint = "",
         motionUp = {
         },
@@ -47054,43 +48020,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "鞠亚",
+        roleName = "时崎狂三",
         roleForm = 1,
     },
-    [6025] = {
+    [6010] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10403",
+        resource = "fight_10401",
         motionDown = {
         },
-        id = 6025,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "entrance",
-        action = "entrance",
-        transit = {
-        },
-        roleName = "时崎狂三（哥特服）",
-        roleForm = 1,
-    },
-    [7048] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10506",
-        motionDown = {
-        },
-        id = 7048,
+        id = 6010,
         effectPoint = "",
         motionUp = {
         },
@@ -47104,7 +48047,53 @@ return {
         action = "hurt2",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
+        roleName = "时崎狂三",
+        roleForm = 1,
+    },
+    [3010] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10102",
+        motionDown = {
+        },
+        id = 3010,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "强化十香",
+        roleForm = 1,
+    },
+    [3014] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10102",
+        motionDown = {
+        },
+        id = 3014,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "强化十香",
         roleForm = 1,
     },
     [200098] = {
@@ -47176,13 +48165,13 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
-    [200120] = {
+    [17008] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21401",
+        resource = "fight_11501",
         motionDown = {
         },
-        id = 200120,
+        id = 17008,
         effectPoint = "",
         motionUp = {
         },
@@ -47192,8 +48181,79 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "海王星联动-普兰",
+        roleForm = 1,
+    },
+    [20001] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "fight_12301",
+        motionDown = {
+        },
+        id = 20001,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "effects_12301_born",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_12301_born",
+        },
+        realAction = "born",
+        action = "born",
+        transit = {
+        },
+        roleName = "贝露",
+        roleForm = 1,
+    },
+    [200190] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20701",
+        motionDown = {
+        },
+        id = 200190,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "低阶DEM近战小怪",
+        roleForm = 1,
+    },
+    [200112] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21401",
+        motionDown = {
+        },
+        id = 200112,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
         roleName = "机械盾",
@@ -47220,75 +48280,6 @@ return {
         transit = {
         },
         roleName = "反转折纸渡鸦",
-        roleForm = 1,
-    },
-    [4115] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10212",
-        motionDown = {
-        },
-        id = 4115,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "quickmove",
-        action = "quickmove",
-        transit = {
-        },
-        roleName = "反转折纸渡鸦",
-        roleForm = 1,
-    },
-    [4123] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10213",
-        motionDown = {
-        },
-        id = 4123,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "反转折纸和服",
-        roleForm = 1,
-    },
-    [4131] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10213",
-        motionDown = {
-        },
-        id = 4131,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "反转折纸和服",
         roleForm = 1,
     },
     [200099] = {
@@ -47360,6 +48351,29 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
+    [4131] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10213",
+        motionDown = {
+        },
+        id = 4131,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "反转折纸和服",
+        roleForm = 1,
+    },
     [29014] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -47429,13 +48443,13 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200448] = {
+    [24018] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_30801_EskillE",
+        resource = "fight_12501",
         motionDown = {
         },
-        id = 200448,
+        id = 24018,
         effectPoint = "",
         motionUp = {
         },
@@ -47445,34 +48459,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "EskillE_1",
-        action = "born",
+        realAction = "standup",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "8号BOSS引力球小",
-        roleForm = 1,
-    },
-    [17008] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11501",
-        motionDown = {
-        },
-        id = 17008,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "海王星联动-普兰",
+        roleName = "或守鞠奈",
         roleForm = 1,
     },
     [200100] = {
@@ -47544,6 +48535,52 @@ return {
         roleName = "炮姐",
         roleForm = 1,
     },
+    [20009] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12301",
+        motionDown = {
+        },
+        id = 20009,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "贝露",
+        roleForm = 1,
+    },
+    [200040] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20301",
+        motionDown = {
+        },
+        id = 200040,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "综合AST小怪",
+        roleForm = 1,
+    },
     [200194] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -47567,6 +48604,29 @@ return {
         roleName = "低阶DEM远程小怪",
         roleForm = 1,
     },
+    [200222] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21001",
+        motionDown = {
+        },
+        id = 200222,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floor",
+        action = "floor",
+        transit = {
+        },
+        roleName = "高阶DEM近战小怪",
+        roleForm = 1,
+    },
     [13024] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -47588,77 +48648,6 @@ return {
         transit = {
         },
         roleName = "诱宵美九（粉红灵装）",
-        roleForm = 1,
-    },
-    [13040] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_11005",
-        motionDown = {
-        },
-        id = 13040,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "effects_11001_win",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_11001_win",
-        },
-        realAction = "win",
-        action = "win",
-        transit = {
-        },
-        roleName = "诱宵美九（粉红灵装）",
-        roleForm = 1,
-    },
-    [11009] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10801",
-        motionDown = {
-        },
-        id = 11009,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "八舞夕弦",
-        roleForm = 1,
-    },
-    [11025] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10807",
-        motionDown = {
-        },
-        id = 11025,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "entrance",
-        action = "entrance",
-        transit = {
-        },
-        roleName = "八舞夕弦-春节",
         roleForm = 1,
     },
     [200101] = {
@@ -47730,13 +48719,13 @@ return {
         roleName = "白使徒",
         roleForm = 1,
     },
-    [200056] = {
+    [9010] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20401",
+        resource = "fight_10602",
         motionDown = {
         },
-        id = 200056,
+        id = 9010,
         effectPoint = "",
         motionUp = {
         },
@@ -47746,11 +48735,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "hurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "高阶近战AST小怪",
+        roleName = "芬里尔崇宫真那",
         roleForm = 1,
     },
     [200198] = {
@@ -47799,13 +48788,13 @@ return {
         roleName = "7号BOSS",
         roleForm = 1,
     },
-    [200094] = {
+    [10014] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30201",
+        resource = "fight_10701",
         motionDown = {
         },
-        id = 200094,
+        id = 10014,
         effectPoint = "",
         motionUp = {
         },
@@ -47815,11 +48804,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "日下部燎子",
+        roleName = "八舞耶俱矢",
         roleForm = 1,
     },
     [14018] = {
@@ -47983,13 +48972,36 @@ return {
         roleName = "五河琴里-指挥官",
         roleForm = 2,
     },
-    [29111] = {
+    [200208] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_13201",
+        resource = "fight_20901",
         motionDown = {
         },
-        id = 29111,
+        id = 200208,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "低阶DEM综合小怪",
+        roleForm = 1,
+    },
+    [200128] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21501",
+        motionDown = {
+        },
+        id = 200128,
         effectPoint = "",
         motionUp = {
         },
@@ -48003,30 +49015,7 @@ return {
         action = "hurt2",
         transit = {
         },
-        roleName = "圆神凛绪",
-        roleForm = 1,
-    },
-    [200456] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30701",
-        motionDown = {
-        },
-        id = 200456,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "7号BOSS",
+        roleName = "机械远程",
         roleForm = 1,
     },
     [200103] = {
@@ -48098,13 +49087,13 @@ return {
         roleName = "警备机器人",
         roleForm = 1,
     },
-    [3007] = {
+    [29111] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10102",
+        resource = "fight_13201",
         motionDown = {
         },
-        id = 3007,
+        id = 29111,
         effectPoint = "",
         motionUp = {
         },
@@ -48114,11 +49103,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "hurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "强化十香",
+        roleName = "圆神凛绪",
         roleForm = 1,
     },
     [200200] = {
@@ -48144,29 +49133,27 @@ return {
         roleName = "低阶DEM远程小怪",
         roleForm = 1,
     },
-    [200458] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.4,
-        resource = "fight_30701",
+    [200192] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20801",
         motionDown = {
         },
-        id = 200458,
-        effectPoint = "root",
+        id = 200192,
+        effectPoint = "",
         motionUp = {
-            [1] = "born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
-            [1] = "effects_30701_born",
         },
-        realAction = "born",
-        action = "born",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "7号BOSS",
+        roleName = "低阶DEM远程小怪",
         roleForm = 1,
     },
     [200184] = {
@@ -48238,13 +49225,13 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200616] = {
+    [29184] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "buffItem__kuangsanjuchang_bati",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200616,
+        id = 29184,
         effectPoint = "",
         motionUp = {
         },
@@ -48254,11 +49241,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "6",
-        action = "stand",
+        realAction = "standup",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "狂三外传剧场霸体物品",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201128] = {
@@ -48284,36 +49271,38 @@ return {
         roleName = "警备机器人",
         roleForm = 1,
     },
-    [7002] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10501",
+    [200458] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.4,
+        resource = "fight_30701",
         motionDown = {
         },
-        id = 7002,
-        effectPoint = "",
+        id = 200458,
+        effectPoint = "root",
         motionUp = {
+            [1] = "born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_30701_born",
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "born",
+        action = "born",
         transit = {
         },
-        roleName = "五河琴里",
+        roleName = "7号BOSS",
         roleForm = 1,
     },
-    [7026] = {
+    [14051] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_11207",
         motionDown = {
         },
-        id = 7026,
+        id = 14051,
         effectPoint = "",
         motionUp = {
         },
@@ -48323,20 +49312,66 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Pflip",
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "万由里-破晓之星",
+        roleForm = 1,
+    },
+    [200160] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21901",
+        motionDown = {
+        },
+        id = 200160,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
         action = "floor",
         transit = {
         },
-        roleName = "五河琴里",
-        roleForm = 2,
+        roleName = "高阶机械远程",
+        roleForm = 1,
     },
-    [7034] = {
+    [200158] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21901",
+        motionDown = {
+        },
+        id = 200158,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "高阶机械远程",
+        roleForm = 1,
+    },
+    [7037] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_10501",
         motionDown = {
         },
-        id = 7034,
+        id = 7037,
         effectPoint = "",
         motionUp = {
         },
@@ -48346,58 +49381,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Pstand",
-        action = "stand",
+        realAction = "PkneelRelive",
+        action = "kneelRelive",
         transit = {
         },
         roleName = "五河琴里",
         roleForm = 2,
-    },
-    [7042] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10506",
-        motionDown = {
-        },
-        id = 7042,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die2",
-        action = "die2",
-        transit = {
-        },
-        roleName = "五河琴里-圣诞节",
-        roleForm = 1,
-    },
-    [5003] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10301",
-        motionDown = {
-        },
-        id = 5003,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "四糸乃",
-        roleForm = 1,
     },
     [200105] = {
         triggerEvent = "",
@@ -48468,13 +49457,13 @@ return {
         roleName = "警备机器人",
         roleForm = 1,
     },
-    [5013] = {
+    [200144] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10301",
+        resource = "fight_21701",
         motionDown = {
         },
-        id = 5013,
+        id = 200144,
         effectPoint = "",
         motionUp = {
         },
@@ -48484,20 +49473,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "四糸乃",
+        roleName = "高阶机械蚊子",
         roleForm = 1,
     },
-    [10003] = {
+    [7002] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10701",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 10003,
+        id = 7002,
         effectPoint = "",
         motionUp = {
         },
@@ -48507,20 +49496,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "八舞耶俱矢",
+        roleName = "五河琴里",
         roleForm = 1,
     },
-    [2067] = {
+    [7026] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10109",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 2067,
+        id = 7026,
         effectPoint = "",
         motionUp = {
         },
@@ -48530,11 +49519,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Phurt3",
-        action = "hurt3",
+        realAction = "Pflip",
+        action = "floor",
         transit = {
         },
-        roleName = "深渊反转十香",
+        roleName = "五河琴里",
         roleForm = 2,
     },
     [15010] = {
@@ -48721,13 +49710,13 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
-    [12014] = {
+    [7034] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10901",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 12014,
+        id = 7034,
         effectPoint = "",
         motionUp = {
         },
@@ -48737,20 +49726,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "Pstand",
+        action = "stand",
         transit = {
         },
-        roleName = "爱莲",
-        roleForm = 1,
+        roleName = "五河琴里",
+        roleForm = 2,
     },
-    [14051] = {
+    [7042] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11207",
+        resource = "fight_10506",
         motionDown = {
         },
-        id = 14051,
+        id = 7042,
         effectPoint = "",
         motionUp = {
         },
@@ -48760,11 +49749,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt3",
-        action = "hurt3",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "万由里-破晓之星",
+        roleName = "五河琴里-圣诞节",
         roleForm = 1,
     },
     [200107] = {
@@ -48790,13 +49779,13 @@ return {
         roleName = "机械蚊子",
         roleForm = 1,
     },
-    [200160] = {
+    [5003] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21901",
+        resource = "fight_10301",
         motionDown = {
         },
-        id = 200160,
+        id = 5003,
         effectPoint = "",
         motionUp = {
         },
@@ -48806,11 +49795,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "flip",
-        action = "floor",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "高阶机械远程",
+        roleName = "四糸乃",
         roleForm = 1,
     },
     [201131] = {
@@ -48836,13 +49825,13 @@ return {
         roleName = "警备机器人",
         roleForm = 1,
     },
-    [7037] = {
+    [5019] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_10301",
         motionDown = {
         },
-        id = 7037,
+        id = 5019,
         effectPoint = "",
         motionUp = {
         },
@@ -48852,12 +49841,244 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "PkneelRelive",
+        realAction = "standup",
         action = "kneelRelive",
         transit = {
         },
+        roleName = "四糸乃",
+        roleForm = 1,
+    },
+    [24001] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 24001,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "born_all",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_12501_born",
+        },
+        realAction = "born",
+        action = "born",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 1,
+    },
+    [7004] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10501",
+        motionDown = {
+        },
+        id = 7004,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die2",
+        action = "die2",
+        transit = {
+        },
         roleName = "五河琴里",
-        roleForm = 2,
+        roleForm = 1,
+    },
+    [7012] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10501",
+        motionDown = {
+        },
+        id = 7012,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "五河琴里",
+        roleForm = 1,
+    },
+    [24009] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 24009,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 1,
+    },
+    [200108] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21301",
+        motionDown = {
+        },
+        id = 200108,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "机械蚊子",
+        roleForm = 1,
+    },
+    [24024] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_skillB3",
+        motionDown = {
+        },
+        id = 24024,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "skillB_1_xunhuan",
+        action = "born",
+        transit = {
+        },
+        roleName = "或守鞠奈-替身1",
+        roleForm = 1,
+    },
+    [19011] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11601",
+        motionDown = {
+        },
+        id = 19011,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "炮姐",
+        roleForm = 1,
+    },
+    [200136] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21701",
+        motionDown = {
+        },
+        id = 200136,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "高阶机械蚊子",
+        roleForm = 1,
+    },
+    [8019] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10601",
+        motionDown = {
+        },
+        id = 8019,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "kneelRelive",
+        transit = {
+        },
+        roleName = "DEM崇宫真那",
+        roleForm = 1,
+    },
+    [10007] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10701",
+        motionDown = {
+        },
+        id = 10007,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floathurt",
+        action = "floathurt",
+        transit = {
+        },
+        roleName = "八舞耶俱矢",
+        roleForm = 1,
     },
     [200206] = {
         triggerEvent = "",
@@ -48905,151 +50126,13 @@ return {
         roleName = "7号BOSS",
         roleForm = 1,
     },
-    [18011] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11701",
-        motionDown = {
-        },
-        id = 18011,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "白井黑子",
-        roleForm = 1,
-    },
-    [6011] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10401",
-        motionDown = {
-        },
-        id = 6011,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "时崎狂三",
-        roleForm = 1,
-    },
-    [200108] = {
+    [200109] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_21301",
         motionDown = {
         },
-        id = 200108,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move",
-        action = "move",
-        transit = {
-        },
-        roleName = "机械蚊子",
-        roleForm = 1,
-    },
-    [200144] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21701",
-        motionDown = {
-        },
-        id = 200144,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "standup",
-        transit = {
-        },
-        roleName = "高阶机械蚊子",
-        roleForm = 1,
-    },
-    [19011] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11601",
-        motionDown = {
-        },
-        id = 19011,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "炮姐",
-        roleForm = 1,
-    },
-    [24006] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12501",
-        motionDown = {
-        },
-        id = 24006,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "或守鞠奈",
-        roleForm = 1,
-    },
-    [24016] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12501",
-        motionDown = {
-        },
-        id = 24016,
+        id = 200109,
         effectPoint = "",
         motionUp = {
         },
@@ -49063,16 +50146,16 @@ return {
         action = "stand",
         transit = {
         },
-        roleName = "或守鞠奈",
+        roleName = "机械蚊子",
         roleForm = 1,
     },
-    [200136] = {
+    [4002] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21701",
+        resource = "fight_10201",
         motionDown = {
         },
-        id = 200136,
+        id = 4002,
         effectPoint = "",
         motionUp = {
         },
@@ -49082,11 +50165,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "高阶机械蚊子",
+        roleName = "鸢一折纸",
+        roleForm = 1,
+    },
+    [201133] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29010",
+        motionDown = {
+        },
+        id = 201133,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "警备机器人",
         roleForm = 1,
     },
     [200207] = {
@@ -49133,121 +50239,6 @@ return {
         transit = {
         },
         roleName = "7号BOSS",
-        roleForm = 1,
-    },
-    [200109] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21301",
-        motionDown = {
-        },
-        id = 200109,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "机械蚊子",
-        roleForm = 1,
-    },
-    [200128] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21501",
-        motionDown = {
-        },
-        id = 200128,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt2",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "机械远程",
-        roleForm = 1,
-    },
-    [201133] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29010",
-        motionDown = {
-        },
-        id = 201133,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt2",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "警备机器人",
-        roleForm = 1,
-    },
-    [5211] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10302",
-        motionDown = {
-        },
-        id = 5211,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "强化四糸乃",
-        roleForm = 1,
-    },
-    [5219] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10302",
-        motionDown = {
-        },
-        id = 5219,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "kneelRelive",
-        transit = {
-        },
-        roleName = "强化四糸乃",
         roleForm = 1,
     },
     [16002] = {
@@ -49618,36 +50609,38 @@ return {
         roleName = "深渊反转十香",
         roleForm = 2,
     },
-    [4006] = {
-        triggerEvent = "",
+    [12001] = {
+        triggerEvent = "effect0",
         effectScaleUp = 0.6,
-        resource = "fight_10201",
+        resource = "fight_10901",
         motionDown = {
         },
-        id = 4006,
+        id = 12001,
         effectPoint = "",
         motionUp = {
+            [1] = "born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_10901_born",
         },
-        realAction = "float",
-        action = "float",
+        realAction = "born",
+        action = "born",
         transit = {
         },
-        roleName = "鸢一折纸",
+        roleName = "爱莲",
         roleForm = 1,
     },
-    [200112] = {
+    [200104] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21401",
+        resource = "fight_21301",
         motionDown = {
         },
-        id = 200112,
+        id = 200104,
         effectPoint = "",
         motionUp = {
         },
@@ -49657,11 +50650,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die2",
-        action = "die2",
+        realAction = "flip",
+        action = "floor",
         transit = {
         },
-        roleName = "机械盾",
+        roleName = "机械蚊子",
         roleForm = 1,
     },
     [29057] = {
@@ -49710,13 +50703,13 @@ return {
         roleName = "圆神凛绪",
         roleForm = 1,
     },
-    [200210] = {
+    [29185] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20901",
+        resource = "fight_13601",
         motionDown = {
         },
-        id = 200210,
+        id = 29185,
         effectPoint = "",
         motionUp = {
         },
@@ -49726,11 +50719,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "win",
+        action = "win",
         transit = {
         },
-        roleName = "低阶DEM综合小怪",
+        roleName = "莎莉",
         roleForm = 1,
     },
     [201136] = {
@@ -49756,13 +50749,13 @@ return {
         roleName = "警备机器人",
         roleForm = 1,
     },
-    [200104] = {
+    [200096] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21301",
+        resource = "fight_30201",
         motionDown = {
         },
-        id = 200104,
+        id = 200096,
         effectPoint = "",
         motionUp = {
         },
@@ -49772,11 +50765,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "flip",
-        action = "floor",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "机械蚊子",
+        roleName = "日下部燎子",
         roleForm = 1,
     },
     [13025] = {
@@ -49940,75 +50933,6 @@ return {
         roleName = "警备机器人",
         roleForm = 1,
     },
-    [200214] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_20901",
-        motionDown = {
-        },
-        id = 200214,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "低阶DEM综合小怪",
-        roleForm = 1,
-    },
-    [200470] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30701",
-        motionDown = {
-        },
-        id = 200470,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Ehurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "7号BOSS",
-        roleForm = 2,
-    },
-    [4007] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10201",
-        motionDown = {
-        },
-        id = 4007,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "floathurt",
-        action = "floathurt",
-        transit = {
-        },
-        roleName = "鸢一折纸",
-        roleForm = 1,
-    },
     [10032] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -50054,6 +50978,75 @@ return {
         },
         roleName = "八舞耶俱矢-春节",
         roleForm = 1,
+    },
+    [200088] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30201",
+        motionDown = {
+        },
+        id = 200088,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "日下部燎子",
+        roleForm = 1,
+    },
+    [200214] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20901",
+        motionDown = {
+        },
+        id = 200214,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "retreat",
+        action = "retreat",
+        transit = {
+        },
+        roleName = "低阶DEM综合小怪",
+        roleForm = 1,
+    },
+    [200470] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30701",
+        motionDown = {
+        },
+        id = 200470,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Ehurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "7号BOSS",
+        roleForm = 2,
     },
     [200114] = {
         triggerEvent = "",
@@ -50124,29 +51117,6 @@ return {
         roleName = "警备机器人",
         roleForm = 1,
     },
-    [10009] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10701",
-        motionDown = {
-        },
-        id = 10009,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt1",
-        action = "hurt1",
-        transit = {
-        },
-        roleName = "八舞耶俱矢",
-        roleForm = 1,
-    },
     [200080] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -50193,6 +51163,52 @@ return {
         roleName = "万由里-破晓之星",
         roleForm = 1,
     },
+    [14055] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11207",
+        motionDown = {
+        },
+        id = 14055,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "quickmove",
+        action = "quickmove",
+        transit = {
+        },
+        roleName = "万由里-破晓之星",
+        roleForm = 1,
+    },
+    [14068] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_11207_skillB_smallboll",
+        motionDown = {
+        },
+        id = 14068,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "smollboll",
+        action = "floor",
+        transit = {
+        },
+        roleName = "万由里-破晓之星-召唤电球怪",
+        roleForm = 1,
+    },
     [7058] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -50214,29 +51230,6 @@ return {
         transit = {
         },
         roleName = "五河琴里-圣诞节",
-        roleForm = 1,
-    },
-    [200072] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_20501",
-        motionDown = {
-        },
-        id = 200072,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "高阶远程AST小怪",
         roleForm = 1,
     },
     [200115] = {
@@ -50262,13 +51255,13 @@ return {
         roleName = "机械盾",
         roleForm = 1,
     },
-    [14061] = {
+    [200072] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_11207_skillB_smallboll",
+        resource = "fight_20501",
         motionDown = {
         },
-        id = 14061,
+        id = 200072,
         effectPoint = "",
         motionUp = {
         },
@@ -50278,11 +51271,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "smollboll",
-        action = "born",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "万由里-破晓之星-召唤电球怪",
+        roleName = "高阶远程AST小怪",
         roleForm = 1,
     },
     [201139] = {
@@ -50307,29 +51300,6 @@ return {
         },
         roleName = "守卫机器人",
         roleForm = 1,
-    },
-    [200474] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30701",
-        motionDown = {
-        },
-        id = 200474,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Efloat",
-        action = "float",
-        transit = {
-        },
-        roleName = "7号BOSS",
-        roleForm = 2,
     },
     [6033] = {
         triggerEvent = "",
@@ -50400,6 +51370,144 @@ return {
         roleName = "高阶远程AST小怪",
         roleForm = 1,
     },
+    [200218] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21001",
+        motionDown = {
+        },
+        id = 200218,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "高阶DEM近战小怪",
+        roleForm = 1,
+    },
+    [200474] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30701",
+        motionDown = {
+        },
+        id = 200474,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Efloat",
+        action = "float",
+        transit = {
+        },
+        roleName = "7号BOSS",
+        roleForm = 2,
+    },
+    [200116] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21401",
+        motionDown = {
+        },
+        id = 200116,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "机械盾",
+        roleForm = 1,
+    },
+    [200056] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_20401",
+        motionDown = {
+        },
+        id = 200056,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "standup",
+        transit = {
+        },
+        roleName = "高阶近战AST小怪",
+        roleForm = 1,
+    },
+    [19012] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11601",
+        motionDown = {
+        },
+        id = 19012,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "炮姐",
+        roleForm = 1,
+    },
+    [15106] = {
+        triggerEvent = "",
+        effectScaleUp = 0,
+        resource = "fight_11301_cangshu",
+        motionDown = {
+        },
+        id = 15106,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "七罪仓鼠",
+        roleForm = 1,
+    },
     [1001] = {
         triggerEvent = "effect0",
         effectScaleUp = 0.6,
@@ -50427,13 +51535,13 @@ return {
         roleName = "夜刀神十香",
         roleForm = 1,
     },
-    [200116] = {
+    [4006] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21401",
+        resource = "fight_10201",
         motionDown = {
         },
-        id = 200116,
+        id = 4006,
         effectPoint = "",
         motionUp = {
         },
@@ -50443,11 +51551,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "flip",
-        action = "floor",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "机械盾",
+        roleName = "鸢一折纸",
         roleForm = 1,
     },
     [1003] = {
@@ -50473,29 +51581,6 @@ return {
         roleName = "夜刀神十香",
         roleForm = 1,
     },
-    [19012] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11601",
-        motionDown = {
-        },
-        id = 19012,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move",
-        action = "move",
-        transit = {
-        },
-        roleName = "炮姐",
-        roleForm = 1,
-    },
     [1004] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -50517,98 +51602,6 @@ return {
         transit = {
         },
         roleName = "夜刀神十香",
-        roleForm = 1,
-    },
-    [4018] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10201",
-        motionDown = {
-        },
-        id = 4018,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "floorRelive",
-        transit = {
-        },
-        roleName = "鸢一折纸",
-        roleForm = 1,
-    },
-    [4026] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10207",
-        motionDown = {
-        },
-        id = 4026,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "鸢一折纸-龙胆",
-        roleForm = 1,
-    },
-    [1008] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10101",
-        motionDown = {
-        },
-        id = 1008,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "floor",
-        action = "floor",
-        transit = {
-        },
-        roleName = "夜刀神十香",
-        roleForm = 1,
-    },
-    [7004] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10501",
-        motionDown = {
-        },
-        id = 7004,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die2",
-        action = "die2",
-        transit = {
-        },
-        roleName = "五河琴里",
         roleForm = 1,
     },
     [200117] = {
@@ -50634,13 +51627,13 @@ return {
         roleName = "机械盾",
         roleForm = 1,
     },
-    [1011] = {
+    [4026] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10101",
+        resource = "fight_10207",
         motionDown = {
         },
-        id = 1011,
+        id = 4026,
         effectPoint = "",
         motionUp = {
         },
@@ -50650,11 +51643,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt3",
-        action = "hurt3",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "夜刀神十香",
+        roleName = "鸢一折纸-龙胆",
         roleForm = 1,
     },
     [201141] = {
@@ -50680,38 +51673,13 @@ return {
         roleName = "守卫机器人",
         roleForm = 1,
     },
-    [4020] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_10201",
-        motionDown = {
-        },
-        id = 4020,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "win",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_10201_win",
-        },
-        realAction = "win",
-        action = "win",
-        transit = {
-        },
-        roleName = "鸢一折纸",
-        roleForm = 1,
-    },
-    [7036] = {
+    [24003] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_12501",
         motionDown = {
         },
-        id = 7036,
+        id = 24003,
         effectPoint = "",
         motionUp = {
         },
@@ -50721,43 +51689,43 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "PfloorRelive",
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 1,
+    },
+    [4038] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10207",
+        motionDown = {
+        },
+        id = 4038,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
         action = "floorRelive",
         transit = {
         },
-        roleName = "五河琴里",
-        roleForm = 2,
-    },
-    [7044] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10506",
-        motionDown = {
-        },
-        id = 7044,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "五河琴里-圣诞节",
+        roleName = "鸢一折纸-龙胆",
         roleForm = 1,
     },
-    [5005] = {
+    [1011] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10301",
+        resource = "fight_10101",
         motionDown = {
         },
-        id = 5005,
+        id = 1011,
         effectPoint = "",
         motionUp = {
         },
@@ -50767,11 +51735,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "entrance",
-        action = "entrance",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "四糸乃",
+        roleName = "夜刀神十香",
+        roleForm = 1,
+    },
+    [24002] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 24002,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "departure",
+        action = "departure",
+        transit = {
+        },
+        roleName = "或守鞠奈",
         roleForm = 1,
     },
     [14019] = {
@@ -50935,6 +51926,123 @@ return {
         roleName = "四糸乃-和服",
         roleForm = 1,
     },
+    [4020] = {
+        triggerEvent = "effect0",
+        effectScaleUp = 0.6,
+        resource = "fight_10201",
+        motionDown = {
+        },
+        id = 4020,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "win",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_10201_win",
+        },
+        realAction = "win",
+        action = "win",
+        transit = {
+        },
+        roleName = "鸢一折纸",
+        roleForm = 1,
+    },
+    [7036] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10501",
+        motionDown = {
+        },
+        id = 7036,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "PfloorRelive",
+        action = "floorRelive",
+        transit = {
+        },
+        roleName = "五河琴里",
+        roleForm = 2,
+    },
+    [200119] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21401",
+        motionDown = {
+        },
+        id = 200119,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "机械盾",
+        roleForm = 1,
+    },
+    [7044] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10506",
+        motionDown = {
+        },
+        id = 7044,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "五河琴里-圣诞节",
+        roleForm = 1,
+    },
+    [201143] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29011",
+        motionDown = {
+        },
+        id = 201143,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "守卫机器人",
+        roleForm = 1,
+    },
     [1046] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -50981,29 +52089,6 @@ return {
         roleName = "夜刀神十香(生日)",
         roleForm = 1,
     },
-    [200119] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21401",
-        motionDown = {
-        },
-        id = 200119,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "机械盾",
-        roleForm = 1,
-    },
     [1050] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -51026,98 +52111,6 @@ return {
         },
         roleName = "夜刀神十香(生日)",
         roleForm = 1,
-    },
-    [201143] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29011",
-        motionDown = {
-        },
-        id = 201143,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "守卫机器人",
-        roleForm = 1,
-    },
-    [1054] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10108",
-        motionDown = {
-        },
-        id = 1054,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "夜刀神十香(生日)",
-        roleForm = 1,
-    },
-    [1056] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10108",
-        motionDown = {
-        },
-        id = 1056,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "夜刀神十香(生日)",
-        roleForm = 1,
-    },
-    [15073] = {
-        triggerEvent = "",
-        effectScaleUp = 0,
-        resource = "fight_11301_tuzi",
-        motionDown = {
-        },
-        id = 15073,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move",
-        action = "walk",
-        transit = {
-        },
-        roleName = "七罪兔子",
-        roleForm = 3,
     },
     [5203] = {
         triggerEvent = "",
@@ -51190,13 +52183,13 @@ return {
         roleName = "冰铠",
         roleForm = 1,
     },
-    [200226] = {
+    [1054] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21001",
+        resource = "fight_10108",
         motionDown = {
         },
-        id = 200226,
+        id = 1054,
         effectPoint = "",
         motionUp = {
         },
@@ -51206,11 +52199,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "高阶DEM近战小怪",
+        roleName = "夜刀神十香(生日)",
         roleForm = 1,
     },
     [201144] = {
@@ -51259,13 +52252,13 @@ return {
         roleName = "圣诞七罪-小孩",
         roleForm = 1,
     },
-    [7055] = {
+    [200226] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_21001",
         motionDown = {
         },
-        id = 7055,
+        id = 200226,
         effectPoint = "",
         motionUp = {
         },
@@ -51275,11 +52268,149 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
+        roleName = "高阶DEM近战小怪",
+        roleForm = 1,
+    },
+    [200482] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30601",
+        motionDown = {
+        },
+        id = 200482,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "6号BOSS",
+        roleForm = 1,
+    },
+    [5005] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10301",
+        motionDown = {
+        },
+        id = 5005,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "entrance",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "四糸乃",
+        roleForm = 1,
+    },
+    [1025] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10104",
+        motionDown = {
+        },
+        id = 1025,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "entrance",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "夜刀神十香(校服)",
+        roleForm = 1,
+    },
+    [200121] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21401",
+        motionDown = {
+        },
+        id = 200121,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "机械盾",
+        roleForm = 1,
+    },
+    [15148] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11303_2",
+        motionDown = {
+        },
+        id = 15148,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "flip",
+        action = "floor",
+        transit = {
+        },
+        roleName = "圣诞七罪-大人",
+        roleForm = 2,
+    },
+    [201145] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29011",
+        motionDown = {
+        },
+        id = 201145,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "守卫机器人",
         roleForm = 1,
     },
     [13026] = {
@@ -51349,144 +52480,6 @@ return {
         transit = {
         },
         roleName = "八舞夕弦-春节",
-        roleForm = 1,
-    },
-    [200121] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21401",
-        motionDown = {
-        },
-        id = 200121,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "机械盾",
-        roleForm = 1,
-    },
-    [1025] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10104",
-        motionDown = {
-        },
-        id = 1025,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "entrance",
-        action = "entrance",
-        transit = {
-        },
-        roleName = "夜刀神十香(校服)",
-        roleForm = 1,
-    },
-    [201145] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_29011",
-        motionDown = {
-        },
-        id = 201145,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt2",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "守卫机器人",
-        roleForm = 1,
-    },
-    [200230] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21001",
-        motionDown = {
-        },
-        id = 200230,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "standup",
-        transit = {
-        },
-        roleName = "高阶DEM近战小怪",
-        roleForm = 1,
-    },
-    [200486] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30601",
-        motionDown = {
-        },
-        id = 200486,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "standup",
-        transit = {
-        },
-        roleName = "6号BOSS",
-        roleForm = 1,
-    },
-    [6005] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10401",
-        motionDown = {
-        },
-        id = 6005,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "entrance",
-        action = "entrance",
-        transit = {
-        },
-        roleName = "时崎狂三",
         roleForm = 1,
     },
     [15011] = {
@@ -51673,6 +52666,29 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
+    [6005] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10401",
+        motionDown = {
+        },
+        id = 6005,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "entrance",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "时崎狂三",
+        roleForm = 1,
+    },
     [16018] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -51694,29 +52710,6 @@ return {
         transit = {
         },
         roleName = "涅普",
-        roleForm = 1,
-    },
-    [18013] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11701",
-        motionDown = {
-        },
-        id = 18013,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "walk",
-        action = "walk",
-        transit = {
-        },
-        roleName = "白井黑子",
         roleForm = 1,
     },
     [200123] = {
@@ -51742,13 +52735,13 @@ return {
         roleName = "机械远程",
         roleForm = 1,
     },
-    [20009] = {
+    [200230] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12301",
+        resource = "fight_21001",
         motionDown = {
         },
-        id = 20009,
+        id = 200230,
         effectPoint = "",
         motionUp = {
         },
@@ -51758,11 +52751,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "贝露",
+        roleName = "高阶DEM近战小怪",
         roleForm = 1,
     },
     [201147] = {
@@ -51786,6 +52779,29 @@ return {
         transit = {
         },
         roleName = "守卫机器人",
+        roleForm = 1,
+    },
+    [18013] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11701",
+        motionDown = {
+        },
+        id = 18013,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "白井黑子",
         roleForm = 1,
     },
     [22003] = {
@@ -51834,13 +52850,13 @@ return {
         roleName = "万由里女巫-召唤电球怪",
         roleForm = 1,
     },
-    [22040] = {
+    [24005] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_11212_skillB",
+        resource = "fight_12501",
         motionDown = {
         },
-        id = 22040,
+        id = 24005,
         effectPoint = "",
         motionUp = {
         },
@@ -51850,11 +52866,57 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "smollboll",
-        action = "win",
+        realAction = "entrance",
+        action = "entrance",
         transit = {
         },
-        roleName = "万由里女巫-召唤电球怪",
+        roleName = "或守鞠奈",
+        roleForm = 1,
+    },
+    [24013] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 24013,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 1,
+    },
+    [200124] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21501",
+        motionDown = {
+        },
+        id = 200124,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "机械远程",
         roleForm = 1,
     },
     [200234] = {
@@ -51878,6 +52940,29 @@ return {
         transit = {
         },
         roleName = "高阶DEM远程小怪",
+        roleForm = 1,
+    },
+    [19013] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_11601",
+        motionDown = {
+        },
+        id = 19013,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "炮姐",
         roleForm = 1,
     },
     [200490] = {
@@ -51905,13 +52990,13 @@ return {
         roleName = "6号BOSS",
         roleForm = 2,
     },
-    [200124] = {
+    [24044] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21501",
+        resource = "fight_12401",
         motionDown = {
         },
-        id = 200124,
+        id = 24044,
         effectPoint = "",
         motionUp = {
         },
@@ -51925,16 +53010,16 @@ return {
         action = "float",
         transit = {
         },
-        roleName = "机械远程",
+        roleName = "鞠亚",
         roleForm = 1,
     },
-    [24013] = {
+    [24052] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12501",
+        resource = "fight_12401",
         motionDown = {
         },
-        id = 24013,
+        id = 24052,
         effectPoint = "",
         motionUp = {
         },
@@ -51944,20 +53029,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "或守鞠奈",
+        roleName = "鞠亚",
         roleForm = 1,
     },
-    [19013] = {
+    [29002] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11601",
+        resource = "fight_12701",
         motionDown = {
         },
-        id = 19013,
+        id = 29002,
         effectPoint = "",
         motionUp = {
         },
@@ -51967,89 +53052,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "departure",
+        action = "departure",
         transit = {
         },
-        roleName = "炮姐",
+        roleName = "白王",
         roleForm = 1,
     },
-    [24027] = {
+    [6011] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_12501_skillB",
+        resource = "fight_10401",
         motionDown = {
         },
-        id = 24027,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "skillB_1_xunhuan",
-        action = "born",
-        transit = {
-        },
-        roleName = "或守鞠奈-替身2",
-        roleForm = 1,
-    },
-    [24035] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB3",
-        motionDown = {
-        },
-        id = 24035,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "diquan_lan_xiaoshi",
-        action = "die1",
-        transit = {
-        },
-        roleName = "或守鞠奈-陷阱-蓝色陷阱",
-        roleForm = 1,
-    },
-    [7003] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10501",
-        motionDown = {
-        },
-        id = 7003,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die1",
-        action = "die1",
-        transit = {
-        },
-        roleName = "五河琴里",
-        roleForm = 1,
-    },
-    [7011] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10501",
-        motionDown = {
-        },
-        id = 7011,
+        id = 6011,
         effectPoint = "",
         motionUp = {
         },
@@ -52063,30 +53079,7 @@ return {
         action = "hurt3",
         transit = {
         },
-        roleName = "五河琴里",
-        roleForm = 1,
-    },
-    [7019] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10501",
-        motionDown = {
-        },
-        id = 7019,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "kneelRelive",
-        action = "kneelRelive",
-        transit = {
-        },
-        roleName = "五河琴里",
+        roleName = "时崎狂三",
         roleForm = 1,
     },
     [200125] = {
@@ -52112,13 +53105,13 @@ return {
         roleName = "机械远程",
         roleForm = 1,
     },
-    [12019] = {
+    [7003] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10901",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 12019,
+        id = 7003,
         effectPoint = "",
         motionUp = {
         },
@@ -52128,11 +53121,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "kneelRelive",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "爱莲",
+        roleName = "五河琴里",
         roleForm = 1,
     },
     [201149] = {
@@ -52158,13 +53151,13 @@ return {
         roleName = "守卫机器人",
         roleForm = 1,
     },
-    [7051] = {
+    [7019] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_10501",
         motionDown = {
         },
-        id = 7051,
+        id = 7019,
         effectPoint = "",
         motionUp = {
         },
@@ -52174,20 +53167,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "kneelRelive",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
+        roleName = "五河琴里",
         roleForm = 1,
     },
-    [7059] = {
+    [12003] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10506",
+        resource = "fight_10901",
         motionDown = {
         },
-        id = 7059,
+        id = 12003,
         effectPoint = "",
         motionUp = {
         },
@@ -52197,12 +53190,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Pdeparture",
-        action = "departure",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "五河琴里-圣诞节",
-        roleForm = 2,
+        roleName = "爱莲",
+        roleForm = 1,
     },
     [16003] = {
         triggerEvent = "",
@@ -52227,13 +53220,36 @@ return {
         roleName = "涅普",
         roleForm = 1,
     },
-    [7067] = {
+    [12019] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10901",
+        motionDown = {
+        },
+        id = 12019,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "kneelRelive",
+        transit = {
+        },
+        roleName = "爱莲",
+        roleForm = 1,
+    },
+    [7043] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_10506",
         motionDown = {
         },
-        id = 7067,
+        id = 7043,
         effectPoint = "",
         motionUp = {
         },
@@ -52243,34 +53259,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Phurt3",
-        action = "hurt3",
+        realAction = "entrance",
+        action = "entrance",
         transit = {
         },
         roleName = "五河琴里-圣诞节",
-        roleForm = 2,
-    },
-    [29034] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12801",
-        motionDown = {
-        },
-        id = 29034,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "苍",
         roleForm = 1,
     },
     [12004] = {
@@ -52388,13 +53381,13 @@ return {
         roleName = "强化狂三-魔术师",
         roleForm = 1,
     },
-    [200254] = {
+    [7051] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21201",
+        resource = "fight_10506",
         motionDown = {
         },
-        id = 200254,
+        id = 7051,
         effectPoint = "",
         motionUp = {
         },
@@ -52408,41 +53401,16 @@ return {
         action = "walk",
         transit = {
         },
-        roleName = "高阶DEM综合小怪",
+        roleName = "五河琴里-圣诞节",
         roleForm = 1,
     },
-    [4101] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_10212",
-        motionDown = {
-        },
-        id = 4101,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "born",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_10212_born",
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "反转折纸渡鸦",
-        roleForm = 1,
-    },
-    [24044] = {
+    [7059] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12401",
+        resource = "fight_10506",
         motionDown = {
         },
-        id = 24044,
+        id = 7059,
         effectPoint = "",
         motionUp = {
         },
@@ -52452,12 +53420,35 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "Pdeparture",
+        action = "departure",
         transit = {
         },
-        roleName = "鞠亚",
-        roleForm = 1,
+        roleName = "五河琴里-圣诞节",
+        roleForm = 2,
+    },
+    [7067] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10506",
+        motionDown = {
+        },
+        id = 7067,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "Phurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "五河琴里-圣诞节",
+        roleForm = 2,
     },
     [200127] = {
         triggerEvent = "",
@@ -52482,13 +53473,13 @@ return {
         roleName = "机械远程",
         roleForm = 1,
     },
-    [29002] = {
+    [1006] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12701",
+        resource = "fight_10101",
         motionDown = {
         },
-        id = 29002,
+        id = 1006,
         effectPoint = "",
         motionUp = {
         },
@@ -52498,11 +53489,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "departure",
-        action = "departure",
+        realAction = "float",
+        action = "float",
         transit = {
         },
-        roleName = "白王",
+        roleName = "夜刀神十香",
         roleForm = 1,
     },
     [201151] = {
@@ -52526,6 +53517,29 @@ return {
         transit = {
         },
         roleName = "巡逻机器人",
+        roleForm = 1,
+    },
+    [7053] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10506",
+        motionDown = {
+        },
+        id = 7053,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "quickmove",
+        action = "quickmove",
+        transit = {
+        },
+        roleName = "五河琴里-圣诞节",
         roleForm = 1,
     },
     [200238] = {
@@ -52597,29 +53611,6 @@ return {
         roleName = "高阶DEM远程小怪",
         roleForm = 1,
     },
-    [200495] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30601",
-        motionDown = {
-        },
-        id = 200495,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "Ehurt2",
-        action = "hurt2",
-        transit = {
-        },
-        roleName = "6号BOSS",
-        roleForm = 2,
-    },
     [29059] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -52666,13 +53657,13 @@ return {
         roleName = "冰铠",
         roleForm = 1,
     },
-    [16012] = {
+    [200495] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11401",
+        resource = "fight_30601",
         motionDown = {
         },
-        id = 16012,
+        id = 200495,
         effectPoint = "",
         motionUp = {
         },
@@ -52682,12 +53673,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "Ehurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "涅普",
-        roleForm = 1,
+        roleName = "6号BOSS",
+        roleForm = 2,
     },
     [201152] = {
         triggerEvent = "",
@@ -52710,6 +53701,29 @@ return {
         transit = {
         },
         roleName = "巡逻机器人",
+        roleForm = 1,
+    },
+    [5212] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10302",
+        motionDown = {
+        },
+        id = 5212,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "强化四糸乃",
         roleForm = 1,
     },
     [5220] = {
@@ -52806,29 +53820,6 @@ return {
         roleName = "五河琴里-圣诞节",
         roleForm = 1,
     },
-    [200242] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21101",
-        motionDown = {
-        },
-        id = 200242,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "高阶DEM远程小怪",
-        roleForm = 1,
-    },
     [200129] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -52852,13 +53843,13 @@ return {
         roleName = "机械远程",
         roleForm = 1,
     },
-    [10023] = {
+    [14090] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10707",
+        resource = "fight_11215",
         motionDown = {
         },
-        id = 10023,
+        id = 14090,
         effectPoint = "",
         motionUp = {
         },
@@ -52868,11 +53859,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "hurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "八舞耶俱矢-春节",
+        roleName = "机械万由里",
         roleForm = 1,
     },
     [201153] = {
@@ -52896,6 +53887,29 @@ return {
         transit = {
         },
         roleName = "巡逻机器人",
+        roleForm = 1,
+    },
+    [4019] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10201",
+        motionDown = {
+        },
+        id = 4019,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "kneelRelive",
+        transit = {
+        },
+        roleName = "鸢一折纸",
         roleForm = 1,
     },
     [24019] = {
@@ -52990,29 +54004,6 @@ return {
         roleName = "八舞夕弦",
         roleForm = 1,
     },
-    [11028] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10807",
-        motionDown = {
-        },
-        id = 11028,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "flip",
-        action = "floor",
-        transit = {
-        },
-        roleName = "八舞夕弦-春节",
-        roleForm = 1,
-    },
     [13028] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -53080,6 +54071,29 @@ return {
         transit = {
         },
         roleName = "巡逻机器人",
+        roleForm = 1,
+    },
+    [7056] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10506",
+        motionDown = {
+        },
+        id = 7056,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floorRelive",
+        action = "floorRelive",
+        transit = {
+        },
+        roleName = "五河琴里-圣诞节",
         roleForm = 1,
     },
     [8037] = {
@@ -53174,29 +54188,6 @@ return {
         roleName = "强化十香",
         roleForm = 1,
     },
-    [24020] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12501",
-        motionDown = {
-        },
-        id = 24020,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "win",
-        action = "win",
-        transit = {
-        },
-        roleName = "或守鞠奈",
-        roleForm = 1,
-    },
     [200131] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -53220,27 +54211,29 @@ return {
         roleName = "机械远程",
         roleForm = 1,
     },
-    [29053] = {
-        triggerEvent = "",
+    [29021] = {
+        triggerEvent = "effect0",
         effectScaleUp = 0.6,
-        resource = "fight_13101",
+        resource = "fight_12801",
         motionDown = {
         },
-        id = 29053,
-        effectPoint = "",
+        id = 29021,
+        effectPoint = "root",
         motionUp = {
+            [1] = "born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_32701_born",
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "born",
+        action = "born",
         transit = {
         },
-        roleName = "华伦",
+        roleName = "苍",
         roleForm = 1,
     },
     [201155] = {
@@ -53266,6 +54259,29 @@ return {
         roleName = "巡逻机器人",
         roleForm = 1,
     },
+    [29085] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_13301",
+        motionDown = {
+        },
+        id = 29085,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "圆神凛祢",
+        roleForm = 1,
+    },
     [29117] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -53287,6 +54303,29 @@ return {
         transit = {
         },
         roleName = "圆神凛绪",
+        roleForm = 1,
+    },
+    [29181] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_13601",
+        motionDown = {
+        },
+        id = 29181,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "莎莉",
         roleForm = 1,
     },
     [8038] = {
@@ -53335,13 +54374,13 @@ return {
         roleName = "夜刀神十香(校服)",
         roleForm = 1,
     },
-    [10007] = {
+    [200132] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10701",
+        resource = "fight_21501",
         motionDown = {
         },
-        id = 10007,
+        id = 200132,
         effectPoint = "",
         motionUp = {
         },
@@ -53351,11 +54390,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "八舞耶俱矢",
+        roleName = "机械远程",
         roleForm = 1,
     },
     [4027] = {
@@ -53381,13 +54420,13 @@ return {
         roleName = "鸢一折纸-龙胆",
         roleForm = 1,
     },
-    [200132] = {
+    [19014] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21501",
+        resource = "fight_11601",
         motionDown = {
         },
-        id = 200132,
+        id = 19014,
         effectPoint = "",
         motionUp = {
         },
@@ -53397,11 +54436,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "机械远程",
+        roleName = "炮姐",
+        roleForm = 1,
+    },
+    [8030] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10603",
+        motionDown = {
+        },
+        id = 8030,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "DEM崇宫真那（猫娘）",
         roleForm = 1,
     },
     [200250] = {
@@ -53425,29 +54487,6 @@ return {
         transit = {
         },
         roleName = "高阶DEM综合小怪",
-        roleForm = 1,
-    },
-    [19014] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11601",
-        motionDown = {
-        },
-        id = 19014,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "炮姐",
         roleForm = 1,
     },
     [200506] = {
@@ -53519,54 +54558,6 @@ return {
         roleName = "DEM崇宫真那",
         roleForm = 1,
     },
-    [8019] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10601",
-        motionDown = {
-        },
-        id = 8019,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "kneelRelive",
-        transit = {
-        },
-        roleName = "DEM崇宫真那",
-        roleForm = 1,
-    },
-    [24001] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_12501",
-        motionDown = {
-        },
-        id = 24001,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "born_all",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_12501_born",
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "或守鞠奈",
-        roleForm = 1,
-    },
     [200133] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -53588,6 +54579,52 @@ return {
         transit = {
         },
         roleName = "高阶机械蚊子",
+        roleForm = 1,
+    },
+    [200266] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_30101",
+        motionDown = {
+        },
+        id = 200266,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "skillD1",
+        action = "skillD1",
+        transit = {
+        },
+        roleName = "1号BOSS",
+        roleForm = 1,
+    },
+    [201157] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_29012",
+        motionDown = {
+        },
+        id = 201157,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt2",
+        action = "hurt2",
+        transit = {
+        },
+        roleName = "巡逻机器人",
         roleForm = 1,
     },
     [3011] = {
@@ -53613,13 +54650,13 @@ return {
         roleName = "强化十香",
         roleForm = 1,
     },
-    [201157] = {
+    [3015] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29012",
+        resource = "fight_10102",
         motionDown = {
         },
-        id = 201157,
+        id = 3015,
         effectPoint = "",
         motionUp = {
         },
@@ -53629,11 +54666,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt2",
-        action = "hurt2",
+        realAction = "dodge",
+        action = "quickmove",
         transit = {
         },
-        roleName = "巡逻机器人",
+        roleName = "强化十香",
         roleForm = 1,
     },
     [3019] = {
@@ -53680,52 +54717,6 @@ return {
         transit = {
         },
         roleName = "强化十香",
-        roleForm = 1,
-    },
-    [4039] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10207",
-        motionDown = {
-        },
-        id = 4039,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "kneelRelive",
-        transit = {
-        },
-        roleName = "鸢一折纸-龙胆",
-        roleForm = 1,
-    },
-    [1006] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_10101",
-        motionDown = {
-        },
-        id = 1006,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "float",
-        action = "float",
-        transit = {
-        },
-        roleName = "夜刀神十香",
         roleForm = 1,
     },
     [14020] = {
@@ -53895,13 +54886,13 @@ return {
         roleName = "五河琴里-指挥官",
         roleForm = 2,
     },
-    [4109] = {
+    [200254] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10212",
+        resource = "fight_21201",
         motionDown = {
         },
-        id = 4109,
+        id = 200254,
         effectPoint = "",
         motionUp = {
         },
@@ -53911,31 +54902,33 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "walk",
+        action = "walk",
         transit = {
         },
-        roleName = "反转折纸渡鸦",
+        roleName = "高阶DEM综合小怪",
         roleForm = 1,
     },
-    [4117] = {
-        triggerEvent = "",
+    [4101] = {
+        triggerEvent = "effect0",
         effectScaleUp = 0.6,
         resource = "fight_10212",
         motionDown = {
         },
-        id = 4117,
-        effectPoint = "",
+        id = 4101,
+        effectPoint = "root",
         motionUp = {
+            [1] = "born",
         },
         effectScaleDown = 0.6,
         resourceDown = {
         },
         minipack = 0,
         resourceUp = {
+            [1] = "effects_10212_born",
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "born",
+        action = "born",
         transit = {
         },
         roleName = "反转折纸渡鸦",
@@ -53964,13 +54957,13 @@ return {
         roleName = "高阶机械蚊子",
         roleForm = 1,
     },
-    [24022] = {
+    [4117] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB",
+        resource = "fight_10212",
         motionDown = {
         },
-        id = 24022,
+        id = 4117,
         effectPoint = "",
         motionUp = {
         },
@@ -53980,11 +54973,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "diquan_xunhuan",
-        action = "stand",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "或守鞠奈-陷阱",
+        roleName = "反转折纸渡鸦",
         roleForm = 1,
     },
     [201159] = {
@@ -54008,6 +55001,52 @@ return {
         transit = {
         },
         roleName = "巡逻机器人",
+        roleForm = 1,
+    },
+    [24022] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_exskillB",
+        motionDown = {
+        },
+        id = 24022,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "diquan_xunhuan",
+        action = "stand",
+        transit = {
+        },
+        roleName = "或守鞠奈-陷阱",
+        roleForm = 1,
+    },
+    [24057] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12401",
+        motionDown = {
+        },
+        id = 24057,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "kneelRelive",
+        transit = {
+        },
+        roleName = "鞠亚",
         roleForm = 1,
     },
     [24056] = {
@@ -54051,52 +55090,6 @@ return {
         },
         realAction = "standup",
         action = "standup",
-        transit = {
-        },
-        roleName = "鞠亚",
-        roleForm = 1,
-    },
-    [24054] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12401",
-        motionDown = {
-        },
-        id = 24054,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "stand",
-        action = "stand",
-        transit = {
-        },
-        roleName = "鞠亚",
-        roleForm = 1,
-    },
-    [24053] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12401",
-        motionDown = {
-        },
-        id = 24053,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "quickmove",
-        action = "quickmove",
         transit = {
         },
         roleName = "鞠亚",
@@ -54148,13 +55141,13 @@ return {
         roleName = "冰铠",
         roleForm = 1,
     },
-    [200514] = {
+    [24054] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_30302",
+        resource = "fight_12401",
         motionDown = {
         },
-        id = 200514,
+        id = 24054,
         effectPoint = "",
         motionUp = {
         },
@@ -54164,11 +55157,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "杰西卡",
+        roleName = "鞠亚",
         roleForm = 1,
     },
     [201160] = {
@@ -54192,6 +55185,52 @@ return {
         transit = {
         },
         roleName = "巡逻机器人",
+        roleForm = 1,
+    },
+    [24050] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12401",
+        motionDown = {
+        },
+        id = 24050,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "move",
+        action = "move",
+        transit = {
+        },
+        roleName = "鞠亚",
+        roleForm = 1,
+    },
+    [24049] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12401",
+        motionDown = {
+        },
+        id = 24049,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt3",
+        action = "hurt3",
+        transit = {
+        },
+        roleName = "鞠亚",
         roleForm = 1,
     },
     [24048] = {
@@ -54263,13 +55302,13 @@ return {
         roleName = "鞠亚",
         roleForm = 1,
     },
-    [24045] = {
+    [200137] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12401",
+        resource = "fight_21701",
         motionDown = {
         },
-        id = 24045,
+        id = 200137,
         effectPoint = "",
         motionUp = {
         },
@@ -54283,7 +55322,7 @@ return {
         action = "floathurt",
         transit = {
         },
-        roleName = "鞠亚",
+        roleName = "高阶机械蚊子",
         roleForm = 1,
     },
     [24041] = {
@@ -54309,13 +55348,13 @@ return {
         roleName = "鞠亚",
         roleForm = 1,
     },
-    [200137] = {
+    [201161] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21701",
+        resource = "fight_29012",
         motionDown = {
         },
-        id = 200137,
+        id = 201161,
         effectPoint = "",
         motionUp = {
         },
@@ -54325,11 +55364,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "高阶机械蚊子",
+        roleName = "巡逻机器人",
         roleForm = 1,
     },
     [11013] = {
@@ -54355,13 +55394,13 @@ return {
         roleName = "八舞夕弦",
         roleForm = 1,
     },
-    [201161] = {
+    [11029] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_29012",
+        resource = "fight_10807",
         motionDown = {
         },
-        id = 201161,
+        id = 11029,
         effectPoint = "",
         motionUp = {
         },
@@ -54371,11 +55410,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "hurt1",
+        action = "hurt1",
         transit = {
         },
-        roleName = "巡逻机器人",
+        roleName = "八舞夕弦-春节",
         roleForm = 1,
     },
     [24040] = {
@@ -54399,54 +55438,6 @@ return {
         transit = {
         },
         roleName = "鞠亚",
-        roleForm = 1,
-    },
-    [24039] = {
-        triggerEvent = "effect0",
-        effectScaleUp = 0.6,
-        resource = "fight_12401",
-        motionDown = {
-        },
-        id = 24039,
-        effectPoint = "root",
-        motionUp = {
-            [1] = "animation",
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-            [1] = "effects_12401_born",
-        },
-        realAction = "born",
-        action = "born",
-        transit = {
-        },
-        roleName = "鞠亚",
-        roleForm = 1,
-    },
-    [24036] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB",
-        motionDown = {
-        },
-        id = 24036,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "diquan_chuxian",
-        action = "born",
-        transit = {
-        },
-        roleName = "或守鞠奈-陷阱升级",
         roleForm = 1,
     },
     [15012] = {
@@ -54633,13 +55624,38 @@ return {
         roleName = "圣诞七罪仓鼠",
         roleForm = 1,
     },
-    [200006] = {
-        triggerEvent = "",
+    [24039] = {
+        triggerEvent = "effect0",
         effectScaleUp = 0.6,
-        resource = "fight_20101",
+        resource = "fight_12401",
         motionDown = {
         },
-        id = 200006,
+        id = 24039,
+        effectPoint = "root",
+        motionUp = {
+            [1] = "animation",
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+            [1] = "effects_12401_born",
+        },
+        realAction = "born",
+        action = "born",
+        transit = {
+        },
+        roleName = "鞠亚",
+        roleForm = 1,
+    },
+    [24036] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_12501_exskillB",
+        motionDown = {
+        },
+        id = 24036,
         effectPoint = "",
         motionUp = {
         },
@@ -54649,11 +55665,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floor",
-        action = "floor",
+        realAction = "diquan_chuxian",
+        action = "born",
         transit = {
         },
-        roleName = "近战AST小怪：倒地+倒地弹起",
+        roleName = "或守鞠奈-陷阱升级",
+        roleForm = 1,
+    },
+    [200139] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_21701",
+        motionDown = {
+        },
+        id = 200139,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "hurt1",
+        action = "hurt1",
+        transit = {
+        },
+        roleName = "高阶机械蚊子",
         roleForm = 1,
     },
     [200262] = {
@@ -54679,13 +55718,13 @@ return {
         roleName = "1号BOSS",
         roleForm = 1,
     },
-    [200139] = {
+    [201163] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21701",
+        resource = "effects_13601_skillC",
         motionDown = {
         },
-        id = 200139,
+        id = 201163,
         effectPoint = "",
         motionUp = {
         },
@@ -54695,11 +55734,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "skillC4_2",
+        action = "stand",
         transit = {
         },
-        roleName = "高阶机械蚊子",
+        roleName = "莎莉分身",
         roleForm = 1,
     },
     [24031] = {
@@ -54794,13 +55833,13 @@ return {
         roleName = "或守鞠奈-替身2",
         roleForm = 1,
     },
-    [24024] = {
+    [24025] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "effects_12501_skillB3",
         motionDown = {
         },
-        id = 24024,
+        id = 24025,
         effectPoint = "",
         motionUp = {
         },
@@ -54811,56 +55850,10 @@ return {
         resourceUp = {
         },
         realAction = "skillB_1_xunhuan",
-        action = "born",
+        action = "stand",
         transit = {
         },
         roleName = "或守鞠奈-替身1",
-        roleForm = 1,
-    },
-    [24023] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "effects_12501_exskillB",
-        motionDown = {
-        },
-        id = 24023,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "diquan_xiaoshi",
-        action = "die1",
-        transit = {
-        },
-        roleName = "或守鞠奈-陷阱",
-        roleForm = 1,
-    },
-    [24017] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12501",
-        motionDown = {
-        },
-        id = 24017,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "standup",
-        transit = {
-        },
-        roleName = "或守鞠奈",
         roleForm = 1,
     },
     [200140] = {
@@ -54886,13 +55879,13 @@ return {
         roleName = "高阶机械蚊子",
         roleForm = 1,
     },
-    [24015] = {
+    [24023] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12501",
+        resource = "effects_12501_exskillB",
         motionDown = {
         },
-        id = 24015,
+        id = 24023,
         effectPoint = "",
         motionUp = {
         },
@@ -54902,11 +55895,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "quickmove",
-        action = "quickmove",
+        realAction = "diquan_xiaoshi",
+        action = "die1",
         transit = {
         },
-        roleName = "或守鞠奈",
+        roleName = "或守鞠奈-陷阱",
         roleForm = 1,
     },
     [19015] = {
@@ -54930,6 +55923,75 @@ return {
         transit = {
         },
         roleName = "炮姐",
+        roleForm = 1,
+    },
+    [24017] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 24017,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "standup",
+        action = "standup",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 1,
+    },
+    [24016] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 24016,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "stand",
+        action = "stand",
+        transit = {
+        },
+        roleName = "或守鞠奈",
+        roleForm = 1,
+    },
+    [24015] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_12501",
+        motionDown = {
+        },
+        id = 24015,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "quickmove",
+        action = "quickmove",
+        transit = {
+        },
+        roleName = "或守鞠奈",
         roleForm = 1,
     },
     [24014] = {
@@ -54978,13 +56040,13 @@ return {
         roleName = "或守鞠奈",
         roleForm = 1,
     },
-    [24009] = {
+    [200141] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_12501",
+        resource = "fight_21701",
         motionDown = {
         },
-        id = 24009,
+        id = 200141,
         effectPoint = "",
         motionUp = {
         },
@@ -54994,11 +56056,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "hurt1",
-        action = "hurt1",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "或守鞠奈",
+        roleName = "高阶机械蚊子",
         roleForm = 1,
     },
     [24008] = {
@@ -55024,13 +56086,36 @@ return {
         roleName = "或守鞠奈",
         roleForm = 1,
     },
-    [24007] = {
+    [201165] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "effects_13601_skillC",
+        motionDown = {
+        },
+        id = 201165,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "skillC4_3",
+        action = "die1",
+        transit = {
+        },
+        roleName = "莎莉分身出现特效",
+        roleForm = 1,
+    },
+    [24006] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
         resource = "fight_12501",
         motionDown = {
         },
-        id = 24007,
+        id = 24006,
         effectPoint = "",
         motionUp = {
         },
@@ -55040,34 +56125,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt1",
-        action = "floathurt",
+        realAction = "float",
+        action = "float",
         transit = {
         },
         roleName = "或守鞠奈",
-        roleForm = 1,
-    },
-    [200141] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_21701",
-        motionDown = {
-        },
-        id = 200141,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "hurt3",
-        action = "hurt3",
-        transit = {
-        },
-        roleName = "高阶机械蚊子",
         roleForm = 1,
     },
     [200010] = {
@@ -55091,75 +56153,6 @@ return {
         transit = {
         },
         roleName = "近战AST小怪",
-        roleForm = 1,
-    },
-    [200266] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30101",
-        motionDown = {
-        },
-        id = 200266,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "skillD1",
-        action = "skillD1",
-        transit = {
-        },
-        roleName = "1号BOSS",
-        roleForm = 1,
-    },
-    [200522] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30302",
-        motionDown = {
-        },
-        id = 200522,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "move",
-        action = "move",
-        transit = {
-        },
-        roleName = "杰西卡",
-        roleForm = 1,
-    },
-    [24002] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12501",
-        motionDown = {
-        },
-        id = 24002,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "departure",
-        action = "departure",
-        transit = {
-        },
-        roleName = "或守鞠奈",
         roleForm = 1,
     },
     [16004] = {
@@ -55507,13 +56500,13 @@ return {
         roleName = "反转折纸和服",
         roleForm = 1,
     },
-    [1013] = {
+    [5013] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10101",
+        resource = "fight_10301",
         motionDown = {
         },
-        id = 1013,
+        id = 5013,
         effectPoint = "",
         motionUp = {
         },
@@ -55527,16 +56520,16 @@ return {
         action = "walk",
         transit = {
         },
-        roleName = "夜刀神十香",
+        roleName = "四糸乃",
         roleForm = 1,
     },
-    [4067] = {
+    [10003] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10209",
+        resource = "fight_10701",
         motionDown = {
         },
-        id = 4067,
+        id = 10003,
         effectPoint = "",
         motionUp = {
         },
@@ -55546,20 +56539,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floathurt",
-        action = "floathurt",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "精灵折纸",
+        roleName = "八舞耶俱矢",
         roleForm = 1,
     },
-    [7018] = {
+    [7055] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10501",
+        resource = "fight_10506",
         motionDown = {
         },
-        id = 7018,
+        id = 7055,
         effectPoint = "",
         motionUp = {
         },
@@ -55569,11 +56562,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floorRelive",
-        action = "floorRelive",
+        realAction = "standup",
+        action = "standup",
         transit = {
         },
-        roleName = "五河琴里",
+        roleName = "五河琴里-圣诞节",
         roleForm = 1,
     },
     [29061] = {
@@ -55622,6 +56615,75 @@ return {
         roleName = "冰铠",
         roleForm = 1,
     },
+    [1013] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10101",
+        motionDown = {
+        },
+        id = 1013,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "walk",
+        action = "walk",
+        transit = {
+        },
+        roleName = "夜刀神十香",
+        roleForm = 1,
+    },
+    [201168] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201168,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "die1",
+        action = "die1",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
+        roleForm = 1,
+    },
+    [7018] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_10501",
+        motionDown = {
+        },
+        id = 7018,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "floorRelive",
+        action = "floorRelive",
+        transit = {
+        },
+        roleName = "五河琴里",
+        roleForm = 1,
+    },
     [200014] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -55666,29 +56728,6 @@ return {
         transit = {
         },
         roleName = "守护关卡风暴球",
-        roleForm = 1,
-    },
-    [200526] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_30302",
-        motionDown = {
-        },
-        id = 200526,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "retreat",
-        action = "retreat",
-        transit = {
-        },
-        roleName = "杰西卡",
         roleForm = 1,
     },
     [22036] = {
@@ -55737,13 +56776,13 @@ return {
         roleName = "万由里女巫-召唤电球怪",
         roleForm = 1,
     },
-    [200015] = {
+    [200145] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20101",
+        resource = "fight_21801",
         motionDown = {
         },
-        id = 200015,
+        id = 200145,
         effectPoint = "",
         motionUp = {
         },
@@ -55753,11 +56792,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "die1",
+        action = "die1",
         transit = {
         },
-        roleName = "撞击关卡近战AST小怪",
+        roleName = "高阶机械盾",
         roleForm = 1,
     },
     [200271] = {
@@ -55783,13 +56822,13 @@ return {
         roleName = "守护关卡风暴球",
         roleForm = 1,
     },
-    [200145] = {
+    [201169] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_21801",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 200145,
+        id = 201169,
         effectPoint = "",
         motionUp = {
         },
@@ -55799,20 +56838,20 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "die1",
-        action = "die1",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "高阶机械盾",
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
-    [20023] = {
+    [22004] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "effects_12301_skillC2",
+        resource = "fight_11212",
         motionDown = {
         },
-        id = 20023,
+        id = 22004,
         effectPoint = "",
         motionUp = {
         },
@@ -55822,11 +56861,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "bao0",
-        action = "die1",
+        realAction = "die2",
+        action = "die2",
         transit = {
         },
-        roleName = "贝露能量球",
+        roleName = "万由里女巫",
         roleForm = 1,
     },
     [22022] = {
@@ -55902,29 +56941,6 @@ return {
         roleName = "万由里女巫",
         roleForm = 1,
     },
-    [200530] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_23201",
-        motionDown = {
-        },
-        id = 200530,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "floathurt",
-        action = "floathurt",
-        transit = {
-        },
-        roleName = "幽灵1阶段",
-        roleForm = 1,
-    },
     [22008] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -55943,29 +56959,6 @@ return {
         },
         realAction = "flip",
         action = "floor",
-        transit = {
-        },
-        roleName = "万由里女巫",
-        roleForm = 1,
-    },
-    [22004] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_11212",
-        motionDown = {
-        },
-        id = 22004,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "die2",
-        action = "die2",
         transit = {
         },
         roleName = "万由里女巫",
@@ -56015,6 +57008,29 @@ return {
         transit = {
         },
         roleName = "万由里女巫-召唤电球怪",
+        roleForm = 1,
+    },
+    [201170] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201170,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "entrance",
+        action = "entrance",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [11014] = {
@@ -56132,29 +57148,6 @@ return {
         roleName = "贝露",
         roleForm = 1,
     },
-    [20019] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12301",
-        motionDown = {
-        },
-        id = 20019,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "standup",
-        action = "kneelRelive",
-        transit = {
-        },
-        roleName = "贝露",
-        roleForm = 1,
-    },
     [200147] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
@@ -56178,13 +57171,13 @@ return {
         roleName = "高阶机械盾",
         roleForm = 1,
     },
-    [200022] = {
+    [20018] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20201",
+        resource = "fight_12301",
         motionDown = {
         },
-        id = 200022,
+        id = 20018,
         effectPoint = "",
         motionUp = {
         },
@@ -56194,11 +57187,34 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floor",
-        action = "floor",
+        realAction = "standup",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "远程AST小怪",
+        roleName = "贝露",
+        roleForm = 1,
+    },
+    [201171] = {
+        triggerEvent = "",
+        effectScaleUp = 0.6,
+        resource = "fight_33601",
+        motionDown = {
+        },
+        id = 201171,
+        effectPoint = "",
+        motionUp = {
+        },
+        effectScaleDown = 0.6,
+        resourceDown = {
+        },
+        minipack = 0,
+        resourceUp = {
+        },
+        realAction = "float",
+        action = "float",
+        transit = {
+        },
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [20015] = {
@@ -56311,29 +57327,6 @@ return {
         },
         realAction = "float",
         action = "float",
-        transit = {
-        },
-        roleName = "贝露",
-        roleForm = 1,
-    },
-    [20005] = {
-        triggerEvent = "",
-        effectScaleUp = 0.6,
-        resource = "fight_12301",
-        motionDown = {
-        },
-        id = 20005,
-        effectPoint = "",
-        motionUp = {
-        },
-        effectScaleDown = 0.6,
-        resourceDown = {
-        },
-        minipack = 0,
-        resourceUp = {
-        },
-        realAction = "entrance",
-        action = "entrance",
         transit = {
         },
         roleName = "贝露",
@@ -56569,13 +57562,13 @@ return {
         roleName = "白井黑子",
         roleForm = 1,
     },
-    [18006] = {
+    [201173] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11701",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 18006,
+        id = 201173,
         effectPoint = "",
         motionUp = {
         },
@@ -56585,11 +57578,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "floor",
+        action = "floor",
         transit = {
         },
-        roleName = "白井黑子",
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [2002] = {
@@ -56939,13 +57932,13 @@ return {
         roleName = "反转折纸和服",
         roleForm = 1,
     },
-    [2068] = {
+    [201175] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10109",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 2068,
+        id = 201175,
         effectPoint = "",
         motionUp = {
         },
@@ -56955,12 +57948,12 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "Pmove",
-        action = "move",
+        realAction = "hurt2",
+        action = "hurt2",
         transit = {
         },
-        roleName = "深渊反转十香",
-        roleForm = 2,
+        roleName = "莎莉BOSS",
+        roleForm = 1,
     },
     [18002] = {
         triggerEvent = "",
@@ -57125,13 +58118,13 @@ return {
         roleName = "涅普",
         roleForm = 1,
     },
-    [12017] = {
+    [201176] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10901",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 12017,
+        id = 201176,
         effectPoint = "",
         motionUp = {
         },
@@ -57141,11 +58134,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "standup",
+        realAction = "hurt3",
+        action = "hurt3",
         transit = {
         },
-        roleName = "爱莲",
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [16008] = {
@@ -57309,13 +58302,13 @@ return {
         roleName = "八舞耶俱矢-春节",
         roleForm = 1,
     },
-    [14098] = {
+    [201177] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11215",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 14098,
+        id = 201177,
         effectPoint = "",
         motionUp = {
         },
@@ -57325,11 +58318,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "floorRelive",
-        action = "floorRelive",
+        realAction = "move",
+        action = "move",
         transit = {
         },
-        roleName = "机械万由里",
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [11015] = {
@@ -57677,13 +58670,13 @@ return {
         roleName = "七罪仓鼠",
         roleForm = 1,
     },
-    [4138] = {
+    [201179] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10213",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 4138,
+        id = 201179,
         effectPoint = "",
         motionUp = {
         },
@@ -57693,11 +58686,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "standup",
-        action = "floorRelive",
+        realAction = "retreat",
+        action = "retreat",
         transit = {
         },
-        roleName = "反转折纸和服",
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [6031] = {
@@ -58045,13 +59038,13 @@ return {
         roleName = "五河琴里-圣诞节",
         roleForm = 1,
     },
-    [5006] = {
+    [201181] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10301",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 5006,
+        id = 201181,
         effectPoint = "",
         motionUp = {
         },
@@ -58061,11 +59054,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "float",
-        action = "float",
+        realAction = "stand",
+        action = "stand",
         transit = {
         },
-        roleName = "四糸乃",
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [2060] = {
@@ -58413,13 +59406,13 @@ return {
         roleName = "低阶能量综合小怪",
         roleForm = 1,
     },
-    [12013] = {
+    [201183] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_10901",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 12013,
+        id = 201183,
         effectPoint = "",
         motionUp = {
         },
@@ -58429,11 +59422,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "walk",
-        action = "walk",
+        realAction = "standup",
+        action = "floorRelive",
         transit = {
         },
-        roleName = "爱莲",
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [14067] = {
@@ -58597,13 +59590,13 @@ return {
         roleName = "七罪熊猫",
         roleForm = 1,
     },
-    [200058] = {
+    [201184] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_20401",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 200058,
+        id = 201184,
         effectPoint = "",
         motionUp = {
         },
@@ -58613,11 +59606,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "retreat",
-        action = "retreat",
+        realAction = "standup",
+        action = "kneelRelive",
         transit = {
         },
-        roleName = "高阶近战AST小怪",
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [15075] = {
@@ -58781,13 +59774,13 @@ return {
         roleName = "高阶能量近战小怪",
         roleForm = 1,
     },
-    [14012] = {
+    [201185] = {
         triggerEvent = "",
         effectScaleUp = 0.6,
-        resource = "fight_11201",
+        resource = "fight_33601",
         motionDown = {
         },
-        id = 14012,
+        id = 201185,
         effectPoint = "",
         motionUp = {
         },
@@ -58797,11 +59790,11 @@ return {
         minipack = 0,
         resourceUp = {
         },
-        realAction = "move",
-        action = "move",
+        realAction = "win",
+        action = "win",
         transit = {
         },
-        roleName = "万由里",
+        roleName = "莎莉BOSS",
         roleForm = 1,
     },
     [4089] = {

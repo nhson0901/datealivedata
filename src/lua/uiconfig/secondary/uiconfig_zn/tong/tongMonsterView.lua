@@ -447,7 +447,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 10,
+										PositionX = 100,
 										PositionY = -360,
 									},
 									width = "64",

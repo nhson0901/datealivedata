@@ -141,7 +141,6 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 148,
-										PositionY = -56,
 									},
 									uipanelviewmodel = 
 									{
@@ -601,7 +600,7 @@ local t =
 											{
 												PositionY = 12,
 											},
-											width = "90",
+											width = "64",
 											ZOrder = "1",
 										},
 									},
@@ -747,7 +746,7 @@ local t =
 											{
 												PositionY = 11,
 											},
-											width = "65",
+											width = "44",
 											ZOrder = "1",
 										},
 									},

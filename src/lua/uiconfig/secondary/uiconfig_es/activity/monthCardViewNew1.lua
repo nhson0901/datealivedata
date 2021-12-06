@@ -4676,8 +4676,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 124,
-										PositionY = 78,
+										PositionX = 120,
+										PositionY = 81,
 									},
 									width = "78",
 									ZOrder = "1",
@@ -4737,7 +4737,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF49557F",
+									FontColor = "#FFFFFFFF",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -4747,14 +4747,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "17",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_revert",
 									nTextAlign = "1",
@@ -4771,7 +4771,7 @@ local t =
 										PositionX = -205,
 										PositionY = 48,
 									},
-									width = "56",
+									width = "68",
 									ZOrder = "1",
 								},
 								{
@@ -5257,8 +5257,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 124,
-										PositionY = 78,
+										PositionX = 120,
+										PositionY = 81,
 									},
 									width = "85",
 									ZOrder = "1",
@@ -5318,7 +5318,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFA9702C",
+									FontColor = "#FFFFFFFF",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -5328,14 +5328,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "17",
+									height = "21",
 									ignoreSize = "True",
 									name = "Label_revert",
 									nTextAlign = "1",
@@ -5352,7 +5352,7 @@ local t =
 										PositionX = -205,
 										PositionY = 48,
 									},
-									width = "56",
+									width = "68",
 									ZOrder = "1",
 								},
 								{

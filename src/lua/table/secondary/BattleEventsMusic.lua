@@ -6576,4 +6576,161 @@ return {
         probability = 3000,
         param = 0,
     },
+    [400] = {
+        id = 400,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 5,
+        roleId = 113601,
+        resources = {
+            [1] = "sound/13601/sally_sysPiece_025.mp3",
+            [2] = "sound/13601/sally_sysPiece_026.mp3",
+        },
+        describe = "战斗胜利",
+        cdTime = 0,
+        probability = 10000,
+        param = 0,
+    },
+    [401] = {
+        id = 401,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 7,
+        roleId = 113601,
+        resources = {
+            [1] = "sound/13601/sally_sysPiece_023.mp3",
+        },
+        describe = "切换角色(登场)",
+        cdTime = 0,
+        probability = 10000,
+        param = 0,
+    },
+    [402] = {
+        id = 402,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 6,
+        roleId = 113601,
+        resources = {
+            [1] = "sound/13601/sally_sysPiece_027.mp3",
+            [2] = "sound/13601/sally_sysPiece_028.mp3",
+        },
+        describe = "战斗失败",
+        cdTime = 0,
+        probability = 10000,
+        param = 0,
+    },
+    [403] = {
+        id = 403,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 1,
+        roleId = 113601,
+        resources = {
+            [1] = "sound/13601/sally_sysPiece_031.mp3",
+            [2] = "sound/13601/sally_sysPiece_032.mp3",
+        },
+        describe = "遇到强大敌人",
+        cdTime = 5000,
+        probability = 10000,
+        param = 0,
+    },
+    [404] = {
+        id = 404,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 4,
+        roleId = 113601,
+        resources = {
+            [1] = "sound/13601/sally_sysPiece_033.mp3",
+            [2] = "sound/13601/sally_sysPiece_034.mp3",
+        },
+        describe = "击杀敌人",
+        cdTime = 5000,
+        probability = 10000,
+        param = 0,
+    },
+    [405] = {
+        id = 405,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 2,
+        roleId = 113601,
+        resources = {
+            [1] = "sound/13601/sally_sysPiece_037.mp3",
+            [2] = "sound/13601/sally_sysPiece_038.mp3",
+        },
+        describe = "单次受到巨大伤害",
+        cdTime = 5000,
+        probability = 10000,
+        param = 2000,
+    },
+    [406] = {
+        id = 406,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 3,
+        roleId = 113601,
+        resources = {
+            [1] = "sound/13601/sally_sysPiece_039.mp3",
+            [2] = "sound/13601/sally_sysPiece_040.mp3",
+            [3] = "sound/13601/sally_sysPiece_041.mp3",
+        },
+        describe = "在战场上待机一段时间",
+        cdTime = 10000,
+        probability = 5000,
+        param = 5000,
+    },
+    [407] = {
+        id = 407,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 8,
+        roleId = 113601,
+        resources = {
+            [1] = "Sound/13601/sally_sysPiece_042.mp3",
+        },
+        describe = "队友为指定角色时",
+        cdTime = 15000,
+        probability = 3000,
+        param = 113701,
+    },
+    [408] = {
+        id = 408,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 8,
+        roleId = 113601,
+        resources = {
+            [1] = "Sound/13601/sally_sysPiece_043.mp3",
+        },
+        describe = "队友为指定角色时",
+        cdTime = 15000,
+        probability = 3000,
+        param = 113701,
+    },
+    [409] = {
+        id = 409,
+        formId = {
+            [1] = 1360101,
+        },
+        eventType = 8,
+        roleId = 113601,
+        resources = {
+            [1] = "Sound/13601/sally_sysPiece_044.mp3",
+        },
+        describe = "队友为指定角色时",
+        cdTime = 15000,
+        probability = 3000,
+        param = 113701,
+    },
 }

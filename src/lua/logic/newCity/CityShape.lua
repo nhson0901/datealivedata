@@ -275,12 +275,18 @@ end
 function CityShape:playAnim(anim, loopcount, forceplay)
     self.curAnim = anim or "idle"
     local realanim = self:getAnimWithPrefix(anim)
+    local oldRealAnim = self.curRealAnim == "" and realanim or self.curRealAnim
     if self.curRealAnim == realanim and self.curAnim == "idle" then
         return
     end
     self.curRealAnim = realanim
     loopcount = loopcount or -1
-    self.shapeAnim:play(self.curRealAnim, loopcount)
+    if anim == "idle" and oldRealAnim ~= self.curRealAnim then   --修改进入idle为过度动画方式 解决人物不正常眨眼睛动画问题
+        self.shapeAnim:setMix(oldRealAnim , self.curRealAnim, 0.1)
+        self.shapeAnim:addAnimation(0 ,self.curRealAnim , tobool(loopcount) )
+    else
+        self.shapeAnim:play(self.curRealAnim, loopcount)
+    end
 end
 
 function CityShape:move(path, callback,mbehave)

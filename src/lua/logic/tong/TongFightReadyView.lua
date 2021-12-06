@@ -59,6 +59,8 @@ function TongFightReadyView:initUI(ui)
     self.Label_curPoint         = TFDirector:getChildByPath(self.Panel_fighting, "Label_curPoint")
     self.Label_nextPoint        = TFDirector:getChildByPath(self.Panel_fighting, "Label_nextPoint")
     self.Label_over_point       = TFDirector:getChildByPath(self.Panel_fighting, "Label_over_point")
+    self.Label_fighting_decs    = TFDirector:getChildByPath(self.Panel_fighting, "Label_fighting_decs"):hide()
+    self.Label_fighting_decs:setTextById(190001163)
     self.Panel_difficulty       = TFDirector:getChildByPath(self.Panel_fighting, "Panel_difficulty")
     self.Button_diff_select     = TFDirector:getChildByPath(self.Panel_fighting, "Button_diff_select")
     self.Label_time             = TFDirector:getChildByPath(self.Panel_fighting, "Label_time"):hide()
@@ -206,6 +208,7 @@ function TongFightReadyView:updateDatingMode()
     dump(levelInfo)
 
     self:updateFeature(self.vitDungonCfg.type)
+    self.Label_fighting_decs:setVisible(levelCfg_.dungeonType == EC_FBLevelType.TONG_FIGHT)
 
     if EC_PatongUiType.DatingFight == self.vitDungonCfg.type then
 
@@ -259,6 +262,9 @@ function TongFightReadyView:updateFightMode()
     if not levelCfg_ then
         return
     end
+
+    self.Label_fighting_decs:setVisible(levelCfg_.dungeonType == EC_FBLevelType.TONG_FIGHT)
+
 
     local desc = ""
     for i, v in ipairs(levelCfg_.victoryType) do
@@ -390,6 +396,7 @@ function TongFightReadyView:openFubenSquad()
         Utils:openView("fuben.FubenSquadView", fubenType_ , data, challengeCnt)
         AlertManager:closeLayer(self)
     end
+    self.Label_fighting_decs:setVisible(levelCfg_.dungeonType == EC_FBLevelType.TONG_FIGHT)
 
     if levelCfg_.dungeonType == EC_FBLevelType.TONG_DATING or
             levelCfg_.dungeonType == EC_FBLevelType.TONG_DATINGFIGHT then

@@ -1567,6 +1567,14 @@ return {
         roleName = "bust_11212_new.model3.json",
         type = 1,
     },
+    [30202] = {
+        rolePath = "modle/bust/bust_30202_new",
+        name = "日下部燎子",
+        id = 30202,
+        isCloseTouchFollow = false,
+        roleName = "bust_30202_new.model.json",
+        type = 0,
+    },
     [413101] = {
         rolePath = "modle/bust/bust_13101_new",
         name = "地错-华伦（剧情）",
@@ -1575,12 +1583,12 @@ return {
         roleName = "bust_13101_new.model.json",
         type = 0,
     },
-    [30202] = {
-        rolePath = "modle/bust/bust_30202_new",
-        name = "日下部燎子",
-        id = 30202,
+    [11803] = {
+        rolePath = "modle/bust/bust_11803_new",
+        name = "魔禁-御坂美琴",
+        id = 11803,
         isCloseTouchFollow = false,
-        roleName = "bust_30202_new.model.json",
+        roleName = "bust_11803_new.model.json",
         type = 0,
     },
     [513002] = {
@@ -1591,12 +1599,12 @@ return {
         roleName = "bust_13002_new.model3.json",
         type = 1,
     },
-    [11803] = {
-        rolePath = "modle/bust/bust_11803_new",
-        name = "魔禁-御坂美琴",
-        id = 11803,
+    [12301] = {
+        rolePath = "modle/bust/bust_12301_new",
+        name = "海王星-贝露（剧情）",
+        id = 12301,
         isCloseTouchFollow = false,
-        roleName = "bust_11803_new.model.json",
+        roleName = "bust_12301_new.model.json",
         type = 0,
     },
     [511214] = {
@@ -1623,20 +1631,20 @@ return {
         roleName = "bust_10512_new.model3.json",
         type = 1,
     },
-    [12301] = {
-        rolePath = "modle/bust/bust_12301_new",
-        name = "海王星-贝露（剧情）",
-        id = 12301,
-        isCloseTouchFollow = false,
-        roleName = "bust_12301_new.model.json",
-        type = 0,
-    },
     [11401] = {
         rolePath = "modle/bust/bust_11401_new",
         name = "海王星-涅普迪努",
         id = 11401,
         isCloseTouchFollow = false,
         roleName = "bust_11401_new.model.json",
+        type = 0,
+    },
+    [411208] = {
+        rolePath = "modle/bust/bust_11208_new",
+        name = "万由里泳装（剧情用）",
+        id = 411208,
+        isCloseTouchFollow = false,
+        roleName = "bust_11208_new.model.json",
         type = 0,
     },
     [211215] = {
@@ -1655,14 +1663,6 @@ return {
         roleName = "bust_12301_new.model3.json",
         type = 1,
     },
-    [411208] = {
-        rolePath = "modle/bust/bust_11208_new",
-        name = "万由里泳装（剧情用）",
-        id = 411208,
-        isCloseTouchFollow = false,
-        roleName = "bust_11208_new.model.json",
-        type = 0,
-    },
     [31601] = {
         rolePath = "modle/bust/bust_31601_new",
         name = "韦斯科特",
@@ -1679,6 +1679,14 @@ return {
         roleName = "xi_nianshou",
         type = 2,
     },
+    [210126] = {
+        rolePath = "modle/bust_kanban/bust_10126_kanban",
+        name = "十香周年庆2021普通",
+        id = 210126,
+        isCloseTouchFollow = false,
+        roleName = "bust_10126_new.model3.json",
+        type = 1,
+    },
     [210513] = {
         rolePath = "modle/bust_kanban/bust_10513_kanban",
         name = "琴里-赛博朋克-普通",
@@ -1687,13 +1695,13 @@ return {
         roleName = "bust_10513_new.model3.json",
         type = 1,
     },
-    [210126] = {
-        rolePath = "modle/bust_kanban/bust_10126_kanban",
-        name = "十香周年庆2021普通",
-        id = 210126,
+    [10003] = {
+        rolePath = "effect/dating_script/nianshou",
+        name = "年兽-年",
+        id = 10003,
         isCloseTouchFollow = false,
-        roleName = "bust_10126_new.model3.json",
-        type = 1,
+        roleName = "nian_nianshou",
+        type = 2,
     },
     [10706] = {
         rolePath = "modle/bust/bust_10706",
@@ -1703,12 +1711,12 @@ return {
         roleName = "bust_10706.model.json",
         type = 0,
     },
-    [10003] = {
+    [10002] = {
         rolePath = "effect/dating_script/nianshou",
-        name = "年兽-年",
-        id = 10003,
+        name = "年兽-春",
+        id = 10002,
         isCloseTouchFollow = false,
-        roleName = "nian_nianshou",
+        roleName = "chun_nianshou",
         type = 2,
     },
     [10203] = {
@@ -1727,13 +1735,13 @@ return {
         roleName = "bust_10207.model.json",
         type = 0,
     },
-    [10002] = {
-        rolePath = "effect/dating_script/nianshou",
-        name = "年兽-春",
-        id = 10002,
+    [513702] = {
+        rolePath = "modle/bust_kanban/bust_13702_superKanban",
+        name = "梅普露-私服-高级",
+        id = 513702,
         isCloseTouchFollow = false,
-        roleName = "chun_nianshou",
-        type = 2,
+        roleName = "bust_13702_new.model3.json",
+        type = 1,
     },
     [10215] = {
         rolePath = "modle/bust/bust_10215_new",
@@ -1743,20 +1751,20 @@ return {
         roleName = "bust_10215_new.model.json",
         type = 0,
     },
-    [513702] = {
-        rolePath = "modle/bust_kanban/bust_13702_superKanban",
-        name = "梅普露-私服-高级",
-        id = 513702,
-        isCloseTouchFollow = false,
-        roleName = "bust_13702_new.model3.json",
-        type = 1,
-    },
     [213701] = {
         rolePath = "modle/bust_kanban/bust_13701_kanban",
         name = "梅普露-官设-普通",
         id = 213701,
         isCloseTouchFollow = false,
         roleName = "bust_13701_new.model3.json",
+        type = 1,
+    },
+    [213602] = {
+        rolePath = "modle/bust_kanban/bust_13602_kanban",
+        name = "莎莉校服-普通",
+        id = 213602,
+        isCloseTouchFollow = false,
+        roleName = "bust_13601_new.model3.json",
         type = 1,
     },
     [510708] = {

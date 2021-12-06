@@ -70,8 +70,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 480,
-						PositionY = 320,
+						PositionX = 510,
+						PositionY = 354,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -983,8 +983,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_targetTitle",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -997,10 +997,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 83,
-												PositionY = 45,
+												PositionX = 242,
+												PositionY = 41,
 											},
-											width = "226",
+											width = "162",
 											ZOrder = "1",
 										},
 										{
@@ -1211,7 +1211,7 @@ local t =
 									controlID = "Label_fighting_reward_Panel_fighting_Panel_root_Panel-tongReadyView_Layer1_tong_Game",
 									UUID = "1b2e459c_0871_4261_bd02_9a6147a65f0e",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -1247,11 +1247,60 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -225,
+										PositionX = -158,
 										PositionY = 12,
 									},
 									width = "157",
 									ZOrder = "1",
+									components = 
+									{
+										
+										{
+											controlID = "Label_fighting_decs_Label_fighting_reward_Panel_fighting_Panel_root_Panel-tongReadyView_Layer1_tong_Game",
+											UUID = "c3f4bd53_ad08_452e_b957_221ed8a7a75b",
+											anchorPoint = "False",
+											anchorPointX = "0",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FF0A636F",
+											fontName = "font/fangzheng_zhunyuan.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "20",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "23",
+											ignoreSize = "True",
+											name = "Label_fighting_decs",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "(莎莉出战可获得10%加成)",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												
+											},
+											width = "234",
+											ZOrder = "1",
+										},
+									},
 								},
 								{
 									controlID = "Button_ready_Panel_fighting_Panel_root_Panel-tongReadyView_Layer1_tong_Game",
@@ -2086,7 +2135,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = 26,
-						PositionY = -729,
+						PositionY = -660,
 						LeftPositon = 26,
 						TopPosition = 729,
 						relativeToName = "Panel",

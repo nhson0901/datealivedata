@@ -8,7 +8,7 @@ return {
         proportion = 0,
         isHide = false,
         activation = {
-            taskId = 18220,
+            taskId = 18547,
         },
     },
     [1004] = {
@@ -35,7 +35,7 @@ return {
         proportion = 0,
         isHide = false,
         activation = {
-            taskId = 18212,
+            taskId = 18548,
         },
     },
     [1005] = {
@@ -212,7 +212,7 @@ return {
         proportion = 0,
         isHide = false,
         activation = {
-            taskId = 18205,
+            taskId = 18544,
         },
     },
     [1001] = {
@@ -239,7 +239,7 @@ return {
         proportion = 0,
         isHide = false,
         activation = {
-            taskId = 18208,
+            taskId = 18545,
         },
     },
     [1002] = {
@@ -266,7 +266,7 @@ return {
         proportion = 0,
         isHide = false,
         activation = {
-            taskId = 18211,
+            taskId = 18546,
         },
     },
     [1003] = {

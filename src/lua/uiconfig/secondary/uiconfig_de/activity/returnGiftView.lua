@@ -104,38 +104,8 @@ local t =
 								nGravity = 6,
 								nAlign = 5
 							},
-							width = "886",
+							width = "891",
 							ZOrder = "1",
-							components = 
-							{
-								
-								{
-									controlID = "Image_returnGiftView_1_Image_diban_Panel_root_Panel-returnGiftView_Layer1_activity_Game",
-									UUID = "ec1ecf05_2bd0_4e67_8fc5_80b16ff15c33",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									classname = "MEImage",
-									dstBlendFunc = "771",
-									height = "42",
-									ignoreSize = "True",
-									name = "Image_returnGiftView_1",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "1",
-									texturePath = "ui/activity/rerurnGift/002.png",
-									touchAble = "False",
-									UILayoutViewModel = 
-									{
-										PositionX = -417,
-										PositionY = 250,
-									},
-									width = "53",
-									ZOrder = "1",
-								},
-							},
 						},
 						{
 							controlID = "listView_Panel_root_Panel-returnGiftView_Layer1_activity_Game",
@@ -151,10 +121,10 @@ local t =
 							colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
 							direction = "2",
 							dstBlendFunc = "771",
-							height = "488",
+							height = "522",
 							ignoreSize = "False",
-							innerHeight = "488",
-							innerWidth = "850",
+							innerHeight = "522",
+							innerWidth = "868",
 							name = "listView",
 							showScrollbar = "False",
 							sizepercentx = "0",
@@ -165,106 +135,14 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -3,
-								PositionY = -18,
+								PositionY = 2,
 							},
 							uipanelviewmodel = 
 							{
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "850",
-							ZOrder = "1",
-						},
-						{
-							controlID = "act_timeTxt_Panel_root_Panel-returnGiftView_Layer1_activity_Game",
-							UUID = "5774060d_bb11_466b_9f81_d10cd2b08b91",
-							anchorPoint = "False",
-							anchorPointX = "0.5",
-							anchorPointY = "0.5",
-							classname = "MELabel",
-							compPath = "luacomponents.common.MEIconLabel",
-							dstBlendFunc = "771",
-							FontColor = "#FFFFFFFF",
-							fontName = "font/MFLiHei_Noncommercial.ttf",
-							fontShadow = 
-							{
-								IsShadow = false,
-								ShadowColor = "#FFFFFFFF",
-								ShadowAlpha = 255,
-								OffsetX = 0,
-								OffsetY = 0,
-							},
-							fontSize = "22",
-							fontStroke = 
-							{
-								IsStroke = true,
-								StrokeColor = "#FF5679C5",
-								StrokeSize = 2,
-							},
-							height = "29",
-							ignoreSize = "True",
-							name = "act_timeTxt",
-							nTextAlign = "1",
-							nTextHAlign = "1",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "770",
-							text = "Eventzeit：",
-							touchAble = "False",
-							touchScaleEnable = "False",
-							UILayoutViewModel = 
-							{
-								PositionX = -340,
-								PositionY = 249,
-							},
-							width = "119",
-							ZOrder = "1",
-						},
-						{
-							controlID = "act_time_Panel_root_Panel-returnGiftView_Layer1_activity_Game",
-							UUID = "6198f839_b8dd_464c_9a18_013015627707",
-							anchorPoint = "False",
-							anchorPointX = "0",
-							anchorPointY = "0.5",
-							classname = "MELabel",
-							compPath = "luacomponents.common.MEIconLabel",
-							dstBlendFunc = "771",
-							FontColor = "#FFFFFFFF",
-							fontName = "font/MFLiHei_Noncommercial.ttf",
-							fontShadow = 
-							{
-								IsShadow = false,
-								ShadowColor = "#FFFFFFFF",
-								ShadowAlpha = 255,
-								OffsetX = 0,
-								OffsetY = 0,
-							},
-							fontSize = "22",
-							fontStroke = 
-							{
-								IsStroke = true,
-								StrokeColor = "#FF5679C5",
-								StrokeSize = 2,
-							},
-							height = "29",
-							ignoreSize = "True",
-							name = "act_time",
-							nTextAlign = "1",
-							nTextHAlign = "1",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "770",
-							text = "20200416",
-							touchAble = "False",
-							touchScaleEnable = "False",
-							UILayoutViewModel = 
-							{
-								PositionX = -284,
-								PositionY = 249,
-							},
-							width = "101",
+							width = "868",
 							ZOrder = "1",
 						},
 						{
@@ -279,10 +157,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "42",
+							height = "2",
 							ignoreSize = "True",
 							name = "btn_rule",
-							normal = "ui/summon/002.png",
+							normal = "ui/activity/rerurnGift/011.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -290,11 +168,181 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 404,
-								PositionY = 247,
+								PositionX = 410,
+								PositionY = 253,
 							},
 							UItype = "Button",
-							width = "46",
+							width = "2",
+							ZOrder = "1",
+						},
+						{
+							controlID = "act_time_Panel_root_Panel-returnGiftView_Layer1_activity_Game",
+							UUID = "853d5b92_641b_4f3e_9f84_b1db2c82882c",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							classname = "MELabel",
+							compPath = "luacomponents.common.MEIconLabel",
+							dstBlendFunc = "771",
+							FontColor = "#FFFFFFFF",
+							fontName = "font/MFLiHei_Noncommercial.ttf",
+							fontShadow = 
+							{
+								IsShadow = false,
+								ShadowColor = "#FFFFFFFF",
+								ShadowAlpha = 255,
+								OffsetX = 0,
+								OffsetY = 0,
+							},
+							fontSize = "22",
+							fontStroke = 
+							{
+								IsStroke = false,
+								StrokeColor = "#FFE6E6E6",
+								StrokeSize = 1,
+							},
+							height = "0",
+							ignoreSize = "True",
+							name = "act_time",
+							nTextAlign = "1",
+							nTextHAlign = "1",
+							rotation = "-11",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "770",
+							touchAble = "False",
+							touchScaleEnable = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = -347,
+								PositionY = 240,
+							},
+							width = "0",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "act_timeStart_act_time_Panel_root_Panel-returnGiftView_Layer1_activity_Game",
+									UUID = "8637efda_222b_42ea_adc5_f4cda926f0c3",
+									anchorPoint = "False",
+									anchorPointX = "0",
+									anchorPointY = "0.5",
+									classname = "MELabel",
+									compPath = "luacomponents.common.MEIconLabel",
+									dstBlendFunc = "771",
+									FontColor = "#FFFFFFFF",
+									fontName = "font/MFLiHei_Noncommercial.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "18",
+									fontStroke = 
+									{
+										IsStroke = true,
+										StrokeColor = "#FF3145AD",
+										StrokeSize = 2,
+									},
+									height = "25",
+									ignoreSize = "True",
+									name = "act_timeStart",
+									nTextAlign = "1",
+									nTextHAlign = "1",
+									rotation = "-2",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "20200416",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										PositionX = -86,
+										PositionY = -20,
+									},
+									width = "85",
+									ZOrder = "1",
+								},
+								{
+									controlID = "act_timeEnd_act_time_Panel_root_Panel-returnGiftView_Layer1_activity_Game",
+									UUID = "5c5dc086_c612_4b01_a6ea_3061fbe8d014",
+									anchorPoint = "False",
+									anchorPointX = "0",
+									anchorPointY = "0.5",
+									classname = "MELabel",
+									compPath = "luacomponents.common.MEIconLabel",
+									dstBlendFunc = "771",
+									FontColor = "#FFFFFFFF",
+									fontName = "font/MFLiHei_Noncommercial.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "18",
+									fontStroke = 
+									{
+										IsStroke = true,
+										StrokeColor = "#FF3145AD",
+										StrokeSize = 2,
+									},
+									height = "25",
+									ignoreSize = "True",
+									name = "act_timeEnd",
+									nTextAlign = "1",
+									nTextHAlign = "1",
+									rotation = "-2",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "20200416",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										PositionX = -105,
+										PositionY = -42,
+									},
+									width = "85",
+									ZOrder = "1",
+								},
+							},
+						},
+						{
+							controlID = "Image_returnGiftView_1_Panel_root_Panel-returnGiftView_Layer1_activity_Game",
+							UUID = "ec1ecf05_2bd0_4e67_8fc5_80b16ff15c33",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "False",
+							classname = "MEImage",
+							dstBlendFunc = "771",
+							height = "59",
+							ignoreSize = "True",
+							name = "Image_returnGiftView_1",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							texturePath = "ui/activity/rerurnGift/002.png",
+							touchAble = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = -380,
+								PositionY = 246,
+							},
+							width = "147",
 							ZOrder = "1",
 						},
 					},
@@ -355,7 +403,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "482",
+							height = "522",
 							ignoreSize = "False",
 							name = "panel_item",
 							sizepercentx = "0",
@@ -373,7 +421,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "276",
+							width = "280",
 							ZOrder = "1",
 							components = 
 							{
@@ -387,7 +435,7 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "483",
+									height = "522",
 									ignoreSize = "True",
 									name = "Image_diban",
 									sizepercentx = "0",
@@ -400,7 +448,7 @@ local t =
 									{
 										
 									},
-									width = "281",
+									width = "295",
 									ZOrder = "1",
 									components = 
 									{
@@ -414,7 +462,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF7698E4",
+											FontColor = "#FFBDE3F9",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -445,7 +493,8 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = 211,
+												PositionX = 2,
+												PositionY = 171,
 											},
 											width = "114",
 											ZOrder = "1",
@@ -475,7 +524,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = 84,
+												PositionY = 46,
 											},
 											uipanelviewmodel = 
 											{
@@ -483,6 +532,52 @@ local t =
 												nType = "0"
 											},
 											width = "270",
+											ZOrder = "1",
+										},
+										{
+											controlID = "lab_sumCurGettedNum_Image_diban_panel_item_Panel_prefab_Panel-returnGiftView_Layer1_activity_Game",
+											UUID = "99647730_d68a_44aa_8261_3c549dcc0470",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											classname = "MELabel",
+											compPath = "luacomponents.common.MEIconLabel",
+											dstBlendFunc = "771",
+											FontColor = "#FFFFFFFF",
+											fontName = "phanta.ttf",
+											fontShadow = 
+											{
+												IsShadow = false,
+												ShadowColor = "#FFFFFFFF",
+												ShadowAlpha = 255,
+												OffsetX = 0,
+												OffsetY = 0,
+											},
+											fontSize = "18",
+											fontStroke = 
+											{
+												IsStroke = false,
+												StrokeColor = "#FFE6E6E6",
+												StrokeSize = 1,
+											},
+											height = "20",
+											ignoreSize = "True",
+											name = "lab_sumCurGettedNum",
+											nTextAlign = "1",
+											nTextHAlign = "1",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "770",
+											text = "当前领取人数：666666",
+											touchAble = "False",
+											touchScaleEnable = "False",
+											UILayoutViewModel = 
+											{
+												PositionX = -4,
+												PositionY = -235,
+											},
+											width = "188",
 											ZOrder = "1",
 										},
 										{
@@ -508,57 +603,9 @@ local t =
 												PositionX = 1,
 												PositionY = -44,
 											},
+											visible = "False",
 											width = "261",
 											ZOrder = "1",
-											components = 
-											{
-												
-												{
-													controlID = "lab_sumCurGettedNum_Image_returnGiftView_1_Image_diban_panel_item_Panel_prefab_Panel-returnGiftView_Layer1_activity_Game",
-													UUID = "99647730_d68a_44aa_8261_3c549dcc0470",
-													anchorPoint = "False",
-													anchorPointX = "0.5",
-													anchorPointY = "0.5",
-													classname = "MELabel",
-													compPath = "luacomponents.common.MEIconLabel",
-													dstBlendFunc = "771",
-													FontColor = "#FFFFFFFF",
-													fontName = "phanta.ttf",
-													fontShadow = 
-													{
-														IsShadow = false,
-														ShadowColor = "#FFFFFFFF",
-														ShadowAlpha = 255,
-														OffsetX = 0,
-														OffsetY = 0,
-													},
-													fontSize = "22",
-													fontStroke = 
-													{
-														IsStroke = false,
-														StrokeColor = "#FFE6E6E6",
-														StrokeSize = 1,
-													},
-													height = "25",
-													ignoreSize = "True",
-													name = "lab_sumCurGettedNum",
-													nTextAlign = "1",
-													nTextHAlign = "1",
-													sizepercentx = "0",
-													sizepercenty = "0",
-													sizeType = "0",
-													srcBlendFunc = "770",
-													text = "当前领取人数：666666",
-													touchAble = "False",
-													touchScaleEnable = "False",
-													UILayoutViewModel = 
-													{
-														
-													},
-													width = "228",
-													ZOrder = "1",
-												},
-											},
 										},
 										{
 											controlID = "scrollView_Image_diban_panel_item_Panel_prefab_Panel-returnGiftView_Layer1_activity_Game",
@@ -588,7 +635,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -137,
-												PositionY = -159,
+												PositionY = -122,
 											},
 											uipanelviewmodel = 
 											{
@@ -614,7 +661,6 @@ local t =
 											ignoreSize = "True",
 											name = "btn_buy",
 											normal = "ui/activity/rerurnGift/006.png",
-											opacity = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -622,7 +668,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionY = -199,
+												PositionX = 1,
+												PositionY = -182,
 											},
 											UItype = "Button",
 											width = "152",
@@ -655,7 +702,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														
+														PositionX = -1,
 													},
 													uipanelviewmodel = 
 													{
@@ -708,7 +755,7 @@ local t =
 															classname = "MELabel",
 															compPath = "luacomponents.common.MEIconLabel",
 															dstBlendFunc = "771",
-															FontColor = "#FF3A4DA9",
+															FontColor = "#FFDC61BC",
 															fontName = "font/fangzheng_zhunyuan.ttf",
 															fontShadow = 
 															{
@@ -820,6 +867,7 @@ local t =
 											ignoreSize = "True",
 											name = "btn_getReward",
 											normal = "ui/activity/rerurnGift/007.png",
+											opacity = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -827,7 +875,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionY = -199,
+												PositionX = 1,
+												PositionY = -182,
 											},
 											UItype = "Button",
 											visible = "False",
@@ -845,7 +894,7 @@ local t =
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
 													dstBlendFunc = "771",
-													FontColor = "#FF3A4DA9",
+													FontColor = "#FFAA369B",
 													fontName = "font/MFLiHei_Noncommercial.ttf",
 													fontShadow = 
 													{
@@ -876,7 +925,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														
+														PositionY = -3,
 													},
 													width = "107",
 													ZOrder = "1",
@@ -903,8 +952,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = -199,
+												PositionX = 1,
+												PositionY = -182,
 											},
+											visible = "False",
 											width = "152",
 											ZOrder = "1",
 											components = 
@@ -1263,8 +1314,8 @@ local t =
 		textures = 
 		{
 			"ui/activity/rerurnGift/bg.png",
+			"ui/activity/rerurnGift/011.png",
 			"ui/activity/rerurnGift/002.png",
-			"ui/summon/002.png",
 			"ui/activity/rerurnGift/010.png",
 			"ui/activity/rerurnGift/009.png",
 			"ui/activity/rerurnGift/006.png",

@@ -8,9 +8,9 @@ function TongStoreView:ctor(...)
     self:init("lua.uiconfig.tong.tongStoreView")
 end
 
-function TongStoreView:initData()
+function TongStoreView:initData(storeId)
 
-    self.activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.STORE)[1]
+    self.activityId = storeId or ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.STORE)[1]
     self.activityInfo = ActivityDataMgr2:getActivityInfo(self.activityId)
     self.goodsData_ = {}
 end
@@ -20,9 +20,9 @@ function TongStoreView:initUI(ui)
 
     self.tableView                      = Utils:scrollView2TableView( TFDirector:getChildByPath(ui,"ScrollView_list"))
     self.Panel_item                     = TFDirector:getChildByPath(ui,"Panel_item")
-    self.Label_own                      = TFDirector:getChildByPath(ui,"Label_own"):hide()
-    self.Image_icon                     = TFDirector:getChildByPath(ui,"Image_icon"):hide()
-    self.Panel_own                      = TFDirector:getChildByPath(ui,"Panel_own"):hide()
+    self.Panel_root                      = TFDirector:getChildByPath(ui,"Panel_root")
+    -- self.Image_icon                     = TFDirector:getChildByPath(ui,"Image_icon")
+    -- self.Panel_own                      = TFDirector:getChildByPath(ui,"Panel_own")
     self.Button_close                   = TFDirector:getChildByPath(ui,"Button_close"):hide()
     self.Label_time                     = TFDirector:getChildByPath(ui,"Label_time")
 
@@ -40,9 +40,9 @@ function TongStoreView:initUILogic()
         return
     end
 
-    local st_year, st_month, st_day = Utils:getUTCDateYMD(self.activityInfo.startTime ,false, GV_UTC_TIME_ZONE)
-    local en_year, en_month, en_day = Utils:getUTCDateYMD(self.activityInfo.showEndTime,false, GV_UTC_TIME_ZONE)
-    self.Label_time:setText(TextDataMgr:getText(63887, st_month, st_day, en_month, en_day)..GV_UTC_TIME_STRING)
+    local st_year, st_month, st_day = Utils:getDate(self.activityInfo.startTime)
+    local en_year, en_month, en_day = Utils:getDate(self.activityInfo.showEndTime)
+    self.Label_time:setTextById(63887, st_month, st_day, en_month, en_day)
 
     self:updateStore()
 end
@@ -53,18 +53,39 @@ end
 
 function TongStoreView:updateStore()
     dump(self.activityInfo)
-    local showCurrency = tonumber(self.activityInfo.extendData.showCurrency)
-    if showCurrency then
+    -- local showCurrency = tonumber(self.activityInfo.extendData.showCurrency)
+    -- if showCurrency then
 
-        local count = GoodsDataMgr:getItemCount(showCurrency)
-        self.Label_own:setText(count)
+    --     local count = GoodsDataMgr:getItemCount(showCurrency)
+    --     self.Label_own:setText(count)
 
-        local cfg = GoodsDataMgr:getItemCfg(showCurrency)
-        if cfg then
-            self.Image_icon:setTexture(cfg.icon)
-            self.Panel_own:onClick(function()
-                Utils:showInfo(showCurrency)
-            end)
+    --     local cfg = GoodsDataMgr:getItemCfg(showCurrency)
+    --     if cfg then
+    --         self.Image_icon:setTexture(cfg.icon)
+    --         self.Panel_own:onClick(function()
+    --             Utils:showInfo(showCurrency)
+    --         end)
+    --     end
+    -- end
+
+    if self.activityInfo.extendData and self.activityInfo.extendData.showCurrency and #self.activityInfo.extendData.showCurrency > 0 then
+        local asset = string.split(self.activityInfo.extendData.showCurrency, ",")
+        -- self._ui.Label_tips:setVisible(table.count(asset) == 1)
+        for i = 1 , 7 do
+            local id = tonumber(asset[i])
+            local assertItem = TFDirector:getChildByPath(self.Panel_root,"Panel_own" .. i)  -- self._ui["Panel_own"..i]
+            if id then
+                local itemCfg = GoodsDataMgr:getItemCfg(id)
+                assertItem:getChildByName("Image_icon"):setTexture(itemCfg.icon)
+                assertItem:getChildByName("Label_own"):setText(GoodsDataMgr:getItemCount(id))
+                assertItem:setTouchEnabled(true)
+                assertItem:onClick(function()
+                    Utils:showInfo(id)
+                end)
+                assertItem:show()
+            else
+                assertItem:hide()
+            end
         end
     end
 

@@ -46747,6 +46747,74 @@ return {
         cityLines = 0,
         dungeonRoleId = 0,
     },
+    [749111] = {
+        action2 = "",
+        start_node_id = 749111001,
+        startID = 0,
+        phoneRole = 0,
+        minipack = 0,
+        activityBirth = 0,
+        action1 = "",
+        missDating = 0,
+        phoneEnd = {
+        },
+        endAction = "",
+        buildingId = 0,
+        roleModelScale = 0,
+        roleModelId = 0,
+        other_script_ids = {
+        },
+        datingContent = 0,
+        phoneScript = 0,
+        lines = {
+        },
+        portail = "",
+        callTableName = "MainDialogue",
+        modelId = 0,
+        fail_condition = {
+        },
+        activityType = 0,
+        roleId = 0,
+        item = "",
+        item_type = 0,
+        dungeonDateDes = {
+            [1] = 13206918,
+        },
+        finallyType = 1,
+        dungeonDateHeart = {
+            [1] = {
+                tag_data = {
+                    operator_data = {
+                        right = {
+                            score = 50,
+                        },
+                    },
+                    operator = "mte",
+                },
+                tag = "relation",
+            },
+        },
+        endBg = "ui/dating/datingchangjing/bg_jichang.png",
+        phoneType = {
+        },
+        type = 7,
+        idle = "",
+        datingTitle = 0,
+        id = 749111,
+        endSynopsis = 13205133,
+        endVoice = "",
+        endAction2 = "",
+        datingTypeNew = 73,
+        enter_condition = {
+        },
+        backGround = "",
+        other_info = {
+        },
+        iconPortail = "",
+        action3 = "",
+        cityLines = 0,
+        dungeonRoleId = 0,
+    },
     [1013403] = {
         action2 = "",
         start_node_id = 59001,
@@ -46793,6 +46861,414 @@ return {
         endVoice = "",
         endAction2 = "",
         datingTypeNew = 202,
+        enter_condition = {
+        },
+        backGround = "",
+        other_info = {
+        },
+        iconPortail = "",
+        action3 = "",
+        cityLines = 0,
+        dungeonRoleId = 0,
+    },
+    [749110] = {
+        action2 = "",
+        start_node_id = 749110001,
+        startID = 0,
+        phoneRole = 0,
+        minipack = 0,
+        activityBirth = 0,
+        action1 = "",
+        missDating = 0,
+        phoneEnd = {
+        },
+        endAction = "",
+        buildingId = 0,
+        roleModelScale = 0,
+        roleModelId = 0,
+        other_script_ids = {
+        },
+        datingContent = 0,
+        phoneScript = 0,
+        lines = {
+        },
+        portail = "",
+        callTableName = "MainDialogue",
+        modelId = 0,
+        fail_condition = {
+        },
+        activityType = 0,
+        roleId = 0,
+        item = "",
+        item_type = 0,
+        dungeonDateDes = {
+            [1] = 13206917,
+        },
+        finallyType = 1,
+        dungeonDateHeart = {
+            [1] = {
+                tag_data = {
+                    operator_data = {
+                        right = {
+                            score = 50,
+                        },
+                    },
+                    operator = "mte",
+                },
+                tag = "relation",
+            },
+        },
+        endBg = "icon/cg/VITmax_cg2.png",
+        phoneType = {
+        },
+        type = 7,
+        idle = "",
+        datingTitle = 0,
+        id = 749110,
+        endSynopsis = 13205132,
+        endVoice = "",
+        endAction2 = "",
+        datingTypeNew = 73,
+        enter_condition = {
+        },
+        backGround = "",
+        other_info = {
+        },
+        iconPortail = "",
+        action3 = "",
+        cityLines = 0,
+        dungeonRoleId = 0,
+    },
+    [749109] = {
+        action2 = "",
+        start_node_id = 749109001,
+        startID = 0,
+        phoneRole = 0,
+        minipack = 0,
+        activityBirth = 0,
+        action1 = "",
+        missDating = 0,
+        phoneEnd = {
+        },
+        endAction = "",
+        buildingId = 0,
+        roleModelScale = 0,
+        roleModelId = 0,
+        other_script_ids = {
+        },
+        datingContent = 0,
+        phoneScript = 0,
+        lines = {
+        },
+        portail = "",
+        callTableName = "MainDialogue",
+        modelId = 0,
+        fail_condition = {
+        },
+        activityType = 0,
+        roleId = 0,
+        item = "",
+        item_type = 0,
+        dungeonDateDes = {
+            [1] = 13206912,
+        },
+        finallyType = 1,
+        dungeonDateHeart = {
+            [1] = {
+                tag_data = {
+                    operator_data = {
+                        right = {
+                            score = 50,
+                        },
+                    },
+                    operator = "mte",
+                },
+                tag = "relation",
+            },
+        },
+        endBg = "ui/dating/datingchangjing/bg_zhihuibu.png",
+        phoneType = {
+        },
+        type = 7,
+        idle = "",
+        datingTitle = 0,
+        id = 749109,
+        endSynopsis = 13205131,
+        endVoice = "",
+        endAction2 = "",
+        datingTypeNew = 73,
+        enter_condition = {
+        },
+        backGround = "",
+        other_info = {
+        },
+        iconPortail = "",
+        action3 = "",
+        cityLines = 0,
+        dungeonRoleId = 0,
+    },
+    [749108] = {
+        action2 = "",
+        start_node_id = 749108001,
+        startID = 0,
+        phoneRole = 0,
+        minipack = 0,
+        activityBirth = 0,
+        action1 = "",
+        missDating = 0,
+        phoneEnd = {
+        },
+        endAction = "",
+        buildingId = 0,
+        roleModelScale = 0,
+        roleModelId = 0,
+        other_script_ids = {
+        },
+        datingContent = 0,
+        phoneScript = 0,
+        lines = {
+        },
+        portail = "",
+        callTableName = "MainDialogue",
+        modelId = 0,
+        fail_condition = {
+        },
+        activityType = 0,
+        roleId = 0,
+        item = "",
+        item_type = 0,
+        dungeonDateDes = {
+            [1] = 13206911,
+        },
+        finallyType = 1,
+        dungeonDateHeart = {
+            [1] = {
+                tag_data = {
+                    operator_data = {
+                        right = {
+                            score = 50,
+                        },
+                    },
+                    operator = "mte",
+                },
+                tag = "relation",
+            },
+        },
+        endBg = "icon/cg/VITmax_cg1.png",
+        phoneType = {
+        },
+        type = 7,
+        idle = "",
+        datingTitle = 0,
+        id = 749108,
+        endSynopsis = 13205130,
+        endVoice = "",
+        endAction2 = "",
+        datingTypeNew = 73,
+        enter_condition = {
+        },
+        backGround = "",
+        other_info = {
+        },
+        iconPortail = "",
+        action3 = "",
+        cityLines = 0,
+        dungeonRoleId = 0,
+    },
+    [749107] = {
+        action2 = "",
+        start_node_id = 749107001,
+        startID = 0,
+        phoneRole = 0,
+        minipack = 0,
+        activityBirth = 0,
+        action1 = "",
+        missDating = 0,
+        phoneEnd = {
+        },
+        endAction = "",
+        buildingId = 0,
+        roleModelScale = 0,
+        roleModelId = 0,
+        other_script_ids = {
+        },
+        datingContent = 0,
+        phoneScript = 0,
+        lines = {
+        },
+        portail = "",
+        callTableName = "MainDialogue",
+        modelId = 0,
+        fail_condition = {
+        },
+        activityType = 0,
+        roleId = 0,
+        item = "",
+        item_type = 0,
+        dungeonDateDes = {
+            [1] = 13206907,
+        },
+        finallyType = 1,
+        dungeonDateHeart = {
+            [1] = {
+                tag_data = {
+                    operator_data = {
+                        right = {
+                            score = 50,
+                        },
+                    },
+                    operator = "mte",
+                },
+                tag = "relation",
+            },
+        },
+        endBg = "ui/dating/datingchangjing/bg_fabuhui.png",
+        phoneType = {
+        },
+        type = 7,
+        idle = "",
+        datingTitle = 0,
+        id = 749107,
+        endSynopsis = 13205129,
+        endVoice = "",
+        endAction2 = "",
+        datingTypeNew = 73,
+        enter_condition = {
+        },
+        backGround = "",
+        other_info = {
+        },
+        iconPortail = "",
+        action3 = "",
+        cityLines = 0,
+        dungeonRoleId = 0,
+    },
+    [749106] = {
+        action2 = "",
+        start_node_id = 749106001,
+        startID = 0,
+        phoneRole = 0,
+        minipack = 0,
+        activityBirth = 0,
+        action1 = "",
+        missDating = 0,
+        phoneEnd = {
+        },
+        endAction = "",
+        buildingId = 0,
+        roleModelScale = 0,
+        roleModelId = 0,
+        other_script_ids = {
+        },
+        datingContent = 0,
+        phoneScript = 0,
+        lines = {
+        },
+        portail = "",
+        callTableName = "MainDialogue",
+        modelId = 0,
+        fail_condition = {
+        },
+        activityType = 0,
+        roleId = 0,
+        item = "",
+        item_type = 0,
+        dungeonDateDes = {
+            [1] = 13206905,
+        },
+        finallyType = 1,
+        dungeonDateHeart = {
+            [1] = {
+                tag_data = {
+                    operator_data = {
+                        right = {
+                            score = 50,
+                        },
+                    },
+                    operator = "mte",
+                },
+                tag = "relation",
+            },
+        },
+        endBg = "ui/dating/datingchangjing/bg_ketingxin.png",
+        phoneType = {
+        },
+        type = 7,
+        idle = "",
+        datingTitle = 0,
+        id = 749106,
+        endSynopsis = 13205128,
+        endVoice = "",
+        endAction2 = "",
+        datingTypeNew = 73,
+        enter_condition = {
+        },
+        backGround = "",
+        other_info = {
+        },
+        iconPortail = "",
+        action3 = "",
+        cityLines = 0,
+        dungeonRoleId = 0,
+    },
+    [749105] = {
+        action2 = "",
+        start_node_id = 749105001,
+        startID = 0,
+        phoneRole = 0,
+        minipack = 0,
+        activityBirth = 0,
+        action1 = "",
+        missDating = 0,
+        phoneEnd = {
+        },
+        endAction = "",
+        buildingId = 0,
+        roleModelScale = 0,
+        roleModelId = 0,
+        other_script_ids = {
+        },
+        datingContent = 0,
+        phoneScript = 0,
+        lines = {
+        },
+        portail = "",
+        callTableName = "MainDialogue",
+        modelId = 0,
+        fail_condition = {
+        },
+        activityType = 0,
+        roleId = 0,
+        item = "",
+        item_type = 0,
+        dungeonDateDes = {
+            [1] = 13206901,
+        },
+        finallyType = 1,
+        dungeonDateHeart = {
+            [1] = {
+                tag_data = {
+                    operator_data = {
+                        right = {
+                            score = 50,
+                        },
+                    },
+                    operator = "mte",
+                },
+                tag = "relation",
+            },
+        },
+        endBg = "ui/dating/datingchangjing/bg_xuexiaozoulang.png",
+        phoneType = {
+        },
+        type = 7,
+        idle = "",
+        datingTitle = 0,
+        id = 749105,
+        endSynopsis = 13205127,
+        endVoice = "",
+        endAction2 = "",
+        datingTypeNew = 73,
         enter_condition = {
         },
         backGround = "",
