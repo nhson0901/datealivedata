@@ -12,7 +12,6 @@ function TaskActivityView:ctor(...)
     self.super.ctor(self)
     self:initData(...)
     local uiName = self.activityInfo_.extendData.uiName or "taskActivityView"
-
     self:init("lua.uiconfig.activity."..uiName)
 end
 
@@ -302,12 +301,12 @@ function TaskActivityView:refreshView()
 
     if self.activityInfo_ then
          if self.Label_time_begin then
-            local startDate = Utils:getLocalDate(self.activityInfo_.startTime)
+            local startDate = Utils:getUTCDate(self.activityInfo_.startTime, GV_UTC_TIME_ZONE)
             local startDateStr = startDate:fmt("%Y.%m.%d")
-            local endDate = Utils:getLocalDate(self.activityInfo_.endTime)
+            local endDate = Utils:getUTCDate(self.activityInfo_.endTime, GV_UTC_TIME_ZONE)
             local endDateStr = endDate:fmt("%Y.%m.%d")
             self.Label_time_begin:setText(startDateStr)
-            self.Label_time_end:setText(endDateStr) 
+            self.Label_time_end:setText(endDateStr ..GV_UTC_TIME_STRING) 
         end
 
         if self.Panel_time then

@@ -2342,8 +2342,8 @@ function Utils:updateActivityTime( timeLabel, startTime, endTime , skewX )
 
     local label_start = TFDirector:getChildByPath(timeLabel,"label_start")
     local label_end = TFDirector:getChildByPath(timeLabel,"label_end")
-    label_start:setText(self:getDateString(startTime))
-    label_end:setText(self:getDateString(endTime))
+    label_start:setText(self:getUTCDateString(startTime))
+    label_end:setText(self:getUTCDateString(endTime) ..GV_UTC_TIME_STRING)
     skewX = skewX or 0
     label_start:setSkewX(skewX)
     label_end:setSkewX(skewX)
