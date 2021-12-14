@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -54,55 +54,30 @@ local t =
 					backGroundScale9Enable = "False",
 					classname = "MEImage",
 					dstBlendFunc = "771",
-					height = "350",
-					ignoreSize = "False",
+					height = "458",
+					ignoreSize = "True",
 					name = "Image_downLoadingTips_1",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/common/pop_ui/pop_bg_01.png",
+					texturePath = "ui/login/downloadTips.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
 						IsPercent = true,
 						nGravity = 1,
 					},
-					width = "600",
+					width = "816",
 					ZOrder = "1",
 					components = 
 					{
 						
 						{
-							controlID = "Image_bg_Image_downLoadingTips_1_Panel-downLoadingTips_Layer1_loginScene_Game",
-							UUID = "d8f170e2_0b24_4c72_8080_dc0be9a7ec3e",
-							anchorPoint = "False",
-							anchorPointX = "0.5",
-							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
-							classname = "MEImage",
-							dstBlendFunc = "771",
-							height = "242",
-							ignoreSize = "False",
-							name = "Image_bg",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "1",
-							texturePath = "ui/common/pop_ui/pop_bg_02.png",
-							touchAble = "False",
-							UILayoutViewModel = 
-							{
-								PositionY = 4,
-							},
-							width = "575",
-							ZOrder = "1",
-						},
-						{
 							controlID = "Label_Title_Image_downLoadingTips_1_Panel-downLoadingTips_Layer1_loginScene_Game",
 							UUID = "d7ed3cc0_3151_4f04_97e5_c033259b7400",
 							anchorPoint = "False",
-							anchorPointX = "0",
+							anchorPointX = "0.5",
 							anchorPointY = "0.5",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
@@ -138,8 +113,8 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -284,
-								PositionY = 146,
+								PositionX = -336,
+								PositionY = 196,
 							},
 							width = "122",
 							ZOrder = "1",
@@ -176,13 +151,13 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+							backGroundScale9Enable = "False",
 							classname = "MEButton",
 							ClickHighLightEnabled = "True",
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "40",
+							height = "45",
 							ignoreSize = "False",
 							name = "Button_close",
 							normal = "ui/common/pop_ui/pop_btn_01.png",
@@ -194,10 +169,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -163,
-								PositionY = -141,
+								PositionY = -185,
 							},
 							UItype = "Button",
-							width = "200",
+							width = "124",
 							ZOrder = "1",
 							components = 
 							{
@@ -255,13 +230,13 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+							backGroundScale9Enable = "False",
 							classname = "MEButton",
 							ClickHighLightEnabled = "True",
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "40",
+							height = "45",
 							ignoreSize = "False",
 							name = "Button_ok",
 							normal = "ui/common/pop_ui/pop_btn_01.png",
@@ -273,10 +248,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 168,
-								PositionY = -141,
+								PositionY = -185,
 							},
 							UItype = "Button",
-							width = "200",
+							width = "124",
 							ZOrder = "1",
 							components = 
 							{
@@ -343,7 +318,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "238",
+							height = "458",
 							ignoreSize = "False",
 							name = "Panel_down",
 							sizepercentx = "0",
@@ -353,18 +328,19 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -290,
-								PositionY = -115,
+								PositionX = -408,
+								PositionY = -229,
 								IsPercent = true,
-								PercentX = -48.34,
-								PercentY = -32.89,
+								PercentX = -50,
+								PercentY = -50,
 							},
 							uipanelviewmodel = 
 							{
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "580",
+							visible = "False",
+							width = "816",
 							ZOrder = "1",
 							components = 
 							{
@@ -387,7 +363,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "25",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -395,7 +371,7 @@ local t =
 										StrokeSize = 1,
 									},
 									hAlignment = "1",
-									height = "29",
+									height = "27",
 									ignoreSize = "True",
 									name = "size_text",
 									sizepercentx = "0",
@@ -407,14 +383,61 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 235,
-										PositionY = 95,
+										PositionX = 330,
+										PositionY = 107,
 										IsPercent = true,
-										PercentX = 40.63,
-										PercentY = 40.11,
+										PercentX = 40.41,
+										PercentY = 23.3,
 									},
 									vAlignment = "1",
-									width = "64",
+									width = "63",
+									ZOrder = "1",
+								},
+								{
+									controlID = "text_Panel_down_Image_downLoadingTips_1_Panel-downLoadingTips_Layer1_loginScene_Game",
+									UUID = "328c778b_8743_42db_bc85_d0ad2dadf206",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									classname = "METextArea",
+									dstBlendFunc = "771",
+									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "24",
+									fontStroke = 
+									{
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
+									},
+									hAlignment = "1",
+									height = "27",
+									ignoreSize = "True",
+									name = "text",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "发现               可下载，是否更新？",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										PositionX = 408,
+										PositionY = 107,
+										IsPercent = true,
+										PercentX = 50,
+										PercentY = 23.43,
+									},
+									vAlignment = "1",
+									width = "345",
 									ZOrder = "1",
 								},
 								{
@@ -450,66 +473,19 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Update contents in patch 1025",
+									text = "1025版本更新内容",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 290,
-										PositionY = 200,
+										PositionX = 408,
+										PositionY = 385,
 										IsPercent = true,
 										PercentX = 50,
 										PercentY = 84.15,
 									},
 									vAlignment = "1",
-									visible = "False",
-									width = "293",
-									ZOrder = "1",
-								},
-								{
-									controlID = "text_Panel_down_Image_downLoadingTips_1_Panel-downLoadingTips_Layer1_loginScene_Game",
-									UUID = "20130889_aadf_4a18_9849_6954fded570e",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									classname = "MELabel",
-									compPath = "luacomponents.common.MEIconLabel",
-									dstBlendFunc = "771",
-									FontColor = "#FFFFFFFF",
-									fontName = "font/fangzheng_zhunyuan.ttf",
-									fontShadow = 
-									{
-										IsShadow = false,
-										ShadowColor = "#FFFFFFFF",
-										ShadowAlpha = 255,
-										OffsetX = 0,
-										OffsetY = 0,
-									},
-									fontSize = "25",
-									fontStroke = 
-									{
-										IsStroke = false,
-										StrokeColor = "#FFE6E6E6",
-										StrokeSize = 1,
-									},
-									height = "0",
-									ignoreSize = "False",
-									name = "text",
-									nTextAlign = "1",
-									nTextHAlign = "0",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "770",
-									text = "发现               可下载，是否更新？",
-									touchAble = "False",
-									touchScaleEnable = "False",
-									UILayoutViewModel = 
-									{
-										PositionX = 340,
-										PositionY = 95,
-									},
-									width = "400",
+									width = "199",
 									ZOrder = "1",
 								},
 								{
@@ -539,15 +515,14 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -52,
-										PositionY = 8,
+										PositionX = 27,
+										PositionY = 140,
 									},
 									uipanelviewmodel = 
 									{
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "760",
 									ZOrder = "1",
 								},
@@ -586,7 +561,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "1 Char",
+									text = "1文文字字文文字字",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -594,33 +569,7 @@ local t =
 										PositionY = -45,
 									},
 									visible = "False",
-									width = "63",
-									ZOrder = "1",
-								},
-								{
-									controlID = "Image_downLoadingTips_1_Panel_down_Image_downLoadingTips_1_Panel-downLoadingTips_Layer1_loginScene_Game",
-									UUID = "5f8495e4_b9cb_4af9_9131_6df0476f77cc",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									classname = "MEImage",
-									dstBlendFunc = "771",
-									height = "51",
-									ignoreSize = "True",
-									name = "Image_downLoadingTips_1",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "1",
-									texturePath = "ui/common/025.png",
-									touchAble = "False",
-									UILayoutViewModel = 
-									{
-										PositionX = 290,
-										PositionY = 167,
-									},
-									width = "61",
+									width = "191",
 									ZOrder = "1",
 								},
 							},
@@ -650,8 +599,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -300,
-								PositionY = -175,
+								PositionX = -408,
+								PositionY = -229,
 								IsPercent = true,
 								PercentX = -50,
 								PercentY = -50,
@@ -661,7 +610,6 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
-							visible = "False",
 							width = "816",
 							ZOrder = "1",
 							components = 
@@ -674,6 +622,7 @@ local t =
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
 									classname = "METextArea",
+									ColorMixing = "#FF30354A",
 									dstBlendFunc = "771",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
@@ -704,11 +653,11 @@ local t =
 									touchScaleEnable = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 308,
-										PositionY = 109,
+										PositionX = 408,
+										PositionY = 210,
 										IsPercent = true,
-										PercentX = 37.77,
-										PercentY = 23.83,
+										PercentX = 50,
+										PercentY = 45.81,
 									},
 									vAlignment = "1",
 									width = "263",
@@ -734,8 +683,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 296,
-										PositionY = 199,
+										PositionX = 408,
+										PositionY = 281,
 									},
 									width = "61",
 									ZOrder = "1",
@@ -762,10 +711,9 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -133,
+								PositionX = -255,
 								PositionY = 192,
 							},
-							visible = "False",
 							width = "14",
 							ZOrder = "1",
 						},
@@ -789,10 +737,9 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -149,
+								PositionX = -271,
 								PositionY = 197,
 							},
-							visible = "False",
 							width = "2",
 							ZOrder = "1",
 						},
@@ -836,10 +783,9 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -143,
+								PositionX = -265,
 								PositionY = 192,
 							},
-							visible = "False",
 							width = "102",
 							ZOrder = "1",
 						},
@@ -856,7 +802,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/common/pop_ui/pop_bg_01.png",
+			"ui/login/downloadTips.png",
 			"ui/common/pop_ui/pop_bg_02.png",
 			"ui/common/pop_ui/pop_btn_01.png",
 			"ui/common/025.png",
