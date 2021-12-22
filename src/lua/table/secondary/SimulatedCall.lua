@@ -7,7 +7,7 @@ return {
             [2] = 90,
         },
         freeConsump = {
-            [570046] = 1,
+            [570072] = 1,
         },
         displayParticles = {
             [1] = 250137,
@@ -19,10 +19,10 @@ return {
         freeQuantity = 3,
         id = 1,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11000,
-        unlocklevel = 0,
+        unlocklevel = 10,
         reorder = 1,
         firework = "ui/summon/simulation/fs.png",
         recruitmentConsump = {
@@ -56,7 +56,7 @@ return {
             [2] = 110,
         },
         freeConsump = {
-            [570047] = 1,
+            [570073] = 1,
         },
         displayParticles = {
             [1] = 250181,
@@ -68,10 +68,10 @@ return {
         freeQuantity = 3,
         id = 2,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11001,
-        unlocklevel = 0,
+        unlocklevel = 19,
         reorder = 2,
         firework = "ui/summon/simulation/wyl.png",
         recruitmentConsump = {
@@ -105,7 +105,7 @@ return {
             [2] = 80,
         },
         freeConsump = {
-            [570048] = 1,
+            [570074] = 1,
         },
         displayParticles = {
             [1] = 250300,
@@ -117,10 +117,10 @@ return {
         freeQuantity = 3,
         id = 3,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11002,
-        unlocklevel = 0,
+        unlocklevel = 28,
         reorder = 3,
         firework = "ui/summon/simulation/fz.png",
         recruitmentConsump = {
@@ -154,7 +154,7 @@ return {
             [2] = 125,
         },
         freeConsump = {
-            [570039] = 1,
+            [570065] = 1,
         },
         displayParticles = {
             [1] = 250234,
@@ -166,11 +166,11 @@ return {
         freeQuantity = 3,
         id = 4,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11003,
-        unlocklevel = 0,
-        reorder = 4,
+        unlocklevel = 2,
+        reorder = 5,
         firework = "",
         recruitmentConsump = {
             [1] = {
@@ -205,7 +205,7 @@ return {
             [2] = 120,
         },
         freeConsump = {
-            [570040] = 1,
+            [570066] = 1,
         },
         displayParticles = {
             [1] = 250150,
@@ -217,11 +217,11 @@ return {
         freeQuantity = 3,
         id = 5,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11004,
-        unlocklevel = 0,
-        reorder = 5,
+        unlocklevel = 6,
+        reorder = 6,
         firework = "",
         recruitmentConsump = {
             [1] = {
@@ -256,7 +256,7 @@ return {
             [2] = 100,
         },
         freeConsump = {
-            [570041] = 1,
+            [570067] = 1,
         },
         displayParticles = {
             [1] = 250190,
@@ -268,11 +268,11 @@ return {
         freeQuantity = 3,
         id = 6,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11005,
-        unlocklevel = 0,
-        reorder = 6,
+        unlocklevel = 13,
+        reorder = 7,
         firework = "",
         recruitmentConsump = {
             [1] = {
@@ -307,7 +307,7 @@ return {
             [2] = 100,
         },
         freeConsump = {
-            [570042] = 1,
+            [570068] = 1,
         },
         displayParticles = {
             [1] = 250280,
@@ -319,11 +319,11 @@ return {
         freeQuantity = 3,
         id = 7,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11006,
-        unlocklevel = 0,
-        reorder = 7,
+        unlocklevel = 16,
+        reorder = 8,
         firework = "",
         recruitmentConsump = {
             [1] = {
@@ -358,7 +358,7 @@ return {
             [2] = 105,
         },
         freeConsump = {
-            [570043] = 1,
+            [570069] = 1,
         },
         displayParticles = {
             [1] = 250217,
@@ -370,11 +370,11 @@ return {
         freeQuantity = 3,
         id = 8,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11007,
-        unlocklevel = 0,
-        reorder = 8,
+        unlocklevel = 22,
+        reorder = 9,
         firework = "",
         recruitmentConsump = {
             [1] = {
@@ -409,7 +409,7 @@ return {
             [2] = 85,
         },
         freeConsump = {
-            [570044] = 1,
+            [570070] = 1,
         },
         displayParticles = {
             [1] = 250242,
@@ -421,11 +421,11 @@ return {
         freeQuantity = 3,
         id = 9,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11008,
-        unlocklevel = 0,
-        reorder = 9,
+        unlocklevel = 25,
+        reorder = 10,
         firework = "",
         recruitmentConsump = {
             [1] = {
@@ -460,7 +460,7 @@ return {
             [2] = 110,
         },
         freeConsump = {
-            [570045] = 1,
+            [570071] = 1,
         },
         displayParticles = {
             [1] = 250262,
@@ -472,11 +472,11 @@ return {
         freeQuantity = 3,
         id = 10,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11009,
-        unlocklevel = 0,
-        reorder = 10,
+        unlocklevel = 31,
+        reorder = 11,
         firework = "",
         recruitmentConsump = {
             [1] = {
@@ -508,10 +508,10 @@ return {
         name2 = "31601",
         spiritShifting1 = {
             [1] = -15,
-            [2] = 110,
+            [2] = 80,
         },
         freeConsump = {
-            [562013] = 1,
+            [570075] = 1,
         },
         displayParticles = {
             [1] = 250331,
@@ -519,16 +519,16 @@ return {
             [3] = 250335,
         },
         spirit = 110413,
-        coordinates = "190001042",
+        coordinates = "1705097",
         freeQuantity = 3,
         id = 11,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11010,
-        unlocklevel = 0,
-        reorder = 11,
-        firework = "",
+        unlocklevel = 32,
+        reorder = 4,
+        firework = "ui/summon/simulation/ks01.png",
         recruitmentConsump = {
             [1] = {
                 count = {
@@ -549,8 +549,6 @@ return {
             },
         },
         spiritShifting = {
-            [1] = -50,
-            [2] = -80,
         },
         exchangeQuantity = 3,
     },
@@ -574,10 +572,10 @@ return {
         freeQuantity = 3,
         id = 12,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11011,
-        unlocklevel = 0,
+        unlocklevel = 35,
         reorder = 12,
         firework = "",
         recruitmentConsump = {
@@ -622,13 +620,13 @@ return {
         },
         spirit = 112801,
         coordinates = "190001044",
-        freeQuantity = 16,
+        freeQuantity = 3,
         id = 13,
         exchangeConsump = {
-            [500080] = 10,
+            [500127] = 10,
         },
         relatedSummon = 11012,
-        unlocklevel = 0,
+        unlocklevel = 34,
         reorder = 13,
         firework = "",
         recruitmentConsump = {

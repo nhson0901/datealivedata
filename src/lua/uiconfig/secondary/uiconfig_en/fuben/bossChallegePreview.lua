@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -225,7 +225,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "37",
+											height = "34",
 											ignoreSize = "True",
 											name = "Label_title",
 											nTextAlign = "1",
@@ -242,7 +242,7 @@ local t =
 												PositionX = -355,
 												PositionY = 179,
 											},
-											width = "122",
+											width = "184",
 											ZOrder = "1",
 											components = 
 											{
@@ -295,7 +295,7 @@ local t =
 															backGroundScale9Enable = "False",
 															classname = "MEImage",
 															dstBlendFunc = "771",
-															height = "26",
+															height = "32",
 															ignoreSize = "True",
 															name = "Image_line",
 															sizepercentx = "0",
@@ -308,7 +308,8 @@ local t =
 															{
 																PositionX = 3,
 															},
-															width = "5",
+															visible = "False",
+															width = "4",
 															ZOrder = "1",
 														},
 														{
@@ -337,7 +338,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "16",
+															height = "0",
 															ignoreSize = "True",
 															name = "Label_english",
 															nTextAlign = "1",
@@ -353,7 +354,8 @@ local t =
 																PositionX = 7,
 																PositionY = -7,
 															},
-															width = "115",
+															visible = "False",
+															width = "0",
 															ZOrder = "1",
 														},
 													},
@@ -414,7 +416,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
+													height = "28",
 													ignoreSize = "True",
 													name = "Label_flag_title",
 													nTextAlign = "1",
@@ -431,7 +433,7 @@ local t =
 														PositionX = 7,
 														PositionY = -2,
 													},
-													width = "99",
+													width = "120",
 													ZOrder = "1",
 												},
 											},
@@ -480,7 +482,7 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEButton",
 											ClickHighLightEnabled = "True",
 											dstBlendFunc = "771",
@@ -491,7 +493,7 @@ local t =
 											{
 												nHitType = 3,
 											},
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Button_auto_match",
 											normal = "ui/fuben/boss_challege/btn3.png",
 											sizepercentx = "0",
@@ -501,11 +503,11 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 292,
+												PositionX = 281,
 												PositionY = -172,
 											},
 											UItype = "Button",
-											width = "122",
+											width = "142",
 											ZOrder = "1",
 											components = 
 											{
@@ -552,7 +554,7 @@ local t =
 													{
 														
 													},
-													width = "91",
+													width = "126",
 													ZOrder = "1",
 												},
 											},
@@ -584,7 +586,7 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 164,
+												PositionX = 144,
 												PositionY = -172,
 											},
 											UItype = "Button",
@@ -635,7 +637,7 @@ local t =
 													{
 														
 													},
-													width = "90",
+													width = "102",
 													ZOrder = "1",
 												},
 											},
@@ -696,8 +698,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "label_tip1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -713,7 +715,7 @@ local t =
 												PositionX = -171,
 												PositionY = 130,
 											},
-											width = "170",
+											width = "184",
 											ZOrder = "1",
 										},
 										{
@@ -759,7 +761,7 @@ local t =
 												PositionX = -161,
 												PositionY = 130,
 											},
-											width = "14",
+											width = "13",
 											ZOrder = "1",
 										},
 										{
@@ -802,10 +804,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -223,
+												PositionX = -205,
 												PositionY = -121,
 											},
-											width = "107",
+											width = "141",
 											ZOrder = "1",
 										},
 										{
@@ -851,7 +853,7 @@ local t =
 												PositionX = -204,
 												PositionY = -122,
 											},
-											width = "37",
+											width = "46",
 											ZOrder = "1",
 										},
 										{

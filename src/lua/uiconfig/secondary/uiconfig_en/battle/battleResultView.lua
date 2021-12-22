@@ -1422,7 +1422,7 @@ local t =
 														PositionX = -6,
 														PositionY = 6,
 													},
-													width = "191",
+													width = "186",
 													ZOrder = "1",
 												},
 												{
@@ -8048,7 +8048,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,

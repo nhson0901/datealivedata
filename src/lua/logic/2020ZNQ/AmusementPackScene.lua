@@ -21,6 +21,8 @@
 * 
 ]]
 
+local AmusementPackMainView = import(".AmusementPackMainView")
+
 local AmusementPackScene = class("AmusementPackScene", BaseScene)
 
 function AmusementPackScene:ctor(...)
@@ -35,7 +37,7 @@ function AmusementPackScene:onEnter()
 end
 
 function AmusementPackScene:addView()
-	self.baseView =  WorldRoomDataMgr:getCurWorldMainView()
+	self.baseView = AmusementPackMainView:new()
 	self:addLayer(self.baseView)
 end
 

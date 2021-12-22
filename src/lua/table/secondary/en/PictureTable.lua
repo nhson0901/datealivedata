@@ -7844,4 +7844,89 @@ return {
         res = "ui/activity/rerurnGift/002.png",
         res_en = "ui/activity/rerurnGift/002_en.png",
     },
+    [1574] = {
+        id = 1574,
+        res = "ui/activity/activityStyle/wefareSignActivity/style3/001.png",
+        res_en = "ui/activity/activityStyle/wefareSignActivity/style3/001_en.png",
+    },
+    [1575] = {
+        id = 1575,
+        res = "ui/activity/2020SnowDay/book/bggg.png",
+        res_en = "ui/activity/2020SnowDay/book/bggg_en.png",
+    },
+    [1576] = {
+        id = 1576,
+        res = "ui/activity/2020SnowDay/memory/007.png",
+        res_en = "ui/activity/2020SnowDay/memory/007_en.png",
+    },
+    [1577] = {
+        id = 1577,
+        res = "ui/activity/snowFestivalFightView/007.png",
+        res_en = "ui/activity/snowFestivalFightView/007_en.png",
+    },
+    [1578] = {
+        id = 1578,
+        res = "ui/activity/snow/2.png",
+        res_en = "ui/activity/snow/2_en.png",
+    },
+    [1579] = {
+        id = 1579,
+        res = "ui/activity/znq_yly/help/005.png",
+        res_en = "ui/activity/znq_yly/help/005_en.png",
+    },
+    [1580] = {
+        id = 1580,
+        res = "ui/activity/znq_yly/help/006.png",
+        res_en = "ui/activity/znq_yly/help/006_en.png",
+    },
+    [1581] = {
+        id = 1581,
+        res = "ui/setting/new/bg5.png",
+        res_en = "ui/setting/new/bg5_en.png",
+    },
+    [1582] = {
+        id = 1582,
+        res = "ui/activity/activity_bg/jumpbg5.png",
+        res_en = "ui/activity/activity_bg/jumpbg5_en.png",
+    },
+    [1583] = {
+        id = 1583,
+        res = "ui/activity/activity_bg/jumpbutton5.png",
+        res_en = "ui/activity/activity_bg/jumpbutton5_en.png",
+    },
+    [1584] = {
+        id = 1584,
+        res = "ui/summon/simulation/ks01.png",
+        res_en = "ui/summon/simulation/ks01_en.png",
+    },
+    [1585] = {
+        id = 1585,
+        res = "icon/equipment/suit/hanfushengdan.png",
+        res_en = "icon/equipment/suit/hanfushengdan_en.png",
+    },
+    [1586] = {
+        id = 1586,
+        res = "icon/equipment/name/hanfushengdan1.png",
+        res_en = "icon/equipment/name/hanfushengdan1_en.png",
+    },
+    [1587] = {
+        id = 1587,
+        res = "icon/equipment/name/hanfushengdan2.png",
+        res_en = "icon/equipment/name/hanfushengdan2_en.png",
+    },
+    [1588] = {
+        id = 1588,
+        res = "icon/equipment/name/hanfushengdan3.png",
+        res_en = "icon/equipment/name/hanfushengdan3_en.png",
+    },
+    [1589] = {
+        id = 1589,
+        res = "ui/activity/fashionStore/1/003.png",
+        res_en = "ui/activity/fashionStore/1/003_en.png",
+    },
+    [1590] = {
+        id = 1590,
+        res = "ui/activity/fashionWeek/001.png",
+        res_en = "ui/activity/fashionWeek/001_en.png",
+    },
 }

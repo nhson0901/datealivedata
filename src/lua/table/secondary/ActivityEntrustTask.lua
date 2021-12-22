@@ -57,7 +57,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "大家一起围在餐桌旁的氛围，也许有时太过吵闹？",
+        des2 = "190001244",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -73,7 +73,7 @@ return {
         id = 190020,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -220,7 +220,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -236,7 +236,7 @@ return {
         id = 190213,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -304,7 +304,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -320,7 +320,7 @@ return {
         id = 190022,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -505,7 +505,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -521,7 +521,7 @@ return {
         id = 190215,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -823,7 +823,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -839,7 +839,7 @@ return {
         id = 190217,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -1064,7 +1064,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "另一个计划——为下一步约会计划做准备",
+        des2 = "190001295",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -1080,7 +1080,7 @@ return {
         id = 190219,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -1267,7 +1267,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -1283,7 +1283,7 @@ return {
         id = 190029,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -1386,7 +1386,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -1402,7 +1402,7 @@ return {
         id = 190030,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -1507,7 +1507,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -1523,7 +1523,7 @@ return {
         id = 190031,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -1627,7 +1627,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "偶像仍在向前进发——",
+        des2 = "190001247",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -1643,7 +1643,7 @@ return {
         id = 190032,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -1747,7 +1747,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "滑雪比赛似乎进入了高潮，究竟最后谁会获得冠军呢？",
+        des2 = "190001243",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -1763,7 +1763,7 @@ return {
         id = 190033,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -1867,7 +1867,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "来到雪山旅馆当然要享受一下温泉！",
+        des2 = "190001248",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -1883,7 +1883,7 @@ return {
         id = 190034,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -2179,7 +2179,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -2195,7 +2195,7 @@ return {
         id = 190101,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -2334,7 +2334,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——十香的礼物·其一",
+        des2 = "190001249",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -2350,7 +2350,7 @@ return {
         id = 190102,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -2490,7 +2490,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——十香的礼物·其二",
+        des2 = "190001250",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -2506,7 +2506,7 @@ return {
         id = 190103,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -2645,7 +2645,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——十香的礼物·其三",
+        des2 = "190001251",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -2661,7 +2661,7 @@ return {
         id = 190104,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -2800,7 +2800,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——十香的礼物·其四",
+        des2 = "190001252",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -2816,7 +2816,7 @@ return {
         id = 190105,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -2955,7 +2955,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——十香的礼物·其五",
+        des2 = "190001253",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -2971,7 +2971,7 @@ return {
         id = 190106,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -3111,7 +3111,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——十香的礼物·终",
+        des2 = "190001254",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -3127,7 +3127,7 @@ return {
         id = 190107,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -3232,7 +3232,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -3248,7 +3248,7 @@ return {
         id = 190108,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -3391,7 +3391,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——折纸的礼物·其一",
+        des2 = "190001255",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -3407,7 +3407,7 @@ return {
         id = 190109,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -4783,7 +4783,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——四糸乃的礼物·其四",
+        des2 = "190001264",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -4799,7 +4799,7 @@ return {
         id = 190119,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -4942,7 +4942,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——四糸乃的礼物·其五",
+        des2 = "190001265",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -4958,7 +4958,7 @@ return {
         id = 190120,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -5139,7 +5139,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——四糸乃的礼物·终",
+        des2 = "190001266",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -5155,7 +5155,7 @@ return {
         id = 190121,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -5260,7 +5260,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -5276,7 +5276,7 @@ return {
         id = 190122,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -5455,7 +5455,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——狂三的礼物·其一",
+        des2 = "190001267",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -5471,7 +5471,7 @@ return {
         id = 190123,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -5610,7 +5610,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——狂三的礼物·其二",
+        des2 = "190001268",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -5626,7 +5626,7 @@ return {
         id = 190124,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -5765,7 +5765,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——狂三的礼物·其三",
+        des2 = "190001269",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -5781,7 +5781,7 @@ return {
         id = 190125,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -5920,7 +5920,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——狂三的礼物·其四",
+        des2 = "190001270",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -5936,7 +5936,7 @@ return {
         id = 190126,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -6113,7 +6113,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "另一个计划——为下一步约会计划做准备",
+        des2 = "190001295",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6129,7 +6129,7 @@ return {
         id = 190220,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -6154,7 +6154,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "The Route C——锻炼很重要3",
+        des2 = "190001294",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6170,7 +6170,7 @@ return {
         id = 190218,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -6195,7 +6195,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——狂三的礼物·其五",
+        des2 = "190001271",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6211,7 +6211,7 @@ return {
         id = 190127,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -6388,7 +6388,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "The Route C——锻炼很重要2",
+        des2 = "190001293",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6404,7 +6404,7 @@ return {
         id = 190216,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -6429,7 +6429,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "The Route C——锻炼很重要1",
+        des2 = "190001292",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6445,7 +6445,7 @@ return {
         id = 190214,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -6470,7 +6470,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "The Route B——未知的情感3",
+        des2 = "190001291",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6486,7 +6486,7 @@ return {
         id = 190212,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -6511,7 +6511,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——狂三的礼物·终",
+        des2 = "190001272",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6527,7 +6527,7 @@ return {
         id = 190128,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -6746,7 +6746,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6762,7 +6762,7 @@ return {
         id = 190001,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -6787,7 +6787,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "The Route B——未知的情感2",
+        des2 = "190001290",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6803,7 +6803,7 @@ return {
         id = 190210,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -6832,7 +6832,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -6848,7 +6848,7 @@ return {
         id = 190129,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -7029,7 +7029,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "The Route B——未知的情感1",
+        des2 = "190001289",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7045,7 +7045,7 @@ return {
         id = 190208,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -7072,7 +7072,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7088,7 +7088,7 @@ return {
         id = 190002,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -7115,7 +7115,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7131,7 +7131,7 @@ return {
         id = 190010,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -7156,7 +7156,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——琴里的礼物·其一",
+        des2 = "190001273",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7172,7 +7172,7 @@ return {
         id = 190130,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -7349,7 +7349,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "The Route A——湖上之旅3",
+        des2 = "190001288",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7365,7 +7365,7 @@ return {
         id = 190206,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -7392,7 +7392,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7408,7 +7408,7 @@ return {
         id = 190003,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -7435,7 +7435,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7451,7 +7451,7 @@ return {
         id = 190017,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -7476,7 +7476,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——琴里的礼物·其二",
+        des2 = "190001274",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7492,7 +7492,7 @@ return {
         id = 190131,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -7560,7 +7560,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "下一秒，化身桌游大师——",
+        des2 = "190001245",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7576,7 +7576,7 @@ return {
         id = 190024,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -7680,7 +7680,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7696,7 +7696,7 @@ return {
         id = 190203,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -7724,7 +7724,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "妹妹手册其一：要照顾妹妹的心思是很困难的",
+        des2 = "190001239",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7740,7 +7740,7 @@ return {
         id = 190004,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -7803,7 +7803,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——琴里的礼物·其三",
+        des2 = "190001275",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -7819,7 +7819,7 @@ return {
         id = 190132,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -8000,7 +8000,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8016,7 +8016,7 @@ return {
         id = 190201,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -8043,7 +8043,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8059,7 +8059,7 @@ return {
         id = 190005,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -8122,7 +8122,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——琴里的礼物·其四",
+        des2 = "190001276",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8138,7 +8138,7 @@ return {
         id = 190133,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -8317,7 +8317,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8333,7 +8333,7 @@ return {
         id = 190018,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -8360,7 +8360,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8376,7 +8376,7 @@ return {
         id = 190006,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -8403,7 +8403,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8419,7 +8419,7 @@ return {
         id = 190025,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -8444,7 +8444,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——琴里的礼物·其五",
+        des2 = "190001277",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8460,7 +8460,7 @@ return {
         id = 190134,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -8679,7 +8679,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8695,7 +8695,7 @@ return {
         id = 190007,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -8720,7 +8720,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——折纸的礼物·其三",
+        des2 = "190001257",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8736,7 +8736,7 @@ return {
         id = 190111,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -8761,7 +8761,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——琴里的礼物·终",
+        des2 = "190001278",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8777,7 +8777,7 @@ return {
         id = 190135,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -8844,7 +8844,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8860,7 +8860,7 @@ return {
         id = 190115,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -8923,7 +8923,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——四糸乃的礼物·其三",
+        des2 = "190001263",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8939,7 +8939,7 @@ return {
         id = 190118,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -8964,7 +8964,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——四糸乃的礼物·其二",
+        des2 = "190001262",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -8980,7 +8980,7 @@ return {
         id = 190117,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9008,7 +9008,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "雪山出行，安全第一",
+        des2 = "190001240",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9024,7 +9024,7 @@ return {
         id = 190008,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9049,7 +9049,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——四糸乃的礼物·其一",
+        des2 = "190001261",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9065,7 +9065,7 @@ return {
         id = 190116,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9094,7 +9094,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9110,7 +9110,7 @@ return {
         id = 190136,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -9249,7 +9249,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——折纸的礼物·终",
+        des2 = "190001260",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9265,7 +9265,7 @@ return {
         id = 190114,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9290,7 +9290,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——折纸的礼物·其五",
+        des2 = "190001259",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9306,7 +9306,7 @@ return {
         id = 190113,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9333,7 +9333,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9349,7 +9349,7 @@ return {
         id = 190009,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -9374,7 +9374,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——折纸的礼物·其四",
+        des2 = "190001258",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9390,7 +9390,7 @@ return {
         id = 190112,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9415,7 +9415,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——万由里的礼物·其一",
+        des2 = "190001279",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9431,7 +9431,7 @@ return {
         id = 190137,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9496,7 +9496,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——折纸的礼物·其二",
+        des2 = "190001256",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9512,7 +9512,7 @@ return {
         id = 190110,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9695,7 +9695,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9711,7 +9711,7 @@ return {
         id = 190023,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -9736,7 +9736,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——万由里的礼物·其二",
+        des2 = "190001280",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9752,7 +9752,7 @@ return {
         id = 190138,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9777,7 +9777,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "The Route A——湖上之旅1",
+        des2 = "190001286",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9793,7 +9793,7 @@ return {
         id = 190202,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -9935,7 +9935,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "赌上恶作剧大师之名——",
+        des2 = "190001246",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -9951,7 +9951,7 @@ return {
         id = 190028,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -10054,7 +10054,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——万由里的礼物·其三",
+        des2 = "190001281",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10070,7 +10070,7 @@ return {
         id = 190139,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -10137,7 +10137,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10153,7 +10153,7 @@ return {
         id = 190027,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -10335,7 +10335,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10351,7 +10351,7 @@ return {
         id = 190026,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -10376,7 +10376,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——万由里的礼物·其四",
+        des2 = "190001282",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10392,7 +10392,7 @@ return {
         id = 190140,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -10417,7 +10417,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "The Route A——湖上之旅2",
+        des2 = "190001287",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10433,7 +10433,7 @@ return {
         id = 190204,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -10576,7 +10576,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10592,7 +10592,7 @@ return {
         id = 190021,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -10657,7 +10657,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10673,7 +10673,7 @@ return {
         id = 190019,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -10698,7 +10698,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——万由里的礼物·其五",
+        des2 = "190001283",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10714,7 +10714,7 @@ return {
         id = 190141,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -10742,7 +10742,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10758,7 +10758,7 @@ return {
         id = 190205,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -10786,7 +10786,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "然后，战斗还在继续——",
+        des2 = "190001242",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -10802,7 +10802,7 @@ return {
         id = 190016,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -11023,7 +11023,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞大作战——万由里的礼物·终",
+        des2 = "190001284",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -11039,7 +11039,7 @@ return {
         id = 190142,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -11342,7 +11342,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "圣诞夜前夕，大家聚在一起——",
+        des2 = "190001285",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -11358,7 +11358,7 @@ return {
         id = 190143,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -11387,7 +11387,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -11403,7 +11403,7 @@ return {
         id = 190207,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -11545,7 +11545,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -11561,7 +11561,7 @@ return {
         id = 190011,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -11665,7 +11665,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "邀请所有具有挑战精神的人！",
+        des2 = "190001241",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -11681,7 +11681,7 @@ return {
         id = 190012,
         progress = 1,
         open = 1,
-        des = "回忆结晶",
+        des = "190001237",
         type = 1,
         endingList = {
         },
@@ -11786,7 +11786,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -11802,7 +11802,7 @@ return {
         id = 190013,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -11867,7 +11867,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -11883,7 +11883,7 @@ return {
         id = 190014,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -12026,7 +12026,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -12042,7 +12042,7 @@ return {
         id = 190209,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -12069,7 +12069,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -12085,7 +12085,7 @@ return {
         id = 190015,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },
@@ -12651,7 +12651,7 @@ return {
         relation = {
             [1] = 1026,
         },
-        des2 = "其中似乎记录的一些有趣的回忆——",
+        des2 = "190001238",
         resetType = 1,
         consume = 0,
         nextCondition = 0,
@@ -12667,7 +12667,7 @@ return {
         id = 190211,
         progress = 1,
         open = 1,
-        des = "回忆碎片",
+        des = "190001236",
         type = 2,
         endingList = {
         },

@@ -414,7 +414,7 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "72",
+											height = "2",
 											ignoreSize = "True",
 											name = "info_di",
 											sizepercentx = "0",
@@ -428,7 +428,7 @@ local t =
 												PositionX = -135,
 												PositionY = 4,
 											},
-											width = "440",
+											width = "2",
 											ZOrder = "1",
 										},
 										{
@@ -679,7 +679,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "58",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_Exp_bg-Copy1",
 													sizepercentx = "0",
@@ -692,7 +692,7 @@ local t =
 													{
 														
 													},
-													width = "58",
+													width = "2",
 													ZOrder = "1",
 												},
 												{
@@ -749,7 +749,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "7",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_Exp_bg",
 													sizepercentx = "0",
@@ -763,7 +763,7 @@ local t =
 														PositionX = -111,
 														PositionY = -27,
 													},
-													width = "196",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -778,7 +778,7 @@ local t =
 															classname = "MELoadingBar",
 															direction = "0",
 															dstBlendFunc = "771",
-															height = "7",
+															height = "2",
 															ignoreSize = "True",
 															name = "LoadingBar_Exp",
 															percent = "51",
@@ -792,7 +792,7 @@ local t =
 															{
 																
 															},
-															width = "196",
+															width = "2",
 															ZOrder = "1",
 														},
 													},
@@ -1069,7 +1069,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									ignoreSize = "True",
 									name = "Button_setting",
 									normal = "ui/mainLayer/new_ui_6/btn_setting.png",
@@ -1085,7 +1085,7 @@ local t =
 										PositionY = -28,
 									},
 									UItype = "Button",
-									width = "60",
+									width = "2",
 									ZOrder = "3",
 									components = 
 									{
@@ -1180,7 +1180,7 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "60",
+											height = "2",
 											ignoreSize = "True",
 											name = "Image_huigu",
 											sizepercentx = "0",
@@ -1193,7 +1193,7 @@ local t =
 											{
 												
 											},
-											width = "60",
+											width = "2",
 											ZOrder = "1",
 										},
 									},
@@ -1791,7 +1791,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "240",
+											height = "2",
 											HitType = 
 											{
 												nHitType = 3,
@@ -1811,7 +1811,7 @@ local t =
 												PositionY = 130,
 											},
 											UItype = "Button",
-											width = "240",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -1947,7 +1947,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "240",
+											height = "2",
 											HitType = 
 											{
 												nHitType = 3,
@@ -1967,7 +1967,7 @@ local t =
 												PositionY = 130,
 											},
 											UItype = "Button",
-											width = "240",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -2192,7 +2192,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "100",
+											height = "2",
 											ignoreSize = "True",
 											name = "Button_dispatch",
 											normal = "ui/mainLayer/new_ui_6/a3.png",
@@ -2208,7 +2208,7 @@ local t =
 												PositionY = 297,
 											},
 											UItype = "Button",
-											width = "100",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -2222,7 +2222,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "100",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_dispatchTips",
 													sizepercentx = "0",
@@ -2236,7 +2236,7 @@ local t =
 														PositionX = -2,
 														PositionY = -2,
 													},
-													width = "100",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -2327,7 +2327,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "100",
+											height = "2",
 											ignoreSize = "True",
 											name = "Button_task",
 											normal = "ui/mainLayer/new_ui_6/btn_order.png",
@@ -2343,7 +2343,7 @@ local t =
 												PositionY = 319,
 											},
 											UItype = "Button",
-											width = "100",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -2357,7 +2357,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "100",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_taskTips",
 													sizepercentx = "0",
@@ -2370,7 +2370,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "100",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -2461,7 +2461,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "100",
+											height = "2",
 											ignoreSize = "True",
 											name = "Button_pokedex",
 											normal = "ui/mainLayer/new_ui_6/btn_tujian.png",
@@ -2477,7 +2477,7 @@ local t =
 												PositionY = 302,
 											},
 											UItype = "Button",
-											width = "100",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -2491,7 +2491,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "100",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_poker_tip",
 													sizepercentx = "0",
@@ -2504,7 +2504,7 @@ local t =
 													{
 														
 													},
-													width = "100",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -3384,7 +3384,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "100",
+											height = "2",
 											ignoreSize = "True",
 											name = "Button_mail",
 											normal = "ui/mainLayer/new_ui_6/btn_mail.png",
@@ -3402,7 +3402,7 @@ local t =
 												relativeToName = "Panel",
 											},
 											UItype = "Button",
-											width = "100",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -3442,7 +3442,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "100",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_mailTip",
 													sizepercentx = "0",
@@ -3455,7 +3455,7 @@ local t =
 													{
 														
 													},
-													width = "100",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -3618,8 +3618,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 301,
-												PositionY = 68,
+												PositionX = 198,
+												PositionY = 55,
 											},
 											UItype = "Button",
 											width = "184",
@@ -3780,7 +3780,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "100",
+											height = "2",
 											ignoreSize = "True",
 											name = "Button_friend",
 											normal = "ui/mainLayer/new_ui_6/btn_contact.png",
@@ -3799,7 +3799,7 @@ local t =
 												relativeToName = "Panel",
 											},
 											UItype = "Button",
-											width = "100",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -3813,7 +3813,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "100",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_friendTip",
 													sizepercentx = "0",
@@ -3826,7 +3826,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "100",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -3930,8 +3930,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 488,
-												PositionY = 62,
+												PositionX = 198,
+												PositionY = 165,
 												LeftPositon = 26,
 												TopPosition = 87,
 												relativeToName = "Panel",
@@ -4219,8 +4219,8 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 488,
-												PositionY = 62,
+												PositionX = 465,
+												PositionY = 55,
 												LeftPositon = 26,
 												TopPosition = 87,
 												relativeToName = "Panel",
@@ -5080,7 +5080,7 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "60",
+											height = "2",
 											ignoreSize = "True",
 											name = "Image_roleup",
 											sizepercentx = "0",
@@ -5093,7 +5093,7 @@ local t =
 											{
 												
 											},
-											width = "60",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -5212,7 +5212,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									HitType = 
 									{
 										nHitType = 1,
@@ -5235,7 +5235,7 @@ local t =
 										PositionY = 47,
 									},
 									UItype = "Button",
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -5471,7 +5471,7 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "60",
+											height = "2",
 											ignoreSize = "True",
 											name = "Image_summon_tip",
 											sizepercentx = "0",
@@ -5484,7 +5484,7 @@ local t =
 											{
 												
 											},
-											width = "60",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -5947,7 +5947,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									HitType = 
 									{
 										nHitType = 1,
@@ -5970,7 +5970,7 @@ local t =
 										PositionY = 48,
 									},
 									UItype = "Button",
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -6060,7 +6060,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									HitType = 
 									{
 										nHitType = 1,
@@ -6083,7 +6083,7 @@ local t =
 										PositionY = 48,
 									},
 									UItype = "Button",
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -6172,7 +6172,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									HitType = 
 									{
 										nHitType = 1,
@@ -6195,7 +6195,7 @@ local t =
 										PositionY = 47,
 									},
 									UItype = "Button",
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -6299,114 +6299,6 @@ local t =
 												PositionX = 39,
 											},
 											width = "43",
-											ZOrder = "1",
-										},
-									},
-								},
-								{
-									controlID = "Button_ARCamera_Panel_bottom_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-									UUID = "15ecfbea_21d6_4386_93d7_a1cb5dacabbb",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									classname = "MEButton",
-									ClickHighLightEnabled = "True",
-									dstBlendFunc = "771",
-									flipX = "False",
-									flipY = "False",
-									height = "116",
-									ignoreSize = "True",
-									name = "Button_ARCamera",
-									normal = "ui/ar/ar_acamer_26.png",
-									scaleX = "0.5",
-									scaleY = "0.5",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "1",
-									touchAble = "True",
-									UILayoutViewModel = 
-									{
-										PositionX = 576,
-										PositionY = 49,
-									},
-									UItype = "Button",
-									width = "116",
-									ZOrder = "1",
-									components = 
-									{
-										
-										{
-											controlID = "Image_newtip_Button_ARCamera_Panel_bottom_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-											UUID = "c2e95307_cf9d_4d95_8bd1_407de64e6323",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
-											classname = "MEImage",
-											dstBlendFunc = "771",
-											height = "64",
-											ignoreSize = "True",
-											name = "Image_newtip",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "1",
-											texturePath = "ui/mainLayer/new_ui_1/btn_phonenew.png",
-											touchAble = "False",
-											UILayoutViewModel = 
-											{
-												
-											},
-											visible = "False",
-											width = "68",
-											ZOrder = "1",
-										},
-										{
-											controlID = "Label_Game_1_Button_ARCamera_Panel_bottom_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-											UUID = "5f51eb33_cc79_46e5_a48f_727af08ee9ef",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											classname = "MELabel",
-											compPath = "luacomponents.common.MEIconLabel",
-											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
-											fontName = "font/fangzheng_zhunyuan.ttf",
-											fontShadow = 
-											{
-												IsShadow = false,
-												ShadowColor = "#FFFFFFFF",
-												ShadowAlpha = 255,
-												OffsetX = 0,
-												OffsetY = 0,
-											},
-											fontSize = "24",
-											fontStroke = 
-											{
-												IsStroke = false,
-												StrokeColor = "#FFE6E6E6",
-												StrokeSize = 1,
-											},
-											height = "27",
-											ignoreSize = "True",
-											name = "Label_Game_1",
-											nTextAlign = "1",
-											nTextHAlign = "1",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "770",
-											text = "城市",
-											touchAble = "False",
-											touchScaleEnable = "False",
-											UILayoutViewModel = 
-											{
-												PositionX = 25,
-											},
-											visible = "False",
-											width = "51",
 											ZOrder = "1",
 										},
 									},
@@ -6575,7 +6467,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									ignoreSize = "True",
 									name = "Image_chat",
 									normal = "ui/mainLayer/new_ui_6/btn_chat.png",
@@ -6590,7 +6482,7 @@ local t =
 										PositionY = 25,
 									},
 									UItype = "Button",
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -7117,7 +7009,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									HitType = 
 									{
 										nHitType = 2,
@@ -7137,7 +7029,7 @@ local t =
 										PositionY = -29,
 									},
 									UItype = "Button",
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 								},
 								{
@@ -7252,7 +7144,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									HitType = 
 									{
 										nHitType = 2,
@@ -7272,7 +7164,7 @@ local t =
 										PositionY = -28,
 									},
 									UItype = "Button",
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 								},
 								{
@@ -7387,7 +7279,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "2",
 									HitType = 
 									{
 										nHitType = 1,
@@ -7410,7 +7302,7 @@ local t =
 										PositionY = -29,
 									},
 									UItype = "Button",
-									width = "60",
+									width = "2",
 									ZOrder = "1",
 								},
 							},
@@ -7694,7 +7586,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "80",
+											height = "2",
 											ignoreSize = "True",
 											name = "Button_notice",
 											normal = "ui/mainLayer/new_ui_6/btn_notice.png",
@@ -7712,7 +7604,7 @@ local t =
 												relativeToName = "Panel",
 											},
 											UItype = "Button",
-											width = "80",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -7798,7 +7690,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "80",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_noticeTip",
 													sizepercentx = "0",
@@ -7811,7 +7703,7 @@ local t =
 													{
 														PositionX = 2,
 													},
-													width = "80",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -7858,7 +7750,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "80",
+											height = "2",
 											ignoreSize = "True",
 											name = "Button_welfare",
 											normal = "ui/mainLayer/new_ui_6/btn_welfare.png",
@@ -7876,7 +7768,7 @@ local t =
 												relativeToName = "Panel",
 											},
 											UItype = "Button",
-											width = "80",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -7962,7 +7854,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "80",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_welfareTip",
 													sizepercentx = "0",
@@ -7976,7 +7868,7 @@ local t =
 														PositionX = 2,
 														PositionY = -1,
 													},
-													width = "80",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -8023,7 +7915,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "80",
+											height = "2",
 											ignoreSize = "True",
 											name = "Button_activity",
 											normal = "ui/mainLayer/new_ui_6/btn_ativity.png",
@@ -8041,7 +7933,7 @@ local t =
 												relativeToName = "Panel",
 											},
 											UItype = "Button",
-											width = "80",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -8081,7 +7973,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "80",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_activityTip",
 													sizepercentx = "0",
@@ -8095,7 +7987,7 @@ local t =
 														PositionX = 1,
 														PositionY = -1,
 													},
-													width = "80",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -8519,7 +8411,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "80",
+											height = "2",
 											ignoreSize = "True",
 											name = "btn_zhibo",
 											normal = "ui/mainLayer/new_ui_6/btn_zhibo.png",
@@ -8537,7 +8429,7 @@ local t =
 												relativeToName = "Panel",
 											},
 											UItype = "Button",
-											width = "80",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -8551,7 +8443,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "80",
+													height = "2",
 													ignoreSize = "True",
 													name = "img_zhibo",
 													sizepercentx = "0",
@@ -8564,7 +8456,7 @@ local t =
 													{
 														PositionX = 1,
 													},
-													width = "80",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -8715,7 +8607,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "80",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_serverGiftTip",
 													sizepercentx = "0",
@@ -8728,7 +8620,7 @@ local t =
 													{
 														
 													},
-													width = "80",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -9125,7 +9017,7 @@ local t =
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
-											height = "80",
+											height = "2",
 											ignoreSize = "True",
 											name = "Button_ScoreReward",
 											normal = "ui/mainLayer/new_ui_6/btn_tzr.png",
@@ -9143,7 +9035,7 @@ local t =
 												relativeToName = "Panel",
 											},
 											UItype = "Button",
-											width = "80",
+											width = "2",
 											ZOrder = "1",
 											components = 
 											{
@@ -9203,7 +9095,7 @@ local t =
 													backGroundScale9Enable = "False",
 													classname = "MEImage",
 													dstBlendFunc = "771",
-													height = "80",
+													height = "2",
 													ignoreSize = "True",
 													name = "Image_ScoreRewardTip",
 													sizepercentx = "0",
@@ -9216,7 +9108,7 @@ local t =
 													{
 														PositionX = -2,
 													},
-													width = "80",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -9357,142 +9249,6 @@ local t =
 														PositionY = -29,
 													},
 													width = "44",
-													ZOrder = "1",
-												},
-											},
-										},
-										{
-											controlID = "Button_rankNotice_Panel_btList_Panel_left_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-											UUID = "b0dfedd4_140e_42f4_a43b_ba9bc9933a21",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
-											classname = "MEButton",
-											ClickHighLightEnabled = "True",
-											dstBlendFunc = "771",
-											flipX = "False",
-											flipY = "False",
-											height = "70",
-											ignoreSize = "True",
-											name = "Button_rankNotice",
-											normal = "ui/mainLayer3/c1005.png",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "1",
-											touchAble = "True",
-											UILayoutViewModel = 
-											{
-												PositionX = 113,
-												PositionY = 426,
-												LeftPositon = 26,
-												TopPosition = 87,
-												relativeToName = "Panel",
-											},
-											UItype = "Button",
-											width = "70",
-											ZOrder = "1",
-											components = 
-											{
-												
-												{
-													controlID = "Label_title_Button_rankNotice_Panel_btList_Panel_left_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-													UUID = "dd9548de_f1d7_40c2_ab94_11e2c8b4f84b",
-													anchorPoint = "False",
-													anchorPointX = "0.5",
-													anchorPointY = "0.5",
-													classname = "MELabel",
-													compPath = "luacomponents.common.MEIconLabel",
-													dstBlendFunc = "771",
-													FontColor = "#FFFFFFFF",
-													fontName = "font/fangzheng_zhunyuan.ttf",
-													fontShadow = 
-													{
-														IsShadow = false,
-														ShadowColor = "#FFFFFFFF",
-														ShadowAlpha = 255,
-														OffsetX = 0,
-														OffsetY = 0,
-													},
-													fontSize = "20",
-													fontStroke = 
-													{
-														IsStroke = true,
-														StrokeColor = "#FF000000",
-														StrokeSize = 1,
-													},
-													height = "25",
-													ignoreSize = "True",
-													name = "Label_title",
-													nTextAlign = "1",
-													nTextHAlign = "1",
-													sizepercentx = "0",
-													sizepercenty = "0",
-													sizeType = "0",
-													srcBlendFunc = "770",
-													text = "应援",
-													touchAble = "False",
-													touchScaleEnable = "False",
-													UILayoutViewModel = 
-													{
-														PositionY = -37,
-													},
-													visible = "False",
-													width = "44",
-													ZOrder = "1",
-												},
-												{
-													controlID = "Image_survey_Button_rankNotice_Panel_btList_Panel_left_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-													UUID = "718f6c8f_e881_4859_b9b3_44c5562c4633",
-													anchorPoint = "False",
-													anchorPointX = "0.5",
-													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
-													classname = "MEImage",
-													dstBlendFunc = "771",
-													height = "50",
-													ignoreSize = "True",
-													name = "Image_survey",
-													sizepercentx = "0",
-													sizepercenty = "0",
-													sizeType = "0",
-													srcBlendFunc = "1",
-													texturePath = "ui/mainLayer/new_ui/btn_ativity.png",
-													touchAble = "False",
-													UILayoutViewModel = 
-													{
-														PositionY = 10,
-													},
-													visible = "False",
-													width = "50",
-													ZOrder = "1",
-												},
-												{
-													controlID = "Image_assist_Tip_Button_rankNotice_Panel_btList_Panel_left_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-													UUID = "29be20c6_112c_49cd_9c42_c7199f91ce61",
-													anchorPoint = "False",
-													anchorPointX = "0.5",
-													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
-													classname = "MEImage",
-													dstBlendFunc = "771",
-													height = "30",
-													ignoreSize = "True",
-													name = "Image_assist_Tip",
-													sizepercentx = "0",
-													sizepercenty = "0",
-													sizeType = "0",
-													srcBlendFunc = "1",
-													texturePath = "ui/common/news_small.png",
-													touchAble = "False",
-													UILayoutViewModel = 
-													{
-														PositionX = 18,
-														PositionY = 11,
-													},
-													visible = "False",
-													width = "30",
 													ZOrder = "1",
 												},
 											},
@@ -9752,7 +9508,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "80",
+									height = "2",
 									ignoreSize = "True",
 									name = "Button_btnListEx",
 									normal = "ui/mainLayer/new_ui_6/003.png",
@@ -9770,7 +9526,7 @@ local t =
 										relativeToName = "Panel",
 									},
 									UItype = "Button",
-									width = "80",
+									width = "2",
 									ZOrder = "1",
 									components = 
 									{
@@ -9924,7 +9680,7 @@ local t =
 													dstBlendFunc = "771",
 													flipX = "False",
 													flipY = "False",
-													height = "60",
+													height = "2",
 													ignoreSize = "True",
 													name = "Button_preview",
 													normal = "ui/mainLayer/new_ui_6/btn_preview.png",
@@ -9942,7 +9698,7 @@ local t =
 														relativeToName = "Panel",
 													},
 													UItype = "Button",
-													width = "60",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -10059,7 +9815,7 @@ local t =
 													dstBlendFunc = "771",
 													flipX = "False",
 													flipY = "False",
-													height = "60",
+													height = "2",
 													ignoreSize = "True",
 													name = "Button_backPlayer",
 													normal = "ui/mainLayer/new_ui_6/btn_back.png",
@@ -10077,7 +9833,7 @@ local t =
 														relativeToName = "Panel",
 													},
 													UItype = "Button",
-													width = "60",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -10194,7 +9950,7 @@ local t =
 													dstBlendFunc = "771",
 													flipX = "False",
 													flipY = "False",
-													height = "60",
+													height = "2",
 													ignoreSize = "True",
 													name = "Button_update",
 													normal = "ui/mainLayer/new_ui_6/btn_update.png",
@@ -10212,7 +9968,7 @@ local t =
 														relativeToName = "Panel",
 													},
 													UItype = "Button",
-													width = "60",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -10328,7 +10084,7 @@ local t =
 													dstBlendFunc = "771",
 													flipX = "False",
 													flipY = "False",
-													height = "60",
+													height = "2",
 													ignoreSize = "True",
 													name = "Button_wj",
 													normal = "ui/mainLayer/new_ui_6/btn_survey.png",
@@ -10346,7 +10102,7 @@ local t =
 														relativeToName = "Panel",
 													},
 													UItype = "Button",
-													width = "60",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -10463,7 +10219,7 @@ local t =
 													dstBlendFunc = "771",
 													flipX = "False",
 													flipY = "False",
-													height = "60",
+													height = "2",
 													ignoreSize = "True",
 													name = "Button_OneYearShare",
 													normal = "ui/mainLayer/new_ui_6/9small.png",
@@ -10479,7 +10235,7 @@ local t =
 														PositionY = 43,
 													},
 													UItype = "Button",
-													width = "60",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -10569,7 +10325,7 @@ local t =
 													dstBlendFunc = "771",
 													flipX = "False",
 													flipY = "False",
-													height = "60",
+													height = "2",
 													ignoreSize = "True",
 													name = "btn_zhuifan",
 													normal = "ui/mainLayer/new_ui_6/btn_zhuifan.png",
@@ -10585,7 +10341,7 @@ local t =
 														PositionY = 43,
 													},
 													UItype = "Button",
-													width = "60",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -10675,7 +10431,7 @@ local t =
 													dstBlendFunc = "771",
 													flipX = "False",
 													flipY = "False",
-													height = "60",
+													height = "2",
 													ignoreSize = "True",
 													name = "btn_phone",
 													normal = "ui/mainLayer/new_ui_6/btn_phone_small.png",
@@ -10691,7 +10447,7 @@ local t =
 														PositionY = 43,
 													},
 													UItype = "Button",
-													width = "60",
+													width = "2",
 													ZOrder = "1",
 													components = 
 													{
@@ -10770,171 +10526,6 @@ local t =
 													},
 												},
 											},
-										},
-									},
-								},
-								{
-									controlID = "Button_assistance_Panel_left_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-									UUID = "5e69967d_9d63_4b1a_9e28_0f4e756a17ec",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									classname = "MEButton",
-									ClickHighLightEnabled = "True",
-									dstBlendFunc = "771",
-									flipX = "False",
-									flipY = "False",
-									height = "2",
-									ignoreSize = "True",
-									name = "Button_assistance",
-									normal = "ui/mainLayer/new_ui/btn_friendHelp.png",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "1",
-									touchAble = "True",
-									UILayoutViewModel = 
-									{
-										PositionX = 180,
-										PositionY = 433,
-										LeftPositon = 26,
-										TopPosition = 87,
-										relativeToName = "Panel",
-									},
-									UItype = "Button",
-									width = "2",
-									ZOrder = "1",
-									components = 
-									{
-										
-										{
-											controlID = "Label_title_Button_assistance_Panel_left_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-											UUID = "01bf0a3e_fb85_4886_9256_8cf1a1974e6e",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											classname = "MELabel",
-											compPath = "luacomponents.common.MEIconLabel",
-											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
-											fontName = "font/fangzheng_zhunyuan.ttf",
-											fontShadow = 
-											{
-												IsShadow = false,
-												ShadowColor = "#FFFFFFFF",
-												ShadowAlpha = 255,
-												OffsetX = 0,
-												OffsetY = 0,
-											},
-											fontSize = "20",
-											fontStroke = 
-											{
-												IsStroke = true,
-												StrokeColor = "#FF000000",
-												StrokeSize = 1,
-											},
-											height = "25",
-											ignoreSize = "True",
-											name = "Label_title",
-											nTextAlign = "1",
-											nTextHAlign = "1",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "770",
-											text = "친구의 도움",
-											touchAble = "False",
-											touchScaleEnable = "False",
-											UILayoutViewModel = 
-											{
-												PositionY = -37,
-											},
-											visible = "False",
-											width = "97",
-											ZOrder = "1",
-										},
-										{
-											controlID = "Image_assistance_Button_assistance_Panel_left_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-											UUID = "066fe378_8007_41e2_a1b1_d79c570ec237",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
-											classname = "MEImage",
-											dstBlendFunc = "771",
-											height = "30",
-											ignoreSize = "True",
-											name = "Image_assistance",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "1",
-											texturePath = "ui/mainui/mail_logo.png",
-											touchAble = "False",
-											UILayoutViewModel = 
-											{
-												PositionY = 10,
-											},
-											visible = "False",
-											width = "30",
-											ZOrder = "1",
-										},
-										{
-											controlID = "Image_assistanceTip_Button_assistance_Panel_left_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-											UUID = "93a5177a_d75f_4ab4_8ab9_8a3aeb372662",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
-											classname = "MEImage",
-											dstBlendFunc = "771",
-											height = "30",
-											ignoreSize = "True",
-											name = "Image_assistanceTip",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "1",
-											texturePath = "ui/common/news_small.png",
-											touchAble = "False",
-											UILayoutViewModel = 
-											{
-												PositionX = 18,
-												PositionY = 11,
-											},
-											visible = "False",
-											width = "30",
-											ZOrder = "1",
-										},
-										{
-											controlID = "spine_status_Button_assistance_Panel_left_Panel_base_Panel-ShixiangMainLaye_Layer1_MainScene_Game",
-											UUID = "fb238670_e281_4790_be18_a9cb5136c0e6",
-											classname = "MESpine",
-											dstBlendFunc = "771",
-											name = "spine_status",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											spineModel = 
-											{
-												SpinePath = "effect/HFhaoyouzhulianniu/HFhaoyouzhulianniu",
-												animationName = "animation",
-												IsLoop = true,
-												IsPlay = true,
-												IsUseQueue = false,
-												AnimationQueue = 
-												{
-													
-												},
-											},
-											srcBlendFunc = "1",
-											touchAble = "False",
-											UILayoutViewModel = 
-											{
-												
-											},
-											ZOrder = "1",
 										},
 									},
 								},
@@ -12287,7 +11878,6 @@ local t =
 			"ui/mainLayer/new_ui_6/btn_recharge.png",
 			"ui/recharge/new.png",
 			"ui/mainLayer/new_ui_6/btn_league.png",
-			"ui/ar/ar_acamer_26.png",
 			"ui/mainLayer/new_ui_1/chat_bg.png",
 			"ui/mainLayer/new_ui_6/btn_chat.png",
 			"ui/mainLayer/new_ui/redpack_tips_bg.png",
@@ -12323,7 +11913,6 @@ local t =
 			"ui/mainLayer/new_ui/btn_monthcard.png",
 			"ui/mainLayer/new_ui_6/btn_tzr.png",
 			"ui/mainLayer/new_ui_6/btn_tzrnew.png",
-			"ui/mainLayer3/c1005.png",
 			"ui/mainLayer/new_ui/btn_newPlayer.png",
 			"ui/fuli/activityNewPlayerPop/1.png",
 			"ui/task/01/4.png",
@@ -12336,7 +11925,6 @@ local t =
 			"ui/mainLayer/new_ui_6/9small.png",
 			"ui/mainLayer/new_ui_6/btn_zhuifan.png",
 			"ui/mainLayer/new_ui_6/btn_phone_small.png",
-			"ui/mainLayer/new_ui/btn_friendHelp.png",
 			"ui/mainLayer/new_ui/ai_tip/001.png",
 			"ui/mainLayer/new_ui/ai_tip/002.png",
 			"ui/mainLayer/new_ui/ai_tip/003.png",

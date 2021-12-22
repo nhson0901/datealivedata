@@ -70,8 +70,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 425,
-						PositionY = 354,
+						PositionX = 510,
+						PositionY = 359,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -103,7 +103,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/anniversary/ui_bg1.png",
+							texturePath = "ui/activity/activityStyle/mainFrame/styleCur/bg.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -131,7 +131,7 @@ local t =
 							height = "566",
 							ignoreSize = "False",
 							innerHeight = "574",
-							innerWidth = "208",
+							innerWidth = "217",
 							name = "ScrollView_activity",
 							showScrollbar = "False",
 							sizepercentx = "0",
@@ -141,15 +141,15 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = -568,
-								PositionY = -39,
+								PositionX = -574,
+								PositionY = -32,
 							},
 							uipanelviewmodel = 
 							{
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "205",
+							width = "217",
 							ZOrder = "1",
 						},
 						{
@@ -177,40 +177,15 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 102,
-								PositionY = -35,
+								PositionX = 103,
+								PositionY = -22,
 							},
 							uipanelviewmodel = 
 							{
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "924",
-							ZOrder = "1",
-						},
-						{
-							controlID = "Image_flag_Panel_root_Panel-activityMainView3_activityStyleModel_activity_Game",
-							UUID = "bab56a40_235d_4505_bc23_240a0a3c1b1e",
-							anchorPoint = "False",
-							anchorPointX = "0.5",
-							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
-							classname = "MEImage",
-							dstBlendFunc = "771",
-							height = "118",
-							ignoreSize = "True",
-							name = "Image_flag",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "1",
-							texturePath = "ui/activity/anniversary/ui_011.png",
-							touchAble = "False",
-							UILayoutViewModel = 
-							{
-								PositionY = 250,
-							},
-							width = "1386",
+							width = "1001",
 							ZOrder = "1",
 						},
 					},
@@ -241,7 +216,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = 561,
-						PositionY = -328,
+						PositionY = -285,
 						LeftPositon = -7,
 						TopPosition = 675,
 						relativeToName = "Panel",
@@ -262,8 +237,8 @@ local t =
 							controlID = "Panel_activityItem_Panel_prefab_Panel-activityMainView3_activityStyleModel_activity_Game",
 							UUID = "3989079a_18da_42b9_98fb_8a70d2d97b4a",
 							anchorPoint = "False",
-							anchorPointX = "0",
-							anchorPointY = "0",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
 							backGroundScale9Enable = "False",
 							bgColorOpacity = "50",
 							bIsOpenClipping = "False",
@@ -273,7 +248,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "70",
+							height = "82",
 							ignoreSize = "False",
 							name = "Panel_activityItem",
 							sizepercentx = "0",
@@ -283,14 +258,15 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -560,
+								PositionX = -481,
+								PositionY = 99,
 							},
 							uipanelviewmodel = 
 							{
 								Layout="Absolute",
 								nType = "0"
 							},
-							width = "206",
+							width = "217",
 							ZOrder = "1",
 							components = 
 							{
@@ -304,60 +280,35 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "60",
+									height = "82",
 									ignoreSize = "True",
 									name = "ImageNormal",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/anniversary/ui_002.png",
+									texturePath = "ui/activity/activityStyle/mainFrame/styleCur/003-1.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 53,
-										PositionY = 36,
+										
 									},
-									width = "60",
+									visible = "False",
+									width = "217",
 									ZOrder = "1",
 									components = 
 									{
 										
 										{
-											controlID = "Image_item_bg_ImageNormal_Panel_activityItem_Panel_prefab_Panel-activityMainView3_activityStyleModel_activity_Game",
-											UUID = "03fc6238_d279_41b8_9217_b6dfb5d212fd",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
-											classname = "MEImage",
-											dstBlendFunc = "771",
-											height = "68",
-											ignoreSize = "True",
-											name = "Image_item_bg",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "1",
-											texturePath = "ui/activity/anniversary/ui_009.png",
-											touchAble = "False",
-											UILayoutViewModel = 
-											{
-												PositionX = 64,
-											},
-											width = "206",
-											ZOrder = "-1",
-										},
-										{
 											controlID = "activityName_ImageNormal_Panel_activityItem_Panel_prefab_Panel-activityMainView3_activityStyleModel_activity_Game",
 											UUID = "a5860e98_1b99_47c8_bfc9_85cfc962dd39",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFFCD98",
+											FontColor = "#FFBBE0F8",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -370,11 +321,11 @@ local t =
 											fontSize = "22",
 											fontStroke = 
 											{
-												IsStroke = false,
-												StrokeColor = "#FFE6E6E6",
-												StrokeSize = 1,
+												IsStroke = true,
+												StrokeColor = "#FF5472A2",
+												StrokeSize = 2,
 											},
-											height = "25",
+											height = "29",
 											ignoreSize = "True",
 											name = "activityName",
 											nTextAlign = "0",
@@ -388,9 +339,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 88,
+												PositionX = 85,
+												PositionY = -32,
 											},
-											width = "91",
+											width = "93",
 											ZOrder = "1",
 										},
 										{
@@ -413,36 +365,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 22,
-												PositionY = 16,
+												PositionX = 84,
+												PositionY = 32,
 											},
 											width = "30",
-											ZOrder = "1",
-										},
-										{
-											controlID = "Image_line_ImageNormal_Panel_activityItem_Panel_prefab_Panel-activityMainView3_activityStyleModel_activity_Game",
-											UUID = "34427e85_58f9_41bc_9592_82342c3bdcf2",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
-											classname = "MEImage",
-											dstBlendFunc = "771",
-											height = "82",
-											ignoreSize = "True",
-											name = "Image_line",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "1",
-											texturePath = "ui/activity/activityStyle/mainFrame/styleCur/003.png",
-											touchAble = "False",
-											UILayoutViewModel = 
-											{
-												PositionX = 89,
-												PositionY = -32,
-											},
-											width = "217",
 											ZOrder = "1",
 										},
 									},
@@ -456,60 +382,34 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "60",
+									height = "82",
 									ignoreSize = "True",
 									name = "ImageSelect",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/anniversary/ui_001.png",
+									texturePath = "ui/activity/activityStyle/mainFrame/styleCur/003.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 53,
-										PositionY = 35,
+										
 									},
-									width = "60",
+									width = "217",
 									ZOrder = "1",
 									components = 
 									{
 										
 										{
-											controlID = "Image_item_bg_ImageSelect_Panel_activityItem_Panel_prefab_Panel-activityMainView3_activityStyleModel_activity_Game",
-											UUID = "e21cc27e_ee84_4035_a879_4dbe35322485",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
-											classname = "MEImage",
-											dstBlendFunc = "771",
-											height = "93",
-											ignoreSize = "True",
-											name = "Image_item_bg",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "1",
-											texturePath = "ui/activity/anniversary/welfare_02.png",
-											touchAble = "False",
-											UILayoutViewModel = 
-											{
-												PositionX = 59,
-											},
-											width = "222",
-											ZOrder = "-1",
-										},
-										{
 											controlID = "activityName_ImageSelect_Panel_activityItem_Panel_prefab_Panel-activityMainView3_activityStyleModel_activity_Game",
 											UUID = "1dc97398_be7a_44ae_bb23_6c1416708312",
 											anchorPoint = "False",
-											anchorPointX = "0.5",
+											anchorPointX = "1",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF86211A",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -522,11 +422,11 @@ local t =
 											fontSize = "22",
 											fontStroke = 
 											{
-												IsStroke = false,
-												StrokeColor = "#FFE6E6E6",
-												StrokeSize = 1,
+												IsStroke = true,
+												StrokeColor = "#FF31599B",
+												StrokeSize = 2,
 											},
-											height = "25",
+											height = "29",
 											ignoreSize = "True",
 											name = "activityName",
 											nTextAlign = "0",
@@ -540,9 +440,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 87,
+												PositionX = 85,
+												PositionY = -32,
 											},
-											width = "90",
+											width = "92",
 											ZOrder = "1",
 										},
 										{
@@ -565,8 +466,8 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 21,
-												PositionY = 18,
+												PositionX = 84,
+												PositionY = 32,
 											},
 											width = "30",
 											ZOrder = "1",
@@ -588,14 +489,10 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/anniversary/ui_bg1.png",
-			"ui/activity/anniversary/ui_011.png",
-			"ui/activity/anniversary/ui_002.png",
-			"ui/activity/anniversary/ui_009.png",
+			"ui/activity/activityStyle/mainFrame/styleCur/bg.png",
+			"ui/activity/activityStyle/mainFrame/styleCur/003-1.png",
 			"ui/common/news_small.png",
 			"ui/activity/activityStyle/mainFrame/styleCur/003.png",
-			"ui/activity/anniversary/ui_001.png",
-			"ui/activity/anniversary/welfare_02.png",
 		},
 		armatures = 
 		{

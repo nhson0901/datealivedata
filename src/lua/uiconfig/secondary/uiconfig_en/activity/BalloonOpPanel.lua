@@ -128,7 +128,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -137,46 +137,16 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "取消交换",
+							text = "Cancel",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -134,
+								PositionX = -189,
 								PositionY = 121,
 							},
-							width = "115",
+							width = "100",
 							ZOrder = "1",
-							components = 
-							{
-								
-								{
-									controlID = "Image_BalloonOpPanel_1_label_title_img_bg_Panel-BalloonOpPanel_balloon_activity_Game",
-									UUID = "3aa3038b_f588_4f49_a55b_d8b5ed75ab10",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									classname = "MEImage",
-									dstBlendFunc = "771",
-									height = "32",
-									ignoreSize = "True",
-									name = "Image_BalloonOpPanel_1",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "770",
-									texturePath = "ui/activity/2021_spring/007.png",
-									touchAble = "False",
-									UILayoutViewModel = 
-									{
-										PositionX = 64,
-										PositionY = 3,
-									},
-									width = "4",
-									ZOrder = "1",
-								},
-							},
 						},
 						{
 							controlID = "btn_close_img_bg_Panel-BalloonOpPanel_balloon_activity_Game",
@@ -227,7 +197,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "20",
+							fontSize = "22",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -327,7 +297,7 @@ local t =
 									{
 										
 									},
-									width = "87",
+									width = "92",
 									ZOrder = "1",
 								},
 							},
@@ -338,14 +308,14 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEButton",
 							ClickHighLightEnabled = "True",
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
 							height = "54",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "btn_cancel",
 							normal = "ui/balloon/13.png",
 							sizepercentx = "0",
@@ -355,11 +325,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 176,
+								PositionX = 161,
 								PositionY = -121,
 							},
 							UItype = "Button",
-							width = "124",
+							width = "151",
 							ZOrder = "1",
 							components = 
 							{
@@ -383,15 +353,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "22",
+									fontSize = "26",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "30",
+									ignoreSize = "True",
 									name = "btn_label",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -406,7 +376,7 @@ local t =
 									{
 										
 									},
-									width = "111",
+									width = "131",
 									ZOrder = "1",
 								},
 							},
@@ -426,7 +396,6 @@ local t =
 		{
 			"ui/balloon/21.png",
 			"ui/balloon/22.png",
-			"ui/activity/2021_spring/007.png",
 			"ui/balloon/close_btn.png",
 			"ui/balloon/12.png",
 			"ui/balloon/13.png",

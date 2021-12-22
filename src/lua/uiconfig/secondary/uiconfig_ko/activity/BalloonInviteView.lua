@@ -54,14 +54,14 @@ local t =
 					backGroundScale9Enable = "False",
 					classname = "MEImage",
 					dstBlendFunc = "771",
-					height = "307",
+					height = "308",
 					ignoreSize = "True",
 					name = "img_bg",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
+					texturePath = "ui/balloon/21.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
@@ -72,7 +72,7 @@ local t =
 						nGravity = 6,
 						nAlign = 5
 					},
-					width = "536",
+					width = "524",
 					ZOrder = "1",
 					components = 
 					{
@@ -86,20 +86,21 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "64",
+							height = "189",
 							ignoreSize = "True",
 							name = "img_di",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
+							texturePath = "ui/balloon/22.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 4,
-								PositionY = 16,
+								PositionX = 2,
+								PositionY = 5,
 							},
-							width = "64",
+							width = "517",
 							components = 
 							{
 								
@@ -123,7 +124,6 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -1,
 										PositionY = -75,
 									},
 									width = "518",
@@ -157,7 +157,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -166,15 +166,15 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "交易邀请",
+							text = "Transaction invitation",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -137,
+								PositionX = -86,
 								PositionY = 121,
 							},
-							width = "116",
+							width = "327",
 							ZOrder = "1",
 						},
 						{
@@ -189,10 +189,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "32",
 							ignoreSize = "True",
 							name = "btn_close",
-							normal = "ui/activity/2021_spring/fireWorks/close.png",
+							normal = "ui/balloon/close_btn.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -200,11 +200,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 268,
-								PositionY = 127,
+								PositionX = 234,
+								PositionY = 124,
 							},
 							UItype = "Button",
-							width = "62",
+							width = "35",
 							ZOrder = "1",
 						},
 						{
@@ -216,7 +216,7 @@ local t =
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
-							FontColor = "#FF416385",
+							FontColor = "#FFFFFFFF",
 							fontName = "font/fangzheng_zhunyuan.ttf",
 							fontShadow = 
 							{
@@ -226,7 +226,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "26",
+							fontSize = "22",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -242,12 +242,12 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "全服放飞次数:1000",
+							text = "Full server releases:1000",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionY = 55,
+								PositionY = 31,
 							},
 							width = "450",
 							ZOrder = "1",
@@ -264,10 +264,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "89",
+							height = "54",
 							ignoreSize = "True",
 							name = "btn_access",
-							normal = "ui/activity/2021_spring/010.png",
+							normal = "ui/balloon/12.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -276,10 +276,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -172,
-								PositionY = -115,
+								PositionY = -121,
 							},
 							UItype = "Button",
-							width = "164",
+							width = "124",
 							ZOrder = "1",
 							components = 
 							{
@@ -319,14 +319,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "接 受",
+									text = "Accept",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "67",
+									width = "76",
 									ZOrder = "1",
 								},
 							},
@@ -343,10 +343,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "89",
+							height = "54",
 							ignoreSize = "True",
 							name = "btn_refuse",
-							normal = "ui/activity/2021_spring/004.png",
+							normal = "ui/balloon/13.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -354,11 +354,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 180,
-								PositionY = -115,
+								PositionX = 176,
+								PositionY = -121,
 							},
 							UItype = "Button",
-							width = "164",
+							width = "124",
 							ZOrder = "1",
 							components = 
 							{
@@ -398,14 +398,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "거절",
+									text = "Reject",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "59",
+									width = "70",
 									ZOrder = "1",
 								},
 							},
@@ -422,7 +422,7 @@ local t =
 							classname = "MECheckBox",
 							clickType = "0",
 							dstBlendFunc = "771",
-							frontCrossTexture = "ui/activity/2021_spring/fireWorks/pop/010.png",
+							frontCrossTexture = "ui/balloon/08.png",
 							height = "32",
 							ignoreSize = "True",
 							name = "check_one",
@@ -437,8 +437,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = -40,
-								PositionY = -58,
+								PositionX = -39,
+								PositionY = -69,
 							},
 							width = "32",
 							ZOrder = "1",
@@ -471,24 +471,24 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "label_btn",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "2",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "今日不再接受对方邀请",
+									text = "No longer accept invitations today",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -22,
+										PositionX = -19,
 										PositionY = -2,
 									},
-									width = "204",
+									width = "221",
 									ZOrder = "1",
 								},
 							},
@@ -505,7 +505,7 @@ local t =
 							classname = "MECheckBox",
 							clickType = "0",
 							dstBlendFunc = "771",
-							frontCrossTexture = "ui/activity/2021_spring/fireWorks/pop/010.png",
+							frontCrossTexture = "ui/balloon/08.png",
 							height = "32",
 							ignoreSize = "True",
 							name = "check_all",
@@ -520,8 +520,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 235,
-								PositionY = -58,
+								PositionX = 238,
+								PositionY = -69,
 							},
 							width = "32",
 							ZOrder = "1",
@@ -554,16 +554,16 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "label_btn",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "2",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "今日不再接受任何邀请",
+									text = "No longer accept any invitations today",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -571,56 +571,10 @@ local t =
 										PositionX = -19,
 										PositionY = -2,
 									},
-									width = "204",
+									width = "221",
 									ZOrder = "1",
 								},
 							},
-						},
-						{
-							controlID = "txt_timer_img_bg_Panel-BalloonInviteView_balloon_activity_Game",
-							UUID = "ba2c697a_d09f_4cb2_95c8_6466868dda51",
-							anchorPoint = "False",
-							anchorPointX = "1",
-							anchorPointY = "0.5",
-							classname = "MELabel",
-							compPath = "luacomponents.common.MEIconLabel",
-							dstBlendFunc = "771",
-							FontColor = "#FF416385",
-							fontName = "font/fangzheng_zhunyuan.ttf",
-							fontShadow = 
-							{
-								IsShadow = false,
-								ShadowColor = "#FFFFFFFF",
-								ShadowAlpha = 255,
-								OffsetX = 0,
-								OffsetY = 0,
-							},
-							fontSize = "20",
-							fontStroke = 
-							{
-								IsStroke = false,
-								StrokeColor = "#FFE6E6E6",
-								StrokeSize = 1,
-							},
-							height = "23",
-							ignoreSize = "True",
-							name = "txt_timer",
-							nTextAlign = "1",
-							nTextHAlign = "0",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "770",
-							text = "全服放飞次数:1000",
-							touchAble = "False",
-							touchScaleEnable = "False",
-							UILayoutViewModel = 
-							{
-								PositionX = 250,
-								PositionY = -21,
-							},
-							width = "168",
-							ZOrder = "1",
 						},
 					},
 				},
@@ -635,11 +589,12 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
+			"ui/balloon/21.png",
+			"ui/balloon/22.png",
 			"ui/balloon/07.png",
-			"ui/activity/2021_spring/fireWorks/close.png",
-			"ui/activity/2021_spring/010.png",
-			"ui/activity/2021_spring/004.png",
+			"ui/balloon/close_btn.png",
+			"ui/balloon/12.png",
+			"ui/balloon/13.png",
 			"ui/balloon/09.png",
 		},
 		armatures = 

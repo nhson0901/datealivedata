@@ -8110,6 +8110,23 @@ return {
         icon = "",
         des = "190000322",
     },
+    [62022] = {
+        attributeExtra = {
+        },
+        attribute = {
+        },
+        name = "",
+        angelSkillFunctions = {
+        },
+        id = 62022,
+        buffs = {
+            [0] = {
+                [1] = 62022,
+            },
+        },
+        icon = "",
+        des = "",
+    },
     [95040] = {
         attributeExtra = {
         },
@@ -13223,22 +13240,22 @@ return {
         icon = "",
         des = "",
     },
-    [62022] = {
+    [29998] = {
         attributeExtra = {
         },
         attribute = {
         },
-        name = "",
+        name = "190001166",
         angelSkillFunctions = {
         },
-        id = 62022,
+        id = 29998,
         buffs = {
             [0] = {
-                [1] = 62022,
+                [1] = 30075,
             },
         },
         icon = "",
-        des = "",
+        des = "190010012",
     },
     [30014] = {
         attributeExtra = {

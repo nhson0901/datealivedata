@@ -327,7 +327,7 @@ local t =
 								StrokeColor = "#FF436993",
 								StrokeSize = 2,
 							},
-							height = "26",
+							height = "25",
 							ignoreSize = "True",
 							name = "act_time",
 							nTextAlign = "1",
@@ -337,7 +337,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "活动时间",
+							text = "Event Time",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -345,7 +345,7 @@ local t =
 								PositionX = -383,
 								PositionY = 239,
 							},
-							width = "76",
+							width = "108",
 							ZOrder = "1",
 							components = 
 							{
@@ -376,7 +376,7 @@ local t =
 										StrokeColor = "#FF436993",
 										StrokeSize = 2,
 									},
-									height = "26",
+									height = "25",
 									ignoreSize = "True",
 									name = "act_timeStart",
 									nTextAlign = "1",
@@ -394,7 +394,7 @@ local t =
 										PositionX = -66,
 										PositionY = -24,
 									},
-									width = "120",
+									width = "85",
 									ZOrder = "1",
 								},
 								{
@@ -423,7 +423,7 @@ local t =
 										StrokeColor = "#FF436993",
 										StrokeSize = 2,
 									},
-									height = "26",
+									height = "25",
 									ignoreSize = "True",
 									name = "act_timeEnd",
 									nTextAlign = "1",
@@ -441,7 +441,7 @@ local t =
 										PositionX = -85,
 										PositionY = -45,
 									},
-									width = "120",
+									width = "85",
 									ZOrder = "1",
 								},
 							},
@@ -479,6 +479,7 @@ local t =
 								Layout="Absolute",
 								nType = "0"
 							},
+							visible = "False",
 							width = "100",
 							ZOrder = "1",
 							components = 
@@ -542,7 +543,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_snowFestivalFightView_1",
 											nTextAlign = "1",
@@ -551,14 +552,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "作战准备",
+											text = "Battle Prep",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "99",
+											width = "142",
 											ZOrder = "1",
 										},
 									},
@@ -569,11 +570,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "73",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "img_costBg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -583,10 +584,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 267,
+										PositionX = 213,
 										PositionY = 35,
 									},
-									width = "106",
+									width = "215",
 									ZOrder = "1",
 									components = 
 									{
@@ -634,14 +635,14 @@ local t =
 												PositionX = 43,
 												PositionY = 11,
 											},
-											width = "26",
+											width = "30",
 											ZOrder = "1",
 										},
 										{
 											controlID = "lab_Name_img_costBg_Panel_single_Panel_root_Panel-snowFestivalFightView_Layer1_activity_Game",
 											UUID = "3e8fc40b_904a_4278_a478_eef1349d0835",
 											anchorPoint = "False",
-											anchorPointX = "1",
+											anchorPointX = "0.5",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -672,15 +673,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "深海挑战卷",
+											text = "Deepsea Challenge Ticket",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 47,
 												PositionY = -19,
 											},
-											width = "94",
+											width = "191",
 											ZOrder = "1",
 										},
 										{
@@ -759,11 +759,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "73",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "img_costBg",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -773,10 +773,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 102,
+										PositionX = 52,
 										PositionY = 35,
 									},
-									width = "106",
+									width = "194",
 									ZOrder = "1",
 									components = 
 									{
@@ -824,14 +824,14 @@ local t =
 												PositionX = 43,
 												PositionY = 11,
 											},
-											width = "26",
+											width = "30",
 											ZOrder = "1",
 										},
 										{
 											controlID = "lab_Name_img_costBg_Panel_multi_Panel_root_Panel-snowFestivalFightView_Layer1_activity_Game",
 											UUID = "fe251539_fa41_409e_9294_3f96937248c8",
 											anchorPoint = "False",
-											anchorPointX = "1",
+											anchorPointX = "0.5",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -862,15 +862,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "挑战卷",
+											text = "Challenge Ticket",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 47,
 												PositionY = -18,
 											},
-											width = "58",
+											width = "126",
 											ZOrder = "1",
 										},
 										{
@@ -895,7 +894,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -20,
+												PositionX = -31,
 												PositionY = 14,
 											},
 											width = "100",
@@ -926,11 +925,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 245,
+										PositionX = 240,
 										PositionY = 32,
 									},
 									UItype = "Button",
-									width = "150",
+									width = "155",
 									ZOrder = "1",
 									components = 
 									{
@@ -961,8 +960,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "txt",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -970,14 +969,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "创建房间",
+											text = "Create Room",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "98",
+											width = "102",
 											ZOrder = "1",
 										},
 									},
@@ -1036,7 +1035,7 @@ local t =
 										PositionY = 32,
 									},
 									UItype = "Button",
-									width = "150",
+									width = "155",
 									ZOrder = "1",
 									components = 
 									{
@@ -1067,8 +1066,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "txt",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -1076,14 +1075,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "单人匹配",
+											text = "Solo Match",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "101",
+											width = "150",
 											ZOrder = "1",
 										},
 									},
@@ -1153,7 +1152,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "模式选择",
+									text = "Mode Select",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1217,8 +1216,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "lab_modelText",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -1226,14 +1225,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "困难（组队）",
+											text = "Difficult (Team-up)",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -94,
 											},
-											width = "137",
+											width = "143",
 											ZOrder = "1",
 										},
 										{
@@ -1344,11 +1343,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
 							height = "111",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "img_award",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -1358,10 +1357,10 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 323,
+								PositionX = 307,
 								PositionY = -82,
 							},
-							width = "269",
+							width = "301",
 							ZOrder = "1",
 							components = 
 							{
@@ -1401,14 +1400,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "奖励预览",
+									text = "Rewards Preview",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -82,
+										PositionX = -99,
 									},
-									width = "36",
+									width = "87",
 									ZOrder = "1",
 								},
 								{
@@ -1583,8 +1582,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "lab_modelItemText",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -1592,7 +1591,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "普通（组队）",
+									text = "Normal (Team-up)",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1600,7 +1599,7 @@ local t =
 										PositionX = -94,
 										PositionY = 28,
 									},
-									width = "137",
+									width = "143",
 									ZOrder = "1",
 								},
 								{

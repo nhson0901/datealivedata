@@ -94,21 +94,21 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "138",
+							height = "133",
 							ignoreSize = "True",
 							name = "img_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/2021_spring/fireWorks/pop/003.png",
+							texturePath = "ui/balloon/25.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
 								PositionX = 568,
 								PositionY = 631,
 							},
-							width = "871",
+							width = "876",
 							ZOrder = "1",
 							components = 
 							{
@@ -129,7 +129,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/2021_spring/fireWorks/pop/001.png",
+									texturePath = "ui/balloon/10.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -176,7 +176,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "ข้อความ",
+											text = "Message",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -184,7 +184,7 @@ local t =
 												PositionX = 22,
 												PositionY = -1,
 											},
-											width = "51",
+											width = "83",
 											ZOrder = "1",
 										},
 									},
@@ -198,21 +198,21 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "68",
+									height = "66",
 									ignoreSize = "True",
 									name = "img_icon",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/2021_spring/fireWorks/pop/002.png",
+									texturePath = "ui/balloon/11.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = -386,
 										PositionY = -84,
 									},
-									width = "68",
+									width = "66",
 									ZOrder = "1",
 								},
 								{
@@ -224,7 +224,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF842540",
+									FontColor = "#FF493E8A",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -250,7 +250,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "我想和你进行",
+									text = "I want to go with you",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -258,7 +258,7 @@ local t =
 										PositionX = -342,
 										PositionY = -104,
 									},
-									width = "147",
+									width = "206",
 									ZOrder = "1",
 								},
 								{
@@ -287,7 +287,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "txt_name",
 									nTextAlign = "1",
@@ -296,7 +296,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "ชื่อผู้เล่น",
+									text = "Player Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -304,7 +304,7 @@ local t =
 										PositionX = -343,
 										PositionY = -70,
 									},
-									width = "100",
+									width = "159",
 									ZOrder = "1",
 								},
 								{
@@ -342,7 +342,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "นับถอยหลัง",
+									text = "Countdown",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -350,53 +350,7 @@ local t =
 										PositionX = 416,
 										PositionY = -104,
 									},
-									width = "75",
-									ZOrder = "1",
-								},
-								{
-									controlID = "txt_now_img_bg_panel_root_Panel-BalloonNotifyLayer_balloon_activity_Game",
-									UUID = "2105b7e3_1381_493b_ae33_a5cf39b7bf78",
-									anchorPoint = "False",
-									anchorPointX = "1",
-									anchorPointY = "0.5",
-									classname = "MELabel",
-									compPath = "luacomponents.common.MEIconLabel",
-									dstBlendFunc = "771",
-									FontColor = "#FF842540",
-									fontName = "font/fangzheng_zhunyuan.ttf",
-									fontShadow = 
-									{
-										IsShadow = false,
-										ShadowColor = "#FFFFFFFF",
-										ShadowAlpha = 255,
-										OffsetX = 0,
-										OffsetY = 0,
-									},
-									fontSize = "22",
-									fontStroke = 
-									{
-										IsStroke = false,
-										StrokeColor = "#FFE6E6E6",
-										StrokeSize = 1,
-									},
-									height = "25",
-									ignoreSize = "True",
-									name = "txt_now",
-									nTextAlign = "1",
-									nTextHAlign = "1",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "770",
-									text = "现在",
-									touchAble = "False",
-									touchScaleEnable = "False",
-									UILayoutViewModel = 
-									{
-										PositionX = 411,
-										PositionY = -27,
-									},
-									width = "47",
+									width = "116",
 									ZOrder = "1",
 								},
 							},
@@ -414,9 +368,9 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/2021_spring/fireWorks/pop/003.png",
-			"ui/activity/2021_spring/fireWorks/pop/001.png",
-			"ui/activity/2021_spring/fireWorks/pop/002.png",
+			"ui/balloon/25.png",
+			"ui/balloon/10.png",
+			"ui/balloon/11.png",
 		},
 		armatures = 
 		{

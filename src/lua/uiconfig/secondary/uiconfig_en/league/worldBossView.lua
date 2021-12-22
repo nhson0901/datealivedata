@@ -592,7 +592,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Or Moromi",
+									text = "Marina Arusu",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1724,7 +1724,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "210",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_worldBossViewArt3",
 											nTextAlign = "1",
@@ -1733,14 +1733,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "[Or Shoujunai LV]",
+											text = "[Marina Arusu LV     ]",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 161,
+												PositionX = 180,
 											},
-											width = "12",
+											width = "198",
 											ZOrder = "1",
 										},
 										{
@@ -1783,7 +1783,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 255,
+												PositionX = 258,
 											},
 											width = "13",
 											ZOrder = "1",

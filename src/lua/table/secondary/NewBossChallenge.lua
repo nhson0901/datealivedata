@@ -19,7 +19,7 @@ return {
             },
         },
         dungeonID = 471115,
-        eTime = "2020-10-20 23:59:59",
+        eTime = "2022-1-22 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -59,7 +59,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_12.png",
         type = 8,
         id = 471115,
-        sTime = "2020-10-19 00:00:00",
+        sTime = "2022-1-21 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -71,9 +71,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中包含3种不同伤害类型角色",
-            [3] = "通关队伍中包含[诱宵美九]和[白之女王]",
+            [1] = "190001200",
+            [2] = "190001215",
+            [3] = "190001230",
         },
     },
     [471104] = {
@@ -96,7 +96,7 @@ return {
             },
         },
         dungeonID = 471104,
-        eTime = "2020-09-28 23:59:00",
+        eTime = "2021-12-31 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -136,7 +136,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_8.png",
         type = 8,
         id = 471104,
-        sTime = "2020-09-27 00:00:00",
+        sTime = "2021-12-30 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -148,9 +148,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中包含[雷电]伤害角色",
-            [3] = "通关队伍中不包含[冰霜]和[黑暗]伤害角色",
+            [1] = "190001200",
+            [2] = "190001204",
+            [3] = "190001219",
         },
     },
     [471108] = {
@@ -173,7 +173,7 @@ return {
             },
         },
         dungeonID = 471108,
-        eTime = "2020-10-06 23:59:00",
+        eTime = "2022-1-8 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -213,7 +213,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_7.png",
         type = 8,
         id = 471108,
-        sTime = "2020-10-05 00:00:00",
+        sTime = "2022-1-7 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -225,9 +225,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中所有成员未在战斗中复活",
-            [3] = "通关队伍中包含[或守鞠奈]和[艾伦]",
+            [1] = "190001200",
+            [2] = "190001208",
+            [3] = "190001223",
         },
     },
     [471112] = {
@@ -250,7 +250,7 @@ return {
             },
         },
         dungeonID = 471112,
-        eTime = "2020-10-14 23:59:00",
+        eTime = "2022-1-16 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -290,7 +290,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_12.png",
         type = 8,
         id = 471112,
-        sTime = "2020-10-13 00:00:00",
+        sTime = "2022-1-15 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -302,9 +302,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中包含[八舞耶俱矢]和[白之女王]",
-            [3] = "通关队伍中不包含[反转折纸]",
+            [1] = "190001200",
+            [2] = "190001212",
+            [3] = "190001227",
         },
     },
     [471101] = {
@@ -327,7 +327,7 @@ return {
             },
         },
         dungeonID = 471101,
-        eTime = "2020-09-22 23:59:00",
+        eTime = "2021-12-25 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -367,7 +367,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_12.png",
         type = 8,
         id = 471101,
-        sTime = "2020-09-20 00:00:00",
+        sTime = "2021-12-23 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -379,9 +379,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中包含[精灵折纸]",
-            [3] = "通关时间低于60秒",
+            [1] = "190001200",
+            [2] = "190001201",
+            [3] = "190001216",
         },
     },
     [471105] = {
@@ -404,7 +404,7 @@ return {
             },
         },
         dungeonID = 471105,
-        eTime = "2020-09-30 23:59:00",
+        eTime = "2022-1-2 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -444,7 +444,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_9.png",
         type = 8,
         id = 471105,
-        sTime = "2020-09-29 00:00:00",
+        sTime = "2022-1-1 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -456,9 +456,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中包含[飓风]和[物理]伤害角色",
-            [3] = "通关队伍中不包含[万由里]和[猩红梦魇]",
+            [1] = "190001200",
+            [2] = "190001205",
+            [3] = "190001220",
         },
     },
     [471109] = {
@@ -481,7 +481,7 @@ return {
             },
         },
         dungeonID = 471109,
-        eTime = "2020-10-08 23:59:00",
+        eTime = "2022-1-10 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -521,7 +521,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_8.png",
         type = 8,
         id = 471109,
-        sTime = "2020-10-07 00:00:00",
+        sTime = "2022-1-9 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -533,9 +533,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中包含[冰雪公主]",
-            [3] = "通关队伍中包含[空间]伤害角色",
+            [1] = "190001200",
+            [2] = "190001209",
+            [3] = "190001224",
         },
     },
     [471113] = {
@@ -558,7 +558,7 @@ return {
             },
         },
         dungeonID = 471113,
-        eTime = "2020-10-16 23:59:00",
+        eTime = "2022-1-18 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -598,7 +598,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_9.png",
         type = 8,
         id = 471113,
-        sTime = "2020-10-15 00:00:00",
+        sTime = "2022-1-17 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -610,9 +610,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "对Boss造成至少80万伤害",
-            [3] = "通关队伍中包含[或守鞠亚]和[DEM折纸]",
+            [1] = "190001200",
+            [2] = "190001213",
+            [3] = "190001228",
         },
     },
     [471102] = {
@@ -635,7 +635,7 @@ return {
             },
         },
         dungeonID = 471102,
-        eTime = "2020-09-24 23:59:00",
+        eTime = "2021-12-27 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -675,7 +675,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_6.png",
         type = 8,
         id = 471102,
-        sTime = "2020-09-23 00:00:00",
+        sTime = "2021-12-26 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -687,9 +687,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "对Boss造成至少40万伤害",
-            [3] = "通关队伍中包含[或守鞠亚]",
+            [1] = "190001200",
+            [2] = "190001202",
+            [3] = "190001217",
         },
     },
     [471106] = {
@@ -712,7 +712,7 @@ return {
             },
         },
         dungeonID = 471106,
-        eTime = "2020-10-02 23:59:00",
+        eTime = "2022-1-4 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -752,7 +752,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_10.png",
         type = 8,
         id = 471106,
-        sTime = "2020-10-01 00:00:00",
+        sTime = "2022-1-3 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -764,9 +764,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "对Boss造成至少60万伤害",
-            [3] = "通关队伍中包含[白之女王]",
+            [1] = "190001200",
+            [2] = "190001206",
+            [3] = "190001221",
         },
     },
     [471110] = {
@@ -789,7 +789,7 @@ return {
             },
         },
         dungeonID = 471110,
-        eTime = "2020-10-10 23:59:00",
+        eTime = "2022-1-12 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -829,7 +829,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_9.png",
         type = 8,
         id = 471110,
-        sTime = "2020-10-09 00:00:00",
+        sTime = "2022-1-11 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -841,9 +841,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中包含[白之女王]和[芬里尔·真那]",
-            [3] = "通关队伍中不包含[神圣]和[火焰]伤害角色",
+            [1] = "190001200",
+            [2] = "190001210",
+            [3] = "190001225",
         },
     },
     [471114] = {
@@ -866,7 +866,7 @@ return {
             },
         },
         dungeonID = 471114,
-        eTime = "2020-10-18 23:59:00",
+        eTime = "2022-1-20 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -906,7 +906,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_10.png",
         type = 8,
         id = 471114,
-        sTime = "2020-10-17 00:00:00",
+        sTime = "2022-1-19 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -918,9 +918,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中至少包含2种不同伤害类型角色",
-            [3] = "通关队伍中不包含[神圣]和[黑暗]伤害角色",
+            [1] = "190001200",
+            [2] = "190001214",
+            [3] = "190001229",
         },
     },
     [471103] = {
@@ -943,7 +943,7 @@ return {
             },
         },
         dungeonID = 471103,
-        eTime = "2020-09-26 23:59:00",
+        eTime = "2021-12-29 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -983,7 +983,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_7.png",
         type = 8,
         id = 471103,
-        sTime = "2020-09-25 00:00:00",
+        sTime = "2021-12-28 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -995,9 +995,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中所有成员未在战斗中复活",
-            [3] = "通关队伍中包含[五河琴里]和[七罪]",
+            [1] = "190001200",
+            [2] = "190001203",
+            [3] = "190001218",
         },
     },
     [471107] = {
@@ -1020,7 +1020,7 @@ return {
             },
         },
         dungeonID = 471107,
-        eTime = "2020-10-04 23:59:00",
+        eTime = "2022-1-6 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -1060,7 +1060,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_6.png",
         type = 8,
         id = 471107,
-        sTime = "2020-10-03 00:00:00",
+        sTime = "2022-1-5 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -1072,9 +1072,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中不包含[反转十香]",
-            [3] = "通关时间低于90秒",
+            [1] = "190001200",
+            [2] = "190001207",
+            [3] = "190001222",
         },
     },
     [471111] = {
@@ -1097,7 +1097,7 @@ return {
             },
         },
         dungeonID = 471111,
-        eTime = "2020-10-12 23:59:00",
+        eTime = "2022-1-14 23:59:00",
         firstReward = {
             medal = {
                 [500128] = 1,
@@ -1137,7 +1137,7 @@ return {
         bossPicture = "ui/league/zljh/bosspicture/boss_10.png",
         type = 8,
         id = 471111,
-        sTime = "2020-10-11 00:00:00",
+        sTime = "2022-1-13 00:00:00",
         battleTime = 600,
         secondReward = {
             medal = {
@@ -1149,9 +1149,9 @@ return {
             },
         },
         goalDescribe = {
-            [1] = "获得战斗胜利",
-            [2] = "通关队伍中包含[灭杀皇·十香]",
-            [3] = "通关时间低于120秒",
+            [1] = "190001200",
+            [2] = "190001211",
+            [3] = "190001226",
         },
     },
 }

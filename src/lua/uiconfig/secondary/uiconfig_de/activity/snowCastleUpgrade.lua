@@ -388,14 +388,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "升 级",
+													text = "Upgrade",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "57",
+													width = "84",
 													ZOrder = "1",
 												},
 											},
@@ -474,7 +474,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -483,7 +483,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "选择升级项目",
+									text = "Select an event to upgrade",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -491,7 +491,7 @@ local t =
 										PositionX = -258,
 										PositionY = 155,
 									},
-									width = "158",
+									width = "357",
 									ZOrder = "1",
 								},
 								{

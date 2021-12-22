@@ -233,7 +233,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "24",
+											height = "23",
 											ignoreSize = "True",
 											name = "label_roomNums",
 											nTextAlign = "1",
@@ -249,7 +249,7 @@ local t =
 											{
 												PositionY = -128,
 											},
-											width = "83",
+											width = "67",
 											ZOrder = "1",
 										},
 									},
@@ -344,7 +344,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "26",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_MapLayer_1",
 											nTextAlign = "1",
@@ -360,7 +360,7 @@ local t =
 											{
 												
 											},
-											width = "147",
+											width = "156",
 											ZOrder = "1",
 										},
 									},
@@ -419,7 +419,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "31",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_MapLayer_1",
 											nTextAlign = "1",
@@ -435,7 +435,7 @@ local t =
 											{
 												
 											},
-											width = "61",
+											width = "65",
 											ZOrder = "1",
 										},
 									},

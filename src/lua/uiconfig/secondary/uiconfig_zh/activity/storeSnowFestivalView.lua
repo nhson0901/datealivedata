@@ -317,7 +317,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_name",
 											nTextAlign = "1",
@@ -326,7 +326,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "绿色能量绿色能量",
+											text = "綠色能量綠色能量",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -334,7 +334,7 @@ local t =
 												PositionX = 52,
 												PositionY = 44,
 											},
-											width = "181",
+											width = "179",
 											ZOrder = "1",
 										},
 										{
@@ -399,7 +399,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_buy_tip",
 											nTextAlign = "1",
@@ -408,7 +408,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "已拥有",
+											text = "已擁有",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -416,7 +416,7 @@ local t =
 												PositionX = 86,
 												PositionY = -53,
 											},
-											width = "76",
+											width = "75",
 											ZOrder = "1",
 										},
 										{
@@ -454,7 +454,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "限购20次",
+											text = "限購20次",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -583,7 +583,7 @@ local t =
 														nGravity = 5,
 														nAlign = 4
 													},
-													width = "59",
+													width = "58",
 													ZOrder = "1",
 												},
 												{
@@ -634,7 +634,7 @@ local t =
 														nAlign = 4
 													},
 													visible = "False",
-													width = "59",
+													width = "58",
 													ZOrder = "1",
 												},
 											},
@@ -863,7 +863,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_lv",
 									nTextAlign = "1",
@@ -881,7 +881,7 @@ local t =
 										PositionY = -2,
 									},
 									visible = "False",
-									width = "104",
+									width = "101",
 									ZOrder = "1",
 								},
 								{
@@ -910,7 +910,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_lockLvTxt",
 									nTextAlign = "1",
@@ -919,7 +919,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "需要冰雪商店达到            解锁",
+									text = "需要冰雪商店達到            解鎖",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -927,7 +927,7 @@ local t =
 										PositionX = -402,
 										PositionY = -2,
 									},
-									width = "334",
+									width = "346",
 									ZOrder = "1",
 									components = 
 									{
@@ -958,7 +958,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_lockLv",
 											nTextAlign = "1",
@@ -975,7 +975,7 @@ local t =
 												PositionX = 246,
 												PositionY = 2,
 											},
-											width = "60",
+											width = "49",
 											ZOrder = "1",
 										},
 									},

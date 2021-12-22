@@ -45,14 +45,14 @@ function SnowCastleMain:initUI(ui)
 	self.act_timeEnd = TFDirector:getChildByPath(ui, "act_timeEnd")
 	self.act_timeEnd:setSkewX(10)
 
-	local year, month, day = Utils:getDate(self.activityData.showStartTime)
+	local year, month, day = Utils:getUTCDateYMD(self.activityData.showStartTime or 0, false , GV_UTC_TIME_ZONE)
 	local format = TextDataMgr:getText(300324)
 	local text = string.format(format, year).. string.format(format, string.format("%.2d", month)).. string.format("%.2d", day).."-"
 	self.act_timeStart:setText(text)
 
-	year, month, day = Utils:getDate(self.activityData.showEndTime)
+	year, month, day = Utils:getUTCDateYMD(self.activityData.showEndTime or 0, false , GV_UTC_TIME_ZONE)
 	text = string.format(format, year).. string.format(format, string.format("%.2d", month)).. string.format("%.2d", day)
-	self.act_timeEnd:setText(text)
+	self.act_timeEnd:setText(text ..GV_UTC_TIME_STRING)
 
 	
 end

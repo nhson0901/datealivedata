@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -17134,7 +17134,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "通关描述",
+											text = "Stage Clear Info",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -17142,7 +17142,7 @@ local t =
 												PositionX = -157,
 												PositionY = 101,
 											},
-											width = "98",
+											width = "202",
 											ZOrder = "1",
 										},
 										{
@@ -17291,7 +17291,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "奖励预览",
+											text = "Rewards Preview",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -17299,7 +17299,7 @@ local t =
 												PositionX = 48,
 												PositionY = 161,
 											},
-											width = "98",
+											width = "220",
 											ZOrder = "1",
 										},
 										{

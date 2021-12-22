@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -293,7 +293,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "34",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -302,7 +302,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "特权总览",
+									text = "Privilege overview",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -310,7 +310,7 @@ local t =
 										PositionX = -215,
 										PositionY = 166,
 									},
-									width = "114",
+									width = "274",
 									ZOrder = "1",
 									components = 
 									{
@@ -338,6 +338,7 @@ local t =
 												PositionX = 121,
 												PositionY = 2,
 											},
+											visible = "False",
 											width = "5",
 											ZOrder = "1",
 										},
@@ -384,6 +385,7 @@ local t =
 												PositionX = 129,
 												PositionY = -1,
 											},
+											visible = "False",
 											width = "71",
 											ZOrder = "1",
 										},
@@ -517,14 +519,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_info",
 									nTextAlign = "1",
@@ -533,14 +535,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "ป้ายข้อความ",
+									text = "TextLable",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = -327,
 									},
-									width = "95",
+									width = "80",
 									ZOrder = "1",
 								},
 								{
@@ -562,14 +564,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_cnt",
 									nTextAlign = "1",
@@ -578,14 +580,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "ป้ายข้อความ",
+									text = "TextLable",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = 336,
 									},
-									width = "95",
+									width = "80",
 									ZOrder = "1",
 								},
 							},

@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -224,14 +224,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_turnTabletGame_1",
 											nTextAlign = "1",
@@ -240,14 +240,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "카드 뒤집기로 보상 확득",
+											text = "Click the flop to get rewards",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -22,
 											},
-											width = "212",
+											width = "209",
 											ZOrder = "1",
 										},
 									},
@@ -403,7 +403,7 @@ local t =
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "40",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_pass_time",
 											scaleX = "-1",
 											sizepercentx = "0",
@@ -417,7 +417,7 @@ local t =
 												PositionX = 651,
 												PositionY = 547,
 											},
-											width = "210",
+											width = "380",
 											ZOrder = "1",
 											components = 
 											{
@@ -426,7 +426,7 @@ local t =
 													controlID = "Label_time_title_Image_pass_time_Panel_r_Panel_content_Panel_root_Panel-turnTabletGame_Layer1_twoYearTurnTablet_Game",
 													UUID = "f4515a93_8ca0_4635_911c_e509880da68b",
 													anchorPoint = "False",
-													anchorPointX = "1",
+													anchorPointX = "0",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -441,32 +441,31 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "24",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "28",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_time_title",
 													nTextAlign = "1",
-													nTextHAlign = "1",
+													nTextHAlign = "0",
 													scaleX = "-1",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "클리어 보상 설정",
+													text = "Set clearance rewards",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -175,
-														PositionY = 4,
+														PositionX = -10,
 													},
-													width = "170",
+													width = "207",
 													ZOrder = "1",
 												},
 												{
@@ -495,8 +494,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "16",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_time_title_flag",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -513,7 +512,8 @@ local t =
 														PositionX = -12,
 														PositionY = -12,
 													},
-													width = "56",
+													visible = "False",
+													width = "79",
 													ZOrder = "1",
 												},
 											},
@@ -558,10 +558,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 866,
-												PositionY = 488,
+												PositionX = 961,
+												PositionY = 490,
 											},
-											width = "23",
+											width = "26",
 											ZOrder = "1",
 											components = 
 											{
@@ -570,7 +570,7 @@ local t =
 													controlID = "lab_curFloor__lab_curFloor_Panel_r_Panel_content_Panel_root_Panel-turnTabletGame_Layer1_twoYearTurnTablet_Game",
 													UUID = "485314cf_da52_48b2_a7ce_228ad1234569",
 													anchorPoint = "False",
-													anchorPointX = "0.5",
+													anchorPointX = "0",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -601,14 +601,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "현재 층수：",
+													text = "Current layer number",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -60,
+														PositionX = -201,
 													},
-													width = "93",
+													width = "192",
 													ZOrder = "1",
 												},
 											},
@@ -653,11 +653,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 909,
+												PositionX = 921,
 												PositionY = 444,
 											},
-											visible = "False",
-											width = "23",
+											width = "26",
 											ZOrder = "1",
 											components = 
 											{
@@ -697,14 +696,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "今日免费次数：",
+													text = "Free times today",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionX = -82,
 													},
-													width = "143",
+													width = "149",
 													ZOrder = "1",
 												},
 											},
@@ -766,7 +765,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 883,
+														PositionX = 974,
 														PositionY = 444,
 													},
 													width = "50",
@@ -776,7 +775,7 @@ local t =
 													controlID = "lab_curFloor__Panel_goodsCount_Panel_r_Panel_content_Panel_root_Panel-turnTabletGame_Layer1_twoYearTurnTablet_Game",
 													UUID = "05c64c46_5376_4893_97d4_158c0baabe8f",
 													anchorPoint = "False",
-													anchorPointX = "0.5",
+													anchorPointX = "0",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -807,15 +806,15 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "남은 횟수：",
+													text = "Remaining Chances",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 806,
+														PositionX = 760,
 														PositionY = 443,
 													},
-													width = "94",
+													width = "172",
 													ZOrder = "1",
 												},
 												{
@@ -858,10 +857,10 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 906,
+														PositionX = 998,
 														PositionY = 443,
 													},
-													width = "23",
+													width = "26",
 													ZOrder = "1",
 												},
 											},
@@ -899,7 +898,7 @@ local t =
 													controlID = "Label_time_title_Image_pass_time-Copy1_Panel_r_Panel_content_Panel_root_Panel-turnTabletGame_Layer1_twoYearTurnTablet_Game",
 													UUID = "4df97e68_29cf_4cc4_b2a0_1ef63783009b",
 													anchorPoint = "False",
-													anchorPointX = "1",
+													anchorPointX = "0",
 													anchorPointY = "0.5",
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
@@ -931,15 +930,15 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "보상 리스트",
+													text = "Reward list",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -128,
-														PositionY = 5,
+														PositionX = -12,
+														PositionY = 1,
 													},
-													width = "120",
+													width = "145",
 													ZOrder = "1",
 												},
 												{
@@ -986,7 +985,8 @@ local t =
 														PositionX = -12,
 														PositionY = -12,
 													},
-													width = "56",
+													visible = "False",
+													width = "57",
 													ZOrder = "1",
 												},
 											},
@@ -1149,7 +1149,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "99일 23시간 55분",
+													text = "99d 23h 55m",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -1157,7 +1157,7 @@ local t =
 														PositionX = 10,
 														PositionY = -1,
 													},
-													width = "163",
+													width = "126",
 													ZOrder = "1",
 												},
 											},
@@ -1314,14 +1314,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "20",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
+													height = "23",
 													ignoreSize = "True",
 													name = "Label_open",
 													nTextAlign = "1",
@@ -1330,14 +1330,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "뒤집기",
+													text = "Start the flop",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "70",
+													width = "106",
 													ZOrder = "1",
 												},
 											},
@@ -1707,7 +1707,7 @@ local t =
 									{
 										PositionY = -48,
 									},
-									width = "41",
+									width = "45",
 									ZOrder = "1",
 								},
 							},

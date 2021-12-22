@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -295,7 +295,7 @@ local t =
 															backGroundScale9Enable = "False",
 															classname = "MEImage",
 															dstBlendFunc = "771",
-															height = "26",
+															height = "32",
 															ignoreSize = "True",
 															name = "Image_line",
 															sizepercentx = "0",
@@ -308,7 +308,7 @@ local t =
 															{
 																PositionX = 3,
 															},
-															width = "5",
+															width = "4",
 															ZOrder = "1",
 														},
 														{
@@ -354,7 +354,7 @@ local t =
 																PositionX = 7,
 																PositionY = -7,
 															},
-															width = "115",
+															width = "109",
 															ZOrder = "1",
 														},
 													},
@@ -424,7 +424,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "试炼目标",
+													text = "Trial goal",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -553,7 +553,7 @@ local t =
 													{
 														
 													},
-													width = "73",
+													width = "77",
 													ZOrder = "1",
 												},
 											},
@@ -697,8 +697,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "label_tip1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -706,7 +706,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "队伍最大人数限制：",
+											text = "Maximum number of team members：",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -714,7 +714,7 @@ local t =
 												PositionX = -171,
 												PositionY = 130,
 											},
-											width = "170",
+											width = "184",
 											ZOrder = "1",
 										},
 										{
@@ -760,7 +760,7 @@ local t =
 												PositionX = -161,
 												PositionY = 130,
 											},
-											width = "14",
+											width = "13",
 											ZOrder = "1",
 										},
 										{
@@ -798,15 +798,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "当前轮数：",
+											text = "Current round：",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -223,
+												PositionX = -203,
 												PositionY = -121,
 											},
-											width = "107",
+											width = "149",
 											ZOrder = "1",
 										},
 										{
@@ -852,7 +852,7 @@ local t =
 												PositionX = -204,
 												PositionY = -122,
 											},
-											width = "37",
+											width = "46",
 											ZOrder = "1",
 										},
 										{

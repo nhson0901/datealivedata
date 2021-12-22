@@ -1113,8 +1113,8 @@ local t =
 									sizeType = "0",
 									spineModel = 
 									{
-										SpinePath = "effect/effect_zhounian_03/effect_zhounian_03",
-										animationName = "ALL",
+										SpinePath = "effect/effect_zhounian_05/effect_zhounian_05",
+										animationName = "animation",
 										IsLoop = false,
 										IsPlay = false,
 										IsUseQueue = false,
@@ -1292,8 +1292,8 @@ local t =
 									sizeType = "0",
 									spineModel = 
 									{
-										SpinePath = "effect/effect_zhounian_03/effect_zhounian_03",
-										animationName = "ALL",
+										SpinePath = "effect/effect_zhounian_05/effect_zhounian_05",
+										animationName = "animation",
 										IsLoop = false,
 										IsPlay = false,
 										IsUseQueue = false,
@@ -1915,42 +1915,6 @@ local t =
 									ZOrder = "1",
 								},
 								{
-									controlID = "Panel_touch_Panel_eventTrigger_Panel_base_Panel-znqMainView_zhounianqing_activity_Game",
-									UUID = "a2aa7575_71d2_4568_9300_fffbd7cf6a3b",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									bgColorOpacity = "50",
-									bIsOpenClipping = "False",
-									classname = "MEPanel",
-									colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
-									DesignHeight = "640",
-									DesignType = "0",
-									DesignWidth = "960",
-									dstBlendFunc = "771",
-									height = "640",
-									ignoreSize = "False",
-									name = "Panel_touch",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "1",
-									touchAble = "True",
-									UILayoutViewModel = 
-									{
-										PositionX = 568,
-										PositionY = 320,
-									},
-									uipanelviewmodel = 
-									{
-										Layout="Absolute",
-										nType = "0"
-									},
-									width = "1386",
-									ZOrder = "1",
-								},
-								{
 									controlID = "ScrollView_triggerEvent_Panel_eventTrigger_Panel_base_Panel-znqMainView_zhounianqing_activity_Game",
 									UUID = "08ffeeab_d096_4ba0_ba02_76264903de80",
 									anchorPoint = "False",
@@ -1986,6 +1950,42 @@ local t =
 										nType = "0"
 									},
 									width = "800",
+									ZOrder = "1",
+								},
+								{
+									controlID = "Panel_touch_Panel_eventTrigger_Panel_base_Panel-znqMainView_zhounianqing_activity_Game",
+									UUID = "a2aa7575_71d2_4568_9300_fffbd7cf6a3b",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									backGroundScale9Enable = "False",
+									bgColorOpacity = "50",
+									bIsOpenClipping = "False",
+									classname = "MEPanel",
+									colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+									DesignHeight = "640",
+									DesignType = "0",
+									DesignWidth = "960",
+									dstBlendFunc = "771",
+									height = "640",
+									ignoreSize = "False",
+									name = "Panel_touch",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									touchAble = "True",
+									UILayoutViewModel = 
+									{
+										PositionX = 568,
+										PositionY = 320,
+									},
+									uipanelviewmodel = 
+									{
+										Layout="Absolute",
+										nType = "0"
+									},
+									width = "1386",
 									ZOrder = "1",
 								},
 							},

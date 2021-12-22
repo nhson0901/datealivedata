@@ -56,12 +56,12 @@ function SnowFestivalTaskView:initUILogic()
         return
     end
 
-    local startDate = Utils:getLocalDate(activityInfo.startTime)
+    local startDate = Utils:getUTCDate(activityInfo.startTime , GV_UTC_TIME_ZONE)
     local startDateStr = startDate:fmt("%Y.%m.%d")
-    local endDate = Utils:getLocalDate(activityInfo.endTime)
+    local endDate = Utils:getUTCDate(activityInfo.endTime , GV_UTC_TIME_ZONE)
     local endDateStr = endDate:fmt("%Y.%m.%d")
     self.Label_time_begin:setText(startDateStr)
-    self.Label_time_end:setText(endDateStr)
+    self.Label_time_end:setText(endDateStr ..GV_UTC_TIME_STRING)
 
     self.extDayTask = ext.day or {}
     self.extAchieveTask = ext.once or {}
@@ -114,7 +114,7 @@ function SnowFestivalTaskView:updateTaskItem(item,itemId)
     local itemInfo = ActivityDataMgr2:getItemInfo(self.activityType, itemId)
 
     local Label_desc = TFDirector:getChildByPath(item, "Label_desc")
-    Label_desc:setText(itemInfo.extendData.des2)
+    Label_desc:setTextById(itemInfo.extendData.des2, itemInfo.target)
 
     local Label_pro_value = TFDirector:getChildByPath(item, "Label_pro_value")
     Label_pro_value:setTextById(800005, progress, itemInfo.target)

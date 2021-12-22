@@ -153,11 +153,11 @@ function BalloonMainView:updateUI()
         return
     end
 
-    local startDate = Utils:getLocalDate(self.activityInfo.startTime)
+    local startDate = Utils:getUTCDate(self.activityInfo.startTime , GV_UTC_TIME_ZONE)
     local startDateStr = startDate:fmt("%Y.%m.%d")
-    local endDate = Utils:getLocalDate(self.activityInfo.endTime)
+    local endDate = Utils:getUTCDate(self.activityInfo.endTime , GV_UTC_TIME_ZONE)
     local endDateStr = endDate:fmt("%Y.%m.%d")
-    self.txt_time:setTextById(300306, startDateStr, endDateStr)
+    self.txt_time:setText(TextDataMgr:getText(300306, startDateStr, endDateStr) ..GV_UTC_TIME_STRING)
 
     local extendData = self.activityInfo.extendData
     local serverCount = extendData.serverCount or 0

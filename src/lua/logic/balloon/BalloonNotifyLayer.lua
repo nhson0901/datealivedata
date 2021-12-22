@@ -32,6 +32,10 @@ end
 
 function BalloonNotifyLayer:initData(data)
     self.info = data
+
+    --TOCDO CLOSE(逻辑上存在误差，写死)
+    local serverTime = ServerDataMgr:getServerTime()
+    self.info.timeout = (serverTime + 10)*1000
 end
 
 function BalloonNotifyLayer:initUI(ui)
@@ -41,7 +45,7 @@ function BalloonNotifyLayer:initUI(ui)
 	self.txt_name = TFDirector:getChildByPath(ui, "txt_name")
 	self.txt_desc = TFDirector:getChildByPath(ui, "txt_desc")
 	self.txt_time = TFDirector:getChildByPath(ui, "txt_time")
-	self.txt_desc:setTextById(18000010)
+	self.txt_desc:setTextById(13317043)
 	self.txt_name:setText(self.info.friendName)
 	self.img_bg:setTouchEnabled(true)
 

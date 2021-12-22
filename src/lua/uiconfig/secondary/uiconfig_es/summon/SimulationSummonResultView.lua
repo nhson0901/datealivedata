@@ -369,7 +369,7 @@ local t =
 										TopPosition = 543,
 										relativeToName = "Panel_root",
 									},
-									width = "107",
+									width = "214",
 									ZOrder = "1",
 								},
 								{
@@ -2127,14 +2127,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "26",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = true,
 												StrokeColor = "#FF901034",
 												StrokeSize = 1,
 											},
-											height = "34",
+											height = "27",
 											ignoreSize = "True",
 											name = "Label_open",
 											nTextAlign = "1",
@@ -2149,9 +2149,8 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -8,
-												PositionY = -3,
 											},
-											width = "107",
+											width = "188",
 											ZOrder = "1",
 										},
 									},
@@ -2336,7 +2335,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "95",
 											ZOrder = "1",
 										},
 									},
@@ -2347,7 +2346,7 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEButton",
 									ClickHighLightEnabled = "True",
 									disabled = "ui/common/button_big_n.png",
@@ -2355,7 +2354,7 @@ local t =
 									flipX = "False",
 									flipY = "False",
 									height = "58",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Button_replace",
 									normal = "ui/common/button_big_n.png",
 									pressed = "ui/common/button_big_n.png",
@@ -2366,11 +2365,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 176,
+										PositionX = 200,
 										PositionY = -257,
 									},
 									UItype = "Button",
-									width = "134",
+									width = "152",
 									ZOrder = "1",
 									components = 
 									{
@@ -2417,7 +2416,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "143",
 											ZOrder = "1",
 										},
 									},
@@ -2498,7 +2497,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "102",
 											ZOrder = "1",
 										},
 									},
@@ -3123,7 +3122,7 @@ local t =
 												PositionX = 539,
 												PositionY = -27,
 											},
-											width = "99",
+											width = "243",
 											ZOrder = "1",
 										},
 										{

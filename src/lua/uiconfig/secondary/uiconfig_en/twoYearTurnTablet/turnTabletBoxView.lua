@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -173,7 +173,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "36",
+									height = "34",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -190,7 +190,7 @@ local t =
 										PositionX = -282,
 										PositionY = 144,
 									},
-									width = "145",
+									width = "159",
 									ZOrder = "1",
 								},
 								{
@@ -238,7 +238,7 @@ local t =
 										PositionY = 141,
 									},
 									visible = "False",
-									width = "6",
+									width = "8",
 									ZOrder = "1",
 								},
 								{
@@ -285,7 +285,7 @@ local t =
 										PositionY = 138,
 									},
 									visible = "False",
-									width = "69",
+									width = "70",
 									ZOrder = "1",
 								},
 								{
@@ -453,7 +453,7 @@ local t =
 											{
 												PositionY = -1,
 											},
-											width = "83",
+											width = "78",
 											ZOrder = "1",
 										},
 									},
@@ -533,7 +533,7 @@ local t =
 											{
 												PositionY = -1,
 											},
-											width = "94",
+											width = "98",
 											ZOrder = "1",
 										},
 									},

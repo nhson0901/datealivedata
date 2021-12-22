@@ -2742,14 +2742,14 @@ return {
         data = {
             data = {
                 [1] = {
-                    defaultDayScene = 1314007,
+                    defaultDayScene = 1314008,
                     roleId = 101,
-                    defaultNightBgm = 11031,
-                    defaultDayBgm = 11031,
-                    id = 1,
-                    defaultNightScene = 1314007,
-                    uiChangeId = 100004,
-                    activityType = 43,
+                    defaultNightBgm = 11052,
+                    defaultDayBgm = 11052,
+                    id = 2,
+                    defaultNightScene = 1314008,
+                    uiChangeId = 100005,
+                    activityType = 0,
                 },
             },
         },

@@ -174,11 +174,13 @@ function MainLayer:initUI(ui)
 	end	
     self.Button_activity2 = TFDirector:getChildByPath(self.Panel_right, "Button_Activity2"):show()
     self.Image_activityTip = TFDirector:getChildByPath(self.Button_activity, "Image_activityTip")
-    self.Button_rankNotice = TFDirector:getChildByPath(self.Panel_left , "Button_rankNotice"):hide()
+    --TODO CLOSE
+    --self.Button_rankNotice = TFDirector:getChildByPath(self.Panel_left , "Button_rankNotice"):hide()
     self.Image_activityTip2 = TFDirector:getChildByPath(self.Button_activity2, "Image_activityTip")
-    self.Button_assistance = TFDirector:getChildByPath(self.Panel_left, "Button_assistance")
-    self.Image_assistanceTip = TFDirector:getChildByPath(self.Button_assistance, "Image_assistanceTip"):hide()
-    self.Button_assistance:hide()
+    --TODO CLOSE
+    --self.Button_assistance = TFDirector:getChildByPath(self.Panel_left, "Button_assistance")
+    --self.Image_assistanceTip = TFDirector:getChildByPath(self.Button_assistance, "Image_assistanceTip"):hide()
+    --self.Button_assistance:hide()
     self.Button_focus = TFDirector:getChildByPath(self.Panel_left, "Button_focus")
     self.Image_focusTip = TFDirector:getChildByPath(self.Button_focus, "Image_focusTip")
     self.Button_update = TFDirector:getChildByPath(self.Panel_left, "Button_update")
@@ -373,7 +375,8 @@ function MainLayer:initUI(ui)
     self.Button_league = TFDirector:getChildByPath(self.Panel_bottom, "Button_league")
     self.Image_leagueTip = TFDirector:getChildByPath(self.Button_league, "RedTips")
 
-    self.Button_ARCamera    = TFDirector:getChildByPath(self.Panel_bottom,"Button_ARCamera")
+    --TODO CLOSE
+    --self.Button_ARCamera    = TFDirector:getChildByPath(self.Panel_bottom,"Button_ARCamera")
 
     self.Panel_player_info_touch = TFDirector:getChildByPath(self.ui,"Panel_player_info_touch")
     -- self.Panel_player_info_touch:setTouchEnabled(false)
@@ -453,7 +456,6 @@ function MainLayer:initUI(ui)
     self.Image_CaociyuanClip = TFDirector:getChildByPath(ui,"Image_CaociyuanClip")
     self.button_OneYear   = TFDirector:getChildByPath(ui,"button_OneYear")
 
-    self.button_OneYear:setPosition(478 , 65)
     self.button_Caociyuan:setPosition(478 , 65)
     self.Image_OneYearClip = TFDirector:getChildByPath(ui,"Image_OneYearClip")
 
@@ -736,7 +738,7 @@ function MainLayer:updateLeftButtons()
 		]]
         
 	else
-		local tmAllBtns2 = {self.Button_notice, self.Button_welfare, self.Button_activity,self.Button_focus, self.Button_ScoreReward, self.Button_RoleTeach, self.btn_zhibo , self.Button_rankNotice }
+		local tmAllBtns2 = {self.Button_notice, self.Button_welfare, self.Button_activity,self.Button_focus, self.Button_ScoreReward, self.Button_RoleTeach, self.btn_zhibo}
         if self.Button_serverGiftActivity then
             table.insert(tmAllBtns2,self.Button_serverGiftActivity)
         end
@@ -816,12 +818,12 @@ function MainLayer:showLeftBtnAnim()
      local threeActivity = {}
 
 
-     if self.button_OneYear:isVisible() then
-        table.insert(threeActivity , self.button_OneYear)
-    end
-    if self.Button_Activity6:isVisible() then
-        table.insert(threeActivity , self.Button_Activity6)
-    end
+    -- if self.button_OneYear:isVisible() then
+    --     table.insert(threeActivity , self.button_OneYear)
+    -- end
+    -- if self.Button_Activity6:isVisible() then
+    --     table.insert(threeActivity , self.Button_Activity6)
+    -- end
     if self.button_Caociyuan:isVisible() then
         table.insert(threeActivity , self.button_Caociyuan)
     end
@@ -1050,12 +1052,12 @@ function MainLayer:setBackGroundByTime()
             local defaultBgDayId = disData.defaultDayScene
             if curDayCid == defaultBgDayId and nil == spbackground and disData.isusespine ~= 0 then
                 if not spine then
-                    -- local tempSpine = SkeletonAnimation:create("effect/ui_effect_oneYearKanban/effects_ZNQ_kanban")
-                    -- tempSpine:setName("yearBgSpine")
-                    -- tempSpine:play("animation", true)
-                    -- tempSpine:setVisible(true)
-                    -- tempSpine:setPosition(self.Spine_effectHB:getPosition())
-                    -- self.background:addChild(tempSpine, self.Spine_effectHB:getZOrder())
+                    local tempSpine = SkeletonAnimation:create("effect/ui_effect_oneYearKanban/effects_ZNQ_kanban")
+                    tempSpine:setName("yearBgSpine")
+                    tempSpine:play("animation", true)
+                    tempSpine:setVisible(true)
+                    tempSpine:setPosition(self.Spine_effectHB:getPosition())
+                    self.background:addChild(tempSpine, self.Spine_effectHB:getZOrder())
                     --TODO CLOSE 英文版修改为圣诞节背景
                     --res = "ui/mainLayer/new_ui_en_1/bg_shengdan.png"
                 end
@@ -1881,9 +1883,10 @@ function MainLayer:registerEvents()
         end
     end)
 
-    self.Button_ARCamera:onClick(function()
-        Utils:openView("ar.ARMainLayer")
-    end)
+    --TODO CLOSE
+    -- self.Button_ARCamera:onClick(function()
+    --     Utils:openView("ar.ARMainLayer")
+    -- end)
 
     self.btn_phone_small:onClick(function()
         self.Panel_ai_chat:setVisible(false)
@@ -2158,17 +2161,19 @@ function MainLayer:registerEvents()
     self.Button_monthCard:onClick(function()
             Utils:openView("store.MonthlyCardTipView")
     end)
+
+    --TODO CLOSE
     --排行榜
-    self.Button_rankNotice:onClick(function()
-            -- Utils:openView("MainScene.RankNoticeView")
-        local checkExtId = TFAssetsManager:getCheckInfo(11)
-        if checkExtId then
-            TFAssetsManager:downloadAssetsOfFunc(checkExtId,function()
-                Utils:openView("MainScene.RankNoticeView")
-            end,true)
-            return
-        end
-    end)
+    -- self.Button_rankNotice:onClick(function()
+    --         -- Utils:openView("MainScene.RankNoticeView")
+    --     local checkExtId = TFAssetsManager:getCheckInfo(11)
+    --     if checkExtId then
+    --         TFAssetsManager:downloadAssetsOfFunc(checkExtId,function()
+    --             Utils:openView("MainScene.RankNoticeView")
+    --         end,true)
+    --         return
+    --     end
+    -- end)
 
     self.Panel_ai_chat:onClick(function()
         if self.Panel_ai_chat:isVisible() then
@@ -2242,9 +2247,11 @@ function MainLayer:registerEvents()
         self:hideOrShowUI(true)
     end)
 
-    self.Button_assistance:onClick(function()
-        FunctionDataMgr:jAssistanceCode()          
-    end)
+    --TODO CLOSE
+    -- self.Button_assistance:onClick(function()
+    --     FunctionDataMgr:jAssistanceCode()          
+    -- end)
+
     self.Button_dispatch:onClick(function()
         Utils:sendHttpLog("Command")
         FunctionDataMgr:jDispatch()
@@ -3361,7 +3368,7 @@ function MainLayer:onShow()
     FunctionDataMgr:request_ITEM_REQ_TIME_OUT_ITEM_CONVERT()
 
     --TODO CLOSE
-    self.Button_ARCamera:hide()
+    --self.Button_ARCamera:hide()
     -- self.Button_ARCamera:show()
     -- if not(CC_TARGET_PLATFORM == CC_PLATFORM_IOS or CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID or CC_TARGET_PLATFORM == CC_PLATFORM_WIN32) then
     --     self.Button_ARCamera:hide()
@@ -3454,12 +3461,12 @@ function MainLayer:updateOneYearBtns()
 
         
         local threeActivity = {}
-        if self.button_OneYear:isVisible() then
-            table.insert(threeActivity , self.button_OneYear)
-        end
-        if self.Button_Activity6:isVisible() then
-            table.insert(threeActivity , self.Button_Activity6)
-        end
+        -- if self.button_OneYear:isVisible() then
+        --     table.insert(threeActivity , self.button_OneYear)
+        -- end
+        -- if self.Button_Activity6:isVisible() then
+        --     table.insert(threeActivity , self.Button_Activity6)
+        -- end
         if self.button_Caociyuan:isVisible() then
             table.insert(threeActivity , self.button_Caociyuan)
         end
@@ -3467,10 +3474,8 @@ function MainLayer:updateOneYearBtns()
 		--按钮移动位置
 		if not self:isOneCelebrationMainLayer() then
 			if  (self.Button_Activity5 and self.Button_Activity5:isVisible()) 
-                or (self.Button_Activity6 and self.Button_Activity6:isVisible()) 
                 or (self.Button_Activity90 and self.Button_Activity90:isVisible()) 
                 or (self.Button_Activity91 and self.Button_Activity91:isVisible()) 
-                or (self.button_OneYear and self.button_OneYear:isVisible()) 
                 or (self.button_Caociyuan and self.button_Caociyuan:isVisible()) 
                 or (self.Button_activity2 and self.Button_activity2:isVisible()) 
                 or (self.Button_Activity7 and self.Button_Activity7:isVisible())
@@ -3502,28 +3507,19 @@ function MainLayer:updateOneYearBtns()
         local activityPos_mid = TFDirector:getChildByPath(self.ui,"activityPos_mid")
         local activityPos_right = TFDirector:getChildByPath(self.ui,"activityPos_right")
 
-        if self.Button_Activity5 or self.button_OneYear or self.Button_Activity7 then
-            if  (self.Button_Activity6 and self.Button_Activity6:isVisible()) 
-                        or (self.button_Caociyuan and self.button_Caociyuan:isVisible() and #threeActivity <= 1)
+        if self.Button_Activity5 or self.Button_Activity7 then
+            if (self.button_Caociyuan and self.button_Caociyuan:isVisible() and #threeActivity <= 1)
                         or (self.Button_activity2 and self.Button_activity2:isVisible() and #threeActivity <= 1) then
                 if self.Button_Activity5 then
                     self.Button_Activity5:setPosition(activityPos_left:getPosition())
                 end 
 
-                if self.button_OneYear and #threeActivity <= 1 then  --TODO close 由多个活动入口控制
-                    self.button_OneYear:setPosition(activityPos_left:getPosition())
-                end 
-                
                 if self.Button_Activity7  and #threeActivity <= 1 then --TODO close 由多个活动入口控制
                     self.Button_Activity7:setPosition(activityPos_left:getPosition())
                 end
             else
                 if self.Button_Activity5 then
                     self.Button_Activity5:setPosition(activityPos_mid:getPosition())
-                end 
-
-                if self.button_OneYear and #threeActivity <= 1 then  --TODO close 由多个活动入口控制
-                    self.button_OneYear:setPosition(activityPos_mid:getPosition())
                 end 
 
                 if self.Button_Activity7 and #threeActivity <= 1 then
@@ -3533,14 +3529,9 @@ function MainLayer:updateOneYearBtns()
             end
         end
 
-        if (self.Button_Activity6 or self.button_Caociyuan or self.Button_activity2 )and #threeActivity <3 then
+        if (self.button_Caociyuan or self.Button_activity2 )and #threeActivity <3 then
             if  (self.Button_Activity5 and self.Button_Activity5:isVisible()) 
-                        or (self.button_OneYear and self.button_OneYear:isVisible())
                         or (self.Button_Activity7 and self.Button_Activity7:isVisible()) then
-
-                if self.Button_Activity6 and #threeActivity <= 1 then  --TODO close 由多个活动入口控制
-                    self.Button_Activity6:setPosition(activityPos_right:getPosition())
-                end
 
                 if self.button_Caociyuan and #threeActivity <= 1 then
                     self.button_Caociyuan:setPosition(activityPos_right:getPosition())
@@ -3554,10 +3545,6 @@ function MainLayer:updateOneYearBtns()
                     self.Button_activity2:setPosition(self.dateBtn:getPositionX() - 160, self.dateBtn:getPositionY() + 90)
                 end
             else
-                if self.Button_Activity6 and #threeActivity <= 1 then  --TODO close 由多个活动入口控制
-                    self.Button_Activity6:setPosition(activityPos_mid:getPosition())
-                end
-
                 if self.button_Caociyuan and #threeActivity <= 1 then
                     self.button_Caociyuan:setPosition(activityPos_mid:getPosition())
                 end
@@ -4389,11 +4376,6 @@ function MainLayer:onUpdateActivitysState()
     --showType:7 不在主界面用
     --local activityInfos = ActivityDataMgr2:getActivityInfo(nil,7)
     --self.Button_Activity7:setVisible(#activityInfos > 0)
-
-    if self.button_OneYear then
-        local activityInfos = ActivityDataMgr2:getActivityInfo(nil,3)
-        self.button_OneYear:setVisible(#activityInfos > 0)
-    end
     
     if self.button_Caociyuan then
         local activityInfos = ActivityDataMgr2:getActivityInfo(nil,4)

@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -222,7 +222,7 @@ local t =
 									{
 										PositionX = 63,
 									},
-									width = "92",
+									width = "94",
 									ZOrder = "1",
 								},
 								{
@@ -237,7 +237,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "89",
 									ignoreSize = "True",
 									name = "Button_up",
 									normal = "ui/activity/znq_yly/privilege/008.png",
@@ -252,7 +252,7 @@ local t =
 										PositionY = -2,
 									},
 									UItype = "Button",
-									width = "137",
+									width = "192",
 									ZOrder = "1",
 									components = 
 									{
@@ -276,15 +276,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "26",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_btn",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -292,14 +292,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Mejorar",
+											text = "Upgrade",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = -1,
 											},
-											width = "55",
+											width = "125",
 											ZOrder = "1",
 										},
 									},
@@ -316,7 +316,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "89",
 									ignoreSize = "True",
 									name = "Button_check",
 									normal = "ui/activity/znq_yly/info/006.png",
@@ -334,7 +334,7 @@ local t =
 										relativeToName = "Panel_root",
 									},
 									UItype = "Button",
-									width = "137",
+									width = "192",
 									ZOrder = "1",
 									components = 
 									{
@@ -358,15 +358,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "26",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_privilegeUpView_1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -374,14 +374,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "特权总览",
+											text = "Privilege overview",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "107",
+											width = "127",
 											ZOrder = "1",
 										},
 									},
@@ -407,14 +407,14 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "24",
+							fontSize = "20",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "30",
+							height = "23",
 							ignoreSize = "True",
 							name = "Label_max",
 							nTextAlign = "1",
@@ -423,18 +423,18 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "已达到最大等级",
+							text = "Maximum level reached",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 344,
-								PositionY = -192,
+								PositionX = 294,
+								PositionY = -191,
 								LeftPositon = 656,
 								TopPosition = 409,
 								relativeToName = "Panel_root",
 							},
-							width = "172",
+							width = "249",
 							ZOrder = "1",
 						},
 						{
@@ -595,14 +595,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_tip",
 											nTextAlign = "1",
@@ -611,14 +611,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "已激活",
+											text = "activated",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = 392,
 											},
-											width = "75",
+											width = "71",
 											ZOrder = "1",
 										},
 									},
@@ -669,14 +669,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "27",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_tip",
 											nTextAlign = "1",
@@ -685,14 +685,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "未激活",
+											text = "inactivated",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = 392,
 											},
-											width = "75",
+											width = "86",
 											ZOrder = "1",
 										},
 									},
@@ -716,7 +716,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -761,14 +761,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -784,7 +784,7 @@ local t =
 									{
 										PositionX = -429,
 									},
-									width = "95",
+									width = "80",
 									ZOrder = "1",
 								},
 							},

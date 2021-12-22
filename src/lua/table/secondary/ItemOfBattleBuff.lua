@@ -1,42 +1,4 @@
 return {
-    [912012] = {
-        superType = 0,
-        order = 0,
-        pileUp = false,
-        useProfit = {
-        },
-        batchUse = false,
-        gridMax = 0,
-        buffType = 4,
-        outTime = 0,
-        bagType = 0,
-        autoUse = false,
-        functionType  = 2,
-        icon = "",
-        skillId = 312140,
-        useCast = {
-        },
-        quality = 0,
-        extraDes = 16000674,
-        onceUseLimit = 0,
-        id = 912012,
-        sellProfit = {
-        },
-        subType = 0,
-        buffIds = {
-        },
-        convertMax = {
-        },
-        totalMax = 0,
-        iconShow = "icon/skill/chunjie_skill4.png",
-        desTextId = 16000670,
-        dealProfit = {
-        },
-        star = 0,
-        accessId = {
-        },
-        nameTextId = 16000666,
-    },
     [912005] = {
         superType = 72,
         order = 1,
@@ -76,44 +38,6 @@ return {
         accessId = {
         },
         nameTextId = 13204005,
-    },
-    [912013] = {
-        superType = 0,
-        order = 0,
-        pileUp = false,
-        useProfit = {
-        },
-        batchUse = false,
-        gridMax = 0,
-        buffType = 5,
-        outTime = 0,
-        bagType = 0,
-        autoUse = false,
-        functionType  = 2,
-        icon = "",
-        skillId = 312150,
-        useCast = {
-        },
-        quality = 0,
-        extraDes = 16000675,
-        onceUseLimit = 0,
-        id = 912013,
-        sellProfit = {
-        },
-        subType = 0,
-        buffIds = {
-        },
-        convertMax = {
-        },
-        totalMax = 0,
-        iconShow = "icon/skill/chunjie_skill5.png",
-        desTextId = 16000671,
-        dealProfit = {
-        },
-        star = 0,
-        accessId = {
-        },
-        nameTextId = 16000667,
     },
     [912006] = {
         superType = 72,
@@ -355,44 +279,6 @@ return {
         },
         nameTextId = 13204002,
     },
-    [912010] = {
-        superType = 0,
-        order = 0,
-        pileUp = false,
-        useProfit = {
-        },
-        batchUse = false,
-        gridMax = 0,
-        buffType = 2,
-        outTime = 0,
-        bagType = 0,
-        autoUse = false,
-        functionType  = 2,
-        icon = "",
-        skillId = 312120,
-        useCast = {
-        },
-        quality = 0,
-        extraDes = 16000672,
-        onceUseLimit = 0,
-        id = 912010,
-        sellProfit = {
-        },
-        subType = 0,
-        buffIds = {
-        },
-        convertMax = {
-        },
-        totalMax = 0,
-        iconShow = "icon/skill/chunjie_skill2.png",
-        desTextId = 16000668,
-        dealProfit = {
-        },
-        star = 0,
-        accessId = {
-        },
-        nameTextId = 16000664,
-    },
     [912003] = {
         superType = 72,
         order = 1,
@@ -432,44 +318,6 @@ return {
         accessId = {
         },
         nameTextId = 13204003,
-    },
-    [912011] = {
-        superType = 0,
-        order = 0,
-        pileUp = false,
-        useProfit = {
-        },
-        batchUse = false,
-        gridMax = 0,
-        buffType = 3,
-        outTime = 0,
-        bagType = 0,
-        autoUse = false,
-        functionType  = 2,
-        icon = "",
-        skillId = 312130,
-        useCast = {
-        },
-        quality = 0,
-        extraDes = 16000673,
-        onceUseLimit = 0,
-        id = 912011,
-        sellProfit = {
-        },
-        subType = 0,
-        buffIds = {
-        },
-        convertMax = {
-        },
-        totalMax = 0,
-        iconShow = "icon/skill/chunjie_skill3.png",
-        desTextId = 16000669,
-        dealProfit = {
-        },
-        star = 0,
-        accessId = {
-        },
-        nameTextId = 16000665,
     },
     [912004] = {
         superType = 72,

@@ -89,8 +89,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = -278,
-						PositionY = 159,
+						PositionX = -215,
+						PositionY = 29,
 					},
 					UItype = "Button",
 					width = "162",
@@ -104,11 +104,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
 							height = "50",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "Image_title",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -118,10 +118,9 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 2,
-								PositionY = -27,
+								PositionY = 45,
 							},
-							width = "103",
+							width = "151",
 							ZOrder = "1",
 							components = 
 							{
@@ -161,14 +160,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "主阁楼",
+									text = "Costume house",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 2,
 									},
-									width = "63",
+									width = "122",
 									ZOrder = "1",
 								},
 								{
@@ -191,7 +190,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 62,
 										PositionY = 15,
 									},
 									width = "30",
@@ -224,8 +223,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = -23,
-						PositionY = 28,
+						PositionX = -26,
+						PositionY = 11,
 					},
 					UItype = "Button",
 					width = "192",
@@ -295,14 +294,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "祈愿树",
+									text = "Stage",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 3,
 									},
-									width = "63",
+									width = "44",
 									ZOrder = "1",
 								},
 								{
@@ -358,8 +357,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = -371,
-						PositionY = -79,
+						PositionX = -247,
+						PositionY = -75,
 					},
 					UItype = "Button",
 					width = "156",
@@ -373,11 +372,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
 							height = "50",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "Image_title",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -387,10 +386,10 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -1,
-								PositionY = -18,
+								PositionX = 3,
+								PositionY = 55,
 							},
-							width = "103",
+							width = "161",
 							ZOrder = "1",
 							components = 
 							{
@@ -430,14 +429,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "年货铺子",
+									text = "Swimming Pool",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 3,
 									},
-									width = "83",
+									width = "127",
 									ZOrder = "1",
 								},
 								{
@@ -460,7 +459,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 71,
 										PositionY = 15,
 									},
 									width = "30",
@@ -493,8 +492,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = -71,
-						PositionY = 175,
+						PositionX = -149,
+						PositionY = 120,
 					},
 					UItype = "Button",
 					width = "125",
@@ -522,8 +521,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -5,
-								PositionY = -31,
+								PositionX = -14,
+								PositionY = 29,
 							},
 							width = "103",
 							ZOrder = "1",
@@ -565,14 +564,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "กิจกรรม",
+									text = "Event",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 3,
 									},
-									width = "42",
+									width = "47",
 									ZOrder = "1",
 								},
 								{
@@ -628,8 +627,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 343,
-						PositionY = -83,
+						PositionX = 265,
+						PositionY = -26,
 					},
 					UItype = "Button",
 					width = "213",
@@ -657,8 +656,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -19,
-								PositionY = -11,
+								PositionX = -3,
+								PositionY = 29,
 							},
 							width = "103",
 							ZOrder = "1",
@@ -700,14 +699,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "成衣铺",
+									text = "Store",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 3,
 									},
-									width = "63",
+									width = "45",
 									ZOrder = "1",
 								},
 								{
@@ -763,8 +762,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 287,
-						PositionY = 179,
+						PositionX = 84,
+						PositionY = 72,
 					},
 					UItype = "Button",
 					width = "331",
@@ -778,11 +777,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
 							height = "50",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "Image_title",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -792,10 +791,10 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -6,
-								PositionY = -36,
+								PositionX = -2,
+								PositionY = 43,
 							},
-							width = "103",
+							width = "121",
 							ZOrder = "1",
 							components = 
 							{
@@ -835,14 +834,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "灯谜街",
+									text = "Balloon Car",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 3,
 									},
-									width = "63",
+									width = "97",
 									ZOrder = "1",
 								},
 								{
@@ -865,7 +864,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 54,
 										PositionY = 15,
 									},
 									width = "30",
@@ -898,8 +897,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 61,
-						PositionY = 161,
+						PositionX = -17,
+						PositionY = 174,
 					},
 					UItype = "Button",
 					width = "103",
@@ -913,11 +912,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
 							height = "50",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "Image_title",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -927,9 +926,9 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionY = -25,
+								PositionY = 16,
 							},
-							width = "103",
+							width = "124",
 							ZOrder = "1",
 							components = 
 							{
@@ -969,14 +968,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "演武场",
+									text = "Wish castle",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 3,
 									},
-									width = "63",
+									width = "90",
 									ZOrder = "1",
 								},
 								{
@@ -999,7 +998,142 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 52,
+										PositionY = 15,
+									},
+									width = "30",
+									ZOrder = "1",
+								},
+							},
+						},
+					},
+				},
+				{
+					controlID = "btn_room_9_Panel-znq_miniMap_znq_yly_activity_Game",
+					UUID = "05f080dc_60d8_4cdc_a47c_a59ab327f846",
+					anchorPoint = "False",
+					anchorPointX = "0.5",
+					anchorPointY = "0.5",
+					backGroundScale9Enable = "False",
+					classname = "MEButton",
+					ClickHighLightEnabled = "True",
+					dstBlendFunc = "771",
+					flipX = "False",
+					flipY = "False",
+					height = "117",
+					ignoreSize = "True",
+					name = "btn_room_9",
+					normal = "ui/activity/znq_yly/miniMap/011.png",
+					sizepercentx = "0",
+					sizepercenty = "0",
+					sizeType = "0",
+					srcBlendFunc = "1",
+					touchAble = "True",
+					UILayoutViewModel = 
+					{
+						PositionX = 289,
+						PositionY = 107,
+					},
+					UItype = "Button",
+					width = "135",
+					ZOrder = "1",
+					components = 
+					{
+						
+						{
+							controlID = "Image_title_btn_room_9_Panel-znq_miniMap_znq_yly_activity_Game",
+							UUID = "5823c1cf_2e39_486b_afe6_e58dc120390a",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+							classname = "MEImage",
+							dstBlendFunc = "771",
+							height = "50",
+							ignoreSize = "False",
+							name = "Image_title",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							texturePath = "ui/activity/znq_yly/miniMap/001.png",
+							touchAble = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = 5,
+								PositionY = 27,
+							},
+							width = "149",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "Label_title_Image_title_btn_room_9_Panel-znq_miniMap_znq_yly_activity_Game",
+									UUID = "19effeea_4a98_43e1_9370_156b71545431",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									classname = "MELabel",
+									compPath = "luacomponents.common.MEIconLabel",
+									dstBlendFunc = "771",
+									FontColor = "#FF0B275A",
+									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "20",
+									fontStroke = 
+									{
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
+									},
+									height = "23",
+									ignoreSize = "True",
+									name = "Label_title",
+									nTextAlign = "1",
+									nTextHAlign = "1",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "Divination Hut",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										PositionY = 3,
+									},
+									width = "120",
+									ZOrder = "1",
+								},
+								{
+									controlID = "Image_red_tip_Image_title_btn_room_9_Panel-znq_miniMap_znq_yly_activity_Game",
+									UUID = "050f7556_7440_45f4_8c14_aa3d88f932a4",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									backGroundScale9Enable = "False",
+									classname = "MEImage",
+									dstBlendFunc = "771",
+									height = "30",
+									ignoreSize = "True",
+									name = "Image_red_tip",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									texturePath = "ui/common/news_small.png",
+									touchAble = "False",
+									UILayoutViewModel = 
+									{
+										PositionX = 65,
 										PositionY = 15,
 									},
 									width = "30",
@@ -1032,8 +1166,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 382,
-						PositionY = 63,
+						PositionX = 170,
+						PositionY = 49,
 					},
 					UItype = "Button",
 					width = "140",
@@ -1047,11 +1181,11 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEImage",
 							dstBlendFunc = "771",
 							height = "50",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "Image_title",
 							sizepercentx = "0",
 							sizepercenty = "0",
@@ -1061,10 +1195,10 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -10,
-								PositionY = -26,
+								PositionX = 4,
+								PositionY = 40,
 							},
-							width = "103",
+							width = "151",
 							ZOrder = "1",
 							components = 
 							{
@@ -1104,14 +1238,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "烟花工坊",
+									text = "Mock Summon",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 3,
 									},
-									width = "83",
+									width = "125",
 									ZOrder = "1",
 								},
 								{
@@ -1134,7 +1268,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 62,
 										PositionY = 15,
 									},
 									width = "30",
@@ -1165,6 +1299,7 @@ local t =
 			"ui/activity/znq_yly/miniMap/005.png",
 			"ui/activity/znq_yly/miniMap/010.png",
 			"ui/activity/znq_yly/miniMap/008.png",
+			"ui/activity/znq_yly/miniMap/011.png",
 			"ui/activity/znq_yly/miniMap/003.png",
 		},
 		armatures = 

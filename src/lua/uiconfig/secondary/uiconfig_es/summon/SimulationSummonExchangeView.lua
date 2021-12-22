@@ -357,7 +357,7 @@ local t =
 										PositionX = -357,
 										PositionY = 44,
 									},
-									width = "133",
+									width = "177",
 									ZOrder = "1",
 								},
 								{
@@ -421,7 +421,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_isReceive",
 									nTextAlign = "1",
@@ -438,7 +438,7 @@ local t =
 										PositionX = 309,
 										PositionY = 44,
 									},
-									width = "80",
+									width = "203",
 									ZOrder = "1",
 								},
 							},
@@ -628,7 +628,7 @@ local t =
 										PositionX = -357,
 										PositionY = 44,
 									},
-									width = "133",
+									width = "194",
 									ZOrder = "1",
 								},
 								{
@@ -692,7 +692,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_isReceive",
 									nTextAlign = "1",
@@ -709,7 +709,7 @@ local t =
 										PositionX = 309,
 										PositionY = 44,
 									},
-									width = "80",
+									width = "203",
 									ZOrder = "1",
 								},
 							},
@@ -899,7 +899,7 @@ local t =
 										PositionX = -357,
 										PositionY = 44,
 									},
-									width = "133",
+									width = "174",
 									ZOrder = "1",
 								},
 								{
@@ -963,7 +963,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_isReceive",
 									nTextAlign = "1",
@@ -980,7 +980,7 @@ local t =
 										PositionX = 309,
 										PositionY = 44,
 									},
-									width = "80",
+									width = "203",
 									ZOrder = "1",
 								},
 							},
@@ -1061,7 +1061,7 @@ local t =
 									{
 										
 									},
-									width = "62",
+									width = "64",
 									ZOrder = "1",
 								},
 							},
@@ -1072,7 +1072,7 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEButton",
 							ClickHighLightEnabled = "True",
 							disabled = "ui/common/button_big_n.png",
@@ -1080,7 +1080,7 @@ local t =
 							flipX = "False",
 							flipY = "False",
 							height = "58",
-							ignoreSize = "True",
+							ignoreSize = "False",
 							name = "Button_ok",
 							normal = "ui/common/button_big_n.png",
 							pressed = "ui/common/button_big_n.png",
@@ -1091,11 +1091,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 194,
+								PositionX = 214,
 								PositionY = -267,
 							},
 							UItype = "Button",
-							width = "134",
+							width = "161",
 							ZOrder = "1",
 							components = 
 							{
@@ -1120,7 +1120,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -216,
+										PositionX = -230,
 										PositionY = 2,
 									},
 									width = "141",
@@ -1168,7 +1168,7 @@ local t =
 									{
 										
 									},
-									width = "62",
+									width = "64",
 									ZOrder = "1",
 								},
 								{
@@ -1193,7 +1193,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -184,
+										PositionX = -198,
 									},
 									width = "100",
 									ZOrder = "1",
@@ -1239,9 +1239,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -85,
+										PositionX = -99,
 									},
-									width = "49",
+									width = "48",
 									ZOrder = "1",
 								},
 							},
@@ -1406,7 +1406,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "34",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -1423,7 +1423,7 @@ local t =
 										PositionX = -181,
 										PositionY = 33,
 									},
-									width = "107",
+									width = "274",
 									ZOrder = "1",
 								},
 								{

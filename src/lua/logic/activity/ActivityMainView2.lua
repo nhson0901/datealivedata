@@ -31,8 +31,6 @@ function addActivityItem(self)
     Panel_activityItem.defaultSize = Panel_activityItem:getContentSize()
     Panel_activityItem.ImageSelect = TFDirector:getChildByPath(Panel_activityItem, "ImageSelect")
     Panel_activityItem.ImageNormal = TFDirector:getChildByPath(Panel_activityItem, "ImageNormal")
-    Panel_activityItem.ImageSelect.Image_icon =  Panel_activityItem.ImageSelect:getChildByName("Image_icon")
-    Panel_activityItem.ImageNormal.Image_icon =  Panel_activityItem.ImageNormal:getChildByName("Image_icon")
 
     Panel_activityItem.ImageNormal.activityName = TFDirector:getChildByPath(Panel_activityItem.ImageNormal, "activityName")
     Panel_activityItem.ImageNormal.Image_new   = TFDirector:getChildByPath(Panel_activityItem.ImageNormal, "Image_new"):hide()
@@ -49,27 +47,14 @@ function addActivityItem(self)
         self.ImageSelect:setVisible(_select)
         self.ImageNormal:setVisible(not _select)
 
-        -- local nodeSize = _select and self.ImageSelect:getContentSize() or self.ImageNormal:getContentSize()
-        -- Panel_activityItem:setContentSize(CCSizeMake(math.max(Panel_activityItem.defaultSize.width,nodeSize.width),math.max(Panel_activityItem.defaultSize.height, nodeSize.height+2)))
+        local nodeSize = _select and self.ImageSelect:getContentSize() or self.ImageNormal:getContentSize()
+        Panel_activityItem:setContentSize(CCSizeMake(math.max(Panel_activityItem.defaultSize.width,nodeSize.width),math.max(Panel_activityItem.defaultSize.height, nodeSize.height+2)))
     end
 
     Panel_activityItem.setTabBtnIcon = function (self,activity)
         local iconPath = activity.titleIcon or "ui/activity/picture/icon67.png"
-
-        if self.ImageSelect.Image_icon then
-            self.ImageSelect.Image_icon:setTexture(string.sub(iconPath,0,-5) .. "_1.png")
-        else
-            self.ImageSelect:setTexture(string.sub(iconPath,0,-5) .. "_1.png")
-        end
-        --海王星暂时修改代码
-        self.ImageSelect:setTexture(iconPath)
-
-        
-        if self.ImageNormal.Image_icon then
-            self.ImageNormal.Image_icon:setTexture(iconPath)
-        else
-            self.ImageNormal:setTexture(iconPath)
-        end
+        self.ImageSelect:setTexture(string.sub(iconPath,0,-5) .. "_1.png")
+        self.ImageNormal:setTexture(iconPath)
     end
 
     Panel_activityItem.setVisibleRedpoint = function (self,select)
@@ -107,16 +92,6 @@ rawset(ActivityMainView2, "updateActivtyItem", updateActivtyItem)
 function selectActivity(self, index, force)
     if #self.activityInfo_ == 0 then return end
     if self.selectIndex_ == index and not force then return end
-
-    ---关闭上一个页签model
-    if self.selectIndex_ then
-        local oldActivityInfo = self.activityInfo_[self.selectIndex_]
-        local oldModel = self.activityModel_[oldActivityInfo.id]
-        if oldModel and oldModel.hideActivityModel then
-            oldModel:hideActivityModel()
-        end
-    end
-
     self.selectIndex_ = index
 
     for i, v in ipairs(self.ListView_activity:getItems()) do

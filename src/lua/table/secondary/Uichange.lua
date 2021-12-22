@@ -1,4 +1,22 @@
 return {
+    [100005] = {
+        preBeginTime = "2021-12-23 00:00:00",
+        bgm = "sound/bgm/main_OneYear.mp3",
+        id = 100005,
+        popupLocation = {
+        },
+        condition = {
+        },
+        unlockType = 0,
+        titleType = 2,
+        uiConfig  = "lua.uiconfig.MainScene.TwoYearView",
+        name = "14320005",
+        preEndTime = "2022-1-22 23:59:59",
+        endTime = "2022-1-22 23:59:59",
+        beginTime = "2021-12-23 00:00:00",
+        icon = "ui/setting/new/bg5.png",
+        des = "14310005",
+    },
     [100002] = {
         preBeginTime = "2021-07-20 23:59:59",
         bgm = "sound/bgm/main_OneYear.mp3",

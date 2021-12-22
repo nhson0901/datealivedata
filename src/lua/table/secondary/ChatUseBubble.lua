@@ -76,6 +76,13 @@ return {
         icon = "icon/chatBubble/chatUseRes/018.png",
         portraitid = 20012,
     },
+    [14] = {
+        overturnType = 0,
+        othericon = "icon/chatBubble/chatUseRes/020.png",
+        id = 14,
+        icon = "icon/chatBubble/chatUseRes/019.png",
+        portraitid = 20013,
+    },
     [16] = {
         overturnType = 0,
         othericon = "icon/chatBubble/chatUseRes/024.png",

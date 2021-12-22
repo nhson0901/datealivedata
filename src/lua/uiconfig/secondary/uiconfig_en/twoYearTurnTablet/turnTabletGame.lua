@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -224,14 +224,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "16",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "18",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_turnTabletGame_1",
 											nTextAlign = "1",
@@ -247,7 +247,7 @@ local t =
 											{
 												PositionX = -22,
 											},
-											width = "187",
+											width = "209",
 											ZOrder = "1",
 										},
 									},
@@ -403,7 +403,7 @@ local t =
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "40",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_pass_time",
 											scaleX = "-1",
 											sizepercentx = "0",
@@ -417,7 +417,7 @@ local t =
 												PositionX = 651,
 												PositionY = 547,
 											},
-											width = "210",
+											width = "380",
 											ZOrder = "1",
 											components = 
 											{
@@ -448,8 +448,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "0",
-													ignoreSize = "False",
+													height = "21",
+													ignoreSize = "True",
 													name = "Label_time_title",
 													nTextAlign = "1",
 													nTextHAlign = "0",
@@ -465,7 +465,7 @@ local t =
 													{
 														PositionX = -10,
 													},
-													width = "156",
+													width = "207",
 													ZOrder = "1",
 												},
 												{
@@ -561,7 +561,7 @@ local t =
 												PositionX = 961,
 												PositionY = 490,
 											},
-											width = "23",
+											width = "26",
 											ZOrder = "1",
 											components = 
 											{
@@ -608,7 +608,7 @@ local t =
 													{
 														PositionX = -201,
 													},
-													width = "199",
+													width = "192",
 													ZOrder = "1",
 												},
 											},
@@ -656,7 +656,7 @@ local t =
 												PositionX = 921,
 												PositionY = 444,
 											},
-											width = "23",
+											width = "26",
 											ZOrder = "1",
 											components = 
 											{
@@ -703,7 +703,7 @@ local t =
 													{
 														PositionX = -82,
 													},
-													width = "154",
+													width = "149",
 													ZOrder = "1",
 												},
 											},
@@ -814,7 +814,7 @@ local t =
 														PositionX = 760,
 														PositionY = 443,
 													},
-													width = "185",
+													width = "172",
 													ZOrder = "1",
 												},
 												{
@@ -860,7 +860,7 @@ local t =
 														PositionX = 998,
 														PositionY = 443,
 													},
-													width = "23",
+													width = "26",
 													ZOrder = "1",
 												},
 											},
@@ -920,7 +920,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "29",
+													height = "28",
 													ignoreSize = "True",
 													name = "Label_time_title",
 													nTextAlign = "1",
@@ -938,7 +938,7 @@ local t =
 														PositionX = -12,
 														PositionY = 1,
 													},
-													width = "143",
+													width = "145",
 													ZOrder = "1",
 												},
 												{
@@ -986,7 +986,7 @@ local t =
 														PositionY = -12,
 													},
 													visible = "False",
-													width = "56",
+													width = "57",
 													ZOrder = "1",
 												},
 											},
@@ -1157,7 +1157,7 @@ local t =
 														PositionX = 10,
 														PositionY = -1,
 													},
-													width = "130",
+													width = "126",
 													ZOrder = "1",
 												},
 											},
@@ -1337,7 +1337,7 @@ local t =
 													{
 														
 													},
-													width = "107",
+													width = "106",
 													ZOrder = "1",
 												},
 											},
@@ -1707,7 +1707,7 @@ local t =
 									{
 										PositionY = -48,
 									},
-									width = "41",
+									width = "45",
 									ZOrder = "1",
 								},
 							},

@@ -36,10 +36,10 @@ function SnowFestivalFightView:initUI(ui)
     self._ui.Panel_modelChoose:hide()
     self._ui.Panel_snowFestivalTouch:hide()
 
-    local year, month, day = Utils:getDate(self.activityInfo_.showStartTime or 0)
+    local year, month, day = Utils:getUTCDateYMD(self.activityInfo_.showStartTime or 0, false , GV_UTC_TIME_ZONE)
 	self._ui.act_timeStart:setTextById(1410001,year, month, day)
-	year, month, day = Utils:getDate(self.activityInfo_.endTime or 0)
-    self._ui.act_timeEnd:setTextById(1410001,year, month, day)
+	year, month, day = Utils:getUTCDateYMD(self.activityInfo_.endTime or 0, false , GV_UTC_TIME_ZONE)
+    self._ui.act_timeEnd:setText(TextDataMgr:getText(1410001,year, month, day) ..GV_UTC_TIME_STRING)
 
     self.ScrollView_award = UIListView:create(self._ui.ScrollView_award)
     
@@ -199,7 +199,7 @@ function SnowFestivalFightView:initPanelChoose()
         item.img_hadChooseItem = TFDirector:getChildByPath(item, "img_hadChooseItem")
         item.img_lock = TFDirector:getChildByPath(item, "img_lock")
 
-        item.lab_modelItemText:setText(v.title)
+        item.lab_modelItemText:setTextById(v.title)
         item:AddTo(self._ui.Panel_modelChoose)
         item:Pos(ccp(0, (i - 1) * itemHight))
 
@@ -239,7 +239,7 @@ function SnowFestivalFightView:chooseModelFunc(idx)
     end
     self._ui.Panel_single:setVisible(chooseData.type == 1)
     self._ui.Panel_multi:setVisible(chooseData.type ~= 1)
-    self._ui.lab_modelText:setText(chooseData.title)
+    self._ui.lab_modelText:setTextById(chooseData.title)
     self.curChooseIdx = idx
 
     if not string.isNullOrEmpty(chooseData.coverBg) then

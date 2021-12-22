@@ -19,28 +19,36 @@ return {
     },
     [10] = {
         interTypeParma = {
+            parameter = {
+                [1] = 1,
+            },
+            jumpInterface = 301,
         },
-        interType = 0,
-        actionButton = "",
-        effectAction = "",
+        interType = 1,
+        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        effectAction = "animation",
         id = 10,
-        effectPath = "",
+        effectPath = "effect/world/UI_botton/UI_anniu",
     },
     [11] = {
         interTypeParma = {
+            parameter = {
+                [1] = 1,
+            },
+            jumpInterface = 307,
         },
-        interType = 0,
-        actionButton = "",
-        effectAction = "",
+        interType = 1,
+        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        effectAction = "animation",
         id = 11,
-        effectPath = "",
+        effectPath = "effect/world/UI_botton/UI_anniu",
     },
     [12] = {
         interTypeParma = {
             parameter = {
                 [1] = 1,
             },
-            jumpInterface = 405,
+            jumpInterface = 305,
         },
         interType = 1,
         actionButton = "ui/activity/znq_yly/mainUi/017.png",
@@ -52,7 +60,7 @@ return {
         interTypeParma = {
             parameter = {
                 [1] = 7,
-                [2] = 200030,
+                [2] = 200047,
             },
             jumpInterface = 308,
         },
@@ -64,19 +72,23 @@ return {
     },
     [14] = {
         interTypeParma = {
+            parameter = {
+                [1] = 1,
+            },
+            jumpInterface = 303,
         },
-        interType = 0,
-        actionButton = "",
-        effectAction = "",
+        interType = 1,
+        actionButton = "ui/activity/znq_yly/mainUi/017.png",
+        effectAction = "animation",
         id = 14,
-        effectPath = "",
+        effectPath = "effect/world/UI_botton/UI_anniu",
     },
     [15] = {
         interTypeParma = {
             parameter = {
-                [1] = 78,
+                [1] = 1,
             },
-            jumpInterface = 6,
+            jumpInterface = 304,
         },
         interType = 1,
         actionButton = "ui/activity/znq_yly/mainUi/017.png",
@@ -89,7 +101,7 @@ return {
             parameter = {
                 [1] = 1,
             },
-            jumpInterface = 406,
+            jumpInterface = 306,
         },
         interType = 1,
         actionButton = "ui/activity/znq_yly/mainUi/017.png",

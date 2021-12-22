@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -222,7 +222,7 @@ local t =
 									{
 										PositionX = 63,
 									},
-									width = "92",
+									width = "94",
 									ZOrder = "1",
 								},
 								{
@@ -237,7 +237,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "89",
 									ignoreSize = "True",
 									name = "Button_up",
 									normal = "ui/activity/znq_yly/privilege/008.png",
@@ -252,7 +252,7 @@ local t =
 										PositionY = -2,
 									},
 									UItype = "Button",
-									width = "137",
+									width = "192",
 									ZOrder = "1",
 									components = 
 									{
@@ -316,7 +316,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "60",
+									height = "89",
 									ignoreSize = "True",
 									name = "Button_check",
 									normal = "ui/activity/znq_yly/info/006.png",
@@ -334,7 +334,7 @@ local t =
 										relativeToName = "Panel_root",
 									},
 									UItype = "Button",
-									width = "137",
+									width = "192",
 									ZOrder = "1",
 									components = 
 									{
@@ -414,7 +414,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "24",
+							height = "23",
 							ignoreSize = "True",
 							name = "Label_max",
 							nTextAlign = "1",
@@ -428,13 +428,13 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 349,
+								PositionX = 294,
 								PositionY = -191,
 								LeftPositon = 656,
 								TopPosition = 409,
 								relativeToName = "Panel_root",
 							},
-							width = "243",
+							width = "249",
 							ZOrder = "1",
 						},
 						{
@@ -618,7 +618,7 @@ local t =
 											{
 												PositionX = 392,
 											},
-											width = "77",
+											width = "71",
 											ZOrder = "1",
 										},
 									},
@@ -692,7 +692,7 @@ local t =
 											{
 												PositionX = 392,
 											},
-											width = "92",
+											width = "86",
 											ZOrder = "1",
 										},
 									},

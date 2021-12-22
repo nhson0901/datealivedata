@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -17113,7 +17113,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionY = 103,
+												PositionY = 116,
 											},
 											width = "397",
 											ZOrder = "1",
@@ -17137,31 +17137,33 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "23",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
+											height = "26",
 											ignoreSize = "True",
 											name = "Label_desc_title",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "通关描述",
+											text = "Información de etapa despejada",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -157,
-												PositionY = 101,
+												PositionY = 117,
 											},
-											width = "98",
+											width = "383",
 											ZOrder = "1",
 										},
 										{
@@ -17294,23 +17296,25 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "24",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_reward_title",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											scaleX = "0.8",
+											scaleY = "0.8",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "奖励预览",
+											text = "Vista previa de recompensas",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -17318,7 +17322,7 @@ local t =
 												PositionX = 48,
 												PositionY = 161,
 											},
-											width = "98",
+											width = "327",
 											ZOrder = "1",
 										},
 										{

@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -182,7 +182,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "알림",
+									text = "Reminder",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -190,7 +190,7 @@ local t =
 										PositionX = -282,
 										PositionY = 144,
 									},
-									width = "55",
+									width = "159",
 									ZOrder = "1",
 								},
 								{
@@ -237,7 +237,8 @@ local t =
 										PositionX = -218,
 										PositionY = 141,
 									},
-									width = "6",
+									visible = "False",
+									width = "8",
 									ZOrder = "1",
 								},
 								{
@@ -283,7 +284,8 @@ local t =
 										PositionX = -210,
 										PositionY = 138,
 									},
-									width = "69",
+									visible = "False",
+									width = "70",
 									ZOrder = "1",
 								},
 								{
@@ -305,7 +307,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "28",
+									fontSize = "25",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -321,14 +323,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "이번 층 보상 이미 획득했습니다． 다음 층으로 이동하겠습니까?",
+									text = "The clearance rewards of this floor has been obtained. Do you want to go to the next floor?",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 63,
 									},
-									width = "529",
+									width = "551",
 									ZOrder = "1",
 								},
 								{
@@ -350,7 +352,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "28",
+									fontSize = "22",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -366,14 +368,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "(다음 층을 선택했다면, 이번 층의 남은 보상은 전부 사라지게 됩니다)",
+									text = "(Go to the next layer will lose the flop progress of this layer)",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = -10,
 									},
-									width = "514",
+									width = "450",
 									ZOrder = "1",
 								},
 								{
@@ -444,14 +446,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "취소",
+											text = "Cancel",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = -1,
 											},
-											width = "52",
+											width = "78",
 											ZOrder = "1",
 										},
 									},
@@ -524,14 +526,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "확인",
+											text = "Confirm",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = -1,
 											},
-											width = "51",
+											width = "98",
 											ZOrder = "1",
 										},
 									},

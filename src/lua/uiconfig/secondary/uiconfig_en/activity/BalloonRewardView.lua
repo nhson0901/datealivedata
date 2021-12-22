@@ -65,8 +65,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 480,
-						PositionY = 320,
+						PositionX = 510,
+						PositionY = 354,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -81,7 +81,7 @@ local t =
 							controlID = "label_title_img_bg_Panel-BalloonRewardView_balloon_activity_Game",
 							UUID = "f585e625_4c34_4f69_91a8_76b3a25237d0",
 							anchorPoint = "False",
-							anchorPointX = "0",
+							anchorPointX = "0.5",
 							anchorPointY = "0.5",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
@@ -103,7 +103,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "34",
+							height = "32",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -117,10 +117,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -214,
+								PositionX = -114,
 								PositionY = 167,
 							},
-							width = "202",
+							width = "204",
 							ZOrder = "1",
 							components = 
 							{
@@ -145,7 +145,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 163,
+										PositionX = 62,
 										PositionY = 2,
 									},
 									visible = "False",
@@ -192,11 +192,11 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 168,
+										PositionX = 67,
 										PositionY = -4,
 									},
 									visible = "False",
-									width = "61",
+									width = "58",
 									ZOrder = "1",
 								},
 							},
@@ -347,18 +347,18 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "20",
+							fontSize = "24",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "23",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "label_desc",
 							nTextAlign = "1",
-							nTextHAlign = "1",
+							nTextHAlign = "0",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -371,7 +371,7 @@ local t =
 								PositionX = -336,
 								PositionY = -1,
 							},
-							width = "215",
+							width = "263",
 							ZOrder = "1",
 						},
 						{
@@ -393,14 +393,14 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "20",
+							fontSize = "24",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "23",
+							height = "27",
 							ignoreSize = "True",
 							name = "label_get",
 							nTextAlign = "1",
@@ -417,7 +417,7 @@ local t =
 								PositionX = 53,
 								PositionY = -1,
 							},
-							width = "101",
+							width = "117",
 							ZOrder = "1",
 						},
 						{

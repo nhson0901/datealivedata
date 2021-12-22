@@ -54,14 +54,14 @@ local t =
 					backGroundScale9Enable = "False",
 					classname = "MEImage",
 					dstBlendFunc = "771",
-					height = "307",
+					height = "308",
 					ignoreSize = "True",
 					name = "img_bg",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
+					texturePath = "ui/balloon/21.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
@@ -72,7 +72,7 @@ local t =
 						nGravity = 6,
 						nAlign = 5
 					},
-					width = "536",
+					width = "524",
 					ZOrder = "1",
 					components = 
 					{
@@ -100,7 +100,6 @@ local t =
 								PositionX = 2,
 								PositionY = 5,
 							},
-							visible = "False",
 							width = "517",
 						},
 						{
@@ -129,7 +128,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -138,15 +137,15 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "交易邀请",
+							text = "交易邀請",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -128,
-								PositionY = 119,
+								PositionX = -189,
+								PositionY = 121,
 							},
-							width = "116",
+							width = "114",
 							ZOrder = "1",
 						},
 						{
@@ -158,7 +157,7 @@ local t =
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
-							FontColor = "#FF416385",
+							FontColor = "#FFFFFFFF",
 							fontName = "font/fangzheng_zhunyuan.ttf",
 							fontShadow = 
 							{
@@ -168,7 +167,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "26",
+							fontSize = "22",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -184,12 +183,12 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "全服放飞次数:1000",
+							text = "全服放飛次數:1000",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionY = 30,
+								PositionY = 17,
 							},
 							width = "450",
 							ZOrder = "1",
@@ -206,10 +205,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "64",
+							height = "32",
 							ignoreSize = "True",
 							name = "btn_close",
-							normal = "ui/activity/2021_spring/fireWorks/close.png",
+							normal = "ui/balloon/close_btn.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -217,11 +216,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 268,
+								PositionX = 234,
 								PositionY = 124,
 							},
 							UItype = "Button",
-							width = "62",
+							width = "35",
 							ZOrder = "1",
 						},
 						{
@@ -236,10 +235,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "89",
+							height = "54",
 							ignoreSize = "True",
 							name = "btn_cancel",
-							normal = "ui/activity/2021_spring/004.png",
+							normal = "ui/balloon/13.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -248,10 +247,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 177,
-								PositionY = -116,
+								PositionY = -118,
 							},
 							UItype = "Button",
-							width = "164",
+							width = "124",
 							ZOrder = "1",
 							components = 
 							{
@@ -265,7 +264,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF842540",
+									FontColor = "#FF737AC8",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -291,63 +290,17 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "取消邀请",
+									text = "取消邀請",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "100",
+									width = "99",
 									ZOrder = "1",
 								},
 							},
-						},
-						{
-							controlID = "txt_timer_img_bg_Panel-BalloonReqView_balloon_activity_Game",
-							UUID = "c26bd4dd_69b8_41a1_8d3a_a3024b8a079c",
-							anchorPoint = "False",
-							anchorPointX = "1",
-							anchorPointY = "0.5",
-							classname = "MELabel",
-							compPath = "luacomponents.common.MEIconLabel",
-							dstBlendFunc = "771",
-							FontColor = "#FF416385",
-							fontName = "font/fangzheng_zhunyuan.ttf",
-							fontShadow = 
-							{
-								IsShadow = false,
-								ShadowColor = "#FFFFFFFF",
-								ShadowAlpha = 255,
-								OffsetX = 0,
-								OffsetY = 0,
-							},
-							fontSize = "20",
-							fontStroke = 
-							{
-								IsStroke = false,
-								StrokeColor = "#FFE6E6E6",
-								StrokeSize = 1,
-							},
-							height = "23",
-							ignoreSize = "True",
-							name = "txt_timer",
-							nTextAlign = "1",
-							nTextHAlign = "0",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "770",
-							text = "全服放飞次数:1000",
-							touchAble = "False",
-							touchScaleEnable = "False",
-							UILayoutViewModel = 
-							{
-								PositionX = 239,
-								PositionY = -52,
-							},
-							width = "168",
-							ZOrder = "1",
 						},
 					},
 				},
@@ -362,10 +315,10 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
+			"ui/balloon/21.png",
 			"ui/balloon/22.png",
-			"ui/activity/2021_spring/fireWorks/close.png",
-			"ui/activity/2021_spring/004.png",
+			"ui/balloon/close_btn.png",
+			"ui/balloon/13.png",
 		},
 		armatures = 
 		{

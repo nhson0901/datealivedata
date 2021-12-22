@@ -246,7 +246,7 @@ return {
     },
     [500135] = {
         limitType = 2,
-        limitData = 1610553600,
+        limitData = 1643526000,
         id = 500135,
     },
     [566058] = {
@@ -261,7 +261,7 @@ return {
     },
     [500136] = {
         limitType = 2,
-        limitData = 1610553600,
+        limitData = 1643526000,
         id = 500136,
     },
     [598002] = {
@@ -301,7 +301,7 @@ return {
     },
     [500138] = {
         limitType = 2,
-        limitData = 1610553600,
+        limitData = 1643526000,
         id = 500138,
     },
     [566046] = {
@@ -406,7 +406,7 @@ return {
     },
     [500137] = {
         limitType = 2,
-        limitData = 1610553600,
+        limitData = 1643526000,
         id = 500137,
     },
     [660109] = {
@@ -476,7 +476,7 @@ return {
     },
     [665005] = {
         limitType = 2,
-        limitData = 1607529600,
+        limitData = 1643526000,
         id = 665005,
     },
     [699131] = {
@@ -486,7 +486,7 @@ return {
     },
     [665004] = {
         limitType = 2,
-        limitData = 1607529600,
+        limitData = 1643526000,
         id = 665004,
     },
     [598407] = {
@@ -496,7 +496,7 @@ return {
     },
     [665003] = {
         limitType = 2,
-        limitData = 1607529600,
+        limitData = 1643526000,
         id = 665003,
     },
     [598408] = {
@@ -506,7 +506,7 @@ return {
     },
     [665002] = {
         limitType = 2,
-        limitData = 1607529600,
+        limitData = 1643526000,
         id = 665002,
     },
     [598409] = {
@@ -516,7 +516,7 @@ return {
     },
     [665001] = {
         limitType = 2,
-        limitData = 1607529600,
+        limitData = 1643526000,
         id = 665001,
     },
     [598410] = {

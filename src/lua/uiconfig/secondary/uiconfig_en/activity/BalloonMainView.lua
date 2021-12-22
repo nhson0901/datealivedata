@@ -223,7 +223,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "22",
+											height = "21",
 											ignoreSize = "True",
 											name = "label_total",
 											nTextAlign = "1",
@@ -232,7 +232,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Total releases:",
+											text = "Full server releases:1000",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -240,7 +240,7 @@ local t =
 												PositionX = -186,
 												PositionY = -4,
 											},
-											width = "138",
+											width = "227",
 											ZOrder = "1",
 										},
 										{
@@ -269,7 +269,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "22",
+											height = "21",
 											ignoreSize = "True",
 											name = "txt_total",
 											nTextAlign = "1",
@@ -286,7 +286,7 @@ local t =
 												PositionX = 185,
 												PositionY = -4,
 											},
-											width = "46",
+											width = "43",
 											ZOrder = "1",
 										},
 									},
@@ -336,7 +336,7 @@ local t =
 								PositionX = 68,
 								PositionY = 137,
 							},
-							width = "105",
+							width = "96",
 							ZOrder = "4",
 						},
 						{
@@ -462,18 +462,18 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "0",
-											ignoreSize = "False",
+											height = "21",
+											ignoreSize = "True",
 											name = "label_title",
 											nTextAlign = "1",
-											nTextHAlign = "0",
+											nTextHAlign = "1",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -486,7 +486,7 @@ local t =
 												PositionX = -185,
 												PositionY = 39,
 											},
-											width = "257",
+											width = "168",
 											ZOrder = "1",
 										},
 										{
@@ -495,14 +495,14 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEButton",
 											ClickHighLightEnabled = "True",
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
 											height = "63",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "btn_friend",
 											normal = "ui/balloon/33.png",
 											sizepercentx = "0",
@@ -512,11 +512,11 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 155,
+												PositionX = 158,
 												PositionY = -13,
 											},
 											UItype = "Button",
-											width = "63",
+											width = "75",
 											ZOrder = "1",
 											components = 
 											{
@@ -540,7 +540,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "15",
+													fontSize = "18",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -552,6 +552,8 @@ local t =
 													name = "btn_label",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													scaleX = "0.8",
+													scaleY = "0.8",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -563,7 +565,7 @@ local t =
 													{
 														
 													},
-													width = "55",
+													width = "76",
 													ZOrder = "1",
 												},
 											},
@@ -1564,7 +1566,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "28",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -1587,7 +1589,7 @@ local t =
 											{
 												
 											},
-											width = "121",
+											width = "126",
 											ZOrder = "1",
 										},
 									},
@@ -1611,15 +1613,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "21",
+									ignoreSize = "True",
 									name = "txt_tip",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -1632,10 +1634,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 1,
-										PositionY = -183,
+										PositionX = 82,
+										PositionY = -185,
 									},
-									width = "457",
+									width = "74",
 									ZOrder = "1",
 								},
 							},
@@ -1660,8 +1662,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 114,
-								PositionY = -101,
+								PositionX = 124,
+								PositionY = -100,
 							},
 							width = "264",
 							ZOrder = "10",
@@ -1687,18 +1689,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "28",
+									ignoreSize = "True",
 									name = "label_title",
 									nTextAlign = "1",
-									nTextHAlign = "0",
+									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1711,7 +1713,7 @@ local t =
 										PositionX = -120,
 										PositionY = 189,
 									},
-									width = "192",
+									width = "194",
 									ZOrder = "1",
 								},
 								{
@@ -1896,7 +1898,7 @@ local t =
 									{
 										PositionY = -2,
 									},
-									width = "59",
+									width = "62",
 									ZOrder = "1",
 								},
 							},
@@ -1998,7 +2000,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "22",
+									height = "21",
 									ignoreSize = "True",
 									name = "txt_desc",
 									nTextAlign = "1",
@@ -2015,7 +2017,7 @@ local t =
 										PositionX = -185,
 										PositionY = 45,
 									},
-									width = "177",
+									width = "172",
 									ZOrder = "1",
 								},
 								{
@@ -2184,7 +2186,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -2208,7 +2210,7 @@ local t =
 									{
 										PositionX = 163,
 									},
-									width = "103",
+									width = "125",
 									ZOrder = "1",
 								},
 								{
@@ -2230,15 +2232,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "24",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "img_got",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -2254,7 +2256,7 @@ local t =
 									{
 										PositionX = 163,
 									},
-									width = "83",
+									width = "124",
 									ZOrder = "1",
 								},
 								{
@@ -2277,8 +2279,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 165,
-										PositionY = 4,
+										PositionX = 164,
+										PositionY = 2,
 									},
 									width = "50",
 									ZOrder = "1",
@@ -2385,7 +2387,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "34",
+							height = "32",
 							ignoreSize = "True",
 							name = "txt_cnt",
 							nTextAlign = "1",
@@ -2402,7 +2404,7 @@ local t =
 								PositionX = 247,
 								PositionY = -17,
 							},
-							width = "88",
+							width = "80",
 							ZOrder = "1",
 						},
 						{

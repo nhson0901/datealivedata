@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -269,7 +269,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "挑战期",
+											text = "挑戰期",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -315,14 +315,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "当前轮数：1 15",
+											text = "當前輪數：1 15",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -90,
 											},
-											width = "146",
+											width = "153",
 											ZOrder = "1",
 										},
 										{
@@ -360,7 +360,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "本轮结束   03天03时",
+											text = "本輪結束   03天03時",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -505,7 +505,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "37",
+													height = "34",
 													ignoreSize = "True",
 													name = "Label_flag_name",
 													nTextAlign = "1",
@@ -514,7 +514,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "试炼目标",
+													text = "試煉目標",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -659,7 +659,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "37",
+															height = "34",
 															ignoreSize = "True",
 															name = "Label_reward_title",
 															nTextAlign = "1",
@@ -668,7 +668,7 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "试炼奖励",
+															text = "試煉獎勵",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
@@ -833,7 +833,7 @@ local t =
 													{
 														
 													},
-													width = "106",
+													width = "107",
 													ZOrder = "1",
 												},
 											},
@@ -940,7 +940,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "三种勋章满足",
+													text = "三種勳章滿足",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -1008,7 +1008,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "22",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_tip_count",
 													nTextAlign = "1",
@@ -1025,7 +1025,7 @@ local t =
 														PositionX = 45,
 														PositionY = -25,
 													},
-													width = "33",
+													width = "24",
 													ZOrder = "1",
 												},
 											},
@@ -1086,7 +1086,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "22",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_tip_count",
 													nTextAlign = "1",
@@ -1103,7 +1103,7 @@ local t =
 														PositionX = 45,
 														PositionY = -25,
 													},
-													width = "33",
+													width = "24",
 													ZOrder = "1",
 												},
 											},
@@ -1164,7 +1164,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "22",
+													height = "21",
 													ignoreSize = "True",
 													name = "Label_tip_count",
 													nTextAlign = "1",
@@ -1181,7 +1181,7 @@ local t =
 														PositionX = 45,
 														PositionY = -25,
 													},
-													width = "33",
+													width = "24",
 													ZOrder = "1",
 												},
 											},
@@ -1407,7 +1407,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "通关队伍中包含火焰属性和雷达属性伤害的精灵存在",
+									text = "通關隊伍中包含火焰屬性和雷達屬性傷害的精靈存在",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1618,7 +1618,7 @@ local t =
 											{
 												PositionY = -55,
 											},
-											width = "26",
+											width = "25",
 											ZOrder = "1",
 										},
 									},
@@ -1693,7 +1693,7 @@ local t =
 											{
 												PositionY = -55,
 											},
-											width = "34",
+											width = "38",
 											ZOrder = "1",
 										},
 									},
@@ -1768,7 +1768,7 @@ local t =
 											{
 												PositionY = -55,
 											},
-											width = "34",
+											width = "38",
 											ZOrder = "1",
 										},
 									},

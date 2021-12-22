@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -187,10 +187,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 52,
+												PositionX = 90,
 												PositionY = 11,
 											},
-											width = "24",
+											width = "28",
 											ZOrder = "1",
 											components = 
 											{
@@ -230,14 +230,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "当前层数：",
+													text = "Current layer number",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -60,
+														PositionX = -127,
 													},
-													width = "107",
+													width = "209",
 													ZOrder = "1",
 												},
 											},
@@ -248,7 +248,7 @@ local t =
 									controlID = "Label_tittle_Image_bg_Panel_root_Panel-turnTabletPopAwardView_Layer1_twoYearTurnTablet_Game",
 									UUID = "369d05f5_1308_40c5_8aa7_7b106bc8853c",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -270,7 +270,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
+									height = "28",
 									ignoreSize = "True",
 									name = "Label_tittle",
 									nTextAlign = "1",
@@ -279,15 +279,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "选择奖励 l",
+									text = "Choose reward",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -297,
+										PositionX = -352,
 										PositionY = 167,
 									},
-									width = "112",
+									width = "188",
 									ZOrder = "1",
 								},
 								{
@@ -325,7 +325,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Belohnungen",
+									text = "Rewards",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -333,7 +333,8 @@ local t =
 										PositionX = -238,
 										PositionY = 164,
 									},
-									width = "58",
+									visible = "False",
+									width = "54",
 									ZOrder = "1",
 								},
 								{
@@ -474,30 +475,31 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "164",
+													height = "0",
 													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													rotation = "90",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "每第1~9层",
+													text = "Every 1st~9th floor",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -2,
 													},
-													width = "26",
+													width = "135",
 													ZOrder = "1",
 												},
 											},
@@ -578,30 +580,31 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "20",
+													fontSize = "16",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "165",
+													height = "0",
 													ignoreSize = "False",
 													name = "txt",
 													nTextAlign = "1",
 													nTextHAlign = "1",
+													rotation = "90",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "每第10层",
+													text = "Every 10th floor",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -3,
 													},
-													width = "34",
+													width = "135",
 													ZOrder = "1",
 												},
 											},
@@ -1111,7 +1114,7 @@ local t =
 										PositionY = -25,
 									},
 									visible = "False",
-									width = "37",
+									width = "41",
 									ZOrder = "1",
 								},
 							},

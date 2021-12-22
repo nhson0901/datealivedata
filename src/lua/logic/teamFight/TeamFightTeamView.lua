@@ -1182,7 +1182,11 @@ function TeamFightTeamView:updateTeamPart()
         self.Image_buff_tip:setVisible(true)
         local cid,buffId = next(buffIds)
         local bufferCfg = TabDataMgr:getData("Buffer",buffId)
-        self.Label_buff_tip:setText(bufferCfg and bufferCfg.des or "")
+        if bufferCfg and bufferCfg.desEn and bufferCfg.desEn ~= "" then
+            self.Label_buff_tip:setTextById(bufferCfg and bufferCfg.desEn or "")
+        else
+            self.Label_buff_tip:setText("")
+        end
     else
         self.Image_buff_tip:setVisible(false)
     end

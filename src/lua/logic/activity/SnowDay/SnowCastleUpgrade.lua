@@ -98,7 +98,7 @@ function SnowCastleUpgrade:addTab(data)
 
 	TFDirector:getChildByPath(prefeb, "ButtonUpgrade"):onClick(function()
 		if not prefeb.statusLock then
-			Utils:showTips("请升级上一等级")
+			Utils:showTips(TextDataMgr:getText(190001265))
 			return
 		end
 		self.optionId = data.id

@@ -174,7 +174,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "26",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -190,7 +190,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "玩家名称玩家名称玩家名称玩家名称玩名称玩家名称玩名称玩家名称玩",
+									text = "Player name player name player name player name play name player name play name player name play",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -245,7 +245,7 @@ local t =
 						
 						{
 							controlID = "Image_bubble_Panel_npc_Panel-actor_prefab_znq_yly_activity_Game",
-							UUID = "a4cd6fcc_c25c_4dd8_b0e6_0ec767d0353e",
+							UUID = "45ee7f58_3e48_43c8_9c19_768c9f89962f",
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0",
@@ -289,7 +289,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "15",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -305,7 +305,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "ชื่อผู้เล่น",
+									text = "Player Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 

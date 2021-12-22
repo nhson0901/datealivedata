@@ -65,7 +65,7 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 568,
+						PositionX = 480,
 						PositionY = 320,
 						relativeToName = "Panel",
 						nType = 3,
@@ -103,7 +103,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -112,15 +112,15 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "奖励详情",
+							text = "Award details",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -155,
+								PositionX = -114,
 								PositionY = 167,
 							},
-							width = "115",
+							width = "204",
 							ZOrder = "1",
 							components = 
 							{
@@ -148,6 +148,7 @@ local t =
 										PositionX = 62,
 										PositionY = 2,
 									},
+									visible = "False",
 									width = "5",
 									ZOrder = "1",
 								},
@@ -194,7 +195,8 @@ local t =
 										PositionX = 67,
 										PositionY = -4,
 									},
-									width = "61",
+									visible = "False",
+									width = "58",
 									ZOrder = "1",
 								},
 							},
@@ -352,8 +354,8 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "27",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "label_desc",
 							nTextAlign = "1",
 							nTextHAlign = "1",
@@ -361,7 +363,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "上交1种气球",
+							text = "Send one type of  balloon",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -369,7 +371,7 @@ local t =
 								PositionX = -336,
 								PositionY = -1,
 							},
-							width = "131",
+							width = "263",
 							ZOrder = "1",
 						},
 						{
@@ -407,7 +409,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "Bisa dapat",
+							text = "You'll get",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -415,7 +417,7 @@ local t =
 								PositionX = 53,
 								PositionY = -1,
 							},
-							width = "75",
+							width = "117",
 							ZOrder = "1",
 						},
 						{

@@ -45,11 +45,9 @@ function AmusementPackMainView:initUI(ui)
 	self.Button_hideUI = TFDirector:getChildByPath(self.uiPanel, "Button_hideUI")
 
     self.Button_chat = TFDirector:getChildByPath(self.uiPanel, "Button_chat")
-    self.Button_jiemi = TFDirector:getChildByPath(self.uiPanel, "Button_jiemi")
     self.Button_emoji = TFDirector:getChildByPath(self.uiPanel, "Button_emoji")
 
     self.Panel_emoji = TFDirector:getChildByPath(self.uiPanel, "Panel_emoji"):hide()
-    self.Panel_emoji_block = TFDirector:getChildByPath(self.Panel_emoji, "Panel_block")
 
     self.Panel_miniMap = TFDirector:getChildByPath(self.uiPanel, "Panel_miniMap")
 
@@ -85,8 +83,6 @@ function AmusementPackMainView:initUI(ui)
     self.Image_ani_s = TFDirector:getChildByPath(self.Panel_emoji,"Image_ani_s")
     self.Button_emoji_n = TFDirector:getChildByPath(self.Panel_emoji,"Button_emoji_n")
     self.Image_emoji_s = TFDirector:getChildByPath(self.Panel_emoji,"Image_emoji_s")
-    self.Button_item_n = TFDirector:getChildByPath(self.Panel_emoji,"Button_item_n")
-    self.Image_item_s = TFDirector:getChildByPath(self.Panel_emoji,"Image_item_s")
 end
 
 function AmusementPackMainView:registerEvents( ... )
@@ -150,16 +146,6 @@ function AmusementPackMainView:registerEvents( ... )
         self.chatView = ChatView
     end)
 
-    self.Button_jiemi:onClick(function ( ... )
-        local decrypts = WorldRoomDataMgr:getCurExtDataControl():getDecryptInfo()
-        if not decrypts or #decrypts == 0 then
-            Utils:showTips(15011269)
-            return 
-        end
-        Utils:openView("activity.twoyear.WorldDecrptTip")
-    end)
-
-
     self.Button_emoji:onClick(function ( ... )
         -- body
         self:updateEmojiPanel()
@@ -168,27 +154,15 @@ function AmusementPackMainView:registerEvents( ... )
 
     self.Button_emoji_n:onClick(function ( ... )
         -- body
-        self.showPage = 1
+        self.showEmojiPanel = true
         self:updateEmojiPanel()
-    end)
-
-    self.Panel_emoji_block:onClick(function ( ... )
-        -- body
-        self.Panel_emoji:hide()
     end)
 
     self.Button_ani_n:onClick(function ( ... )
         -- body
-        self.showPage = 2
+        self.showEmojiPanel = false
         self:updateEmojiPanel()
     end)
-
-    self.Button_item_n:onClick(function ( ... )
-        -- body
-        self.showPage = 3
-        self:updateEmojiPanel()
-    end)
-
 
     self.Panel_miniMap:setTouchEnabled(true)
     self.Panel_miniMap:onClick(function ( ... )
@@ -211,7 +185,7 @@ function AmusementPackMainView:registerEvents( ... )
 
     EventMgr:addEventListener(self, EV_ACTIVITY_DELETED, function ( activityId, extendData )
         -- body
-        if extendData and type(actorData) == "table" and extendData.isWorldRoom then
+        if extendData and extendData.isWorldRoom then
             Utils:showTips(extendData.activityEndTip)
             self:onLeave()
         end
@@ -221,7 +195,6 @@ function AmusementPackMainView:registerEvents( ... )
         -- body
         self.rokerPanel:setVisible(show)
     end)
-    EventMgr:addEventListener(self, EV_RIDDLE_GET_QUESDATA, handler(self.openGuessWord2021, self))
 
 end
 
@@ -235,6 +208,14 @@ function AmusementPackMainView:_onExit( ... )
     WorldRoomDataMgr:exitRoom()
     self:removeAllChildren()
     ResLoader.clean()
+    if ResLoader.cacheSpine then
+        for k,v in pairs(ResLoader.cacheSpine) do
+            for _k,_v in ipairs(v) do
+                _v:release()
+            end
+        end
+        ResLoader.cacheSpine = {}
+    end
     me.TextureCache:removeUnusedTextures()
     TFDirector:clearMovieClipCache()
     me.FrameCache:removeUnusedSpriteFrames()
@@ -254,11 +235,13 @@ end
 function AmusementPackMainView:onShow()
     self.super.onShow(self)
 
-    if Utils:getLocalSettingValue("enterWorldRoomFirst1") == "" and (not DatingDataMgr:triggerDating(self.__cname, "onShow")) and (not DatingDataMgr:getIsDating())  then
+    if Utils:getLocalSettingValue("enterWorldRoomFirst") == "" then
         FunctionDataMgr:jPersonInfoBase(4)
-        Utils:setLocalSettingValue("enterWorldRoomFirst1","true")
+        Utils:setLocalSettingValue("enterWorldRoomFirst","true")
         return
     end
+
+    DatingDataMgr:triggerDating(self.__cname, "onShow")
     local currentScene = Public:currentScene();
     if currentScene:getTopLayer() == self then
         SpineCache:getInstance():clearUnused();
@@ -345,13 +328,13 @@ end
 
 function AmusementPackMainView:getMotionCfg(  )
     -- body
-    local page = self.showPage 
+    local page = self.showEmojiPanel and 1 or 2
 
     local motions = TabDataMgr:getData("CityRoleModelMotion")
 
     local showList = {}
     for  k,v in pairs(motions) do
-        if v.page == page and WorldRoomDataMgr:getCurControl():checkCondition(v.showCond) then
+        if v.page == page then
             table.insert(showList,v)
         end
     end
@@ -364,23 +347,14 @@ end
 
 function AmusementPackMainView:updateEmojiPanel()
     -- body 
-    self.showPage = self.showPage or 2
     local control =  WorldRoomDataMgr:getCurControl()
     local emojiFunEnable = control:checkBuildFuncIsEnable(4)
     local aniFunEnable = control:checkBuildFuncIsEnable(5)
-    local itemFunEnable = control:checkBuildFuncIsEnable(6)
     self.Button_ani_n:setTouchEnabled(aniFunEnable)
     if not aniFunEnable then
         self.Button_ani_n:setColor(ccc3(125,125,125))
     else
         self.Button_ani_n:setColor(ccc3(255,255,255))
-    end
-
-    self.Button_item_n:setTouchEnabled(itemFunEnable)
-    if not itemFunEnable then
-        self.Button_item_n:setColor(ccc3(125,125,125))
-    else
-        self.Button_item_n:setColor(ccc3(255,255,255))
     end
 
     self.Button_emoji_n:setTouchEnabled(emojiFunEnable)
@@ -390,20 +364,14 @@ function AmusementPackMainView:updateEmojiPanel()
         self.Button_emoji_n:setColor(ccc3(255,255,255))
     end
 
-    if not aniFunEnable and self.showPage == 2 then
-        self.showPage = 1
+    if not aniFunEnable then
+        self.showEmojiPanel = true
     end
 
-    if not itemFunEnable and self.showPage == 3 then
-        self.showPage = 1
-    end
-
-    self.Image_emoji_s:setVisible(self.showPage == 1)
-    self.Button_emoji_n:setVisible(self.showPage ~= 1)
-    self.Image_ani_s:setVisible(self.showPage == 2)
-    self.Button_ani_n:setVisible(self.showPage ~= 2)
-    self.Image_item_s:setVisible(self.showPage == 3)
-    self.Button_item_n:setVisible(self.showPage ~= 3)
+    self.Button_emoji_n:setVisible(not self.showEmojiPanel)
+    self.Image_ani_s:setVisible(not self.showEmojiPanel)
+    self.Image_emoji_s:setVisible(self.showEmojiPanel)
+    self.Button_ani_n:setVisible(self.showEmojiPanel)
    
 
     local showList = self:getMotionCfg()
@@ -431,36 +399,9 @@ end
 function AmusementPackMainView:updateEmojiItem( item, data )
     -- body
     local Image_icon = TFDirector:getChildByPath(item,"Image_icon")
-    local Label_num = TFDirector:getChildByPath(item,"Label_num")
-    local Image_gray = TFDirector:getChildByPath(item,"Image_gray")
-
     Image_icon:setTextureNormal(data.icon)
-    if data.itemId and data.itemId > 0 then
-        Label_num:show()
-        Label_num:setText(GoodsDataMgr:getItemCount(data.itemId))
-        Image_gray:setVisible(GoodsDataMgr:getItemCount(data.itemId) <= 0)
-        Image_icon:setTextureNormal(GoodsDataMgr:getItemCfg(data.itemId).icon)
-    else
-        Label_num:hide()
-        Image_gray:hide()
-    end
     Image_icon:onClick(function ( ... )
         -- body
-        if data.itemId and data.itemId > 0 and GoodsDataMgr:getItemCount(data.itemId) <= 0 then
-            Utils:showInfo(data.itemId)
-            return
-        end
-
-        if data.cooldown then
-            self.coldDownTime = self.coldDownTime or 0
-            local time =  self.coldDownTime - ServerDataMgr:getServerTime()
-            if time > 0 then
-                Utils:showTips(13205005,time)
-                return 
-            end
-            self.coldDownTime = ServerDataMgr:getServerTime() + data.cooldown
-         end
-
         local realAction = data.actionId
         if data.playEffectByEquip then
             local mainHero = WorldRoomDataMgr:getCurControl():getMainHero()
@@ -626,12 +567,6 @@ function AmusementPackMainView:checkMessageShow(  )
         strTime = string.format("%.2d:%.2d",min,sec)
     end
     Label_message:setTextById("r"..textId,strTime)
-end
-
-function AmusementPackMainView:openGuessWord2021(data)
-    if data and data.type == 1 and not AlertManager:getLayerBySpecialName("GuessWordMainView") then
-        Utils:openView("activity.GuessWordMainView", data)
-    end
 end
 
 return AmusementPackMainView

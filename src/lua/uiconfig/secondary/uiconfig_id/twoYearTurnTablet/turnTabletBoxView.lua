@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -173,7 +173,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "37",
+									height = "34",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -182,7 +182,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Peringatan",
+									text = "Reminder",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -190,7 +190,7 @@ local t =
 										PositionX = -282,
 										PositionY = 144,
 									},
-									width = "62",
+									width = "159",
 									ZOrder = "1",
 								},
 								{
@@ -237,7 +237,8 @@ local t =
 										PositionX = -218,
 										PositionY = 141,
 									},
-									width = "6",
+									visible = "False",
+									width = "8",
 									ZOrder = "1",
 								},
 								{
@@ -283,7 +284,8 @@ local t =
 										PositionX = -210,
 										PositionY = 138,
 									},
-									width = "69",
+									visible = "False",
+									width = "70",
 									ZOrder = "1",
 								},
 								{
@@ -305,15 +307,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "28",
+									fontSize = "25",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "lab_content",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -321,14 +323,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "当前已获得本层通关奖励，是否前往下一层？",
+									text = "The clearance rewards of this floor has been obtained. Do you want to go to the next floor?",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 63,
 									},
-									width = "549",
+									width = "551",
 									ZOrder = "1",
 								},
 								{
@@ -350,15 +352,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "28",
+									fontSize = "22",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "lab_contentTip",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -366,14 +368,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "（前往下一层将丢失本层翻牌进度）",
+									text = "(Go to the next layer will lose the flop progress of this layer)",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = -10,
 									},
-									width = "439",
+									width = "450",
 									ZOrder = "1",
 								},
 								{
@@ -444,14 +446,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Batal",
+											text = "Cancel",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = -1,
 											},
-											width = "58",
+											width = "78",
 											ZOrder = "1",
 										},
 									},
@@ -524,14 +526,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "OK",
+											text = "Confirm",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = -1,
 											},
-											width = "59",
+											width = "98",
 											ZOrder = "1",
 										},
 									},

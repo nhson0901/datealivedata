@@ -61,7 +61,7 @@ function BossChallegePreview:refreshView( )
 		local itemCfg = GoodsDataMgr:getItemCfg(self.medalItems[i])
 		TFDirector:getChildByPath(item,"Image_tips"):setTexture(itemCfg.icon)
 		local Label_flag = TFDirector:getChildByPath(item,"Label_flag")
-		Label_flag:setText(desc)
+		Label_flag:setTextById(desc)
 		local isReach = FubenDataMgr:judgeStarIsActive(self.bossCfg.dungeonID, i)
 		TFDirector:getChildByPath(item,"Image_reach"):setVisible(isReach)
 		if isReach then

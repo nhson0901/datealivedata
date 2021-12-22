@@ -86,6 +86,8 @@ function JumpActivityView:initUI( ui )
 			self.Button_jump:getChildByName("Label_hunterLevelActivity_1"):setFontColor(ccc3(255 , 0 , 0))
 		elseif self.activityInfo.id == 208 then  --海王星跳转试炼按钮位置调整
 			self.Button_jump:setPosition(101 , 17)
+		elseif self.activityInfo.id == 200048 then --TODO global add
+			self.Button_jump:setPosition(290 , -210)
 		else
 			if self.activityInfo.extendData.uiName ~= "jumpActivityView3" then
 				self.label_date:setPosition(400 , 250)

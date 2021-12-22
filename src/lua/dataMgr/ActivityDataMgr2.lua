@@ -856,7 +856,12 @@ function ActivityDataMgr:isShowRedPoint(activityId)
             local day = activityInfo.extendData.day or {}
             for i=1,#day do
                 local progressInfo = self:getProgressInfo(activityInfo.activityType, day[i])
-                if progressInfo.status == EC_TaskStatus.GET then
+                local isUnlock = false
+                local itemInfo = ActivityDataMgr2:getItemInfo(activityInfo.activityType, day[i])
+                if itemInfo.extendData and itemInfo.extendData.level then
+                    isUnlock = self:getCurUnLockLevelByType(itemInfo.extendData.lockType) >= itemInfo.extendData.level
+                end
+                if (progressInfo.status == EC_TaskStatus.GET) and isUnlock then
                     isShow = true
                     break;
                 end
@@ -865,7 +870,12 @@ function ActivityDataMgr:isShowRedPoint(activityId)
             local once = activityInfo.extendData.once or {}
             for i=1,#once do
                 local progressInfo = ActivityDataMgr2:getProgressInfo(activityInfo.activityType, once[i])
-                if progressInfo.status == EC_TaskStatus.GET then
+                local isUnlock = false
+                local itemInfo = ActivityDataMgr2:getItemInfo(activityInfo.activityType, once[i])
+                if itemInfo.extendData and itemInfo.extendData.level then
+                    isUnlock = self:getCurUnLockLevelByType(itemInfo.extendData.lockType) >= itemInfo.extendData.level
+                end
+                if (progressInfo.status == EC_TaskStatus.GET) and isUnlock then
                     isShow = true
                     break;
                 end

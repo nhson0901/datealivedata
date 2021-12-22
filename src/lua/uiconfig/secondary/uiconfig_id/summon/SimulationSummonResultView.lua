@@ -369,7 +369,7 @@ local t =
 										TopPosition = 543,
 										relativeToName = "Panel_root",
 									},
-									width = "107",
+									width = "177",
 									ZOrder = "1",
 								},
 								{
@@ -2127,14 +2127,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "26",
+											fontSize = "21",
 											fontStroke = 
 											{
 												IsStroke = true,
 												StrokeColor = "#FF901034",
 												StrokeSize = 1,
 											},
-											height = "34",
+											height = "26",
 											ignoreSize = "True",
 											name = "Label_open",
 											nTextAlign = "1",
@@ -2151,7 +2151,7 @@ local t =
 												PositionX = -8,
 												PositionY = -3,
 											},
-											width = "107",
+											width = "132",
 											ZOrder = "1",
 										},
 									},
@@ -2336,7 +2336,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "107",
 											ZOrder = "1",
 										},
 									},
@@ -2417,7 +2417,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "70",
 											ZOrder = "1",
 										},
 									},
@@ -2498,7 +2498,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "93",
 											ZOrder = "1",
 										},
 									},
@@ -3123,7 +3123,7 @@ local t =
 												PositionX = 539,
 												PositionY = -27,
 											},
-											width = "99",
+											width = "226",
 											ZOrder = "1",
 										},
 										{

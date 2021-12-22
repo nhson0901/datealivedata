@@ -2530,7 +2530,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "25",
+															height = "23",
 															ignoreSize = "True",
 															name = "Label_count",
 															nTextAlign = "1",
@@ -2546,7 +2546,7 @@ local t =
 															{
 																
 															},
-															width = "55",
+															width = "37",
 															ZOrder = "1",
 														},
 													},
@@ -2703,7 +2703,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "25",
+															height = "23",
 															ignoreSize = "True",
 															name = "Label_count",
 															nTextAlign = "1",
@@ -2719,7 +2719,7 @@ local t =
 															{
 																
 															},
-															width = "55",
+															width = "37",
 															ZOrder = "1",
 														},
 													},
@@ -2948,7 +2948,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "25",
+															height = "23",
 															ignoreSize = "True",
 															name = "Label_count",
 															nTextAlign = "1",
@@ -2964,7 +2964,7 @@ local t =
 															{
 																
 															},
-															width = "55",
+															width = "37",
 															ZOrder = "1",
 														},
 													},
@@ -3122,7 +3122,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "25",
+															height = "23",
 															ignoreSize = "True",
 															name = "Label_count",
 															nTextAlign = "1",
@@ -3138,7 +3138,7 @@ local t =
 															{
 																
 															},
-															width = "55",
+															width = "37",
 															ZOrder = "1",
 														},
 													},
@@ -3366,7 +3366,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "25",
+															height = "23",
 															ignoreSize = "True",
 															name = "Label_count",
 															nTextAlign = "1",
@@ -3382,7 +3382,7 @@ local t =
 															{
 																
 															},
-															width = "55",
+															width = "37",
 															ZOrder = "1",
 														},
 													},
@@ -3540,7 +3540,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "25",
+															height = "23",
 															ignoreSize = "True",
 															name = "Label_count",
 															nTextAlign = "1",
@@ -3556,7 +3556,7 @@ local t =
 															{
 																
 															},
-															width = "55",
+															width = "37",
 															ZOrder = "1",
 														},
 													},
@@ -3620,7 +3620,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "35",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_piece",
 											nTextAlign = "1",
@@ -3629,7 +3629,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "雪花碎片",
+											text = "Snowflake Fragments",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -3637,7 +3637,7 @@ local t =
 												PositionX = -138,
 												PositionY = -4,
 											},
-											width = "115",
+											width = "317",
 											ZOrder = "1",
 										},
 									},
@@ -3788,7 +3788,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "名字",
+									text = "Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -3796,7 +3796,7 @@ local t =
 										PositionX = -168,
 										PositionY = -1,
 									},
-									width = "51",
+									width = "59",
 									ZOrder = "1",
 								},
 							},
@@ -3895,7 +3895,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label",
 									nTextAlign = "1",
@@ -3904,14 +3904,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "前往图鉴",
+									text = "Go to Gallery",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = -4,
 									},
-									width = "106",
+									width = "181",
 									ZOrder = "1",
 								},
 							},

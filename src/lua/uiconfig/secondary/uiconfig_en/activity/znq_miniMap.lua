@@ -63,7 +63,7 @@ local t =
 					{
 						PositionY = 33,
 					},
-					width = "895",
+					width = "882",
 					ZOrder = "1",
 				},
 				{
@@ -78,7 +78,7 @@ local t =
 					dstBlendFunc = "771",
 					flipX = "False",
 					flipY = "False",
-					height = "114",
+					height = "148",
 					ignoreSize = "True",
 					name = "btn_room_2",
 					normal = "ui/activity/znq_yly/miniMap/006.png",
@@ -93,7 +93,7 @@ local t =
 						PositionY = 29,
 					},
 					UItype = "Button",
-					width = "143",
+					width = "162",
 					ZOrder = "1",
 					components = 
 					{
@@ -120,8 +120,7 @@ local t =
 							{
 								PositionY = 45,
 							},
-							visible = "False",
-							width = "160",
+							width = "151",
 							ZOrder = "1",
 							components = 
 							{
@@ -168,7 +167,7 @@ local t =
 									{
 										PositionY = 2,
 									},
-									width = "135",
+									width = "122",
 									ZOrder = "1",
 								},
 								{
@@ -191,7 +190,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 45,
+										PositionX = 62,
 										PositionY = 15,
 									},
 									width = "30",
@@ -213,7 +212,7 @@ local t =
 					dstBlendFunc = "771",
 					flipX = "False",
 					flipY = "False",
-					height = "161",
+					height = "153",
 					ignoreSize = "True",
 					name = "btn_room_3",
 					normal = "ui/activity/znq_yly/miniMap/007.png",
@@ -228,7 +227,7 @@ local t =
 						PositionY = 11,
 					},
 					UItype = "Button",
-					width = "256",
+					width = "192",
 					ZOrder = "1",
 					components = 
 					{
@@ -302,7 +301,7 @@ local t =
 									{
 										PositionY = 3,
 									},
-									width = "49",
+									width = "44",
 									ZOrder = "1",
 								},
 								{
@@ -347,7 +346,7 @@ local t =
 					dstBlendFunc = "771",
 					flipX = "False",
 					flipY = "False",
-					height = "176",
+					height = "159",
 					ignoreSize = "True",
 					name = "btn_room_1",
 					normal = "ui/activity/znq_yly/miniMap/009.png",
@@ -362,7 +361,7 @@ local t =
 						PositionY = -75,
 					},
 					UItype = "Button",
-					width = "285",
+					width = "156",
 					ZOrder = "1",
 					components = 
 					{
@@ -390,7 +389,7 @@ local t =
 								PositionX = 3,
 								PositionY = 55,
 							},
-							width = "171",
+							width = "161",
 							ZOrder = "1",
 							components = 
 							{
@@ -437,7 +436,7 @@ local t =
 									{
 										PositionY = 3,
 									},
-									width = "133",
+									width = "127",
 									ZOrder = "1",
 								},
 								{
@@ -460,7 +459,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 71,
 										PositionY = 15,
 									},
 									width = "30",
@@ -482,7 +481,7 @@ local t =
 					dstBlendFunc = "771",
 					flipX = "False",
 					flipY = "False",
-					height = "97",
+					height = "107",
 					ignoreSize = "True",
 					name = "btn_room_5",
 					normal = "ui/activity/znq_yly/miniMap/004.png",
@@ -497,7 +496,7 @@ local t =
 						PositionY = 120,
 					},
 					UItype = "Button",
-					width = "110",
+					width = "125",
 					ZOrder = "1",
 					components = 
 					{
@@ -572,7 +571,7 @@ local t =
 									{
 										PositionY = 3,
 									},
-									width = "48",
+									width = "47",
 									ZOrder = "1",
 								},
 								{
@@ -617,7 +616,7 @@ local t =
 					dstBlendFunc = "771",
 					flipX = "False",
 					flipY = "False",
-					height = "140",
+					height = "146",
 					ignoreSize = "True",
 					name = "btn_room_6",
 					normal = "ui/activity/znq_yly/miniMap/005.png",
@@ -632,7 +631,7 @@ local t =
 						PositionY = -26,
 					},
 					UItype = "Button",
-					width = "146",
+					width = "213",
 					ZOrder = "1",
 					components = 
 					{
@@ -752,7 +751,7 @@ local t =
 					dstBlendFunc = "771",
 					flipX = "False",
 					flipY = "False",
-					height = "97",
+					height = "138",
 					ignoreSize = "True",
 					name = "btn_room_7",
 					normal = "ui/activity/znq_yly/miniMap/010.png",
@@ -767,7 +766,7 @@ local t =
 						PositionY = 72,
 					},
 					UItype = "Button",
-					width = "114",
+					width = "331",
 					ZOrder = "1",
 					components = 
 					{
@@ -792,10 +791,10 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -21,
-								PositionY = 39,
+								PositionX = -2,
+								PositionY = 43,
 							},
-							width = "122",
+							width = "121",
 							ZOrder = "1",
 							components = 
 							{
@@ -842,7 +841,7 @@ local t =
 									{
 										PositionY = 3,
 									},
-									width = "98",
+									width = "97",
 									ZOrder = "1",
 								},
 								{
@@ -865,7 +864,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 54,
 										PositionY = 15,
 									},
 									width = "30",
@@ -887,7 +886,7 @@ local t =
 					dstBlendFunc = "771",
 					flipX = "False",
 					flipY = "False",
-					height = "122",
+					height = "106",
 					ignoreSize = "True",
 					name = "btn_room_8",
 					normal = "ui/activity/znq_yly/miniMap/008.png",
@@ -902,7 +901,7 @@ local t =
 						PositionY = 174,
 					},
 					UItype = "Button",
-					width = "240",
+					width = "103",
 					ZOrder = "1",
 					components = 
 					{
@@ -929,8 +928,7 @@ local t =
 							{
 								PositionY = 16,
 							},
-							visible = "False",
-							width = "122",
+							width = "124",
 							ZOrder = "1",
 							components = 
 							{
@@ -977,7 +975,7 @@ local t =
 									{
 										PositionY = 3,
 									},
-									width = "97",
+									width = "90",
 									ZOrder = "1",
 								},
 								{
@@ -1000,7 +998,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 52,
 										PositionY = 15,
 									},
 									width = "30",
@@ -1065,7 +1063,7 @@ local t =
 								PositionX = 5,
 								PositionY = 27,
 							},
-							width = "164",
+							width = "149",
 							ZOrder = "1",
 							components = 
 							{
@@ -1112,7 +1110,7 @@ local t =
 									{
 										PositionY = 3,
 									},
-									width = "121",
+									width = "120",
 									ZOrder = "1",
 								},
 								{
@@ -1135,7 +1133,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 65,
 										PositionY = 15,
 									},
 									width = "30",
@@ -1157,7 +1155,7 @@ local t =
 					dstBlendFunc = "771",
 					flipX = "False",
 					flipY = "False",
-					height = "108",
+					height = "163",
 					ignoreSize = "True",
 					name = "btn_room_4",
 					normal = "ui/activity/znq_yly/miniMap/003.png",
@@ -1172,7 +1170,7 @@ local t =
 						PositionY = 49,
 					},
 					UItype = "Button",
-					width = "94",
+					width = "140",
 					ZOrder = "1",
 					components = 
 					{
@@ -1197,10 +1195,9 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 8,
+								PositionX = 4,
 								PositionY = 40,
 							},
-							visible = "False",
 							width = "151",
 							ZOrder = "1",
 							components = 
@@ -1248,7 +1245,7 @@ local t =
 									{
 										PositionY = 3,
 									},
-									width = "130",
+									width = "125",
 									ZOrder = "1",
 								},
 								{
@@ -1271,7 +1268,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 36,
+										PositionX = 62,
 										PositionY = 15,
 									},
 									width = "30",

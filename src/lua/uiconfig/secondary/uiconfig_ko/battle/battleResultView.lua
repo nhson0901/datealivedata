@@ -1419,7 +1419,7 @@ local t =
 														PositionX = -6,
 														PositionY = 6,
 													},
-													width = "191",
+													width = "186",
 													ZOrder = "1",
 												},
 												{
@@ -8035,7 +8035,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "50",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_desc",
 									nTextAlign = "1",

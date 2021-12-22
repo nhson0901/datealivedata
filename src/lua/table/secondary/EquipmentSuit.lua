@@ -524,7 +524,15 @@ return {
         nameIcon = "icon/equipment/suit/hanfuchunjie.png",
         id = 405,
         suitSkill = 29999,
-        icon = "icon/equipment/suit/icon41.png",
+        icon = "icon/equipment/suit/icon998.png",
         suitNewPokedex = 190000320,
+    },
+    [406] = {
+        combatPower = 80,
+        nameIcon = "icon/equipment/suit/hanfushengdan.png",
+        id = 406,
+        suitSkill = 29998,
+        icon = "icon/equipment/suit/icon999.png",
+        suitNewPokedex = 190001167,
     },
 }

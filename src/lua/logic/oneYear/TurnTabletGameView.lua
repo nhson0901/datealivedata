@@ -286,8 +286,9 @@ function TurnTabletGameView:initAllTablets()
                     tittle = 12034009,
                     content = TextDataMgr:getText(12034010),
                     confirmCall = function()
-                        --FunctionDataMgr:jStorePack()  --TODO CLOSE 暂时改为英文版特有78感恩节活动商店类型
-                        FunctionDataMgr:jActivity(78)
+                        FunctionDataMgr:jStorePack()  
+                        --TODO CLOSE 暂时改为英文版特有78感恩节活动商店类型
+                        --FunctionDataMgr:jActivity(78)
                     end,
                 }
                 Utils:showReConfirm(args)

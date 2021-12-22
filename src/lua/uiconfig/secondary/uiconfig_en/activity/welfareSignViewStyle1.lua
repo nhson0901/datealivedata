@@ -90,14 +90,14 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "535",
+							height = "543",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/activityStyle/wefareSignActivity/style2/bg1.png",
+							texturePath = "ui/activity/activityStyle/wefareSignActivity/style3/001.png",
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
@@ -603,11 +603,11 @@ local t =
 									fontSize = "22",
 									fontStroke = 
 									{
-										IsStroke = false,
-										StrokeColor = "#FFE6E6E6",
+										IsStroke = true,
+										StrokeColor = "#FF1048A7",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "27",
 									ignoreSize = "True",
 									name = "Label_time_tip",
 									nTextAlign = "0",
@@ -625,7 +625,7 @@ local t =
 										PositionX = -422,
 										PositionY = 243,
 									},
-									width = "90",
+									width = "91",
 									ZOrder = "1",
 								},
 								{
@@ -650,11 +650,11 @@ local t =
 									fontSize = "22",
 									fontStroke = 
 									{
-										IsStroke = false,
-										StrokeColor = "#FFE6E6E6",
+										IsStroke = true,
+										StrokeColor = "#FF1048A7",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "27",
 									ignoreSize = "True",
 									name = "Label_time_end",
 									nTextAlign = "0",
@@ -672,7 +672,7 @@ local t =
 										PositionX = -460,
 										PositionY = 181,
 									},
-									width = "90",
+									width = "92",
 									ZOrder = "1",
 								},
 								{
@@ -697,11 +697,11 @@ local t =
 									fontSize = "22",
 									fontStroke = 
 									{
-										IsStroke = false,
-										StrokeColor = "#FFE6E6E6",
+										IsStroke = true,
+										StrokeColor = "#FF1048A7",
 										StrokeSize = 1,
 									},
-									height = "25",
+									height = "27",
 									ignoreSize = "True",
 									name = "Label_time_begin",
 									nTextAlign = "0",
@@ -719,7 +719,7 @@ local t =
 										PositionX = -440,
 										PositionY = 212,
 									},
-									width = "90",
+									width = "92",
 									ZOrder = "1",
 								},
 								{
@@ -1168,7 +1168,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "140",
+							height = "148",
 							ignoreSize = "False",
 							name = "Panel_sevenItem1",
 							sizepercentx = "0",
@@ -1179,7 +1179,6 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 183,
-								PositionY = 3,
 							},
 							uipanelviewmodel = 
 							{
@@ -1286,7 +1285,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = -11,
+										PositionY = -3,
 										LeftPositon = 34,
 										TopPosition = 34,
 										relativeToName = "Panel_reward",
@@ -1320,7 +1319,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -5,
-										PositionY = -11,
+										PositionY = -1,
 									},
 									uipanelviewmodel = 
 									{
@@ -1403,7 +1402,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 59,
+										PositionY = 67,
 									},
 									width = "69",
 									ZOrder = "1",
@@ -1497,7 +1496,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/activityStyle/wefareSignActivity/style2/bg1.png",
+			"ui/activity/activityStyle/wefareSignActivity/style3/001.png",
 			"ui/activity/fashionStore/1/007.png",
 			"ui/activity/fashionStore/1/008.png",
 			"ui/activity/fashionStore/1/004.png",

@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -234,7 +234,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Nombre de etapa",
+											text = "Stage Name",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -242,7 +242,7 @@ local t =
 												PositionX = -355,
 												PositionY = 179,
 											},
-											width = "249",
+											width = "184",
 											ZOrder = "1",
 											components = 
 											{
@@ -295,7 +295,7 @@ local t =
 															backGroundScale9Enable = "False",
 															classname = "MEImage",
 															dstBlendFunc = "771",
-															height = "26",
+															height = "32",
 															ignoreSize = "True",
 															name = "Image_line",
 															sizepercentx = "0",
@@ -308,7 +308,8 @@ local t =
 															{
 																PositionX = 3,
 															},
-															width = "5",
+															visible = "False",
+															width = "4",
 															ZOrder = "1",
 														},
 														{
@@ -337,7 +338,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "16",
+															height = "0",
 															ignoreSize = "True",
 															name = "Label_english",
 															nTextAlign = "1",
@@ -346,7 +347,6 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "Crear información",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
@@ -354,7 +354,8 @@ local t =
 																PositionX = 7,
 																PositionY = -7,
 															},
-															width = "109",
+															visible = "False",
+															width = "0",
 															ZOrder = "1",
 														},
 													},
@@ -424,7 +425,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "试炼目标",
+													text = "Trial goal",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -432,7 +433,7 @@ local t =
 														PositionX = 7,
 														PositionY = -2,
 													},
-													width = "99",
+													width = "120",
 													ZOrder = "1",
 												},
 											},
@@ -481,7 +482,7 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEButton",
 											ClickHighLightEnabled = "True",
 											dstBlendFunc = "771",
@@ -492,7 +493,7 @@ local t =
 											{
 												nHitType = 3,
 											},
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Button_auto_match",
 											normal = "ui/fuben/boss_challege/btn3.png",
 											sizepercentx = "0",
@@ -502,11 +503,11 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 292,
+												PositionX = 281,
 												PositionY = -172,
 											},
 											UItype = "Button",
-											width = "122",
+											width = "142",
 											ZOrder = "1",
 											components = 
 											{
@@ -546,14 +547,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Enfrentamiento en solitario",
+													text = "Solo Matchup",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "248",
+													width = "126",
 													ZOrder = "1",
 												},
 											},
@@ -585,7 +586,7 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 164,
+												PositionX = 144,
 												PositionY = -172,
 											},
 											UItype = "Button",
@@ -629,14 +630,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Nueva sala",
+													text = "New Room",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "105",
+													width = "102",
 													ZOrder = "1",
 												},
 											},
@@ -697,8 +698,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "label_tip1",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -706,7 +707,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "队伍最大人数限制：",
+											text = "Maximum number of team members",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -714,7 +715,7 @@ local t =
 												PositionX = -171,
 												PositionY = 130,
 											},
-											width = "170",
+											width = "184",
 											ZOrder = "1",
 										},
 										{
@@ -760,7 +761,7 @@ local t =
 												PositionX = -161,
 												PositionY = 130,
 											},
-											width = "14",
+											width = "13",
 											ZOrder = "1",
 										},
 										{
@@ -798,15 +799,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "当前轮数：",
+											text = "Current round",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -223,
+												PositionX = -205,
 												PositionY = -121,
 											},
-											width = "107",
+											width = "141",
 											ZOrder = "1",
 										},
 										{
@@ -852,7 +853,7 @@ local t =
 												PositionX = -204,
 												PositionY = -122,
 											},
-											width = "37",
+											width = "46",
 											ZOrder = "1",
 										},
 										{
@@ -1277,7 +1278,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "通关队伍中包含火焰属性和雷达属性伤害的精灵存在",
+											text = "There are elves with flame attributes and radar attribute damage in the clearance team",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 

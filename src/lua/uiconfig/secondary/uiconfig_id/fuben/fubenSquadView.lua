@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -17142,7 +17142,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "通关描述",
+											text = "Deskripsi lewati Stage",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -17150,7 +17150,7 @@ local t =
 												PositionX = -157,
 												PositionY = 101,
 											},
-											width = "98",
+											width = "279",
 											ZOrder = "1",
 										},
 										{
@@ -17299,7 +17299,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "奖励预览",
+											text = "Pratinjau Hadiah",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -17307,7 +17307,7 @@ local t =
 												PositionX = 48,
 												PositionY = 161,
 											},
-											width = "98",
+											width = "219",
 											ZOrder = "1",
 										},
 										{

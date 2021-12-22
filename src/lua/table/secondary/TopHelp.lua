@@ -5593,31 +5593,31 @@ return {
         helpDes = 0,
         resource = {
             [1] = {
-                [1] = 500004,
+                [1] = 500002,
                 [2] = 1,
             },
             [2] = {
-                [1] = 500001,
-                [2] = 1,
+                [1] = 500136,
+                [2] = 0,
             },
             [3] = {
-                [1] = 500002,
-                [2] = 1,
+                [1] = 500137,
+                [2] = 0,
             },
         },
         dynamic = false,
         id = 212,
-        helpTitle = 61070,
+        helpTitle = 61071,
         fileName = "ActivityMainView3",
         isResource = true,
         helpInterface = {
-            [1] = 3106,
+            [1] = 3115,
         },
-        isHelp = false,
+        isHelp = true,
         help = "",
         isMain = true,
         isBack = true,
-        name = "190001045",
+        name = "13202190",
         icon = "icon/system/025.png",
         isDiban = true,
     },
@@ -5885,7 +5885,7 @@ return {
                 [2] = 1,
             },
             [2] = {
-                [1] = 500080,
+                [1] = 500127,
                 [2] = 0,
             },
             [3] = {
@@ -5917,7 +5917,7 @@ return {
                 [2] = 1,
             },
             [2] = {
-                [1] = 500080,
+                [1] = 500127,
                 [2] = 0,
             },
             [3] = {
@@ -7116,12 +7116,12 @@ return {
         helpDes = 2130514,
         resource = {
             [1] = {
-                [1] = 500004,
-                [2] = 1,
+                [1] = 580019,
+                [2] = 0,
             },
             [2] = {
-                [1] = 500001,
-                [2] = 1,
+                [1] = 500096,
+                [2] = 0,
             },
             [3] = {
                 [1] = 500002,
@@ -7140,7 +7140,7 @@ return {
         help = "",
         isMain = true,
         isBack = true,
-        name = "190016233",
+        name = "190001231",
         icon = "icon/system/025.png",
         isDiban = true,
     },
@@ -8139,7 +8139,7 @@ return {
         helpDes = 0,
         resource = {
             [1] = {
-                [1] = 500121,
+                [1] = 570078,
                 [2] = 0,
             },
             [2] = {
@@ -8336,7 +8336,7 @@ return {
         help = "",
         isMain = true,
         isBack = true,
-        name = "冬日回忆",
+        name = "13202402",
         icon = "icon/system/025.png",
         isDiban = true,
     },

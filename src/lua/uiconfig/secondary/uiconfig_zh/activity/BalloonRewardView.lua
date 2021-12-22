@@ -65,8 +65,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 568,
-						PositionY = 320,
+						PositionX = 518,
+						PositionY = 382,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -103,7 +103,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -112,7 +112,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "奖励详情",
+							text = "獎勵詳情",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -120,7 +120,7 @@ local t =
 								PositionX = -155,
 								PositionY = 167,
 							},
-							width = "115",
+							width = "114",
 							ZOrder = "1",
 							components = 
 							{
@@ -194,7 +194,7 @@ local t =
 										PositionX = 67,
 										PositionY = -4,
 									},
-									width = "61",
+									width = "58",
 									ZOrder = "1",
 								},
 							},
@@ -361,7 +361,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "上交1种气球",
+							text = "上交1種氣球",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -369,7 +369,7 @@ local t =
 								PositionX = -336,
 								PositionY = -1,
 							},
-							width = "131",
+							width = "136",
 							ZOrder = "1",
 						},
 						{

@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -302,7 +302,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "特权总览",
+									text = "特權總覽",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 

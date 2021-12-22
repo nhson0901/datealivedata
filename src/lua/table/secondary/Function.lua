@@ -723,7 +723,7 @@ return {
     },
     [39] = {
         isOpen = true,
-        openLevel = 15,
+        openLevel = 1,
         isStinger = false,
         id = 39,
         openDun = 0,

@@ -179,15 +179,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "策略选择",
+									text = "Strategy Select",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = -405,
-										PositionY = 210,
+										PositionY = 201,
 									},
-									width = "146",
+									width = "277",
 									ZOrder = "1",
 								},
 								{
@@ -794,7 +794,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "玩家名字八个字",
+									text = "Player Name 16 Chars",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -802,7 +802,7 @@ local t =
 										PositionX = 554,
 										PositionY = 98,
 									},
-									width = "171",
+									width = "217",
 									ZOrder = "1",
 								},
 								{
@@ -840,7 +840,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "道具名字",
+									text = "Item Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -848,7 +848,7 @@ local t =
 										PositionX = 6,
 										PositionY = 98,
 									},
-									width = "99",
+									width = "108",
 									ZOrder = "1",
 								},
 								{
@@ -1009,7 +1009,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "还未选择",
+									text = "Not Selected",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 

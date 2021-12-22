@@ -54,14 +54,14 @@ local t =
 					backGroundScale9Enable = "False",
 					classname = "MEImage",
 					dstBlendFunc = "771",
-					height = "307",
+					height = "308",
 					ignoreSize = "True",
 					name = "img_bg",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
+					texturePath = "ui/balloon/21.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
@@ -72,7 +72,7 @@ local t =
 						nGravity = 6,
 						nAlign = 5
 					},
-					width = "536",
+					width = "524",
 					ZOrder = "1",
 					components = 
 					{
@@ -135,7 +135,7 @@ local t =
 							controlID = "label_title_img_bg_Panel-BalloonInviteView_balloon_activity_Game",
 							UUID = "a78c5809_66c0_47ed_8b89_aa8bafe52b32",
 							anchorPoint = "False",
-							anchorPointX = "0",
+							anchorPointX = "0.5",
 							anchorPointY = "0.5",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
@@ -157,7 +157,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "34",
+							height = "32",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -171,10 +171,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -251,
+								PositionX = -86,
 								PositionY = 121,
 							},
-							width = "326",
+							width = "327",
 							ZOrder = "1",
 						},
 						{
@@ -226,7 +226,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "20",
+							fontSize = "22",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -326,7 +326,7 @@ local t =
 									{
 										
 									},
-									width = "83",
+									width = "76",
 									ZOrder = "1",
 								},
 							},
@@ -405,7 +405,7 @@ local t =
 									{
 										
 									},
-									width = "73",
+									width = "70",
 									ZOrder = "1",
 								},
 							},
@@ -464,7 +464,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -475,7 +475,7 @@ local t =
 									ignoreSize = "False",
 									name = "label_btn",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "2",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -488,7 +488,7 @@ local t =
 										PositionX = -19,
 										PositionY = -2,
 									},
-									width = "220",
+									width = "221",
 									ZOrder = "1",
 								},
 							},
@@ -547,7 +547,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -558,7 +558,7 @@ local t =
 									ignoreSize = "False",
 									name = "label_btn",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "2",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -571,56 +571,10 @@ local t =
 										PositionX = -19,
 										PositionY = -2,
 									},
-									width = "245",
+									width = "221",
 									ZOrder = "1",
 								},
 							},
-						},
-						{
-							controlID = "txt_timer_img_bg_Panel-BalloonInviteView_balloon_activity_Game",
-							UUID = "ba2c697a_d09f_4cb2_95c8_6466868dda51",
-							anchorPoint = "False",
-							anchorPointX = "1",
-							anchorPointY = "0.5",
-							classname = "MELabel",
-							compPath = "luacomponents.common.MEIconLabel",
-							dstBlendFunc = "771",
-							FontColor = "#FF416385",
-							fontName = "font/fangzheng_zhunyuan.ttf",
-							fontShadow = 
-							{
-								IsShadow = false,
-								ShadowColor = "#FFFFFFFF",
-								ShadowAlpha = 255,
-								OffsetX = 0,
-								OffsetY = 0,
-							},
-							fontSize = "20",
-							fontStroke = 
-							{
-								IsStroke = false,
-								StrokeColor = "#FFE6E6E6",
-								StrokeSize = 1,
-							},
-							height = "23",
-							ignoreSize = "True",
-							name = "txt_timer",
-							nTextAlign = "1",
-							nTextHAlign = "0",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "770",
-							text = "全服放飞次数:1000",
-							touchAble = "False",
-							touchScaleEnable = "False",
-							UILayoutViewModel = 
-							{
-								PositionX = 250,
-								PositionY = -21,
-							},
-							width = "168",
-							ZOrder = "1",
 						},
 					},
 				},
@@ -635,7 +589,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
+			"ui/balloon/21.png",
 			"ui/balloon/22.png",
 			"ui/balloon/07.png",
 			"ui/balloon/close_btn.png",

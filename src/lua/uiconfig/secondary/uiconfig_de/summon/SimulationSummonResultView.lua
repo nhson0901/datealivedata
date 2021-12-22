@@ -369,7 +369,7 @@ local t =
 										TopPosition = 543,
 										relativeToName = "Panel_root",
 									},
-									width = "107",
+									width = "244",
 									ZOrder = "1",
 								},
 								{
@@ -2099,7 +2099,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 453,
+										PositionX = 420,
 										PositionY = -254,
 									},
 									UItype = "Button",
@@ -2127,14 +2127,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "26",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = true,
 												StrokeColor = "#FF901034",
 												StrokeSize = 1,
 											},
-											height = "34",
+											height = "27",
 											ignoreSize = "True",
 											name = "Label_open",
 											nTextAlign = "1",
@@ -2148,10 +2148,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -8,
-												PositionY = -3,
+												PositionX = -6,
 											},
-											width = "107",
+											width = "198",
 											ZOrder = "1",
 										},
 									},
@@ -2336,7 +2335,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "116",
 											ZOrder = "1",
 										},
 									},
@@ -2417,7 +2416,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "106",
 											ZOrder = "1",
 										},
 									},
@@ -2498,7 +2497,7 @@ local t =
 											{
 												
 											},
-											width = "63",
+											width = "121",
 											ZOrder = "1",
 										},
 									},
@@ -3123,7 +3122,7 @@ local t =
 												PositionX = 539,
 												PositionY = -27,
 											},
-											width = "99",
+											width = "259",
 											ZOrder = "1",
 										},
 										{
