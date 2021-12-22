@@ -3576,6 +3576,45 @@ function FubenDataMgr:getMonsterTrialOpenTime()
 end
 local __print = print
 function FubenDataMgr:getBossChallengeTimes()
+    -- local openTime = 0
+    -- local closeTime = 0
+    -- local readyTime = 0
+    -- local endTime = 0
+    -- local tempTime = 0
+    -- local curRound = 0
+    -- local maxRound = #self.NewBossChallenge_
+    -- local firstCfg = self.NewBossChallenge_[1]
+    -- local lastCfg = self.NewBossChallenge_[#self.NewBossChallenge_]
+    -- if firstCfg then
+    --     openTime = Utils:getTimeByDate(firstCfg.sTime)
+    --     tempTime = Utils:getTimeByDate(firstCfg.eTime)
+    -- end
+    -- if lastCfg then
+    --     closeTime = Utils:getTimeByDate(lastCfg.eTime)
+    -- end
+    -- local serverTime = ServerDataMgr:getServerTime()
+    -- if serverTime < openTime then
+    --     readyTime = openTime
+    --     curRound = 1
+    -- elseif serverTime > openTime and serverTime < closeTime then
+    --     for i,v in ipairs(self.NewBossChallenge_) do
+    --         local sTime = Utils:getTimeByDate(v.sTime)
+    --         local eTime = Utils:getTimeByDate(v.eTime)
+    --         if serverTime > tempTime and serverTime < sTime then
+    --             readyTime = sTime
+    --             curRound = v.round
+    --         end
+    --         if serverTime > sTime and serverTime < eTime then
+    --             endTime = eTime
+    --             curRound = v.round
+    --             break
+    --         else
+    --             tempTime = eTime
+    --         end
+    --     end
+    -- end
+    -- return openTime,closeTime,readyTime,endTime,curRound,maxRound
+    --TODO CLOSE GLOBAL
     local openTime = 0
     local closeTime = 0
     local readyTime = 0
@@ -3586,11 +3625,11 @@ function FubenDataMgr:getBossChallengeTimes()
     local firstCfg = self.NewBossChallenge_[1]
     local lastCfg = self.NewBossChallenge_[#self.NewBossChallenge_]
     if firstCfg then
-        openTime = Utils:getTimeByDate(firstCfg.sTime)
-        tempTime = Utils:getTimeByDate(firstCfg.eTime)
+        openTime = firstCfg.stimeutc
+        tempTime = firstCfg.etimeutc
     end
     if lastCfg then
-        closeTime = Utils:getTimeByDate(lastCfg.eTime)
+        closeTime = lastCfg.etimeutc
     end
     local serverTime = ServerDataMgr:getServerTime()
     if serverTime < openTime then
@@ -3598,18 +3637,18 @@ function FubenDataMgr:getBossChallengeTimes()
         curRound = 1
     elseif serverTime > openTime and serverTime < closeTime then
         for i,v in ipairs(self.NewBossChallenge_) do
-            local sTime = Utils:getTimeByDate(v.sTime)
-            local eTime = Utils:getTimeByDate(v.eTime)
-            if serverTime > tempTime and serverTime < sTime then
-                readyTime = sTime
+            local stimeutc = v.stimeutc
+            local etimeutc = v.etimeutc
+            if serverTime > tempTime and serverTime < stimeutc then
+                readyTime = stimeutc
                 curRound = v.round
             end
-            if serverTime > sTime and serverTime < eTime then
-                endTime = eTime
+            if serverTime > stimeutc and serverTime < etimeutc then
+                endTime = etimeutc
                 curRound = v.round
                 break
             else
-                tempTime = eTime
+                tempTime = etimeutc
             end
         end
     end

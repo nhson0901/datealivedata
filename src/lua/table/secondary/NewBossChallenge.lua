@@ -1,6 +1,7 @@
 return {
     [471115] = {
         roleSize = 0.32,
+        stimeutc = 1642748400,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -35,13 +36,10 @@ return {
             [3] = 3,
         },
         round = 15,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 0,
         countLimit = 1,
         capacity = 3,
-        affixID = 0,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -51,16 +49,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471115,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_12.png",
+        levelName = 12035008,
         pictureOffset = {
             y = -5,
             x = 0,
         },
-        levelName = 12035008,
-        bossPicture = "ui/league/zljh/bosspicture/boss_12.png",
-        type = 8,
-        id = 471115,
         sTime = "2022-1-21 00:00:00",
-        battleTime = 600,
+        etimeutc = 1642921140,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -78,6 +80,7 @@ return {
     },
     [471104] = {
         roleSize = 0.4,
+        stimeutc = 1640847600,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -112,13 +115,10 @@ return {
             [3] = 8,
         },
         round = 4,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 379,
         countLimit = 1,
         capacity = 3,
-        affixID = 379,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -128,16 +128,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471104,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_8.png",
+        levelName = 12035005,
         pictureOffset = {
             y = -10,
             x = 0,
         },
-        levelName = 12035005,
-        bossPicture = "ui/league/zljh/bosspicture/boss_8.png",
-        type = 8,
-        id = 471104,
         sTime = "2021-12-30 00:00:00",
-        battleTime = 600,
+        etimeutc = 1641020340,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -155,6 +159,7 @@ return {
     },
     [471108] = {
         roleSize = 0.37,
+        stimeutc = 1641538800,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -189,13 +194,10 @@ return {
             [3] = 3,
         },
         round = 8,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 377,
         countLimit = 1,
         capacity = 3,
-        affixID = 377,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -205,16 +207,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471108,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_7.png",
+        levelName = 12035004,
         pictureOffset = {
             y = 0,
             x = 5,
         },
-        levelName = 12035004,
-        bossPicture = "ui/league/zljh/bosspicture/boss_7.png",
-        type = 8,
-        id = 471108,
         sTime = "2022-1-7 00:00:00",
-        battleTime = 600,
+        etimeutc = 1641711540,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -232,6 +238,7 @@ return {
     },
     [471112] = {
         roleSize = 0.32,
+        stimeutc = 1642230000,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -266,13 +273,10 @@ return {
             [3] = 6,
         },
         round = 12,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 0,
         countLimit = 1,
         capacity = 3,
-        affixID = 0,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -282,16 +286,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471112,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_12.png",
+        levelName = 12035008,
         pictureOffset = {
             y = -5,
             x = 0,
         },
-        levelName = 12035008,
-        bossPicture = "ui/league/zljh/bosspicture/boss_12.png",
-        type = 8,
-        id = 471112,
         sTime = "2022-1-15 00:00:00",
-        battleTime = 600,
+        etimeutc = 1642402740,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -309,6 +317,7 @@ return {
     },
     [471101] = {
         roleSize = 0.32,
+        stimeutc = 1640242800,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -343,13 +352,10 @@ return {
             [3] = 2,
         },
         round = 1,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 0,
         countLimit = 1,
         capacity = 3,
-        affixID = 0,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -359,16 +365,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471101,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_12.png",
+        levelName = 12035008,
         pictureOffset = {
             y = -5,
             x = 0,
         },
-        levelName = 12035008,
-        bossPicture = "ui/league/zljh/bosspicture/boss_12.png",
-        type = 8,
-        id = 471101,
         sTime = "2021-12-23 00:00:00",
-        battleTime = 600,
+        etimeutc = 1640501940,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -386,6 +396,7 @@ return {
     },
     [471105] = {
         roleSize = 0.41,
+        stimeutc = 1641020400,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -420,13 +431,10 @@ return {
             [3] = 6,
         },
         round = 5,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 382,
         countLimit = 1,
         capacity = 3,
-        affixID = 382,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -436,16 +444,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471105,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_9.png",
+        levelName = 12035006,
         pictureOffset = {
             y = 5,
             x = 0,
         },
-        levelName = 12035006,
-        bossPicture = "ui/league/zljh/bosspicture/boss_9.png",
-        type = 8,
-        id = 471105,
         sTime = "2022-1-1 00:00:00",
-        battleTime = 600,
+        etimeutc = 1641193140,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -463,6 +475,7 @@ return {
     },
     [471109] = {
         roleSize = 0.4,
+        stimeutc = 1641711600,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -497,13 +510,10 @@ return {
             [3] = 7,
         },
         round = 9,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 379,
         countLimit = 1,
         capacity = 3,
-        affixID = 379,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -513,16 +523,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471109,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_8.png",
+        levelName = 12035005,
         pictureOffset = {
             y = -10,
             x = 0,
         },
-        levelName = 12035005,
-        bossPicture = "ui/league/zljh/bosspicture/boss_8.png",
-        type = 8,
-        id = 471109,
         sTime = "2022-1-9 00:00:00",
-        battleTime = 600,
+        etimeutc = 1641884340,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -540,6 +554,7 @@ return {
     },
     [471113] = {
         roleSize = 0.41,
+        stimeutc = 1642402800,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -574,13 +589,10 @@ return {
             [3] = 3,
         },
         round = 13,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 382,
         countLimit = 1,
         capacity = 3,
-        affixID = 382,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -590,16 +602,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471113,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_9.png",
+        levelName = 12035006,
         pictureOffset = {
             y = 5,
             x = 0,
         },
-        levelName = 12035006,
-        bossPicture = "ui/league/zljh/bosspicture/boss_9.png",
-        type = 8,
-        id = 471113,
         sTime = "2022-1-17 00:00:00",
-        battleTime = 600,
+        etimeutc = 1642575540,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -617,6 +633,7 @@ return {
     },
     [471102] = {
         roleSize = 0.34,
+        stimeutc = 1640502000,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -651,13 +668,10 @@ return {
             [3] = 3,
         },
         round = 2,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 367,
         countLimit = 1,
         capacity = 3,
-        affixID = 367,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -667,16 +681,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471102,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_6.png",
+        levelName = 12035003,
         pictureOffset = {
             y = -10,
             x = 5,
         },
-        levelName = 12035003,
-        bossPicture = "ui/league/zljh/bosspicture/boss_6.png",
-        type = 8,
-        id = 471102,
         sTime = "2021-12-26 00:00:00",
-        battleTime = 600,
+        etimeutc = 1640674740,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -694,6 +712,7 @@ return {
     },
     [471106] = {
         roleSize = 0.35,
+        stimeutc = 1641193200,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -728,13 +747,10 @@ return {
             [3] = 3,
         },
         round = 6,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 384,
         countLimit = 1,
         capacity = 3,
-        affixID = 384,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -744,16 +760,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471106,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_10.png",
+        levelName = 12035007,
         pictureOffset = {
             y = 0,
             x = 5,
         },
-        levelName = 12035007,
-        bossPicture = "ui/league/zljh/bosspicture/boss_10.png",
-        type = 8,
-        id = 471106,
         sTime = "2022-1-3 00:00:00",
-        battleTime = 600,
+        etimeutc = 1641365940,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -771,6 +791,7 @@ return {
     },
     [471110] = {
         roleSize = 0.41,
+        stimeutc = 1641884400,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -805,13 +826,10 @@ return {
             [3] = 8,
         },
         round = 10,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 382,
         countLimit = 1,
         capacity = 3,
-        affixID = 382,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -821,16 +839,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471110,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_9.png",
+        levelName = 12035006,
         pictureOffset = {
             y = 5,
             x = 0,
         },
-        levelName = 12035006,
-        bossPicture = "ui/league/zljh/bosspicture/boss_9.png",
-        type = 8,
-        id = 471110,
         sTime = "2022-1-11 00:00:00",
-        battleTime = 600,
+        etimeutc = 1642057140,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -848,6 +870,7 @@ return {
     },
     [471114] = {
         roleSize = 0.35,
+        stimeutc = 1642575600,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -882,13 +905,10 @@ return {
             [3] = 8,
         },
         round = 14,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 384,
         countLimit = 1,
         capacity = 3,
-        affixID = 384,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -898,16 +918,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471114,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_10.png",
+        levelName = 12035007,
         pictureOffset = {
             y = 0,
             x = 5,
         },
-        levelName = 12035007,
-        bossPicture = "ui/league/zljh/bosspicture/boss_10.png",
-        type = 8,
-        id = 471114,
         sTime = "2022-1-19 00:00:00",
-        battleTime = 600,
+        etimeutc = 1642748340,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -925,6 +949,7 @@ return {
     },
     [471103] = {
         roleSize = 0.37,
+        stimeutc = 1640674800,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -959,13 +984,10 @@ return {
             [3] = 3,
         },
         round = 3,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 377,
         countLimit = 1,
         capacity = 3,
-        affixID = 377,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -975,16 +997,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471103,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_7.png",
+        levelName = 12035004,
         pictureOffset = {
             y = 0,
             x = 5,
         },
-        levelName = 12035004,
-        bossPicture = "ui/league/zljh/bosspicture/boss_7.png",
-        type = 8,
-        id = 471103,
         sTime = "2021-12-28 00:00:00",
-        battleTime = 600,
+        etimeutc = 1640847540,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -1002,6 +1028,7 @@ return {
     },
     [471107] = {
         roleSize = 0.34,
+        stimeutc = 1641366000,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -1036,13 +1063,10 @@ return {
             [3] = 2,
         },
         round = 7,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 367,
         countLimit = 1,
         capacity = 3,
-        affixID = 367,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -1052,16 +1076,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471107,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_6.png",
+        levelName = 12035003,
         pictureOffset = {
             y = -10,
             x = 5,
         },
-        levelName = 12035003,
-        bossPicture = "ui/league/zljh/bosspicture/boss_6.png",
-        type = 8,
-        id = 471107,
         sTime = "2022-1-5 00:00:00",
-        battleTime = 600,
+        etimeutc = 1641538740,
         secondReward = {
             medal = {
                 [500129] = 1,
@@ -1079,6 +1107,7 @@ return {
     },
     [471111] = {
         roleSize = 0.35,
+        stimeutc = 1642057200,
         reviveCost = {
             [1] = {
                 [500002] = 10,
@@ -1113,13 +1142,10 @@ return {
             [3] = 2,
         },
         round = 11,
-        lvlLimit = {
-            [1] = 1,
-            [2] = 99,
-        },
+        type = 8,
+        affixID = 384,
         countLimit = 1,
         capacity = 3,
-        affixID = 384,
         thirdReward = {
             medal = {
                 [500130] = 1,
@@ -1129,16 +1155,20 @@ return {
                 [570077] = 3,
             },
         },
+        id = 471111,
+        lvlLimit = {
+            [1] = 1,
+            [2] = 99,
+        },
+        battleTime = 600,
+        bossPicture = "ui/league/zljh/bosspicture/boss_10.png",
+        levelName = 12035007,
         pictureOffset = {
             y = 0,
             x = 5,
         },
-        levelName = 12035007,
-        bossPicture = "ui/league/zljh/bosspicture/boss_10.png",
-        type = 8,
-        id = 471111,
         sTime = "2022-1-13 00:00:00",
-        battleTime = 600,
+        etimeutc = 1642229940,
         secondReward = {
             medal = {
                 [500129] = 1,

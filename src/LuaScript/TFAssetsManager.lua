@@ -175,7 +175,9 @@ function TFAssetsManager:getAllCfgFileList()
 	allExtFileList[703] = 1;
 	allExtFileList[303] = 1;
 	allExtFileList[305] = 1;
+	allExtFileList[998] = 1;
 	allExtFileList[999] = 1;   --添加英文版补充资源
+	
 	-- if tonumber(TFDeviceInfo:getCurAppVersion()) >= 3.65 then
 	--     --下载默认分包999
 	-- 	allExtFileList[999] = 1;
@@ -395,6 +397,7 @@ function TFAssetsManager:downloadAssetsOfFunc(funcId,callback,isconfirm)
 	for k,v in pairs(funcAssetsList) do
 		checkList[v] = 1
 	end
+	checkList[998] = 1
 	checkList[999] = 1
 	
 	if extHeroCfg then
@@ -947,6 +950,7 @@ function TFAssetsManager:getDownLoadedAwbFiles( )
 	awbList2[703] = 703
 	awbList2[303] = 303
 	awbList2[305] = 305
+	awbList2[998] = 998
 	awbList2[999] = 999
 	for _,_awbId in pairs(awbList2) do
 		local localfilepath = string.format("%s%d.awb",self.extAssetsSavePath, _awbId)
