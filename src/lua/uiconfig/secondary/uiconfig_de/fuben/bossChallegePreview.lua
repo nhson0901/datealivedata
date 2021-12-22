@@ -538,8 +538,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "25",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_title",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -554,7 +554,7 @@ local t =
 													{
 														
 													},
-													width = "126",
+													width = "131",
 													ZOrder = "1",
 												},
 											},

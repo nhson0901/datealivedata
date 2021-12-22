@@ -503,11 +503,11 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 281,
+												PositionX = 253,
 												PositionY = -172,
 											},
 											UItype = "Button",
-											width = "142",
+											width = "180",
 											ZOrder = "1",
 											components = 
 											{
@@ -538,8 +538,8 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "25",
-													ignoreSize = "True",
+													height = "0",
+													ignoreSize = "False",
 													name = "Label_title",
 													nTextAlign = "1",
 													nTextHAlign = "1",
@@ -554,7 +554,7 @@ local t =
 													{
 														
 													},
-													width = "126",
+													width = "165",
 													ZOrder = "1",
 												},
 											},
@@ -586,7 +586,7 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 144,
+												PositionX = 81,
 												PositionY = -172,
 											},
 											UItype = "Button",

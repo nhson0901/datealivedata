@@ -27,6 +27,7 @@ function BossChallegePreview:initUI( ui )
 	self.Panel_flag_item = TFDirector:getChildByPath(self.Panel_prefabe,"Panel_flag_item")
 
 	self.Button_auto_match = TFDirector:getChildByPath(ui,"Button_auto_match")
+	self.Button_auto_match:getChildByName("Label_title"):setTextById(2100052)
 	self.Button_open_house = TFDirector:getChildByPath(ui,"Button_open_house")
 	self.Button_close = TFDirector:getChildByPath(ui,"Button_close")
 
