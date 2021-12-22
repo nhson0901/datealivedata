@@ -124,6 +124,7 @@ function PrefabDataMgr:updateStarListViewPos( item, starNum, distance )
     end
     for _,_node in ipairs(item.starNodeList) do
         _node:hide()
+        _node:setTexture("ui/common/star.png")
     end
     local totalStarWidth = Image_starItem:getContentSize().width*starNum - (MAXNUM - 1)*DISTANCE
     starScrollView:setContentSize(CCSizeMake(totalStarWidth, starScrollView:getContentSize().height))

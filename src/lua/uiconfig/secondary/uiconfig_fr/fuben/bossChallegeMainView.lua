@@ -1391,18 +1391,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "18",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_flag_desc",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1415,7 +1415,7 @@ local t =
 										PositionX = 40,
 										PositionY = 19,
 									},
-									width = "552",
+									width = "381",
 									ZOrder = "1",
 								},
 								{
@@ -1438,7 +1438,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 434,
+										PositionX = 444,
 										PositionY = 20,
 									},
 									width = "66",

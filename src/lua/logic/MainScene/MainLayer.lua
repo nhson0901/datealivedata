@@ -2001,7 +2001,9 @@ function MainLayer:registerEvents()
     --周年庆游乐园
     self.Button_Activity90:onClick(function()
         local activityInfo = ActivityDataMgr2:getActivityInfo(nil,90)[1]
-        FunctionDataMgr:enterByFuncId(activityInfo.extendData.jumpInterface,unpack(activityInfo.extendData.jumpParamters or {}))
+        if activityInfo then
+            FunctionDataMgr:enterByFuncId(activityInfo.extendData.jumpInterface,unpack(activityInfo.extendData.jumpParamters or {}))
+        end
     end)
 
      --英文版新的白往应援活动
