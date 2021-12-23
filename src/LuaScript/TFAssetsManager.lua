@@ -30,6 +30,11 @@ function TFAssetsManager:init( tag )
 	} --当前下载中的任务
 	self.priorityTasks_process = {speed = 0,completeSize = 0,totalsize = 0,cursize = 0,curtasksize = 0}
 	self.extAssetsCfg = TabDataMgr:getData("PackBranch")
+
+	local addPackIDs = {[1] = 998,}
+	table.insert(self.extAssetsCfg,{note = "遗漏资源小包",version = self.baseAppVersion, id = (#self.extAssetsCfg +1), triggerType = 21,extParam = {},packID = addPackIDs,})
+	dump(self.extAssetsCfg)
+
 	self.extAssetsSeriesCfg = {}
 	for k,v in pairs(self.extAssetsCfg) do
 		if self.extAssetsSeriesCfg[v.triggerType] == nil then
@@ -70,8 +75,8 @@ function TFAssetsManager:init( tag )
 
 	self.extListFileList = {}
 	for _,_url in ipairs(URL_REMOTE) do
-		table.insert(self.extListFileList, "extlist.json")
-		table.insert(self.extListFileList, "extlist.bin")
+		table.insert(self.extListFileList, "extlistinfo.json")
+		table.insert(self.extListFileList, "extlistinfo.bin")
 	end
 
 	if TFFileUtil:existFile(self.extAssetsSavePath) == false then
@@ -144,6 +149,10 @@ function TFAssetsManager:onRemoteListGot(bReTry)
 		self:retryGetRemoteList()
 		return
 	end
+
+	print("TFAssetsManager:onRemoteListGot")
+	dump(self.remoteListDict)
+
 	self:downloadAssetsNormal(true)
 	EventMgr:dispatchEvent(EV_EXT_ASSET_DOWNLOAD_EXTLIST)
 end
@@ -175,7 +184,6 @@ function TFAssetsManager:getAllCfgFileList()
 	allExtFileList[703] = 1;
 	allExtFileList[303] = 1;
 	allExtFileList[305] = 1;
-	allExtFileList[998] = 1;
 	allExtFileList[999] = 1;   --添加英文版补充资源
 	
 	-- if tonumber(TFDeviceInfo:getCurAppVersion()) >= 3.65 then
@@ -397,7 +405,6 @@ function TFAssetsManager:downloadAssetsOfFunc(funcId,callback,isconfirm)
 	for k,v in pairs(funcAssetsList) do
 		checkList[v] = 1
 	end
-	checkList[998] = 1
 	checkList[999] = 1
 	
 	if extHeroCfg then
@@ -950,7 +957,6 @@ function TFAssetsManager:getDownLoadedAwbFiles( )
 	awbList2[703] = 703
 	awbList2[303] = 303
 	awbList2[305] = 305
-	awbList2[998] = 998
 	awbList2[999] = 999
 	for _,_awbId in pairs(awbList2) do
 		local localfilepath = string.format("%s%d.awb",self.extAssetsSavePath, _awbId)
