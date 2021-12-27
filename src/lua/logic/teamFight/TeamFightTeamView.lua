@@ -867,7 +867,7 @@ function TeamFightTeamView:initCommonPart()
     btn_bg:onClick(function()
         if TeamFightDataMgr:isAutoMatching() == true then
             if TFLanguageMgr:getUsingLanguage() == cc.FRENCH then
-                self.commonWidget["leader"]["img_on"]:setPosition(me.p(40,0))
+                self.commonWidget["leader"]["img_on"]:setPosition(me.p(50,0))
             elseif TFLanguageMgr:getUsingLanguage() == cc.SPANISH then
                 self.commonWidget["leader"]["img_on"]:setPosition(me.p(44,0))
             else
@@ -876,7 +876,7 @@ function TeamFightTeamView:initCommonPart()
             TeamFightDataMgr:requestChangeTeamStatus(1)
         else
             if TFLanguageMgr:getUsingLanguage() == cc.FRENCH then
-                self.commonWidget["leader"]["img_on"]:setPosition(me.p(-40,0))
+                self.commonWidget["leader"]["img_on"]:setPosition(me.p(-50,0))
             elseif TFLanguageMgr:getUsingLanguage() == cc.SPANISH then
                 self.commonWidget["leader"]["img_on"]:setPosition(me.p(-44,0))
             else

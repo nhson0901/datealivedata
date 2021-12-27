@@ -4453,7 +4453,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 312,
+								PositionX = 551,
 								PositionY = 523,
 							},
 							uipanelviewmodel = 
@@ -4615,7 +4615,7 @@ local t =
 									controlID = "Label_title_Panel_auto_ready_Panel_root_Panel-teamMatchView_Layer1_teamFight_Game",
 									UUID = "91d41582_db66_4c1c_b010_fbc5756d502a",
 									anchorPoint = "False",
-									anchorPointX = "0.5",
+									anchorPointX = "1",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -4630,18 +4630,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "13",
+									fontSize = "16",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "15",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_title",
-									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextAlign = "2",
+									nTextHAlign = "2",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -4651,10 +4651,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 38,
+										PositionX = 77,
 										PositionY = 18,
 									},
-									width = "106",
+									width = "112",
 									ZOrder = "1",
 								},
 								{
@@ -5227,7 +5227,7 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 668,
+								PositionX = 640,
 								PositionY = 542,
 							},
 							width = "42",

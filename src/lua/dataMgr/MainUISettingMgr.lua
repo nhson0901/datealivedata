@@ -126,6 +126,10 @@ function MainUISettingMgr:getoldui()
 	return self.oldId
 end
 
+function MainUISettingMgr:setOldUi( id )
+	self.oldId = id
+end
+
 function MainUISettingMgr:getCurUiCfg()
 	local tb = TabDataMgr:getData("Uichange", self.currentId)
 	return tb

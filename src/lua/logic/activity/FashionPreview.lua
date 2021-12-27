@@ -24,7 +24,7 @@ function FashionPreview:initUI(ui)
 	self.Image_fashion		= TFDirector:getChildByPath(ui,"Image_fashion")
 
 	self.fashionName	= TFDirector:getChildByPath(ui,"Label_title_en")
-	self.fashionName:setText(self.skinData.des)
+	self.fashionName:setTextById(self.skinData.nameTextId)
 	
 	local modelAnimation = Utils:createHeroModelByModelId(self.skinData.paint, 0.35)--SkeletonAnimation:create(self.modelCfg.paint)
 	self.Image_fashion:addChild(modelAnimation)

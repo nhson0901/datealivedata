@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -170,7 +170,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "37",
+									height = "34",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -187,7 +187,7 @@ local t =
 										PositionX = -174,
 										PositionY = 113,
 									},
-									width = "63",
+									width = "62",
 									ZOrder = "1",
 								},
 								{
@@ -492,14 +492,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "本次登陆不再提示",
+											text = "다시 보지 않기",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -2,
 											},
-											width = "194",
+											width = "140",
 											ZOrder = "1",
 										},
 									},

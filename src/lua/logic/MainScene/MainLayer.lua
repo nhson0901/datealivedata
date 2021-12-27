@@ -3333,6 +3333,7 @@ function MainLayer:onShow()
     end
 	
 	if self.showRffect then
+        MainUISettingMgr:setOldUi(MainUISettingMgr:getui())
 		local changeEffect = SkeletonAnimation:create("effect/effect_WK_zhuanchang/effect_WK_zhuanchang")
         changeEffect:hide()
         changeEffect:setPosition(ccp(GameConfig.WS.width*0.5,GameConfig.WS.height*0.5))

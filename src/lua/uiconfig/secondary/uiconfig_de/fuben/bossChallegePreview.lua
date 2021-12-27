@@ -1269,7 +1269,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "70",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_flag",
 											nTextAlign = "1",

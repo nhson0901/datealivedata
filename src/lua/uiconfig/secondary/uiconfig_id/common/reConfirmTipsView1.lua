@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -170,7 +170,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "37",
+									height = "34",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -187,7 +187,7 @@ local t =
 										PositionX = -174,
 										PositionY = 113,
 									},
-									width = "63",
+									width = "62",
 									ZOrder = "1",
 								},
 								{
@@ -435,11 +435,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "38",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_select_di-Copy1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -449,10 +449,10 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 14,
+										PositionX = 47,
 										PositionY = -90,
 									},
-									width = "289",
+									width = "362",
 									ZOrder = "1",
 									components = 
 									{
@@ -492,14 +492,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "本次登陆不再提示",
+											text = "Jangan tampilkan lagi di login kali ini",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -2,
 											},
-											width = "194",
+											width = "350",
 											ZOrder = "1",
 										},
 									},

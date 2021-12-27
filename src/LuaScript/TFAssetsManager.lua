@@ -31,9 +31,8 @@ function TFAssetsManager:init( tag )
 	self.priorityTasks_process = {speed = 0,completeSize = 0,totalsize = 0,cursize = 0,curtasksize = 0}
 	self.extAssetsCfg = TabDataMgr:getData("PackBranch")
 
-	local addPackIDs = {[1] = 998,}
+	local addPackIDs = {[1] = 998}
 	table.insert(self.extAssetsCfg,{note = "遗漏资源小包",version = self.baseAppVersion, id = (#self.extAssetsCfg +1), triggerType = 21,extParam = {},packID = addPackIDs,})
-	dump(self.extAssetsCfg)
 
 	self.extAssetsSeriesCfg = {}
 	for k,v in pairs(self.extAssetsCfg) do
@@ -149,9 +148,6 @@ function TFAssetsManager:onRemoteListGot(bReTry)
 		self:retryGetRemoteList()
 		return
 	end
-
-	print("TFAssetsManager:onRemoteListGot")
-	dump(self.remoteListDict)
 
 	self:downloadAssetsNormal(true)
 	EventMgr:dispatchEvent(EV_EXT_ASSET_DOWNLOAD_EXTLIST)
