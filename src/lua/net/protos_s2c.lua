@@ -4986,8 +4986,8 @@ local tblProto = {
 	[3330] = function()
 		return {
 			{"net.NetHelper", "receive"},
-			{{false,{'v4', 'v4', {true,{'v4', 'v4', }},'v4', }},},
-			{{false,{'composeInfo','cid', 'finishTime', {true,{'items','id', 'num', }},'costTime', }},}
+			{{true,{'v4', 'v4', {true,{'v4', 'v4', }},'v4', }},},
+			{{true,{'composeInfo','cid', 'finishTime', {true,{'items','id', 'num', }},'costTime', }},}
 		}
 	end,
 	[2063] = function()

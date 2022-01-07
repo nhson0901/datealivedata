@@ -3,7 +3,7 @@ local AddRechargeActivityView = class("AddRechargeActivityView", BaseLayer)
 function AddRechargeActivityView:ctor(...)
     self.super.ctor(self)
     self:initData(...)
-    local uiName = self.activityInfo_.extendData.uiName or "addRechargeActivityView_tong"
+    local uiName = self.activityInfo_.extendData.uiName or "addRechargeActivityView"
     dump(self.activityInfo_,"==========================")
     self:init("lua.uiconfig.activity."..uiName)
 end

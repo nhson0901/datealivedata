@@ -109,7 +109,7 @@ function GoogleAssetPackLayer:checkAssetPackStatus( )
 end
 
 function GoogleAssetPackLayer:displayDefault( assetPackName )
-    self.tipLabel:setText(self.strCfg[190000138].text)
+    self.tipLabel:setText(self.strCfg[190000138].text .."(google)")
     self.percentLabel:hide()
     self.loadingBar:setPercent(0)
     self.loadingBar:hide()

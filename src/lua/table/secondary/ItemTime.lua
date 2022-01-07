@@ -79,6 +79,11 @@ return {
         limitData = 21600,
         id = 699061,
     },
+    [580362] = {
+        limitType = 2,
+        limitData = 1643569200,
+        id = 580362,
+    },
     [520260] = {
         limitType = 1,
         limitData = 43200,

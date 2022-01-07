@@ -46,8 +46,8 @@ function LoginScene:showVideoView(re)
 		videoPth1 = "video/loginPart4.mp4"
 		videoPth2 = "video/loginPart5.mp4"
 	else
-		videoPth1 = "video/loginPart3.mp4"
-		videoPth2 = "video/loginPart3_1.mp4"
+		videoPth1 = "video/loginPart1_1.mp4"
+		videoPth2 = "video/loginPart2_1.mp4"
 	end
 	
 

@@ -4914,10 +4914,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -568,
-								PositionY = -320,
+								PositionY = -269,
 								IsPercent = true,
 								PercentX = -50,
-								PercentY = -50,
+								PercentY = -42,
 							},
 							uipanelviewmodel = 
 							{
@@ -5323,8 +5323,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 341,
-								PositionY = -256,
+								PositionX = 210,
+								PositionY = -286,
 							},
 							UItype = "Button",
 							width = "120",
@@ -5402,8 +5402,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 474,
-								PositionY = -257,
+								PositionX = 350,
+								PositionY = -286,
 							},
 							UItype = "Button",
 							width = "120",
@@ -5447,6 +5447,85 @@ local t =
 									sizeType = "0",
 									srcBlendFunc = "770",
 									text = "Klaim semua",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										
+									},
+									width = "120",
+									ZOrder = "1",
+								},
+							},
+						},
+						{
+							controlID = "Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+							UUID = "9bb97733_b3c8_4149_a8a3_c2e5df32a77d",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+							classname = "MEButton",
+							ClickHighLightEnabled = "True",
+							dstBlendFunc = "771",
+							flipX = "False",
+							flipY = "False",
+							height = "56",
+							ignoreSize = "False",
+							name = "Button_one_key_compose",
+							normal = "ui/common/button09.png",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = 490,
+								PositionY = -286,
+							},
+							UItype = "Button",
+							width = "120",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "Label_onekey_Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+									UUID = "ca38d3b0_d0e2_4d62_8053_567ad3bab559",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									classname = "MELabel",
+									compPath = "luacomponents.common.MEIconLabel",
+									dstBlendFunc = "771",
+									FontColor = "#FFFFFFFF",
+									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "24",
+									fontStroke = 
+									{
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
+									},
+									height = "0",
+									ignoreSize = "False",
+									name = "Label_onekey",
+									nTextAlign = "1",
+									nTextHAlign = "1",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "Quick Pray",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -5771,7 +5850,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 306,
+														PositionX = 399,
 														PositionY = 1,
 														IsPercent = true,
 														PercentX = 104.76,

@@ -113,32 +113,6 @@ local t =
 							ZOrder = "1",
 						},
 						{
-							controlID = "Image_summonComposeView_1_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
-							UUID = "9aec4acf_c301_47b3_aeba_81ba67f79017",
-							anchorPoint = "False",
-							anchorPointX = "0.5",
-							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
-							classname = "MEImage",
-							dstBlendFunc = "771",
-							height = "640",
-							ignoreSize = "True",
-							name = "Image_summonComposeView_1",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "770",
-							texturePath = "ui/summon/new_ui/祈愿02.jpg",
-							touchAble = "False",
-							UILayoutViewModel = 
-							{
-								
-							},
-							visible = "False",
-							width = "1386",
-							ZOrder = "1",
-						},
-						{
 							controlID = "Spine_summonCompose_bg_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
 							UUID = "0ea9a2f0_91a3_46c8_93a6_f46285bac84c",
 							classname = "MESpine",
@@ -4940,10 +4914,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -568,
-								PositionY = -320,
+								PositionY = -269,
 								IsPercent = true,
 								PercentX = -50,
-								PercentY = -50,
+								PercentY = -42,
 							},
 							uipanelviewmodel = 
 							{
@@ -5349,8 +5323,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 341,
-								PositionY = -256,
+								PositionX = 210,
+								PositionY = -286,
 							},
 							UItype = "Button",
 							width = "120",
@@ -5428,8 +5402,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 474,
-								PositionY = -257,
+								PositionX = 350,
+								PositionY = -286,
 							},
 							UItype = "Button",
 							width = "120",
@@ -5473,6 +5447,85 @@ local t =
 									sizeType = "0",
 									srcBlendFunc = "770",
 									text = "Récupération rapide",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										
+									},
+									width = "119",
+									ZOrder = "1",
+								},
+							},
+						},
+						{
+							controlID = "Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+							UUID = "1fda252f_a293_43ce_876a_126260fdcca1",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+							classname = "MEButton",
+							ClickHighLightEnabled = "True",
+							dstBlendFunc = "771",
+							flipX = "False",
+							flipY = "False",
+							height = "56",
+							ignoreSize = "False",
+							name = "Button_one_key_compose",
+							normal = "ui/common/button09.png",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = 490,
+								PositionY = -286,
+							},
+							UItype = "Button",
+							width = "120",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "Label_onekey_Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+									UUID = "318297ad_ea09_44b1_8368_93b54f2ad665",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									classname = "MELabel",
+									compPath = "luacomponents.common.MEIconLabel",
+									dstBlendFunc = "771",
+									FontColor = "#FFFFFFFF",
+									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "20",
+									fontStroke = 
+									{
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
+									},
+									height = "0",
+									ignoreSize = "False",
+									name = "Label_onekey",
+									nTextAlign = "1",
+									nTextHAlign = "1",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "Quick Pray",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -5681,7 +5734,7 @@ local t =
 												PositionX = 6,
 												PositionY = 240,
 											},
-											width = "173",
+											width = "195",
 											ZOrder = "1",
 										},
 										{
@@ -5728,7 +5781,7 @@ local t =
 												PositionY = 217,
 											},
 											visible = "False",
-											width = "59",
+											width = "55",
 											ZOrder = "1",
 										},
 										{
@@ -5799,8 +5852,8 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 393,
-														PositionY = 11,
+														PositionX = 394,
+														PositionY = 12,
 														IsPercent = true,
 														PercentX = 104.76,
 														PercentY = 61.59,
@@ -5985,7 +6038,7 @@ local t =
 														PositionX = 2,
 														PositionY = 3,
 													},
-													width = "197",
+													width = "217",
 													ZOrder = "1",
 												},
 												{
@@ -6032,7 +6085,7 @@ local t =
 														PositionY = -11,
 													},
 													visible = "False",
-													width = "137",
+													width = "125",
 													ZOrder = "1",
 												},
 											},
@@ -6080,7 +6133,7 @@ local t =
 												PositionX = 206,
 												PositionY = 43,
 											},
-											width = "111",
+											width = "107",
 											ZOrder = "1",
 										},
 										{
@@ -6424,7 +6477,7 @@ local t =
 											{
 												PositionX = 38,
 											},
-											width = "32",
+											width = "36",
 											ZOrder = "1",
 										},
 									},
@@ -6502,7 +6555,7 @@ local t =
 									{
 										PositionX = -207,
 									},
-									width = "253",
+									width = "236",
 									ZOrder = "1",
 								},
 							},
@@ -6581,7 +6634,7 @@ local t =
 									{
 										PositionY = -40,
 									},
-									width = "60",
+									width = "56",
 									ZOrder = "1",
 								},
 							},
@@ -6913,7 +6966,7 @@ local t =
 									{
 										PositionY = -38,
 									},
-									width = "36",
+									width = "30",
 									ZOrder = "1",
 								},
 							},
@@ -7135,7 +7188,7 @@ local t =
 										PositionX = 54,
 										PositionY = -75,
 									},
-									width = "31",
+									width = "36",
 									ZOrder = "1",
 								},
 								{
@@ -7181,7 +7234,7 @@ local t =
 										PositionX = 54,
 										PositionY = -92,
 									},
-									width = "34",
+									width = "35",
 									ZOrder = "1",
 								},
 								{
@@ -7227,7 +7280,7 @@ local t =
 										PositionX = -35,
 										PositionY = 85,
 									},
-									width = "19",
+									width = "21",
 									ZOrder = "1",
 									components = 
 									{
@@ -7272,13 +7325,13 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 20,
+												PositionX = 22,
 												PositionY = 2,
 												IsPercent = true,
 												PercentX = 103,
 												PercentY = 16,
 											},
-											width = "38",
+											width = "39",
 											ZOrder = "1",
 										},
 									},
@@ -7552,7 +7605,6 @@ local t =
 		textures = 
 		{
 			"ui/summon/new_ui/bg.png",
-			"ui/summon/new_ui/祈愿02.jpg",
 			"ui/summon/new_ui/b001.png",
 			"ui/summon/new_ui/a001.png",
 			"ui/summon/new_ui/b003.png",

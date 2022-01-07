@@ -72,9 +72,6 @@ function EquipmentInfo:initUI(ui)
         self.Button_recycle:setVisible(false)
     end
 
-    --暂时屏蔽质点回收
-    self.Button_recycle:hide()
-
     self.equipsPageView = TFDirector:getChildByPath(ui,"PageView_Equip");
     self.Panel_di       = TFDirector:getChildByPath(ui,"Panel_di");
     self.Panel_equip    = TFDirector:getChildByPath(ui,"Panel_equip"):show();

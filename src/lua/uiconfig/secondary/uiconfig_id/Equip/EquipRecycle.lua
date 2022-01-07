@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -520,7 +520,7 @@ local t =
 												PositionX = 93,
 												PositionY = 43,
 											},
-											width = "52",
+											width = "50",
 											ZOrder = "1",
 										},
 									},
@@ -530,12 +530,12 @@ local t =
 									UUID = "8d3315bf_4250_4c35_b7af_0668ef682f07",
 									anchorPoint = "False",
 									anchorPointX = "0",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
 									FontColor = "#FFFFFFFF",
-									fontName = "phanta.ttf",
+									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
 										IsShadow = false,
@@ -551,11 +551,11 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_right_title",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -566,9 +566,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 224,
-										PositionY = 570,
+										PositionY = 555,
 									},
-									width = "227",
+									width = "247",
 									ZOrder = "1",
 								},
 								{
@@ -883,7 +883,7 @@ local t =
 												PositionX = 93,
 												PositionY = 43,
 											},
-											width = "52",
+											width = "50",
 											ZOrder = "1",
 										},
 									},
@@ -894,14 +894,14 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEButton",
 									ClickHighLightEnabled = "True",
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
 									height = "58",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Button_change",
 									normal = "ui/Equipment/new_ui/btnBlue.png",
 									pressed = "ui/Equipment/new_ui/btnBlue.png",
@@ -916,7 +916,7 @@ local t =
 										PositionY = 127,
 									},
 									UItype = "Button",
-									width = "134",
+									width = "153",
 									ZOrder = "1",
 									components = 
 									{
@@ -963,7 +963,7 @@ local t =
 											{
 												
 											},
-											width = "141",
+											width = "139",
 											ZOrder = "1",
 										},
 									},
@@ -973,12 +973,12 @@ local t =
 									UUID = "7ef0e412_7bde_4f21_a2a1_3117d4f5dd44",
 									anchorPoint = "False",
 									anchorPointX = "0",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
 									FontColor = "#FFFFFFFF",
-									fontName = "phanta.ttf",
+									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
 										IsShadow = false,
@@ -994,11 +994,11 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_left_title",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1009,9 +1009,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 18,
-										PositionY = 570,
+										PositionY = 555,
 									},
-									width = "219",
+									width = "247",
 									ZOrder = "1",
 								},
 								{
@@ -1327,7 +1327,7 @@ local t =
 													{
 														PositionX = -49,
 													},
-													width = "37",
+													width = "40",
 													ZOrder = "1",
 												},
 											},
@@ -1833,7 +1833,7 @@ local t =
 													{
 														PositionX = -49,
 													},
-													width = "37",
+													width = "40",
 													ZOrder = "1",
 												},
 											},
@@ -2441,7 +2441,7 @@ local t =
 														PositionX = -37,
 														PositionY = -3,
 													},
-													width = "17",
+													width = "19",
 													ZOrder = "1",
 													components = 
 													{
@@ -2486,13 +2486,13 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 18,
+																PositionX = 20,
 																PositionY = 2,
 																IsPercent = true,
 																PercentX = 103,
 																PercentY = 16,
 															},
-															width = "23",
+															width = "22",
 															ZOrder = "1",
 														},
 													},
@@ -2944,7 +2944,7 @@ local t =
 														PositionX = -37,
 														PositionY = -3,
 													},
-													width = "17",
+													width = "19",
 													ZOrder = "1",
 													components = 
 													{
@@ -2989,13 +2989,13 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 18,
+																PositionX = 20,
 																PositionY = 2,
 																IsPercent = true,
 																PercentX = 103,
 																PercentY = 16,
 															},
-															width = "23",
+															width = "22",
 															ZOrder = "1",
 														},
 													},
@@ -3282,8 +3282,8 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "25",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "Label_recycle_tips",
 							nTextAlign = "1",
 							nTextHAlign = "1",
@@ -3297,9 +3297,9 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 562,
-								PositionY = 106,
+								PositionY = 105,
 							},
-							width = "684",
+							width = "471",
 							ZOrder = "1",
 						},
 						{
@@ -3445,7 +3445,7 @@ local t =
 												PositionY = -20,
 											},
 											vAlignment = "0",
-											width = "197",
+											width = "220",
 											ZOrder = "1",
 										},
 										{
@@ -3489,7 +3489,7 @@ local t =
 												PositionY = -47,
 											},
 											vAlignment = "0",
-											width = "71",
+											width = "69",
 											ZOrder = "1",
 										},
 									},

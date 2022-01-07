@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -335,7 +335,7 @@ local t =
 											{
 												
 											},
-											width = "106",
+											width = "101",
 											ZOrder = "1",
 										},
 									},
@@ -520,7 +520,7 @@ local t =
 												PositionX = 93,
 												PositionY = 43,
 											},
-											width = "44",
+											width = "43",
 											ZOrder = "1",
 										},
 									},
@@ -530,7 +530,7 @@ local t =
 									UUID = "8d3315bf_4250_4c35_b7af_0668ef682f07",
 									anchorPoint = "False",
 									anchorPointX = "0",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -544,18 +544,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "17",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_right_title",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -566,9 +566,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 223,
-										PositionY = 571,
+										PositionY = 556,
 									},
-									width = "231",
+									width = "248",
 									ZOrder = "1",
 								},
 								{
@@ -883,7 +883,7 @@ local t =
 												PositionX = 93,
 												PositionY = 43,
 											},
-											width = "44",
+											width = "43",
 											ZOrder = "1",
 										},
 									},
@@ -973,7 +973,7 @@ local t =
 									UUID = "7ef0e412_7bde_4f21_a2a1_3117d4f5dd44",
 									anchorPoint = "False",
 									anchorPointX = "0",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -987,18 +987,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "17",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_left_title",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1009,9 +1009,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 18,
-										PositionY = 570,
+										PositionY = 556,
 									},
-									width = "226",
+									width = "248",
 									ZOrder = "1",
 								},
 								{
@@ -1327,7 +1327,7 @@ local t =
 													{
 														PositionX = -49,
 													},
-													width = "42",
+													width = "44",
 													ZOrder = "1",
 												},
 											},
@@ -1833,7 +1833,7 @@ local t =
 													{
 														PositionX = -49,
 													},
-													width = "42",
+													width = "44",
 													ZOrder = "1",
 												},
 											},
@@ -2228,7 +2228,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "24",
+									height = "26",
 									ignoreSize = "True",
 									name = "Label_recycle_name",
 									nTextAlign = "1",
@@ -2245,7 +2245,7 @@ local t =
 										PositionX = 185,
 										PositionY = 167,
 									},
-									width = "107",
+									width = "74",
 									ZOrder = "1",
 								},
 								{
@@ -2441,7 +2441,7 @@ local t =
 														PositionX = -37,
 														PositionY = -3,
 													},
-													width = "18",
+													width = "19",
 													ZOrder = "1",
 													components = 
 													{
@@ -2472,7 +2472,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "22",
+															height = "21",
 															ignoreSize = "True",
 															name = "Label_lv",
 															nTextAlign = "1",
@@ -2486,13 +2486,13 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 19,
+																PositionX = 20,
 																PositionY = 2,
 																IsPercent = true,
 																PercentX = 103,
 																PercentY = 16,
 															},
-															width = "25",
+															width = "22",
 															ZOrder = "1",
 														},
 													},
@@ -2944,7 +2944,7 @@ local t =
 														PositionX = -37,
 														PositionY = -3,
 													},
-													width = "18",
+													width = "19",
 													ZOrder = "1",
 													components = 
 													{
@@ -2975,7 +2975,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "22",
+															height = "21",
 															ignoreSize = "True",
 															name = "Label_lv",
 															nTextAlign = "1",
@@ -2989,13 +2989,13 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 19,
+																PositionX = 20,
 																PositionY = 2,
 																IsPercent = true,
 																PercentX = 103,
 																PercentY = 16,
 															},
-															width = "25",
+															width = "22",
 															ZOrder = "1",
 														},
 													},
@@ -3275,7 +3275,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "15",
+							fontSize = "22",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -3429,7 +3429,7 @@ local t =
 												StrokeSize = 1,
 											},
 											hAlignment = "0",
-											height = "33",
+											height = "32",
 											ignoreSize = "True",
 											name = "TextArea_title",
 											sizepercentx = "0",
@@ -3445,7 +3445,7 @@ local t =
 												PositionY = -20,
 											},
 											vAlignment = "0",
-											width = "212",
+											width = "220",
 											ZOrder = "1",
 										},
 										{
@@ -3489,7 +3489,7 @@ local t =
 												PositionY = -47,
 											},
 											vAlignment = "0",
-											width = "71",
+											width = "69",
 											ZOrder = "1",
 										},
 									},

@@ -109,9 +109,25 @@ function SummonComposeView:updateOneKey()
             isShowOneKey = SummonDataMgr:isCanReceiveComposeReward(k)
         end
     end
+    self._ui.Button_one_key_compose:setVisible(SummonDataMgr:isCanOneKeyCompose())
+    self._ui.Button_onekeyComplete:setVisible(SummonDataMgr:isHaveNotCommplete() and SummonDataMgr:isCanFreeAllApeedUp())
     self._ui.Button_onekey:setVisible(isShowOneKey);
-
-    self.Button_onekeyComplete:setVisible(SummonDataMgr:isHaveNotCommplete() and SummonDataMgr:isCanFreeAllApeedUp())
+    
+    if self._ui.Button_one_key_compose:isVisible() then
+        if self._ui.Button_onekeyComplete:isVisible() then
+            self._ui.Button_onekeyComplete:setPositionX(350)
+            self._ui.Button_onekey:setPositionX(210)
+        else
+            self._ui.Button_onekey:setPositionX(350)
+        end
+    else
+        if self._ui.Button_onekeyComplete:isVisible() then
+            self._ui.Button_onekeyComplete:setPositionX(490)
+            self._ui.Button_onekey:setPositionX(350)
+        else
+            self._ui.Button_onekey:setPositionX(490)
+        end
+    end
 end
 
 function SummonComposeView:updatePointItem(pointType)
@@ -387,6 +403,10 @@ function SummonComposeView:registerEvents()
     self.Button_onekeyComplete:onClick(function()
         SummonDataMgr:send_SUMMON_COMPOSE_SPEED(0)
     end)
+
+    self._ui.Button_one_key_compose:onClick(function ()
+        SummonDataMgr:send_SUMMON_COMPOSE_SUMMON(0)
+    end)
 end
 
 function SummonComposeView:onShow( )
@@ -394,7 +414,7 @@ function SummonComposeView:onShow( )
     self:refreshView()
 end
 
-function SummonComposeView:onComposeUpdateEvent(pointType)
+function SummonComposeView:onComposeUpdateEvent()
     for k, v in pairs(self.Panel_site) do
         self:updatePointItem(k)
     end
@@ -409,6 +429,7 @@ function SummonComposeView:onComposeReceiveEvent(pointType, reward)
         self:updatePointItem(k)
     end
     self:updatePointInfo()
+    self:updateOneKey()
     local voideoView = Utils:openView("common.VideoView", "video/summon.mp4")
     voideoView:bindEndCallBack(function()
         Utils:openView("summon.SummonResultView", reward or {}, true)

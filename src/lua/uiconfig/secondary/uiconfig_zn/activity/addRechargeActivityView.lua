@@ -141,6 +141,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 148,
+										PositionY = -61,
 									},
 									uipanelviewmodel = 
 									{
@@ -358,7 +359,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 294,
-										PositionY = -184,
+										PositionY = -210,
 									},
 									UItype = "Button",
 									width = "262",

@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -584,7 +584,7 @@ local t =
 												TopPosition = 556,
 												relativeToName = "Panel_equip",
 											},
-											width = "24",
+											width = "23",
 											ZOrder = "1",
 										},
 										{
@@ -1113,7 +1113,7 @@ local t =
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
 											FontColor = "#FFFFFFFF",
-											fontName = "phanta.ttf",
+											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
 												IsShadow = false,
@@ -1129,11 +1129,11 @@ local t =
 												StrokeColor = "#FF303746",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_attrName",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1146,7 +1146,7 @@ local t =
 												PositionX = -68,
 												PositionY = 26,
 											},
-											width = "0",
+											width = "231",
 											ZOrder = "1",
 										},
 										{
@@ -1637,7 +1637,7 @@ local t =
 												PositionX = 8,
 												PositionY = -20,
 											},
-											width = "77",
+											width = "76",
 											ZOrder = "1",
 										},
 									},
@@ -1852,7 +1852,7 @@ local t =
 												PositionX = 51,
 												PositionY = 15,
 											},
-											width = "16",
+											width = "15",
 											ZOrder = "1",
 										},
 										{
@@ -3013,7 +3013,7 @@ local t =
 												PositionX = -38,
 												PositionY = -3,
 											},
-											width = "17",
+											width = "19",
 											ZOrder = "1",
 											components = 
 											{
@@ -3058,7 +3058,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 18,
+														PositionX = 20,
 														PositionY = 3,
 														IsPercent = true,
 														PercentX = 105,
@@ -3114,7 +3114,7 @@ local t =
 										PositionX = 48,
 										PositionY = 37,
 									},
-									width = "27",
+									width = "26",
 									ZOrder = "1",
 								},
 								{

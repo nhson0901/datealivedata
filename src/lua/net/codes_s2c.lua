@@ -12091,7 +12091,7 @@ s2c.NEW_BUILDING_GET_GASHAPON_INFO = 2062
 
 --[[
 	[1] = {--ComposeSummon
-		[1] = {--ComposeInfo
+		[1] = {--repeated ComposeInfo
 			[1] = 'int32':cid	[合成配置id]
 			[2] = 'int32':finishTime	[完成时间]
 			[3] = {--repeated RewardsMsg

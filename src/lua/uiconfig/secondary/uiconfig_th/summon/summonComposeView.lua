@@ -4914,10 +4914,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -568,
-								PositionY = -320,
+								PositionY = -269,
 								IsPercent = true,
 								PercentX = -50,
-								PercentY = -50,
+								PercentY = -42,
 							},
 							uipanelviewmodel = 
 							{
@@ -5323,8 +5323,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 312,
-								PositionY = -256,
+								PositionX = 174,
+								PositionY = -286,
 							},
 							UItype = "Button",
 							width = "181",
@@ -5402,8 +5402,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 474,
-								PositionY = -257,
+								PositionX = 348,
+								PositionY = -286,
 							},
 							UItype = "Button",
 							width = "120",
@@ -5454,6 +5454,85 @@ local t =
 										
 									},
 									width = "86",
+									ZOrder = "1",
+								},
+							},
+						},
+						{
+							controlID = "Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+							UUID = "c8e7a130_684e_488d_b966_21b968385613",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+							classname = "MEButton",
+							ClickHighLightEnabled = "True",
+							dstBlendFunc = "771",
+							flipX = "False",
+							flipY = "False",
+							height = "56",
+							ignoreSize = "False",
+							name = "Button_one_key_compose",
+							normal = "ui/common/button09.png",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = 492,
+								PositionY = -286,
+							},
+							UItype = "Button",
+							width = "120",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "Label_onekey_Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+									UUID = "dfb345e9_8d54_469a_925f_d4fe7b2c4124",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									classname = "MELabel",
+									compPath = "luacomponents.common.MEIconLabel",
+									dstBlendFunc = "771",
+									FontColor = "#FFFFFFFF",
+									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "24",
+									fontStroke = 
+									{
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
+									},
+									height = "27",
+									ignoreSize = "True",
+									name = "Label_onekey",
+									nTextAlign = "1",
+									nTextHAlign = "1",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "Quick Pray",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										
+									},
+									width = "111",
 									ZOrder = "1",
 								},
 							},
@@ -6396,7 +6475,7 @@ local t =
 											{
 												PositionX = 38,
 											},
-											width = "32",
+											width = "36",
 											ZOrder = "1",
 										},
 									},
@@ -6474,7 +6553,7 @@ local t =
 									{
 										PositionX = -207,
 									},
-									width = "163",
+									width = "162",
 									ZOrder = "1",
 								},
 							},
@@ -6885,7 +6964,7 @@ local t =
 									{
 										PositionY = -38,
 									},
-									width = "36",
+									width = "30",
 									ZOrder = "1",
 								},
 							},
@@ -6982,7 +7061,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -4,
+												PositionX = 1,
 												PositionY = 2,
 											},
 											ZOrder = "1",
@@ -7199,7 +7278,7 @@ local t =
 										PositionX = -35,
 										PositionY = 85,
 									},
-									width = "17",
+									width = "19",
 									ZOrder = "1",
 									components = 
 									{
@@ -7244,7 +7323,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 18,
+												PositionX = 20,
 												PositionY = 2,
 												IsPercent = true,
 												PercentX = 103,

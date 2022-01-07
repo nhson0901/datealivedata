@@ -377,6 +377,15 @@ function SummonDataMgr:isCanCompose(pointType)
     return isAllEnough
 end
 
+function SummonDataMgr:isCanOneKeyCompose()
+    for k, v in pairs(self.summonCompose_) do
+        if not self:getSummonComposeInfo(k) and (self:isCanCompose(k)) then
+            return true
+        end
+    end
+    return false
+end
+
 function SummonDataMgr:isComposing(pointType)
     local composeInfo = self:getSummonComposeInfo(pointType)
     local isCompose = false
@@ -1006,9 +1015,11 @@ end
 function SummonDataMgr:onRecvComposeSummon(event)
     local data = event.data
     if not data.composeInfo then return end
-    local cfg = self:getSummonComposeCfg(data.composeInfo.cid)
-    self.summonComposeInfo_[cfg.zPointType] = data.composeInfo
-    EventMgr:dispatchEvent(EV_SUMMON_COMPOSE_UPDATE, cfg.zPointType)
+    for i, v in ipairs(data.composeInfo) do
+        local cfg = self:getSummonComposeCfg(v.cid)
+        self.summonComposeInfo_[cfg.zPointType] = v
+    end
+    EventMgr:dispatchEvent(EV_SUMMON_COMPOSE_UPDATE)
 end
 
 function SummonDataMgr:onRecvSpeedCompose(event)
@@ -1028,7 +1039,7 @@ function SummonDataMgr:onRecvComposeFinish(event)
     local data = event.data
     for i, v in ipairs(data.cid) do
         local cfg = self:getSummonComposeCfg(v)
-        EventMgr:dispatchEvent(EV_SUMMON_COMPOSE_UPDATE, cfg.zPointType)
+        EventMgr:dispatchEvent(EV_SUMMON_COMPOSE_UPDATE)
     end
 end
 

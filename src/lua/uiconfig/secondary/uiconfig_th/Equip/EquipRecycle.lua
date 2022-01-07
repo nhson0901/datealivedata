@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -335,7 +335,7 @@ local t =
 											{
 												
 											},
-											width = "124",
+											width = "122",
 											ZOrder = "1",
 										},
 									},
@@ -535,7 +535,7 @@ local t =
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
 									FontColor = "#FFFFFFFF",
-									fontName = "phanta.ttf",
+									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
 										IsShadow = false,
@@ -568,7 +568,7 @@ local t =
 										PositionX = 224,
 										PositionY = 570,
 									},
-									width = "60",
+									width = "378",
 									ZOrder = "1",
 								},
 								{
@@ -978,7 +978,7 @@ local t =
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
 									FontColor = "#FFFFFFFF",
-									fontName = "phanta.ttf",
+									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
 										IsShadow = false,
@@ -1011,7 +1011,7 @@ local t =
 										PositionX = 18,
 										PositionY = 570,
 									},
-									width = "52",
+									width = "439",
 									ZOrder = "1",
 								},
 								{
@@ -1327,7 +1327,7 @@ local t =
 													{
 														PositionX = -49,
 													},
-													width = "42",
+													width = "44",
 													ZOrder = "1",
 												},
 											},
@@ -1833,7 +1833,7 @@ local t =
 													{
 														PositionX = -49,
 													},
-													width = "42",
+													width = "44",
 													ZOrder = "1",
 												},
 											},
@@ -2441,7 +2441,7 @@ local t =
 														PositionX = -37,
 														PositionY = -3,
 													},
-													width = "17",
+													width = "19",
 													ZOrder = "1",
 													components = 
 													{
@@ -2486,13 +2486,13 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 18,
+																PositionX = 20,
 																PositionY = 2,
 																IsPercent = true,
 																PercentX = 103,
 																PercentY = 16,
 															},
-															width = "23",
+															width = "22",
 															ZOrder = "1",
 														},
 													},
@@ -2944,7 +2944,7 @@ local t =
 														PositionX = -37,
 														PositionY = -3,
 													},
-													width = "17",
+													width = "19",
 													ZOrder = "1",
 													components = 
 													{
@@ -2989,13 +2989,13 @@ local t =
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
 															{
-																PositionX = 18,
+																PositionX = 20,
 																PositionY = 2,
 																IsPercent = true,
 																PercentX = 103,
 																PercentY = 16,
 															},
-															width = "23",
+															width = "22",
 															ZOrder = "1",
 														},
 													},
@@ -3266,7 +3266,7 @@ local t =
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
 							FontColor = "#FFFFFFFF",
-							fontName = "phanta.ttf",
+							fontName = "font/fangzheng_zhunyuan.ttf",
 							fontShadow = 
 							{
 								IsShadow = false,
@@ -3282,8 +3282,8 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "25",
-							ignoreSize = "True",
+							height = "0",
+							ignoreSize = "False",
 							name = "Label_recycle_tips",
 							nTextAlign = "1",
 							nTextHAlign = "1",
@@ -3299,7 +3299,7 @@ local t =
 								PositionX = 562,
 								PositionY = 106,
 							},
-							width = "0",
+							width = "465",
 							ZOrder = "1",
 						},
 						{

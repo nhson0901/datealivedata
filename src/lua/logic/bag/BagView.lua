@@ -827,6 +827,16 @@ function BagView:addGoodsItem()
     local limit_icon = TFImage:create("ui/bag/new_ui/limit.png");
     foo.root:addChild(limit_icon,999)
     limit_icon:setPosition(ccp(30,40));
+    local usingLanguage = TFLanguageMgr:getUsingLanguage()
+    if (usingLanguage == cc.INDONESIAN) or 
+        (usingLanguage == cc.THAI) or 
+        (usingLanguage == cc.SPANISH) or 
+        (usingLanguage == cc.FRENCH) or
+        (usingLanguage == cc.ENGLISH) or
+        (usingLanguage == cc.GERMAN) then
+        limit_icon:setPosition(ccp(10,40))
+    end
+
     limit_icon:hide();
     foo.limit_icon = limit_icon;
 

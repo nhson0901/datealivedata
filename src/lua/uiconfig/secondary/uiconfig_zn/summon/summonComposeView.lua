@@ -113,32 +113,6 @@ local t =
 							ZOrder = "1",
 						},
 						{
-							controlID = "Image_summonComposeView_1_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
-							UUID = "9aec4acf_c301_47b3_aeba_81ba67f79017",
-							anchorPoint = "False",
-							anchorPointX = "0.5",
-							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
-							classname = "MEImage",
-							dstBlendFunc = "771",
-							height = "640",
-							ignoreSize = "True",
-							name = "Image_summonComposeView_1",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "770",
-							texturePath = "ui/summon/new_ui/祈愿02.jpg",
-							touchAble = "False",
-							UILayoutViewModel = 
-							{
-								
-							},
-							visible = "False",
-							width = "1386",
-							ZOrder = "1",
-						},
-						{
 							controlID = "Spine_summonCompose_bg_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
 							UUID = "0ea9a2f0_91a3_46c8_93a6_f46285bac84c",
 							classname = "MESpine",
@@ -4940,10 +4914,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -568,
-								PositionY = -320,
+								PositionY = -269,
 								IsPercent = true,
 								PercentX = -50,
-								PercentY = -50,
+								PercentY = -42,
 							},
 							uipanelviewmodel = 
 							{
@@ -5349,8 +5323,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 341,
-								PositionY = -256,
+								PositionX = 210,
+								PositionY = -286,
 							},
 							UItype = "Button",
 							width = "120",
@@ -5428,8 +5402,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 474,
-								PositionY = -257,
+								PositionX = 350,
+								PositionY = -286,
 							},
 							UItype = "Button",
 							width = "120",
@@ -5473,6 +5447,85 @@ local t =
 									sizeType = "0",
 									srcBlendFunc = "770",
 									text = "一键领取",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										
+									},
+									width = "99",
+									ZOrder = "1",
+								},
+							},
+						},
+						{
+							controlID = "Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+							UUID = "86696c1c_28f8_4973_950f_29b6458f09bf",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+							classname = "MEButton",
+							ClickHighLightEnabled = "True",
+							dstBlendFunc = "771",
+							flipX = "False",
+							flipY = "False",
+							height = "56",
+							ignoreSize = "False",
+							name = "Button_one_key_compose",
+							normal = "ui/common/button09.png",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = 490,
+								PositionY = -283,
+							},
+							UItype = "Button",
+							width = "120",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "Label_onekey_Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+									UUID = "dc105720_6e62_444c_8203_11cc135ffc68",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									classname = "MELabel",
+									compPath = "luacomponents.common.MEIconLabel",
+									dstBlendFunc = "771",
+									FontColor = "#FFFFFFFF",
+									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "24",
+									fontStroke = 
+									{
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
+									},
+									height = "27",
+									ignoreSize = "True",
+									name = "Label_onekey",
+									nTextAlign = "1",
+									nTextHAlign = "1",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "一键祈愿",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -5664,7 +5717,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "55",
+											height = "51",
 											ignoreSize = "True",
 											name = "Label_selectPointName",
 											nTextAlign = "1",
@@ -5727,7 +5780,7 @@ local t =
 												PositionX = 6,
 												PositionY = 217,
 											},
-											width = "57",
+											width = "54",
 											ZOrder = "1",
 										},
 										{
@@ -5756,7 +5809,7 @@ local t =
 												StrokeColor = "#FF30354A",
 												StrokeSize = 1,
 											},
-											height = "27",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_top_tips",
 											nTextAlign = "1",
@@ -5772,7 +5825,7 @@ local t =
 											{
 												PositionY = 134,
 											},
-											width = "147",
+											width = "144",
 											ZOrder = "1",
 											components = 
 											{
@@ -5797,7 +5850,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 154,
+														PositionX = 151,
 														PositionY = 1,
 														IsPercent = true,
 														PercentX = 104.76,
@@ -5966,7 +6019,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
+													height = "28",
 													ignoreSize = "True",
 													name = "Label_summonComposeView_1",
 													nTextAlign = "1",
@@ -5983,7 +6036,7 @@ local t =
 														PositionX = 2,
 														PositionY = 3,
 													},
-													width = "100",
+													width = "99",
 													ZOrder = "1",
 												},
 												{
@@ -6029,7 +6082,7 @@ local t =
 														PositionX = 2,
 														PositionY = -11,
 													},
-													width = "110",
+													width = "106",
 													ZOrder = "1",
 												},
 											},
@@ -6421,7 +6474,7 @@ local t =
 											{
 												PositionX = 38,
 											},
-											width = "32",
+											width = "36",
 											ZOrder = "1",
 										},
 									},
@@ -6499,7 +6552,7 @@ local t =
 									{
 										PositionX = -207,
 									},
-									width = "135",
+									width = "134",
 									ZOrder = "1",
 								},
 							},
@@ -6910,7 +6963,7 @@ local t =
 									{
 										PositionY = -38,
 									},
-									width = "36",
+									width = "30",
 									ZOrder = "1",
 								},
 							},
@@ -7132,7 +7185,7 @@ local t =
 										PositionX = 54,
 										PositionY = -75,
 									},
-									width = "30",
+									width = "34",
 									ZOrder = "1",
 								},
 								{
@@ -7161,7 +7214,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "20",
+									height = "18",
 									ignoreSize = "True",
 									name = "equip_cost",
 									nTextAlign = "1",
@@ -7178,7 +7231,7 @@ local t =
 										PositionX = 54,
 										PositionY = -92,
 									},
-									width = "29",
+									width = "21",
 									ZOrder = "1",
 								},
 								{
@@ -7207,7 +7260,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "15",
+									height = "14",
 									ignoreSize = "True",
 									name = "Label_level_title",
 									nTextAlign = "1",
@@ -7224,7 +7277,7 @@ local t =
 										PositionX = -35,
 										PositionY = 85,
 									},
-									width = "21",
+									width = "19",
 									ZOrder = "1",
 									components = 
 									{
@@ -7255,7 +7308,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "22",
+											height = "21",
 											ignoreSize = "True",
 											name = "Label_level",
 											nTextAlign = "1",
@@ -7269,13 +7322,13 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 22,
+												PositionX = 20,
 												PositionY = 2,
 												IsPercent = true,
 												PercentX = 103,
 												PercentY = 16,
 											},
-											width = "32",
+											width = "23",
 											ZOrder = "1",
 										},
 									},
@@ -7549,7 +7602,6 @@ local t =
 		textures = 
 		{
 			"ui/summon/new_ui/bg.png",
-			"ui/summon/new_ui/祈愿02.jpg",
 			"ui/summon/new_ui/b001.png",
 			"ui/summon/new_ui/a001.png",
 			"ui/summon/new_ui/b003.png",

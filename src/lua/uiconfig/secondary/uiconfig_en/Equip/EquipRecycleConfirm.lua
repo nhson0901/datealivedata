@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -165,7 +165,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "34",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -182,7 +182,7 @@ local t =
 										PositionX = -288,
 										PositionY = 158,
 									},
-									width = "232",
+									width = "234",
 									ZOrder = "1",
 								},
 								{
@@ -204,7 +204,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "17",
+									fontSize = "22",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -365,7 +365,7 @@ local t =
 											{
 												
 											},
-											width = "81",
+											width = "84",
 											ZOrder = "1",
 										},
 									},

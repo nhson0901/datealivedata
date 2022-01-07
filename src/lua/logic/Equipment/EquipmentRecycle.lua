@@ -168,8 +168,8 @@ function EquipmentRecycle:updateLeftEquipment(item, id)
     Label_lv_title:setString("Lv.")
     LvLabel:setString(EquipmentDataMgr:getEquipLv(id))
 
-    local stepLabel = TFDirector:getChildByPath(item,"label_level_step")
-    stepLabel:setText(EquipmentDataMgr:getStepText(id))
+    --local stepLabel = TFDirector:getChildByPath(item,"label_level_step")
+    --stepLabel:setText(EquipmentDataMgr:getStepText(id))
 
     --星级
     for i=1,5 do
@@ -260,8 +260,8 @@ function EquipmentRecycle:updateRightEquipment(item, id)
     Label_lv_title:setString("Lv.")
     LvLabel:setString("1")
 
-    local stepLabel = TFDirector:getChildByPath(item,"label_level_step")
-    stepLabel:setText(EquipmentDataMgr:getStepText(id))
+    --local stepLabel = TFDirector:getChildByPath(item,"label_level_step")
+    --stepLabel:setText(EquipmentDataMgr:getStepText(id))
 
     --星级
     for i=1,5 do

@@ -730,7 +730,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -1191,7 +1191,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -1652,7 +1652,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -2111,7 +2111,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -2572,7 +2572,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -3033,7 +3033,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -3494,7 +3494,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -3953,7 +3953,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -4414,7 +4414,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -4875,7 +4875,7 @@ local t =
 																	{
 																		
 																	},
-																	width = "167",
+																	width = "153",
 																	ZOrder = "1",
 																},
 															},
@@ -4914,10 +4914,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -568,
-								PositionY = -320,
+								PositionY = -269,
 								IsPercent = true,
 								PercentX = -50,
-								PercentY = -50,
+								PercentY = -42,
 							},
 							uipanelviewmodel = 
 							{
@@ -5323,11 +5323,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 274,
-								PositionY = -256,
+								PositionX = 142,
+								PositionY = -286,
 							},
 							UItype = "Button",
-							width = "157",
+							width = "133",
 							ZOrder = "1",
 							components = 
 							{
@@ -5358,8 +5358,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_onekey",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -5374,7 +5374,7 @@ local t =
 									{
 										
 									},
-									width = "158",
+									width = "116",
 									ZOrder = "1",
 								},
 							},
@@ -5402,11 +5402,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 456,
-								PositionY = -257,
+								PositionX = 298,
+								PositionY = -286,
 							},
 							UItype = "Button",
-							width = "174",
+							width = "133",
 							ZOrder = "1",
 							components = 
 							{
@@ -5414,6 +5414,85 @@ local t =
 								{
 									controlID = "Label_onekey_Button_onekey_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
 									UUID = "9da41484_1738_4572_bfdc_1765410542f0",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									classname = "MELabel",
+									compPath = "luacomponents.common.MEIconLabel",
+									dstBlendFunc = "771",
+									FontColor = "#FFFFFFFF",
+									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontShadow = 
+									{
+										IsShadow = false,
+										ShadowColor = "#FFFFFFFF",
+										ShadowAlpha = 255,
+										OffsetX = 0,
+										OffsetY = 0,
+									},
+									fontSize = "24",
+									fontStroke = 
+									{
+										IsStroke = false,
+										StrokeColor = "#FFE6E6E6",
+										StrokeSize = 1,
+									},
+									height = "0",
+									ignoreSize = "False",
+									name = "Label_onekey",
+									nTextAlign = "1",
+									nTextHAlign = "1",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									text = "Reclamo rápido",
+									touchAble = "False",
+									touchScaleEnable = "False",
+									UILayoutViewModel = 
+									{
+										
+									},
+									width = "93",
+									ZOrder = "1",
+								},
+							},
+						},
+						{
+							controlID = "Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+							UUID = "564e7f3c_f149_406a_b1cf_bb0453cda060",
+							anchorPoint = "False",
+							anchorPointX = "0.5",
+							anchorPointY = "0.5",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+							classname = "MEButton",
+							ClickHighLightEnabled = "True",
+							dstBlendFunc = "771",
+							flipX = "False",
+							flipY = "False",
+							height = "56",
+							ignoreSize = "False",
+							name = "Button_one_key_compose",
+							normal = "ui/common/button09.png",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "1",
+							touchAble = "True",
+							UILayoutViewModel = 
+							{
+								PositionX = 492,
+								PositionY = -286,
+							},
+							UItype = "Button",
+							width = "133",
+							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "Label_onekey_Button_one_key_compose_Panel_root_Panel-summonComposeView_Layer1_summon_Game",
+									UUID = "4031be91_b4b2_4be0_8553_ba115b0b5dd0",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
@@ -5446,14 +5525,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Reclamo rápido",
+									text = "Quick Pray",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "160",
+									width = "111",
 									ZOrder = "1",
 								},
 							},
@@ -5655,7 +5734,7 @@ local t =
 												PositionX = 6,
 												PositionY = 240,
 											},
-											width = "173",
+											width = "195",
 											ZOrder = "1",
 										},
 										{
@@ -5772,7 +5851,8 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 387,
+														PositionX = 388,
+														PositionY = 1,
 														IsPercent = true,
 														PercentX = 104.76,
 														PercentY = 3.7,
@@ -5956,7 +6036,7 @@ local t =
 													{
 														PositionX = 2,
 													},
-													width = "214",
+													width = "240",
 													ZOrder = "1",
 												},
 												{
@@ -6003,7 +6083,7 @@ local t =
 														PositionY = -11,
 													},
 													visible = "False",
-													width = "132",
+													width = "124",
 													ZOrder = "1",
 												},
 											},
@@ -6051,7 +6131,7 @@ local t =
 												PositionX = 206,
 												PositionY = 43,
 											},
-											width = "143",
+											width = "138",
 											ZOrder = "1",
 										},
 										{
@@ -6168,7 +6248,7 @@ local t =
 											{
 												
 											},
-											width = "76",
+											width = "75",
 											ZOrder = "1",
 										},
 									},
@@ -6247,7 +6327,7 @@ local t =
 											{
 												
 											},
-											width = "113",
+											width = "106",
 											ZOrder = "1",
 										},
 									},
@@ -6395,7 +6475,7 @@ local t =
 											{
 												PositionX = 38,
 											},
-											width = "32",
+											width = "36",
 											ZOrder = "1",
 										},
 									},
@@ -6473,7 +6553,7 @@ local t =
 									{
 										PositionX = -207,
 									},
-									width = "218",
+									width = "209",
 									ZOrder = "1",
 								},
 							},
@@ -6552,7 +6632,7 @@ local t =
 									{
 										PositionY = -40,
 									},
-									width = "69",
+									width = "64",
 									ZOrder = "1",
 								},
 							},
@@ -6884,7 +6964,7 @@ local t =
 									{
 										PositionY = -38,
 									},
-									width = "36",
+									width = "30",
 									ZOrder = "1",
 								},
 							},
@@ -7106,7 +7186,7 @@ local t =
 										PositionX = 54,
 										PositionY = -75,
 									},
-									width = "37",
+									width = "42",
 									ZOrder = "1",
 								},
 								{
@@ -7198,7 +7278,7 @@ local t =
 										PositionX = -35,
 										PositionY = 85,
 									},
-									width = "19",
+									width = "21",
 									ZOrder = "1",
 									components = 
 									{
@@ -7243,7 +7323,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 20,
+												PositionX = 22,
 												PositionY = 2,
 												IsPercent = true,
 												PercentX = 103,

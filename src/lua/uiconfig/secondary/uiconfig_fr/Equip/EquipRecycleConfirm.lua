@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -182,7 +182,7 @@ local t =
 										PositionX = -288,
 										PositionY = 158,
 									},
-									width = "227",
+									width = "249",
 									ZOrder = "1",
 								},
 								{
@@ -204,7 +204,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "22",
 									fontStroke = 
 									{
 										IsStroke = false,

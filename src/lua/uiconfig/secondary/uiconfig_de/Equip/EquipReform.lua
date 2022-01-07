@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -584,7 +584,7 @@ local t =
 												TopPosition = 556,
 												relativeToName = "Panel_equip",
 											},
-											width = "24",
+											width = "23",
 											ZOrder = "1",
 										},
 										{
@@ -845,7 +845,7 @@ local t =
 												TopPosition = 529,
 												relativeToName = "Panel_equip",
 											},
-											width = "217",
+											width = "231",
 											ZOrder = "1",
 											components = 
 											{
@@ -1113,7 +1113,7 @@ local t =
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
 											FontColor = "#FFFFFFFF",
-											fontName = "phanta.ttf",
+											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
 												IsShadow = false,
@@ -1129,11 +1129,11 @@ local t =
 												StrokeColor = "#FF303746",
 												StrokeSize = 1,
 											},
-											height = "27",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_attrName",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -1146,7 +1146,7 @@ local t =
 												PositionX = -68,
 												PositionY = 26,
 											},
-											width = "47",
+											width = "221",
 											ZOrder = "1",
 										},
 										{
@@ -1159,7 +1159,7 @@ local t =
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
 											FontColor = "#FFFFFFFF",
-											fontName = "phanta.ttf",
+											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
 												IsShadow = false,
@@ -1192,7 +1192,7 @@ local t =
 												PositionX = 218,
 												PositionY = 26,
 											},
-											width = "38",
+											width = "45",
 											ZOrder = "1",
 										},
 										{
@@ -1387,7 +1387,7 @@ local t =
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
 											FontColor = "#FF69FF8C",
-											fontName = "phanta.ttf",
+											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
 												IsShadow = false,
@@ -1420,7 +1420,7 @@ local t =
 												PositionX = 259,
 												PositionY = 26,
 											},
-											width = "15",
+											width = "14",
 											ZOrder = "1",
 										},
 										{
@@ -1563,7 +1563,7 @@ local t =
 										PositionX = 606,
 										PositionY = 547,
 									},
-									width = "238",
+									width = "261",
 									ZOrder = "1",
 									components = 
 									{
@@ -1638,7 +1638,7 @@ local t =
 												PositionY = -20,
 											},
 											visible = "False",
-											width = "77",
+											width = "76",
 											ZOrder = "1",
 										},
 									},
@@ -1853,7 +1853,7 @@ local t =
 												PositionX = 51,
 												PositionY = 15,
 											},
-											width = "16",
+											width = "15",
 											ZOrder = "1",
 										},
 										{
@@ -2049,7 +2049,7 @@ local t =
 											{
 												PositionX = 16,
 											},
-											width = "96",
+											width = "98",
 											ZOrder = "1",
 										},
 										{
@@ -2224,7 +2224,7 @@ local t =
 												PositionY = -20,
 											},
 											vAlignment = "0",
-											width = "256",
+											width = "291",
 											ZOrder = "1",
 										},
 										{
@@ -3014,7 +3014,7 @@ local t =
 												PositionX = -38,
 												PositionY = -3,
 											},
-											width = "17",
+											width = "19",
 											ZOrder = "1",
 											components = 
 											{
@@ -3059,7 +3059,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 18,
+														PositionX = 20,
 														PositionY = 3,
 														IsPercent = true,
 														PercentX = 105,
@@ -3115,7 +3115,7 @@ local t =
 										PositionX = 48,
 										PositionY = 37,
 									},
-									width = "27",
+									width = "26",
 									ZOrder = "1",
 								},
 								{

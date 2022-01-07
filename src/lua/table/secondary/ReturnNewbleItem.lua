@@ -10616,7 +10616,7 @@ return {
         nextCondition = 0,
         open = 1,
         preCondition = 0,
-        finishParams = "{\"itemsCount\":{500128:15,500129:13,500130:11}}",
+        finishParams = "{\"itemsCount\":{500128:14,500129:12,500130:10}}",
         group = 428,
         taskParam = "",
         reward = "{570081:5,500127:1,554029:1}",
