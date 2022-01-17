@@ -243,7 +243,8 @@ function PrefabDataMgr:set_Panel_goodsItem(item, idOrCid, count, level, isNotAcc
                     Image_stage3:setVisible(starLevel == 3)
 
                     local starScrollView = TFDirector:getChildByPath(item, "ScrollView_star")
-                    starScrollView:setPositionX(starScrollView:getPositionX() - 10)
+                    starScrollView.oriPostionX = starScrollView.oriPostionX or starScrollView:getPositionX()
+                    starScrollView:setPositionX(starScrollView.oriPostionX - 10)
                 else
                     self:updateStarListViewPos(item, starNum)
                 end
