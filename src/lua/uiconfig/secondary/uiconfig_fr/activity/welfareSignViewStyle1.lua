@@ -90,20 +90,20 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "543",
+							height = "547",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/activity/activityStyle/wefareSignActivity/style3/001.png",
+							texturePath = "ui/activity/activityStyle/wefareSignActivity/style2/bg1.png",
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
 								
 							},
-							width = "925",
+							width = "895",
 							ZOrder = "1",
 							components = 
 							{
@@ -462,7 +462,7 @@ local t =
 											},
 											UItype = "Button",
 											width = "48",
-											ZOrder = "3",
+											ZOrder = "1",
 										},
 										{
 											controlID = "Button_next_Panel_page_Image_bg_Panel_root_Panel-welfareSignViewStyle1_activityStyleModel_activity_Game",
@@ -492,7 +492,7 @@ local t =
 											},
 											UItype = "Button",
 											width = "48",
-											ZOrder = "3",
+											ZOrder = "1",
 										},
 									},
 								},
@@ -523,7 +523,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 221,
+										PositionX = 192,
 										PositionY = -267,
 									},
 									uipanelviewmodel = 
@@ -600,32 +600,32 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "22",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = true,
-										StrokeColor = "#FF1048A7",
-										StrokeSize = 1,
+										StrokeColor = "#FF963029",
+										StrokeSize = 2,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_time_tip",
 									nTextAlign = "0",
 									nTextHAlign = "0",
-									rotation = "-15",
+									rotation = "-14",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "活動時間",
+									text = "活动时间",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -446,
-										PositionY = 207,
+										PositionX = -422,
+										PositionY = 243,
 									},
-									width = "91",
+									width = "77",
 									ZOrder = "1",
 								},
 								{
@@ -647,14 +647,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "22",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = true,
-										StrokeColor = "#FF1048A7",
-										StrokeSize = 1,
+										StrokeColor = "#FF963029",
+										StrokeSize = 2,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_time_end",
 									nTextAlign = "0",
@@ -669,10 +669,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -456,
-										PositionY = 143,
+										PositionX = -442,
+										PositionY = 181,
 									},
-									width = "92",
+									width = "77",
 									ZOrder = "1",
 								},
 								{
@@ -694,14 +694,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "22",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = true,
-										StrokeColor = "#FF1048A7",
-										StrokeSize = 1,
+										StrokeColor = "#FF963029",
+										StrokeSize = 2,
 									},
-									height = "27",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_time_begin",
 									nTextAlign = "0",
@@ -717,9 +717,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -436,
-										PositionY = 174,
+										PositionY = 212,
 									},
-									width = "92",
+									width = "77",
 									ZOrder = "1",
 								},
 								{
@@ -741,14 +741,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "22",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "28",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_denglu",
 									nTextAlign = "1",
@@ -757,16 +757,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "登入領取",
+									text = "登录领取",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 328,
+										PositionX = 318,
 										PositionY = 246,
 									},
-									visible = "False",
-									width = "98",
+									width = "90",
 									ZOrder = "1",
 								},
 							},
@@ -1168,7 +1167,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "148",
+							height = "140",
 							ignoreSize = "False",
 							name = "Panel_sevenItem1",
 							sizepercentx = "0",
@@ -1179,6 +1178,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 183,
+								PositionY = 3,
 							},
 							uipanelviewmodel = 
 							{
@@ -1285,7 +1285,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = -3,
+										PositionY = -11,
 										LeftPositon = 34,
 										TopPosition = 34,
 										relativeToName = "Panel_reward",
@@ -1319,7 +1319,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = -5,
-										PositionY = -1,
+										PositionY = -11,
 									},
 									uipanelviewmodel = 
 									{
@@ -1371,7 +1371,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF1048A7",
+									FontColor = "#FF842541",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -1402,7 +1402,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 67,
+										PositionY = 59,
 									},
 									width = "69",
 									ZOrder = "1",
@@ -1496,7 +1496,7 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/activityStyle/wefareSignActivity/style3/001.png",
+			"ui/activity/activityStyle/wefareSignActivity/style2/bg1.png",
 			"ui/activity/fashionStore/1/007.png",
 			"ui/activity/fashionStore/1/008.png",
 			"ui/activity/fashionStore/1/004.png",

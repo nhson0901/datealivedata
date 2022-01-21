@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -263,7 +263,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -272,7 +272,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "好友愿望",
+							text = "Friends' Wishes",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -280,7 +280,7 @@ local t =
 								PositionX = -349,
 								PositionY = 204,
 							},
-							width = "112",
+							width = "273",
 							ZOrder = "1",
 							components = 
 							{
@@ -308,6 +308,7 @@ local t =
 										PositionX = 118,
 										PositionY = 4,
 									},
+									visible = "False",
 									width = "4",
 									ZOrder = "1",
 								},
@@ -372,7 +373,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_tip",
 									nTextAlign = "1",
@@ -381,14 +382,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "返回",
+									text = "Back",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "54",
+									width = "70",
 									ZOrder = "1",
 								},
 							},
@@ -563,7 +564,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "玩家名字八个字啊",
+											text = "Player Name",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -571,7 +572,7 @@ local t =
 												PositionX = -5,
 												PositionY = 1,
 											},
-											width = "195",
+											width = "124",
 											ZOrder = "1",
 										},
 									},
@@ -611,7 +612,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "玩家名字有八个字玩家名字有八个字玩家名字有八个字玩家名字有八个字玩家名字有八个字",
+									text = "Player Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -628,11 +629,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "38",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Label_isFriend",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -642,10 +643,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -72,
+										PositionX = -60,
 										PositionY = 29,
 									},
-									width = "74",
+									width = "95",
 									ZOrder = "1",
 									components = 
 									{
@@ -676,7 +677,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_isFriendx",
 											nTextAlign = "1",
@@ -685,14 +686,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "好友",
+											text = "Friend",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = -3,
 											},
-											width = "50",
+											width = "87",
 											ZOrder = "1",
 										},
 									},
@@ -703,11 +704,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "38",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Label_isClub",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -717,10 +718,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -72,
+										PositionX = -60,
 										PositionY = 29,
 									},
-									width = "74",
+									width = "95",
 									ZOrder = "1",
 									components = 
 									{
@@ -751,7 +752,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_isClubx",
 											nTextAlign = "1",
@@ -760,14 +761,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "社团",
+											text = "Club",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = -3,
 											},
-											width = "50",
+											width = "59",
 											ZOrder = "1",
 										},
 									},

@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -272,7 +272,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "好友愿望",
+							text = "好友願望",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -563,7 +563,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "玩家名字八个字啊",
+											text = "玩家名字八個字啊",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -611,7 +611,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "玩家名字有八个字玩家名字有八个字玩家名字有八个字玩家名字有八个字玩家名字有八个字",
+									text = "玩家名字有八個字玩家名字有八個字玩家名字有八個字玩家名字有八個字玩家名字有八個字",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -760,7 +760,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "社团",
+											text = "社團",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 

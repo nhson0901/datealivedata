@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -211,11 +211,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 230,
-										PositionY = -140,
+										PositionX = 204,
+										PositionY = -141,
 									},
 									UItype = "Button",
-									width = "120",
+									width = "163",
 									ZOrder = "1",
 									components = 
 									{
@@ -405,8 +405,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "30",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_content_1",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -421,7 +421,7 @@ local t =
 									{
 										PositionY = -41,
 									},
-									width = "17",
+									width = "550",
 									ZOrder = "1",
 								},
 								{
@@ -546,11 +546,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -228,
+										PositionX = -201,
 										PositionY = -140,
 									},
 									UItype = "Button",
-									width = "120",
+									width = "163",
 									ZOrder = "1",
 									components = 
 									{

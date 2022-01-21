@@ -232,7 +232,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Full server releases:1000",
+											text = "Total releases:",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -240,7 +240,7 @@ local t =
 												PositionX = -186,
 												PositionY = -4,
 											},
-											width = "227",
+											width = "135",
 											ZOrder = "1",
 										},
 										{
@@ -462,18 +462,18 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "18",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "21",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "label_title",
 											nTextAlign = "1",
-											nTextHAlign = "1",
+											nTextHAlign = "0",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -486,7 +486,7 @@ local t =
 												PositionX = -185,
 												PositionY = 39,
 											},
-											width = "168",
+											width = "257",
 											ZOrder = "1",
 										},
 										{
@@ -512,11 +512,11 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 158,
+												PositionX = 151,
 												PositionY = -13,
 											},
 											UItype = "Button",
-											width = "75",
+											width = "76",
 											ZOrder = "1",
 											components = 
 											{
@@ -540,7 +540,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "18",
+													fontSize = "15",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -552,8 +552,6 @@ local t =
 													name = "btn_label",
 													nTextAlign = "1",
 													nTextHAlign = "1",
-													scaleX = "0.8",
-													scaleY = "0.8",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -565,7 +563,7 @@ local t =
 													{
 														
 													},
-													width = "76",
+													width = "70",
 													ZOrder = "1",
 												},
 											},
@@ -1566,7 +1564,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "28",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -1589,7 +1587,7 @@ local t =
 											{
 												
 											},
-											width = "126",
+											width = "121",
 											ZOrder = "1",
 										},
 									},
@@ -1634,8 +1632,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 82,
-										PositionY = -185,
+										PositionX = 60,
+										PositionY = -183,
 									},
 									width = "74",
 									ZOrder = "1",
@@ -1662,8 +1660,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 124,
-								PositionY = -100,
+								PositionX = 114,
+								PositionY = -101,
 							},
 							width = "264",
 							ZOrder = "10",
@@ -1689,18 +1687,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "28",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "label_title",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -1713,7 +1711,7 @@ local t =
 										PositionX = -120,
 										PositionY = 189,
 									},
-									width = "194",
+									width = "192",
 									ZOrder = "1",
 								},
 								{
@@ -2186,7 +2184,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -2210,7 +2208,7 @@ local t =
 									{
 										PositionX = 163,
 									},
-									width = "125",
+									width = "103",
 									ZOrder = "1",
 								},
 								{
@@ -2232,15 +2230,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "23",
+									ignoreSize = "True",
 									name = "img_got",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -2256,7 +2254,7 @@ local t =
 									{
 										PositionX = 163,
 									},
-									width = "124",
+									width = "87",
 									ZOrder = "1",
 								},
 								{
@@ -2279,8 +2277,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 164,
-										PositionY = 2,
+										PositionX = 165,
+										PositionY = 4,
 									},
 									width = "50",
 									ZOrder = "1",

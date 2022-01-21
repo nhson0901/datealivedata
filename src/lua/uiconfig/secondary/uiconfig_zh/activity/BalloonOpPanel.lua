@@ -65,8 +65,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 518,
-						PositionY = 382,
+						PositionX = 480,
+						PositionY = 320,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -137,16 +137,47 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "取消交易",
+							text = "取消交換",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -189,
-								PositionY = 121,
+								PositionX = -195,
+								PositionY = 125,
 							},
 							width = "114",
 							ZOrder = "1",
+							components = 
+							{
+								
+								{
+									controlID = "Image_BalloonOpPanel_1_label_title_img_bg_Panel-BalloonOpPanel_balloon_activity_Game",
+									UUID = "3aa3038b_f588_4f49_a55b_d8b5ed75ab10",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									backGroundScale9Enable = "False",
+									classname = "MEImage",
+									dstBlendFunc = "771",
+									height = "32",
+									ignoreSize = "True",
+									name = "Image_BalloonOpPanel_1",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "770",
+									texturePath = "ui/activity/2021_spring/007.png",
+									touchAble = "False",
+									UILayoutViewModel = 
+									{
+										PositionX = 64,
+										PositionY = 3,
+									},
+									visible = "False",
+									width = "4",
+									ZOrder = "1",
+								},
+							},
 						},
 						{
 							controlID = "btn_close_img_bg_Panel-BalloonOpPanel_balloon_activity_Game",
@@ -187,7 +218,7 @@ local t =
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
-							FontColor = "#FFFFFFFF",
+							FontColor = "#FF416385",
 							fontName = "font/fangzheng_zhunyuan.ttf",
 							fontShadow = 
 							{
@@ -197,7 +228,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "22",
+							fontSize = "26",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -295,7 +326,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										
+										PositionY = -2,
 									},
 									width = "106",
 									ZOrder = "1",
@@ -374,7 +405,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										
+										PositionY = -2,
 									},
 									width = "106",
 									ZOrder = "1",
@@ -396,6 +427,7 @@ local t =
 		{
 			"ui/balloon/21.png",
 			"ui/balloon/22.png",
+			"ui/activity/2021_spring/007.png",
 			"ui/balloon/close_btn.png",
 			"ui/balloon/12.png",
 			"ui/balloon/13.png",

@@ -130,12 +130,17 @@ URL_NOTICEBOARD = "http://api-en.datealive.com/yhdzz/special/1"
 --announcement address
 URL_ANNOUNCEMENT = {}
 if RELEASE_TEST or CC_TARGET_PLATFORM == CC_PLATFORM_WIN32 then
-    URL_ANNOUNCEMENT[1] = "https://c-ml.datealive.com/dal_global/notice_test/announcement"..TFLanguageMgr:getUsingLanguageCode("_")..".json"
-    URL_ANNOUNCEMENT[2] = "https://c-dal-ml.heitaoglobal.com/dal_global/notice_test/announcement"..TFLanguageMgr:getUsingLanguageCode("_")..".json"
+    URL_ANNOUNCEMENT[1] = "http://192.168.20.125:8980/global/get_global_notice"
+    URL_ANNOUNCEMENT[2] = "http://192.168.20.125:8980/global/get_global_notice"
 elseif CC_TARGET_PLATFORM == CC_PLATFORM_ANDROID then
-    URL_ANNOUNCEMENT[1] = "http://c-ml.datealive.com/dal_global/notice/announcement"..TFLanguageMgr:getUsingLanguageCode("_")..".json"
-    URL_ANNOUNCEMENT[2] = "http://c-dal-ml.heitaoglobal.com/dal_global/notice/announcement"..TFLanguageMgr:getUsingLanguageCode("_")..".json"
+    if DEBUG_PACKAGE then
+        URL_ANNOUNCEMENT[1] = "http://148.153.55.228:7070/global/get_global_notice"
+        URL_ANNOUNCEMENT[2] = "http://148.153.55.228:7070/global/get_global_notice"
+    else
+        URL_ANNOUNCEMENT[1] = "http://uc-en.datealive.com:8081/global/get_global_notice"
+        URL_ANNOUNCEMENT[2] = "http://uc-en2.datealive.com:8081/global/get_global_notice"
+    end
 else
-    URL_ANNOUNCEMENT[1] = "https://c-ml.datealive.com/dal_global/notice/announcement"..TFLanguageMgr:getUsingLanguageCode("_")..".json"
-    URL_ANNOUNCEMENT[2] = "https://c-dal-ml.heitaoglobal.com/dal_global/notice/announcement"..TFLanguageMgr:getUsingLanguageCode("_")..".json"
+    URL_ANNOUNCEMENT[1] = "https://uc-en.datealive.com:8082/global/get_global_notice"
+    URL_ANNOUNCEMENT[2] = "https://uc-en2.datealive.com:8082/global/get_global_notice"
 end

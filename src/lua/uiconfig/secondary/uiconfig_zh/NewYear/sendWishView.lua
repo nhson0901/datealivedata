@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -229,7 +229,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_btn",
 									nTextAlign = "1",
@@ -238,7 +238,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "许下愿望",
+									text = "許下願望",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -463,7 +463,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -472,7 +472,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "我的愿望",
+							text = "我的願望",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -480,7 +480,7 @@ local t =
 								PositionX = -224,
 								PositionY = 161,
 							},
-							width = "113",
+							width = "114",
 							ZOrder = "1",
 							components = 
 							{
@@ -576,7 +576,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "玩家名字八个字啊",
+									text = "玩家名字八個字啊",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 

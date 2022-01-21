@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -498,7 +498,7 @@ local t =
 												StrokeSize = 1,
 											},
 											hAlignment = "0",
-											height = "24",
+											height = "23",
 											ignoreSize = "True",
 											name = "TextArea_name",
 											sizepercentx = "0",
@@ -597,7 +597,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "19",
+													width = "18",
 													ZOrder = "1",
 												},
 												{
@@ -1126,7 +1126,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "28",
 											ignoreSize = "True",
 											name = "Label_feelling_name",
 											nTextAlign = "1",
@@ -1143,7 +1143,7 @@ local t =
 												PositionX = 44,
 												PositionY = 75,
 											},
-											width = "123",
+											width = "122",
 											ZOrder = "1",
 										},
 										{
@@ -1189,7 +1189,7 @@ local t =
 												PositionX = 200,
 												PositionY = 76,
 											},
-											width = "16",
+											width = "15",
 											ZOrder = "1",
 										},
 										{
@@ -1335,7 +1335,7 @@ local t =
 												PositionX = 120,
 												PositionY = 50,
 											},
-											width = "48",
+											width = "47",
 											ZOrder = "1",
 										},
 										{
@@ -2005,7 +2005,7 @@ local t =
 														StrokeSize = 1,
 													},
 													hAlignment = "1",
-													height = "29",
+													height = "27",
 													ignoreSize = "True",
 													name = "TextArea_Game_2",
 													sizepercentx = "0",
@@ -2020,7 +2020,7 @@ local t =
 														PositionY = -26,
 													},
 													vAlignment = "1",
-													width = "48",
+													width = "47",
 													ZOrder = "1",
 												},
 												{
@@ -2113,7 +2113,7 @@ local t =
 														StrokeColor = "#FF2F0B0B",
 														StrokeSize = 1,
 													},
-													height = "29",
+													height = "27",
 													ignoreSize = "True",
 													name = "Label_title",
 													nTextAlign = "1",
@@ -2129,7 +2129,7 @@ local t =
 													{
 														PositionY = -26,
 													},
-													width = "48",
+													width = "47",
 													ZOrder = "1",
 												},
 												{
@@ -2219,7 +2219,7 @@ local t =
 														StrokeSize = 1,
 													},
 													hAlignment = "1",
-													height = "29",
+													height = "27",
 													ignoreSize = "True",
 													name = "TextArea_Game_2",
 													sizepercentx = "0",
@@ -2512,7 +2512,7 @@ local t =
 														PercentY = 50,
 													},
 													visible = "False",
-													width = "193",
+													width = "198",
 													ZOrder = "1",
 												},
 												{
@@ -2935,7 +2935,7 @@ local t =
 												StrokeColor = "#FF2F0B0C",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_Game_1",
 											nTextAlign = "1",
@@ -3117,7 +3117,7 @@ local t =
 												StrokeColor = "#FF2F0B0C",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_Game_1-Copy1",
 											nTextAlign = "1",
@@ -3133,7 +3133,7 @@ local t =
 											{
 												PositionY = -34,
 											},
-											width = "51",
+											width = "52",
 											ZOrder = "1",
 										},
 									},
@@ -3223,7 +3223,7 @@ local t =
 												StrokeColor = "#FF2F0B0C",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_Game_1-Copy2",
 											nTextAlign = "1",
@@ -3354,7 +3354,7 @@ local t =
 												StrokeColor = "#FF2F0B0C",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_Game_1-Copy3",
 											nTextAlign = "1",
@@ -3646,7 +3646,7 @@ local t =
 												StrokeSize = 1,
 											},
 											hAlignment = "1",
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "TextArea_Game_2",
 											sizepercentx = "0",
@@ -3776,14 +3776,14 @@ local t =
 												StrokeSize = 1,
 											},
 											hAlignment = "1",
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "TextArea_Game_2",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "儲值 ",
+											text = "儲值",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -3791,7 +3791,7 @@ local t =
 												PositionY = -34,
 											},
 											vAlignment = "1",
-											width = "53",
+											width = "51",
 											ZOrder = "1",
 										},
 										{
@@ -4006,7 +4006,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "0",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_message",
 											nTextAlign = "1",
@@ -4022,7 +4022,7 @@ local t =
 											{
 												PositionY = -2,
 											},
-											width = "0",
+											width = "23",
 											ZOrder = "1",
 										},
 									},
@@ -5742,7 +5742,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "44",
+													width = "45",
 													ZOrder = "1",
 												},
 												{

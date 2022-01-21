@@ -65,8 +65,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 480,
-						PositionY = 320,
+						PositionX = 510,
+						PositionY = 354,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -135,7 +135,7 @@ local t =
 							controlID = "label_title_img_bg_Panel-BalloonInviteView_balloon_activity_Game",
 							UUID = "a78c5809_66c0_47ed_8b89_aa8bafe52b32",
 							anchorPoint = "False",
-							anchorPointX = "0.5",
+							anchorPointX = "0",
 							anchorPointY = "0.5",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
@@ -171,7 +171,7 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -86,
+								PositionX = -251,
 								PositionY = 121,
 							},
 							width = "327",
@@ -226,7 +226,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "22",
+							fontSize = "20",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -464,7 +464,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -488,7 +488,7 @@ local t =
 										PositionX = -19,
 										PositionY = -2,
 									},
-									width = "221",
+									width = "220",
 									ZOrder = "1",
 								},
 							},
@@ -547,7 +547,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -571,10 +571,56 @@ local t =
 										PositionX = -19,
 										PositionY = -2,
 									},
-									width = "221",
+									width = "245",
 									ZOrder = "1",
 								},
 							},
+						},
+						{
+							controlID = "txt_timer_img_bg_Panel-BalloonInviteView_balloon_activity_Game",
+							UUID = "ba2c697a_d09f_4cb2_95c8_6466868dda51",
+							anchorPoint = "False",
+							anchorPointX = "1",
+							anchorPointY = "0.5",
+							classname = "MELabel",
+							compPath = "luacomponents.common.MEIconLabel",
+							dstBlendFunc = "771",
+							FontColor = "#FF416385",
+							fontName = "font/fangzheng_zhunyuan.ttf",
+							fontShadow = 
+							{
+								IsShadow = false,
+								ShadowColor = "#FFFFFFFF",
+								ShadowAlpha = 255,
+								OffsetX = 0,
+								OffsetY = 0,
+							},
+							fontSize = "20",
+							fontStroke = 
+							{
+								IsStroke = false,
+								StrokeColor = "#FFE6E6E6",
+								StrokeSize = 1,
+							},
+							height = "23",
+							ignoreSize = "True",
+							name = "txt_timer",
+							nTextAlign = "1",
+							nTextHAlign = "0",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "770",
+							text = "1000   Server Total Balloons Released",
+							touchAble = "False",
+							touchScaleEnable = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = 250,
+								PositionY = -21,
+							},
+							width = "297",
+							ZOrder = "1",
 						},
 					},
 				},

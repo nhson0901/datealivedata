@@ -70,7 +70,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = -88,
+						PositionX = -58,
+						PositionY = 35,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -1113,8 +1114,8 @@ local t =
 									sizeType = "0",
 									spineModel = 
 									{
-										SpinePath = "effect/effect_zhounian_05/effect_zhounian_05",
-										animationName = "animation",
+										SpinePath = "effect/effect_zhounian_03/effect_zhounian_03",
+										animationName = "ALL",
 										IsLoop = false,
 										IsPlay = false,
 										IsUseQueue = false,
@@ -1292,8 +1293,8 @@ local t =
 									sizeType = "0",
 									spineModel = 
 									{
-										SpinePath = "effect/effect_zhounian_05/effect_zhounian_05",
-										animationName = "animation",
+										SpinePath = "effect/effect_zhounian_03/effect_zhounian_03",
+										animationName = "ALL",
 										IsLoop = false,
 										IsPlay = false,
 										IsUseQueue = false,
@@ -1915,6 +1916,42 @@ local t =
 									ZOrder = "1",
 								},
 								{
+									controlID = "Panel_touch_Panel_eventTrigger_Panel_base_Panel-znqMainView_zhounianqing_activity_Game",
+									UUID = "a2aa7575_71d2_4568_9300_fffbd7cf6a3b",
+									anchorPoint = "False",
+									anchorPointX = "0.5",
+									anchorPointY = "0.5",
+									backGroundScale9Enable = "False",
+									bgColorOpacity = "50",
+									bIsOpenClipping = "False",
+									classname = "MEPanel",
+									colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+									DesignHeight = "640",
+									DesignType = "0",
+									DesignWidth = "960",
+									dstBlendFunc = "771",
+									height = "640",
+									ignoreSize = "False",
+									name = "Panel_touch",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									touchAble = "True",
+									UILayoutViewModel = 
+									{
+										PositionX = 568,
+										PositionY = 320,
+									},
+									uipanelviewmodel = 
+									{
+										Layout="Absolute",
+										nType = "0"
+									},
+									width = "1386",
+									ZOrder = "1",
+								},
+								{
 									controlID = "ScrollView_triggerEvent_Panel_eventTrigger_Panel_base_Panel-znqMainView_zhounianqing_activity_Game",
 									UUID = "08ffeeab_d096_4ba0_ba02_76264903de80",
 									anchorPoint = "False",
@@ -1950,42 +1987,6 @@ local t =
 										nType = "0"
 									},
 									width = "800",
-									ZOrder = "1",
-								},
-								{
-									controlID = "Panel_touch_Panel_eventTrigger_Panel_base_Panel-znqMainView_zhounianqing_activity_Game",
-									UUID = "a2aa7575_71d2_4568_9300_fffbd7cf6a3b",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									bgColorOpacity = "50",
-									bIsOpenClipping = "False",
-									classname = "MEPanel",
-									colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
-									DesignHeight = "640",
-									DesignType = "0",
-									DesignWidth = "960",
-									dstBlendFunc = "771",
-									height = "640",
-									ignoreSize = "False",
-									name = "Panel_touch",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "1",
-									touchAble = "True",
-									UILayoutViewModel = 
-									{
-										PositionX = 568,
-										PositionY = 320,
-									},
-									uipanelviewmodel = 
-									{
-										Layout="Absolute",
-										nType = "0"
-									},
-									width = "1386",
 									ZOrder = "1",
 								},
 							},
@@ -2687,7 +2688,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -2699,6 +2700,7 @@ local t =
 											name = "Label_state",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											rotation = "90",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
@@ -2708,10 +2710,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 134,
+												PositionX = 144,
 												PositionY = -3,
 											},
-											width = "23",
+											width = "90",
 											ZOrder = "1",
 										},
 									},
@@ -2764,7 +2766,7 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
@@ -2776,19 +2778,20 @@ local t =
 											name = "Label_state",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											rotation = "90",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
-											srcBlendFunc = "1",
+											srcBlendFunc = "770",
 											text = "Completed",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 134,
+												PositionX = 144,
 												PositionY = -3,
 											},
-											width = "23",
+											width = "90",
 											ZOrder = "1",
 										},
 									},
@@ -2864,18 +2867,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "28",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_name",
 									nTextAlign = "1",
-									nTextHAlign = "1",
+									nTextHAlign = "0",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -2888,7 +2891,7 @@ local t =
 										PositionX = 78,
 										PositionY = 45,
 									},
-									width = "138",
+									width = "190",
 									ZOrder = "1",
 								},
 								{
@@ -2910,15 +2913,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "15",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "21",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_type",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -2932,9 +2935,9 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 184,
-										PositionY = 21,
+										PositionY = 20,
 									},
-									width = "127",
+									width = "90",
 									ZOrder = "1",
 								},
 							},
@@ -3032,7 +3035,7 @@ local t =
 									UUID = "87ac2874_00a2_4f21_8e3a_046777a66821",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -3046,15 +3049,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "15",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "18",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "name",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -3067,9 +3070,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = -36,
+										PositionY = -24,
 									},
-									width = "77",
+									width = "110",
 									ZOrder = "1",
 								},
 							},

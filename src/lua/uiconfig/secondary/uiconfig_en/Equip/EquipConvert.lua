@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -2017,7 +2017,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -2249,7 +2249,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "15",
+									fontSize = "18",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -2576,14 +2576,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "17",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "19",
+									height = "23",
 									ignoreSize = "True",
 									name = "Label_nothing",
 									nTextAlign = "1",
@@ -2600,7 +2600,7 @@ local t =
 										PositionX = 264,
 										PositionY = 359,
 									},
-									width = "336",
+									width = "393",
 									ZOrder = "1",
 								},
 								{
@@ -3610,8 +3610,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -607,
-								PositionY = 113,
+								PositionX = -996,
+								PositionY = 111,
 							},
 							uipanelviewmodel = 
 							{

@@ -229,7 +229,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -258,
+												PositionX = -228,
 												PositionY = -3,
 											},
 											width = "51",
@@ -244,7 +244,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF535891",
+											FontColor = "#FF35516B",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -275,7 +275,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -221,
+												PositionX = -191,
 												PositionY = -3,
 											},
 											width = "83",
@@ -290,7 +290,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF535891",
+											FontColor = "#FF35516B",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -321,10 +321,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -132,
+												PositionX = -102,
 												PositionY = -3,
 											},
-											width = "83",
+											width = "74",
 											ZOrder = "1",
 										},
 									},
@@ -352,6 +352,7 @@ local t =
 										PositionX = 293,
 										PositionY = 289,
 									},
+									visible = "False",
 									width = "566",
 									ZOrder = "1",
 									components = 
@@ -377,7 +378,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -258,
+												PositionX = -228,
 												PositionY = -3,
 											},
 											width = "58",
@@ -392,7 +393,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF535891",
+											FontColor = "#FF35516B",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -423,7 +424,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -221,
+												PositionX = -191,
 												PositionY = -3,
 											},
 											width = "131",
@@ -438,7 +439,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF535891",
+											FontColor = "#FF35516B",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -469,10 +470,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -83,
+												PositionX = -53,
 												PositionY = -3,
 											},
-											width = "83",
+											width = "74",
 											ZOrder = "1",
 										},
 									},
@@ -500,6 +501,7 @@ local t =
 										PositionX = 293,
 										PositionY = 229,
 									},
+									visible = "False",
 									width = "566",
 									ZOrder = "1",
 									components = 
@@ -525,7 +527,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -258,
+												PositionX = -228,
 												PositionY = -3,
 											},
 											width = "61",
@@ -540,7 +542,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF535891",
+											FontColor = "#FF35516B",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -571,7 +573,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -221,
+												PositionX = -191,
 												PositionY = -3,
 											},
 											width = "155",
@@ -586,7 +588,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF535891",
+											FontColor = "#FF35516B",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -617,10 +619,10 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -54,
+												PositionX = -24,
 												PositionY = -3,
 											},
-											width = "83",
+											width = "74",
 											ZOrder = "1",
 										},
 									},
@@ -646,7 +648,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 293,
-										PositionY = 168,
+										PositionY = 289,
 									},
 									width = "566",
 									ZOrder = "1",
@@ -673,7 +675,7 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -258,
+												PositionX = -228,
 												PositionY = -3,
 											},
 											width = "59",
@@ -688,7 +690,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF535891",
+											FontColor = "#FF35516B",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -714,15 +716,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "乐园硬币：",
+											text = "压岁钱：",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -221,
+												PositionX = -191,
 												PositionY = -3,
 											},
-											width = "107",
+											width = "83",
 											ZOrder = "1",
 										},
 										{
@@ -734,7 +736,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF535891",
+											FontColor = "#FF35516B",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -765,535 +767,868 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -105,
+												PositionX = -102,
 												PositionY = -3,
 											},
-											width = "83",
+											width = "74",
 											ZOrder = "1",
 										},
 									},
 								},
 								{
-									controlID = "Image_showName_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-									UUID = "38ab587f_b032_4343_bec7_ebff0911d1d7",
+									controlID = "scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+									UUID = "3080c6d2_d547_42bd_8a59_9459d25d4fb8",
+									anchorPoint = "False",
+									anchorPointX = "0",
+									anchorPointY = "1",
+									backGroundScale9Enable = "False",
+									bgColorOpacity = "50",
+									bIsOpenClipping = "True",
+									bounceEnable = "False",
+									classname = "MEScrollView",
+									colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+									direction = "1",
+									dstBlendFunc = "771",
+									height = "195",
+									ignoreSize = "False",
+									innerHeight = "200",
+									innerWidth = "577",
+									name = "scroll_switch",
+									showScrollbar = "False",
+									sizepercentx = "0",
+									sizepercenty = "0",
+									sizeType = "0",
+									srcBlendFunc = "1",
+									touchAble = "True",
+									UILayoutViewModel = 
+									{
+										PositionX = 4,
+										PositionY = 257,
+									},
+									uipanelviewmodel = 
+									{
+										Layout="Absolute",
+										nType = "0"
+									},
+									width = "577",
+									ZOrder = "1",
+									components = 
+									{
+										
+										{
+											controlID = "Image_showName_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+											UUID = "38ab587f_b032_4343_bec7_ebff0911d1d7",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											backGroundScale9Enable = "False",
+											classname = "MEImage",
+											dstBlendFunc = "771",
+											height = "61",
+											ignoreSize = "True",
+											name = "Image_showName",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "1",
+											texturePath = "ui/activity/znq_yly/info/003.png",
+											touchAble = "False",
+											UILayoutViewModel = 
+											{
+												PositionX = 288,
+												PositionY = 168,
+											},
+											width = "567",
+											ZOrder = "1",
+											components = 
+											{
+												
+												{
+													controlID = "Label_tip_Image_showName_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+													UUID = "56cf3295_9098_4bb3_b9b0_3f7631ec01b1",
+													anchorPoint = "False",
+													anchorPointX = "0",
+													anchorPointY = "0.5",
+													classname = "MELabel",
+													compPath = "luacomponents.common.MEIconLabel",
+													dstBlendFunc = "771",
+													FontColor = "#FF35516B",
+													fontName = "font/fangzheng_zhunyuan.ttf",
+													fontShadow = 
+													{
+														IsShadow = false,
+														ShadowColor = "#FFFFFFFF",
+														ShadowAlpha = 255,
+														OffsetX = 0,
+														OffsetY = 0,
+													},
+													fontSize = "24",
+													fontStroke = 
+													{
+														IsStroke = false,
+														StrokeColor = "#FFE6E6E6",
+														StrokeSize = 1,
+													},
+													height = "27",
+													ignoreSize = "True",
+													name = "Label_tip",
+													nTextAlign = "1",
+													nTextHAlign = "1",
+													sizepercentx = "0",
+													sizepercenty = "0",
+													sizeType = "0",
+													srcBlendFunc = "770",
+													text = "显示所有人名字",
+													touchAble = "False",
+													touchScaleEnable = "False",
+													UILayoutViewModel = 
+													{
+														PositionX = -274,
+														PositionY = -2,
+													},
+													width = "171",
+													ZOrder = "1",
+												},
+												{
+													controlID = "Panel_switch_Image_showName_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+													UUID = "29234df6_ed1d_4ac5_b190_3fcc0dbcf67b",
+													anchorPoint = "False",
+													anchorPointX = "0.5",
+													anchorPointY = "0.5",
+													backGroundScale9Enable = "False",
+													bgColorOpacity = "50",
+													bIsOpenClipping = "False",
+													classname = "MEPanel",
+													colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+													DesignHeight = "640",
+													DesignType = "0",
+													DesignWidth = "960",
+													dstBlendFunc = "771",
+													height = "50",
+													ignoreSize = "False",
+													name = "Panel_switch",
+													sizepercentx = "0",
+													sizepercenty = "0",
+													sizeType = "0",
+													srcBlendFunc = "1",
+													touchAble = "True",
+													UILayoutViewModel = 
+													{
+														PositionX = 221,
+													},
+													uipanelviewmodel = 
+													{
+														Layout="Absolute",
+														nType = "0"
+													},
+													width = "110",
+													ZOrder = "1",
+													components = 
+													{
+														
+														{
+															controlID = "Image_di_Panel_switch_Image_showName_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+															UUID = "94d5676d_faab_4e74_b087_fc370fe3c7cb",
+															anchorPoint = "False",
+															anchorPointX = "0.5",
+															anchorPointY = "0.5",
+															backGroundScale9Enable = "False",
+															classname = "MEImage",
+															dstBlendFunc = "771",
+															height = "47",
+															ignoreSize = "True",
+															name = "Image_di",
+															sizepercentx = "0",
+															sizepercenty = "0",
+															sizeType = "0",
+															srcBlendFunc = "1",
+															texturePath = "ui/activity/znq_yly/info/004.png",
+															touchAble = "False",
+															UILayoutViewModel = 
+															{
+																
+															},
+															width = "107",
+															ZOrder = "1",
+															components = 
+															{
+																
+																{
+																	controlID = "Label_1_Image_di_Panel_switch_Image_showName_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+																	UUID = "d503fca3_9d18_4930_9fad_6557678f0078",
+																	anchorPoint = "False",
+																	anchorPointX = "0.5",
+																	anchorPointY = "0.5",
+																	classname = "MELabel",
+																	compPath = "luacomponents.common.MEIconLabel",
+																	dstBlendFunc = "771",
+																	FontColor = "#FFFFFFFF",
+																	fontName = "font/fangzheng_zhunyuan.ttf",
+																	fontShadow = 
+																	{
+																		IsShadow = false,
+																		ShadowColor = "#FFFFFFFF",
+																		ShadowAlpha = 255,
+																		OffsetX = 0,
+																		OffsetY = 0,
+																	},
+																	fontSize = "24",
+																	fontStroke = 
+																	{
+																		IsStroke = false,
+																		StrokeColor = "#FFE6E6E6",
+																		StrokeSize = 1,
+																	},
+																	height = "27",
+																	ignoreSize = "True",
+																	name = "Label_1",
+																	nTextAlign = "1",
+																	nTextHAlign = "1",
+																	sizepercentx = "0",
+																	sizepercenty = "0",
+																	sizeType = "0",
+																	srcBlendFunc = "770",
+																	text = "开",
+																	touchAble = "False",
+																	touchScaleEnable = "False",
+																	UILayoutViewModel = 
+																	{
+																		PositionX = 29,
+																		PositionY = -2,
+																	},
+																	width = "27",
+																	ZOrder = "1",
+																},
+																{
+																	controlID = "Label_2_Image_di_Panel_switch_Image_showName_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+																	UUID = "b8314867_2f59_4319_8718_11e97ed6668d",
+																	anchorPoint = "False",
+																	anchorPointX = "0.5",
+																	anchorPointY = "0.5",
+																	classname = "MELabel",
+																	compPath = "luacomponents.common.MEIconLabel",
+																	dstBlendFunc = "771",
+																	FontColor = "#FFFFFFFF",
+																	fontName = "font/fangzheng_zhunyuan.ttf",
+																	fontShadow = 
+																	{
+																		IsShadow = false,
+																		ShadowColor = "#FFFFFFFF",
+																		ShadowAlpha = 255,
+																		OffsetX = 0,
+																		OffsetY = 0,
+																	},
+																	fontSize = "24",
+																	fontStroke = 
+																	{
+																		IsStroke = false,
+																		StrokeColor = "#FFE6E6E6",
+																		StrokeSize = 1,
+																	},
+																	height = "27",
+																	ignoreSize = "True",
+																	name = "Label_2",
+																	nTextAlign = "1",
+																	nTextHAlign = "1",
+																	sizepercentx = "0",
+																	sizepercenty = "0",
+																	sizeType = "0",
+																	srcBlendFunc = "770",
+																	text = "关",
+																	touchAble = "False",
+																	touchScaleEnable = "False",
+																	UILayoutViewModel = 
+																	{
+																		PositionX = -30,
+																		PositionY = -2,
+																	},
+																	width = "27",
+																	ZOrder = "1",
+																},
+															},
+														},
+														{
+															controlID = "Image_light_Panel_switch_Image_showName_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+															UUID = "edd9afed_2889_459c_bd75_ab6a7cf7abff",
+															anchorPoint = "False",
+															anchorPointX = "0.5",
+															anchorPointY = "0.5",
+															backGroundScale9Enable = "False",
+															classname = "MEImage",
+															dstBlendFunc = "771",
+															height = "41",
+															ignoreSize = "True",
+															name = "Image_light",
+															sizepercentx = "0",
+															sizepercenty = "0",
+															sizeType = "0",
+															srcBlendFunc = "1",
+															texturePath = "ui/activity/znq_yly/info/005.png",
+															touchAble = "False",
+															UILayoutViewModel = 
+															{
+																PositionX = -30,
+															},
+															width = "41",
+															ZOrder = "1",
+														},
+													},
+												},
+											},
+										},
+										{
+											controlID = "Image_showEffect_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+											UUID = "b6d032b6_5b45_4519_a794_74a6a38d6dbb",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											backGroundScale9Enable = "False",
+											classname = "MEImage",
+											dstBlendFunc = "771",
+											height = "61",
+											ignoreSize = "True",
+											name = "Image_showEffect",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "1",
+											texturePath = "ui/activity/znq_yly/info/003.png",
+											touchAble = "False",
+											UILayoutViewModel = 
+											{
+												PositionX = 288,
+												PositionY = 103,
+											},
+											width = "567",
+											ZOrder = "1",
+											components = 
+											{
+												
+												{
+													controlID = "Label_tip_Image_showEffect_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+													UUID = "1c23f6d2_3b57_4e4d_9eae_a6f7b05300c2",
+													anchorPoint = "False",
+													anchorPointX = "0",
+													anchorPointY = "0.5",
+													classname = "MELabel",
+													compPath = "luacomponents.common.MEIconLabel",
+													dstBlendFunc = "771",
+													FontColor = "#FF35516B",
+													fontName = "font/fangzheng_zhunyuan.ttf",
+													fontShadow = 
+													{
+														IsShadow = false,
+														ShadowColor = "#FFFFFFFF",
+														ShadowAlpha = 255,
+														OffsetX = 0,
+														OffsetY = 0,
+													},
+													fontSize = "24",
+													fontStroke = 
+													{
+														IsStroke = false,
+														StrokeColor = "#FFE6E6E6",
+														StrokeSize = 1,
+													},
+													height = "27",
+													ignoreSize = "True",
+													name = "Label_tip",
+													nTextAlign = "1",
+													nTextHAlign = "1",
+													sizepercentx = "0",
+													sizepercenty = "0",
+													sizeType = "0",
+													srcBlendFunc = "770",
+													text = "显示所有人特效",
+													touchAble = "False",
+													touchScaleEnable = "False",
+													UILayoutViewModel = 
+													{
+														PositionX = -274,
+														PositionY = -2,
+													},
+													width = "171",
+													ZOrder = "1",
+												},
+												{
+													controlID = "Panel_switch_Image_showEffect_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+													UUID = "1e0d394f_9e4b_45a9_9521_6d1f3cb586a4",
+													anchorPoint = "False",
+													anchorPointX = "0.5",
+													anchorPointY = "0.5",
+													backGroundScale9Enable = "False",
+													bgColorOpacity = "50",
+													bIsOpenClipping = "False",
+													classname = "MEPanel",
+													colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+													DesignHeight = "640",
+													DesignType = "0",
+													DesignWidth = "960",
+													dstBlendFunc = "771",
+													height = "50",
+													ignoreSize = "False",
+													name = "Panel_switch",
+													sizepercentx = "0",
+													sizepercenty = "0",
+													sizeType = "0",
+													srcBlendFunc = "1",
+													touchAble = "True",
+													UILayoutViewModel = 
+													{
+														PositionX = 221,
+													},
+													uipanelviewmodel = 
+													{
+														Layout="Absolute",
+														nType = "0"
+													},
+													width = "110",
+													ZOrder = "1",
+													components = 
+													{
+														
+														{
+															controlID = "Image_di_Panel_switch_Image_showEffect_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+															UUID = "3380cd9a_3a14_428e_9810_f12496af7438",
+															anchorPoint = "False",
+															anchorPointX = "0.5",
+															anchorPointY = "0.5",
+															backGroundScale9Enable = "False",
+															classname = "MEImage",
+															dstBlendFunc = "771",
+															height = "47",
+															ignoreSize = "True",
+															name = "Image_di",
+															sizepercentx = "0",
+															sizepercenty = "0",
+															sizeType = "0",
+															srcBlendFunc = "1",
+															texturePath = "ui/activity/znq_yly/info/004.png",
+															touchAble = "False",
+															UILayoutViewModel = 
+															{
+																
+															},
+															width = "107",
+															ZOrder = "1",
+															components = 
+															{
+																
+																{
+																	controlID = "Label_1_Image_di_Panel_switch_Image_showEffect_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+																	UUID = "80fbc27a_d5d5_48e8_a7f8_14ecc1c3aef5",
+																	anchorPoint = "False",
+																	anchorPointX = "0.5",
+																	anchorPointY = "0.5",
+																	classname = "MELabel",
+																	compPath = "luacomponents.common.MEIconLabel",
+																	dstBlendFunc = "771",
+																	FontColor = "#FFFFFFFF",
+																	fontName = "font/fangzheng_zhunyuan.ttf",
+																	fontShadow = 
+																	{
+																		IsShadow = false,
+																		ShadowColor = "#FFFFFFFF",
+																		ShadowAlpha = 255,
+																		OffsetX = 0,
+																		OffsetY = 0,
+																	},
+																	fontSize = "24",
+																	fontStroke = 
+																	{
+																		IsStroke = false,
+																		StrokeColor = "#FFE6E6E6",
+																		StrokeSize = 1,
+																	},
+																	height = "27",
+																	ignoreSize = "True",
+																	name = "Label_1",
+																	nTextAlign = "1",
+																	nTextHAlign = "1",
+																	sizepercentx = "0",
+																	sizepercenty = "0",
+																	sizeType = "0",
+																	srcBlendFunc = "770",
+																	text = "开",
+																	touchAble = "False",
+																	touchScaleEnable = "False",
+																	UILayoutViewModel = 
+																	{
+																		PositionX = 29,
+																		PositionY = -2,
+																	},
+																	width = "27",
+																	ZOrder = "1",
+																},
+																{
+																	controlID = "Label_2_Image_di_Panel_switch_Image_showEffect_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+																	UUID = "e37998dc_434c_4ea1_89db_64c35900a403",
+																	anchorPoint = "False",
+																	anchorPointX = "0.5",
+																	anchorPointY = "0.5",
+																	classname = "MELabel",
+																	compPath = "luacomponents.common.MEIconLabel",
+																	dstBlendFunc = "771",
+																	FontColor = "#FFFFFFFF",
+																	fontName = "font/fangzheng_zhunyuan.ttf",
+																	fontShadow = 
+																	{
+																		IsShadow = false,
+																		ShadowColor = "#FFFFFFFF",
+																		ShadowAlpha = 255,
+																		OffsetX = 0,
+																		OffsetY = 0,
+																	},
+																	fontSize = "24",
+																	fontStroke = 
+																	{
+																		IsStroke = false,
+																		StrokeColor = "#FFE6E6E6",
+																		StrokeSize = 1,
+																	},
+																	height = "27",
+																	ignoreSize = "True",
+																	name = "Label_2",
+																	nTextAlign = "1",
+																	nTextHAlign = "1",
+																	sizepercentx = "0",
+																	sizepercenty = "0",
+																	sizeType = "0",
+																	srcBlendFunc = "770",
+																	text = "关",
+																	touchAble = "False",
+																	touchScaleEnable = "False",
+																	UILayoutViewModel = 
+																	{
+																		PositionX = -30,
+																		PositionY = -2,
+																	},
+																	width = "27",
+																	ZOrder = "1",
+																},
+															},
+														},
+														{
+															controlID = "Image_light_Panel_switch_Image_showEffect_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+															UUID = "be9a6595_dbdb_4e21_b5a4_6b70530c5efc",
+															anchorPoint = "False",
+															anchorPointX = "0.5",
+															anchorPointY = "0.5",
+															backGroundScale9Enable = "False",
+															classname = "MEImage",
+															dstBlendFunc = "771",
+															height = "41",
+															ignoreSize = "True",
+															name = "Image_light",
+															sizepercentx = "0",
+															sizepercenty = "0",
+															sizeType = "0",
+															srcBlendFunc = "1",
+															texturePath = "ui/activity/znq_yly/info/005.png",
+															touchAble = "False",
+															UILayoutViewModel = 
+															{
+																PositionX = -30,
+															},
+															width = "41",
+															ZOrder = "1",
+														},
+													},
+												},
+											},
+										},
+										{
+											controlID = "Image_invite_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+											UUID = "3f216de2_4fa2_45c3_b6f6_480bcaebf4f2",
+											anchorPoint = "False",
+											anchorPointX = "0.5",
+											anchorPointY = "0.5",
+											backGroundScale9Enable = "False",
+											classname = "MEImage",
+											dstBlendFunc = "771",
+											height = "61",
+											ignoreSize = "True",
+											name = "Image_invite",
+											sizepercentx = "0",
+											sizepercenty = "0",
+											sizeType = "0",
+											srcBlendFunc = "1",
+											texturePath = "ui/activity/znq_yly/info/003.png",
+											touchAble = "False",
+											UILayoutViewModel = 
+											{
+												PositionX = 288,
+												PositionY = 38,
+											},
+											width = "567",
+											ZOrder = "1",
+											components = 
+											{
+												
+												{
+													controlID = "Label_tip_Image_invite_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+													UUID = "f5e11c69_fcf6_4ac8_976b_1b4d604a7df9",
+													anchorPoint = "False",
+													anchorPointX = "0",
+													anchorPointY = "0.5",
+													classname = "MELabel",
+													compPath = "luacomponents.common.MEIconLabel",
+													dstBlendFunc = "771",
+													FontColor = "#FF35516B",
+													fontName = "font/fangzheng_zhunyuan.ttf",
+													fontShadow = 
+													{
+														IsShadow = false,
+														ShadowColor = "#FFFFFFFF",
+														ShadowAlpha = 255,
+														OffsetX = 0,
+														OffsetY = 0,
+													},
+													fontSize = "24",
+													fontStroke = 
+													{
+														IsStroke = false,
+														StrokeColor = "#FFE6E6E6",
+														StrokeSize = 1,
+													},
+													height = "27",
+													ignoreSize = "True",
+													name = "Label_tip",
+													nTextAlign = "1",
+													nTextHAlign = "1",
+													sizepercentx = "0",
+													sizepercenty = "0",
+													sizeType = "0",
+													srcBlendFunc = "770",
+													text = "显示所有人名字",
+													touchAble = "False",
+													touchScaleEnable = "False",
+													UILayoutViewModel = 
+													{
+														PositionX = -274,
+														PositionY = -2,
+													},
+													width = "171",
+													ZOrder = "1",
+												},
+												{
+													controlID = "Panel_switch_Image_invite_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+													UUID = "ad59e6ba_b7aa_47c3_abf5_024ba03463eb",
+													anchorPoint = "False",
+													anchorPointX = "0.5",
+													anchorPointY = "0.5",
+													backGroundScale9Enable = "False",
+													bgColorOpacity = "50",
+													bIsOpenClipping = "False",
+													classname = "MEPanel",
+													colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
+													DesignHeight = "640",
+													DesignType = "0",
+													DesignWidth = "960",
+													dstBlendFunc = "771",
+													height = "50",
+													ignoreSize = "False",
+													name = "Panel_switch",
+													sizepercentx = "0",
+													sizepercenty = "0",
+													sizeType = "0",
+													srcBlendFunc = "1",
+													touchAble = "True",
+													UILayoutViewModel = 
+													{
+														PositionX = 221,
+													},
+													uipanelviewmodel = 
+													{
+														Layout="Absolute",
+														nType = "0"
+													},
+													width = "110",
+													ZOrder = "1",
+													components = 
+													{
+														
+														{
+															controlID = "Image_di_Panel_switch_Image_invite_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+															UUID = "5d696414_7b07_467b_8405_3e6d1844bdf4",
+															anchorPoint = "False",
+															anchorPointX = "0.5",
+															anchorPointY = "0.5",
+															backGroundScale9Enable = "False",
+															classname = "MEImage",
+															dstBlendFunc = "771",
+															height = "47",
+															ignoreSize = "True",
+															name = "Image_di",
+															sizepercentx = "0",
+															sizepercenty = "0",
+															sizeType = "0",
+															srcBlendFunc = "1",
+															texturePath = "ui/activity/znq_yly/info/004.png",
+															touchAble = "False",
+															UILayoutViewModel = 
+															{
+																
+															},
+															width = "107",
+															ZOrder = "1",
+															components = 
+															{
+																
+																{
+																	controlID = "Label_1_Image_di_Panel_switch_Image_invite_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+																	UUID = "ff7d91e3_b9be_49ae_8688_154898c05968",
+																	anchorPoint = "False",
+																	anchorPointX = "0.5",
+																	anchorPointY = "0.5",
+																	classname = "MELabel",
+																	compPath = "luacomponents.common.MEIconLabel",
+																	dstBlendFunc = "771",
+																	FontColor = "#FFFFFFFF",
+																	fontName = "font/fangzheng_zhunyuan.ttf",
+																	fontShadow = 
+																	{
+																		IsShadow = false,
+																		ShadowColor = "#FFFFFFFF",
+																		ShadowAlpha = 255,
+																		OffsetX = 0,
+																		OffsetY = 0,
+																	},
+																	fontSize = "24",
+																	fontStroke = 
+																	{
+																		IsStroke = false,
+																		StrokeColor = "#FFE6E6E6",
+																		StrokeSize = 1,
+																	},
+																	height = "27",
+																	ignoreSize = "True",
+																	name = "Label_1",
+																	nTextAlign = "1",
+																	nTextHAlign = "1",
+																	sizepercentx = "0",
+																	sizepercenty = "0",
+																	sizeType = "0",
+																	srcBlendFunc = "770",
+																	text = "开",
+																	touchAble = "False",
+																	touchScaleEnable = "False",
+																	UILayoutViewModel = 
+																	{
+																		PositionX = 29,
+																		PositionY = -2,
+																	},
+																	width = "27",
+																	ZOrder = "1",
+																},
+																{
+																	controlID = "Label_2_Image_di_Panel_switch_Image_invite_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+																	UUID = "74920610_94fa_4f33_9107_7b96496338f9",
+																	anchorPoint = "False",
+																	anchorPointX = "0.5",
+																	anchorPointY = "0.5",
+																	classname = "MELabel",
+																	compPath = "luacomponents.common.MEIconLabel",
+																	dstBlendFunc = "771",
+																	FontColor = "#FFFFFFFF",
+																	fontName = "font/fangzheng_zhunyuan.ttf",
+																	fontShadow = 
+																	{
+																		IsShadow = false,
+																		ShadowColor = "#FFFFFFFF",
+																		ShadowAlpha = 255,
+																		OffsetX = 0,
+																		OffsetY = 0,
+																	},
+																	fontSize = "24",
+																	fontStroke = 
+																	{
+																		IsStroke = false,
+																		StrokeColor = "#FFE6E6E6",
+																		StrokeSize = 1,
+																	},
+																	height = "27",
+																	ignoreSize = "True",
+																	name = "Label_2",
+																	nTextAlign = "1",
+																	nTextHAlign = "1",
+																	sizepercentx = "0",
+																	sizepercenty = "0",
+																	sizeType = "0",
+																	srcBlendFunc = "770",
+																	text = "关",
+																	touchAble = "False",
+																	touchScaleEnable = "False",
+																	UILayoutViewModel = 
+																	{
+																		PositionX = -30,
+																		PositionY = -2,
+																	},
+																	width = "27",
+																	ZOrder = "1",
+																},
+															},
+														},
+														{
+															controlID = "Image_light_Panel_switch_Image_invite_scroll_switch_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+															UUID = "0b224236_8c67_4da5_a5fe_bdebca7674e0",
+															anchorPoint = "False",
+															anchorPointX = "0.5",
+															anchorPointY = "0.5",
+															backGroundScale9Enable = "False",
+															classname = "MEImage",
+															dstBlendFunc = "771",
+															height = "41",
+															ignoreSize = "True",
+															name = "Image_light",
+															sizepercentx = "0",
+															sizepercenty = "0",
+															sizeType = "0",
+															srcBlendFunc = "1",
+															texturePath = "ui/activity/znq_yly/info/005.png",
+															touchAble = "False",
+															UILayoutViewModel = 
+															{
+																PositionX = -30,
+															},
+															width = "41",
+															ZOrder = "1",
+														},
+													},
+												},
+											},
+										},
+									},
+								},
+								{
+									controlID = "img_arrow_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
+									UUID = "b04de4c1_8cdf_4fa2_a59e_3beffe5ca6b6",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "61",
+									height = "21",
 									ignoreSize = "True",
-									name = "Image_showName",
+									name = "img_arrow",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/info/003.png",
+									texturePath = "ui/activity/znq_yly/info/025.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 293,
-										PositionY = 102,
+										PositionX = 294,
+										PositionY = 6,
+										IsPercent = true,
+										PercentX = 50,
+										PercentY = 1.56,
 									},
-									width = "567",
-									ZOrder = "1",
-									components = 
-									{
-										
-										{
-											controlID = "Label_tip_Image_showName_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-											UUID = "56cf3295_9098_4bb3_b9b0_3f7631ec01b1",
-											anchorPoint = "False",
-											anchorPointX = "0",
-											anchorPointY = "0.5",
-											classname = "MELabel",
-											compPath = "luacomponents.common.MEIconLabel",
-											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
-											fontName = "font/fangzheng_zhunyuan.ttf",
-											fontShadow = 
-											{
-												IsShadow = false,
-												ShadowColor = "#FFFFFFFF",
-												ShadowAlpha = 255,
-												OffsetX = 0,
-												OffsetY = 0,
-											},
-											fontSize = "24",
-											fontStroke = 
-											{
-												IsStroke = false,
-												StrokeColor = "#FFE6E6E6",
-												StrokeSize = 1,
-											},
-											height = "27",
-											ignoreSize = "True",
-											name = "Label_tip",
-											nTextAlign = "1",
-											nTextHAlign = "1",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "770",
-											text = "显示所有人名字",
-											touchAble = "False",
-											touchScaleEnable = "False",
-											UILayoutViewModel = 
-											{
-												PositionX = -274,
-												PositionY = -2,
-											},
-											width = "171",
-											ZOrder = "1",
-										},
-										{
-											controlID = "Panel_switch_Image_showName_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-											UUID = "29234df6_ed1d_4ac5_b190_3fcc0dbcf67b",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
-											bgColorOpacity = "50",
-											bIsOpenClipping = "False",
-											classname = "MEPanel",
-											colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
-											DesignHeight = "640",
-											DesignType = "0",
-											DesignWidth = "960",
-											dstBlendFunc = "771",
-											height = "50",
-											ignoreSize = "False",
-											name = "Panel_switch",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "1",
-											touchAble = "True",
-											UILayoutViewModel = 
-											{
-												PositionX = 221,
-											},
-											uipanelviewmodel = 
-											{
-												Layout="Absolute",
-												nType = "0"
-											},
-											width = "110",
-											ZOrder = "1",
-											components = 
-											{
-												
-												{
-													controlID = "Image_di_Panel_switch_Image_showName_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-													UUID = "94d5676d_faab_4e74_b087_fc370fe3c7cb",
-													anchorPoint = "False",
-													anchorPointX = "0.5",
-													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
-													classname = "MEImage",
-													dstBlendFunc = "771",
-													height = "47",
-													ignoreSize = "True",
-													name = "Image_di",
-													sizepercentx = "0",
-													sizepercenty = "0",
-													sizeType = "0",
-													srcBlendFunc = "1",
-													texturePath = "ui/activity/znq_yly/info/004.png",
-													touchAble = "False",
-													UILayoutViewModel = 
-													{
-														
-													},
-													width = "107",
-													ZOrder = "1",
-													components = 
-													{
-														
-														{
-															controlID = "Label_1_Image_di_Panel_switch_Image_showName_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-															UUID = "d503fca3_9d18_4930_9fad_6557678f0078",
-															anchorPoint = "False",
-															anchorPointX = "0.5",
-															anchorPointY = "0.5",
-															classname = "MELabel",
-															compPath = "luacomponents.common.MEIconLabel",
-															dstBlendFunc = "771",
-															FontColor = "#FFFFFFFF",
-															fontName = "font/fangzheng_zhunyuan.ttf",
-															fontShadow = 
-															{
-																IsShadow = false,
-																ShadowColor = "#FFFFFFFF",
-																ShadowAlpha = 255,
-																OffsetX = 0,
-																OffsetY = 0,
-															},
-															fontSize = "24",
-															fontStroke = 
-															{
-																IsStroke = false,
-																StrokeColor = "#FFE6E6E6",
-																StrokeSize = 1,
-															},
-															height = "27",
-															ignoreSize = "True",
-															name = "Label_1",
-															nTextAlign = "1",
-															nTextHAlign = "1",
-															sizepercentx = "0",
-															sizepercenty = "0",
-															sizeType = "0",
-															srcBlendFunc = "770",
-															text = "开",
-															touchAble = "False",
-															touchScaleEnable = "False",
-															UILayoutViewModel = 
-															{
-																PositionX = 29,
-																PositionY = -2,
-															},
-															width = "27",
-															ZOrder = "1",
-														},
-														{
-															controlID = "Label_2_Image_di_Panel_switch_Image_showName_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-															UUID = "b8314867_2f59_4319_8718_11e97ed6668d",
-															anchorPoint = "False",
-															anchorPointX = "0.5",
-															anchorPointY = "0.5",
-															classname = "MELabel",
-															compPath = "luacomponents.common.MEIconLabel",
-															dstBlendFunc = "771",
-															FontColor = "#FFFFFFFF",
-															fontName = "font/fangzheng_zhunyuan.ttf",
-															fontShadow = 
-															{
-																IsShadow = false,
-																ShadowColor = "#FFFFFFFF",
-																ShadowAlpha = 255,
-																OffsetX = 0,
-																OffsetY = 0,
-															},
-															fontSize = "24",
-															fontStroke = 
-															{
-																IsStroke = false,
-																StrokeColor = "#FFE6E6E6",
-																StrokeSize = 1,
-															},
-															height = "27",
-															ignoreSize = "True",
-															name = "Label_2",
-															nTextAlign = "1",
-															nTextHAlign = "1",
-															sizepercentx = "0",
-															sizepercenty = "0",
-															sizeType = "0",
-															srcBlendFunc = "770",
-															text = "关",
-															touchAble = "False",
-															touchScaleEnable = "False",
-															UILayoutViewModel = 
-															{
-																PositionX = -30,
-																PositionY = -2,
-															},
-															width = "27",
-															ZOrder = "1",
-														},
-													},
-												},
-												{
-													controlID = "Image_light_Panel_switch_Image_showName_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-													UUID = "edd9afed_2889_459c_bd75_ab6a7cf7abff",
-													anchorPoint = "False",
-													anchorPointX = "0.5",
-													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
-													classname = "MEImage",
-													dstBlendFunc = "771",
-													height = "41",
-													ignoreSize = "True",
-													name = "Image_light",
-													sizepercentx = "0",
-													sizepercenty = "0",
-													sizeType = "0",
-													srcBlendFunc = "1",
-													texturePath = "ui/activity/znq_yly/info/005.png",
-													touchAble = "False",
-													UILayoutViewModel = 
-													{
-														PositionX = -30,
-													},
-													width = "41",
-													ZOrder = "1",
-												},
-											},
-										},
-									},
-								},
-								{
-									controlID = "Image_showEffect_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-									UUID = "b6d032b6_5b45_4519_a794_74a6a38d6dbb",
-									anchorPoint = "False",
-									anchorPointX = "0.5",
-									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
-									classname = "MEImage",
-									dstBlendFunc = "771",
-									height = "61",
-									ignoreSize = "True",
-									name = "Image_showEffect",
-									sizepercentx = "0",
-									sizepercenty = "0",
-									sizeType = "0",
-									srcBlendFunc = "1",
-									texturePath = "ui/activity/znq_yly/info/003.png",
-									touchAble = "False",
-									UILayoutViewModel = 
-									{
-										PositionX = 293,
-										PositionY = 37,
-									},
-									width = "567",
-									ZOrder = "1",
-									components = 
-									{
-										
-										{
-											controlID = "Label_tip_Image_showEffect_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-											UUID = "1c23f6d2_3b57_4e4d_9eae_a6f7b05300c2",
-											anchorPoint = "False",
-											anchorPointX = "0",
-											anchorPointY = "0.5",
-											classname = "MELabel",
-											compPath = "luacomponents.common.MEIconLabel",
-											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
-											fontName = "font/fangzheng_zhunyuan.ttf",
-											fontShadow = 
-											{
-												IsShadow = false,
-												ShadowColor = "#FFFFFFFF",
-												ShadowAlpha = 255,
-												OffsetX = 0,
-												OffsetY = 0,
-											},
-											fontSize = "24",
-											fontStroke = 
-											{
-												IsStroke = false,
-												StrokeColor = "#FFE6E6E6",
-												StrokeSize = 1,
-											},
-											height = "27",
-											ignoreSize = "True",
-											name = "Label_tip",
-											nTextAlign = "1",
-											nTextHAlign = "1",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "770",
-											text = "显示所有人特效",
-											touchAble = "False",
-											touchScaleEnable = "False",
-											UILayoutViewModel = 
-											{
-												PositionX = -274,
-												PositionY = -2,
-											},
-											width = "171",
-											ZOrder = "1",
-										},
-										{
-											controlID = "Panel_switch_Image_showEffect_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-											UUID = "1e0d394f_9e4b_45a9_9521_6d1f3cb586a4",
-											anchorPoint = "False",
-											anchorPointX = "0.5",
-											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
-											bgColorOpacity = "50",
-											bIsOpenClipping = "False",
-											classname = "MEPanel",
-											colorType = "0;SingleColor:#FFE6E6E6;GraduallyChangingColorStart:#FFFFFFFF;GraduallyChangingColorEnd:#FFFFFFFF;vectorX:0;vectorY:0",
-											DesignHeight = "640",
-											DesignType = "0",
-											DesignWidth = "960",
-											dstBlendFunc = "771",
-											height = "50",
-											ignoreSize = "False",
-											name = "Panel_switch",
-											sizepercentx = "0",
-											sizepercenty = "0",
-											sizeType = "0",
-											srcBlendFunc = "1",
-											touchAble = "True",
-											UILayoutViewModel = 
-											{
-												PositionX = 221,
-											},
-											uipanelviewmodel = 
-											{
-												Layout="Absolute",
-												nType = "0"
-											},
-											width = "110",
-											ZOrder = "1",
-											components = 
-											{
-												
-												{
-													controlID = "Image_di_Panel_switch_Image_showEffect_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-													UUID = "3380cd9a_3a14_428e_9810_f12496af7438",
-													anchorPoint = "False",
-													anchorPointX = "0.5",
-													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
-													classname = "MEImage",
-													dstBlendFunc = "771",
-													height = "47",
-													ignoreSize = "True",
-													name = "Image_di",
-													sizepercentx = "0",
-													sizepercenty = "0",
-													sizeType = "0",
-													srcBlendFunc = "1",
-													texturePath = "ui/activity/znq_yly/info/004.png",
-													touchAble = "False",
-													UILayoutViewModel = 
-													{
-														
-													},
-													width = "107",
-													ZOrder = "1",
-													components = 
-													{
-														
-														{
-															controlID = "Label_1_Image_di_Panel_switch_Image_showEffect_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-															UUID = "80fbc27a_d5d5_48e8_a7f8_14ecc1c3aef5",
-															anchorPoint = "False",
-															anchorPointX = "0.5",
-															anchorPointY = "0.5",
-															classname = "MELabel",
-															compPath = "luacomponents.common.MEIconLabel",
-															dstBlendFunc = "771",
-															FontColor = "#FFFFFFFF",
-															fontName = "font/fangzheng_zhunyuan.ttf",
-															fontShadow = 
-															{
-																IsShadow = false,
-																ShadowColor = "#FFFFFFFF",
-																ShadowAlpha = 255,
-																OffsetX = 0,
-																OffsetY = 0,
-															},
-															fontSize = "24",
-															fontStroke = 
-															{
-																IsStroke = false,
-																StrokeColor = "#FFE6E6E6",
-																StrokeSize = 1,
-															},
-															height = "27",
-															ignoreSize = "True",
-															name = "Label_1",
-															nTextAlign = "1",
-															nTextHAlign = "1",
-															sizepercentx = "0",
-															sizepercenty = "0",
-															sizeType = "0",
-															srcBlendFunc = "770",
-															text = "开",
-															touchAble = "False",
-															touchScaleEnable = "False",
-															UILayoutViewModel = 
-															{
-																PositionX = 29,
-																PositionY = -2,
-															},
-															width = "27",
-															ZOrder = "1",
-														},
-														{
-															controlID = "Label_2_Image_di_Panel_switch_Image_showEffect_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-															UUID = "e37998dc_434c_4ea1_89db_64c35900a403",
-															anchorPoint = "False",
-															anchorPointX = "0.5",
-															anchorPointY = "0.5",
-															classname = "MELabel",
-															compPath = "luacomponents.common.MEIconLabel",
-															dstBlendFunc = "771",
-															FontColor = "#FFFFFFFF",
-															fontName = "font/fangzheng_zhunyuan.ttf",
-															fontShadow = 
-															{
-																IsShadow = false,
-																ShadowColor = "#FFFFFFFF",
-																ShadowAlpha = 255,
-																OffsetX = 0,
-																OffsetY = 0,
-															},
-															fontSize = "24",
-															fontStroke = 
-															{
-																IsStroke = false,
-																StrokeColor = "#FFE6E6E6",
-																StrokeSize = 1,
-															},
-															height = "27",
-															ignoreSize = "True",
-															name = "Label_2",
-															nTextAlign = "1",
-															nTextHAlign = "1",
-															sizepercentx = "0",
-															sizepercenty = "0",
-															sizeType = "0",
-															srcBlendFunc = "770",
-															text = "关",
-															touchAble = "False",
-															touchScaleEnable = "False",
-															UILayoutViewModel = 
-															{
-																PositionX = -30,
-																PositionY = -2,
-															},
-															width = "27",
-															ZOrder = "1",
-														},
-													},
-												},
-												{
-													controlID = "Image_light_Panel_switch_Image_showEffect_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
-													UUID = "be9a6595_dbdb_4e21_b5a4_6b70530c5efc",
-													anchorPoint = "False",
-													anchorPointX = "0.5",
-													anchorPointY = "0.5",
-													backGroundScale9Enable = "False",
-													classname = "MEImage",
-													dstBlendFunc = "771",
-													height = "41",
-													ignoreSize = "True",
-													name = "Image_light",
-													sizepercentx = "0",
-													sizepercenty = "0",
-													sizeType = "0",
-													srcBlendFunc = "1",
-													texturePath = "ui/activity/znq_yly/info/005.png",
-													touchAble = "False",
-													UILayoutViewModel = 
-													{
-														PositionX = -30,
-													},
-													width = "41",
-													ZOrder = "1",
-												},
-											},
-										},
-									},
+									visible = "False",
+									width = "34",
+									ZOrder = "2",
 								},
 								{
 									controlID = "Button_openSkin_Panel_content_Panel_root_Panel-znq_personinfo_znq_yly_activity_Game",
@@ -1318,8 +1653,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -155,
-										PositionY = 44,
+										PositionX = -154,
+										PositionY = 43,
 									},
 									UItype = "Button",
 									width = "86",
@@ -1336,7 +1671,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF737AC8",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -1353,7 +1688,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "26",
+											height = "29",
 											ignoreSize = "True",
 											name = "Label_open",
 											nTextAlign = "1",
@@ -1367,9 +1702,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												
+												PositionY = -3,
 											},
-											width = "49",
+											width = "48",
 											ZOrder = "1",
 										},
 									},
@@ -1397,7 +1732,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 515,
+										PositionX = 484,
 										PositionY = -35,
 										LeftPositon = 836,
 										TopPosition = 392,
@@ -1418,7 +1753,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF737AC8",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -1435,7 +1770,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_znq_personinfo_1",
 											nTextAlign = "1",
@@ -1465,7 +1800,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF535891",
+									FontColor = "#FF35516B",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -1496,10 +1831,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 434,
+										PositionX = 387,
 										PositionY = -36,
 									},
-									width = "89",
+									width = "88",
 									ZOrder = "1",
 								},
 							},
@@ -1569,8 +1904,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 4,
-										PositionY = -1,
+										PositionX = -3,
+										PositionY = 4,
 									},
 									uipanelviewmodel = 
 									{
@@ -1605,8 +1940,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 559,
-										PositionY = 285,
+										PositionX = 552,
+										PositionY = 290,
 									},
 									uipanelviewmodel = 
 									{
@@ -1641,7 +1976,7 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												
+												PositionX = 5,
 											},
 											UItype = "Button",
 											visible = "False",
@@ -1690,7 +2025,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 4,
+														
 													},
 													width = "23",
 													ZOrder = "1",
@@ -1733,7 +2068,7 @@ local t =
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
 													dstBlendFunc = "771",
-													FontColor = "#FF737AC8",
+													FontColor = "#FF902A3B",
 													fontName = "font/MFLiHei_Noncommercial.ttf",
 													fontShadow = 
 													{
@@ -1798,8 +2133,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 559,
-										PositionY = 92,
+										PositionX = 552,
+										PositionY = 100,
 									},
 									uipanelviewmodel = 
 									{
@@ -1834,7 +2169,7 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												
+												PositionX = 5,
 											},
 											UItype = "Button",
 											width = "46",
@@ -1882,7 +2217,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 4,
+														
 													},
 													width = "23",
 													ZOrder = "1",
@@ -1926,7 +2261,7 @@ local t =
 													classname = "MELabel",
 													compPath = "luacomponents.common.MEIconLabel",
 													dstBlendFunc = "771",
-													FontColor = "#FF737AC8",
+													FontColor = "#FF902A3B",
 													fontName = "font/MFLiHei_Noncommercial.ttf",
 													fontShadow = 
 													{
@@ -1989,8 +2324,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -155,
-										PositionY = 44,
+										PositionX = -154,
+										PositionY = 43,
 									},
 									UItype = "Button",
 									width = "86",
@@ -2007,7 +2342,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF737AC8",
+											FontColor = "#FFFFFFFF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -2017,14 +2352,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "23",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
+											height = "29",
 											ignoreSize = "True",
 											name = "Label_close",
 											nTextAlign = "1",
@@ -2038,9 +2373,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												
+												PositionY = -3,
 											},
-											width = "42",
+											width = "49",
 											ZOrder = "1",
 										},
 									},
@@ -2190,7 +2525,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFFFFFFF",
+									FontColor = "#FF2B4661",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -2223,7 +2558,7 @@ local t =
 									{
 										PositionY = 77,
 									},
-									width = "41",
+									width = "47",
 									ZOrder = "1",
 								},
 								{
@@ -2302,6 +2637,7 @@ local t =
 			"ui/activity/znq_yly/info/003.png",
 			"ui/activity/znq_yly/info/004.png",
 			"ui/activity/znq_yly/info/005.png",
+			"ui/activity/znq_yly/info/025.png",
 			"ui/activity/znq_yly/info/017.png",
 			"ui/activity/znq_yly/info/006.png",
 			"ui/activity/znq_yly/info/024.png",

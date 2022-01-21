@@ -87,9 +87,9 @@ function TFGlobalUtils:transAniNameByLanguage( spine, name )
 	if not spine:getSkeleton() then
 		return name
 	end
-	print(spine:getName()  .." origin play animation: " ..name)
+	print(spine:getName()  .." origin play animation: " ..tostring(name))
 	local aniName = spine:transToLanguageAniName(name, TFLanguageMgr:getUsingLanguage())
-	print(spine:getName()  .." new play animation: " ..aniName)
+	print(spine:getName()  .." new play animation: " ..tostring(aniName))
 	return aniName
 end
 

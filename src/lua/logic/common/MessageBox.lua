@@ -31,6 +31,7 @@ function showMessageBox( msg , _type,okhandle , cancelhandle)
         AlertManager:show()
         layer.isCanNotClose = true
     end
+    return layer
 end
 
 local MessageBox = class("MessageBox", BaseLayer)

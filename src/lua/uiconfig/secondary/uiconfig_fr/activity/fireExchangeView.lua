@@ -216,14 +216,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "交换界面",
+											text = "Trade Interface",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "83",
+											width = "122",
 											ZOrder = "1",
 										},
 									},
@@ -379,14 +379,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "确认",
+													text = "Confirm",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "43",
+													width = "71",
 													ZOrder = "1",
 												},
 											},
@@ -582,14 +582,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "确认",
+													text = "Confirm",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "43",
+													width = "68",
 													ZOrder = "1",
 												},
 											},
@@ -763,14 +763,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "气球背包",
+											text = "Balloon Bag",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "83",
+											width = "97",
 											ZOrder = "1",
 										},
 									},
@@ -951,7 +951,7 @@ local t =
 										PositionX = 19,
 										PositionY = 19,
 									},
-									width = "25",
+									width = "24",
 									ZOrder = "1",
 								},
 							},

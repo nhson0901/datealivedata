@@ -65,8 +65,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 480,
-						PositionY = 320,
+						PositionX = 510,
+						PositionY = 334,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -240,7 +240,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "新春解密",
+							text = "Spring Riddles",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -248,7 +248,7 @@ local t =
 								PositionX = 187,
 								PositionY = 553,
 							},
-							width = "114",
+							width = "217",
 							ZOrder = "1",
 							components = 
 							{
@@ -276,6 +276,7 @@ local t =
 										PositionX = 120,
 										PositionY = 1,
 									},
+									visible = "False",
 									width = "4",
 									ZOrder = "1",
 								},
@@ -471,7 +472,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "重置倒计时：",
+							text = "Resets in",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -519,7 +520,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "重置倒计时：",
+									text = "Resets in",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -566,7 +567,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "重置倒计时：",
+							text = "Resets in",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -600,7 +601,7 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 338,
+								PositionX = 453,
 								PositionY = 556,
 							},
 							UItype = "Button",
@@ -756,7 +757,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "地图",
+											text = "Map",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -821,23 +822,24 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "0",
-											ignoreSize = "False",
+											height = "29",
+											ignoreSize = "True",
 											name = "Label_cn",
 											nTextAlign = "1",
 											nTextHAlign = "1",
+											rotation = "90",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "地图",
+											text = "Map",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "30",
+											width = "60",
 											ZOrder = "1",
 										},
 									},

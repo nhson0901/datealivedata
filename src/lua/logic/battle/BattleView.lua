@@ -2470,9 +2470,8 @@ function BattleView:onHeroAttrChange(hero)
         local powerData = hero:getEnergyData()
         if powerData then
             if powerData.specialEnergyUI == 1 then 
-                self.keyBoard.Image_specialEnergy:setVisible(true)  
                 local percent = math.ceil(hero:getSpecialEnergyPercent()*0.005) + 50
-                self.keyBoard.LoadingBar_specialEnergy:setPercent(percent)
+                self.keyBoard:setSpecialEnergyByPowerUIOne(percent)
             else
                 self.keyBoard.Image_specialEnergy:setVisible(false)
             end

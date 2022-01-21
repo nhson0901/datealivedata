@@ -403,6 +403,7 @@ function LoginLayer:registerEvents()
     EventMgr:addEventListener(self, "LoginLayer.LoginComplete", handler(self.loginGameServerSuccess, self))
     EventMgr:addEventListener(self, "LoginLayer.LoginSuccess", handler(self.loginAccountSuccess, self))
     EventMgr:addEventListener(self, EV_WEBVIEW_CLOSE, handler(self.onWebViewClose, self))
+     EventMgr:addEventListener(self, "LoginLayer.AcountBan", handler(self.accountBan, self))
 
 	local function onTextFieldChangedHandleAcc(input)
        	local text = input:getText()
@@ -510,6 +511,7 @@ function LoginLayer:removeEvents()
 	self.super.removeEvents(self)
 	TFDirector:removeMEGlobalListener("LoginLayer.LoginSuccess", handler(self.loginAccountSuccess, self))
     TFDirector:removeMEGlobalListener("LoginLayer.LoginComplete", handler(self.loginGameServerSuccess, self))
+    TFDirector:removeMEGlobalListener("LoginLayer.AcountBan", handler(self.accountBan, self))
 end
 
 function LoginLayer:showLoingBoard()
@@ -565,6 +567,16 @@ function LoginLayer:loginGameServerSuccess(event)
         	end
         end
 	end
+end
+
+function LoginLayer:accountBan()
+	local tips = TextDataMgr:getText(190001266)
+    local okhandle = function()
+    	if self.accountBanTipLayer then
+    		self.accountBanTipLayer:removeFromParent()
+    	end
+    end
+    self.accountBanTipLayer = showMessageBox(tips,EC_MessageBoxType.ok,okhandle);
 end
 
 function LoginLayer.enterNextPage(sender)

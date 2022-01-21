@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -184,7 +184,7 @@ local t =
 										PositionX = -280,
 										PositionY = 142,
 									},
-									width = "81",
+									width = "91",
 									ZOrder = "1",
 								},
 								{
@@ -199,7 +199,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "45",
+									height = "50",
 									ignoreSize = "False",
 									name = "Button_ok",
 									normal = "ui/common/button09.png",
@@ -211,11 +211,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 230,
+										PositionX = 203,
 										PositionY = -140,
 									},
 									UItype = "Button",
-									width = "120",
+									width = "169",
 									ZOrder = "1",
 									components = 
 									{
@@ -246,8 +246,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "25",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_ok",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -260,10 +260,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -3,
-												PositionY = -1,
+												
 											},
-											width = "37",
+											width = "141",
 											ZOrder = "1",
 										},
 									},
@@ -466,7 +465,7 @@ local t =
 										PositionX = -68,
 										PositionY = -83,
 									},
-									width = "311",
+									width = "290",
 									ZOrder = "1",
 								},
 								{
@@ -533,7 +532,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "45",
+									height = "50",
 									ignoreSize = "False",
 									name = "Button_no",
 									normal = "ui/common/button_blue_s.png",
@@ -545,11 +544,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = -228,
+										PositionX = -203,
 										PositionY = -140,
 									},
 									UItype = "Button",
-									width = "120",
+									width = "169",
 									ZOrder = "1",
 									components = 
 									{
@@ -597,7 +596,7 @@ local t =
 												PositionX = -3,
 												PositionY = -1,
 											},
-											width = "49",
+											width = "47",
 											ZOrder = "1",
 										},
 									},

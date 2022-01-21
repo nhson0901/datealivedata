@@ -297,7 +297,7 @@ function StorePackMainView:updateCommodityItem(item, commodityId)
                 Utils:showTips(14210003);
             else
                 if StoreDataMgr:getCommodityCfg(commodityId).extendData.date then
-                    Utils:showTips(14210005,StoreDataMgr:getCommodityCfg(commodityId).extendData.date);
+                    Utils:showTips(14210005, TextDataMgr:getText(StoreDataMgr:getCommodityCfg(commodityId).extendData.date))
                 end
             end
             Button_buy:setGrayEnabled(state ~= 1)

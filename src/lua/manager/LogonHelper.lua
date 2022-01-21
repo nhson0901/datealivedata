@@ -90,6 +90,13 @@ function LogonHelper:loginTest(account,password,code,isAuto)
             return;
         end
 
+        --多账号封停
+        if data.status and data.status == 100037 then
+            hideAllLoading();
+            EventMgr:dispatchEvent("LoginLayer.AcountBan")
+            return
+        end
+
         if data.status ~= 0 then
             hideAllLoading();
             self.isLogined = false;
@@ -123,6 +130,7 @@ function LogonHelper:loginTest(account,password,code,isAuto)
             SaveManager:saveIsActivat(true);
 
             if table.count(data.data) == 1 then
+                ServerDataMgr:setCurrentServerIndex(1)
                 SaveManager:saveUserInfoDemo(account,password,data.data[1].token,data.data[1].gameServerIp,data.data[1].gameServerPort);
             else
                 local selectIdx = ServerDataMgr:getCurrentServerIndex();
@@ -227,7 +235,14 @@ function LogonHelper:loginVerification()
             self:restartGame(data.msg);
             self.connectedArray:clear()
             return;
-        end        
+        end     
+
+        --多账号封停
+        if data.status and data.status == 100037 then
+            hideAllLoading();
+            EventMgr:dispatchEvent("LoginLayer.AcountBan")
+            return
+        end   
 
         if data.status ~= 0 then
             hideAllLoading();
@@ -270,6 +285,7 @@ function LogonHelper:loginVerification()
             ServerDataMgr:setGameServerList(data.data)
             
             if table.count(data.data) == 1 then
+                ServerDataMgr:setCurrentServerIndex(1)
                 SaveManager:saveUserInfoDemo(account,password,data.data[1].token,data.data[1].gameServerIp,data.data[1].gameServerPort);
             else
                 local selectIdx = ServerDataMgr:getCurrentServerIndex();

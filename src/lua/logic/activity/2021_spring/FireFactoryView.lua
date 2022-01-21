@@ -208,7 +208,10 @@ function FireFactoryView:registerEvents()
 
     self.Spine_girl:addMEListener(TFARMATURE_COMPLETE,function(spine,animationName)
         if animationName == "special1" then
-            ActivityDataMgr2:send_ACTIVITY_NEW_SUBMIT_ACTIVITY(self.activityId, self.curModule.itemTaskId, 1)
+            local extendData = {num = 1}
+            local json = require("LuaScript.extends.json")
+            local jsonExtendData = json.encode(extendData)
+            ActivityDataMgr2:send_ACTIVITY_NEW_SUBMIT_ACTIVITY(self.activityId, self.curModule.itemTaskId, jsonExtendData)
             spine:play("idle", true)
             self.Panel_TouchShield:hide()
        end

@@ -89,39 +89,6 @@ local t =
 					{
 						
 						{
-							controlID = "Image_nianshowTaskView_1_pannel_root_Panel-nianshowTaskView_activity_2021_spring_activity_Game",
-							UUID = "d0a10ee8_5600_4aa2_9685_8e3af885a788",
-							anchorPoint = "False",
-							anchorPointX = "0.5",
-							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
-							classname = "MEImage",
-							dstBlendFunc = "771",
-							height = "640",
-							ignoreSize = "True",
-							name = "Image_nianshowTaskView_1",
-							sizepercentx = "0",
-							sizepercenty = "0",
-							sizeType = "0",
-							srcBlendFunc = "770",
-							texturePath = "ui/activity/newyear_2021/nianshou/累计击败年兽奖励.png",
-							touchAble = "False",
-							UILayoutViewModel = 
-							{
-								PositionX = 568,
-								PositionY = 320,
-								IsPercent = true,
-								PercentX = 50,
-								PercentY = 50,
-								LeftPositon = -90,
-								TopPosition = 643,
-								relativeToName = "Panel",
-							},
-							visible = "False",
-							width = "1386",
-							ZOrder = "1",
-						},
-						{
 							controlID = "imgBg_pannel_root_Panel-nianshowTaskView_activity_2021_spring_activity_Game",
 							UUID = "353a4d5c_5c3a_4ed9_bdb5_dc8af50d25a8",
 							anchorPoint = "False",
@@ -203,7 +170,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_tips_title",
 							nTextAlign = "1",
@@ -212,7 +179,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "累计击败年兽奖励",
+							text = "Nian Beast Kill Rewards",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -220,7 +187,7 @@ local t =
 								PositionX = 208,
 								PositionY = 485,
 							},
-							width = "228",
+							width = "356",
 							ZOrder = "1",
 						},
 						{
@@ -402,7 +369,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "日常任务每天重置刷新",
+									text = "Daily Quest Reset Daily",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -410,7 +377,7 @@ local t =
 										PositionX = 25,
 										PositionY = 110,
 									},
-									width = "224",
+									width = "211",
 									ZOrder = "1",
 									components = 
 									{
@@ -457,7 +424,7 @@ local t =
 											{
 												PositionX = 234,
 											},
-											width = "62",
+											width = "74",
 											ZOrder = "1",
 										},
 										{
@@ -582,7 +549,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_ksOutbountTaskView_1",
 											nTextAlign = "1",
@@ -591,14 +558,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "领取",
+											text = "Claim",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "55",
+											width = "83",
 											ZOrder = "1",
 										},
 									},
@@ -658,7 +625,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "32",
+											height = "30",
 											ignoreSize = "True",
 											name = "labNotComplete",
 											nTextAlign = "1",
@@ -667,14 +634,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "未达成",
+											text = "Not reached",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "81",
+											width = "168",
 											ZOrder = "1",
 										},
 									},
@@ -705,7 +672,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "label_geted",
 									nTextAlign = "1",
@@ -714,7 +681,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "已领取",
+									text = "Claimed",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -722,7 +689,7 @@ local t =
 										PositionX = 613,
 										PositionY = 60,
 									},
-									width = "81",
+									width = "114",
 									ZOrder = "1",
 								},
 							},
@@ -740,7 +707,6 @@ local t =
 	{
 		textures = 
 		{
-			"ui/activity/newyear_2021/nianshou/累计击败年兽奖励.png",
 			"ui/activity/newyear_2021/nianshou/frame.png",
 			"ui/activity/newyear_2021/nianshou/btn7.png",
 			"ui/activity/newyear_2021/nianshou/013.png",

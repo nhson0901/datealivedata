@@ -7394,14 +7394,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "24",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
+													height = "28",
 													ignoreSize = "True",
 													name = "Label_nianshou_title",
 													nTextAlign = "1",
@@ -7410,7 +7410,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "鞭炮技能选择",
+													text = "Fire Cracker Skill Select",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -7418,7 +7418,7 @@ local t =
 														PositionX = 49,
 														PositionY = -2,
 													},
-													width = "158",
+													width = "303",
 													ZOrder = "1",
 												},
 												{
@@ -7444,7 +7444,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = 250,
+														PositionX = 380,
 													},
 													UItype = "Button",
 													width = "48",
@@ -7755,11 +7755,13 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "45",
+													height = "0",
 													ignoreSize = "False",
 													name = "Label_bianpao_desc",
 													nTextAlign = "0",
 													nTextHAlign = "0",
+													scaleX = "0.8",
+													scaleY = "0.8",
 													sizepercentx = "0",
 													sizepercenty = "0",
 													sizeType = "0",
@@ -7770,9 +7772,9 @@ local t =
 													UILayoutViewModel = 
 													{
 														PositionX = 106,
-														PositionY = 23,
+														PositionY = 28,
 													},
-													width = "320",
+													width = "413",
 													ZOrder = "1",
 												},
 												{
@@ -8059,7 +8061,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "60",
+													height = "0",
 													ignoreSize = "False",
 													name = "Label_bianpao_buff",
 													nTextAlign = "1",
@@ -8143,7 +8145,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "50",
+											height = "0",
 											ignoreSize = "False",
 											name = "Label_nianshou_tips",
 											nTextAlign = "1",
@@ -8158,7 +8160,7 @@ local t =
 											UILayoutViewModel = 
 											{
 												PositionX = -1060,
-												PositionY = 10,
+												PositionY = -4,
 											},
 											width = "560",
 											ZOrder = "1",

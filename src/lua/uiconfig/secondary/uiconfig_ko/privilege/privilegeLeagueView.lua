@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 2,
+	version = 1,
 	components = 
 	{
 		
@@ -95,7 +95,7 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "512",
+							height = "544",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
@@ -112,7 +112,7 @@ local t =
 								PercentX = 50,
 								PercentY = 50,
 							},
-							width = "1049",
+							width = "1106",
 							ZOrder = "1",
 							components = 
 							{
@@ -154,7 +154,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "64",
+									height = "32",
 									ignoreSize = "True",
 									name = "Button_close",
 									normal = "ui/activity/znq_yly/info/012.png",
@@ -169,7 +169,7 @@ local t =
 										PositionY = 215,
 									},
 									UItype = "Button",
-									width = "62",
+									width = "35",
 									ZOrder = "1",
 								},
 								{
@@ -198,7 +198,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "35",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -207,7 +207,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Privilege information",
+									text = "特权信息",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -215,7 +215,7 @@ local t =
 										PositionX = -362,
 										PositionY = 211,
 									},
-									width = "317",
+									width = "114",
 									ZOrder = "1",
 									components = 
 									{
@@ -229,7 +229,7 @@ local t =
 											backGroundScale9Enable = "False",
 											classname = "MEImage",
 											dstBlendFunc = "771",
-											height = "32",
+											height = "26",
 											ignoreSize = "True",
 											name = "Image_line",
 											sizepercentx = "0",
@@ -243,8 +243,7 @@ local t =
 												PositionX = 121,
 												PositionY = 2,
 											},
-											visible = "False",
-											width = "4",
+											width = "5",
 											ZOrder = "1",
 										},
 										{
@@ -290,7 +289,6 @@ local t =
 												PositionX = 130,
 												PositionY = -1,
 											},
-											visible = "False",
 											width = "71",
 											ZOrder = "1",
 										},
@@ -329,6 +327,7 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
+									visible = "False",
 									width = "950",
 									ZOrder = "1",
 									components = 
@@ -440,7 +439,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Today can also improve experience 505",
+											text = "今日还可以提升经验505",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -448,7 +447,7 @@ local t =
 												PositionX = -24,
 												PositionY = -29,
 											},
-											width = "377",
+											width = "257",
 											ZOrder = "1",
 										},
 										{
@@ -560,7 +559,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "32",
+													height = "35",
 													ignoreSize = "True",
 													name = "Label_bar",
 													nTextAlign = "1",
@@ -569,14 +568,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Lv.1",
+													text = "Lv1",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionX = -565,
 													},
-													width = "61",
+													width = "59",
 													ZOrder = "1",
 												},
 												{
@@ -621,7 +620,7 @@ local t =
 													{
 														PositionX = -323,
 													},
-													width = "54",
+													width = "55",
 													ZOrder = "1",
 												},
 											},
@@ -756,7 +755,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "The remainings",
+													text = "剩余可添加上限",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -764,7 +763,7 @@ local t =
 														PositionX = -226,
 														PositionY = -44,
 													},
-													width = "116",
+													width = "130",
 													ZOrder = "1",
 												},
 												{
@@ -802,7 +801,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Gain 500 EXP",
+													text = "获得500点经验",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -810,7 +809,7 @@ local t =
 														PositionX = 227,
 														PositionY = -44,
 													},
-													width = "110",
+													width = "124",
 													ZOrder = "1",
 												},
 												{
@@ -833,7 +832,6 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -47,
 														PositionY = 14,
 													},
 													width = "130",
@@ -921,7 +919,7 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "Add",
+															text = "추가",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
@@ -929,7 +927,7 @@ local t =
 																PositionX = -108,
 																PositionY = -1,
 															},
-															width = "37",
+															width = "43",
 															ZOrder = "1",
 														},
 														{
@@ -967,7 +965,7 @@ local t =
 															sizepercenty = "0",
 															sizeType = "0",
 															srcBlendFunc = "770",
-															text = "Times",
+															text = "次",
 															touchAble = "False",
 															touchScaleEnable = "False",
 															UILayoutViewModel = 
@@ -975,7 +973,7 @@ local t =
 																PositionX = 195,
 																PositionY = -1,
 															},
-															width = "51",
+															width = "24",
 															ZOrder = "1",
 														},
 													},
@@ -1003,7 +1001,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = -126,
+														PositionX = -79,
 														PositionY = 14,
 													},
 													UItype = "Button",
@@ -1033,7 +1031,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = 122,
+														PositionX = 170,
 														PositionY = 14,
 													},
 													UItype = "Button",
@@ -1063,7 +1061,7 @@ local t =
 													touchAble = "True",
 													UILayoutViewModel = 
 													{
-														PositionX = 54,
+														PositionX = 102,
 														PositionY = 14,
 													},
 													UItype = "Button",
@@ -1160,7 +1158,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "30",
+													height = "32",
 													ignoreSize = "True",
 													name = "Label_btn",
 													nTextAlign = "1",
@@ -1169,14 +1167,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Use",
+													text = "사용",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -1,
 													},
-													width = "53",
+													width = "54",
 													ZOrder = "1",
 												},
 											},
@@ -1246,7 +1244,6 @@ local t =
 										Layout="Absolute",
 										nType = "0"
 									},
-									visible = "False",
 									width = "950",
 									ZOrder = "1",
 									components = 
@@ -1335,14 +1332,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "24",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
+											height = "27",
 											ignoreSize = "True",
 											name = "Label_refresh_tip",
 											nTextAlign = "1",
@@ -1351,7 +1348,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Next supply in",
+											text = "距离下次补给：",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1359,7 +1356,7 @@ local t =
 												PositionX = 54,
 												PositionY = 361,
 											},
-											width = "118",
+											width = "155",
 											ZOrder = "1",
 										},
 										{
@@ -1381,14 +1378,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "24",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
+											height = "27",
 											ignoreSize = "True",
 											name = "Label_refresh_time",
 											nTextAlign = "1",
@@ -1397,7 +1394,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Next supply in",
+											text = "距离下次补给：",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1405,7 +1402,7 @@ local t =
 												PositionX = 213,
 												PositionY = 361,
 											},
-											width = "118",
+											width = "155",
 											ZOrder = "1",
 										},
 										{
@@ -1451,7 +1448,7 @@ local t =
 												PositionX = 862,
 												PositionY = -37,
 											},
-											width = "63",
+											width = "69",
 											ZOrder = "1",
 										},
 										{
@@ -1489,7 +1486,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Number of supplies today",
+											text = "今日补给次数：",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1497,7 +1494,7 @@ local t =
 												PositionX = 857,
 												PositionY = -36,
 											},
-											width = "248",
+											width = "155",
 											ZOrder = "1",
 										},
 									},
@@ -1585,24 +1582,23 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "29",
-											ignoreSize = "True",
+											height = "150",
+											ignoreSize = "False",
 											name = "Label_btn",
 											nTextAlign = "1",
 											nTextHAlign = "1",
-											rotation = "90",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Club Wish",
+											text = "社团许愿",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -5,
 											},
-											width = "137",
+											width = "25",
 											ZOrder = "1",
 										},
 									},
@@ -1690,24 +1686,23 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "29",
-											ignoreSize = "True",
+											height = "150",
+											ignoreSize = "False",
 											name = "Label_btn",
 											nTextAlign = "1",
 											nTextHAlign = "1",
-											rotation = "90",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Gift combat",
+											text = "礼物作战",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = -5,
 											},
-											width = "154",
+											width = "25",
 											ZOrder = "1",
 										},
 									},
@@ -1858,14 +1853,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "activated",
+											text = "已激活",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = 418,
 											},
-											width = "80",
+											width = "69",
 											ZOrder = "1",
 										},
 									},
@@ -1916,14 +1911,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
+											height = "25",
 											ignoreSize = "True",
 											name = "Label_tip",
 											nTextAlign = "1",
@@ -1932,14 +1927,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "inactivated",
+											text = "未激活",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionX = 418,
 											},
-											width = "86",
+											width = "69",
 											ZOrder = "1",
 										},
 									},
@@ -1986,7 +1981,7 @@ local t =
 									{
 										PositionX = -238,
 									},
-									width = "89",
+									width = "88",
 									ZOrder = "1",
 								},
 								{
@@ -2031,7 +2026,7 @@ local t =
 									{
 										PositionX = -444,
 									},
-									width = "89",
+									width = "88",
 									ZOrder = "1",
 								},
 							},
@@ -2140,7 +2135,7 @@ local t =
 									{
 										PositionY = -47,
 									},
-									width = "50",
+									width = "51",
 									ZOrder = "1",
 								},
 								{
@@ -2244,7 +2239,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "Next supply in",
+							text = "距离下次补给：",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -2252,7 +2247,7 @@ local t =
 								PositionX = 11,
 								PositionY = 33,
 							},
-							width = "133",
+							width = "143",
 							ZOrder = "1",
 						},
 					},

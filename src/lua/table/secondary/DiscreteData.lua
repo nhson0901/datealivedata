@@ -342,9 +342,10 @@ return {
         data = {
             teamList = {
                 [1] = 1,
-                [2] = 3,
-                [3] = 4,
-                [4] = 2,
+                [2] = 11,
+                [3] = 3,
+                [4] = 4,
+                [5] = 2,
             },
             room = {
                 [1] = {
@@ -360,6 +361,10 @@ return {
                     [2] = 14300092,
                 },
                 [4] = {
+                    [1] = 11,
+                    [2] = 16000682,
+                },
+                [5] = {
                     [1] = 2,
                     [2] = 14300115,
                 },
@@ -2742,14 +2747,18 @@ return {
         data = {
             data = {
                 [1] = {
-                    defaultDayScene = 1314008,
+                    defaultDayScene = 1314010,
+                    uiChangeId = 100007,
+                    picUrl = "ui/mainLayer/001.png",
+                    defaultDayBgm = 11031,
+                    id = 4,
+                    defaultDress = 410101,
+                    stringId = 16500005,
+                    activityType = 84,
                     roleId = 101,
-                    defaultNightBgm = 11052,
-                    defaultDayBgm = 11052,
-                    id = 2,
-                    defaultNightScene = 1314008,
-                    uiChangeId = 100005,
-                    activityType = 0,
+                    defaultNightBgm = 11031,
+                    defaultNightScene = 1314010,
+                    isusespine = 0,
                 },
             },
         },

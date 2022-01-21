@@ -237,8 +237,8 @@ function MainLayer:initUI(ui)
 
     self.Image_activity_red5 = TFDirector:getChildByPath(self.ui, "Image_activity_red5"):hide()
     self.Button_Activity6 = TFDirector:getChildByPath(self.ui, "Button_Activity6")
-    self.Button_Activity6:setTextureNormal("ui/mainLayer/new_ui/a5.png")
-    self.Button_Activity6:setTexturePressed("ui/mainLayer/new_ui/a5.png")
+    self.Button_Activity6:setTextureNormal("ui/mainLayer/new_ui_4/rukou.png")
+    self.Button_Activity6:setTexturePressed("ui/mainLayer/new_ui_4/rukou.png")
     self.Image_activity_red6 = TFDirector:getChildByPath(self.ui, "Image_activity_red6"):hide()
     self.Button_Activity7 = TFDirector:getChildByPath(self.ui, "Button_Activity7"):hide()
     self.Image_activity_red7 = TFDirector:getChildByPath(self.ui, "Image_activity_red7"):hide()
@@ -824,11 +824,11 @@ function MainLayer:showLeftBtnAnim()
     end
 
     if self.Button_Activity5:isVisible() then
-        self.Button_Activity5:setScale(0.85)
+        self.Button_Activity5:setScale(0.6)
         self.Button_Activity5:setOpacity(0)
         local orgPos = self.Button_Activity5:getPosition()
         self.Button_Activity5:setPosition(me.p(orgPos.x - 20,orgPos.y))
-        self.Button_Activity5:runAction(Spawn:create({FadeIn:create(0.3),MoveTo:create(0.3,orgPos),ScaleTo:create(0.3,1)}))
+        self.Button_Activity5:runAction(Spawn:create({FadeIn:create(0.3),MoveTo:create(0.3,orgPos),ScaleTo:create(0.3,0.85)}))
     end
 
     if self.Button_Activity6:isVisible() then
@@ -883,6 +883,14 @@ function MainLayer:showLeftBtnAnim()
         local orgPos = self.Button_Activity90:getPosition()
         self.Button_Activity90:setPosition(me.p(orgPos.x - 20,orgPos.y))
         self.Button_Activity90:runAction(Spawn:create({FadeIn:create(0.3),MoveTo:create(0.3,orgPos),ScaleTo:create(0.3,1)}))
+    end
+
+    if self.Button_Activity91:isVisible() then
+        self.Button_Activity91:setOpacity(0)
+        self.Button_Activity91:setScale(0.6)
+        local orgPos = self.Button_Activity91:getPosition()
+        self.Button_Activity91:setPosition(me.p(orgPos.x - 20,orgPos.y))
+        self.Button_Activity91:runAction(Spawn:create({FadeIn:create(0.3),MoveTo:create(0.3,orgPos),ScaleTo:create(0.3,0.85)}))
     end
 
 end
@@ -1964,19 +1972,9 @@ function MainLayer:registerEvents()
     --狂三应援
     self.Button_Activity6:onClick(function()
         Utils:sendHttpLog("Activity")
-        --TODO CLOSE
-        -- local activityInfo = ActivityDataMgr2:getActivityInfo(nil,6)[1]
-        -- if not activityInfo then return end
-        -- FunctionDataMgr:enterByFuncId(activityInfo.extendData.jumpInterface,unpack(activityInfo.extendData.jumpParamters or {}))
-
-        local activityId = ActivityDataMgr2:getActivityInfoByType(EC_ActivityType2.TONG)[1]  --怕痛跳转打开
-        local isOpen = ActivityDataMgr2:isInShowTime(activityId)
-        local activityInfo = ActivityDataMgr2:getActivityInfo(activityId)
-        if activityInfo and isOpen then
-            Utils:openView("tong.TongActivityMainView")
-            return
-        end
-
+        local activityInfo = ActivityDataMgr2:getActivityInfo(nil,6)[1]
+        if not activityInfo then return end
+        FunctionDataMgr:enterByFuncId(activityInfo.extendData.jumpInterface,unpack(activityInfo.extendData.jumpParamters or {}))
         --FunctionDataMgr:jActivity6()
     end)
 
@@ -3443,7 +3441,7 @@ function MainLayer:updateOneYearBtns()
         -- if self.button_Caociyuan:isVisible() then
         --     runBtnAct(self.button_Caociyuan,self.Image_CaociyuanClip)
         -- end
-		
+
 		--按钮移动位置
 		if not self:isOneCelebrationMainLayer() then
             if  (self.Button_Activity5 and self.Button_Activity5:isVisible()) 
@@ -3451,7 +3449,9 @@ function MainLayer:updateOneYearBtns()
                 or (self.button_OneYear and self.button_OneYear:isVisible()) 
                 or (self.button_Caociyuan and self.button_Caociyuan:isVisible()) 
                 or (self.Button_activity2 and self.Button_activity2:isVisible()) 
+                or (self.Button_Activity91 and self.Button_Activity91:isVisible()) 
                 or (self.Button_Activity7 and self.Button_Activity7:isVisible()) then
+
                 self.dateBtn:setPosition(ccp(393,200))
                 self.battleBtn:setPosition(ccp(581,200))
                 
@@ -3531,17 +3531,38 @@ function MainLayer:updateOneYearBtns()
         --         end
         --     end
         -- end 
-      
-        if (self.Button_Activity5 and self.Button_Activity5:isVisible()) 
-            and (self.button_OneYear and self.button_OneYear:isVisible())
-            and (self.Button_Activity90 and self.Button_Activity90:isVisible()) then
-            local pos = self.button_OneYear:getPosition()
-            self.Button_Activity5:setPosition(pos.x, pos.y + self.button_OneYear:getContentSize().height +10)
-        elseif (self.Button_Activity90 and self.Button_Activity90:isVisible())
-            and (self.Button_Activity5 and self.Button_Activity5:isVisible()) then
-            local pos = self.button_OneYear:getPosition()
-            self.Button_Activity5:setPosition(pos)
+
+        if self.Button_Activity5 and self.Button_Activity5:isVisible() and
+           self.Button_Activity6 and self.Button_Activity6:isVisible() and
+           self.Button_Activity91 and self.Button_Activity91:isVisible() then
+
+            --冰凯复刻
+            self.Button_Activity5.oriPos = self.Button_Activity5.oriPos or self.Button_Activity6:getPosition()
+            self.Button_Activity5:setPosition(self.Button_Activity5.oriPos.x, self.Button_Activity5.oriPos.y + 20)
+
+            --春节活动
+            self.Button_Activity6.oriPos = self.Button_Activity6.oriPos or activityPos_mid:getPosition()
+            self.Button_Activity6:setPosition(self.Button_Activity6.oriPos)
+
+            --狂三白王
+            self.Button_Activity91.oriPos = self.Button_Activity91.oriPos or self.button_OneYear:getPosition()
+            self.Button_Activity91:setPosition(self.Button_Activity91.oriPos.x + 30, self.Button_Activity6.oriPos.y)
+        elseif self.Button_Activity6 and self.Button_Activity6:isVisible() and
+               self.Button_Activity91 and self.Button_Activity91:isVisible() then
+
+                self.Button_Activity6.oriPos = self.Button_Activity6.oriPos or activityPos_mid:getPosition()
+                self.Button_Activity6:setPosition(self.Button_Activity6.oriPos)
+
+                self.Button_Activity91.oriPos = self.Button_Activity91.oriPos or self.button_OneYear:getPosition()
+                self.Button_Activity91:setPosition(self.Button_Activity91.oriPos.x + 30, self.Button_Activity6.oriPos.y)
+        elseif self.Button_Activity6 and self.Button_Activity6:isVisible() then
+            self.Button_Activity6.oriPos = self.Button_Activity6.oriPos or activityPos_mid:getPosition()
+            self.Button_Activity6:setPosition(self.Button_Activity6.oriPos)
+        elseif self.Button_Activity91 and self.Button_Activity91:isVisible() then
+            self.Button_Activity91.oriPos = self.Button_Activity91.oriPos or activityPos_mid:getPosition()
+            self.Button_Activity91:setPosition(self.Button_Activity91.oriPos)
         end
+
 end
 
 function MainLayer:checkAdsShowEnable()

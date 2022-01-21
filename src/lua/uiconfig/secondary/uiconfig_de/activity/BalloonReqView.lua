@@ -65,8 +65,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 480,
-						PositionY = 320,
+						PositionX = 510,
+						PositionY = 354,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -106,7 +106,7 @@ local t =
 							controlID = "label_title_img_bg_Panel-BalloonReqView_balloon_activity_Game",
 							UUID = "120d2b99_52a7_4114_8464_7e7dc3d10508",
 							anchorPoint = "False",
-							anchorPointX = "0.5",
+							anchorPointX = "0",
 							anchorPointY = "0.5",
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
@@ -142,7 +142,7 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -83,
+								PositionX = -256,
 								PositionY = 121,
 							},
 							width = "327",
@@ -167,7 +167,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "22",
+							fontSize = "20",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -274,7 +274,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "24",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -297,10 +297,56 @@ local t =
 									{
 										
 									},
-									width = "121",
+									width = "104",
 									ZOrder = "1",
 								},
 							},
+						},
+						{
+							controlID = "txt_timer_img_bg_Panel-BalloonReqView_balloon_activity_Game",
+							UUID = "c26bd4dd_69b8_41a1_8d3a_a3024b8a079c",
+							anchorPoint = "False",
+							anchorPointX = "1",
+							anchorPointY = "0.5",
+							classname = "MELabel",
+							compPath = "luacomponents.common.MEIconLabel",
+							dstBlendFunc = "771",
+							FontColor = "#FF416385",
+							fontName = "font/fangzheng_zhunyuan.ttf",
+							fontShadow = 
+							{
+								IsShadow = false,
+								ShadowColor = "#FFFFFFFF",
+								ShadowAlpha = 255,
+								OffsetX = 0,
+								OffsetY = 0,
+							},
+							fontSize = "20",
+							fontStroke = 
+							{
+								IsStroke = false,
+								StrokeColor = "#FFE6E6E6",
+								StrokeSize = 1,
+							},
+							height = "23",
+							ignoreSize = "True",
+							name = "txt_timer",
+							nTextAlign = "1",
+							nTextHAlign = "0",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "770",
+							text = "1000   Server Total Balloons Released",
+							touchAble = "False",
+							touchScaleEnable = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = 239,
+								PositionY = -52,
+							},
+							width = "297",
+							ZOrder = "1",
 						},
 					},
 				},

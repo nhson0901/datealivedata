@@ -1151,5 +1151,19 @@ function KeyBoard:unRegisterPKeyEvent()
 end
 
 
+function KeyBoard:setSpecialEnergyByPowerUIOne(percent)
+    local hero = battleController.getCaptain()
+    if hero then
+        local skill = hero:getSkill(eVKeyCode.SKILL_G)
+        if not skill then
+            self.Image_specialEnergy:setVisible(false)  
+        else
+            self.Image_specialEnergy:setVisible(true)  
+        end
+    else
+        self.Image_specialEnergy:setVisible(true)  
+    end
+    self.LoadingBar_specialEnergy:setPercent(percent)
+end
 
 return KeyBoard

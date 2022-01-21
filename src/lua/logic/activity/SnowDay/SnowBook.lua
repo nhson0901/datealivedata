@@ -18,19 +18,12 @@ function SnowBook:initData(activityId)
 	self.activityId = activityId
 	self.activityData = ActivityDataMgr2:getActivityInfo(activityId)
 
-	--TODO CLOSE
-	-- self.data = {
-	-- 				[1]={name=13202401, des=153017, lv="snowFesFightLv"},
-	-- 				[2]={name=13202402, des=153018, lv="snowFesMemoryLv"},
-	-- 				[3]={name=13202404, des=153019, lv="snowFesTaskLv"},				 
-	-- 				[4]={name=13202403, des=153020, lv="snowFesAchiveLv"},
-	-- 				[5]={name=13202405, des=153021, lv="snowFesStoreLv"},	
-	--			}
 	self.data = {
 					[1]={name=13202401, des=153017, lv="snowFesFightLv"},
-					[2]={name=13202404, des=153019, lv="snowFesTaskLv"},				 
-					[3]={name=13202403, des=153020, lv="snowFesAchiveLv"},
-					[4]={name=13202405, des=153021, lv="snowFesStoreLv"},	
+					[2]={name=13202402, des=153018, lv="snowFesMemoryLv"},
+					[3]={name=13202404, des=153019, lv="snowFesTaskLv"},				 
+					[4]={name=13202403, des=153020, lv="snowFesAchiveLv"},
+					[5]={name=13202405, des=153021, lv="snowFesStoreLv"},	
 				}
 	self.cfg = TabDataMgr:getData("EventMemshipOption")
 

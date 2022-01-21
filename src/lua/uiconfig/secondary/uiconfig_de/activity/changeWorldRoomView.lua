@@ -156,7 +156,7 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 360,
+										PositionX = 560,
 										PositionY = 200,
 										LeftPositon = -30,
 										TopPosition = 627,
@@ -233,7 +233,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "24",
+											height = "23",
 											ignoreSize = "True",
 											name = "label_roomNums",
 											nTextAlign = "1",
@@ -249,7 +249,7 @@ local t =
 											{
 												PositionY = -128,
 											},
-											width = "83",
+											width = "67",
 											ZOrder = "1",
 										},
 									},
@@ -287,6 +287,7 @@ local t =
 										TopPosition = 627,
 									},
 									UItype = "Button",
+									visible = "False",
 									width = "402",
 									ZOrder = "1",
 								},
@@ -296,11 +297,11 @@ local t =
 									anchorPoint = "False",
 									anchorPointX = "0.5",
 									anchorPointY = "0.5",
-									backGroundScale9Enable = "False",
+									backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 									classname = "MEImage",
 									dstBlendFunc = "771",
 									height = "42",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Image_MapLayer_1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -310,10 +311,10 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 360,
+										PositionX = 560,
 										PositionY = 30,
 									},
-									width = "174",
+									width = "217",
 									ZOrder = "1",
 									components = 
 									{
@@ -337,14 +338,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "22",
+											fontSize = "26",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "26",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_MapLayer_1",
 											nTextAlign = "1",
@@ -360,7 +361,7 @@ local t =
 											{
 												
 											},
-											width = "147",
+											width = "186",
 											ZOrder = "1",
 										},
 									},
@@ -388,6 +389,7 @@ local t =
 										PositionX = 776,
 										PositionY = 41,
 									},
+									visible = "False",
 									width = "174",
 									ZOrder = "1",
 									components = 
@@ -419,7 +421,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "31",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_MapLayer_1",
 											nTextAlign = "1",
@@ -428,14 +430,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Club",
+											text = "Go to Club",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "61",
+											width = "144",
 											ZOrder = "1",
 										},
 									},
@@ -454,7 +456,7 @@ local t =
 							fontName = "phanta.ttf",
 							fontSize = "32",
 							hAlignment = "0",
-							height = "0",
+							height = "36",
 							ignoreSize = "True",
 							KeyBoradType = "1",
 							maxLengthEnable = "False",
@@ -462,6 +464,7 @@ local t =
 							outlineColor = "#FF000000",
 							outlineSize = "1",
 							passwordEnable = "False",
+							placeHolder = "input TextField",
 							shadowColor = "#FF000000",
 							shadowHeight = "0",
 							shadowWidth = "0",
@@ -472,8 +475,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 442,
-								PositionY = 798,
+								PositionX = 538,
+								PositionY = 809,
 								LeftPositon = 442,
 								TopPosition = -158,
 								relativeToName = "panel_base",
@@ -482,7 +485,7 @@ local t =
 							useOutline = "False",
 							useShadow = "False",
 							vAlignment = "0",
-							width = "0",
+							width = "192",
 							ZOrder = "1",
 						},
 					},

@@ -29,9 +29,9 @@ function FireworkStoreView:initUI(ui)
 
     self.Label_act_time                 = TFDirector:getChildByPath(ui,"Label_act_time")
 
-    local st_year, st_month, st_day = Utils:getDate(self.activityData[1].startTime)
-    local en_year, en_month, en_day = Utils:getDate(self.activityData[1].showEndTime)
-    self.Label_act_time:setTextById(63887, st_month, st_day, en_month, en_day)
+    local st_year, st_month, st_day = Utils:getUTCDateYMD(self.activityData[1].startTime, false, GV_UTC_TIME_ZONE)
+    local en_year, en_month, en_day = Utils:getUTCDateYMD(self.activityData[1].showEndTime, false, GV_UTC_TIME_ZONE)
+    self.Label_act_time:setText(TextDataMgr:getText(63887, st_month, st_day, en_month, en_day) ..GV_UTC_TIME_STRING)
 
     self:initView()
 end

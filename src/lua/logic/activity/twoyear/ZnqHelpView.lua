@@ -32,7 +32,9 @@ function ZnqHelpView:initUI(ui)
 	self.pageView = TFDirector:getChildByPath(ui,"PageView_help")
 	self.Button_left = TFDirector:getChildByPath(ui,"Button_left"):hide()
 	self.Button_right = TFDirector:getChildByPath(ui,"Button_right"):show()
-	for i = 1,6 do
+
+	--TODO CLOSE 暂时屏蔽帮助为只有4个 原来有6个
+	for i = 1,4 do
 		local panel = TFPanel:create()
 		panel:setAnchorPoint(ccp(0.5,0.5))
 		local image = TFImage:create("ui/activity/znq_yly/help/00"..i..".png")

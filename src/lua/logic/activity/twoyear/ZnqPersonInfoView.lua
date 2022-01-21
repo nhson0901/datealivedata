@@ -61,21 +61,29 @@ function ZnqPersonInfoView:updatePlayerInfo( ... )
 
 	local name_switch = TFDirector:getChildByPath(self.Panel_content,"Image_showName.Panel_switch")
 	local effect_switch = TFDirector:getChildByPath(self.Panel_content,"Image_showEffect.Panel_switch")
+	local invite_switch = TFDirector:getChildByPath(self.Panel_content,"Image_invite.Panel_switch")
+	local Label_tip = TFDirector:getChildByPath(self.Panel_content, "Image_invite.Label_tip")
+	Label_tip:setTextById(13317064)
 
 	Label_name:setText(MainPlayer:getPlayerName())
 	Label_lv:setText(PrivilegeDataMgr:getWishTreeLv())
 	Label_union:setText(PrivilegeDataMgr:getCurClubWishLv())
-	Label_corn:setText(GoodsDataMgr:getItemCount(570078))
+	Label_corn:setText(GoodsDataMgr:getItemCount(501158))
 
 	function changeNameSwitch( ... )
 		-- body
 		local showOtherName = SettingDataMgr:getWorldShowName()
 
 	 	local movepos = me.p(-30,0)
-	    if showOtherName then
+	 	if showOtherName then
 	        movepos = me.p(30,0)
 	    end
-
+	 	if (TFLanguageMgr:getUsingLanguage() ~= cc.SIMPLIFIED_CHINESE) and (TFLanguageMgr:getUsingLanguage() ~= cc.TRADITIONAL_CHINESE) then
+	 		movepos = me.p(-45,0)
+		 	if showOtherName then
+		        movepos = me.p(45,0)
+		    end
+	 	end
 	    local light = TFDirector:getChildByPath(name_switch,"Image_light")
 	    light:setPosition(movepos)
 	end
@@ -87,12 +95,19 @@ function ZnqPersonInfoView:updatePlayerInfo( ... )
 	    if showOtherEffect then
 	        movepos = me.p(30,0)
 	    end
+	    if (TFLanguageMgr:getUsingLanguage() ~= cc.SIMPLIFIED_CHINESE) and (TFLanguageMgr:getUsingLanguage() ~= cc.TRADITIONAL_CHINESE) then
+	 		movepos = me.p(-45,0)
+		 	if showOtherEffect then
+		        movepos = me.p(45,0)
+		    end
+	 	end
 	    light = TFDirector:getChildByPath(effect_switch,"Image_light")
 	    light:setPosition(movepos)
 	end
 
 	changeNameSwitch()
 	changeEffectSwitch()
+	self:updateInviteSwitch()
 
 	name_switch:onClick(function ( ... )
 		-- body
@@ -109,6 +124,36 @@ function ZnqPersonInfoView:updatePlayerInfo( ... )
 	 	SettingDataMgr:setWorldShowEffect(value)
 		changeEffectSwitch()
 	end)
+
+	invite_switch:onClick(function ()
+		local switchValue = MainPlayer:getSwitchByType(EC_SWITCH_TYPE.EXCHANGE_INVITE)
+		local nextValue = 1
+		if switchValue == 0 then
+			nextValue = 1
+		else
+			nextValue = 0
+		end
+		local switch = {EC_SWITCH_TYPE.EXCHANGE_INVITE, nextValue}
+		MainPlayer:sendReqChangeSwitch({switch})
+	end)
+end
+
+function ZnqPersonInfoView:updateInviteSwitch()
+	local invite_switch = TFDirector:getChildByPath(self.Panel_content, "Image_invite.Panel_switch")
+	local switchValue = MainPlayer:getSwitchByType(EC_SWITCH_TYPE.EXCHANGE_INVITE)
+	local isCanInvite = (switchValue == 0)
+	local movepos = me.p(-30,0)
+    if isCanInvite then
+        movepos = me.p(30,0)
+    end
+    if (TFLanguageMgr:getUsingLanguage() ~= cc.SIMPLIFIED_CHINESE) and (TFLanguageMgr:getUsingLanguage() ~= cc.TRADITIONAL_CHINESE) then
+	 		movepos = me.p(-45,0)
+		 	if isCanInvite then
+		        movepos = me.p(45,0)
+		    end
+	 	end
+    light = TFDirector:getChildByPath(invite_switch, "Image_light")
+    light:setPosition(movepos)
 end
 
 function ZnqPersonInfoView:getShowList( ... )
@@ -221,7 +266,7 @@ function ZnqPersonInfoView:registerEvents()
 
     
 	EventMgr:addEventListener(self, EV_UPDATE_WISHTREE_LV, handler(self.updatePlayerInfo, self))
-
+	EventMgr:addEventListener(self, EV_PLAYER_SWITCH_UPDATE, handler(self.updateInviteSwitch, self))
 end
 
 function ZnqPersonInfoView:updateRoleItem(item , data)
@@ -329,10 +374,12 @@ function ZnqPersonInfoView:onClose( ... )
 	local control = WorldRoomDataMgr:getCurControl()
 	if self.selectSkin and self.selectSkin ~= self.actorData.skinCid then
 		control:operateChangeSkin(self.selectSkin)
+		Utils:showTips(13205006)
 	end
 
 	if self.selectEffectId and self.selectEffectId ~= self.actorData.effectId then
 		control:operateChangeEffect(self.selectEffectId)
+		Utils:showTips(13205006)
 	end
 end
 

@@ -65,7 +65,7 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 568,
+						PositionX = 480,
 						PositionY = 320,
 						relativeToName = "Panel",
 						nType = 3,
@@ -128,7 +128,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -142,10 +142,10 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -189,
-								PositionY = 121,
+								PositionX = -197,
+								PositionY = 124,
 							},
-							width = "116",
+							width = "114",
 							ZOrder = "1",
 						},
 						{
@@ -157,7 +157,7 @@ local t =
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
-							FontColor = "#FFFFFFFF",
+							FontColor = "#FF416385",
 							fontName = "font/fangzheng_zhunyuan.ttf",
 							fontShadow = 
 							{
@@ -167,7 +167,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "22",
+							fontSize = "26",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -188,7 +188,7 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionY = 17,
+								PositionY = 30,
 							},
 							width = "450",
 							ZOrder = "1",
@@ -216,7 +216,7 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 234,
+								PositionX = 268,
 								PositionY = 124,
 							},
 							UItype = "Button",
@@ -247,7 +247,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 177,
-								PositionY = -118,
+								PositionY = -121,
 							},
 							UItype = "Button",
 							width = "124",
@@ -301,6 +301,52 @@ local t =
 									ZOrder = "1",
 								},
 							},
+						},
+						{
+							controlID = "txt_timer_img_bg_Panel-BalloonReqView_balloon_activity_Game",
+							UUID = "c26bd4dd_69b8_41a1_8d3a_a3024b8a079c",
+							anchorPoint = "False",
+							anchorPointX = "1",
+							anchorPointY = "0.5",
+							classname = "MELabel",
+							compPath = "luacomponents.common.MEIconLabel",
+							dstBlendFunc = "771",
+							FontColor = "#FF416385",
+							fontName = "font/fangzheng_zhunyuan.ttf",
+							fontShadow = 
+							{
+								IsShadow = false,
+								ShadowColor = "#FFFFFFFF",
+								ShadowAlpha = 255,
+								OffsetX = 0,
+								OffsetY = 0,
+							},
+							fontSize = "20",
+							fontStroke = 
+							{
+								IsStroke = false,
+								StrokeColor = "#FFE6E6E6",
+								StrokeSize = 1,
+							},
+							height = "23",
+							ignoreSize = "True",
+							name = "txt_timer",
+							nTextAlign = "1",
+							nTextHAlign = "0",
+							sizepercentx = "0",
+							sizepercenty = "0",
+							sizeType = "0",
+							srcBlendFunc = "770",
+							text = "全服放飞次数:1000",
+							touchAble = "False",
+							touchScaleEnable = "False",
+							UILayoutViewModel = 
+							{
+								PositionX = 239,
+								PositionY = -52,
+							},
+							width = "170",
+							ZOrder = "1",
 						},
 					},
 				},

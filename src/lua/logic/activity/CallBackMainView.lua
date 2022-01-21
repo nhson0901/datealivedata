@@ -94,9 +94,9 @@ function CallBackMainView:refreshView()
         return
     end
 
-    local _startyear, _startmonth, _startday = Utils:getDate(self.activityInfo_.showStartTime, true)
-    local _endyear, _endmonth, _endday = Utils:getDate(self.activityInfo_.showEndTime, true)
-    self.label_time:setText(_startmonth .. "." .. _startday .. "-" .. _endmonth .. "." .. _endday)
+    local _startyear, _startmonth, _startday = Utils:getUTCDateYMD(self.activityInfo_.showStartTime or 0 , true , GV_UTC_TIME_ZONE)
+    local _endyear, _endmonth, _endday = Utils:getUTCDateYMD(self.activityInfo_.showEndTime or 0 , true , GV_UTC_TIME_ZONE)
+    self.label_time:setText(_startmonth .. "." .. _startday .. "-" .. _endmonth .. "." .. _endday ..GV_UTC_TIME_STRING)
 
     self:onUpdateCallBackInfo()
     self:refreshDressTask()

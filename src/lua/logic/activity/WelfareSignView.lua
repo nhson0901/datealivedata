@@ -30,13 +30,13 @@ function WelfareSignView:ctor( data )
 	self.countPage_ = 7
 	self.activityId = data
 	self.activityInfo = ActivityDataMgr2:getActivityInfo(self.activityId)
-	self.isScrollType = tonumber(self.activityInfo.extendData.isScrollType)		---1:用滑动表现形式 其他用翻页表现形式
-	self.SevenItemType = tonumber(self.activityInfo.extendData.SevenItemType) or 1		---1：横放的 2:斜着的
 	dump(self.activityInfo)
+	self.isScrollType = self.activityInfo.extendData.isScrollType		---1:用滑动表现形式 其他用翻页表现形式
+	self.SevenItemType = self.activityInfo.extendData.SevenItemType or 1		---1：横放的 2:斜着的
     self.itemBg = self.activityInfo.extendData.itemBg
-
 	local uiName = self.activityInfo.extendData.uiName or "welfareSignView"
 	self.curResFileName = "style2"
+	dump(uiName,"uiName")
 	self:init("lua.uiconfig.activity."..uiName)
 end
 
@@ -52,16 +52,9 @@ function WelfareSignView:initUI(ui)
 	self.Label_time_begin:setSkewX(10)
 	self.Label_time_end:setSkewX(10)
 	self.Label_time_tip:setSkewX(10)
-	self.Label_time_tip:setTextById(1710002)
 
-
-	--屏蔽春节登陆活动字体颜色
-	-- self.Label_time_tip:setFontColor(ccc3(97 , 5 , 7))
-	-- self.Label_time_begin:setFontColor(ccc3(97 , 5 , 7))
-	-- self.Label_time_end:setFontColor(ccc3(97 , 5 , 7))
-
-	self.btn_Last_ = TFDirector:getChildByPath(ui, "Button_last"):hide()
-	self.btn_Next_ = TFDirector:getChildByPath(ui, "Button_next"):hide()
+	self.btn_Last_ = TFDirector:getChildByPath(ui, "Button_last")
+	self.btn_Next_ = TFDirector:getChildByPath(ui, "Button_next")
 
 
 	self.Panel_page = TFDirector:getChildByPath(ui, "Panel_page")
@@ -82,7 +75,6 @@ function WelfareSignView:initUI(ui)
 	self.Image_content = TFDirector:getChildByPath(self.Panel_root, "Image_content")
 
 	local Panel_sevenItem1 = TFDirector:getChildByPath(self.Panel_prefab, "Panel_sevenItem1")
-	Panel_sevenItem1:getChildByName("Image_border"):show()  
 	if self.isScrollType == 1 then
 		self.Panel_sevenItem = Panel_sevenItem1
 	end
@@ -104,20 +96,12 @@ end
 function WelfareSignView:intUILogic()
 
 	if self.activityInfo then
-		local startDate = Utils:getUTCDate(self.activityInfo.startTime, GV_UTC_TIME_ZONE)
+		local startDate = Utils:getUTCDate(self.activityInfo.startTime , GV_UTC_TIME_ZONE)
 		local startDateStr = startDate:fmt("%Y.%m.%d")
 		local endDate = Utils:getUTCDate(self.activityInfo.endTime , GV_UTC_TIME_ZONE)
 		local endDateStr = endDate:fmt("%Y.%m.%d")
 		self.Label_time_begin:setText(startDateStr)
-		self.Label_time_end:setText(endDateStr..GV_UTC_TIME_STRING)
-
-		--针对反十活动修改字体颜色
-		-- self.Label_time_begin:setFontColor(ccc3(235 , 149 , 245))
-		-- self.Label_time_end:setFontColor(ccc3(235 , 149 , 245))
-		-- self.Label_time_tip:setFontColor(ccc3(235 , 149 , 245))
-		-- self.Label_time_begin:enableOutline(ccc3(148,14 ,166) , 1)
-		-- self.Label_time_end:enableOutline(ccc3(148,14 ,166) , 1)
-		-- self.Label_time_tip:enableOutline(ccc3(148,14 ,166) , 1)
+		self.Label_time_end:setText(endDateStr ..GV_UTC_TIME_STRING)
 	end
 
 	self.signItems_ = {}
@@ -183,19 +167,10 @@ function WelfareSignView:initPageTypeData()
 		self.signItems_[i] = foo
 	end
 
+
 	if self.activityInfo.activityType ~=  EC_ActivityType2.TASK then
 		--设置背景图
 		if self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 6 then
-		-- elseif self.activityInfo.extendData.activityShowType == 2 then  --针对琴里生日此处判断不需要
-		-- 	if self.activityInfo.extendData.bgPath then 
-		--         self.Image_bg:setTexture(self.activityInfo.extendData.bgPath)
-		--     end
-		elseif self.activityInfo.id == 200041 then
-			if self.activityInfo.extendData.bgPath then 
-		        self.Image_bg:setTexture(self.activityInfo.extendData.bgPath)
-		    end
-		    self.btn_Last_:setPositionY(-86)
-		    self.btn_Next_:setPositionY(-86)
 		else
 			self.Image_bg:setTexture("ui/activity/activityStyle/wefareSignActivity/"..self.curResFileName.."/bg"..self.selectPage_.. ".png")
 		end
@@ -222,7 +197,6 @@ function WelfareSignView:getSignItem()
 	foo.ItemIcon = TFDirector:getChildByPath(foo.root, "image_icon")
 	foo.label_num = TFDirector:getChildByPath(foo.root, "label_num")
 	foo.Image_border = TFDirector:getChildByPath(foo.root, "Image_border")
-	foo.Image_border:setPositionY(0)
 	foo.Label_day = TFDirector:getChildByPath(foo.root, "Label_day")
 	foo.Spine_welfareSignView_1 = TFDirector:getChildByPath(foo.root, "Spine_welfareSignView_1")
 	foo.Spine_welfareSignView_2 = TFDirector:getChildByPath(foo.root, "Spine_welfareSignView_2")
@@ -303,15 +277,6 @@ function WelfareSignView:updateItem(foo,_index)
 		foo.Label_day:setTextById(details)
 	end
 
-	-- if self.activityInfo.extendData.activityShowType == 2 then  --琴里生日活动此处不需要
-	-- 	foo.Label_day:setFontColor(ccc3(255 , 255 , 255))
-	-- end
-
-	if self.activityInfo.id == 200041 then
-		foo.Label_day:enableOutline(ccc3(218 , 112 , 214) , 1)
-		foo.Label_day:setFontColor(ccc3(255 , 255 , 255))
-	end
-
 	if foo.Image_iconbg then
 		foo.Image_iconbg:setTexture("ui/fairy_particle/" .. itemCfg.quality .. ".png")
 		foo.Image_iconbg:setScale(0.65)
@@ -326,12 +291,9 @@ function WelfareSignView:updateItem(foo,_index)
 		if self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 6 then
 			local pic_path = "ui/activity/assist/kuangsan/sign_00".._index..".png"
 			foo.Image_border:setTexture(pic_path)
-		elseif self.activityInfo.id == 200041 --[[or  (self.activityInfo.extendData.activityShowType and self.activityInfo.extendData.activityShowType == 2)   --琴里生日此处不需要]]  then
-			foo.Image_border:setTexture("ui/activity/welfareSign/border_"..itemCfg.quality..".png")
 		else
 			if _progressInfo.status ~= EC_TaskStatus.ING  then
-				foo.Image_border:setTexture("ui/activity/activityStyle/wefareSignActivity/"..self.curResFileName.."/003_n.png")
-				
+				foo.Image_border:setTexture("ui/activity/activityStyle/wefareSignActivity/"..self.curResFileName.."/004_n.png")
 			else
 				foo.Image_border:setTexture("ui/activity/activityStyle/wefareSignActivity/"..self.curResFileName.."/003_n.png")
 			end

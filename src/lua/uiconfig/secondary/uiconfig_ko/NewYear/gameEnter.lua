@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -195,7 +195,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "35",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -212,7 +212,7 @@ local t =
 										PositionX = -359,
 										PositionY = 173,
 									},
-									width = "180",
+									width = "115",
 									ZOrder = "1",
 								},
 								{
@@ -311,7 +311,7 @@ local t =
 											controlID = "Label_game_Image_name_bg_Image_bg_Panel_root_Panel-gameEnter_Layer1_NewYear_Game",
 											UUID = "5ba9f9ea_88da_470e_bb78_3fcc90df2eff",
 											anchorPoint = "False",
-											anchorPointX = "0",
+											anchorPointX = "0.5",
 											anchorPointY = "0.5",
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
@@ -326,14 +326,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "16",
+											fontSize = "20",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "18",
+											height = "23",
 											ignoreSize = "True",
 											name = "Label_game",
 											nTextAlign = "1",
@@ -342,15 +342,15 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Name",
+											text = "Game Name",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -212,
-												PositionY = -9,
+												PositionX = -159,
+												PositionY = -1,
 											},
-											width = "78",
+											width = "83",
 											ZOrder = "1",
 										},
 									},
@@ -399,14 +399,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
+									height = "150",
 									ignoreSize = "False",
 									name = "Label_desc",
 									nTextAlign = "0",
@@ -500,7 +500,7 @@ local t =
 											{
 												
 											},
-											width = "46",
+											width = "53",
 											ZOrder = "1",
 										},
 									},

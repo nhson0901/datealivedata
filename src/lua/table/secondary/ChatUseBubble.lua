@@ -83,6 +83,13 @@ return {
         icon = "icon/chatBubble/chatUseRes/019.png",
         portraitid = 20013,
     },
+    [15] = {
+        overturnType = 0,
+        othericon = "icon/chatBubble/chatUseRes/022.png",
+        id = 15,
+        icon = "icon/chatBubble/chatUseRes/021.png",
+        portraitid = 20014,
+    },
     [16] = {
         overturnType = 0,
         othericon = "icon/chatBubble/chatUseRes/024.png",
@@ -90,12 +97,12 @@ return {
         icon = "icon/chatBubble/chatUseRes/023.png",
         portraitid = 20015,
     },
-    [50] = {
+    [18] = {
         overturnType = 0,
-        othericon = "icon/chatBubble/chatUseRes/081.png",
-        id = 50,
-        icon = "icon/chatBubble/chatUseRes/080.png",
-        portraitid = 60015,
+        othericon = "icon/chatBubble/chatUseRes/027.png",
+        id = 18,
+        icon = "icon/chatBubble/chatUseRes/026.png",
+        portraitid = 20017,
     },
     [51] = {
         overturnType = 1,
@@ -103,5 +110,12 @@ return {
         id = 51,
         icon = "icon/chatBubble/chatUseRes/082.png",
         portraitid = 60018,
+    },
+    [50] = {
+        overturnType = 0,
+        othericon = "icon/chatBubble/chatUseRes/081.png",
+        id = 50,
+        icon = "icon/chatBubble/chatUseRes/080.png",
+        portraitid = 60015,
     },
 }

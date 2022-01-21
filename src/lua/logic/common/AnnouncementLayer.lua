@@ -60,29 +60,43 @@ function AnnouncementLayer:setCloseCallBack( closeCallBack )
 end
 
 function AnnouncementLayer:getAnnouncementInfo( ... )
-    --print(self.announcementUrl[self.urlIdx])
-    
-    HttpHelper:get(self.announcementUrl[self.urlIdx],handler(self.updateNoticeData, self))
+    print(self.announcementUrl[self.urlIdx])
+
+    -- local callback = function(data)
+    --     print("上报日志成功")
+    -- end
+
+    HttpHelper:post(self.announcementUrl[self.urlIdx], "", handler(self.updateNoticeData, self))
 end
 
 function AnnouncementLayer:updateNoticeData( data )
     if not self.groupLimit then  return end
-    
-    if (data and data ~= "") then
-        data = json.decode(data)
+    if (data and data == "") then
+        return
     end
-    if data and data ~= "" then
-        table.sort(data , function ( a , b )
+    local jsonData = json.decode(data)
+    if jsonData.status == nil then return end
+    if tonumber(jsonData.status) ~= 0 then return end
+    local noticeDataJson = json.decode(jsonData.data)
+    local noticeData = ""
+    if TFLanguageMgr:getUsingLanguage() == cc.SIMPLIFIED_CHINESE then
+        noticeData = noticeDataJson.data_cn
+    else
+        noticeData = noticeDataJson.data_en
+    end
+
+    if noticeData and noticeData ~= "" then
+        table.sort(noticeData , function ( a , b )
             return a.group > b.group
         end)
-        local newGroupLen =  math.min(data[1].group ,self.groupLimit)
+        local newGroupLen =  math.min(noticeData[1].group ,self.groupLimit)
 
         local titleShowList = {}
         local contentShowList = {}
         local titleHideList = {}
         local contentHideList = {}
 
-        for _,_info in ipairs(data) do
+        for _,_info in ipairs(noticeData) do
             if _info.isHide <= 0 and _info.type == "title" then
                 table.insert(titleShowList, _info)
             end

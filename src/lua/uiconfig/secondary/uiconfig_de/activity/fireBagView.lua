@@ -232,7 +232,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_bagName",
 							nTextAlign = "1",
@@ -241,7 +241,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "储藏室",
+							text = "Storage Room",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -249,7 +249,7 @@ local t =
 								PositionX = 380,
 								PositionY = 486,
 							},
-							width = "86",
+							width = "209",
 							ZOrder = "1",
 							components = 
 							{
@@ -277,6 +277,7 @@ local t =
 										PositionX = 94,
 										PositionY = 2,
 									},
+									visible = "False",
 									width = "4",
 									ZOrder = "1",
 								},
@@ -479,7 +480,7 @@ local t =
 										PositionX = -1,
 										PositionY = -59,
 									},
-									width = "29",
+									width = "28",
 									ZOrder = "1",
 								},
 							},

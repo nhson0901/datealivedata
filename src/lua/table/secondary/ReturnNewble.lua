@@ -477,7 +477,7 @@ return {
         weight = 1,
         status = 2,
         titleIcon = "ui/activity/picture/icon241.png",
-        details = "{\"beginTime\":\"2021-02-04 00:00:00\",\"endTime\":\"2021-03-09 23:59:59\",\"name\":\"\",\"dayRstring\":\"r305004\",\"hourRstring\":\"r305005\",\"uiName\":\"welfareSignViewStyle1\",\"SevenItemType\":2,\"isScrollType\":1,\"skewX\":15,\"itemBg\":\"ui/activity/activityStyle/wefareSignActivity/style2/003_n.png\",\"dating\":0}",
+        details = "{\"beginTime\":\"2022-01-26 00:00:00\",\"endTime\":\"2022-02-26 23:59:59\",\"name\":\"\",\"dayRstring\":\"r305004\",\"hourRstring\":\"r305005\",\"uiName\":\"welfareSignViewStyle1\",\"SevenItemType\":2,\"isScrollType\":1,\"skewX\":15,\"itemBg\":\"ui/activity/activityStyle/wefareSignActivity/style2/003_n.png\",\"dating\":0}",
         type = 1010,
     },
     [100006] = {

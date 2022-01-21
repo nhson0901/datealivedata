@@ -60,6 +60,14 @@ function BasicControl:initData()
 	self.baseView = nil
 	self.baseMap = nil
 	self.bgmFile = nil
+
+	self.focusNpcs = {}
+	self.focusHeros = {}
+	self.alwayTriggers = {}
+
+	self.nSynPosTime = 0.1
+	self.nSlowDel = 0.001
+	self.playerInterActions = {}
 end
 
 function BasicControl:clear()
@@ -134,7 +142,7 @@ function BasicControl:updateActorData(actorData)
 		-- print("addActorData")
 		self.actorDataQueue:pushbyid(actorData.pid, actorData)
 	else
-		dump(actorData)
+		-- dump(actorData)
 		-- print("updateData")
 		self:updateData(tmpData , actorData) --更新数据
 	end
@@ -214,7 +222,7 @@ function BasicControl:changeSkin(newData)
 end
 
 function BasicControl:getFocus()   
-    return self.focusNpcs or {}
+    return self.focusNpcs or {}, self.focusHeros or {}
 end
 
 function BasicControl:removeActorDataByPid( pid )
@@ -363,6 +371,15 @@ function BasicControl:removeNPC(pid)
 	end
 end
 
+function BasicControl:removeActorNode(node)
+	self:removeActorDataByPid(node:getPid())
+                
+    self.heroList:removeById(node:getPid())
+	self.npcList:removeById(node:getPid())
+	self.baseMap:removeActor(node)
+	node:removeActor()
+end
+
 --根据返回同步位置
 function BasicControl:syncHeroPos(playerInfo)
 	-- if playerInfo.pid ~= MainPlayer:getPlayerId() then
@@ -412,29 +429,49 @@ function BasicControl:getNPCList()
 end
 
 function BasicControl:updateRoles(dt)
+	local index = 0
     for hero in self:getHeroList():iterator() do
     	local actorData = self:getActorDataByPid(hero:getPid())
-        hero:update(dt,actorData)
+        hero:update(dt,actorData,index)
+    	index = index + 1
     end
 
     for npc in self:getNPCList():iterator() do
     	local actorData = self:getActorDataByPid(npc:getPid())
-        npc:update(dt,actorData)
+    	if npc:needUpdate() then
+        	npc:update(dt,actorData,index)
+    		index = index + 1
+        end 
     end
+   
 end
 
 --判断是否触发npc功能
-function BasicControl:checkIsTriggerNpcFuc()
-    local mainHero = self:getMainHero()
-    if not mainHero then return end
+function BasicControl:checkIsTriggerNpcFuc(hero)
+    if not hero then return end
     self.triggerChange = true
-    self.focusNpcs = {}
+    self.focusNpcs[hero:getPid()] = {}
     for npc in self:getNPCList():iterator() do
         local rect = npc:getNpcRect()
-        local pos  = mainHero:getPosition3D()
+        local pos  = hero:getPosition3D()
         if me.rectContainsPoint(rect, pos) then
-            table.insert(self.focusNpcs,npc:getPid())
+            table.insert(self.focusNpcs[hero:getPid()],npc:getPid())
         end
+    end
+end
+--判断是否触发npc功能
+function BasicControl:checkIsTriggerPlayerFuc(_hero)
+    if not _hero then return end
+    self.triggerChange = true
+    self.focusHeros[_hero:getPid()] = {}
+    for hero in self:getHeroList():iterator() do
+    	if hero ~= _hero then
+	        local rect = hero:getNpcRect()
+	        local pos  = _hero:getPosition3D()
+	        if me.rectContainsPoint(rect, pos) then
+	            table.insert(self.focusHeros[_hero:getPid()],hero:getPid())
+	        end
+	    end
     end
 end
 
@@ -443,12 +480,44 @@ function BasicControl:setMaxPlayerNumInScene( num )
 	self.syncLimitNum = num
 end
 
+function BasicControl:getActorNumByChildType( childType )
+    -- body
+    if not childType then return 0 end
+    local childNum = 0 
+
+    for npc in self:getNPCList():iterator() do
+        if npc.childType == childType then
+            childNum = childNum + 1
+        end
+    end
+
+    for hero in self:getHeroList():iterator() do
+        if hero.childType == childType then
+            childNum = childNum + 1
+        end
+    end
+    return childNum
+end
 
 function BasicControl:checkInScreen( ... )
 	-- body
 	self.addPlayerNum = 0
 	self.syncLimitNum = self.syncLimitNum or 20 -- 默认同屏20人
 	local syncPlayerNumber = 0
+
+	local mainHero = self:getMainHero()
+	if mainHero then
+		self.actorDataQueue:sort(function(v1, v2)
+			local distance1 = me.pGetDistance(mainHero:getPosition(),ccp(v1.pos.x,v1.pos.y))
+			local distance2 = me.pGetDistance(mainHero:getPosition(),ccp(v2.pos.x,v2.pos.y))
+			if distance1 == distance2 then
+				return v1.pid < v2.pid
+			else
+				return distance1 < distance2
+			end
+		end)
+	end
+
 	for actorData in self.actorDataQueue:iterator() do
 		local pos = actorData.pos
 		local actorNode = self:getActorNodeByPid(actorData.pid)
@@ -465,6 +534,7 @@ function BasicControl:checkInScreen( ... )
 		if actorData.pid == MainPlayer:getPlayerId() then
 			inView = true
 		end
+
 		-- todo 根据需求决定是否要处理
 		self:actorInView(actorData, inView)
 	end
@@ -472,27 +542,41 @@ end
 
 function BasicControl:actorInView( actorData , inView)
 	-- body
-	local isHero = actorData.skinCid
-	if isHero then
-		if self.addPlayerNum > 1 and actorData.pid ~= MainPlayer:getPlayerId() then
+	local actorNode = self:getActorNodeByPid(actorData.pid)
+	if not actorNode then
+		if not inView then
+			self:addDelayCreateNode(actorData)
 			return
 		end
+		self.delayCreateActor = self.delayCreateActor or {}
+		self.delayCreateActor[actorData.pid] = nil
+		self:createActor(actorData)
+	end
 
-		local hero = self:getHeroByPid(actorData.pid)
-		if not hero and inView then
-			self.addPlayerNum = self.addPlayerNum + 1
-			self:createActor(actorData)
-		end
+	local actorNode = self:getActorNodeByPid(actorData.pid)
+	if actorNode then
+		actorNode:hideSelf(inView)
+	end
 
-		if hero then
-			hero:hideSelf(inView)
-		end
-	else -- npc 逻辑 不做删除
-		local npc = self:getNPCList():objectByID(actorData.pid)
-		if not npc then
+end
+
+function BasicControl:dasyncCreateActor( ... )
+	-- body
+	local addNum = 0
+	for k,v in pairs(self.delayCreateActor) do
+		local actorData = self:getActorDataByPid(k)
+		if actorData and addNum < 1 then
 			self:createActor(actorData)
+			self.delayCreateActor[k] = nil
+			addNum = addNum + 1
 		end
 	end
+end
+
+function BasicControl:addDelayCreateNode( actorData )
+	-- body
+	self.delayCreateActor = self.delayCreateActor or {}
+	self.delayCreateActor[actorData.pid] = true
 end
 
 function BasicControl:createActor( actorData )
@@ -507,11 +591,35 @@ end
 
 function BasicControl:updateInFrame6( dt )
 	-- body
-	self:checkIsTriggerNpcFuc()
+	self:checkIsTriggerFuc()
+end
+
+function BasicControl:checkIsTriggerFuc()
+	-- body
+	self.focusHeros = {}
+    self.focusNpcs = {}
+    self.alwayTriggers = {}
+    for hero in self:getHeroList():iterator() do
+    	if hero.isTriggerFuc then
+    		local actorData = self:getActorDataByPid(hero:getPid())
+    		if not actorData or not actorData.buildId then
+	    		self:checkIsTriggerPlayerFuc(hero)
+	    		self:checkIsTriggerNpcFuc(hero)
+	    	end
+    	end
+	end
+	self.alwayTriggers = {}
+	for npc in self:getNPCList():iterator() do
+		if npc.isAlWayTrigger then
+    		self.triggerChange = true
+			table.insert(self.alwayTriggers, npc:getPid())
+		end
+	end
 end
 
 function BasicControl:updateInFrame9( dt )
 	-- body
+	self:dasyncCreateActor()
 end
 
 function BasicControl:initUpdate( dt )

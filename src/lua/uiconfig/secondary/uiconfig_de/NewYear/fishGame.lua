@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -70,7 +70,7 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 480,
+						PositionX = 568,
 						PositionY = 320,
 						relativeToName = "Panel",
 						nType = 3,
@@ -642,7 +642,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "25",
 									ignoreSize = "True",
 									name = "Label_fishscore",
 									nTextAlign = "1",
@@ -658,7 +658,7 @@ local t =
 									{
 										
 									},
-									width = "39",
+									width = "50",
 									ZOrder = "1",
 								},
 							},
@@ -1010,7 +1010,7 @@ local t =
 												StrokeColor = "#FF808080",
 												StrokeSize = 1,
 											},
-											height = "27",
+											height = "29",
 											ignoreSize = "True",
 											name = "Label_time",
 											nTextAlign = "1",
@@ -1027,7 +1027,7 @@ local t =
 												PositionX = 14,
 												PositionY = -2,
 											},
-											width = "60",
+											width = "84",
 											ZOrder = "1",
 										},
 									},
@@ -1089,7 +1089,7 @@ local t =
 												StrokeColor = "#FF808080",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_info",
 											nTextAlign = "1",
@@ -1106,7 +1106,7 @@ local t =
 												PositionX = -50,
 												PositionY = -2,
 											},
-											width = "73",
+											width = "58",
 											ZOrder = "1",
 										},
 										{
@@ -1135,7 +1135,7 @@ local t =
 												StrokeColor = "#FF808080",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_score",
 											nTextAlign = "1",
@@ -1152,7 +1152,7 @@ local t =
 												PositionX = -11,
 												PositionY = -1,
 											},
-											width = "56",
+											width = "89",
 											ZOrder = "1",
 										},
 										{
@@ -1181,7 +1181,7 @@ local t =
 												StrokeColor = "#FF808080",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_score_delta",
 											nTextAlign = "1",
@@ -1198,7 +1198,7 @@ local t =
 												PositionX = -187,
 												PositionY = -1,
 											},
-											width = "56",
+											width = "89",
 											ZOrder = "1",
 										},
 									},
@@ -1231,7 +1231,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "57",
+							height = "62",
 							ignoreSize = "True",
 							name = "Label_result",
 							nTextAlign = "1",
@@ -1240,14 +1240,14 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "Victory",
+							text = "Game Success",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
 								
 							},
-							width = "193",
+							width = "202",
 							ZOrder = "1",
 						},
 					},

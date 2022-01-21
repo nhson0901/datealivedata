@@ -172,11 +172,13 @@ function SingleAIBehave:randomEmoj()
 	local emojlist = self.aiCfg.emojList
 	local emojidx = math.random(1,#emojlist)
 	local emoj = emojlist[emojidx]
-	self.tarNode.skeletonNode:addMEListener(TFARMATURE_COMPLETE,function(sklete)
-		self.tarNode.skeletonNode:removeMEListener(TFARMATURE_COMPLETE)
-		self:onBehaveComplete()
-	end)
-	self.tarNode:playAni(emoj,false)
+	if emoj then
+		self.tarNode.skeletonNode:addMEListener(TFARMATURE_COMPLETE,function(sklete)
+			self.tarNode.skeletonNode:removeMEListener(TFARMATURE_COMPLETE)
+			self:onBehaveComplete()
+		end)
+		self.tarNode:playAni(emoj,false)
+	end
 end
 
 function SingleAIBehave:moveToPos(tarpos,callback,endDir)

@@ -107,7 +107,6 @@ end
 function WorldRoomDataMgr:initData( ... )
 	-- body
 	self.serverInfo = {}
-	self.roomType = nil
 	self.controlerMap = self.controlerMap or {}
 	self.extDataControlerMap = self.extDataControlerMap or {}
 end

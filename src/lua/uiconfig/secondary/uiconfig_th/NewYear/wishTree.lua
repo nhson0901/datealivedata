@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -66,7 +66,7 @@ local t =
 					UILayoutViewModel = 
 					{
 						PositionX = 480,
-						PositionY = 359,
+						PositionY = 360,
 						IsPercent = true,
 						PercentX = 50,
 						PercentY = 50,
@@ -454,14 +454,14 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEButton",
 							ClickHighLightEnabled = "True",
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "89",
-							ignoreSize = "True",
+							height = "101",
+							ignoreSize = "False",
 							name = "Button_checkWish",
 							normal = "ui/newyear/wishtree/001.png",
 							sizepercentx = "0",
@@ -472,7 +472,7 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 978,
-								PositionY = 158,
+								PositionY = 169,
 							},
 							UItype = "Button",
 							width = "192",
@@ -506,8 +506,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_shop",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -515,14 +515,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "好友的愿望",
+									text = "Friends' Wishes",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "132",
+									width = "154",
 									ZOrder = "1",
 								},
 							},
@@ -533,14 +533,14 @@ local t =
 							anchorPoint = "False",
 							anchorPointX = "0.5",
 							anchorPointY = "0.5",
-							backGroundScale9Enable = "False",
+							backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 							classname = "MEButton",
 							ClickHighLightEnabled = "True",
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "89",
-							ignoreSize = "True",
+							height = "101",
+							ignoreSize = "False",
 							name = "Button_fsdm",
 							normal = "ui/newyear/build/009.png",
 							sizepercentx = "0",
@@ -585,8 +585,8 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "Label_huigu",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -594,14 +594,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "许个愿吧！",
+									text = "Make a wish!",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										
 									},
-									width = "118",
+									width = "158",
 									ZOrder = "1",
 								},
 							},
@@ -721,7 +721,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_name",
 									nTextAlign = "1",
@@ -730,14 +730,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "我的愿望",
+									text = "My Wish",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = -361,
 									},
-									width = "106",
+									width = "121",
 									ZOrder = "1",
 								},
 								{
@@ -775,7 +775,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "玩家名字有八个字玩家名字有八个字",
+									text = "Player Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -925,7 +925,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -934,7 +934,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "祈愿墙",
+							text = "Wish Board",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -942,7 +942,7 @@ local t =
 								PositionX = 231,
 								PositionY = 526,
 							},
-							width = "86",
+							width = "176",
 							ZOrder = "1",
 							components = 
 							{
@@ -970,6 +970,7 @@ local t =
 										PositionX = 106,
 										PositionY = 1,
 									},
+									visible = "False",
 									width = "4",
 									ZOrder = "1",
 								},

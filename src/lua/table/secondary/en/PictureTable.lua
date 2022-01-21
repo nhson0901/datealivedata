@@ -7929,4 +7929,134 @@ return {
         res = "ui/activity/fashionWeek/001.png",
         res_en = "ui/activity/fashionWeek/001_en.png",
     },
+    [1591] = {
+        id = 1591,
+        res = "ui/activity/2021_spring/011.png",
+        res_en = "ui/activity/2021_spring/011_en.png",
+    },
+    [1592] = {
+        id = 1592,
+        res = "ui/activity/2021_spring/valenites/bg.png",
+        res_en = "ui/activity/2021_spring/valenites/bg_en.png",
+    },
+    [1593] = {
+        id = 1593,
+        res = "ui/activity/2021_spring/valenites/tab.png",
+        res_en = "ui/activity/2021_spring/valenites/tab_en.png",
+    },
+    [1594] = {
+        id = 1594,
+        res = "ui/activity/picture/icon241.png",
+        res_en = "ui/activity/picture/icon241_en.png",
+    },
+    [1595] = {
+        id = 1595,
+        res = "ui/activity/picture/icon242.png",
+        res_en = "ui/activity/picture/icon242_en.png",
+    },
+    [1596] = {
+        id = 1596,
+        res = "ui/activity/picture/2021_spring/valenites/bg.png",
+        res_en = "ui/activity/picture/2021_spring/valenites/bg_en.png",
+    },
+    [1597] = {
+        id = 1597,
+        res = "ui/activity/picture/2021_spring/valenites/tab.png",
+        res_en = "ui/activity/picture/2021_spring/valenites/tab_en.png",
+    },
+    [1598] = {
+        id = 1598,
+        res = "ui/activity/picture/newyear_2021/nianshou/005.png",
+        res_en = "ui/activity/picture/newyear_2021/nianshou/005_en.png",
+    },
+    [1599] = {
+        id = 1599,
+        res = "ui/activity/picture/newyear_2021/nianshou/011.png",
+        res_en = "ui/activity/picture/newyear_2021/nianshou/011_en.png",
+    },
+    [1600] = {
+        id = 1600,
+        res = "ui/activity/picture/newyear_2021/nianshou/012.png",
+        res_en = "ui/activity/picture/newyear_2021/nianshou/012_en.png",
+    },
+    [1601] = {
+        id = 1601,
+        res = "ui/activity/picture/spingFestival2021/guessWord/008.png",
+        res_en = "ui/activity/picture/spingFestival2021/guessWord/008_en.png",
+    },
+    [1602] = {
+        id = 1602,
+        res = "ui/activity/znq_yly/mainUi/029.png",
+        res_en = "ui/activity/znq_yly/mainUi/029_en.png",
+    },
+    [1603] = {
+        id = 1603,
+        res = "ui/activity/znq_yly/mainUi/putDown.png",
+        res_en = "ui/activity/znq_yly/mainUi/putDown_en.png",
+    },
+    [1604] = {
+        id = 1604,
+        res = "ui/activity/znq_yly/mainUi/repair.png",
+        res_en = "ui/activity/znq_yly/mainUi/repair_en.png",
+    },
+    [1605] = {
+        id = 1605,
+        res = "ui/activity/znq_yly/mainUi/take.png",
+        res_en = "ui/activity/znq_yly/mainUi/take_en.png",
+    },
+    [1606] = {
+        id = 1606,
+        res = "ui/fuben/endless_plus/013.png",
+        res_en = "ui/fuben/endless_plus/013_en.png",
+    },
+    [1607] = {
+        id = 1607,
+        res = "ui/mainLayer/new_ui_3/btn_dating2021.png",
+        res_en = "ui/mainLayer/new_ui_3/btn_dating2021_en.png",
+    },
+    [1608] = {
+        id = 1608,
+        res = "ui/mainLayer/new_ui_3/btn_fight2021.png",
+        res_en = "ui/mainLayer/new_ui_3/btn_fight2021_en.png",
+    },
+    [1609] = {
+        id = 1609,
+        res = "ui/mainLayer3/btn_fight2021.png",
+        res_en = "ui/mainLayer3/btn_fight2021_en.png",
+    },
+    [1610] = {
+        id = 1610,
+        res = "ui/mainLayer3/btn_dating2021.png",
+        res_en = "ui/mainLayer3/btn_dating2021_en.png",
+    },
+    [1611] = {
+        id = 1611,
+        res = "ui/setting/new/bg7.png",
+        res_en = "ui/setting/new/bg7_en.png",
+    },
+    [1612] = {
+        id = 1612,
+        res = "icon/item/goods/570542.png",
+        res_en = "icon/item/goods/570542_en.png",
+    },
+    [1613] = {
+        id = 1613,
+        res = "icon/equipment/suit/lianyi.png",
+        res_en = "icon/equipment/suit/lianyi_en.png",
+    },
+    [1614] = {
+        id = 1614,
+        res = "icon/equipment/name/huajinxiu.png",
+        res_en = "icon/equipment/name/huajinxiu_en.png",
+    },
+    [1615] = {
+        id = 1615,
+        res = "icon/equipment/name/shuiyunjian.png",
+        res_en = "icon/equipment/name/shuiyunjian_en.png",
+    },
+    [1616] = {
+        id = 1616,
+        res = "icon/equipment/name/siyuetian.png",
+        res_en = "icon/equipment/name/siyuetian_en.png",
+    },
 }

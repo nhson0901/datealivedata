@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -498,14 +498,14 @@ local t =
 												StrokeSize = 1,
 											},
 											hAlignment = "0",
-											height = "23",
+											height = "24",
 											ignoreSize = "True",
 											name = "TextArea_name",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Player Name Max 16 Chars",
+											text = "Player Name",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -514,7 +514,7 @@ local t =
 												PositionY = -32,
 											},
 											vAlignment = "0",
-											width = "252",
+											width = "148",
 											ZOrder = "1",
 										},
 										{
@@ -597,7 +597,7 @@ local t =
 													{
 														PositionY = -1,
 													},
-													width = "18",
+													width = "19",
 													ZOrder = "1",
 												},
 												{
@@ -820,7 +820,7 @@ local t =
 												PositionY = 13,
 											},
 											vAlignment = "0",
-											width = "115",
+											width = "583",
 											ZOrder = "1",
 										},
 									},
@@ -962,7 +962,7 @@ local t =
 												PositionY = -2,
 											},
 											visible = "False",
-											width = "64",
+											width = "43",
 											ZOrder = "1",
 										},
 									},
@@ -1126,7 +1126,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "28",
+											height = "30",
 											ignoreSize = "True",
 											name = "Label_feelling_name",
 											nTextAlign = "1",
@@ -1143,7 +1143,7 @@ local t =
 												PositionX = 44,
 												PositionY = 75,
 											},
-											width = "148",
+											width = "123",
 											ZOrder = "1",
 										},
 										{
@@ -1189,7 +1189,7 @@ local t =
 												PositionX = 200,
 												PositionY = 76,
 											},
-											width = "15",
+											width = "16",
 											ZOrder = "1",
 										},
 										{
@@ -1227,7 +1227,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "You can get 't more Favor today.",
+											text = "You can't get anymore Favor today",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -1235,7 +1235,7 @@ local t =
 												PositionX = 11,
 												PositionY = 23,
 											},
-											width = "249",
+											width = "219",
 											ZOrder = "1",
 										},
 										{
@@ -1335,7 +1335,7 @@ local t =
 												PositionX = 120,
 												PositionY = 50,
 											},
-											width = "47",
+											width = "48",
 											ZOrder = "1",
 										},
 										{
@@ -2005,7 +2005,7 @@ local t =
 														StrokeSize = 1,
 													},
 													hAlignment = "1",
-													height = "27",
+													height = "29",
 													ignoreSize = "True",
 													name = "TextArea_Game_2",
 													sizepercentx = "0",
@@ -2020,7 +2020,7 @@ local t =
 														PositionY = -26,
 													},
 													vAlignment = "1",
-													width = "72",
+													width = "48",
 													ZOrder = "1",
 												},
 												{
@@ -2113,7 +2113,7 @@ local t =
 														StrokeColor = "#FF2F0B0B",
 														StrokeSize = 1,
 													},
-													height = "27",
+													height = "29",
 													ignoreSize = "True",
 													name = "Label_title",
 													nTextAlign = "1",
@@ -2122,14 +2122,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Social",
+													text = "Contact",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -26,
 													},
-													width = "73",
+													width = "48",
 													ZOrder = "1",
 												},
 												{
@@ -2219,7 +2219,7 @@ local t =
 														StrokeSize = 1,
 													},
 													hAlignment = "1",
-													height = "27",
+													height = "29",
 													ignoreSize = "True",
 													name = "TextArea_Game_2",
 													sizepercentx = "0",
@@ -2234,7 +2234,7 @@ local t =
 														PositionY = -26,
 													},
 													vAlignment = "1",
-													width = "89",
+													width = "48",
 													ZOrder = "1",
 												},
 												{
@@ -2500,7 +2500,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Feb 5th - Feb 13th",
+													text = "TextLable",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -2512,7 +2512,7 @@ local t =
 														PercentY = 50,
 													},
 													visible = "False",
-													width = "186",
+													width = "193",
 													ZOrder = "1",
 												},
 												{
@@ -2935,7 +2935,7 @@ local t =
 												StrokeColor = "#FF2F0B0C",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_Game_1",
 											nTextAlign = "1",
@@ -2951,7 +2951,7 @@ local t =
 											{
 												PositionY = -34,
 											},
-											width = "76",
+											width = "52",
 											ZOrder = "1",
 										},
 										{
@@ -3117,7 +3117,7 @@ local t =
 												StrokeColor = "#FF2F0B0C",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_Game_1-Copy1",
 											nTextAlign = "1",
@@ -3223,7 +3223,7 @@ local t =
 												StrokeColor = "#FF2F0B0C",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_Game_1-Copy2",
 											nTextAlign = "1",
@@ -3239,7 +3239,7 @@ local t =
 											{
 												PositionY = -34,
 											},
-											width = "60",
+											width = "51",
 											ZOrder = "1",
 										},
 										{
@@ -3354,7 +3354,7 @@ local t =
 												StrokeColor = "#FF2F0B0C",
 												StrokeSize = 1,
 											},
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "Label_Game_1-Copy3",
 											nTextAlign = "1",
@@ -3370,7 +3370,7 @@ local t =
 											{
 												PositionY = -34,
 											},
-											width = "115",
+											width = "52",
 											ZOrder = "1",
 										},
 										{
@@ -3501,7 +3501,7 @@ local t =
 												PositionX = 25,
 											},
 											visible = "False",
-											width = "44",
+											width = "51",
 											ZOrder = "1",
 										},
 										{
@@ -3646,7 +3646,7 @@ local t =
 												StrokeSize = 1,
 											},
 											hAlignment = "1",
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "TextArea_Game_2",
 											sizepercentx = "0",
@@ -3661,7 +3661,7 @@ local t =
 												PositionY = -34,
 											},
 											vAlignment = "1",
-											width = "70",
+											width = "51",
 											ZOrder = "1",
 										},
 										{
@@ -3776,7 +3776,7 @@ local t =
 												StrokeSize = 1,
 											},
 											hAlignment = "1",
-											height = "30",
+											height = "32",
 											ignoreSize = "True",
 											name = "TextArea_Game_2",
 											sizepercentx = "0",
@@ -3791,7 +3791,7 @@ local t =
 												PositionY = -34,
 											},
 											vAlignment = "1",
-											width = "93",
+											width = "53",
 											ZOrder = "1",
 										},
 										{
@@ -4146,14 +4146,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Claimable",
+													text = "Claim",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -23,
 													},
-													width = "80",
+													width = "63",
 													ZOrder = "1",
 												},
 											},
@@ -4936,14 +4936,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Announcement",
+													text = "Notice",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -20,
 													},
-													width = "122",
+													width = "44",
 													ZOrder = "1",
 												},
 												{
@@ -5076,7 +5076,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "41",
+													width = "44",
 													ZOrder = "1",
 												},
 												{
@@ -5209,7 +5209,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "66",
+													width = "43",
 													ZOrder = "1",
 												},
 												{
@@ -5342,7 +5342,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "49",
+													width = "43",
 													ZOrder = "1",
 												},
 												{
@@ -5475,7 +5475,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "59",
+													width = "44",
 													ZOrder = "1",
 												},
 												{
@@ -5601,14 +5601,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Questionnaire",
+													text = "Survey",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														PositionY = -20,
 													},
-													width = "115",
+													width = "44",
 													ZOrder = "1",
 												},
 												{
@@ -5741,7 +5741,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "61",
+													width = "44",
 													ZOrder = "1",
 												},
 												{
@@ -5874,7 +5874,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "69",
+													width = "44",
 													ZOrder = "1",
 												},
 												{
@@ -6007,7 +6007,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "73",
+													width = "44",
 													ZOrder = "1",
 												},
 												{
@@ -6140,7 +6140,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "102",
+													width = "44",
 													ZOrder = "1",
 												},
 												{
@@ -6273,7 +6273,7 @@ local t =
 													{
 														PositionY = -20,
 													},
-													width = "103",
+													width = "43",
 													ZOrder = "1",
 												},
 												{

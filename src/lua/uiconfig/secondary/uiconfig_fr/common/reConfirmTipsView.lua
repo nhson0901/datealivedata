@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -199,7 +199,7 @@ local t =
 									dstBlendFunc = "771",
 									flipX = "False",
 									flipY = "False",
-									height = "45",
+									height = "50",
 									ignoreSize = "False",
 									name = "Button_ok",
 									normal = "ui/common/button09.png",
@@ -211,11 +211,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 230,
+										PositionX = 200,
 										PositionY = -140,
 									},
 									UItype = "Button",
-									width = "120",
+									width = "172",
 									ZOrder = "1",
 									components = 
 									{
@@ -246,8 +246,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "Label_ok",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -260,10 +260,9 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = -3,
-												PositionY = -1,
+												
 											},
-											width = "91",
+											width = "158",
 											ZOrder = "1",
 										},
 									},
@@ -314,7 +313,7 @@ local t =
 									DesignType = "0",
 									DesignWidth = "960",
 									dstBlendFunc = "771",
-									height = "150",
+									height = "165",
 									ignoreSize = "False",
 									name = "Panel_content",
 									sizepercentx = "0",
@@ -324,14 +323,14 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 34,
+										PositionY = 38,
 									},
 									uipanelviewmodel = 
 									{
 										Layout="Absolute",
 										nType = "0"
 									},
-									width = "507",
+									width = "550",
 									ZOrder = "1",
 								},
 								{
@@ -360,7 +359,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "160",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_content",
 									nTextAlign = "1",
@@ -374,9 +373,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = 39,
+										PositionY = 53,
 									},
-									width = "500",
+									width = "550",
 									ZOrder = "1",
 								},
 								{
@@ -384,7 +383,7 @@ local t =
 									UUID = "5c5406e9_c100_4002_98f3_9a86e4afd5b2",
 									anchorPoint = "False",
 									anchorPointX = "0.5",
-									anchorPointY = "0.5",
+									anchorPointY = "0",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -406,9 +405,9 @@ local t =
 										StrokeSize = 1,
 									},
 									height = "0",
-									ignoreSize = "True",
+									ignoreSize = "False",
 									name = "Label_content_1",
-									nTextAlign = "1",
+									nTextAlign = "2",
 									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
@@ -418,9 +417,9 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionY = -41,
+										PositionY = -49,
 									},
-									width = "0",
+									width = "550",
 									ZOrder = "1",
 								},
 								{

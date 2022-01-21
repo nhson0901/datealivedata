@@ -26,10 +26,9 @@ function NewyearTaskView:initUI(ui)
 
     self.Panel_tab                      = TFDirector:getChildByPath(ui,"Panel_tab")
 
-
-    local st_year, st_month, st_day = Utils:getDate(self.activityData.startTime)
-    local en_year, en_month, en_day = Utils:getDate(self.activityData.showEndTime)
-    self.Label_act_time:setTextById(63887, st_month, st_day, en_month, en_day)
+    local st_year, st_month, st_day = Utils:getUTCDateYMD(self.activityData.startTime,true ,  GV_UTC_TIME_ZONE)
+    local en_year, en_month, en_day = Utils:getUTCDateYMD(self.activityData.showEndTime,true ,  GV_UTC_TIME_ZONE)
+    self.Label_act_time:setText(TextDataMgr:getText(63887, st_month, st_day, en_month, en_day) ..GV_UTC_TIME_STRING)
 
     self:initTableView()
     self:initTask()
@@ -208,7 +207,7 @@ function NewyearTaskView:updateCell(item, taskId, idx)
         end
     end
 
-    item.Label_des:setText(itemInfo.extendData.des2)
+    item.Label_des:setTextById(itemInfo.extendData.des2,itemInfo.target)
 
     item.Label_progress:setTextById(800005, progress, itemInfo.target)
 

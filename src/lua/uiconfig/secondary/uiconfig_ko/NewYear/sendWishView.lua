@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -70,8 +70,8 @@ local t =
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 480,
-						PositionY = 320,
+						PositionX = 518,
+						PositionY = 383,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -229,7 +229,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_btn",
 									nTextAlign = "1",
@@ -238,14 +238,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "许下愿望",
+									text = "Wish",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = -1,
 									},
-									width = "106",
+									width = "72",
 									ZOrder = "1",
 								},
 							},
@@ -335,7 +335,6 @@ local t =
 									outlineColor = "#FFFFA500",
 									outlineSize = "1",
 									passwordEnable = "False",
-									placeHolder = " ",
 									shadowColor = "#FF000000",
 									shadowHeight = "0",
 									shadowWidth = "0",
@@ -463,7 +462,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "Label_title",
 							nTextAlign = "1",
@@ -472,7 +471,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "我的愿望",
+							text = "My Wish",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -480,7 +479,7 @@ local t =
 								PositionX = -224,
 								PositionY = 161,
 							},
-							width = "113",
+							width = "131",
 							ZOrder = "1",
 							components = 
 							{
@@ -508,6 +507,7 @@ local t =
 										PositionX = 124,
 										PositionY = 3,
 									},
+									visible = "False",
 									width = "4",
 									ZOrder = "1",
 								},
@@ -576,7 +576,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "玩家名字八个字啊",
+									text = "Player Name",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -584,7 +584,7 @@ local t =
 										PositionX = -5,
 										PositionY = 1,
 									},
-									width = "195",
+									width = "124",
 									ZOrder = "1",
 								},
 							},

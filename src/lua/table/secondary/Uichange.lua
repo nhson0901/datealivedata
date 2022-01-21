@@ -1,22 +1,4 @@
 return {
-    [100005] = {
-        preBeginTime = "2021-12-23 00:00:00",
-        bgm = "sound/bgm/main_OneYear.mp3",
-        id = 100005,
-        popupLocation = {
-        },
-        condition = {
-        },
-        unlockType = 0,
-        titleType = 2,
-        uiConfig  = "lua.uiconfig.MainScene.TwoYearView",
-        name = "14320005",
-        preEndTime = "2022-1-22 23:59:59",
-        endTime = "2022-1-22 23:59:59",
-        beginTime = "2021-12-23 00:00:00",
-        icon = "ui/setting/new/bg5.png",
-        des = "14310005",
-    },
     [100002] = {
         preBeginTime = "2021-07-20 23:59:59",
         bgm = "sound/bgm/main_OneYear.mp3",
@@ -34,24 +16,6 @@ return {
         beginTime = "2021-07-20 23:59:59",
         icon = "ui/setting/new/bg3.png",
         des = "14310002",
-    },
-    [100090] = {
-        preBeginTime = "2020-12-16 00:00:00",
-        bgm = "sound/bgm/main_shengdan.mp3",
-        id = 100090,
-        popupLocation = {
-        },
-        condition = {
-        },
-        unlockType = 0,
-        titleType = 2,
-        uiConfig  = "lua.uiconfig.MainScene.mainLayerViewEN_1",
-        name = "190000432",
-        preEndTime = "2021-01-05 23:59:59",
-        endTime = "2021-01-05 23:59:59",
-        beginTime = "2020-12-16 00:00:00",
-        icon = "ui/setting/new/bg90.png",
-        des = "190000384",
     },
     [100003] = {
         preBeginTime = "",
@@ -76,29 +40,6 @@ return {
         icon = "ui/setting/new/bg2.png",
         des = "14310003",
     },
-    [100091] = {
-        preBeginTime = "",
-        bgm = "sound/bgm/main_shengdan.mp3",
-        id = 100091,
-        popupLocation = {
-            y = 1,
-            x = 60,
-        },
-        condition = {
-            ownItems = {
-                [564005] = 1,
-            },
-        },
-        unlockType = 2,
-        titleType = 1,
-        uiConfig  = "lua.uiconfig.MainScene.mainLayerViewEN_1",
-        name = "190000383",
-        preEndTime = "",
-        endTime = "",
-        beginTime = "",
-        icon = "ui/setting/new/bg90.png",
-        des = "190000420",
-    },
     [100004] = {
         preBeginTime = "2021-02-05 00:00:00",
         bgm = "sound/bgm/main_2020.mp3",
@@ -116,6 +57,42 @@ return {
         beginTime = "2021-02-05 00:00:00",
         icon = "ui/setting/new/bg4.png",
         des = "14310004",
+    },
+    [100005] = {
+        preBeginTime = "2021-12-23 00:00:00",
+        bgm = "sound/bgm/main_OneYear.mp3",
+        id = 100005,
+        popupLocation = {
+        },
+        condition = {
+        },
+        unlockType = 0,
+        titleType = 2,
+        uiConfig  = "lua.uiconfig.MainScene.TwoYearView",
+        name = "14320005",
+        preEndTime = "2022-1-22 23:59:59",
+        endTime = "2022-1-22 23:59:59",
+        beginTime = "2021-12-23 00:00:00",
+        icon = "ui/setting/new/bg5.png",
+        des = "14310005",
+    },
+    [100007] = {
+        preBeginTime = "2022-01-26 00:00:00",
+        bgm = "sound/bgm/main_2020.mp3",
+        id = 100007,
+        popupLocation = {
+        },
+        condition = {
+        },
+        unlockType = 0,
+        titleType = 2,
+        uiConfig  = "lua.uiconfig.MainScene.newYear2021Theme",
+        name = "14320007",
+        preEndTime = "2022-03-01 23:59:59",
+        endTime = "2022-03-01 23:59:59",
+        beginTime = "2022-01-26 00:00:00",
+        icon = "ui/setting/new/bg7.png",
+        des = "14310008",
     },
     [100008] = {
         preBeginTime = "",
@@ -140,6 +117,24 @@ return {
         icon = "ui/setting/new/bg8.png",
         des = "14310009",
     },
+    [100090] = {
+        preBeginTime = "2020-12-16 00:00:00",
+        bgm = "sound/bgm/main_shengdan.mp3",
+        id = 100090,
+        popupLocation = {
+        },
+        condition = {
+        },
+        unlockType = 0,
+        titleType = 2,
+        uiConfig  = "lua.uiconfig.MainScene.mainLayerViewEN_1",
+        name = "190000432",
+        preEndTime = "2021-01-05 23:59:59",
+        endTime = "2021-01-05 23:59:59",
+        beginTime = "2020-12-16 00:00:00",
+        icon = "ui/setting/new/bg90.png",
+        des = "190000384",
+    },
     [100001] = {
         preBeginTime = "",
         bgm = "sound/bgm/main_001.mp3",
@@ -159,5 +154,28 @@ return {
         beginTime = "",
         icon = "ui/setting/new/bg1.png",
         des = "14310001",
+    },
+    [100091] = {
+        preBeginTime = "",
+        bgm = "sound/bgm/main_shengdan.mp3",
+        id = 100091,
+        popupLocation = {
+            y = 1,
+            x = 60,
+        },
+        condition = {
+            ownItems = {
+                [564005] = 1,
+            },
+        },
+        unlockType = 2,
+        titleType = 1,
+        uiConfig  = "lua.uiconfig.MainScene.mainLayerViewEN_1",
+        name = "190000383",
+        preEndTime = "",
+        endTime = "",
+        beginTime = "",
+        icon = "ui/setting/new/bg90.png",
+        des = "190000420",
     },
 }

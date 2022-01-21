@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -211,11 +211,11 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 230,
+										PositionX = 166,
 										PositionY = -140,
 									},
 									UItype = "Button",
-									width = "120",
+									width = "232",
 									ZOrder = "1",
 									components = 
 									{

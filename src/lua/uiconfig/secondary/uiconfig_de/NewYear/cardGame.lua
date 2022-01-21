@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -96,7 +96,7 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "644",
+							height = "768",
 							ignoreSize = "True",
 							name = "Image_bg",
 							sizepercentx = "0",
@@ -109,7 +109,7 @@ local t =
 							{
 								
 							},
-							width = "1386",
+							width = "1663",
 							ZOrder = "1",
 						},
 						{
@@ -211,14 +211,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "16",
+									fontSize = "20",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
+									height = "50",
 									ignoreSize = "False",
 									name = "Label_tip",
 									nTextAlign = "0",
@@ -227,15 +227,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Can draw three cards for divination",
+									text = "Draw any three cards for divination",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 17,
-										PositionY = 84,
+										PositionX = 32,
+										PositionY = 78,
 									},
-									width = "240",
+									width = "220",
 									ZOrder = "1",
 								},
 							},

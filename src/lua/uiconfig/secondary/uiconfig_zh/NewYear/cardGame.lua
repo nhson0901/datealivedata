@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -227,7 +227,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "可以任意抽取三张卡牌进行占卜",
+									text = "可以任意抽取三張卡牌進行占卜",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 

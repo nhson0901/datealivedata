@@ -65,7 +65,7 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 568,
+						PositionX = 480,
 						PositionY = 320,
 						relativeToName = "Panel",
 						nType = 3,
@@ -103,7 +103,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "35",
+							height = "32",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -120,7 +120,7 @@ local t =
 								PositionX = -155,
 								PositionY = 167,
 							},
-							width = "115",
+							width = "114",
 							ZOrder = "1",
 							components = 
 							{
@@ -194,7 +194,7 @@ local t =
 										PositionX = 67,
 										PositionY = -4,
 									},
-									width = "61",
+									width = "58",
 									ZOrder = "1",
 								},
 							},
@@ -369,7 +369,7 @@ local t =
 								PositionX = -336,
 								PositionY = -1,
 							},
-							width = "131",
+							width = "136",
 							ZOrder = "1",
 						},
 						{
@@ -407,7 +407,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "可获得",
+							text = "可獲得",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
