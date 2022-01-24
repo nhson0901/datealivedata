@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -2376,7 +2376,7 @@ local t =
 												PositionY = -261,
 											},
 											UItype = "Button",
-											width = "108",
+											width = "133",
 											ZOrder = "1",
 											components = 
 											{
@@ -2400,14 +2400,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "22",
+													fontSize = "20",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "25",
+													height = "23",
 													ignoreSize = "True",
 													name = "Label_medal",
 													nTextAlign = "1",
@@ -2416,14 +2416,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "交换",
+													text = "Exchange",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 17,
+														PositionX = 20,
 													},
-													width = "47",
+													width = "76",
 													ZOrder = "1",
 												},
 											},

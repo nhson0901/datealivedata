@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -234,7 +234,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "您是否选择一键替换？",
+									text = "Quickly apply the set?",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -242,7 +242,7 @@ local t =
 										PositionX = -385,
 										PositionY = -150,
 									},
-									width = "231",
+									width = "210",
 									ZOrder = "1",
 								},
 							},
@@ -378,7 +378,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "32",
+									height = "30",
 									ignoreSize = "True",
 									name = "Label_ok",
 									nTextAlign = "1",
@@ -387,14 +387,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "是",
+									text = "Yes",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = -1,
 									},
-									width = "29",
+									width = "50",
 									ZOrder = "1",
 								},
 							},
@@ -467,14 +467,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "否",
+									text = "No",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = -1,
 									},
-									width = "29",
+									width = "35",
 									ZOrder = "1",
 								},
 							},

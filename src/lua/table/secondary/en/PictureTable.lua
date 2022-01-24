@@ -8059,4 +8059,24 @@ return {
         res = "icon/equipment/name/siyuetian.png",
         res_en = "icon/equipment/name/siyuetian_en.png",
     },
+    [1617] = {
+        id = 1617,
+        res = "ui/mainLayer/001.png",
+        res_en = "ui/mainLayer/001_en.png",
+    },
+    [1618] = {
+        id = 1618,
+        res = "ui/activity/newyear_2021/nianshou/005.png",
+        res_en = "ui/activity/newyear_2021/nianshou/005_en.png",
+    },
+    [1619] = {
+        id = 1619,
+        res = "ui/activity/newyear_2021/nianshou/011.png",
+        res_en = "ui/activity/newyear_2021/nianshou/011_en.png",
+    },
+    [1620] = {
+        id = 1620,
+        res = "ui/activity/newyear_2021/nianshou/012.png",
+        res_en = "ui/activity/newyear_2021/nianshou/012_en.png",
+    },
 }

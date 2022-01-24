@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -263,7 +263,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "25",
+													height = "23",
 													ignoreSize = "True",
 													name = "Label_cn",
 													nTextAlign = "1",
@@ -327,7 +327,7 @@ local t =
 														PositionX = 22,
 														PositionY = -10,
 													},
-													width = "21",
+													width = "25",
 													ZOrder = "1",
 												},
 											},
@@ -553,7 +553,7 @@ local t =
 																StrokeColor = "#FFE6E6E6",
 																StrokeSize = 1,
 															},
-															height = "27",
+															height = "25",
 															ignoreSize = "True",
 															name = "lab_masterLv",
 															nTextAlign = "1",
@@ -569,7 +569,7 @@ local t =
 															{
 																PositionY = -2,
 															},
-															width = "21",
+															width = "15",
 															ZOrder = "1",
 														},
 													},
@@ -651,7 +651,7 @@ local t =
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "27",
+													height = "25",
 													ignoreSize = "True",
 													name = "lab_masterName",
 													nTextAlign = "1",
@@ -965,7 +965,7 @@ local t =
 														PercentX = 8,
 														PercentY = 50,
 													},
-													width = "21",
+													width = "25",
 													ZOrder = "1",
 												},
 												{
@@ -1015,7 +1015,7 @@ local t =
 														PercentX = 110.32,
 														PercentY = 50,
 													},
-													width = "128",
+													width = "127",
 													ZOrder = "1",
 												},
 												{
@@ -1240,7 +1240,7 @@ local t =
 														PositionX = 35,
 														PositionY = 20,
 													},
-													width = "65",
+													width = "69",
 													ZOrder = "1",
 												},
 												{
@@ -1497,7 +1497,7 @@ local t =
 														PositionX = 524,
 														PositionY = 27,
 													},
-													width = "86",
+													width = "85",
 													ZOrder = "1",
 												},
 												{
@@ -2139,7 +2139,7 @@ local t =
 												PositionX = 6,
 												PositionY = -84,
 											},
-											width = "28",
+											width = "27",
 											ZOrder = "1",
 										},
 										{
@@ -2417,7 +2417,7 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "交换",
+													text = "交換",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
@@ -3170,7 +3170,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "35",
+									height = "32",
 									ignoreSize = "True",
 									name = "Label_title",
 									nTextAlign = "1",
@@ -3187,7 +3187,7 @@ local t =
 										PositionX = -353,
 										PositionY = 181,
 									},
-									width = "179",
+									width = "122",
 									ZOrder = "1",
 								},
 								{
@@ -3233,7 +3233,7 @@ local t =
 										PositionX = -167,
 										PositionY = 168,
 									},
-									width = "115",
+									width = "113",
 									ZOrder = "1",
 								},
 								{

@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -2356,7 +2356,7 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEButton",
 											ClickHighLightEnabled = "True",
 											dstBlendFunc = "771",
@@ -2376,7 +2376,7 @@ local t =
 												PositionY = -261,
 											},
 											UItype = "Button",
-											width = "108",
+											width = "140",
 											ZOrder = "1",
 											components = 
 											{
@@ -2416,14 +2416,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "交换",
+													text = "Exchange",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 17,
+														PositionX = 20,
 													},
-													width = "47",
+													width = "85",
 													ZOrder = "1",
 												},
 											},

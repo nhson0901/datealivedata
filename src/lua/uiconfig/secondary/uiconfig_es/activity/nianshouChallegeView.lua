@@ -613,11 +613,11 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEImage",
 											dstBlendFunc = "771",
 											height = "50",
-											ignoreSize = "True",
+											ignoreSize = "False",
 											name = "Image_buff_bg",
 											sizepercentx = "0",
 											sizepercenty = "0",
@@ -627,10 +627,10 @@ local t =
 											touchAble = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 366,
+												PositionX = 364,
 												PositionY = 43,
 											},
-											width = "476",
+											width = "640",
 											ZOrder = "2",
 											components = 
 											{
@@ -675,7 +675,7 @@ local t =
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -212,
+														PositionX = -290,
 													},
 													width = "31",
 													ZOrder = "1",
@@ -1727,7 +1727,7 @@ local t =
 					DesignType = "0",
 					DesignWidth = "960",
 					dstBlendFunc = "771",
-					height = "50",
+					height = "100",
 					ignoreSize = "False",
 					name = "Panel_prefabe",
 					sizepercentx = "0",
@@ -1740,7 +1740,7 @@ local t =
 						PositionX = 287,
 						PositionY = -100,
 						LeftPositon = 287,
-						TopPosition = 760,
+						TopPosition = 710,
 						relativeToName = "Panel_root",
 						nType = 3,
 					},
@@ -1769,7 +1769,7 @@ local t =
 							DesignType = "0",
 							DesignWidth = "960",
 							dstBlendFunc = "771",
-							height = "68",
+							height = "100",
 							ignoreSize = "False",
 							name = "Panel_flag_item",
 							sizepercentx = "0",
@@ -1812,8 +1812,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 18,
-										PositionY = 54,
+										PositionX = 15,
+										PositionY = 85,
 									},
 									width = "20",
 									ZOrder = "1",
@@ -1823,7 +1823,7 @@ local t =
 									UUID = "a94ac103_cc98_4279_a35a_21045386cdc9",
 									anchorPoint = "False",
 									anchorPointX = "0",
-									anchorPointY = "0.5",
+									anchorPointY = "1",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
@@ -1844,7 +1844,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "70",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_flag",
 									nTextAlign = "0",
@@ -1858,8 +1858,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 29,
-										PositionY = 30,
+										PositionX = 26,
+										PositionY = 95,
 									},
 									width = "388",
 									ZOrder = "1",

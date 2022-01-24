@@ -94,21 +94,21 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "133",
+							height = "138",
 							ignoreSize = "True",
 							name = "img_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/balloon/25.png",
-							touchAble = "True",
+							texturePath = "ui/activity/2021_spring/fireWorks/pop/003.png",
+							touchAble = "False",
 							UILayoutViewModel = 
 							{
 								PositionX = 568,
 								PositionY = 631,
 							},
-							width = "876",
+							width = "871",
 							ZOrder = "1",
 							components = 
 							{
@@ -129,7 +129,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/balloon/10.png",
+									texturePath = "ui/activity/2021_spring/fireWorks/pop/001.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
@@ -150,7 +150,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FF493E8A",
+											FontColor = "#FFDD5B2E",
 											fontName = "font/fangzheng_zhunyuan.ttf",
 											fontShadow = 
 											{
@@ -160,14 +160,14 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "22",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "23",
+											height = "25",
 											ignoreSize = "True",
 											name = "label_title",
 											nTextAlign = "1",
@@ -184,7 +184,7 @@ local t =
 												PositionX = 22,
 												PositionY = -1,
 											},
-											width = "68",
+											width = "76",
 											ZOrder = "1",
 										},
 									},
@@ -198,21 +198,21 @@ local t =
 									backGroundScale9Enable = "False",
 									classname = "MEImage",
 									dstBlendFunc = "771",
-									height = "66",
+									height = "68",
 									ignoreSize = "True",
 									name = "img_icon",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "1",
-									texturePath = "ui/balloon/11.png",
+									texturePath = "ui/activity/2021_spring/fireWorks/pop/002.png",
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = -386,
 										PositionY = -84,
 									},
-									width = "66",
+									width = "68",
 									ZOrder = "1",
 								},
 								{
@@ -224,7 +224,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF493E8A",
+									FontColor = "#FF842540",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -234,14 +234,14 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
+									height = "27",
 									ignoreSize = "True",
 									name = "txt_desc",
 									nTextAlign = "1",
@@ -250,7 +250,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "I want to go with you",
+									text = "I want to ",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -258,7 +258,7 @@ local t =
 										PositionX = -342,
 										PositionY = -104,
 									},
-									width = "171",
+									width = "87",
 									ZOrder = "1",
 								},
 								{
@@ -270,7 +270,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF493E8A",
+									FontColor = "#FF842540",
 									fontName = "font/MFLiHei_Noncommercial.ttf",
 									fontShadow = 
 									{
@@ -316,7 +316,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FFFB4A5D",
+									FontColor = "#FFDD5B2E",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -414,9 +414,9 @@ local t =
 	{
 		textures = 
 		{
-			"ui/balloon/25.png",
-			"ui/balloon/10.png",
-			"ui/balloon/11.png",
+			"ui/activity/2021_spring/fireWorks/pop/003.png",
+			"ui/activity/2021_spring/fireWorks/pop/001.png",
+			"ui/activity/2021_spring/fireWorks/pop/002.png",
 		},
 		armatures = 
 		{

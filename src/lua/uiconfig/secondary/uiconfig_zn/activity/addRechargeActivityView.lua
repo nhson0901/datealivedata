@@ -140,8 +140,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 148,
-										PositionY = -61,
+										PositionX = 127,
+										PositionY = -35,
 									},
 									uipanelviewmodel = 
 									{
@@ -155,7 +155,7 @@ local t =
 									controlID = "Label_timing_Image_bg_Panel_root_Panel-addRechargeActivityView_Layer1_activity_Game",
 									UUID = "69b0e525_5119_42ff_a49c_46b2897ee505",
 									anchorPoint = "False",
-									anchorPointX = "1",
+									anchorPointX = "0",
 									anchorPointY = "0.5",
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
@@ -191,8 +191,8 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 396,
-										PositionY = 245,
+										PositionX = -368,
+										PositionY = 249,
 									},
 									width = "136",
 									ZOrder = "1",
@@ -237,9 +237,10 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -142,
+										PositionX = -140,
 										PositionY = -245,
 									},
+									visible = "False",
 									width = "331",
 									ZOrder = "1",
 								},
@@ -358,8 +359,8 @@ local t =
 									touchAble = "True",
 									UILayoutViewModel = 
 									{
-										PositionX = 294,
-										PositionY = -210,
+										PositionX = 281,
+										PositionY = -218,
 									},
 									UItype = "Button",
 									width = "262",
@@ -376,7 +377,7 @@ local t =
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
-							FontColor = "#FFF1EFF7",
+							FontColor = "#FFFFFFFF",
 							fontName = "font/MFLiHei_Noncommercial.ttf",
 							fontShadow = 
 							{
@@ -390,7 +391,7 @@ local t =
 							fontStroke = 
 							{
 								IsStroke = true,
-								StrokeColor = "#FF1856C7",
+								StrokeColor = "#FF000000",
 								StrokeSize = 2,
 							},
 							height = "34",
@@ -402,12 +403,12 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "累计储值：",
+							text = "累计充值：",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -398,
+								PositionX = -325,
 								PositionY = -207,
 							},
 							width = "118",
@@ -568,7 +569,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
+											FontColor = "#FFF0F8FF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -582,7 +583,7 @@ local t =
 											fontStroke = 
 											{
 												IsStroke = true,
-												StrokeColor = "#FF1E4EA5",
+												StrokeColor = "#FF000000",
 												StrokeSize = 2,
 											},
 											height = "27",
@@ -594,14 +595,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "已领取",
+											text = "Claimed",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = 12,
 											},
-											width = "64",
+											width = "90",
 											ZOrder = "1",
 										},
 									},
@@ -714,7 +715,7 @@ local t =
 											classname = "MELabel",
 											compPath = "luacomponents.common.MEIconLabel",
 											dstBlendFunc = "771",
-											FontColor = "#FFFFFFFF",
+											FontColor = "#FFF0F8FF",
 											fontName = "font/MFLiHei_Noncommercial.ttf",
 											fontShadow = 
 											{
@@ -728,7 +729,7 @@ local t =
 											fontStroke = 
 											{
 												IsStroke = true,
-												StrokeColor = "#FF1E4EA5",
+												StrokeColor = "#FF000000",
 												StrokeSize = 2,
 											},
 											height = "27",
@@ -740,14 +741,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "领取",
+											text = "Claim",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												PositionY = 11,
 											},
-											width = "44",
+											width = "65",
 											ZOrder = "1",
 										},
 									},
@@ -841,7 +842,7 @@ local t =
 											fontStroke = 
 											{
 												IsStroke = true,
-												StrokeColor = "#FF1E4EA5",
+												StrokeColor = "#FF000000",
 												StrokeSize = 2,
 											},
 											height = "27",

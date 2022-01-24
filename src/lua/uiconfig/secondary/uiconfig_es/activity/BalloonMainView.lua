@@ -232,7 +232,7 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Total releases:",
+											text = "Server Total Balloons Released:",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -240,7 +240,7 @@ local t =
 												PositionX = -186,
 												PositionY = -4,
 											},
-											width = "135",
+											width = "293",
 											ZOrder = "1",
 										},
 										{
@@ -462,23 +462,23 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "18",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "0",
-											ignoreSize = "False",
+											height = "21",
+											ignoreSize = "True",
 											name = "label_title",
 											nTextAlign = "1",
-											nTextHAlign = "0",
+											nTextHAlign = "1",
 											sizepercentx = "0",
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Currently owned :",
+											text = "Currently Own:",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
@@ -486,7 +486,7 @@ local t =
 												PositionX = -185,
 												PositionY = 39,
 											},
-											width = "257",
+											width = "145",
 											ZOrder = "1",
 										},
 										{
@@ -495,14 +495,14 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
+											backGroundScale9Enable = "False",
 											classname = "MEButton",
 											ClickHighLightEnabled = "True",
 											dstBlendFunc = "771",
 											flipX = "False",
 											flipY = "False",
 											height = "63",
-											ignoreSize = "False",
+											ignoreSize = "True",
 											name = "btn_friend",
 											normal = "ui/balloon/33.png",
 											sizepercentx = "0",
@@ -512,11 +512,11 @@ local t =
 											touchAble = "True",
 											UILayoutViewModel = 
 											{
-												PositionX = 151,
+												PositionX = 155,
 												PositionY = -13,
 											},
 											UItype = "Button",
-											width = "76",
+											width = "63",
 											ZOrder = "1",
 											components = 
 											{
@@ -540,7 +540,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "15",
+													fontSize = "20",
 													fontStroke = 
 													{
 														IsStroke = false,
@@ -556,14 +556,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "Friends for help",
+													text = "Friend Request",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
 														
 													},
-													width = "70",
+													width = "55",
 													ZOrder = "1",
 												},
 											},
@@ -1564,15 +1564,15 @@ local t =
 												OffsetX = 0,
 												OffsetY = 0,
 											},
-											fontSize = "20",
+											fontSize = "28",
 											fontStroke = 
 											{
 												IsStroke = false,
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "0",
-											ignoreSize = "False",
+											height = "32",
+											ignoreSize = "True",
 											name = "btn_label",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -1580,14 +1580,14 @@ local t =
 											sizepercenty = "0",
 											sizeType = "0",
 											srcBlendFunc = "770",
-											text = "Release balloon",
+											text = "Release Balloons",
 											touchAble = "False",
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
 												
 											},
-											width = "121",
+											width = "249",
 											ZOrder = "1",
 										},
 									},
@@ -1627,15 +1627,15 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Reminder",
+									text = "Tips",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 60,
-										PositionY = -183,
+										PositionX = 1,
+										PositionY = -185,
 									},
-									width = "74",
+									width = "34",
 									ZOrder = "1",
 								},
 							},
@@ -1660,8 +1660,8 @@ local t =
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 114,
-								PositionY = -101,
+								PositionX = 124,
+								PositionY = -100,
 							},
 							width = "264",
 							ZOrder = "10",
@@ -1687,23 +1687,23 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "18",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "28",
+									ignoreSize = "True",
 									name = "label_title",
 									nTextAlign = "1",
-									nTextHAlign = "0",
+									nTextHAlign = "1",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Currently owns",
+									text = "Owned",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1711,7 +1711,7 @@ local t =
 										PositionX = -120,
 										PositionY = 189,
 									},
-									width = "192",
+									width = "91",
 									ZOrder = "1",
 								},
 								{
@@ -2007,7 +2007,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Reached 500 times",
+									text = "Reach 500 times",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -2015,7 +2015,7 @@ local t =
 										PositionX = -185,
 										PositionY = 45,
 									},
-									width = "172",
+									width = "150",
 									ZOrder = "1",
 								},
 								{
@@ -2184,7 +2184,7 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
@@ -2196,19 +2196,18 @@ local t =
 									name = "img_get",
 									nTextAlign = "1",
 									nTextHAlign = "1",
-									rotation = "90",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Not Achieved",
+									text = "Not reached",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionX = 163,
 									},
-									width = "103",
+									width = "30",
 									ZOrder = "1",
 								},
 								{
@@ -2230,19 +2229,18 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "20",
+									fontSize = "24",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "23",
-									ignoreSize = "True",
+									height = "0",
+									ignoreSize = "False",
 									name = "img_got",
 									nTextAlign = "1",
 									nTextHAlign = "1",
-									rotation = "90",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
@@ -2254,7 +2252,7 @@ local t =
 									{
 										PositionX = 163,
 									},
-									width = "87",
+									width = "30",
 									ZOrder = "1",
 								},
 								{
@@ -2277,8 +2275,8 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 165,
-										PositionY = 4,
+										PositionX = 164,
+										PositionY = 2,
 									},
 									width = "50",
 									ZOrder = "1",

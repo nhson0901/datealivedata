@@ -617,7 +617,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "活动时间",
+									text = "活動時間",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -625,7 +625,7 @@ local t =
 										PositionX = -422,
 										PositionY = 243,
 									},
-									width = "77",
+									width = "76",
 									ZOrder = "1",
 								},
 								{
@@ -757,7 +757,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "登录领取",
+									text = "登錄領取",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 

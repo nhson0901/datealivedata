@@ -54,14 +54,14 @@ local t =
 					backGroundScale9Enable = "False",
 					classname = "MEImage",
 					dstBlendFunc = "771",
-					height = "454",
+					height = "414",
 					ignoreSize = "True",
 					name = "img_bg",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/balloon/23.png",
+					texturePath = "ui/activity/2021_spring/fireWorks/004.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
@@ -72,7 +72,7 @@ local t =
 						nGravity = 6,
 						nAlign = 5
 					},
-					width = "820",
+					width = "758",
 					ZOrder = "1",
 					components = 
 					{
@@ -103,7 +103,7 @@ local t =
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "32",
+							height = "35",
 							ignoreSize = "True",
 							name = "label_title",
 							nTextAlign = "1",
@@ -118,9 +118,9 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -167,
-								PositionY = 166,
+								PositionY = 178,
 							},
-							width = "114",
+							width = "113",
 							ZOrder = "1",
 							components = 
 							{
@@ -194,7 +194,8 @@ local t =
 										PositionX = 68,
 										PositionY = -4,
 									},
-									width = "63",
+									visible = "False",
+									width = "68",
 									ZOrder = "1",
 								},
 							},
@@ -222,6 +223,7 @@ local t =
 								PositionX = 6,
 								PositionY = -5,
 							},
+							visible = "False",
 							width = "719",
 						},
 						{
@@ -236,10 +238,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "32",
+							height = "64",
 							ignoreSize = "True",
 							name = "btn_close",
-							normal = "ui/balloon/close_btn.png",
+							normal = "ui/activity/2021_spring/fireWorks/close.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -248,10 +250,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 342,
-								PositionY = 169,
+								PositionY = 189,
 							},
 							UItype = "Button",
-							width = "35",
+							width = "62",
 							ZOrder = "1",
 						},
 						{
@@ -263,14 +265,14 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "262",
+							height = "278",
 							ignoreSize = "True",
 							name = "bag_bg",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/balloon/26.png",
+							texturePath = "ui/activity/2021_spring/fireWorks/pop/006.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
@@ -280,7 +282,7 @@ local t =
 								nGravity = 6,
 								nAlign = 5
 							},
-							width = "158",
+							width = "159",
 							ZOrder = "10",
 							components = 
 							{
@@ -387,12 +389,12 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/balloon/27.png",
+							texturePath = "ui/activity/2021_spring/fireWorks/pop/005.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 196,
-								PositionY = -7,
+								PositionX = 171,
+								PositionY = 15,
 							},
 							width = "320",
 							ZOrder = "1",
@@ -490,7 +492,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "34",
+											height = "37",
 											ignoreSize = "True",
 											name = "Label",
 											nTextAlign = "1",
@@ -507,7 +509,7 @@ local t =
 												PositionX = 4,
 												PositionY = -36,
 											},
-											width = "91",
+											width = "93",
 											ZOrder = "1",
 										},
 									},
@@ -555,7 +557,7 @@ local t =
 										PositionX = -153,
 										PositionY = -126,
 									},
-									width = "78",
+									width = "79",
 									ZOrder = "1",
 									components = 
 									{
@@ -625,12 +627,12 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/balloon/27.png",
+							texturePath = "ui/activity/2021_spring/fireWorks/pop/005.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -181,
-								PositionY = -7,
+								PositionX = -206,
+								PositionY = 15,
 							},
 							width = "320",
 							ZOrder = "1",
@@ -728,7 +730,7 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "34",
+											height = "37",
 											ignoreSize = "True",
 											name = "Label",
 											nTextAlign = "1",
@@ -745,7 +747,7 @@ local t =
 												PositionX = 4,
 												PositionY = -36,
 											},
-											width = "91",
+											width = "93",
 											ZOrder = "1",
 										},
 									},
@@ -793,7 +795,7 @@ local t =
 										PositionX = -153,
 										PositionY = -126,
 									},
-									width = "78",
+									width = "79",
 									ZOrder = "1",
 									components = 
 									{
@@ -856,21 +858,21 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "92",
+							height = "70",
 							ignoreSize = "True",
 							name = "img_equal",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/balloon/16.png",
+							texturePath = "ui/activity/2021_spring/fireWorks/pop/007.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 6,
-								PositionY = 3,
+								PositionX = -18,
+								PositionY = 19,
 							},
-							width = "114",
+							width = "84",
 							ZOrder = "2",
 						},
 						{
@@ -931,10 +933,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "54",
+							height = "89",
 							ignoreSize = "True",
 							name = "btn_left",
-							normal = "ui/balloon/13.png",
+							normal = "ui/activity/2021_spring/010.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -942,11 +944,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 145,
-								PositionY = -182,
+								PositionX = 102,
+								PositionY = -170,
 							},
 							UItype = "Button",
-							width = "124",
+							width = "164",
 							ZOrder = "1",
 							components = 
 							{
@@ -961,7 +963,7 @@ local t =
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
 									FontColor = "#FF485381",
-									fontName = "font/fangzheng_zhunyuan.ttf",
+									fontName = "font/MFLiHei_Noncommercial.ttf",
 									fontShadow = 
 									{
 										IsShadow = false,
@@ -977,7 +979,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "30",
 									ignoreSize = "True",
 									name = "btn_label",
 									nTextAlign = "1",
@@ -993,7 +995,7 @@ local t =
 									{
 										PositionY = -3,
 									},
-									width = "99",
+									width = "100",
 									ZOrder = "1",
 								},
 							},
@@ -1010,10 +1012,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "54",
+							height = "89",
 							ignoreSize = "True",
 							name = "btn_deal",
-							normal = "ui/balloon/13.png",
+							normal = "ui/activity/2021_spring/004.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -1021,11 +1023,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 279,
-								PositionY = -182,
+								PositionX = 259,
+								PositionY = -170,
 							},
 							UItype = "Button",
-							width = "124",
+							width = "164",
 							ZOrder = "1",
 							components = 
 							{
@@ -1039,8 +1041,8 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF485381",
-									fontName = "font/fangzheng_zhunyuan.ttf",
+									FontColor = "#FF842540",
+									fontName = "font/MFLiHei_Noncommercial.ttf",
 									fontShadow = 
 									{
 										IsShadow = false,
@@ -1056,7 +1058,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "27",
+									height = "30",
 									ignoreSize = "True",
 									name = "btn_label",
 									nTextAlign = "1",
@@ -1100,7 +1102,6 @@ local t =
 								PositionX = -327,
 								PositionY = 139,
 							},
-							visible = "False",
 							width = "207",
 							ZOrder = "1",
 						},
@@ -1127,7 +1128,6 @@ local t =
 								PositionX = -315,
 								PositionY = -170,
 							},
-							visible = "False",
 							width = "139",
 							ZOrder = "1",
 						},
@@ -1218,7 +1218,7 @@ local t =
 								PositionX = 36,
 								PositionY = 28,
 							},
-							width = "69",
+							width = "66",
 							ZOrder = "10",
 						},
 						{
@@ -1262,15 +1262,16 @@ local t =
 	{
 		textures = 
 		{
-			"ui/balloon/23.png",
+			"ui/activity/2021_spring/fireWorks/004.png",
 			"ui/activity/2021_spring/007.png",
 			"ui/balloon/24.png",
-			"ui/balloon/close_btn.png",
-			"ui/balloon/26.png",
-			"ui/balloon/27.png",
+			"ui/activity/2021_spring/fireWorks/close.png",
+			"ui/activity/2021_spring/fireWorks/pop/006.png",
+			"ui/activity/2021_spring/fireWorks/pop/005.png",
 			"ui/activity/2021_spring/fireWorks/pop/009.png",
-			"ui/balloon/16.png",
-			"ui/balloon/13.png",
+			"ui/activity/2021_spring/fireWorks/pop/007.png",
+			"ui/activity/2021_spring/010.png",
+			"ui/activity/2021_spring/004.png",
 			"ui/activity/2021_spring/fireWorks/decorate1.png",
 			"ui/activity/2021_spring/fireWorks/decorate2.png",
 			"ui/balloon/30.png",

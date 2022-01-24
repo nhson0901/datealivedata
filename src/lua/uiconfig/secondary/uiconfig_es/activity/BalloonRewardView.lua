@@ -65,8 +65,8 @@ local t =
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 510,
-						PositionY = 354,
+						PositionX = 480,
+						PositionY = 320,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
@@ -112,15 +112,15 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "Award details",
+							text = "Reward Details",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -214,
+								PositionX = -218,
 								PositionY = 167,
 							},
-							width = "204",
+							width = "225",
 							ZOrder = "1",
 							components = 
 							{
@@ -145,7 +145,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 163,
+										PositionX = 174,
 										PositionY = 2,
 									},
 									visible = "False",
@@ -192,7 +192,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = 168,
+										PositionX = 179,
 										PositionY = -4,
 									},
 									visible = "False",
@@ -347,14 +347,14 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "20",
+							fontSize = "24",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "23",
+							height = "27",
 							ignoreSize = "True",
 							name = "label_desc",
 							nTextAlign = "1",
@@ -363,7 +363,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "Send one type of  balloon",
+							text = "Release 1 type of balloons",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -371,7 +371,7 @@ local t =
 								PositionX = -336,
 								PositionY = -1,
 							},
-							width = "202",
+							width = "247",
 							ZOrder = "1",
 						},
 						{
@@ -393,14 +393,14 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "20",
+							fontSize = "24",
 							fontStroke = 
 							{
 								IsStroke = false,
 								StrokeColor = "#FFE6E6E6",
 								StrokeSize = 1,
 							},
-							height = "23",
+							height = "27",
 							ignoreSize = "True",
 							name = "label_get",
 							nTextAlign = "1",
@@ -409,7 +409,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "You'll get",
+							text = "Can Get",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -417,7 +417,7 @@ local t =
 								PositionX = 53,
 								PositionY = -1,
 							},
-							width = "98",
+							width = "81",
 							ZOrder = "1",
 						},
 						{

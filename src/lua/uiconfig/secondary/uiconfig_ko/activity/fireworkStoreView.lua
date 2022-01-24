@@ -1318,7 +1318,7 @@ local t =
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "50",
+									height = "0",
 									ignoreSize = "False",
 									name = "Label_tips",
 									nTextAlign = "1",
@@ -1333,7 +1333,7 @@ local t =
 									UILayoutViewModel = 
 									{
 										PositionX = 106,
-										PositionY = 59,
+										PositionY = 62,
 									},
 									width = "180",
 									ZOrder = "1",

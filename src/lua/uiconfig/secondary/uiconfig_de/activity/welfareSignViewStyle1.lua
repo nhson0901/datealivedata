@@ -569,7 +569,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "登录领取",
+									text = "Login to Claim",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -578,7 +578,7 @@ local t =
 										PositionY = 246,
 									},
 									visible = "False",
-									width = "82",
+									width = "157",
 									ZOrder = "1",
 								},
 								{
@@ -617,7 +617,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "活动时间",
+									text = "Event Time",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -625,7 +625,7 @@ local t =
 										PositionX = -422,
 										PositionY = 243,
 									},
-									width = "77",
+									width = "108",
 									ZOrder = "1",
 								},
 								{
@@ -664,7 +664,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "活动时间",
+									text = "Event Time",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -672,7 +672,7 @@ local t =
 										PositionX = -442,
 										PositionY = 181,
 									},
-									width = "77",
+									width = "108",
 									ZOrder = "1",
 								},
 								{
@@ -711,7 +711,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "活动时间",
+									text = "Event Time",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -719,7 +719,7 @@ local t =
 										PositionX = -436,
 										PositionY = 212,
 									},
-									width = "77",
+									width = "108",
 									ZOrder = "1",
 								},
 								{
@@ -757,7 +757,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "登录领取",
+									text = "Login to Claim",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -765,7 +765,7 @@ local t =
 										PositionX = 318,
 										PositionY = 246,
 									},
-									width = "90",
+									width = "171",
 									ZOrder = "1",
 								},
 							},
@@ -1065,7 +1065,7 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "第一天",
+									text = "Day 1",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -1073,7 +1073,7 @@ local t =
 										PositionY = -67,
 									},
 									visible = "False",
-									width = "64",
+									width = "60",
 									ZOrder = "1",
 								},
 								{
@@ -1397,14 +1397,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "第一天",
+									text = "Day 1",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
 										PositionY = 59,
 									},
-									width = "69",
+									width = "52",
 									ZOrder = "1",
 								},
 								{

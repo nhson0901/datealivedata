@@ -54,25 +54,25 @@ local t =
 					backGroundScale9Enable = "False",
 					classname = "MEImage",
 					dstBlendFunc = "771",
-					height = "308",
+					height = "307",
 					ignoreSize = "True",
 					name = "img_bg",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/balloon/21.png",
+					texturePath = "ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
 					touchAble = "False",
 					UILayoutViewModel = 
 					{
-						PositionX = 510,
-						PositionY = 354,
+						PositionX = 518,
+						PositionY = 383,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
 						nAlign = 5
 					},
-					width = "524",
+					width = "536",
 					ZOrder = "1",
 					components = 
 					{
@@ -86,21 +86,20 @@ local t =
 							backGroundScale9Enable = "False",
 							classname = "MEImage",
 							dstBlendFunc = "771",
-							height = "189",
+							height = "64",
 							ignoreSize = "True",
 							name = "img_di",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "1",
-							texturePath = "ui/balloon/22.png",
 							touchAble = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = 2,
-								PositionY = 5,
+								PositionX = 4,
+								PositionY = 16,
 							},
-							width = "517",
+							width = "64",
 							components = 
 							{
 								
@@ -124,6 +123,7 @@ local t =
 									touchAble = "False",
 									UILayoutViewModel = 
 									{
+										PositionX = -1,
 										PositionY = -75,
 									},
 									width = "518",
@@ -166,15 +166,15 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "Transaction invitation",
+							text = "Trade Invitation",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -251,
+								PositionX = -170,
 								PositionY = 121,
 							},
-							width = "327",
+							width = "242",
 							ZOrder = "1",
 						},
 						{
@@ -189,10 +189,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "32",
+							height = "64",
 							ignoreSize = "True",
 							name = "btn_close",
-							normal = "ui/balloon/close_btn.png",
+							normal = "ui/activity/2021_spring/fireWorks/close.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -200,11 +200,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 234,
-								PositionY = 124,
+								PositionX = 268,
+								PositionY = 127,
 							},
 							UItype = "Button",
-							width = "35",
+							width = "62",
 							ZOrder = "1",
 						},
 						{
@@ -216,7 +216,7 @@ local t =
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
-							FontColor = "#FFFFFFFF",
+							FontColor = "#FF416385",
 							fontName = "font/fangzheng_zhunyuan.ttf",
 							fontShadow = 
 							{
@@ -226,7 +226,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "20",
+							fontSize = "26",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -242,12 +242,12 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "Full server releases:1000",
+							text = "Server Total Balloons Released: 1000",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionY = 31,
+								PositionY = 55,
 							},
 							width = "450",
 							ZOrder = "1",
@@ -264,10 +264,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "54",
+							height = "89",
 							ignoreSize = "True",
 							name = "btn_access",
-							normal = "ui/balloon/12.png",
+							normal = "ui/activity/2021_spring/010.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -276,10 +276,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -172,
-								PositionY = -121,
+								PositionY = -115,
 							},
 							UItype = "Button",
-							width = "124",
+							width = "164",
 							ZOrder = "1",
 							components = 
 							{
@@ -343,10 +343,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "54",
+							height = "89",
 							ignoreSize = "True",
 							name = "btn_refuse",
-							normal = "ui/balloon/13.png",
+							normal = "ui/activity/2021_spring/004.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -354,11 +354,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 176,
-								PositionY = -121,
+								PositionX = 180,
+								PositionY = -115,
 							},
 							UItype = "Button",
-							width = "124",
+							width = "164",
 							ZOrder = "1",
 							components = 
 							{
@@ -372,7 +372,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF737AC8",
+									FontColor = "#FF842540",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -422,7 +422,7 @@ local t =
 							classname = "MECheckBox",
 							clickType = "0",
 							dstBlendFunc = "771",
-							frontCrossTexture = "ui/balloon/08.png",
+							frontCrossTexture = "ui/activity/2021_spring/fireWorks/pop/010.png",
 							height = "32",
 							ignoreSize = "True",
 							name = "check_one",
@@ -437,8 +437,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = -39,
-								PositionY = -69,
+								PositionX = -40,
+								PositionY = -58,
 							},
 							width = "32",
 							ZOrder = "1",
@@ -476,19 +476,21 @@ local t =
 									name = "label_btn",
 									nTextAlign = "1",
 									nTextHAlign = "2",
+									scaleX = "0.8",
+									scaleY = "0.8",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "No longer accept invitations today",
+									text = "Don't accept any more invitations from the target again today",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										PositionX = -19,
+										PositionX = -22,
 										PositionY = -2,
 									},
-									width = "220",
+									width = "271",
 									ZOrder = "1",
 								},
 							},
@@ -505,7 +507,7 @@ local t =
 							classname = "MECheckBox",
 							clickType = "0",
 							dstBlendFunc = "771",
-							frontCrossTexture = "ui/balloon/08.png",
+							frontCrossTexture = "ui/activity/2021_spring/fireWorks/pop/010.png",
 							height = "32",
 							ignoreSize = "True",
 							name = "check_all",
@@ -520,8 +522,8 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 238,
-								PositionY = -69,
+								PositionX = 235,
+								PositionY = -58,
 							},
 							width = "32",
 							ZOrder = "1",
@@ -559,11 +561,13 @@ local t =
 									name = "label_btn",
 									nTextAlign = "1",
 									nTextHAlign = "2",
+									scaleX = "0.8",
+									scaleY = "0.8",
 									sizepercentx = "0",
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "No longer accept any invitations today",
+									text = "No invitations for me today",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
@@ -571,7 +575,7 @@ local t =
 										PositionX = -19,
 										PositionY = -2,
 									},
-									width = "245",
+									width = "271",
 									ZOrder = "1",
 								},
 							},
@@ -611,7 +615,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "1000   Server Total Balloons Released",
+							text = "Server Total Balloons Released: 1000",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -619,7 +623,7 @@ local t =
 								PositionX = 250,
 								PositionY = -21,
 							},
-							width = "297",
+							width = "293",
 							ZOrder = "1",
 						},
 					},
@@ -635,12 +639,11 @@ local t =
 	{
 		textures = 
 		{
-			"ui/balloon/21.png",
-			"ui/balloon/22.png",
+			"ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
 			"ui/balloon/07.png",
-			"ui/balloon/close_btn.png",
-			"ui/balloon/12.png",
-			"ui/balloon/13.png",
+			"ui/activity/2021_spring/fireWorks/close.png",
+			"ui/activity/2021_spring/010.png",
+			"ui/activity/2021_spring/004.png",
 			"ui/balloon/09.png",
 		},
 		armatures = 

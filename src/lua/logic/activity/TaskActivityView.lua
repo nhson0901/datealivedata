@@ -149,7 +149,8 @@ function TaskActivityView:updateActivity()
 
     -- @desc:谷丰让改的
     self.Label_date:setText(Utils:getActivityDateString(self.activityInfo_.startTime, self.activityInfo_.endTime, self.activityInfo_.extendData.dateStyle, true))
-
+    self.Label_date:show()
+    
     self.Image_ad:setTexture(self.activityInfo_.showIcon)
 
     if self.Panel_refresh then

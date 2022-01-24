@@ -5204,7 +5204,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 35,
+												PositionX = 47,
 											},
 											width = "72",
 											ZOrder = "1",
@@ -5621,7 +5621,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 40,
+												PositionX = 48,
 											},
 											width = "62",
 											ZOrder = "1",
@@ -6163,7 +6163,7 @@ local t =
 											touchScaleEnable = "False",
 											UILayoutViewModel = 
 											{
-												PositionX = 38,
+												PositionX = 42,
 												PositionY = -2,
 											},
 											vAlignment = "1",

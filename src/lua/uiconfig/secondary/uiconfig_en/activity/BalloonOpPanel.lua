@@ -54,25 +54,25 @@ local t =
 					backGroundScale9Enable = "False",
 					classname = "MEImage",
 					dstBlendFunc = "771",
-					height = "308",
+					height = "307",
 					ignoreSize = "True",
 					name = "img_bg",
 					sizepercentx = "0",
 					sizepercenty = "0",
 					sizeType = "0",
 					srcBlendFunc = "1",
-					texturePath = "ui/balloon/21.png",
+					texturePath = "ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
 					touchAble = "True",
 					UILayoutViewModel = 
 					{
-						PositionX = 510,
-						PositionY = 354,
+						PositionX = 480,
+						PositionY = 320,
 						relativeToName = "Panel",
 						nType = 3,
 						nGravity = 6,
 						nAlign = 5
 					},
-					width = "524",
+					width = "536",
 					ZOrder = "1",
 					components = 
 					{
@@ -100,6 +100,7 @@ local t =
 								PositionX = 2,
 								PositionY = 5,
 							},
+							visible = "False",
 							width = "517",
 						},
 						{
@@ -142,7 +143,7 @@ local t =
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
 							{
-								PositionX = -196,
+								PositionX = -134,
 								PositionY = 121,
 							},
 							width = "100",
@@ -191,10 +192,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "32",
+							height = "64",
 							ignoreSize = "True",
 							name = "btn_close",
-							normal = "ui/balloon/close_btn.png",
+							normal = "ui/activity/2021_spring/fireWorks/close.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -202,11 +203,11 @@ local t =
 							touchAble = "True",
 							UILayoutViewModel = 
 							{
-								PositionX = 234,
-								PositionY = 124,
+								PositionX = 268,
+								PositionY = 127,
 							},
 							UItype = "Button",
-							width = "35",
+							width = "62",
 							ZOrder = "1",
 						},
 						{
@@ -218,7 +219,7 @@ local t =
 							classname = "MELabel",
 							compPath = "luacomponents.common.MEIconLabel",
 							dstBlendFunc = "771",
-							FontColor = "#FFFFFFFF",
+							FontColor = "#FF416385",
 							fontName = "font/fangzheng_zhunyuan.ttf",
 							fontShadow = 
 							{
@@ -228,7 +229,7 @@ local t =
 								OffsetX = 0,
 								OffsetY = 0,
 							},
-							fontSize = "20",
+							fontSize = "26",
 							fontStroke = 
 							{
 								IsStroke = false,
@@ -244,7 +245,7 @@ local t =
 							sizepercenty = "0",
 							sizeType = "0",
 							srcBlendFunc = "770",
-							text = "Full server releases:1000",
+							text = "Server Total Balloons Released: 1000",
 							touchAble = "False",
 							touchScaleEnable = "False",
 							UILayoutViewModel = 
@@ -266,10 +267,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "54",
+							height = "89",
 							ignoreSize = "True",
 							name = "btn_sure",
-							normal = "ui/balloon/12.png",
+							normal = "ui/activity/2021_spring/010.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -278,10 +279,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = -172,
-								PositionY = -121,
+								PositionY = -116,
 							},
 							UItype = "Button",
-							width = "124",
+							width = "164",
 							ZOrder = "1",
 							components = 
 							{
@@ -326,7 +327,7 @@ local t =
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										
+										PositionY = -2,
 									},
 									width = "92",
 									ZOrder = "1",
@@ -345,10 +346,10 @@ local t =
 							dstBlendFunc = "771",
 							flipX = "False",
 							flipY = "False",
-							height = "54",
+							height = "89",
 							ignoreSize = "True",
 							name = "btn_cancel",
-							normal = "ui/balloon/13.png",
+							normal = "ui/activity/2021_spring/004.png",
 							sizepercentx = "0",
 							sizepercenty = "0",
 							sizeType = "0",
@@ -357,10 +358,10 @@ local t =
 							UILayoutViewModel = 
 							{
 								PositionX = 176,
-								PositionY = -121,
+								PositionY = -115,
 							},
 							UItype = "Button",
-							width = "124",
+							width = "164",
 							ZOrder = "1",
 							components = 
 							{
@@ -374,7 +375,7 @@ local t =
 									classname = "MELabel",
 									compPath = "luacomponents.common.MEIconLabel",
 									dstBlendFunc = "771",
-									FontColor = "#FF737AC8",
+									FontColor = "#FF842540",
 									fontName = "font/fangzheng_zhunyuan.ttf",
 									fontShadow = 
 									{
@@ -384,15 +385,15 @@ local t =
 										OffsetX = 0,
 										OffsetY = 0,
 									},
-									fontSize = "22",
+									fontSize = "26",
 									fontStroke = 
 									{
 										IsStroke = false,
 										StrokeColor = "#FFE6E6E6",
 										StrokeSize = 1,
 									},
-									height = "0",
-									ignoreSize = "False",
+									height = "30",
+									ignoreSize = "True",
 									name = "btn_label",
 									nTextAlign = "1",
 									nTextHAlign = "1",
@@ -400,14 +401,14 @@ local t =
 									sizepercenty = "0",
 									sizeType = "0",
 									srcBlendFunc = "770",
-									text = "Cancel close",
+									text = "Cancel",
 									touchAble = "False",
 									touchScaleEnable = "False",
 									UILayoutViewModel = 
 									{
-										
+										PositionY = -2,
 									},
-									width = "111",
+									width = "74",
 									ZOrder = "1",
 								},
 							},
@@ -425,12 +426,12 @@ local t =
 	{
 		textures = 
 		{
-			"ui/balloon/21.png",
+			"ui/activity/2021_spring/fireWorks/pop/pop_mini.png",
 			"ui/balloon/22.png",
 			"ui/activity/2021_spring/007.png",
-			"ui/balloon/close_btn.png",
-			"ui/balloon/12.png",
-			"ui/balloon/13.png",
+			"ui/activity/2021_spring/fireWorks/close.png",
+			"ui/activity/2021_spring/010.png",
+			"ui/activity/2021_spring/004.png",
 		},
 		armatures = 
 		{

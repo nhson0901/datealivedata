@@ -8069,4 +8069,54 @@ return {
         res = "ui/activity/znq_yly/mainUi/017.png",
         res_en = "ui/activity/znq_yly/mainUi/017_zh.png",
     },
+    [1615] = {
+        id = 1615,
+        res = "ui/activity/znq_yly/help/001.png",
+        res_en = "ui/activity/znq_yly/help/001_zh.png",
+    },
+    [1616] = {
+        id = 1616,
+        res = "ui/activity/znq_yly/help/002.png",
+        res_en = "ui/activity/znq_yly/help/002_zh.png",
+    },
+    [1617] = {
+        id = 1617,
+        res = "ui/activity/znq_yly/help/003.png",
+        res_en = "ui/activity/znq_yly/help/003_zh.png",
+    },
+    [1618] = {
+        id = 1618,
+        res = "ui/activity/znq_yly/help/004.png",
+        res_en = "ui/activity/znq_yly/help/004_zh.png",
+    },
+    [1619] = {
+        id = 1619,
+        res = "ui/activity/znq_yly/help/005.png",
+        res_en = "ui/activity/znq_yly/help/005_zh.png",
+    },
+    [1620] = {
+        id = 1620,
+        res = "ui/activity/znq_yly/help/006.png",
+        res_en = "ui/activity/znq_yly/help/006_zh.png",
+    },
+    [1621] = {
+        id = 1621,
+        res = "ui/mainLayer/001.png",
+        res_en = "ui/mainLayer/001_zh.png",
+    },
+    [1622] = {
+        id = 1622,
+        res = "ui/activity/newyear_2021/nianshou/005.png",
+        res_en = "ui/activity/newyear_2021/nianshou/005_zh.png",
+    },
+    [1623] = {
+        id = 1623,
+        res = "ui/activity/newyear_2021/nianshou/011.png",
+        res_en = "ui/activity/newyear_2021/nianshou/011_zh.png",
+    },
+    [1624] = {
+        id = 1624,
+        res = "ui/activity/newyear_2021/nianshou/012.png",
+        res_en = "ui/activity/newyear_2021/nianshou/012_zh.png",
+    },
 }

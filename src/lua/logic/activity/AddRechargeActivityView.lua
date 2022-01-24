@@ -4,7 +4,7 @@ function AddRechargeActivityView:ctor(...)
     self.super.ctor(self)
     self:initData(...)
     local uiName = self.activityInfo_.extendData.uiName or "addRechargeActivityView"
-    dump(self.activityInfo_,"==========================")
+    dump(uiName,"==========================")
     self:init("lua.uiconfig.activity."..uiName)
 end
 

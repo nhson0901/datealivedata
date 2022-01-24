@@ -1,6 +1,6 @@
 local t = 
 {
-	version = 1,
+	version = 2,
 	components = 
 	{
 		
@@ -2168,7 +2168,7 @@ local t =
 												PositionY = -141,
 											},
 											UItype = "Button",
-											width = "108",
+											width = "127",
 											ZOrder = "1",
 											components = 
 											{
@@ -2239,7 +2239,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -27,
+														PositionX = -42,
 														PositionY = -2,
 													},
 													width = "30",
@@ -2273,7 +2273,7 @@ local t =
 												PositionY = -201,
 											},
 											UItype = "Button",
-											width = "108",
+											width = "127",
 											ZOrder = "1",
 											components = 
 											{
@@ -2343,7 +2343,7 @@ local t =
 													touchAble = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = -26,
+														PositionX = -42,
 														PositionY = -1,
 													},
 													width = "30",
@@ -2357,7 +2357,7 @@ local t =
 											anchorPoint = "False",
 											anchorPointX = "0.5",
 											anchorPointY = "0.5",
-											backGroundScale9Enable = "False",
+											backGroundScale9Enable = "True;capInsetsX:0;capInsetsY:0;capInsetsWidth:0;capInsetsHeight:0",
 											classname = "MEButton",
 											ClickHighLightEnabled = "True",
 											dstBlendFunc = "771",
@@ -2377,7 +2377,7 @@ local t =
 												PositionY = -261,
 											},
 											UItype = "Button",
-											width = "108",
+											width = "127",
 											ZOrder = "1",
 											components = 
 											{
@@ -2401,14 +2401,14 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "22",
+													fontSize = "19",
 													fontStroke = 
 													{
 														IsStroke = false,
 														StrokeColor = "#FFE6E6E6",
 														StrokeSize = 1,
 													},
-													height = "25",
+													height = "22",
 													ignoreSize = "True",
 													name = "Label_medal",
 													nTextAlign = "1",
@@ -2417,14 +2417,14 @@ local t =
 													sizepercenty = "0",
 													sizeType = "0",
 													srcBlendFunc = "770",
-													text = "交换",
+													text = "Exchange",
 													touchAble = "False",
 													touchScaleEnable = "False",
 													UILayoutViewModel = 
 													{
-														PositionX = 17,
+														PositionX = 19,
 													},
-													width = "47",
+													width = "76",
 													ZOrder = "1",
 												},
 											},
@@ -3306,6 +3306,7 @@ local t =
 						Layout="Relative",
 						nType = "3"
 					},
+					visible = "False",
 					width = "1136",
 					ZOrder = "999",
 					components = 

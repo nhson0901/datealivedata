@@ -625,8 +625,8 @@ local t =
 												StrokeColor = "#FFE6E6E6",
 												StrokeSize = 1,
 											},
-											height = "30",
-											ignoreSize = "True",
+											height = "0",
+											ignoreSize = "False",
 											name = "labNotComplete",
 											nTextAlign = "1",
 											nTextHAlign = "1",
@@ -641,7 +641,7 @@ local t =
 											{
 												
 											},
-											width = "168",
+											width = "164",
 											ZOrder = "1",
 										},
 									},
