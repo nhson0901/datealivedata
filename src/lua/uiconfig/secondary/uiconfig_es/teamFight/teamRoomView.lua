@@ -636,7 +636,7 @@ local t =
 														OffsetX = 0,
 														OffsetY = 0,
 													},
-													fontSize = "26",
+													fontSize = "24",
 													fontStroke = 
 													{
 														IsStroke = false,
